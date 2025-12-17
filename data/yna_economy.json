@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1765968923,
+  "updated_at_unix": 1765971248,
   "items": [
+    {
+      "title": "괴산·천안 산란계 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251217166200030",
+      "pubDate": "Wed, 17 Dec 2025 20:00:37 +0900"
+    },
     {
       "title": "캐즘에 날아간 9.6조 계약…포드발 악재에 K-배터리 '비상'",
       "link": "https://www.yna.co.kr/view/AKR20251217165100003",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 대체로 상승…3년물 연 2.996%",
       "link": "https://www.yna.co.kr/view/AKR20251217139900008",
       "pubDate": "Wed, 17 Dec 2025 16:52:44 +0900"
-    },
-    {
-      "title": "새마을금고중앙회장 김인 회장 연임…득표율 78.9%",
-      "link": "https://www.yna.co.kr/view/AKR20251217137900002",
-      "pubDate": "Wed, 17 Dec 2025 16:43:19 +0900"
     }
   ]
 }
