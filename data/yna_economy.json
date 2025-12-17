@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766011276,
+  "updated_at_unix": 1766014442,
   "items": [
+    {
+      "title": "SK증권 \"LG유플러스, 주주환원 강화로 확장 국면…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218023400008",
+      "pubDate": "Thu, 18 Dec 2025 08:28:55 +0900"
+    },
+    {
+      "title": "삼성증권, LG엔솔 목표가↓…\"유럽 가동률 개선 지연 불가피\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218021600008",
+      "pubDate": "Thu, 18 Dec 2025 08:19:24 +0900"
+    },
+    {
+      "title": "대상, 독일 의약용 아미노산 기업 인수…'의약 바이오'로 확장",
+      "link": "https://www.yna.co.kr/view/AKR20251218021500030",
+      "pubDate": "Thu, 18 Dec 2025 08:17:24 +0900"
+    },
+    {
+      "title": "대웅 아이엔테라퓨틱스, 7천500억원 비마약성 진통제 기술 수출",
+      "link": "https://www.yna.co.kr/view/AKR20251218020700017",
+      "pubDate": "Thu, 18 Dec 2025 08:06:54 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 오라클발 악재에 하방 압력 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20251218019300008",
+      "pubDate": "Thu, 18 Dec 2025 08:03:54 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시, 국토부 건축 행정평가 최우수 지자체",
+      "link": "https://www.yna.co.kr/view/AKR20251218018600051",
+      "pubDate": "Thu, 18 Dec 2025 07:51:17 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251218015500011",
@@ -44,13 +74,13 @@
       "pubDate": "Thu, 18 Dec 2025 06:00:02 +0900"
     },
     {
-      "title": "건설공사 하도급 근로자 임금 지급 빨라진다",
-      "link": "https://www.yna.co.kr/view/AKR20251217159400003",
+      "title": "모듈러 특별법 제정 본격 추진…오늘 국회서 공청회",
+      "link": "https://www.yna.co.kr/view/AKR20251217169700003",
       "pubDate": "Thu, 18 Dec 2025 06:00:01 +0900"
     },
     {
-      "title": "모듈러 특별법 제정 본격 추진…오늘 국회서 공청회",
-      "link": "https://www.yna.co.kr/view/AKR20251217169700003",
+      "title": "건설공사 하도급 근로자 임금 지급 빨라진다",
+      "link": "https://www.yna.co.kr/view/AKR20251217159400003",
       "pubDate": "Thu, 18 Dec 2025 06:00:01 +0900"
     },
     {
@@ -122,36 +152,6 @@
       "title": "울주군 \"고려아연, 대미 투자로 국내 투자·고용 영향 없어야\"",
       "link": "https://www.yna.co.kr/view/AKR20251217149400057",
       "pubDate": "Wed, 17 Dec 2025 18:00:51 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20251217153300011",
-      "pubDate": "Wed, 17 Dec 2025 18:00:00 +0900"
-    },
-    {
-      "title": "속수무책 환율…수급 불균형에 강달러 겹쳐 1,480원대 찍어",
-      "link": "https://www.yna.co.kr/view/AKR20251217147300002",
-      "pubDate": "Wed, 17 Dec 2025 17:53:11 +0900"
-    },
-    {
-      "title": "국고채 금리, 환율 상승 영향에 대체로 상승…3년물 연 2.996%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251217139951008",
-      "pubDate": "Wed, 17 Dec 2025 17:42:31 +0900"
-    },
-    {
-      "title": "인천세관 직원 \"백해룡이 개인정보 유출\" 인권위에 진정",
-      "link": "https://www.yna.co.kr/view/AKR20251217147400004",
-      "pubDate": "Wed, 17 Dec 2025 17:40:02 +0900"
-    },
-    {
-      "title": "정부 \"9급 공무원 채용시험에 PSAT…2027년 이후 구체안 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20251217151400001",
-      "pubDate": "Wed, 17 Dec 2025 17:40:00 +0900"
-    },
-    {
-      "title": "롯데건설, 연탄은행에 연탄 8만장·라면 2천박스 기부",
-      "link": "https://www.yna.co.kr/view/AKR20251217152300003",
-      "pubDate": "Wed, 17 Dec 2025 17:34:33 +0900"
     }
   ]
 }
