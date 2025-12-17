@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1765993632,
+  "updated_at_unix": 1765997886,
   "items": [
+    {
+      "title": "달러-원, 국민연금-한은 외환 스와프 가동에 하방 압력…1,474.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251218003800002",
+      "pubDate": "Thu, 18 Dec 2025 02:56:52 +0900"
+    },
     {
       "title": "괴산·천안 산란계 농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251217166200030",
@@ -147,11 +152,6 @@
       "title": "[특징주] '첫 상업발사' 앞둔 이노스페이스 3% 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251217052251008",
       "pubDate": "Wed, 17 Dec 2025 17:00:49 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 2.996%",
-      "link": "https://www.yna.co.kr/view/AKR20251217139900008",
-      "pubDate": "Wed, 17 Dec 2025 16:52:44 +0900"
     }
   ]
 }
