@@ -1,0 +1,91 @@
+<style>
+  /* 전체 기본 설정 */
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                 Roboto, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  }
+
+  /* 전체 컨테이너 */
+  .container {
+    width: 100%;
+    min-height: 260px;          /* ⭐ 세로 크게 */
+    padding: 24px 28px;
+    box-sizing: border-box;
+  }
+
+  /* 상단 제목 */
+  .title {
+    font-size: 18px;            /* 제목 키움 */
+    font-weight: 700;
+    margin-bottom: 18px;
+  }
+
+  /* 점수 영역 */
+  .score-box {
+    width: 88px;
+    height: 88px;               /* ⭐ 점수 박스 크게 */
+    border-radius: 12px;
+    font-size: 30px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .score-label {
+    font-size: 13px;
+    margin-top: 6px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  /* 히트바 영역 */
+  .bar-wrapper {
+    margin-left: 24px;
+    flex: 1;
+  }
+
+  .bar {
+    position: relative;
+    height: 22px;               /* ⭐ 핵심: y축(바 두께) */
+    border-radius: 11px;
+    background: linear-gradient(
+      to right,
+      #d32f2f,
+      #f57c00,
+      #fbc02d,
+      #4caf50
+    );
+  }
+
+  /* 현재 위치 포인터 */
+  .indicator {
+    position: absolute;
+    top: -6px;                  /* 바가 두꺼워져서 위치 조정 */
+    width: 14px;
+    height: 34px;
+    background: #111;
+    border-radius: 6px;
+    transform: translateX(-50%);
+  }
+
+  /* 기준 숫자 (0 / 50 / 100) */
+  .scale {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 10px;
+    color: #666;
+  }
+
+  /* 설명 문구 */
+  .description {
+    margin-top: 16px;
+    font-size: 13px;
+    color: #555;
+    line-height: 1.5;
+  }
+</style>
