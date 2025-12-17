@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766007417,
+  "updated_at_unix": 1766011276,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251218015500011",
+      "pubDate": "Thu, 18 Dec 2025 07:30:03 +0900"
+    },
+    {
+      "title": "배경훈 \"AI 혁신으로 韓 잠재성장률 3% 달성 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20251217118400003",
+      "pubDate": "Thu, 18 Dec 2025 07:30:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 알고보면⑿ 운명을 가르는 보석",
+      "link": "https://www.yna.co.kr/view/AKR20251210079200898",
+      "pubDate": "Thu, 18 Dec 2025 07:00:05 +0900"
+    },
     {
       "title": "소버린 AI 인프라 경쟁…통신사 존재감 커진다",
       "link": "https://www.yna.co.kr/view/AKR20251217115100017",
@@ -137,21 +152,6 @@
       "title": "롯데건설, 연탄은행에 연탄 8만장·라면 2천박스 기부",
       "link": "https://www.yna.co.kr/view/AKR20251217152300003",
       "pubDate": "Wed, 17 Dec 2025 17:34:33 +0900"
-    },
-    {
-      "title": "새마을금고중앙회장 김인 회장 연임…\"신뢰받는 금고 만들것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251217137951002",
-      "pubDate": "Wed, 17 Dec 2025 17:32:32 +0900"
-    },
-    {
-      "title": "대전 대덕구-대덕산단공단, 신탄진∼인천공항버스 활성화 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20251217149800063",
-      "pubDate": "Wed, 17 Dec 2025 17:31:35 +0900"
-    },
-    {
-      "title": "\"서산은 안 된다며 당진에 1천100세대?\"…서산시의원들, LH 성토",
-      "link": "https://www.yna.co.kr/view/AKR20251217151100063",
-      "pubDate": "Wed, 17 Dec 2025 17:29:43 +0900"
     }
   ]
 }
