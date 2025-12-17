@@ -3,29 +3,70 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Bitcoin Google Trends (2004~Now)</title>
+  <title>Google Trends - bitcoin</title>
+
   <style>
     :root{
       --bg: transparent;
       --card: rgba(255,255,255,0.95);
       --text: #111;
-      --muted: #666;
+      --muted: #555;
       --border: rgba(0,0,0,0.08);
-      --line: #1a73e8; /* 구글 트렌드 느낌의 블루 */
-      --grid: rgba(0,0,0,0.06);
     }
-    html, body { margin:0; padding:0; background:var(--bg); font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", Arial, sans-serif; }
-    .wrap { width:100%; padding:12px; box-sizing:border-box; }
-    .card { background:var(--card); border:1px solid var(--border); border-radius:14px; padding:14px; box-sizing:border-box; }
-    .top { display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-bottom:10px; }
-    .title { font-size:14px; font-weight:700; color:var(--text); }
-    .meta { font-size:12px; color:var(--muted); white-space:nowrap; }
-    .chartBox { width:100%; }
-    /* “y축 키우기” = 차트 높이만 키우면 됨 */
-    canvas { width:100%; height:260px; display:block; }
-    .hint { margin-top:10px; font-size:12px; color:var(--muted); line-height:1.45; }
-    .err { margin-top:10px; font-size:12px; color:#b00020; line-height:1.45; display:none; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", Arial, sans-serif;
+    }
+
+    .wrap { width: 100%; padding: 12px; box-sizing: border-box; }
+
+    .card{
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px 14px 12px 14px;
+      box-sizing: border-box;
+    }
+
+    .top{
+      display:flex;
+      align-items:baseline;
+      justify-content:space-between;
+      gap:12px;
+      margin-bottom:10px;
+    }
+
+    .title{ font-size:14px; font-weight:700; color:var(--text); }
+    .updated{ font-size:12px; color:var(--muted); white-space:nowrap; }
+
+    /* ✅ 핵심: 차트 높이를 키워서 “y축이 커 보이게” */
+    .chartBox{
+      height: 420px;   /* ← 여기 숫자만 더 키우면 더 커짐 (예: 520px) */
+      width: 100%;
+      position: relative;
+    }
+
+    .note{
+      margin-top:10px;
+      font-size:12px;
+      color:var(--muted);
+      line-height:1.45;
+    }
+
+    .err{
+      margin-top:10px;
+      font-size:12px;
+      color:#b00020;
+      line-height:1.45;
+      display:none;
+    }
   </style>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
 
 <body>
@@ -33,14 +74,14 @@
     <div class="card">
       <div class="top">
         <div class="title">Google Trends 관심도: bitcoin (전세계, 2004~현재)</div>
-        <div class="meta" id="meta">불러오는 중…</div>
+        <div class="updated" id="updated">불러오는 중…</div>
       </div>
 
       <div class="chartBox">
-        <canvas id="c" width="1200" height="520"></canvas>
+        <canvas id="trendChart"></canvas>
       </div>
 
-      <div class="hint">
+      <div class="note">
         0~100은 “절대 검색량”이 아니라, 기간 내 상대적 관심도입니다. (100 = 해당 기간 최고 관심도)
       </div>
 
@@ -49,108 +90,122 @@
   </div>
 
   <script>
-    // GitHub Pages 경로 기준: /crypto-widgets/data/bitcoin_trends.json
+    // ✅ fetch_trends.py가 생성/업데이트하는 파일 경로
     const DATA_URL = "./data/bitcoin_trends.json";
 
-    function fmtKST(utcText){
-      // fetch_trends.py에서 updated_at이 "YYYY-MM-DD HH:MM:SS UTC" 형태면 단순 표기용으로만 사용
-      return utcText ? utcText.replace(" UTC", "") : "";
-    }
+    // y축을 “더 크게 보이게” 만드는 방법은 2개가 있음:
+    // 1) 차트 높이를 키운다 (이미 CSS로 처리)  ← 가장 중요
+    // 2) 상단 여백(최대값)을 조금 늘린다 (아래에서 maxAuto로 처리)
 
-    function drawLineChart(canvas, points){
-      const ctx = canvas.getContext("2d");
-      const W = canvas.width, H = canvas.height;
-
-      // padding (좌/우/상/하)
-      const padL = 56, padR = 16, padT = 18, padB = 38;
-      const innerW = W - padL - padR;
-      const innerH = H - padT - padB;
-
-      // 값 범위
-      const ys = points.map(p => p.value);
-      const minY = 0;
-      const maxY = 100;
-
-      // x는 0~N-1 인덱스로 단순화
-      const n = points.length;
-      const xAt = (i) => padL + (n === 1 ? 0 : (i/(n-1))*innerW);
-      const yAt = (v) => padT + (1 - (v - minY)/(maxY - minY)) * innerH;
-
-      // clear
-      ctx.clearRect(0,0,W,H);
-
-      // grid (가로선 0/25/50/75/100)
-      ctx.lineWidth = 1;
-      ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--grid').trim() || "rgba(0,0,0,0.06)";
-      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue('--muted').trim() || "#666";
-      ctx.font = "12px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans KR,Arial,sans-serif";
-
-      const ticks = [0,25,50,75,100];
-      ticks.forEach(t => {
-        const y = yAt(t);
-        ctx.beginPath();
-        ctx.moveTo(padL, y);
-        ctx.lineTo(W - padR, y);
-        ctx.stroke();
-        // y 라벨
-        ctx.fillText(String(t), 10, y + 4);
-      });
-
-      // x축(아래) 라벨: 시작/중간/끝 날짜만
-      const start = points[0]?.date || "";
-      const mid = points[Math.floor((n-1)/2)]?.date || "";
-      const end = points[n-1]?.date || "";
-
-      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue('--muted').trim() || "#666";
-      ctx.fillText(start, padL, H - 12);
-      ctx.fillText(mid, padL + innerW/2 - ctx.measureText(mid).width/2, H - 12);
-      ctx.fillText(end, padL + innerW - ctx.measureText(end).width, H - 12);
-
-      // line
-      ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--line').trim() || "#1a73e8";
-      ctx.lineWidth = 2;
-      ctx.lineJoin = "round";
-      ctx.lineCap = "round";
-
-      ctx.beginPath();
-      points.forEach((p, i) => {
-        const x = xAt(i);
-        const y = yAt(p.value);
-        if(i === 0) ctx.moveTo(x,y);
-        else ctx.lineTo(x,y);
-      });
-      ctx.stroke();
-    }
-
-    async function main(){
-      const metaEl = document.getElementById("meta");
-      const errEl = document.getElementById("err");
-      const canvas = document.getElementById("c");
-
-      try{
-        errEl.style.display = "none";
-        metaEl.textContent = "불러오는 중…";
-
-        const res = await fetch(DATA_URL, { cache: "no-store" });
-        if(!res.ok) throw new Error(`데이터 파일을 못 불러옴: ${res.status}`);
-
-        const json = await res.json();
-        const points = Array.isArray(json?.points) ? json.points : [];
-        if(points.length < 2) throw new Error("points 데이터가 비어있거나 너무 적습니다.");
-
-        // points: [{date:"YYYY-MM-DD", value:0~100}, ...]
-        drawLineChart(canvas, points);
-
-        const updated = fmtKST(json?.updated_at || "");
-        metaEl.textContent = updated ? `업데이트: ${updated}` : "업데이트: 확인됨";
-      }catch(e){
-        errEl.style.display = "block";
-        errEl.textContent = `표시 실패: ${e?.message || e}`;
-        metaEl.textContent = "업데이트: 실패";
+    function fmtKST(isoOrUtc) {
+      // json의 updated_at이 UTC 문자열일 수 있어 그대로 표시만 예쁘게
+      try {
+        const d = new Date(isoOrUtc);
+        if (isNaN(d.getTime())) return "";
+        const yyyy = d.getFullYear();
+        const mm = String(d.getMonth()+1).padStart(2,"0");
+        const dd = String(d.getDate()).padStart(2,"0");
+        const hh = String(d.getHours()).padStart(2,"0");
+        const mi = String(d.getMinutes()).padStart(2,"0");
+        const ss = String(d.getSeconds()).padStart(2,"0");
+        return `${yyyy}-${mm}-${dd} ${hh}:${mi}:${ss}`;
+      } catch {
+        return "";
       }
     }
 
-    main();
+    let chart;
+
+    async function loadTrends(){
+      const updatedEl = document.getElementById("updated");
+      const errEl = document.getElementById("err");
+
+      try{
+        errEl.style.display = "none";
+        updatedEl.textContent = "불러오는 중…";
+
+        const res = await fetch(DATA_URL, { cache: "no-store" });
+        if(!res.ok) throw new Error(`데이터 파일을 불러오지 못했습니다. (${res.status})`);
+
+        const json = await res.json();
+        const points = json?.points || [];
+        if(!Array.isArray(points) || points.length === 0) throw new Error("데이터가 비어 있습니다.");
+
+        const labels = points.map(p => p.date);
+        const values = points.map(p => Number(p.value));
+
+        // ✅ 상단 여백(최대값) 자동 계산: 최고값 + 10~20 정도
+        const maxVal = Math.max(...values.filter(v => Number.isFinite(v)), 0);
+        const maxAuto = Math.min(140, Math.max(110, Math.ceil((maxVal + 15) / 10) * 10));
+        // - 기본적으로 0~100인데, 화면을 넉넉하게 쓰고 싶어서 상단 여유를 줌
+        // - 너무 과하게 늘어나지 않게 140으로 상한
+
+        const ctx = document.getElementById("trendChart").getContext("2d");
+
+        const config = {
+          type: "line",
+          data: {
+            labels,
+            datasets: [{
+              label: "관심도(0~100)",
+              data: values,
+              borderWidth: 2,
+              pointRadius: 0,
+              tension: 0.2
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false, // ✅ 핵심: height가 실제로 적용되게 함
+            plugins: {
+              legend: { display: false },
+              tooltip: {
+                callbacks: {
+                  label: (ctx) => ` 관심도: ${ctx.parsed.y}`
+                }
+              }
+            },
+            scales: {
+              x: {
+                ticks: {
+                  maxRotation: 0,
+                  autoSkip: true,
+                  maxTicksLimit: 6
+                },
+                grid: { display: false }
+              },
+              y: {
+                min: 0,
+                max: maxAuto,   // ✅ 상단 여백 반영
+                ticks: {
+                  stepSize: 20
+                },
+                grid: {
+                  color: "rgba(0,0,0,0.06)"
+                }
+              }
+            }
+          }
+        };
+
+        if(chart){
+          chart.destroy();
+        }
+        chart = new Chart(ctx, config);
+
+        const updatedText = fmtKST(json?.updated_at) || "";
+        updatedEl.textContent = updatedText ? `업데이트: ${updatedText}` : "업데이트: 확인됨";
+
+      } catch(e){
+        errEl.style.display = "block";
+        errEl.textContent = `표시 오류: ${e?.message || e}`;
+        updatedEl.textContent = "업데이트: 실패";
+      }
+    }
+
+    loadTrends();
+    // 10분마다 갱신
+    setInterval(loadTrends, 10 * 60 * 1000);
   </script>
 </body>
 </html>
