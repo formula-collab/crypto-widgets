@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1765967092,
+  "updated_at_unix": 1765968923,
   "items": [
+    {
+      "title": "캐즘에 날아간 9.6조 계약…포드발 악재에 K-배터리 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20251217165100003",
+      "pubDate": "Wed, 17 Dec 2025 19:37:59 +0900"
+    },
+    {
+      "title": "최중경 전 장관, 국제회계기준 재단 이사회 이사 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251217163400002",
+      "pubDate": "Wed, 17 Dec 2025 19:33:17 +0900"
+    },
     {
       "title": "작년 육아휴직자 역대 최대…아빠 급증해 6만명 돌파(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251217069751002",
@@ -142,16 +152,6 @@
       "title": "새마을금고중앙회장 김인 회장 연임…득표율 78.9%",
       "link": "https://www.yna.co.kr/view/AKR20251217137900002",
       "pubDate": "Wed, 17 Dec 2025 16:43:19 +0900"
-    },
-    {
-      "title": "군포역세권에 'AI 데이터센터' 들어선다…시-SK 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251216097800061",
-      "pubDate": "Wed, 17 Dec 2025 16:31:34 +0900"
-    },
-    {
-      "title": "강남구, 2025 자활사업 성과보고회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251217134900004",
-      "pubDate": "Wed, 17 Dec 2025 16:21:35 +0900"
     }
   ]
 }
