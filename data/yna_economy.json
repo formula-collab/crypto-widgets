@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766004216,
+  "updated_at_unix": 1766007417,
   "items": [
+    {
+      "title": "소버린 AI 인프라 경쟁…통신사 존재감 커진다",
+      "link": "https://www.yna.co.kr/view/AKR20251217115100017",
+      "pubDate": "Thu, 18 Dec 2025 06:13:00 +0900"
+    },
+    {
+      "title": "\"수출 유망 소비재 한곳에\"…중기부, K브랜드 위크 개최",
+      "link": "https://www.yna.co.kr/view/AKR20251217143700030",
+      "pubDate": "Thu, 18 Dec 2025 06:00:05 +0900"
+    },
+    {
+      "title": "\"종신보험, 저축·연금 상품 아냐\"…금감원, 민원 유의사항 안내",
+      "link": "https://www.yna.co.kr/view/AKR20251217146700002",
+      "pubDate": "Thu, 18 Dec 2025 06:00:04 +0900"
+    },
+    {
+      "title": "노원 상계·중계·하계동 재정비안 고시…\"자족도시 전환 시동\"",
+      "link": "https://www.yna.co.kr/view/AKR20251217149200004",
+      "pubDate": "Thu, 18 Dec 2025 06:00:03 +0900"
+    },
+    {
+      "title": "삼성동 한국감정원 부지, 38층 비즈니스 거점으로 재탄생",
+      "link": "https://www.yna.co.kr/view/AKR20251217153000004",
+      "pubDate": "Thu, 18 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "건설공사 하도급 근로자 임금 지급 빨라진다",
+      "link": "https://www.yna.co.kr/view/AKR20251217159400003",
+      "pubDate": "Thu, 18 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "모듈러 특별법 제정 본격 추진…오늘 국회서 공청회",
+      "link": "https://www.yna.co.kr/view/AKR20251217169700003",
+      "pubDate": "Thu, 18 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "서울대생 집단지성도 빗나간 환율 예측…\"석달 전 1,402원 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20251217158700002",
+      "pubDate": "Thu, 18 Dec 2025 05:55:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 美 베네수 유조선 봉쇄령에 5일만에 상승…WTI, 1.2%↑",
       "link": "https://www.yna.co.kr/view/AKR20251218005100009",
@@ -112,46 +152,6 @@
       "title": "\"서산은 안 된다며 당진에 1천100세대?\"…서산시의원들, LH 성토",
       "link": "https://www.yna.co.kr/view/AKR20251217151100063",
       "pubDate": "Wed, 17 Dec 2025 17:29:43 +0900"
-    },
-    {
-      "title": "내년 태안 국제원예치유박람회에 어린이 직업체험 프로그램 도입",
-      "link": "https://www.yna.co.kr/view/AKR20251217142800063",
-      "pubDate": "Wed, 17 Dec 2025 17:18:30 +0900"
-    },
-    {
-      "title": "메모리 가격 쇼크…내년 스마트폰 출하 전망 꺾였다",
-      "link": "https://www.yna.co.kr/view/AKR20251217146500017",
-      "pubDate": "Wed, 17 Dec 2025 17:14:39 +0900"
-    },
-    {
-      "title": "국토장관 \"전세사기 구제 최소보장 비율 50% 되도록 노력\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251217086151003",
-      "pubDate": "Wed, 17 Dec 2025 17:14:34 +0900"
-    },
-    {
-      "title": "52만 명 방문한 강릉커피축제…지역경제 파급효과 970억원",
-      "link": "https://www.yna.co.kr/view/AKR20251217145500062",
-      "pubDate": "Wed, 17 Dec 2025 17:12:50 +0900"
-    },
-    {
-      "title": "과기부총리 \"쿠팡 유출 확인 링크, 행정지도로 시행\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251217121651017",
-      "pubDate": "Wed, 17 Dec 2025 17:11:53 +0900"
-    },
-    {
-      "title": "마산경제살리기 추진위, 마산지역 '인구감소지역' 지정 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20251217147100052",
-      "pubDate": "Wed, 17 Dec 2025 17:11:47 +0900"
-    },
-    {
-      "title": "엘에스엠앤엠, 인니 비철금속 제조업체 주식 2천653억원에 취득",
-      "link": "https://www.yna.co.kr/view/AKR20251217145700008",
-      "pubDate": "Wed, 17 Dec 2025 17:07:55 +0900"
-    },
-    {
-      "title": "[특징주] 李대통령 '인허가 특혜' 언급에 카지노주 동반급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251217046351008",
-      "pubDate": "Wed, 17 Dec 2025 17:01:34 +0900"
     }
   ]
 }
