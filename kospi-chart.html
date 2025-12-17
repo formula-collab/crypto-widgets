@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>KOSPI200 1일봉</title>
+  <title>KODEX 200 1일봉</title>
 
   <style>
     html, body {
@@ -32,16 +32,16 @@
       font-size: 14px;
       font-weight: 800;
       color: #111;
-      margin: 2px 2px 10px 2px;
+      margin-bottom: 10px;
     }
 
-    .chart-wrap {
+    .chart {
       width: 100%;
       height: 520px;
     }
 
     @media (max-width: 480px) {
-      .chart-wrap {
+      .chart {
         height: 460px;
       }
     }
@@ -51,31 +51,15 @@
 <body>
   <div class="wrap">
     <div class="card">
-      <div class="title">코스피200 (KOSPI200) 1일봉</div>
+      <div class="title">코스피200 추종 ETF · KODEX 200 (일봉)</div>
 
-      <!-- TradingView Widget BEGIN -->
-      <div class="chart-wrap" id="tradingview_kospi200"></div>
-
-      <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-      <script type="text/javascript">
-        new TradingView.widget({
-          "width": "100%",
-          "height": "100%",
-          "symbol": "KRX:KOSPI200",
-          "interval": "D",
-          "timezone": "Asia/Seoul",
-          "theme": "light",
-          "style": "1",
-          "locale": "kr",
-          "toolbar_bg": "#f1f3f6",
-          "enable_publishing": false,
-          "hide_side_toolbar": false,
-          "allow_symbol_change": false,
-          "container_id": "tradingview_kospi200"
-        });
-      </script>
-      <!-- TradingView Widget END -->
-
+      <iframe
+        class="chart"
+        frameborder="0"
+        allowtransparency="true"
+        scrolling="no"
+        src="https://s.tradingview.com/widgetembed/?symbol=KRX%3A069500&interval=D&theme=light&style=1&timezone=Asia%2FSeoul&locale=kr"
+      ></iframe>
     </div>
   </div>
 </body>
