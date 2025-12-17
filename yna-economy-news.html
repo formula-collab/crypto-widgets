@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>연합뉴스 경제 속보</title>
+  <title>연합뉴스 경제 뉴스</title>
 
   <style>
     :root{
@@ -14,7 +14,6 @@
       --border: rgba(0,0,0,0.08);
       --divider: rgba(0,0,0,0.06);
       --link: #111;
-      --badge: #e53935;
     }
 
     html, body{
@@ -34,7 +33,6 @@
       border: 1px solid var(--border);
       border-radius: 14px;
       padding: 14px;
-      box-sizing: border-box;
     }
 
     .top{
@@ -58,7 +56,7 @@
     }
 
     .list{
-      max-height: 420px;           /* 필요하면 더 키워도 됨 */
+      max-height:420px;
       overflow:auto;
       padding-right:6px;
     }
@@ -69,26 +67,7 @@
     }
     .item:first-child{
       border-top:none;
-      padding-top: 4px;
-    }
-
-    .breaking-badge{
-      display:inline-flex;
-      align-items:center;
-      gap:6px;
-      font-size:12px;
-      font-weight:900;
-      color:#fff;
-      background: var(--badge);
-      padding:4px 10px;
-      border-radius:999px;
-      width:fit-content;
-      margin-bottom:6px;
-    }
-    .breaking-dot{
-      width:8px; height:8px;
-      border-radius:50%;
-      background:#fff;
+      padding-top:4px;
     }
 
     .news-title{
@@ -100,7 +79,9 @@
       line-height:1.35;
       word-break: keep-all;
     }
-    .news-title:hover{ text-decoration: underline; }
+    .news-title:hover{
+      text-decoration: underline;
+    }
 
     .news-date{
       margin-top:6px;
@@ -108,29 +89,12 @@
       color: var(--muted);
     }
 
-    .hint{
-      margin-top:10px;
-      font-size:12px;
-      color: var(--muted);
-      line-height:1.45;
-    }
-
     .err{
       margin-top:10px;
       font-size:12px;
       color:#b00020;
-      line-height:1.45;
       display:none;
     }
-
-    /* 스크롤바 약간 깔끔하게 (크롬) */
-    .list::-webkit-scrollbar{ width:10px; }
-    .list::-webkit-scrollbar-thumb{
-      background: rgba(0,0,0,0.15);
-      border-radius: 999px;
-      border: 2px solid rgba(255,255,255,0.7);
-    }
-    .list::-webkit-scrollbar-track{ background: transparent; }
   </style>
 </head>
 
@@ -138,29 +102,17 @@
   <div class="wrap">
     <div class="card">
       <div class="top">
-        <div class="title">연합뉴스 경제 속보</div>
+        <div class="title">연합뉴스 경제 뉴스</div>
         <div class="updated" id="updated">불러오는 중…</div>
       </div>
 
       <div class="list" id="list"></div>
-
-      <div class="hint">
-        최근 기사만 “속보”로 표시됩니다. (기본: 최근 120분)
-      </div>
-
       <div class="err" id="err"></div>
     </div>
   </div>
 
   <script>
-    // ✅ 연합뉴스 경제 RSS
     const RSS_URL = "https://www.yna.co.kr/rss/economy.xml";
-
-    // ✅ 최근 N분 이내면 속보 표시 (원하면 60, 30 등으로 변경)
-    const BREAKING_MINUTES = 120;
-
-    // ✅ CORS 우회용 (GitHub Pages에서 RSS 직접 fetch가 막히는 경우가 흔해서 프록시 사용)
-    // - 만약 네 환경에서 RSS 직접 fetch가 된다면 PROXY = "" 로 두고 아래 fetch URL만 RSS_URL로 바꿔도 됨.
     const PROXY = "https://api.allorigins.win/raw?url=";
 
     function formatKoreanDate(pubDateStr) {
@@ -182,31 +134,13 @@
         hour12: false
       }).format(d);
 
-      // 예: 2025. 12. 17. (수) 19:08
       return `${datePart} ${timePart}`;
-    }
-
-    function isBreaking(pubDateStr, minutes = BREAKING_MINUTES) {
-      const d = new Date(pubDateStr);
-      if (isNaN(d.getTime())) return false;
-      return (Date.now() - d.getTime()) <= minutes * 60 * 1000;
-    }
-
-    function escapeHtml(str) {
-      return String(str ?? "")
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
     }
 
     function parseRss(xmlText) {
       const parser = new DOMParser();
       const xml = parser.parseFromString(xmlText, "text/xml");
-      const items = Array.from(xml.querySelectorAll("item"));
-
-      return items.map(item => ({
+      return Array.from(xml.querySelectorAll("item")).map(item => ({
         title: item.querySelector("title")?.textContent?.trim() ?? "",
         link: item.querySelector("link")?.textContent?.trim() ?? "",
         pubDate: item.querySelector("pubDate")?.textContent?.trim() ?? ""
@@ -214,59 +148,43 @@
     }
 
     async function loadYna() {
-      const updatedEl = document.getElementById("updated");
       const listEl = document.getElementById("list");
+      const updatedEl = document.getElementById("updated");
       const errEl = document.getElementById("err");
 
       try {
         errEl.style.display = "none";
-        errEl.textContent = "";
-        updatedEl.textContent = "불러오는 중…";
         listEl.innerHTML = "";
 
-        const url = PROXY + encodeURIComponent(RSS_URL);
-        const res = await fetch(url, { cache: "no-store" });
-        if (!res.ok) throw new Error(`RSS 응답 오류: ${res.status}`);
+        const res = await fetch(PROXY + encodeURIComponent(RSS_URL), { cache:"no-store" });
+        if (!res.ok) throw new Error("RSS 로드 실패");
 
         const xmlText = await res.text();
-        const items = parseRss(xmlText);
+        const items = parseRss(xmlText)
+          .sort((a,b)=>new Date(b.pubDate)-new Date(a.pubDate))
+          .slice(0, 30);
 
-        if (!items.length) throw new Error("RSS 아이템이 비어있습니다.");
-
-        // 최신순 정렬 (pubDate 기준)
-        items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-
-        // 표시 개수 제한(원하면 숫자 변경)
-        const show = items.slice(0, 30);
-
-        for (const item of show) {
-          const breaking = isBreaking(item.pubDate);
+        for (const item of items) {
           const div = document.createElement("div");
           div.className = "item";
-
           div.innerHTML = `
-            ${breaking ? `<div class="breaking-badge"><span class="breaking-dot"></span>속보</div>` : ``}
-            <a class="news-title" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
-              ${escapeHtml(item.title)}
+            <a class="news-title" href="${item.link}" target="_blank" rel="noopener">
+              ${item.title}
             </a>
-            <div class="news-date">${escapeHtml(formatKoreanDate(item.pubDate))}</div>
+            <div class="news-date">${formatKoreanDate(item.pubDate)}</div>
           `;
-
           listEl.appendChild(div);
         }
 
-        // 우측 상단 업데이트 시간(현재 시각)
-        const nowText = formatKoreanDate(new Date().toString());
-        updatedEl.textContent = `업데이트: ${nowText}`;
+        updatedEl.textContent = `업데이트: ${formatKoreanDate(new Date())}`;
       } catch (e) {
         errEl.style.display = "block";
-        errEl.textContent = `불러오지 못했습니다. (원인: ${e?.message || e})`;
-        updatedEl.textContent = "업데이트: 실패";
+        errEl.textContent = "연합뉴스 뉴스를 불러오지 못했습니다.";
+        updatedEl.textContent = "업데이트 실패";
       }
     }
 
     loadYna();
-    // 5분마다 갱신 (원하면 변경)
     setInterval(loadYna, 5 * 60 * 1000);
   </script>
 </body>
