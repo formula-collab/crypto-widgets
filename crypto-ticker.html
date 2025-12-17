@@ -3,17 +3,22 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Crypto Ticker</title>
+  <title>Market Ticker</title>
 
   <style>
-    /* 노션 embed에서 여백 없이 꽉 차게 */
-    html, body { margin: 0; padding: 0; background: transparent; }
-    .tradingview-widget-container { width: 100%; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: transparent;
+    }
+    .tradingview-widget-container {
+      width: 100%;
+    }
   </style>
 </head>
 
 <body>
-  <!-- TradingView Widget BEGIN -->
+  <!-- TradingView Ticker Tape BEGIN -->
   <div class="tradingview-widget-container">
     <div class="tradingview-widget-container__widget"></div>
 
@@ -24,10 +29,21 @@
     >
     {
       "symbols": [
+        { "proName": "FX_IDC:USDKRW", "title": "USD/KRW" },
+        { "proName": "FX_IDC:JPYKRW", "title": "JPY/KRW" },
+
         { "proName": "BINANCE:BTCUSDT", "title": "BTC" },
         { "proName": "BINANCE:ETHUSDT", "title": "ETH" },
         { "proName": "BINANCE:SOLUSDT", "title": "SOL" },
-        { "proName": "BINANCE:BNBUSDT", "title": "BNB" }
+        { "proName": "BINANCE:BNBUSDT", "title": "BNB" },
+        { "proName": "BINANCE:XRPUSDT", "title": "XRP" },
+        { "proName": "BINANCE:TRXUSDT", "title": "TRX" },
+        { "proName": "BINANCE:DOGEUSDT", "title": "DOGE" },
+        { "proName": "BINANCE:ADAUSDT", "title": "ADA" },
+        { "proName": "BINANCE:BCHUSDT", "title": "BCH" },
+        { "proName": "BINANCE:ZECUSDT", "title": "ZEC" },
+
+        { "proName": "NASDAQ:IXIC", "title": "NASDAQ" },
       ],
       "showSymbolLogo": true,
       "isTransparent": true,
@@ -37,6 +53,6 @@
     }
     </script>
   </div>
-  <!-- TradingView Widget END -->
+  <!-- TradingView Ticker Tape END -->
 </body>
 </html>
