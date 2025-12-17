@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crypto Ticker</title>
+
+  <style>
+    /* 노션 embed에서 여백 없이 꽉 차게 */
+    html, body { margin: 0; padding: 0; background: transparent; }
+    .tradingview-widget-container { width: 100%; }
+  </style>
+</head>
+
+<body>
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+
+    <script
+      type="text/javascript"
+      src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js"
+      async
+    >
+    {
+      "symbols": [
+        { "proName": "BINANCE:BTCUSDT", "title": "BTC" },
+        { "proName": "BINANCE:ETHUSDT", "title": "ETH" },
+        { "proName": "BINANCE:SOLUSDT", "title": "SOL" },
+        { "proName": "BINANCE:BNBUSDT", "title": "BNB" }
+      ],
+      "showSymbolLogo": true,
+      "isTransparent": true,
+      "displayMode": "adaptive",
+      "colorTheme": "light",
+      "locale": "kr"
+    }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+</body>
+</html>
