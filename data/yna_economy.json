@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766029646,
+  "updated_at_unix": 1766033900,
   "items": [
+    {
+      "title": "[게시판] 한세실업, 지속가능경영 유공포상서 산업부 장관 표창",
+      "link": "https://www.yna.co.kr/view/AKR20251218092200030",
+      "pubDate": "Thu, 18 Dec 2025 13:52:22 +0900"
+    },
+    {
+      "title": "[영상] '쿵쾅쿵쾅' 몸밖에서 뛰던 심장…두달간 고난도 수술로 제자리",
+      "link": "https://www.yna.co.kr/view/AKR20251218090000704",
+      "pubDate": "Thu, 18 Dec 2025 13:50:38 +0900"
+    },
+    {
+      "title": "이노비즈협회, KOSA와 중소기업 AI 활용 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20251218086500030",
+      "pubDate": "Thu, 18 Dec 2025 13:38:27 +0900"
+    },
+    {
+      "title": "[게시판] 중기부, 4차 소상공인 성장 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20251218062000030",
+      "pubDate": "Thu, 18 Dec 2025 13:30:03 +0900"
+    },
+    {
+      "title": "중기중앙회, 김정관 산업장관과 '관세·원자재' 현안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20251218072500030",
+      "pubDate": "Thu, 18 Dec 2025 13:30:01 +0900"
+    },
+    {
+      "title": "유니드비티플러스 \"위더스레노바 사모투자합자회사株 230억 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218087800008",
+      "pubDate": "Thu, 18 Dec 2025 13:27:33 +0900"
+    },
+    {
+      "title": "틱톡 \"신뢰·안전 분야에 연 2.8조원 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218081300017",
+      "pubDate": "Thu, 18 Dec 2025 13:02:46 +0900"
+    },
     {
       "title": "KG케미칼·동서화학공업 MOU…인니 합작공장 추진",
       "link": "https://www.yna.co.kr/view/AKR20251218078600003",
@@ -117,41 +152,6 @@
       "title": "광주 군공항 이전 국가 지원 담은 특별법 개정 속도 기대",
       "link": "https://www.yna.co.kr/view/AKR20251218068300054",
       "pubDate": "Thu, 18 Dec 2025 11:08:34 +0900"
-    },
-    {
-      "title": "산업부, 'EU 탄소세 대상 확대' 대응…업계 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20251218066700003",
-      "pubDate": "Thu, 18 Dec 2025 11:04:26 +0900"
-    },
-    {
-      "title": "현대차증권, 채권사업실 조직개편…\"업무 효율화 제고\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218066400008",
-      "pubDate": "Thu, 18 Dec 2025 11:00:14 +0900"
-    },
-    {
-      "title": "'자녀채용 뒷돈' 택시신협 이사진·조합원에 징역형 집행유예",
-      "link": "https://www.yna.co.kr/view/AKR20251218066600054",
-      "pubDate": "Thu, 18 Dec 2025 11:00:12 +0900"
-    },
-    {
-      "title": "평택∼시흥 민자고속도 확장 사업 우협대상자에 키움 컨소시엄",
-      "link": "https://www.yna.co.kr/view/AKR20251218056800003",
-      "pubDate": "Thu, 18 Dec 2025 11:00:03 +0900"
-    },
-    {
-      "title": "[게시판] 산업부, 'AI반도체 M.AX 얼라이언스 워크숍'…산학연 협력 모색",
-      "link": "https://www.yna.co.kr/view/AKR20251218055900003",
-      "pubDate": "Thu, 18 Dec 2025 11:00:02 +0900"
-    },
-    {
-      "title": "내년 상반기 '한국판 NTE 보고서' 나온다…산업부, 조사 개시",
-      "link": "https://www.yna.co.kr/view/AKR20251218061200003",
-      "pubDate": "Thu, 18 Dec 2025 11:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 산업부, '수입 규제 대응 전략 설명회'…\"기업애로 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218063600003",
-      "pubDate": "Thu, 18 Dec 2025 11:00:01 +0900"
     }
   ]
 }
