@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766048228,
+  "updated_at_unix": 1766051444,
   "items": [
+    {
+      "title": "[마켓人] 김성환 한투증권 사장 \"IMA 1호 출시…1조원 이상 모집 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218082900008",
+      "pubDate": "Thu, 18 Dec 2025 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251218147800011",
+      "pubDate": "Thu, 18 Dec 2025 18:00:01 +0900"
+    },
     {
       "title": "JB우리캐피탈, 1천200억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20251218151900008",
@@ -142,16 +152,6 @@
       "title": "[쇼츠] 3일 못 넘긴댔는데… '심장이소증' 서린이의 기적",
       "link": "https://www.yna.co.kr/view/AKR20251218125000704",
       "pubDate": "Thu, 18 Dec 2025 15:56:14 +0900"
-    },
-    {
-      "title": "관세청, 납세 민원 온라인 시스템 서비스 시작",
-      "link": "https://www.yna.co.kr/view/AKR20251218119500002",
-      "pubDate": "Thu, 18 Dec 2025 15:49:26 +0900"
-    },
-    {
-      "title": "옛 경주역 부지, 국가도시재생 시범지구 1차 관문 통과",
-      "link": "https://www.yna.co.kr/view/AKR20251218122400053",
-      "pubDate": "Thu, 18 Dec 2025 15:46:09 +0900"
     }
   ]
 }
