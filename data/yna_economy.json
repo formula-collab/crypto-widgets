@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766043558,
+  "updated_at_unix": 1766048228,
   "items": [
+    {
+      "title": "JB우리캐피탈, 1천200억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20251218151900008",
+      "pubDate": "Thu, 18 Dec 2025 17:46:16 +0900"
+    },
+    {
+      "title": "JB금융지주 \"자회사 JB우리캐피탈 주식 1천200억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218150800008",
+      "pubDate": "Thu, 18 Dec 2025 17:44:41 +0900"
+    },
+    {
+      "title": "오름테라퓨틱, 250억원 유상증자…위니언 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20251218146400008",
+      "pubDate": "Thu, 18 Dec 2025 17:42:35 +0900"
+    },
+    {
+      "title": "오름테라퓨틱 1천200억 유증…KB디지털플랫폼펀드 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251218146100008",
+      "pubDate": "Thu, 18 Dec 2025 17:41:32 +0900"
+    },
+    {
+      "title": "한신평 \"SK실트론, 등급감시 하향검토 대상 등록\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218148900008",
+      "pubDate": "Thu, 18 Dec 2025 17:36:29 +0900"
+    },
+    {
+      "title": "황성엽 금투협회장 당선자 \"큰 어항 만들어 생태계 잘 이루겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218146300008",
+      "pubDate": "Thu, 18 Dec 2025 17:33:51 +0900"
+    },
+    {
+      "title": "내장재用 '수입 PVC 페이스트 수지'에 최대 43% 반덤핑 관세",
+      "link": "https://www.yna.co.kr/view/AKR20251218117300003",
+      "pubDate": "Thu, 18 Dec 2025 17:30:01 +0900"
+    },
+    {
+      "title": "울산 남구, 무거동에 309억원 들여 노후 주거지 정비",
+      "link": "https://www.yna.co.kr/view/AKR20251218147700057",
+      "pubDate": "Thu, 18 Dec 2025 17:27:58 +0900"
+    },
+    {
+      "title": "국고채 금리, 중단기물 위주로 하락…3년물 연 2.967%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251218137251008",
+      "pubDate": "Thu, 18 Dec 2025 17:19:13 +0900"
+    },
+    {
+      "title": "충남 발달장애인 중 27.6%만 취업…대부분 월급 100만원 미만",
+      "link": "https://www.yna.co.kr/view/AKR20251218031500063",
+      "pubDate": "Thu, 18 Dec 2025 17:00:00 +0900"
+    },
+    {
+      "title": "새롭게 출발하는 '석탄산업 전환지역' 뭐가 달라지나…실무 논의",
+      "link": "https://www.yna.co.kr/view/AKR20251218139600062",
+      "pubDate": "Thu, 18 Dec 2025 16:58:11 +0900"
+    },
+    {
+      "title": "롯데카드, '띵크어스 파트너스 3기' 선발…ESG 기업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251218138000002",
+      "pubDate": "Thu, 18 Dec 2025 16:57:15 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 2.967%",
+      "link": "https://www.yna.co.kr/view/AKR20251218137200008",
+      "pubDate": "Thu, 18 Dec 2025 16:41:14 +0900"
+    },
+    {
+      "title": "광주 화정아이파크 유가족 \"참사 반복…지역 정치권 각성해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218136500054",
+      "pubDate": "Thu, 18 Dec 2025 16:37:17 +0900"
+    },
     {
       "title": "자신 임야 비싸게 팔고 업체 챙겨준 여수시 공무원 징역형",
       "link": "https://www.yna.co.kr/view/AKR20251218133900054",
@@ -82,76 +152,6 @@
       "title": "옛 경주역 부지, 국가도시재생 시범지구 1차 관문 통과",
       "link": "https://www.yna.co.kr/view/AKR20251218122400053",
       "pubDate": "Thu, 18 Dec 2025 15:46:09 +0900"
-    },
-    {
-      "title": "'롤러코스터' 코스피, 사천피 방어 실패…3,990대 마감",
-      "link": "https://www.yna.co.kr/view/AKR20251218121300008",
-      "pubDate": "Thu, 18 Dec 2025 15:39:02 +0900"
-    },
-    {
-      "title": "외국환시세(12월18일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20251218121000002",
-      "pubDate": "Thu, 18 Dec 2025 15:35:18 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.5원 내린 1,478.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20251218120100002",
-      "pubDate": "Thu, 18 Dec 2025 15:30:50 +0900"
-    },
-    {
-      "title": "중기부 '올해의 팁스 기업'에 리벨리온 등 세 곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251218069100030",
-      "pubDate": "Thu, 18 Dec 2025 15:30:01 +0900"
-    },
-    {
-      "title": "울주군, 울산기술공고 재학생에 맞춤형 취업 교육",
-      "link": "https://www.yna.co.kr/view/AKR20251218116100057",
-      "pubDate": "Thu, 18 Dec 2025 15:28:59 +0900"
-    },
-    {
-      "title": "호반그룹, 당진시 교통 약자 주차공간 조성 사업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251218118300003",
-      "pubDate": "Thu, 18 Dec 2025 15:25:33 +0900"
-    },
-    {
-      "title": "[게시판] 애경산업, 충남 청양군에 도서 1천여권 기증",
-      "link": "https://www.yna.co.kr/view/AKR20251218117400030",
-      "pubDate": "Thu, 18 Dec 2025 15:22:34 +0900"
-    },
-    {
-      "title": "은행 외화 풀고 외국인 주식투자 문턱 낮춰…달러 공급 늘린다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251218064751002",
-      "pubDate": "Thu, 18 Dec 2025 15:18:10 +0900"
-    },
-    {
-      "title": "'780억대 상환지연 사기' 루멘페이먼츠 대표 2심도 징역 15년",
-      "link": "https://www.yna.co.kr/view/AKR20251218111900004",
-      "pubDate": "Thu, 18 Dec 2025 15:13:41 +0900"
-    },
-    {
-      "title": "토스뱅크, AI 금융 상담 도입…\"LLM 활용해 고객의도 파악\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218110400002",
-      "pubDate": "Thu, 18 Dec 2025 15:11:29 +0900"
-    },
-    {
-      "title": "[게시판] 산업은행, 스타트업 지원 'V:Launch' 프로그램 폐회식",
-      "link": "https://www.yna.co.kr/view/AKR20251218114100002",
-      "pubDate": "Thu, 18 Dec 2025 15:11:12 +0900"
-    },
-    {
-      "title": "넥슨, IP 오픈라이선스 프로젝트 가동…외부 창작자에 IP 개방",
-      "link": "https://www.yna.co.kr/view/AKR20251218113300017",
-      "pubDate": "Thu, 18 Dec 2025 15:10:14 +0900"
-    },
-    {
-      "title": "에어비앤비 \"내년 Z세대가 주목하는 여행지에 부산 포함\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218110300030",
-      "pubDate": "Thu, 18 Dec 2025 15:09:40 +0900"
-    },
-    {
-      "title": "이노비즈협회, KOSA와 중소기업 AI 활용 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251218100300030",
-      "pubDate": "Thu, 18 Dec 2025 15:00:13 +0900"
     }
   ]
 }
