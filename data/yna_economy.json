@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766080056,
+  "updated_at_unix": 1766084244,
   "items": [
+    {
+      "title": "달러-원, 美 CPI 둔화로 하방 압력…1,473.10원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251219003300002",
+      "pubDate": "Fri, 19 Dec 2025 02:57:38 +0900"
+    },
     {
       "title": "'쿠팡사태' 피싱 1천만원 피해사례도…금감원, 소비자경보 높여(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251218041151002",
@@ -147,11 +152,6 @@
       "title": "새만금 내부, 하나로 잇는다…'지역 간 연결도로' 기공식 개최",
       "link": "https://www.yna.co.kr/view/AKR20251218123600055",
       "pubDate": "Thu, 18 Dec 2025 16:00:30 +0900"
-    },
-    {
-      "title": "서울 아파트값 상승률 횡보…경기 규제지역 강세 지속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251218071251003",
-      "pubDate": "Thu, 18 Dec 2025 16:00:27 +0900"
     }
   ]
 }
