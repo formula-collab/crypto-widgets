@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766086883,
+  "updated_at_unix": 1766090205,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·베네수 긴장 주목 속 이틀째 상승…WTI, 0.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251219006400009",
+      "pubDate": "Fri, 19 Dec 2025 05:22:08 +0900"
+    },
     {
       "title": "달러-원, 美 CPI 둔화로 하방 압력…1,473.10원 마감",
       "link": "https://www.yna.co.kr/view/AKR20251219003300002",
@@ -147,11 +152,6 @@
       "title": "국세청, '과로사 의혹' 런던베이글뮤지엄 특별 세무조사",
       "link": "https://www.yna.co.kr/view/AKR20251218125200030",
       "pubDate": "Thu, 18 Dec 2025 16:01:12 +0900"
-    },
-    {
-      "title": "새만금 내부, 하나로 잇는다…'지역 간 연결도로' 기공식 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251218123600055",
-      "pubDate": "Thu, 18 Dec 2025 16:00:30 +0900"
     }
   ]
 }
