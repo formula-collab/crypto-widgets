@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766041193,
+  "updated_at_unix": 1766043558,
   "items": [
+    {
+      "title": "자신 임야 비싸게 팔고 업체 챙겨준 여수시 공무원 징역형",
+      "link": "https://www.yna.co.kr/view/AKR20251218133900054",
+      "pubDate": "Thu, 18 Dec 2025 16:30:24 +0900"
+    },
+    {
+      "title": "구윤철 \"꿈사다리 장학금에 아동양육시설 학생 추천가능 명시\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218114500002",
+      "pubDate": "Thu, 18 Dec 2025 16:30:00 +0900"
+    },
+    {
+      "title": "한국인 4명 중 3명 AI 쓴다…챗GPT 독주 속 판 흔든 제미나이",
+      "link": "https://www.yna.co.kr/view/AKR20251218132700017",
+      "pubDate": "Thu, 18 Dec 2025 16:26:22 +0900"
+    },
+    {
+      "title": "큐리언트 \"독일 종속회사 QLi5 주식 107억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218130400008",
+      "pubDate": "Thu, 18 Dec 2025 16:21:23 +0900"
+    },
+    {
+      "title": "내년 보건의료 R&D 예산, 2조4천억원…대표기술 30개 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251218130500530",
+      "pubDate": "Thu, 18 Dec 2025 16:20:57 +0900"
+    },
+    {
+      "title": "'롤러코스터' 코스피, 사천피 방어 실패…3,990대 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251218121351008",
+      "pubDate": "Thu, 18 Dec 2025 16:17:05 +0900"
+    },
+    {
+      "title": "청주시, 국토부 주관 성안동·우암동 도시재생 공모 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251218128000064",
+      "pubDate": "Thu, 18 Dec 2025 16:16:22 +0900"
+    },
+    {
+      "title": "국세청, '과로사 의혹' 런던베이글뮤지엄 특별 세무조사",
+      "link": "https://www.yna.co.kr/view/AKR20251218125200030",
+      "pubDate": "Thu, 18 Dec 2025 16:01:12 +0900"
+    },
+    {
+      "title": "새만금 내부, 하나로 잇는다…'지역 간 연결도로' 기공식 개최",
+      "link": "https://www.yna.co.kr/view/AKR20251218123600055",
+      "pubDate": "Thu, 18 Dec 2025 16:00:30 +0900"
+    },
+    {
+      "title": "서울 아파트값 상승률 횡보…경기 규제지역 강세 지속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251218071251003",
+      "pubDate": "Thu, 18 Dec 2025 16:00:27 +0900"
+    },
+    {
+      "title": "중기중앙회, 협동조합 종합대상에 '정보산업조합' 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251218058600030",
+      "pubDate": "Thu, 18 Dec 2025 16:00:02 +0900"
+    },
+    {
+      "title": "지역 R&D, 5극3특·지역 자율기획 체계로 전환한다",
+      "link": "https://www.yna.co.kr/view/AKR20251218097500017",
+      "pubDate": "Thu, 18 Dec 2025 16:00:00 +0900"
+    },
+    {
+      "title": "외국인 순매도·당국 총력대응…환율 1.5원 하락한 1,478.3원",
+      "link": "https://www.yna.co.kr/view/AKR20251218030451002",
+      "pubDate": "Thu, 18 Dec 2025 15:59:47 +0900"
+    },
+    {
+      "title": "[쇼츠] 3일 못 넘긴댔는데… '심장이소증' 서린이의 기적",
+      "link": "https://www.yna.co.kr/view/AKR20251218125000704",
+      "pubDate": "Thu, 18 Dec 2025 15:56:14 +0900"
+    },
     {
       "title": "관세청, 납세 민원 온라인 시스템 서비스 시작",
       "link": "https://www.yna.co.kr/view/AKR20251218119500002",
@@ -82,76 +152,6 @@
       "title": "이노비즈협회, KOSA와 중소기업 AI 활용 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20251218100300030",
       "pubDate": "Thu, 18 Dec 2025 15:00:13 +0900"
-    },
-    {
-      "title": "하반기 도시재생사업 48곳 신규 선정…비수도권이 90%",
-      "link": "https://www.yna.co.kr/view/AKR20251218027100003",
-      "pubDate": "Thu, 18 Dec 2025 15:00:12 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, 농촌창업 네트워크 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251218108600030",
-      "pubDate": "Thu, 18 Dec 2025 15:00:01 +0900"
-    },
-    {
-      "title": "정부 조달 '갑질' 제동 건다…계약분쟁조정위 조정에 구속력",
-      "link": "https://www.yna.co.kr/view/AKR20251218111000002",
-      "pubDate": "Thu, 18 Dec 2025 15:00:01 +0900"
-    },
-    {
-      "title": "한투증권, IMA 1호 상품 출시…23일까지 모집(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251218025751008",
-      "pubDate": "Thu, 18 Dec 2025 14:58:45 +0900"
-    },
-    {
-      "title": "NH농협은행 울산본부, 취약계층에 온누리상품권 1억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251218110700057",
-      "pubDate": "Thu, 18 Dec 2025 14:52:15 +0900"
-    },
-    {
-      "title": "하동 옥종딸기, 국산 딸기 최초 브라질 수출…중남미 시작 개척",
-      "link": "https://www.yna.co.kr/view/AKR20251218104400052",
-      "pubDate": "Thu, 18 Dec 2025 14:45:42 +0900"
-    },
-    {
-      "title": "[인사] 한국농촌경제연구원",
-      "link": "https://www.yna.co.kr/view/AKR20251218104800030",
-      "pubDate": "Thu, 18 Dec 2025 14:38:37 +0900"
-    },
-    {
-      "title": "울주 전통시장서 20·25일 '온산콘서트'…\"장날 활성화\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218101000057",
-      "pubDate": "Thu, 18 Dec 2025 14:36:44 +0900"
-    },
-    {
-      "title": "[게시판] 우리카드 '2025 서울아트쇼' 최대 50% 할인 행사",
-      "link": "https://www.yna.co.kr/view/AKR20251218101200002",
-      "pubDate": "Thu, 18 Dec 2025 14:35:09 +0900"
-    },
-    {
-      "title": "안산시 '중소기업 애로상담센터' 내년부터 본격 가동",
-      "link": "https://www.yna.co.kr/view/AKR20251218106500061",
-      "pubDate": "Thu, 18 Dec 2025 14:33:51 +0900"
-    },
-    {
-      "title": "제주시, 전통시장 3곳 실태조사",
-      "link": "https://www.yna.co.kr/view/AKR20251218104600056",
-      "pubDate": "Thu, 18 Dec 2025 14:32:48 +0900"
-    },
-    {
-      "title": "[테크스냅] '소프트웨어 고성장클럽' 성과 공유회",
-      "link": "https://www.yna.co.kr/view/AKR20251218046400017",
-      "pubDate": "Thu, 18 Dec 2025 14:30:07 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20251218097400011",
-      "pubDate": "Thu, 18 Dec 2025 14:30:06 +0900"
-    },
-    {
-      "title": "\"금리 대폭인하 신봉자\"…트럼프가 곧 낙점할 연준 차기의장 누구",
-      "link": "https://www.yna.co.kr/view/AKR20251218084500071",
-      "pubDate": "Thu, 18 Dec 2025 14:29:11 +0900"
     }
   ]
 }
