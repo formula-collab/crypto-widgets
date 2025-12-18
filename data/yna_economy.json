@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766094248,
+  "updated_at_unix": 1766097644,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251219013300011",
+      "pubDate": "Fri, 19 Dec 2025 07:30:00 +0900"
+    },
+    {
+      "title": "마곡에 창업성장 거점 '강서구 창업허브센터' 개관",
+      "link": "https://www.yna.co.kr/view/AKR20251219012900004",
+      "pubDate": "Fri, 19 Dec 2025 06:53:54 +0900"
+    },
+    {
+      "title": "강남구, 서울시 평가서 '토지정책 최우수기관'에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251219012800004",
+      "pubDate": "Fri, 19 Dec 2025 06:53:02 +0900"
+    },
     {
       "title": "트럼프, 대마초 규제 완화…헤로인과 같은 1급서 3급으로 하향(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251219006251071",
@@ -137,21 +152,6 @@
       "title": "롯데카드, '띵크어스 파트너스 3기' 선발…ESG 기업 지원",
       "link": "https://www.yna.co.kr/view/AKR20251218138000002",
       "pubDate": "Thu, 18 Dec 2025 16:57:15 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.967%",
-      "link": "https://www.yna.co.kr/view/AKR20251218137200008",
-      "pubDate": "Thu, 18 Dec 2025 16:41:14 +0900"
-    },
-    {
-      "title": "광주 화정아이파크 유가족 \"참사 반복…지역 정치권 각성해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218136500054",
-      "pubDate": "Thu, 18 Dec 2025 16:37:17 +0900"
-    },
-    {
-      "title": "자신 임야 비싸게 팔고 업체 챙겨준 여수시 공무원 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20251218133900054",
-      "pubDate": "Thu, 18 Dec 2025 16:30:24 +0900"
     }
   ]
 }
