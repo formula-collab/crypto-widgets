@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766057563,
+  "updated_at_unix": 1766065787,
   "items": [
+    {
+      "title": "'쿠팡사태' 피싱 1천만원 피해사례도…금감원, 소비자경보 높여(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251218041151002",
+      "pubDate": "Thu, 18 Dec 2025 21:16:53 +0900"
+    },
+    {
+      "title": "캠코, 3천900억원 규모 압류재산 공매…강남 아파트 등 매물로",
+      "link": "https://www.yna.co.kr/view/AKR20251218161800002",
+      "pubDate": "Thu, 18 Dec 2025 21:05:58 +0900"
+    },
     {
       "title": "bhc치킨, 튀김용 기름 가맹점 공급가 20% 인상",
       "link": "https://www.yna.co.kr/view/AKR20251218158800030",
@@ -142,16 +152,6 @@
       "title": "서울 아파트값 상승률 횡보…경기 규제지역 강세 지속(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251218071251003",
       "pubDate": "Thu, 18 Dec 2025 16:00:27 +0900"
-    },
-    {
-      "title": "중기중앙회, 협동조합 종합대상에 '정보산업조합' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251218058600030",
-      "pubDate": "Thu, 18 Dec 2025 16:00:02 +0900"
-    },
-    {
-      "title": "지역 R&D, 5극3특·지역 자율기획 체계로 전환한다",
-      "link": "https://www.yna.co.kr/view/AKR20251218097500017",
-      "pubDate": "Thu, 18 Dec 2025 16:00:00 +0900"
     }
   ]
 }
