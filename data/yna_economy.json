@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766051444,
+  "updated_at_unix": 1766054946,
   "items": [
+    {
+      "title": "bhc치킨, 튀김용 기름 가맹점 공급가 20% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20251218158800030",
+      "pubDate": "Thu, 18 Dec 2025 19:09:31 +0900"
+    },
+    {
+      "title": "구윤철 \"자금 해외로 나가는 구조 개선\"…환율 대응 의지 강조",
+      "link": "https://www.yna.co.kr/view/AKR20251218143500002",
+      "pubDate": "Thu, 18 Dec 2025 19:00:00 +0900"
+    },
     {
       "title": "[마켓人] 김성환 한투증권 사장 \"IMA 1호 출시…1조원 이상 모집 예상\"",
       "link": "https://www.yna.co.kr/view/AKR20251218082900008",
@@ -142,16 +152,6 @@
       "title": "지역 R&D, 5극3특·지역 자율기획 체계로 전환한다",
       "link": "https://www.yna.co.kr/view/AKR20251218097500017",
       "pubDate": "Thu, 18 Dec 2025 16:00:00 +0900"
-    },
-    {
-      "title": "외국인 순매도·당국 총력대응…환율 1.5원 하락한 1,478.3원",
-      "link": "https://www.yna.co.kr/view/AKR20251218030451002",
-      "pubDate": "Thu, 18 Dec 2025 15:59:47 +0900"
-    },
-    {
-      "title": "[쇼츠] 3일 못 넘긴댔는데… '심장이소증' 서린이의 기적",
-      "link": "https://www.yna.co.kr/view/AKR20251218125000704",
-      "pubDate": "Thu, 18 Dec 2025 15:56:14 +0900"
     }
   ]
 }
