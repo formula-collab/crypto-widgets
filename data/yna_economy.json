@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766093347,
+  "updated_at_unix": 1766094248,
   "items": [
+    {
+      "title": "트럼프, 대마초 규제 완화…헤로인과 같은 1급서 3급으로 하향(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219006251071",
+      "pubDate": "Fri, 19 Dec 2025 06:24:47 +0900"
+    },
     {
       "title": "무역항 요트 계류시설 다자녀 가구 사용료 20% 감면",
       "link": "https://www.yna.co.kr/view/AKR20251218107000030",
@@ -147,11 +152,6 @@
       "title": "자신 임야 비싸게 팔고 업체 챙겨준 여수시 공무원 징역형",
       "link": "https://www.yna.co.kr/view/AKR20251218133900054",
       "pubDate": "Thu, 18 Dec 2025 16:30:24 +0900"
-    },
-    {
-      "title": "구윤철 \"꿈사다리 장학금에 아동양육시설 학생 추천가능 명시\"",
-      "link": "https://www.yna.co.kr/view/AKR20251218114500002",
-      "pubDate": "Thu, 18 Dec 2025 16:30:00 +0900"
     }
   ]
 }
