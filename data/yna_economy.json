@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766134551,
+  "updated_at_unix": 1766137454,
   "items": [
+    {
+      "title": "공정위, 위법 반복시 과징금 대폭 가중…증원으로 처리 속도↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219108151002",
+      "pubDate": "Fri, 19 Dec 2025 18:40:49 +0900"
+    },
+    {
+      "title": "iM금융그룹, iM뱅크 행장 후보에 강정훈 부행장 추천(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219147051053",
+      "pubDate": "Fri, 19 Dec 2025 18:20:02 +0900"
+    },
+    {
+      "title": "예보 사장 \"MG손보 계약이전에 수천억…책임자 민형사 소송가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219151800002",
+      "pubDate": "Fri, 19 Dec 2025 18:19:59 +0900"
+    },
+    {
+      "title": "대통령 업무보고서 특사경 권한 쟁점화…이찬진 \"인지수사 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219111851002",
+      "pubDate": "Fri, 19 Dec 2025 18:16:07 +0900"
+    },
+    {
+      "title": "엔씨소프트 \"싱가포르 법인 주식 1천534억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219147200008",
+      "pubDate": "Fri, 19 Dec 2025 18:02:12 +0900"
+    },
+    {
+      "title": "AMRO \"환율 흐름 큰 문제 안돼\"…고환율 원인 '서학개미' 꼽아(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219111951002",
+      "pubDate": "Fri, 19 Dec 2025 18:01:02 +0900"
+    },
+    {
+      "title": "네이버, 공정거래 자율준수 프로그램 2년 연속 AA등급",
+      "link": "https://www.yna.co.kr/view/AKR20251219099200017",
+      "pubDate": "Fri, 19 Dec 2025 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251219143700011",
+      "pubDate": "Fri, 19 Dec 2025 18:00:00 +0900"
+    },
+    {
+      "title": "iM금융그룹, iM뱅크 행장 후보에 강정훈 부행장 추천",
+      "link": "https://www.yna.co.kr/view/AKR20251219147000053",
+      "pubDate": "Fri, 19 Dec 2025 17:56:06 +0900"
+    },
     {
       "title": "한국산업은행 세종지점 문 열어…\"기업 금융 접근성 개선\"",
       "link": "https://www.yna.co.kr/view/AKR20251219144200063",
@@ -107,51 +152,6 @@
       "title": "코스피, 기관 순매수에 4,020대 상승 마감…코스닥도 1.55%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251219115951008",
       "pubDate": "Fri, 19 Dec 2025 16:24:03 +0900"
-    },
-    {
-      "title": "金총리 \"이런 대통령 만난 게 기회…마피아 소탕 각오로 일해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219119400001",
-      "pubDate": "Fri, 19 Dec 2025 16:17:48 +0900"
-    },
-    {
-      "title": "대통령 업무보고서 특사경 권한 논란…이찬진 \"인지수사 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219111800002",
-      "pubDate": "Fri, 19 Dec 2025 16:11:14 +0900"
-    },
-    {
-      "title": "李대통령 \"소수 강자가 시장 어지럽혀…공정위, 힘 균형 맞춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219121900001",
-      "pubDate": "Fri, 19 Dec 2025 16:09:50 +0900"
-    },
-    {
-      "title": "한은 \"외환건전성 부담금 6개월간 면제\"…환율 안정책 발표(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219092351002",
-      "pubDate": "Fri, 19 Dec 2025 16:08:47 +0900"
-    },
-    {
-      "title": "보훈공단, 자원순환 공로 '소비자ESG 혁신대상' 환경혁신상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20251219122400062",
-      "pubDate": "Fri, 19 Dec 2025 16:06:51 +0900"
-    },
-    {
-      "title": "한은 환율안정책 발표에 소폭 하락…2.0원 내린 1,476.3원",
-      "link": "https://www.yna.co.kr/view/AKR20251219033251002",
-      "pubDate": "Fri, 19 Dec 2025 15:58:40 +0900"
-    },
-    {
-      "title": "코스피, 기관 순매수에 4,020대 상승 마감…코스닥도 1.55%↑",
-      "link": "https://www.yna.co.kr/view/AKR20251219115900008",
-      "pubDate": "Fri, 19 Dec 2025 15:40:25 +0900"
-    },
-    {
-      "title": "외국환시세(12월19일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20251219115000002",
-      "pubDate": "Fri, 19 Dec 2025 15:39:34 +0900"
-    },
-    {
-      "title": "李대통령 \"우리나라 생리대 그렇게 비싸다고…조사해보라\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219115600001",
-      "pubDate": "Fri, 19 Dec 2025 15:39:08 +0900"
     }
   ]
 }
