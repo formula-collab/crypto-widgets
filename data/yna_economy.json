@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766127376,
+  "updated_at_unix": 1766129963,
   "items": [
+    {
+      "title": "일본은행 금리 인상에도 코스피 상승 마감…\"영향 제한적\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219081351008",
+      "pubDate": "Fri, 19 Dec 2025 16:31:15 +0900"
+    },
+    {
+      "title": "사토시홀딩스 \"계열사 비트맥스 주식 80억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219127200008",
+      "pubDate": "Fri, 19 Dec 2025 16:30:08 +0900"
+    },
+    {
+      "title": "크래프톤, 네이버·미래에셋과 최대 1조원 아시아 펀드 조성",
+      "link": "https://www.yna.co.kr/view/AKR20251219128100017",
+      "pubDate": "Fri, 19 Dec 2025 16:29:30 +0900"
+    },
+    {
+      "title": "한화엔진 \"노르웨이 자회사에 2천908억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219127300008",
+      "pubDate": "Fri, 19 Dec 2025 16:28:46 +0900"
+    },
+    {
+      "title": "공정위 강제조사권 확보 검토…\"EU에선 영장·과징금 둘다 가능\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219109651002",
+      "pubDate": "Fri, 19 Dec 2025 16:27:45 +0900"
+    },
+    {
+      "title": "비트맥스, 80억원 유상증자…사토시홀딩스(주)에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251219127000008",
+      "pubDate": "Fri, 19 Dec 2025 16:27:16 +0900"
+    },
+    {
+      "title": "아스타, 20억원 유상증자…(주)로봇앤드디자인에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251219124400008",
+      "pubDate": "Fri, 19 Dec 2025 16:25:52 +0900"
+    },
+    {
+      "title": "150조 국민성장펀드, 1차 투자처에 용인 반도체 클러스터 등 7곳(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219089351002",
+      "pubDate": "Fri, 19 Dec 2025 16:25:33 +0900"
+    },
+    {
+      "title": "코스피, 기관 순매수에 4,020대 상승 마감…코스닥도 1.55%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219115951008",
+      "pubDate": "Fri, 19 Dec 2025 16:24:03 +0900"
+    },
+    {
+      "title": "金총리 \"이런 대통령 만난 게 기회…마피아 소탕 각오로 일해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219119400001",
+      "pubDate": "Fri, 19 Dec 2025 16:17:48 +0900"
+    },
+    {
+      "title": "대통령 업무보고서 특사경 권한 논란…이찬진 \"인지수사 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219111800002",
+      "pubDate": "Fri, 19 Dec 2025 16:11:14 +0900"
+    },
+    {
+      "title": "李대통령 \"소수 강자가 시장 어지럽혀…공정위, 힘 균형 맞춰야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219121900001",
+      "pubDate": "Fri, 19 Dec 2025 16:09:50 +0900"
+    },
+    {
+      "title": "한은 \"외환건전성 부담금 6개월간 면제\"…환율 안정책 발표(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219092351002",
+      "pubDate": "Fri, 19 Dec 2025 16:08:47 +0900"
+    },
+    {
+      "title": "보훈공단, 자원순환 공로 '소비자ESG 혁신대상' 환경혁신상 수상",
+      "link": "https://www.yna.co.kr/view/AKR20251219122400062",
+      "pubDate": "Fri, 19 Dec 2025 16:06:51 +0900"
+    },
+    {
+      "title": "한은 환율안정책 발표에 소폭 하락…2.0원 내린 1,476.3원",
+      "link": "https://www.yna.co.kr/view/AKR20251219033251002",
+      "pubDate": "Fri, 19 Dec 2025 15:58:40 +0900"
+    },
     {
       "title": "코스피, 기관 순매수에 4,020대 상승 마감…코스닥도 1.55%↑",
       "link": "https://www.yna.co.kr/view/AKR20251219115900008",
@@ -77,81 +152,6 @@
       "title": "광주은행, 비대면 은퇴자산 관리 서비스 오픈",
       "link": "https://www.yna.co.kr/view/AKR20251219102400054",
       "pubDate": "Fri, 19 Dec 2025 14:50:47 +0900"
-    },
-    {
-      "title": "가평군, 2030년까지 읍내리에 임대주택 짓고 낡은 집 정비",
-      "link": "https://www.yna.co.kr/view/AKR20251219102100060",
-      "pubDate": "Fri, 19 Dec 2025 14:49:48 +0900"
-    },
-    {
-      "title": "李대통령 \"'담보 대출하고 이자' 주축…피도 눈물도 없는 금융사\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219097700001",
-      "pubDate": "Fri, 19 Dec 2025 14:41:47 +0900"
-    },
-    {
-      "title": "미래에셋증권, IMA 1호 상품 내주 출시…3년 만기 1천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20251219096100008",
-      "pubDate": "Fri, 19 Dec 2025 14:39:51 +0900"
-    },
-    {
-      "title": "인천시교육청, 이라크 대표단에 '인천형 직업교육' 소개",
-      "link": "https://www.yna.co.kr/view/AKR20251219095600065",
-      "pubDate": "Fri, 19 Dec 2025 14:33:33 +0900"
-    },
-    {
-      "title": "오산 옹벽 붕괴 사고 조사 기간 2개월 추가 연장",
-      "link": "https://www.yna.co.kr/view/AKR20251219098600003",
-      "pubDate": "Fri, 19 Dec 2025 14:33:19 +0900"
-    },
-    {
-      "title": "[게시판] 금감원, 포용·상생금융 시상식 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251219065100002",
-      "pubDate": "Fri, 19 Dec 2025 14:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20251219095500011",
-      "pubDate": "Fri, 19 Dec 2025 14:30:01 +0900"
-    },
-    {
-      "title": "李대통령 \"주식시장 불신이 외환에 영향…주가조작은 패가망신\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219092200001",
-      "pubDate": "Fri, 19 Dec 2025 14:29:47 +0900"
-    },
-    {
-      "title": "자이S&D, 2천억원 규모 대구 감삼동 공동주택 사업 수주",
-      "link": "https://www.yna.co.kr/view/AKR20251219095300003",
-      "pubDate": "Fri, 19 Dec 2025 14:20:51 +0900"
-    },
-    {
-      "title": "한은 \"외환건전성 부담금 6개월간 면제\"…환율 안정책 발표",
-      "link": "https://www.yna.co.kr/view/AKR20251219092300002",
-      "pubDate": "Fri, 19 Dec 2025 14:11:33 +0900"
-    },
-    {
-      "title": "[속보] 한은 \"외환건전성 부담금 한시 면제\"…환율 안정책 발표",
-      "link": "https://www.yna.co.kr/view/AKR20251219091600002",
-      "pubDate": "Fri, 19 Dec 2025 14:00:52 +0900"
-    },
-    {
-      "title": "'경력직 선호'에 민관 협업 일경험 제공…우수기업 4곳 시상",
-      "link": "https://www.yna.co.kr/view/AKR20251219060300530",
-      "pubDate": "Fri, 19 Dec 2025 14:00:11 +0900"
-    },
-    {
-      "title": "AI가 세금컨설팅…국세청 '미래혁신 청사진' 국민 자문",
-      "link": "https://www.yna.co.kr/view/AKR20251219074500002",
-      "pubDate": "Fri, 19 Dec 2025 14:00:01 +0900"
-    },
-    {
-      "title": "\"ASF, 외국인 근로자·불법 반입 축산물 통해 유입 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219089200030",
-      "pubDate": "Fri, 19 Dec 2025 13:56:18 +0900"
-    },
-    {
-      "title": "이억원 \"150조 국민성장펀드, AI·반도체 등 1차 프로젝트 7곳\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219089300002",
-      "pubDate": "Fri, 19 Dec 2025 13:53:20 +0900"
     }
   ]
 }
