@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766165586,
+  "updated_at_unix": 1766170525,
   "items": [
+    {
+      "title": "달러-원, 올해 최저 거래량 속 관망…1,478.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251220003600002",
+      "pubDate": "Sat, 20 Dec 2025 03:46:30 +0900"
+    },
     {
       "title": "주병기 공정위원장 \"쿠팡 영업정지 가능성 열어놓고 있다\"",
       "link": "https://www.yna.co.kr/view/AKR20251219165600002",
@@ -147,11 +152,6 @@
       "title": "한화엔진 \"노르웨이 자회사에 2천908억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20251219127300008",
       "pubDate": "Fri, 19 Dec 2025 16:28:46 +0900"
-    },
-    {
-      "title": "공정위 강제조사권 확보 검토…\"EU에선 영장·과징금 둘다 가능\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219109651002",
-      "pubDate": "Fri, 19 Dec 2025 16:27:45 +0900"
     }
   ]
 }
