@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766176823,
+  "updated_at_unix": 1766179927,
   "items": [
+    {
+      "title": "주유소 기름값 2주 연속 하락…\"다음 주도 내릴 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219138600003",
+      "pubDate": "Sat, 20 Dec 2025 06:01:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 연말 비수기 접어든 분양시장…전국 1천400여가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20251219134100003",
+      "pubDate": "Sat, 20 Dec 2025 06:00:00 +0900"
+    },
+    {
+      "title": "[샷!] \"결국 불법 노동으로 몰리게 된다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251216121700505",
+      "pubDate": "Sat, 20 Dec 2025 05:50:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 베네수와 전쟁 배제 않는다는 트럼프…WTI, 사흘째 상승",
       "link": "https://www.yna.co.kr/view/AKR20251220004400009",
@@ -137,21 +152,6 @@
       "title": "[특징주] '연일 약세' 이차전지주 소폭 반등…LG엔솔, 0.13%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251219043851008",
       "pubDate": "Fri, 19 Dec 2025 16:34:58 +0900"
-    },
-    {
-      "title": "일본은행 금리 인상에도 코스피 상승 마감…\"영향 제한적\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219081351008",
-      "pubDate": "Fri, 19 Dec 2025 16:31:15 +0900"
-    },
-    {
-      "title": "사토시홀딩스 \"계열사 비트맥스 주식 80억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219127200008",
-      "pubDate": "Fri, 19 Dec 2025 16:30:08 +0900"
-    },
-    {
-      "title": "크래프톤, 네이버·미래에셋과 최대 1조원 아시아 펀드 조성",
-      "link": "https://www.yna.co.kr/view/AKR20251219128100017",
-      "pubDate": "Fri, 19 Dec 2025 16:29:30 +0900"
     }
   ]
 }
