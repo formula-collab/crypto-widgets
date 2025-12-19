@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766184051,
+  "updated_at_unix": 1766187196,
   "items": [
+    {
+      "title": "\"김포 쌀 잘 나가네\"…유럽 수출하고 선물세트 출시하고",
+      "link": "https://www.yna.co.kr/view/AKR20251219130800065",
+      "pubDate": "Sat, 20 Dec 2025 08:00:02 +0900"
+    },
     {
       "title": "부산교통공사, 타인 건강검진서 낸 응시자 합격시켜",
       "link": "https://www.yna.co.kr/view/AKR20251219094100051",
@@ -147,11 +152,6 @@
       "title": "대진첨단소재, 130억원 유상증자…광무에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20251219139000008",
       "pubDate": "Fri, 19 Dec 2025 17:22:52 +0900"
-    },
-    {
-      "title": "구윤철 \"AI대전환 속 청년 시각 중요…정책에 목소리 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219136500002",
-      "pubDate": "Fri, 19 Dec 2025 17:12:50 +0900"
     }
   ]
 }
