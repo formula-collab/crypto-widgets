@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766129963,
+  "updated_at_unix": 1766134551,
   "items": [
+    {
+      "title": "한국산업은행 세종지점 문 열어…\"기업 금융 접근성 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219144200063",
+      "pubDate": "Fri, 19 Dec 2025 17:41:03 +0900"
+    },
+    {
+      "title": "李대통령 \"우리나라 생리대 엄청 비싸다고…국내기업 폭리 아닌가\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219115651001",
+      "pubDate": "Fri, 19 Dec 2025 17:40:41 +0900"
+    },
+    {
+      "title": "콜마비앤에이치 \"종속회사 강소콜마미보과기에 266억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219142600008",
+      "pubDate": "Fri, 19 Dec 2025 17:37:40 +0900"
+    },
+    {
+      "title": "메가터치 164억4천만원 유상증자…휘츠턴머티리얼에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251219141400008",
+      "pubDate": "Fri, 19 Dec 2025 17:35:07 +0900"
+    },
+    {
+      "title": "日금리인상에 국고채 금리 일제히 상승…3년물 연 3.010%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219131551008",
+      "pubDate": "Fri, 19 Dec 2025 17:26:16 +0900"
+    },
+    {
+      "title": "대진첨단소재, 130억원 유상증자…광무에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251219139000008",
+      "pubDate": "Fri, 19 Dec 2025 17:22:52 +0900"
+    },
+    {
+      "title": "구윤철 \"AI대전환 속 청년 시각 중요…정책에 목소리 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219136500002",
+      "pubDate": "Fri, 19 Dec 2025 17:12:50 +0900"
+    },
+    {
+      "title": "[게시판] 부산은행, 유소년 야구발전 후원금 3천만원 전달",
+      "link": "https://www.yna.co.kr/view/AKR20251219136100051",
+      "pubDate": "Fri, 19 Dec 2025 17:05:09 +0900"
+    },
+    {
+      "title": "AMRO \"한국 내년 1.9% 성장…민간 소비·수출로 개선세\"",
+      "link": "https://www.yna.co.kr/view/AKR20251219111900002",
+      "pubDate": "Fri, 19 Dec 2025 17:00:08 +0900"
+    },
+    {
+      "title": "기아 등 65개사 '공정거래 자율준수프로그램 우수기업' 지정",
+      "link": "https://www.yna.co.kr/view/AKR20251219130900002",
+      "pubDate": "Fri, 19 Dec 2025 17:00:00 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.010%",
+      "link": "https://www.yna.co.kr/view/AKR20251219131500008",
+      "pubDate": "Fri, 19 Dec 2025 16:44:17 +0900"
+    },
+    {
+      "title": "[특징주] '연일 약세' 이차전지주 소폭 반등…LG엔솔, 0.13%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251219043851008",
+      "pubDate": "Fri, 19 Dec 2025 16:34:58 +0900"
+    },
     {
       "title": "일본은행 금리 인상에도 코스피 상승 마감…\"영향 제한적\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251219081351008",
@@ -92,66 +152,6 @@
       "title": "李대통령 \"우리나라 생리대 그렇게 비싸다고…조사해보라\"",
       "link": "https://www.yna.co.kr/view/AKR20251219115600001",
       "pubDate": "Fri, 19 Dec 2025 15:39:08 +0900"
-    },
-    {
-      "title": "GH, 다산신도시에 민관협력형 커뮤니티공간 '경기 유니티' 개소",
-      "link": "https://www.yna.co.kr/view/AKR20251219116400061",
-      "pubDate": "Fri, 19 Dec 2025 15:38:37 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.0원 내린 1,476.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20251219113300002",
-      "pubDate": "Fri, 19 Dec 2025 15:30:18 +0900"
-    },
-    {
-      "title": "공정위 강제조사권 도입 검토…쿠팡이 촉발한 문제약관 집중점검",
-      "link": "https://www.yna.co.kr/view/AKR20251219109600002",
-      "pubDate": "Fri, 19 Dec 2025 15:30:02 +0900"
-    },
-    {
-      "title": "공정위, 소상공인 단체행동 보장…반복 법 위반엔 과징금 가중",
-      "link": "https://www.yna.co.kr/view/AKR20251219108100002",
-      "pubDate": "Fri, 19 Dec 2025 15:30:02 +0900"
-    },
-    {
-      "title": "日, 또 금리올리며 '아베노믹스' 결별 가속…'엔캐리 청산' 주목(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219071951009",
-      "pubDate": "Fri, 19 Dec 2025 15:14:16 +0900"
-    },
-    {
-      "title": "李대통령 \"금융사, 정부가 가만 놔두니 부패한 '이너서클' 생겨\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219107600001",
-      "pubDate": "Fri, 19 Dec 2025 15:11:33 +0900"
-    },
-    {
-      "title": "주병기 \"경제 지속성장 위해 공정경제 5대 과제 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219108800002",
-      "pubDate": "Fri, 19 Dec 2025 15:09:37 +0900"
-    },
-    {
-      "title": "광주시 군공항 부지 '실리콘밸리' 추진…미래도시기획단 출범",
-      "link": "https://www.yna.co.kr/view/AKR20251219104500054",
-      "pubDate": "Fri, 19 Dec 2025 15:00:57 +0900"
-    },
-    {
-      "title": "경산 고용복지플러스센터 출범…지역주민들에 통합서비스 제공",
-      "link": "https://www.yna.co.kr/view/AKR20251218155800530",
-      "pubDate": "Fri, 19 Dec 2025 15:00:02 +0900"
-    },
-    {
-      "title": "중소벤처 금융지원상 시상식…은탑훈장에 강태영 농협은행장",
-      "link": "https://www.yna.co.kr/view/AKR20251219061300030",
-      "pubDate": "Fri, 19 Dec 2025 15:00:01 +0900"
-    },
-    {
-      "title": "코스닥에 연기금 진입 판 깔아준다…청년·취약계층엔 3~6% 금리",
-      "link": "https://www.yna.co.kr/view/AKR20251219102600002",
-      "pubDate": "Fri, 19 Dec 2025 14:55:01 +0900"
-    },
-    {
-      "title": "광주은행, 비대면 은퇴자산 관리 서비스 오픈",
-      "link": "https://www.yna.co.kr/view/AKR20251219102400054",
-      "pubDate": "Fri, 19 Dec 2025 14:50:47 +0900"
     }
   ]
 }
