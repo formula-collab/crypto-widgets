@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766202030,
+  "updated_at_unix": 1766206001,
   "items": [
+    {
+      "title": "'파견 해제 검토'에 백해룡, 임은정과 주고받은 메시지 공개(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251220021951004",
+      "pubDate": "Sat, 20 Dec 2025 13:39:59 +0900"
+    },
     {
       "title": "日금리인상, 예금많은 50대이상에 유리…40대이하엔 부정적 영향",
       "link": "https://www.yna.co.kr/view/AKR20251220025300073",
@@ -147,11 +152,6 @@
       "title": "iM금융그룹, iM뱅크 행장 후보에 강정훈 부행장 추천",
       "link": "https://www.yna.co.kr/view/AKR20251219147000053",
       "pubDate": "Fri, 19 Dec 2025 17:56:06 +0900"
-    },
-    {
-      "title": "한국산업은행 세종지점 문 열어…\"기업 금융 접근성 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219144200063",
-      "pubDate": "Fri, 19 Dec 2025 17:41:03 +0900"
     }
   ]
 }
