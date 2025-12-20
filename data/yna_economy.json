@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766216536,
+  "updated_at_unix": 1766220388,
   "items": [
+    {
+      "title": "GS건설, 성북1구역 재개발 수주…올해 도시정비 수주액 6.3조원",
+      "link": "https://www.yna.co.kr/view/AKR20251220040100003",
+      "pubDate": "Sat, 20 Dec 2025 17:37:04 +0900"
+    },
     {
       "title": "'파견 해제 검토'에 백해룡, 임은정과 주고받은 메시지 공개(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251220021951004",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20251219143700011",
       "pubDate": "Fri, 19 Dec 2025 18:00:00 +0900"
-    },
-    {
-      "title": "iM금융그룹, iM뱅크 행장 후보에 강정훈 부행장 추천",
-      "link": "https://www.yna.co.kr/view/AKR20251219147000053",
-      "pubDate": "Fri, 19 Dec 2025 17:56:06 +0900"
     }
   ]
 }
