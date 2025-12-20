@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766187196,
+  "updated_at_unix": 1766202030,
   "items": [
+    {
+      "title": "日금리인상, 예금많은 50대이상에 유리…40대이하엔 부정적 영향",
+      "link": "https://www.yna.co.kr/view/AKR20251220025300073",
+      "pubDate": "Sat, 20 Dec 2025 11:47:07 +0900"
+    },
+    {
+      "title": "'임은정 지휘' 합수단, 백해룡 파견 조기 해제도 검토",
+      "link": "https://www.yna.co.kr/view/AKR20251220021900004",
+      "pubDate": "Sat, 20 Dec 2025 10:32:08 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20251220022100011",
+      "pubDate": "Sat, 20 Dec 2025 10:30:01 +0900"
+    },
+    {
+      "title": "日금리인상에도 엔저…유로 대비 엔화 가치 역대 최저",
+      "link": "https://www.yna.co.kr/view/AKR20251220019000073",
+      "pubDate": "Sat, 20 Dec 2025 09:09:10 +0900"
+    },
+    {
+      "title": "[다음주 경제] 소비자 체감경기 나아졌나…출생 증가세 지속도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20251220007300002",
+      "pubDate": "Sat, 20 Dec 2025 09:00:01 +0900"
+    },
     {
       "title": "\"김포 쌀 잘 나가네\"…유럽 수출하고 선물세트 출시하고",
       "link": "https://www.yna.co.kr/view/AKR20251219130800065",
@@ -127,31 +152,6 @@
       "title": "한국산업은행 세종지점 문 열어…\"기업 금융 접근성 개선\"",
       "link": "https://www.yna.co.kr/view/AKR20251219144200063",
       "pubDate": "Fri, 19 Dec 2025 17:41:03 +0900"
-    },
-    {
-      "title": "李대통령 \"우리나라 생리대 엄청 비싸다고…국내기업 폭리 아닌가\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219115651001",
-      "pubDate": "Fri, 19 Dec 2025 17:40:41 +0900"
-    },
-    {
-      "title": "콜마비앤에이치 \"종속회사 강소콜마미보과기에 266억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219142600008",
-      "pubDate": "Fri, 19 Dec 2025 17:37:40 +0900"
-    },
-    {
-      "title": "메가터치 164억4천만원 유상증자…휘츠턴머티리얼에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251219141400008",
-      "pubDate": "Fri, 19 Dec 2025 17:35:07 +0900"
-    },
-    {
-      "title": "日금리인상에 국고채 금리 일제히 상승…3년물 연 3.010%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251219131551008",
-      "pubDate": "Fri, 19 Dec 2025 17:26:16 +0900"
-    },
-    {
-      "title": "대진첨단소재, 130억원 유상증자…광무에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251219139000008",
-      "pubDate": "Fri, 19 Dec 2025 17:22:52 +0900"
     }
   ]
 }
