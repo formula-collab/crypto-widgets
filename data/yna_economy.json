@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766300123,
+  "updated_at_unix": 1766302341,
   "items": [
+    {
+      "title": "내년 상반기 엔지니어링 업황 전망지수 67.2…올해보다 하락",
+      "link": "https://www.yna.co.kr/view/AKR20251221035100003",
+      "pubDate": "Sun, 21 Dec 2025 15:55:44 +0900"
+    },
     {
       "title": "송미령 농식품장관 \"AI 발생 위험 높아…꼼꼼한 소독 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20251221033700030",
@@ -147,11 +152,6 @@
       "title": "2027년 전국해양스포츠제전, 제주도서 열린다",
       "link": "https://www.yna.co.kr/view/AKR20251220039900030",
       "pubDate": "Sun, 21 Dec 2025 11:00:04 +0900"
-    },
-    {
-      "title": "11월 車수출 13.7%↑…올해 연간 710억달러 넘겨 사상최고 전망",
-      "link": "https://www.yna.co.kr/view/AKR20251221020000003",
-      "pubDate": "Sun, 21 Dec 2025 11:00:01 +0900"
     }
   ]
 }
