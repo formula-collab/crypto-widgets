@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766352661,
+  "updated_at_unix": 1766356728,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251222010000011",
+      "pubDate": "Mon, 22 Dec 2025 07:30:01 +0900"
+    },
     {
       "title": "울산시 \"건설 하도급대금 보증수수료 지원해 지역업체 참여↑\"",
       "link": "https://www.yna.co.kr/view/AKR20251220034000057",
@@ -147,11 +152,6 @@
       "title": "SKT, 소비자원 '1인당 10만원' 조정안에 신중론",
       "link": "https://www.yna.co.kr/view/AKR20251219132400017",
       "pubDate": "Sun, 21 Dec 2025 12:15:04 +0900"
-    },
-    {
-      "title": "[게시판] 노동부, 과태료 조회·납부 전자서비스 제공",
-      "link": "https://www.yna.co.kr/view/AKR20251219140900530",
-      "pubDate": "Sun, 21 Dec 2025 12:00:13 +0900"
     }
   ]
 }
