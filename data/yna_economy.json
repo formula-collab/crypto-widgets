@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766316489,
+  "updated_at_unix": 1766317321,
   "items": [
+    {
+      "title": "회계기준원장에 곽병진 카이스트 교수…총회서 순위 뒤집혀",
+      "link": "https://www.yna.co.kr/view/AKR20251221050300002",
+      "pubDate": "Sun, 21 Dec 2025 20:23:21 +0900"
+    },
     {
       "title": "금감원, 李대통령 '이너서클' 비판에 내달 BNK금융 검사 돌입",
       "link": "https://www.yna.co.kr/view/AKR20251221047500002",
@@ -147,11 +152,6 @@
       "title": "전문가들 \"내년 1월 제조업 경기 개선 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20251221020800003",
       "pubDate": "Sun, 21 Dec 2025 11:01:49 +0900"
-    },
-    {
-      "title": "'국가 인증 감리제' 첫 우수건설기술인 75명 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251219144900003",
-      "pubDate": "Sun, 21 Dec 2025 11:00:07 +0900"
     }
   ]
 }
