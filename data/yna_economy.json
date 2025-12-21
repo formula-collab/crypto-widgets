@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766345897,
+  "updated_at_unix": 1766349513,
   "items": [
+    {
+      "title": "광주 광천터미널 복합개발 윤곽 해 넘겨 나오나…막판 협상",
+      "link": "https://www.yna.co.kr/view/AKR20251219144100054",
+      "pubDate": "Mon, 22 Dec 2025 05:00:02 +0900"
+    },
     {
       "title": "백악관 \"美인플레, 목표치보다 낮아…금리 인하 여지 충분\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251221054051071",
@@ -147,11 +152,6 @@
       "title": "\"중소기업 69%, 내년 수출 증가…화장품·바이오 긍정적\"",
       "link": "https://www.yna.co.kr/view/AKR20251221007400030",
       "pubDate": "Sun, 21 Dec 2025 12:00:03 +0900"
-    },
-    {
-      "title": "성북구 장위14구역, 2천846세대 공급…규제철폐로 사업성 개선",
-      "link": "https://www.yna.co.kr/view/AKR20251220023200004",
-      "pubDate": "Sun, 21 Dec 2025 11:15:03 +0900"
     }
   ]
 }
