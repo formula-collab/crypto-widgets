@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766317321,
+  "updated_at_unix": 1766323227,
   "items": [
+    {
+      "title": "한화에어로, 에스토니아에 5천억원 규모 다연장로켓' 천무' 수출",
+      "link": "https://www.yna.co.kr/view/AKR20251221050600003",
+      "pubDate": "Sun, 21 Dec 2025 21:12:52 +0900"
+    },
     {
       "title": "회계기준원장에 곽병진 카이스트 교수…총회서 순위 뒤집혀",
       "link": "https://www.yna.co.kr/view/AKR20251221050300002",
@@ -147,11 +152,6 @@
       "title": "수은 행장, 창원 찾아 \"지역 조선·방산 생태계 강화 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20251221021500002",
       "pubDate": "Sun, 21 Dec 2025 11:06:37 +0900"
-    },
-    {
-      "title": "전문가들 \"내년 1월 제조업 경기 개선 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221020800003",
-      "pubDate": "Sun, 21 Dec 2025 11:01:49 +0900"
     }
   ]
 }
