@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766309646,
+  "updated_at_unix": 1766313642,
   "items": [
+    {
+      "title": "금감원, 李대통령 '이너서클' 비판에 내달 BNK금융 검사 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20251221047500002",
+      "pubDate": "Sun, 21 Dec 2025 19:32:00 +0900"
+    },
+    {
+      "title": "\"정부·지자체 부동산 공급대책 협의 마무리중…1월발표 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20251221045800001",
+      "pubDate": "Sun, 21 Dec 2025 18:56:45 +0900"
+    },
     {
       "title": "전남 나주 오리농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251221042800030",
@@ -142,16 +152,6 @@
       "title": "'국가 인증 감리제' 첫 우수건설기술인 75명 선정",
       "link": "https://www.yna.co.kr/view/AKR20251219144900003",
       "pubDate": "Sun, 21 Dec 2025 11:00:07 +0900"
-    },
-    {
-      "title": "에어프레미아, 올해 상반기 국제선 운항 신뢰성 최저점",
-      "link": "https://www.yna.co.kr/view/AKR20251219150700003",
-      "pubDate": "Sun, 21 Dec 2025 11:00:06 +0900"
-    },
-    {
-      "title": "농식품 바우처, 내년부터 연중 지원…대상도 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251220039400030",
-      "pubDate": "Sun, 21 Dec 2025 11:00:06 +0900"
     }
   ]
 }
