@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766349513,
+  "updated_at_unix": 1766352661,
   "items": [
+    {
+      "title": "울산시 \"건설 하도급대금 보증수수료 지원해 지역업체 참여↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20251220034000057",
+      "pubDate": "Mon, 22 Dec 2025 06:07:01 +0900"
+    },
+    {
+      "title": "롯데백화점, 인천점에 '럭셔리 패션관' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20251221038800030",
+      "pubDate": "Mon, 22 Dec 2025 06:00:09 +0900"
+    },
+    {
+      "title": "롯데마트 토이저러스, '메이플스토리 카드' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20251221039400030",
+      "pubDate": "Mon, 22 Dec 2025 06:00:08 +0900"
+    },
+    {
+      "title": "이마트, 1월 1일부터 '고래잇 페스타'…\"새해 행사규모 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20251221040600030",
+      "pubDate": "Mon, 22 Dec 2025 06:00:07 +0900"
+    },
+    {
+      "title": "금감원, '유사수신 사기' GA 적발…등록취소·檢고발 등 조치",
+      "link": "https://www.yna.co.kr/view/AKR20251220046700002",
+      "pubDate": "Mon, 22 Dec 2025 06:00:07 +0900"
+    },
+    {
+      "title": "\"고물가에 지갑 닫힌다\"…내년 소매유통 성장률 5년 내 최저",
+      "link": "https://www.yna.co.kr/view/AKR20251221030800003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:05 +0900"
+    },
+    {
+      "title": "[게시판] 무역위, '불공정 무역행위 대응 지원센터 워크숍'",
+      "link": "https://www.yna.co.kr/view/AKR20251221030700003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:05 +0900"
+    },
+    {
+      "title": "'한국형 LNG 화물창' 대형선 적용 '속도'…워킹그룹 발족",
+      "link": "https://www.yna.co.kr/view/AKR20251221030600003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:04 +0900"
+    },
+    {
+      "title": "대법 \"타사상표 중 소비자 주의끄는 표현 쓰면 상표권 침해\"",
+      "link": "https://www.yna.co.kr/view/AKR20251221043100004",
+      "pubDate": "Mon, 22 Dec 2025 06:00:04 +0900"
+    },
+    {
+      "title": "산업부, 한·이집트 CEPA 위한 공청회…이해관계자 의견수렴",
+      "link": "https://www.yna.co.kr/view/AKR20251221030400003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:03 +0900"
+    },
+    {
+      "title": "대통령 순방 등 경제행사 경협 성과 창출위해 민관 머리 맞대",
+      "link": "https://www.yna.co.kr/view/AKR20251221030300003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:03 +0900"
+    },
+    {
+      "title": "주요기업 52% \"내년 경영여건 어려워\"…내수침체·고환율 탓",
+      "link": "https://www.yna.co.kr/view/AKR20251221045600003",
+      "pubDate": "Mon, 22 Dec 2025 06:00:02 +0900"
+    },
     {
       "title": "광주 광천터미널 복합개발 윤곽 해 넘겨 나오나…막판 협상",
       "link": "https://www.yna.co.kr/view/AKR20251219144100054",
@@ -92,66 +152,6 @@
       "title": "[게시판] 노동부, 과태료 조회·납부 전자서비스 제공",
       "link": "https://www.yna.co.kr/view/AKR20251219140900530",
       "pubDate": "Sun, 21 Dec 2025 12:00:13 +0900"
-    },
-    {
-      "title": "AI·투자 이슈 망라…벤처협회 '올해 벤처 10대 뉴스' 발표",
-      "link": "https://www.yna.co.kr/view/AKR20251219137700030",
-      "pubDate": "Sun, 21 Dec 2025 12:00:13 +0900"
-    },
-    {
-      "title": "중소기업계가 뽑은 내년 사자성어 '자강불식'…\"경쟁력 제고\"",
-      "link": "https://www.yna.co.kr/view/AKR20251219132600030",
-      "pubDate": "Sun, 21 Dec 2025 12:00:12 +0900"
-    },
-    {
-      "title": "소비자위, SKT 해킹피해자에 '10만원씩 보상'…2조3천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20251219055400030",
-      "pubDate": "Sun, 21 Dec 2025 12:00:11 +0900"
-    },
-    {
-      "title": "'대중소기업 안전보건 상생협력사업' 참여기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251220041200530",
-      "pubDate": "Sun, 21 Dec 2025 12:00:09 +0900"
-    },
-    {
-      "title": "변호사의 세무 업무 제한한 세무사법 조항에 헌재 \"합헌\"",
-      "link": "https://www.yna.co.kr/view/AKR20251220039500004",
-      "pubDate": "Sun, 21 Dec 2025 12:00:09 +0900"
-    },
-    {
-      "title": "\"올해 9월이 최근 경기 저점 추정…역대 최장 수축 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20251220034700002",
-      "pubDate": "Sun, 21 Dec 2025 12:00:08 +0900"
-    },
-    {
-      "title": "\"임원 셀프점검 방지책 마련돼야\"…금감원, 책무구조도 실태점검",
-      "link": "https://www.yna.co.kr/view/AKR20251220034900002",
-      "pubDate": "Sun, 21 Dec 2025 12:00:08 +0900"
-    },
-    {
-      "title": "\"대리점 창업에 2억원 넘게 투자하지만…62%가 1년 단위 계약\"",
-      "link": "https://www.yna.co.kr/view/AKR20251220045400002",
-      "pubDate": "Sun, 21 Dec 2025 12:00:07 +0900"
-    },
-    {
-      "title": "내년 우체국서도 은행 대출상품 가입…'AI비서'는 금리인하 요구",
-      "link": "https://www.yna.co.kr/view/AKR20251220046400002",
-      "pubDate": "Sun, 21 Dec 2025 12:00:07 +0900"
-    },
-    {
-      "title": "복잡한 펀드설명서 하나로 통합…용어도 쉽게",
-      "link": "https://www.yna.co.kr/view/AKR20251220036800002",
-      "pubDate": "Sun, 21 Dec 2025 12:00:06 +0900"
-    },
-    {
-      "title": "\"주요 IB들, 美연준 내년 중 2회 안팎 금리인하 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221006300072",
-      "pubDate": "Sun, 21 Dec 2025 12:00:04 +0900"
-    },
-    {
-      "title": "\"중소기업 69%, 내년 수출 증가…화장품·바이오 긍정적\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221007400030",
-      "pubDate": "Sun, 21 Dec 2025 12:00:03 +0900"
     }
   ]
 }
