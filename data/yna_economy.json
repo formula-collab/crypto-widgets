@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766306846,
+  "updated_at_unix": 1766309646,
   "items": [
+    {
+      "title": "전남 나주 오리농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251221042800030",
+      "pubDate": "Sun, 21 Dec 2025 17:46:57 +0900"
+    },
     {
       "title": "고려아연 vs MBK·영풍…법원 가처분 결정 앞두고 '공방'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251221030051003",
@@ -147,11 +152,6 @@
       "title": "농식품 바우처, 내년부터 연중 지원…대상도 확대",
       "link": "https://www.yna.co.kr/view/AKR20251220039400030",
       "pubDate": "Sun, 21 Dec 2025 11:00:06 +0900"
-    },
-    {
-      "title": "현대硏 \"AI 단기적 과열 넘어 성장동력 발전할 가능성 커\"",
-      "link": "https://www.yna.co.kr/view/AKR20251220047200002",
-      "pubDate": "Sun, 21 Dec 2025 11:00:05 +0900"
     }
   ]
 }
