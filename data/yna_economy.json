@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766356728,
+  "updated_at_unix": 1766359936,
   "items": [
+    {
+      "title": "서산 수석지구 개발사업 23일 첫 삽…2030년 완공 목표",
+      "link": "https://www.yna.co.kr/view/AKR20251222021100063",
+      "pubDate": "Mon, 22 Dec 2025 08:28:17 +0900"
+    },
+    {
+      "title": "여행플랫폼 놀, 대화형 탐색 서비스 'AI 노리' 공개",
+      "link": "https://www.yna.co.kr/view/AKR20251222020600030",
+      "pubDate": "Mon, 22 Dec 2025 08:26:26 +0900"
+    },
+    {
+      "title": "관광공사, 롯데백화점 본점서 관광기념품 공모전 수상작 팝업",
+      "link": "https://www.yna.co.kr/view/AKR20251222019900030",
+      "pubDate": "Mon, 22 Dec 2025 08:24:46 +0900"
+    },
+    {
+      "title": "커넥트플레이스 청량리역점 새단장…가챠·팝업 공간 강화",
+      "link": "https://www.yna.co.kr/view/AKR20251222019300030",
+      "pubDate": "Mon, 22 Dec 2025 08:23:03 +0900"
+    },
+    {
+      "title": "[게시판] 애경산업, 자립준비청년에게 생활용품·가전 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251222018600030",
+      "pubDate": "Mon, 22 Dec 2025 08:15:13 +0900"
+    },
+    {
+      "title": "[게시판] 아모레퍼시픽재단, '청년 직무 멘토링' 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251222017600030",
+      "pubDate": "Mon, 22 Dec 2025 08:13:40 +0900"
+    },
+    {
+      "title": "쓱닷컴, 일주일간 가공식품·일상용품 특가전 열어",
+      "link": "https://www.yna.co.kr/view/AKR20251222017500030",
+      "pubDate": "Mon, 22 Dec 2025 08:13:02 +0900"
+    },
+    {
+      "title": "글로벌 수소 밸류체인 구축 논의…부산서 수소경제 심포지엄",
+      "link": "https://www.yna.co.kr/view/AKR20251222013900051",
+      "pubDate": "Mon, 22 Dec 2025 08:12:37 +0900"
+    },
+    {
+      "title": "29CM, 더현대 서울에 라이프스타일 편집숍 '이구홈' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20251222016700030",
+      "pubDate": "Mon, 22 Dec 2025 08:11:29 +0900"
+    },
+    {
+      "title": "엔씨티솔루션즈, 미국산 분말형 제독제 도입 추진",
+      "link": "https://www.yna.co.kr/view/AKR20251219095400030",
+      "pubDate": "Mon, 22 Dec 2025 08:03:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] 오늘부터 산타랠리?…韓증시 상승출발 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20251222012800008",
+      "pubDate": "Mon, 22 Dec 2025 07:48:43 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251222010000011",
@@ -97,61 +152,6 @@
       "title": "금감원, 李대통령 '이너서클' 비판에 내달 BNK금융 검사 돌입",
       "link": "https://www.yna.co.kr/view/AKR20251221047500002",
       "pubDate": "Sun, 21 Dec 2025 19:32:00 +0900"
-    },
-    {
-      "title": "\"정부·지자체 부동산 공급대책 협의 마무리중…1월발표 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221045800001",
-      "pubDate": "Sun, 21 Dec 2025 18:56:45 +0900"
-    },
-    {
-      "title": "전남 나주 오리농장서 고병원성 조류인플루엔자",
-      "link": "https://www.yna.co.kr/view/AKR20251221042800030",
-      "pubDate": "Sun, 21 Dec 2025 17:46:57 +0900"
-    },
-    {
-      "title": "고려아연 vs MBK·영풍…법원 가처분 결정 앞두고 '공방'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251221030051003",
-      "pubDate": "Sun, 21 Dec 2025 16:58:26 +0900"
-    },
-    {
-      "title": "金총리 \"석유화학·철강 구조개편 불가피…근로자 보호도 주력\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221039200001",
-      "pubDate": "Sun, 21 Dec 2025 16:50:56 +0900"
-    },
-    {
-      "title": "내년 상반기 엔지니어링 업황 전망지수 67.2…올해보다 하락",
-      "link": "https://www.yna.co.kr/view/AKR20251221035100003",
-      "pubDate": "Sun, 21 Dec 2025 15:55:44 +0900"
-    },
-    {
-      "title": "송미령 농식품장관 \"AI 발생 위험 높아…꼼꼼한 소독 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221033700030",
-      "pubDate": "Sun, 21 Dec 2025 15:29:46 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20251221031300011",
-      "pubDate": "Sun, 21 Dec 2025 15:00:00 +0900"
-    },
-    {
-      "title": "고려아연 vs MBK·영풍…법원 가처분 결정 앞두고 '공방'",
-      "link": "https://www.yna.co.kr/view/AKR20251221030000003",
-      "pubDate": "Sun, 21 Dec 2025 14:49:54 +0900"
-    },
-    {
-      "title": "산업부, 캐나다 철강 관세 강화에 우려 전달…전략대화채널 개설",
-      "link": "https://www.yna.co.kr/view/AKR20251221028200003",
-      "pubDate": "Sun, 21 Dec 2025 13:52:44 +0900"
-    },
-    {
-      "title": "화성시, LH 동탄2 '광역비즈니스 콤플렉스' 계획 변경에 반발",
-      "link": "https://www.yna.co.kr/view/AKR20251221026500061",
-      "pubDate": "Sun, 21 Dec 2025 13:01:54 +0900"
-    },
-    {
-      "title": "SKT, 소비자원 '1인당 10만원' 조정안에 신중론",
-      "link": "https://www.yna.co.kr/view/AKR20251219132400017",
-      "pubDate": "Sun, 21 Dec 2025 12:15:04 +0900"
     }
   ]
 }
