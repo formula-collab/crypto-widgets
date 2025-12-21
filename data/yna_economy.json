@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766327816,
+  "updated_at_unix": 1766331174,
   "items": [
+    {
+      "title": "백악관 \"美인플레, 목표치보다 낮아…금리 더 일찍 내렸어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251221054000071",
+      "pubDate": "Mon, 22 Dec 2025 00:05:59 +0900"
+    },
     {
       "title": "한화에어로, 에스토니아에 5천억원 규모 다연장로켓' 천무' 수출",
       "link": "https://www.yna.co.kr/view/AKR20251221050600003",
@@ -147,11 +152,6 @@
       "title": "따스함으로 채운 돈의동 '온기창고'…기부물품 나눔 행사",
       "link": "https://www.yna.co.kr/view/AKR20251220024500004",
       "pubDate": "Sun, 21 Dec 2025 11:15:02 +0900"
-    },
-    {
-      "title": "수은 행장, 창원 찾아 \"지역 조선·방산 생태계 강화 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20251221021500002",
-      "pubDate": "Sun, 21 Dec 2025 11:06:37 +0900"
     }
   ]
 }
