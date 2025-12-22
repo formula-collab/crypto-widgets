@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766386795,
+  "updated_at_unix": 1766389308,
   "items": [
+    {
+      "title": "뉴온, 120억원 유상증자…케이피엠테크에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251222123700008",
+      "pubDate": "Mon, 22 Dec 2025 16:25:43 +0900"
+    },
+    {
+      "title": "글로벌텍스프리, 140억원 유증…아이즈비전 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251222123200008",
+      "pubDate": "Mon, 22 Dec 2025 16:24:03 +0900"
+    },
+    {
+      "title": "한국사회투자, AI 스타트업·개발자 채용 박람회 열어",
+      "link": "https://www.yna.co.kr/view/AKR20251222119700371",
+      "pubDate": "Mon, 22 Dec 2025 16:21:20 +0900"
+    },
+    {
+      "title": "외국인 순매수에도 환율 1,480원대로 상승…8개월여 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20251222124700002",
+      "pubDate": "Mon, 22 Dec 2025 16:21:12 +0900"
+    },
+    {
+      "title": "[특징주] 스페이스X 관련주 연일 급등…미래에셋벤투 상한가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222045352008",
+      "pubDate": "Mon, 22 Dec 2025 16:19:26 +0900"
+    },
+    {
+      "title": "日 국채 10년물 금리 2.1%로 상승…26년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20251222123100073",
+      "pubDate": "Mon, 22 Dec 2025 16:11:54 +0900"
+    },
+    {
+      "title": "속초 시민단체 '영랑호 그대로' 출범…\"관광단지 개발 중단하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222122700062",
+      "pubDate": "Mon, 22 Dec 2025 16:06:50 +0900"
+    },
+    {
+      "title": "내년부터 부산항 입항 친환경 선박에 입항료 감면 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20251222122500051",
+      "pubDate": "Mon, 22 Dec 2025 16:02:50 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자, '11만전자' 회복…하이닉스도 6% 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222034651008",
+      "pubDate": "Mon, 22 Dec 2025 16:00:17 +0900"
+    },
+    {
+      "title": "'청년 인재 양성 거점' 제주더큰내일센터 원도심 이전",
+      "link": "https://www.yna.co.kr/view/AKR20251222068800056",
+      "pubDate": "Mon, 22 Dec 2025 16:00:00 +0900"
+    },
     {
       "title": "제약·바이오 업계, 약가 인하 '유예' 촉구",
       "link": "https://www.yna.co.kr/view/AKR20251222119900017",
@@ -102,56 +152,6 @@
       "title": "경사노위원장 \"민주노총 참여, 사회적대화 전제아냐\"…재개 방침",
       "link": "https://www.yna.co.kr/view/AKR20251222099800530",
       "pubDate": "Mon, 22 Dec 2025 15:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 반도건설, 건설재해근로자 지원금 1억원 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20251222104200003",
-      "pubDate": "Mon, 22 Dec 2025 14:43:08 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20251222103100002",
-      "pubDate": "Mon, 22 Dec 2025 14:34:54 +0900"
-    },
-    {
-      "title": "동부건설, 제주외항 2단계 개발공사 수주",
-      "link": "https://www.yna.co.kr/view/AKR20251222098300003",
-      "pubDate": "Mon, 22 Dec 2025 14:34:07 +0900"
-    },
-    {
-      "title": "원주시, 지역자율형 사회서비스 활성화 유공 기관표창 수상",
-      "link": "https://www.yna.co.kr/view/AKR20251222101900062",
-      "pubDate": "Mon, 22 Dec 2025 14:33:58 +0900"
-    },
-    {
-      "title": "원주시, 강원도 지방세정 종합평가 '최우수기관' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251222101800062",
-      "pubDate": "Mon, 22 Dec 2025 14:33:27 +0900"
-    },
-    {
-      "title": "원주시시설관리공단, 노사합동 ESG경영 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251222101700062",
-      "pubDate": "Mon, 22 Dec 2025 14:32:54 +0900"
-    },
-    {
-      "title": "내년 1분기 벤처 경기전망 '맑음'…BSI 첫 100 상회",
-      "link": "https://www.yna.co.kr/view/AKR20251222100200030",
-      "pubDate": "Mon, 22 Dec 2025 14:32:03 +0900"
-    },
-    {
-      "title": "서류 조작해 115억원대 부정대출…광주 모 축협 임직원 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20251222101600054",
-      "pubDate": "Mon, 22 Dec 2025 14:30:56 +0900"
-    },
-    {
-      "title": "개성공단기업협회 \"외교부 주도 한미 대북정책협의회에 반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222098900030",
-      "pubDate": "Mon, 22 Dec 2025 14:30:34 +0900"
-    },
-    {
-      "title": "작년 금융사 성과보수 1.4조, 32% 뛰어…\"단기실적 중심\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222086600002",
-      "pubDate": "Mon, 22 Dec 2025 14:30:02 +0900"
     }
   ]
 }
