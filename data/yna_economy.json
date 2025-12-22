@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766439179,
+  "updated_at_unix": 1766443291,
   "items": [
+    {
+      "title": "서울 서부선 장기간 표류…정부 민자 활성화에도 실효성 우려",
+      "link": "https://www.yna.co.kr/view/AKR20251222135300004",
+      "pubDate": "Tue, 23 Dec 2025 07:31:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251223012900011",
+      "pubDate": "Tue, 23 Dec 2025 07:30:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] G20 가치 외교가 멈춘 자리: 각자도생 향하는 아프리카",
+      "link": "https://www.yna.co.kr/view/AKR20251211147100898",
+      "pubDate": "Tue, 23 Dec 2025 07:00:02 +0900"
+    },
     {
       "title": "대형마트들 설 선물 사전예약 26일부터…\"빠를수록 큰 혜택\"",
       "link": "https://www.yna.co.kr/view/AKR20251222134600030",
@@ -137,21 +152,6 @@
       "title": "정부, 내년 비전문 외국인력 19만1천명 도입 추진",
       "link": "https://www.yna.co.kr/view/AKR20251222142100001",
       "pubDate": "Mon, 22 Dec 2025 17:36:38 +0900"
-    },
-    {
-      "title": "제이스코홀딩스, 10억원 유상증자…서미경에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222142700008",
-      "pubDate": "Mon, 22 Dec 2025 17:35:40 +0900"
-    },
-    {
-      "title": "센서뷰, 10억원 유상증자…조옥희 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222142300008",
-      "pubDate": "Mon, 22 Dec 2025 17:34:32 +0900"
-    },
-    {
-      "title": "광명시, 광역철도망 기본구상 용역 최종보고회…청사진 공개",
-      "link": "https://www.yna.co.kr/view/AKR20251222141400061",
-      "pubDate": "Mon, 22 Dec 2025 17:32:23 +0900"
     }
   ]
 }
