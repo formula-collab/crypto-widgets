@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766425138,
+  "updated_at_unix": 1766429731,
   "items": [
+    {
+      "title": "달러-원, 연말 한산한 거래 속 오름폭 확대…1,481.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251223003100002",
+      "pubDate": "Tue, 23 Dec 2025 03:39:34 +0900"
+    },
     {
       "title": "쿠팡, 물류센터 사망노동자 산재에 불복 소송…뒤늦게 알려져",
       "link": "https://www.yna.co.kr/view/AKR20251222162100030",
@@ -147,11 +152,6 @@
       "title": "서울YMCA \"쿠팡·KT 고객 84％, 기업 잘못에 강력제재 희망\"",
       "link": "https://www.yna.co.kr/view/AKR20251222130300004",
       "pubDate": "Mon, 22 Dec 2025 16:49:35 +0900"
-    },
-    {
-      "title": "'함께 만드는 K-농정협의체' 50여개 과제 성과 도출",
-      "link": "https://www.yna.co.kr/view/AKR20251222130100030",
-      "pubDate": "Mon, 22 Dec 2025 16:46:21 +0900"
     }
   ]
 }
