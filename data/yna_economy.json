@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766436048,
+  "updated_at_unix": 1766439179,
   "items": [
+    {
+      "title": "대형마트들 설 선물 사전예약 26일부터…\"빠를수록 큰 혜택\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222134600030",
+      "pubDate": "Tue, 23 Dec 2025 06:00:10 +0900"
+    },
+    {
+      "title": "강동구 자원순환센터 건립 코오롱글로벌 등 '서울시 건설상'",
+      "link": "https://www.yna.co.kr/view/AKR20251222139700004",
+      "pubDate": "Tue, 23 Dec 2025 06:00:08 +0900"
+    },
+    {
+      "title": "성탄절에 삼전 1주 선물을?…한경협, '주식 기프티콘' 도입 건의",
+      "link": "https://www.yna.co.kr/view/AKR20251222154200003",
+      "pubDate": "Tue, 23 Dec 2025 06:00:05 +0900"
+    },
+    {
+      "title": "인터넷은행도 임대인 대출 때 확정일자 유무 확인한다",
+      "link": "https://www.yna.co.kr/view/AKR20251222121800003",
+      "pubDate": "Tue, 23 Dec 2025 06:00:05 +0900"
+    },
+    {
+      "title": "산업부 12월 수출동향 점검회의…\"수출 모멘텀 유지 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222158900003",
+      "pubDate": "Tue, 23 Dec 2025 06:00:03 +0900"
+    },
+    {
+      "title": "'PF 자기자본 20% 유도' 2027년부터 4년간 단계적 시행",
+      "link": "https://www.yna.co.kr/view/AKR20251222149600002",
+      "pubDate": "Tue, 23 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "상호금융중앙회 부동산투자 관리 대폭 강화…손실흡수능력도↑",
+      "link": "https://www.yna.co.kr/view/AKR20251222149700002",
+      "pubDate": "Tue, 23 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "자동차 고의사고 다발지역 음성안내, 35→100곳으로 늘린다",
+      "link": "https://www.yna.co.kr/view/AKR20251222150600002",
+      "pubDate": "Tue, 23 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "한은, SNS 운영 예산 5년새 40% 증액…\"신뢰도 향상 도모\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222142800002",
+      "pubDate": "Tue, 23 Dec 2025 05:53:00 +0900"
+    },
+    {
+      "title": "\"배당 분리과세로 5년간 세수감소 1.9조…합성니코틴 1.3조↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222146800002",
+      "pubDate": "Tue, 23 Dec 2025 05:51:00 +0900"
+    },
+    {
+      "title": "[샷!] \"선물을 떠나 그냥 너무 재미있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251218079500505",
+      "pubDate": "Tue, 23 Dec 2025 05:50:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 美, 베네수엘라 '원유 봉쇄'에 2.6% 급등…나흘째↑",
       "link": "https://www.yna.co.kr/view/AKR20251223004800009",
@@ -97,61 +152,6 @@
       "title": "광명시, 광역철도망 기본구상 용역 최종보고회…청사진 공개",
       "link": "https://www.yna.co.kr/view/AKR20251222141400061",
       "pubDate": "Mon, 22 Dec 2025 17:32:23 +0900"
-    },
-    {
-      "title": "한·이집트 통상수장 화상 회담…CEPA 논의 가속화",
-      "link": "https://www.yna.co.kr/view/AKR20251222141300003",
-      "pubDate": "Mon, 22 Dec 2025 17:30:58 +0900"
-    },
-    {
-      "title": "디에이치엑스컴퍼니, 50억원 유상증자…프리디컴에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222140800008",
-      "pubDate": "Mon, 22 Dec 2025 17:30:20 +0900"
-    },
-    {
-      "title": "경찰, 판교 PSM타워 공사장 사망사고 관련 하청업체 4명 입건",
-      "link": "https://www.yna.co.kr/view/AKR20251222133900061",
-      "pubDate": "Mon, 22 Dec 2025 17:30:00 +0900"
-    },
-    {
-      "title": "모아데이타, 10억원 유상증자…박윤홍에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222138100008",
-      "pubDate": "Mon, 22 Dec 2025 17:27:16 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.999%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251222130051008",
-      "pubDate": "Mon, 22 Dec 2025 17:26:03 +0900"
-    },
-    {
-      "title": "디와이디, 60억원 유상증자…김영배 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222137000008",
-      "pubDate": "Mon, 22 Dec 2025 17:09:35 +0900"
-    },
-    {
-      "title": "4대그룹 총수, 내년 1월초 경제사절단으로 방중 추진",
-      "link": "https://www.yna.co.kr/view/AKR20251222135100003",
-      "pubDate": "Mon, 22 Dec 2025 17:01:48 +0900"
-    },
-    {
-      "title": "[게시판] 한경협 최고경영자과정 '2025 경영대상' 시상",
-      "link": "https://www.yna.co.kr/view/AKR20251222102300003",
-      "pubDate": "Mon, 22 Dec 2025 17:00:02 +0900"
-    },
-    {
-      "title": "박영선 \"향후 2~3년 AI 변곡점…여성기업도 선제대응해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222020900003",
-      "pubDate": "Mon, 22 Dec 2025 17:00:01 +0900"
-    },
-    {
-      "title": "대외경제협력기금 투명성 높인다…정책실명제·내부신고제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20251222130600002",
-      "pubDate": "Mon, 22 Dec 2025 17:00:00 +0900"
-    },
-    {
-      "title": "디알텍, 80억원 유상증자…네오솔루션즈에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222133000008",
-      "pubDate": "Mon, 22 Dec 2025 16:57:23 +0900"
     }
   ]
 }
