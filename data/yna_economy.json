@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766397066,
+  "updated_at_unix": 1766400345,
   "items": [
+    {
+      "title": "與TF \"디지털자산 규제 협의 거의 끝나…연내 결론날 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222152200001",
+      "pubDate": "Mon, 22 Dec 2025 19:21:51 +0900"
+    },
     {
       "title": "전남도-산업은행, 신재생에너지 첨단산업 육성 '맞손'",
       "link": "https://www.yna.co.kr/view/AKR20251222134200054",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 혼조세…3년물 연 2.999%",
       "link": "https://www.yna.co.kr/view/AKR20251222130000008",
       "pubDate": "Mon, 22 Dec 2025 16:41:09 +0900"
-    },
-    {
-      "title": "케이피엠테크 \"계열사 뉴온 주식 120억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222128700008",
-      "pubDate": "Mon, 22 Dec 2025 16:40:32 +0900"
     }
   ]
 }
