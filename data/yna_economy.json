@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766432565,
+  "updated_at_unix": 1766436048,
   "items": [
+    {
+      "title": "[뉴욕유가] 美, 베네수엘라 '원유 봉쇄'에 2.6% 급등…나흘째↑",
+      "link": "https://www.yna.co.kr/view/AKR20251223004800009",
+      "pubDate": "Tue, 23 Dec 2025 05:31:21 +0900"
+    },
     {
       "title": "달러-원, 연말 한산한 거래 속 오름폭 확대…1,481.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20251223003100002",
@@ -147,11 +152,6 @@
       "title": "디알텍, 80억원 유상증자…네오솔루션즈에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20251222133000008",
       "pubDate": "Mon, 22 Dec 2025 16:57:23 +0900"
-    },
-    {
-      "title": "서울YMCA \"쿠팡·KT 고객 84％, 기업 잘못에 강력제재 희망\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222130300004",
-      "pubDate": "Mon, 22 Dec 2025 16:49:35 +0900"
     }
   ]
 }
