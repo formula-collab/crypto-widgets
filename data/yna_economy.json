@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766403060,
+  "updated_at_unix": 1766411232,
   "items": [
+    {
+      "title": "쿠팡, 물류센터 사망노동자 산재에 불복 소송…뒤늦게 알려져",
+      "link": "https://www.yna.co.kr/view/AKR20251222162100030",
+      "pubDate": "Mon, 22 Dec 2025 22:34:07 +0900"
+    },
+    {
+      "title": "충북 진천 메추리 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251222159600030",
+      "pubDate": "Mon, 22 Dec 2025 21:05:34 +0900"
+    },
+    {
+      "title": "성남 더샵분당티에르원 무순위 청약 경쟁률 351대 1",
+      "link": "https://www.yna.co.kr/view/AKR20251222159000003",
+      "pubDate": "Mon, 22 Dec 2025 20:44:01 +0900"
+    },
     {
       "title": "與TF \"디지털자산 규제 협의 거의 끝나…연내 결론날 수도\"",
       "link": "https://www.yna.co.kr/view/AKR20251222152200001",
@@ -137,21 +152,6 @@
       "title": "'함께 만드는 K-농정협의체' 50여개 과제 성과 도출",
       "link": "https://www.yna.co.kr/view/AKR20251222130100030",
       "pubDate": "Mon, 22 Dec 2025 16:46:21 +0900"
-    },
-    {
-      "title": "하이브리드차 지역개발채권 면제 유지…경기도의회, 조례안 보류",
-      "link": "https://www.yna.co.kr/view/AKR20251222129300061",
-      "pubDate": "Mon, 22 Dec 2025 16:45:47 +0900"
-    },
-    {
-      "title": "'구리 도심 관통' 인창천 복원 8년 만에 착공",
-      "link": "https://www.yna.co.kr/view/AKR20251222129600060",
-      "pubDate": "Mon, 22 Dec 2025 16:42:03 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.999%",
-      "link": "https://www.yna.co.kr/view/AKR20251222130000008",
-      "pubDate": "Mon, 22 Dec 2025 16:41:09 +0900"
     }
   ]
 }
