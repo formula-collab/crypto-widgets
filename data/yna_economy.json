@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766375903,
+  "updated_at_unix": 1766379649,
   "items": [
+    {
+      "title": "\"중소기업 10곳 중 7곳, 내수부진·비용상승이 주요 애로\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222088800030",
+      "pubDate": "Mon, 22 Dec 2025 13:50:56 +0900"
+    },
+    {
+      "title": "경남도, 거제시 아주동에 민간 임대 1천192가구 건설",
+      "link": "https://www.yna.co.kr/view/AKR20251222080900052",
+      "pubDate": "Mon, 22 Dec 2025 13:03:06 +0900"
+    },
+    {
+      "title": "정부·전문가, 내년 일자리정책 논의…'고용동향 점검회의' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20251222036200530",
+      "pubDate": "Mon, 22 Dec 2025 13:00:01 +0900"
+    },
     {
       "title": "올해 항공 여행자 마약 밀반입 557건…1년 새 3배로 뛰어",
       "link": "https://www.yna.co.kr/view/AKR20251222078300002",
@@ -137,21 +152,6 @@
       "title": "[영상] 러시아와 국경 맞댄 유럽 최전선 투입…'장거리 정밀타격' 임무",
       "link": "https://www.yna.co.kr/view/AKR20251222069800704",
       "pubDate": "Mon, 22 Dec 2025 11:25:24 +0900"
-    },
-    {
-      "title": "서울시 규제철폐 '층층공원' 적용한 미아동, 신통기획 확정",
-      "link": "https://www.yna.co.kr/view/AKR20251222036600004",
-      "pubDate": "Mon, 22 Dec 2025 11:15:02 +0900"
-    },
-    {
-      "title": "전국 동물병원 평균 초진 진찰료 1만520원…대전은 1만3천51원",
-      "link": "https://www.yna.co.kr/view/AKR20251222065400030",
-      "pubDate": "Mon, 22 Dec 2025 11:08:31 +0900"
-    },
-    {
-      "title": "내년 건설공사 표준시장단가 2.98% 오른다",
-      "link": "https://www.yna.co.kr/view/AKR20251222042800003",
-      "pubDate": "Mon, 22 Dec 2025 11:00:01 +0900"
     }
   ]
 }
