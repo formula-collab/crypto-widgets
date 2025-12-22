@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766382685,
+  "updated_at_unix": 1766386795,
   "items": [
+    {
+      "title": "제약·바이오 업계, 약가 인하 '유예' 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20251222119900017",
+      "pubDate": "Mon, 22 Dec 2025 15:55:14 +0900"
+    },
+    {
+      "title": "[동정] 이억원 금융위원장, 주한 영국대사 면담…금융분야 협력",
+      "link": "https://www.yna.co.kr/view/AKR20251222117300002",
+      "pubDate": "Mon, 22 Dec 2025 15:47:56 +0900"
+    },
+    {
+      "title": "강원 첫 광역철도 '용문~홍천선' 본궤도…6개 사업 타당성 확보",
+      "link": "https://www.yna.co.kr/view/AKR20251222117200002",
+      "pubDate": "Mon, 22 Dec 2025 15:47:21 +0900"
+    },
+    {
+      "title": "쿠팡 미 본사거래 탈세도 본다…국세청 전방위 세무조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20251222117700002",
+      "pubDate": "Mon, 22 Dec 2025 15:45:59 +0900"
+    },
+    {
+      "title": "한은 직원 \"이창용 총재, 정책실적 좋지만…내부 경영은 보통\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222113700002",
+      "pubDate": "Mon, 22 Dec 2025 15:37:55 +0900"
+    },
+    {
+      "title": "외국환시세(12월22일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20251222116700002",
+      "pubDate": "Mon, 22 Dec 2025 15:35:23 +0900"
+    },
+    {
+      "title": "[특징주] 'K-어묵' 삼진식품, 상장 첫날 153% 상승마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222031251008",
+      "pubDate": "Mon, 22 Dec 2025 15:34:46 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 3.8원 오른 1,480.1원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20251222115400002",
+      "pubDate": "Mon, 22 Dec 2025 15:30:15 +0900"
+    },
+    {
+      "title": "공정위, 대한항공 마일리지 통합안 보완명령…\"사용방안 늘리라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222051901002",
+      "pubDate": "Mon, 22 Dec 2025 15:29:34 +0900"
+    },
+    {
+      "title": "구윤철, 경제안보 직결 방산·식량 점검…\"긴장 놓을 수 없어\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222048051002",
+      "pubDate": "Mon, 22 Dec 2025 15:28:58 +0900"
+    },
+    {
+      "title": "넥슨, '바람의 나라' 방치형 게임 상표 출원",
+      "link": "https://www.yna.co.kr/view/AKR20251222112400017",
+      "pubDate": "Mon, 22 Dec 2025 15:18:15 +0900"
+    },
+    {
+      "title": "DXVX, 1천억원 유상증자…임종윤에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251222112300008",
+      "pubDate": "Mon, 22 Dec 2025 15:18:05 +0900"
+    },
+    {
+      "title": "'로봇·섬유 융합 발전'…섬유개발연, 로봇융합연과 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20251222111900053",
+      "pubDate": "Mon, 22 Dec 2025 15:14:34 +0900"
+    },
+    {
+      "title": "[대구소식] iM뱅크, 적립식 펀드 가입자 경품 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20251222111700053",
+      "pubDate": "Mon, 22 Dec 2025 15:13:46 +0900"
+    },
+    {
+      "title": "'K푸드 열풍' 불닭에 강원의 맛 더하다…황태·닭갈비·찐빵까지",
+      "link": "https://www.yna.co.kr/view/AKR20251222107600062",
+      "pubDate": "Mon, 22 Dec 2025 15:07:57 +0900"
+    },
+    {
+      "title": "공인중개사 신규 개업 지난달 577명…월간 역대 최소치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20251222110200003",
+      "pubDate": "Mon, 22 Dec 2025 15:06:57 +0900"
+    },
+    {
+      "title": "세븐일레븐, 새해 PB제품 40여종 가격 올린다…GS25도 일부 인상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251222075351030",
+      "pubDate": "Mon, 22 Dec 2025 15:06:36 +0900"
+    },
+    {
+      "title": "베네수 봉쇄에 금은값 또 최대치…유가도 오름세",
+      "link": "https://www.yna.co.kr/view/AKR20251222106300009",
+      "pubDate": "Mon, 22 Dec 2025 15:01:37 +0900"
+    },
+    {
+      "title": "FIU, 자금세탁방지 이행평가 손본다…전문성·자발성 강화",
+      "link": "https://www.yna.co.kr/view/AKR20251222096600002",
+      "pubDate": "Mon, 22 Dec 2025 15:00:02 +0900"
+    },
+    {
+      "title": "경사노위원장 \"민주노총 참여, 사회적대화 전제아냐\"…재개 방침",
+      "link": "https://www.yna.co.kr/view/AKR20251222099800530",
+      "pubDate": "Mon, 22 Dec 2025 15:00:00 +0900"
+    },
     {
       "title": "[게시판] 반도건설, 건설재해근로자 지원금 1억원 기탁",
       "link": "https://www.yna.co.kr/view/AKR20251222104200003",
@@ -52,106 +152,6 @@
       "title": "작년 금융사 성과보수 1.4조, 32% 뛰어…\"단기실적 중심\"",
       "link": "https://www.yna.co.kr/view/AKR20251222086600002",
       "pubDate": "Mon, 22 Dec 2025 14:30:02 +0900"
-    },
-    {
-      "title": "사모펀드에 '원스트라이크 아웃'…1회만 중대법령 위반해도 퇴출",
-      "link": "https://www.yna.co.kr/view/AKR20251222097100002",
-      "pubDate": "Mon, 22 Dec 2025 14:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20251222099400011",
-      "pubDate": "Mon, 22 Dec 2025 14:30:00 +0900"
-    },
-    {
-      "title": "[인사] 오리온그룹",
-      "link": "https://www.yna.co.kr/view/AKR20251222100900030",
-      "pubDate": "Mon, 22 Dec 2025 14:28:49 +0900"
-    },
-    {
-      "title": "한화큐셀, 美정부에 상호관세 반환소송 제기했다 취하…\"로펌 착오\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251222057901071",
-      "pubDate": "Mon, 22 Dec 2025 14:28:45 +0900"
-    },
-    {
-      "title": "오리온 오너 3세 담서원, 입사 4년반만에 부사장 승진",
-      "link": "https://www.yna.co.kr/view/AKR20251222099000030",
-      "pubDate": "Mon, 22 Dec 2025 14:28:20 +0900"
-    },
-    {
-      "title": "[인사] 케이프투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20251222100300008",
-      "pubDate": "Mon, 22 Dec 2025 14:24:49 +0900"
-    },
-    {
-      "title": "오산 궐동에 10만8천㎡ 민간공원 조성…2030년 완공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20251222099300061",
-      "pubDate": "Mon, 22 Dec 2025 14:24:02 +0900"
-    },
-    {
-      "title": "[인사] NH투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20251222100000008",
-      "pubDate": "Mon, 22 Dec 2025 14:24:01 +0900"
-    },
-    {
-      "title": "평창군, 국토부 도시재생 공모사업 최종 선정…국비 150억 확보",
-      "link": "https://www.yna.co.kr/view/AKR20251222098000062",
-      "pubDate": "Mon, 22 Dec 2025 14:22:37 +0900"
-    },
-    {
-      "title": "대한제강, 주당 0.66주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20251222099600008",
-      "pubDate": "Mon, 22 Dec 2025 14:22:26 +0900"
-    },
-    {
-      "title": "iM뱅크, 주택금융공사와 커버드본드 지급보증 협약",
-      "link": "https://www.yna.co.kr/view/AKR20251222098100053",
-      "pubDate": "Mon, 22 Dec 2025 14:18:34 +0900"
-    },
-    {
-      "title": "원주시, 내년 예산 1조7천412억원 확정…올해보다 735억원 증가",
-      "link": "https://www.yna.co.kr/view/AKR20251222092100062",
-      "pubDate": "Mon, 22 Dec 2025 14:10:24 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋박현주재단, 가족돌봄청년 금융투자 특강",
-      "link": "https://www.yna.co.kr/view/AKR20251222095700008",
-      "pubDate": "Mon, 22 Dec 2025 14:10:19 +0900"
-    },
-    {
-      "title": "[영상] 美, 베네수 석유 실은 유조선 압류…\"중국기반 무역업체 소유\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222093500704",
-      "pubDate": "Mon, 22 Dec 2025 14:06:43 +0900"
-    },
-    {
-      "title": "금융권 AI 활용 원칙 담은 가이드라인 개정…전담 조직 구축해야",
-      "link": "https://www.yna.co.kr/view/AKR20251222061800002",
-      "pubDate": "Mon, 22 Dec 2025 14:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 공정위, 기업결합 업무 설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251222065300002",
-      "pubDate": "Mon, 22 Dec 2025 14:00:03 +0900"
-    },
-    {
-      "title": "한성숙 중기장관 \"청년 로컬창업기업의 글로벌화 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20251222052400030",
-      "pubDate": "Mon, 22 Dec 2025 14:00:03 +0900"
-    },
-    {
-      "title": "새해 중소기업 정책자금 4조4천억원 공급…60% 이상 비수도권에",
-      "link": "https://www.yna.co.kr/view/AKR20251222068500030",
-      "pubDate": "Mon, 22 Dec 2025 14:00:03 +0900"
-    },
-    {
-      "title": "마산해양신도시 4차 공모 재평가 수순…조만간 심의위원 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251222080800052",
-      "pubDate": "Mon, 22 Dec 2025 13:59:12 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 신안산선 전 구간 대상 특별안전대책 마련",
-      "link": "https://www.yna.co.kr/view/AKR20251222092300003",
-      "pubDate": "Mon, 22 Dec 2025 13:59:07 +0900"
     }
   ]
 }
