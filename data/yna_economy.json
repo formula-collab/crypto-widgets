@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766393767,
+  "updated_at_unix": 1766397066,
   "items": [
+    {
+      "title": "전남도-산업은행, 신재생에너지 첨단산업 육성 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20251222134200054",
+      "pubDate": "Mon, 22 Dec 2025 18:31:00 +0900"
+    },
+    {
+      "title": "기보 차기 이사장 선임절차 착수…내년 1월 2일까지 후보 공모",
+      "link": "https://www.yna.co.kr/view/AKR20251222148100051",
+      "pubDate": "Mon, 22 Dec 2025 18:19:15 +0900"
+    },
+    {
+      "title": "공정위 '고려아연과 경영권 분쟁' 영풍 현장 조사",
+      "link": "https://www.yna.co.kr/view/AKR20251222147500002",
+      "pubDate": "Mon, 22 Dec 2025 18:17:09 +0900"
+    },
+    {
+      "title": "미코 \"펜타스톤3호 신기술투자조합에 366억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222147000008",
+      "pubDate": "Mon, 22 Dec 2025 18:14:17 +0900"
+    },
+    {
+      "title": "'집단해고' 한국GM 하청업체 노동자들 \"노동부 장관 면담 요청\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222144800063",
+      "pubDate": "Mon, 22 Dec 2025 18:07:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251222140000011",
+      "pubDate": "Mon, 22 Dec 2025 18:00:01 +0900"
+    },
     {
       "title": "내년 고용허가제 쿼터 8만명…외국인 가사관리사 본사업 접기로",
       "link": "https://www.yna.co.kr/view/AKR20251222141600530",
@@ -122,36 +152,6 @@
       "title": "케이피엠테크 \"계열사 뉴온 주식 120억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20251222128700008",
       "pubDate": "Mon, 22 Dec 2025 16:40:32 +0900"
-    },
-    {
-      "title": "[특징주] 스페이스X 관련주 연일 급등…미래에셋벤투 상한가(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20251222045353008",
-      "pubDate": "Mon, 22 Dec 2025 16:38:31 +0900"
-    },
-    {
-      "title": "뉴온, 120억원 유상증자…케이피엠테크에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222123700008",
-      "pubDate": "Mon, 22 Dec 2025 16:25:43 +0900"
-    },
-    {
-      "title": "글로벌텍스프리, 140억원 유증…아이즈비전 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251222123200008",
-      "pubDate": "Mon, 22 Dec 2025 16:24:03 +0900"
-    },
-    {
-      "title": "한국사회투자, AI 스타트업·개발자 채용 박람회 열어",
-      "link": "https://www.yna.co.kr/view/AKR20251222119700371",
-      "pubDate": "Mon, 22 Dec 2025 16:21:20 +0900"
-    },
-    {
-      "title": "외국인 순매수에도 환율 1,480원대로 상승…8개월여 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20251222124700002",
-      "pubDate": "Mon, 22 Dec 2025 16:21:12 +0900"
-    },
-    {
-      "title": "[특징주] 스페이스X 관련주 연일 급등…미래에셋벤투 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251222045352008",
-      "pubDate": "Mon, 22 Dec 2025 16:19:26 +0900"
     }
   ]
 }
