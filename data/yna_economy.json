@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766529554,
+  "updated_at_unix": 1766532737,
   "items": [
+    {
+      "title": "중진공, AI 기반 전보 시스템 도입…\"인사 효율성 향상\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224021400030",
+      "pubDate": "Wed, 24 Dec 2025 08:22:11 +0900"
+    },
+    {
+      "title": "SSG닷컴, 이마트와 '초신선 발굴' 강화…할인전도",
+      "link": "https://www.yna.co.kr/view/AKR20251224020800030",
+      "pubDate": "Wed, 24 Dec 2025 08:20:34 +0900"
+    },
+    {
+      "title": "[인사] 중소벤처기업진흥공단",
+      "link": "https://www.yna.co.kr/view/AKR20251224021200030",
+      "pubDate": "Wed, 24 Dec 2025 08:18:17 +0900"
+    },
+    {
+      "title": "세븐일레븐, 구세군 캠페인 참여…캐릭터 협업 상품 아동 후원",
+      "link": "https://www.yna.co.kr/view/AKR20251224020400030",
+      "pubDate": "Wed, 24 Dec 2025 08:10:27 +0900"
+    },
+    {
+      "title": "무신사 로지스틱스, 여주 물류센터에 프랑스 물류시스템 도입",
+      "link": "https://www.yna.co.kr/view/AKR20251224020200030",
+      "pubDate": "Wed, 24 Dec 2025 08:09:56 +0900"
+    },
+    {
+      "title": "소진공, 신협과 '전통시장 지원' 업무 협약",
+      "link": "https://www.yna.co.kr/view/AKR20251224017900030",
+      "pubDate": "Wed, 24 Dec 2025 08:08:32 +0900"
+    },
+    {
+      "title": "유류세 인하 2개월 연장…자동차 개소세 인하는 내년 6월말까지",
+      "link": "https://www.yna.co.kr/view/AKR20251223138000002",
+      "pubDate": "Wed, 24 Dec 2025 08:00:07 +0900"
+    },
+    {
+      "title": "사회적기업 생태계 회복 나선다…지속가능 성장 기반도 구축",
+      "link": "https://www.yna.co.kr/view/AKR20251223082900530",
+      "pubDate": "Wed, 24 Dec 2025 08:00:06 +0900"
+    },
+    {
+      "title": "\"M&A로 중소기업 승계 활성화\"…중기부, 특별법 제정 추진",
+      "link": "https://www.yna.co.kr/view/AKR20251223137600030",
+      "pubDate": "Wed, 24 Dec 2025 08:00:06 +0900"
+    },
+    {
+      "title": "[속보] 車개소세 내년 6월말까지 인하…유류세 인하도 두달 연장",
+      "link": "https://www.yna.co.kr/view/AKR20251223142200002",
+      "pubDate": "Wed, 24 Dec 2025 08:00:05 +0900"
+    },
+    {
+      "title": "'글로벌 자발적 탄소시장' 표준 마련한다…다자체계 모델",
+      "link": "https://www.yna.co.kr/view/AKR20251223146800002",
+      "pubDate": "Wed, 24 Dec 2025 08:00:04 +0900"
+    },
+    {
+      "title": "정부, K-소비재 프리미엄 기업 육성…2030년 수출 700억불 목표",
+      "link": "https://www.yna.co.kr/view/AKR20251223164100003",
+      "pubDate": "Wed, 24 Dec 2025 08:00:02 +0900"
+    },
+    {
+      "title": "한성숙 장관 \"M&A 통한 기업승계 지원정책 구축…특별법 제정\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224014700030",
+      "pubDate": "Wed, 24 Dec 2025 08:00:01 +0900"
+    },
+    {
+      "title": "부산시, 조남준 교수 등 수소산업 분야 석학 4인 자문위원 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20251224018300051",
+      "pubDate": "Wed, 24 Dec 2025 07:58:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 미중갈등 완화 기대감 속 '산타랠리' 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20251224018000008",
+      "pubDate": "Wed, 24 Dec 2025 07:52:55 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251224014400011",
@@ -77,81 +152,6 @@
       "title": "미, 韓기업 '베트남 법인 생산' 제약용 캡슐에 2.45% 상계관세",
       "link": "https://www.yna.co.kr/view/AKR20251223160400003",
       "pubDate": "Tue, 23 Dec 2025 20:31:55 +0900"
-    },
-    {
-      "title": "하나금융, 생산적금융지원팀 신설…은행에 포용금융상품부 설치",
-      "link": "https://www.yna.co.kr/view/AKR20251223158700002",
-      "pubDate": "Tue, 23 Dec 2025 20:14:43 +0900"
-    },
-    {
-      "title": "[인사] 하나금융지주·하나은행",
-      "link": "https://www.yna.co.kr/view/AKR20251223159000002",
-      "pubDate": "Tue, 23 Dec 2025 20:10:21 +0900"
-    },
-    {
-      "title": "은행권, 육아휴직자 주담대 원금 상환 미뤄준다",
-      "link": "https://www.yna.co.kr/view/AKR20251223155500002",
-      "pubDate": "Tue, 23 Dec 2025 19:08:27 +0900"
-    },
-    {
-      "title": "[인사] 손해보험협회",
-      "link": "https://www.yna.co.kr/view/AKR20251223154500002",
-      "pubDate": "Tue, 23 Dec 2025 18:58:04 +0900"
-    },
-    {
-      "title": "피노 \"씨앤피신소재테크놀로지 주식 322억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223153800008",
-      "pubDate": "Tue, 23 Dec 2025 18:57:17 +0900"
-    },
-    {
-      "title": "신영증권 \"두산로보틱스 주식 494억원어치 취득…지분율 0.9%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223153300008",
-      "pubDate": "Tue, 23 Dec 2025 18:55:01 +0900"
-    },
-    {
-      "title": "기재부, 한전 등 상장 공기업 '공공기관 경영평가' 별도 평가",
-      "link": "https://www.yna.co.kr/view/AKR20251223153200002",
-      "pubDate": "Tue, 23 Dec 2025 18:43:01 +0900"
-    },
-    {
-      "title": "[테크스냅] 우체국금융개발원-NIA, 공공 AI 활성화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251223151200017",
-      "pubDate": "Tue, 23 Dec 2025 18:25:03 +0900"
-    },
-    {
-      "title": "엔켐 \"중국 배터리 소재업체에 599억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223152100008",
-      "pubDate": "Tue, 23 Dec 2025 18:21:51 +0900"
-    },
-    {
-      "title": "한국투자증권, 국내 1호 IMA 모집 완료…모집액 1조590억원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251223105351008",
-      "pubDate": "Tue, 23 Dec 2025 18:09:49 +0900"
-    },
-    {
-      "title": "하이로닉, 130억원 유증…캑터스웨스트뷰스페셜시츄에이션  등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251223150100008",
-      "pubDate": "Tue, 23 Dec 2025 18:05:55 +0900"
-    },
-    {
-      "title": "유안타증권 \"두산로보틱스 주식 494억원어치 취득…지분율 0.9%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223148300008",
-      "pubDate": "Tue, 23 Dec 2025 18:02:59 +0900"
-    },
-    {
-      "title": "K푸드, 2030년 '수출 210억달러' 시대 연다…범부처 총력 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251223038500030",
-      "pubDate": "Tue, 23 Dec 2025 18:00:03 +0900"
-    },
-    {
-      "title": "李대통령 \"K푸드, 전략 수출산업으로 성장하도록 지원할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223069800030",
-      "pubDate": "Tue, 23 Dec 2025 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20251223142800011",
-      "pubDate": "Tue, 23 Dec 2025 18:00:01 +0900"
     }
   ]
 }
