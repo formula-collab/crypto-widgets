@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766483216,
+  "updated_at_unix": 1766486963,
   "items": [
+    {
+      "title": "은행권, 육아휴직자 주담대 원금 상환 미뤄준다",
+      "link": "https://www.yna.co.kr/view/AKR20251223155500002",
+      "pubDate": "Tue, 23 Dec 2025 19:08:27 +0900"
+    },
+    {
+      "title": "[인사] 손해보험협회",
+      "link": "https://www.yna.co.kr/view/AKR20251223154500002",
+      "pubDate": "Tue, 23 Dec 2025 18:58:04 +0900"
+    },
+    {
+      "title": "피노 \"씨앤피신소재테크놀로지 주식 322억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223153800008",
+      "pubDate": "Tue, 23 Dec 2025 18:57:17 +0900"
+    },
+    {
+      "title": "신영증권 \"두산로보틱스 주식 494억원어치 취득…지분율 0.9%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223153300008",
+      "pubDate": "Tue, 23 Dec 2025 18:55:01 +0900"
+    },
     {
       "title": "기재부, 한전 등 상장 공기업 '공공기관 경영평가' 별도 평가",
       "link": "https://www.yna.co.kr/view/AKR20251223153200002",
@@ -132,26 +152,6 @@
       "title": "\"행복하게 사세요\"…진안군 성수면에 공공임대 주택 준공",
       "link": "https://www.yna.co.kr/view/AKR20251223130600055",
       "pubDate": "Tue, 23 Dec 2025 16:35:16 +0900"
-    },
-    {
-      "title": "돌아온 외국인, 이달 2조원 가까이 순매수…'산타랠리' 이끌까(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251223050751008",
-      "pubDate": "Tue, 23 Dec 2025 16:22:30 +0900"
-    },
-    {
-      "title": "무보, 해외 건설 수주 '지원사격'…건설공제조합과 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251223128900003",
-      "pubDate": "Tue, 23 Dec 2025 16:21:48 +0900"
-    },
-    {
-      "title": "[특징주] 대한제강, 무상증자 결정에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251223043951008",
-      "pubDate": "Tue, 23 Dec 2025 16:16:59 +0900"
-    },
-    {
-      "title": "[특징주] 이노스페이스, 상업용 로켓 발사 실패에 한때 하한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251223066851008",
-      "pubDate": "Tue, 23 Dec 2025 16:15:58 +0900"
     }
   ]
 }
