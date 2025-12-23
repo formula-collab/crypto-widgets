@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766522402,
+  "updated_at_unix": 1766525577,
   "items": [
+    {
+      "title": "G마켓,  'JV 편입' 후 첫 대규모 공채…플랫폼 강화 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20251223105700030",
+      "pubDate": "Wed, 24 Dec 2025 06:00:10 +0900"
+    },
+    {
+      "title": "금감원 \"내부회계관리제도 의무여부 면밀 확인해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223141100002",
+      "pubDate": "Wed, 24 Dec 2025 06:00:06 +0900"
+    },
+    {
+      "title": "고물가·환율에 소비심리도 식어…지수 1년만에 최대폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20251223131000002",
+      "pubDate": "Wed, 24 Dec 2025 06:00:04 +0900"
+    },
+    {
+      "title": "IPO·유상증자 증가에 11월 주식 발행 775%↑…회사채는 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20251223147200002",
+      "pubDate": "Wed, 24 Dec 2025 06:00:04 +0900"
+    },
+    {
+      "title": "산업부·코트라, 역대 최대 899억원 규모 수출바우처 사업개시",
+      "link": "https://www.yna.co.kr/view/AKR20251223158200003",
+      "pubDate": "Wed, 24 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "금감원, 금융사 지배구조 개선 '고삐'…TF 이르면 내주 출범",
+      "link": "https://www.yna.co.kr/view/AKR20251223132000002",
+      "pubDate": "Wed, 24 Dec 2025 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 트럼프 \"마두로 물러나야\" 위협…WTI 닷새째↑",
       "link": "https://www.yna.co.kr/view/AKR20251224005700009",
@@ -122,36 +152,6 @@
       "title": "휴메딕스 \"광동제약 주식 139억원어치 취득…지분율 4.4%\"",
       "link": "https://www.yna.co.kr/view/AKR20251223144900008",
       "pubDate": "Tue, 23 Dec 2025 17:38:56 +0900"
-    },
-    {
-      "title": "디알텍, 70억원 유상증자…주식회사 휴메딕스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251223144600008",
-      "pubDate": "Tue, 23 Dec 2025 17:37:53 +0900"
-    },
-    {
-      "title": "환율 고공행진 속 국민연금 '전략적 환헤지' 탄력 대응 TF 구성",
-      "link": "https://www.yna.co.kr/view/AKR20251223145800530",
-      "pubDate": "Tue, 23 Dec 2025 17:32:19 +0900"
-    },
-    {
-      "title": "아시아나항공, 2천억원 영구채 발행…\"고환율에 선제 자본확충\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223144500003",
-      "pubDate": "Tue, 23 Dec 2025 17:26:26 +0900"
-    },
-    {
-      "title": "키움증권 \"두산로보틱스 주식 1천580억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223140900008",
-      "pubDate": "Tue, 23 Dec 2025 17:19:54 +0900"
-    },
-    {
-      "title": "환율 상승세에 국고채 금리 장기물 상승…3년물 연 2.963%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251223133851008",
-      "pubDate": "Tue, 23 Dec 2025 17:16:10 +0900"
-    },
-    {
-      "title": "한은, 내년 1월 최대 7조원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20251223139800002",
-      "pubDate": "Tue, 23 Dec 2025 17:07:45 +0900"
     }
   ]
 }
