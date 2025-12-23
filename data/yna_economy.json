@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766486963,
+  "updated_at_unix": 1766489555,
   "items": [
+    {
+      "title": "하나금융, 생산적금융지원팀 신설…은행에 포용금융상품부 설치",
+      "link": "https://www.yna.co.kr/view/AKR20251223158700002",
+      "pubDate": "Tue, 23 Dec 2025 20:14:43 +0900"
+    },
+    {
+      "title": "[인사] 하나금융지주·하나은행",
+      "link": "https://www.yna.co.kr/view/AKR20251223159000002",
+      "pubDate": "Tue, 23 Dec 2025 20:10:21 +0900"
+    },
     {
       "title": "은행권, 육아휴직자 주담대 원금 상환 미뤄준다",
       "link": "https://www.yna.co.kr/view/AKR20251223155500002",
@@ -142,16 +152,6 @@
       "title": "에이텀, 110억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20251223133300008",
       "pubDate": "Tue, 23 Dec 2025 16:39:11 +0900"
-    },
-    {
-      "title": "젠큐릭스, 90억원 유상증자…조상래에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251223133000008",
-      "pubDate": "Tue, 23 Dec 2025 16:37:00 +0900"
-    },
-    {
-      "title": "\"행복하게 사세요\"…진안군 성수면에 공공임대 주택 준공",
-      "link": "https://www.yna.co.kr/view/AKR20251223130600055",
-      "pubDate": "Tue, 23 Dec 2025 16:35:16 +0900"
     }
   ]
 }
