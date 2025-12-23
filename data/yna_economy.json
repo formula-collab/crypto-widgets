@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766466016,
+  "updated_at_unix": 1766468987,
   "items": [
+    {
+      "title": "\"디자인 모방\"…젠틀몬스터, 블루엘리펀트에 소송(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251223017551030",
+      "pubDate": "Tue, 23 Dec 2025 14:42:40 +0900"
+    },
+    {
+      "title": "고양시, 일산동 '미래타운' 관리계획 지정·고시",
+      "link": "https://www.yna.co.kr/view/AKR20251223105500060",
+      "pubDate": "Tue, 23 Dec 2025 14:41:18 +0900"
+    },
+    {
+      "title": "신한카드 \"가맹점 대표 휴대전화 번호 등 19만건 유출\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223105200002",
+      "pubDate": "Tue, 23 Dec 2025 14:41:09 +0900"
+    },
+    {
+      "title": "[쇼츠] 새 터널 완공된 날, 슬로바키아 총리 롤러스케이트로 '씽씽'",
+      "link": "https://www.yna.co.kr/view/AKR20251223104700704",
+      "pubDate": "Tue, 23 Dec 2025 14:35:11 +0900"
+    },
+    {
+      "title": "[게시판] GS건설, 세계자연기금에 기부금 7천200만원 전달",
+      "link": "https://www.yna.co.kr/view/AKR20251223094100003",
+      "pubDate": "Tue, 23 Dec 2025 14:31:35 +0900"
+    },
+    {
+      "title": "김해시, 내년 '착한 선결제' 확대…\"지역경제 활력 회복\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223103100052",
+      "pubDate": "Tue, 23 Dec 2025 14:30:57 +0900"
+    },
+    {
+      "title": "코스콤, 금융 AI 활용 아이디어 공모전 시상식",
+      "link": "https://www.yna.co.kr/view/AKR20251223103300008",
+      "pubDate": "Tue, 23 Dec 2025 14:30:46 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20251223097800011",
+      "pubDate": "Tue, 23 Dec 2025 14:30:12 +0900"
+    },
+    {
+      "title": "\"쿠팡, 입점업체 영업비밀 침해 정황…확인해 처벌해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223015500030",
+      "pubDate": "Tue, 23 Dec 2025 14:26:54 +0900"
+    },
+    {
+      "title": "[속보] 신한카드, 가맹점 대표 휴대전화 번호 등 19만건 유출 신고",
+      "link": "https://www.yna.co.kr/view/AKR20251223102200002",
+      "pubDate": "Tue, 23 Dec 2025 14:25:21 +0900"
+    },
+    {
+      "title": "에이스침대, 연탄은행에 1억원 기부…박보검과 임직원 봉사활동",
+      "link": "https://www.yna.co.kr/view/AKR20251223100300030",
+      "pubDate": "Tue, 23 Dec 2025 14:21:10 +0900"
+    },
+    {
+      "title": "자기주식 현황 공시대상 확대…공시위반 가중처벌 근거도 마련",
+      "link": "https://www.yna.co.kr/view/AKR20251223100600002",
+      "pubDate": "Tue, 23 Dec 2025 14:20:19 +0900"
+    },
+    {
+      "title": "김정관 장관, AI시대 일자리 고민에 답하다…청년과 토크콘서트",
+      "link": "https://www.yna.co.kr/view/AKR20251223101100003",
+      "pubDate": "Tue, 23 Dec 2025 14:19:19 +0900"
+    },
+    {
+      "title": "농식품부, 농어촌 기본소득·재생에너지 전담 국 신설",
+      "link": "https://www.yna.co.kr/view/AKR20251223099300030",
+      "pubDate": "Tue, 23 Dec 2025 14:17:22 +0900"
+    },
+    {
+      "title": "내년 실손보험료 평균 7.8% 오른다…4세대는 20%대 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20251223099700002",
+      "pubDate": "Tue, 23 Dec 2025 14:15:23 +0900"
+    },
+    {
+      "title": "금감원, 권익위 종합청렴도 평가서 2등급…한 등급↑",
+      "link": "https://www.yna.co.kr/view/AKR20251223098600002",
+      "pubDate": "Tue, 23 Dec 2025 14:11:06 +0900"
+    },
+    {
+      "title": "부산항 신항 서 컨터이너 배후단지 상·하수관로 보수",
+      "link": "https://www.yna.co.kr/view/AKR20251223091300051",
+      "pubDate": "Tue, 23 Dec 2025 14:06:47 +0900"
+    },
+    {
+      "title": "금감원, 은행권 '가상계좌 재판매' 내부통제 미흡 지적",
+      "link": "https://www.yna.co.kr/view/AKR20251223096500002",
+      "pubDate": "Tue, 23 Dec 2025 14:06:43 +0900"
+    },
+    {
+      "title": "압수한 농산물을 야생동물 먹이로…인천본부세관, 41t 기증",
+      "link": "https://www.yna.co.kr/view/AKR20251223096400065",
+      "pubDate": "Tue, 23 Dec 2025 14:03:33 +0900"
+    },
+    {
+      "title": "젠틀몬스터 \"제품·브랜드 모방 업체에 법적 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223017500030",
+      "pubDate": "Tue, 23 Dec 2025 14:00:05 +0900"
+    },
+    {
+      "title": "[게시판] 노동부-교육부, 직업계고 학생 지원 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20251223079900530",
+      "pubDate": "Tue, 23 Dec 2025 14:00:04 +0900"
+    },
+    {
+      "title": "1기 신도시 전 구역에 패스트트랙 확대…사업기간 단축 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251223080900003",
+      "pubDate": "Tue, 23 Dec 2025 14:00:01 +0900"
+    },
+    {
+      "title": "국세청, '원천세·소득자료 원클릭 해결' 직원 최우수 표창",
+      "link": "https://www.yna.co.kr/view/AKR20251223051600002",
+      "pubDate": "Tue, 23 Dec 2025 14:00:00 +0900"
+    },
+    {
+      "title": "노동부, 근로감독관 700명 추가 증원…경기노동청 신설",
+      "link": "https://www.yna.co.kr/view/AKR20251223091900530",
+      "pubDate": "Tue, 23 Dec 2025 13:50:30 +0900"
+    },
     {
       "title": "금융위 '국민성장펀드추진단' 신설…메가프로젝트 금융 지원",
       "link": "https://www.yna.co.kr/view/AKR20251223078200002",
@@ -32,126 +152,6 @@
       "title": "소비자원 \"공연 예매 취소 여전히 소비자에 불리…개선 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20251222106500030",
       "pubDate": "Tue, 23 Dec 2025 12:00:43 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 인터넷뱅킹에 전자점자 서비스 도입",
-      "link": "https://www.yna.co.kr/view/AKR20251223069400002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:41 +0900"
-    },
-    {
-      "title": "맞춤 추천·모바일 최적화 강화…'알뜰폰허브' 전면 개편",
-      "link": "https://www.yna.co.kr/view/AKR20251223052400017",
-      "pubDate": "Tue, 23 Dec 2025 12:00:30 +0900"
-    },
-    {
-      "title": "\"벤처투자 계약문화 개선 방안 논의\"…발전포럼 출범",
-      "link": "https://www.yna.co.kr/view/AKR20251223036900030",
-      "pubDate": "Tue, 23 Dec 2025 12:00:29 +0900"
-    },
-    {
-      "title": "금융권 서민금융진흥원 연간 출연금 4천348억→6천321억 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251223050000002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:28 +0900"
-    },
-    {
-      "title": "증권사 부동산 건전성 규제 강화…모험자본 투자쏠림도 방지",
-      "link": "https://www.yna.co.kr/view/AKR20251223053400002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:23 +0900"
-    },
-    {
-      "title": "대기업 해외계열사 통한 우회 출자↑…상표권 수익 534억원 증가",
-      "link": "https://www.yna.co.kr/view/AKR20251223065100002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:22 +0900"
-    },
-    {
-      "title": "사망보험금으로 월평균 38만원 유동화…내년부터 전 생보사 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251223068200002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:22 +0900"
-    },
-    {
-      "title": "작년 북한 경제 2년 연속 3%대 성장…건설·광공업 견인",
-      "link": "https://www.yna.co.kr/view/AKR20251223066200002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:21 +0900"
-    },
-    {
-      "title": "\"파생상품 활용 ETF, 관련 비용 차감 가능…투자 전 확인해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223061600002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:21 +0900"
-    },
-    {
-      "title": "경총 \"韓제조업 임금, 日·대만보다 각각 27.8%·25.9% 높아\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223062700003",
-      "pubDate": "Tue, 23 Dec 2025 12:00:20 +0900"
-    },
-    {
-      "title": "[게시판] 한은, 금융산업 기여 기관 5곳·개인 171명 포상",
-      "link": "https://www.yna.co.kr/view/AKR20251223066700002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:13 +0900"
-    },
-    {
-      "title": "'캄보디아 취업사기' 방지하자…거짓 구인광고 전방위 차단",
-      "link": "https://www.yna.co.kr/view/AKR20251223063500530",
-      "pubDate": "Tue, 23 Dec 2025 12:00:11 +0900"
-    },
-    {
-      "title": "국세청, 환치기·담합 탈세기업 정조준…고강도 세무조사",
-      "link": "https://www.yna.co.kr/view/AKR20251223047700002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:10 +0900"
-    },
-    {
-      "title": "'조선·방산' 경남 경제규모, 충남 제쳤다…경기·서울 이어 3위",
-      "link": "https://www.yna.co.kr/view/AKR20251223075200002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:09 +0900"
-    },
-    {
-      "title": "하도급연동제, 수급사업자 30%만 \"내용 안다\"…기술탈취 피해↑",
-      "link": "https://www.yna.co.kr/view/AKR20251223074200002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:03 +0900"
-    },
-    {
-      "title": "외국인들이 위조 건설자격증으로 공사장 취업…일당 75명 검거",
-      "link": "https://www.yna.co.kr/view/AKR20251223067200004",
-      "pubDate": "Tue, 23 Dec 2025 12:00:02 +0900"
-    },
-    {
-      "title": "청년 10명중 1명꼴 자가…대부분 '6억 이하' 주택",
-      "link": "https://www.yna.co.kr/view/AKR20251223076600002",
-      "pubDate": "Tue, 23 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "주산연 \"내년 집값 전국 1.3%·서울 4.2% 상승 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223076500003",
-      "pubDate": "Tue, 23 Dec 2025 12:00:00 +0900"
-    },
-    {
-      "title": "카카오페이 대표 \"카카오, 원화 스테이블코인 생태계 구축 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223076100017",
-      "pubDate": "Tue, 23 Dec 2025 11:54:53 +0900"
-    },
-    {
-      "title": "청와대 용역노동자들 \"고용보장 안 되면 靑복귀 맞춰 삼보일배\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223076000004",
-      "pubDate": "Tue, 23 Dec 2025 11:51:46 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 장중 연 2.994%",
-      "link": "https://www.yna.co.kr/view/AKR20251223077700008",
-      "pubDate": "Tue, 23 Dec 2025 11:41:07 +0900"
-    },
-    {
-      "title": "장애인 고용부담금, 금액 상관없이 분할 납부 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20251222123300530",
-      "pubDate": "Tue, 23 Dec 2025 11:30:00 +0900"
-    },
-    {
-      "title": "원주시, 구도심 기능 회복·도시 전역 균형성장 도시계획 정비",
-      "link": "https://www.yna.co.kr/view/AKR20251223070800062",
-      "pubDate": "Tue, 23 Dec 2025 11:21:38 +0900"
-    },
-    {
-      "title": "서울시, 2년간 37개 정비사업장서 공사비 갈등 분쟁 해결",
-      "link": "https://www.yna.co.kr/view/AKR20251222161000004",
-      "pubDate": "Tue, 23 Dec 2025 11:15:01 +0900"
     }
   ]
 }
