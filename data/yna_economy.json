@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766480200,
+  "updated_at_unix": 1766483216,
   "items": [
+    {
+      "title": "기재부, 한전 등 상장 공기업 '공공기관 경영평가' 별도 평가",
+      "link": "https://www.yna.co.kr/view/AKR20251223153200002",
+      "pubDate": "Tue, 23 Dec 2025 18:43:01 +0900"
+    },
+    {
+      "title": "[테크스냅] 우체국금융개발원-NIA, 공공 AI 활성화 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20251223151200017",
+      "pubDate": "Tue, 23 Dec 2025 18:25:03 +0900"
+    },
+    {
+      "title": "엔켐 \"중국 배터리 소재업체에 599억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223152100008",
+      "pubDate": "Tue, 23 Dec 2025 18:21:51 +0900"
+    },
+    {
+      "title": "한국투자증권, 국내 1호 IMA 모집 완료…모집액 1조590억원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251223105351008",
+      "pubDate": "Tue, 23 Dec 2025 18:09:49 +0900"
+    },
+    {
+      "title": "하이로닉, 130억원 유증…캑터스웨스트뷰스페셜시츄에이션  등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251223150100008",
+      "pubDate": "Tue, 23 Dec 2025 18:05:55 +0900"
+    },
+    {
+      "title": "유안타증권 \"두산로보틱스 주식 494억원어치 취득…지분율 0.9%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223148300008",
+      "pubDate": "Tue, 23 Dec 2025 18:02:59 +0900"
+    },
+    {
+      "title": "K푸드, 2030년 '수출 210억달러' 시대 연다…범부처 총력 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251223038500030",
+      "pubDate": "Tue, 23 Dec 2025 18:00:03 +0900"
+    },
+    {
+      "title": "李대통령 \"K푸드, 전략 수출산업으로 성장하도록 지원할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223069800030",
+      "pubDate": "Tue, 23 Dec 2025 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251223142800011",
+      "pubDate": "Tue, 23 Dec 2025 18:00:01 +0900"
+    },
     {
       "title": "휴메딕스 \"엘앤씨바이오 주식 150억원어치 취득…지분율 0.9%\"",
       "link": "https://www.yna.co.kr/view/AKR20251223145000008",
@@ -107,51 +152,6 @@
       "title": "[특징주] 이노스페이스, 상업용 로켓 발사 실패에 한때 하한가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251223066851008",
       "pubDate": "Tue, 23 Dec 2025 16:15:58 +0900"
-    },
-    {
-      "title": "iM뱅크·신보, 생산적 금융 1천500억원 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251223127000053",
-      "pubDate": "Tue, 23 Dec 2025 16:11:38 +0900"
-    },
-    {
-      "title": "경남 2026년 생활임금 시급 1만2천110원…올해보다 409원 인상",
-      "link": "https://www.yna.co.kr/view/AKR20251223125800052",
-      "pubDate": "Tue, 23 Dec 2025 16:11:29 +0900"
-    },
-    {
-      "title": "대우조선해양건설 회생절차 종결…회생 개시 10개월 만",
-      "link": "https://www.yna.co.kr/view/AKR20251223126200061",
-      "pubDate": "Tue, 23 Dec 2025 16:11:10 +0900"
-    },
-    {
-      "title": "강원 고성군, 제2특화농공단지 착공…해양심층수 산업 거점 조성",
-      "link": "https://www.yna.co.kr/view/AKR20251223125900062",
-      "pubDate": "Tue, 23 Dec 2025 16:09:46 +0900"
-    },
-    {
-      "title": "경남 고성군·금오중공업, 대독일반산단 공장 증축 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20251223124100052",
-      "pubDate": "Tue, 23 Dec 2025 16:05:51 +0900"
-    },
-    {
-      "title": "키움證, 첫 발행어음 목표액 3천억원 조기 달성…출시 일주일만",
-      "link": "https://www.yna.co.kr/view/AKR20251223123700008",
-      "pubDate": "Tue, 23 Dec 2025 16:00:41 +0900"
-    },
-    {
-      "title": "이찬진, IMA 직접 가입…\"증권사, 생산적금융 선도적 역할해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223116400002",
-      "pubDate": "Tue, 23 Dec 2025 16:00:03 +0900"
-    },
-    {
-      "title": "\"광주·전남 금융기관, 지역 기업 매출 감소때 대출 더 줄여\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223124000054",
-      "pubDate": "Tue, 23 Dec 2025 15:59:51 +0900"
-    },
-    {
-      "title": "진주시, 새해 경제 회복 '총력'…소상공 디지털 전환 지원 등",
-      "link": "https://www.yna.co.kr/view/AKR20251223120000052",
-      "pubDate": "Tue, 23 Dec 2025 15:53:48 +0900"
     }
   ]
 }
