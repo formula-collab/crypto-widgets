@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766461877,
+  "updated_at_unix": 1766466016,
   "items": [
+    {
+      "title": "금융위 '국민성장펀드추진단' 신설…메가프로젝트 금융 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251223078200002",
+      "pubDate": "Tue, 23 Dec 2025 13:45:45 +0900"
+    },
+    {
+      "title": "전문가 77% \"한국 첨단·신산업 기업규제 美·日·中보다 심해\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223092000003",
+      "pubDate": "Tue, 23 Dec 2025 13:45:36 +0900"
+    },
+    {
+      "title": "신한은행, 미래혁신그룹·생산포용금융부 신설",
+      "link": "https://www.yna.co.kr/view/AKR20251223088500002",
+      "pubDate": "Tue, 23 Dec 2025 13:44:02 +0900"
+    },
+    {
+      "title": "회계사들 \"내년 1분기 반도체 호황 지속…민간소비 회복도 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223079100002",
+      "pubDate": "Tue, 23 Dec 2025 13:36:36 +0900"
+    },
+    {
+      "title": "산업통상부, 출범 이래 최대폭 조직개편…산업자원안보실 신설",
+      "link": "https://www.yna.co.kr/view/AKR20251223039000003",
+      "pubDate": "Tue, 23 Dec 2025 12:52:48 +0900"
+    },
     {
       "title": "소비자원 \"공연 예매 취소 여전히 소비자에 불리…개선 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20251222106500030",
@@ -127,31 +152,6 @@
       "title": "서울시, 2년간 37개 정비사업장서 공사비 갈등 분쟁 해결",
       "link": "https://www.yna.co.kr/view/AKR20251222161000004",
       "pubDate": "Tue, 23 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "노동부, '직장 내 괴롭힘 관리 소홀' 양양군청에 과태료 800만원",
-      "link": "https://www.yna.co.kr/view/AKR20251223067100062",
-      "pubDate": "Tue, 23 Dec 2025 11:12:30 +0900"
-    },
-    {
-      "title": "평창군, 자율 위생 실천이 경쟁력…위생등급 음식점 70개소 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251223064900062",
-      "pubDate": "Tue, 23 Dec 2025 11:11:07 +0900"
-    },
-    {
-      "title": "국가AI전략위, AI액션플랜 업계의견 청취…\"실증기회 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223066400017",
-      "pubDate": "Tue, 23 Dec 2025 11:09:25 +0900"
-    },
-    {
-      "title": "삼성증권 중개형 ISA 잔고 7조원 돌파…\"기념 이벤트 개시\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223067900008",
-      "pubDate": "Tue, 23 Dec 2025 11:08:09 +0900"
-    },
-    {
-      "title": "제주도, 내년 '3만원 임대주택' 등 2만8천가구 주거복지 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251223059600056",
-      "pubDate": "Tue, 23 Dec 2025 11:07:36 +0900"
     }
   ]
 }
