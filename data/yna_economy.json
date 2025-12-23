@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766508916,
+  "updated_at_unix": 1766511630,
   "items": [
+    {
+      "title": "달러-원, 美 '깜짝 성장'에 결국 1,480원 넘겨 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251224002800002",
+      "pubDate": "Wed, 24 Dec 2025 02:23:22 +0900"
+    },
     {
       "title": "美국채금리 3분기 깜짝 성장에 급등…연준 금리인하 기대 약화",
       "link": "https://www.yna.co.kr/view/AKR20251223166500072",
@@ -147,11 +152,6 @@
       "title": "한국선급, 제26대 이영석 신임 회장 선임",
       "link": "https://www.yna.co.kr/view/AKR20251223138200051",
       "pubDate": "Tue, 23 Dec 2025 17:01:13 +0900"
-    },
-    {
-      "title": "중일 외교 이슈로 내년 부산항 크루즈 입항 신청 폭발적 증가",
-      "link": "https://www.yna.co.kr/view/AKR20251222084000051",
-      "pubDate": "Tue, 23 Dec 2025 17:00:02 +0900"
     }
   ]
 }
