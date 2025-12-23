@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766501068,
+  "updated_at_unix": 1766504430,
   "items": [
+    {
+      "title": "美국채금리 3분기 깜짝 성장에 급등…연준 금리인하 기대 약화",
+      "link": "https://www.yna.co.kr/view/AKR20251223166500072",
+      "pubDate": "Tue, 23 Dec 2025 23:46:57 +0900"
+    },
     {
       "title": "충북 음성 산란계 농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251223161200030",
@@ -147,11 +152,6 @@
       "title": "중일 외교 이슈로 내년 부산항 크루즈 입항 신청 폭발적 증가",
       "link": "https://www.yna.co.kr/view/AKR20251222084000051",
       "pubDate": "Tue, 23 Dec 2025 17:00:02 +0900"
-    },
-    {
-      "title": "파죽지세 환율 1,500원 코앞…당국 배수진에도 시장은 상승 베팅",
-      "link": "https://www.yna.co.kr/view/AKR20251223136500002",
-      "pubDate": "Tue, 23 Dec 2025 16:59:24 +0900"
     }
   ]
 }
