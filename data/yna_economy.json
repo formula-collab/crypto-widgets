@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766489555,
+  "updated_at_unix": 1766497678,
   "items": [
+    {
+      "title": "충북 음성 산란계 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251223161200030",
+      "pubDate": "Tue, 23 Dec 2025 21:02:36 +0900"
+    },
+    {
+      "title": "신한카드서 가맹주 개인정보 19만건 유출…내부직원 12명 연루(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20251223105252002",
+      "pubDate": "Tue, 23 Dec 2025 20:43:55 +0900"
+    },
+    {
+      "title": "미, 韓기업 '베트남 법인 생산' 제약용 캡슐에 2.45% 상계관세",
+      "link": "https://www.yna.co.kr/view/AKR20251223160400003",
+      "pubDate": "Tue, 23 Dec 2025 20:31:55 +0900"
+    },
     {
       "title": "하나금융, 생산적금융지원팀 신설…은행에 포용금융상품부 설치",
       "link": "https://www.yna.co.kr/view/AKR20251223158700002",
@@ -137,21 +152,6 @@
       "title": "파죽지세 환율 1,500원 코앞…당국 배수진에도 시장은 상승 베팅",
       "link": "https://www.yna.co.kr/view/AKR20251223136500002",
       "pubDate": "Tue, 23 Dec 2025 16:59:24 +0900"
-    },
-    {
-      "title": "레이 \"종속회사 레이셀 주식 50억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223134100008",
-      "pubDate": "Tue, 23 Dec 2025 16:43:39 +0900"
-    },
-    {
-      "title": "국고채 금리 단기물 하락·장기물 상승…3년물 연 2.963%",
-      "link": "https://www.yna.co.kr/view/AKR20251223133800008",
-      "pubDate": "Tue, 23 Dec 2025 16:42:26 +0900"
-    },
-    {
-      "title": "에이텀, 110억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20251223133300008",
-      "pubDate": "Tue, 23 Dec 2025 16:39:11 +0900"
     }
   ]
 }
