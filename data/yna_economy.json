@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766525577,
+  "updated_at_unix": 1766529554,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251224014400011",
+      "pubDate": "Wed, 24 Dec 2025 07:24:56 +0900"
+    },
+    {
+      "title": "내년 반도체주 훈풍 이어지나…실적 눈높이 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20251223121700008",
+      "pubDate": "Wed, 24 Dec 2025 07:13:01 +0900"
+    },
     {
       "title": "G마켓,  'JV 편입' 후 첫 대규모 공채…플랫폼 강화 나선다",
       "link": "https://www.yna.co.kr/view/AKR20251223105700030",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20251223142800011",
       "pubDate": "Tue, 23 Dec 2025 18:00:01 +0900"
-    },
-    {
-      "title": "휴메딕스 \"엘앤씨바이오 주식 150억원어치 취득…지분율 0.9%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223145000008",
-      "pubDate": "Tue, 23 Dec 2025 17:39:44 +0900"
-    },
-    {
-      "title": "휴메딕스 \"광동제약 주식 139억원어치 취득…지분율 4.4%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223144900008",
-      "pubDate": "Tue, 23 Dec 2025 17:38:56 +0900"
     }
   ]
 }
