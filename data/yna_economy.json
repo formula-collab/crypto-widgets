@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766548136,
+  "updated_at_unix": 1766552352,
   "items": [
+    {
+      "title": "놀유니버스 대표 \"K컬처 기반 글로벌 여가 생태계 만들 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224036951030",
+      "pubDate": "Wed, 24 Dec 2025 13:46:55 +0900"
+    },
+    {
+      "title": "\"주거·돌봄 동시 해결\" 제주 첫 고령자 복지주택 운영 시작",
+      "link": "https://www.yna.co.kr/view/AKR20251224085200056",
+      "pubDate": "Wed, 24 Dec 2025 13:44:27 +0900"
+    },
+    {
+      "title": "금융당국, '개인정보 19만건 유출' 신한카드 긴급 현장검사",
+      "link": "https://www.yna.co.kr/view/AKR20251224084100002",
+      "pubDate": "Wed, 24 Dec 2025 13:38:48 +0900"
+    },
     {
       "title": "\"층간소음 매트, 소음 저감 효과는 비슷…내구성 봐야\"",
       "link": "https://www.yna.co.kr/view/AKR20251223122400030",
@@ -137,21 +152,6 @@
       "title": "최우수 관리 공동주택 단지에 대전 아이파크시티 1단지",
       "link": "https://www.yna.co.kr/view/AKR20251224022200003",
       "pubDate": "Wed, 24 Dec 2025 11:00:00 +0900"
-    },
-    {
-      "title": "[게시판] NH투자증권, 주거취약계층에 5억원 상당 쌀꾸러미 전달",
-      "link": "https://www.yna.co.kr/view/AKR20251224060800008",
-      "pubDate": "Wed, 24 Dec 2025 10:57:11 +0900"
-    },
-    {
-      "title": "'수도권 영농형태양광' 시범조성지에 화성 사곶리·안성 현매리",
-      "link": "https://www.yna.co.kr/view/AKR20251224060600030",
-      "pubDate": "Wed, 24 Dec 2025 10:56:28 +0900"
-    },
-    {
-      "title": "[인사] 경남농협",
-      "link": "https://www.yna.co.kr/view/AKR20251224060100052",
-      "pubDate": "Wed, 24 Dec 2025 10:54:52 +0900"
     }
   ]
 }
