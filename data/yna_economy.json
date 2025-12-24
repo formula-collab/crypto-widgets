@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766566560,
+  "updated_at_unix": 1766569341,
   "items": [
+    {
+      "title": "환율 급락에 환전 몰렸나…시중은행 지점서 100달러 지폐 소진",
+      "link": "https://www.yna.co.kr/view/AKR20251224141500002",
+      "pubDate": "Wed, 24 Dec 2025 18:36:49 +0900"
+    },
+    {
+      "title": "CSA 코스믹 \"피엘오조합 주식 40억원어치 취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224138400008",
+      "pubDate": "Wed, 24 Dec 2025 18:20:10 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251224135500011",
+      "pubDate": "Wed, 24 Dec 2025 18:00:00 +0900"
+    },
+    {
+      "title": "[게시판] 웅진그룹, 노원구에서 연탄 나눔 활동",
+      "link": "https://www.yna.co.kr/view/AKR20251224137500030",
+      "pubDate": "Wed, 24 Dec 2025 17:53:21 +0900"
+    },
     {
       "title": "중기부, 정책금융 '제3자 부당개입' 대응 전담 TF 구성",
       "link": "https://www.yna.co.kr/view/AKR20251224136400030",
@@ -94,7 +114,7 @@
       "pubDate": "Wed, 24 Dec 2025 16:35:26 +0900"
     },
     {
-      "title": "130억짜리 아파트 사면서 부친 돈 106억 무이자로 빌려",
+      "title": "130억 집 사면서 아빠한테 106억 무이자로 빌려…집 25채 산 어린 남매도",
       "link": "https://www.yna.co.kr/view/AKR20251224045700003",
       "pubDate": "Wed, 24 Dec 2025 16:30:00 +0900"
     },
@@ -132,26 +152,6 @@
       "title": "[특징주] '코스닥 새내기' 리브스메드, 상장 첫날 9.8% 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224035451008",
       "pubDate": "Wed, 24 Dec 2025 15:47:48 +0900"
-    },
-    {
-      "title": "공정위, 유한킴벌리 등 생리대 업체 3사 현장조사(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224112052002",
-      "pubDate": "Wed, 24 Dec 2025 15:47:35 +0900"
-    },
-    {
-      "title": "외국환시세(12월24일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20251224112200002",
-      "pubDate": "Wed, 24 Dec 2025 15:38:07 +0900"
-    },
-    {
-      "title": "[2보] 공정위, 유한킴벌리 등 생리대 업체 3사 현장 조사",
-      "link": "https://www.yna.co.kr/view/AKR20251224112051002",
-      "pubDate": "Wed, 24 Dec 2025 15:37:57 +0900"
-    },
-    {
-      "title": "[특징주] 두산, 4% 가까이 급등마감…SK실트론 인수 기대감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224033551008",
-      "pubDate": "Wed, 24 Dec 2025 15:37:27 +0900"
     }
   ]
 }
