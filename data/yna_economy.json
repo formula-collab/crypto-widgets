@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766575883,
+  "updated_at_unix": 1766583633,
   "items": [
+    {
+      "title": "안성·고창·나주서 고병원성 조류인플루엔자 발생",
+      "link": "https://www.yna.co.kr/view/AKR20251224147700030",
+      "pubDate": "Wed, 24 Dec 2025 20:42:52 +0900"
+    },
     {
       "title": "오세훈, 세운지구 개발 강연 2탄…\"도심 바꾸는 '침술 효과'\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224121551004",
@@ -147,11 +152,6 @@
       "title": "울산과학대, 베트남 직업교육 협력 확대…현지서 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20251224117700057",
       "pubDate": "Wed, 24 Dec 2025 16:06:07 +0900"
-    },
-    {
-      "title": "국토·노동장관, 공공 발주 건설공사 불법 하도급 점검",
-      "link": "https://www.yna.co.kr/view/AKR20251224110500003",
-      "pubDate": "Wed, 24 Dec 2025 16:00:00 +0900"
     }
   ]
 }
