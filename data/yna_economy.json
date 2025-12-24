@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766608780,
+  "updated_at_unix": 1766611963,
   "items": [
+    {
+      "title": "계란값 8% 올랐는데…산란계 AI 늘어 수급 불안 우려",
+      "link": "https://www.yna.co.kr/view/AKR20251224124000030",
+      "pubDate": "Thu, 25 Dec 2025 06:15:00 +0900"
+    },
+    {
+      "title": "안드로이드에 숨은 '원더랜드'…OTP까지 털린다",
+      "link": "https://www.yna.co.kr/view/AKR20251224135000017",
+      "pubDate": "Thu, 25 Dec 2025 06:03:00 +0900"
+    },
+    {
+      "title": "롯데슈퍼, 연말 홈파티 먹거리·새해 떡국 재료 할인전",
+      "link": "https://www.yna.co.kr/view/AKR20251224126300030",
+      "pubDate": "Thu, 25 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "오락실 큰손 30대…올해 인당 카드사용 2만6천원, 27%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251224139900002",
+      "pubDate": "Thu, 25 Dec 2025 05:57:00 +0900"
+    },
+    {
+      "title": "지역인재 의무 채용의 역설?…\"지방대 취업 확률 오히려 4%p↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224145700002",
+      "pubDate": "Thu, 25 Dec 2025 05:55:00 +0900"
+    },
+    {
+      "title": "'고환율에 고물가' 경고등…투자은행 내년 전망치 잇단 상향",
+      "link": "https://www.yna.co.kr/view/AKR20251224133000002",
+      "pubDate": "Thu, 25 Dec 2025 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·베네수엘라 긴장 속 숨고르기…WTI 0.1%↓",
       "link": "https://www.yna.co.kr/view/AKR20251225004300009",
@@ -122,36 +152,6 @@
       "title": "송미령 장관 \"농촌에 AI 기반 수요맞춤형 교통모델 도입\"",
       "link": "https://www.yna.co.kr/view/AKR20251224126600030",
       "pubDate": "Wed, 24 Dec 2025 16:53:08 +0900"
-    },
-    {
-      "title": "오세훈, 세운지구 개발 강연 2탄…\"도심 바꾸는 '침술 효과'\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224121500004",
-      "pubDate": "Wed, 24 Dec 2025 16:44:20 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 2.939%",
-      "link": "https://www.yna.co.kr/view/AKR20251224123700008",
-      "pubDate": "Wed, 24 Dec 2025 16:42:43 +0900"
-    },
-    {
-      "title": "미래에셋증권 'IMA 1호 상품'도 완판…최종 경쟁률 5대 1",
-      "link": "https://www.yna.co.kr/view/AKR20251224121300008",
-      "pubDate": "Wed, 24 Dec 2025 16:41:39 +0900"
-    },
-    {
-      "title": "함안군, 청년창업가 성장 지원…내달 11일까지 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251224120400052",
-      "pubDate": "Wed, 24 Dec 2025 16:35:26 +0900"
-    },
-    {
-      "title": "130억 집 사면서 아빠한테 106억 무이자로 빌려…집 25채 산 어린 남매도",
-      "link": "https://www.yna.co.kr/view/AKR20251224045700003",
-      "pubDate": "Wed, 24 Dec 2025 16:30:00 +0900"
-    },
-    {
-      "title": "환율, 정부 '경고'에 1,440원대로 뚝…3년1개월 만에 최대폭↓",
-      "link": "https://www.yna.co.kr/view/AKR20251224115700002",
-      "pubDate": "Wed, 24 Dec 2025 16:26:02 +0900"
     }
   ]
 }
