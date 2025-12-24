@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766555343,
+  "updated_at_unix": 1766559569,
   "items": [
+    {
+      "title": "[특징주] '코스닥 새내기' 리브스메드, 상장 첫날 9.8% 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224035451008",
+      "pubDate": "Wed, 24 Dec 2025 15:47:48 +0900"
+    },
+    {
+      "title": "공정위, 유한킴벌리 등 생리대 업체 3사 현장조사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224112052002",
+      "pubDate": "Wed, 24 Dec 2025 15:47:35 +0900"
+    },
+    {
+      "title": "외국환시세(12월24일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20251224112200002",
+      "pubDate": "Wed, 24 Dec 2025 15:38:07 +0900"
+    },
+    {
+      "title": "[2보] 공정위, 유한킴벌리 등 생리대 업체 3사 현장 조사",
+      "link": "https://www.yna.co.kr/view/AKR20251224112051002",
+      "pubDate": "Wed, 24 Dec 2025 15:37:57 +0900"
+    },
+    {
+      "title": "[특징주] 두산, 4% 가까이 급등마감…SK실트론 인수 기대감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224033551008",
+      "pubDate": "Wed, 24 Dec 2025 15:37:27 +0900"
+    },
+    {
+      "title": "[속보] 환율, 33.8원 내린 1,449.8원…3년 1개월 만에 최대폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20251224111500002",
+      "pubDate": "Wed, 24 Dec 2025 15:36:41 +0900"
+    },
+    {
+      "title": "[1보] 공정위, 유한킴벌리 등 생리대 업체 3사 현장 조사",
+      "link": "https://www.yna.co.kr/view/AKR20251224112000002",
+      "pubDate": "Wed, 24 Dec 2025 15:35:03 +0900"
+    },
+    {
+      "title": "[광주소식] 동광주새마을금고, 좀도리쌀 기부",
+      "link": "https://www.yna.co.kr/view/AKR20251224111200054",
+      "pubDate": "Wed, 24 Dec 2025 15:33:27 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 33.8원 내린 1,449.8원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20251224110200002",
+      "pubDate": "Wed, 24 Dec 2025 15:30:15 +0900"
+    },
+    {
+      "title": "주금공, 내달 보금자리론 금리 0.25%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20251224106500002",
+      "pubDate": "Wed, 24 Dec 2025 15:28:38 +0900"
+    },
+    {
+      "title": "아성다이소, 연말 앞두고 납품대금 1천500억원 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20251224107700030",
+      "pubDate": "Wed, 24 Dec 2025 15:19:28 +0900"
+    },
+    {
+      "title": "경고장에 당근책까지…외환당국 '능력' 드러내자 환율 뚝",
+      "link": "https://www.yna.co.kr/view/AKR20251224103700002",
+      "pubDate": "Wed, 24 Dec 2025 15:16:31 +0900"
+    },
+    {
+      "title": "지난해 광주 기업 수익성 악화…부채비율도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20251224104600054",
+      "pubDate": "Wed, 24 Dec 2025 15:09:30 +0900"
+    },
+    {
+      "title": "[인사] 이지스자산운용",
+      "link": "https://www.yna.co.kr/view/AKR20251224104800008",
+      "pubDate": "Wed, 24 Dec 2025 15:09:19 +0900"
+    },
+    {
+      "title": "[특징주] 영풍, '고려아연 美 제련소 유증 중단' 가처분 기각에 급락",
+      "link": "https://www.yna.co.kr/view/AKR20251224101900008",
+      "pubDate": "Wed, 24 Dec 2025 15:01:55 +0900"
+    },
+    {
+      "title": "부산·경남 6개 기업 사업재편계획 승인…성장기반 마련",
+      "link": "https://www.yna.co.kr/view/AKR20251224103500051",
+      "pubDate": "Wed, 24 Dec 2025 15:01:50 +0900"
+    },
+    {
+      "title": "소진공, 신협과 고객지원 협약…\"전통시장을 관광 명소로\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224017951030",
+      "pubDate": "Wed, 24 Dec 2025 15:00:59 +0900"
+    },
+    {
+      "title": "UST 5개 국가연구소 스쿨, '딥테크 학생창업' 활성화 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20251224087700063",
+      "pubDate": "Wed, 24 Dec 2025 15:00:01 +0900"
+    },
+    {
+      "title": "[게시판] 중소벤처기업유통원, 구세군에 기부금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20251224100600030",
+      "pubDate": "Wed, 24 Dec 2025 14:49:39 +0900"
+    },
+    {
+      "title": "법원 판단에 날개 단 고려아연, 美 제련소 프로젝트 급물살(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224080751003",
+      "pubDate": "Wed, 24 Dec 2025 14:49:22 +0900"
+    },
+    {
+      "title": "GKL, AI 기반 카지노 게임진행 시스템 검증 마쳐",
+      "link": "https://www.yna.co.kr/view/AKR20251224100300030",
+      "pubDate": "Wed, 24 Dec 2025 14:49:20 +0900"
+    },
     {
       "title": "'국장 복귀 서학개미 비과세' 정부 환율대책에 증권가 '들썩'",
       "link": "https://www.yna.co.kr/view/AKR20251224098700008",
@@ -47,111 +152,6 @@
       "title": "익산 발달장애인 교육센터 2027년 완공…사회적응서 자립까지",
       "link": "https://www.yna.co.kr/view/AKR20251224091100055",
       "pubDate": "Wed, 24 Dec 2025 14:09:27 +0900"
-    },
-    {
-      "title": "[게시판] 신세계면세점, 서울 중구청 돌봄교실 아동에 방한용품 기부",
-      "link": "https://www.yna.co.kr/view/AKR20251224089900030",
-      "pubDate": "Wed, 24 Dec 2025 14:05:40 +0900"
-    },
-    {
-      "title": "법원 판단에 날개 단 고려아연, 美 제련소 프로젝트 급물살",
-      "link": "https://www.yna.co.kr/view/AKR20251224080700003",
-      "pubDate": "Wed, 24 Dec 2025 14:04:02 +0900"
-    },
-    {
-      "title": "부산 소비자 경제 심리 식어…12월 지수 하락",
-      "link": "https://www.yna.co.kr/view/AKR20251224088800051",
-      "pubDate": "Wed, 24 Dec 2025 13:58:39 +0900"
-    },
-    {
-      "title": "놀유니버스 대표 \"K컬처 기반 글로벌 여가 생태계 만들 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224036951030",
-      "pubDate": "Wed, 24 Dec 2025 13:46:55 +0900"
-    },
-    {
-      "title": "\"주거·돌봄 동시 해결\" 제주 첫 고령자 복지주택 운영 시작",
-      "link": "https://www.yna.co.kr/view/AKR20251224085200056",
-      "pubDate": "Wed, 24 Dec 2025 13:44:27 +0900"
-    },
-    {
-      "title": "금융당국, '개인정보 19만건 유출' 신한카드 긴급 현장검사",
-      "link": "https://www.yna.co.kr/view/AKR20251224084100002",
-      "pubDate": "Wed, 24 Dec 2025 13:38:48 +0900"
-    },
-    {
-      "title": "\"층간소음 매트, 소음 저감 효과는 비슷…내구성 봐야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223122400030",
-      "pubDate": "Wed, 24 Dec 2025 12:00:13 +0900"
-    },
-    {
-      "title": "작년 프랜차이즈 매출 6.8%↑…코로나 이후 최소 증가 폭",
-      "link": "https://www.yna.co.kr/view/AKR20251224024800002",
-      "pubDate": "Wed, 24 Dec 2025 12:00:12 +0900"
-    },
-    {
-      "title": "11월 다른 동네로 이동 42만8천명…51년 만에 가장 적어",
-      "link": "https://www.yna.co.kr/view/AKR20251224054500002",
-      "pubDate": "Wed, 24 Dec 2025 12:00:11 +0900"
-    },
-    {
-      "title": "사회보험 준수의 역설…'보호 사각지대' 초단시간 근로 급증",
-      "link": "https://www.yna.co.kr/view/AKR20251224055600002",
-      "pubDate": "Wed, 24 Dec 2025 12:00:10 +0900"
-    },
-    {
-      "title": "어촌·어항발전기본계획 수립…스마트수산업 혁신선도지구 지정",
-      "link": "https://www.yna.co.kr/view/AKR20251224067200030",
-      "pubDate": "Wed, 24 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "올해 가을배추·무 생산량 역대 최소…잦은 비 영향",
-      "link": "https://www.yna.co.kr/view/AKR20251224065000002",
-      "pubDate": "Wed, 24 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "관악구, 내년 어르신 일자리 5천36명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251224073000004",
-      "pubDate": "Wed, 24 Dec 2025 11:50:30 +0900"
-    },
-    {
-      "title": "[AI픽] 2030년까지 전세계 AI 소비 지출 1천조원 육박한다",
-      "link": "https://www.yna.co.kr/view/AKR20251224070700017",
-      "pubDate": "Wed, 24 Dec 2025 11:48:39 +0900"
-    },
-    {
-      "title": "[인사] Sh수협은행",
-      "link": "https://www.yna.co.kr/view/AKR20251224071100002",
-      "pubDate": "Wed, 24 Dec 2025 11:47:39 +0900"
-    },
-    {
-      "title": "정부 \"내년 대미투자 200억달러 보다 훨씬 적을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224070400002",
-      "pubDate": "Wed, 24 Dec 2025 11:47:19 +0900"
-    },
-    {
-      "title": "고춧가루·인스턴트 커피·녹차도 美상호관세 면제",
-      "link": "https://www.yna.co.kr/view/AKR20251224070100002",
-      "pubDate": "Wed, 24 Dec 2025 11:46:54 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 2.924%",
-      "link": "https://www.yna.co.kr/view/AKR20251224071600008",
-      "pubDate": "Wed, 24 Dec 2025 11:40:22 +0900"
-    },
-    {
-      "title": "반도체공학회 새 회장에 최기영 전 과기정통부 장관",
-      "link": "https://www.yna.co.kr/view/AKR20251224068900003",
-      "pubDate": "Wed, 24 Dec 2025 11:29:15 +0900"
-    },
-    {
-      "title": "역삼센트럴자이 당첨 가점 최고 79점·최저 69점",
-      "link": "https://www.yna.co.kr/view/AKR20251224068400003",
-      "pubDate": "Wed, 24 Dec 2025 11:28:40 +0900"
-    },
-    {
-      "title": "'서학개미, 동학개미로 돌아오라'…20% 양도세, 한시 비과세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224043951002",
-      "pubDate": "Wed, 24 Dec 2025 11:27:36 +0900"
     }
   ]
 }
