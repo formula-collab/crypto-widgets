@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766611963,
+  "updated_at_unix": 1766616028,
   "items": [
+    {
+      "title": "셀트리온은 직접 팔고, 삼성바이오에피스는 맡겼다",
+      "link": "https://www.yna.co.kr/view/AKR20251224131700017",
+      "pubDate": "Thu, 25 Dec 2025 07:33:00 +0900"
+    },
+    {
+      "title": "'노후건물 셋방살이' 끝낸다…연평도 새 우체국 건립 속도",
+      "link": "https://www.yna.co.kr/view/AKR20251219052500065",
+      "pubDate": "Thu, 25 Dec 2025 07:17:00 +0900"
+    },
+    {
+      "title": "올해 가장 많이 선물한 국내주식은 삼성전자…해외종목은 테슬라",
+      "link": "https://www.yna.co.kr/view/AKR20251224124400008",
+      "pubDate": "Thu, 25 Dec 2025 07:15:00 +0900"
+    },
+    {
+      "title": "건설 순환골재 품질인증 KS인증으로 일원화",
+      "link": "https://www.yna.co.kr/view/AKR20251225008900003",
+      "pubDate": "Thu, 25 Dec 2025 07:02:53 +0900"
+    },
+    {
+      "title": "경기도, '기존주택 전세임대' 3천가구 입주자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251224136000061",
+      "pubDate": "Thu, 25 Dec 2025 07:01:03 +0900"
+    },
+    {
+      "title": "서울 서민메뉴 1년새 3∼5%대 상승…김밥·칼국수 '직격탄'",
+      "link": "https://www.yna.co.kr/view/AKR20251224116600030",
+      "pubDate": "Thu, 25 Dec 2025 07:01:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '시민 對 정치' 2025 아프리카 선거의 깊은 간극",
+      "link": "https://www.yna.co.kr/view/AKR20251212029100898",
+      "pubDate": "Thu, 25 Dec 2025 07:00:03 +0900"
+    },
+    {
+      "title": "정부, 온라인쇼핑몰 지원사업 활기…\"소상공인 매출 '쑥'\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224130500030",
+      "pubDate": "Thu, 25 Dec 2025 06:33:00 +0900"
+    },
     {
       "title": "계란값 8% 올랐는데…산란계 AI 늘어 수급 불안 우려",
       "link": "https://www.yna.co.kr/view/AKR20251224124000030",
@@ -112,46 +152,6 @@
       "title": "에이전트AI \"니즈게임즈 주식 40억원어치 취득…지분율 99.2%\"",
       "link": "https://www.yna.co.kr/view/AKR20251224131300008",
       "pubDate": "Wed, 24 Dec 2025 17:16:10 +0900"
-    },
-    {
-      "title": "환율 제동에 국고채 금리 일제히 하락…3년물 연 2.939%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224123751008",
-      "pubDate": "Wed, 24 Dec 2025 17:14:50 +0900"
-    },
-    {
-      "title": "'양평공흥 의혹' 김건희 일가·김선교 기소…\"22억대 배임\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224110151004",
-      "pubDate": "Wed, 24 Dec 2025 17:14:06 +0900"
-    },
-    {
-      "title": "이찬진, 첫 임원 인사단행…금융소비자보호처 출신 전면배치",
-      "link": "https://www.yna.co.kr/view/AKR20251224129900002",
-      "pubDate": "Wed, 24 Dec 2025 17:11:20 +0900"
-    },
-    {
-      "title": "11월 자동차보험 손해율 92.1%…손보업계 보험료 인상 추진",
-      "link": "https://www.yna.co.kr/view/AKR20251224128800002",
-      "pubDate": "Wed, 24 Dec 2025 17:09:55 +0900"
-    },
-    {
-      "title": "\"韓생리대 40% 비싸\"…공정위, 유한킴벌리 등 3사 현장조사(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20251224112053002",
-      "pubDate": "Wed, 24 Dec 2025 17:01:51 +0900"
-    },
-    {
-      "title": "대구·경북 12월 소비자심리지수 전달보다 1.3p 하락",
-      "link": "https://www.yna.co.kr/view/AKR20251224091600053",
-      "pubDate": "Wed, 24 Dec 2025 17:00:02 +0900"
-    },
-    {
-      "title": "젬백스, 170억원 유상증자…젬앤컴퍼니 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20251224127400008",
-      "pubDate": "Wed, 24 Dec 2025 16:59:10 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농촌에 AI 기반 수요맞춤형 교통모델 도입\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224126600030",
-      "pubDate": "Wed, 24 Dec 2025 16:53:08 +0900"
     }
   ]
 }
