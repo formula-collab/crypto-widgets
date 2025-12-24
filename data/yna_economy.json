@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766573048,
+  "updated_at_unix": 1766575883,
   "items": [
+    {
+      "title": "오세훈, 세운지구 개발 강연 2탄…\"도심 바꾸는 '침술 효과'\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224121551004",
+      "pubDate": "Wed, 24 Dec 2025 19:49:32 +0900"
+    },
     {
       "title": "'퀸잇' 운영사 라포랩스, SK스토아 인수…\"별도 경영\"",
       "link": "https://www.yna.co.kr/view/AKR20251224141900030",
@@ -147,11 +152,6 @@
       "title": "국토·노동장관, 공공 발주 건설공사 불법 하도급 점검",
       "link": "https://www.yna.co.kr/view/AKR20251224110500003",
       "pubDate": "Wed, 24 Dec 2025 16:00:00 +0900"
-    },
-    {
-      "title": "해피트리, 베트남 소수민족 교육환경 개선사업 시행",
-      "link": "https://www.yna.co.kr/view/AKR20251224108200056",
-      "pubDate": "Wed, 24 Dec 2025 15:56:27 +0900"
     }
   ]
 }
