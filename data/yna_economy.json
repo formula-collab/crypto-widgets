@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766559569,
+  "updated_at_unix": 1766562104,
   "items": [
+    {
+      "title": "130억짜리 아파트 사면서 부친 돈 106억 무이자로 빌려",
+      "link": "https://www.yna.co.kr/view/AKR20251224045700003",
+      "pubDate": "Wed, 24 Dec 2025 16:30:00 +0900"
+    },
+    {
+      "title": "환율, 정부 '경고'에 1,440원대로 뚝…3년1개월 만에 최대폭↓",
+      "link": "https://www.yna.co.kr/view/AKR20251224115700002",
+      "pubDate": "Wed, 24 Dec 2025 16:26:02 +0900"
+    },
+    {
+      "title": "부산은행장 등 BNK금융 자회사 대표 최종후보 연내 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251224119500051",
+      "pubDate": "Wed, 24 Dec 2025 16:18:37 +0900"
+    },
+    {
+      "title": "울산과학대, 베트남 직업교육 협력 확대…현지서 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20251224117700057",
+      "pubDate": "Wed, 24 Dec 2025 16:06:07 +0900"
+    },
+    {
+      "title": "국토·노동장관, 공공 발주 건설공사 불법 하도급 점검",
+      "link": "https://www.yna.co.kr/view/AKR20251224110500003",
+      "pubDate": "Wed, 24 Dec 2025 16:00:00 +0900"
+    },
+    {
+      "title": "해피트리, 베트남 소수민족 교육환경 개선사업 시행",
+      "link": "https://www.yna.co.kr/view/AKR20251224108200056",
+      "pubDate": "Wed, 24 Dec 2025 15:56:27 +0900"
+    },
+    {
+      "title": "영풍, '고려아연 美 제련소 유증 중단' 가처분 기각에 9% 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224101951008",
+      "pubDate": "Wed, 24 Dec 2025 15:54:52 +0900"
+    },
     {
       "title": "[특징주] '코스닥 새내기' 리브스메드, 상장 첫날 9.8% 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224035451008",
@@ -117,41 +152,6 @@
       "title": "김영록 전남지사 \"2026년을 동부권 대도약 원년으로\"",
       "link": "https://www.yna.co.kr/view/AKR20251224099700054",
       "pubDate": "Wed, 24 Dec 2025 14:42:33 +0900"
-    },
-    {
-      "title": "개인정보위 \"신한카드 개인정보 유출 정황 확인해 조사 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224097000530",
-      "pubDate": "Wed, 24 Dec 2025 14:40:42 +0900"
-    },
-    {
-      "title": "국힘 \"금융위기급 환란…생리대값 말고 고환율·집값 잡아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224095000001",
-      "pubDate": "Wed, 24 Dec 2025 14:39:07 +0900"
-    },
-    {
-      "title": "[게시판] 중기부, 소상공인 성장 릴레이 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20251224026600030",
-      "pubDate": "Wed, 24 Dec 2025 14:30:09 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20251224090000011",
-      "pubDate": "Wed, 24 Dec 2025 14:30:00 +0900"
-    },
-    {
-      "title": "거래소, 15년째 취약계층에 연탄·김치지원…\"나눔 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224095200051",
-      "pubDate": "Wed, 24 Dec 2025 14:19:50 +0900"
-    },
-    {
-      "title": "유일에너테크, 주당 0.3주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20251224094600008",
-      "pubDate": "Wed, 24 Dec 2025 14:19:41 +0900"
-    },
-    {
-      "title": "익산 발달장애인 교육센터 2027년 완공…사회적응서 자립까지",
-      "link": "https://www.yna.co.kr/view/AKR20251224091100055",
-      "pubDate": "Wed, 24 Dec 2025 14:09:27 +0900"
     }
   ]
 }
