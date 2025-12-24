@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766597684,
+  "updated_at_unix": 1766604453,
   "items": [
+    {
+      "title": "달러-원, 당국 개입에 40원 가까이 폭락…1,445.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251225002700002",
+      "pubDate": "Thu, 25 Dec 2025 02:59:56 +0900"
+    },
     {
       "title": "안성·고창·나주서 고병원성 조류인플루엔자 발생",
       "link": "https://www.yna.co.kr/view/AKR20251224147700030",
@@ -147,11 +152,6 @@
       "title": "부산은행장 등 BNK금융 자회사 대표 최종후보 연내 선임",
       "link": "https://www.yna.co.kr/view/AKR20251224119500051",
       "pubDate": "Wed, 24 Dec 2025 16:18:37 +0900"
-    },
-    {
-      "title": "울산과학대, 베트남 직업교육 협력 확대…현지서 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251224117700057",
-      "pubDate": "Wed, 24 Dec 2025 16:06:07 +0900"
     }
   ]
 }
