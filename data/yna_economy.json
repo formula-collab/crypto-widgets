@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766569341,
+  "updated_at_unix": 1766573048,
   "items": [
+    {
+      "title": "'퀸잇' 운영사 라포랩스, SK스토아 인수…\"별도 경영\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224141900030",
+      "pubDate": "Wed, 24 Dec 2025 19:01:59 +0900"
+    },
+    {
+      "title": "\"올해 민간아파트 일반분양 물량, 15년 만에 최소\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224142800003",
+      "pubDate": "Wed, 24 Dec 2025 19:01:23 +0900"
+    },
     {
       "title": "환율 급락에 환전 몰렸나…시중은행 지점서 100달러 지폐 소진",
       "link": "https://www.yna.co.kr/view/AKR20251224141500002",
@@ -142,16 +152,6 @@
       "title": "해피트리, 베트남 소수민족 교육환경 개선사업 시행",
       "link": "https://www.yna.co.kr/view/AKR20251224108200056",
       "pubDate": "Wed, 24 Dec 2025 15:56:27 +0900"
-    },
-    {
-      "title": "영풍, '고려아연 美 제련소 유증 중단' 가처분 기각에 9% 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224101951008",
-      "pubDate": "Wed, 24 Dec 2025 15:54:52 +0900"
-    },
-    {
-      "title": "[특징주] '코스닥 새내기' 리브스메드, 상장 첫날 9.8% 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224035451008",
-      "pubDate": "Wed, 24 Dec 2025 15:47:48 +0900"
     }
   ]
 }
