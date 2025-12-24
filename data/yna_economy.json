@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766552352,
+  "updated_at_unix": 1766555343,
   "items": [
+    {
+      "title": "'국장 복귀 서학개미 비과세' 정부 환율대책에 증권가 '들썩'",
+      "link": "https://www.yna.co.kr/view/AKR20251224098700008",
+      "pubDate": "Wed, 24 Dec 2025 14:42:45 +0900"
+    },
+    {
+      "title": "김영록 전남지사 \"2026년을 동부권 대도약 원년으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224099700054",
+      "pubDate": "Wed, 24 Dec 2025 14:42:33 +0900"
+    },
+    {
+      "title": "개인정보위 \"신한카드 개인정보 유출 정황 확인해 조사 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224097000530",
+      "pubDate": "Wed, 24 Dec 2025 14:40:42 +0900"
+    },
+    {
+      "title": "국힘 \"금융위기급 환란…생리대값 말고 고환율·집값 잡아야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224095000001",
+      "pubDate": "Wed, 24 Dec 2025 14:39:07 +0900"
+    },
+    {
+      "title": "[게시판] 중기부, 소상공인 성장 릴레이 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20251224026600030",
+      "pubDate": "Wed, 24 Dec 2025 14:30:09 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20251224090000011",
+      "pubDate": "Wed, 24 Dec 2025 14:30:00 +0900"
+    },
+    {
+      "title": "거래소, 15년째 취약계층에 연탄·김치지원…\"나눔 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224095200051",
+      "pubDate": "Wed, 24 Dec 2025 14:19:50 +0900"
+    },
+    {
+      "title": "유일에너테크, 주당 0.3주 무상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20251224094600008",
+      "pubDate": "Wed, 24 Dec 2025 14:19:41 +0900"
+    },
+    {
+      "title": "익산 발달장애인 교육센터 2027년 완공…사회적응서 자립까지",
+      "link": "https://www.yna.co.kr/view/AKR20251224091100055",
+      "pubDate": "Wed, 24 Dec 2025 14:09:27 +0900"
+    },
+    {
+      "title": "[게시판] 신세계면세점, 서울 중구청 돌봄교실 아동에 방한용품 기부",
+      "link": "https://www.yna.co.kr/view/AKR20251224089900030",
+      "pubDate": "Wed, 24 Dec 2025 14:05:40 +0900"
+    },
+    {
+      "title": "법원 판단에 날개 단 고려아연, 美 제련소 프로젝트 급물살",
+      "link": "https://www.yna.co.kr/view/AKR20251224080700003",
+      "pubDate": "Wed, 24 Dec 2025 14:04:02 +0900"
+    },
+    {
+      "title": "부산 소비자 경제 심리 식어…12월 지수 하락",
+      "link": "https://www.yna.co.kr/view/AKR20251224088800051",
+      "pubDate": "Wed, 24 Dec 2025 13:58:39 +0900"
+    },
     {
       "title": "놀유니버스 대표 \"K컬처 기반 글로벌 여가 생태계 만들 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224036951030",
@@ -92,66 +152,6 @@
       "title": "'서학개미, 동학개미로 돌아오라'…20% 양도세, 한시 비과세(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224043951002",
       "pubDate": "Wed, 24 Dec 2025 11:27:36 +0900"
-    },
-    {
-      "title": "[광주소식] 광주은행, 아트홀 대관으로 지역 예술 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251224065800054",
-      "pubDate": "Wed, 24 Dec 2025 11:18:56 +0900"
-    },
-    {
-      "title": "서산시 장애인일자리센터 개소…맞춤형 일자리 발굴",
-      "link": "https://www.yna.co.kr/view/AKR20251224066200063",
-      "pubDate": "Wed, 24 Dec 2025 11:18:07 +0900"
-    },
-    {
-      "title": "성실상환자 은행 문턱 낮춘다…징검다리론 지원방식 개편",
-      "link": "https://www.yna.co.kr/view/AKR20251224062200002",
-      "pubDate": "Wed, 24 Dec 2025 11:16:50 +0900"
-    },
-    {
-      "title": "日정부, 내년도 장기국채 예상 금리 연 3%로 대폭 인상 논의",
-      "link": "https://www.yna.co.kr/view/AKR20251224065200073",
-      "pubDate": "Wed, 24 Dec 2025 11:15:54 +0900"
-    },
-    {
-      "title": "테헤란로 노후업무시설 리모델링…용산 나진상가에 신산업 거점",
-      "link": "https://www.yna.co.kr/view/AKR20251224037000004",
-      "pubDate": "Wed, 24 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "'서울 매력일자리' 직무교육에 AI 포함…내년 3천600명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20251224052600004",
-      "pubDate": "Wed, 24 Dec 2025 11:15:00 +0900"
-    },
-    {
-      "title": "[인사] ABL생명",
-      "link": "https://www.yna.co.kr/view/AKR20251224062800002",
-      "pubDate": "Wed, 24 Dec 2025 11:14:08 +0900"
-    },
-    {
-      "title": "18세 미만 자녀 2명 이상 홍성 가정 상수도요금 월 3천원 감면",
-      "link": "https://www.yna.co.kr/view/AKR20251224064300063",
-      "pubDate": "Wed, 24 Dec 2025 11:12:13 +0900"
-    },
-    {
-      "title": "신한투자증권, 비과세종합저축 비대면 서비스 개시",
-      "link": "https://www.yna.co.kr/view/AKR20251224064100008",
-      "pubDate": "Wed, 24 Dec 2025 11:10:12 +0900"
-    },
-    {
-      "title": "제이앤티씨 \"베트남 종속회사에 178억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224062300008",
-      "pubDate": "Wed, 24 Dec 2025 11:03:39 +0900"
-    },
-    {
-      "title": "광주·전남 소비자심리지수 회복세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20251224061500054",
-      "pubDate": "Wed, 24 Dec 2025 11:00:17 +0900"
-    },
-    {
-      "title": "최우수 관리 공동주택 단지에 대전 아이파크시티 1단지",
-      "link": "https://www.yna.co.kr/view/AKR20251224022200003",
-      "pubDate": "Wed, 24 Dec 2025 11:00:00 +0900"
     }
   ]
 }
