@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766605287,
+  "updated_at_unix": 1766608780,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·베네수엘라 긴장 속 숨고르기…WTI 0.1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20251225004300009",
+      "pubDate": "Thu, 25 Dec 2025 05:23:39 +0900"
+    },
     {
       "title": "달러-원, 당국 개입에 40원 가까이 폭락…1,445.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20251225002700002",
@@ -147,11 +152,6 @@
       "title": "환율, 정부 '경고'에 1,440원대로 뚝…3년1개월 만에 최대폭↓",
       "link": "https://www.yna.co.kr/view/AKR20251224115700002",
       "pubDate": "Wed, 24 Dec 2025 16:26:02 +0900"
-    },
-    {
-      "title": "부산은행장 등 BNK금융 자회사 대표 최종후보 연내 선임",
-      "link": "https://www.yna.co.kr/view/AKR20251224119500051",
-      "pubDate": "Wed, 24 Dec 2025 16:18:37 +0900"
     }
   ]
 }
