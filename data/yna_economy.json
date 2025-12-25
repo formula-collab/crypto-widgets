@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766638778,
+  "updated_at_unix": 1766641716,
   "items": [
+    {
+      "title": "일본은행 총재 \"기준금리 추가 인상\" 다시 시사",
+      "link": "https://www.yna.co.kr/view/AKR20251225033200073",
+      "pubDate": "Thu, 25 Dec 2025 14:19:55 +0900"
+    },
+    {
+      "title": "서울 아파트값 상승률 소폭 확대…지방 8주 연속 상승",
+      "link": "https://www.yna.co.kr/view/AKR20251225025500003",
+      "pubDate": "Thu, 25 Dec 2025 14:00:00 +0900"
+    },
     {
       "title": "계란 다시 7천원대…산란계 300만마리 살처분, 수급 불안 우려(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251224124051030",
@@ -142,16 +152,6 @@
       "title": "계란값 8% 올랐는데…산란계 AI 늘어 수급 불안 우려",
       "link": "https://www.yna.co.kr/view/AKR20251224124000030",
       "pubDate": "Thu, 25 Dec 2025 06:15:00 +0900"
-    },
-    {
-      "title": "안드로이드에 숨은 '원더랜드'…OTP까지 털린다",
-      "link": "https://www.yna.co.kr/view/AKR20251224135000017",
-      "pubDate": "Thu, 25 Dec 2025 06:03:00 +0900"
-    },
-    {
-      "title": "롯데슈퍼, 연말 홈파티 먹거리·새해 떡국 재료 할인전",
-      "link": "https://www.yna.co.kr/view/AKR20251224126300030",
-      "pubDate": "Thu, 25 Dec 2025 06:00:02 +0900"
     }
   ]
 }
