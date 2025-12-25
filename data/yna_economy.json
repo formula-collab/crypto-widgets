@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766641716,
+  "updated_at_unix": 1766645873,
   "items": [
+    {
+      "title": "[2보] 쿠팡 \"유출자, 정보 3천개만 저장…로그인·결제정보 포함안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20251225037551030",
+      "pubDate": "Thu, 25 Dec 2025 15:46:23 +0900"
+    },
+    {
+      "title": "[1보] 쿠팡 \"유출자 특정해 모든 장치 회수…외부전송 없단 진술 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20251225037500030",
+      "pubDate": "Thu, 25 Dec 2025 15:37:08 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20251225034400011",
+      "pubDate": "Thu, 25 Dec 2025 15:00:00 +0900"
+    },
     {
       "title": "일본은행 총재 \"기준금리 추가 인상\" 다시 시사",
       "link": "https://www.yna.co.kr/view/AKR20251225033200073",
@@ -137,21 +152,6 @@
       "title": "서울 서민메뉴 1년새 3∼5%대 상승…김밥·칼국수 '직격탄'",
       "link": "https://www.yna.co.kr/view/AKR20251224116600030",
       "pubDate": "Thu, 25 Dec 2025 07:01:00 +0900"
-    },
-    {
-      "title": "[우분투칼럼] '시민 對 정치' 2025 아프리카 선거의 깊은 간극",
-      "link": "https://www.yna.co.kr/view/AKR20251212029100898",
-      "pubDate": "Thu, 25 Dec 2025 07:00:03 +0900"
-    },
-    {
-      "title": "정부, 온라인쇼핑몰 지원사업 활기…\"소상공인 매출 '쑥'\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224130500030",
-      "pubDate": "Thu, 25 Dec 2025 06:33:00 +0900"
-    },
-    {
-      "title": "계란값 8% 올랐는데…산란계 AI 늘어 수급 불안 우려",
-      "link": "https://www.yna.co.kr/view/AKR20251224124000030",
-      "pubDate": "Thu, 25 Dec 2025 06:15:00 +0900"
     }
   ]
 }
