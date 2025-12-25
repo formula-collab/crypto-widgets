@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766695221,
+  "updated_at_unix": 1766698351,
   "items": [
+    {
+      "title": "10월 말 은행연체율 0.58%로 상승…\"부실확대 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224109900002",
+      "pubDate": "Fri, 26 Dec 2025 06:00:12 +0900"
+    },
+    {
+      "title": "산업통상부, 한중 FTA 발효 10주년 기념 세미나 개최",
+      "link": "https://www.yna.co.kr/view/AKR20251225037400003",
+      "pubDate": "Fri, 26 Dec 2025 06:00:01 +0900"
+    },
     {
       "title": "정부 \"올겨울 고병원성 AI 바이러스 감염력 10배 강해\"",
       "link": "https://www.yna.co.kr/view/AKR20251225050500030",
@@ -142,16 +152,6 @@
       "title": "하나금융, 대한노인회와 시니어 금융 지원 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20251224130900002",
       "pubDate": "Thu, 25 Dec 2025 08:30:00 +0900"
-    },
-    {
-      "title": "셀트리온은 직접 팔고, 삼성바이오에피스는 맡겼다",
-      "link": "https://www.yna.co.kr/view/AKR20251224131700017",
-      "pubDate": "Thu, 25 Dec 2025 07:33:00 +0900"
-    },
-    {
-      "title": "'노후건물 셋방살이' 끝낸다…연평도 새 우체국 건립 속도",
-      "link": "https://www.yna.co.kr/view/AKR20251219052500065",
-      "pubDate": "Thu, 25 Dec 2025 07:17:00 +0900"
     }
   ]
 }
