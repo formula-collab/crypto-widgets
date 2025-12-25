@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766698351,
+  "updated_at_unix": 1766702386,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251226011100011",
+      "pubDate": "Fri, 26 Dec 2025 07:30:00 +0900"
+    },
+    {
+      "title": "[2026전망] 65세로 정년연장 해법 나올까…민주당 최종안에 '관심'",
+      "link": "https://www.yna.co.kr/view/AKR20251223148900530",
+      "pubDate": "Fri, 26 Dec 2025 07:11:18 +0900"
+    },
+    {
+      "title": "[2026전망] 서울 주택매매·임대차 시장 상승세 지속…세금 정책은 변수",
+      "link": "https://www.yna.co.kr/view/AKR20251224150300003",
+      "pubDate": "Fri, 26 Dec 2025 07:11:12 +0900"
+    },
+    {
+      "title": "[2026전망] 미중 경쟁속 높아진 보호무역 장벽…韓 수출 순항할까",
+      "link": "https://www.yna.co.kr/view/AKR20251224117300003",
+      "pubDate": "Fri, 26 Dec 2025 07:11:11 +0900"
+    },
+    {
+      "title": "[2026전망] 적극재정·초혁신으로 2% 성장 내다본다…환율·부동산 난제",
+      "link": "https://www.yna.co.kr/view/AKR20251225033500002",
+      "pubDate": "Fri, 26 Dec 2025 07:11:08 +0900"
+    },
+    {
+      "title": "[신년인터뷰] (17) 오영훈 제주지사 \"제2공항 중대 하자 없으면 조속히 건설\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223099200056",
+      "pubDate": "Fri, 26 Dec 2025 07:10:42 +0900"
+    },
+    {
+      "title": "[신년인터뷰] ④ 유정복 인천시장 \"시민 체감 민생정책 확대 주력\"",
+      "link": "https://www.yna.co.kr/view/AKR20251222015300065",
+      "pubDate": "Fri, 26 Dec 2025 07:10:16 +0900"
+    },
     {
       "title": "10월 말 은행연체율 0.58%로 상승…\"부실확대 우려\"",
       "link": "https://www.yna.co.kr/view/AKR20251224109900002",
@@ -117,41 +152,6 @@
       "title": "인사동 '한옥 특례' 확대…현대식 재료 허용·인정면적 완화",
       "link": "https://www.yna.co.kr/view/AKR20251225025000004",
       "pubDate": "Thu, 25 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "북창동 지구단위계획 변경…관광숙박시설 지으면 용적률 완화",
-      "link": "https://www.yna.co.kr/view/AKR20251225025900004",
-      "pubDate": "Thu, 25 Dec 2025 11:15:00 +0900"
-    },
-    {
-      "title": "코트라 AI무역지원센터, 경북서 첫 수출 성과…규모도 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251225023500003",
-      "pubDate": "Thu, 25 Dec 2025 11:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20251225023400011",
-      "pubDate": "Thu, 25 Dec 2025 10:30:00 +0900"
-    },
-    {
-      "title": "용인시, 내년부터 경기지식재산센터 분소 유치 운영",
-      "link": "https://www.yna.co.kr/view/AKR20251224120100061",
-      "pubDate": "Thu, 25 Dec 2025 10:01:02 +0900"
-    },
-    {
-      "title": "KT알파서 상품권 무단결제…\"불법 수집 아이디·비번 사용\"",
-      "link": "https://www.yna.co.kr/view/AKR20251225020500030",
-      "pubDate": "Thu, 25 Dec 2025 09:40:16 +0900"
-    },
-    {
-      "title": "\"부산 벤처투자 4년간 연평균 14.5% 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224091200051",
-      "pubDate": "Thu, 25 Dec 2025 08:32:00 +0900"
-    },
-    {
-      "title": "하나금융, 대한노인회와 시니어 금융 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251224130900002",
-      "pubDate": "Thu, 25 Dec 2025 08:30:00 +0900"
     }
   ]
 }
