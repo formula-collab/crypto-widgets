@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766702386,
+  "updated_at_unix": 1766705598,
   "items": [
+    {
+      "title": "부산시, 내년 1분기 신혼부부 주택융자 지원 대상자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251226016600051",
+      "pubDate": "Fri, 26 Dec 2025 08:02:58 +0900"
+    },
+    {
+      "title": "[마켓뷰] 성탄절 휴장서 돌아온 코스피, 산타랠리 합류할까",
+      "link": "https://www.yna.co.kr/view/AKR20251226014600008",
+      "pubDate": "Fri, 26 Dec 2025 08:02:49 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251226011100011",
@@ -142,16 +152,6 @@
       "title": "분산된 서울 100년 토지기록물 한곳에…44만건 DB화",
       "link": "https://www.yna.co.kr/view/AKR20251225022900004",
       "pubDate": "Thu, 25 Dec 2025 11:15:03 +0900"
-    },
-    {
-      "title": "한강변 광장극동아파트 2천세대 단지로 재건축",
-      "link": "https://www.yna.co.kr/view/AKR20251225024500004",
-      "pubDate": "Thu, 25 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "인사동 '한옥 특례' 확대…현대식 재료 허용·인정면적 완화",
-      "link": "https://www.yna.co.kr/view/AKR20251225025000004",
-      "pubDate": "Thu, 25 Dec 2025 11:15:01 +0900"
     }
   ]
 }
