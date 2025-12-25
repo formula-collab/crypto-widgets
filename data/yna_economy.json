@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766619161,
+  "updated_at_unix": 1766634741,
   "items": [
+    {
+      "title": "정보수집 어렵게 과도한 클릭 요구 안 돼…속임수 질문도 금지",
+      "link": "https://www.yna.co.kr/view/AKR20251224053300002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:10 +0900"
+    },
+    {
+      "title": "소비자원 \"8개 젖병세척기서 미세플라스틱 검출 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224067300030",
+      "pubDate": "Thu, 25 Dec 2025 12:00:09 +0900"
+    },
+    {
+      "title": "한은 \"내년 물가·성장·집값·환율 봐가며 금리인하 여부 결정\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224121000002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:08 +0900"
+    },
+    {
+      "title": "ETF 수익률·수수료율도 한눈에 비교…비교공시시스템 개선",
+      "link": "https://www.yna.co.kr/view/AKR20251224115300002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:08 +0900"
+    },
+    {
+      "title": "금융당국, 보이스피싱 정책·홍보 공모전 수상작 10건 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251224137800002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:06 +0900"
+    },
+    {
+      "title": "산업재해 비용 수급업자에 떠넘기면 과징금 늘어난다",
+      "link": "https://www.yna.co.kr/view/AKR20251225021200002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:02 +0900"
+    },
+    {
+      "title": "쿠팡, 납품업체서 판매촉진비·장려금 2조3천억원 넘게 걷었다",
+      "link": "https://www.yna.co.kr/view/AKR20251225025300002",
+      "pubDate": "Thu, 25 Dec 2025 12:00:02 +0900"
+    },
+    {
+      "title": "서울시, 신속통합기획 8개 구역 토지거래허가구역 지정",
+      "link": "https://www.yna.co.kr/view/AKR20251225018600004",
+      "pubDate": "Thu, 25 Dec 2025 11:15:05 +0900"
+    },
+    {
+      "title": "분산된 서울 100년 토지기록물 한곳에…44만건 DB화",
+      "link": "https://www.yna.co.kr/view/AKR20251225022900004",
+      "pubDate": "Thu, 25 Dec 2025 11:15:03 +0900"
+    },
+    {
+      "title": "한강변 광장극동아파트 2천세대 단지로 재건축",
+      "link": "https://www.yna.co.kr/view/AKR20251225024500004",
+      "pubDate": "Thu, 25 Dec 2025 11:15:01 +0900"
+    },
+    {
+      "title": "인사동 '한옥 특례' 확대…현대식 재료 허용·인정면적 완화",
+      "link": "https://www.yna.co.kr/view/AKR20251225025000004",
+      "pubDate": "Thu, 25 Dec 2025 11:15:01 +0900"
+    },
+    {
+      "title": "북창동 지구단위계획 변경…관광숙박시설 지으면 용적률 완화",
+      "link": "https://www.yna.co.kr/view/AKR20251225025900004",
+      "pubDate": "Thu, 25 Dec 2025 11:15:00 +0900"
+    },
+    {
+      "title": "코트라 AI무역지원센터, 경북서 첫 수출 성과…규모도 확대",
+      "link": "https://www.yna.co.kr/view/AKR20251225023500003",
+      "pubDate": "Thu, 25 Dec 2025 11:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20251225023400011",
+      "pubDate": "Thu, 25 Dec 2025 10:30:00 +0900"
+    },
+    {
+      "title": "용인시, 내년부터 경기지식재산센터 분소 유치 운영",
+      "link": "https://www.yna.co.kr/view/AKR20251224120100061",
+      "pubDate": "Thu, 25 Dec 2025 10:01:02 +0900"
+    },
+    {
+      "title": "KT알파서 상품권 무단결제…\"불법 수집 아이디·비번 사용\"",
+      "link": "https://www.yna.co.kr/view/AKR20251225020500030",
+      "pubDate": "Thu, 25 Dec 2025 09:40:16 +0900"
+    },
+    {
+      "title": "\"부산 벤처투자 4년간 연평균 14.5% 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20251224091200051",
+      "pubDate": "Thu, 25 Dec 2025 08:32:00 +0900"
+    },
+    {
+      "title": "하나금융, 대한노인회와 시니어 금융 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20251224130900002",
+      "pubDate": "Thu, 25 Dec 2025 08:30:00 +0900"
+    },
     {
       "title": "셀트리온은 직접 팔고, 삼성바이오에피스는 맡겼다",
       "link": "https://www.yna.co.kr/view/AKR20251224131700017",
@@ -62,96 +152,6 @@
       "title": "오락실 큰손 30대…올해 인당 카드사용 2만6천원, 27%↑",
       "link": "https://www.yna.co.kr/view/AKR20251224139900002",
       "pubDate": "Thu, 25 Dec 2025 05:57:00 +0900"
-    },
-    {
-      "title": "지역인재 의무 채용의 역설?…\"지방대 취업 확률 오히려 4%p↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224145700002",
-      "pubDate": "Thu, 25 Dec 2025 05:55:00 +0900"
-    },
-    {
-      "title": "'고환율에 고물가' 경고등…투자은행 내년 전망치 잇단 상향",
-      "link": "https://www.yna.co.kr/view/AKR20251224133000002",
-      "pubDate": "Thu, 25 Dec 2025 05:51:00 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美·베네수엘라 긴장 속 숨고르기…WTI 0.1%↓",
-      "link": "https://www.yna.co.kr/view/AKR20251225004300009",
-      "pubDate": "Thu, 25 Dec 2025 05:23:39 +0900"
-    },
-    {
-      "title": "달러-원, 당국 개입에 40원 가까이 폭락…1,445.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20251225002700002",
-      "pubDate": "Thu, 25 Dec 2025 02:59:56 +0900"
-    },
-    {
-      "title": "안성·고창·나주서 고병원성 조류인플루엔자 발생",
-      "link": "https://www.yna.co.kr/view/AKR20251224147700030",
-      "pubDate": "Wed, 24 Dec 2025 20:42:52 +0900"
-    },
-    {
-      "title": "오세훈, 세운지구 개발 강연 2탄…\"도심 바꾸는 '침술 효과'\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251224121551004",
-      "pubDate": "Wed, 24 Dec 2025 19:49:32 +0900"
-    },
-    {
-      "title": "'퀸잇' 운영사 라포랩스, SK스토아 인수…\"별도 경영\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224141900030",
-      "pubDate": "Wed, 24 Dec 2025 19:01:59 +0900"
-    },
-    {
-      "title": "\"올해 민간아파트 일반분양 물량, 15년 만에 최소\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224142800003",
-      "pubDate": "Wed, 24 Dec 2025 19:01:23 +0900"
-    },
-    {
-      "title": "환율 급락에 환전 몰렸나…시중은행 지점서 100달러 지폐 소진",
-      "link": "https://www.yna.co.kr/view/AKR20251224141500002",
-      "pubDate": "Wed, 24 Dec 2025 18:36:49 +0900"
-    },
-    {
-      "title": "CSA 코스믹 \"피엘오조합 주식 40억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224138400008",
-      "pubDate": "Wed, 24 Dec 2025 18:20:10 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20251224135500011",
-      "pubDate": "Wed, 24 Dec 2025 18:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 웅진그룹, 노원구에서 연탄 나눔 활동",
-      "link": "https://www.yna.co.kr/view/AKR20251224137500030",
-      "pubDate": "Wed, 24 Dec 2025 17:53:21 +0900"
-    },
-    {
-      "title": "중기부, 정책금융 '제3자 부당개입' 대응 전담 TF 구성",
-      "link": "https://www.yna.co.kr/view/AKR20251224136400030",
-      "pubDate": "Wed, 24 Dec 2025 17:51:12 +0900"
-    },
-    {
-      "title": "\"불닭에 강원의 맛을 더하다\"…강원도, 삼양식품과 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251224136800062",
-      "pubDate": "Wed, 24 Dec 2025 17:49:52 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, 로컬 창업 활성화 산학연계 성과 공유",
-      "link": "https://www.yna.co.kr/view/AKR20251224132300062",
-      "pubDate": "Wed, 24 Dec 2025 17:43:23 +0900"
-    },
-    {
-      "title": "대전 소제구역 개선사업 20년만 본궤도…LH·계룡 컨소 협약",
-      "link": "https://www.yna.co.kr/view/AKR20251224123400063",
-      "pubDate": "Wed, 24 Dec 2025 17:33:15 +0900"
-    },
-    {
-      "title": "대통령실, 환율 고공행진에 \"예의주시…외환당국 입장으로 갈음\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224131200001",
-      "pubDate": "Wed, 24 Dec 2025 17:30:00 +0900"
-    },
-    {
-      "title": "에이전트AI \"니즈게임즈 주식 40억원어치 취득…지분율 99.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251224131300008",
-      "pubDate": "Wed, 24 Dec 2025 17:16:10 +0900"
     }
   ]
 }
