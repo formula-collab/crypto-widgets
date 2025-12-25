@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766645873,
+  "updated_at_unix": 1766648291,
   "items": [
+    {
+      "title": "쿠팡 \"개인정보 유출 직원 자백…외부전송 없는 것으로 조사\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251225037552030",
+      "pubDate": "Thu, 25 Dec 2025 16:20:27 +0900"
+    },
     {
       "title": "[2보] 쿠팡 \"유출자, 정보 3천개만 저장…로그인·결제정보 포함안돼\"",
       "link": "https://www.yna.co.kr/view/AKR20251225037551030",
@@ -147,11 +152,6 @@
       "title": "경기도, '기존주택 전세임대' 3천가구 입주자 모집",
       "link": "https://www.yna.co.kr/view/AKR20251224136000061",
       "pubDate": "Thu, 25 Dec 2025 07:01:03 +0900"
-    },
-    {
-      "title": "서울 서민메뉴 1년새 3∼5%대 상승…김밥·칼국수 '직격탄'",
-      "link": "https://www.yna.co.kr/view/AKR20251224116600030",
-      "pubDate": "Thu, 25 Dec 2025 07:01:00 +0900"
     }
   ]
 }
