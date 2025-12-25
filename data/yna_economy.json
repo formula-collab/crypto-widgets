@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766659776,
+  "updated_at_unix": 1766662558,
   "items": [
+    {
+      "title": "정부 \"올겨울 고병원성 AI 바이러스 감염력 10배 강해\"",
+      "link": "https://www.yna.co.kr/view/AKR20251225050500030",
+      "pubDate": "Thu, 25 Dec 2025 19:58:39 +0900"
+    },
+    {
+      "title": "거래소, 프리·애프터마켓 TF 신설 추진…거래시간 연장 시동",
+      "link": "https://www.yna.co.kr/view/AKR20251225050200008",
+      "pubDate": "Thu, 25 Dec 2025 19:54:04 +0900"
+    },
     {
       "title": "쿠팡 \"개인정보 3천개만 유출·외부전송 없어\"…정부 \"확인안돼\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20251225037553030",
@@ -142,16 +152,6 @@
       "title": "'노후건물 셋방살이' 끝낸다…연평도 새 우체국 건립 속도",
       "link": "https://www.yna.co.kr/view/AKR20251219052500065",
       "pubDate": "Thu, 25 Dec 2025 07:17:00 +0900"
-    },
-    {
-      "title": "올해 가장 많이 선물한 국내주식은 삼성전자…해외종목은 테슬라",
-      "link": "https://www.yna.co.kr/view/AKR20251224124400008",
-      "pubDate": "Thu, 25 Dec 2025 07:15:00 +0900"
-    },
-    {
-      "title": "건설 순환골재 품질인증 KS인증으로 일원화",
-      "link": "https://www.yna.co.kr/view/AKR20251225008900003",
-      "pubDate": "Thu, 25 Dec 2025 07:02:53 +0900"
     }
   ]
 }
