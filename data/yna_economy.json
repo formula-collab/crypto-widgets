@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766634741,
+  "updated_at_unix": 1766638778,
   "items": [
+    {
+      "title": "계란 다시 7천원대…산란계 300만마리 살처분, 수급 불안 우려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251224124051030",
+      "pubDate": "Thu, 25 Dec 2025 13:01:10 +0900"
+    },
     {
       "title": "정보수집 어렵게 과도한 클릭 요구 안 돼…속임수 질문도 금지",
       "link": "https://www.yna.co.kr/view/AKR20251224053300002",
@@ -147,11 +152,6 @@
       "title": "롯데슈퍼, 연말 홈파티 먹거리·새해 떡국 재료 할인전",
       "link": "https://www.yna.co.kr/view/AKR20251224126300030",
       "pubDate": "Thu, 25 Dec 2025 06:00:02 +0900"
-    },
-    {
-      "title": "오락실 큰손 30대…올해 인당 카드사용 2만6천원, 27%↑",
-      "link": "https://www.yna.co.kr/view/AKR20251224139900002",
-      "pubDate": "Thu, 25 Dec 2025 05:57:00 +0900"
     }
   ]
 }
