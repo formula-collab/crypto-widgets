@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766732237,
+  "updated_at_unix": 1766734724,
   "items": [
+    {
+      "title": "원주시, 2025년 경제인 포상…지역경제 활성화 공로 55명 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251226103000062",
+      "pubDate": "Fri, 26 Dec 2025 16:29:19 +0900"
+    },
+    {
+      "title": "밀양시, 행안부 '지방 물가 안정 관리 평가' 2년 연속 최우수",
+      "link": "https://www.yna.co.kr/view/AKR20251226102100052",
+      "pubDate": "Fri, 26 Dec 2025 16:27:18 +0900"
+    },
+    {
+      "title": "엔켐 \"관계사 중앙첨단소재 주식 157억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226102600008",
+      "pubDate": "Fri, 26 Dec 2025 16:26:55 +0900"
+    },
+    {
+      "title": "[인사] 농협 충북본부",
+      "link": "https://www.yna.co.kr/view/AKR20251226099600064",
+      "pubDate": "Fri, 26 Dec 2025 16:07:34 +0900"
+    },
+    {
+      "title": "환율, 당국 개입에 이틀째 내림세…1,440.3원",
+      "link": "https://www.yna.co.kr/view/AKR20251226096200002",
+      "pubDate": "Fri, 26 Dec 2025 15:59:16 +0900"
+    },
+    {
+      "title": "삼천리 \"성경식품 주식 1천195억원어치 취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226096800008",
+      "pubDate": "Fri, 26 Dec 2025 15:57:03 +0900"
+    },
+    {
+      "title": "[인사] JB금융그룹 전북은행",
+      "link": "https://www.yna.co.kr/view/AKR20251226096400055",
+      "pubDate": "Fri, 26 Dec 2025 15:53:09 +0900"
+    },
     {
       "title": "재계, 노란봉투법 가이드라인에 \"최악 피했지만 보완 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20251226094200003",
@@ -117,41 +152,6 @@
       "title": "충북 산업용지 공급 '숨통'…\"연평균 수요면적 전국 최대\"",
       "link": "https://www.yna.co.kr/view/AKR20251226064700064",
       "pubDate": "Fri, 26 Dec 2025 13:32:48 +0900"
-    },
-    {
-      "title": "[게시판] 2026년 원/위안 직거래시장 조성자 12개은행 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251226035300002",
-      "pubDate": "Fri, 26 Dec 2025 12:00:04 +0900"
-    },
-    {
-      "title": "지역경제 성장률, 3분기만에 0%대 탈출…반도체·자동차 호조",
-      "link": "https://www.yna.co.kr/view/AKR20251226042400002",
-      "pubDate": "Fri, 26 Dec 2025 12:00:02 +0900"
-    },
-    {
-      "title": "사이버침해 범죄 10년 만에 2배로 증가…작년 사교육비 30조",
-      "link": "https://www.yna.co.kr/view/AKR20251226055900002",
-      "pubDate": "Fri, 26 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "인권위 권고 무시하는 쿠팡…외국인 배송사원 채용확대 거부",
-      "link": "https://www.yna.co.kr/view/AKR20251226029800004",
-      "pubDate": "Fri, 26 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "'아픈데 돈도 없다' 노인 소득빈곤율 OECD 1위",
-      "link": "https://www.yna.co.kr/view/AKR20251226058900002",
-      "pubDate": "Fri, 26 Dec 2025 12:00:00 +0900"
-    },
-    {
-      "title": "보이스피싱 조직 가담해 송금책 역할 30대, 징역형 집행유예",
-      "link": "https://www.yna.co.kr/view/AKR20251226057700063",
-      "pubDate": "Fri, 26 Dec 2025 11:50:45 +0900"
-    },
-    {
-      "title": "무역대금-통관액 격차 427조…관세청, 고환율 악용사범 특별단속",
-      "link": "https://www.yna.co.kr/view/AKR20251226056400002",
-      "pubDate": "Fri, 26 Dec 2025 11:50:38 +0900"
     }
   ]
 }
