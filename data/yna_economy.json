@@ -1,15 +1,20 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766784674,
+  "updated_at_unix": 1766788804,
   "items": [
+    {
+      "title": "[신상잇슈] 스타벅스 새해 상품·맥도날드 '행운버거'",
+      "link": "https://www.yna.co.kr/view/AKR20251226061000030",
+      "pubDate": "Sat, 27 Dec 2025 07:00:02 +0900"
+    },
     {
       "title": "[부동산캘린더] 올해 마지막 분양…내주 전국 5천576가구 청약",
       "link": "https://www.yna.co.kr/view/AKR20251226105700003",
       "pubDate": "Sat, 27 Dec 2025 06:00:02 +0900"
     },
     {
-      "title": "[샷!] \"전업자녀로 취업했습니다\"",
+      "title": "[샷!] 백수? 캥거루족?…\"전업자녀입니다\"",
       "link": "https://www.yna.co.kr/view/AKR20251223123800505",
       "pubDate": "Sat, 27 Dec 2025 05:50:00 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "호텔롯데, 롯데바이오로직스에 지분 투자…\"수익구조 안정화\"",
       "link": "https://www.yna.co.kr/view/AKR20251226100600030",
       "pubDate": "Fri, 26 Dec 2025 17:00:02 +0900"
-    },
-    {
-      "title": "'신안산선 사고' 포스코이앤씨, 신평3사 등급전망 줄줄이 하락",
-      "link": "https://www.yna.co.kr/view/AKR20251226108600008",
-      "pubDate": "Fri, 26 Dec 2025 16:56:43 +0900"
     }
   ]
 }
