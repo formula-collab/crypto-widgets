@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766788804,
+  "updated_at_unix": 1766792011,
   "items": [
+    {
+      "title": "\"밥퍼 후원하면 불매\"…크리스마스 날, 청량리에선 무슨 일이",
+      "link": "https://www.yna.co.kr/view/AKR20251226137600004",
+      "pubDate": "Sat, 27 Dec 2025 07:55:00 +0900"
+    },
     {
       "title": "[신상잇슈] 스타벅스 새해 상품·맥도날드 '행운버거'",
       "link": "https://www.yna.co.kr/view/AKR20251226061000030",
@@ -147,11 +152,6 @@
       "title": "대통령실, '허위조작정보근절법' 통과에 \"국회 입법과정 존중\"",
       "link": "https://www.yna.co.kr/view/AKR20251226111400001",
       "pubDate": "Fri, 26 Dec 2025 17:01:08 +0900"
-    },
-    {
-      "title": "호텔롯데, 롯데바이오로직스에 지분 투자…\"수익구조 안정화\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226100600030",
-      "pubDate": "Fri, 26 Dec 2025 17:00:02 +0900"
     }
   ]
 }
