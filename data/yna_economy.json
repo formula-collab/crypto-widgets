@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766770465,
+  "updated_at_unix": 1766775206,
   "items": [
+    {
+      "title": "달러-원, 야간 거래서 낙폭 소폭 회복…1,440원대 초반 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251227002800002",
+      "pubDate": "Sat, 27 Dec 2025 03:42:02 +0900"
+    },
     {
       "title": "충남 아산 육용종계 농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251226138000030",
@@ -147,11 +152,6 @@
       "title": "원주시, 2025년 경제인 포상…지역경제 활성화 공로 55명 선정",
       "link": "https://www.yna.co.kr/view/AKR20251226103000062",
       "pubDate": "Fri, 26 Dec 2025 16:29:19 +0900"
-    },
-    {
-      "title": "밀양시, 행안부 '지방 물가 안정 관리 평가' 2년 연속 최우수",
-      "link": "https://www.yna.co.kr/view/AKR20251226102100052",
-      "pubDate": "Fri, 26 Dec 2025 16:27:18 +0900"
     }
   ]
 }
