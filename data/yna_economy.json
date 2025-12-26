@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766781525,
+  "updated_at_unix": 1766784674,
   "items": [
+    {
+      "title": "[부동산캘린더] 올해 마지막 분양…내주 전국 5천576가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20251226105700003",
+      "pubDate": "Sat, 27 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "[샷!] \"전업자녀로 취업했습니다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251223123800505",
+      "pubDate": "Sat, 27 Dec 2025 05:50:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 러시아-우크라이나 종전 기대감…2.8% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20251227004600009",
+      "pubDate": "Sat, 27 Dec 2025 05:47:14 +0900"
+    },
     {
       "title": "달러-원, 야간 거래서 낙폭 소폭 회복…1,440원대 초반 마감",
       "link": "https://www.yna.co.kr/view/AKR20251227002800002",
@@ -137,21 +152,6 @@
       "title": "'신안산선 사고' 포스코이앤씨, 신평3사 등급전망 줄줄이 하락",
       "link": "https://www.yna.co.kr/view/AKR20251226108600008",
       "pubDate": "Fri, 26 Dec 2025 16:56:43 +0900"
-    },
-    {
-      "title": "부산교육청, 중등교사 임용시험 1차 합격자 1천119명 발표",
-      "link": "https://www.yna.co.kr/view/AKR20251226108500051",
-      "pubDate": "Fri, 26 Dec 2025 16:53:56 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 2.958%",
-      "link": "https://www.yna.co.kr/view/AKR20251226106800008",
-      "pubDate": "Fri, 26 Dec 2025 16:40:17 +0900"
-    },
-    {
-      "title": "원주시, 2025년 경제인 포상…지역경제 활성화 공로 55명 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251226103000062",
-      "pubDate": "Fri, 26 Dec 2025 16:29:19 +0900"
     }
   ]
 }
