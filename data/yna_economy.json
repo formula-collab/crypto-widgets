@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766725062,
+  "updated_at_unix": 1766727838,
   "items": [
+    {
+      "title": "한성숙 중기장관 \"청년상인은 민생경제의 주축…정책적 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226080200030",
+      "pubDate": "Fri, 26 Dec 2025 14:38:11 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20251226076700011",
+      "pubDate": "Fri, 26 Dec 2025 14:30:00 +0900"
+    },
+    {
+      "title": "노원구, 상계보람아파트 재건축 주민설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20251226078200004",
+      "pubDate": "Fri, 26 Dec 2025 14:23:46 +0900"
+    },
+    {
+      "title": "양주시-카스, 테크노밸리 입주 협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20251226076300060",
+      "pubDate": "Fri, 26 Dec 2025 14:17:47 +0900"
+    },
+    {
+      "title": "강릉시, 농촌인력 중개센터 2개 유형 선정…인력난 해소 앞장",
+      "link": "https://www.yna.co.kr/view/AKR20251226075500062",
+      "pubDate": "Fri, 26 Dec 2025 14:12:53 +0900"
+    },
+    {
+      "title": "국힘 \"재산권·거주이전 침해\"…10·15 부동산 대책 취소 소송",
+      "link": "https://www.yna.co.kr/view/AKR20251226073800001",
+      "pubDate": "Fri, 26 Dec 2025 14:10:19 +0900"
+    },
+    {
+      "title": "日 금융당국, 가상자산·스테이블코인 담당 부서 신설",
+      "link": "https://www.yna.co.kr/view/AKR20251226073600073",
+      "pubDate": "Fri, 26 Dec 2025 14:06:04 +0900"
+    },
+    {
+      "title": "작년 국내 R&D 투자 131조원…GDP 대비 5% 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20251226049300017",
+      "pubDate": "Fri, 26 Dec 2025 14:00:29 +0900"
+    },
+    {
+      "title": "농협하나로마트, 29일부터 설 선물세트 예약 행사",
+      "link": "https://www.yna.co.kr/view/AKR20251226072900030",
+      "pubDate": "Fri, 26 Dec 2025 13:59:09 +0900"
+    },
     {
       "title": "FC목포, 제6대 감독으로 최영근 감독 선임",
       "link": "https://www.yna.co.kr/view/AKR20251226070000054",
@@ -107,51 +152,6 @@
       "title": "데이원컴퍼니 \"3년간 순이익 30% 주주환원\"…중장기 로드맵 공개",
       "link": "https://www.yna.co.kr/view/AKR20251226043500017",
       "pubDate": "Fri, 26 Dec 2025 10:46:56 +0900"
-    },
-    {
-      "title": "농심, 런던 피카딜리 광장서 신라면 글로벌 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20251226044300030",
-      "pubDate": "Fri, 26 Dec 2025 10:46:00 +0900"
-    },
-    {
-      "title": "[세종소식] 동계 청년 행정인턴 20명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251226045800063",
-      "pubDate": "Fri, 26 Dec 2025 10:45:58 +0900"
-    },
-    {
-      "title": "부산은행, 방카슈랑스 디지털 창구 서비스 시행",
-      "link": "https://www.yna.co.kr/view/AKR20251226044900051",
-      "pubDate": "Fri, 26 Dec 2025 10:40:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20251226039800011",
-      "pubDate": "Fri, 26 Dec 2025 10:30:00 +0900"
-    },
-    {
-      "title": "김제시 온천관광지에 101실 규모 3성급 호텔 건립…2028년 개관",
-      "link": "https://www.yna.co.kr/view/AKR20251226039400055",
-      "pubDate": "Fri, 26 Dec 2025 10:29:01 +0900"
-    },
-    {
-      "title": "'다크앤다커 분쟁' 대법원행…넥슨·아이언메이스 쌍방 상고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226025951017",
-      "pubDate": "Fri, 26 Dec 2025 10:27:30 +0900"
-    },
-    {
-      "title": "정읍시, 재정안정화기금 2천113억원 조성…재정 안정성 '탄탄'",
-      "link": "https://www.yna.co.kr/view/AKR20251226030300055",
-      "pubDate": "Fri, 26 Dec 2025 10:24:51 +0900"
-    },
-    {
-      "title": "경남도, 지방세 73억 악성 체납자 69명 출국금지 요청",
-      "link": "https://www.yna.co.kr/view/AKR20251226040400052",
-      "pubDate": "Fri, 26 Dec 2025 10:18:58 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행, 만기 시 기부 연계 '행운기부런 적금' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20251226037100002",
-      "pubDate": "Fri, 26 Dec 2025 10:17:43 +0900"
     }
   ]
 }
