@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766720997,
+  "updated_at_unix": 1766725062,
   "items": [
+    {
+      "title": "FC목포, 제6대 감독으로 최영근 감독 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251226070000054",
+      "pubDate": "Fri, 26 Dec 2025 13:46:45 +0900"
+    },
+    {
+      "title": "충북 산업용지 공급 '숨통'…\"연평균 수요면적 전국 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226064700064",
+      "pubDate": "Fri, 26 Dec 2025 13:32:48 +0900"
+    },
     {
       "title": "[게시판] 2026년 원/위안 직거래시장 조성자 12개은행 선정",
       "link": "https://www.yna.co.kr/view/AKR20251226035300002",
@@ -142,16 +152,6 @@
       "title": "[게시판] 하나은행, 만기 시 기부 연계 '행운기부런 적금' 출시",
       "link": "https://www.yna.co.kr/view/AKR20251226037100002",
       "pubDate": "Fri, 26 Dec 2025 10:17:43 +0900"
-    },
-    {
-      "title": "파리바게뜨, 24시간 매장 도입…심야시간 무인 시스템",
-      "link": "https://www.yna.co.kr/view/AKR20251226039700030",
-      "pubDate": "Fri, 26 Dec 2025 10:15:27 +0900"
-    },
-    {
-      "title": "HDC현산, 인천 굴포천역 도심공공주택복합사업 수주",
-      "link": "https://www.yna.co.kr/view/AKR20251226039100003",
-      "pubDate": "Fri, 26 Dec 2025 10:10:57 +0900"
     }
   ]
 }
