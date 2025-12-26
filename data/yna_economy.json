@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766739207,
+  "updated_at_unix": 1766742005,
   "items": [
+    {
+      "title": "버킷스튜디오, 200억원 유상증자…와비사비홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251226128900008",
+      "pubDate": "Fri, 26 Dec 2025 18:30:32 +0900"
+    },
+    {
+      "title": "[인사] iM금융그룹",
+      "link": "https://www.yna.co.kr/view/AKR20251226128400053",
+      "pubDate": "Fri, 26 Dec 2025 18:26:54 +0900"
+    },
+    {
+      "title": "KB손해보험, 조직개편·임원인사…부문별 책임경영 강화",
+      "link": "https://www.yna.co.kr/view/AKR20251226127400002",
+      "pubDate": "Fri, 26 Dec 2025 18:18:32 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251226120500011",
+      "pubDate": "Fri, 26 Dec 2025 18:00:00 +0900"
+    },
+    {
+      "title": "내년 국고채 발행한도 225.7조원…원화 외평채는 13.7조원",
+      "link": "https://www.yna.co.kr/view/AKR20251226122500002",
+      "pubDate": "Fri, 26 Dec 2025 17:55:14 +0900"
+    },
     {
       "title": "파라택시스코리아 \"파라택시스코리아펀드Ⅳ에 151억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20251226119600008",
@@ -127,31 +152,6 @@
       "title": "[광주소식] 광주은행, 전남도에 고향사랑기부금 전달",
       "link": "https://www.yna.co.kr/view/AKR20251226095600054",
       "pubDate": "Fri, 26 Dec 2025 15:48:18 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 겹호재에 역대 최고가 경신…한때 '60만닉스' 회복(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226033251008",
-      "pubDate": "Fri, 26 Dec 2025 15:45:00 +0900"
-    },
-    {
-      "title": "진주 도심 흉물 옛 영남백화점이 아동복지센터로 재탄생",
-      "link": "https://www.yna.co.kr/view/AKR20251226089900052",
-      "pubDate": "Fri, 26 Dec 2025 15:43:21 +0900"
-    },
-    {
-      "title": "대구DIP·대구TP, 과기부 '가상융합산업 지원센터' 지정",
-      "link": "https://www.yna.co.kr/view/AKR20251226091100053",
-      "pubDate": "Fri, 26 Dec 2025 15:43:07 +0900"
-    },
-    {
-      "title": "[특징주] 투자경고종목 해제 SK스퀘어, 4%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226030751008",
-      "pubDate": "Fri, 26 Dec 2025 15:42:05 +0900"
-    },
-    {
-      "title": "외국환시세(12월26일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20251226092700002",
-      "pubDate": "Fri, 26 Dec 2025 15:36:39 +0900"
     }
   ]
 }
