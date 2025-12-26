@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766746179,
+  "updated_at_unix": 1766748995,
   "items": [
+    {
+      "title": "충남 아산 육용종계 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251226138000030",
+      "pubDate": "Fri, 26 Dec 2025 20:31:59 +0900"
+    },
     {
       "title": "[인사] KB국민카드·KB신용정보",
       "link": "https://www.yna.co.kr/view/AKR20251226135000002",
@@ -147,11 +152,6 @@
       "title": "밀양시, 행안부 '지방 물가 안정 관리 평가' 2년 연속 최우수",
       "link": "https://www.yna.co.kr/view/AKR20251226102100052",
       "pubDate": "Fri, 26 Dec 2025 16:27:18 +0900"
-    },
-    {
-      "title": "엔켐 \"관계사 중앙첨단소재 주식 157억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226102600008",
-      "pubDate": "Fri, 26 Dec 2025 16:26:55 +0900"
     }
   ]
 }
