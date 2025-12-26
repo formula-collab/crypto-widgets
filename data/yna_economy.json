@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766742005,
+  "updated_at_unix": 1766746179,
   "items": [
+    {
+      "title": "[인사] KB국민카드·KB신용정보",
+      "link": "https://www.yna.co.kr/view/AKR20251226135000002",
+      "pubDate": "Fri, 26 Dec 2025 19:32:59 +0900"
+    },
+    {
+      "title": "[인사] KB캐피탈",
+      "link": "https://www.yna.co.kr/view/AKR20251226135200002",
+      "pubDate": "Fri, 26 Dec 2025 19:32:46 +0900"
+    },
+    {
+      "title": "삼천리, '지도표 성경김' 성경식품 1천195억원에 인수(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251226096851008",
+      "pubDate": "Fri, 26 Dec 2025 19:29:33 +0900"
+    },
+    {
+      "title": "루이비통 리폼은 상표권 침해?…\"상품 해당\" vs \"개인용도\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226127200004",
+      "pubDate": "Fri, 26 Dec 2025 18:49:30 +0900"
+    },
+    {
+      "title": "[인사] KB손해보험",
+      "link": "https://www.yna.co.kr/view/AKR20251226129400002",
+      "pubDate": "Fri, 26 Dec 2025 18:37:14 +0900"
+    },
+    {
+      "title": "[인사] KB라이프",
+      "link": "https://www.yna.co.kr/view/AKR20251226130500002",
+      "pubDate": "Fri, 26 Dec 2025 18:37:02 +0900"
+    },
+    {
+      "title": "KB손보·KB라이프, 조직개편·임원인사…\"책임경영 강화\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251226127451002",
+      "pubDate": "Fri, 26 Dec 2025 18:36:48 +0900"
+    },
     {
       "title": "버킷스튜디오, 200억원 유상증자…와비사비홀딩스에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20251226128900008",
@@ -117,41 +152,6 @@
       "title": "엔켐 \"관계사 중앙첨단소재 주식 157억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20251226102600008",
       "pubDate": "Fri, 26 Dec 2025 16:26:55 +0900"
-    },
-    {
-      "title": "[인사] 농협 충북본부",
-      "link": "https://www.yna.co.kr/view/AKR20251226099600064",
-      "pubDate": "Fri, 26 Dec 2025 16:07:34 +0900"
-    },
-    {
-      "title": "환율, 당국 개입에 이틀째 내림세…1,440.3원",
-      "link": "https://www.yna.co.kr/view/AKR20251226096200002",
-      "pubDate": "Fri, 26 Dec 2025 15:59:16 +0900"
-    },
-    {
-      "title": "삼천리 \"성경식품 주식 1천195억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226096800008",
-      "pubDate": "Fri, 26 Dec 2025 15:57:03 +0900"
-    },
-    {
-      "title": "[인사] JB금융그룹 전북은행",
-      "link": "https://www.yna.co.kr/view/AKR20251226096400055",
-      "pubDate": "Fri, 26 Dec 2025 15:53:09 +0900"
-    },
-    {
-      "title": "재계, 노란봉투법 가이드라인에 \"최악 피했지만 보완 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226094200003",
-      "pubDate": "Fri, 26 Dec 2025 15:51:23 +0900"
-    },
-    {
-      "title": "\"제주올레, 연 6천630억원 소비 유발…생산유발효과 1조2천억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226094800056",
-      "pubDate": "Fri, 26 Dec 2025 15:48:26 +0900"
-    },
-    {
-      "title": "[광주소식] 광주은행, 전남도에 고향사랑기부금 전달",
-      "link": "https://www.yna.co.kr/view/AKR20251226095600054",
-      "pubDate": "Fri, 26 Dec 2025 15:48:18 +0900"
     }
   ]
 }
