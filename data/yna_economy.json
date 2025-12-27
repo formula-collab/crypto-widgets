@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766867951,
+  "updated_at_unix": 1766871094,
   "items": [
+    {
+      "title": "'노동 사각지대' 5인 미만·특고·플랫폼…\"노동위서 다뤄야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226126500530",
+      "pubDate": "Sun, 28 Dec 2025 06:07:00 +0900"
+    },
+    {
+      "title": "\"국민 취업활동시간 10년새 20%↓…교제시간은 2∼3배 늘어\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226086500530",
+      "pubDate": "Sun, 28 Dec 2025 06:06:00 +0900"
+    },
+    {
+      "title": "\"韓, 아동 비율 높은 지역일수록 인구당 의사 수 적어\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226091200530",
+      "pubDate": "Sun, 28 Dec 2025 06:03:01 +0900"
+    },
+    {
+      "title": "예정처 \"교육세 등 연 24조원 목적세 돌려서 복지지출 늘려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251227032200002",
+      "pubDate": "Sun, 28 Dec 2025 05:55:00 +0900"
+    },
+    {
+      "title": "차 보험료 5년 만에 오를 듯…내년 1%대 초중반 인상 유력",
+      "link": "https://www.yna.co.kr/view/AKR20251227040300002",
+      "pubDate": "Sun, 28 Dec 2025 05:53:01 +0900"
+    },
+    {
+      "title": "은행권 새해 대출 완화 움직임에 당국 제동…\"현 기조 유지해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20251227041900002",
+      "pubDate": "Sun, 28 Dec 2025 05:51:00 +0900"
+    },
+    {
+      "title": "개인투자자, 올해 금·은·달러 쓸어담았다…최대 기록 속출",
+      "link": "https://www.yna.co.kr/view/AKR20251227043200002",
+      "pubDate": "Sun, 28 Dec 2025 05:49:00 +0900"
+    },
+    {
+      "title": "환율안정 최우선…국내 복귀 RIA, 채권형·현금도 세 혜택 검토",
+      "link": "https://www.yna.co.kr/view/AKR20251227031400002",
+      "pubDate": "Sun, 28 Dec 2025 05:47:01 +0900"
+    },
+    {
+      "title": "IMF 적정환율 1,330원인데…해외IB, 내년 1,400원대 '뉴노멀'",
+      "link": "https://www.yna.co.kr/view/AKR20251227026300002",
+      "pubDate": "Sun, 28 Dec 2025 05:45:04 +0900"
+    },
+    {
+      "title": "환율 연말종가 눌렀지만…연평균 1,420원대 '역대 최고' 눈앞",
+      "link": "https://www.yna.co.kr/view/AKR20251227018400002",
+      "pubDate": "Sun, 28 Dec 2025 05:45:00 +0900"
+    },
     {
       "title": "전남 영암 육용종계 농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251227039700030",
@@ -102,56 +152,6 @@
       "title": "[인사] KB라이프",
       "link": "https://www.yna.co.kr/view/AKR20251226130500002",
       "pubDate": "Fri, 26 Dec 2025 18:37:02 +0900"
-    },
-    {
-      "title": "KB손보·KB라이프, 조직개편·임원인사…\"책임경영 강화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226127451002",
-      "pubDate": "Fri, 26 Dec 2025 18:36:48 +0900"
-    },
-    {
-      "title": "버킷스튜디오, 200억원 유상증자…와비사비홀딩스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251226128900008",
-      "pubDate": "Fri, 26 Dec 2025 18:30:32 +0900"
-    },
-    {
-      "title": "[인사] iM금융그룹",
-      "link": "https://www.yna.co.kr/view/AKR20251226128400053",
-      "pubDate": "Fri, 26 Dec 2025 18:26:54 +0900"
-    },
-    {
-      "title": "KB손해보험, 조직개편·임원인사…부문별 책임경영 강화",
-      "link": "https://www.yna.co.kr/view/AKR20251226127400002",
-      "pubDate": "Fri, 26 Dec 2025 18:18:32 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20251226120500011",
-      "pubDate": "Fri, 26 Dec 2025 18:00:00 +0900"
-    },
-    {
-      "title": "내년 국고채 발행한도 225.7조원…원화 외평채는 13.7조원",
-      "link": "https://www.yna.co.kr/view/AKR20251226122500002",
-      "pubDate": "Fri, 26 Dec 2025 17:55:14 +0900"
-    },
-    {
-      "title": "파라택시스코리아 \"파라택시스코리아펀드Ⅳ에 151억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226119600008",
-      "pubDate": "Fri, 26 Dec 2025 17:41:42 +0900"
-    },
-    {
-      "title": "[인사] KB금융지주·KB국민은행",
-      "link": "https://www.yna.co.kr/view/AKR20251226121300002",
-      "pubDate": "Fri, 26 Dec 2025 17:38:58 +0900"
-    },
-    {
-      "title": "[인사] 동양생명",
-      "link": "https://www.yna.co.kr/view/AKR20251226117800002",
-      "pubDate": "Fri, 26 Dec 2025 17:30:24 +0900"
-    },
-    {
-      "title": "경총, 현대제철·한화오션 하청노조 파업권 획득에 \"일방 결정\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226118600003",
-      "pubDate": "Fri, 26 Dec 2025 17:29:18 +0900"
     }
   ]
 }
