@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766792011,
+  "updated_at_unix": 1766807232,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20251227020100011",
+      "pubDate": "Sat, 27 Dec 2025 10:30:01 +0900"
+    },
+    {
+      "title": "해 넘기는 SPC삼립 시화공장 사망사고 수사…신병 처리는 언제",
+      "link": "https://www.yna.co.kr/view/AKR20251226122000061",
+      "pubDate": "Sat, 27 Dec 2025 10:10:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 높은 환율에 12월 물가 얼마나 올랐나",
+      "link": "https://www.yna.co.kr/view/AKR20251227017700002",
+      "pubDate": "Sat, 27 Dec 2025 09:17:14 +0900"
+    },
+    {
+      "title": "콜센터 상담원들에게 상습 폭언 20대, 집행유예",
+      "link": "https://www.yna.co.kr/view/AKR20251226065600051",
+      "pubDate": "Sat, 27 Dec 2025 09:02:00 +0900"
+    },
     {
       "title": "\"밥퍼 후원하면 불매\"…크리스마스 날, 청량리에선 무슨 일이",
       "link": "https://www.yna.co.kr/view/AKR20251226137600004",
@@ -132,26 +152,6 @@
       "title": "이봉순 리컨벤션 대표, 부산 관광마이스 산업 기여 대통령 표창",
       "link": "https://www.yna.co.kr/view/AKR20251226114800051",
       "pubDate": "Fri, 26 Dec 2025 17:20:08 +0900"
-    },
-    {
-      "title": "[인사] 수협중앙회",
-      "link": "https://www.yna.co.kr/view/AKR20251226113700030",
-      "pubDate": "Fri, 26 Dec 2025 17:09:45 +0900"
-    },
-    {
-      "title": "KB금융지주·은행, 정보보호·생산적금융 전담 조직 신설",
-      "link": "https://www.yna.co.kr/view/AKR20251226114100002",
-      "pubDate": "Fri, 26 Dec 2025 17:08:11 +0900"
-    },
-    {
-      "title": "쏘카 \"자회사 나인투원 주식 183억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226112000008",
-      "pubDate": "Fri, 26 Dec 2025 17:02:16 +0900"
-    },
-    {
-      "title": "대통령실, '허위조작정보근절법' 통과에 \"국회 입법과정 존중\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226111400001",
-      "pubDate": "Fri, 26 Dec 2025 17:01:08 +0900"
     }
   ]
 }
