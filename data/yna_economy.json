@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766871094,
+  "updated_at_unix": 1766875123,
   "items": [
+    {
+      "title": "정부 R&D 직접지원 늘렸지만…\"기업 매출 효과는 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226087500017",
+      "pubDate": "Sun, 28 Dec 2025 07:33:00 +0900"
+    },
+    {
+      "title": "저출생에 우유 '울고' 건강선호에 요구르트 '웃는다'",
+      "link": "https://www.yna.co.kr/view/AKR20251227021400030",
+      "pubDate": "Sun, 28 Dec 2025 07:31:01 +0900"
+    },
+    {
+      "title": "\"현실 다가왔다\"…車업계, 전기차 올인서 멀티파워트레인 전환",
+      "link": "https://www.yna.co.kr/view/AKR20251227041400003",
+      "pubDate": "Sun, 28 Dec 2025 07:28:01 +0900"
+    },
+    {
+      "title": "12월 코스닥 거래대금 2년4개월만 최대…코스피는 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20251226123400008",
+      "pubDate": "Sun, 28 Dec 2025 07:15:00 +0900"
+    },
+    {
+      "title": "상장사 '수도권 쏠림' 여전…서울·경기 등이 시가총액 83%",
+      "link": "https://www.yna.co.kr/view/AKR20251226141100008",
+      "pubDate": "Sun, 28 Dec 2025 07:07:09 +0900"
+    },
+    {
+      "title": "\"PB출시하고 해외로\"…패션플랫폼, 내년 '뷰티사업' 확대",
+      "link": "https://www.yna.co.kr/view/AKR20251226078400030",
+      "pubDate": "Sun, 28 Dec 2025 07:01:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 코스피, 여세 몰아 '산타 랠리' 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20251226140300008",
+      "pubDate": "Sun, 28 Dec 2025 07:00:07 +0900"
+    },
+    {
+      "title": "올해 바이오 기술수출 20조원 넘어…플랫폼·신약 동반 성장",
+      "link": "https://www.yna.co.kr/view/AKR20251226109700017",
+      "pubDate": "Sun, 28 Dec 2025 06:45:00 +0900"
+    },
+    {
+      "title": "'치킨공화국' 한국, 프랜차이즈 치킨집 3만개 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20251226110600030",
+      "pubDate": "Sun, 28 Dec 2025 06:31:01 +0900"
+    },
+    {
+      "title": "한중 FTA 10년, 흑자에서 적자로…'서비스·투자'로 새판 짠다",
+      "link": "https://www.yna.co.kr/view/AKR20251227028400003",
+      "pubDate": "Sun, 28 Dec 2025 06:30:01 +0900"
+    },
+    {
+      "title": "호텔 주방서 단련된 셰프들…이력으로 본 대가 '백수저'의 정체",
+      "link": "https://www.yna.co.kr/view/AKR20251227027000030",
+      "pubDate": "Sun, 28 Dec 2025 06:30:01 +0900"
+    },
     {
       "title": "'노동 사각지대' 5인 미만·특고·플랫폼…\"노동위서 다뤄야\"",
       "link": "https://www.yna.co.kr/view/AKR20251226126500530",
@@ -97,61 +152,6 @@
       "title": "[신상잇슈] 스타벅스 새해 상품·맥도날드 '행운버거'",
       "link": "https://www.yna.co.kr/view/AKR20251226061000030",
       "pubDate": "Sat, 27 Dec 2025 07:00:02 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 올해 마지막 분양…내주 전국 5천576가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20251226105700003",
-      "pubDate": "Sat, 27 Dec 2025 06:00:02 +0900"
-    },
-    {
-      "title": "[샷!] 백수? 캥거루족?…\"전업자녀입니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20251223123800505",
-      "pubDate": "Sat, 27 Dec 2025 05:50:00 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 러시아-우크라이나 종전 기대감…2.8% 급락",
-      "link": "https://www.yna.co.kr/view/AKR20251227004600009",
-      "pubDate": "Sat, 27 Dec 2025 05:47:14 +0900"
-    },
-    {
-      "title": "달러-원, 야간 거래서 낙폭 소폭 회복…1,440원대 초반 마감",
-      "link": "https://www.yna.co.kr/view/AKR20251227002800002",
-      "pubDate": "Sat, 27 Dec 2025 03:42:02 +0900"
-    },
-    {
-      "title": "충남 아산 육용종계 농장서 고병원성 조류인플루엔자",
-      "link": "https://www.yna.co.kr/view/AKR20251226138000030",
-      "pubDate": "Fri, 26 Dec 2025 20:31:59 +0900"
-    },
-    {
-      "title": "[인사] KB국민카드·KB신용정보",
-      "link": "https://www.yna.co.kr/view/AKR20251226135000002",
-      "pubDate": "Fri, 26 Dec 2025 19:32:59 +0900"
-    },
-    {
-      "title": "[인사] KB캐피탈",
-      "link": "https://www.yna.co.kr/view/AKR20251226135200002",
-      "pubDate": "Fri, 26 Dec 2025 19:32:46 +0900"
-    },
-    {
-      "title": "삼천리, '지도표 성경김' 성경식품 1천195억원에 인수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226096851008",
-      "pubDate": "Fri, 26 Dec 2025 19:29:33 +0900"
-    },
-    {
-      "title": "루이비통 리폼은 상표권 침해?…\"상품 해당\" vs \"개인용도\"",
-      "link": "https://www.yna.co.kr/view/AKR20251226127200004",
-      "pubDate": "Fri, 26 Dec 2025 18:49:30 +0900"
-    },
-    {
-      "title": "[인사] KB손해보험",
-      "link": "https://www.yna.co.kr/view/AKR20251226129400002",
-      "pubDate": "Fri, 26 Dec 2025 18:37:14 +0900"
-    },
-    {
-      "title": "[인사] KB라이프",
-      "link": "https://www.yna.co.kr/view/AKR20251226130500002",
-      "pubDate": "Fri, 26 Dec 2025 18:37:02 +0900"
     }
   ]
 }
