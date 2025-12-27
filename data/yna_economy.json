@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766832085,
+  "updated_at_unix": 1766834860,
   "items": [
+    {
+      "title": "전남 영암 육용종계 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251227039700030",
+      "pubDate": "Sat, 27 Dec 2025 19:55:00 +0900"
+    },
     {
       "title": "백해룡 \"공수처에 압수수색영장 신청했는데 '접수 보류'\"",
       "link": "https://www.yna.co.kr/view/AKR20251227038000004",
@@ -147,11 +152,6 @@
       "title": "경총, 현대제철·한화오션 하청노조 파업권 획득에 \"일방 결정\"",
       "link": "https://www.yna.co.kr/view/AKR20251226118600003",
       "pubDate": "Fri, 26 Dec 2025 17:29:18 +0900"
-    },
-    {
-      "title": "'신안산선 사고' 포스코이앤씨, 신평3사 등급전망 줄줄이 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251226108651008",
-      "pubDate": "Fri, 26 Dec 2025 17:23:33 +0900"
     }
   ]
 }
