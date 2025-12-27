@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766811338,
+  "updated_at_unix": 1766814169,
   "items": [
+    {
+      "title": "전주시의회, 지역상품 구매촉진 조례안 제정…'예산 선순환'",
+      "link": "https://www.yna.co.kr/view/AKR20251227027800055",
+      "pubDate": "Sat, 27 Dec 2025 14:15:28 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20251227020100011",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 2.958%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251226106851008",
       "pubDate": "Fri, 26 Dec 2025 17:22:07 +0900"
-    },
-    {
-      "title": "이봉순 리컨벤션 대표, 부산 관광마이스 산업 기여 대통령 표창",
-      "link": "https://www.yna.co.kr/view/AKR20251226114800051",
-      "pubDate": "Fri, 26 Dec 2025 17:20:08 +0900"
     }
   ]
 }
