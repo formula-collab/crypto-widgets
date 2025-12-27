@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766875123,
+  "updated_at_unix": 1766878334,
   "items": [
+    {
+      "title": "이마트, 신규 한우 브랜드 3종 선보여…10개점서 선판매",
+      "link": "https://www.yna.co.kr/view/AKR20251228008300030",
+      "pubDate": "Sun, 28 Dec 2025 08:17:38 +0900"
+    },
+    {
+      "title": "100% 경남 땅·바다에 건설하는 '진해신항' 새 성장엔진 기대",
+      "link": "https://www.yna.co.kr/view/AKR20251219060400052",
+      "pubDate": "Sun, 28 Dec 2025 08:15:01 +0900"
+    },
+    {
+      "title": "명동 신세계스퀘어, 오는 31일 '카운트다운 쇼' 메인무대로",
+      "link": "https://www.yna.co.kr/view/AKR20251228007900030",
+      "pubDate": "Sun, 28 Dec 2025 08:11:39 +0900"
+    },
     {
       "title": "정부 R&D 직접지원 늘렸지만…\"기업 매출 효과는 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20251226087500017",
@@ -137,21 +152,6 @@
       "title": "[다음주 경제] 높은 환율에 12월 물가 얼마나 올랐나",
       "link": "https://www.yna.co.kr/view/AKR20251227017700002",
       "pubDate": "Sat, 27 Dec 2025 09:17:14 +0900"
-    },
-    {
-      "title": "콜센터 상담원들에게 상습 폭언 20대, 집행유예",
-      "link": "https://www.yna.co.kr/view/AKR20251226065600051",
-      "pubDate": "Sat, 27 Dec 2025 09:02:00 +0900"
-    },
-    {
-      "title": "\"밥퍼 후원하면 불매\"…크리스마스 날, 청량리에선 무슨 일이",
-      "link": "https://www.yna.co.kr/view/AKR20251226137600004",
-      "pubDate": "Sat, 27 Dec 2025 07:55:00 +0900"
-    },
-    {
-      "title": "[신상잇슈] 스타벅스 새해 상품·맥도날드 '행운버거'",
-      "link": "https://www.yna.co.kr/view/AKR20251226061000030",
-      "pubDate": "Sat, 27 Dec 2025 07:00:02 +0900"
     }
   ]
 }
