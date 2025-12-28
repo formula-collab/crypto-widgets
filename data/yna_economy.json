@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766957510,
+  "updated_at_unix": 1766961612,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251229012500011",
+      "pubDate": "Mon, 29 Dec 2025 07:30:02 +0900"
+    },
+    {
+      "title": "[스타트업 울산!] 중고차 보증보험 업무 병목, AI로 없앤다",
+      "link": "https://www.yna.co.kr/view/AKR20251228038800057",
+      "pubDate": "Mon, 29 Dec 2025 07:00:07 +0900"
+    },
+    {
+      "title": "부당해고 계약직에 '한번만 계약갱신' 임금 지급…법원 \"위법\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228020300004",
+      "pubDate": "Mon, 29 Dec 2025 07:00:02 +0900"
+    },
     {
       "title": "내년 전국 민간아파트 분양 18만7천525가구…올해대비 소폭↑",
       "link": "https://www.yna.co.kr/view/AKR20251228022700003",
@@ -137,21 +152,6 @@
       "title": "[2보] 김범석 \"미흡한 초기대응·소통부족 사과…늦은사과도 잘못\"",
       "link": "https://www.yna.co.kr/view/AKR20251228021351030",
       "pubDate": "Sun, 28 Dec 2025 13:28:27 +0900"
-    },
-    {
-      "title": "KB \"서울아파트값 평균 15억원·중위 11억원 돌파\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228020900003",
-      "pubDate": "Sun, 28 Dec 2025 13:26:43 +0900"
-    },
-    {
-      "title": "[1보] 김범석 쿠팡 의장 첫 사과 \"질책 겸허히 받아들여…철저히 쇄신\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228021300030",
-      "pubDate": "Sun, 28 Dec 2025 13:15:15 +0900"
-    },
-    {
-      "title": "쿠팡 김범석, 한국 또외면…소비자들 \"안하무인, 최대한 제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228017900030",
-      "pubDate": "Sun, 28 Dec 2025 12:18:14 +0900"
     }
   ]
 }
