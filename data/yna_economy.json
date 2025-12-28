@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766900552,
+  "updated_at_unix": 1766904941,
   "items": [
+    {
+      "title": "[프로필] 이혜훈 기획예산처 장관 후보자…보수 3선의원 출신 '경제통'",
+      "link": "https://www.yna.co.kr/view/AKR20251228028400001",
+      "pubDate": "Sun, 28 Dec 2025 15:26:58 +0900"
+    },
+    {
+      "title": "[프로필] 김종구 농식품부 차관…농업·유통 정통한 농정 관료",
+      "link": "https://www.yna.co.kr/view/AKR20251228028700030",
+      "pubDate": "Sun, 28 Dec 2025 15:21:03 +0900"
+    },
+    {
+      "title": "KB \"서울 오피스텔 매매가 상승률 3년 7개월 만에 최고\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228027900003",
+      "pubDate": "Sun, 28 Dec 2025 15:11:40 +0900"
+    },
+    {
+      "title": "광주 서구 광신대교 옆 보행로 붕괴…인명피해 없어",
+      "link": "https://www.yna.co.kr/view/AKR20251228027500054",
+      "pubDate": "Sun, 28 Dec 2025 15:05:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20251228025900011",
+      "pubDate": "Sun, 28 Dec 2025 15:00:00 +0900"
+    },
+    {
+      "title": "[프로필] 이경수 국가과학기술자문회의 부의장…핵융합 전문가",
+      "link": "https://www.yna.co.kr/view/AKR20251228025600017",
+      "pubDate": "Sun, 28 Dec 2025 14:44:14 +0900"
+    },
     {
       "title": "쿠팡 김범석, 사과했지만 청문회는 안나와…소비자들 \"제재해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251228017951030",
@@ -122,36 +152,6 @@
       "title": "직장인 31% \"연차휴가 자유롭게 못 써\"…프리랜서 등 취약",
       "link": "https://www.yna.co.kr/view/AKR20251228017200004",
       "pubDate": "Sun, 28 Dec 2025 12:00:01 +0900"
-    },
-    {
-      "title": "내년 상반기 농업 외국인 노동자 '역대 최대' 10만2천명 공급",
-      "link": "https://www.yna.co.kr/view/AKR20251226134200030",
-      "pubDate": "Sun, 28 Dec 2025 11:00:04 +0900"
-    },
-    {
-      "title": "개사육농장 78% 문 닫았다…333곳 남아",
-      "link": "https://www.yna.co.kr/view/AKR20251226131300030",
-      "pubDate": "Sun, 28 Dec 2025 11:00:03 +0900"
-    },
-    {
-      "title": "정부, 공공 지원 민간임대주택 6천가구 공급 사업자 공모",
-      "link": "https://www.yna.co.kr/view/AKR20251228010800003",
-      "pubDate": "Sun, 28 Dec 2025 11:00:02 +0900"
-    },
-    {
-      "title": "한류 올라탄 K-소비재…화장품·식품, 10대 수출 품목 진입",
-      "link": "https://www.yna.co.kr/view/AKR20251228012100003",
-      "pubDate": "Sun, 28 Dec 2025 11:00:02 +0900"
-    },
-    {
-      "title": "\"이민자 늘면 지역 물가 낮아지고 내국인 실질구매력 올라가\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228014900003",
-      "pubDate": "Sun, 28 Dec 2025 11:00:00 +0900"
-    },
-    {
-      "title": "\"올해 주택 분양 승인 15% 감소…수도권 비중은 3년 연속 과반\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228015200003",
-      "pubDate": "Sun, 28 Dec 2025 10:52:20 +0900"
     }
   ]
 }
