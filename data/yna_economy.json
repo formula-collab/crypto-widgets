@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766904941,
+  "updated_at_unix": 1766907244,
   "items": [
+    {
+      "title": "광주 서구 광신대교 옆 보행로 붕괴…인명피해 없어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251228027551054",
+      "pubDate": "Sun, 28 Dec 2025 16:11:56 +0900"
+    },
+    {
+      "title": "경기도, '극저신용대출 2.0' 내년 시행…200만원 10년 장기상환",
+      "link": "https://www.yna.co.kr/view/AKR20251228030400061",
+      "pubDate": "Sun, 28 Dec 2025 16:07:43 +0900"
+    },
     {
       "title": "[프로필] 이혜훈 기획예산처 장관 후보자…보수 3선의원 출신 '경제통'",
       "link": "https://www.yna.co.kr/view/AKR20251228028400001",
@@ -142,16 +152,6 @@
       "title": "현금 안써도 지갑엔 평균 10만원…'비상금'은 4년새 52%↑",
       "link": "https://www.yna.co.kr/view/AKR20251227001200002",
       "pubDate": "Sun, 28 Dec 2025 12:00:03 +0900"
-    },
-    {
-      "title": "새해 기업 경기전망 회복은 '아직'…수출 개선에도 반등 소폭",
-      "link": "https://www.yna.co.kr/view/AKR20251228013800003",
-      "pubDate": "Sun, 28 Dec 2025 12:00:02 +0900"
-    },
-    {
-      "title": "직장인 31% \"연차휴가 자유롭게 못 써\"…프리랜서 등 취약",
-      "link": "https://www.yna.co.kr/view/AKR20251228017200004",
-      "pubDate": "Sun, 28 Dec 2025 12:00:01 +0900"
     }
   ]
 }
