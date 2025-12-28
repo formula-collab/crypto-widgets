@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766961612,
+  "updated_at_unix": 1766964795,
   "items": [
+    {
+      "title": "CU, 국내 택배 롯데글로벌로지스에 맡겨…반값택배도 3일 배송",
+      "link": "https://www.yna.co.kr/view/AKR20251229019700030",
+      "pubDate": "Mon, 29 Dec 2025 08:17:53 +0900"
+    },
+    {
+      "title": "버스차고지를 창업거점으로…'서울창업허브 관악' 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20251229019200004",
+      "pubDate": "Mon, 29 Dec 2025 08:16:22 +0900"
+    },
+    {
+      "title": "현대벤디스, 인수 3년만에 거래액 두배…\"내년 2천억원 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20251226124000030",
+      "pubDate": "Mon, 29 Dec 2025 08:00:03 +0900"
+    },
+    {
+      "title": "부산시, 서부산권 복합산단 개발제한구역 1.3㎢ 해제",
+      "link": "https://www.yna.co.kr/view/AKR20251229016300051",
+      "pubDate": "Mon, 29 Dec 2025 07:56:59 +0900"
+    },
+    {
+      "title": "땅꺼짐 사고 상해도 보장…부산시 시민안전보험 확대",
+      "link": "https://www.yna.co.kr/view/AKR20251229016200051",
+      "pubDate": "Mon, 29 Dec 2025 07:56:46 +0900"
+    },
+    {
+      "title": "부산신용보증재단 이사장에 구교성 전 BNK캐피탈 부사장",
+      "link": "https://www.yna.co.kr/view/AKR20251229016100051",
+      "pubDate": "Mon, 29 Dec 2025 07:56:17 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251229012500011",
@@ -122,36 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20251228025900011",
       "pubDate": "Sun, 28 Dec 2025 15:00:00 +0900"
-    },
-    {
-      "title": "[프로필] 이경수 국가과학기술자문회의 부의장…핵융합 전문가",
-      "link": "https://www.yna.co.kr/view/AKR20251228025600017",
-      "pubDate": "Sun, 28 Dec 2025 14:44:14 +0900"
-    },
-    {
-      "title": "쿠팡 김범석, 사과했지만 청문회는 안나와…소비자들 \"제재해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251228017951030",
-      "pubDate": "Sun, 28 Dec 2025 14:35:25 +0900"
-    },
-    {
-      "title": "[속보] 국민경제자문회의 부의장에 '중도' 김성식 선임",
-      "link": "https://www.yna.co.kr/view/AKR20251228023700001",
-      "pubDate": "Sun, 28 Dec 2025 14:32:19 +0900"
-    },
-    {
-      "title": "[속보] 李대통령, 초대 기획예산처 장관에 이혜훈 파격 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20251228023400001",
-      "pubDate": "Sun, 28 Dec 2025 14:31:26 +0900"
-    },
-    {
-      "title": "김범석 첫 사과 \"미흡한 초기대응·소통부족…늦은 사과도 잘못\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251228021352030",
-      "pubDate": "Sun, 28 Dec 2025 13:47:26 +0900"
-    },
-    {
-      "title": "[2보] 김범석 \"미흡한 초기대응·소통부족 사과…늦은사과도 잘못\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228021351030",
-      "pubDate": "Sun, 28 Dec 2025 13:28:27 +0900"
     }
   ]
 }
