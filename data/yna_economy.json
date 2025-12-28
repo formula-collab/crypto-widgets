@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766914591,
+  "updated_at_unix": 1766918543,
   "items": [
+    {
+      "title": "[인터뷰] 이혜훈 \"곳간 맡긴 통합, 진정성 느껴…'계엄 잘못' 생각 불변\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228041000001",
+      "pubDate": "Sun, 28 Dec 2025 18:59:56 +0900"
+    },
     {
       "title": "기획예산처 이끌 경제통 이혜훈…비관료 보수정치인 차별점 눈길",
       "link": "https://www.yna.co.kr/view/AKR20251228030100002",
@@ -147,11 +152,6 @@
       "title": "올해 '시총 1조 돌파' 코스닥 새내기주 역대 최다",
       "link": "https://www.yna.co.kr/view/AKR20251226120600008",
       "pubDate": "Sun, 28 Dec 2025 12:00:07 +0900"
-    },
-    {
-      "title": "작년 국내 여성 고용률 54.7%…남성보다 16.2%p 낮아",
-      "link": "https://www.yna.co.kr/view/AKR20251227037600530",
-      "pubDate": "Sun, 28 Dec 2025 12:00:06 +0900"
     }
   ]
 }
