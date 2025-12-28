@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766954398,
+  "updated_at_unix": 1766957510,
   "items": [
+    {
+      "title": "내년 전국 민간아파트 분양 18만7천525가구…올해대비 소폭↑",
+      "link": "https://www.yna.co.kr/view/AKR20251228022700003",
+      "pubDate": "Mon, 29 Dec 2025 06:00:07 +0900"
+    },
+    {
+      "title": "프로야구장 특별점검 정례화하고 집중안전점검 대상에 포함",
+      "link": "https://www.yna.co.kr/view/AKR20251228024400003",
+      "pubDate": "Mon, 29 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "롯데마트·슈퍼, '크라운 하임X스텔라이브' 단독 출시",
+      "link": "https://www.yna.co.kr/view/AKR20251228033300030",
+      "pubDate": "Mon, 29 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "대법 \"건물주·임차인 같은 보험…불낸 세입자에 배상 못 요구\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228030300004",
+      "pubDate": "Mon, 29 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "국내기업 경기전망, 새해 첫 달에도 '부정적'…46개월 연속 부진",
+      "link": "https://www.yna.co.kr/view/AKR20251228032100003",
+      "pubDate": "Mon, 29 Dec 2025 06:00:00 +0900"
+    },
+    {
+      "title": "소비쿠폰 힘? 자영업자 폐업 1만여개 '뚝'…반짝 효과 넘어설까",
+      "link": "https://www.yna.co.kr/view/AKR20251227035900002",
+      "pubDate": "Mon, 29 Dec 2025 05:53:01 +0900"
+    },
+    {
+      "title": "고환율에 스테이블코인 거래도 불붙어…원화코인은 내년 기약",
+      "link": "https://www.yna.co.kr/view/AKR20251228036300002",
+      "pubDate": "Mon, 29 Dec 2025 05:51:00 +0900"
+    },
     {
       "title": "\"미래에셋그룹, 암호화폐 거래소 코빗 인수 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20251228045700008",
@@ -117,41 +152,6 @@
       "title": "쿠팡 김범석, 한국 또외면…소비자들 \"안하무인, 최대한 제재\"",
       "link": "https://www.yna.co.kr/view/AKR20251228017900030",
       "pubDate": "Sun, 28 Dec 2025 12:18:14 +0900"
-    },
-    {
-      "title": "카셰어링 사고 분쟁 90%는 면책금 관련…'자기부담 0원' 꼭 확인",
-      "link": "https://www.yna.co.kr/view/AKR20251226062600030",
-      "pubDate": "Sun, 28 Dec 2025 12:00:19 +0900"
-    },
-    {
-      "title": "임금체불 피해 외국인근로자 보호 강화…노동부-법무부 협업",
-      "link": "https://www.yna.co.kr/view/AKR20251226118900530",
-      "pubDate": "Sun, 28 Dec 2025 12:00:16 +0900"
-    },
-    {
-      "title": "[게시판] 노무제공자 사고성재해 예방사업 참여기관 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251226119100530",
-      "pubDate": "Sun, 28 Dec 2025 12:00:15 +0900"
-    },
-    {
-      "title": "벤처기업 4년 새 매출 26% 증가…기술·투자형 구조로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20251226141800030",
-      "pubDate": "Sun, 28 Dec 2025 12:00:09 +0900"
-    },
-    {
-      "title": "중기부, 지역특화사업 '레전드 50+ 프로젝트' 공고",
-      "link": "https://www.yna.co.kr/view/AKR20251226118000030",
-      "pubDate": "Sun, 28 Dec 2025 12:00:09 +0900"
-    },
-    {
-      "title": "중기부, 딥테크 스타트업 '기술사업화·글로벌진출' 사업공고",
-      "link": "https://www.yna.co.kr/view/AKR20251226113100030",
-      "pubDate": "Sun, 28 Dec 2025 12:00:08 +0900"
-    },
-    {
-      "title": "중기중앙회, 신한은행·신보중앙회와 노란우산 우대보증",
-      "link": "https://www.yna.co.kr/view/AKR20251226104600030",
-      "pubDate": "Sun, 28 Dec 2025 12:00:08 +0900"
     }
   ]
 }
