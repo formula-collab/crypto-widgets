@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766922199,
+  "updated_at_unix": 1766929038,
   "items": [
+    {
+      "title": "\"미래에셋그룹, 암호화폐 거래소 코빗 인수 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228045700008",
+      "pubDate": "Sun, 28 Dec 2025 21:09:44 +0900"
+    },
     {
       "title": "[인터뷰] 이혜훈 \"곳간 맡긴 통합, 진정성 느껴…'계엄 잘못' 생각 불변\"",
       "link": "https://www.yna.co.kr/view/AKR20251228041000001",
@@ -147,11 +152,6 @@
       "title": "중기중앙회, 신한은행·신보중앙회와 노란우산 우대보증",
       "link": "https://www.yna.co.kr/view/AKR20251226104600030",
       "pubDate": "Sun, 28 Dec 2025 12:00:08 +0900"
-    },
-    {
-      "title": "올해 '시총 1조 돌파' 코스닥 새내기주 역대 최다",
-      "link": "https://www.yna.co.kr/view/AKR20251226120600008",
-      "pubDate": "Sun, 28 Dec 2025 12:00:07 +0900"
     }
   ]
 }
