@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766894761,
+  "updated_at_unix": 1766900552,
   "items": [
+    {
+      "title": "쿠팡 김범석, 사과했지만 청문회는 안나와…소비자들 \"제재해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251228017951030",
+      "pubDate": "Sun, 28 Dec 2025 14:35:25 +0900"
+    },
+    {
+      "title": "[속보] 국민경제자문회의 부의장에 '중도' 김성식 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251228023700001",
+      "pubDate": "Sun, 28 Dec 2025 14:32:19 +0900"
+    },
+    {
+      "title": "[속보] 李대통령, 초대 기획예산처 장관에 이혜훈 파격 발탁",
+      "link": "https://www.yna.co.kr/view/AKR20251228023400001",
+      "pubDate": "Sun, 28 Dec 2025 14:31:26 +0900"
+    },
+    {
+      "title": "김범석 첫 사과 \"미흡한 초기대응·소통부족…늦은 사과도 잘못\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251228021352030",
+      "pubDate": "Sun, 28 Dec 2025 13:47:26 +0900"
+    },
+    {
+      "title": "[2보] 김범석 \"미흡한 초기대응·소통부족 사과…늦은사과도 잘못\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228021351030",
+      "pubDate": "Sun, 28 Dec 2025 13:28:27 +0900"
+    },
+    {
+      "title": "KB \"서울아파트값 평균 15억원·중위 11억원 돌파\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228020900003",
+      "pubDate": "Sun, 28 Dec 2025 13:26:43 +0900"
+    },
+    {
+      "title": "[1보] 김범석 쿠팡 의장 첫 사과 \"질책 겸허히 받아들여…철저히 쇄신\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228021300030",
+      "pubDate": "Sun, 28 Dec 2025 13:15:15 +0900"
+    },
     {
       "title": "쿠팡 김범석, 한국 또외면…소비자들 \"안하무인, 최대한 제재\"",
       "link": "https://www.yna.co.kr/view/AKR20251228017900030",
@@ -117,41 +152,6 @@
       "title": "\"올해 주택 분양 승인 15% 감소…수도권 비중은 3년 연속 과반\"",
       "link": "https://www.yna.co.kr/view/AKR20251228015200003",
       "pubDate": "Sun, 28 Dec 2025 10:52:20 +0900"
-    },
-    {
-      "title": "KB국민카드, 카드결제 기부금 4년 새 51%↑…1인당 연 22.8만원",
-      "link": "https://www.yna.co.kr/view/AKR20251228012200002",
-      "pubDate": "Sun, 28 Dec 2025 10:37:40 +0900"
-    },
-    {
-      "title": "진옥동 신한금융 회장 \"지속가능한 생산·포용금융 모델 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20251228010000002",
-      "pubDate": "Sun, 28 Dec 2025 10:36:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20251228013400011",
-      "pubDate": "Sun, 28 Dec 2025 10:30:02 +0900"
-    },
-    {
-      "title": "평택시, 2028년까지 쓰레기 종량제봉투 가격 26% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20251226088000061",
-      "pubDate": "Sun, 28 Dec 2025 10:01:01 +0900"
-    },
-    {
-      "title": "LG디스플레이, 세계 최고·최초 모니터용 OLED 대거 공개",
-      "link": "https://www.yna.co.kr/view/AKR20251228010400003",
-      "pubDate": "Sun, 28 Dec 2025 10:00:00 +0900"
-    },
-    {
-      "title": "전셋값 강세에 올해 서울 아파트 갱신계약 절반이 갱신권 썼다",
-      "link": "https://www.yna.co.kr/view/AKR20251228012500003",
-      "pubDate": "Sun, 28 Dec 2025 09:52:12 +0900"
-    },
-    {
-      "title": "경남도, 올해 지방세 세무조사로 탈루 세금 206억원 추징",
-      "link": "https://www.yna.co.kr/view/AKR20251228011800052",
-      "pubDate": "Sun, 28 Dec 2025 09:37:51 +0900"
     }
   ]
 }
