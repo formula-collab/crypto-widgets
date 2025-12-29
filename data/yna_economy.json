@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767040967,
+  "updated_at_unix": 1767043963,
   "items": [
+    {
+      "title": "[2025 증시 결산]② 두 차례 상법 개선으로 증시 체질 개선",
+      "link": "https://www.yna.co.kr/view/AKR20251229082400008",
+      "pubDate": "Tue, 30 Dec 2025 06:05:01 +0900"
+    },
+    {
+      "title": "[2025 증시결산]① \"꼴찌에서 1등으로\"…세계 최고수익률 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20251224016400008",
+      "pubDate": "Tue, 30 Dec 2025 06:05:01 +0900"
+    },
+    {
+      "title": "불황 속 특허 경쟁 격화…한국, 증가폭 세계 3위",
+      "link": "https://www.yna.co.kr/view/AKR20251229136300017",
+      "pubDate": "Tue, 30 Dec 2025 06:03:01 +0900"
+    },
+    {
+      "title": "고용노동부 경기지청, '경기지방고용노동청'으로 승격 출범",
+      "link": "https://www.yna.co.kr/view/AKR20251229138900061",
+      "pubDate": "Tue, 30 Dec 2025 06:00:50 +0900"
+    },
+    {
+      "title": "중기부, '민관협력 오픈이노베이션 사업' 참가자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251229124300030",
+      "pubDate": "Tue, 30 Dec 2025 06:00:10 +0900"
+    },
+    {
+      "title": "반도체산단 새만금 이전론에 업계 \"전력·인력·용수 3중고 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229134100003",
+      "pubDate": "Tue, 30 Dec 2025 06:00:07 +0900"
+    },
+    {
+      "title": "기업 체감경기 1년 5개월 만에 최고…\"美 설비투자 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229145100002",
+      "pubDate": "Tue, 30 Dec 2025 06:00:06 +0900"
+    },
+    {
+      "title": "롯데마트, 새해 첫날부터 '통큰데이'…나흘간 초저가 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20251229133000030",
+      "pubDate": "Tue, 30 Dec 2025 06:00:03 +0900"
+    },
+    {
+      "title": "신세계백화점, 강남점서 버추얼그룹 '스코시즘' 팝업스토어",
+      "link": "https://www.yna.co.kr/view/AKR20251229134700030",
+      "pubDate": "Tue, 30 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "'월 1만원에 거주' 전남형 만원주택, 특화주택에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251229146900003",
+      "pubDate": "Tue, 30 Dec 2025 06:00:02 +0900"
+    },
+    {
+      "title": "디지털자산법 정부안, 무과실배상 등 담길 듯…제출은 새해로",
+      "link": "https://www.yna.co.kr/view/AKR20251229154700002",
+      "pubDate": "Tue, 30 Dec 2025 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 러 \"우크라, 푸틴 관저 드론 공격\" 주장에 급등…WTI, 2.4%↑",
       "link": "https://www.yna.co.kr/view/AKR20251230005000009",
@@ -97,61 +152,6 @@
       "title": "[인사] 다올금융그룹",
       "link": "https://www.yna.co.kr/view/AKR20251229142200008",
       "pubDate": "Mon, 29 Dec 2025 17:39:54 +0900"
-    },
-    {
-      "title": "정부, 두 달간 마약 사범 4천명 단속…마약류 103kg 압수",
-      "link": "https://www.yna.co.kr/view/AKR20251229141300002",
-      "pubDate": "Mon, 29 Dec 2025 17:34:56 +0900"
-    },
-    {
-      "title": "[인사] ABL생명",
-      "link": "https://www.yna.co.kr/view/AKR20251229141100002",
-      "pubDate": "Mon, 29 Dec 2025 17:32:02 +0900"
-    },
-    {
-      "title": "'95억 피해' 순천 아파트서 또 전세사기…청년 등 임차인 '막막'",
-      "link": "https://www.yna.co.kr/view/AKR20251229138500054",
-      "pubDate": "Mon, 29 Dec 2025 17:23:32 +0900"
-    },
-    {
-      "title": "서울 고려대역 동북선 공사장서 낙하물 맞은 근로자 사망(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229083951004",
-      "pubDate": "Mon, 29 Dec 2025 17:20:44 +0900"
-    },
-    {
-      "title": "[동정] 과기부총리, 국제 우편물 마약류 2차 검사 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20251229136700017",
-      "pubDate": "Mon, 29 Dec 2025 17:13:21 +0900"
-    },
-    {
-      "title": "환율 안정·외국인 순매수세에 국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229130951008",
-      "pubDate": "Mon, 29 Dec 2025 17:12:17 +0900"
-    },
-    {
-      "title": "김종철 방미통위원장 \"스팸 문자 발본색원해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229093351017",
-      "pubDate": "Mon, 29 Dec 2025 17:07:14 +0900"
-    },
-    {
-      "title": "서울·경기일부 국제우편물 마약류 추가단속…내년 전국적 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251229100500001",
-      "pubDate": "Mon, 29 Dec 2025 17:00:11 +0900"
-    },
-    {
-      "title": "농식품부, '농어촌 기본소득 성과창출 협의체 출범식' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20251229113400030",
-      "pubDate": "Mon, 29 Dec 2025 17:00:11 +0900"
-    },
-    {
-      "title": "[광주 북구소식] 고용노동부 청년도전지원사업 평가 최우수",
-      "link": "https://www.yna.co.kr/view/AKR20251229132900054",
-      "pubDate": "Mon, 29 Dec 2025 16:54:19 +0900"
-    },
-    {
-      "title": "광주 내년 1분기 제조업 체감경기 '침체' 여전",
-      "link": "https://www.yna.co.kr/view/AKR20251229130100054",
-      "pubDate": "Mon, 29 Dec 2025 16:50:14 +0900"
     }
   ]
 }
