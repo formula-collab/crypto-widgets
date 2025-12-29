@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767037346,
+  "updated_at_unix": 1767040967,
   "items": [
+    {
+      "title": "[뉴욕유가] 러 \"우크라, 푸틴 관저 드론 공격\" 주장에 급등…WTI, 2.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251230005000009",
+      "pubDate": "Tue, 30 Dec 2025 04:40:09 +0900"
+    },
     {
       "title": "달러-원, 단기 낙폭 과대 인식에 저가 매수…1,430원대 중반 마감",
       "link": "https://www.yna.co.kr/view/AKR20251230003800002",
@@ -147,11 +152,6 @@
       "title": "광주 내년 1분기 제조업 체감경기 '침체' 여전",
       "link": "https://www.yna.co.kr/view/AKR20251229130100054",
       "pubDate": "Mon, 29 Dec 2025 16:50:14 +0900"
-    },
-    {
-      "title": "성남 신흥1구역 공공 참여 재개발, 사업시행계획인가 획득",
-      "link": "https://www.yna.co.kr/view/AKR20251229131000003",
-      "pubDate": "Mon, 29 Dec 2025 16:46:45 +0900"
     }
   ]
 }
