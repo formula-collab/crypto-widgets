@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767047993,
+  "updated_at_unix": 1767051191,
   "items": [
+    {
+      "title": "풀무원푸드앤컬처, '착한소비' 캠페인 기부금으로 나눔 실천",
+      "link": "https://www.yna.co.kr/view/AKR20251230024400030",
+      "pubDate": "Tue, 30 Dec 2025 08:21:50 +0900"
+    },
+    {
+      "title": "G마켓, 중소셀러 상품 구입해 자립준비청년 150명 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251230023000030",
+      "pubDate": "Tue, 30 Dec 2025 08:13:58 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 올해 폐장일 사상 최고가 새로 쓸까",
+      "link": "https://www.yna.co.kr/view/AKR20251230019800008",
+      "pubDate": "Tue, 30 Dec 2025 08:02:20 +0900"
+    },
+    {
+      "title": "부산시, 연초부터 1천400억원 정책자금 조기 공급",
+      "link": "https://www.yna.co.kr/view/AKR20251230018200051",
+      "pubDate": "Tue, 30 Dec 2025 08:01:58 +0900"
+    },
+    {
+      "title": "부산 이전 전력반도체 기업에 필드캠퍼스…실습·연구실로 활용",
+      "link": "https://www.yna.co.kr/view/AKR20251230018100051",
+      "pubDate": "Tue, 30 Dec 2025 08:01:44 +0900"
+    },
+    {
+      "title": "[2보] '명절특수' 사라진 소비 3.3% '뚝'…21개월 만에 최대감소",
+      "link": "https://www.yna.co.kr/view/AKR20251230017251002",
+      "pubDate": "Tue, 30 Dec 2025 08:00:19 +0900"
+    },
+    {
+      "title": "소상공인연합회장 \"내년을 소상공인 권리회복의 원년으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229131800030",
+      "pubDate": "Tue, 30 Dec 2025 08:00:05 +0900"
+    },
+    {
+      "title": "에이치시티, 마샬캡과 차세대 배터리소재 K-LTO 상용화 추진",
+      "link": "https://www.yna.co.kr/view/AKR20251229133600030",
+      "pubDate": "Tue, 30 Dec 2025 08:00:04 +0900"
+    },
+    {
+      "title": "[1보] 11월 산업생산 0.9% 증가…소매판매 3.3%↓·투자 1.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251230017200002",
+      "pubDate": "Tue, 30 Dec 2025 08:00:01 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251230015400011",
@@ -29,12 +74,12 @@
       "pubDate": "Tue, 30 Dec 2025 07:00:02 +0900"
     },
     {
-      "title": "[2025 증시 결산]① \"꼴찌에서 1등으로\"…세계 최고수익률 코스피",
+      "title": "[2025 증시 결산] ①\"꼴찌에서 1등으로\"…세계 최고수익률 코스피",
       "link": "https://www.yna.co.kr/view/AKR20251224016400008",
       "pubDate": "Tue, 30 Dec 2025 06:05:01 +0900"
     },
     {
-      "title": "[2025 증시 결산]② 두 차례 상법 개선으로 증시 체질 개선",
+      "title": "[2025 증시 결산] ②두 차례 상법 개선으로 증시 체질 개선",
       "link": "https://www.yna.co.kr/view/AKR20251229082400008",
       "pubDate": "Tue, 30 Dec 2025 06:05:01 +0900"
     },
@@ -107,51 +152,6 @@
       "title": "국토부 \"투과지구 지정 전 조합원 지위 양도 계약 구제\"",
       "link": "https://www.yna.co.kr/view/AKR20251229153400003",
       "pubDate": "Mon, 29 Dec 2025 19:33:04 +0900"
-    },
-    {
-      "title": "한화에어로, 폴란드와 5조원대 천무 3차 계약 체결한다",
-      "link": "https://www.yna.co.kr/view/AKR20251229152300003",
-      "pubDate": "Mon, 29 Dec 2025 19:23:14 +0900"
-    },
-    {
-      "title": "[게시판] 이명구 관세청장, 우체국 찾아 '마약류 검사' 현장점검",
-      "link": "https://www.yna.co.kr/view/AKR20251229149600002",
-      "pubDate": "Mon, 29 Dec 2025 18:54:37 +0900"
-    },
-    {
-      "title": "오르비텍, 100억원 유상증자…비앤피주성에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251229148300008",
-      "pubDate": "Mon, 29 Dec 2025 18:34:07 +0900"
-    },
-    {
-      "title": "아우딘퓨쳐스 \"라온커머스 주식 25억원어치 취득…지분율 24.3%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229147100008",
-      "pubDate": "Mon, 29 Dec 2025 18:24:53 +0900"
-    },
-    {
-      "title": "한울앤제주 \"종속회사 빅페스타 주식 68억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229147000008",
-      "pubDate": "Mon, 29 Dec 2025 18:24:13 +0900"
-    },
-    {
-      "title": "'대규모 전세사기' 순천 아파트서 또 피해 발생…임차인 '막막'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229138551054",
-      "pubDate": "Mon, 29 Dec 2025 18:22:02 +0900"
-    },
-    {
-      "title": "유안타증권 \"보로노이 주식 456억원어치 취득…지분율 1.1%\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229146700008",
-      "pubDate": "Mon, 29 Dec 2025 18:12:35 +0900"
-    },
-    {
-      "title": "[인사] 한국무역협회",
-      "link": "https://www.yna.co.kr/view/AKR20251229145800003",
-      "pubDate": "Mon, 29 Dec 2025 18:03:09 +0900"
-    },
-    {
-      "title": "AI·안전 등 분야 민간전문가 141명, 5·7급 공무원 합격",
-      "link": "https://www.yna.co.kr/view/AKR20251229117800001",
-      "pubDate": "Mon, 29 Dec 2025 18:00:01 +0900"
     }
   ]
 }
