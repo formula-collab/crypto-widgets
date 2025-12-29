@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767002031,
+  "updated_at_unix": 1767005361,
   "items": [
+    {
+      "title": "국토부 \"투과지구 지정 전 조합원 지위 양도 계약 구제\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229153400003",
+      "pubDate": "Mon, 29 Dec 2025 19:33:04 +0900"
+    },
+    {
+      "title": "한화에어로, 폴란드와 5조원대 천무 3차 계약 체결한다",
+      "link": "https://www.yna.co.kr/view/AKR20251229152300003",
+      "pubDate": "Mon, 29 Dec 2025 19:23:14 +0900"
+    },
+    {
+      "title": "[게시판] 이명구 관세청장, 우체국 찾아 '마약류 검사' 현장점검",
+      "link": "https://www.yna.co.kr/view/AKR20251229149600002",
+      "pubDate": "Mon, 29 Dec 2025 18:54:37 +0900"
+    },
     {
       "title": "오르비텍, 100억원 유상증자…비앤피주성에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20251229148300008",
@@ -137,21 +152,6 @@
       "title": "인천 재외동포타운 3단계 본격 추진…1천700세대 규모",
       "link": "https://www.yna.co.kr/view/AKR20251229130500065",
       "pubDate": "Mon, 29 Dec 2025 16:39:52 +0900"
-    },
-    {
-      "title": "[영상] 쿠팡 1조6천850억원 보상 카드…소비자단체 \"소비자 우롱\" 비판",
-      "link": "https://www.yna.co.kr/view/AKR20251229126500704",
-      "pubDate": "Mon, 29 Dec 2025 16:34:56 +0900"
-    },
-    {
-      "title": "곡성군, 라오스 측과 계절근로자 사업 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20251229129000054",
-      "pubDate": "Mon, 29 Dec 2025 16:34:56 +0900"
-    },
-    {
-      "title": "한국인 5%는 '은둔형 외톨이'…하루 1번 전화걸고 9시간 TV 시청(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229076051002",
-      "pubDate": "Mon, 29 Dec 2025 16:34:20 +0900"
     }
   ]
 }
