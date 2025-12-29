@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1766998729,
+  "updated_at_unix": 1767002031,
   "items": [
+    {
+      "title": "오르비텍, 100억원 유상증자…비앤피주성에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20251229148300008",
+      "pubDate": "Mon, 29 Dec 2025 18:34:07 +0900"
+    },
+    {
+      "title": "아우딘퓨쳐스 \"라온커머스 주식 25억원어치 취득…지분율 24.3%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229147100008",
+      "pubDate": "Mon, 29 Dec 2025 18:24:53 +0900"
+    },
+    {
+      "title": "한울앤제주 \"종속회사 빅페스타 주식 68억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229147000008",
+      "pubDate": "Mon, 29 Dec 2025 18:24:13 +0900"
+    },
+    {
+      "title": "'대규모 전세사기' 순천 아파트서 또 피해 발생…임차인 '막막'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251229138551054",
+      "pubDate": "Mon, 29 Dec 2025 18:22:02 +0900"
+    },
+    {
+      "title": "유안타증권 \"보로노이 주식 456억원어치 취득…지분율 1.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229146700008",
+      "pubDate": "Mon, 29 Dec 2025 18:12:35 +0900"
+    },
+    {
+      "title": "[인사] 한국무역협회",
+      "link": "https://www.yna.co.kr/view/AKR20251229145800003",
+      "pubDate": "Mon, 29 Dec 2025 18:03:09 +0900"
+    },
+    {
+      "title": "AI·안전 등 분야 민간전문가 141명, 5·7급 공무원 합격",
+      "link": "https://www.yna.co.kr/view/AKR20251229117800001",
+      "pubDate": "Mon, 29 Dec 2025 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251229140300011",
+      "pubDate": "Mon, 29 Dec 2025 18:00:00 +0900"
+    },
+    {
+      "title": "또 맞붙은 고려아연 vs 영풍·MBK, '헐값 유상증자' 공방(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251229096451003",
+      "pubDate": "Mon, 29 Dec 2025 17:56:18 +0900"
+    },
     {
       "title": "엘앤에프도 3.8조원 계약 증발…\"글로벌 시장환경 변화\"",
       "link": "https://www.yna.co.kr/view/AKR20251229142900003",
@@ -107,51 +152,6 @@
       "title": "한국인 5%는 '은둔형 외톨이'…하루 1번 전화걸고 9시간 TV 시청(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251229076051002",
       "pubDate": "Mon, 29 Dec 2025 16:34:20 +0900"
-    },
-    {
-      "title": "우리금융 임추위원장 \"현 회장·외부 간섭 없었다\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229127900002",
-      "pubDate": "Mon, 29 Dec 2025 16:29:31 +0900"
-    },
-    {
-      "title": "포항시·iM금융그룹, 포항 기업 원스톱 지원에 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20251229125800053",
-      "pubDate": "Mon, 29 Dec 2025 16:18:33 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20251229124600002",
-      "pubDate": "Mon, 29 Dec 2025 16:11:18 +0900"
-    },
-    {
-      "title": "원/달러 환율 39거래일 만에 최저…1,429.8원",
-      "link": "https://www.yna.co.kr/view/AKR20251229124100002",
-      "pubDate": "Mon, 29 Dec 2025 16:10:56 +0900"
-    },
-    {
-      "title": "곽문근 원주시의회 부의장, '원주형 은퇴자 도시 건설' 제안",
-      "link": "https://www.yna.co.kr/view/AKR20251229122900062",
-      "pubDate": "Mon, 29 Dec 2025 16:05:57 +0900"
-    },
-    {
-      "title": "100만원이하 가상자산 거래도 '실명제'…트레블룰 적용 추진",
-      "link": "https://www.yna.co.kr/view/AKR20251229061700002",
-      "pubDate": "Mon, 29 Dec 2025 16:00:04 +0900"
-    },
-    {
-      "title": "기재부, 전략수출금융기금 공청회…\"수출 두텁게 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229106700002",
-      "pubDate": "Mon, 29 Dec 2025 16:00:02 +0900"
-    },
-    {
-      "title": "고환율에 스테이블코인 거래 불붙어…10월에만 23조4천억원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251228036351002",
-      "pubDate": "Mon, 29 Dec 2025 15:58:25 +0900"
-    },
-    {
-      "title": "부산 청년 매입임대주택 90가구 입주자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251229122400051",
-      "pubDate": "Mon, 29 Dec 2025 15:58:04 +0900"
     }
   ]
 }
