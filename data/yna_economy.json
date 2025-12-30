@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767088327,
+  "updated_at_unix": 1767092047,
   "items": [
+    {
+      "title": "철강업계, 무역위에 중국산 석도강판 반덤핑 조사 신청(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230132851003",
+      "pubDate": "Tue, 30 Dec 2025 19:09:42 +0900"
+    },
+    {
+      "title": "[인사] 국세청",
+      "link": "https://www.yna.co.kr/view/AKR20251230156500002",
+      "pubDate": "Tue, 30 Dec 2025 19:07:18 +0900"
+    },
+    {
+      "title": "주병기 공정위원장 \"쿠팡, 사회책임 '빵점'…동일인 재검토\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230080651002",
+      "pubDate": "Tue, 30 Dec 2025 19:04:34 +0900"
+    },
+    {
+      "title": "구윤철, 공공기관에 \"떳떳하지 못하고 임시변통 자세 타파하자\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230154700002",
+      "pubDate": "Tue, 30 Dec 2025 19:01:54 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20251230153600002",
+      "pubDate": "Tue, 30 Dec 2025 19:00:28 +0900"
+    },
+    {
+      "title": "신임 예보 사장에 李대통령 사시 동기 김성식 변호사 내정",
+      "link": "https://www.yna.co.kr/view/AKR20251230154500002",
+      "pubDate": "Tue, 30 Dec 2025 19:00:05 +0900"
+    },
+    {
+      "title": "상설특검, 쿠팡 사건 주임검사 참고인 조사…피의자 전환 검토(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230104151004",
+      "pubDate": "Tue, 30 Dec 2025 18:59:59 +0900"
+    },
+    {
+      "title": "인천지방국세청장에 박종희…국세청 고위직 인사 단행",
+      "link": "https://www.yna.co.kr/view/AKR20251230152900002",
+      "pubDate": "Tue, 30 Dec 2025 18:58:54 +0900"
+    },
+    {
+      "title": "전북은행장에 박춘원 JB우리캐피탈 대표 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251230154800055",
+      "pubDate": "Tue, 30 Dec 2025 18:55:39 +0900"
+    },
+    {
+      "title": "한국면세점협회 신임 협회장에 조병준 호텔신라 부사장",
+      "link": "https://www.yna.co.kr/view/AKR20251230155300030",
+      "pubDate": "Tue, 30 Dec 2025 18:55:31 +0900"
+    },
+    {
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.yna.co.kr/view/AKR20251230154900030",
+      "pubDate": "Tue, 30 Dec 2025 18:52:10 +0900"
+    },
     {
       "title": "\"성과공유제 도입, 기업 사내협력사 고용에 긍정적 영향\"",
       "link": "https://www.yna.co.kr/view/AKR20251230150200530",
@@ -97,61 +152,6 @@
       "title": "日증시 연말 종가, 역대 최고치 기록…작년比 26%↑",
       "link": "https://www.yna.co.kr/view/AKR20251230107100073",
       "pubDate": "Tue, 30 Dec 2025 16:53:19 +0900"
-    },
-    {
-      "title": "국세청장 \"쿠팡은 韓국민이 키운 기업…납세 이행 철저히 확인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251230091251002",
-      "pubDate": "Tue, 30 Dec 2025 16:51:33 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 2.952%",
-      "link": "https://www.yna.co.kr/view/AKR20251230134400008",
-      "pubDate": "Tue, 30 Dec 2025 16:40:18 +0900"
-    },
-    {
-      "title": "아프리카돼지열병 해외 유입 차단 총력…방역 관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20251230129200030",
-      "pubDate": "Tue, 30 Dec 2025 16:38:55 +0900"
-    },
-    {
-      "title": "철강업계, 무역위에 중국산 석도강판 반덤핑 조사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20251230132800003",
-      "pubDate": "Tue, 30 Dec 2025 16:34:12 +0900"
-    },
-    {
-      "title": "광주은행 1천800억 현금배당…노조 \"1천억 빚내…정당성 의문\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230131900054",
-      "pubDate": "Tue, 30 Dec 2025 16:33:56 +0900"
-    },
-    {
-      "title": "거래소, 미원화학 등 24개 종목 단일가매매 대상 지정 공표",
-      "link": "https://www.yna.co.kr/view/AKR20251230130600008",
-      "pubDate": "Tue, 30 Dec 2025 16:30:24 +0900"
-    },
-    {
-      "title": "횡성읍 시가지 공영주차장 준공…주차난 해소·상권 활력 기대",
-      "link": "https://www.yna.co.kr/view/AKR20251230130200062",
-      "pubDate": "Tue, 30 Dec 2025 16:29:18 +0900"
-    },
-    {
-      "title": "신영증권 반성 보고서 눈길…\"올해 사천피 상상도 못했다\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230127500008",
-      "pubDate": "Tue, 30 Dec 2025 16:29:13 +0900"
-    },
-    {
-      "title": "[게시판] 새마을금고중앙회, 금소법 매뉴얼 컨설팅 착수",
-      "link": "https://www.yna.co.kr/view/AKR20251230128800002",
-      "pubDate": "Tue, 30 Dec 2025 16:22:06 +0900"
-    },
-    {
-      "title": "BNK경남은행, 모바일뱅킹앱에 '외국인 모드 서비스' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20251230127000052",
-      "pubDate": "Tue, 30 Dec 2025 16:15:44 +0900"
-    },
-    {
-      "title": "경남경찰청, 순환식 체력검사 대비 연습 시험장 무료 개방",
-      "link": "https://www.yna.co.kr/view/AKR20251230124500052",
-      "pubDate": "Tue, 30 Dec 2025 16:13:16 +0900"
     }
   ]
 }
