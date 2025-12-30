@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767130437,
+  "updated_at_unix": 1767134390,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20251231013300011",
+      "pubDate": "Wed, 31 Dec 2025 07:30:01 +0900"
+    },
+    {
+      "title": "인천 송도에 인공해변 생긴다…바닷물 정화해 인피니트 풀 운영",
+      "link": "https://www.yna.co.kr/view/AKR20251230061300065",
+      "pubDate": "Wed, 31 Dec 2025 07:17:00 +0900"
+    },
+    {
+      "title": "반도체 타고 온 '산타랠리'…12월 코스피 상승 전환하며 7% '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20251230139100008",
+      "pubDate": "Wed, 31 Dec 2025 07:05:00 +0900"
+    },
+    {
+      "title": "취업자격 없는 외국인들 고용한 마사지업소 업주 벌금형",
+      "link": "https://www.yna.co.kr/view/AKR20251230038100053",
+      "pubDate": "Wed, 31 Dec 2025 07:01:00 +0900"
+    },
+    {
+      "title": "[우리품의 아프리카인] ⒂베냉 청년 \"한국서 첫 외국인 유니콘 꿈꾼다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251229019900898",
+      "pubDate": "Wed, 31 Dec 2025 07:00:05 +0900"
+    },
+    {
+      "title": "수출입은행, 정샘물뷰티 해외 진출에 125억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20251230150700002",
+      "pubDate": "Wed, 31 Dec 2025 07:00:02 +0900"
+    },
+    {
+      "title": "[팩트체크] 우유 소비 주는데 멸균우유 수입은 증가…국산 우유와 차이는",
+      "link": "https://www.yna.co.kr/view/AKR20251230075300518",
+      "pubDate": "Wed, 31 Dec 2025 06:30:00 +0900"
+    },
     {
       "title": "[2026 증시전망]③ WGBI 편입으로 선진국 국채 등극…슈퍼예산 부담덜까",
       "link": "https://www.yna.co.kr/view/AKR20251230092400008",
@@ -117,41 +152,6 @@
       "title": "한국면세점협회 신임 협회장에 조병준 호텔신라 부사장",
       "link": "https://www.yna.co.kr/view/AKR20251230155300030",
       "pubDate": "Tue, 30 Dec 2025 18:55:31 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20251230154900030",
-      "pubDate": "Tue, 30 Dec 2025 18:52:10 +0900"
-    },
-    {
-      "title": "\"성과공유제 도입, 기업 사내협력사 고용에 긍정적 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230150200530",
-      "pubDate": "Tue, 30 Dec 2025 18:04:30 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20251230143700011",
-      "pubDate": "Tue, 30 Dec 2025 18:00:01 +0900"
-    },
-    {
-      "title": "현대차증권, IRP 로보어드바이저 일임 서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20251230147500008",
-      "pubDate": "Tue, 30 Dec 2025 17:43:04 +0900"
-    },
-    {
-      "title": "올해 코스피 상승률 75.6%…G20·OECD 1위…전기·전자 등 견인",
-      "link": "https://www.yna.co.kr/view/AKR20251230146200008",
-      "pubDate": "Tue, 30 Dec 2025 17:40:23 +0900"
-    },
-    {
-      "title": "구윤철 \"경인사연·국책연구기관, 구조혁신 해법 앞장서달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230136200002",
-      "pubDate": "Tue, 30 Dec 2025 17:30:01 +0900"
-    },
-    {
-      "title": "이억원 \"쿠팡 고금리 대출상품 적정성 따져보는 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230144300002",
-      "pubDate": "Tue, 30 Dec 2025 17:28:29 +0900"
     }
   ]
 }
