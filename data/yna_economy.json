@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767134390,
+  "updated_at_unix": 1767137547,
   "items": [
+    {
+      "title": "[2보] 12월 소비자물가 상승률 2.3%…고환율에 석유류 6.1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251231015751002",
+      "pubDate": "Wed, 31 Dec 2025 08:00:10 +0900"
+    },
+    {
+      "title": "[속보] 12월 물가상승률 2.3%…'고환율 여파' 넉달째 2%대",
+      "link": "https://www.yna.co.kr/view/AKR20251231016000002",
+      "pubDate": "Wed, 31 Dec 2025 08:00:06 +0900"
+    },
+    {
+      "title": "[1보] 올해 소비자물가 상승률 2.1%…5년 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20251231015700002",
+      "pubDate": "Wed, 31 Dec 2025 08:00:02 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20251231013300011",
@@ -137,21 +152,6 @@
       "title": "상설특검, 쿠팡 사건 주임검사 참고인 조사…피의자 전환 검토(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251230104151004",
       "pubDate": "Tue, 30 Dec 2025 18:59:59 +0900"
-    },
-    {
-      "title": "인천지방국세청장에 박종희…국세청 고위직 인사 단행",
-      "link": "https://www.yna.co.kr/view/AKR20251230152900002",
-      "pubDate": "Tue, 30 Dec 2025 18:58:54 +0900"
-    },
-    {
-      "title": "전북은행장에 박춘원 JB우리캐피탈 대표 선임",
-      "link": "https://www.yna.co.kr/view/AKR20251230154800055",
-      "pubDate": "Tue, 30 Dec 2025 18:55:39 +0900"
-    },
-    {
-      "title": "한국면세점협회 신임 협회장에 조병준 호텔신라 부사장",
-      "link": "https://www.yna.co.kr/view/AKR20251230155300030",
-      "pubDate": "Tue, 30 Dec 2025 18:55:31 +0900"
     }
   ]
 }
