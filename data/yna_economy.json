@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767094675,
+  "updated_at_unix": 1767102835,
   "items": [
+    {
+      "title": "충남 천안·충북 진천 가금농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20251230161900030",
+      "pubDate": "Tue, 30 Dec 2025 20:41:18 +0900"
+    },
     {
       "title": "디지털자산법 정부안, 무과실배상 등 담길 듯…제출은 새해로(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251229154751002",
@@ -147,11 +152,6 @@
       "title": "하나증권, 예비 국고채전문딜러 신규 지정",
       "link": "https://www.yna.co.kr/view/AKR20251230112500002",
       "pubDate": "Tue, 30 Dec 2025 17:00:01 +0900"
-    },
-    {
-      "title": "광주·전남 제조업 체감경기 올해 최저 수준",
-      "link": "https://www.yna.co.kr/view/AKR20251230137900054",
-      "pubDate": "Tue, 30 Dec 2025 16:55:41 +0900"
     }
   ]
 }
