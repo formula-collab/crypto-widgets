@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767070869,
+  "updated_at_unix": 1767073871,
   "items": [
+    {
+      "title": "순천 연향들지구 도시개발 사업 '첫삽'…주거단지·호텔 조성",
+      "link": "https://www.yna.co.kr/view/AKR20251230104900054",
+      "pubDate": "Tue, 30 Dec 2025 14:44:39 +0900"
+    },
+    {
+      "title": "대구시, HD현대로보틱스와 '휴머노이드 로봇 산업 육성' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20251230103700053",
+      "pubDate": "Tue, 30 Dec 2025 14:40:21 +0900"
+    },
+    {
+      "title": "합천군, 역세권 신도시 개발 '탄력'…공모사업비 698억 확보",
+      "link": "https://www.yna.co.kr/view/AKR20251230100500052",
+      "pubDate": "Tue, 30 Dec 2025 14:31:44 +0900"
+    },
+    {
+      "title": "국가철도공단, 중앙선 도담∼영천 전구간 고속화 개통",
+      "link": "https://www.yna.co.kr/view/AKR20251230092800063",
+      "pubDate": "Tue, 30 Dec 2025 14:30:21 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20251230097400011",
+      "pubDate": "Tue, 30 Dec 2025 14:30:00 +0900"
+    },
+    {
+      "title": "[게시판] 12월의 관세인에 박진영 주무관 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251230098600002",
+      "pubDate": "Tue, 30 Dec 2025 14:25:09 +0900"
+    },
+    {
+      "title": "美, 삼성·SK 中반도체공장 장비반입 규제완화…연간계획 승인(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230039151003",
+      "pubDate": "Tue, 30 Dec 2025 14:21:18 +0900"
+    },
+    {
+      "title": "여성경제인협회장 \"내년 협회 위상 세우고 여성CEO 역량 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230099400030",
+      "pubDate": "Tue, 30 Dec 2025 14:19:56 +0900"
+    },
+    {
+      "title": "유정복 인천시장, 내달 5일 개통 '제3연륙교' 현장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20251230098500065",
+      "pubDate": "Tue, 30 Dec 2025 14:14:44 +0900"
+    },
+    {
+      "title": "[게시판] 거래소, 새해 2일 개장식…매매거래 10시 시작",
+      "link": "https://www.yna.co.kr/view/AKR20251230098700008",
+      "pubDate": "Tue, 30 Dec 2025 14:14:23 +0900"
+    },
+    {
+      "title": "양구군, 내년 상반기 직접 일자리 사업 참여자 149명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251230093400062",
+      "pubDate": "Tue, 30 Dec 2025 14:05:53 +0900"
+    },
+    {
+      "title": "새해 출산·육아 시 보험료 납입 1년 유예…연금 세제 혜택도",
+      "link": "https://www.yna.co.kr/view/AKR20251230095100002",
+      "pubDate": "Tue, 30 Dec 2025 14:03:19 +0900"
+    },
+    {
+      "title": "'혁신과 디지털로 공공조달의 미래 연다'…조달청 조직개편",
+      "link": "https://www.yna.co.kr/view/AKR20251230095200063",
+      "pubDate": "Tue, 30 Dec 2025 14:02:41 +0900"
+    },
+    {
+      "title": "국세청장, 쿠팡 김범석 조사 촉구에 \"혐의 나오면 철저히 검증\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230091200002",
+      "pubDate": "Tue, 30 Dec 2025 13:57:10 +0900"
+    },
     {
       "title": "KKR, 청라 물류센터 인수…\"단일 물류자산 거래로 국내 최대\"",
       "link": "https://www.yna.co.kr/view/AKR20251230085500008",
@@ -82,76 +152,6 @@
       "title": "공정위 \"데이터 경쟁 저해 면밀 모니터링…제도 개선도 병행\"",
       "link": "https://www.yna.co.kr/view/AKR20251230056000002",
       "pubDate": "Tue, 30 Dec 2025 12:00:11 +0900"
-    },
-    {
-      "title": "AI 활용 바이오 소재 발굴…2030년 바이오경제 선진국 도약",
-      "link": "https://www.yna.co.kr/view/AKR20251230056600017",
-      "pubDate": "Tue, 30 Dec 2025 12:00:10 +0900"
-    },
-    {
-      "title": "새해 우체국서도 은행업무 본다…주담대 위험가중치 커져",
-      "link": "https://www.yna.co.kr/view/AKR20251230061200002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:08 +0900"
-    },
-    {
-      "title": "\"가맹점주 10명 중 4명은 중도해지 검토…위약금에 체념\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230069700002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:05 +0900"
-    },
-    {
-      "title": "한은 \"10월 통화량 5.2% 증가…2023년 1월 이후 장기평균 하회\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230070200002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:05 +0900"
-    },
-    {
-      "title": "상반기 대부업 연체율 12.1%로 작년말 수준…대출잔액은 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20251230076100002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:02 +0900"
-    },
-    {
-      "title": "취업문 더 좁아져…내년 3월까지 채용계획 전년보다 6.4만명↓",
-      "link": "https://www.yna.co.kr/view/AKR20251230076500530",
-      "pubDate": "Tue, 30 Dec 2025 12:00:02 +0900"
-    },
-    {
-      "title": "우미건설, 새 대표에 곽수윤 사장 선임",
-      "link": "https://www.yna.co.kr/view/AKR20251230079600003",
-      "pubDate": "Tue, 30 Dec 2025 11:58:05 +0900"
-    },
-    {
-      "title": "건보공단, 4대보험료 고액·상습체납한 1만3천명 인적사항 공개",
-      "link": "https://www.yna.co.kr/view/AKR20251230077900530",
-      "pubDate": "Tue, 30 Dec 2025 11:50:57 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 2.926%",
-      "link": "https://www.yna.co.kr/view/AKR20251230076900008",
-      "pubDate": "Tue, 30 Dec 2025 11:42:37 +0900"
-    },
-    {
-      "title": "[인사] LS증권",
-      "link": "https://www.yna.co.kr/view/AKR20251230073500008",
-      "pubDate": "Tue, 30 Dec 2025 11:31:00 +0900"
-    },
-    {
-      "title": "경총 \"근골격계질병 추정원칙 직종 확대 반대\"…노동부에 의견서",
-      "link": "https://www.yna.co.kr/view/AKR20251230073900003",
-      "pubDate": "Tue, 30 Dec 2025 11:28:06 +0900"
-    },
-    {
-      "title": "한중 통상장관회의 개최…FTA 2단계 협상 가속화 논의",
-      "link": "https://www.yna.co.kr/view/AKR20251230073400003",
-      "pubDate": "Tue, 30 Dec 2025 11:24:28 +0900"
-    },
-    {
-      "title": "오세훈 \"전문적이고 신속한 심의로 서울 정비사업 활성화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251229157451004",
-      "pubDate": "Tue, 30 Dec 2025 11:22:58 +0900"
-    },
-    {
-      "title": "두산건설, 남부내륙철도·남강댐1공구 사업 잇단 수주",
-      "link": "https://www.yna.co.kr/view/AKR20251230070700003",
-      "pubDate": "Tue, 30 Dec 2025 11:19:50 +0900"
     }
   ]
 }
