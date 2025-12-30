@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767085280,
+  "updated_at_unix": 1767088327,
   "items": [
+    {
+      "title": "\"성과공유제 도입, 기업 사내협력사 고용에 긍정적 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230150200530",
+      "pubDate": "Tue, 30 Dec 2025 18:04:30 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251230143700011",
+      "pubDate": "Tue, 30 Dec 2025 18:00:01 +0900"
+    },
     {
       "title": "현대차증권, IRP 로보어드바이저 일임 서비스 출시",
       "link": "https://www.yna.co.kr/view/AKR20251230147500008",
@@ -142,16 +152,6 @@
       "title": "경남경찰청, 순환식 체력검사 대비 연습 시험장 무료 개방",
       "link": "https://www.yna.co.kr/view/AKR20251230124500052",
       "pubDate": "Tue, 30 Dec 2025 16:13:16 +0900"
-    },
-    {
-      "title": "[인천소식] 인천대-셀트리온, AI 기반 신약 개발 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20251230124700065",
-      "pubDate": "Tue, 30 Dec 2025 16:00:15 +0900"
-    },
-    {
-      "title": "국가 AI 전략, 현장 목소리로 다듬는다",
-      "link": "https://www.yna.co.kr/view/AKR20251230067200017",
-      "pubDate": "Tue, 30 Dec 2025 16:00:02 +0900"
     }
   ]
 }
