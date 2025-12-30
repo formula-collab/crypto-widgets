@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767123751,
+  "updated_at_unix": 1767127316,
   "items": [
+    {
+      "title": "[뉴욕유가] 예멘發 중동 긴장 완화에 하락 반전…WTI, 0.2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20251231004800009",
+      "pubDate": "Wed, 31 Dec 2025 04:39:54 +0900"
+    },
     {
       "title": "달러-원, 1,439.50원에 2025년 거래 마감",
       "link": "https://www.yna.co.kr/view/AKR20251231003200002",
@@ -147,11 +152,6 @@
       "title": "환율 올해 1,439.0원 마감…연평균 1422.16원 '역대최고'",
       "link": "https://www.yna.co.kr/view/AKR20251230130800002",
       "pubDate": "Tue, 30 Dec 2025 17:03:37 +0900"
-    },
-    {
-      "title": "李대통령 방중에 4대그룹 총수 등 200명 규모 경제사절단 동행",
-      "link": "https://www.yna.co.kr/view/AKR20251230139000003",
-      "pubDate": "Tue, 30 Dec 2025 17:02:03 +0900"
     }
   ]
 }
