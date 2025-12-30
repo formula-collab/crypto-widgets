@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767127316,
+  "updated_at_unix": 1767130437,
   "items": [
+    {
+      "title": "[2026 증시전망]③ WGBI 편입으로 선진국 국채 등극…슈퍼예산 부담덜까",
+      "link": "https://www.yna.co.kr/view/AKR20251230092400008",
+      "pubDate": "Wed, 31 Dec 2025 06:05:02 +0900"
+    },
+    {
+      "title": "[2026 증시전망]② 새해 투자전략은…\"상고하저 흐름 속 상승 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20251228008800008",
+      "pubDate": "Wed, 31 Dec 2025 06:05:02 +0900"
+    },
+    {
+      "title": "[2026 증시전망]① 정책·유동성 업고 붉은말처럼…\"코스피 최대 5,500 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230086600008",
+      "pubDate": "Wed, 31 Dec 2025 06:05:01 +0900"
+    },
+    {
+      "title": "신지식농업인에 '프리미엄 K-딸기 수출' 최이영씨 등 7명 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251230101300030",
+      "pubDate": "Wed, 31 Dec 2025 06:00:16 +0900"
+    },
+    {
+      "title": "10·15대책 '삼중 규제'에 지난달 서울 아파트 거래량 60% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20251230136900003",
+      "pubDate": "Wed, 31 Dec 2025 06:00:11 +0900"
+    },
+    {
+      "title": "3분기 강세장에 ELS 발행액 36%↑…\"증시 변동성 모니터링 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230149000002",
+      "pubDate": "Wed, 31 Dec 2025 06:00:09 +0900"
+    },
+    {
+      "title": "작년 반도체 기술인력 4.3% 증가…바이오헬스 4.0%↑",
+      "link": "https://www.yna.co.kr/view/AKR20251230148600003",
+      "pubDate": "Wed, 31 Dec 2025 06:00:08 +0900"
+    },
+    {
+      "title": "수도권 7곳 공공주택지구 계획승인·지정…13.3만호 공급 구체화",
+      "link": "https://www.yna.co.kr/view/AKR20251230162300003",
+      "pubDate": "Wed, 31 Dec 2025 06:00:01 +0900"
+    },
+    {
+      "title": "수은 \"내년 말 환율 1,400원 전망…금리 하락 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230148900002",
+      "pubDate": "Wed, 31 Dec 2025 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 예멘發 중동 긴장 완화에 하락 반전…WTI, 0.2%↓",
       "link": "https://www.yna.co.kr/view/AKR20251231004800009",
@@ -107,51 +152,6 @@
       "title": "이억원 \"쿠팡 고금리 대출상품 적정성 따져보는 중\"",
       "link": "https://www.yna.co.kr/view/AKR20251230144300002",
       "pubDate": "Tue, 30 Dec 2025 17:28:29 +0900"
-    },
-    {
-      "title": "中당국 경고에도 위안화 강세…역내달러환율 2년반만에 7위안↓",
-      "link": "https://www.yna.co.kr/view/AKR20251230140900009",
-      "pubDate": "Tue, 30 Dec 2025 17:27:08 +0900"
-    },
-    {
-      "title": "[인사] 한국농수산식품유통공사",
-      "link": "https://www.yna.co.kr/view/AKR20251230144100030",
-      "pubDate": "Tue, 30 Dec 2025 17:26:02 +0900"
-    },
-    {
-      "title": "쿠팡 로저스 대표 또 동문서답…되레 호통에 어깨 '으쓱'까지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251230100451030",
-      "pubDate": "Tue, 30 Dec 2025 17:24:46 +0900"
-    },
-    {
-      "title": "광주은행, 임원 5명 신규 임용·조직 개편",
-      "link": "https://www.yna.co.kr/view/AKR20251230142400054",
-      "pubDate": "Tue, 30 Dec 2025 17:21:42 +0900"
-    },
-    {
-      "title": "강릉시, 노사문화 유공 '국무총리상' 수상…도내 유일",
-      "link": "https://www.yna.co.kr/view/AKR20251230137400062",
-      "pubDate": "Tue, 30 Dec 2025 17:14:33 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 2.952%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251230134451008",
-      "pubDate": "Tue, 30 Dec 2025 17:11:23 +0900"
-    },
-    {
-      "title": "SK해운·에이치라인해운, 부산 중구·동구에 새 둥지",
-      "link": "https://www.yna.co.kr/view/AKR20251230140600051",
-      "pubDate": "Tue, 30 Dec 2025 17:11:03 +0900"
-    },
-    {
-      "title": "올해 ETF 순자산액 300조 육박…코스피 추종 상품 날았다",
-      "link": "https://www.yna.co.kr/view/AKR20251230141000008",
-      "pubDate": "Tue, 30 Dec 2025 17:09:07 +0900"
-    },
-    {
-      "title": "환율 올해 1,439.0원 마감…연평균 1422.16원 '역대최고'",
-      "link": "https://www.yna.co.kr/view/AKR20251230130800002",
-      "pubDate": "Tue, 30 Dec 2025 17:03:37 +0900"
     }
   ]
 }
