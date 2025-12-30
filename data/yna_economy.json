@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767092047,
+  "updated_at_unix": 1767094675,
   "items": [
+    {
+      "title": "디지털자산법 정부안, 무과실배상 등 담길 듯…제출은 새해로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251229154751002",
+      "pubDate": "Tue, 30 Dec 2025 20:09:55 +0900"
+    },
     {
       "title": "철강업계, 무역위에 중국산 석도강판 반덤핑 조사 신청(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251230132851003",
@@ -147,11 +152,6 @@
       "title": "광주·전남 제조업 체감경기 올해 최저 수준",
       "link": "https://www.yna.co.kr/view/AKR20251230137900054",
       "pubDate": "Tue, 30 Dec 2025 16:55:41 +0900"
-    },
-    {
-      "title": "日증시 연말 종가, 역대 최고치 기록…작년比 26%↑",
-      "link": "https://www.yna.co.kr/view/AKR20251230107100073",
-      "pubDate": "Tue, 30 Dec 2025 16:53:19 +0900"
     }
   ]
 }
