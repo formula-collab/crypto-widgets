@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767073871,
+  "updated_at_unix": 1767077929,
   "items": [
+    {
+      "title": "[인사] 한국산업은행",
+      "link": "https://www.yna.co.kr/view/AKR20251230122100002",
+      "pubDate": "Tue, 30 Dec 2025 15:48:55 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자, 장중 첫 12만원 돌파…하이닉스도 역대 최고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230069251008",
+      "pubDate": "Tue, 30 Dec 2025 15:45:18 +0900"
+    },
+    {
+      "title": "외국환시세(12월30일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20251230118800002",
+      "pubDate": "Tue, 30 Dec 2025 15:37:59 +0900"
+    },
+    {
+      "title": "원주 유망 의료기기·ICT 기업, 미국 CES 2026 글로벌 무대 진출",
+      "link": "https://www.yna.co.kr/view/AKR20251230108400062",
+      "pubDate": "Tue, 30 Dec 2025 15:36:20 +0900"
+    },
+    {
+      "title": "[특징주] 엘앤에프, 대규모 계약 증발 소식에 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230036151008",
+      "pubDate": "Tue, 30 Dec 2025 15:34:33 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 9.2원 오른 1,439.0원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20251230117600002",
+      "pubDate": "Tue, 30 Dec 2025 15:31:04 +0900"
+    },
+    {
+      "title": "부산 9개 공공기관 조성한 부산경제활성화기금 성과 보고회",
+      "link": "https://www.yna.co.kr/view/AKR20251230115300051",
+      "pubDate": "Tue, 30 Dec 2025 15:23:43 +0900"
+    },
+    {
+      "title": "파주시, 경과원·LH와 '공공임대주택 생활관 지원' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20251230112600060",
+      "pubDate": "Tue, 30 Dec 2025 15:15:42 +0900"
+    },
+    {
+      "title": "쿠팡 로저스 대표 또 동문서답…수차례 목소리 높이고 불쾌감도",
+      "link": "https://www.yna.co.kr/view/AKR20251230100400030",
+      "pubDate": "Tue, 30 Dec 2025 15:03:07 +0900"
+    },
+    {
+      "title": "부산은행장 최종후보에 김성주 BNK캐피탈 대표(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251230088851051",
+      "pubDate": "Tue, 30 Dec 2025 15:00:15 +0900"
+    },
+    {
+      "title": "공공기관 ESG 공시 항목 확대…산재사고 사망자는 분기별로",
+      "link": "https://www.yna.co.kr/view/AKR20251230097700002",
+      "pubDate": "Tue, 30 Dec 2025 15:00:01 +0900"
+    },
+    {
+      "title": "[게시판] 부영, 창신대에 기부한 누적 장학금 82억원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20251230108100003",
+      "pubDate": "Tue, 30 Dec 2025 14:59:09 +0900"
+    },
+    {
+      "title": "특검, '쿠팡 취업규칙 변경' 심사한 근로감독관 참고인 조사",
+      "link": "https://www.yna.co.kr/view/AKR20251230104100004",
+      "pubDate": "Tue, 30 Dec 2025 14:52:06 +0900"
+    },
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20251230104700002",
+      "pubDate": "Tue, 30 Dec 2025 14:49:39 +0900"
+    },
+    {
+      "title": "속초시, 새해 맞아 생활 인프라 재정비…'도시 체질 개선'",
+      "link": "https://www.yna.co.kr/view/AKR20251230103500062",
+      "pubDate": "Tue, 30 Dec 2025 14:48:39 +0900"
+    },
     {
       "title": "순천 연향들지구 도시개발 사업 '첫삽'…주거단지·호텔 조성",
       "link": "https://www.yna.co.kr/view/AKR20251230104900054",
@@ -77,81 +152,6 @@
       "title": "KKR, 청라 물류센터 인수…\"단일 물류자산 거래로 국내 최대\"",
       "link": "https://www.yna.co.kr/view/AKR20251230085500008",
       "pubDate": "Tue, 30 Dec 2025 13:44:53 +0900"
-    },
-    {
-      "title": "[인사] KB증권",
-      "link": "https://www.yna.co.kr/view/AKR20251230089000505",
-      "pubDate": "Tue, 30 Dec 2025 13:40:32 +0900"
-    },
-    {
-      "title": "부산은행장 최종후보에 김성주 BNK캐피탈 대표 등 선정",
-      "link": "https://www.yna.co.kr/view/AKR20251230088800051",
-      "pubDate": "Tue, 30 Dec 2025 13:38:33 +0900"
-    },
-    {
-      "title": "[인사] KB증권",
-      "link": "https://www.yna.co.kr/view/AKR20251230087600008",
-      "pubDate": "Tue, 30 Dec 2025 13:38:31 +0900"
-    },
-    {
-      "title": "서산시 발달장애인 배상책임보험 가입 지원 조례안 발의",
-      "link": "https://www.yna.co.kr/view/AKR20251230088200063",
-      "pubDate": "Tue, 30 Dec 2025 13:37:08 +0900"
-    },
-    {
-      "title": "[진천소식] 투자유치 10년 연속 1조원 등 10대 성과 발표",
-      "link": "https://www.yna.co.kr/view/AKR20251230085700064",
-      "pubDate": "Tue, 30 Dec 2025 13:24:16 +0900"
-    },
-    {
-      "title": "[인사] 한국무역보험공사",
-      "link": "https://www.yna.co.kr/view/AKR20251230080100003",
-      "pubDate": "Tue, 30 Dec 2025 13:19:40 +0900"
-    },
-    {
-      "title": "파리바게뜨, 손흥민의 美 LAFC와 공식 파트너십 체결",
-      "link": "https://www.yna.co.kr/view/AKR20251230083900030",
-      "pubDate": "Tue, 30 Dec 2025 13:12:53 +0900"
-    },
-    {
-      "title": "노사정 실노동시간 단축에 '맞손'…내년 실근로시간단축법 제정",
-      "link": "https://www.yna.co.kr/view/AKR20251230075700530",
-      "pubDate": "Tue, 30 Dec 2025 13:00:01 +0900"
-    },
-    {
-      "title": "주병기 공정위원장 \"쿠팡, 시장지배적 사업자 여부 검토 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230080600002",
-      "pubDate": "Tue, 30 Dec 2025 12:28:48 +0900"
-    },
-    {
-      "title": "\"효소식품, 건강기능식품 아니야…과장 효능 표시·광고 주의\"",
-      "link": "https://www.yna.co.kr/view/AKR20251229115900030",
-      "pubDate": "Tue, 30 Dec 2025 12:00:19 +0900"
-    },
-    {
-      "title": "코스닥 기업 10개 중 8개, 상장 후 추정 실적 빗나가",
-      "link": "https://www.yna.co.kr/view/AKR20251230044000002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:15 +0900"
-    },
-    {
-      "title": "중소기업, 내년 1월 경기전망 개선…올해 1월보다 나아져",
-      "link": "https://www.yna.co.kr/view/AKR20251230046100030",
-      "pubDate": "Tue, 30 Dec 2025 12:00:14 +0900"
-    },
-    {
-      "title": "중기중앙회 \"중소기업 체감 하도급거래 공정성 나아져\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230047100030",
-      "pubDate": "Tue, 30 Dec 2025 12:00:14 +0900"
-    },
-    {
-      "title": "11월 외화예금 17억달러↑…\"기업 자금 중심으로 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230051600002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:12 +0900"
-    },
-    {
-      "title": "공정위 \"데이터 경쟁 저해 면밀 모니터링…제도 개선도 병행\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230056000002",
-      "pubDate": "Tue, 30 Dec 2025 12:00:11 +0900"
     }
   ]
 }
