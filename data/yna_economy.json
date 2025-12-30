@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767116461,
+  "updated_at_unix": 1767120993,
   "items": [
+    {
+      "title": "달러-원, 1,439.50원에 2025년 거래 마감",
+      "link": "https://www.yna.co.kr/view/AKR20251231003200002",
+      "pubDate": "Wed, 31 Dec 2025 03:40:31 +0900"
+    },
     {
       "title": "충남 천안·충북 진천 가금농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20251230161900030",
@@ -147,11 +152,6 @@
       "title": "李대통령 방중에 4대그룹 총수 등 200명 규모 경제사절단 동행",
       "link": "https://www.yna.co.kr/view/AKR20251230139000003",
       "pubDate": "Tue, 30 Dec 2025 17:02:03 +0900"
-    },
-    {
-      "title": "하나증권, 예비 국고채전문딜러 신규 지정",
-      "link": "https://www.yna.co.kr/view/AKR20251230112500002",
-      "pubDate": "Tue, 30 Dec 2025 17:00:01 +0900"
     }
   ]
 }
