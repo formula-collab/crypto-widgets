@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767066816,
+  "updated_at_unix": 1767070869,
   "items": [
+    {
+      "title": "KKR, 청라 물류센터 인수…\"단일 물류자산 거래로 국내 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20251230085500008",
+      "pubDate": "Tue, 30 Dec 2025 13:44:53 +0900"
+    },
+    {
+      "title": "[인사] KB증권",
+      "link": "https://www.yna.co.kr/view/AKR20251230089000505",
+      "pubDate": "Tue, 30 Dec 2025 13:40:32 +0900"
+    },
+    {
+      "title": "부산은행장 최종후보에 김성주 BNK캐피탈 대표 등 선정",
+      "link": "https://www.yna.co.kr/view/AKR20251230088800051",
+      "pubDate": "Tue, 30 Dec 2025 13:38:33 +0900"
+    },
+    {
+      "title": "[인사] KB증권",
+      "link": "https://www.yna.co.kr/view/AKR20251230087600008",
+      "pubDate": "Tue, 30 Dec 2025 13:38:31 +0900"
+    },
+    {
+      "title": "서산시 발달장애인 배상책임보험 가입 지원 조례안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20251230088200063",
+      "pubDate": "Tue, 30 Dec 2025 13:37:08 +0900"
+    },
+    {
+      "title": "[진천소식] 투자유치 10년 연속 1조원 등 10대 성과 발표",
+      "link": "https://www.yna.co.kr/view/AKR20251230085700064",
+      "pubDate": "Tue, 30 Dec 2025 13:24:16 +0900"
+    },
+    {
+      "title": "[인사] 한국무역보험공사",
+      "link": "https://www.yna.co.kr/view/AKR20251230080100003",
+      "pubDate": "Tue, 30 Dec 2025 13:19:40 +0900"
+    },
+    {
+      "title": "파리바게뜨, 손흥민의 美 LAFC와 공식 파트너십 체결",
+      "link": "https://www.yna.co.kr/view/AKR20251230083900030",
+      "pubDate": "Tue, 30 Dec 2025 13:12:53 +0900"
+    },
+    {
+      "title": "노사정 실노동시간 단축에 '맞손'…내년 실근로시간단축법 제정",
+      "link": "https://www.yna.co.kr/view/AKR20251230075700530",
+      "pubDate": "Tue, 30 Dec 2025 13:00:01 +0900"
+    },
     {
       "title": "주병기 공정위원장 \"쿠팡, 시장지배적 사업자 여부 검토 중\"",
       "link": "https://www.yna.co.kr/view/AKR20251230080600002",
@@ -107,51 +152,6 @@
       "title": "두산건설, 남부내륙철도·남강댐1공구 사업 잇단 수주",
       "link": "https://www.yna.co.kr/view/AKR20251230070700003",
       "pubDate": "Tue, 30 Dec 2025 11:19:50 +0900"
-    },
-    {
-      "title": "우리은행 \"AI 기술로 스미싱 차단하는 서비스 도입\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230071400002",
-      "pubDate": "Tue, 30 Dec 2025 11:17:41 +0900"
-    },
-    {
-      "title": "서울 청소년·청년 학습부터 취업까지 종합지원…새벽버스 확대",
-      "link": "https://www.yna.co.kr/view/AKR20251230050500004",
-      "pubDate": "Tue, 30 Dec 2025 11:15:10 +0900"
-    },
-    {
-      "title": "[게시판] 관세청 '수입물품 과세자료 제출' 가이드라인",
-      "link": "https://www.yna.co.kr/view/AKR20251230066000002",
-      "pubDate": "Tue, 30 Dec 2025 11:13:17 +0900"
-    },
-    {
-      "title": "조세연 \"기초연금 '하위 70%' 대신 중위소득 기준으로 조정해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230066400002",
-      "pubDate": "Tue, 30 Dec 2025 11:12:50 +0900"
-    },
-    {
-      "title": "벤처협회장 \"내년, 제3의 벤처붐 여는 전환점…성장에 집중\"",
-      "link": "https://www.yna.co.kr/view/AKR20251230067500030",
-      "pubDate": "Tue, 30 Dec 2025 11:11:18 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 사상 첫 12만원 돌파…하이닉스도 역대 최고가",
-      "link": "https://www.yna.co.kr/view/AKR20251230069200008",
-      "pubDate": "Tue, 30 Dec 2025 11:10:03 +0900"
-    },
-    {
-      "title": "11월 광주 생산·건설수주 증가…전남은 감소",
-      "link": "https://www.yna.co.kr/view/AKR20251230066200054",
-      "pubDate": "Tue, 30 Dec 2025 11:02:01 +0900"
-    },
-    {
-      "title": "한투증권, 국내1호 IMA 개인모집액 8천638억원…평균 4천300만",
-      "link": "https://www.yna.co.kr/view/AKR20251230065000008",
-      "pubDate": "Tue, 30 Dec 2025 11:00:48 +0900"
-    },
-    {
-      "title": "한·조지아 CEPA 협정문 한글본 공개…국민 의견 접수",
-      "link": "https://www.yna.co.kr/view/AKR20251230038900003",
-      "pubDate": "Tue, 30 Dec 2025 11:00:08 +0900"
     }
   ]
 }
