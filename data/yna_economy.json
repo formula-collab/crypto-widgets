@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767160160,
+  "updated_at_unix": 1767164338,
   "items": [
+    {
+      "title": "김성주 부산은행장 등 BNK금융 자회사 6곳 대표 선임",
+      "link": "https://www.yna.co.kr/view/AKR20251231103700051",
+      "pubDate": "Wed, 31 Dec 2025 15:40:17 +0900"
+    },
+    {
+      "title": "[인사] 한국건설기술연구원(KICT)",
+      "link": "https://www.yna.co.kr/view/AKR20251231103100003",
+      "pubDate": "Wed, 31 Dec 2025 15:35:49 +0900"
+    },
+    {
+      "title": "[신년사] 산업장관 \"속도와 실행의 해…국익 사수 넘어 확장할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231098900003",
+      "pubDate": "Wed, 31 Dec 2025 15:14:12 +0900"
+    },
+    {
+      "title": "해수부, 저수온 위기경보 '주의' 단계 발령",
+      "link": "https://www.yna.co.kr/view/AKR20251231098700030",
+      "pubDate": "Wed, 31 Dec 2025 15:12:22 +0900"
+    },
+    {
+      "title": "창원시, 새해 '스마트 수출전문단지 구축 사업' 대상 모집",
+      "link": "https://www.yna.co.kr/view/AKR20251231093600052",
+      "pubDate": "Wed, 31 Dec 2025 15:11:11 +0900"
+    },
+    {
+      "title": "FIU, 코빗에 고객확인의무 위반 등 과태료 27억원·기관경고",
+      "link": "https://www.yna.co.kr/view/AKR20251231094700002",
+      "pubDate": "Wed, 31 Dec 2025 15:08:01 +0900"
+    },
+    {
+      "title": "올해 '개미 순매수' 1등은 ETF…\"30조6천억원어치 순매수\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231091900008",
+      "pubDate": "Wed, 31 Dec 2025 14:55:09 +0900"
+    },
     {
       "title": "[인사] 국가데이터처",
       "link": "https://www.yna.co.kr/view/AKR20251231092200002",
@@ -117,41 +152,6 @@
       "title": "[신년사] 김성은 주택건설협회장 \"침체한 주택시장 정상화에 역량 집중\"",
       "link": "https://www.yna.co.kr/view/AKR20251231064700003",
       "pubDate": "Wed, 31 Dec 2025 11:45:15 +0900"
-    },
-    {
-      "title": "iM증권, 조직개편 단행…\"자본효율성 극대화 혁신경영\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231062600008",
-      "pubDate": "Wed, 31 Dec 2025 11:30:44 +0900"
-    },
-    {
-      "title": "'올해의 자랑스러운 HS효성인'에 응우옌 호앙 푹 부장",
-      "link": "https://www.yna.co.kr/view/AKR20251231061500003",
-      "pubDate": "Wed, 31 Dec 2025 11:25:28 +0900"
-    },
-    {
-      "title": "화성봉담3 공공주택지구계획 승인 고시…1만8천여가구 건설",
-      "link": "https://www.yna.co.kr/view/AKR20251231063900061",
-      "pubDate": "Wed, 31 Dec 2025 11:25:15 +0900"
-    },
-    {
-      "title": "[신년사] 김경환 주택금융공사장 \"정책모기지로 서민 내집마련 도움\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231061800002",
-      "pubDate": "Wed, 31 Dec 2025 11:23:16 +0900"
-    },
-    {
-      "title": "[인사] iM증권",
-      "link": "https://www.yna.co.kr/view/AKR20251231062800008",
-      "pubDate": "Wed, 31 Dec 2025 11:22:54 +0900"
-    },
-    {
-      "title": "[신년사] 여신금융협회장 \"스테이블코인 등 신사업 기회 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231056400002",
-      "pubDate": "Wed, 31 Dec 2025 11:21:43 +0900"
-    },
-    {
-      "title": "충북 지역 사무실 공실률 전국 최고…\"신규 공급 억제해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231058500064",
-      "pubDate": "Wed, 31 Dec 2025 11:15:30 +0900"
     }
   ]
 }
