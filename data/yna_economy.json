@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767210133,
+  "updated_at_unix": 1767213584,
   "items": [
+    {
+      "title": "[뉴욕유가] 美 휘발유 재고 급증에 하락…WTI, 2020년 이후 최악의 한해",
+      "link": "https://www.yna.co.kr/view/AKR20260101004400009",
+      "pubDate": "Thu, 1 Jan 2026 05:06:43 +0900"
+    },
     {
       "title": "[신년사] 노동장관 \"일터 민주주의 실현…핑계 찾지 않겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20251231093200530",
@@ -147,11 +152,6 @@
       "title": "법원, 롯데손보가 금융위 권고조치 불복해 낸 집행정지 기각",
       "link": "https://www.yna.co.kr/view/AKR20251231104900004",
       "pubDate": "Wed, 31 Dec 2025 16:07:31 +0900"
-    },
-    {
-      "title": "파인테크닉스, 유상증자…한국켄텐츠에쿼티1호조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20251231107200008",
-      "pubDate": "Wed, 31 Dec 2025 16:05:29 +0900"
     }
   ]
 }
