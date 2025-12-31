@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767177852,
+  "updated_at_unix": 1767180671,
   "items": [
+    {
+      "title": "받지도 않은 '대출 받았어요' 알림…양수 과정서 오발송 해프닝",
+      "link": "https://www.yna.co.kr/view/AKR20251231135400008",
+      "pubDate": "Wed, 31 Dec 2025 20:22:30 +0900"
+    },
     {
       "title": "이억원 \"JP모건 쿠팡 보고서 공정성 훼손 우려…미 SEC 협조\"",
       "link": "https://www.yna.co.kr/view/AKR20251231129300002",
@@ -147,11 +152,6 @@
       "title": "[신년사] 산업장관 \"속도와 실행의 해…국익 사수 넘어 확장할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20251231098900003",
       "pubDate": "Wed, 31 Dec 2025 15:14:12 +0900"
-    },
-    {
-      "title": "해수부, 저수온 위기경보 '주의' 단계 발령",
-      "link": "https://www.yna.co.kr/view/AKR20251231098700030",
-      "pubDate": "Wed, 31 Dec 2025 15:12:22 +0900"
     }
   ]
 }
