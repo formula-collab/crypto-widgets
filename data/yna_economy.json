@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767192121,
+  "updated_at_unix": 1767195522,
   "items": [
+    {
+      "title": "[신년사] 노동장관 \"일터 민주주의 실현…핑계 찾지 않겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231093200530",
+      "pubDate": "Thu, 1 Jan 2026 00:00:26 +0900"
+    },
+    {
+      "title": "[신년사] 농식품장관 \"농정대전환 원년…국민먹거리 돌봄 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231025900030",
+      "pubDate": "Thu, 1 Jan 2026 00:00:23 +0900"
+    },
     {
       "title": "정부 \"국민 편에서 끝까지 쿠팡 책임 물을 것…엄정 조치\"",
       "link": "https://www.yna.co.kr/view/AKR20251231136500017",
@@ -142,16 +152,6 @@
       "title": "파인테크닉스, 유상증자…한국켄텐츠에쿼티1호조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20251231107200008",
       "pubDate": "Wed, 31 Dec 2025 16:05:29 +0900"
-    },
-    {
-      "title": "[신년사] 구윤철 \"재경부·기획처로 새출발…거시경제·민생 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231104400002",
-      "pubDate": "Wed, 31 Dec 2025 16:00:00 +0900"
-    },
-    {
-      "title": "'AI 시대' 구리 가격, 16년 만에 최대 연간 상승률",
-      "link": "https://www.yna.co.kr/view/AKR20251231102200009",
-      "pubDate": "Wed, 31 Dec 2025 15:53:18 +0900"
     }
   ]
 }
