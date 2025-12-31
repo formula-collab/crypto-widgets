@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767153131,
+  "updated_at_unix": 1767157205,
   "items": [
+    {
+      "title": "성북구 \"장위10구역 착공신고 처리…1천931가구 대단지로\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231079500004",
+      "pubDate": "Wed, 31 Dec 2025 13:45:59 +0900"
+    },
+    {
+      "title": "올해 소비자물가 광주 1.9%·전남 2.2% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20251231076800054",
+      "pubDate": "Wed, 31 Dec 2025 13:37:19 +0900"
+    },
+    {
+      "title": "부천시 스마트도시계획 국토부 승인…2029년까지 실행",
+      "link": "https://www.yna.co.kr/view/AKR20251231076300065",
+      "pubDate": "Wed, 31 Dec 2025 13:31:41 +0900"
+    },
+    {
+      "title": "노량진동 모아타운 관리계획 고시…834세대 주거단지로",
+      "link": "https://www.yna.co.kr/view/AKR20251231074500004",
+      "pubDate": "Wed, 31 Dec 2025 13:24:24 +0900"
+    },
     {
       "title": "국고채 금리 혼조세…3년물 장중 연 2.954%",
       "link": "https://www.yna.co.kr/view/AKR20251231070900008",
@@ -132,26 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20251231048000011",
       "pubDate": "Wed, 31 Dec 2025 10:30:00 +0900"
-    },
-    {
-      "title": "한화생명, 업계 최초 AI 보안 거버넌스 국제표준 인증 획득",
-      "link": "https://www.yna.co.kr/view/AKR20251231048800002",
-      "pubDate": "Wed, 31 Dec 2025 10:23:23 +0900"
-    },
-    {
-      "title": "[신년사] 조용병 은행연합회장 \"포용·생산금융으로 경제 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231047500002",
-      "pubDate": "Wed, 31 Dec 2025 10:22:07 +0900"
-    },
-    {
-      "title": "[인사] DS투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20251231047200008",
-      "pubDate": "Wed, 31 Dec 2025 10:17:37 +0900"
-    },
-    {
-      "title": "\"국내 해운산업, 신조 발주 부진에 노후화로 경쟁력 약화 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231046900051",
-      "pubDate": "Wed, 31 Dec 2025 10:14:57 +0900"
     }
   ]
 }
