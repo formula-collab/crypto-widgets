@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767171363,
+  "updated_at_unix": 1767174300,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20251231118000011",
+      "pubDate": "Wed, 31 Dec 2025 18:00:01 +0900"
+    },
+    {
+      "title": "외환당국, 3분기 '환율 방어'에 17억달러 순매도",
+      "link": "https://www.yna.co.kr/view/AKR20251231121400002",
+      "pubDate": "Wed, 31 Dec 2025 17:53:05 +0900"
+    },
     {
       "title": "한국골프대-횡성군-지역 골프장, 지·산·학 협력 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20251231122700062",
@@ -142,16 +152,6 @@
       "title": "올해 '개미 순매수' 1등은 ETF…\"30조6천억원어치 순매수\"",
       "link": "https://www.yna.co.kr/view/AKR20251231091900008",
       "pubDate": "Wed, 31 Dec 2025 14:55:09 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20251231092200002",
-      "pubDate": "Wed, 31 Dec 2025 14:42:47 +0900"
-    },
-    {
-      "title": "오산 세교3신도시 공공주택지구 지정…3만3천가구 건설",
-      "link": "https://www.yna.co.kr/view/AKR20251231090400061",
-      "pubDate": "Wed, 31 Dec 2025 14:35:26 +0900"
     }
   ]
 }
