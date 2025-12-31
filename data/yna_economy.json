@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767180671,
+  "updated_at_unix": 1767188646,
   "items": [
+    {
+      "title": "정부 \"국민 편에서 끝까지 쿠팡 책임 물을 것…엄정 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231136500017",
+      "pubDate": "Wed, 31 Dec 2025 20:51:44 +0900"
+    },
+    {
+      "title": "쿠팡, 식품사에 공급계약 재협상 공문…\"자동갱신 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231136000030",
+      "pubDate": "Wed, 31 Dec 2025 20:43:29 +0900"
+    },
+    {
+      "title": "공정위원장 \"김범석 동일인 지정, 김유석 경영 참여 살펴야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251231108351002",
+      "pubDate": "Wed, 31 Dec 2025 20:42:05 +0900"
+    },
     {
       "title": "받지도 않은 '대출 받았어요' 알림…양수 과정서 오발송 해프닝",
       "link": "https://www.yna.co.kr/view/AKR20251231135400008",
@@ -137,21 +152,6 @@
       "title": "'AI 시대' 구리 가격, 16년 만에 최대 연간 상승률",
       "link": "https://www.yna.co.kr/view/AKR20251231102200009",
       "pubDate": "Wed, 31 Dec 2025 15:53:18 +0900"
-    },
-    {
-      "title": "김성주 부산은행장 등 BNK금융 자회사 6곳 대표 선임",
-      "link": "https://www.yna.co.kr/view/AKR20251231103700051",
-      "pubDate": "Wed, 31 Dec 2025 15:40:17 +0900"
-    },
-    {
-      "title": "[인사] 한국건설기술연구원(KICT)",
-      "link": "https://www.yna.co.kr/view/AKR20251231103100003",
-      "pubDate": "Wed, 31 Dec 2025 15:35:49 +0900"
-    },
-    {
-      "title": "[신년사] 산업장관 \"속도와 실행의 해…국익 사수 넘어 확장할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231098900003",
-      "pubDate": "Wed, 31 Dec 2025 15:14:12 +0900"
     }
   ]
 }
