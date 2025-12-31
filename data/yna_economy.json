@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767213584,
+  "updated_at_unix": 1767216760,
   "items": [
+    {
+      "title": "고등어 수입산 한 손 1만원 넘어…\"올해 1만t 이상 할당관세\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231114000030",
+      "pubDate": "Thu, 1 Jan 2026 06:15:00 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] 작년 서울 아파트값 상승률이 文정부 때보다 높다고?",
+      "link": "https://www.yna.co.kr/view/AKR20251231119500003",
+      "pubDate": "Thu, 1 Jan 2026 06:05:01 +0900"
+    },
+    {
+      "title": "[미리보는 CES] ② AI가 바꾸는 미래 일상…국내 기업 신제품 총출동",
+      "link": "https://www.yna.co.kr/view/AKR20251231051600003",
+      "pubDate": "Thu, 1 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[신년사] 허진규 일진그룹 회장 \"초격차 기술로 글로벌 시장 선점\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231059500003",
+      "pubDate": "Thu, 1 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "백화점 업계, 병오년 새해 맞아 '첫 정기 세일'",
+      "link": "https://www.yna.co.kr/view/AKR20251231119400030",
+      "pubDate": "Thu, 1 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "지방 부동산 경기 위축…은행 건설업 대출 연체율 1%대 고공행진",
+      "link": "https://www.yna.co.kr/view/AKR20251231128700002",
+      "pubDate": "Thu, 1 Jan 2026 05:57:00 +0900"
+    },
+    {
+      "title": "'붉은 말의 해' 아기울음 커질까…출산율 0.8명대 회복 '청신호'",
+      "link": "https://www.yna.co.kr/view/AKR20251231132800002",
+      "pubDate": "Thu, 1 Jan 2026 05:55:00 +0900"
+    },
+    {
+      "title": "체감 물가, 5년 연속 소비자물가 상승률 웃돌아",
+      "link": "https://www.yna.co.kr/view/AKR20251231122400002",
+      "pubDate": "Thu, 1 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "은행 가계대출 연초 '숨통'…비대면·갈아타기 등 속속 재개",
+      "link": "https://www.yna.co.kr/view/AKR20251231102600002",
+      "pubDate": "Thu, 1 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 美 휘발유 재고 급증에 하락…WTI, 2020년 이후 최악의 한해",
       "link": "https://www.yna.co.kr/view/AKR20260101004400009",
@@ -107,51 +152,6 @@
       "title": "중기부 장관 \"새해 성장 사다리 복원 추진…회복 넘어 성장해야\"",
       "link": "https://www.yna.co.kr/view/AKR20251231087900030",
       "pubDate": "Wed, 31 Dec 2025 17:00:01 +0900"
-    },
-    {
-      "title": "[인사] 한국관광공사",
-      "link": "https://www.yna.co.kr/view/AKR20251231114900030",
-      "pubDate": "Wed, 31 Dec 2025 16:58:27 +0900"
-    },
-    {
-      "title": "박종희 신임 인천국세청장 취임…\"디지털 세정 선도\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231115500065",
-      "pubDate": "Wed, 31 Dec 2025 16:58:15 +0900"
-    },
-    {
-      "title": "집안일 대신하는 '시간 절약형 서비스'가 대세…가전 구독 70%↑",
-      "link": "https://www.yna.co.kr/view/AKR20251231113900002",
-      "pubDate": "Wed, 31 Dec 2025 16:51:51 +0900"
-    },
-    {
-      "title": "[인사] 한국투자금융지주 그룹 정기 임원인사",
-      "link": "https://www.yna.co.kr/view/AKR20251231114100008",
-      "pubDate": "Wed, 31 Dec 2025 16:50:52 +0900"
-    },
-    {
-      "title": "한투증권, '초격차 지위·지속성장 기반' 조직개편 단행",
-      "link": "https://www.yna.co.kr/view/AKR20251231113400008",
-      "pubDate": "Wed, 31 Dec 2025 16:49:35 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.953%",
-      "link": "https://www.yna.co.kr/view/AKR20251231112200008",
-      "pubDate": "Wed, 31 Dec 2025 16:43:38 +0900"
-    },
-    {
-      "title": "부영 임대아파트 입주민 평균 6.7년 거주…전국 임차 가구의 2배",
-      "link": "https://www.yna.co.kr/view/AKR20251231109100003",
-      "pubDate": "Wed, 31 Dec 2025 16:23:09 +0900"
-    },
-    {
-      "title": "주병기 \"필요하면 쿠팡 영업정지 처분 가능…집단소송제 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231108300002",
-      "pubDate": "Wed, 31 Dec 2025 16:16:59 +0900"
-    },
-    {
-      "title": "법원, 롯데손보가 금융위 권고조치 불복해 낸 집행정지 기각",
-      "link": "https://www.yna.co.kr/view/AKR20251231104900004",
-      "pubDate": "Wed, 31 Dec 2025 16:07:31 +0900"
     }
   ]
 }
