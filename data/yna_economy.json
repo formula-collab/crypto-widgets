@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767174300,
+  "updated_at_unix": 1767177852,
   "items": [
+    {
+      "title": "이억원 \"JP모건 쿠팡 보고서 공정성 훼손 우려…미 SEC 협조\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231129300002",
+      "pubDate": "Wed, 31 Dec 2025 19:03:02 +0900"
+    },
+    {
+      "title": "강정훈 제15대 iM뱅크 은행장 취임",
+      "link": "https://www.yna.co.kr/view/AKR20251231126700053",
+      "pubDate": "Wed, 31 Dec 2025 18:49:01 +0900"
+    },
+    {
+      "title": "[인사] 산은캐피탈",
+      "link": "https://www.yna.co.kr/view/AKR20251231127800002",
+      "pubDate": "Wed, 31 Dec 2025 18:40:59 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20251231118000011",
@@ -137,21 +152,6 @@
       "title": "해수부, 저수온 위기경보 '주의' 단계 발령",
       "link": "https://www.yna.co.kr/view/AKR20251231098700030",
       "pubDate": "Wed, 31 Dec 2025 15:12:22 +0900"
-    },
-    {
-      "title": "창원시, 새해 '스마트 수출전문단지 구축 사업' 대상 모집",
-      "link": "https://www.yna.co.kr/view/AKR20251231093600052",
-      "pubDate": "Wed, 31 Dec 2025 15:11:11 +0900"
-    },
-    {
-      "title": "FIU, 코빗에 고객확인의무 위반 등 과태료 27억원·기관경고",
-      "link": "https://www.yna.co.kr/view/AKR20251231094700002",
-      "pubDate": "Wed, 31 Dec 2025 15:08:01 +0900"
-    },
-    {
-      "title": "올해 '개미 순매수' 1등은 ETF…\"30조6천억원어치 순매수\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231091900008",
-      "pubDate": "Wed, 31 Dec 2025 14:55:09 +0900"
     }
   ]
 }
