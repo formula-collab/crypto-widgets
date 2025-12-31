@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767157205,
+  "updated_at_unix": 1767160160,
   "items": [
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20251231092200002",
+      "pubDate": "Wed, 31 Dec 2025 14:42:47 +0900"
+    },
+    {
+      "title": "오산 세교3신도시 공공주택지구 지정…3만3천가구 건설",
+      "link": "https://www.yna.co.kr/view/AKR20251231090400061",
+      "pubDate": "Wed, 31 Dec 2025 14:35:26 +0900"
+    },
+    {
+      "title": "임신·출산·보육 서비스 한 곳에서…익산 모아센터 2028년 완공",
+      "link": "https://www.yna.co.kr/view/AKR20251231090000055",
+      "pubDate": "Wed, 31 Dec 2025 14:33:49 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20251231086800011",
+      "pubDate": "Wed, 31 Dec 2025 14:30:01 +0900"
+    },
+    {
+      "title": "[인사] 기획재정부",
+      "link": "https://www.yna.co.kr/view/AKR20251231089600002",
+      "pubDate": "Wed, 31 Dec 2025 14:29:31 +0900"
+    },
+    {
+      "title": "\"명백한 허위\"라는데…쿠팡, '셀프조사' 지적에 \"협력 성공사례\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231083000030",
+      "pubDate": "Wed, 31 Dec 2025 14:29:13 +0900"
+    },
+    {
+      "title": "제주도, 칭다오 화물선 개설 첫해 물동량 손실보전 7억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20251231088100056",
+      "pubDate": "Wed, 31 Dec 2025 14:28:24 +0900"
+    },
+    {
+      "title": "[부고] 안철영(하나증권 랩운용실장)씨 빙모상",
+      "link": "https://www.yna.co.kr/view/AKR20251231088900008",
+      "pubDate": "Wed, 31 Dec 2025 14:26:35 +0900"
+    },
+    {
+      "title": "[인사] 공정거래위원회",
+      "link": "https://www.yna.co.kr/view/AKR20251231088700002",
+      "pubDate": "Wed, 31 Dec 2025 14:25:11 +0900"
+    },
+    {
+      "title": "밀양시·시설관리공단, 새해 상반기 신중년일자리 등 124명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20251231084000052",
+      "pubDate": "Wed, 31 Dec 2025 14:21:43 +0900"
+    },
+    {
+      "title": "국민행복카드 사업자 6곳으로 확대…23개 바우처 이용 가능",
+      "link": "https://www.yna.co.kr/view/AKR20251231085800530",
+      "pubDate": "Wed, 31 Dec 2025 14:16:36 +0900"
+    },
+    {
+      "title": "동국씨엠, 2026년 공채…내달 15일까지 지원서 접수",
+      "link": "https://www.yna.co.kr/view/AKR20251231081000003",
+      "pubDate": "Wed, 31 Dec 2025 14:12:35 +0900"
+    },
+    {
+      "title": "삼척시, 미취업 청년 어학·자격증 시험 응시료 지원",
+      "link": "https://www.yna.co.kr/view/AKR20251231085900062",
+      "pubDate": "Wed, 31 Dec 2025 14:12:18 +0900"
+    },
+    {
+      "title": "울산기술공고 학생·교직원, 울주 취약계층에 재능기부 봉사",
+      "link": "https://www.yna.co.kr/view/AKR20251231083600057",
+      "pubDate": "Wed, 31 Dec 2025 14:07:26 +0900"
+    },
     {
       "title": "성북구 \"장위10구역 착공신고 처리…1천931가구 대단지로\"",
       "link": "https://www.yna.co.kr/view/AKR20251231079500004",
@@ -82,76 +152,6 @@
       "title": "충북 지역 사무실 공실률 전국 최고…\"신규 공급 억제해야\"",
       "link": "https://www.yna.co.kr/view/AKR20251231058500064",
       "pubDate": "Wed, 31 Dec 2025 11:15:30 +0900"
-    },
-    {
-      "title": "서울시 미래 청년 일자리 사업, 220개 기업-청년 580명 연결",
-      "link": "https://www.yna.co.kr/view/AKR20251231027000004",
-      "pubDate": "Wed, 31 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "서울시, 청년 불법사금융 특별상담·교육…피해 12건 구제",
-      "link": "https://www.yna.co.kr/view/AKR20251231031000004",
-      "pubDate": "Wed, 31 Dec 2025 11:15:01 +0900"
-    },
-    {
-      "title": "트럼프 폭주에 흔들린 달러 패권…2017년 이후 최대 연간 하락폭",
-      "link": "https://www.yna.co.kr/view/AKR20251231055400009",
-      "pubDate": "Wed, 31 Dec 2025 11:07:54 +0900"
-    },
-    {
-      "title": "요기요, 서울 서초구서 '아파트 집 앞까지' 로봇 배달",
-      "link": "https://www.yna.co.kr/view/AKR20251231058400030",
-      "pubDate": "Wed, 31 Dec 2025 11:01:24 +0900"
-    },
-    {
-      "title": "1∼11월 국세수입 353.6조원…작년보다 37.9조원 더 걷혀",
-      "link": "https://www.yna.co.kr/view/AKR20251231021600002",
-      "pubDate": "Wed, 31 Dec 2025 11:00:02 +0900"
-    },
-    {
-      "title": "'농기자재 부가세 영세율' 등 국세 특례 14건 일몰 연장",
-      "link": "https://www.yna.co.kr/view/AKR20251231049900030",
-      "pubDate": "Wed, 31 Dec 2025 11:00:01 +0900"
-    },
-    {
-      "title": "전남 고흥, '스마트수산업 혁신 선도지구' 사업지로 뽑혀",
-      "link": "https://www.yna.co.kr/view/AKR20251231050000030",
-      "pubDate": "Wed, 31 Dec 2025 11:00:01 +0900"
-    },
-    {
-      "title": "12월 소비자물가 2.3%↑…고환율發 석유류·수입소고기 '껑충'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20251231015753002",
-      "pubDate": "Wed, 31 Dec 2025 10:55:02 +0900"
-    },
-    {
-      "title": "건정연 \"내년 1분기 주택 시장 완만한 상승 흐름 지속될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231056000003",
-      "pubDate": "Wed, 31 Dec 2025 10:52:37 +0900"
-    },
-    {
-      "title": "청년도약계좌 신규가입 올해로 종료…총 255만명 계좌개설",
-      "link": "https://www.yna.co.kr/view/AKR20251231053500002",
-      "pubDate": "Wed, 31 Dec 2025 10:41:45 +0900"
-    },
-    {
-      "title": "NH증권, 연금 총자산 15조원 돌파…\"DC·IRP 성장률 42% 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231054100008",
-      "pubDate": "Wed, 31 Dec 2025 10:41:31 +0900"
-    },
-    {
-      "title": "올해 인천경제청 외국인직접투자 7.9억달러…최근 6년중 최대",
-      "link": "https://www.yna.co.kr/view/AKR20251231050100065",
-      "pubDate": "Wed, 31 Dec 2025 10:34:07 +0900"
-    },
-    {
-      "title": "제주도, 하원테크노캠퍼스 산업단지 고시…내년 실시계획 착수",
-      "link": "https://www.yna.co.kr/view/AKR20251231050300056",
-      "pubDate": "Wed, 31 Dec 2025 10:30:38 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20251231048000011",
-      "pubDate": "Wed, 31 Dec 2025 10:30:00 +0900"
     }
   ]
 }
