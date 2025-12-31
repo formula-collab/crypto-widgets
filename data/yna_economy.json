@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767220844,
+  "updated_at_unix": 1767223997,
   "items": [
+    {
+      "title": "용역계약 대가로 아들 취업시킨 재개발 조합장 뇌물 혐의 송치",
+      "link": "https://www.yna.co.kr/view/AKR20251231103000061",
+      "pubDate": "Thu, 1 Jan 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[신년사] 수은 행장 \"수출 금융지원으로 한국경제 대도약 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231135700002",
+      "pubDate": "Thu, 1 Jan 2026 08:00:00 +0900"
+    },
     {
       "title": "작년 코스피 '불장'에도 개인은 역대 최대 팔았다",
       "link": "https://www.yna.co.kr/view/AKR20251231115300008",
@@ -142,16 +152,6 @@
       "title": "외환당국, 3분기 '환율 방어'에 17억달러 순매도",
       "link": "https://www.yna.co.kr/view/AKR20251231121400002",
       "pubDate": "Wed, 31 Dec 2025 17:53:05 +0900"
-    },
-    {
-      "title": "한국골프대-횡성군-지역 골프장, 지·산·학 협력 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20251231122700062",
-      "pubDate": "Wed, 31 Dec 2025 17:47:10 +0900"
-    },
-    {
-      "title": "에이텀 \"종속회사 ATUM에 57억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231122100008",
-      "pubDate": "Wed, 31 Dec 2025 17:45:07 +0900"
     }
   ]
 }
