@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767278432,
+  "updated_at_unix": 1767281925,
   "items": [
+    {
+      "title": "올해 국가공무원 공채 선발규모 5천351명 확정…9급 3천802명",
+      "link": "https://www.yna.co.kr/view/AKR20260101041200001",
+      "pubDate": "Fri, 2 Jan 2026 00:00:00 +0900"
+    },
     {
       "title": "이혜훈 '보좌진 갑질' 녹취 폭로…李측 \"진심으로 사과, 반성\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260101028452001",
@@ -147,11 +152,6 @@
       "title": "[2보] 韓 수출 첫 7천억달러 돌파…반도체 1천734억달러 '역대최대'",
       "link": "https://www.yna.co.kr/view/AKR20260101016351003",
       "pubDate": "Thu, 1 Jan 2026 10:00:37 +0900"
-    },
-    {
-      "title": "우리은행, 디지털영업그룹장에 삼성전자 출신 정의철 영입",
-      "link": "https://www.yna.co.kr/view/AKR20251231134800002",
-      "pubDate": "Thu, 1 Jan 2026 10:00:01 +0900"
     }
   ]
 }
