@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767303208,
+  "updated_at_unix": 1767307303,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260102011700011",
+      "pubDate": "Fri, 2 Jan 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[팩트체크] 성인도 키 10cm 크는 약?…AI로 더 교묘해진 온라인 허위 광고",
+      "link": "https://www.yna.co.kr/view/AKR20260101013700518",
+      "pubDate": "Fri, 2 Jan 2026 06:30:02 +0900"
+    },
     {
       "title": "국토부 주택공급추진본부 출범식…\"강력한 추진 체계 완비\"",
       "link": "https://www.yna.co.kr/view/AKR20260101046300003",
@@ -84,13 +94,13 @@
       "pubDate": "Thu, 1 Jan 2026 12:00:03 +0900"
     },
     {
-      "title": "올해 노인 단독가구, 소득인정액 월 247만원 이하면 기초연금",
-      "link": "https://www.yna.co.kr/view/AKR20251231135100530",
+      "title": "[신년사] 금감원장 \"금융소비자가 최우선…주가조작 꿈도 못 꿀 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20251231123400002",
       "pubDate": "Thu, 1 Jan 2026 12:00:02 +0900"
     },
     {
-      "title": "[신년사] 금감원장 \"금융소비자가 최우선…주가조작 꿈도 못 꿀 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231123400002",
+      "title": "올해 노인 단독가구, 소득인정액 월 247만원 이하면 기초연금",
+      "link": "https://www.yna.co.kr/view/AKR20251231135100530",
       "pubDate": "Thu, 1 Jan 2026 12:00:02 +0900"
     },
     {
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260101021900011",
       "pubDate": "Thu, 1 Jan 2026 10:35:08 +0900"
-    },
-    {
-      "title": "관세청장, 새해 첫 행보로 인천공항 수출화물 통관 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260101022000002",
-      "pubDate": "Thu, 1 Jan 2026 10:14:50 +0900"
-    },
-    {
-      "title": "수출 7천억달러 이후의 과제…거세지는 '무역장벽' 올해가 문제",
-      "link": "https://www.yna.co.kr/view/AKR20260101021700003",
-      "pubDate": "Thu, 1 Jan 2026 10:05:04 +0900"
     }
   ]
 }
