@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767246324,
+  "updated_at_unix": 1767250720,
   "items": [
+    {
+      "title": "쿠팡 겨냥한 금감원장 \"대형 유통플랫폼, 금융기관 준해서 감독\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20251231123451002",
+      "pubDate": "Thu, 1 Jan 2026 15:31:48 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260101034200011",
+      "pubDate": "Thu, 1 Jan 2026 15:00:01 +0900"
+    },
     {
       "title": "이혜훈 '보좌진 갑질' 녹취 폭로…李측 \"진심으로 사과, 반성\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260101028451001",
@@ -142,16 +152,6 @@
       "title": "국민 46.4% \"올해 경기 더 어려울 것\"…48.7% \"코스피 5천 가능\"[리얼미터]",
       "link": "https://www.yna.co.kr/view/AKR20260101015000001",
       "pubDate": "Thu, 1 Jan 2026 09:11:56 +0900"
-    },
-    {
-      "title": "[속보] 12월 대미 수출 123억달러 '역대 최대'…5개월 만에 증가 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260101017500003",
-      "pubDate": "Thu, 1 Jan 2026 09:02:55 +0900"
-    },
-    {
-      "title": "[속보] 12월 수출 696억달러로 13.4%↑…11개월 연속 '수출 플러스'",
-      "link": "https://www.yna.co.kr/view/AKR20260101016800003",
-      "pubDate": "Thu, 1 Jan 2026 09:00:28 +0900"
     }
   ]
 }
