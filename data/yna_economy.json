@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767250720,
+  "updated_at_unix": 1767253198,
   "items": [
+    {
+      "title": "서울 송파구·경기 과천시 작년 아파트값 20% 넘게 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260101031851003",
+      "pubDate": "Thu, 1 Jan 2026 16:09:36 +0900"
+    },
     {
       "title": "쿠팡 겨냥한 금감원장 \"대형 유통플랫폼, 금융기관 준해서 감독\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251231123451002",
@@ -147,11 +152,6 @@
       "title": "[신년사] 금융위원장 \"새해는 국가 대도약의 원년 돼야\"",
       "link": "https://www.yna.co.kr/view/AKR20251231115900002",
       "pubDate": "Thu, 1 Jan 2026 09:37:33 +0900"
-    },
-    {
-      "title": "국민 46.4% \"올해 경기 더 어려울 것\"…48.7% \"코스피 5천 가능\"[리얼미터]",
-      "link": "https://www.yna.co.kr/view/AKR20260101015000001",
-      "pubDate": "Thu, 1 Jan 2026 09:11:56 +0900"
     }
   ]
 }
