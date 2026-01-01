@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767307303,
+  "updated_at_unix": 1767310487,
   "items": [
+    {
+      "title": "하나證 \"포스코홀딩스, 내년 철강·2차전지 영업실적 개선 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102020400008",
+      "pubDate": "Fri, 2 Jan 2026 08:32:02 +0900"
+    },
+    {
+      "title": "롯데택배도 '주7일' 배송…\"휴일 물량 수요 적극 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102019700030",
+      "pubDate": "Fri, 2 Jan 2026 08:28:10 +0900"
+    },
+    {
+      "title": "NH투자증권 \"삼성SDI, 올해 적자 지속 전망…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102019800008",
+      "pubDate": "Fri, 2 Jan 2026 08:27:39 +0900"
+    },
+    {
+      "title": "대신증권 \"SK하이닉스, 올해 영업익 100조원 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102018600008",
+      "pubDate": "Fri, 2 Jan 2026 08:24:31 +0900"
+    },
+    {
+      "title": "중진공, 5일부터 中企 정책자금 4조4천300억원 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260102019100030",
+      "pubDate": "Fri, 2 Jan 2026 08:24:07 +0900"
+    },
+    {
+      "title": "삼성증권, 셀트리온 목표가↑…\"4분기 깜짝실적 예고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102018400008",
+      "pubDate": "Fri, 2 Jan 2026 08:16:02 +0900"
+    },
+    {
+      "title": "NH투자, LG전자 목표가 상향…\"관세 대응력 강화·체질 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102017900008",
+      "pubDate": "Fri, 2 Jan 2026 08:13:30 +0900"
+    },
+    {
+      "title": "셀트리온, 미국 뉴저지 생산시설 인수 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260102017200017",
+      "pubDate": "Fri, 2 Jan 2026 08:07:45 +0900"
+    },
+    {
+      "title": "[마켓뷰] 새해 첫날 코스피, 역대 최고치 돌파 시도 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260102015600008",
+      "pubDate": "Fri, 2 Jan 2026 08:05:23 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260102011700011",
@@ -107,51 +152,6 @@
       "title": "과기·ICT R&D에 8.1조 투입…정부, AI 3강 도약 시동",
       "link": "https://www.yna.co.kr/view/AKR20260101024700017",
       "pubDate": "Thu, 1 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "서울핀테크랩 입주기업 누적매출 8천662억 달성…투자매칭 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260101017900004",
-      "pubDate": "Thu, 1 Jan 2026 11:15:00 +0900"
-    },
-    {
-      "title": "올 상반기 건설업 일평균 임금 27만9천988원…작년보다 1.44%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260101027800003",
-      "pubDate": "Thu, 1 Jan 2026 11:11:34 +0900"
-    },
-    {
-      "title": "어구·부표 보증금제 대상 확대…자망·부표·장어통발 추가",
-      "link": "https://www.yna.co.kr/view/AKR20251231107100030",
-      "pubDate": "Thu, 1 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "e수산공익직불 서비스 시작…\"직불제 정보 확인 편리하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20251231120300030",
-      "pubDate": "Thu, 1 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "국내 최대 건설장비업체 HD건설기계 출범…2030년 매출 14.8조 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260101023300003",
-      "pubDate": "Thu, 1 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "산업부·중기부, 'CES 2026'에 통합한국관…역대 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260101024100003",
-      "pubDate": "Thu, 1 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "전세사기 피해자 664명 추가 인정…누적 3만5천909명",
-      "link": "https://www.yna.co.kr/view/AKR20260101025000003",
-      "pubDate": "Thu, 1 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "韓 사상 첫 7천억달러 수출…반도체 수출 '역대 최대'로 견인(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260101016352003",
-      "pubDate": "Thu, 1 Jan 2026 10:55:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260101021900011",
-      "pubDate": "Thu, 1 Jan 2026 10:35:08 +0900"
     }
   ]
 }
