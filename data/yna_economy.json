@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767300131,
+  "updated_at_unix": 1767303208,
   "items": [
+    {
+      "title": "국토부 주택공급추진본부 출범식…\"강력한 추진 체계 완비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260101046300003",
+      "pubDate": "Fri, 2 Jan 2026 06:00:00 +0900"
+    },
     {
       "title": "올해 국가공무원 공채 선발규모 5천351명 확정…9급 3천802명",
       "link": "https://www.yna.co.kr/view/AKR20260101041200001",
@@ -147,11 +152,6 @@
       "title": "수출 7천억달러 이후의 과제…거세지는 '무역장벽' 올해가 문제",
       "link": "https://www.yna.co.kr/view/AKR20260101021700003",
       "pubDate": "Thu, 1 Jan 2026 10:05:04 +0900"
-    },
-    {
-      "title": "[2보] 韓 수출 첫 7천억달러 돌파…반도체 1천734억달러 '역대최대'",
-      "link": "https://www.yna.co.kr/view/AKR20260101016351003",
-      "pubDate": "Thu, 1 Jan 2026 10:00:37 +0900"
     }
   ]
 }
