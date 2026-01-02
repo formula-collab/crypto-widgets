@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767339717,
+  "updated_at_unix": 1767344163,
   "items": [
+    {
+      "title": "새해 경제인들 한자리…최태원 \"한국에 가장 중요한 한 해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260102037701003",
+      "pubDate": "Fri, 2 Jan 2026 17:43:38 +0900"
+    },
+    {
+      "title": "삼성SDS, 구미 새 AI 데이터센터에 4천273억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260102139200017",
+      "pubDate": "Fri, 2 Jan 2026 17:41:19 +0900"
+    },
+    {
+      "title": "대행 체제로 깃발 올린 기획처…첫날부터 예산집행 속도전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260102057051002",
+      "pubDate": "Fri, 2 Jan 2026 17:25:00 +0900"
+    },
+    {
+      "title": "이원컴포텍 \"리미나투스파마 주식 39억에 추가취득…지분율 21%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102132900008",
+      "pubDate": "Fri, 2 Jan 2026 17:14:37 +0900"
+    },
+    {
+      "title": "5대은행 가계대출 약 4천600억원 줄어…11개월 만에 감소(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260102098851002",
+      "pubDate": "Fri, 2 Jan 2026 17:04:55 +0900"
+    },
+    {
+      "title": "한국벤처투자, '연 40조 벤처시장' 뒷받침 조직개편 단행",
+      "link": "https://www.yna.co.kr/view/AKR20260102130600030",
+      "pubDate": "Fri, 2 Jan 2026 17:04:14 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 2.935%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260102126251008",
+      "pubDate": "Fri, 2 Jan 2026 17:02:00 +0900"
+    },
+    {
+      "title": "새해 경제인들 한자리…\"경제 재도약 위해 적토마처럼 뛰자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102037700003",
+      "pubDate": "Fri, 2 Jan 2026 17:00:02 +0900"
+    },
+    {
+      "title": "\"글로벌 해양수도 부산 원년\"…부산상의 신년 인사회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260102111800051",
+      "pubDate": "Fri, 2 Jan 2026 17:00:01 +0900"
+    },
+    {
+      "title": "국내 휴머노이드 로봇 투자 ETF, 6일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260102128300008",
+      "pubDate": "Fri, 2 Jan 2026 16:51:04 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 2.935%",
+      "link": "https://www.yna.co.kr/view/AKR20260102126200008",
+      "pubDate": "Fri, 2 Jan 2026 16:40:28 +0900"
+    },
     {
       "title": "영광군, 결혼이민자 임기제 공무원 첫 채용",
       "link": "https://www.yna.co.kr/view/AKR20260102123600054",
@@ -79,7 +134,7 @@
       "pubDate": "Fri, 2 Jan 2026 15:42:59 +0900"
     },
     {
-      "title": "오세훈 \"주택공급 활성화 가시화…정비사업 늘수록 안전 철저\"(종합)",
+      "title": "오세훈 새해 첫일정은 강북·재건축…\"주택공급 활성화 가시화\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260102055251004",
       "pubDate": "Fri, 2 Jan 2026 15:41:25 +0900"
     },
@@ -97,61 +152,6 @@
       "title": "[외환] 원/달러 환율 2.8원 오른 1,441.8원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260102109200002",
       "pubDate": "Fri, 2 Jan 2026 15:30:19 +0900"
-    },
-    {
-      "title": "[신년사] 김인 새마을금고중앙회장 \"리스크 관리가 곧 조직 생존\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102104800002",
-      "pubDate": "Fri, 2 Jan 2026 15:23:59 +0900"
-    },
-    {
-      "title": "[신년사] 국세청장 \"성실납세자엔 자상하게, 탈세자는 더 엄정하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102099500002",
-      "pubDate": "Fri, 2 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "[신년사] 장원삼 코이카 이사장 \"통합적 개발협력 실행 원년\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102091400371",
-      "pubDate": "Fri, 2 Jan 2026 14:54:44 +0900"
-    },
-    {
-      "title": "충남도, 청년 창업·창직 지원…다음달 2일까지 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260102100300063",
-      "pubDate": "Fri, 2 Jan 2026 14:54:41 +0900"
-    },
-    {
-      "title": "제너시스BBQ 신임 대표이사에 박지만 씨",
-      "link": "https://www.yna.co.kr/view/AKR20260102099400030",
-      "pubDate": "Fri, 2 Jan 2026 14:54:38 +0900"
-    },
-    {
-      "title": "새해 첫 거래일 코스피 장 중 한때 4,300선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260102099800008",
-      "pubDate": "Fri, 2 Jan 2026 14:51:18 +0900"
-    },
-    {
-      "title": "정부, 올해 지역인재 7급 180명 선발…대학별 추천 상한 폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260102096600001",
-      "pubDate": "Fri, 2 Jan 2026 14:51:08 +0900"
-    },
-    {
-      "title": "국토부 주택공급추진본부 공식 출범…\"공급 더 속도감 있게 진행\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260101046351003",
-      "pubDate": "Fri, 2 Jan 2026 14:50:31 +0900"
-    },
-    {
-      "title": "[신년사] 강태영 농협은행장 \"생산적금융으로 민족은행 정체성 증명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102097600002",
-      "pubDate": "Fri, 2 Jan 2026 14:47:26 +0900"
-    },
-    {
-      "title": "제로에너지건축물에 보금자리론 금리 0.1%p 우대",
-      "link": "https://www.yna.co.kr/view/AKR20260102098700002",
-      "pubDate": "Fri, 2 Jan 2026 14:46:55 +0900"
-    },
-    {
-      "title": "5대은행 지난달 가계대출 약 4천600억원 줄어…11개월 만에 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260102098800002",
-      "pubDate": "Fri, 2 Jan 2026 14:46:19 +0900"
     }
   ]
 }
