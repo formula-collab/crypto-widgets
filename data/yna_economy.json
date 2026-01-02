@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767386398,
+  "updated_at_unix": 1767389266,
   "items": [
+    {
+      "title": "주유소 기름값 4주 연속 하락…\"다음 주도 하락 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102126300003",
+      "pubDate": "Sat, 3 Jan 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 새해 분양시장 개막…첫 주는 한산",
+      "link": "https://www.yna.co.kr/view/AKR20260102141600003",
+      "pubDate": "Sat, 3 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프, 이란 정국 개입 엄포에 급변동…WTI 0.1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260103005100009",
+      "pubDate": "Sat, 3 Jan 2026 05:59:56 +0900"
+    },
     {
       "title": "달러-원, 거래량 빈곤 속 '게걸음'…1,444.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260103002400002",
@@ -137,21 +152,6 @@
       "title": "하남시, 주 4.5일제 시범운영…금요일 오후 1시 퇴근",
       "link": "https://www.yna.co.kr/view/AKR20260102114700061",
       "pubDate": "Fri, 2 Jan 2026 15:51:15 +0900"
-    },
-    {
-      "title": "[특징주] 에코마케팅, 공개매수 소식에 상한가…매수가 근접(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260102059751008",
-      "pubDate": "Fri, 2 Jan 2026 15:45:23 +0900"
-    },
-    {
-      "title": "[인사] 마스턴투자운용",
-      "link": "https://www.yna.co.kr/view/AKR20260102111900008",
-      "pubDate": "Fri, 2 Jan 2026 15:44:02 +0900"
-    },
-    {
-      "title": "[인사] NH헤지자산운용",
-      "link": "https://www.yna.co.kr/view/AKR20260102111100008",
-      "pubDate": "Fri, 2 Jan 2026 15:43:40 +0900"
     }
   ]
 }
