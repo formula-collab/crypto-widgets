@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767337156,
+  "updated_at_unix": 1767339717,
   "items": [
+    {
+      "title": "영광군, 결혼이민자 임기제 공무원 첫 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260102123600054",
+      "pubDate": "Fri, 2 Jan 2026 16:36:23 +0900"
+    },
+    {
+      "title": "[신년사] 관세청장 \"국경 단계 마약 밀수 원천 차단…통관 규제 혁신\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102120300002",
+      "pubDate": "Fri, 2 Jan 2026 16:31:51 +0900"
+    },
+    {
+      "title": "[인사] 대한주택건설협회",
+      "link": "https://www.yna.co.kr/view/AKR20260102121100003",
+      "pubDate": "Fri, 2 Jan 2026 16:23:03 +0900"
+    },
+    {
+      "title": "김성주 부산은행장 취임…\"지역경제에 활력 불어넣는 은행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102118200051",
+      "pubDate": "Fri, 2 Jan 2026 16:10:53 +0900"
+    },
+    {
+      "title": "미래에셋자산운용 'TIGER ETF' 유튜브 구독자 50만명 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260102118700008",
+      "pubDate": "Fri, 2 Jan 2026 16:09:41 +0900"
+    },
+    {
+      "title": "기획처 장관대행 \"중장기 국가발전 전략 수립작업 착수\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102118500002",
+      "pubDate": "Fri, 2 Jan 2026 16:09:28 +0900"
+    },
+    {
+      "title": "새해 첫 거래일 원/달러 환율 1,441.8원…2.8원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260102116100002",
+      "pubDate": "Fri, 2 Jan 2026 16:06:06 +0900"
+    },
+    {
+      "title": "한신평 \"작년 산업별 신용도 차별화…장기등급 소폭 하향우위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102117400008",
+      "pubDate": "Fri, 2 Jan 2026 16:04:32 +0900"
+    },
+    {
+      "title": "새해 첫날 코스피 2.3%↑…4,300선 넘어 '전인미답' 신기록(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260102109951008",
+      "pubDate": "Fri, 2 Jan 2026 16:03:17 +0900"
+    },
     {
       "title": "[부고] 김태섭(한국은행 차장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260102112100002",
@@ -107,51 +152,6 @@
       "title": "5대은행 지난달 가계대출 약 4천600억원 줄어…11개월 만에 감소",
       "link": "https://www.yna.co.kr/view/AKR20260102098800002",
       "pubDate": "Fri, 2 Jan 2026 14:46:19 +0900"
-    },
-    {
-      "title": "[속보] 새해 첫 거래일 코스피 장 중 한때 4,300선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260102098100008",
-      "pubDate": "Fri, 2 Jan 2026 14:41:06 +0900"
-    },
-    {
-      "title": "울주군, 올해 첫 공공근로 101명 모집…\"취약계층 생계 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102097000057",
-      "pubDate": "Fri, 2 Jan 2026 14:37:16 +0900"
-    },
-    {
-      "title": "기획처 실국장급 인사…미래전략기획실장 강영규·대변인 박문규",
-      "link": "https://www.yna.co.kr/view/AKR20260102094800002",
-      "pubDate": "Fri, 2 Jan 2026 14:32:14 +0900"
-    },
-    {
-      "title": "새해 부산항 첫 크루즈선 입항…중국발 첫 항차",
-      "link": "https://www.yna.co.kr/view/AKR20260102095800051",
-      "pubDate": "Fri, 2 Jan 2026 14:30:24 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260102091900011",
-      "pubDate": "Fri, 2 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "수출입은행, 본부장 3명·준법감시인 선임…공석 해소",
-      "link": "https://www.yna.co.kr/view/AKR20260102094600002",
-      "pubDate": "Fri, 2 Jan 2026 14:25:41 +0900"
-    },
-    {
-      "title": "교보증권, MTS '간편모드' 출시…사용자 편의성 높여",
-      "link": "https://www.yna.co.kr/view/AKR20260102094300008",
-      "pubDate": "Fri, 2 Jan 2026 14:25:03 +0900"
-    },
-    {
-      "title": "안성시, 제2안성테크노밸리 조성 본격화…2031년 준공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260102093600061",
-      "pubDate": "Fri, 2 Jan 2026 14:21:52 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260102093300002",
-      "pubDate": "Fri, 2 Jan 2026 14:20:22 +0900"
     }
   ]
 }
