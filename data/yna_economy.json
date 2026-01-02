@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767347067,
+  "updated_at_unix": 1767350617,
   "items": [
+    {
+      "title": "삼화페인트 김현정, 故김장연 회장 지분 상속해 최대주주로",
+      "link": "https://www.yna.co.kr/view/AKR20260102147500003",
+      "pubDate": "Fri, 2 Jan 2026 18:58:25 +0900"
+    },
     {
       "title": "'적기시정조치' 롯데손보, 금융당국에 경영개선계획 제출",
       "link": "https://www.yna.co.kr/view/AKR20260102145700002",
@@ -147,11 +152,6 @@
       "title": "[특징주] 李대통령 방중 앞두고 게임·엔터·화장품주 '활짝'",
       "link": "https://www.yna.co.kr/view/AKR20260102110900008",
       "pubDate": "Fri, 2 Jan 2026 15:42:59 +0900"
-    },
-    {
-      "title": "오세훈 새해 첫일정은 재건축현장…\"주택공급 활성화 가시화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260102055251004",
-      "pubDate": "Fri, 2 Jan 2026 15:41:25 +0900"
     }
   ]
 }
