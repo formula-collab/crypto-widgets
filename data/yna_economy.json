@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767390218,
+  "updated_at_unix": 1767393721,
   "items": [
+    {
+      "title": "[이번주뭘살까] 백화점들, 정기세일 돌입…대형마트는 새해 먹거리 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260102106000030",
+      "pubDate": "Sat, 3 Jan 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[금주핫템] LG생활건강 '닥터그루트 키트'·오설록 '무자기 협업 티웨어'",
+      "link": "https://www.yna.co.kr/view/AKR20251230028800030",
+      "pubDate": "Sat, 3 Jan 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[신상잇슈] 뚜레쥬르 '유니콘 드림 케이크'·배스킨라빈스 '베리굿'",
+      "link": "https://www.yna.co.kr/view/AKR20260102039600030",
+      "pubDate": "Sat, 3 Jan 2026 07:00:02 +0900"
+    },
     {
       "title": "주유소 기름값 4주 연속 하락…\"다음 주도 하락 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20260102126300003",
@@ -137,21 +152,6 @@
       "title": "한신평 \"작년 산업별 신용도 차별화…장기등급 소폭 하향우위\"",
       "link": "https://www.yna.co.kr/view/AKR20260102117400008",
       "pubDate": "Fri, 2 Jan 2026 16:04:32 +0900"
-    },
-    {
-      "title": "새해 첫날 코스피 2.3%↑…4,300선 넘어 '전인미답' 신기록(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260102109951008",
-      "pubDate": "Fri, 2 Jan 2026 16:03:17 +0900"
-    },
-    {
-      "title": "[부고] 김태섭(한국은행 차장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260102112100002",
-      "pubDate": "Fri, 2 Jan 2026 15:53:59 +0900"
-    },
-    {
-      "title": "하남시, 주 4.5일제 시범운영…금요일 오후 1시 퇴근",
-      "link": "https://www.yna.co.kr/view/AKR20260102114700061",
-      "pubDate": "Fri, 2 Jan 2026 15:51:15 +0900"
     }
   ]
 }
