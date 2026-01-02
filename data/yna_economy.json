@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767326157,
+  "updated_at_unix": 1767330153,
   "items": [
+    {
+      "title": "청도군, '1만원 주택사업' 확대…\"인구유입 촉진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102085500053",
+      "pubDate": "Fri, 2 Jan 2026 13:53:36 +0900"
+    },
+    {
+      "title": "[신년사] 빈대인 BNK금융지주 회장 \"미래성장 위한 새로운 금융\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102077700051",
+      "pubDate": "Fri, 2 Jan 2026 13:53:25 +0900"
+    },
+    {
+      "title": "김미애 의원, 인구감소지역 주택 취득세 면제·감면 법안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20260102086500051",
+      "pubDate": "Fri, 2 Jan 2026 13:49:01 +0900"
+    },
+    {
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20260102083400002",
+      "pubDate": "Fri, 2 Jan 2026 13:43:35 +0900"
+    },
+    {
+      "title": "유정복 인천시장, 새해 맞아 전통시장서 민생현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260102084100065",
+      "pubDate": "Fri, 2 Jan 2026 13:40:53 +0900"
+    },
     {
       "title": "국토장관 \"서울 중심 추가 공급\"…이르면 이달 중순 대책 나올듯",
       "link": "https://www.yna.co.kr/view/AKR20260102075400003",
@@ -127,31 +152,6 @@
       "title": "세종시, 중소기업육성자금 550억원 지원…'경영안정·투자촉진'",
       "link": "https://www.yna.co.kr/view/AKR20260102048900063",
       "pubDate": "Fri, 2 Jan 2026 11:04:24 +0900"
-    },
-    {
-      "title": "원/달러 환율 새해 첫 거래일 소폭 상승…1,440원 선 거래",
-      "link": "https://www.yna.co.kr/view/AKR20260102059600002",
-      "pubDate": "Fri, 2 Jan 2026 11:04:21 +0900"
-    },
-    {
-      "title": "18년만에 간판 내건 기획예산처…임기근 대행체제 첫날 업무가동",
-      "link": "https://www.yna.co.kr/view/AKR20260102057000002",
-      "pubDate": "Fri, 2 Jan 2026 11:00:43 +0900"
-    },
-    {
-      "title": "재정경제부 공식 출범…\"올해를 한국 경제 대도약 원년으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102040600002",
-      "pubDate": "Fri, 2 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[특징주] 에코마케팅, 공개매수 소식에 상한가…매수가 근접",
-      "link": "https://www.yna.co.kr/view/AKR20260102059700008",
-      "pubDate": "Fri, 2 Jan 2026 10:58:55 +0900"
-    },
-    {
-      "title": "새해벽두 호텔뷔페·명품업체 '가격 줄인상'…원가·환율부담탓",
-      "link": "https://www.yna.co.kr/view/AKR20260102055000030",
-      "pubDate": "Fri, 2 Jan 2026 10:54:31 +0900"
     }
   ]
 }
