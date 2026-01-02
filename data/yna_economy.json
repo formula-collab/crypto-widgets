@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767344163,
+  "updated_at_unix": 1767347067,
   "items": [
+    {
+      "title": "'적기시정조치' 롯데손보, 금융당국에 경영개선계획 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260102145700002",
+      "pubDate": "Fri, 2 Jan 2026 18:34:32 +0900"
+    },
+    {
+      "title": "[인사] 동양생명",
+      "link": "https://www.yna.co.kr/view/AKR20260102145000002",
+      "pubDate": "Fri, 2 Jan 2026 18:31:53 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260102133900011",
+      "pubDate": "Fri, 2 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "새해 경제인들 한자리…최태원 \"한국에 가장 중요한 한 해\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260102037701003",
@@ -134,24 +149,9 @@
       "pubDate": "Fri, 2 Jan 2026 15:42:59 +0900"
     },
     {
-      "title": "오세훈 새해 첫일정은 강북·재건축…\"주택공급 활성화 가시화\"(종합)",
+      "title": "오세훈 새해 첫일정은 재건축현장…\"주택공급 활성화 가시화\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260102055251004",
       "pubDate": "Fri, 2 Jan 2026 15:41:25 +0900"
-    },
-    {
-      "title": "새해 첫날 코스피 2.3%↑…4,300선 넘어 '전인미답' 신기록",
-      "link": "https://www.yna.co.kr/view/AKR20260102109900008",
-      "pubDate": "Fri, 2 Jan 2026 15:35:37 +0900"
-    },
-    {
-      "title": "외국환시세(1월2일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260102110200002",
-      "pubDate": "Fri, 2 Jan 2026 15:35:15 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.8원 오른 1,441.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260102109200002",
-      "pubDate": "Fri, 2 Jan 2026 15:30:19 +0900"
     }
   ]
 }
