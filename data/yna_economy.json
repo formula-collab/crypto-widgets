@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767393721,
+  "updated_at_unix": 1767396745,
   "items": [
+    {
+      "title": "[머니플로우] 코스피 고공행진에 주식형 펀드 수익률도 국내가 해외 압도",
+      "link": "https://www.yna.co.kr/view/AKR20260102080400008",
+      "pubDate": "Sat, 3 Jan 2026 08:00:03 +0900"
+    },
     {
       "title": "[이번주뭘살까] 백화점들, 정기세일 돌입…대형마트는 새해 먹거리 할인",
       "link": "https://www.yna.co.kr/view/AKR20260102106000030",
@@ -147,11 +152,6 @@
       "title": "새해 첫 거래일 원/달러 환율 1,441.8원…2.8원↑",
       "link": "https://www.yna.co.kr/view/AKR20260102116100002",
       "pubDate": "Fri, 2 Jan 2026 16:06:06 +0900"
-    },
-    {
-      "title": "한신평 \"작년 산업별 신용도 차별화…장기등급 소폭 하향우위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102117400008",
-      "pubDate": "Fri, 2 Jan 2026 16:04:32 +0900"
     }
   ]
 }
