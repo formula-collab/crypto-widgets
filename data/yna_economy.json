@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767479996,
+  "updated_at_unix": 1767483194,
   "items": [
+    {
+      "title": "부산 아파트 전셋값 상승폭 확대…매매가격도 상승랠리",
+      "link": "https://www.yna.co.kr/view/AKR20260102109100051",
+      "pubDate": "Sun, 4 Jan 2026 08:00:03 +0900"
+    },
     {
       "title": "벤처기업 10년, 무엇이 달라졌나…기술은 고도화·재무는 안정화",
       "link": "https://www.yna.co.kr/view/AKR20260103022400030",
@@ -147,11 +152,6 @@
       "title": "[마이더스] 한 해의 세금을 설계하는 1월",
       "link": "https://www.yna.co.kr/view/AKR20251231037800980",
       "pubDate": "Sat, 3 Jan 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260103020200011",
-      "pubDate": "Sat, 3 Jan 2026 10:30:00 +0900"
     }
   ]
 }
