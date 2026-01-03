@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767475909,
+  "updated_at_unix": 1767479996,
   "items": [
+    {
+      "title": "벤처기업 10년, 무엇이 달라졌나…기술은 고도화·재무는 안정화",
+      "link": "https://www.yna.co.kr/view/AKR20260103022400030",
+      "pubDate": "Sun, 4 Jan 2026 07:15:01 +0900"
+    },
+    {
+      "title": "역대 코스닥 수익률 가장 높은 달은 1월…올해도 '1월 효과'?",
+      "link": "https://www.yna.co.kr/view/AKR20260102157500008",
+      "pubDate": "Sun, 4 Jan 2026 07:15:00 +0900"
+    },
+    {
+      "title": "작년 개미 '원픽'은 美S&P…ETF 시장, 해외지수가 이끌었다",
+      "link": "https://www.yna.co.kr/view/AKR20260102124700008",
+      "pubDate": "Sun, 4 Jan 2026 07:03:01 +0900"
+    },
+    {
+      "title": "K패션기업, 새해 해외사업 강화…'매장 늘리고 진출국 확대'",
+      "link": "https://www.yna.co.kr/view/AKR20260102105000030",
+      "pubDate": "Sun, 4 Jan 2026 07:01:02 +0900"
+    },
+    {
+      "title": "증권사들이 뽑은 이달의 '픽'은…반도체 소재 종목 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260102154000008",
+      "pubDate": "Sun, 4 Jan 2026 07:01:01 +0900"
+    },
+    {
+      "title": "경기도, 법무부와 협업해 '국적 변경 체납자' 17명 7천만원 징수",
+      "link": "https://www.yna.co.kr/view/AKR20260102109400061",
+      "pubDate": "Sun, 4 Jan 2026 07:00:15 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 새해 첫날 신기록 달성 코스피, 강세 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260102159000008",
+      "pubDate": "Sun, 4 Jan 2026 07:00:07 +0900"
+    },
+    {
+      "title": "치솟는 물가에 결국 백기…'착한밥집'들도 줄줄이 가격인상",
+      "link": "https://www.yna.co.kr/view/AKR20260102137200004",
+      "pubDate": "Sun, 4 Jan 2026 06:55:01 +0900"
+    },
+    {
+      "title": "'국민생선' 고등어 수급 위기…올해 노르웨이산 공급 '반토막'",
+      "link": "https://www.yna.co.kr/view/AKR20260102145100030",
+      "pubDate": "Sun, 4 Jan 2026 06:31:00 +0900"
+    },
+    {
+      "title": "트럼프가 바꾼 수출 지도…美·中 의존 낮아지고 시장 다변화",
+      "link": "https://www.yna.co.kr/view/AKR20260103031100003",
+      "pubDate": "Sun, 4 Jan 2026 06:30:01 +0900"
+    },
     {
       "title": "유통가, 쿠팡發 지각변동 시작되나…새해 불붙는 '2위권 경쟁'",
       "link": "https://www.yna.co.kr/view/AKR20260102124900030",
@@ -102,56 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260103020200011",
       "pubDate": "Sat, 3 Jan 2026 10:30:00 +0900"
-    },
-    {
-      "title": "경남 15개 공기업·출연기관, 2·7월에 정규직 사원 통합채용",
-      "link": "https://www.yna.co.kr/view/AKR20260102050900052",
-      "pubDate": "Sat, 3 Jan 2026 09:15:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 경상흑자 다시 늘었나…포용금융 본격 논의도",
-      "link": "https://www.yna.co.kr/view/AKR20260103014000002",
-      "pubDate": "Sat, 3 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "[머니플로우] 코스피 고공행진에 주식형 펀드 수익률도 국내가 해외 압도",
-      "link": "https://www.yna.co.kr/view/AKR20260102080400008",
-      "pubDate": "Sat, 3 Jan 2026 08:00:03 +0900"
-    },
-    {
-      "title": "[이번주뭘살까] 백화점들, 정기세일 돌입…대형마트는 새해 먹거리 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260102106000030",
-      "pubDate": "Sat, 3 Jan 2026 07:00:05 +0900"
-    },
-    {
-      "title": "[금주핫템] LG생활건강 '닥터그루트 키트'·오설록 '무자기 협업 티웨어'",
-      "link": "https://www.yna.co.kr/view/AKR20251230028800030",
-      "pubDate": "Sat, 3 Jan 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[신상잇슈] 뚜레쥬르 '유니콘 드림 케이크'·배스킨라빈스 '베리굿'",
-      "link": "https://www.yna.co.kr/view/AKR20260102039600030",
-      "pubDate": "Sat, 3 Jan 2026 07:00:02 +0900"
-    },
-    {
-      "title": "주유소 기름값 4주 연속 하락…\"다음 주도 하락 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260102126300003",
-      "pubDate": "Sat, 3 Jan 2026 06:01:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 새해 분양시장 개막…첫 주는 한산",
-      "link": "https://www.yna.co.kr/view/AKR20260102141600003",
-      "pubDate": "Sat, 3 Jan 2026 06:00:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 트럼프, 이란 정국 개입 엄포에 급변동…WTI 0.1%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260103005100009",
-      "pubDate": "Sat, 3 Jan 2026 05:59:56 +0900"
-    },
-    {
-      "title": "달러-원, 거래량 빈곤 속 '게걸음'…1,444.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260103002400002",
-      "pubDate": "Sat, 3 Jan 2026 02:33:05 +0900"
     }
   ]
 }
