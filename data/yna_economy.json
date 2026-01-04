@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767483194,
+  "updated_at_unix": 1767500184,
   "items": [
+    {
+      "title": "신동빈 롯데 회장, 15일 사장단회의…새해 경영 전략 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260104024400030",
+      "pubDate": "Sun, 4 Jan 2026 12:55:39 +0900"
+    },
+    {
+      "title": "세종지역 고용지표 악화…임시근로자·고용 없는 자영업자 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260104023900063",
+      "pubDate": "Sun, 4 Jan 2026 12:23:10 +0900"
+    },
+    {
+      "title": "중진공, 창업·진흥기금 11조5천억원 확정…성장·수출·AI 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260103022900030",
+      "pubDate": "Sun, 4 Jan 2026 12:00:05 +0900"
+    },
+    {
+      "title": "공정위 '장학금 효과 허위·과장' 야나두에 과태료 500만원",
+      "link": "https://www.yna.co.kr/view/AKR20260103035000002",
+      "pubDate": "Sun, 4 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "\"韓 경제 3%대 성장 당분간 힘들어…주가 상승에 소비회복 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260103031700002",
+      "pubDate": "Sun, 4 Jan 2026 11:00:03 +0900"
+    },
+    {
+      "title": "국토부, 美 수주지원단 파견…정책금융 등 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260104006800003",
+      "pubDate": "Sun, 4 Jan 2026 11:00:02 +0900"
+    },
+    {
+      "title": "가축분뇨 에너지로 활용 '저탄소 축산지구'에 포천·김제·영천",
+      "link": "https://www.yna.co.kr/view/AKR20260104015200030",
+      "pubDate": "Sun, 4 Jan 2026 11:00:01 +0900"
+    },
+    {
+      "title": "[게시판] 코트라, ESG 경영강화 '성과'…작년 포상·인증 14건",
+      "link": "https://www.yna.co.kr/view/AKR20260104015800003",
+      "pubDate": "Sun, 4 Jan 2026 11:00:01 +0900"
+    },
+    {
+      "title": "농식품부, AX 등 신규과제 R&D 456억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260104019100030",
+      "pubDate": "Sun, 4 Jan 2026 11:00:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260104016900011",
+      "pubDate": "Sun, 4 Jan 2026 10:30:01 +0900"
+    },
+    {
+      "title": "태백시, 골목형 상점가 3곳 신규 지정…지역상권 활성화 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260102133800062",
+      "pubDate": "Sun, 4 Jan 2026 10:10:00 +0900"
+    },
+    {
+      "title": "대한민국 슈퍼리치들이 뽑은 올해 핵심 키워드는 'K.O.R.E.A.'",
+      "link": "https://www.yna.co.kr/view/AKR20260102094400008",
+      "pubDate": "Sun, 4 Jan 2026 10:00:01 +0900"
+    },
+    {
+      "title": "CU, 초저가 PB '득템시리즈' 1억개 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260104013500030",
+      "pubDate": "Sun, 4 Jan 2026 09:20:07 +0900"
+    },
+    {
+      "title": "이마트24, 토스페이 협업 '올데이 텐텐' 멤버십 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260104012400030",
+      "pubDate": "Sun, 4 Jan 2026 09:07:34 +0900"
+    },
+    {
+      "title": "CJ올리브영 '100억 클럽 브랜드' 116개…5년만에 세배로",
+      "link": "https://www.yna.co.kr/view/AKR20260104012100030",
+      "pubDate": "Sun, 4 Jan 2026 09:02:50 +0900"
+    },
+    {
+      "title": "대법 \"공인중개사, 다세대주택 공동근저당 설명 의무 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260103031300004",
+      "pubDate": "Sun, 4 Jan 2026 09:00:01 +0900"
+    },
+    {
+      "title": "[게시판] 우리금융, '소방 히어로' 가족 초청 오찬 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260102128100002",
+      "pubDate": "Sun, 4 Jan 2026 09:00:01 +0900"
+    },
+    {
+      "title": "[신년사] 김윤 삼양그룹 회장 \"글로벌 진출 속도낼 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260104010300030",
+      "pubDate": "Sun, 4 Jan 2026 09:00:00 +0900"
+    },
+    {
+      "title": "정부 규제에 경매는 과열…서울 아파트 낙찰가율 4년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260104011700003",
+      "pubDate": "Sun, 4 Jan 2026 08:44:36 +0900"
+    },
+    {
+      "title": "美필라델피아 연은총재 \"성장 양호시 연내 소폭 금리인하 적절\"",
+      "link": "https://www.yna.co.kr/view/AKR20260104010800072",
+      "pubDate": "Sun, 4 Jan 2026 08:37:17 +0900"
+    },
+    {
+      "title": "\"안전 강화하자\"는 건설사 요청 묵살한 관급공사 감리 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260102082500051",
+      "pubDate": "Sun, 4 Jan 2026 08:30:06 +0900"
+    },
     {
       "title": "부산 아파트 전셋값 상승폭 확대…매매가격도 상승랠리",
       "link": "https://www.yna.co.kr/view/AKR20260102109100051",
@@ -47,111 +152,6 @@
       "title": "치솟는 물가에 결국 백기…'착한밥집'들도 줄줄이 가격인상",
       "link": "https://www.yna.co.kr/view/AKR20260102137200004",
       "pubDate": "Sun, 4 Jan 2026 06:55:01 +0900"
-    },
-    {
-      "title": "'국민생선' 고등어 수급 위기…올해 노르웨이산 공급 '반토막'",
-      "link": "https://www.yna.co.kr/view/AKR20260102145100030",
-      "pubDate": "Sun, 4 Jan 2026 06:31:00 +0900"
-    },
-    {
-      "title": "트럼프가 바꾼 수출 지도…美·中 의존 낮아지고 시장 다변화",
-      "link": "https://www.yna.co.kr/view/AKR20260103031100003",
-      "pubDate": "Sun, 4 Jan 2026 06:30:01 +0900"
-    },
-    {
-      "title": "유통가, 쿠팡發 지각변동 시작되나…새해 불붙는 '2위권 경쟁'",
-      "link": "https://www.yna.co.kr/view/AKR20260102124900030",
-      "pubDate": "Sun, 4 Jan 2026 06:11:01 +0900"
-    },
-    {
-      "title": "중대재해법 양형 기준 설정될까…양형위 추가 선정 심의 상정",
-      "link": "https://www.yna.co.kr/view/AKR20260103035700530",
-      "pubDate": "Sun, 4 Jan 2026 06:06:00 +0900"
-    },
-    {
-      "title": "서울 20년 초과 장기 보유 집합건물 매도 작년 '역대 최다'",
-      "link": "https://www.yna.co.kr/view/AKR20260102157000003",
-      "pubDate": "Sun, 4 Jan 2026 06:01:00 +0900"
-    },
-    {
-      "title": "[현장] \"탈석탄 옳지만\" 태안화력 단계 폐지에 지역경제 불안",
-      "link": "https://www.yna.co.kr/view/AKR20260102114400063",
-      "pubDate": "Sun, 4 Jan 2026 06:00:05 +0900"
-    },
-    {
-      "title": "G마켓, 열흘간 '디지털·가전 빅세일…100만개 상품 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260102127500030",
-      "pubDate": "Sun, 4 Jan 2026 06:00:02 +0900"
-    },
-    {
-      "title": "롯데백화점, 병오년 맞아 'MOVE' 비주얼 테마 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260102130100030",
-      "pubDate": "Sun, 4 Jan 2026 06:00:02 +0900"
-    },
-    {
-      "title": "대형마트 판매, 13년여 전 강제휴무 도입 이래 최대 폭 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260103040500002",
-      "pubDate": "Sun, 4 Jan 2026 05:57:23 +0900"
-    },
-    {
-      "title": "주가조작에 더 세게…금감원 인지수사권·합동단 확대 첫발",
-      "link": "https://www.yna.co.kr/view/AKR20260103032600002",
-      "pubDate": "Sun, 4 Jan 2026 05:53:00 +0900"
-    },
-    {
-      "title": "정책펀드, 납입액 세 공제·배당 저율과세…국내전용 '신규 ISA'",
-      "link": "https://www.yna.co.kr/view/AKR20260103037500002",
-      "pubDate": "Sun, 4 Jan 2026 05:51:01 +0900"
-    },
-    {
-      "title": "쿠팡 \"상생상품\" 주장에도…당국, '고금리 대출' 검사 전환 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260103040900002",
-      "pubDate": "Sun, 4 Jan 2026 05:49:00 +0900"
-    },
-    {
-      "title": "식비 다음이 사교육비…다자녀 가구 월 61만원, 소비지출의 13%",
-      "link": "https://www.yna.co.kr/view/AKR20260103032400002",
-      "pubDate": "Sun, 4 Jan 2026 05:47:05 +0900"
-    },
-    {
-      "title": "10년새 사교육비 총액 60% 늘어…초등 1인당 44만원, 90%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260102158900002",
-      "pubDate": "Sun, 4 Jan 2026 05:47:00 +0900"
-    },
-    {
-      "title": "[5대 금융회장 전망] \"올해도 1,400원대 고환율…성장률 1%대 후반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260103032100002",
-      "pubDate": "Sun, 4 Jan 2026 05:45:08 +0900"
-    },
-    {
-      "title": "[5대 금융회장 전망] \"주가·환율 변동성 확대…이자 의존 줄이고 배당 늘린다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260103032700002",
-      "pubDate": "Sun, 4 Jan 2026 05:45:05 +0900"
-    },
-    {
-      "title": "[5대 금융회장 전망] \"가계대출, 실수요자 중심 2%안팎 증가 관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260103042000002",
-      "pubDate": "Sun, 4 Jan 2026 05:45:01 +0900"
-    },
-    {
-      "title": "전남도, 중소기업 육성자금 4천억원 금융 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260102122500054",
-      "pubDate": "Sat, 3 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게임위드인] PC·콘솔 다 오른다…AI가 부른 게임 가격 쇼크",
-      "link": "https://www.yna.co.kr/view/AKR20260102144800017",
-      "pubDate": "Sat, 3 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[부고] 신진창(금융위원회 사무처장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260103020900002",
-      "pubDate": "Sat, 3 Jan 2026 10:41:37 +0900"
-    },
-    {
-      "title": "[마이더스] 한 해의 세금을 설계하는 1월",
-      "link": "https://www.yna.co.kr/view/AKR20251231037800980",
-      "pubDate": "Sat, 3 Jan 2026 10:30:02 +0900"
     }
   ]
 }
