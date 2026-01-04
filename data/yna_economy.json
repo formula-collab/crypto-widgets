@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767500184,
+  "updated_at_unix": 1767505488,
   "items": [
+    {
+      "title": "美 경제석학 \"韓 원화가치 매우 저평가…향후 회복할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260104024800072",
+      "pubDate": "Sun, 4 Jan 2026 13:21:31 +0900"
+    },
     {
       "title": "신동빈 롯데 회장, 15일 사장단회의…새해 경영 전략 논의",
       "link": "https://www.yna.co.kr/view/AKR20260104024400030",
@@ -147,11 +152,6 @@
       "title": "[마켓인사이트] 새해 첫날 신기록 달성 코스피, 강세 이어갈까",
       "link": "https://www.yna.co.kr/view/AKR20260102159000008",
       "pubDate": "Sun, 4 Jan 2026 07:00:07 +0900"
-    },
-    {
-      "title": "치솟는 물가에 결국 백기…'착한밥집'들도 줄줄이 가격인상",
-      "link": "https://www.yna.co.kr/view/AKR20260102137200004",
-      "pubDate": "Sun, 4 Jan 2026 06:55:01 +0900"
     }
   ]
 }
