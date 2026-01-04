@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767509831,
+  "updated_at_unix": 1767512182,
   "items": [
+    {
+      "title": "이부진 호텔신라 사장 NBA 중계화면에…아들과 함께 미국서 휴가",
+      "link": "https://www.yna.co.kr/view/AKR20260104032800030",
+      "pubDate": "Sun, 4 Jan 2026 16:13:50 +0900"
+    },
+    {
+      "title": "李대통령 따라 재계총수들도 '방중'…최태원 \"성장 실마리 찾을 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260104031251003",
+      "pubDate": "Sun, 4 Jan 2026 15:55:45 +0900"
+    },
     {
       "title": "재계총수들 방중사절단 출국…최태원 \"좋은 성장 실마리 찾을 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260104031200003",
@@ -142,16 +152,6 @@
       "title": "작년 개미 '원픽'은 美S&P…ETF 시장, 해외지수가 이끌었다",
       "link": "https://www.yna.co.kr/view/AKR20260102124700008",
       "pubDate": "Sun, 4 Jan 2026 07:03:01 +0900"
-    },
-    {
-      "title": "K패션기업, 새해 해외사업 강화…'매장 늘리고 진출국 확대'",
-      "link": "https://www.yna.co.kr/view/AKR20260102105000030",
-      "pubDate": "Sun, 4 Jan 2026 07:01:02 +0900"
-    },
-    {
-      "title": "증권사들이 뽑은 이달의 '픽'은…반도체 소재 종목 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260102154000008",
-      "pubDate": "Sun, 4 Jan 2026 07:01:01 +0900"
     }
   ]
 }
