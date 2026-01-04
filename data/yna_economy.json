@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767526962,
+  "updated_at_unix": 1767534137,
   "items": [
+    {
+      "title": "국힘에 '살려달라'고 문자 메시지?…이혜훈측 \"전혀 사실 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260104044700002",
+      "pubDate": "Sun, 4 Jan 2026 21:01:00 +0900"
+    },
     {
       "title": "LGU+, 고객센터-멤버십 통합앱 출시 후 이용자 25% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260104043000017",
@@ -147,11 +152,6 @@
       "title": "부산 아파트 전셋값 상승폭 확대…매매가격도 상승랠리",
       "link": "https://www.yna.co.kr/view/AKR20260102109100051",
       "pubDate": "Sun, 4 Jan 2026 08:00:03 +0900"
-    },
-    {
-      "title": "벤처기업 10년, 무엇이 달라졌나…기술은 고도화·재무는 안정화",
-      "link": "https://www.yna.co.kr/view/AKR20260103022400030",
-      "pubDate": "Sun, 4 Jan 2026 07:15:01 +0900"
     }
   ]
 }
