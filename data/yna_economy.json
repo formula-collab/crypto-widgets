@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767519235,
+  "updated_at_unix": 1767523298,
   "items": [
+    {
+      "title": "베트남 동남신도시 조성사업 우선협상자에 현대건설 등 6곳",
+      "link": "https://www.yna.co.kr/view/AKR20260104042700003",
+      "pubDate": "Sun, 4 Jan 2026 19:33:42 +0900"
+    },
     {
       "title": "이부진 호텔신라 사장 NBA 중계화면에…아들과 함께 미국서 휴가",
       "link": "https://www.yna.co.kr/view/AKR20260104032800030",
@@ -147,11 +152,6 @@
       "title": "역대 코스닥 수익률 가장 높은 달은 1월…올해도 '1월 효과'?",
       "link": "https://www.yna.co.kr/view/AKR20260102157500008",
       "pubDate": "Sun, 4 Jan 2026 07:15:00 +0900"
-    },
-    {
-      "title": "작년 개미 '원픽'은 美S&P…ETF 시장, 해외지수가 이끌었다",
-      "link": "https://www.yna.co.kr/view/AKR20260102124700008",
-      "pubDate": "Sun, 4 Jan 2026 07:03:01 +0900"
     }
   ]
 }
