@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767566440,
+  "updated_at_unix": 1767569630,
   "items": [
+    {
+      "title": "한투증권 \"연초 증시 상승…1월 코스피 등락 범위 4,050∼4,450\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105019100008",
+      "pubDate": "Mon, 5 Jan 2026 08:28:44 +0900"
+    },
+    {
+      "title": "중진공, 12일부터 구조혁신지원사업 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260105020700030",
+      "pubDate": "Mon, 5 Jan 2026 08:28:18 +0900"
+    },
+    {
+      "title": "CU, 전국 소규모 양조장 수제맥주 '초신선 픽업' 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20260105019600030",
+      "pubDate": "Mon, 5 Jan 2026 08:18:15 +0900"
+    },
+    {
+      "title": "중기부-소진공, '스마트상점사업' 참가 기술 공급기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260105018500030",
+      "pubDate": "Mon, 5 Jan 2026 08:14:01 +0900"
+    },
+    {
+      "title": "메리츠證, 오늘부터 신규 개설 계좌에 美주식 무료 수수료 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260105017800008",
+      "pubDate": "Mon, 5 Jan 2026 08:08:00 +0900"
+    },
+    {
+      "title": "'무자본 갭투자'로 보증금 426억 꿀꺽 전세사기…1심 징역 10년",
+      "link": "https://www.yna.co.kr/view/AKR20260104032700004",
+      "pubDate": "Mon, 5 Jan 2026 08:00:02 +0900"
+    },
+    {
+      "title": "[마켓뷰] '새해 첫 거래일 대기록' 코스피, 오늘도 오를까",
+      "link": "https://www.yna.co.kr/view/AKR20260105014900008",
+      "pubDate": "Mon, 5 Jan 2026 07:58:25 +0900"
+    },
+    {
+      "title": "부산시, 고용노동부 워라밸 지수 전국 2위·특·광역시 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260105015800051",
+      "pubDate": "Mon, 5 Jan 2026 07:53:17 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260105011700011",
@@ -112,46 +152,6 @@
       "title": "세종지역 고용지표 악화…임시근로자·고용 없는 자영업자 증가",
       "link": "https://www.yna.co.kr/view/AKR20260104023900063",
       "pubDate": "Sun, 4 Jan 2026 12:23:10 +0900"
-    },
-    {
-      "title": "중진공, 창업·진흥기금 11조5천억원 확정…성장·수출·AI 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260103022900030",
-      "pubDate": "Sun, 4 Jan 2026 12:00:05 +0900"
-    },
-    {
-      "title": "공정위 '장학금 효과 허위·과장' 야나두에 과태료 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260103035000002",
-      "pubDate": "Sun, 4 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"韓 경제 3%대 성장 당분간 힘들어…주가 상승에 소비회복 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260103031700002",
-      "pubDate": "Sun, 4 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "국토부, 美 수주지원단 파견…정책금융 등 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260104006800003",
-      "pubDate": "Sun, 4 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "가축분뇨 에너지로 활용 '저탄소 축산지구'에 포천·김제·영천",
-      "link": "https://www.yna.co.kr/view/AKR20260104015200030",
-      "pubDate": "Sun, 4 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, ESG 경영강화 '성과'…작년 포상·인증 14건",
-      "link": "https://www.yna.co.kr/view/AKR20260104015800003",
-      "pubDate": "Sun, 4 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "농식품부, AX 등 신규과제 R&D 456억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260104019100030",
-      "pubDate": "Sun, 4 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260104016900011",
-      "pubDate": "Sun, 4 Jan 2026 10:30:01 +0900"
     }
   ]
 }
