@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767562360,
+  "updated_at_unix": 1767566440,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260105011700011",
+      "pubDate": "Mon, 5 Jan 2026 07:30:10 +0900"
+    },
+    {
+      "title": "[다문화 3.0] \"공장 60곳 문전박대 끝에 탄생\"…한글과자 만든 외국인",
+      "link": "https://www.yna.co.kr/view/AKR20260102107300371",
+      "pubDate": "Mon, 5 Jan 2026 07:00:08 +0900"
+    },
+    {
+      "title": "[AI돋보기] \"다룰 사람이 없다\"…텅 빈 한국 AI 두뇌",
+      "link": "https://www.yna.co.kr/view/AKR20260102092200017",
+      "pubDate": "Mon, 5 Jan 2026 06:33:04 +0900"
+    },
     {
       "title": "中 희토류 등 수출통제 강화 후 작년 상반기 위반 처벌 72%↑",
       "link": "https://www.yna.co.kr/view/AKR20260104035200003",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260104016900011",
       "pubDate": "Sun, 4 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "태백시, 골목형 상점가 3곳 신규 지정…지역상권 활성화 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260102133800062",
-      "pubDate": "Sun, 4 Jan 2026 10:10:00 +0900"
-    },
-    {
-      "title": "대한민국 슈퍼리치들이 뽑은 올해 핵심 키워드는 'K.O.R.E.A.'",
-      "link": "https://www.yna.co.kr/view/AKR20260102094400008",
-      "pubDate": "Sun, 4 Jan 2026 10:00:01 +0900"
-    },
-    {
-      "title": "CU, 초저가 PB '득템시리즈' 1억개 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260104013500030",
-      "pubDate": "Sun, 4 Jan 2026 09:20:07 +0900"
     }
   ]
 }
