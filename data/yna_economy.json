@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767523298,
+  "updated_at_unix": 1767526131,
   "items": [
+    {
+      "title": "LGU+, 고객센터-멤버십 통합앱 출시 후 이용자 25% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260104043000017",
+      "pubDate": "Sun, 4 Jan 2026 20:05:46 +0900"
+    },
     {
       "title": "베트남 동남신도시 조성사업 우선협상자에 현대건설 등 6곳",
       "link": "https://www.yna.co.kr/view/AKR20260104042700003",
@@ -147,11 +152,6 @@
       "title": "벤처기업 10년, 무엇이 달라졌나…기술은 고도화·재무는 안정화",
       "link": "https://www.yna.co.kr/view/AKR20260103022400030",
       "pubDate": "Sun, 4 Jan 2026 07:15:01 +0900"
-    },
-    {
-      "title": "역대 코스닥 수익률 가장 높은 달은 1월…올해도 '1월 효과'?",
-      "link": "https://www.yna.co.kr/view/AKR20260102157500008",
-      "pubDate": "Sun, 4 Jan 2026 07:15:00 +0900"
     }
   ]
 }
