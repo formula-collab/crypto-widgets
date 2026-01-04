@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767559229,
+  "updated_at_unix": 1767562360,
   "items": [
+    {
+      "title": "中 희토류 등 수출통제 강화 후 작년 상반기 위반 처벌 72%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260104035200003",
+      "pubDate": "Mon, 5 Jan 2026 06:15:01 +0900"
+    },
+    {
+      "title": "장애인 10명 중 3명만 일자리 있어…절반은 임금 월 200만원↓",
+      "link": "https://www.yna.co.kr/view/AKR20260104031700530",
+      "pubDate": "Mon, 5 Jan 2026 06:03:00 +0900"
+    },
+    {
+      "title": "\"코로나시기 워킹맘 워라밸 갈등, 일상회복 후에도 자녀에 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260102123200530",
+      "pubDate": "Mon, 5 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[이코노워치] 병오년 한국경제는 어떤 길을 걸을 것인가",
+      "link": "https://www.yna.co.kr/view/AKR20260102138800546",
+      "pubDate": "Mon, 5 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "APEC CEO 서밋 '예산 방만 지출' 논란…산업부, 대한상의 감사",
+      "link": "https://www.yna.co.kr/view/AKR20260104041100003",
+      "pubDate": "Mon, 5 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "주춤했던 카드론, 두 달 연속 증가…증가율 1년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260103032000002",
+      "pubDate": "Mon, 5 Jan 2026 05:57:00 +0900"
+    },
+    {
+      "title": "서울 주담대 상환 부담 3분기 만에↑…지역별 양극화 뚜렷",
+      "link": "https://www.yna.co.kr/view/AKR20260104036700002",
+      "pubDate": "Mon, 5 Jan 2026 05:55:01 +0900"
+    },
+    {
+      "title": "당국 \"시간 줬는데도 증자 못해\"…'적기시정조치' 롯데손보 질책",
+      "link": "https://www.yna.co.kr/view/AKR20260103040700002",
+      "pubDate": "Mon, 5 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "대법 간 판매촉진비·장려금…쿠팡, 전 대법관·김앤장 '방패막'",
+      "link": "https://www.yna.co.kr/view/AKR20260104029400002",
+      "pubDate": "Mon, 5 Jan 2026 05:51:03 +0900"
+    },
     {
       "title": "국힘에 '살려달라'고 문자 메시지?…이혜훈측 \"전혀 사실 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20260104044700002",
@@ -107,51 +152,6 @@
       "title": "CU, 초저가 PB '득템시리즈' 1억개 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260104013500030",
       "pubDate": "Sun, 4 Jan 2026 09:20:07 +0900"
-    },
-    {
-      "title": "이마트24, 토스페이 협업 '올데이 텐텐' 멤버십 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260104012400030",
-      "pubDate": "Sun, 4 Jan 2026 09:07:34 +0900"
-    },
-    {
-      "title": "CJ올리브영 '100억 클럽 브랜드' 116개…5년만에 세배로",
-      "link": "https://www.yna.co.kr/view/AKR20260104012100030",
-      "pubDate": "Sun, 4 Jan 2026 09:02:50 +0900"
-    },
-    {
-      "title": "대법 \"공인중개사, 다세대주택 공동근저당 설명 의무 있어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260103031300004",
-      "pubDate": "Sun, 4 Jan 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 우리금융, '소방 히어로' 가족 초청 오찬 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260102128100002",
-      "pubDate": "Sun, 4 Jan 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[신년사] 김윤 삼양그룹 회장 \"글로벌 진출 속도낼 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260104010300030",
-      "pubDate": "Sun, 4 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "정부 규제에 경매는 과열…서울 아파트 낙찰가율 4년 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260104011700003",
-      "pubDate": "Sun, 4 Jan 2026 08:44:36 +0900"
-    },
-    {
-      "title": "美필라델피아 연은총재 \"성장 양호시 연내 소폭 금리인하 적절\"",
-      "link": "https://www.yna.co.kr/view/AKR20260104010800072",
-      "pubDate": "Sun, 4 Jan 2026 08:37:17 +0900"
-    },
-    {
-      "title": "\"안전 강화하자\"는 건설사 요청 묵살한 관급공사 감리 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260102082500051",
-      "pubDate": "Sun, 4 Jan 2026 08:30:06 +0900"
-    },
-    {
-      "title": "부산 아파트 전셋값 상승폭 확대…매매가격도 상승랠리",
-      "link": "https://www.yna.co.kr/view/AKR20260102109100051",
-      "pubDate": "Sun, 4 Jan 2026 08:00:03 +0900"
     }
   ]
 }
