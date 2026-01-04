@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767505488,
+  "updated_at_unix": 1767509831,
   "items": [
+    {
+      "title": "재계총수들 방중사절단 출국…최태원 \"좋은 성장 실마리 찾을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260104031200003",
+      "pubDate": "Sun, 4 Jan 2026 15:19:56 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260104029200011",
+      "pubDate": "Sun, 4 Jan 2026 15:00:00 +0900"
+    },
     {
       "title": "美 경제석학 \"韓 원화가치 매우 저평가…향후 회복할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260104024800072",
@@ -142,16 +152,6 @@
       "title": "증권사들이 뽑은 이달의 '픽'은…반도체 소재 종목 주목",
       "link": "https://www.yna.co.kr/view/AKR20260102154000008",
       "pubDate": "Sun, 4 Jan 2026 07:01:01 +0900"
-    },
-    {
-      "title": "경기도, 법무부와 협업해 '국적 변경 체납자' 17명 7천만원 징수",
-      "link": "https://www.yna.co.kr/view/AKR20260102109400061",
-      "pubDate": "Sun, 4 Jan 2026 07:00:15 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 새해 첫날 신기록 달성 코스피, 강세 이어갈까",
-      "link": "https://www.yna.co.kr/view/AKR20260102159000008",
-      "pubDate": "Sun, 4 Jan 2026 07:00:07 +0900"
     }
   ]
 }
