@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767612905,
+  "updated_at_unix": 1767621191,
   "items": [
+    {
+      "title": "충주·익산 가금농장서 고병원성 AI 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260105150800030",
+      "pubDate": "Mon, 5 Jan 2026 20:58:39 +0900"
+    },
+    {
+      "title": "관세청, 中관세당국과 '국경단계 지식재산권 보호' MOU체결",
+      "link": "https://www.yna.co.kr/view/AKR20260105149700002",
+      "pubDate": "Mon, 5 Jan 2026 20:57:52 +0900"
+    },
+    {
+      "title": "'냉장 병어' 등 수산물 중국 수출길 열려…검역협상 타결",
+      "link": "https://www.yna.co.kr/view/AKR20260105150200030",
+      "pubDate": "Mon, 5 Jan 2026 20:43:42 +0900"
+    },
     {
       "title": "韓中 산업 당국, 장관급 정례협의체 구축…산단 협력 강화 'MOU'",
       "link": "https://www.yna.co.kr/view/AKR20260105149500003",
@@ -137,21 +152,6 @@
       "title": "한화오션 상생협력 선포식…\"경영성과 원하청 차별 없이 공유\"",
       "link": "https://www.yna.co.kr/view/AKR20260105124100003",
       "pubDate": "Mon, 5 Jan 2026 16:33:59 +0900"
-    },
-    {
-      "title": "르노코리아, 작년 8만8천44대 판매…전년보다 17.7% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260105121600003",
-      "pubDate": "Mon, 5 Jan 2026 16:22:45 +0900"
-    },
-    {
-      "title": "청주 시외버스터미널 낙찰자 나올까…현대화사업까지 절차는",
-      "link": "https://www.yna.co.kr/view/AKR20260105107700064",
-      "pubDate": "Mon, 5 Jan 2026 16:17:37 +0900"
-    },
-    {
-      "title": "[특징주] 현대오토에버, 'CES 2026' 개막 앞두고 6% 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105036051008",
-      "pubDate": "Mon, 5 Jan 2026 16:13:32 +0900"
     }
   ]
 }
