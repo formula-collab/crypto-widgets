@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767610422,
+  "updated_at_unix": 1767612905,
   "items": [
+    {
+      "title": "韓中 산업 당국, 장관급 정례협의체 구축…산단 협력 강화 'MOU'",
+      "link": "https://www.yna.co.kr/view/AKR20260105149500003",
+      "pubDate": "Mon, 5 Jan 2026 20:17:26 +0900"
+    },
+    {
+      "title": "K-푸드 중국 수출 문턱 낮아진다…한중 식품안전 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260105148700017",
+      "pubDate": "Mon, 5 Jan 2026 20:08:30 +0900"
+    },
+    {
+      "title": "중기부, 중국과 중소기업·스타트업 협력 확대…양해각서 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260105148000030",
+      "pubDate": "Mon, 5 Jan 2026 20:02:45 +0900"
+    },
+    {
+      "title": "과기부 \"한중 과학기술·디지털 협력 확대 기반 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105147900017",
+      "pubDate": "Mon, 5 Jan 2026 19:55:55 +0900"
+    },
     {
       "title": "'피자헛 차액가맹금' 판결 나온다…다른 브랜드 소송 향방 주목",
       "link": "https://www.yna.co.kr/view/AKR20260105144400030",
@@ -132,26 +152,6 @@
       "title": "[특징주] 현대오토에버, 'CES 2026' 개막 앞두고 6% 급락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260105036051008",
       "pubDate": "Mon, 5 Jan 2026 16:13:32 +0900"
-    },
-    {
-      "title": "코스피, 3.4% 올라 사상 첫 4,400대 돌파…코스닥 4년만 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105119000008",
-      "pubDate": "Mon, 5 Jan 2026 16:08:44 +0900"
-    },
-    {
-      "title": "외국인 2.2조 순매수에도…환율 2.0원 오른 1,443.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260105117500002",
-      "pubDate": "Mon, 5 Jan 2026 16:05:53 +0900"
-    },
-    {
-      "title": "[특징주] 두산에너빌리티 10%대 급등…국내 원전주 일제 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105070051008",
-      "pubDate": "Mon, 5 Jan 2026 16:04:32 +0900"
-    },
-    {
-      "title": "KGM 작년 11만535대 판매, 1%↑…수출 12.7% 늘어 11년만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260105118400003",
-      "pubDate": "Mon, 5 Jan 2026 16:04:09 +0900"
     }
   ]
 }
