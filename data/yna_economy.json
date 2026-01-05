@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767653051,
+  "updated_at_unix": 1767656118,
   "items": [
+    {
+      "title": "세븐일레븐, 최강록 셰프 협업 전통주 '네오25화이트' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260106024400030",
+      "pubDate": "Tue, 6 Jan 2026 08:25:15 +0900"
+    },
+    {
+      "title": "SK온·SK이노베이션, 화재 걱정 없는 ESS 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260105145200003",
+      "pubDate": "Tue, 6 Jan 2026 08:15:01 +0900"
+    },
+    {
+      "title": "CU, '마카롱부터 오믈렛까지' 딸기 디저트 7종 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260106022200030",
+      "pubDate": "Tue, 6 Jan 2026 08:09:58 +0900"
+    },
+    {
+      "title": "한투증권 \"한은, 상반기까지 금리 동결…7월 25bp 인하 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106021900008",
+      "pubDate": "Tue, 6 Jan 2026 08:09:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 미국발 훈풍 힘입어 4,500선도 넘어설까",
+      "link": "https://www.yna.co.kr/view/AKR20260106019000008",
+      "pubDate": "Tue, 6 Jan 2026 08:05:58 +0900"
+    },
+    {
+      "title": "부산시, 무주택 청년 임차보증금 대출 지원 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260106019400051",
+      "pubDate": "Tue, 6 Jan 2026 08:00:28 +0900"
+    },
+    {
+      "title": "[CES 2026] 성능·휴대성·디자인 다잡은 삼성전자 '갤럭시 북6' 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260105072300003",
+      "pubDate": "Tue, 6 Jan 2026 08:00:05 +0900"
+    },
+    {
+      "title": "[CES 2026] K팝 그룹 라이즈와 함께 한 삼성전자 '일상 속 AI'",
+      "link": "https://www.yna.co.kr/view/AKR20260106005800003",
+      "pubDate": "Tue, 6 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "title": "엑스큐어, 60억원 유상증자…레이투자조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260106018600008",
+      "pubDate": "Tue, 6 Jan 2026 07:42:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260106015600011",
@@ -107,51 +152,6 @@
       "title": "르노코리아, 플래그십 크로스오버 '필랑트' 13일 최초 공개",
       "link": "https://www.yna.co.kr/view/AKR20260105139700003",
       "pubDate": "Mon, 5 Jan 2026 18:04:59 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260105132300011",
-      "pubDate": "Mon, 5 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "지난해 국내 완성차 5개사 판매량 2년째 800만대 소폭 밑돌아",
-      "link": "https://www.yna.co.kr/view/AKR20260105138400003",
-      "pubDate": "Mon, 5 Jan 2026 17:56:45 +0900"
-    },
-    {
-      "title": "HD한국조선해양, 올해 수주목표 233.1억달러…작년比 29.1%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260105137600003",
-      "pubDate": "Mon, 5 Jan 2026 17:52:44 +0900"
-    },
-    {
-      "title": "강원도, 벤처펀드 운용사 4곳 선정…\"신생기업도 투자 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105136700062",
-      "pubDate": "Mon, 5 Jan 2026 17:47:52 +0900"
-    },
-    {
-      "title": "신세계-알리바바, '수출 확대' MOU…\"5년내 연 1조원 역직구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105132900030",
-      "pubDate": "Mon, 5 Jan 2026 17:26:27 +0900"
-    },
-    {
-      "title": "국토1차관 \"주택공급추진본부 신설…공급대책 속도감 있게 이행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105134300003",
-      "pubDate": "Mon, 5 Jan 2026 17:24:44 +0900"
-    },
-    {
-      "title": "'새해 첫 입찰일' 국고채 금리 대체로 상승…3년물 연 2.933%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105126951008",
-      "pubDate": "Mon, 5 Jan 2026 17:21:28 +0900"
-    },
-    {
-      "title": "전남도, 지역사랑상품권 2천500억원 발행…할인율 최대 12%",
-      "link": "https://www.yna.co.kr/view/AKR20260105131600054",
-      "pubDate": "Mon, 5 Jan 2026 17:15:16 +0900"
-    },
-    {
-      "title": "이찬진 '부패한 이너서클' 직격…\"연임에 후보군도 '골동품' 돼\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260105077552002",
-      "pubDate": "Mon, 5 Jan 2026 17:10:24 +0900"
     }
   ]
 }
