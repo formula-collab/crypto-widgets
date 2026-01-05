@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767599660,
+  "updated_at_unix": 1767603610,
   "items": [
+    {
+      "title": "HD한국조선해양, 올해 수주목표 233.1억달러…작년比 29.1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260105137600003",
+      "pubDate": "Mon, 5 Jan 2026 17:52:44 +0900"
+    },
+    {
+      "title": "강원도, 벤처펀드 운용사 4곳 선정…\"신생기업도 투자 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105136700062",
+      "pubDate": "Mon, 5 Jan 2026 17:47:52 +0900"
+    },
+    {
+      "title": "신세계-알리바바, '수출 확대' MOU…\"5년내 연 1조원 역직구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105132900030",
+      "pubDate": "Mon, 5 Jan 2026 17:26:27 +0900"
+    },
+    {
+      "title": "국토1차관 \"주택공급추진본부 신설…공급대책 속도감 있게 이행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105134300003",
+      "pubDate": "Mon, 5 Jan 2026 17:24:44 +0900"
+    },
+    {
+      "title": "'새해 첫 입찰일' 국고채 금리 대체로 상승…3년물 연 2.933%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260105126951008",
+      "pubDate": "Mon, 5 Jan 2026 17:21:28 +0900"
+    },
+    {
+      "title": "전남도, 지역사랑상품권 2천500억원 발행…할인율 최대 12%",
+      "link": "https://www.yna.co.kr/view/AKR20260105131600054",
+      "pubDate": "Mon, 5 Jan 2026 17:15:16 +0900"
+    },
+    {
+      "title": "이찬진 '부패한 이너서클' 직격…\"연임에 후보군도 '골동품' 돼\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260105077552002",
+      "pubDate": "Mon, 5 Jan 2026 17:10:24 +0900"
+    },
+    {
+      "title": "한국GM, 지난해 46만2천310대 판매…전년보다 7.5% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260105130500003",
+      "pubDate": "Mon, 5 Jan 2026 17:07:12 +0900"
+    },
+    {
+      "title": "[美 마두로 축출] 국제 유가 잠잠한 이유는(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260105062051009",
+      "pubDate": "Mon, 5 Jan 2026 17:06:14 +0900"
+    },
+    {
+      "title": "IR큐더스, 법무법인 율촌과 주주 커뮤니케이션 협업 강화 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260105129900008",
+      "pubDate": "Mon, 5 Jan 2026 17:01:38 +0900"
+    },
     {
       "title": "국고채 금리 대체로 상승…3년물 연 2.933%",
       "link": "https://www.yna.co.kr/view/AKR20260105126900008",
@@ -102,56 +152,6 @@
       "title": "코스피, 사상 첫 4,400대 마감…코스닥 4년만 최고",
       "link": "https://www.yna.co.kr/view/AKR20260105113900008",
       "pubDate": "Mon, 5 Jan 2026 15:38:30 +0900"
-    },
-    {
-      "title": "외국환시세(1월5일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260105113500002",
-      "pubDate": "Mon, 5 Jan 2026 15:35:14 +0900"
-    },
-    {
-      "title": "노동장관 \"쿠팡 고쳐쓸 수 있겠나 생각…문제 원인 인식해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105108000530",
-      "pubDate": "Mon, 5 Jan 2026 15:32:55 +0900"
-    },
-    {
-      "title": "올겨울 고병원성 AI '비상'…산란계 농장 2주간 특별관리",
-      "link": "https://www.yna.co.kr/view/AKR20260105111500030",
-      "pubDate": "Mon, 5 Jan 2026 15:31:21 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.0원 오른 1,443.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260105112400002",
-      "pubDate": "Mon, 5 Jan 2026 15:30:15 +0900"
-    },
-    {
-      "title": "정일선 광주은행장, 산업현장 찾아 애로 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260105111700054",
-      "pubDate": "Mon, 5 Jan 2026 15:28:41 +0900"
-    },
-    {
-      "title": "부산은행, 햇살론 특례·햇살론 일반 출시…금리 인하",
-      "link": "https://www.yna.co.kr/view/AKR20260105110300051",
-      "pubDate": "Mon, 5 Jan 2026 15:25:15 +0900"
-    },
-    {
-      "title": "[게시판] 생명보험재단, 상무이사에 정우철 전 교보생명 상무 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260105110100002",
-      "pubDate": "Mon, 5 Jan 2026 15:22:34 +0900"
-    },
-    {
-      "title": "광명시, '공동주택 리모델링 기본계획' 고시…노후주택 정비",
-      "link": "https://www.yna.co.kr/view/AKR20260105106600061",
-      "pubDate": "Mon, 5 Jan 2026 15:07:05 +0900"
-    },
-    {
-      "title": "일본은행 총재, 정책금리 인상 기조 유지 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260105104300009",
-      "pubDate": "Mon, 5 Jan 2026 15:04:46 +0900"
-    },
-    {
-      "title": "박완수 \"근본과 기본 다하는 책임행정하겠다\"…신년인사회",
-      "link": "https://www.yna.co.kr/view/AKR20260105104200052",
-      "pubDate": "Mon, 5 Jan 2026 15:02:32 +0900"
     }
   ]
 }
