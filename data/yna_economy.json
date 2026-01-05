@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767603610,
+  "updated_at_unix": 1767607014,
   "items": [
+    {
+      "title": "더코디, 10억원 유상증자…이석산업개발주식회사에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260105141300008",
+      "pubDate": "Mon, 5 Jan 2026 18:50:05 +0900"
+    },
+    {
+      "title": "미래산업, 50억원 유상증자…로아앤코홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260105139500008",
+      "pubDate": "Mon, 5 Jan 2026 18:48:55 +0900"
+    },
+    {
+      "title": "광무 \"대진첨단소재 주식 129억원어치 취득…지분율 16.7%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105139000008",
+      "pubDate": "Mon, 5 Jan 2026 18:48:16 +0900"
+    },
+    {
+      "title": "미래산업, 65억원 유상증자…넥스턴앤롤코리아에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260105138800008",
+      "pubDate": "Mon, 5 Jan 2026 18:47:40 +0900"
+    },
+    {
+      "title": "성호전자 \"자회사 어매이징홀딩스 주식 700억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260105138600008",
+      "pubDate": "Mon, 5 Jan 2026 18:46:42 +0900"
+    },
+    {
+      "title": "르노코리아, 플래그십 크로스오버 '필랑트' 13일 최초 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260105139700003",
+      "pubDate": "Mon, 5 Jan 2026 18:04:59 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260105132300011",
+      "pubDate": "Mon, 5 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "지난해 국내 완성차 5개사 판매량 2년째 800만대 소폭 밑돌아",
+      "link": "https://www.yna.co.kr/view/AKR20260105138400003",
+      "pubDate": "Mon, 5 Jan 2026 17:56:45 +0900"
+    },
     {
       "title": "HD한국조선해양, 올해 수주목표 233.1억달러…작년比 29.1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260105137600003",
@@ -112,46 +152,6 @@
       "title": "새해부터 연일 불장 코스피…일각선 \"1분기 오천피 진입\" 전망도(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260105087551008",
       "pubDate": "Mon, 5 Jan 2026 16:02:13 +0900"
-    },
-    {
-      "title": "공정거래정책자문단에 박상인 서울대 교수 등 37명 위촉",
-      "link": "https://www.yna.co.kr/view/AKR20260105106200002",
-      "pubDate": "Mon, 5 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] '14만전자' 근접한 삼전…하이닉스는 '70만닉스' 터치(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105030951008",
-      "pubDate": "Mon, 5 Jan 2026 15:55:20 +0900"
-    },
-    {
-      "title": "[CES 2026] 대한상의, CES에 참관단 파견…글로벌 트렌드 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260105114000003",
-      "pubDate": "Mon, 5 Jan 2026 15:55:08 +0900"
-    },
-    {
-      "title": "\"거제남부관광단지 대흥란 시범 이식 전문가, 연구 실적 전무\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105114600052",
-      "pubDate": "Mon, 5 Jan 2026 15:53:16 +0900"
-    },
-    {
-      "title": "한국기술교육대 취업률 82.8%…전국 4년제 대학 중 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260105114200063",
-      "pubDate": "Mon, 5 Jan 2026 15:49:28 +0900"
-    },
-    {
-      "title": "韓中 기업들, 비즈니스 포럼 계기 MOU 총 9건…\"경협 탄력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260105115200003",
-      "pubDate": "Mon, 5 Jan 2026 15:46:01 +0900"
-    },
-    {
-      "title": "\"AI 전환해 울산경제 새 시대 열자\"…울산상의 신년인사회",
-      "link": "https://www.yna.co.kr/view/AKR20260105115600057",
-      "pubDate": "Mon, 5 Jan 2026 15:45:49 +0900"
-    },
-    {
-      "title": "코스피, 사상 첫 4,400대 마감…코스닥 4년만 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260105113900008",
-      "pubDate": "Mon, 5 Jan 2026 15:38:30 +0900"
     }
   ]
 }
