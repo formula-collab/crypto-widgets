@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767607014,
+  "updated_at_unix": 1767610422,
   "items": [
+    {
+      "title": "'피자헛 차액가맹금' 판결 나온다…다른 브랜드 소송 향방 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260105144400030",
+      "pubDate": "Mon, 5 Jan 2026 19:13:45 +0900"
+    },
     {
       "title": "더코디, 10억원 유상증자…이석산업개발주식회사에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260105141300008",
@@ -147,11 +152,6 @@
       "title": "KGM 작년 11만535대 판매, 1%↑…수출 12.7% 늘어 11년만에 최대",
       "link": "https://www.yna.co.kr/view/AKR20260105118400003",
       "pubDate": "Mon, 5 Jan 2026 16:04:09 +0900"
-    },
-    {
-      "title": "새해부터 연일 불장 코스피…일각선 \"1분기 오천피 진입\" 전망도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105087551008",
-      "pubDate": "Mon, 5 Jan 2026 16:02:13 +0900"
     }
   ]
 }
