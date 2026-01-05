@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767645948,
+  "updated_at_unix": 1767649127,
   "items": [
+    {
+      "title": "한경협-게이단렌-동서대, '지역발전과 한일 파트너십' 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260105099400003",
+      "pubDate": "Tue, 6 Jan 2026 06:00:09 +0900"
+    },
+    {
+      "title": "작년말 외환보유액 4천281억달러…환율관리 등에 26억달러↓",
+      "link": "https://www.yna.co.kr/view/AKR20260105121800002",
+      "pubDate": "Tue, 6 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 마두로 축출로 촉발된 불확실성…WTI 1.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260106006900009",
+      "pubDate": "Tue, 6 Jan 2026 05:42:16 +0900"
+    },
     {
       "title": "달러-원, 美 제조업 경기 부진에 상승폭 줄여…1,455.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260106003300002",
@@ -137,21 +152,6 @@
       "title": "[美 마두로 축출] 국제 유가 잠잠한 이유는(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260105062051009",
       "pubDate": "Mon, 5 Jan 2026 17:06:14 +0900"
-    },
-    {
-      "title": "IR큐더스, 법무법인 율촌과 주주 커뮤니케이션 협업 강화 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260105129900008",
-      "pubDate": "Mon, 5 Jan 2026 17:01:38 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 2.933%",
-      "link": "https://www.yna.co.kr/view/AKR20260105126900008",
-      "pubDate": "Mon, 5 Jan 2026 16:45:55 +0900"
-    },
-    {
-      "title": "당진전통시장, 52년만에 재건축…내년 2월 준공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260105125900063",
-      "pubDate": "Mon, 5 Jan 2026 16:39:17 +0900"
     }
   ]
 }
