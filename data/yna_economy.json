@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767649127,
+  "updated_at_unix": 1767653051,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260106015600011",
+      "pubDate": "Tue, 6 Jan 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 필요할 때만 찾던 아프리카서, 함께 설계하는 아프리카로",
+      "link": "https://www.yna.co.kr/view/AKR20260102020900898",
+      "pubDate": "Tue, 6 Jan 2026 07:00:06 +0900"
+    },
     {
       "title": "한경협-게이단렌-동서대, '지역발전과 한일 파트너십' 세미나",
       "link": "https://www.yna.co.kr/view/AKR20260105099400003",
@@ -142,16 +152,6 @@
       "title": "이찬진 '부패한 이너서클' 직격…\"연임에 후보군도 '골동품' 돼\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260105077552002",
       "pubDate": "Mon, 5 Jan 2026 17:10:24 +0900"
-    },
-    {
-      "title": "한국GM, 지난해 46만2천310대 판매…전년보다 7.5% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260105130500003",
-      "pubDate": "Mon, 5 Jan 2026 17:07:12 +0900"
-    },
-    {
-      "title": "[美 마두로 축출] 국제 유가 잠잠한 이유는(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105062051009",
-      "pubDate": "Mon, 5 Jan 2026 17:06:14 +0900"
     }
   ]
 }
