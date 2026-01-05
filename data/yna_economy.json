@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767632119,
+  "updated_at_unix": 1767635123,
   "items": [
+    {
+      "title": "달러-원, 美 제조업 경기 부진에 상승폭 줄여…1,455.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260106003300002",
+      "pubDate": "Tue, 6 Jan 2026 02:22:01 +0900"
+    },
     {
       "title": "美투자 한국기업 '글로벌 최저한세' 부담 줄어든다",
       "link": "https://www.yna.co.kr/view/AKR20260105157500002",
@@ -147,11 +152,6 @@
       "title": "당진전통시장, 52년만에 재건축…내년 2월 준공 목표",
       "link": "https://www.yna.co.kr/view/AKR20260105125900063",
       "pubDate": "Mon, 5 Jan 2026 16:39:17 +0900"
-    },
-    {
-      "title": "aT, 식량 기후위기 컨트롤타워 '기후변화대응처' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260105122300030",
-      "pubDate": "Mon, 5 Jan 2026 16:38:18 +0900"
     }
   ]
 }
