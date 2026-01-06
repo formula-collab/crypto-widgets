@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767718714,
+  "updated_at_unix": 1767721675,
   "items": [
+    {
+      "title": "달러-원, 야간서 위험선호에 상승폭 축소 …1,447.10원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260107002500002",
+      "pubDate": "Wed, 7 Jan 2026 02:27:29 +0900"
+    },
     {
       "title": "'親트럼프' 美연준이사 \"금리가 경제 발목…올해 1%P 내려야\"",
       "link": "https://www.yna.co.kr/view/AKR20260107001100072",
@@ -147,11 +152,6 @@
       "title": "[특징주] 구글 딥마인드와 손잡은 현대차, 1%대 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106041551008",
       "pubDate": "Tue, 6 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "특구재단·자산관리공사, 경영 위기 특구기업 재도약 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260106139800063",
-      "pubDate": "Tue, 6 Jan 2026 15:57:02 +0900"
     }
   ]
 }
