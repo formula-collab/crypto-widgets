@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767739466,
+  "updated_at_unix": 1767742585,
   "items": [
+    {
+      "title": "당정 \"총수요 진작으로 민생경제 회복 총력…초혁신경제 가속화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107021700001",
+      "pubDate": "Wed, 7 Jan 2026 08:18:06 +0900"
+    },
+    {
+      "title": "신세계푸드, 신라명과와 베이커리 신제품 공동 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260107021200030",
+      "pubDate": "Wed, 7 Jan 2026 08:16:59 +0900"
+    },
+    {
+      "title": "무신사 뷰티에 메이크업 브랜드 '맥' 입점…팝업 행사도",
+      "link": "https://www.yna.co.kr/view/AKR20260107021600030",
+      "pubDate": "Wed, 7 Jan 2026 08:14:50 +0900"
+    },
+    {
+      "title": "수출입은행, 35억달러 규모 글로벌 채권 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260106156100002",
+      "pubDate": "Wed, 7 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] '연일 불장' 코스피, 오늘도 신고가 행진 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260107017500008",
+      "pubDate": "Wed, 7 Jan 2026 07:57:07 +0900"
+    },
+    {
+      "title": "미국 CES 2026 '통합 부산관' 운영…13개 기업 혁신상 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260107018100051",
+      "pubDate": "Wed, 7 Jan 2026 07:52:36 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260107013500011",
@@ -122,36 +152,6 @@
       "title": "이재명 대통령, 소비쿠폰 집행한 행안부에 '격려 피자'",
       "link": "https://www.yna.co.kr/view/AKR20260106145500530",
       "pubDate": "Tue, 6 Jan 2026 16:51:22 +0900"
-    },
-    {
-      "title": "반도체가 이끄는 코스피…사흘 연속 신고가에 4,500 고지 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106127151008",
-      "pubDate": "Tue, 6 Jan 2026 16:46:05 +0900"
-    },
-    {
-      "title": "코트라, 9년 만에 중국서 경제협력 행사…4천400만달러 계약성과",
-      "link": "https://www.yna.co.kr/view/AKR20260106147500003",
-      "pubDate": "Tue, 6 Jan 2026 16:45:24 +0900"
-    },
-    {
-      "title": "춘천시, 신년 사자성어 '승세등비'…\"기세 이어 결실로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106145800062",
-      "pubDate": "Tue, 6 Jan 2026 16:40:22 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 2.948%",
-      "link": "https://www.yna.co.kr/view/AKR20260106146600008",
-      "pubDate": "Tue, 6 Jan 2026 16:40:16 +0900"
-    },
-    {
-      "title": "\"역대급 실적기대\"…12%대 급등 미래에셋, 시총 16조 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106115251008",
-      "pubDate": "Tue, 6 Jan 2026 16:38:19 +0900"
-    },
-    {
-      "title": "국힘 \"재건축 지위 양도금지 시점, 재개발과 동일하게 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106141900001",
-      "pubDate": "Tue, 6 Jan 2026 16:31:11 +0900"
     }
   ]
 }
