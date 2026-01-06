@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767689883,
+  "updated_at_unix": 1767693030,
   "items": [
+    {
+      "title": "부동산R114 \"작년 서울아파트 시가총액 1천832조원…역대 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106160700003",
+      "pubDate": "Tue, 6 Jan 2026 18:23:13 +0900"
+    },
+    {
+      "title": "李대통령, '소비쿠폰' 행안부·'공공의료' 복지부에 격려 피자(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106145551530",
+      "pubDate": "Tue, 6 Jan 2026 18:22:34 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260106154800011",
+      "pubDate": "Tue, 6 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "경남은행·밀양시·경남신보, 소상공인 육성자금 확대 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260106154900052",
@@ -137,21 +152,6 @@
       "title": "코스피, 사흘째 올라 사상 처음 4,500대 돌파 마감",
       "link": "https://www.yna.co.kr/view/AKR20260106136900008",
       "pubDate": "Tue, 6 Jan 2026 15:36:46 +0900"
-    },
-    {
-      "title": "외국환시세(1월6일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260106137000002",
-      "pubDate": "Tue, 6 Jan 2026 15:35:12 +0900"
-    },
-    {
-      "title": "[동포의 창] 고려인 청년들, 모국서 요리·호텔업 배우며 취업 역량 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260106135400371",
-      "pubDate": "Tue, 6 Jan 2026 15:34:43 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.7원 오른 1,445.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260106135300002",
-      "pubDate": "Tue, 6 Jan 2026 15:30:14 +0900"
     }
   ]
 }
