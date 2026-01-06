@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767735524,
+  "updated_at_unix": 1767739466,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260107013500011",
+      "pubDate": "Wed, 7 Jan 2026 07:30:43 +0900"
+    },
     {
       "title": "'빅딜' 성사될까…한국 바이오, JPM 헬스케어 총출동",
       "link": "https://www.yna.co.kr/view/AKR20260106141600017",
@@ -147,11 +152,6 @@
       "title": "국힘 \"재건축 지위 양도금지 시점, 재개발과 동일하게 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260106141900001",
       "pubDate": "Tue, 6 Jan 2026 16:31:11 +0900"
-    },
-    {
-      "title": "소상공인연합회 \"쿠팡, 소상공인에게 피해 보상해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106142500030",
-      "pubDate": "Tue, 6 Jan 2026 16:29:25 +0900"
     }
   ]
 }
