@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767685832,
+  "updated_at_unix": 1767689883,
   "items": [
+    {
+      "title": "경남은행·밀양시·경남신보, 소상공인 육성자금 확대 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260106154900052",
+      "pubDate": "Tue, 6 Jan 2026 17:27:57 +0900"
+    },
+    {
+      "title": "중국계 자동차 부품사 화더코리아, 영천에 생산시설 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260106154700053",
+      "pubDate": "Tue, 6 Jan 2026 17:27:01 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 2.948%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106146651008",
+      "pubDate": "Tue, 6 Jan 2026 17:23:46 +0900"
+    },
+    {
+      "title": "[바이오스냅] 제이앤피메디, 연세대 바이오헬스기술지주와 임상 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260106152800017",
+      "pubDate": "Tue, 6 Jan 2026 17:13:59 +0900"
+    },
+    {
+      "title": "'K-브랜드 보호' 지식재산처, 중국과 협력강화 MOU 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260106152000063",
+      "pubDate": "Tue, 6 Jan 2026 17:10:32 +0900"
+    },
+    {
+      "title": "[영상] '방중 경제사절단' 이재용, 베이징 쇼핑몰서 포착 화제",
+      "link": "https://www.yna.co.kr/view/AKR20260106149400704",
+      "pubDate": "Tue, 6 Jan 2026 17:01:05 +0900"
+    },
+    {
+      "title": "이재명 대통령, 소비쿠폰 집행한 행안부에 '격려 피자'",
+      "link": "https://www.yna.co.kr/view/AKR20260106145500530",
+      "pubDate": "Tue, 6 Jan 2026 16:51:22 +0900"
+    },
     {
       "title": "반도체가 이끄는 코스피…사흘 연속 신고가에 4,500 고지 넘어(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106127151008",
@@ -59,7 +94,7 @@
       "pubDate": "Tue, 6 Jan 2026 16:12:14 +0900"
     },
     {
-      "title": "원/달러 환율 나흘째 소폭 상승…1.7원 오른 1,445.5원",
+      "title": "원/달러 환율 나흘째 소폭 상승…1.6원 오른 1,445.4원",
       "link": "https://www.yna.co.kr/view/AKR20260106139600002",
       "pubDate": "Tue, 6 Jan 2026 16:01:40 +0900"
     },
@@ -117,41 +152,6 @@
       "title": "[외환] 원/달러 환율 1.7원 오른 1,445.5원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260106135300002",
       "pubDate": "Tue, 6 Jan 2026 15:30:14 +0900"
-    },
-    {
-      "title": "日, 국채 표면금리 연 2.1%로 인상…28년 만의 최고 수준",
-      "link": "https://www.yna.co.kr/view/AKR20260106134700073",
-      "pubDate": "Tue, 6 Jan 2026 15:29:01 +0900"
-    },
-    {
-      "title": "조만호 무신사 대표, 방중 경제사절단에 동행",
-      "link": "https://www.yna.co.kr/view/AKR20260106134200030",
-      "pubDate": "Tue, 6 Jan 2026 15:25:56 +0900"
-    },
-    {
-      "title": "이혜훈 \"적극재정, 공직 마지막 소명\"…각종 의혹 정면 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260106132800002",
-      "pubDate": "Tue, 6 Jan 2026 15:23:04 +0900"
-    },
-    {
-      "title": "광주은행, 고객이 우대금리 조건 고르는 적금 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260106133000054",
-      "pubDate": "Tue, 6 Jan 2026 15:18:51 +0900"
-    },
-    {
-      "title": "대구시 \"지역사랑상품권 올해 3천억 이상 규모 발행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106131700053",
-      "pubDate": "Tue, 6 Jan 2026 15:17:48 +0900"
-    },
-    {
-      "title": "[동포의 창] 재일한국인본국투자協, 모국서 수학하는 재일동포 장학생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260106132000371",
-      "pubDate": "Tue, 6 Jan 2026 15:14:23 +0900"
-    },
-    {
-      "title": "연일 100포인트씩 뛰는 코스피, 1분기 '꿈의 오천피' 가나",
-      "link": "https://www.yna.co.kr/view/AKR20260106130300008",
-      "pubDate": "Tue, 6 Jan 2026 15:11:53 +0900"
     }
   ]
 }
