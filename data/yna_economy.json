@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767732199,
+  "updated_at_unix": 1767735524,
   "items": [
+    {
+      "title": "'빅딜' 성사될까…한국 바이오, JPM 헬스케어 총출동",
+      "link": "https://www.yna.co.kr/view/AKR20260106141600017",
+      "pubDate": "Wed, 7 Jan 2026 06:05:01 +0900"
+    },
+    {
+      "title": "롯데마트, 베트남 다낭·냐짱점 새단장…\"그로서리 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106151600030",
+      "pubDate": "Wed, 7 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "여수산단 금융지원 안갯속…추가 감축대상 결정 늦어져",
+      "link": "https://www.yna.co.kr/view/AKR20260106148200002",
+      "pubDate": "Wed, 7 Jan 2026 05:55:00 +0900"
+    },
+    {
+      "title": "'부패한 이너서클' 경고에…민관 합동 지배구조 TF 내주 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260106166900002",
+      "pubDate": "Wed, 7 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 베네수엘라 여파 평가는 시기상조…WTI 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260107006700009",
+      "pubDate": "Wed, 7 Jan 2026 05:51:20 +0900"
+    },
+    {
+      "title": "정부, '한은 마통' 5조 쓰고도 국방비 미지급…\"곳간 관리 허점\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106146300002",
+      "pubDate": "Wed, 7 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "달러-원, 야간서 위험선호에 상승폭 축소 …1,447.10원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260107002500002",
@@ -122,36 +152,6 @@
       "title": "소상공인연합회 \"쿠팡, 소상공인에게 피해 보상해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260106142500030",
       "pubDate": "Tue, 6 Jan 2026 16:29:25 +0900"
-    },
-    {
-      "title": "이재용, 방중 사절단 일정 마치고 귀국…中과 경제협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260106143400003",
-      "pubDate": "Tue, 6 Jan 2026 16:26:35 +0900"
-    },
-    {
-      "title": "부산은행, 부산이전 청년 위한 신용대출 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260106141800051",
-      "pubDate": "Tue, 6 Jan 2026 16:13:41 +0900"
-    },
-    {
-      "title": "[특징주] 컴투스, 자사주 소각 결정에 5% 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106042651008",
-      "pubDate": "Tue, 6 Jan 2026 16:12:46 +0900"
-    },
-    {
-      "title": "'동학개미'의 힘…코스피 사상 처음 4,500선 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106140500008",
-      "pubDate": "Tue, 6 Jan 2026 16:12:14 +0900"
-    },
-    {
-      "title": "원/달러 환율 나흘째 소폭 상승…1.6원 오른 1,445.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260106139600002",
-      "pubDate": "Tue, 6 Jan 2026 16:01:40 +0900"
-    },
-    {
-      "title": "[특징주] 구글 딥마인드와 손잡은 현대차, 1%대 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106041551008",
-      "pubDate": "Tue, 6 Jan 2026 16:00:02 +0900"
     }
   ]
 }
