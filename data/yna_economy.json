@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767693030,
+  "updated_at_unix": 1767696681,
   "items": [
+    {
+      "title": "해수부, 고등어 가격 뛰자 \"2만t 할당관세…물량 최대 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106163300030",
+      "pubDate": "Tue, 6 Jan 2026 19:10:26 +0900"
+    },
+    {
+      "title": "李대통령, 금융위에도 '격려 피자' 돌려",
+      "link": "https://www.yna.co.kr/view/AKR20260106162200002",
+      "pubDate": "Tue, 6 Jan 2026 18:54:04 +0900"
+    },
     {
       "title": "부동산R114 \"작년 서울아파트 시가총액 1천832조원…역대 최대\"",
       "link": "https://www.yna.co.kr/view/AKR20260106160700003",
@@ -142,16 +152,6 @@
       "title": "\"2026∼2027년, 비주택 활용 늘고 팬덤·외국인으로 공간 확장\"",
       "link": "https://www.yna.co.kr/view/AKR20260106135700003",
       "pubDate": "Tue, 6 Jan 2026 15:43:50 +0900"
-    },
-    {
-      "title": "광주은행, 고객 유형별 우대금리 조건 선택 적금 출시(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106133051054",
-      "pubDate": "Tue, 6 Jan 2026 15:41:02 +0900"
-    },
-    {
-      "title": "코스피, 사흘째 올라 사상 처음 4,500대 돌파 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260106136900008",
-      "pubDate": "Tue, 6 Jan 2026 15:36:46 +0900"
     }
   ]
 }
