@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767699141,
+  "updated_at_unix": 1767707402,
   "items": [
+    {
+      "title": "'방중' 재계총수들 잇달아 귀국…한중 경제협력 물꼬 기대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106143451003",
+      "pubDate": "Tue, 6 Jan 2026 21:03:21 +0900"
+    },
+    {
+      "title": "충북 옥천 메추리 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20260106167600030",
+      "pubDate": "Tue, 6 Jan 2026 20:48:52 +0900"
+    },
     {
       "title": "해수부, 고등어 가격 뛰자 \"2만t 할당관세…물량 최대 확보\"",
       "link": "https://www.yna.co.kr/view/AKR20260106163300030",
@@ -142,16 +152,6 @@
       "title": "[특징주] SK하이닉스 4%대 급등마감…'70만 닉스' 탈환(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106038751008",
       "pubDate": "Tue, 6 Jan 2026 15:50:07 +0900"
-    },
-    {
-      "title": "與황희 \"재건축 시 지금도 3중 과세…재초환까지 하는건 불합리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106134900001",
-      "pubDate": "Tue, 6 Jan 2026 15:46:12 +0900"
-    },
-    {
-      "title": "\"2026∼2027년, 비주택 활용 늘고 팬덤·외국인으로 공간 확장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106135700003",
-      "pubDate": "Tue, 6 Jan 2026 15:43:50 +0900"
     }
   ]
 }
