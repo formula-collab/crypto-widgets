@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767682873,
+  "updated_at_unix": 1767685832,
   "items": [
+    {
+      "title": "반도체가 이끄는 코스피…사흘 연속 신고가에 4,500 고지 넘어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106127151008",
+      "pubDate": "Tue, 6 Jan 2026 16:46:05 +0900"
+    },
+    {
+      "title": "코트라, 9년 만에 중국서 경제협력 행사…4천400만달러 계약성과",
+      "link": "https://www.yna.co.kr/view/AKR20260106147500003",
+      "pubDate": "Tue, 6 Jan 2026 16:45:24 +0900"
+    },
+    {
+      "title": "춘천시, 신년 사자성어 '승세등비'…\"기세 이어 결실로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106145800062",
+      "pubDate": "Tue, 6 Jan 2026 16:40:22 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 2.948%",
+      "link": "https://www.yna.co.kr/view/AKR20260106146600008",
+      "pubDate": "Tue, 6 Jan 2026 16:40:16 +0900"
+    },
+    {
+      "title": "\"역대급 실적기대\"…12%대 급등 미래에셋, 시총 16조 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106115251008",
+      "pubDate": "Tue, 6 Jan 2026 16:38:19 +0900"
+    },
+    {
+      "title": "국힘 \"재건축 지위 양도금지 시점, 재개발과 동일하게 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106141900001",
+      "pubDate": "Tue, 6 Jan 2026 16:31:11 +0900"
+    },
+    {
+      "title": "소상공인연합회 \"쿠팡, 소상공인에게 피해 보상해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106142500030",
+      "pubDate": "Tue, 6 Jan 2026 16:29:25 +0900"
+    },
+    {
+      "title": "이재용, 방중 사절단 일정 마치고 귀국…中과 경제협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260106143400003",
+      "pubDate": "Tue, 6 Jan 2026 16:26:35 +0900"
+    },
+    {
+      "title": "부산은행, 부산이전 청년 위한 신용대출 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260106141800051",
+      "pubDate": "Tue, 6 Jan 2026 16:13:41 +0900"
+    },
+    {
+      "title": "[특징주] 컴투스, 자사주 소각 결정에 5% 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106042651008",
+      "pubDate": "Tue, 6 Jan 2026 16:12:46 +0900"
+    },
+    {
+      "title": "'동학개미'의 힘…코스피 사상 처음 4,500선 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106140500008",
+      "pubDate": "Tue, 6 Jan 2026 16:12:14 +0900"
+    },
+    {
+      "title": "원/달러 환율 나흘째 소폭 상승…1.7원 오른 1,445.5원",
+      "link": "https://www.yna.co.kr/view/AKR20260106139600002",
+      "pubDate": "Tue, 6 Jan 2026 16:01:40 +0900"
+    },
+    {
+      "title": "[특징주] 구글 딥마인드와 손잡은 현대차, 1%대 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106041551008",
+      "pubDate": "Tue, 6 Jan 2026 16:00:02 +0900"
+    },
+    {
+      "title": "특구재단·자산관리공사, 경영 위기 특구기업 재도약 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260106139800063",
+      "pubDate": "Tue, 6 Jan 2026 15:57:02 +0900"
+    },
     {
       "title": "[특징주] 고려아연 8%대 급락마감…MSCI 지수 편출 영향?(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106084451008",
@@ -82,76 +152,6 @@
       "title": "연일 100포인트씩 뛰는 코스피, 1분기 '꿈의 오천피' 가나",
       "link": "https://www.yna.co.kr/view/AKR20260106130300008",
       "pubDate": "Tue, 6 Jan 2026 15:11:53 +0900"
-    },
-    {
-      "title": "애경산업, 보존제 성분 혼입 중국산 치약 6종 자발적 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260106131300030",
-      "pubDate": "Tue, 6 Jan 2026 15:09:12 +0900"
-    },
-    {
-      "title": "반도체가 이끄는 코스피…사흘 연속 신고가에 4,500 고지 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260106127100008",
-      "pubDate": "Tue, 6 Jan 2026 15:07:50 +0900"
-    },
-    {
-      "title": "평창군, 2026년 외국인 계절근로자 고용 농가 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260106130100062",
-      "pubDate": "Tue, 6 Jan 2026 15:06:06 +0900"
-    },
-    {
-      "title": "중소금융 채무조정요청권, 문자로 별도안내…휴면자산 관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260106052900002",
-      "pubDate": "Tue, 6 Jan 2026 15:00:03 +0900"
-    },
-    {
-      "title": "정상회담으로 한중관계 '훈풍'…K뷰티 기대감 확산(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106090851030",
-      "pubDate": "Tue, 6 Jan 2026 14:56:27 +0900"
-    },
-    {
-      "title": "대전시, 소상공인에 초저금리 자금 지원·저신용자 특례보증",
-      "link": "https://www.yna.co.kr/view/AKR20260106124700063",
-      "pubDate": "Tue, 6 Jan 2026 14:51:44 +0900"
-    },
-    {
-      "title": "관세청, 부산 석유시설 종합보세구역 지정…북극항로 연료 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260106124400002",
-      "pubDate": "Tue, 6 Jan 2026 14:40:04 +0900"
-    },
-    {
-      "title": "iM뱅크, 서울지역 점포 확장 기념 '더쿠폰 예·적금' 특판",
-      "link": "https://www.yna.co.kr/view/AKR20260106121800053",
-      "pubDate": "Tue, 6 Jan 2026 14:29:55 +0900"
-    },
-    {
-      "title": "오산 세교터미널 부지 2만2천㎡ 개발 본격화…매입 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260106118200061",
-      "pubDate": "Tue, 6 Jan 2026 14:11:35 +0900"
-    },
-    {
-      "title": "코스피, 상승 전환해 사상 첫 4,500선 돌파…하이닉스 최고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106115900008",
-      "pubDate": "Tue, 6 Jan 2026 14:06:44 +0900"
-    },
-    {
-      "title": "[특징주] \"역대급 깜짝 호실적 기대\"…미래에셋증권 10%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260106115200008",
-      "pubDate": "Tue, 6 Jan 2026 14:01:49 +0900"
-    },
-    {
-      "title": "농식품장관 \"비축 콩 추가 할인 검토\"…국산 콩기름 업체 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260106096100030",
-      "pubDate": "Tue, 6 Jan 2026 14:00:03 +0900"
-    },
-    {
-      "title": "박주봉 인천상의회장 \"혁신성장으로 지역경제 도약 기회 만들것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106109500065",
-      "pubDate": "Tue, 6 Jan 2026 14:00:00 +0900"
-    },
-    {
-      "title": "코스피, 상승 전환해 사상 처음 4,500선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260106112600008",
-      "pubDate": "Tue, 6 Jan 2026 13:49:57 +0900"
     }
   ]
 }
