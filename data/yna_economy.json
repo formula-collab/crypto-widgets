@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767675664,
+  "updated_at_unix": 1767678846,
   "items": [
+    {
+      "title": "관세청, 부산 석유시설 종합보세구역 지정…북극항로 연료 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260106124400002",
+      "pubDate": "Tue, 6 Jan 2026 14:40:04 +0900"
+    },
+    {
+      "title": "iM뱅크, 서울지역 점포 확장 기념 '더쿠폰 예·적금' 특판",
+      "link": "https://www.yna.co.kr/view/AKR20260106121800053",
+      "pubDate": "Tue, 6 Jan 2026 14:29:55 +0900"
+    },
+    {
+      "title": "오산 세교터미널 부지 2만2천㎡ 개발 본격화…매입 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260106118200061",
+      "pubDate": "Tue, 6 Jan 2026 14:11:35 +0900"
+    },
+    {
+      "title": "코스피, 상승 전환해 사상 첫 4,500선 돌파…하이닉스 최고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106115900008",
+      "pubDate": "Tue, 6 Jan 2026 14:06:44 +0900"
+    },
+    {
+      "title": "[특징주] \"역대급 깜짝 호실적 기대\"…미래에셋증권 10%대 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260106115200008",
+      "pubDate": "Tue, 6 Jan 2026 14:01:49 +0900"
+    },
+    {
+      "title": "농식품장관 \"비축 콩 추가 할인 검토\"…국산 콩기름 업체 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260106096100030",
+      "pubDate": "Tue, 6 Jan 2026 14:00:03 +0900"
+    },
+    {
+      "title": "박주봉 인천상의회장 \"혁신성장으로 지역경제 도약 기회 만들것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106109500065",
+      "pubDate": "Tue, 6 Jan 2026 14:00:00 +0900"
+    },
     {
       "title": "코스피, 상승 전환해 사상 처음 4,500선 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260106112600008",
@@ -117,41 +152,6 @@
       "title": "서울시, 공시지가 권역·용도별 자체 실태조사…\"불균형 해소\"",
       "link": "https://www.yna.co.kr/view/AKR20260106020000004",
       "pubDate": "Tue, 6 Jan 2026 11:15:00 +0900"
-    },
-    {
-      "title": "안양시, 장애인 임기제공무원 9명 신규 임용…사회적 채용 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260106085200061",
-      "pubDate": "Tue, 6 Jan 2026 11:14:18 +0900"
-    },
-    {
-      "title": "글로벌세아 직원들, 헌혈로 이어온 따뜻한 나눔…최고명예대장",
-      "link": "https://www.yna.co.kr/view/AKR20260106090400030",
-      "pubDate": "Tue, 6 Jan 2026 11:13:16 +0900"
-    },
-    {
-      "title": "쌍문한양1차 재건축 본격화…도봉구, 조합설립인가 처리",
-      "link": "https://www.yna.co.kr/view/AKR20260106091700004",
-      "pubDate": "Tue, 6 Jan 2026 11:12:07 +0900"
-    },
-    {
-      "title": "코스피, 장중 낙폭 줄여 4,440대…코스닥 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260106091500008",
-      "pubDate": "Tue, 6 Jan 2026 11:12:05 +0900"
-    },
-    {
-      "title": "현대차 GBC, 49층짜리 3개동으로 재시동…2031년 준공 목표(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260105131751004",
-      "pubDate": "Tue, 6 Jan 2026 11:06:36 +0900"
-    },
-    {
-      "title": "삼립호빵, '낱개 포장' 제품 누적 200만봉 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260106088100030",
-      "pubDate": "Tue, 6 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "호반산업 등 6곳, 작년 공공건설현장 안전관리 '매우 우수'",
-      "link": "https://www.yna.co.kr/view/AKR20260106051700003",
-      "pubDate": "Tue, 6 Jan 2026 11:00:02 +0900"
     }
   ]
 }
