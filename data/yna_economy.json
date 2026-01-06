@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767714226,
+  "updated_at_unix": 1767718714,
   "items": [
+    {
+      "title": "'親트럼프' 美연준이사 \"금리가 경제 발목…올해 1%P 내려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107001100072",
+      "pubDate": "Wed, 7 Jan 2026 01:08:09 +0900"
+    },
     {
       "title": "李대통령, 금융위·재경부에도 '격려 피자'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106162251002",
@@ -147,11 +152,6 @@
       "title": "특구재단·자산관리공사, 경영 위기 특구기업 재도약 지원",
       "link": "https://www.yna.co.kr/view/AKR20260106139800063",
       "pubDate": "Tue, 6 Jan 2026 15:57:02 +0900"
-    },
-    {
-      "title": "[특징주] 고려아연 8%대 급락마감…MSCI 지수 편출 영향?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106084451008",
-      "pubDate": "Tue, 6 Jan 2026 15:53:59 +0900"
     }
   ]
 }
