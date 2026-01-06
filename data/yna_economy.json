@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767707402,
+  "updated_at_unix": 1767711098,
   "items": [
+    {
+      "title": "李대통령, 금융위·재경부에도 '격려 피자'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260106162251002",
+      "pubDate": "Tue, 6 Jan 2026 23:03:36 +0900"
+    },
     {
       "title": "'방중' 재계총수들 잇달아 귀국…한중 경제협력 물꼬 기대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106143451003",
@@ -147,11 +152,6 @@
       "title": "[특징주] 고려아연 8%대 급락마감…MSCI 지수 편출 영향?(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260106084451008",
       "pubDate": "Tue, 6 Jan 2026 15:53:59 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스 4%대 급등마감…'70만 닉스' 탈환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260106038751008",
-      "pubDate": "Tue, 6 Jan 2026 15:50:07 +0900"
     }
   ]
 }
