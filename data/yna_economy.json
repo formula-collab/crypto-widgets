@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767771964,
+  "updated_at_unix": 1767776396,
   "items": [
+    {
+      "title": "동대문구 '생활안전보험' 확대개편…\"일상 상해 의료비도 보장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107140600004",
+      "pubDate": "Wed, 7 Jan 2026 17:41:30 +0900"
+    },
+    {
+      "title": "입찰소화·연초효과 누렸나…국고채 간만에 강세장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107131551008",
+      "pubDate": "Wed, 7 Jan 2026 17:27:24 +0900"
+    },
+    {
+      "title": "용인시, 경기테크노파크와 '용인IP지원센터' 설치·운영 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260107138300061",
+      "pubDate": "Wed, 7 Jan 2026 17:24:31 +0900"
+    },
+    {
+      "title": "자녀교육 4천600만원·결혼 1억3천만원…4050 \"노후준비 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107134900002",
+      "pubDate": "Wed, 7 Jan 2026 17:21:33 +0900"
+    },
+    {
+      "title": "국립목포대, 2024년 취업률 67.5%…일반 국립대 전국 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260107136000054",
+      "pubDate": "Wed, 7 Jan 2026 17:13:42 +0900"
+    },
+    {
+      "title": "경남도민 시내버스 서비스 만족도 55.6%로 상승…마산YMCA 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260107133200052",
+      "pubDate": "Wed, 7 Jan 2026 17:03:27 +0900"
+    },
+    {
+      "title": "신협중앙회장에 고영철 당선…건전성·내부통제 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260107132700002",
+      "pubDate": "Wed, 7 Jan 2026 17:00:24 +0900"
+    },
+    {
+      "title": "해수부, 고등어 30∼60% 할인행사…비축 2천t 방출도",
+      "link": "https://www.yna.co.kr/view/AKR20260107128900030",
+      "pubDate": "Wed, 7 Jan 2026 16:43:17 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 2.910%",
+      "link": "https://www.yna.co.kr/view/AKR20260107131500008",
+      "pubDate": "Wed, 7 Jan 2026 16:40:21 +0900"
+    },
     {
       "title": "[경북소식] 중국 베이징서 투자유치 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260107130800053",
@@ -107,51 +152,6 @@
       "title": "이권재 오산시장 \"세교3신도시 개발 발판 삼아 제2의 도약\"",
       "link": "https://www.yna.co.kr/view/AKR20260107112800061",
       "pubDate": "Wed, 7 Jan 2026 15:16:15 +0900"
-    },
-    {
-      "title": "한화투자증권, 해외 니켈 제련소 지분 인수 자문 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260107112400008",
-      "pubDate": "Wed, 7 Jan 2026 15:11:48 +0900"
-    },
-    {
-      "title": "양구군, 일자리 지원사업 대상자 모집…채용 사업체 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260107110600062",
-      "pubDate": "Wed, 7 Jan 2026 15:06:16 +0900"
-    },
-    {
-      "title": "농식품부, 계란 가격 안정 위해 미국산 224만개 시범 수입",
-      "link": "https://www.yna.co.kr/view/AKR20260107106900030",
-      "pubDate": "Wed, 7 Jan 2026 15:00:47 +0900"
-    },
-    {
-      "title": "충북도, 5천55개 수출 유망기업 지원 본격화…67억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260107107000064",
-      "pubDate": "Wed, 7 Jan 2026 15:00:16 +0900"
-    },
-    {
-      "title": "아이엠, 15억원 유상증자…세레온에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260107107300008",
-      "pubDate": "Wed, 7 Jan 2026 14:52:58 +0900"
-    },
-    {
-      "title": "'탑건 출연' 줄리아 루페티, CES 세라젬 전시관 찾아",
-      "link": "https://www.yna.co.kr/view/AKR20260107106400030",
-      "pubDate": "Wed, 7 Jan 2026 14:50:01 +0900"
-    },
-    {
-      "title": "[게시판］부산항만공사, 스마트항만 기술 실증 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260107106600051",
-      "pubDate": "Wed, 7 Jan 2026 14:48:31 +0900"
-    },
-    {
-      "title": "속초시, 통합돌봄 체계 본격 추진…'1동 1 주치의' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260107105300062",
-      "pubDate": "Wed, 7 Jan 2026 14:46:07 +0900"
-    },
-    {
-      "title": "은평구, '2026 청년 일자리사업' 참여기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260107104700004",
-      "pubDate": "Wed, 7 Jan 2026 14:40:49 +0900"
     }
   ]
 }
