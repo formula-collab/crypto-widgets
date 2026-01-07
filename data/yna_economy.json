@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767776396,
+  "updated_at_unix": 1767779496,
   "items": [
+    {
+      "title": "고용노동부 안산지청, 지난해 고용보험 부정수급 609건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260107146800061",
+      "pubDate": "Wed, 7 Jan 2026 18:43:22 +0900"
+    },
+    {
+      "title": "농식품부 장관, 농촌진흥청 등 업무 점검…기관 혁신 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260107147000030",
+      "pubDate": "Wed, 7 Jan 2026 18:42:26 +0900"
+    },
+    {
+      "title": "조각투자 거래소에 '한국거래소·넥스트레이드' 가닥",
+      "link": "https://www.yna.co.kr/view/AKR20260107146700002",
+      "pubDate": "Wed, 7 Jan 2026 18:36:58 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260107137200011",
+      "pubDate": "Wed, 7 Jan 2026 18:00:00 +0900"
+    },
+    {
+      "title": "우리은행, 희망퇴직 접수…최대 31개월치 기본급 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260107142500002",
+      "pubDate": "Wed, 7 Jan 2026 17:56:26 +0900"
+    },
     {
       "title": "동대문구 '생활안전보험' 확대개편…\"일상 상해 의료비도 보장\"",
       "link": "https://www.yna.co.kr/view/AKR20260107140600004",
@@ -127,31 +152,6 @@
       "title": "한승헌 연세대 교수 대한토목학회 회장 취임",
       "link": "https://www.yna.co.kr/view/AKR20260107115700003",
       "pubDate": "Wed, 7 Jan 2026 15:29:26 +0900"
-    },
-    {
-      "title": "대구시, 올해 기업 20곳·1조원 투자 유치 활동 전개",
-      "link": "https://www.yna.co.kr/view/AKR20260107115600053",
-      "pubDate": "Wed, 7 Jan 2026 15:28:19 +0900"
-    },
-    {
-      "title": "광진구, 미취업 청년에 어학·자격시험 응시료 최대 15만원",
-      "link": "https://www.yna.co.kr/view/AKR20260107115200004",
-      "pubDate": "Wed, 7 Jan 2026 15:25:34 +0900"
-    },
-    {
-      "title": "충북도 \"2026년 수출·내수 성장세 지속\"…장밋빛 전망 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260107114100064",
-      "pubDate": "Wed, 7 Jan 2026 15:23:52 +0900"
-    },
-    {
-      "title": "제주시 이호 해안사구 일부서 건축공사…마을주민 반발",
-      "link": "https://www.yna.co.kr/view/AKR20260107113500056",
-      "pubDate": "Wed, 7 Jan 2026 15:19:01 +0900"
-    },
-    {
-      "title": "이권재 오산시장 \"세교3신도시 개발 발판 삼아 제2의 도약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107112800061",
-      "pubDate": "Wed, 7 Jan 2026 15:16:15 +0900"
     }
   ]
 }
