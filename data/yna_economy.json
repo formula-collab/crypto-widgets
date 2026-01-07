@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767805211,
+  "updated_at_unix": 1767808521,
   "items": [
+    {
+      "title": "달러-원 1,447.60원 마감…美 서비스업 호조에 1,450원 위협하기도",
+      "link": "https://www.yna.co.kr/view/AKR20260108003100002",
+      "pubDate": "Thu, 8 Jan 2026 02:33:51 +0900"
+    },
     {
       "title": "'넷플릭스 협업' 정보로 8억 벌어…SBS 전 직원 검찰 고발",
       "link": "https://www.yna.co.kr/view/AKR20260107149400002",
@@ -147,11 +152,6 @@
       "title": "[특징주] '14만전자' 오른 삼전, 중일갈등 격화 여파에도 고지 사수(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260107033551008",
       "pubDate": "Wed, 7 Jan 2026 15:45:51 +0900"
-    },
-    {
-      "title": "코스피, 등락 끝에 4,550대 상승 마감…사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260107118400008",
-      "pubDate": "Wed, 7 Jan 2026 15:37:05 +0900"
     }
   ]
 }
