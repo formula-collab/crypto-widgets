@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767769198,
+  "updated_at_unix": 1767771964,
   "items": [
+    {
+      "title": "[경북소식] 중국 베이징서 투자유치 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260107130800053",
+      "pubDate": "Wed, 7 Jan 2026 16:37:36 +0900"
+    },
+    {
+      "title": "[특징주] 중국, 희토류 일본 수출 통제 가능성에 관련주 '불기둥'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107051551008",
+      "pubDate": "Wed, 7 Jan 2026 16:23:34 +0900"
+    },
+    {
+      "title": "코스피, 등락 끝에 4,550대 사상 최고치 마감…코스닥은 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107122900008",
+      "pubDate": "Wed, 7 Jan 2026 16:04:51 +0900"
+    },
+    {
+      "title": "원/달러 환율 닷새째 소폭 상승…0.4원 오른 1,445.8원",
+      "link": "https://www.yna.co.kr/view/AKR20260107123300002",
+      "pubDate": "Wed, 7 Jan 2026 16:01:22 +0900"
+    },
+    {
+      "title": "[특징주] 현대차 14%대 급등…현대차그룹주 동반 고공행진(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107035951008",
+      "pubDate": "Wed, 7 Jan 2026 15:59:26 +0900"
+    },
     {
       "title": "창원 생활숙박시설, 오피스텔로 용도변경…경남 첫 사례",
       "link": "https://www.yna.co.kr/view/AKR20260107121500052",
@@ -127,31 +152,6 @@
       "title": "은평구, '2026 청년 일자리사업' 참여기업 모집",
       "link": "https://www.yna.co.kr/view/AKR20260107104700004",
       "pubDate": "Wed, 7 Jan 2026 14:40:49 +0900"
-    },
-    {
-      "title": "올해 부산 청끌기업 120개로 확대…채용효과 분석 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260107104400051",
-      "pubDate": "Wed, 7 Jan 2026 14:37:46 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260107099500011",
-      "pubDate": "Wed, 7 Jan 2026 14:30:01 +0900"
-    },
-    {
-      "title": "은행컨소시엄부터 스테이블코인 발행…금융위, 한은안 일부수용",
-      "link": "https://www.yna.co.kr/view/AKR20260107078400002",
-      "pubDate": "Wed, 7 Jan 2026 14:13:34 +0900"
-    },
-    {
-      "title": "[부고] 남경호(GS건설 부사장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260107098500003",
-      "pubDate": "Wed, 7 Jan 2026 14:12:19 +0900"
-    },
-    {
-      "title": "대구보건대 취업률 77.7％…대구지역 전문대 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260107096800053",
-      "pubDate": "Wed, 7 Jan 2026 14:09:47 +0900"
     }
   ]
 }
