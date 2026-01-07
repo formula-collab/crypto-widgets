@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767779496,
+  "updated_at_unix": 1767783069,
   "items": [
+    {
+      "title": "'넷플릭스 협업' 정보로 8억 벌어…SBS 전 직원 검찰 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260107149400002",
+      "pubDate": "Wed, 7 Jan 2026 19:32:07 +0900"
+    },
+    {
+      "title": "온코크로스 \"오믹스에이아이 주식 20억원에 취득…지분율 18.2%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107143000008",
+      "pubDate": "Wed, 7 Jan 2026 19:30:10 +0900"
+    },
+    {
+      "title": "미국산 소고기 등 농축산물 45개 품목 관세 '0%' 됐다",
+      "link": "https://www.yna.co.kr/view/AKR20260107149300030",
+      "pubDate": "Wed, 7 Jan 2026 19:09:22 +0900"
+    },
     {
       "title": "고용노동부 안산지청, 지난해 고용보험 부정수급 609건 적발",
       "link": "https://www.yna.co.kr/view/AKR20260107146800061",
@@ -137,21 +152,6 @@
       "title": "코스피, 등락 끝에 4,550대 상승 마감…사상 최고치",
       "link": "https://www.yna.co.kr/view/AKR20260107118400008",
       "pubDate": "Wed, 7 Jan 2026 15:37:05 +0900"
-    },
-    {
-      "title": "외국환시세(1월7일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260107117900002",
-      "pubDate": "Wed, 7 Jan 2026 15:35:18 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.3원 오른 1,445.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260107116100002",
-      "pubDate": "Wed, 7 Jan 2026 15:30:19 +0900"
-    },
-    {
-      "title": "한승헌 연세대 교수 대한토목학회 회장 취임",
-      "link": "https://www.yna.co.kr/view/AKR20260107115700003",
-      "pubDate": "Wed, 7 Jan 2026 15:29:26 +0900"
     }
   ]
 }
