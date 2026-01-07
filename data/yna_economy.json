@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767758091,
+  "updated_at_unix": 1767762139,
   "items": [
+    {
+      "title": "작년 외국인 투자 역대 최대…아마존 등 미국 투자 86%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107044551003",
+      "pubDate": "Wed, 7 Jan 2026 13:50:11 +0900"
+    },
+    {
+      "title": "강호동 농협중앙회장, 임직원과 소통 행보",
+      "link": "https://www.yna.co.kr/view/AKR20260107089800030",
+      "pubDate": "Wed, 7 Jan 2026 13:46:09 +0900"
+    },
+    {
+      "title": "송도 호숫가 테라스타운 사업 본격화…에디슨박물관도 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260107088300065",
+      "pubDate": "Wed, 7 Jan 2026 13:45:39 +0900"
+    },
+    {
+      "title": "중기부, 상하이서 '한·중 벤처스타트업 서밋' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260107087700030",
+      "pubDate": "Wed, 7 Jan 2026 13:37:32 +0900"
+    },
+    {
+      "title": "경남도, 올해 투자유치 8조원 목표…초과 달성 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260107081400052",
+      "pubDate": "Wed, 7 Jan 2026 13:03:58 +0900"
+    },
+    {
+      "title": "중기부, 중국 상하이서 뷰티업체 지원 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260107059500030",
+      "pubDate": "Wed, 7 Jan 2026 13:00:00 +0900"
+    },
     {
       "title": "\"문화비 소득공제 소비자들 잘 몰라…일부 쇼핑몰, 등록도 안해\"",
       "link": "https://www.yna.co.kr/view/AKR20260106125000030",
@@ -122,36 +152,6 @@
       "title": "의정부시 \"올해 미래산업 육성 펀드 100억 조성 목표\"",
       "link": "https://www.yna.co.kr/view/AKR20260107063200060",
       "pubDate": "Wed, 7 Jan 2026 10:49:05 +0900"
-    },
-    {
-      "title": "스타벅스, 제주 관광객 증가에 특화매장·메뉴로 힘준다",
-      "link": "https://www.yna.co.kr/view/AKR20260107060500030",
-      "pubDate": "Wed, 7 Jan 2026 10:47:29 +0900"
-    },
-    {
-      "title": "당정 \"방산·K컬처 신성장산업…국내주식 장기투자 촉진안 마련\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260107021752001",
-      "pubDate": "Wed, 7 Jan 2026 10:47:18 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행 \"트래블 체크카드 이용액 5조원 돌파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107062000002",
-      "pubDate": "Wed, 7 Jan 2026 10:46:58 +0900"
-    },
-    {
-      "title": "충남 태안군, 소상공인 특례보증 지원…84억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260107061500063",
-      "pubDate": "Wed, 7 Jan 2026 10:45:38 +0900"
-    },
-    {
-      "title": "국힘 제주도당 \"도, 미국산 만다린 무관세 수입 즉각 대응해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107062600056",
-      "pubDate": "Wed, 7 Jan 2026 10:45:29 +0900"
-    },
-    {
-      "title": "김성식 예보 사장 \"업권·소비자별 맞춤형 예금보험체계 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107063000002",
-      "pubDate": "Wed, 7 Jan 2026 10:44:54 +0900"
     }
   ]
 }
