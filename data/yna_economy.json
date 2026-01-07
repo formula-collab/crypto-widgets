@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767765229,
+  "updated_at_unix": 1767769198,
   "items": [
+    {
+      "title": "창원 생활숙박시설, 오피스텔로 용도변경…경남 첫 사례",
+      "link": "https://www.yna.co.kr/view/AKR20260107121500052",
+      "pubDate": "Wed, 7 Jan 2026 15:54:34 +0900"
+    },
+    {
+      "title": "한림성심대, 취업률 전국 평균 상회…강원 전문대 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260107120400062",
+      "pubDate": "Wed, 7 Jan 2026 15:53:07 +0900"
+    },
+    {
+      "title": "[특징주] 삼양식품, 8%대 급락해 120만원 아래로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107054651008",
+      "pubDate": "Wed, 7 Jan 2026 15:52:37 +0900"
+    },
+    {
+      "title": "'강진만 횡단교량' 건설 추진…1천600억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260107121700054",
+      "pubDate": "Wed, 7 Jan 2026 15:51:20 +0900"
+    },
+    {
+      "title": "한신평 \"올해 반도체 호황·성장률 회복…산업 양극화는 과제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107120500008",
+      "pubDate": "Wed, 7 Jan 2026 15:50:34 +0900"
+    },
+    {
+      "title": "산업부, 상하이서 韓기업 간담회…\"중국 진출 기업 지원 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107120100003",
+      "pubDate": "Wed, 7 Jan 2026 15:50:02 +0900"
+    },
+    {
+      "title": "[특징주] '14만전자' 오른 삼전, 중일갈등 격화 여파에도 고지 사수(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107033551008",
+      "pubDate": "Wed, 7 Jan 2026 15:45:51 +0900"
+    },
+    {
+      "title": "코스피, 등락 끝에 4,550대 상승 마감…사상 최고치",
+      "link": "https://www.yna.co.kr/view/AKR20260107118400008",
+      "pubDate": "Wed, 7 Jan 2026 15:37:05 +0900"
+    },
+    {
+      "title": "외국환시세(1월7일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260107117900002",
+      "pubDate": "Wed, 7 Jan 2026 15:35:18 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 0.3원 오른 1,445.8원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260107116100002",
+      "pubDate": "Wed, 7 Jan 2026 15:30:19 +0900"
+    },
+    {
+      "title": "한승헌 연세대 교수 대한토목학회 회장 취임",
+      "link": "https://www.yna.co.kr/view/AKR20260107115700003",
+      "pubDate": "Wed, 7 Jan 2026 15:29:26 +0900"
+    },
+    {
+      "title": "대구시, 올해 기업 20곳·1조원 투자 유치 활동 전개",
+      "link": "https://www.yna.co.kr/view/AKR20260107115600053",
+      "pubDate": "Wed, 7 Jan 2026 15:28:19 +0900"
+    },
+    {
+      "title": "광진구, 미취업 청년에 어학·자격시험 응시료 최대 15만원",
+      "link": "https://www.yna.co.kr/view/AKR20260107115200004",
+      "pubDate": "Wed, 7 Jan 2026 15:25:34 +0900"
+    },
+    {
+      "title": "충북도 \"2026년 수출·내수 성장세 지속\"…장밋빛 전망 제시",
+      "link": "https://www.yna.co.kr/view/AKR20260107114100064",
+      "pubDate": "Wed, 7 Jan 2026 15:23:52 +0900"
+    },
+    {
+      "title": "제주시 이호 해안사구 일부서 건축공사…마을주민 반발",
+      "link": "https://www.yna.co.kr/view/AKR20260107113500056",
+      "pubDate": "Wed, 7 Jan 2026 15:19:01 +0900"
+    },
+    {
+      "title": "이권재 오산시장 \"세교3신도시 개발 발판 삼아 제2의 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107112800061",
+      "pubDate": "Wed, 7 Jan 2026 15:16:15 +0900"
+    },
+    {
+      "title": "한화투자증권, 해외 니켈 제련소 지분 인수 자문 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260107112400008",
+      "pubDate": "Wed, 7 Jan 2026 15:11:48 +0900"
+    },
+    {
+      "title": "양구군, 일자리 지원사업 대상자 모집…채용 사업체 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260107110600062",
+      "pubDate": "Wed, 7 Jan 2026 15:06:16 +0900"
+    },
+    {
+      "title": "농식품부, 계란 가격 안정 위해 미국산 224만개 시범 수입",
+      "link": "https://www.yna.co.kr/view/AKR20260107106900030",
+      "pubDate": "Wed, 7 Jan 2026 15:00:47 +0900"
+    },
+    {
+      "title": "충북도, 5천55개 수출 유망기업 지원 본격화…67억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260107107000064",
+      "pubDate": "Wed, 7 Jan 2026 15:00:16 +0900"
+    },
+    {
+      "title": "아이엠, 15억원 유상증자…세레온에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260107107300008",
+      "pubDate": "Wed, 7 Jan 2026 14:52:58 +0900"
+    },
     {
       "title": "'탑건 출연' 줄리아 루페티, CES 세라젬 전시관 찾아",
       "link": "https://www.yna.co.kr/view/AKR20260107106400030",
@@ -47,111 +152,6 @@
       "title": "대구보건대 취업률 77.7％…대구지역 전문대 1위",
       "link": "https://www.yna.co.kr/view/AKR20260107096800053",
       "pubDate": "Wed, 7 Jan 2026 14:09:47 +0900"
-    },
-    {
-      "title": "관악구, '지방물가 안정관리' 우수 지자체로 3년째 뽑혀",
-      "link": "https://www.yna.co.kr/view/AKR20260107095800004",
-      "pubDate": "Wed, 7 Jan 2026 14:00:54 +0900"
-    },
-    {
-      "title": "'공룡 플랫폼의 폭주 멈춰라'…소상공인들, 쿠팡 규탄 집회",
-      "link": "https://www.yna.co.kr/view/AKR20260106131600030",
-      "pubDate": "Wed, 7 Jan 2026 14:00:02 +0900"
-    },
-    {
-      "title": "작년 외국인 투자 역대 최대…아마존 등 미국 투자 86%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107044551003",
-      "pubDate": "Wed, 7 Jan 2026 13:50:11 +0900"
-    },
-    {
-      "title": "강호동 농협중앙회장, 임직원과 소통 행보",
-      "link": "https://www.yna.co.kr/view/AKR20260107089800030",
-      "pubDate": "Wed, 7 Jan 2026 13:46:09 +0900"
-    },
-    {
-      "title": "송도 호숫가 테라스타운 사업 본격화…에디슨박물관도 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260107088300065",
-      "pubDate": "Wed, 7 Jan 2026 13:45:39 +0900"
-    },
-    {
-      "title": "중기부, 상하이서 '한·중 벤처스타트업 서밋' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260107087700030",
-      "pubDate": "Wed, 7 Jan 2026 13:37:32 +0900"
-    },
-    {
-      "title": "경남도, 올해 투자유치 8조원 목표…초과 달성 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260107081400052",
-      "pubDate": "Wed, 7 Jan 2026 13:03:58 +0900"
-    },
-    {
-      "title": "중기부, 중국 상하이서 뷰티업체 지원 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260107059500030",
-      "pubDate": "Wed, 7 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "title": "\"문화비 소득공제 소비자들 잘 몰라…일부 쇼핑몰, 등록도 안해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260106125000030",
-      "pubDate": "Wed, 7 Jan 2026 12:00:06 +0900"
-    },
-    {
-      "title": "국세청 \"70만 외국인 근로자도 연말정산 잊지 마세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107029000002",
-      "pubDate": "Wed, 7 Jan 2026 12:00:06 +0900"
-    },
-    {
-      "title": "[게시판] 중기중앙회, 노란우산 온라인 가입 프로모션",
-      "link": "https://www.yna.co.kr/view/AKR20260107045200030",
-      "pubDate": "Wed, 7 Jan 2026 12:00:06 +0900"
-    },
-    {
-      "title": "중기부, 제조 스타트업 제품화 전 과정 묶어 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260107046200030",
-      "pubDate": "Wed, 7 Jan 2026 12:00:05 +0900"
-    },
-    {
-      "title": "노동부-법무부-지방정부, 외국인 노동자 보호 합동점검",
-      "link": "https://www.yna.co.kr/view/AKR20260107051900530",
-      "pubDate": "Wed, 7 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "노동부, 직업훈련사업 'AI 캠퍼스'로 AI 전문인력 1만명 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260107057800530",
-      "pubDate": "Wed, 7 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "한은 \"공공일자리 뺀 민간고용, 내수 회복에 개선세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107038100002",
-      "pubDate": "Wed, 7 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "구로구, 청년 어학·자격시험 응시료 지원 인원 2배로 늘려",
-      "link": "https://www.yna.co.kr/view/AKR20260107078300004",
-      "pubDate": "Wed, 7 Jan 2026 11:51:19 +0900"
-    },
-    {
-      "title": "농식품부, 친환경 청년농·신규 사업자 진입 장벽 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260107076300030",
-      "pubDate": "Wed, 7 Jan 2026 11:50:23 +0900"
-    },
-    {
-      "title": "남양유업, 분유로 베트남 공략…현지 1위 유통사 푸타이와 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260107073600030",
-      "pubDate": "Wed, 7 Jan 2026 11:49:44 +0900"
-    },
-    {
-      "title": "동작구의 'K-도시' 청사진…\"한강조망 복합쇼핑몰 유치 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107077100004",
-      "pubDate": "Wed, 7 Jan 2026 11:46:15 +0900"
-    },
-    {
-      "title": "'위약금 면제' KT 이탈 가입자 누적 10만명 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260107076000017",
-      "pubDate": "Wed, 7 Jan 2026 11:41:02 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 2.924%",
-      "link": "https://www.yna.co.kr/view/AKR20260107076500008",
-      "pubDate": "Wed, 7 Jan 2026 11:40:28 +0900"
     }
   ]
 }
