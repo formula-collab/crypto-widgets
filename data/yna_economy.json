@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767818937,
+  "updated_at_unix": 1767821879,
   "items": [
+    {
+      "title": "[게시판] 금감원, 외부감사제도 전국 순회설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260107126800002",
+      "pubDate": "Thu, 8 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "[CES 2026] 산업부·코트라, 혁신기업 현장 간담회…\"AI 3강 도약 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107142300003",
+      "pubDate": "Thu, 8 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "정부, 美 디지털 규제 불만에 대응방안 논의…\"오해 해소 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107151700003",
+      "pubDate": "Thu, 8 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美, 베네수엘라 원유 무기한 판매한다…WTI 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260108007600009",
+      "pubDate": "Thu, 8 Jan 2026 05:57:04 +0900"
+    },
+    {
+      "title": "작년 한은 순이익 역대 최대 전망…\"고환율에 외화증권 수익↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107138000002",
+      "pubDate": "Thu, 8 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "해외 IB \"올해도 美 성장률 韓보다 높아\"…환율 상승 요인",
+      "link": "https://www.yna.co.kr/view/AKR20260107137900002",
+      "pubDate": "Thu, 8 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "달러-원 1,447.60원 마감…美 서비스업 호조에 1,450원 위협하기도",
       "link": "https://www.yna.co.kr/view/AKR20260108003100002",
@@ -122,36 +152,6 @@
       "title": "창원 생활숙박시설, 오피스텔로 용도변경…경남 첫 사례",
       "link": "https://www.yna.co.kr/view/AKR20260107121500052",
       "pubDate": "Wed, 7 Jan 2026 15:54:34 +0900"
-    },
-    {
-      "title": "한림성심대, 취업률 전국 평균 상회…강원 전문대 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260107120400062",
-      "pubDate": "Wed, 7 Jan 2026 15:53:07 +0900"
-    },
-    {
-      "title": "[특징주] 삼양식품, 8%대 급락해 120만원 아래로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107054651008",
-      "pubDate": "Wed, 7 Jan 2026 15:52:37 +0900"
-    },
-    {
-      "title": "'강진만 횡단교량' 건설 추진…1천600억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260107121700054",
-      "pubDate": "Wed, 7 Jan 2026 15:51:20 +0900"
-    },
-    {
-      "title": "한신평 \"올해 반도체 호황·성장률 회복…산업 양극화는 과제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107120500008",
-      "pubDate": "Wed, 7 Jan 2026 15:50:34 +0900"
-    },
-    {
-      "title": "산업부, 상하이서 韓기업 간담회…\"중국 진출 기업 지원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107120100003",
-      "pubDate": "Wed, 7 Jan 2026 15:50:02 +0900"
-    },
-    {
-      "title": "[특징주] '14만전자' 오른 삼전, 중일갈등 격화 여파에도 고지 사수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107033551008",
-      "pubDate": "Wed, 7 Jan 2026 15:45:51 +0900"
     }
   ]
 }
