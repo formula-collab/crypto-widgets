@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767821879,
+  "updated_at_unix": 1767825799,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260108016500011",
+      "pubDate": "Thu, 8 Jan 2026 07:30:02 +0900"
+    },
+    {
+      "title": "작년 서울 생애 첫 집합건물 매수자 6만1천명…4년만에 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260108001200003",
+      "pubDate": "Thu, 8 Jan 2026 07:27:14 +0900"
+    },
+    {
+      "title": "무신사, 쿠팡 보상안 흉내 마케팅에 \"뷰티거래 두배로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107124900030",
+      "pubDate": "Thu, 8 Jan 2026 07:07:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⑺ 다시 피로 물든 다르푸르",
+      "link": "https://www.yna.co.kr/view/AKR20251216042600898",
+      "pubDate": "Thu, 8 Jan 2026 07:00:03 +0900"
+    },
+    {
+      "title": "\"JP모건체이스, 골드만삭스 대신 애플카드 발행 맡기로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108011700072",
+      "pubDate": "Thu, 8 Jan 2026 06:55:31 +0900"
+    },
     {
       "title": "[게시판] 금감원, 외부감사제도 전국 순회설명회",
       "link": "https://www.yna.co.kr/view/AKR20260107126800002",
@@ -127,31 +152,6 @@
       "title": "[경북소식] 중국 베이징서 투자유치 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260107130800053",
       "pubDate": "Wed, 7 Jan 2026 16:37:36 +0900"
-    },
-    {
-      "title": "[특징주] 중국, 희토류 일본 수출 통제 가능성에 관련주 '불기둥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107051551008",
-      "pubDate": "Wed, 7 Jan 2026 16:23:34 +0900"
-    },
-    {
-      "title": "코스피, 등락 끝에 4,550대 사상 최고치 마감…코스닥은 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107122900008",
-      "pubDate": "Wed, 7 Jan 2026 16:04:51 +0900"
-    },
-    {
-      "title": "원/달러 환율 닷새째 소폭 상승…0.4원 오른 1,445.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260107123300002",
-      "pubDate": "Wed, 7 Jan 2026 16:01:22 +0900"
-    },
-    {
-      "title": "[특징주] 현대차 14%대 급등…현대차그룹주 동반 고공행진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260107035951008",
-      "pubDate": "Wed, 7 Jan 2026 15:59:26 +0900"
-    },
-    {
-      "title": "창원 생활숙박시설, 오피스텔로 용도변경…경남 첫 사례",
-      "link": "https://www.yna.co.kr/view/AKR20260107121500052",
-      "pubDate": "Wed, 7 Jan 2026 15:54:34 +0900"
     }
   ]
 }
