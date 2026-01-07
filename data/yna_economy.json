@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767825799,
+  "updated_at_unix": 1767828914,
   "items": [
+    {
+      "title": "한투증권 \"위안화 강세는 中경제 기대 변화 때문…비중 늘릴 때\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108024100008",
+      "pubDate": "Thu, 8 Jan 2026 08:25:21 +0900"
+    },
+    {
+      "title": "[마켓뷰] 차익매물에 쉬어간 美반도체주…오늘 코스피는",
+      "link": "https://www.yna.co.kr/view/AKR20260108020700008",
+      "pubDate": "Thu, 8 Jan 2026 08:03:55 +0900"
+    },
+    {
+      "title": "법원 \"갑상선 결절에 불필요한 고주파절제술, 보험금 대상 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107124300004",
+      "pubDate": "Thu, 8 Jan 2026 08:00:04 +0900"
+    },
+    {
+      "title": "남양유업, 부패방지 자율준수프로그램 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260108021600030",
+      "pubDate": "Thu, 8 Jan 2026 07:55:14 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260108016500011",
@@ -132,26 +152,6 @@
       "title": "경남도민 시내버스 서비스 만족도 55.6%로 상승…마산YMCA 조사",
       "link": "https://www.yna.co.kr/view/AKR20260107133200052",
       "pubDate": "Wed, 7 Jan 2026 17:03:27 +0900"
-    },
-    {
-      "title": "신협중앙회장에 고영철 당선…건전성·내부통제 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260107132700002",
-      "pubDate": "Wed, 7 Jan 2026 17:00:24 +0900"
-    },
-    {
-      "title": "해수부, 고등어 30∼60% 할인행사…비축 2천t 방출도",
-      "link": "https://www.yna.co.kr/view/AKR20260107128900030",
-      "pubDate": "Wed, 7 Jan 2026 16:43:17 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 2.910%",
-      "link": "https://www.yna.co.kr/view/AKR20260107131500008",
-      "pubDate": "Wed, 7 Jan 2026 16:40:21 +0900"
-    },
-    {
-      "title": "[경북소식] 중국 베이징서 투자유치 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260107130800053",
-      "pubDate": "Wed, 7 Jan 2026 16:37:36 +0900"
     }
   ]
 }
