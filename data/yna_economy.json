@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767762139,
+  "updated_at_unix": 1767765229,
   "items": [
+    {
+      "title": "'탑건 출연' 줄리아 루페티, CES 세라젬 전시관 찾아",
+      "link": "https://www.yna.co.kr/view/AKR20260107106400030",
+      "pubDate": "Wed, 7 Jan 2026 14:50:01 +0900"
+    },
+    {
+      "title": "[게시판］부산항만공사, 스마트항만 기술 실증 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260107106600051",
+      "pubDate": "Wed, 7 Jan 2026 14:48:31 +0900"
+    },
+    {
+      "title": "속초시, 통합돌봄 체계 본격 추진…'1동 1 주치의' 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260107105300062",
+      "pubDate": "Wed, 7 Jan 2026 14:46:07 +0900"
+    },
+    {
+      "title": "은평구, '2026 청년 일자리사업' 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260107104700004",
+      "pubDate": "Wed, 7 Jan 2026 14:40:49 +0900"
+    },
+    {
+      "title": "올해 부산 청끌기업 120개로 확대…채용효과 분석 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260107104400051",
+      "pubDate": "Wed, 7 Jan 2026 14:37:46 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260107099500011",
+      "pubDate": "Wed, 7 Jan 2026 14:30:01 +0900"
+    },
+    {
+      "title": "은행컨소시엄부터 스테이블코인 발행…금융위, 한은안 일부수용",
+      "link": "https://www.yna.co.kr/view/AKR20260107078400002",
+      "pubDate": "Wed, 7 Jan 2026 14:13:34 +0900"
+    },
+    {
+      "title": "[부고] 남경호(GS건설 부사장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260107098500003",
+      "pubDate": "Wed, 7 Jan 2026 14:12:19 +0900"
+    },
+    {
+      "title": "대구보건대 취업률 77.7％…대구지역 전문대 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260107096800053",
+      "pubDate": "Wed, 7 Jan 2026 14:09:47 +0900"
+    },
+    {
+      "title": "관악구, '지방물가 안정관리' 우수 지자체로 3년째 뽑혀",
+      "link": "https://www.yna.co.kr/view/AKR20260107095800004",
+      "pubDate": "Wed, 7 Jan 2026 14:00:54 +0900"
+    },
+    {
+      "title": "'공룡 플랫폼의 폭주 멈춰라'…소상공인들, 쿠팡 규탄 집회",
+      "link": "https://www.yna.co.kr/view/AKR20260106131600030",
+      "pubDate": "Wed, 7 Jan 2026 14:00:02 +0900"
+    },
     {
       "title": "작년 외국인 투자 역대 최대…아마존 등 미국 투자 86%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260107044551003",
@@ -97,61 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 장중 연 2.924%",
       "link": "https://www.yna.co.kr/view/AKR20260107076500008",
       "pubDate": "Wed, 7 Jan 2026 11:40:28 +0900"
-    },
-    {
-      "title": "\"미국산 만다린과 경쟁 불가피\"…제주 감귤업계, 대응 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260107071300056",
-      "pubDate": "Wed, 7 Jan 2026 11:36:38 +0900"
-    },
-    {
-      "title": "화성시, 사업자 선정 잇단 무산 동탄트램 입찰조건 개선 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260107072700061",
-      "pubDate": "Wed, 7 Jan 2026 11:29:02 +0900"
-    },
-    {
-      "title": "조달청, 안전·고용·국산화 중심으로 물품구매제도 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260107069900063",
-      "pubDate": "Wed, 7 Jan 2026 11:15:52 +0900"
-    },
-    {
-      "title": "코스피, 장중 오름폭 줄여 4,570대…코스닥 낙폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260107070100008",
-      "pubDate": "Wed, 7 Jan 2026 11:14:26 +0900"
-    },
-    {
-      "title": "케이뱅크 \"작년 개인사업자 보증 대출 2천400억원…6배 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107067600002",
-      "pubDate": "Wed, 7 Jan 2026 11:11:14 +0900"
-    },
-    {
-      "title": "\"도시 전반 AI 대전환 총력\"…울산시, 4대 전략 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260107063400057",
-      "pubDate": "Wed, 7 Jan 2026 11:05:01 +0900"
-    },
-    {
-      "title": "집 사면 더 행복해질까…부산대 연구팀, 주택소유 효과 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260107066400051",
-      "pubDate": "Wed, 7 Jan 2026 11:03:04 +0900"
-    },
-    {
-      "title": "첫 민생경제장관회의…구윤철 \"물가·일자리·복지에 역량결집\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107065700002",
-      "pubDate": "Wed, 7 Jan 2026 11:00:32 +0900"
-    },
-    {
-      "title": "해수부, 설 명절 앞두고 선원 임금 관련 특별근로감독",
-      "link": "https://www.yna.co.kr/view/AKR20260107040000051",
-      "pubDate": "Wed, 7 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "작년 외국인 투자 360억달러 돌파…5년 연속 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260107044500003",
-      "pubDate": "Wed, 7 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "의정부시 \"올해 미래산업 육성 펀드 100억 조성 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107063200060",
-      "pubDate": "Wed, 7 Jan 2026 10:49:05 +0900"
     }
   ]
 }
