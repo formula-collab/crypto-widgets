@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767848428,
+  "updated_at_unix": 1767851654,
   "items": [
+    {
+      "title": "코트라, 직원 사칭 피싱 범죄 주의보…\"반드시 진위 확인해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108101900003",
+      "pubDate": "Thu, 8 Jan 2026 14:44:20 +0900"
+    },
+    {
+      "title": "광주시, 창업지원 기반시설 삼각벨트 완성",
+      "link": "https://www.yna.co.kr/view/AKR20260108102000054",
+      "pubDate": "Thu, 8 Jan 2026 14:43:09 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장, 中공상은행과 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260108099400002",
+      "pubDate": "Thu, 8 Jan 2026 14:36:54 +0900"
+    },
+    {
+      "title": "'기업가치 제고' 정책에 작년 자사주 매입·소각 사상 최고치",
+      "link": "https://www.yna.co.kr/view/AKR20260108099200008",
+      "pubDate": "Thu, 8 Jan 2026 14:33:44 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260108095400011",
+      "pubDate": "Thu, 8 Jan 2026 14:30:01 +0900"
+    },
+    {
+      "title": "부산은행갤러리서 12일부터 신년 첫 기획전",
+      "link": "https://www.yna.co.kr/view/AKR20260108099300051",
+      "pubDate": "Thu, 8 Jan 2026 14:29:44 +0900"
+    },
+    {
+      "title": "한국엘에프피, CES 2026서 300만 달러 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260108098800051",
+      "pubDate": "Thu, 8 Jan 2026 14:29:04 +0900"
+    },
+    {
+      "title": "금감원 '갑질 의혹' 쿠팡파이낸셜 검사 착수…고금리 대출 본다",
+      "link": "https://www.yna.co.kr/view/AKR20260108096800002",
+      "pubDate": "Thu, 8 Jan 2026 14:27:42 +0900"
+    },
+    {
+      "title": "카카오 신입 만난 정신아 \"AI보다 중요한 건 판단\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108090500017",
+      "pubDate": "Thu, 8 Jan 2026 14:20:46 +0900"
+    },
+    {
+      "title": "인천항만공사, 중고차 수출단지 새 밑그림 그린다…용역 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260108094900065",
+      "pubDate": "Thu, 8 Jan 2026 14:16:53 +0900"
+    },
+    {
+      "title": "농협은행, 'NH미래성장기업대출' 출시…잠재력 높은 기업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260108094100002",
+      "pubDate": "Thu, 8 Jan 2026 14:11:15 +0900"
+    },
+    {
+      "title": "인천시, '개원 지연' 송도 세브란스병원 건축비 추가 지원 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260108053900065",
+      "pubDate": "Thu, 8 Jan 2026 14:00:12 +0900"
+    },
+    {
+      "title": "서울아파트값 새해 첫주 상승세 둔화했으나 48주째 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260108076100003",
+      "pubDate": "Thu, 8 Jan 2026 14:00:03 +0900"
+    },
+    {
+      "title": "농식품부, 농협 비위의혹 두 건 법령위반 정황포착…'수사 의뢰'",
+      "link": "https://www.yna.co.kr/view/AKR20260108077700030",
+      "pubDate": "Thu, 8 Jan 2026 14:00:01 +0900"
+    },
+    {
+      "title": "농민돈 펑펑 쓰고 성추행직원 봐주기…농협 비리·부실경영 온상",
+      "link": "https://www.yna.co.kr/view/AKR20260108069500030",
+      "pubDate": "Thu, 8 Jan 2026 14:00:01 +0900"
+    },
+    {
+      "title": "강호동 농협회장, 5성급스위트룸서 수천만원…연간 수억원 꿀꺽",
+      "link": "https://www.yna.co.kr/view/AKR20260108089200030",
+      "pubDate": "Thu, 8 Jan 2026 14:00:00 +0900"
+    },
+    {
+      "title": "도봉산∼옥정 광역철도 전 구간 관통…내년 말 개통",
+      "link": "https://www.yna.co.kr/view/AKR20260108092000060",
+      "pubDate": "Thu, 8 Jan 2026 13:59:57 +0900"
+    },
     {
       "title": "기획처ㆍ중장기전략위 첫 회의…\"2030년+α로 전략 수립\"",
       "link": "https://www.yna.co.kr/view/AKR20260108087700002",
@@ -67,91 +152,6 @@
       "title": "정부 \"中, 대일 희토류 통제…공급망 연결된 한국도 영향권\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260108069951003",
       "pubDate": "Thu, 8 Jan 2026 11:49:39 +0900"
-    },
-    {
-      "title": "세종 창업 인프라·생태계 조성…2030년 유니콘기업 육성 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260108077600063",
-      "pubDate": "Thu, 8 Jan 2026 11:47:43 +0900"
-    },
-    {
-      "title": "'디폴트 우려' 中완커, 은행 대출이자 지급 9월까지 유예 합의",
-      "link": "https://www.yna.co.kr/view/AKR20260108076300083",
-      "pubDate": "Thu, 8 Jan 2026 11:40:48 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 장중 연 2.915%",
-      "link": "https://www.yna.co.kr/view/AKR20260108077300008",
-      "pubDate": "Thu, 8 Jan 2026 11:40:30 +0900"
-    },
-    {
-      "title": "서울 도림1구역 공공재개발 정비구역 지정고시 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260108076400003",
-      "pubDate": "Thu, 8 Jan 2026 11:35:37 +0900"
-    },
-    {
-      "title": "쏘카 \"온라인 모두의주차장, 작년 거래액 600억원 첫 돌파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108064000030",
-      "pubDate": "Thu, 8 Jan 2026 11:27:25 +0900"
-    },
-    {
-      "title": "하나투어, 중국 상하이 지점 개설…자유여행·출장 상품 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260108071700030",
-      "pubDate": "Thu, 8 Jan 2026 11:23:43 +0900"
-    },
-    {
-      "title": "코스피, 장중 상승 전환해 한때 4,600선 돌파…또 사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260108072800008",
-      "pubDate": "Thu, 8 Jan 2026 11:20:38 +0900"
-    },
-    {
-      "title": "\"무제한 요금제 선택 소비자 절반, 데이터사용량 100GB 미만\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108063600030",
-      "pubDate": "Thu, 8 Jan 2026 11:18:17 +0900"
-    },
-    {
-      "title": "서울시금고, 12개월 예금 금리 3.45%…기준 예금은행보다 높아",
-      "link": "https://www.yna.co.kr/view/AKR20260108056300004",
-      "pubDate": "Thu, 8 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "정부 \"中, 대일 희토류 통제…공급망 연결된 한국도 영향권\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108069900003",
-      "pubDate": "Thu, 8 Jan 2026 11:11:12 +0900"
-    },
-    {
-      "title": "1월 아파트 분양전망지수 14.1p↑…수도권 집값 상승 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260108028400003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:05 +0900"
-    },
-    {
-      "title": "정비사업 초기사업비 융자 1% 이자로 지원…1년 한시운영",
-      "link": "https://www.yna.co.kr/view/AKR20260108036900003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:04 +0900"
-    },
-    {
-      "title": "'국민 제안, 정부가 정책으로 실현' 지재처 7억원 내걸었다",
-      "link": "https://www.yna.co.kr/view/AKR20260108045700063",
-      "pubDate": "Thu, 8 Jan 2026 11:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 2026 섬유패션인 신년인사회…\"변화와 혁신이 살길\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108050600003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "\"CBAM 파고 넘는다\"…산업부, 철강업계와 대응책 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260108048000003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[CES 2026] 혁신기술 스타트업, 삼성 손잡고 글로벌 도전",
-      "link": "https://www.yna.co.kr/view/AKR20260108056700003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "산업부, 2026 수출 점검회의…\"2년 연속 7천억달러 달성 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108058900003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:01 +0900"
     }
   ]
 }
