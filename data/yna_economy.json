@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767905099,
+  "updated_at_unix": 1767908387,
   "items": [
+    {
+      "title": "전중노위원장, '중노위 사유화' 사실로…노동부, 과태료 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260108135900530",
+      "pubDate": "Fri, 9 Jan 2026 06:03:01 +0900"
+    },
+    {
+      "title": "중소기업 매출총액 2천85조원…종사자는 792만명",
+      "link": "https://www.yna.co.kr/view/AKR20260108114300030",
+      "pubDate": "Fri, 9 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "세종시 공공기관 채용시스템 '구멍'…부적격자 합격 수두룩",
+      "link": "https://www.yna.co.kr/view/AKR20260108120800063",
+      "pubDate": "Fri, 9 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "작년 해외건설 수주 11년만에 최대…체코원전이 견인",
+      "link": "https://www.yna.co.kr/view/AKR20260108124100003",
+      "pubDate": "Fri, 9 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "이마트, 남해군과 협약…마늘 활용한 간편식 개발한다",
+      "link": "https://www.yna.co.kr/view/AKR20260108130800030",
+      "pubDate": "Fri, 9 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "외국인 12월 국내주식 1.5조 사들여…한달 만에 '사자'",
+      "link": "https://www.yna.co.kr/view/AKR20260108140500002",
+      "pubDate": "Fri, 9 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 낙폭 과대 인식 속 저가 매수 유입…WTI 3.2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260109007800009",
+      "pubDate": "Fri, 9 Jan 2026 05:59:04 +0900"
+    },
     {
       "title": "달러-원, 야간서 美 지표 호조에 1,454원대 '터치'…1,451.80원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260109002400002",
@@ -117,41 +152,6 @@
       "title": "2026년 노사정 신년인사회…노동장관 \"힘모아 함께 나아가자\"",
       "link": "https://www.yna.co.kr/view/AKR20260107138600530",
       "pubDate": "Thu, 8 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "재경부, '국채시장 자문위' 출범…4월 WGBI 편입 앞두고 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260108100400002",
-      "pubDate": "Thu, 8 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[특징주] HD현대중공업 4.5%↑…조선·방산, 실적기대속 동반 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108043551008",
-      "pubDate": "Thu, 8 Jan 2026 15:57:36 +0900"
-    },
-    {
-      "title": "강호동 농협회장, 스위트룸서 수천만원…농민신문 별도연봉 3억(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108089251030",
-      "pubDate": "Thu, 8 Jan 2026 15:56:02 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전기, 장중 급등 후 상승폭 축소해 1.7%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108049751008",
-      "pubDate": "Thu, 8 Jan 2026 15:54:31 +0900"
-    },
-    {
-      "title": "제주 만감류 통합마케팅 강화…농협, 직접 매입 공급조절도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260108114500056",
-      "pubDate": "Thu, 8 Jan 2026 15:50:19 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자 미국발 한파에 하락 마감…하이닉스는 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108039451008",
-      "pubDate": "Thu, 8 Jan 2026 15:46:38 +0900"
-    },
-    {
-      "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260108112900008",
-      "pubDate": "Thu, 8 Jan 2026 15:37:45 +0900"
     }
   ]
 }
