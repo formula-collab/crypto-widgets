@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767844475,
+  "updated_at_unix": 1767848428,
   "items": [
+    {
+      "title": "기획처ㆍ중장기전략위 첫 회의…\"2030년+α로 전략 수립\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108087700002",
+      "pubDate": "Thu, 8 Jan 2026 13:44:33 +0900"
+    },
     {
       "title": "소비자원 \"식기세척기 세제 1회 세척비 최대 1.8배 차이\"",
       "link": "https://www.yna.co.kr/view/AKR20260107123800030",
@@ -146,11 +151,6 @@
     {
       "title": "산업부, 2026 수출 점검회의…\"2년 연속 7천억달러 달성 총력\"",
       "link": "https://www.yna.co.kr/view/AKR20260108058900003",
-      "pubDate": "Thu, 8 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 산업부, 한영 FTA 개선협상 타결 성과 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260108062700003",
       "pubDate": "Thu, 8 Jan 2026 11:00:01 +0900"
     }
   ]
