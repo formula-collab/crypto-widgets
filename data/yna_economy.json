@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767869520,
+  "updated_at_unix": 1767872186,
   "items": [
+    {
+      "title": "검찰, '한전 입찰 담합' 효성重·현대일렉 임직원 구속영장 청구",
+      "link": "https://www.yna.co.kr/view/AKR20260108147200004",
+      "pubDate": "Thu, 8 Jan 2026 20:24:20 +0900"
+    },
     {
       "title": "[게시판] 손보협회, 한국형사·법무정책 연구원과 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260108139000002",
@@ -147,11 +152,6 @@
       "title": "[게시판] 중기부, 소상공인 성장 릴레이 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260108090600030",
       "pubDate": "Thu, 8 Jan 2026 15:00:28 +0900"
-    },
-    {
-      "title": "\"금융권 AI 확산 속 정보유출 위험…내부통제체계 정비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108084300008",
-      "pubDate": "Thu, 8 Jan 2026 15:00:27 +0900"
     }
   ]
 }
