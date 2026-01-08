@@ -1,10 +1,25 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767862727,
+  "updated_at_unix": 1767865937,
   "items": [
     {
-      "title": "李대통령, '예산 법정기한 준수' 기획예산처에도 격려 피자 보내",
+      "title": "[게시판] 손보협회, 한국형사·법무정책 연구원과 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260108139000002",
+      "pubDate": "Thu, 8 Jan 2026 18:42:26 +0900"
+    },
+    {
+      "title": "정부 \"中, 대일 희토류 통제…공급망 연결된 한국도 영향권\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260108069952003",
+      "pubDate": "Thu, 8 Jan 2026 18:33:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260108131800011",
+      "pubDate": "Thu, 8 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "李대통령 '예산 법정기한 준수' 기획처 예산실에도 격려 피자",
       "link": "https://www.yna.co.kr/view/AKR20260108134000002",
       "pubDate": "Thu, 8 Jan 2026 17:43:17 +0900"
     },
@@ -137,21 +152,6 @@
       "title": "\"금융권 AI 확산 속 정보유출 위험…내부통제체계 정비해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260108084300008",
       "pubDate": "Thu, 8 Jan 2026 15:00:27 +0900"
-    },
-    {
-      "title": "정부, 내년 예산편성 조기 착수…기획처 \"국정철학 본격 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108104100002",
-      "pubDate": "Thu, 8 Jan 2026 15:00:00 +0900"
-    },
-    {
-      "title": "\"'EU 전면금지' 생식독성 성분함유 화장품 국내서 여전히 판매\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108096900030",
-      "pubDate": "Thu, 8 Jan 2026 14:54:25 +0900"
-    },
-    {
-      "title": "코트라, 직원 사칭 피싱 범죄 주의보…\"반드시 진위 확인해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108101900003",
-      "pubDate": "Thu, 8 Jan 2026 14:44:20 +0900"
     }
   ]
 }
