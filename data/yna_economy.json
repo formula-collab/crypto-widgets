@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767912298,
+  "updated_at_unix": 1767915040,
   "items": [
+    {
+      "title": "SSG닷컴, 미슐랭 1스타 '소울' 김희은·윤대현 협업 간편식 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260109023800030",
+      "pubDate": "Fri, 9 Jan 2026 08:22:50 +0900"
+    },
+    {
+      "title": "11번가, 올해 첫 '십일절'…당일배송 마감 시간 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260109023200030",
+      "pubDate": "Fri, 9 Jan 2026 08:16:39 +0900"
+    },
+    {
+      "title": "[게시판] 파리바게뜨, 손흥민 LAFC 개막전 관람 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260109023000030",
+      "pubDate": "Fri, 9 Jan 2026 08:16:37 +0900"
+    },
+    {
+      "title": "에이블리, 정기 뷰티행사 '뷰티 페스타'로 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260109022900030",
+      "pubDate": "Fri, 9 Jan 2026 08:15:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 반도체주 약세 지속…코스피도 하루 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260109020400008",
+      "pubDate": "Fri, 9 Jan 2026 08:05:55 +0900"
+    },
+    {
+      "title": "11월 경상수지 122억달러 흑자…반도체 등 수출호조에 동월 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260109018700002",
+      "pubDate": "Fri, 9 Jan 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산기업, CES 2026서 글로벌 투자사 미팅…투자유치 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260109019400051",
+      "pubDate": "Fri, 9 Jan 2026 07:52:53 +0900"
+    },
     {
       "title": "울산 건설경기 침체에도 지역업체 하도급률 35% 목표 달성",
       "link": "https://www.yna.co.kr/view/AKR20260108149600057",
@@ -117,41 +152,6 @@
       "title": "국고채 금리 대체로 하락…3년물 연 2.902%",
       "link": "https://www.yna.co.kr/view/AKR20260108125200008",
       "pubDate": "Thu, 8 Jan 2026 16:40:48 +0900"
-    },
-    {
-      "title": "세운4구역에 애드벌룬 띄운 서울시 \"이래도 경관 훼손?\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108123200004",
-      "pubDate": "Thu, 8 Jan 2026 16:39:49 +0900"
-    },
-    {
-      "title": "스피어 \"싱가포르 종속회사 주식 65억에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108122200008",
-      "pubDate": "Thu, 8 Jan 2026 16:29:24 +0900"
-    },
-    {
-      "title": "[게시판] KCC건설, 서울영상광고제 7년 연속 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260108119300003",
-      "pubDate": "Thu, 8 Jan 2026 16:12:49 +0900"
-    },
-    {
-      "title": "환율, 당국 개입 경계에도 1,450원 넘어…6일 연속 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260108116600002",
-      "pubDate": "Thu, 8 Jan 2026 16:11:14 +0900"
-    },
-    {
-      "title": "'청와대 관람' 안내하던 용역노동자들 \"고용 보장하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108113000004",
-      "pubDate": "Thu, 8 Jan 2026 16:08:54 +0900"
-    },
-    {
-      "title": "와이엠텍 \"종속회사 성현테크놀로지 주식 100억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108119000008",
-      "pubDate": "Thu, 8 Jan 2026 16:07:49 +0900"
-    },
-    {
-      "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108117900008",
-      "pubDate": "Thu, 8 Jan 2026 16:05:45 +0900"
     }
   ]
 }
