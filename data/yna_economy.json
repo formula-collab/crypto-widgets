@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767908387,
+  "updated_at_unix": 1767912298,
   "items": [
+    {
+      "title": "울산 건설경기 침체에도 지역업체 하도급률 35% 목표 달성",
+      "link": "https://www.yna.co.kr/view/AKR20260108149600057",
+      "pubDate": "Fri, 9 Jan 2026 07:38:53 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260109015800011",
+      "pubDate": "Fri, 9 Jan 2026 07:30:01 +0900"
+    },
     {
       "title": "전중노위원장, '중노위 사유화' 사실로…노동부, 과태료 통보",
       "link": "https://www.yna.co.kr/view/AKR20260108135900530",
@@ -142,16 +152,6 @@
       "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260108117900008",
       "pubDate": "Thu, 8 Jan 2026 16:05:45 +0900"
-    },
-    {
-      "title": "진주시, 투자유치 전담 조직 신설…\"서부경남 중심도시 도약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108116100052",
-      "pubDate": "Thu, 8 Jan 2026 16:03:32 +0900"
-    },
-    {
-      "title": "2026년 노사정 신년인사회…노동장관 \"힘모아 함께 나아가자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107138600530",
-      "pubDate": "Thu, 8 Jan 2026 16:00:01 +0900"
     }
   ]
 }
