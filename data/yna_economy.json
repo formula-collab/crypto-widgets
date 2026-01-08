@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767855597,
+  "updated_at_unix": 1767858236,
   "items": [
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 2.902%",
+      "link": "https://www.yna.co.kr/view/AKR20260108125200008",
+      "pubDate": "Thu, 8 Jan 2026 16:40:48 +0900"
+    },
+    {
+      "title": "세운4구역에 애드벌룬 띄운 서울시 \"이래도 경관 훼손?\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108123200004",
+      "pubDate": "Thu, 8 Jan 2026 16:39:49 +0900"
+    },
+    {
+      "title": "스피어 \"싱가포르 종속회사 주식 65억에 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108122200008",
+      "pubDate": "Thu, 8 Jan 2026 16:29:24 +0900"
+    },
+    {
+      "title": "[게시판] KCC건설, 서울영상광고제 7년 연속 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260108119300003",
+      "pubDate": "Thu, 8 Jan 2026 16:12:49 +0900"
+    },
+    {
+      "title": "환율, 당국 개입 경계에도 1,450원 넘어…6일 연속 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260108116600002",
+      "pubDate": "Thu, 8 Jan 2026 16:11:14 +0900"
+    },
+    {
+      "title": "'청와대 관람' 안내하던 용역노동자들 \"고용 보장하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108113000004",
+      "pubDate": "Thu, 8 Jan 2026 16:08:54 +0900"
+    },
+    {
+      "title": "와이엠텍 \"종속회사 성현테크놀로지 주식 100억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108119000008",
+      "pubDate": "Thu, 8 Jan 2026 16:07:49 +0900"
+    },
+    {
+      "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108117900008",
+      "pubDate": "Thu, 8 Jan 2026 16:05:45 +0900"
+    },
+    {
+      "title": "진주시, 투자유치 전담 조직 신설…\"서부경남 중심도시 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108116100052",
+      "pubDate": "Thu, 8 Jan 2026 16:03:32 +0900"
+    },
+    {
+      "title": "2026년 노사정 신년인사회…노동장관 \"힘모아 함께 나아가자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260107138600530",
+      "pubDate": "Thu, 8 Jan 2026 16:00:01 +0900"
+    },
+    {
+      "title": "재경부, '국채시장 자문위' 출범…4월 WGBI 편입 앞두고 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260108100400002",
+      "pubDate": "Thu, 8 Jan 2026 16:00:01 +0900"
+    },
+    {
+      "title": "[특징주] HD현대중공업 4.5%↑…조선·방산, 실적기대속 동반 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108043551008",
+      "pubDate": "Thu, 8 Jan 2026 15:57:36 +0900"
+    },
     {
       "title": "강호동 농협회장, 스위트룸서 수천만원…농민신문 별도연봉 3억(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260108089251030",
@@ -92,66 +152,6 @@
       "title": "한국엘에프피, CES 2026서 300만 달러 투자 유치",
       "link": "https://www.yna.co.kr/view/AKR20260108098800051",
       "pubDate": "Thu, 8 Jan 2026 14:29:04 +0900"
-    },
-    {
-      "title": "금감원 '갑질 의혹' 쿠팡파이낸셜 검사 착수…고금리 대출 본다",
-      "link": "https://www.yna.co.kr/view/AKR20260108096800002",
-      "pubDate": "Thu, 8 Jan 2026 14:27:42 +0900"
-    },
-    {
-      "title": "카카오 신입 만난 정신아 \"AI보다 중요한 건 판단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108090500017",
-      "pubDate": "Thu, 8 Jan 2026 14:20:46 +0900"
-    },
-    {
-      "title": "인천항만공사, 중고차 수출단지 새 밑그림 그린다…용역 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260108094900065",
-      "pubDate": "Thu, 8 Jan 2026 14:16:53 +0900"
-    },
-    {
-      "title": "농협은행, 'NH미래성장기업대출' 출시…잠재력 높은 기업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260108094100002",
-      "pubDate": "Thu, 8 Jan 2026 14:11:15 +0900"
-    },
-    {
-      "title": "인천시, '개원 지연' 송도 세브란스병원 건축비 추가 지원 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260108053900065",
-      "pubDate": "Thu, 8 Jan 2026 14:00:12 +0900"
-    },
-    {
-      "title": "서울아파트값 새해 첫주 상승세 둔화했으나 48주째 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260108076100003",
-      "pubDate": "Thu, 8 Jan 2026 14:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 농협 비위의혹 두 건 법령위반 정황포착…'수사 의뢰'",
-      "link": "https://www.yna.co.kr/view/AKR20260108077700030",
-      "pubDate": "Thu, 8 Jan 2026 14:00:01 +0900"
-    },
-    {
-      "title": "농민돈 펑펑 쓰고 성추행직원 봐주기…농협 비리·부실경영 온상",
-      "link": "https://www.yna.co.kr/view/AKR20260108069500030",
-      "pubDate": "Thu, 8 Jan 2026 14:00:01 +0900"
-    },
-    {
-      "title": "강호동 농협회장, 스위트룸서 수천만원…농민신문 별도 연봉 3억",
-      "link": "https://www.yna.co.kr/view/AKR20260108089200030",
-      "pubDate": "Thu, 8 Jan 2026 14:00:00 +0900"
-    },
-    {
-      "title": "도봉산∼옥정 광역철도 전 구간 관통…내년 말 개통",
-      "link": "https://www.yna.co.kr/view/AKR20260108092000060",
-      "pubDate": "Thu, 8 Jan 2026 13:59:57 +0900"
-    },
-    {
-      "title": "기획처ㆍ중장기전략위 \"2030년 중기, +α 장기로 전략 수립\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108087700002",
-      "pubDate": "Thu, 8 Jan 2026 13:44:33 +0900"
-    },
-    {
-      "title": "소비자원 \"식기세척기 세제 1회 세척비 최대 1.8배 차이\"",
-      "link": "https://www.yna.co.kr/view/AKR20260107123800030",
-      "pubDate": "Thu, 8 Jan 2026 12:00:15 +0900"
     }
   ]
 }
