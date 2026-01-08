@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767858236,
+  "updated_at_unix": 1767862727,
   "items": [
+    {
+      "title": "李대통령, '예산 법정기한 준수' 기획예산처에도 격려 피자 보내",
+      "link": "https://www.yna.co.kr/view/AKR20260108134000002",
+      "pubDate": "Thu, 8 Jan 2026 17:43:17 +0900"
+    },
+    {
+      "title": "국유지에 허가 없이 공사 차량 진입시킨 현장소장 입건",
+      "link": "https://www.yna.co.kr/view/AKR20260108133300051",
+      "pubDate": "Thu, 8 Jan 2026 17:40:37 +0900"
+    },
+    {
+      "title": "국고채, 대외금리 하락 영향 대체로 내림세…3년물 연 2.902%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108125251008",
+      "pubDate": "Thu, 8 Jan 2026 17:40:07 +0900"
+    },
+    {
+      "title": "[속초소식] 일본 아오모리대학과 정책 간담회…협력 방안 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260108130700062",
+      "pubDate": "Thu, 8 Jan 2026 17:14:13 +0900"
+    },
+    {
+      "title": "2026년 노사정 신년인사회…노동장관 \"힘모아 함께 나아가자\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260107138651530",
+      "pubDate": "Thu, 8 Jan 2026 17:13:52 +0900"
+    },
+    {
+      "title": "씨엔알리서치 \"메디플렉서스 주식 48억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108127500008",
+      "pubDate": "Thu, 8 Jan 2026 16:56:58 +0900"
+    },
     {
       "title": "국고채 금리 대체로 하락…3년물 연 2.902%",
       "link": "https://www.yna.co.kr/view/AKR20260108125200008",
@@ -122,36 +152,6 @@
       "title": "코트라, 직원 사칭 피싱 범죄 주의보…\"반드시 진위 확인해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260108101900003",
       "pubDate": "Thu, 8 Jan 2026 14:44:20 +0900"
-    },
-    {
-      "title": "광주시, 창업지원 기반시설 삼각벨트 완성",
-      "link": "https://www.yna.co.kr/view/AKR20260108102000054",
-      "pubDate": "Thu, 8 Jan 2026 14:43:09 +0900"
-    },
-    {
-      "title": "진옥동 신한금융 회장, 中공상은행과 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260108099400002",
-      "pubDate": "Thu, 8 Jan 2026 14:36:54 +0900"
-    },
-    {
-      "title": "'기업가치 제고' 정책에 작년 자사주 매입·소각 사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260108099200008",
-      "pubDate": "Thu, 8 Jan 2026 14:33:44 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260108095400011",
-      "pubDate": "Thu, 8 Jan 2026 14:30:01 +0900"
-    },
-    {
-      "title": "부산은행갤러리서 12일부터 신년 첫 기획전",
-      "link": "https://www.yna.co.kr/view/AKR20260108099300051",
-      "pubDate": "Thu, 8 Jan 2026 14:29:44 +0900"
-    },
-    {
-      "title": "한국엘에프피, CES 2026서 300만 달러 투자 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260108098800051",
-      "pubDate": "Thu, 8 Jan 2026 14:29:04 +0900"
     }
   ]
 }
