@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767851654,
+  "updated_at_unix": 1767855597,
   "items": [
+    {
+      "title": "강호동 농협회장, 스위트룸서 수천만원…농민신문 별도연봉 3억(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108089251030",
+      "pubDate": "Thu, 8 Jan 2026 15:56:02 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전기, 장중 급등 후 상승폭 축소해 1.7%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108049751008",
+      "pubDate": "Thu, 8 Jan 2026 15:54:31 +0900"
+    },
+    {
+      "title": "제주 만감류 통합마케팅 강화…농협, 직접 매입 공급조절도 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260108114500056",
+      "pubDate": "Thu, 8 Jan 2026 15:50:19 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자 미국발 한파에 하락 마감…하이닉스는 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260108039451008",
+      "pubDate": "Thu, 8 Jan 2026 15:46:38 +0900"
+    },
+    {
+      "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260108112900008",
+      "pubDate": "Thu, 8 Jan 2026 15:37:45 +0900"
+    },
+    {
+      "title": "외국환시세(1월8일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260108112700002",
+      "pubDate": "Thu, 8 Jan 2026 15:37:17 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 4.8원 오른 1,450.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260108111400002",
+      "pubDate": "Thu, 8 Jan 2026 15:30:36 +0900"
+    },
+    {
+      "title": "[게시판] 중기부, 소상공인 성장 릴레이 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260108090600030",
+      "pubDate": "Thu, 8 Jan 2026 15:00:28 +0900"
+    },
+    {
+      "title": "\"금융권 AI 확산 속 정보유출 위험…내부통제체계 정비해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108084300008",
+      "pubDate": "Thu, 8 Jan 2026 15:00:27 +0900"
+    },
+    {
+      "title": "정부, 내년 예산편성 조기 착수…기획처 \"국정철학 본격 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108104100002",
+      "pubDate": "Thu, 8 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "\"'EU 전면금지' 생식독성 성분함유 화장품 국내서 여전히 판매\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108096900030",
+      "pubDate": "Thu, 8 Jan 2026 14:54:25 +0900"
+    },
     {
       "title": "코트라, 직원 사칭 피싱 범죄 주의보…\"반드시 진위 확인해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260108101900003",
@@ -79,7 +134,7 @@
       "pubDate": "Thu, 8 Jan 2026 14:00:01 +0900"
     },
     {
-      "title": "강호동 농협회장, 5성급스위트룸서 수천만원…연간 수억원 꿀꺽",
+      "title": "강호동 농협회장, 스위트룸서 수천만원…농민신문 별도 연봉 3억",
       "link": "https://www.yna.co.kr/view/AKR20260108089200030",
       "pubDate": "Thu, 8 Jan 2026 14:00:00 +0900"
     },
@@ -89,7 +144,7 @@
       "pubDate": "Thu, 8 Jan 2026 13:59:57 +0900"
     },
     {
-      "title": "기획처ㆍ중장기전략위 첫 회의…\"2030년+α로 전략 수립\"",
+      "title": "기획처ㆍ중장기전략위 \"2030년 중기, +α 장기로 전략 수립\"",
       "link": "https://www.yna.co.kr/view/AKR20260108087700002",
       "pubDate": "Thu, 8 Jan 2026 13:44:33 +0900"
     },
@@ -97,61 +152,6 @@
       "title": "소비자원 \"식기세척기 세제 1회 세척비 최대 1.8배 차이\"",
       "link": "https://www.yna.co.kr/view/AKR20260107123800030",
       "pubDate": "Thu, 8 Jan 2026 12:00:15 +0900"
-    },
-    {
-      "title": "중기부-소상공인연합, 쿠팡 사태 피해 신고센터 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260107135400030",
-      "pubDate": "Thu, 8 Jan 2026 12:00:13 +0900"
-    },
-    {
-      "title": "\"26일까지 부가세 납부하세요\"…소상공인 124만명은 2개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260108033500002",
-      "pubDate": "Thu, 8 Jan 2026 12:00:12 +0900"
-    },
-    {
-      "title": "장애인 활동지원 서비스 부담금, 연말정산시 자동 세액 공제",
-      "link": "https://www.yna.co.kr/view/AKR20260108041000530",
-      "pubDate": "Thu, 8 Jan 2026 12:00:12 +0900"
-    },
-    {
-      "title": "중기부, 기술혁신 중소기업 70곳 모집…R&D 223억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260108052800030",
-      "pubDate": "Thu, 8 Jan 2026 12:00:10 +0900"
-    },
-    {
-      "title": "정부, 올해 녹색인프라 해외수출 지원펀드에 600억원 출자",
-      "link": "https://www.yna.co.kr/view/AKR20260108053400530",
-      "pubDate": "Thu, 8 Jan 2026 12:00:10 +0900"
-    },
-    {
-      "title": "한은 \"투자 둔화로 기업·은행 금융 연계성 높아져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108056100002",
-      "pubDate": "Thu, 8 Jan 2026 12:00:09 +0900"
-    },
-    {
-      "title": "KDI \"건설업 부진, 제조업도 조정…소비로 생산 증가세 유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108061700002",
-      "pubDate": "Thu, 8 Jan 2026 12:00:07 +0900"
-    },
-    {
-      "title": "3분기 가계여윳돈 58조원, 7조원↑…대출 줄고 소비쿠폰 효과도",
-      "link": "https://www.yna.co.kr/view/AKR20260108074000002",
-      "pubDate": "Thu, 8 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "과기정통부, 기후 R&D 1천511억 투입…75% 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260108075400017",
-      "pubDate": "Thu, 8 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "오세훈 \"민간임대 규제, 서민 주거불안 높여…대출제한 풀어야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108044251004",
-      "pubDate": "Thu, 8 Jan 2026 11:55:56 +0900"
-    },
-    {
-      "title": "정부 \"中, 대일 희토류 통제…공급망 연결된 한국도 영향권\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260108069951003",
-      "pubDate": "Thu, 8 Jan 2026 11:49:39 +0900"
     }
   ]
 }
