@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767891651,
+  "updated_at_unix": 1767895130,
   "items": [
+    {
+      "title": "달러-원, 야간서 美 지표 호조에 1,454원대 '터치'…1,451.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260109002400002",
+      "pubDate": "Fri, 9 Jan 2026 02:31:10 +0900"
+    },
+    {
+      "title": "\"아이언맨 된 기분\"…CES서 몸 푸는 바디프랜드 헬스케어 로봇",
+      "link": "https://www.yna.co.kr/view/AKR20260108141000030",
+      "pubDate": "Fri, 9 Jan 2026 02:00:00 +0900"
+    },
     {
       "title": "하나증권, '하나 THE 발행어음' 출시…생산적 금융 전환 시동",
       "link": "https://www.yna.co.kr/view/AKR20260108111500008",
@@ -142,16 +152,6 @@
       "title": "'롤러코스터' 코스피, 등락 끝에 4,550대 강보합 마감",
       "link": "https://www.yna.co.kr/view/AKR20260108112900008",
       "pubDate": "Thu, 8 Jan 2026 15:37:45 +0900"
-    },
-    {
-      "title": "외국환시세(1월8일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260108112700002",
-      "pubDate": "Thu, 8 Jan 2026 15:37:17 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.8원 오른 1,450.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260108111400002",
-      "pubDate": "Thu, 8 Jan 2026 15:30:36 +0900"
     }
   ]
 }
