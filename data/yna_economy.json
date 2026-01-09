@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767938049,
+  "updated_at_unix": 1767942033,
   "items": [
+    {
+      "title": "'헬리코박터 프로젝트 윌 당밸런스'에 대장균…hy, 자진 회수",
+      "link": "https://www.yna.co.kr/view/AKR20260109109600030",
+      "pubDate": "Fri, 9 Jan 2026 15:54:42 +0900"
+    },
+    {
+      "title": "법무법인 진심, 이주노동자 비자전환 지원서비스 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260109107500051",
+      "pubDate": "Fri, 9 Jan 2026 15:51:00 +0900"
+    },
+    {
+      "title": "'전약후강' 코스피, 엿새째 올라 4,580대 마감…사상 최고치",
+      "link": "https://www.yna.co.kr/view/AKR20260109105400008",
+      "pubDate": "Fri, 9 Jan 2026 15:35:33 +0900"
+    },
+    {
+      "title": "외국환시세(1월9일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260109105500002",
+      "pubDate": "Fri, 9 Jan 2026 15:35:19 +0900"
+    },
+    {
+      "title": "두을장학재단, 장학증서 수여식…이부진 이사장, 사재 추가 출연",
+      "link": "https://www.yna.co.kr/view/AKR20260109105200030",
+      "pubDate": "Fri, 9 Jan 2026 15:35:11 +0900"
+    },
+    {
+      "title": "하나은행 과태료 3.7억원…은행법·전자금융거래법 위반",
+      "link": "https://www.yna.co.kr/view/AKR20260109103900002",
+      "pubDate": "Fri, 9 Jan 2026 15:34:54 +0900"
+    },
+    {
+      "title": "[인사] SGI서울보증",
+      "link": "https://www.yna.co.kr/view/AKR20260109104500505",
+      "pubDate": "Fri, 9 Jan 2026 15:31:09 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 7.0원 오른 1,457.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260109104200002",
+      "pubDate": "Fri, 9 Jan 2026 15:30:29 +0900"
+    },
+    {
+      "title": "도봉제2구역 재개발 20여년만에 준공인가…내달부터 입주",
+      "link": "https://www.yna.co.kr/view/AKR20260109102500004",
+      "pubDate": "Fri, 9 Jan 2026 15:23:34 +0900"
+    },
+    {
+      "title": "영주시, 소백산귀농드림타운 10개월 입주 교육생 추가 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260109102200053",
+      "pubDate": "Fri, 9 Jan 2026 15:19:55 +0900"
+    },
+    {
+      "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109099200001",
+      "pubDate": "Fri, 9 Jan 2026 15:10:29 +0900"
+    },
+    {
+      "title": "김포시 인구 10년새 44% 증가…51만2천명",
+      "link": "https://www.yna.co.kr/view/AKR20260109099600065",
+      "pubDate": "Fri, 9 Jan 2026 15:04:24 +0900"
+    },
+    {
+      "title": "서강대, 취업률 73.1%로 서울 4년제 대학 1위…대학정보 공시",
+      "link": "https://www.yna.co.kr/view/AKR20260109095600004",
+      "pubDate": "Fri, 9 Jan 2026 15:02:09 +0900"
+    },
+    {
+      "title": "계룡건설, 캄보디아 다운트리댐 준공…\"수자원 인프라 확충\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109097000003",
+      "pubDate": "Fri, 9 Jan 2026 14:59:09 +0900"
+    },
+    {
+      "title": "[표] 정부의 2025∼2026년 경제전망",
+      "link": "https://www.yna.co.kr/view/AKR20260108128900002",
+      "pubDate": "Fri, 9 Jan 2026 14:55:15 +0900"
+    },
+    {
+      "title": "평택시, 소상공인 150억원 규모 대출 특례보증",
+      "link": "https://www.yna.co.kr/view/AKR20260109096400061",
+      "pubDate": "Fri, 9 Jan 2026 14:54:46 +0900"
+    },
+    {
+      "title": "농협손보 \"원수보험료 5조5천억·당기순익 1천500억 경영 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109096300002",
+      "pubDate": "Fri, 9 Jan 2026 14:54:21 +0900"
+    },
     {
       "title": "난개발 논란 '이기대 아파트', 경관·건축 소위원회 조건부 통과",
       "link": "https://www.yna.co.kr/view/AKR20260109092500051",
@@ -67,91 +152,6 @@
       "title": "[2026 성장전략] 정부, 중국서 한국영화 개봉·게임 판호발급 확대 힘쓴다",
       "link": "https://www.yna.co.kr/view/AKR20260109024000030",
       "pubDate": "Fri, 9 Jan 2026 14:01:16 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 안전투자 늘리면 세제인센티브…'행복한 일터 인증제'",
-      "link": "https://www.yna.co.kr/view/AKR20260105135500530",
-      "pubDate": "Fri, 9 Jan 2026 14:01:15 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 소상공인 폐업 때 '저금리 철거지원금' 선대출",
-      "link": "https://www.yna.co.kr/view/AKR20260106138500002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:14 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 배달앱 수수료 인하 모색…납품대금연동제 독려",
-      "link": "https://www.yna.co.kr/view/AKR20260109002000002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:13 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 국민성장펀드 소득공제·분리과세 겹혜택…국내 전용 새 ISA",
-      "link": "https://www.yna.co.kr/view/AKR20260108126100002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:12 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 국고금, 디지털화폐로도 준다…스테이블코인 2단계 입법",
-      "link": "https://www.yna.co.kr/view/AKR20260109031100002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:11 +0900"
-    },
-    {
-      "title": "[2026 성장전략] LNG 화물창, 전략기술로 신규 지정…국내생산촉진세제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260108117400002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:11 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 대통령 직속 반도체특위 구성…반도체경쟁력기본계획 수립",
-      "link": "https://www.yna.co.kr/view/AKR20260109029800003",
-      "pubDate": "Fri, 9 Jan 2026 14:01:10 +0900"
-    },
-    {
-      "title": "[2026 성장전략] '5월 시한' 양도세 중과유예 결정, 일단 미뤄놨다",
-      "link": "https://www.yna.co.kr/view/AKR20260108104000002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:09 +0900"
-    },
-    {
-      "title": "[2026 성장전략] 정부 \"올해 경제성장률 2.0%\"…물가상승률 2.1% 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260108128600002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:05 +0900"
-    },
-    {
-      "title": "'2% 성장' 의지 담은 재경부 첫 청사진…예산 동력엔 물음표",
-      "link": "https://www.yna.co.kr/view/AKR20260109001400002",
-      "pubDate": "Fri, 9 Jan 2026 14:01:02 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"한일정상회담서 '中 대일수출 통제' 관련 논의 나올 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109083600001",
-      "pubDate": "Fri, 9 Jan 2026 14:00:49 +0900"
-    },
-    {
-      "title": "'경제대도약 원년' 올해 성장 2% 넘기겠다…국부펀드 20조 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260109066200002",
-      "pubDate": "Fri, 9 Jan 2026 14:00:01 +0900"
-    },
-    {
-      "title": "CJ, 밀라노 향하는 '팀 코리아'에 K푸드 특식 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260109080600030",
-      "pubDate": "Fri, 9 Jan 2026 13:50:55 +0900"
-    },
-    {
-      "title": "홈플러스 \"채권단과 회생계획서 세부내용 본격협의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109073500030",
-      "pubDate": "Fri, 9 Jan 2026 13:12:40 +0900"
-    },
-    {
-      "title": "'송도 살인사건'에 사제총기 집중단속…19명 송치·341정 압수",
-      "link": "https://www.yna.co.kr/view/AKR20260109043300004",
-      "pubDate": "Fri, 9 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 국세청 \"알쏭달쏭 연말정산 '공제맨'이 알려줍니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109041400002",
-      "pubDate": "Fri, 9 Jan 2026 12:00:00 +0900"
-    },
-    {
-      "title": "유투바이오 \"에스엠엘메디트리 주식 63억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109069200008",
-      "pubDate": "Fri, 9 Jan 2026 11:43:06 +0900"
     }
   ]
 }
