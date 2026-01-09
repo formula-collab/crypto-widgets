@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767978173,
+  "updated_at_unix": 1767981129,
   "items": [
+    {
+      "title": "달러-원, 日 조기총선 검토에 한때 1,462원 육박…1,459원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260110003500002",
+      "pubDate": "Sat, 10 Jan 2026 02:40:33 +0900"
+    },
     {
       "title": "전남 나주 육용오리 농장 고병원성 조류인플루엔자 발생",
       "link": "https://www.yna.co.kr/view/AKR20260109143600030",
@@ -147,11 +152,6 @@
       "title": "[특징주] 삼성전자, 미국발 한파에도 강보합 마감…하이닉스는 1.6%↓(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260109033651008",
       "pubDate": "Fri, 9 Jan 2026 15:56:19 +0900"
-    },
-    {
-      "title": "'헬리코박터 프로젝트 윌 당밸런스'에 대장균…hy, 자진 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260109109600030",
-      "pubDate": "Fri, 9 Jan 2026 15:54:42 +0900"
     }
   ]
 }
