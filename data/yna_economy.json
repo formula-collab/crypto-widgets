@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767991441,
+  "updated_at_unix": 1767994624,
   "items": [
+    {
+      "title": "트럼프 주택저당증권 매입 지시에 美주택대출 금리 3년만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260110010600072",
+      "pubDate": "Sat, 10 Jan 2026 06:19:37 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 전국 7천가구 공급…공공이 시장 주도",
+      "link": "https://www.yna.co.kr/view/AKR20260109107200003",
+      "pubDate": "Sat, 10 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프, 이란 반정부 시위에 군사 개입할까…WTI 2.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260110008800009",
+      "pubDate": "Sat, 10 Jan 2026 05:53:19 +0900"
+    },
     {
       "title": "달러-원, 日 조기총선 검토에 한때 1,462원 육박…1,459원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260110003500002",
@@ -137,21 +152,6 @@
       "title": "환율, 외국인 주식 매도 속 7일 연속 올라…1,457.6원",
       "link": "https://www.yna.co.kr/view/AKR20260109110000002",
       "pubDate": "Fri, 9 Jan 2026 16:10:01 +0900"
-    },
-    {
-      "title": "'전약후강' 코스피, 엿새째 올라 4,580대 마감…역대 최고치(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260109110800008",
-      "pubDate": "Fri, 9 Jan 2026 16:04:47 +0900"
-    },
-    {
-      "title": "데이터처 통계조사 기여 전남·강원춘천 등  표창",
-      "link": "https://www.yna.co.kr/view/AKR20260109109300002",
-      "pubDate": "Fri, 9 Jan 2026 16:03:11 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 미국발 한파에도 강보합 마감…하이닉스는 1.6%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260109033651008",
-      "pubDate": "Fri, 9 Jan 2026 15:56:19 +0900"
     }
   ]
 }
