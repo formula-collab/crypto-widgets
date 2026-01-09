@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767955805,
+  "updated_at_unix": 1767958396,
   "items": [
+    {
+      "title": "전남 나주 육용오리 농장 고병원성 조류인플루엔자 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260109143600030",
+      "pubDate": "Fri, 9 Jan 2026 19:52:15 +0900"
+    },
     {
       "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260109099251001",
@@ -147,11 +152,6 @@
       "title": "'헬리코박터 프로젝트 윌 당밸런스'에 대장균…hy, 자진 회수",
       "link": "https://www.yna.co.kr/view/AKR20260109109600030",
       "pubDate": "Fri, 9 Jan 2026 15:54:42 +0900"
-    },
-    {
-      "title": "법무법인 진심, 이주노동자 비자전환 지원서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260109107500051",
-      "pubDate": "Fri, 9 Jan 2026 15:51:00 +0900"
     }
   ]
 }
