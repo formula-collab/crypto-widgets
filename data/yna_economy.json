@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767930883,
+  "updated_at_unix": 1767934923,
   "items": [
+    {
+      "title": "CJ, 밀라노 향하는 '팀 코리아'에 K푸드 특식 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260109080600030",
+      "pubDate": "Fri, 9 Jan 2026 13:50:55 +0900"
+    },
+    {
+      "title": "홈플러스 \"채권단과 회생계획서 세부내용 본격협의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109073500030",
+      "pubDate": "Fri, 9 Jan 2026 13:12:40 +0900"
+    },
     {
       "title": "'송도 살인사건'에 사제총기 집중단속…19명 송치·341정 압수",
       "link": "https://www.yna.co.kr/view/AKR20260109043300004",
@@ -142,16 +152,6 @@
       "title": "108층 초고층 무산된 부산 센텀 부지에 64층 오피스텔 건립",
       "link": "https://www.yna.co.kr/view/AKR20260109046500051",
       "pubDate": "Fri, 9 Jan 2026 10:06:40 +0900"
-    },
-    {
-      "title": "제주 노후주택에 에너지 성능개선 공사비 최대 1천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260109045100056",
-      "pubDate": "Fri, 9 Jan 2026 10:06:14 +0900"
-    },
-    {
-      "title": "상설특검, 신한은행 수색·검증…띠지 정보·관봉권 수납 확인",
-      "link": "https://www.yna.co.kr/view/AKR20260109046300004",
-      "pubDate": "Fri, 9 Jan 2026 10:01:10 +0900"
     }
   ]
 }
