@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767998564,
+  "updated_at_unix": 1768001746,
   "items": [
+    {
+      "title": "[머니플로우] 미장행 다시 시동거나…개미 새해 순매수 2조원 '훌쩍'",
+      "link": "https://www.yna.co.kr/view/AKR20260109087900008",
+      "pubDate": "Sat, 10 Jan 2026 08:00:03 +0900"
+    },
     {
       "title": "[신상잇슈] 오뚜기 '가뿐한끼 곤약밥'·서울우유 '비요뜨베리콩포트'",
       "link": "https://www.yna.co.kr/view/AKR20260109130600030",
@@ -147,11 +152,6 @@
       "title": "BNK금융, 주주추천 사외이사 도입 검토…지배구조 개선",
       "link": "https://www.yna.co.kr/view/AKR20260109119400051",
       "pubDate": "Fri, 9 Jan 2026 16:36:10 +0900"
-    },
-    {
-      "title": "복지부, 환시 국민연금 영향 전문가 간담회…\"변화에 적시 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109118800530",
-      "pubDate": "Fri, 9 Jan 2026 16:35:37 +0900"
     }
   ]
 }
