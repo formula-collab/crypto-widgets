@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767952380,
+  "updated_at_unix": 1767955805,
   "items": [
+    {
+      "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260109099251001",
+      "pubDate": "Fri, 9 Jan 2026 19:15:15 +0900"
+    },
+    {
+      "title": "경제계 \"경제성장전략, 재도약 불씨되길…과감한 지원 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260109133851003",
+      "pubDate": "Fri, 9 Jan 2026 19:13:05 +0900"
+    },
+    {
+      "title": "춘천시, 강원 첫 '국가 통계 유공' 대통령 표창",
+      "link": "https://www.yna.co.kr/view/AKR20260109128700062",
+      "pubDate": "Fri, 9 Jan 2026 18:57:29 +0900"
+    },
     {
       "title": "기아, 브뤼셀 모터쇼서 EV2 공개…\"넓은 실내 갖춘 콤팩트 SUV\"",
       "link": "https://www.yna.co.kr/view/AKR20260109092200003",
@@ -137,21 +152,6 @@
       "title": "법무법인 진심, 이주노동자 비자전환 지원서비스 출시",
       "link": "https://www.yna.co.kr/view/AKR20260109107500051",
       "pubDate": "Fri, 9 Jan 2026 15:51:00 +0900"
-    },
-    {
-      "title": "'전약후강' 코스피, 엿새째 올라 4,580대 마감…사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260109105400008",
-      "pubDate": "Fri, 9 Jan 2026 15:35:33 +0900"
-    },
-    {
-      "title": "외국환시세(1월9일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260109105500002",
-      "pubDate": "Fri, 9 Jan 2026 15:35:19 +0900"
-    },
-    {
-      "title": "두을장학재단, 장학증서 수여식…이부진 이사장, 사재 추가 출연",
-      "link": "https://www.yna.co.kr/view/AKR20260109105200030",
-      "pubDate": "Fri, 9 Jan 2026 15:35:11 +0900"
     }
   ]
 }
