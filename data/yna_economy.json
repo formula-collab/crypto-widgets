@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767944991,
+  "updated_at_unix": 1767949121,
   "items": [
+    {
+      "title": "SK플러그하이버스, 글로벌 펀드 투자 유치…수소충전 사업 가속",
+      "link": "https://www.yna.co.kr/view/AKR20260109111300003",
+      "pubDate": "Fri, 9 Jan 2026 17:47:37 +0900"
+    },
+    {
+      "title": "리츠협회 \"상장리츠·CR리츠 세제 지원 확대·연장 환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109130700003",
+      "pubDate": "Fri, 9 Jan 2026 17:27:21 +0900"
+    },
+    {
+      "title": "레이저옵텍, 120억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260109128800008",
+      "pubDate": "Fri, 9 Jan 2026 17:21:35 +0900"
+    },
+    {
+      "title": "'국내 고배당주' 투자 ETF 등 3종, 13일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260109128200008",
+      "pubDate": "Fri, 9 Jan 2026 17:20:24 +0900"
+    },
+    {
+      "title": "美고용지표·대법원 관세 판결 경계…국고채 약세장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260109121051008",
+      "pubDate": "Fri, 9 Jan 2026 17:19:20 +0900"
+    },
+    {
+      "title": "강원도, 원주지역 여야 국회의원과 핵심 현안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260109127700062",
+      "pubDate": "Fri, 9 Jan 2026 17:14:55 +0900"
+    },
     {
       "title": "강원도-강원랜드, 폐광지역 외식업 창업 활성화 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260109119700062",
@@ -122,36 +152,6 @@
       "title": "김포시 인구 10년새 44% 증가…51만2천명",
       "link": "https://www.yna.co.kr/view/AKR20260109099600065",
       "pubDate": "Fri, 9 Jan 2026 15:04:24 +0900"
-    },
-    {
-      "title": "서강대, 취업률 73.1%로 서울 4년제 대학 1위…대학정보 공시",
-      "link": "https://www.yna.co.kr/view/AKR20260109095600004",
-      "pubDate": "Fri, 9 Jan 2026 15:02:09 +0900"
-    },
-    {
-      "title": "계룡건설, 캄보디아 다운트리댐 준공…\"수자원 인프라 확충\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109097000003",
-      "pubDate": "Fri, 9 Jan 2026 14:59:09 +0900"
-    },
-    {
-      "title": "[표] 정부의 2025∼2026년 경제전망",
-      "link": "https://www.yna.co.kr/view/AKR20260108128900002",
-      "pubDate": "Fri, 9 Jan 2026 14:55:15 +0900"
-    },
-    {
-      "title": "평택시, 소상공인 150억원 규모 대출 특례보증",
-      "link": "https://www.yna.co.kr/view/AKR20260109096400061",
-      "pubDate": "Fri, 9 Jan 2026 14:54:46 +0900"
-    },
-    {
-      "title": "농협손보 \"원수보험료 5조5천억·당기순익 1천500억 경영 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109096300002",
-      "pubDate": "Fri, 9 Jan 2026 14:54:21 +0900"
-    },
-    {
-      "title": "난개발 논란 '이기대 아파트', 경관·건축 소위원회 조건부 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260109092500051",
-      "pubDate": "Fri, 9 Jan 2026 14:41:43 +0900"
     }
   ]
 }
