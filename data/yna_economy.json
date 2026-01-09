@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767949121,
+  "updated_at_unix": 1767952380,
   "items": [
+    {
+      "title": "기아, 브뤼셀 모터쇼서 EV2 공개…\"넓은 실내 갖춘 콤팩트 SUV\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109092200003",
+      "pubDate": "Fri, 9 Jan 2026 18:40:00 +0900"
+    },
+    {
+      "title": "우리금융, 소비자보호부문 신설…10개 자회사 대표 유임",
+      "link": "https://www.yna.co.kr/view/AKR20260109135800002",
+      "pubDate": "Fri, 9 Jan 2026 18:16:02 +0900"
+    },
+    {
+      "title": "[인사] 우리금융지주",
+      "link": "https://www.yna.co.kr/view/AKR20260109136800002",
+      "pubDate": "Fri, 9 Jan 2026 18:11:37 +0900"
+    },
+    {
+      "title": "용산구, 용산국제업무지구 주거 비중 확대에 \"신중 접근 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109136300004",
+      "pubDate": "Fri, 9 Jan 2026 18:11:12 +0900"
+    },
+    {
+      "title": "현대차, '스타리아 EV' 유럽서 첫 공개…상반기 국내 판매 시작",
+      "link": "https://www.yna.co.kr/view/AKR20260109068400003",
+      "pubDate": "Fri, 9 Jan 2026 18:00:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260109127900011",
+      "pubDate": "Fri, 9 Jan 2026 18:00:00 +0900"
+    },
+    {
+      "title": "경제계 \"경제성장전략, 경제활력 제고 기대…과감한 지원 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260109133800003",
+      "pubDate": "Fri, 9 Jan 2026 17:54:21 +0900"
+    },
     {
       "title": "SK플러그하이버스, 글로벌 펀드 투자 유치…수소충전 사업 가속",
       "link": "https://www.yna.co.kr/view/AKR20260109111300003",
@@ -117,41 +152,6 @@
       "title": "두을장학재단, 장학증서 수여식…이부진 이사장, 사재 추가 출연",
       "link": "https://www.yna.co.kr/view/AKR20260109105200030",
       "pubDate": "Fri, 9 Jan 2026 15:35:11 +0900"
-    },
-    {
-      "title": "하나은행 과태료 3.7억원…은행법·전자금융거래법 위반",
-      "link": "https://www.yna.co.kr/view/AKR20260109103900002",
-      "pubDate": "Fri, 9 Jan 2026 15:34:54 +0900"
-    },
-    {
-      "title": "[인사] SGI서울보증",
-      "link": "https://www.yna.co.kr/view/AKR20260109104500505",
-      "pubDate": "Fri, 9 Jan 2026 15:31:09 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 7.0원 오른 1,457.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260109104200002",
-      "pubDate": "Fri, 9 Jan 2026 15:30:29 +0900"
-    },
-    {
-      "title": "도봉제2구역 재개발 20여년만에 준공인가…내달부터 입주",
-      "link": "https://www.yna.co.kr/view/AKR20260109102500004",
-      "pubDate": "Fri, 9 Jan 2026 15:23:34 +0900"
-    },
-    {
-      "title": "영주시, 소백산귀농드림타운 10개월 입주 교육생 추가 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260109102200053",
-      "pubDate": "Fri, 9 Jan 2026 15:19:55 +0900"
-    },
-    {
-      "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109099200001",
-      "pubDate": "Fri, 9 Jan 2026 15:10:29 +0900"
-    },
-    {
-      "title": "김포시 인구 10년새 44% 증가…51만2천명",
-      "link": "https://www.yna.co.kr/view/AKR20260109099600065",
-      "pubDate": "Fri, 9 Jan 2026 15:04:24 +0900"
     }
   ]
 }
