@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1767994624,
+  "updated_at_unix": 1767998564,
   "items": [
+    {
+      "title": "[신상잇슈] 오뚜기 '가뿐한끼 곤약밥'·서울우유 '비요뜨베리콩포트'",
+      "link": "https://www.yna.co.kr/view/AKR20260109130600030",
+      "pubDate": "Sat, 10 Jan 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[이번주뭘살까] 새해 맞이 '이색 팝업' 풍성…제철 먹거리도 싸게 판다",
+      "link": "https://www.yna.co.kr/view/AKR20260109061800030",
+      "pubDate": "Sat, 10 Jan 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[금주핫템] 헤지스 액세서리 '아르코백'·K2 'K95 에끌레어 코트 폭스'",
+      "link": "https://www.yna.co.kr/view/AKR20260109051700030",
+      "pubDate": "Sat, 10 Jan 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[AI돋보기] 해고보다 먼저 채용 중단…AI가 흔든 고용 시장",
+      "link": "https://www.yna.co.kr/view/AKR20260108120600017",
+      "pubDate": "Sat, 10 Jan 2026 06:33:00 +0900"
+    },
     {
       "title": "트럼프 주택저당증권 매입 지시에 美주택대출 금리 3년만에 최저",
       "link": "https://www.yna.co.kr/view/AKR20260110010600072",
@@ -132,26 +152,6 @@
       "title": "복지부, 환시 국민연금 영향 전문가 간담회…\"변화에 적시 대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260109118800530",
       "pubDate": "Fri, 9 Jan 2026 16:35:37 +0900"
-    },
-    {
-      "title": "[동포의 창] 에듀윌-KGN, 고려인 동포 교육·인재 양성 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260109111400371",
-      "pubDate": "Fri, 9 Jan 2026 16:22:13 +0900"
-    },
-    {
-      "title": "강원 고성군, 평화경제특구 최초 지정 추진…행정지원 TF 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260109113300062",
-      "pubDate": "Fri, 9 Jan 2026 16:13:42 +0900"
-    },
-    {
-      "title": "[인사] 한국수출입은행",
-      "link": "https://www.yna.co.kr/view/AKR20260109113500002",
-      "pubDate": "Fri, 9 Jan 2026 16:11:53 +0900"
-    },
-    {
-      "title": "환율, 외국인 주식 매도 속 7일 연속 올라…1,457.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260109110000002",
-      "pubDate": "Fri, 9 Jan 2026 16:10:01 +0900"
     }
   ]
 }
