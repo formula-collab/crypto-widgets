@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768001746,
+  "updated_at_unix": 1768016829,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260110028100011",
+      "pubDate": "Sat, 10 Jan 2026 10:31:30 +0900"
+    },
+    {
+      "title": "여주시 올해 표준지 공시지가 1.55% 상승 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260109114700061",
+      "pubDate": "Sat, 10 Jan 2026 10:00:50 +0900"
+    },
+    {
+      "title": "부산 아파트값 11주 연속 상승랠리…상승폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260109094500051",
+      "pubDate": "Sat, 10 Jan 2026 09:41:02 +0900"
+    },
+    {
+      "title": "평택시, 빈집 철거 시 토지 재산세 50% 감면…빈집 정비 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260109042400061",
+      "pubDate": "Sat, 10 Jan 2026 09:37:02 +0900"
+    },
+    {
+      "title": "[다음주 경제] 한은 기준금리 결정…작년 일자리 얼마나",
+      "link": "https://www.yna.co.kr/view/AKR20260110022400002",
+      "pubDate": "Sat, 10 Jan 2026 09:20:05 +0900"
+    },
+    {
+      "title": "[IPO챗] 새해 IPO 개막…수소전문기업 덕양에너젠 수요예측",
+      "link": "https://www.yna.co.kr/view/AKR20260109101500008",
+      "pubDate": "Sat, 10 Jan 2026 09:00:00 +0900"
+    },
+    {
+      "title": "엔/달러 환율 158엔대로 상승…엔화 가치 1년 만의 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260110020700073",
+      "pubDate": "Sat, 10 Jan 2026 08:53:58 +0900"
+    },
+    {
+      "title": "'K-라면 효과'…밀양시, 작년 농식품수출 4억4천만달러 역대급",
+      "link": "https://www.yna.co.kr/view/AKR20260109082700052",
+      "pubDate": "Sat, 10 Jan 2026 08:45:01 +0900"
+    },
+    {
+      "title": "KMI, 15일 2026 해양수산 전망대회…'바다로 여는 미래'",
+      "link": "https://www.yna.co.kr/view/AKR20260109078300051",
+      "pubDate": "Sat, 10 Jan 2026 08:43:00 +0900"
+    },
     {
       "title": "[머니플로우] 미장행 다시 시동거나…개미 새해 순매수 2조원 '훌쩍'",
       "link": "https://www.yna.co.kr/view/AKR20260109087900008",
@@ -107,51 +152,6 @@
       "title": "SK플러그하이버스, 글로벌 펀드 투자 유치…수소충전 사업 가속",
       "link": "https://www.yna.co.kr/view/AKR20260109111300003",
       "pubDate": "Fri, 9 Jan 2026 17:47:37 +0900"
-    },
-    {
-      "title": "리츠협회 \"상장리츠·CR리츠 세제 지원 확대·연장 환영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109130700003",
-      "pubDate": "Fri, 9 Jan 2026 17:27:21 +0900"
-    },
-    {
-      "title": "레이저옵텍, 120억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260109128800008",
-      "pubDate": "Fri, 9 Jan 2026 17:21:35 +0900"
-    },
-    {
-      "title": "'국내 고배당주' 투자 ETF 등 3종, 13일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260109128200008",
-      "pubDate": "Fri, 9 Jan 2026 17:20:24 +0900"
-    },
-    {
-      "title": "美고용지표·대법원 관세 판결 경계…국고채 약세장(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260109121051008",
-      "pubDate": "Fri, 9 Jan 2026 17:19:20 +0900"
-    },
-    {
-      "title": "강원도, 원주지역 여야 국회의원과 핵심 현안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260109127700062",
-      "pubDate": "Fri, 9 Jan 2026 17:14:55 +0900"
-    },
-    {
-      "title": "강원도-강원랜드, 폐광지역 외식업 창업 활성화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260109119700062",
-      "pubDate": "Fri, 9 Jan 2026 16:44:31 +0900"
-    },
-    {
-      "title": "양산시, '공공근로·지역공동체 일자리' 참여자 333명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260109119000052",
-      "pubDate": "Fri, 9 Jan 2026 16:41:09 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 2.942%",
-      "link": "https://www.yna.co.kr/view/AKR20260109121000008",
-      "pubDate": "Fri, 9 Jan 2026 16:40:21 +0900"
-    },
-    {
-      "title": "BNK금융, 주주추천 사외이사 도입 검토…지배구조 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260109119400051",
-      "pubDate": "Fri, 9 Jan 2026 16:36:10 +0900"
     }
   ]
 }
