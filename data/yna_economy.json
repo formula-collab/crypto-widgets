@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768077572,
+  "updated_at_unix": 1768080730,
   "items": [
+    {
+      "title": "\"폰 바꾸기 무섭네\"…메모리값 폭등에 IT기기 줄인상 공포",
+      "link": "https://www.yna.co.kr/view/AKR20260109095200017",
+      "pubDate": "Sun, 11 Jan 2026 06:13:01 +0900"
+    },
+    {
+      "title": "'근로자의 날', 62년만에 '노동절'로 복원…5.1㎞ 걷기대회",
+      "link": "https://www.yna.co.kr/view/AKR20260109117500530",
+      "pubDate": "Sun, 11 Jan 2026 06:08:00 +0900"
+    },
+    {
+      "title": "\"재고용, 임금·근속 '취약'…60세↑ 고용기업 25% '인력난'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260110045900530",
+      "pubDate": "Sun, 11 Jan 2026 06:05:01 +0900"
+    },
+    {
+      "title": "강제경매 개시 결정 집합건물 작년 역대 최다…전국 3만8천524채",
+      "link": "https://www.yna.co.kr/view/AKR20260110044800003",
+      "pubDate": "Sun, 11 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "롯데백화점 VIP 고객 프로그램 '에비뉴엘' 개편…몰 실적도 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260109126000030",
+      "pubDate": "Sun, 11 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "장기비전 2050년과 2045년…협업 시험대 오른 기획처-재경부",
+      "link": "https://www.yna.co.kr/view/AKR20260110040900002",
+      "pubDate": "Sun, 11 Jan 2026 05:57:01 +0900"
+    },
+    {
+      "title": "새마을금고 \"연체율 5%대\"…금융당국 인력 증원 상반기 특별관리",
+      "link": "https://www.yna.co.kr/view/AKR20260110046000002",
+      "pubDate": "Sun, 11 Jan 2026 05:57:00 +0900"
+    },
+    {
+      "title": "안 팔리던 NXC 국부펀드로 넘겨 키운다…물납주식 5조원대 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260110043700002",
+      "pubDate": "Sun, 11 Jan 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'쿠팡 판매자 대출' 반년 만에 182억…담보·상환 구조 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260110052700002",
+      "pubDate": "Sun, 11 Jan 2026 05:51:04 +0900"
+    },
+    {
+      "title": "금감원, 쿠팡페이·쿠팡파이낸셜 동시 검사…\"자료제출 늦어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260110045100002",
+      "pubDate": "Sun, 11 Jan 2026 05:51:00 +0900"
+    },
+    {
+      "title": "달러 붙잡는 WGBI·신뢰 높이는 MSCI…환율 안정 효과낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260110046700002",
+      "pubDate": "Sun, 11 Jan 2026 05:49:05 +0900"
+    },
+    {
+      "title": "달러 수급 쏠림 지속?…서학개미 연초 순매수 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260110044500002",
+      "pubDate": "Sun, 11 Jan 2026 05:49:00 +0900"
+    },
+    {
+      "title": "작년 1인당 GDP 3만6천달러 턱걸이한 듯…3년 만에 뒷걸음",
+      "link": "https://www.yna.co.kr/view/AKR20260110047000002",
+      "pubDate": "Sun, 11 Jan 2026 05:47:00 +0900"
+    },
+    {
+      "title": "기준금리 5연속 동결될듯…전문가 \"환율·물가·집값 모두 불안\"",
+      "link": "https://www.yna.co.kr/view/AKR20260110057300002",
+      "pubDate": "Sun, 11 Jan 2026 05:45:00 +0900"
+    },
     {
       "title": "김해서 선친 재산 상속 다투다 형 살해한 70대 구속",
       "link": "https://www.yna.co.kr/view/AKR20260110053500052",
@@ -82,76 +152,6 @@
       "title": "[이번주뭘살까] 새해 맞이 '이색 팝업' 풍성…제철 먹거리도 싸게 판다",
       "link": "https://www.yna.co.kr/view/AKR20260109061800030",
       "pubDate": "Sat, 10 Jan 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[금주핫템] 헤지스 액세서리 '아르코백'·K2 'K95 에끌레어 코트 폭스'",
-      "link": "https://www.yna.co.kr/view/AKR20260109051700030",
-      "pubDate": "Sat, 10 Jan 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[AI돋보기] 해고보다 먼저 채용 중단…AI가 흔든 고용 시장",
-      "link": "https://www.yna.co.kr/view/AKR20260108120600017",
-      "pubDate": "Sat, 10 Jan 2026 06:33:00 +0900"
-    },
-    {
-      "title": "트럼프 주택저당증권 매입 지시에 美주택대출 금리 3년만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260110010600072",
-      "pubDate": "Sat, 10 Jan 2026 06:19:37 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 전국 7천가구 공급…공공이 시장 주도",
-      "link": "https://www.yna.co.kr/view/AKR20260109107200003",
-      "pubDate": "Sat, 10 Jan 2026 06:00:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 트럼프, 이란 반정부 시위에 군사 개입할까…WTI 2.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260110008800009",
-      "pubDate": "Sat, 10 Jan 2026 05:53:19 +0900"
-    },
-    {
-      "title": "달러-원, 日 조기총선 검토에 한때 1,462원 육박…1,459원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260110003500002",
-      "pubDate": "Sat, 10 Jan 2026 02:40:33 +0900"
-    },
-    {
-      "title": "전남 나주 육용오리 농장 고병원성 조류인플루엔자 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260109143600030",
-      "pubDate": "Fri, 9 Jan 2026 19:52:15 +0900"
-    },
-    {
-      "title": "李대통령 \"'K자형성장' 중대도전 직면…청년고용에 역량 총동원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260109099251001",
-      "pubDate": "Fri, 9 Jan 2026 19:15:15 +0900"
-    },
-    {
-      "title": "경제계 \"경제성장전략, 재도약 불씨되길…과감한 지원 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260109133851003",
-      "pubDate": "Fri, 9 Jan 2026 19:13:05 +0900"
-    },
-    {
-      "title": "춘천시, 강원 첫 '국가 통계 유공' 대통령 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260109128700062",
-      "pubDate": "Fri, 9 Jan 2026 18:57:29 +0900"
-    },
-    {
-      "title": "기아, 브뤼셀 모터쇼서 EV2 공개…\"넓은 실내 갖춘 콤팩트 SUV\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109092200003",
-      "pubDate": "Fri, 9 Jan 2026 18:40:00 +0900"
-    },
-    {
-      "title": "우리금융, 소비자보호부문 신설…10개 자회사 대표 유임",
-      "link": "https://www.yna.co.kr/view/AKR20260109135800002",
-      "pubDate": "Fri, 9 Jan 2026 18:16:02 +0900"
-    },
-    {
-      "title": "[인사] 우리금융지주",
-      "link": "https://www.yna.co.kr/view/AKR20260109136800002",
-      "pubDate": "Fri, 9 Jan 2026 18:11:37 +0900"
-    },
-    {
-      "title": "용산구, 용산국제업무지구 주거 비중 확대에 \"신중 접근 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109136300004",
-      "pubDate": "Fri, 9 Jan 2026 18:11:12 +0900"
     }
   ]
 }
