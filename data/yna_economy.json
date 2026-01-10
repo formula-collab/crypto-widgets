@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768021021,
+  "updated_at_unix": 1768023694,
   "items": [
+    {
+      "title": "세계식량가격지수 넉 달째 하락…작년 한 해 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260109145700030",
+      "pubDate": "Sat, 10 Jan 2026 14:00:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260110028100011",
@@ -147,11 +152,6 @@
       "title": "경제계 \"경제성장전략, 경제활력 제고 기대…과감한 지원 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260109133800003",
       "pubDate": "Fri, 9 Jan 2026 17:54:21 +0900"
-    },
-    {
-      "title": "SK플러그하이버스, 글로벌 펀드 투자 유치…수소충전 사업 가속",
-      "link": "https://www.yna.co.kr/view/AKR20260109111300003",
-      "pubDate": "Fri, 9 Jan 2026 17:47:37 +0900"
     }
   ]
 }
