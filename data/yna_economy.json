@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768035012,
+  "updated_at_unix": 1768037770,
   "items": [
+    {
+      "title": "\"정치가 나쁘지 관치가 왜 나쁘냐\"…정건용 전 산은 총재 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260110050300505",
+      "pubDate": "Sat, 10 Jan 2026 18:16:42 +0900"
+    },
     {
       "title": "철원군, 상반기 공공 일자리 사업 참여자 89명 모집",
       "link": "https://www.yna.co.kr/view/AKR20260110045400062",
@@ -146,11 +151,6 @@
     {
       "title": "현대차, '스타리아 EV' 유럽서 첫 공개…상반기 국내 판매 시작",
       "link": "https://www.yna.co.kr/view/AKR20260109068400003",
-      "pubDate": "Fri, 9 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260109127900011",
       "pubDate": "Fri, 9 Jan 2026 18:00:00 +0900"
     }
   ]
