@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768030322,
+  "updated_at_unix": 1768035012,
   "items": [
+    {
+      "title": "철원군, 상반기 공공 일자리 사업 참여자 89명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260110045400062",
+      "pubDate": "Sat, 10 Jan 2026 16:48:19 +0900"
+    },
     {
       "title": "세계식량가격지수 넉 달째 하락…작년 한 해 상승",
       "link": "https://www.yna.co.kr/view/AKR20260109145700030",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260109127900011",
       "pubDate": "Fri, 9 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "경제계 \"경제성장전략, 경제활력 제고 기대…과감한 지원 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260109133800003",
-      "pubDate": "Fri, 9 Jan 2026 17:54:21 +0900"
     }
   ]
 }
