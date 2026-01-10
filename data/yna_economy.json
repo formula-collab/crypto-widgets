@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768080730,
+  "updated_at_unix": 1768084786,
   "items": [
+    {
+      "title": "개미들 이번주 삼성전자 3조 쓸어 담아…'빚투' 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260109145400008",
+      "pubDate": "Sun, 11 Jan 2026 07:15:00 +0900"
+    },
+    {
+      "title": "경력단절 후 재취업한 여성 42%는 임금 하락…남성은 25%",
+      "link": "https://www.yna.co.kr/view/AKR20260109101700004",
+      "pubDate": "Sun, 11 Jan 2026 07:14:16 +0900"
+    },
+    {
+      "title": "경기도, 작년 1만1천명에 '전세보증금 반환보증' 27억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260109132600061",
+      "pubDate": "Sun, 11 Jan 2026 07:01:03 +0900"
+    },
+    {
+      "title": "경기부진속 소비 양극화 심화…백화점, 명품·VIP 경쟁 불붙는다",
+      "link": "https://www.yna.co.kr/view/AKR20260109124900030",
+      "pubDate": "Sun, 11 Jan 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 반도체 조정 끝났나…코스피 랠리 재개여부 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260109147400008",
+      "pubDate": "Sun, 11 Jan 2026 07:00:57 +0900"
+    },
+    {
+      "title": "\"좀 조용하더니\"…트럼프 변수 재부각에 긴장하는 투자자들",
+      "link": "https://www.yna.co.kr/view/AKR20260108101300008",
+      "pubDate": "Sun, 11 Jan 2026 07:00:17 +0900"
+    },
+    {
+      "title": "옥스퍼드 사전 오른 K라면, '수출 15억달러 돌파'…3년새 두배",
+      "link": "https://www.yna.co.kr/view/AKR20260110047700030",
+      "pubDate": "Sun, 11 Jan 2026 06:45:00 +0900"
+    },
+    {
+      "title": "전 세계 열풍 K뷰티 기업들, 증시 상장 채비 '본격화'",
+      "link": "https://www.yna.co.kr/view/AKR20260109129200030",
+      "pubDate": "Sun, 11 Jan 2026 06:31:02 +0900"
+    },
+    {
+      "title": "K뷰티, 올해도 '세계시장 달린다'…미국·유럽·일본 공략 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260110046100030",
+      "pubDate": "Sun, 11 Jan 2026 06:31:01 +0900"
+    },
     {
       "title": "\"폰 바꾸기 무섭네\"…메모리값 폭등에 IT기기 줄인상 공포",
       "link": "https://www.yna.co.kr/view/AKR20260109095200017",
@@ -107,51 +152,6 @@
       "title": "부산 아파트값 11주 연속 상승랠리…상승폭 확대",
       "link": "https://www.yna.co.kr/view/AKR20260109094500051",
       "pubDate": "Sat, 10 Jan 2026 09:41:02 +0900"
-    },
-    {
-      "title": "평택시, 빈집 철거 시 토지 재산세 50% 감면…빈집 정비 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260109042400061",
-      "pubDate": "Sat, 10 Jan 2026 09:37:02 +0900"
-    },
-    {
-      "title": "[다음주 경제] 한은 기준금리 결정…작년 일자리 얼마나",
-      "link": "https://www.yna.co.kr/view/AKR20260110022400002",
-      "pubDate": "Sat, 10 Jan 2026 09:20:05 +0900"
-    },
-    {
-      "title": "[IPO챗] 새해 IPO 개막…수소전문기업 덕양에너젠 수요예측",
-      "link": "https://www.yna.co.kr/view/AKR20260109101500008",
-      "pubDate": "Sat, 10 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "엔/달러 환율 158엔대로 상승…엔화 가치 1년 만의 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260110020700073",
-      "pubDate": "Sat, 10 Jan 2026 08:53:58 +0900"
-    },
-    {
-      "title": "'K-라면 효과'…밀양시, 작년 농식품수출 4억4천만달러 역대급",
-      "link": "https://www.yna.co.kr/view/AKR20260109082700052",
-      "pubDate": "Sat, 10 Jan 2026 08:45:01 +0900"
-    },
-    {
-      "title": "KMI, 15일 2026 해양수산 전망대회…'바다로 여는 미래'",
-      "link": "https://www.yna.co.kr/view/AKR20260109078300051",
-      "pubDate": "Sat, 10 Jan 2026 08:43:00 +0900"
-    },
-    {
-      "title": "[머니플로우] 미장행 다시 시동거나…개미 새해 순매수 2조원 '훌쩍'",
-      "link": "https://www.yna.co.kr/view/AKR20260109087900008",
-      "pubDate": "Sat, 10 Jan 2026 08:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 오뚜기 '가뿐한끼 곤약밥'·서울우유 '비요뜨베리콩포트'",
-      "link": "https://www.yna.co.kr/view/AKR20260109130600030",
-      "pubDate": "Sat, 10 Jan 2026 07:00:05 +0900"
-    },
-    {
-      "title": "[이번주뭘살까] 새해 맞이 '이색 팝업' 풍성…제철 먹거리도 싸게 판다",
-      "link": "https://www.yna.co.kr/view/AKR20260109061800030",
-      "pubDate": "Sat, 10 Jan 2026 07:00:04 +0900"
     }
   ]
 }
