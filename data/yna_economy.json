@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768084786,
+  "updated_at_unix": 1768087975,
   "items": [
+    {
+      "title": "GS25, 버추얼 아이돌 '플레이브'와 협업 상품 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260111010200030",
+      "pubDate": "Sun, 11 Jan 2026 08:08:20 +0900"
+    },
+    {
+      "title": "美베스트바이 '원픽'은 삼성 AI가전…월풀·GE 대신 정중앙에",
+      "link": "https://www.yna.co.kr/view/AKR20260109044300003",
+      "pubDate": "Sun, 11 Jan 2026 08:00:28 +0900"
+    },
     {
       "title": "개미들 이번주 삼성전자 3조 쓸어 담아…'빚투' 역대 최대",
       "link": "https://www.yna.co.kr/view/AKR20260109145400008",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260110028100011",
       "pubDate": "Sat, 10 Jan 2026 10:31:30 +0900"
-    },
-    {
-      "title": "여주시 올해 표준지 공시지가 1.55% 상승 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260109114700061",
-      "pubDate": "Sat, 10 Jan 2026 10:00:50 +0900"
-    },
-    {
-      "title": "부산 아파트값 11주 연속 상승랠리…상승폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260109094500051",
-      "pubDate": "Sat, 10 Jan 2026 09:41:02 +0900"
     }
   ]
 }
