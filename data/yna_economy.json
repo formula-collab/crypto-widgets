@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768104895,
+  "updated_at_unix": 1768110174,
   "items": [
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20260111030000002",
+      "pubDate": "Sun, 11 Jan 2026 13:21:40 +0900"
+    },
     {
       "title": "회삿돈 120억 친척에 빼돌린 사장 구속 등…올해의 감독관 15명",
       "link": "https://www.yna.co.kr/view/AKR20260109123900530",
@@ -147,11 +152,6 @@
       "title": "美베스트바이 '원픽'은 삼성 AI가전…월풀·GE 대신 정중앙에",
       "link": "https://www.yna.co.kr/view/AKR20260109044300003",
       "pubDate": "Sun, 11 Jan 2026 08:00:28 +0900"
-    },
-    {
-      "title": "개미들 이번주 삼성전자 3조 쓸어 담아…'빚투' 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260109145400008",
-      "pubDate": "Sun, 11 Jan 2026 07:15:00 +0900"
     }
   ]
 }
