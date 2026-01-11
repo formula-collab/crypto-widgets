@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768163989,
+  "updated_at_unix": 1768167135,
   "items": [
+    {
+      "title": "'두쫀쿠'가 뭐길래…\"피스타치오 가격 두배로 올라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111000900030",
+      "pubDate": "Mon, 12 Jan 2026 06:25:00 +0900"
+    },
+    {
+      "title": "울산시 \"자동차세 연초에 미리 내고 5% 절세 혜택 누리세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111047400057",
+      "pubDate": "Mon, 12 Jan 2026 06:04:00 +0900"
+    },
+    {
+      "title": "전세사기 진정 국면…작년 임차권등기 신청 큰폭 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260111032500003",
+      "pubDate": "Mon, 12 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "중기부, 15일 전국서 中企 지원사업 종합설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260111011900030",
+      "pubDate": "Mon, 12 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "중기부, 기술사업화 R&D 401억원 지원…29일부터 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260111015200030",
+      "pubDate": "Mon, 12 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 금융업무 홍보 '제24기 대학생 기자단' 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260110046200002",
+      "pubDate": "Mon, 12 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "롯데마트 설 선물세트 절반은 '5만원 미만'…\"가성비 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111043400030",
+      "pubDate": "Mon, 12 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "울산시·울산상의 경제간담회…\"산업수도에서 AI 수도로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111047300057",
+      "pubDate": "Mon, 12 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "대법 \"외국 등록된 특허권도 국내서 사용했다면 과세 대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111048500004",
+      "pubDate": "Mon, 12 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "새해에도 주가조작 '패가망신'…합동대응단 수 건 더 조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260111040400002",
+      "pubDate": "Mon, 12 Jan 2026 05:55:00 +0900"
+    },
+    {
+      "title": "배달 끼워팔기 의혹 쿠팡…공정위, 시장지배사업자인지 심판한다",
+      "link": "https://www.yna.co.kr/view/AKR20260110054600002",
+      "pubDate": "Mon, 12 Jan 2026 05:53:01 +0900"
+    },
+    {
+      "title": "1인당 가계대출 9천700만원 넘어…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260110052300002",
+      "pubDate": "Mon, 12 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "'광주형 일자리' GGM 설비 증설로 50여명 추가 채용",
       "link": "https://www.yna.co.kr/view/AKR20260111036000054",
@@ -92,66 +152,6 @@
       "title": "반도체 업계 호황에 경기남부 지자체들 '함박웃음'…세수 급증",
       "link": "https://www.yna.co.kr/view/AKR20260109113800061",
       "pubDate": "Sun, 11 Jan 2026 11:01:01 +0900"
-    },
-    {
-      "title": "여한구 통상본부장 방미 출국…\"국내 디지털 입법 오해 해소\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260111018951003",
-      "pubDate": "Sun, 11 Jan 2026 10:30:13 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260111018500011",
-      "pubDate": "Sun, 11 Jan 2026 10:30:00 +0900"
-    },
-    {
-      "title": "\"매수심리 살아나나\"…서울 아파트 12월 거래량 벌써 11월 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260111018700003",
-      "pubDate": "Sun, 11 Jan 2026 10:23:19 +0900"
-    },
-    {
-      "title": "광주 자동차 생산 4년 연속 50만대 돌파…수출도 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260111020900054",
-      "pubDate": "Sun, 11 Jan 2026 10:21:17 +0900"
-    },
-    {
-      "title": "여한구 통상본부장 방미 출국…\"국내 디지털 입법 오해 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260111018900003",
-      "pubDate": "Sun, 11 Jan 2026 10:09:20 +0900"
-    },
-    {
-      "title": "[현장in] 부산 해운대 우동3구역 재개발 공공도로 변경 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260109102400051",
-      "pubDate": "Sun, 11 Jan 2026 10:00:03 +0900"
-    },
-    {
-      "title": "롯데면세점, 명동 '스타에비뉴' 재단장…\"몰입형 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260111016400030",
-      "pubDate": "Sun, 11 Jan 2026 09:49:28 +0900"
-    },
-    {
-      "title": "충북도, 기업 정주여건 개선사업 확대…36억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260109133600064",
-      "pubDate": "Sun, 11 Jan 2026 09:01:10 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 퇴직연금 포트폴리오 서비스 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260109130300002",
-      "pubDate": "Sun, 11 Jan 2026 09:00:03 +0900"
-    },
-    {
-      "title": "진옥동 신한금융 회장 \"일류 신한 위해 리더 의무 다해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260110058000002",
-      "pubDate": "Sun, 11 Jan 2026 09:00:02 +0900"
-    },
-    {
-      "title": "양종희 KB금융 회장 \"AI 무기로 비즈니스·일 방식 바꿔야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260110058300002",
-      "pubDate": "Sun, 11 Jan 2026 09:00:01 +0900"
-    },
-    {
-      "title": "CU, '커브레족' 겨냥 부리또 출시…커피와 사면 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260111013200030",
-      "pubDate": "Sun, 11 Jan 2026 08:51:53 +0900"
     }
   ]
 }
