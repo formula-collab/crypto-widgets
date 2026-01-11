@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768171207,
+  "updated_at_unix": 1768174384,
   "items": [
+    {
+      "title": "[게시판] 롯데멤버스 임직원, 한국백혈병소아암협회에 기부금",
+      "link": "https://www.yna.co.kr/view/AKR20260112016200030",
+      "pubDate": "Mon, 12 Jan 2026 08:23:27 +0900"
+    },
+    {
+      "title": "오리온, 생크림 함량 높인 디저트 파이 '쉘위' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260112016100030",
+      "pubDate": "Mon, 12 Jan 2026 08:20:56 +0900"
+    },
+    {
+      "title": "세븐일레븐, 배달·픽업 할인 프로모션…퀵커머스에 힘준다",
+      "link": "https://www.yna.co.kr/view/AKR20260112015500030",
+      "pubDate": "Mon, 12 Jan 2026 08:17:44 +0900"
+    },
+    {
+      "title": "W컨셉, 라이프스타일 기획전…\"건강관리·인테리어 상품 선봬\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112015400030",
+      "pubDate": "Mon, 12 Jan 2026 08:17:35 +0900"
+    },
+    {
+      "title": "'역대 최대 채용' 식약처…신약 허가심사 공무원 198명 뽑는다",
+      "link": "https://www.yna.co.kr/view/AKR20260108100900017",
+      "pubDate": "Mon, 12 Jan 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] 엿새째 사상 최고치 경신한 코스피, 미국발 훈풍에 4,600선 뚫나",
+      "link": "https://www.yna.co.kr/view/AKR20260112012800008",
+      "pubDate": "Mon, 12 Jan 2026 07:58:18 +0900"
+    },
+    {
+      "title": "부산시 올해 신중년 일자리 예산 배 늘려…600명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260112012600051",
+      "pubDate": "Mon, 12 Jan 2026 07:54:29 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260112008900011",
@@ -117,41 +152,6 @@
       "title": "중기부, 미 실리콘밸리에 스타트업 원스톱 지원 거점 개소",
       "link": "https://www.yna.co.kr/view/AKR20260110023000030",
       "pubDate": "Sun, 11 Jan 2026 12:00:10 +0900"
-    },
-    {
-      "title": "중기부 차관, HP CCO와 면담…스타트업 세계 진출 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260110024400030",
-      "pubDate": "Sun, 11 Jan 2026 12:00:09 +0900"
-    },
-    {
-      "title": "\"공공 혁신펀드, 10년 이상 장기 투자로 패러다임 전환 도와야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260110044200002",
-      "pubDate": "Sun, 11 Jan 2026 12:00:04 +0900"
-    },
-    {
-      "title": "실손보험 사기 신고하면 포상금 최대 5천만원…\"엄정 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260110044700002",
-      "pubDate": "Sun, 11 Jan 2026 12:00:04 +0900"
-    },
-    {
-      "title": "보험사 재재보험 활성화…보험업권, 표준 정보제공 동의서 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260110053100002",
-      "pubDate": "Sun, 11 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "노동부 산하기관 12일 업무보고…유튜브 생중계",
-      "link": "https://www.yna.co.kr/view/AKR20260111017000530",
-      "pubDate": "Sun, 11 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "포항시 '청년 천원주택' 확대 등 생애 단계별 주거 안정 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260111025400053",
-      "pubDate": "Sun, 11 Jan 2026 11:44:19 +0900"
-    },
-    {
-      "title": "전남도, '미래 성장동략 창출' 아이디어 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260111024600054",
-      "pubDate": "Sun, 11 Jan 2026 11:21:55 +0900"
     }
   ]
 }
