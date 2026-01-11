@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768167135,
+  "updated_at_unix": 1768171207,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260112008900011",
+      "pubDate": "Mon, 12 Jan 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[팩트체크] 6만개 난립에 5년간 1만여개 사라져…쓸만한 민간자격증 찾으려면",
+      "link": "https://www.yna.co.kr/view/AKR20260109121500518",
+      "pubDate": "Mon, 12 Jan 2026 06:30:01 +0900"
+    },
     {
       "title": "'두쫀쿠'가 뭐길래…\"피스타치오 가격 두배로 올라\"",
       "link": "https://www.yna.co.kr/view/AKR20260111000900030",
@@ -142,16 +152,6 @@
       "title": "전남도, '미래 성장동략 창출' 아이디어 공모",
       "link": "https://www.yna.co.kr/view/AKR20260111024600054",
       "pubDate": "Sun, 11 Jan 2026 11:21:55 +0900"
-    },
-    {
-      "title": "[인사] 하나은행",
-      "link": "https://www.yna.co.kr/view/AKR20260111024200002",
-      "pubDate": "Sun, 11 Jan 2026 11:16:25 +0900"
-    },
-    {
-      "title": "반도체 업계 호황에 경기남부 지자체들 '함박웃음'…세수 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260109113800061",
-      "pubDate": "Sun, 11 Jan 2026 11:01:01 +0900"
     }
   ]
 }
