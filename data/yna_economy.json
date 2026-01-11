@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768110174,
+  "updated_at_unix": 1768114630,
   "items": [
+    {
+      "title": "'광주형 일자리' GGM 설비 증설로 50여명 추가 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260111036000054",
+      "pubDate": "Sun, 11 Jan 2026 15:15:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260111033200011",
+      "pubDate": "Sun, 11 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "코트라 \"CES 통합한국관 23개 MOU·2.4억달러 계약 성과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260111033500003",
+      "pubDate": "Sun, 11 Jan 2026 14:47:00 +0900"
+    },
     {
       "title": "[인사] 국가데이터처",
       "link": "https://www.yna.co.kr/view/AKR20260111030000002",
@@ -137,21 +152,6 @@
       "title": "CU, '커브레족' 겨냥 부리또 출시…커피와 사면 할인",
       "link": "https://www.yna.co.kr/view/AKR20260111013200030",
       "pubDate": "Sun, 11 Jan 2026 08:51:53 +0900"
-    },
-    {
-      "title": "건설경기 한파에 거창 화강석 채석업계 '휘청'…군, 대책 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260109111500052",
-      "pubDate": "Sun, 11 Jan 2026 08:45:00 +0900"
-    },
-    {
-      "title": "GS25, 버추얼 아이돌 '플레이브'와 협업 상품 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260111010200030",
-      "pubDate": "Sun, 11 Jan 2026 08:08:20 +0900"
-    },
-    {
-      "title": "美베스트바이 '원픽'은 삼성 AI가전…월풀·GE 대신 정중앙에",
-      "link": "https://www.yna.co.kr/view/AKR20260109044300003",
-      "pubDate": "Sun, 11 Jan 2026 08:00:28 +0900"
     }
   ]
 }
