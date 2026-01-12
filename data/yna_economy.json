@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768233140,
+  "updated_at_unix": 1768237097,
   "items": [
+    {
+      "title": "트럼프 '카드금리 제한' 추진에 美은행·카드사 주가 급락세",
+      "link": "https://www.yna.co.kr/view/AKR20260113003100072",
+      "pubDate": "Tue, 13 Jan 2026 01:43:20 +0900"
+    },
+    {
+      "title": "트럼프 압박에 파월 '발끈'…사상초유 대통령-연준의장 정면충돌",
+      "link": "https://www.yna.co.kr/view/AKR20260113002100071",
+      "pubDate": "Tue, 13 Jan 2026 01:31:16 +0900"
+    },
+    {
+      "title": "국제 금값, 美연준의장 기소위협에 3%↑…최고치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260113002300072",
+      "pubDate": "Tue, 13 Jan 2026 01:24:41 +0900"
+    },
+    {
+      "title": "옐런 前연준 의장, 파월 수사에 \"소름끼쳐…시장, 더 우려해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113001300072",
+      "pubDate": "Tue, 13 Jan 2026 00:49:11 +0900"
+    },
     {
       "title": "'인터넷 전문 은행' 케이뱅크, 코스피 상장예심 통과",
       "link": "https://www.yna.co.kr/view/AKR20260112139900008",
@@ -132,26 +152,6 @@
       "title": "농식품산업 수출 올해 160억달러 목표…\"K푸드 열풍에 상향\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260112087051030",
       "pubDate": "Mon, 12 Jan 2026 15:33:19 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 10.8원 오른 1,468.4원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260112106800002",
-      "pubDate": "Mon, 12 Jan 2026 15:31:39 +0900"
-    },
-    {
-      "title": "용산구, 일자리기금으로 청년기업 융자…건설현장인력도 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260112103200004",
-      "pubDate": "Mon, 12 Jan 2026 15:11:47 +0900"
-    },
-    {
-      "title": "LS증권, HTS '투혼' 대규모 기능 개편…\"사용자 편의성 향상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112099100008",
-      "pubDate": "Mon, 12 Jan 2026 15:00:31 +0900"
-    },
-    {
-      "title": "농식품 장관 \"농협, 지배구조 문제…내부통제 작동하도록 개혁\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112097200030",
-      "pubDate": "Mon, 12 Jan 2026 15:00:00 +0900"
     }
   ]
 }
