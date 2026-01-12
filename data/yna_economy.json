@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768246506,
+  "updated_at_unix": 1768250750,
   "items": [
+    {
+      "title": "홈플러스 사태 MBK 김병주 구속 갈림길…1천억대 사기 혐의",
+      "link": "https://www.yna.co.kr/view/AKR20260112126000004",
+      "pubDate": "Tue, 13 Jan 2026 05:00:01 +0900"
+    },
     {
       "title": "역대연준 의장들, 파월 수사에 \"신흥시장서나 있을 독립성 훼손\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113001351072",
@@ -147,11 +152,6 @@
       "title": "[특징주] 두산에너빌리티 등 원전주, 미국발 훈풍에 줄상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260112027151008",
       "pubDate": "Mon, 12 Jan 2026 15:40:11 +0900"
-    },
-    {
-      "title": "상장폐지 요건 강화…거래소 \"2029년까지 부실기업 230곳 퇴출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112107200002",
-      "pubDate": "Mon, 12 Jan 2026 15:38:04 +0900"
     }
   ]
 }
