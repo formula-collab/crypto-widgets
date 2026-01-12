@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768196917,
+  "updated_at_unix": 1768201413,
   "items": [
+    {
+      "title": "환율, 엔화 약세에 10원 넘게 상승…1,468.4원",
+      "link": "https://www.yna.co.kr/view/AKR20260112025851002",
+      "pubDate": "Mon, 12 Jan 2026 15:55:07 +0900"
+    },
+    {
+      "title": "루센트블록 CEO \"기득권 약탈에 폐업위기…STO 사업 재점검해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112053651017",
+      "pubDate": "Mon, 12 Jan 2026 15:54:40 +0900"
+    },
+    {
+      "title": "안양시, 노후주택 녹색건축물 전환 지원…최대 500만원",
+      "link": "https://www.yna.co.kr/view/AKR20260112111300061",
+      "pubDate": "Mon, 12 Jan 2026 15:49:03 +0900"
+    },
+    {
+      "title": "[특징주] 미래에셋증권, '스페이스X 투자 효과' 기대에 52주 신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112035651008",
+      "pubDate": "Mon, 12 Jan 2026 15:43:56 +0900"
+    },
+    {
+      "title": "[특징주] 두산에너빌리티 등 원전주, 미국발 훈풍에 줄상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112027151008",
+      "pubDate": "Mon, 12 Jan 2026 15:40:11 +0900"
+    },
+    {
+      "title": "상장폐지 요건 강화…거래소 \"2029년까지 부실기업 230곳 퇴출\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112107200002",
+      "pubDate": "Mon, 12 Jan 2026 15:38:04 +0900"
+    },
+    {
+      "title": "외국환시세(1월12일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260112108300002",
+      "pubDate": "Mon, 12 Jan 2026 15:35:27 +0900"
+    },
+    {
+      "title": "농식품산업 수출 올해 160억달러 목표…\"K푸드 열풍에 상향\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112087051030",
+      "pubDate": "Mon, 12 Jan 2026 15:33:19 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 10.8원 오른 1,468.4원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260112106800002",
+      "pubDate": "Mon, 12 Jan 2026 15:31:39 +0900"
+    },
+    {
+      "title": "용산구, 일자리기금으로 청년기업 융자…건설현장인력도 양성",
+      "link": "https://www.yna.co.kr/view/AKR20260112103200004",
+      "pubDate": "Mon, 12 Jan 2026 15:11:47 +0900"
+    },
+    {
+      "title": "LS증권, HTS '투혼' 대규모 기능 개편…\"사용자 편의성 향상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112099100008",
+      "pubDate": "Mon, 12 Jan 2026 15:00:31 +0900"
+    },
+    {
+      "title": "농식품 장관 \"농협, 지배구조 문제…내부통제 작동하도록 개혁\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112097200030",
+      "pubDate": "Mon, 12 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "속초시, 강원도 최초 발달장애인 배상책임보험 전면 가입",
+      "link": "https://www.yna.co.kr/view/AKR20260112098100062",
+      "pubDate": "Mon, 12 Jan 2026 14:55:39 +0900"
+    },
+    {
+      "title": "기보, 미국 실리콘밸리지점 개소…스타트업 진출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260112095100051",
+      "pubDate": "Mon, 12 Jan 2026 14:42:41 +0900"
+    },
     {
       "title": "CES에 충남 기업 10곳 참여…4천905만달러 수출 상담",
       "link": "https://www.yna.co.kr/view/AKR20260112090800063",
@@ -82,76 +152,6 @@
       "title": "벼랑끝 기업 급증…캠코, '회생기업 자금지원'에 500억 추가출자",
       "link": "https://www.yna.co.kr/view/AKR20260112085800002",
       "pubDate": "Mon, 12 Jan 2026 14:00:00 +0900"
-    },
-    {
-      "title": "\"지자체 발주 건설공사 안전관리비, 법적 수준보다 부족\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112083100003",
-      "pubDate": "Mon, 12 Jan 2026 13:45:59 +0900"
-    },
-    {
-      "title": "국가자격시험사고 잇따른 산업인력공단, 전문자격協구성·AI접목",
-      "link": "https://www.yna.co.kr/view/AKR20260112076400530",
-      "pubDate": "Mon, 12 Jan 2026 13:44:28 +0900"
-    },
-    {
-      "title": "신한은행, 기보와 북미 진출 국내 기업 금융지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260112078100002",
-      "pubDate": "Mon, 12 Jan 2026 13:25:31 +0900"
-    },
-    {
-      "title": "흔들리는 OPEC…트럼프, '세계 석유 지도' 다시 그리나",
-      "link": "https://www.yna.co.kr/view/AKR20260112058600009",
-      "pubDate": "Mon, 12 Jan 2026 12:07:33 +0900"
-    },
-    {
-      "title": "'구몬' 교원그룹서 해킹사고…\"개인정보 유출여부 확인중\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260112036252030",
-      "pubDate": "Mon, 12 Jan 2026 12:04:55 +0900"
-    },
-    {
-      "title": "1분기 유통 경기전망 하락…고물가·고환율·계절요인 '3중고'",
-      "link": "https://www.yna.co.kr/view/AKR20260112017000003",
-      "pubDate": "Mon, 12 Jan 2026 12:00:12 +0900"
-    },
-    {
-      "title": "중기부, 메이커 스페이스 기능 확대…제품화·초도양산까지",
-      "link": "https://www.yna.co.kr/view/AKR20260112024900030",
-      "pubDate": "Mon, 12 Jan 2026 12:00:11 +0900"
-    },
-    {
-      "title": "중기부, '지역주력산업 숏폼 공모전' 수상작 30점 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260112027400030",
-      "pubDate": "Mon, 12 Jan 2026 12:00:11 +0900"
-    },
-    {
-      "title": "중기중앙회, 지자체 이차보전 지원대출 시행…최저 연 2.6%로",
-      "link": "https://www.yna.co.kr/view/AKR20260112030900030",
-      "pubDate": "Mon, 12 Jan 2026 12:00:10 +0900"
-    },
-    {
-      "title": "\"상장대박 투자 권유엔 사기 의심해야\" 금감원 소비자경보 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260112044000002",
-      "pubDate": "Mon, 12 Jan 2026 12:00:09 +0900"
-    },
-    {
-      "title": "작년 고용보험 가입자 전년比 1.1%↑…통계집계이래 최저 증가폭",
-      "link": "https://www.yna.co.kr/view/AKR20260112067400530",
-      "pubDate": "Mon, 12 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "'110조 체납' 전수조사…국세청, 체납관리단 500명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260112070900002",
-      "pubDate": "Mon, 12 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "HDC그룹, 미래전략 워크숍 개최…\"미래 50년 위한 변화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112072300003",
-      "pubDate": "Mon, 12 Jan 2026 11:55:39 +0900"
-    },
-    {
-      "title": "대장동 일당 가압류 계좌 확인해보니 '깡통'…속 타는 성남시",
-      "link": "https://www.yna.co.kr/view/AKR20260112069900061",
-      "pubDate": "Mon, 12 Jan 2026 11:43:55 +0900"
     }
   ]
 }
