@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768204352,
+  "updated_at_unix": 1768208467,
   "items": [
+    {
+      "title": "280조대 세외수입도 국세청이 통합 징수한다…준비단 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260112129100002",
+      "pubDate": "Mon, 12 Jan 2026 17:27:48 +0900"
+    },
+    {
+      "title": "근로복지공단, 소음난청·직업성암 처리기간 단축…160일 목표(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112116051530",
+      "pubDate": "Mon, 12 Jan 2026 17:22:07 +0900"
+    },
+    {
+      "title": "환율 상승에 국고채 금리 혼조세…3년물 연 2.980%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112121751008",
+      "pubDate": "Mon, 12 Jan 2026 17:08:41 +0900"
+    },
+    {
+      "title": "상장폐지 요건 강화…거래소 \"2029년까지 부실기업 230곳 퇴출\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260112107251002",
+      "pubDate": "Mon, 12 Jan 2026 16:56:02 +0900"
+    },
+    {
+      "title": "농식품부, 매달 물가관리 중점품목 정한다…매주 수급점검",
+      "link": "https://www.yna.co.kr/view/AKR20260112123000030",
+      "pubDate": "Mon, 12 Jan 2026 16:53:36 +0900"
+    },
+    {
+      "title": "유투바이오, 120억원 유상증자…대웅에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260112122800008",
+      "pubDate": "Mon, 12 Jan 2026 16:51:40 +0900"
+    },
     {
       "title": "국고채 금리 혼조세…3년물 연 2.980%",
       "link": "https://www.yna.co.kr/view/AKR20260112121700008",
@@ -122,36 +152,6 @@
       "title": "산림청, 내년 준공 예정 국립새만금수목원 공정률 38%",
       "link": "https://www.yna.co.kr/view/AKR20260112091300063",
       "pubDate": "Mon, 12 Jan 2026 14:34:09 +0900"
-    },
-    {
-      "title": "[게시판] 관세청, 마약류 2차 검사 시범사업에 마약탐지견 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260112094000002",
-      "pubDate": "Mon, 12 Jan 2026 14:33:49 +0900"
-    },
-    {
-      "title": "오세훈, 광운대역 물류부지 현장 찾아 \"강북 대개조 혁신 축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112035400004",
-      "pubDate": "Mon, 12 Jan 2026 14:31:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260112088600011",
-      "pubDate": "Mon, 12 Jan 2026 14:30:16 +0900"
-    },
-    {
-      "title": "강원도, '동해선 유일 저속' 삼척∼강릉 고속화 예타 통과 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260112092600062",
-      "pubDate": "Mon, 12 Jan 2026 14:29:27 +0900"
-    },
-    {
-      "title": "금융권 출연요율 인상·안정기금 신설…서금원, 재원확대 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260112082500002",
-      "pubDate": "Mon, 12 Jan 2026 14:28:39 +0900"
-    },
-    {
-      "title": "[인사] 관세청",
-      "link": "https://www.yna.co.kr/view/AKR20260112091500002",
-      "pubDate": "Mon, 12 Jan 2026 14:25:18 +0900"
     }
   ]
 }
