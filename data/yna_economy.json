@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768257609,
+  "updated_at_unix": 1768260530,
   "items": [
+    {
+      "title": "샤넬, 제품 가격 인상…클래식 맥시 핸드백 2천만원 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260113024400030",
+      "pubDate": "Tue, 13 Jan 2026 08:26:05 +0900"
+    },
+    {
+      "title": "롯데마트, 한파·이상기후에 스마트팜 채소 20% 늘린다",
+      "link": "https://www.yna.co.kr/view/AKR20260113024300030",
+      "pubDate": "Tue, 13 Jan 2026 08:25:01 +0900"
+    },
+    {
+      "title": "한투증권 \"미래에셋증권, 밸류에이션 감안해 '중립' 의견 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113023500008",
+      "pubDate": "Tue, 13 Jan 2026 08:17:37 +0900"
+    },
+    {
+      "title": "[마켓뷰] 7일째 오른 코스피, 美 물가지표 앞두고 상승폭 제한될듯",
+      "link": "https://www.yna.co.kr/view/AKR20260113021300008",
+      "pubDate": "Tue, 13 Jan 2026 08:04:32 +0900"
+    },
+    {
+      "title": "부산시, 구포시장서 '부산형 선결제' 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260113020500051",
+      "pubDate": "Tue, 13 Jan 2026 07:52:50 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260113017000011",
@@ -127,31 +152,6 @@
       "title": "농식품부, 매달 물가관리 중점품목 정한다…매주 수급점검",
       "link": "https://www.yna.co.kr/view/AKR20260112123000030",
       "pubDate": "Mon, 12 Jan 2026 16:53:36 +0900"
-    },
-    {
-      "title": "유투바이오, 120억원 유상증자…대웅에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260112122800008",
-      "pubDate": "Mon, 12 Jan 2026 16:51:40 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.980%",
-      "link": "https://www.yna.co.kr/view/AKR20260112121700008",
-      "pubDate": "Mon, 12 Jan 2026 16:40:33 +0900"
-    },
-    {
-      "title": "경주 고령자 복지주택 준공…노인 주거·복지 한곳에서 해결",
-      "link": "https://www.yna.co.kr/view/AKR20260112118200053",
-      "pubDate": "Mon, 12 Jan 2026 16:25:15 +0900"
-    },
-    {
-      "title": "근로복지공단, 소음난청·직업성암 처리기간 단축…160일 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260112116000530",
-      "pubDate": "Mon, 12 Jan 2026 16:24:56 +0900"
-    },
-    {
-      "title": "고양시, '제1단계 공공근로사업' 추진…4월 말까지 근무",
-      "link": "https://www.yna.co.kr/view/AKR20260112116400060",
-      "pubDate": "Mon, 12 Jan 2026 16:15:19 +0900"
     }
   ]
 }
