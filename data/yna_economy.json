@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768201413,
+  "updated_at_unix": 1768204352,
   "items": [
+    {
+      "title": "국고채 금리 혼조세…3년물 연 2.980%",
+      "link": "https://www.yna.co.kr/view/AKR20260112121700008",
+      "pubDate": "Mon, 12 Jan 2026 16:40:33 +0900"
+    },
+    {
+      "title": "경주 고령자 복지주택 준공…노인 주거·복지 한곳에서 해결",
+      "link": "https://www.yna.co.kr/view/AKR20260112118200053",
+      "pubDate": "Mon, 12 Jan 2026 16:25:15 +0900"
+    },
+    {
+      "title": "근로복지공단, 소음난청·직업성암 처리기간 단축…160일 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260112116000530",
+      "pubDate": "Mon, 12 Jan 2026 16:24:56 +0900"
+    },
+    {
+      "title": "고양시, '제1단계 공공근로사업' 추진…4월 말까지 근무",
+      "link": "https://www.yna.co.kr/view/AKR20260112116400060",
+      "pubDate": "Mon, 12 Jan 2026 16:15:19 +0900"
+    },
+    {
+      "title": "곡성 농업법인 시향가, '흑백요리사 2' 셰프 협업 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260112114200054",
+      "pubDate": "Mon, 12 Jan 2026 16:11:58 +0900"
+    },
+    {
+      "title": "연이은 '불장'에…코스피 거래대금 5년만에 20조 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260112114600008",
+      "pubDate": "Mon, 12 Jan 2026 16:10:53 +0900"
+    },
+    {
+      "title": "JP모건 \"작년 글로벌 M&A 거래 5조달러…역대 두번째 규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112112400008",
+      "pubDate": "Mon, 12 Jan 2026 16:01:54 +0900"
+    },
+    {
+      "title": "비슷한 피해 소비자 함께 구제한다…소비자원, 법적 근거 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260112110200002",
+      "pubDate": "Mon, 12 Jan 2026 16:00:01 +0900"
+    },
     {
       "title": "환율, 엔화 약세에 10원 넘게 상승…1,468.4원",
       "link": "https://www.yna.co.kr/view/AKR20260112025851002",
@@ -112,46 +152,6 @@
       "title": "[인사] 관세청",
       "link": "https://www.yna.co.kr/view/AKR20260112091500002",
       "pubDate": "Mon, 12 Jan 2026 14:25:18 +0900"
-    },
-    {
-      "title": "강원도, 폐광지역 산업 전환에 5년간 2조3천억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260112090900062",
-      "pubDate": "Mon, 12 Jan 2026 14:20:24 +0900"
-    },
-    {
-      "title": "기획처 직원 소통간담회…\"AI 활용·근무 유연화 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112091100002",
-      "pubDate": "Mon, 12 Jan 2026 14:19:08 +0900"
-    },
-    {
-      "title": "[인천소식] 인천글로벌시티 CI 선포…재외동포타운 3단계 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260112090300065",
-      "pubDate": "Mon, 12 Jan 2026 14:11:22 +0900"
-    },
-    {
-      "title": "신보, P-CBO 직접 첫 발행…2조원 규모 'AI 우대보증' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260112083300002",
-      "pubDate": "Mon, 12 Jan 2026 14:11:00 +0900"
-    },
-    {
-      "title": "소비자단체 \"후쿠시마 오염수방출 반대시위 4년7개월만에 끝내\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112087100030",
-      "pubDate": "Mon, 12 Jan 2026 14:08:55 +0900"
-    },
-    {
-      "title": "농식품산업 수출액 136억달러 돌파…\"올해 160억달러 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112087000030",
-      "pubDate": "Mon, 12 Jan 2026 14:07:06 +0900"
-    },
-    {
-      "title": "주택금융공사 \"올해 보금자리론 20조원 공급 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112077500002",
-      "pubDate": "Mon, 12 Jan 2026 14:00:03 +0900"
-    },
-    {
-      "title": "벼랑끝 기업 급증…캠코, '회생기업 자금지원'에 500억 추가출자",
-      "link": "https://www.yna.co.kr/view/AKR20260112085800002",
-      "pubDate": "Mon, 12 Jan 2026 14:00:00 +0900"
     }
   ]
 }
