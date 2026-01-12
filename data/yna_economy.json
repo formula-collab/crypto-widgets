@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768208467,
+  "updated_at_unix": 1768211995,
   "items": [
+    {
+      "title": "농식품부, aT·마사회 등 업무점검…기관 쇄신에 전력 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260112140100030",
+      "pubDate": "Mon, 12 Jan 2026 18:47:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260112133500011",
+      "pubDate": "Mon, 12 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "국토장관 \"주택공급 후속대책 1월 중 발표 위해 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260112135200003",
+      "pubDate": "Mon, 12 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "280조대 세외수입도 국세청이 통합 징수한다…준비단 출범",
       "link": "https://www.yna.co.kr/view/AKR20260112129100002",
@@ -137,21 +152,6 @@
       "title": "속초시, 강원도 최초 발달장애인 배상책임보험 전면 가입",
       "link": "https://www.yna.co.kr/view/AKR20260112098100062",
       "pubDate": "Mon, 12 Jan 2026 14:55:39 +0900"
-    },
-    {
-      "title": "기보, 미국 실리콘밸리지점 개소…스타트업 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260112095100051",
-      "pubDate": "Mon, 12 Jan 2026 14:42:41 +0900"
-    },
-    {
-      "title": "CES에 충남 기업 10곳 참여…4천905만달러 수출 상담",
-      "link": "https://www.yna.co.kr/view/AKR20260112090800063",
-      "pubDate": "Mon, 12 Jan 2026 14:37:23 +0900"
-    },
-    {
-      "title": "산림청, 내년 준공 예정 국립새만금수목원 공정률 38%",
-      "link": "https://www.yna.co.kr/view/AKR20260112091300063",
-      "pubDate": "Mon, 12 Jan 2026 14:34:09 +0900"
     }
   ]
 }
