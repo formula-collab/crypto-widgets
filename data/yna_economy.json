@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768253930,
+  "updated_at_unix": 1768257609,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260113017000011",
+      "pubDate": "Tue, 13 Jan 2026 07:30:02 +0900"
+    },
+    {
+      "title": "트럼프발 군비증강·지정학 위기 고조에…방산 ETF '활활'",
+      "link": "https://www.yna.co.kr/view/AKR20260112093600008",
+      "pubDate": "Tue, 13 Jan 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 쿠데타의 부활…'대중 쿠데타'인가",
+      "link": "https://www.yna.co.kr/view/AKR20251217030500898",
+      "pubDate": "Tue, 13 Jan 2026 07:00:05 +0900"
+    },
+    {
+      "title": "사상초유 美대통령-연준의장 정면충돌…법무부의 자충수 되나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113002151071",
+      "pubDate": "Tue, 13 Jan 2026 06:48:43 +0900"
+    },
     {
       "title": "美법무부의 '파월 수사'에 여권서도 이견…재무장관 \"엉망됐다\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260113001352072",
@@ -132,26 +152,6 @@
       "title": "고양시, '제1단계 공공근로사업' 추진…4월 말까지 근무",
       "link": "https://www.yna.co.kr/view/AKR20260112116400060",
       "pubDate": "Mon, 12 Jan 2026 16:15:19 +0900"
-    },
-    {
-      "title": "곡성 농업법인 시향가, '흑백요리사 2' 셰프 협업 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260112114200054",
-      "pubDate": "Mon, 12 Jan 2026 16:11:58 +0900"
-    },
-    {
-      "title": "연이은 '불장'에…코스피 거래대금 5년만에 20조 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260112114600008",
-      "pubDate": "Mon, 12 Jan 2026 16:10:53 +0900"
-    },
-    {
-      "title": "JP모건 \"작년 글로벌 M&A 거래 5조달러…역대 두번째 규모\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112112400008",
-      "pubDate": "Mon, 12 Jan 2026 16:01:54 +0900"
-    },
-    {
-      "title": "비슷한 피해 소비자 함께 구제한다…소비자원, 법적 근거 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260112110200002",
-      "pubDate": "Mon, 12 Jan 2026 16:00:01 +0900"
     }
   ]
 }
