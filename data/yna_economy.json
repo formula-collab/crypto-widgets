@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768250750,
+  "updated_at_unix": 1768253930,
   "items": [
+    {
+      "title": "美법무부의 '파월 수사'에 여권서도 이견…재무장관 \"엉망됐다\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260113001352072",
+      "pubDate": "Tue, 13 Jan 2026 06:16:17 +0900"
+    },
+    {
+      "title": "전자금융업자 결제수수료 공시 확대되자…카드·선불 수수료 소폭 인하",
+      "link": "https://www.yna.co.kr/view/AKR20260112129600002",
+      "pubDate": "Tue, 13 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "고환율에도 달러 환산 코스피 연일 사상 최고치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260112136200002",
+      "pubDate": "Tue, 13 Jan 2026 05:51:01 +0900"
+    },
+    {
+      "title": "[샷!] \"그냥 돈 생각하지 말고 가야 해요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260106106800505",
+      "pubDate": "Tue, 13 Jan 2026 05:50:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·이란, 군사 개입 우려 속 대화 가능성…WTI 0.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260113008300009",
+      "pubDate": "Tue, 13 Jan 2026 05:44:15 +0900"
+    },
     {
       "title": "홈플러스 사태 MBK 김병주 구속 갈림길…1천억대 사기 혐의",
       "link": "https://www.yna.co.kr/view/AKR20260112126000004",
@@ -127,31 +152,6 @@
       "title": "비슷한 피해 소비자 함께 구제한다…소비자원, 법적 근거 마련",
       "link": "https://www.yna.co.kr/view/AKR20260112110200002",
       "pubDate": "Mon, 12 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "환율, 엔화 약세에 10원 넘게 상승…1,468.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260112025851002",
-      "pubDate": "Mon, 12 Jan 2026 15:55:07 +0900"
-    },
-    {
-      "title": "루센트블록 CEO \"기득권 약탈에 폐업위기…STO 사업 재점검해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112053651017",
-      "pubDate": "Mon, 12 Jan 2026 15:54:40 +0900"
-    },
-    {
-      "title": "안양시, 노후주택 녹색건축물 전환 지원…최대 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260112111300061",
-      "pubDate": "Mon, 12 Jan 2026 15:49:03 +0900"
-    },
-    {
-      "title": "[특징주] 미래에셋증권, '스페이스X 투자 효과' 기대에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112035651008",
-      "pubDate": "Mon, 12 Jan 2026 15:43:56 +0900"
-    },
-    {
-      "title": "[특징주] 두산에너빌리티 등 원전주, 미국발 훈풍에 줄상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112027151008",
-      "pubDate": "Mon, 12 Jan 2026 15:40:11 +0900"
     }
   ]
 }
