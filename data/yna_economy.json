@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768260530,
+  "updated_at_unix": 1768261495,
   "items": [
+    {
+      "title": "무신사, 중국 지방정부와 K패션 브랜드 초청 행사 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260113027700030",
+      "pubDate": "Tue, 13 Jan 2026 08:40:54 +0900"
+    },
+    {
+      "title": "SK하이닉스, 청주에 첨단 패키징 팹 신설…\"HBM 역량 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113026300003",
+      "pubDate": "Tue, 13 Jan 2026 08:36:00 +0900"
+    },
+    {
+      "title": "하나證 \"KT, 올해 이익 성장…주주이익환원에 주가 상승 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113026200008",
+      "pubDate": "Tue, 13 Jan 2026 08:35:15 +0900"
+    },
+    {
+      "title": "동원F&B, 설 선물세트 출시…'BTS 진 슈퍼참치 세트'도 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260113025700030",
+      "pubDate": "Tue, 13 Jan 2026 08:34:01 +0900"
+    },
+    {
+      "title": "신한투자 \"컴투스, 효율화 끝 실적 반등 기대…투자의견 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113026600008",
+      "pubDate": "Tue, 13 Jan 2026 08:33:52 +0900"
+    },
+    {
+      "title": "한화증권 \"하이브, 작년 4분기 '어닝쇼크'…올해는 실적 반등\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113025600008",
+      "pubDate": "Tue, 13 Jan 2026 08:29:52 +0900"
+    },
     {
       "title": "샤넬, 제품 가격 인상…클래식 맥시 핸드백 2천만원 넘어",
       "link": "https://www.yna.co.kr/view/AKR20260113024400030",
@@ -122,36 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260112133500011",
       "pubDate": "Mon, 12 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "국토장관 \"주택공급 후속대책 1월 중 발표 위해 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260112135200003",
-      "pubDate": "Mon, 12 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "280조대 세외수입도 국세청이 통합 징수한다…준비단 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260112129100002",
-      "pubDate": "Mon, 12 Jan 2026 17:27:48 +0900"
-    },
-    {
-      "title": "근로복지공단, 소음난청·직업성암 처리기간 단축…160일 목표(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112116051530",
-      "pubDate": "Mon, 12 Jan 2026 17:22:07 +0900"
-    },
-    {
-      "title": "환율 상승에 국고채 금리 혼조세…3년물 연 2.980%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112121751008",
-      "pubDate": "Mon, 12 Jan 2026 17:08:41 +0900"
-    },
-    {
-      "title": "상장폐지 요건 강화…거래소 \"2029년까지 부실기업 230곳 퇴출\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260112107251002",
-      "pubDate": "Mon, 12 Jan 2026 16:56:02 +0900"
-    },
-    {
-      "title": "농식품부, 매달 물가관리 중점품목 정한다…매주 수급점검",
-      "link": "https://www.yna.co.kr/view/AKR20260112123000030",
-      "pubDate": "Mon, 12 Jan 2026 16:53:36 +0900"
     }
   ]
 }
