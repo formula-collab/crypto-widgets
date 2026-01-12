@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768211995,
+  "updated_at_unix": 1768215264,
   "items": [
+    {
+      "title": "'인터넷 전문 은행' 케이뱅크, 코스피 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260112139900008",
+      "pubDate": "Mon, 12 Jan 2026 18:58:50 +0900"
+    },
     {
       "title": "농식품부, aT·마사회 등 업무점검…기관 쇄신에 전력 당부",
       "link": "https://www.yna.co.kr/view/AKR20260112140100030",
@@ -147,11 +152,6 @@
       "title": "농식품 장관 \"농협, 지배구조 문제…내부통제 작동하도록 개혁\"",
       "link": "https://www.yna.co.kr/view/AKR20260112097200030",
       "pubDate": "Mon, 12 Jan 2026 15:00:00 +0900"
-    },
-    {
-      "title": "속초시, 강원도 최초 발달장애인 배상책임보험 전면 가입",
-      "link": "https://www.yna.co.kr/view/AKR20260112098100062",
-      "pubDate": "Mon, 12 Jan 2026 14:55:39 +0900"
     }
   ]
 }
