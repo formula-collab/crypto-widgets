@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768290557,
+  "updated_at_unix": 1768294762,
   "items": [
+    {
+      "title": "케이뱅크, 코스피 상장 증권신고서 제출…IPO 절차 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20260113145300002",
+      "pubDate": "Tue, 13 Jan 2026 17:52:35 +0900"
+    },
+    {
+      "title": "金총리 \"청년 월세지원 확대…청년주택 40만호 이상 신속 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113138300001",
+      "pubDate": "Tue, 13 Jan 2026 17:26:58 +0900"
+    },
+    {
+      "title": "금융위, 대부업체 5개사 등록 취소…10여개사 영업정지 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260113142500002",
+      "pubDate": "Tue, 13 Jan 2026 17:25:28 +0900"
+    },
+    {
+      "title": "엔화 약세 연동된 환율 상승 경계감…국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113134651008",
+      "pubDate": "Tue, 13 Jan 2026 17:22:10 +0900"
+    },
+    {
+      "title": "애경산업, 보존제 성분 혼입의심 치약 2천500만개 시중유통",
+      "link": "https://www.yna.co.kr/view/AKR20260113140700030",
+      "pubDate": "Tue, 13 Jan 2026 17:13:16 +0900"
+    },
+    {
+      "title": "기후변화 속 생존 기로 선 스키산업…강원도·업계 해법 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260113137500062",
+      "pubDate": "Tue, 13 Jan 2026 17:09:41 +0900"
+    },
+    {
+      "title": "관광공사, K컬처 연계 관광 활성화…방한객 3천만 시대 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260113112800030",
+      "pubDate": "Tue, 13 Jan 2026 17:08:53 +0900"
+    },
+    {
+      "title": "서금원장 \"서민금융 수요자 중심으로…군 장병 금융교육 늘려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113135000002",
+      "pubDate": "Tue, 13 Jan 2026 17:07:12 +0900"
+    },
+    {
+      "title": "충북도·청주시, SK하이닉스 19조원 투자 발표에 '환영'",
+      "link": "https://www.yna.co.kr/view/AKR20260113138600064",
+      "pubDate": "Tue, 13 Jan 2026 17:02:18 +0900"
+    },
+    {
+      "title": "\"창원팔룡터널 재구조화, 수납원 정리해고 예고…고용 보장하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113134700052",
+      "pubDate": "Tue, 13 Jan 2026 16:56:11 +0900"
+    },
+    {
+      "title": "대우건설 금천구 공사장 사고 관련 영업정지 처분 집행정지 인용",
+      "link": "https://www.yna.co.kr/view/AKR20260113136700003",
+      "pubDate": "Tue, 13 Jan 2026 16:51:33 +0900"
+    },
     {
       "title": "트렌드포스 \"AI 수요에 8인치 파운드리 가격 5∼20%↑ 가능성\"",
       "link": "https://www.yna.co.kr/view/AKR20260113129600003",
@@ -97,61 +152,6 @@
       "title": "외국환시세(1월13일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260113119600002",
       "pubDate": "Tue, 13 Jan 2026 15:35:15 +0900"
-    },
-    {
-      "title": "충북도, '일하는 기쁨' 사업 개시…9개 작업장 175명 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260113115800064",
-      "pubDate": "Tue, 13 Jan 2026 15:35:01 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.3원 오른 1,473.7원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260113117900002",
-      "pubDate": "Tue, 13 Jan 2026 15:30:20 +0900"
-    },
-    {
-      "title": "중소기업인 신년 인사회 350여명 참석…적토마의 해 대도약 다짐",
-      "link": "https://www.yna.co.kr/view/AKR20260113102000030",
-      "pubDate": "Tue, 13 Jan 2026 15:30:01 +0900"
-    },
-    {
-      "title": "'솜방망이 처벌 논란' 중대재해법 양형기준 만든다",
-      "link": "https://www.yna.co.kr/view/AKR20260113115000004",
-      "pubDate": "Tue, 13 Jan 2026 15:27:38 +0900"
-    },
-    {
-      "title": "[부고] 송성경(한국예탁결제원 경영전략부 차장)씨 장인상",
-      "link": "https://www.yna.co.kr/view/AKR20260113116300008",
-      "pubDate": "Tue, 13 Jan 2026 15:25:09 +0900"
-    },
-    {
-      "title": "[부고] 이종민(한국예탁결제원 감사부 팀장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260113115700008",
-      "pubDate": "Tue, 13 Jan 2026 15:23:02 +0900"
-    },
-    {
-      "title": "[게시판] 관세청, 불법 총기류 일당 검거 기여한 공무원 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260113109200002",
-      "pubDate": "Tue, 13 Jan 2026 15:14:43 +0900"
-    },
-    {
-      "title": "산은 회장 \"국민성장펀드, 부패재원 안 되도록 관리할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113113400002",
-      "pubDate": "Tue, 13 Jan 2026 15:14:12 +0900"
-    },
-    {
-      "title": "삼겹살, 앞삼겹·뒷삼겹·돈차돌로 나눈다…한우사육기간 단축(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113078651030",
-      "pubDate": "Tue, 13 Jan 2026 15:01:47 +0900"
-    },
-    {
-      "title": "전남농협-20개 농협, '공공형 계절근로사업' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260113111800054",
-      "pubDate": "Tue, 13 Jan 2026 15:01:45 +0900"
-    },
-    {
-      "title": "올해도 상반기 신속집행…공공부문에 393.8조, 작년보다 3.5조↑",
-      "link": "https://www.yna.co.kr/view/AKR20260113103000002",
-      "pubDate": "Tue, 13 Jan 2026 15:00:02 +0900"
     }
   ]
 }
