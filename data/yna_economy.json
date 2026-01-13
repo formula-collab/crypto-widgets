@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768344367,
+  "updated_at_unix": 1768347095,
   "items": [
+    {
+      "title": "CU, 두쫀쿠 열풍에 '두바이 수건 케이크'도 출시…항공권 경품도",
+      "link": "https://www.yna.co.kr/view/AKR20260114024900030",
+      "pubDate": "Wed, 14 Jan 2026 08:16:43 +0900"
+    },
+    {
+      "title": "무신사 키즈, 신학기 앞두고 책가방 페스티벌…\"최대 80% 할인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114024000030",
+      "pubDate": "Wed, 14 Jan 2026 08:10:07 +0900"
+    },
+    {
+      "title": "부산시, 청년 신용회복지원 사업…채무조정 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260114021400051",
+      "pubDate": "Wed, 14 Jan 2026 08:08:53 +0900"
+    },
+    {
+      "title": "[2보] 지난해 취업자수 19만3천명 증가…2년 연속 10만명대",
+      "link": "https://www.yna.co.kr/view/AKR20260114019251002",
+      "pubDate": "Wed, 14 Jan 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[속보] 작년 12월 취업자수 16만8천명 증가…다시 10만명대로",
+      "link": "https://www.yna.co.kr/view/AKR20260114019300002",
+      "pubDate": "Wed, 14 Jan 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[1보] 지난해 취업자수 19만3천명 증가…2년 연속 10만명대",
+      "link": "https://www.yna.co.kr/view/AKR20260114019200002",
+      "pubDate": "Wed, 14 Jan 2026 08:00:02 +0900"
+    },
+    {
+      "title": "[마켓뷰] 8일째 최고치 랠리 코스피, 미국발 삭풍에 조정받나",
+      "link": "https://www.yna.co.kr/view/AKR20260114021600008",
+      "pubDate": "Wed, 14 Jan 2026 07:58:26 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260114017300011",
@@ -117,41 +152,6 @@
       "title": "[뉴욕유가] 트럼프 \"이란 시위 사망자 너무 많다\"…WTI 2.8%↑",
       "link": "https://www.yna.co.kr/view/AKR20260114007400009",
       "pubDate": "Wed, 14 Jan 2026 05:27:24 +0900"
-    },
-    {
-      "title": "트럼프, '파월 수사' 논란 속 \"그가 일 잘한 건 확실히 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114004300071",
-      "pubDate": "Wed, 14 Jan 2026 03:02:10 +0900"
-    },
-    {
-      "title": "달러-원, 상승폭 확대하며 1,480원 육박 마감…엔화 약세에 동조",
-      "link": "https://www.yna.co.kr/view/AKR20260114004000002",
-      "pubDate": "Wed, 14 Jan 2026 02:26:37 +0900"
-    },
-    {
-      "title": "월가, 트럼프 '카드금리 제한' 추진에 법적대응 불사 시사",
-      "link": "https://www.yna.co.kr/view/AKR20260114002200072",
-      "pubDate": "Wed, 14 Jan 2026 01:18:10 +0900"
-    },
-    {
-      "title": "JP모건 다이먼, 파월 수사에 \"연준 독립성 중요…역효과 날 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114001300072",
-      "pubDate": "Wed, 14 Jan 2026 00:49:44 +0900"
-    },
-    {
-      "title": "한국거래소, 6월부터 프리·애프터마켓 도입…총 12시간 거래(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113072951008",
-      "pubDate": "Tue, 13 Jan 2026 21:23:39 +0900"
-    },
-    {
-      "title": "세계 중앙은행장들, 파월 美 연준의장에 \"전적인 연대\" 성명",
-      "link": "https://www.yna.co.kr/view/AKR20260113157600009",
-      "pubDate": "Tue, 13 Jan 2026 20:15:55 +0900"
-    },
-    {
-      "title": "전농 \"강호동 농협중앙회장 사퇴하라…'셀프개혁' 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113154900030",
-      "pubDate": "Tue, 13 Jan 2026 19:23:08 +0900"
     }
   ]
 }
