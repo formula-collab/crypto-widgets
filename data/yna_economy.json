@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768280548,
+  "updated_at_unix": 1768283589,
   "items": [
+    {
+      "title": "광명시, 사회연대경제 육성 가속…창업부터 성장까지 맞춤 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260113107700061",
+      "pubDate": "Tue, 13 Jan 2026 14:46:59 +0900"
+    },
+    {
+      "title": "원주소방서, 외국인 고용 사업장 대상 안전교육 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260113105800062",
+      "pubDate": "Tue, 13 Jan 2026 14:40:24 +0900"
+    },
+    {
+      "title": "LG이노텍, 광주에 1천억원 투자…차량 AP모듈 생산라인 증설",
+      "link": "https://www.yna.co.kr/view/AKR20260113032100003",
+      "pubDate": "Tue, 13 Jan 2026 14:30:36 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260113102800011",
+      "pubDate": "Tue, 13 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "양주시, 지역화폐 사용처 대폭 확대…병원·약국서도 사용",
+      "link": "https://www.yna.co.kr/view/AKR20260113102700060",
+      "pubDate": "Tue, 13 Jan 2026 14:25:06 +0900"
+    },
+    {
+      "title": "새마을금고 통장 개설하는 익산시 출생 아기에 축하금 10만원",
+      "link": "https://www.yna.co.kr/view/AKR20260113100600055",
+      "pubDate": "Tue, 13 Jan 2026 14:24:13 +0900"
+    },
+    {
+      "title": "강북구, 청년도전지원사업 장기 프로그램 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260113102400004",
+      "pubDate": "Tue, 13 Jan 2026 14:24:03 +0900"
+    },
+    {
+      "title": "전북 제조업체 71% \"올해 경제 정체·악화…확장보다 안정 우선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113075200055",
+      "pubDate": "Tue, 13 Jan 2026 14:22:22 +0900"
+    },
+    {
+      "title": "광주·전남 제조업 70% \"올해 경기 전년 수준 또는 소폭 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113100400054",
+      "pubDate": "Tue, 13 Jan 2026 14:21:20 +0900"
+    },
+    {
+      "title": "\"지역 특산물부터 침구까지\"…호텔 설 선물세트 '다채'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113020451030",
+      "pubDate": "Tue, 13 Jan 2026 14:20:01 +0900"
+    },
+    {
+      "title": "전북소방, 구급 전문자격자 배치율 59%…2030년까지 100% 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260113098300055",
+      "pubDate": "Tue, 13 Jan 2026 14:18:07 +0900"
+    },
+    {
+      "title": "하태경 보험연수원장 \"수강료, 디지털자산 결제 준비할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113097500002",
+      "pubDate": "Tue, 13 Jan 2026 14:15:09 +0900"
+    },
+    {
+      "title": "빙그레, 해태아이스크림와 합병 결의…\"중복 사업조직 통합\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113099800030",
+      "pubDate": "Tue, 13 Jan 2026 14:11:52 +0900"
+    },
+    {
+      "title": "울주군의장, 농업 지원제도 개선 건의에 농식품부 '화답'",
+      "link": "https://www.yna.co.kr/view/AKR20260113098600057",
+      "pubDate": "Tue, 13 Jan 2026 14:11:41 +0900"
+    },
+    {
+      "title": "삼겹살, 앞삼겹·뒷삼겹·돈차돌로 나눈다…한우사육기간 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260113078600030",
+      "pubDate": "Tue, 13 Jan 2026 14:03:21 +0900"
+    },
+    {
+      "title": "부산항 무사고·무재해 다짐…2026년 안전기원제 열려",
+      "link": "https://www.yna.co.kr/view/AKR20260113086400051",
+      "pubDate": "Tue, 13 Jan 2026 14:01:49 +0900"
+    },
+    {
+      "title": "소상공인 올해 경기전망 개선…내수부진은 여전히 최대 부담",
+      "link": "https://www.yna.co.kr/view/AKR20260113070800030",
+      "pubDate": "Tue, 13 Jan 2026 14:00:08 +0900"
+    },
+    {
+      "title": "금감원, 보이스피싱 피해예방 홍보대사에 가수 나태주",
+      "link": "https://www.yna.co.kr/view/AKR20260113069300002",
+      "pubDate": "Tue, 13 Jan 2026 14:00:07 +0900"
+    },
     {
       "title": "[인사] 부국증권",
       "link": "https://www.yna.co.kr/view/AKR20260113095700008",
@@ -62,96 +152,6 @@
       "title": "제조기업 40% \"올해 경기 둔화\"…80% \"유지 또는 축소 경영\"",
       "link": "https://www.yna.co.kr/view/AKR20260113038400003",
       "pubDate": "Tue, 13 Jan 2026 12:00:06 +0900"
-    },
-    {
-      "title": "썩고 불타고…지난해 폐기된 화폐 쌓으면 에베레스트산 17배",
-      "link": "https://www.yna.co.kr/view/AKR20260113061300002",
-      "pubDate": "Tue, 13 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "보험사 기본자본 규제 2027년 도입…50% 미달 시 적기시정조치",
-      "link": "https://www.yna.co.kr/view/AKR20260113069000002",
-      "pubDate": "Tue, 13 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "새해에도 인천 소매유통 경기 전망 암울…\"소비심리 회복 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113072100065",
-      "pubDate": "Tue, 13 Jan 2026 11:42:44 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 장중 연 2.995%",
-      "link": "https://www.yna.co.kr/view/AKR20260113078900008",
-      "pubDate": "Tue, 13 Jan 2026 11:40:22 +0900"
-    },
-    {
-      "title": "삼성증권, 금융자산 30억원 이상 '초고액 자산가' 6천명 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260113075300008",
-      "pubDate": "Tue, 13 Jan 2026 11:30:38 +0900"
-    },
-    {
-      "title": "경찰, 간부·직원 공모 '불법대출' 의혹 대전 모 신협 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260113075600063",
-      "pubDate": "Tue, 13 Jan 2026 11:29:36 +0900"
-    },
-    {
-      "title": "제주 중소기업·소상공인 지식재산 창출·창업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260113074500056",
-      "pubDate": "Tue, 13 Jan 2026 11:24:30 +0900"
-    },
-    {
-      "title": "[양양소식] '성과 돌아보고 과제 모색'…군정 업무보고회 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260113074800062",
-      "pubDate": "Tue, 13 Jan 2026 11:24:22 +0900"
-    },
-    {
-      "title": "현대차증권, '다정다익 랩어카운트' 출시…\"기업 탐방 기반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113074000008",
-      "pubDate": "Tue, 13 Jan 2026 11:21:09 +0900"
-    },
-    {
-      "title": "\"제주∼칭다오 화물선 중앙투자심사 누락·강행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113071100056",
-      "pubDate": "Tue, 13 Jan 2026 11:19:14 +0900"
-    },
-    {
-      "title": "거래소, 6월부터 프리·애프터마켓 도입…12시간 거래 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260113072900008",
-      "pubDate": "Tue, 13 Jan 2026 11:17:55 +0900"
-    },
-    {
-      "title": "울산시, 일자리 창출 강소기업 간담회…지원책 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260112142800057",
-      "pubDate": "Tue, 13 Jan 2026 11:05:00 +0900"
-    },
-    {
-      "title": "돔구장 갖춘 인천 '스타필드 청라' 건설 순항…내년 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260113031600065",
-      "pubDate": "Tue, 13 Jan 2026 11:00:09 +0900"
-    },
-    {
-      "title": "당진 철강노조협의회 \"당진을 산업위기 선제대응지역으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113034500063",
-      "pubDate": "Tue, 13 Jan 2026 11:00:07 +0900"
-    },
-    {
-      "title": "1월 아파트 입주전망 개선…집값 상승 지속·공급부족 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260113030000003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:06 +0900"
-    },
-    {
-      "title": "산업부, 소부장 특화단지 3기 선정절차 돌입…예비검토제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260113035400003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:06 +0900"
-    },
-    {
-      "title": "산업차관 \"철강산업 구조전환 위한 핵심정책 이행 가속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113041200003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:05 +0900"
-    },
-    {
-      "title": "페루도 디지털경제협정 가입…\"韓, 중남미 수출 확대 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113045700003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:04 +0900"
     }
   ]
 }
