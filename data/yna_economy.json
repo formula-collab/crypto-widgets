@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768319518,
+  "updated_at_unix": 1768323685,
   "items": [
+    {
+      "title": "월가, 트럼프 '카드금리 제한' 추진에 법적대응 불사 시사",
+      "link": "https://www.yna.co.kr/view/AKR20260114002200072",
+      "pubDate": "Wed, 14 Jan 2026 01:18:10 +0900"
+    },
+    {
+      "title": "JP모건 다이먼, 파월 수사에 \"연준 독립성 중요…역효과 날 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114001300072",
+      "pubDate": "Wed, 14 Jan 2026 00:49:44 +0900"
+    },
     {
       "title": "한국거래소, 6월부터 프리·애프터마켓 도입…총 12시간 거래(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113072951008",
@@ -142,16 +152,6 @@
       "title": "김해시·농협은행·경남은행, 상반기 소상공인 180억 지원 협약",
       "link": "https://www.yna.co.kr/view/AKR20260113128100052",
       "pubDate": "Tue, 13 Jan 2026 16:27:46 +0900"
-    },
-    {
-      "title": "산일전기 \"디티에스제1호 사모투자합자회사에 295억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113128000008",
-      "pubDate": "Tue, 13 Jan 2026 16:21:21 +0900"
-    },
-    {
-      "title": "이찬진 \"외화 금융상품 판매↑…과도한 마케팅 자제 지도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113126900002",
-      "pubDate": "Tue, 13 Jan 2026 16:13:10 +0900"
     }
   ]
 }
