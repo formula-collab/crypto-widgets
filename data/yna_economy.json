@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768327023,
+  "updated_at_unix": 1768330677,
   "items": [
+    {
+      "title": "트럼프, '파월 수사' 논란 속 \"그가 일 잘한 건 확실히 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114004300071",
+      "pubDate": "Wed, 14 Jan 2026 03:02:10 +0900"
+    },
     {
       "title": "달러-원, 상승폭 확대하며 1,480원 육박 마감…엔화 약세에 동조",
       "link": "https://www.yna.co.kr/view/AKR20260114004000002",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.003%",
       "link": "https://www.yna.co.kr/view/AKR20260113134600008",
       "pubDate": "Tue, 13 Jan 2026 16:40:24 +0900"
-    },
-    {
-      "title": "우원식 \"K자형 성장 넘어 중소기업 동반성장을 위한 입법 추진\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113102051030",
-      "pubDate": "Tue, 13 Jan 2026 16:29:11 +0900"
     }
   ]
 }
