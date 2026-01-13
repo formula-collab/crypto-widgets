@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768323685,
+  "updated_at_unix": 1768327023,
   "items": [
+    {
+      "title": "달러-원, 상승폭 확대하며 1,480원 육박 마감…엔화 약세에 동조",
+      "link": "https://www.yna.co.kr/view/AKR20260114004000002",
+      "pubDate": "Wed, 14 Jan 2026 02:26:37 +0900"
+    },
     {
       "title": "월가, 트럼프 '카드금리 제한' 추진에 법적대응 불사 시사",
       "link": "https://www.yna.co.kr/view/AKR20260114002200072",
@@ -147,11 +152,6 @@
       "title": "우원식 \"K자형 성장 넘어 중소기업 동반성장을 위한 입법 추진\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113102051030",
       "pubDate": "Tue, 13 Jan 2026 16:29:11 +0900"
-    },
-    {
-      "title": "김해시·농협은행·경남은행, 상반기 소상공인 180억 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260113128100052",
-      "pubDate": "Tue, 13 Jan 2026 16:27:46 +0900"
     }
   ]
 }
