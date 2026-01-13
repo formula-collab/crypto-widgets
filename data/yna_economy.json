@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768337224,
+  "updated_at_unix": 1768340363,
   "items": [
+    {
+      "title": "뉴욕증시, 카드이자 상한 후폭풍에 약세…다우 0.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260114010900072",
+      "pubDate": "Wed, 14 Jan 2026 06:18:00 +0900"
+    },
+    {
+      "title": "'고용한파'에 고용허가제 입국자 1년새 31.8% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260113157100530",
+      "pubDate": "Wed, 14 Jan 2026 06:15:01 +0900"
+    },
+    {
+      "title": "국제유가, 트럼프 이란사태 개입 경고에 상승…WTI 2.8%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260114009200072",
+      "pubDate": "Wed, 14 Jan 2026 06:07:33 +0900"
+    },
+    {
+      "title": "한영근 건축가협회장, UIA 회장 선거 출마…\"AI건축문화예술시대 이끌 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113146600003",
+      "pubDate": "Wed, 14 Jan 2026 06:01:00 +0900"
+    },
+    {
+      "title": "국건위원장 \"지방자치 30년…이제 '공간 민주주의'로 나아가야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113117000003",
+      "pubDate": "Wed, 14 Jan 2026 06:00:13 +0900"
+    },
+    {
+      "title": "서울시, 16일부터 자동차세 연납 접수…5% 세액공제 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260113122100004",
+      "pubDate": "Wed, 14 Jan 2026 06:00:11 +0900"
+    },
+    {
+      "title": "특허압박 강화하는 트럼프…줄소송에 비상걸린 K-반도체",
+      "link": "https://www.yna.co.kr/view/AKR20260113127000003",
+      "pubDate": "Wed, 14 Jan 2026 06:00:07 +0900"
+    },
+    {
+      "title": "롯데마트, 6천800원 피자·1천500원 핫도그…\"가성비 델리 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113138200030",
+      "pubDate": "Wed, 14 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "롯데百 동탄점, 니토리 '컴팩트 매장' 첫선…\"3040 생활 밀착형\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113143000030",
+      "pubDate": "Wed, 14 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "지난달 수입물가 0.7%↑…환율 상승에 6개월 연속 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260113138800002",
+      "pubDate": "Wed, 14 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "\"최근 5년 기술 유출로 23조원 피해…외국인투자 심사 강화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113149900003",
+      "pubDate": "Wed, 14 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[이코노워치] 수사받는 파월…중앙은행은 권력에 굴복할 것인가",
+      "link": "https://www.yna.co.kr/view/AKR20260113151200546",
+      "pubDate": "Wed, 14 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "금감원 \"배우자가 낸 사고에 내 車보험료 할증될 수 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113155000002",
+      "pubDate": "Wed, 14 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "고령화가 갉아먹는 성장…\"60세 이상 10% 늘면 GRDP 14%↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113143100002",
+      "pubDate": "Wed, 14 Jan 2026 05:55:01 +0900"
+    },
+    {
+      "title": "고환율, 과도한 통화량 때문?…GDP 대비 비율, 미국 등보다 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260113130600002",
+      "pubDate": "Wed, 14 Jan 2026 05:51:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 트럼프 \"이란 시위 사망자 너무 많다\"…WTI 2.8%↑",
       "link": "https://www.yna.co.kr/view/AKR20260114007400009",
@@ -77,81 +152,6 @@
       "title": "'HBM의 힘' SK하이닉스, 인텔 제치고 글로벌 매출 3위로 올라",
       "link": "https://www.yna.co.kr/view/AKR20260113148700003",
       "pubDate": "Tue, 13 Jan 2026 18:16:08 +0900"
-    },
-    {
-      "title": "산은, 5년간 250조원 지원…국민성장펀드 시너지 프로그램 조성(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113113451002",
-      "pubDate": "Tue, 13 Jan 2026 18:11:12 +0900"
-    },
-    {
-      "title": "여야 3당 대표, 중소기업인 신년회서 '우산 경쟁'으로 표심 구애",
-      "link": "https://www.yna.co.kr/view/AKR20260113147300030",
-      "pubDate": "Tue, 13 Jan 2026 18:03:21 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260113143500011",
-      "pubDate": "Tue, 13 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "케이뱅크, 코스피 상장 증권신고서 제출…IPO 절차 돌입",
-      "link": "https://www.yna.co.kr/view/AKR20260113145300002",
-      "pubDate": "Tue, 13 Jan 2026 17:52:35 +0900"
-    },
-    {
-      "title": "金총리 \"청년 월세지원 확대…청년주택 40만호 이상 신속 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113138300001",
-      "pubDate": "Tue, 13 Jan 2026 17:26:58 +0900"
-    },
-    {
-      "title": "금융위, 대부업체 5개사 등록 취소…10여개사 영업정지 가능성",
-      "link": "https://www.yna.co.kr/view/AKR20260113142500002",
-      "pubDate": "Tue, 13 Jan 2026 17:25:28 +0900"
-    },
-    {
-      "title": "엔화 약세 연동된 환율 상승 경계감…국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113134651008",
-      "pubDate": "Tue, 13 Jan 2026 17:22:10 +0900"
-    },
-    {
-      "title": "애경산업, 보존제 성분 혼입의심 치약 2천500만개 시중유통",
-      "link": "https://www.yna.co.kr/view/AKR20260113140700030",
-      "pubDate": "Tue, 13 Jan 2026 17:13:16 +0900"
-    },
-    {
-      "title": "기후변화 속 생존 기로 선 스키산업…강원도·업계 해법 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260113137500062",
-      "pubDate": "Tue, 13 Jan 2026 17:09:41 +0900"
-    },
-    {
-      "title": "관광공사, K컬처 연계 관광 활성화…방한객 3천만 시대 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260113112800030",
-      "pubDate": "Tue, 13 Jan 2026 17:08:53 +0900"
-    },
-    {
-      "title": "서금원장 \"서민금융 수요자 중심으로…군 장병 금융교육 늘려야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113135000002",
-      "pubDate": "Tue, 13 Jan 2026 17:07:12 +0900"
-    },
-    {
-      "title": "충북도·청주시, SK하이닉스 19조원 투자 발표에 '환영'",
-      "link": "https://www.yna.co.kr/view/AKR20260113138600064",
-      "pubDate": "Tue, 13 Jan 2026 17:02:18 +0900"
-    },
-    {
-      "title": "\"창원팔룡터널 재구조화, 수납원 정리해고 예고…고용 보장하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113134700052",
-      "pubDate": "Tue, 13 Jan 2026 16:56:11 +0900"
-    },
-    {
-      "title": "대우건설 금천구 공사장 사고 관련 영업정지 처분 집행정지 인용",
-      "link": "https://www.yna.co.kr/view/AKR20260113136700003",
-      "pubDate": "Tue, 13 Jan 2026 16:51:33 +0900"
-    },
-    {
-      "title": "트렌드포스 \"AI 수요에 8인치 파운드리 가격 5∼20%↑ 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113129600003",
-      "pubDate": "Tue, 13 Jan 2026 16:41:06 +0900"
     }
   ]
 }
