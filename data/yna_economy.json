@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768297941,
+  "updated_at_unix": 1768301524,
   "items": [
+    {
+      "title": "전농 \"강호동 농협중앙회장 사퇴하라…'셀프개혁' 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113154900030",
+      "pubDate": "Tue, 13 Jan 2026 19:23:08 +0900"
+    },
+    {
+      "title": "중노위, 노란봉투법 TF 운영…심판조정 실무기준 마련(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113125251530",
+      "pubDate": "Tue, 13 Jan 2026 19:11:01 +0900"
+    },
+    {
+      "title": "산은, 5년간 250조원 지원…국민성장펀드 시너지 프로그램 조성(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260113113452002",
+      "pubDate": "Tue, 13 Jan 2026 19:01:19 +0900"
+    },
     {
       "title": "'실세' 금감원장 행보…금융위 \"양 기관 관계는 법에 규정\"",
       "link": "https://www.yna.co.kr/view/AKR20260113151800002",
@@ -137,21 +152,6 @@
       "title": "日닛케이지수 3.1% 급등, 사상 첫 53,000대…금리상승·엔화약세(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113057451073",
       "pubDate": "Tue, 13 Jan 2026 16:06:04 +0900"
-    },
-    {
-      "title": "원전 수출 공사비 분쟁에…산업장관, 한전·한수원 '엄중 질책'",
-      "link": "https://www.yna.co.kr/view/AKR20260113122700003",
-      "pubDate": "Tue, 13 Jan 2026 16:04:48 +0900"
-    },
-    {
-      "title": "원/달러 환율 9일 연속 상승…엔화 약세에 1,470원대로",
-      "link": "https://www.yna.co.kr/view/AKR20260113035751002",
-      "pubDate": "Tue, 13 Jan 2026 16:01:06 +0900"
-    },
-    {
-      "title": "\"제주∼칭다오 화물선 투자심사 누락\"…제주도 \"심사대상 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113071151056",
-      "pubDate": "Tue, 13 Jan 2026 16:00:55 +0900"
     }
   ]
 }
