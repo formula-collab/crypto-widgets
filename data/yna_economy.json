@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768276465,
+  "updated_at_unix": 1768280548,
   "items": [
+    {
+      "title": "[인사] 부국증권",
+      "link": "https://www.yna.co.kr/view/AKR20260113095700008",
+      "pubDate": "Tue, 13 Jan 2026 13:54:36 +0900"
+    },
+    {
+      "title": "경기지역 올해 학교 4곳 폐교…신도시에선 신설 잇따라",
+      "link": "https://www.yna.co.kr/view/AKR20260113093400061",
+      "pubDate": "Tue, 13 Jan 2026 13:48:37 +0900"
+    },
+    {
+      "title": "경남상의협, 김경수 초청 간담회…비수도권 세제 차등적용 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260113089000052",
+      "pubDate": "Tue, 13 Jan 2026 13:47:18 +0900"
+    },
+    {
+      "title": "[특징주] 삼성바이오로직스, JP모건 콘퍼런스 기대감에 52주 신고가",
+      "link": "https://www.yna.co.kr/view/AKR20260113092900008",
+      "pubDate": "Tue, 13 Jan 2026 13:45:19 +0900"
+    },
+    {
+      "title": "日재무상 \"일방적인 엔화 약세 우려…美와 인식 공유\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113088700073",
+      "pubDate": "Tue, 13 Jan 2026 13:27:50 +0900"
+    },
+    {
+      "title": "성북구, 내달 부동산 관련 세무설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260113085800004",
+      "pubDate": "Tue, 13 Jan 2026 13:25:44 +0900"
+    },
     {
       "title": "고환율에 관세청도 칼 뺐다…달러 빼돌린 수출기업 전방위 조사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113062551002",
@@ -122,36 +152,6 @@
       "title": "페루도 디지털경제협정 가입…\"韓, 중남미 수출 확대 기대\"",
       "link": "https://www.yna.co.kr/view/AKR20260113045700003",
       "pubDate": "Tue, 13 Jan 2026 11:00:04 +0900"
-    },
-    {
-      "title": "화재·사고위험 큰 생활용품·해외직구 제품 '안전성 조사' 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260113065700003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, '중국 수소산업 생태계와 韓기업 협력방안' 보고서",
-      "link": "https://www.yna.co.kr/view/AKR20260113068000003",
-      "pubDate": "Tue, 13 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "고환율에 관세청도 칼 뺐다…수출기업 불법 외환거래 집중점검",
-      "link": "https://www.yna.co.kr/view/AKR20260113062500002",
-      "pubDate": "Tue, 13 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "강호동 농협회장, '3억연봉' 겸직 사임…숙박비 4천만원 반납(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260113060551030",
-      "pubDate": "Tue, 13 Jan 2026 10:59:22 +0900"
-    },
-    {
-      "title": "광명 신안산선 붕괴사고 조사기간 4월 30일까지 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260113066200003",
-      "pubDate": "Tue, 13 Jan 2026 10:51:50 +0900"
-    },
-    {
-      "title": "KIEP \"환율, 구조적 상승에 변동성 커져…일관된 정책 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113052700002",
-      "pubDate": "Tue, 13 Jan 2026 10:49:02 +0900"
     }
   ]
 }
