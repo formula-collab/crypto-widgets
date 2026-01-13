@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768301524,
+  "updated_at_unix": 1768304268,
   "items": [
+    {
+      "title": "세계 중앙은행장들, 파월 美 연준의장에 \"전적인 연대\" 성명",
+      "link": "https://www.yna.co.kr/view/AKR20260113157600009",
+      "pubDate": "Tue, 13 Jan 2026 20:15:55 +0900"
+    },
     {
       "title": "전농 \"강호동 농협중앙회장 사퇴하라…'셀프개혁' 안 돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260113154900030",
@@ -147,11 +152,6 @@
       "title": "\"'마데카' 상표권 침해\" 동국제약, 애경산업에 일부승소",
       "link": "https://www.yna.co.kr/view/AKR20260113126100004",
       "pubDate": "Tue, 13 Jan 2026 16:10:23 +0900"
-    },
-    {
-      "title": "日닛케이지수 3.1% 급등, 사상 첫 53,000대…금리상승·엔화약세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113057451073",
-      "pubDate": "Tue, 13 Jan 2026 16:06:04 +0900"
     }
   ]
 }
