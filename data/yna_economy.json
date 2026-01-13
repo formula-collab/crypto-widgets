@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768294762,
+  "updated_at_unix": 1768297941,
   "items": [
+    {
+      "title": "'실세' 금감원장 행보…금융위 \"양 기관 관계는 법에 규정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113151800002",
+      "pubDate": "Tue, 13 Jan 2026 18:33:11 +0900"
+    },
+    {
+      "title": "중노위, 노란봉투법 TF 운영…심판조정 실무기준 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260113125200530",
+      "pubDate": "Tue, 13 Jan 2026 18:30:00 +0900"
+    },
+    {
+      "title": "국토장관, LH에 \"완전히 새로운 아파트 선보여 인식 바꿔야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260113149700003",
+      "pubDate": "Tue, 13 Jan 2026 18:26:00 +0900"
+    },
+    {
+      "title": "[인사] 산은캐피탈",
+      "link": "https://www.yna.co.kr/view/AKR20260113150400002",
+      "pubDate": "Tue, 13 Jan 2026 18:24:16 +0900"
+    },
+    {
+      "title": "'HBM의 힘' SK하이닉스, 인텔 제치고 글로벌 매출 3위로 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260113148700003",
+      "pubDate": "Tue, 13 Jan 2026 18:16:08 +0900"
+    },
+    {
+      "title": "산은, 5년간 250조원 지원…국민성장펀드 시너지 프로그램 조성(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113113451002",
+      "pubDate": "Tue, 13 Jan 2026 18:11:12 +0900"
+    },
+    {
+      "title": "여야 3당 대표, 중소기업인 신년회서 '우산 경쟁'으로 표심 구애",
+      "link": "https://www.yna.co.kr/view/AKR20260113147300030",
+      "pubDate": "Tue, 13 Jan 2026 18:03:21 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260113143500011",
+      "pubDate": "Tue, 13 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "케이뱅크, 코스피 상장 증권신고서 제출…IPO 절차 돌입",
       "link": "https://www.yna.co.kr/view/AKR20260113145300002",
@@ -112,46 +152,6 @@
       "title": "\"제주∼칭다오 화물선 투자심사 누락\"…제주도 \"심사대상 아냐\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260113071151056",
       "pubDate": "Tue, 13 Jan 2026 16:00:55 +0900"
-    },
-    {
-      "title": "르노코리아, 플래그십 크로스오버 필랑트 공개…L당 연비 15.1㎞",
-      "link": "https://www.yna.co.kr/view/AKR20260113083400003",
-      "pubDate": "Tue, 13 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "포항시, 20일부터 택시요금 인상…기본요금 4천→4천500원",
-      "link": "https://www.yna.co.kr/view/AKR20260113121300053",
-      "pubDate": "Tue, 13 Jan 2026 15:52:50 +0900"
-    },
-    {
-      "title": "포항 조합형 임대아파트 가입자 73명, 조합 관계자 등 고소",
-      "link": "https://www.yna.co.kr/view/AKR20260113120200053",
-      "pubDate": "Tue, 13 Jan 2026 15:50:00 +0900"
-    },
-    {
-      "title": "[특징주] 삼성바이오로직스, JP모건 콘퍼런스 기대감에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113092951008",
-      "pubDate": "Tue, 13 Jan 2026 15:43:25 +0900"
-    },
-    {
-      "title": "과천 공공주택지구 기업용지 분양 때 과천시가 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260113120300061",
-      "pubDate": "Tue, 13 Jan 2026 15:42:45 +0900"
-    },
-    {
-      "title": "[특징주] 현대차 사상 첫 40만원 돌파…그룹주 동반 '불기둥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113047151008",
-      "pubDate": "Tue, 13 Jan 2026 15:40:14 +0900"
-    },
-    {
-      "title": "[영암소식] 대불산단 정부지원사업 설명회·안전 기원제",
-      "link": "https://www.yna.co.kr/view/AKR20260113118600054",
-      "pubDate": "Tue, 13 Jan 2026 15:35:16 +0900"
-    },
-    {
-      "title": "외국환시세(1월13일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260113119600002",
-      "pubDate": "Tue, 13 Jan 2026 15:35:15 +0900"
     }
   ]
 }
