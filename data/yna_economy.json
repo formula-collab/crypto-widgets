@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768304268,
+  "updated_at_unix": 1768312413,
   "items": [
+    {
+      "title": "한국거래소, 6월부터 프리·애프터마켓 도입…총 12시간 거래(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260113072951008",
+      "pubDate": "Tue, 13 Jan 2026 21:23:39 +0900"
+    },
     {
       "title": "세계 중앙은행장들, 파월 美 연준의장에 \"전적인 연대\" 성명",
       "link": "https://www.yna.co.kr/view/AKR20260113157600009",
@@ -147,11 +152,6 @@
       "title": "이찬진 \"외화 금융상품 판매↑…과도한 마케팅 자제 지도\"",
       "link": "https://www.yna.co.kr/view/AKR20260113126900002",
       "pubDate": "Tue, 13 Jan 2026 16:13:10 +0900"
-    },
-    {
-      "title": "\"'마데카' 상표권 침해\" 동국제약, 애경산업에 일부승소",
-      "link": "https://www.yna.co.kr/view/AKR20260113126100004",
-      "pubDate": "Tue, 13 Jan 2026 16:10:23 +0900"
     }
   ]
 }
