@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768340363,
+  "updated_at_unix": 1768344367,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260114017300011",
+      "pubDate": "Wed, 14 Jan 2026 07:30:20 +0900"
+    },
+    {
+      "title": "트럼프, 파월 겨냥해 \"나쁜 연준 의장…곧 물러나길 바란다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114005851071",
+      "pubDate": "Wed, 14 Jan 2026 07:22:35 +0900"
+    },
+    {
+      "title": "'1년 만에 물동량 후퇴' 인천항…미·중 늘었지만 동남아 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260113124600065",
+      "pubDate": "Wed, 14 Jan 2026 07:17:00 +0900"
+    },
+    {
+      "title": "[트럼프1년] 美 관세폭탄에 韓 기업들 현지생산 확대로 '돌파구'",
+      "link": "https://www.yna.co.kr/view/AKR20260113159400003",
+      "pubDate": "Wed, 14 Jan 2026 07:01:11 +0900"
+    },
+    {
+      "title": "'탈팡'에 인력조정 현실화…쿠팡 물류센터 근무자 6천여명 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260113131200030",
+      "pubDate": "Wed, 14 Jan 2026 07:01:00 +0900"
+    },
+    {
+      "title": "뉴욕증시, 카드이자 상한 후폭풍에 약세…다우 0.8%↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114010951072",
+      "pubDate": "Wed, 14 Jan 2026 07:00:01 +0900"
+    },
+    {
+      "title": "K-단백질음료 해외 나간다…'테이크핏', 홍콩 이어 몽골 진출",
+      "link": "https://www.yna.co.kr/view/AKR20260113124400030",
+      "pubDate": "Wed, 14 Jan 2026 06:35:01 +0900"
+    },
     {
       "title": "뉴욕증시, 카드이자 상한 후폭풍에 약세…다우 0.8%↓",
       "link": "https://www.yna.co.kr/view/AKR20260114010900072",
@@ -117,41 +152,6 @@
       "title": "전농 \"강호동 농협중앙회장 사퇴하라…'셀프개혁' 안 돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260113154900030",
       "pubDate": "Tue, 13 Jan 2026 19:23:08 +0900"
-    },
-    {
-      "title": "중노위, 노란봉투법 TF 운영…심판조정 실무기준 마련(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260113125251530",
-      "pubDate": "Tue, 13 Jan 2026 19:11:01 +0900"
-    },
-    {
-      "title": "산은, 5년간 250조원 지원…국민성장펀드 시너지 프로그램 조성(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260113113452002",
-      "pubDate": "Tue, 13 Jan 2026 19:01:19 +0900"
-    },
-    {
-      "title": "'실세' 금감원장 행보…금융위 \"양 기관 관계는 법에 규정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113151800002",
-      "pubDate": "Tue, 13 Jan 2026 18:33:11 +0900"
-    },
-    {
-      "title": "중노위, 노란봉투법 TF 운영…심판조정 실무기준 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260113125200530",
-      "pubDate": "Tue, 13 Jan 2026 18:30:00 +0900"
-    },
-    {
-      "title": "국토장관, LH에 \"완전히 새로운 아파트 선보여 인식 바꿔야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260113149700003",
-      "pubDate": "Tue, 13 Jan 2026 18:26:00 +0900"
-    },
-    {
-      "title": "[인사] 산은캐피탈",
-      "link": "https://www.yna.co.kr/view/AKR20260113150400002",
-      "pubDate": "Tue, 13 Jan 2026 18:24:16 +0900"
-    },
-    {
-      "title": "'HBM의 힘' SK하이닉스, 인텔 제치고 글로벌 매출 3위로 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260113148700003",
-      "pubDate": "Tue, 13 Jan 2026 18:16:08 +0900"
     }
   ]
 }
