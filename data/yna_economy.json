@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768381157,
+  "updated_at_unix": 1768384373,
   "items": [
+    {
+      "title": "'폐업 위기' 루센트블록, STO 결론 유보에 \"인가 획득에 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114151800017",
+      "pubDate": "Wed, 14 Jan 2026 18:15:24 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260114146500011",
+      "pubDate": "Wed, 14 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "22일부터 테러 관련자가 소유·지배하는 법인도 금융거래 제한",
       "link": "https://www.yna.co.kr/view/AKR20260114149800002",
@@ -142,16 +152,6 @@
       "title": "정부, 고가 부동산 거래 현금출처 검증 강화…\"범죄행위 무관용\"",
       "link": "https://www.yna.co.kr/view/AKR20260114070900001",
       "pubDate": "Wed, 14 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "기획처, 협동조합 전문가 간담회…\"사회연대경제 역할 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114118100002",
-      "pubDate": "Wed, 14 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "보험사서 상담받다 보안요원에 흉기 휘두른 50대 검거",
-      "link": "https://www.yna.co.kr/view/AKR20260114125400004",
-      "pubDate": "Wed, 14 Jan 2026 15:45:05 +0900"
     }
   ]
 }
