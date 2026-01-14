@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768384373,
+  "updated_at_unix": 1768388029,
   "items": [
+    {
+      "title": "거래소, 24시간 거래 대비 AI혁신 추진…\"스타트업 인수도 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114154800008",
+      "pubDate": "Wed, 14 Jan 2026 18:56:58 +0900"
+    },
     {
       "title": "'폐업 위기' 루센트블록, STO 결론 유보에 \"인가 획득에 최선\"",
       "link": "https://www.yna.co.kr/view/AKR20260114151800017",
@@ -147,11 +152,6 @@
       "title": "가덕도신공항 시공사 선정 가시화에 지역 건설업계 '기대감'",
       "link": "https://www.yna.co.kr/view/AKR20260114130100051",
       "pubDate": "Wed, 14 Jan 2026 16:02:03 +0900"
-    },
-    {
-      "title": "정부, 고가 부동산 거래 현금출처 검증 강화…\"범죄행위 무관용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114070900001",
-      "pubDate": "Wed, 14 Jan 2026 16:00:02 +0900"
     }
   ]
 }
