@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768433387,
+  "updated_at_unix": 1768434360,
   "items": [
+    {
+      "title": "iM증권 \"올해도 어려운 택배업계…탈쿠팡 효과는 제한적일것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115026800008",
+      "pubDate": "Thu, 15 Jan 2026 08:36:34 +0900"
+    },
+    {
+      "title": "송파구, 1대1 무료 세무상담 서비스 강화한다",
+      "link": "https://www.yna.co.kr/view/AKR20260115026000004",
+      "pubDate": "Thu, 15 Jan 2026 08:36:21 +0900"
+    },
+    {
+      "title": "GS25 PB라면 '오모리' 시리즈, 일본 돈키호테 입점",
+      "link": "https://www.yna.co.kr/view/AKR20260115025800030",
+      "pubDate": "Thu, 15 Jan 2026 08:30:40 +0900"
+    },
+    {
+      "title": "LG CNS, 차바이오에 100억원 투자…AI 헬스케어 사업 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260114155700017",
+      "pubDate": "Thu, 15 Jan 2026 08:30:01 +0900"
+    },
+    {
+      "title": "무신사·29CM \"'지속가능' 품목군 연간 거래액 300억원 돌파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115025100030",
+      "pubDate": "Thu, 15 Jan 2026 08:24:47 +0900"
+    },
     {
       "title": "[게시판] 야놀자, KOSA '소프트웨어 매출 5천억 클럽'에 선정",
       "link": "https://www.yna.co.kr/view/AKR20260115024000030",
@@ -127,31 +152,6 @@
       "title": "금리하락에 美 주택거래 회복세…작년 12월 주택판매 5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260115004400072",
       "pubDate": "Thu, 15 Jan 2026 03:39:06 +0900"
-    },
-    {
-      "title": "달러-원, 美 재무장관 구두개입에 10원 넘게 급락…1,464원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260115003400002",
-      "pubDate": "Thu, 15 Jan 2026 02:26:31 +0900"
-    },
-    {
-      "title": "美재무 \"원화 약세, 韓 강력한 경제 펀더멘털과 부합 않는다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114167051071",
-      "pubDate": "Wed, 14 Jan 2026 23:30:01 +0900"
-    },
-    {
-      "title": "과천주암 C1블록 84㎡ 일반공급 본청약 경쟁률 145대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260114161300003",
-      "pubDate": "Wed, 14 Jan 2026 21:00:55 +0900"
-    },
-    {
-      "title": "거래소, 24시간 거래 대비 AI혁신 추진…\"스타트업 인수도 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114154800008",
-      "pubDate": "Wed, 14 Jan 2026 18:56:58 +0900"
-    },
-    {
-      "title": "'폐업 위기' 루센트블록, STO 결론 유보에 \"인가 획득에 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114151800017",
-      "pubDate": "Wed, 14 Jan 2026 18:15:24 +0900"
     }
   ]
 }
