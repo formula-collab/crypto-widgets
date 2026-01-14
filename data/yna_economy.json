@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768376789,
+  "updated_at_unix": 1768381157,
   "items": [
+    {
+      "title": "22일부터 테러 관련자가 소유·지배하는 법인도 금융거래 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260114149800002",
+      "pubDate": "Wed, 14 Jan 2026 17:54:33 +0900"
+    },
+    {
+      "title": "수성웹툰, 54억원 유상증자…투믹스홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260114148700008",
+      "pubDate": "Wed, 14 Jan 2026 17:47:59 +0900"
+    },
+    {
+      "title": "보험 판매수수료 '先지급→분급' 개편…계약 유지율 높인다",
+      "link": "https://www.yna.co.kr/view/AKR20260114144900002",
+      "pubDate": "Wed, 14 Jan 2026 17:30:48 +0900"
+    },
+    {
+      "title": "차바이오텍, 100억원 유상증자…LG씨엔에스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260114145400008",
+      "pubDate": "Wed, 14 Jan 2026 17:23:18 +0900"
+    },
+    {
+      "title": "전방위 '당근과 채찍'도 반짝효과?…브레이크 풀린 환율 어쩌나",
+      "link": "https://www.yna.co.kr/view/AKR20260114124500002",
+      "pubDate": "Wed, 14 Jan 2026 17:21:24 +0900"
+    },
+    {
+      "title": "조각투자 유통플랫폼 사업자 선정 논란…금융위 안건 상정 미뤄",
+      "link": "https://www.yna.co.kr/view/AKR20260114144700002",
+      "pubDate": "Wed, 14 Jan 2026 17:20:17 +0900"
+    },
+    {
+      "title": "건설업계 신년인사회…\"위기 속 새로운 전성기 열자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114144600003",
+      "pubDate": "Wed, 14 Jan 2026 17:17:55 +0900"
+    },
+    {
+      "title": "환율 열흘째 올라 1,480원 눈앞…금융위기 이후 최장기간 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260114133600002",
+      "pubDate": "Wed, 14 Jan 2026 17:13:10 +0900"
+    },
+    {
+      "title": "금통위 하루 앞두고 국고채 금리 혼조세…3년물 연 2.996%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114138551008",
+      "pubDate": "Wed, 14 Jan 2026 17:03:40 +0900"
+    },
+    {
+      "title": "농촌진흥청, 연구직 20명 채용…2월 20∼25일 원서 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260114139900055",
+      "pubDate": "Wed, 14 Jan 2026 17:03:15 +0900"
+    },
+    {
+      "title": "'태백교도소' 조달청 적정성 심의 통과…신축 사업 탄력",
+      "link": "https://www.yna.co.kr/view/AKR20260114139800062",
+      "pubDate": "Wed, 14 Jan 2026 17:02:51 +0900"
+    },
+    {
+      "title": "경남 농수산식품 지난해 수출 15억4천300만달러…역대 최고치",
+      "link": "https://www.yna.co.kr/view/AKR20260114138900052",
+      "pubDate": "Wed, 14 Jan 2026 16:49:03 +0900"
+    },
+    {
+      "title": "인제대, 국민취업지원제도 위탁기관 업무협약…취업 지원 컨설팅",
+      "link": "https://www.yna.co.kr/view/AKR20260114138700052",
+      "pubDate": "Wed, 14 Jan 2026 16:45:25 +0900"
+    },
+    {
+      "title": "해외증시서 '개미 유턴' 대책 나오나…靑-증권업계 비공식 회의",
+      "link": "https://www.yna.co.kr/view/AKR20260114138000002",
+      "pubDate": "Wed, 14 Jan 2026 16:41:06 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 2.996%",
+      "link": "https://www.yna.co.kr/view/AKR20260114138500008",
+      "pubDate": "Wed, 14 Jan 2026 16:40:20 +0900"
+    },
     {
       "title": "광주시 금융정책협력관에 이수인 금감원 국장",
       "link": "https://www.yna.co.kr/view/AKR20260114137000054",
@@ -77,81 +152,6 @@
       "title": "보험사서 상담받다 보안요원에 흉기 휘두른 50대 검거",
       "link": "https://www.yna.co.kr/view/AKR20260114125400004",
       "pubDate": "Wed, 14 Jan 2026 15:45:05 +0900"
-    },
-    {
-      "title": "[특징주] '인적 분할 발표' 한화, 25% 급등…52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114098751008",
-      "pubDate": "Wed, 14 Jan 2026 15:44:45 +0900"
-    },
-    {
-      "title": "[특징주] DYP, 현대모비스 공급업체 선정 소식에 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114043051008",
-      "pubDate": "Wed, 14 Jan 2026 15:37:50 +0900"
-    },
-    {
-      "title": "홈플러스 \"점포 7곳 추가 영업중단…1월 급여 지급도 연기\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114105251030",
-      "pubDate": "Wed, 14 Jan 2026 15:36:17 +0900"
-    },
-    {
-      "title": "외국환시세(1월14일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260114124600002",
-      "pubDate": "Wed, 14 Jan 2026 15:35:15 +0900"
-    },
-    {
-      "title": "[특징주] 한미반도체, SK하이닉스와 공급계약 체결에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114037451008",
-      "pubDate": "Wed, 14 Jan 2026 15:34:12 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 3.8원 오른 1,477.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260114122800002",
-      "pubDate": "Wed, 14 Jan 2026 15:30:21 +0900"
-    },
-    {
-      "title": "기획처 '뜬금없는' 해외 재정분석…\"주요국 성장·국방 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114118800002",
-      "pubDate": "Wed, 14 Jan 2026 15:19:57 +0900"
-    },
-    {
-      "title": "하만·대한전선, 美정부 상대 상호관세 환급 줄소송 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260114119800003",
-      "pubDate": "Wed, 14 Jan 2026 15:16:09 +0900"
-    },
-    {
-      "title": "광주상의, 에너지공대 총장 선임 촉구 건의 \"2년간 공백\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114115600054",
-      "pubDate": "Wed, 14 Jan 2026 15:13:52 +0900"
-    },
-    {
-      "title": "작년 부산진해경제자유구역에 4억5천만달러 외자 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260114118700051",
-      "pubDate": "Wed, 14 Jan 2026 15:11:06 +0900"
-    },
-    {
-      "title": "광명시, 탄소중립 스마트도시 거점 '지-스마트 허브' 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260114049700061",
-      "pubDate": "Wed, 14 Jan 2026 15:10:00 +0900"
-    },
-    {
-      "title": "세종호텔 해고노동자 336일 만에 고공농성 중단…사측과 교섭",
-      "link": "https://www.yna.co.kr/view/AKR20260114112500004",
-      "pubDate": "Wed, 14 Jan 2026 15:07:17 +0900"
-    },
-    {
-      "title": "\"제주 만감류, 美만다린과 비교 안되게 맛있고 식감 좋아요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114113100056",
-      "pubDate": "Wed, 14 Jan 2026 15:06:12 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20260114113400002",
-      "pubDate": "Wed, 14 Jan 2026 15:05:02 +0900"
-    },
-    {
-      "title": "동양, 도심형 AI 데이터센터 개발 사업 진출",
-      "link": "https://www.yna.co.kr/view/AKR20260114113200003",
-      "pubDate": "Wed, 14 Jan 2026 15:00:26 +0900"
     }
   ]
 }
