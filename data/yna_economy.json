@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768430889,
+  "updated_at_unix": 1768433387,
   "items": [
+    {
+      "title": "[게시판] 야놀자, KOSA '소프트웨어 매출 5천억 클럽'에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260115024000030",
+      "pubDate": "Thu, 15 Jan 2026 08:17:35 +0900"
+    },
+    {
+      "title": "세븐일레븐, '흑백' 후덕죽 셰프와 중화요리 간편식 콜라보",
+      "link": "https://www.yna.co.kr/view/AKR20260115024100030",
+      "pubDate": "Thu, 15 Jan 2026 08:16:59 +0900"
+    },
+    {
+      "title": "SSG닷컴 '장보기 페스타' 일주일 연장…\"신규 방문자 수 두 배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115023400030",
+      "pubDate": "Thu, 15 Jan 2026 08:11:20 +0900"
+    },
+    {
+      "title": "지난해 서울 집합건물 생애최초 매수 비중 11년 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260115022000003",
+      "pubDate": "Thu, 15 Jan 2026 08:05:59 +0900"
+    },
+    {
+      "title": "소진공, '예비창업자 양성 사업' 참여 대학 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260115017300030",
+      "pubDate": "Thu, 15 Jan 2026 08:01:43 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 기술주 삭풍·환율 급락 속 코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260115020600008",
+      "pubDate": "Thu, 15 Jan 2026 08:00:08 +0900"
+    },
+    {
+      "title": "부산시, 관광기업 지원해 외국인 관광객 500만명 시대 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260115020200051",
+      "pubDate": "Thu, 15 Jan 2026 07:52:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260115015600011",
@@ -117,41 +152,6 @@
       "title": "'폐업 위기' 루센트블록, STO 결론 유보에 \"인가 획득에 최선\"",
       "link": "https://www.yna.co.kr/view/AKR20260114151800017",
       "pubDate": "Wed, 14 Jan 2026 18:15:24 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260114146500011",
-      "pubDate": "Wed, 14 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "22일부터 테러 관련자가 소유·지배하는 법인도 금융거래 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260114149800002",
-      "pubDate": "Wed, 14 Jan 2026 17:54:33 +0900"
-    },
-    {
-      "title": "수성웹툰, 54억원 유상증자…투믹스홀딩스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260114148700008",
-      "pubDate": "Wed, 14 Jan 2026 17:47:59 +0900"
-    },
-    {
-      "title": "보험 판매수수료 '先지급→분급' 개편…계약 유지율 높인다",
-      "link": "https://www.yna.co.kr/view/AKR20260114144900002",
-      "pubDate": "Wed, 14 Jan 2026 17:30:48 +0900"
-    },
-    {
-      "title": "차바이오텍, 100억원 유상증자…LG씨엔에스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260114145400008",
-      "pubDate": "Wed, 14 Jan 2026 17:23:18 +0900"
-    },
-    {
-      "title": "전방위 '당근과 채찍'도 반짝효과?…브레이크 풀린 환율 어쩌나",
-      "link": "https://www.yna.co.kr/view/AKR20260114124500002",
-      "pubDate": "Wed, 14 Jan 2026 17:21:24 +0900"
-    },
-    {
-      "title": "조각투자 유통플랫폼 사업자 선정 논란…금융위 안건 상정 미뤄",
-      "link": "https://www.yna.co.kr/view/AKR20260114144700002",
-      "pubDate": "Wed, 14 Jan 2026 17:20:17 +0900"
     }
   ]
 }
