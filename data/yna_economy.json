@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768373994,
+  "updated_at_unix": 1768376789,
   "items": [
+    {
+      "title": "광주시 금융정책협력관에 이수인 금감원 국장",
+      "link": "https://www.yna.co.kr/view/AKR20260114137000054",
+      "pubDate": "Wed, 14 Jan 2026 16:34:48 +0900"
+    },
+    {
+      "title": "실노동시간 단축 이행점검단 출범…야간노동자 실태조사 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260113161500530",
+      "pubDate": "Wed, 14 Jan 2026 16:30:01 +0900"
+    },
+    {
+      "title": "金총리 \"대한민국 일군 'K-건설' 도약 위해 함께할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114132800001",
+      "pubDate": "Wed, 14 Jan 2026 16:25:55 +0900"
+    },
+    {
+      "title": "대우건설 컨소시엄, 가덕도신공항 건설 재입찰 나선다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114073651003",
+      "pubDate": "Wed, 14 Jan 2026 16:25:12 +0900"
+    },
+    {
+      "title": "한달간 코스피 거래량 상위 10개 중 6개 '소형주'…\"1월 효과\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114063951008",
+      "pubDate": "Wed, 14 Jan 2026 16:23:56 +0900"
+    },
+    {
+      "title": "의령군 '군민안전보험' 갱신…'땅 꺼짐' 사고 등 보장범위 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260114134400052",
+      "pubDate": "Wed, 14 Jan 2026 16:22:30 +0900"
+    },
+    {
+      "title": "창원 제조기업들 경제성장 제약 요인 1순위는 '통상 불확실성'",
+      "link": "https://www.yna.co.kr/view/AKR20260114131600052",
+      "pubDate": "Wed, 14 Jan 2026 16:13:00 +0900"
+    },
+    {
+      "title": "금감원, 다음주 8대 금융지주 지배구조 점검…CEO 승계절차 본다",
+      "link": "https://www.yna.co.kr/view/AKR20260114130900002",
+      "pubDate": "Wed, 14 Jan 2026 16:12:23 +0900"
+    },
+    {
+      "title": "작년 대구 경제활동인구 3천명 감소, 경북은 1만9천명 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260114132500053",
+      "pubDate": "Wed, 14 Jan 2026 16:11:40 +0900"
+    },
+    {
+      "title": "강원라이즈 실행위원회 개최…교육-취업-정주 연계 모델 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260114131700062",
+      "pubDate": "Wed, 14 Jan 2026 16:10:16 +0900"
+    },
+    {
+      "title": "여전사·저축은행 책무구조도 시범운영…참여시 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20260114129500002",
+      "pubDate": "Wed, 14 Jan 2026 16:09:55 +0900"
+    },
+    {
+      "title": "가덕도신공항 시공사 선정 가시화에 지역 건설업계 '기대감'",
+      "link": "https://www.yna.co.kr/view/AKR20260114130100051",
+      "pubDate": "Wed, 14 Jan 2026 16:02:03 +0900"
+    },
+    {
+      "title": "정부, 고가 부동산 거래 현금출처 검증 강화…\"범죄행위 무관용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114070900001",
+      "pubDate": "Wed, 14 Jan 2026 16:00:02 +0900"
+    },
+    {
+      "title": "기획처, 협동조합 전문가 간담회…\"사회연대경제 역할 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114118100002",
+      "pubDate": "Wed, 14 Jan 2026 16:00:01 +0900"
+    },
     {
       "title": "보험사서 상담받다 보안요원에 흉기 휘두른 50대 검거",
       "link": "https://www.yna.co.kr/view/AKR20260114125400004",
@@ -82,76 +152,6 @@
       "title": "동양, 도심형 AI 데이터센터 개발 사업 진출",
       "link": "https://www.yna.co.kr/view/AKR20260114113200003",
       "pubDate": "Wed, 14 Jan 2026 15:00:26 +0900"
-    },
-    {
-      "title": "농식품부 \"국민 목소리를 정책으로\"…정책고객 업무보고",
-      "link": "https://www.yna.co.kr/view/AKR20260114068100030",
-      "pubDate": "Wed, 14 Jan 2026 15:00:16 +0900"
-    },
-    {
-      "title": "대한상의·코트라, 중소·중견기업 K-소비재 수출지원 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260114078700003",
-      "pubDate": "Wed, 14 Jan 2026 15:00:15 +0900"
-    },
-    {
-      "title": "반도체·디스플레이·이차전지 원천기술에 2천351억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260114104900017",
-      "pubDate": "Wed, 14 Jan 2026 15:00:12 +0900"
-    },
-    {
-      "title": "작년 말 건설업 체감경기 개선…\"계절요인에 일시적 반등\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114114900003",
-      "pubDate": "Wed, 14 Jan 2026 15:00:06 +0900"
-    },
-    {
-      "title": "지정학적 긴장에 유가 고공행진하는데…개미는 하락 '베팅'",
-      "link": "https://www.yna.co.kr/view/AKR20260114114300008",
-      "pubDate": "Wed, 14 Jan 2026 14:57:42 +0900"
-    },
-    {
-      "title": "완주군 봉동 테크노벨리에 공동주택 포함 복합타운 건설",
-      "link": "https://www.yna.co.kr/view/AKR20260114114700055",
-      "pubDate": "Wed, 14 Jan 2026 14:55:54 +0900"
-    },
-    {
-      "title": "청년들 울린 130억원 전세 사기…임대업자 1심서 징역 16년",
-      "link": "https://www.yna.co.kr/view/AKR20260114113700055",
-      "pubDate": "Wed, 14 Jan 2026 14:54:32 +0900"
-    },
-    {
-      "title": "한진, 브리온이스포츠와 LCK 네이밍 스폰서십 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260114114500030",
-      "pubDate": "Wed, 14 Jan 2026 14:53:49 +0900"
-    },
-    {
-      "title": "한국교통대 \"작년 취업률 66.5%…충청권 일반 국립대 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114106800064",
-      "pubDate": "Wed, 14 Jan 2026 14:36:32 +0900"
-    },
-    {
-      "title": "[성남소식] 청년인턴 100명 30일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260114108000061",
-      "pubDate": "Wed, 14 Jan 2026 14:35:38 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260114105600011",
-      "pubDate": "Wed, 14 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "정부 국장 독려 발맞춰…증권사 \"국내주식 투자시 수수료 혜택\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114057251008",
-      "pubDate": "Wed, 14 Jan 2026 14:29:38 +0900"
-    },
-    {
-      "title": "해수부, 저수온 위기경보 '경계' 단계 발령…비상대책반 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260114106400030",
-      "pubDate": "Wed, 14 Jan 2026 14:18:50 +0900"
-    },
-    {
-      "title": "세라젬 \"CES 전시관에 1만5천여명 방문…작년의 두배\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114105100030",
-      "pubDate": "Wed, 14 Jan 2026 14:14:43 +0900"
     }
   ]
 }
