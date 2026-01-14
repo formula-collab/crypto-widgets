@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768390780,
+  "updated_at_unix": 1768398773,
   "items": [
+    {
+      "title": "과천주암 C1블록 84㎡ 일반공급 본청약 경쟁률 145대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260114161300003",
+      "pubDate": "Wed, 14 Jan 2026 21:00:55 +0900"
+    },
     {
       "title": "거래소, 24시간 거래 대비 AI혁신 추진…\"스타트업 인수도 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260114154800008",
@@ -147,11 +152,6 @@
       "title": "여전사·저축은행 책무구조도 시범운영…참여시 인센티브",
       "link": "https://www.yna.co.kr/view/AKR20260114129500002",
       "pubDate": "Wed, 14 Jan 2026 16:09:55 +0900"
-    },
-    {
-      "title": "가덕도신공항 시공사 선정 가시화에 지역 건설업계 '기대감'",
-      "link": "https://www.yna.co.kr/view/AKR20260114130100051",
-      "pubDate": "Wed, 14 Jan 2026 16:02:03 +0900"
     }
   ]
 }
