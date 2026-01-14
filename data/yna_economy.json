@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768413314,
+  "updated_at_unix": 1768417125,
   "items": [
+    {
+      "title": "금리하락에 美 주택거래 회복세…작년 12월 주택판매 5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260115004400072",
+      "pubDate": "Thu, 15 Jan 2026 03:39:06 +0900"
+    },
     {
       "title": "달러-원, 美 재무장관 구두개입에 10원 넘게 급락…1,464원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260115003400002",
@@ -147,11 +152,6 @@
       "title": "금감원, 다음주 8대 금융지주 지배구조 점검…CEO 승계절차 본다",
       "link": "https://www.yna.co.kr/view/AKR20260114130900002",
       "pubDate": "Wed, 14 Jan 2026 16:12:23 +0900"
-    },
-    {
-      "title": "작년 대구 경제활동인구 3천명 감소, 경북은 1만9천명 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260114132500053",
-      "pubDate": "Wed, 14 Jan 2026 16:11:40 +0900"
     }
   ]
 }
