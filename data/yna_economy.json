@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768423281,
+  "updated_at_unix": 1768426809,
   "items": [
+    {
+      "title": "[속보] 국제유가, 트럼프 \"이란서 살해중단\" 언급에 급락전환…WTI 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260115008500072",
+      "pubDate": "Thu, 15 Jan 2026 06:02:31 +0900"
+    },
+    {
+      "title": "현대차·기아 등 74개 차종 34만4천73대 자발적 시정조치",
+      "link": "https://www.yna.co.kr/view/AKR20260114110100003",
+      "pubDate": "Thu, 15 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "기업하기 좋은 환경은…\"창업은 수도권, 공장 입지는 지방\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114137500003",
+      "pubDate": "Thu, 15 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "이마트, 겨울 인기 '딸기' 페스티벌…베이커리도 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260114140100030",
+      "pubDate": "Thu, 15 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "원전 수출도 이제 AI로…산업부, 원전판 챗GPT 'NU-GPT' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260114134800003",
+      "pubDate": "Thu, 15 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"창업 교육·활동 경험 있으면 청년창업 의향 최대 2배 높아져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114132300003",
+      "pubDate": "Thu, 15 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "울산 KTX특화단지·자동차일반산단, 토지거래허가구역 재지정",
+      "link": "https://www.yna.co.kr/view/AKR20260114155400057",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "카드업계 순익 '레고랜드 사태'보다 악화 우려…모집인 9년새 85% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260114147300002",
+      "pubDate": "Thu, 15 Jan 2026 05:57:00 +0900"
+    },
+    {
+      "title": "코로나로 드러난 '독박육아' 현실…엄마 경제활동만 2%p 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260114135900002",
+      "pubDate": "Thu, 15 Jan 2026 05:53:01 +0900"
+    },
+    {
+      "title": "환율 급락에 이때다 '달러 사재기'…당국 개입 뒤 환전 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260114156200002",
+      "pubDate": "Thu, 15 Jan 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美, 이란 군사 개입 임박했나…WTI 1.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260115008000009",
+      "pubDate": "Thu, 15 Jan 2026 05:50:57 +0900"
+    },
+    {
+      "title": "새해 첫 금통위…환율·물가·집값 걱정에 5연속 금리동결 유력",
+      "link": "https://www.yna.co.kr/view/AKR20260114148400002",
+      "pubDate": "Thu, 15 Jan 2026 05:45:00 +0900"
+    },
     {
       "title": "美재무, 원화 약세에 구두개입…\"韓 경제 펀더멘털과 부합 안해\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260114167052071",
@@ -92,66 +152,6 @@
       "title": "농촌진흥청, 연구직 20명 채용…2월 20∼25일 원서 접수",
       "link": "https://www.yna.co.kr/view/AKR20260114139900055",
       "pubDate": "Wed, 14 Jan 2026 17:03:15 +0900"
-    },
-    {
-      "title": "'태백교도소' 조달청 적정성 심의 통과…신축 사업 탄력",
-      "link": "https://www.yna.co.kr/view/AKR20260114139800062",
-      "pubDate": "Wed, 14 Jan 2026 17:02:51 +0900"
-    },
-    {
-      "title": "경남 농수산식품 지난해 수출 15억4천300만달러…역대 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260114138900052",
-      "pubDate": "Wed, 14 Jan 2026 16:49:03 +0900"
-    },
-    {
-      "title": "인제대, 국민취업지원제도 위탁기관 업무협약…취업 지원 컨설팅",
-      "link": "https://www.yna.co.kr/view/AKR20260114138700052",
-      "pubDate": "Wed, 14 Jan 2026 16:45:25 +0900"
-    },
-    {
-      "title": "해외증시서 '개미 유턴' 대책 나오나…靑-증권업계 비공식 회의",
-      "link": "https://www.yna.co.kr/view/AKR20260114138000002",
-      "pubDate": "Wed, 14 Jan 2026 16:41:06 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 2.996%",
-      "link": "https://www.yna.co.kr/view/AKR20260114138500008",
-      "pubDate": "Wed, 14 Jan 2026 16:40:20 +0900"
-    },
-    {
-      "title": "광주시 금융정책협력관에 이수인 금감원 국장",
-      "link": "https://www.yna.co.kr/view/AKR20260114137000054",
-      "pubDate": "Wed, 14 Jan 2026 16:34:48 +0900"
-    },
-    {
-      "title": "실노동시간 단축 이행점검단 출범…야간노동자 실태조사 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260113161500530",
-      "pubDate": "Wed, 14 Jan 2026 16:30:01 +0900"
-    },
-    {
-      "title": "金총리 \"대한민국 일군 'K-건설' 도약 위해 함께할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114132800001",
-      "pubDate": "Wed, 14 Jan 2026 16:25:55 +0900"
-    },
-    {
-      "title": "대우건설 컨소시엄, 가덕도신공항 건설 재입찰 나선다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114073651003",
-      "pubDate": "Wed, 14 Jan 2026 16:25:12 +0900"
-    },
-    {
-      "title": "한달간 코스피 거래량 상위 10개 중 6개 '소형주'…\"1월 효과\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114063951008",
-      "pubDate": "Wed, 14 Jan 2026 16:23:56 +0900"
-    },
-    {
-      "title": "의령군 '군민안전보험' 갱신…'땅 꺼짐' 사고 등 보장범위 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260114134400052",
-      "pubDate": "Wed, 14 Jan 2026 16:22:30 +0900"
-    },
-    {
-      "title": "창원 제조기업들 경제성장 제약 요인 1순위는 '통상 불확실성'",
-      "link": "https://www.yna.co.kr/view/AKR20260114131600052",
-      "pubDate": "Wed, 14 Jan 2026 16:13:00 +0900"
     }
   ]
 }
