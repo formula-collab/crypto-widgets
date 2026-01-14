@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768367132,
+  "updated_at_unix": 1768370059,
   "items": [
+    {
+      "title": "한국교통대 \"작년 취업률 66.5%…충청권 일반 국립대 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114106800064",
+      "pubDate": "Wed, 14 Jan 2026 14:36:32 +0900"
+    },
+    {
+      "title": "[성남소식] 청년인턴 100명 30일까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260114108000061",
+      "pubDate": "Wed, 14 Jan 2026 14:35:38 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260114105600011",
+      "pubDate": "Wed, 14 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "정부 국장 독려 발맞춰…증권사 \"국내주식 투자시 수수료 혜택\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114057251008",
+      "pubDate": "Wed, 14 Jan 2026 14:29:38 +0900"
+    },
+    {
+      "title": "해수부, 저수온 위기경보 '경계' 단계 발령…비상대책반 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260114106400030",
+      "pubDate": "Wed, 14 Jan 2026 14:18:50 +0900"
+    },
+    {
+      "title": "세라젬 \"CES 전시관에 1만5천여명 방문…작년의 두배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114105100030",
+      "pubDate": "Wed, 14 Jan 2026 14:14:43 +0900"
+    },
+    {
+      "title": "홈플러스 \"점포 7곳 추가 영업중단…자금상황 한계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260114105200030",
+      "pubDate": "Wed, 14 Jan 2026 14:14:00 +0900"
+    },
+    {
+      "title": "울주군, 장애인·노인에 전동보조기기 배상책임 보험 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260114104700057",
+      "pubDate": "Wed, 14 Jan 2026 14:09:59 +0900"
+    },
     {
       "title": "GS건설, 성수1지구 수주 도전…\"100년 내다보는 랜드마크로\"",
       "link": "https://www.yna.co.kr/view/AKR20260114102200003",
@@ -112,46 +152,6 @@
       "title": "\"가계부채 연초부터 철저 관리해야\"…주신보 출연요율 개편",
       "link": "https://www.yna.co.kr/view/AKR20260114082900002",
       "pubDate": "Wed, 14 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "12월 은행주담대 0.7조 감소…규제·총량관리에 34개월만 뒷걸음",
-      "link": "https://www.yna.co.kr/view/AKR20260114084100002",
-      "pubDate": "Wed, 14 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 장중 연 2.997%",
-      "link": "https://www.yna.co.kr/view/AKR20260114083100008",
-      "pubDate": "Wed, 14 Jan 2026 11:46:19 +0900"
-    },
-    {
-      "title": "한·일 경제계 \"AI 인프라 협력해야\" 양국 정부에 공동 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260114083600003",
-      "pubDate": "Wed, 14 Jan 2026 11:46:06 +0900"
-    },
-    {
-      "title": "미래에셋증권, 평촌WM지점서 투자전략 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260114080900008",
-      "pubDate": "Wed, 14 Jan 2026 11:46:01 +0900"
-    },
-    {
-      "title": "한화생명, 소비자 중심 경영 고도화…독립 자문기구 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260114080400002",
-      "pubDate": "Wed, 14 Jan 2026 11:31:00 +0900"
-    },
-    {
-      "title": "교보증권, 2026 경영전략회의…\"디지털 전환 가속·신사업 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114079000008",
-      "pubDate": "Wed, 14 Jan 2026 11:28:28 +0900"
-    },
-    {
-      "title": "지난해 고용률, 광주 60.8%·전남 65.6%…광주 ↑·전남↓",
-      "link": "https://www.yna.co.kr/view/AKR20260114078200054",
-      "pubDate": "Wed, 14 Jan 2026 11:24:14 +0900"
-    },
-    {
-      "title": "동부지검 \"백해룡 수사·법령위반 피해입은 분들께 깊은 사과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260114076500004",
-      "pubDate": "Wed, 14 Jan 2026 11:21:14 +0900"
     }
   ]
 }
