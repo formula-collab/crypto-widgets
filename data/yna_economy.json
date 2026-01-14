@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768419234,
+  "updated_at_unix": 1768423281,
   "items": [
+    {
+      "title": "美재무, 원화 약세에 구두개입…\"韓 경제 펀더멘털과 부합 안해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114167052071",
+      "pubDate": "Thu, 15 Jan 2026 05:30:14 +0900"
+    },
     {
       "title": "금리하락에 美 주택거래 회복세…작년 12월 주택판매 5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260115004400072",
@@ -147,11 +152,6 @@
       "title": "창원 제조기업들 경제성장 제약 요인 1순위는 '통상 불확실성'",
       "link": "https://www.yna.co.kr/view/AKR20260114131600052",
       "pubDate": "Wed, 14 Jan 2026 16:13:00 +0900"
-    },
-    {
-      "title": "금감원, 다음주 8대 금융지주 지배구조 점검…CEO 승계절차 본다",
-      "link": "https://www.yna.co.kr/view/AKR20260114130900002",
-      "pubDate": "Wed, 14 Jan 2026 16:12:23 +0900"
     }
   ]
 }
