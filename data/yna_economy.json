@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768449414,
+  "updated_at_unix": 1768453324,
   "items": [
+    {
+      "title": "곽규택, 공공기관이 부산항 북항재개발 상부시설 개발 법안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20260115107000051",
+      "pubDate": "Thu, 15 Jan 2026 13:52:13 +0900"
+    },
+    {
+      "title": "부산항만공사, 부산대와 산학 네트워크 구축 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260115105200051",
+      "pubDate": "Thu, 15 Jan 2026 13:47:43 +0900"
+    },
+    {
+      "title": "엔케이맥스, 9억원 유상증자…제이케이위더스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260115098700008",
+      "pubDate": "Thu, 15 Jan 2026 13:28:54 +0900"
+    },
+    {
+      "title": "지난달 인천 수출실적 2개월 만에 반등…의약품 수출 47.9% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260115098800065",
+      "pubDate": "Thu, 15 Jan 2026 13:27:23 +0900"
+    },
+    {
+      "title": "이순열 대표 \"2억 투자해 6억 회수…임팩트 투자 성과 증명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115044900371",
+      "pubDate": "Thu, 15 Jan 2026 13:21:51 +0900"
+    },
     {
       "title": "수은 행장, 충청 K뷰티·바이오 기업 방문…\"금융지원 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260115056500002",
@@ -127,31 +152,6 @@
       "title": "피자헛 판결에 프랜차이즈업계 '차액가맹금 줄소송 비상'",
       "link": "https://www.yna.co.kr/view/AKR20260115068800030",
       "pubDate": "Thu, 15 Jan 2026 11:41:54 +0900"
-    },
-    {
-      "title": "\"금융 불안 덜어요\"…군산시, 취약계층 채무 피해·완화 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260115078700055",
-      "pubDate": "Thu, 15 Jan 2026 11:41:07 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.070%",
-      "link": "https://www.yna.co.kr/view/AKR20260115085100008",
-      "pubDate": "Thu, 15 Jan 2026 11:40:21 +0900"
-    },
-    {
-      "title": "한은총재 \"연초 환율 상승분 4분의 3, 달러강세·엔약세 요인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115084700002",
-      "pubDate": "Thu, 15 Jan 2026 11:40:01 +0900"
-    },
-    {
-      "title": "옛 인천 롯데백화점 부지 주상복합 공사, 법 위반으로 작업 중지",
-      "link": "https://www.yna.co.kr/view/AKR20260115083900065",
-      "pubDate": "Thu, 15 Jan 2026 11:39:35 +0900"
-    },
-    {
-      "title": "산업부, 美반도체 핵심광물 포고령에 긴급회의…업계와 대책마련",
-      "link": "https://www.yna.co.kr/view/AKR20260115083800003",
-      "pubDate": "Thu, 15 Jan 2026 11:38:04 +0900"
     }
   ]
 }
