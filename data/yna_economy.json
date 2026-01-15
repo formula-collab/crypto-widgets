@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768513168,
+  "updated_at_unix": 1768517044,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260116016200011",
+      "pubDate": "Fri, 16 Jan 2026 07:30:40 +0900"
+    },
+    {
+      "title": "국제유가, 미국 대이란 군사개입 기대감소에 4%대 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260116017100072",
+      "pubDate": "Fri, 16 Jan 2026 07:23:30 +0900"
+    },
+    {
+      "title": "[현장] 폐교 후 8년…활용방안 못찾는 대구 도심 경신정보과학고 건물",
+      "link": "https://www.yna.co.kr/view/AKR20260115127600053",
+      "pubDate": "Fri, 16 Jan 2026 07:02:06 +0900"
+    },
     {
       "title": "[팩트체크] 외국 동전은 국내서 무용지물?…은행원도 헷갈리는 환전법",
       "link": "https://www.yna.co.kr/view/AKR20260115069100518",
@@ -137,21 +152,6 @@
       "title": "금융·통신·수사 보이스피싱 정보 한곳에…AI 플랫폼 법제화",
       "link": "https://www.yna.co.kr/view/AKR20260115145000002",
       "pubDate": "Thu, 15 Jan 2026 16:34:11 +0900"
-    },
-    {
-      "title": "한화 인적분할에 \"불확실성 완화·주주가치 개선\"…그룹주 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115047051008",
-      "pubDate": "Thu, 15 Jan 2026 16:28:20 +0900"
-    },
-    {
-      "title": "환율, 11일 만에 하락해 1,460원대로…美구두개입·금리 동결에",
-      "link": "https://www.yna.co.kr/view/AKR20260115139600002",
-      "pubDate": "Thu, 15 Jan 2026 16:26:02 +0900"
-    },
-    {
-      "title": "[안양소식] '안양예술인센터' 신규 입주자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260115135100061",
-      "pubDate": "Thu, 15 Jan 2026 16:14:06 +0900"
     }
   ]
 }
