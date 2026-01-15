@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768467491,
+  "updated_at_unix": 1768470654,
   "items": [
+    {
+      "title": "주택건설사업 통합심의 대상 확대…9·7대책 후속조치",
+      "link": "https://www.yna.co.kr/view/AKR20260115168300003",
+      "pubDate": "Thu, 15 Jan 2026 18:38:06 +0900"
+    },
+    {
+      "title": "신동빈 \"익숙함과 결별 않으면 문제 해결 안 돼\" 혁신 재차 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260115168000030",
+      "pubDate": "Thu, 15 Jan 2026 18:32:39 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260115162000011",
+      "pubDate": "Thu, 15 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "'매파' 금통위 여파로 국고채 금리 폭등…3년물 연 3.090%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260115151851008",
@@ -137,21 +152,6 @@
       "title": "[특징주] 네이버·엔씨소프트, '독자 AI' 1차 평가 탈락에 하락",
       "link": "https://www.yna.co.kr/view/AKR20260115134500008",
       "pubDate": "Thu, 15 Jan 2026 15:43:48 +0900"
-    },
-    {
-      "title": "피자헛 판결에 프랜차이즈업계 '차액가맹금 줄소송 비상'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115068851030",
-      "pubDate": "Thu, 15 Jan 2026 15:42:49 +0900"
-    },
-    {
-      "title": "외국환시세(1월15일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260115134000002",
-      "pubDate": "Thu, 15 Jan 2026 15:35:25 +0900"
-    },
-    {
-      "title": "주담대 변동금리 또 오른다…작년 12월 코픽스 0.08%p↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115122751002",
-      "pubDate": "Thu, 15 Jan 2026 15:31:45 +0900"
     }
   ]
 }
