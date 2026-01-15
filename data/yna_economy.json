@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768517044,
+  "updated_at_unix": 1768520261,
   "items": [
+    {
+      "title": "롯데호텔, 정부주도 휴머노이드 개발 참여…업계 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260116026800030",
+      "pubDate": "Fri, 16 Jan 2026 08:32:59 +0900"
+    },
+    {
+      "title": "대신증권 \"한화오션, 미국 방위비 증대 수혜 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116026000008",
+      "pubDate": "Fri, 16 Jan 2026 08:24:43 +0900"
+    },
+    {
+      "title": "KB증권 \"대한항공, 中 '한일령'·AI 투자 증가 수혜…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116025400008",
+      "pubDate": "Fri, 16 Jan 2026 08:24:03 +0900"
+    },
+    {
+      "title": "KT알파 쇼핑, '복설복설' 프로모션…설 먹거리 할인·적립",
+      "link": "https://www.yna.co.kr/view/AKR20260116025000030",
+      "pubDate": "Fri, 16 Jan 2026 08:18:34 +0900"
+    },
+    {
+      "title": "한투증권 \"국내시장 복귀계좌, 환율 안정과 주가에 긍정적일 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116024900008",
+      "pubDate": "Fri, 16 Jan 2026 08:16:36 +0900"
+    },
+    {
+      "title": "[부산소식] 정기분 등록면허세 142억원 부과…내달 2일까지 납부",
+      "link": "https://www.yna.co.kr/view/AKR20260116021300051",
+      "pubDate": "Fri, 16 Jan 2026 08:04:19 +0900"
+    },
+    {
+      "title": "[마켓뷰] 열흘째 '불기둥' 코스피, 오늘도 상승세 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260116022100008",
+      "pubDate": "Fri, 16 Jan 2026 08:00:50 +0900"
+    },
+    {
+      "title": "울산 주택보급률 107.6%…10년간 6대 광역시 중 '최고'",
+      "link": "https://www.yna.co.kr/view/AKR20260115177900057",
+      "pubDate": "Fri, 16 Jan 2026 07:44:58 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260116016200011",
@@ -112,46 +152,6 @@
       "title": "스피어 \"싱가포르 종속회사 주식 74억에 추가취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260115157300008",
       "pubDate": "Thu, 15 Jan 2026 17:11:55 +0900"
-    },
-    {
-      "title": "정부, 거시건전성 조치 경고…\"통화스와프 당장 할 상황 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115120151002",
-      "pubDate": "Thu, 15 Jan 2026 17:05:24 +0900"
-    },
-    {
-      "title": "광주, 수출 호조에도 내수 '꽁꽁'…전남은 일제히 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260115116000054",
-      "pubDate": "Thu, 15 Jan 2026 17:02:15 +0900"
-    },
-    {
-      "title": "포항 청림동·일월동에 106억 들여 도시 재생…정주 여건 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260115153300053",
-      "pubDate": "Thu, 15 Jan 2026 16:58:17 +0900"
-    },
-    {
-      "title": "토큰증권 도입해 다양한 사업 증권화…증권사 중개도 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260115153400002",
-      "pubDate": "Thu, 15 Jan 2026 16:56:53 +0900"
-    },
-    {
-      "title": "[게시판] 한국수입협회장, 주한 레바논 대사 면담…\"무역협력 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115154200003",
-      "pubDate": "Thu, 15 Jan 2026 16:56:38 +0900"
-    },
-    {
-      "title": "美 반도체 추가관세 가능성에 정부·업계 \"원팀으로 총력 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115152000003",
-      "pubDate": "Thu, 15 Jan 2026 16:43:24 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.090%",
-      "link": "https://www.yna.co.kr/view/AKR20260115151800008",
-      "pubDate": "Thu, 15 Jan 2026 16:40:19 +0900"
-    },
-    {
-      "title": "금융·통신·수사 보이스피싱 정보 한곳에…AI 플랫폼 법제화",
-      "link": "https://www.yna.co.kr/view/AKR20260115145000002",
-      "pubDate": "Thu, 15 Jan 2026 16:34:11 +0900"
     }
   ]
 }
