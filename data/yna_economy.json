@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768510120,
+  "updated_at_unix": 1768513168,
   "items": [
+    {
+      "title": "[팩트체크] 외국 동전은 국내서 무용지물?…은행원도 헷갈리는 환전법",
+      "link": "https://www.yna.co.kr/view/AKR20260115069100518",
+      "pubDate": "Fri, 16 Jan 2026 06:30:01 +0900"
+    },
+    {
+      "title": "[이코노워치] 굳어지는 고환율…후폭풍이 걱정이다",
+      "link": "https://www.yna.co.kr/view/AKR20260115148300546",
+      "pubDate": "Fri, 16 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "이마트, 산지직송 '오더투홈' 설 선물세트 48종으로 늘려",
+      "link": "https://www.yna.co.kr/view/AKR20260115152500030",
+      "pubDate": "Fri, 16 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "韓 수출 경쟁력, 철강·기계 떨어지고 車·반도체 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260115102900002",
+      "pubDate": "Fri, 16 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "중소기업을 '수출스타'로…산업부 年 5.6억원·패키지 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260115168900003",
+      "pubDate": "Fri, 16 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 이란 사태, 일단 지켜보자는 트럼프…WTI 4.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260116007600009",
+      "pubDate": "Fri, 16 Jan 2026 05:54:41 +0900"
+    },
     {
       "title": "달러-원, 美 주간 고용지표 호조에 낙폭 축소…1,470원 턱밑 마감",
       "link": "https://www.yna.co.kr/view/AKR20260116003000002",
@@ -122,36 +152,6 @@
       "title": "[안양소식] '안양예술인센터' 신규 입주자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260115135100061",
       "pubDate": "Thu, 15 Jan 2026 16:14:06 +0900"
-    },
-    {
-      "title": "한국은행 부산본부, 중소기업 설자금 2천500억원 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260115143800051",
-      "pubDate": "Thu, 15 Jan 2026 16:13:02 +0900"
-    },
-    {
-      "title": "한국거래소 정은보 이사장, '청소년 도박 근절 캠페인' 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260115143100008",
-      "pubDate": "Thu, 15 Jan 2026 16:11:49 +0900"
-    },
-    {
-      "title": "SK증권, 바이셀스탠다드와 토큰증권 시장 활성화 위한 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260115142300008",
-      "pubDate": "Thu, 15 Jan 2026 16:10:03 +0900"
-    },
-    {
-      "title": "개정노조법 지침 '사용자성' 정의두고 노사 우려…의견전달",
-      "link": "https://www.yna.co.kr/view/AKR20260115137700530",
-      "pubDate": "Thu, 15 Jan 2026 16:09:09 +0900"
-    },
-    {
-      "title": "업계, 토큰증권 법안 통과에 \"367조 시장 개화…금융산업 혁신\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115140400008",
-      "pubDate": "Thu, 15 Jan 2026 16:08:28 +0900"
-    },
-    {
-      "title": "[특징주] 美 기술주 삭풍에도 삼성전자 역대 최고가…하이닉스도 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115037551008",
-      "pubDate": "Thu, 15 Jan 2026 16:02:25 +0900"
     }
   ]
 }
