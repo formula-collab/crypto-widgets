@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768492705,
+  "updated_at_unix": 1768499446,
   "items": [
+    {
+      "title": "달러-원, 美 주간 고용지표 호조에 낙폭 축소…1,470원 턱밑 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260116003000002",
+      "pubDate": "Fri, 16 Jan 2026 02:25:38 +0900"
+    },
     {
       "title": "이혜훈 \"李정부 정책기조 전적으로 공감\"…尹정부 평가엔 신중",
       "link": "https://www.yna.co.kr/view/AKR20260115179100002",
@@ -147,11 +152,6 @@
       "title": "[특징주] 美 기술주 삭풍에도 삼성전자 역대 최고가…하이닉스도 올라(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260115037551008",
       "pubDate": "Thu, 15 Jan 2026 16:02:25 +0900"
-    },
-    {
-      "title": "[게시판] 부산은행, 31일까지 'BNK내맘대로 예금' 특판",
-      "link": "https://www.yna.co.kr/view/AKR20260115139400051",
-      "pubDate": "Thu, 15 Jan 2026 15:58:02 +0900"
     }
   ]
 }
