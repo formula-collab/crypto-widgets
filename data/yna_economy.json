@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768470654,
+  "updated_at_unix": 1768474305,
   "items": [
+    {
+      "title": "작년 음반 수출액 3억달러 첫 돌파…판매량은 2년 연속 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260115149500005",
+      "pubDate": "Thu, 15 Jan 2026 19:27:02 +0900"
+    },
+    {
+      "title": "신세계프라퍼티 \"센터필드 매각반대\"…이지스운용 \"매각진행\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260115112551030",
+      "pubDate": "Thu, 15 Jan 2026 19:25:51 +0900"
+    },
+    {
+      "title": "작년 말 기준 서울 민간아파트 분양가 평당 5천269만원",
+      "link": "https://www.yna.co.kr/view/AKR20260115169400003",
+      "pubDate": "Thu, 15 Jan 2026 18:58:36 +0900"
+    },
+    {
+      "title": "보험해지 문제로 보안요원에 흉기난동 50대 구속영장",
+      "link": "https://www.yna.co.kr/view/AKR20260115169100004",
+      "pubDate": "Thu, 15 Jan 2026 18:54:19 +0900"
+    },
     {
       "title": "주택건설사업 통합심의 대상 확대…9·7대책 후속조치",
       "link": "https://www.yna.co.kr/view/AKR20260115168300003",
@@ -132,26 +152,6 @@
       "title": "트립닷컴 \"서울, 1분기 글로벌 '인기 여행지' 2위\"",
       "link": "https://www.yna.co.kr/view/AKR20260115136700030",
       "pubDate": "Thu, 15 Jan 2026 15:50:40 +0900"
-    },
-    {
-      "title": "BNK금융, 사외이사 과반 주주추천 인사로 구성…지배구조 개선(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115110851051",
-      "pubDate": "Thu, 15 Jan 2026 15:48:41 +0900"
-    },
-    {
-      "title": "충남도, 대전과 행정통합으로 매년 9조원 예산 확보 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260115134900063",
-      "pubDate": "Thu, 15 Jan 2026 15:46:05 +0900"
-    },
-    {
-      "title": "[특징주] 나우로보틱스, 한양로보틱스 인수 소식에 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115042551008",
-      "pubDate": "Thu, 15 Jan 2026 15:44:54 +0900"
-    },
-    {
-      "title": "[특징주] 네이버·엔씨소프트, '독자 AI' 1차 평가 탈락에 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260115134500008",
-      "pubDate": "Thu, 15 Jan 2026 15:43:48 +0900"
     }
   ]
 }
