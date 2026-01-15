@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768460392,
+  "updated_at_unix": 1768463118,
   "items": [
+    {
+      "title": "금융·통신·수사 보이스피싱 정보 한곳에…AI 플랫폼 법제화",
+      "link": "https://www.yna.co.kr/view/AKR20260115145000002",
+      "pubDate": "Thu, 15 Jan 2026 16:34:11 +0900"
+    },
+    {
+      "title": "한화 인적분할에 \"불확실성 완화·주주가치 개선\"…그룹주 강세(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260115047051008",
+      "pubDate": "Thu, 15 Jan 2026 16:28:20 +0900"
+    },
+    {
+      "title": "환율, 11일 만에 하락해 1,460원대로…美구두개입·금리 동결에",
+      "link": "https://www.yna.co.kr/view/AKR20260115139600002",
+      "pubDate": "Thu, 15 Jan 2026 16:26:02 +0900"
+    },
+    {
+      "title": "[안양소식] '안양예술인센터' 신규 입주자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260115135100061",
+      "pubDate": "Thu, 15 Jan 2026 16:14:06 +0900"
+    },
+    {
+      "title": "한국은행 부산본부, 중소기업 설자금 2천500억원 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260115143800051",
+      "pubDate": "Thu, 15 Jan 2026 16:13:02 +0900"
+    },
+    {
+      "title": "한국거래소 정은보 이사장, '청소년 도박 근절 캠페인' 동참",
+      "link": "https://www.yna.co.kr/view/AKR20260115143100008",
+      "pubDate": "Thu, 15 Jan 2026 16:11:49 +0900"
+    },
+    {
+      "title": "SK증권, 바이셀스탠다드와 토큰증권 시장 활성화 위한 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260115142300008",
+      "pubDate": "Thu, 15 Jan 2026 16:10:03 +0900"
+    },
+    {
+      "title": "개정노조법 지침 '사용자성' 정의두고 노사 우려…의견전달",
+      "link": "https://www.yna.co.kr/view/AKR20260115137700530",
+      "pubDate": "Thu, 15 Jan 2026 16:09:09 +0900"
+    },
+    {
+      "title": "업계, 토큰증권 법안 통과에 \"367조 시장 개화…금융산업 혁신\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115140400008",
+      "pubDate": "Thu, 15 Jan 2026 16:08:28 +0900"
+    },
+    {
+      "title": "[특징주] 美 기술주 삭풍에도 삼성전자 역대 최고가…하이닉스도 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260115037551008",
+      "pubDate": "Thu, 15 Jan 2026 16:02:25 +0900"
+    },
+    {
+      "title": "[게시판] 부산은행, 31일까지 'BNK내맘대로 예금' 특판",
+      "link": "https://www.yna.co.kr/view/AKR20260115139400051",
+      "pubDate": "Thu, 15 Jan 2026 15:58:02 +0900"
+    },
     {
       "title": "보험금 노려 교통사고 위장해 아내 살해한 남편 2심도 징역 40년",
       "link": "https://www.yna.co.kr/view/AKR20260115136300061",
@@ -97,61 +152,6 @@
       "title": "[인사] LS증권",
       "link": "https://www.yna.co.kr/view/AKR20260115123200008",
       "pubDate": "Thu, 15 Jan 2026 15:00:27 +0900"
-    },
-    {
-      "title": "작년 서울 아파트값 상승률 8.98%…19년 만에 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260115095351003",
-      "pubDate": "Thu, 15 Jan 2026 15:00:11 +0900"
-    },
-    {
-      "title": "정부 \"베선트 이례적 언급…원화가치, 美투자에 중요 인식 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115120100002",
-      "pubDate": "Thu, 15 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "주담대 변동금리 또 오른다…작년 12월 코픽스 0.08%p↑",
-      "link": "https://www.yna.co.kr/view/AKR20260115122700002",
-      "pubDate": "Thu, 15 Jan 2026 14:59:19 +0900"
-    },
-    {
-      "title": "iM금융 '사외이사 예비후보자' 주주 추천 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260115121900053",
-      "pubDate": "Thu, 15 Jan 2026 14:57:00 +0900"
-    },
-    {
-      "title": "'차액가맹금 패소' 피자헛 \"대법 판결 존중…후속 조치 진행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115119900030",
-      "pubDate": "Thu, 15 Jan 2026 14:54:42 +0900"
-    },
-    {
-      "title": "토스증권 MTS서 간밤 종목·잔고 조회 오류…\"고객 보상 예정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115119000008",
-      "pubDate": "Thu, 15 Jan 2026 14:44:33 +0900"
-    },
-    {
-      "title": "\"산림 50ｍ 이내 건축허가 신청때 산림재난 위험성 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115117500063",
-      "pubDate": "Thu, 15 Jan 2026 14:41:19 +0900"
-    },
-    {
-      "title": "\"연내 금리동결\" vs \"인하 사이클 종료 아냐\"…증권가 해석 분분",
-      "link": "https://www.yna.co.kr/view/AKR20260115116100008",
-      "pubDate": "Thu, 15 Jan 2026 14:38:06 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260115113900011",
-      "pubDate": "Thu, 15 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "신세계프라퍼티, 이지스운용 '센터필드 매각' 반대…\"법적 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115112500030",
-      "pubDate": "Thu, 15 Jan 2026 14:22:01 +0900"
-    },
-    {
-      "title": "하남시장, 위례신사선 예타 통과 촉구…\"위례 주민 인내심 한계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115112300061",
-      "pubDate": "Thu, 15 Jan 2026 14:10:44 +0900"
     }
   ]
 }
