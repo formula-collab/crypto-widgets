@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768477034,
+  "updated_at_unix": 1768485163,
   "items": [
+    {
+      "title": "이혜훈 \"청약 논란, 조사 결과 따를 것\"…자녀 의혹엔 답변 피해",
+      "link": "https://www.yna.co.kr/view/AKR20260115176300002",
+      "pubDate": "Thu, 15 Jan 2026 21:22:47 +0900"
+    },
     {
       "title": "작년 음반 수출액 3억달러 첫 돌파…판매량은 2년 연속 감소",
       "link": "https://www.yna.co.kr/view/AKR20260115149500005",
@@ -147,11 +152,6 @@
       "title": "보험금 노려 교통사고 위장해 아내 살해한 남편 2심도 징역 40년",
       "link": "https://www.yna.co.kr/view/AKR20260115136300061",
       "pubDate": "Thu, 15 Jan 2026 15:54:58 +0900"
-    },
-    {
-      "title": "트립닷컴 \"서울, 1분기 글로벌 '인기 여행지' 2위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115136700030",
-      "pubDate": "Thu, 15 Jan 2026 15:50:40 +0900"
     }
   ]
 }
