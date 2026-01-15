@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768485163,
+  "updated_at_unix": 1768488803,
   "items": [
+    {
+      "title": "이혜훈 \"李정부 정책기조 전적으로 공감\"…尹정부 평가엔 신중",
+      "link": "https://www.yna.co.kr/view/AKR20260115179100002",
+      "pubDate": "Thu, 15 Jan 2026 22:53:54 +0900"
+    },
     {
       "title": "이혜훈 \"청약 논란, 조사 결과 따를 것\"…자녀 의혹엔 답변 피해",
       "link": "https://www.yna.co.kr/view/AKR20260115176300002",
@@ -147,11 +152,6 @@
       "title": "[게시판] 부산은행, 31일까지 'BNK내맘대로 예금' 특판",
       "link": "https://www.yna.co.kr/view/AKR20260115139400051",
       "pubDate": "Thu, 15 Jan 2026 15:58:02 +0900"
-    },
-    {
-      "title": "보험금 노려 교통사고 위장해 아내 살해한 남편 2심도 징역 40년",
-      "link": "https://www.yna.co.kr/view/AKR20260115136300061",
-      "pubDate": "Thu, 15 Jan 2026 15:54:58 +0900"
     }
   ]
 }
