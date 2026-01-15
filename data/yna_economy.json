@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768453324,
+  "updated_at_unix": 1768456473,
   "items": [
+    {
+      "title": "토스증권 MTS서 간밤 종목·잔고 조회 오류…\"고객 보상 예정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115119000008",
+      "pubDate": "Thu, 15 Jan 2026 14:44:33 +0900"
+    },
+    {
+      "title": "\"산림 50ｍ 이내 건축허가 신청때 산림재난 위험성 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115117500063",
+      "pubDate": "Thu, 15 Jan 2026 14:41:19 +0900"
+    },
+    {
+      "title": "\"연내 금리동결\" vs \"인하 사이클 종료 아냐\"…증권가 해석 분분",
+      "link": "https://www.yna.co.kr/view/AKR20260115116100008",
+      "pubDate": "Thu, 15 Jan 2026 14:38:06 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260115113900011",
+      "pubDate": "Thu, 15 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "신세계프라퍼티, 이지스운용 '센터필드 매각' 반대…\"법적 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115112500030",
+      "pubDate": "Thu, 15 Jan 2026 14:22:01 +0900"
+    },
+    {
+      "title": "하남시장, 위례신사선 예타 통과 촉구…\"위례 주민 인내심 한계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115112300061",
+      "pubDate": "Thu, 15 Jan 2026 14:10:44 +0900"
+    },
+    {
+      "title": "경남도청에서 중소기업 설명회…박완수 지사 \"현장 체감형 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115030900052",
+      "pubDate": "Thu, 15 Jan 2026 14:10:00 +0900"
+    },
+    {
+      "title": "작년 서울 아파트값 상승률 8.98%…부동산원 통계 작성이래 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260115095300003",
+      "pubDate": "Thu, 15 Jan 2026 14:09:34 +0900"
+    },
+    {
+      "title": "BNK금융, 사외이사 과반 주주추천 인사로 구성 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260115110800051",
+      "pubDate": "Thu, 15 Jan 2026 14:05:16 +0900"
+    },
+    {
+      "title": "중기장관, 광주전남 사업설명회 참석…\"지역 생태계 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115110900030",
+      "pubDate": "Thu, 15 Jan 2026 14:03:24 +0900"
+    },
+    {
+      "title": "쿠팡, '5만원이용권' 오늘부터 지급…석달 기한·차액환불 안돼(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260115038551030",
+      "pubDate": "Thu, 15 Jan 2026 14:02:54 +0900"
+    },
+    {
+      "title": "고려아연 최윤범 회장 '다보스포럼' 참석…美 제련소 협의도",
+      "link": "https://www.yna.co.kr/view/AKR20260115105400003",
+      "pubDate": "Thu, 15 Jan 2026 14:00:58 +0900"
+    },
+    {
+      "title": "'정책금융 브로커' 신고하면 최대 200만원…중기부, 포상제 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260115033700030",
+      "pubDate": "Thu, 15 Jan 2026 14:00:07 +0900"
+    },
+    {
+      "title": "중소기업계 \"환경 규제 합리화·탄소중립 지원 절실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260115052000030",
+      "pubDate": "Thu, 15 Jan 2026 14:00:06 +0900"
+    },
+    {
+      "title": "AI부터 휴머노이드까지…과기부 융합기술에 2천342억 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260115079200017",
+      "pubDate": "Thu, 15 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "서울 오피스텔 풍선효과?…작년 4분기 매매·전세가 모두 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260115075200003",
+      "pubDate": "Thu, 15 Jan 2026 14:00:04 +0900"
+    },
+    {
+      "title": "서울 아파트값 주간상승률 소폭 확대…경기 규제지역 강세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260115074000003",
+      "pubDate": "Thu, 15 Jan 2026 14:00:03 +0900"
+    },
+    {
+      "title": "'흑백2' 파트너사 한샘, 정호영·중식마녀 요리대결 다시 펼쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260115099300030",
+      "pubDate": "Thu, 15 Jan 2026 14:00:00 +0900"
+    },
+    {
+      "title": "카자흐스탄 정부 관계자 행복청 방문…세종시 건설경험 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260115105900063",
+      "pubDate": "Thu, 15 Jan 2026 13:59:37 +0900"
+    },
     {
       "title": "곽규택, 공공기관이 부산항 북항재개발 상부시설 개발 법안 발의",
       "link": "https://www.yna.co.kr/view/AKR20260115107000051",
@@ -57,101 +152,6 @@
       "title": "소비자원 \"비도로용 사륜오토바이 사고 우려 커…안전장치 미흡\"",
       "link": "https://www.yna.co.kr/view/AKR20260114119300030",
       "pubDate": "Thu, 15 Jan 2026 12:00:08 +0900"
-    },
-    {
-      "title": "[게시판] 중기부, '대학원생 벤처투자 경진대회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260115026100030",
-      "pubDate": "Thu, 15 Jan 2026 12:00:08 +0900"
-    },
-    {
-      "title": "외국인력 1만6천명 고용허가 접수…조선업은 제조업 쿼터 통합",
-      "link": "https://www.yna.co.kr/view/AKR20260114144500530",
-      "pubDate": "Thu, 15 Jan 2026 12:00:07 +0900"
-    },
-    {
-      "title": "오리털 넣고 '구스다운', 코트 캐시미어 비율 속여…공정위 제재",
-      "link": "https://www.yna.co.kr/view/AKR20260115068300002",
-      "pubDate": "Thu, 15 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "국민성장펀드 민간운용사 공모 돌입…하반기 산업현장 자금투입",
-      "link": "https://www.yna.co.kr/view/AKR20260115068700002",
-      "pubDate": "Thu, 15 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "공무원·공공기관 일자리 제자리걸음…20대는 최대폭 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260115076400002",
-      "pubDate": "Thu, 15 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "금융사, AI 위험관리 기구 갖춰야…금감원 가이드라인 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260115072900002",
-      "pubDate": "Thu, 15 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "금감원 \"달러보험, 환테크 목적 상품 아냐\"…소비자경보 발령",
-      "link": "https://www.yna.co.kr/view/AKR20260115084200002",
-      "pubDate": "Thu, 15 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "프랜차이즈협회, 피자헛 차액가맹금 판결에 \"산업 붕괴 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115088900030",
-      "pubDate": "Thu, 15 Jan 2026 11:58:52 +0900"
-    },
-    {
-      "title": "한은 총재 \"韓은 채권국…대외자산 많아 금융위기 아니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115089300002",
-      "pubDate": "Thu, 15 Jan 2026 11:56:50 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"국내 달러 풍부하지만 팔지않고 빌려만주니 환율문제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115089200002",
-      "pubDate": "Thu, 15 Jan 2026 11:55:25 +0900"
-    },
-    {
-      "title": "트럼프 \"우크라 종전 걸림돌은 젤렌스키…푸틴은 협상 준비돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115084600009",
-      "pubDate": "Thu, 15 Jan 2026 11:55:09 +0900"
-    },
-    {
-      "title": "'파월 지키기'서 빠진 일본은행 총재…\"트럼프 자극 우려\" 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260115087300073",
-      "pubDate": "Thu, 15 Jan 2026 11:53:49 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"韓은 채권국…대외자산 많아 금융위기 아니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115088600002",
-      "pubDate": "Thu, 15 Jan 2026 11:51:50 +0900"
-    },
-    {
-      "title": "기획처·중장기전략위 '미래비전 2050' 사회분야 과제 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260115087400002",
-      "pubDate": "Thu, 15 Jan 2026 11:49:09 +0900"
-    },
-    {
-      "title": "한은 총재 \"금리인하 기대 줄이려 작년 11월 '전환' 언급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115087000002",
-      "pubDate": "Thu, 15 Jan 2026 11:46:40 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"금리 오른다고 부동산 잡히지 않아…종합대책 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115086800002",
-      "pubDate": "Thu, 15 Jan 2026 11:44:53 +0900"
-    },
-    {
-      "title": "CJ제일제당, 설 선물세트 209종 선보여…\"실속·트렌드 겨냥\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115086500030",
-      "pubDate": "Thu, 15 Jan 2026 11:44:51 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"금리인하 기대 줄이려 작년 11월 '전환' 언급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260115086000002",
-      "pubDate": "Thu, 15 Jan 2026 11:42:54 +0900"
-    },
-    {
-      "title": "피자헛 판결에 프랜차이즈업계 '차액가맹금 줄소송 비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260115068800030",
-      "pubDate": "Thu, 15 Jan 2026 11:41:54 +0900"
     }
   ]
 }
