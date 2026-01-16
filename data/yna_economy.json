@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768592026,
+  "updated_at_unix": 1768594328,
   "items": [
+    {
+      "title": "필리핀 가사도우미 임금, 韓평균의 절반…\"돌봄가치 재평가해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116117100371",
+      "pubDate": "Sat, 17 Jan 2026 05:00:00 +0900"
+    },
     {
       "title": "트럼프 '차기 연준의장 유력' 백악관 측근에 \"현직에 두고싶어\"",
       "link": "https://www.yna.co.kr/view/AKR20260117004300071",
@@ -147,11 +152,6 @@
       "title": "[특징주] 알테오젠, 기술수출 기대감에 10% 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116098551008",
       "pubDate": "Fri, 16 Jan 2026 15:57:19 +0900"
-    },
-    {
-      "title": "[특징주] 삼성생명, 두나무 지분 인수 검토 보도에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116077151008",
-      "pubDate": "Fri, 16 Jan 2026 15:56:24 +0900"
     }
   ]
 }
