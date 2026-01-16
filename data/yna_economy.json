@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768583753,
+  "updated_at_unix": 1768585490,
   "items": [
+    {
+      "title": "트럼프 '차기 연준의장 유력' 백악관 측근에 \"현직에 두고싶어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260117004300071",
+      "pubDate": "Sat, 17 Jan 2026 02:37:14 +0900"
+    },
+    {
+      "title": "달러-원, '비둘기' 해싯 연준 의장설 후퇴에 상승폭 확대…1,474.5원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260117004000002",
+      "pubDate": "Sat, 17 Jan 2026 02:25:15 +0900"
+    },
     {
       "title": "라이더, 차기 연준 의장 기대 살리나…트럼프와 최종 면접",
       "link": "https://www.yna.co.kr/view/AKR20260117000600002",
@@ -142,16 +152,6 @@
       "title": "[특징주] 삼성생명, 두나무 지분 인수 검토 보도에 52주 신고가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116077151008",
       "pubDate": "Fri, 16 Jan 2026 15:56:24 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 미국 기술주 훈풍에 또 역대 최고가 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116049051008",
-      "pubDate": "Fri, 16 Jan 2026 15:49:57 +0900"
-    },
-    {
-      "title": "제주 농민회, CPTPP 가입 추진 중단 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260116118300056",
-      "pubDate": "Fri, 16 Jan 2026 15:44:46 +0900"
     }
   ]
 }
