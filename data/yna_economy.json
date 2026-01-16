@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768539650,
+  "updated_at_unix": 1768542823,
   "items": [
+    {
+      "title": "작년 울산 수출 2.1%↓…자동차·석유제품 등 주력 품목 부진",
+      "link": "https://www.yna.co.kr/view/AKR20260116102300057",
+      "pubDate": "Fri, 16 Jan 2026 14:44:04 +0900"
+    },
+    {
+      "title": "관세청, 겨울철 불량·불법제품 41만점 적발…스노보드 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260116095100002",
+      "pubDate": "Fri, 16 Jan 2026 14:37:34 +0900"
+    },
+    {
+      "title": "[게시판] 현대건설 기술교육원 '취업완성 아카데미' 교육생 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260116100700003",
+      "pubDate": "Fri, 16 Jan 2026 14:37:00 +0900"
+    },
+    {
+      "title": "하나증권, 첫 발행어음 상품 3천억 완판…출시 일주일만",
+      "link": "https://www.yna.co.kr/view/AKR20260116101200008",
+      "pubDate": "Fri, 16 Jan 2026 14:36:48 +0900"
+    },
+    {
+      "title": "[게시판] 국가대표 올림픽 메달 따면 금리↑…우리은행 적금 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260116093900002",
+      "pubDate": "Fri, 16 Jan 2026 14:36:45 +0900"
+    },
+    {
+      "title": "\"협력사와 상생\"…한화시스템, 동반성장데이 행사 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260116100500003",
+      "pubDate": "Fri, 16 Jan 2026 14:36:41 +0900"
+    },
+    {
+      "title": "'정읍시가 보증합니다' 청년 기업 인증제 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260116099700055",
+      "pubDate": "Fri, 16 Jan 2026 14:33:55 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260116097400011",
+      "pubDate": "Fri, 16 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[현장] 허허벌판 논밭이 전주 복합스포츠타운으로…윤곽 드러내",
+      "link": "https://www.yna.co.kr/view/AKR20260116093000055",
+      "pubDate": "Fri, 16 Jan 2026 14:29:29 +0900"
+    },
+    {
+      "title": "[특징주] 알테오젠, 기술수출 기대감에 8%대 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260116098500008",
+      "pubDate": "Fri, 16 Jan 2026 14:24:12 +0900"
+    },
+    {
+      "title": "대우건설 컨소시엄, 가덕도신공항 재입찰 서류 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260116097800003",
+      "pubDate": "Fri, 16 Jan 2026 14:21:29 +0900"
+    },
+    {
+      "title": "NH농협은행, 다음 주 'NH포용금융 특별우대' 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260116089500002",
+      "pubDate": "Fri, 16 Jan 2026 14:20:05 +0900"
+    },
+    {
+      "title": "메가커피 점주들도 차액가맹금 소송 나선다…\"1천명 이상 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116091500030",
+      "pubDate": "Fri, 16 Jan 2026 14:02:56 +0900"
+    },
+    {
+      "title": "중기부, 대·中企 상생성장 간담회…'모두의 성장' 전략 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260116055000030",
+      "pubDate": "Fri, 16 Jan 2026 14:00:21 +0900"
+    },
+    {
+      "title": "창립 22주년 부산항만공사 \"글로벌 항만업계 선도자로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116093100051",
+      "pubDate": "Fri, 16 Jan 2026 14:00:10 +0900"
+    },
+    {
+      "title": "김포시, 한강2콤팩트시티·풍무역세권 등 도시개발 박차",
+      "link": "https://www.yna.co.kr/view/AKR20260116093300065",
+      "pubDate": "Fri, 16 Jan 2026 14:00:01 +0900"
+    },
+    {
+      "title": "차바이오텍, 1천억원 유상증자…한화손보 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260116091600008",
+      "pubDate": "Fri, 16 Jan 2026 13:58:46 +0900"
+    },
     {
       "title": "\"한일, 지역소멸 데칼코마니…채용연계·메가시티 등 협력해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260116071600003",
@@ -67,91 +152,6 @@
       "title": "MBK \"홈플러스 회생 위한 긴급운영자금 중 1천억원 부담\"",
       "link": "https://www.yna.co.kr/view/AKR20260116075000008",
       "pubDate": "Fri, 16 Jan 2026 11:29:09 +0900"
-    },
-    {
-      "title": "키움증권, '영웅문S#' 내 실시간 토론형 투자 커뮤니티 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260116072600008",
-      "pubDate": "Fri, 16 Jan 2026 11:22:55 +0900"
-    },
-    {
-      "title": "코스피 '불장'에 장중 시가총액 사상 처음 4천조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260116072000008",
-      "pubDate": "Fri, 16 Jan 2026 11:21:41 +0900"
-    },
-    {
-      "title": "대신증권, 이달 말까지 국내주식 거래 활성화 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260116071700008",
-      "pubDate": "Fri, 16 Jan 2026 11:14:44 +0900"
-    },
-    {
-      "title": "전북도, 농수산식품 수출 해외시장 공략한다…7억 달러 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260116071100055",
-      "pubDate": "Fri, 16 Jan 2026 11:12:12 +0900"
-    },
-    {
-      "title": "두바이 디저트 붐 확산…'두쫀쿠' 앞세워 신제품 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20260116070300030",
-      "pubDate": "Fri, 16 Jan 2026 11:09:11 +0900"
-    },
-    {
-      "title": "성동구, 미취업 청년에 '어학·자격시험 응시료' 최대 10만원",
-      "link": "https://www.yna.co.kr/view/AKR20260116070100004",
-      "pubDate": "Fri, 16 Jan 2026 11:05:46 +0900"
-    },
-    {
-      "title": "[세법시행령] 부부명의 1주택, 지분 관계없이 상속특례 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260116001400002",
-      "pubDate": "Fri, 16 Jan 2026 11:00:04 +0900"
-    },
-    {
-      "title": "[세법시행령] 하이볼 15% 싸진다…청년미래적금, 40세까지 가입 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260116000700002",
-      "pubDate": "Fri, 16 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[세법시행령] 항공기 결항 등 사유면 출국 못 해도 면세품 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260115178600002",
-      "pubDate": "Fri, 16 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "\"석유화학 새로운 도약 원년으로\"…석화업계 신년인사회",
-      "link": "https://www.yna.co.kr/view/AKR20260116051300003",
-      "pubDate": "Fri, 16 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[세법시행령] 현금배당 늘리면 세금 깎아준다…반도체·선박 '전략기술' 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260116001300002",
-      "pubDate": "Fri, 16 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "\"통신3사, 일회성 비용 털고 회복 기대\"…저점 찍고 반등 지속?",
-      "link": "https://www.yna.co.kr/view/AKR20260116061900008",
-      "pubDate": "Fri, 16 Jan 2026 10:54:09 +0900"
-    },
-    {
-      "title": "카카오 김범수, 신입 교육장 깜짝 방문…\"반복 업무는 AI로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116064400017",
-      "pubDate": "Fri, 16 Jan 2026 10:52:44 +0900"
-    },
-    {
-      "title": "'해킹사고' 교원그룹, 고객정보 유출 미확인…\"시간 소요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116062500030",
-      "pubDate": "Fri, 16 Jan 2026 10:51:24 +0900"
-    },
-    {
-      "title": "동해시, 주민 참여 감독제 운용…주민이 직접 공사 품질 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260116064700062",
-      "pubDate": "Fri, 16 Jan 2026 10:48:41 +0900"
-    },
-    {
-      "title": "광주·전남 12월 무역수지 15억9천만 달러 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260116063400054",
-      "pubDate": "Fri, 16 Jan 2026 10:45:02 +0900"
-    },
-    {
-      "title": "충북개발공사, 청주 '클래식 스마트밸리 산단' 보상 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260116059400064",
-      "pubDate": "Fri, 16 Jan 2026 10:34:23 +0900"
     }
   ]
 }
