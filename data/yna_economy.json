@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768535678,
+  "updated_at_unix": 1768539650,
   "items": [
+    {
+      "title": "\"한일, 지역소멸 데칼코마니…채용연계·메가시티 등 협력해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116071600003",
+      "pubDate": "Fri, 16 Jan 2026 13:00:00 +0900"
+    },
     {
       "title": "정부 \"국세·지방세 7대 3 수준으로 노력…상반기에 案 도출\"",
       "link": "https://www.yna.co.kr/view/AKR20260116074000001",
@@ -147,11 +152,6 @@
       "title": "충북개발공사, 청주 '클래식 스마트밸리 산단' 보상 착수",
       "link": "https://www.yna.co.kr/view/AKR20260116059400064",
       "pubDate": "Fri, 16 Jan 2026 10:34:23 +0900"
-    },
-    {
-      "title": "삼척시, 외국인 어선원 주거 안정 지원 추진…강원 첫 사례",
-      "link": "https://www.yna.co.kr/view/AKR20260116059000062",
-      "pubDate": "Fri, 16 Jan 2026 10:33:26 +0900"
     }
   ]
 }
