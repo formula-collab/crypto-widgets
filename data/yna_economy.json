@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768549425,
+  "updated_at_unix": 1768553807,
   "items": [
+    {
+      "title": "靑, 尹 첫 선고에 \"사법부 의견 존중…형량 관련 입장은 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116138100001",
+      "pubDate": "Fri, 16 Jan 2026 17:46:34 +0900"
+    },
+    {
+      "title": "[용인소식] 마을세무사 16명 위촉…시민 무료 세무 상담",
+      "link": "https://www.yna.co.kr/view/AKR20260116142800061",
+      "pubDate": "Fri, 16 Jan 2026 17:36:40 +0900"
+    },
+    {
+      "title": "[게시판] 보험개발원, '대산보험대상' 상금 5천만원 어린이병원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260116137100002",
+      "pubDate": "Fri, 16 Jan 2026 17:27:56 +0900"
+    },
+    {
+      "title": "금융위, 정부포상 첫 홍보…\"우수 직원 인센티브 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116125100002",
+      "pubDate": "Fri, 16 Jan 2026 17:26:30 +0900"
+    },
+    {
+      "title": "금통위 하루뒤 국고채 금리 일제히 하락…3년물 연 3.080%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116132651008",
+      "pubDate": "Fri, 16 Jan 2026 17:04:18 +0900"
+    },
+    {
+      "title": "구윤철 \"원화 절하 초래하는 쏠림현상 용인 않겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116132400002",
+      "pubDate": "Fri, 16 Jan 2026 17:00:33 +0900"
+    },
+    {
+      "title": "국내 고배당주 투자 등 ETF 4종, 20일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260116135000008",
+      "pubDate": "Fri, 16 Jan 2026 16:56:30 +0900"
+    },
+    {
+      "title": "산림청, R&D 투자 1천656억 '역대급'…재해대응·지역성장 초점",
+      "link": "https://www.yna.co.kr/view/AKR20260116134700063",
+      "pubDate": "Fri, 16 Jan 2026 16:55:04 +0900"
+    },
+    {
+      "title": "메디포스트 \"미국 종속회사 주식 220억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116134500008",
+      "pubDate": "Fri, 16 Jan 2026 16:52:28 +0900"
+    },
+    {
+      "title": "신용정보협회장에 윤영덕 전 의원 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260116133600002",
+      "pubDate": "Fri, 16 Jan 2026 16:47:08 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.080%",
+      "link": "https://www.yna.co.kr/view/AKR20260116132600008",
+      "pubDate": "Fri, 16 Jan 2026 16:41:43 +0900"
+    },
     {
       "title": "[영상] \"진짜 비법을 알고 싶니?\" 베테랑수리공, 아들에게 알려준 비밀",
       "link": "https://www.yna.co.kr/view/AKR20260116103500797",
@@ -97,61 +152,6 @@
       "title": "수원시, 'R&D 사이언스파크' 부지 도시개발구역 지정 고시",
       "link": "https://www.yna.co.kr/view/AKR20260116111600061",
       "pubDate": "Fri, 16 Jan 2026 15:22:38 +0900"
-    },
-    {
-      "title": "[하남소식] 키자니아서울, 월 1회 하남시민 입장료 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260116111800061",
-      "pubDate": "Fri, 16 Jan 2026 15:19:44 +0900"
-    },
-    {
-      "title": "iM캐피탈·아이트럭, 화물차주 맞춤형 금융 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260116110700053",
-      "pubDate": "Fri, 16 Jan 2026 15:12:00 +0900"
-    },
-    {
-      "title": "장성·강진에 AI데이터센터 구축 협약…5조5천억 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260116107100054",
-      "pubDate": "Fri, 16 Jan 2026 14:59:00 +0900"
-    },
-    {
-      "title": "작년 울산 수출 2.1%↓…자동차·석유제품 등 주력 품목 부진",
-      "link": "https://www.yna.co.kr/view/AKR20260116102300057",
-      "pubDate": "Fri, 16 Jan 2026 14:44:04 +0900"
-    },
-    {
-      "title": "관세청, 겨울철 불량·불법제품 41만점 적발…스노보드 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260116095100002",
-      "pubDate": "Fri, 16 Jan 2026 14:37:34 +0900"
-    },
-    {
-      "title": "[게시판] 현대건설 기술교육원 '취업완성 아카데미' 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260116100700003",
-      "pubDate": "Fri, 16 Jan 2026 14:37:00 +0900"
-    },
-    {
-      "title": "하나증권, 첫 발행어음 상품 3천억 완판…출시 일주일만",
-      "link": "https://www.yna.co.kr/view/AKR20260116101200008",
-      "pubDate": "Fri, 16 Jan 2026 14:36:48 +0900"
-    },
-    {
-      "title": "[게시판] 국가대표 올림픽 메달 따면 금리↑…우리은행 적금 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260116093900002",
-      "pubDate": "Fri, 16 Jan 2026 14:36:45 +0900"
-    },
-    {
-      "title": "\"협력사와 상생\"…한화시스템, 동반성장데이 행사 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260116100500003",
-      "pubDate": "Fri, 16 Jan 2026 14:36:41 +0900"
-    },
-    {
-      "title": "'정읍시가 보증합니다' 청년 기업 인증제 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260116099700055",
-      "pubDate": "Fri, 16 Jan 2026 14:33:55 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260116097400011",
-      "pubDate": "Fri, 16 Jan 2026 14:30:00 +0900"
     }
   ]
 }
