@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768563517,
+  "updated_at_unix": 1768566126,
   "items": [
+    {
+      "title": "보험해지 문제로 보안요원에 흉기 휘두른 50대 남성 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260116161200004",
+      "pubDate": "Fri, 16 Jan 2026 21:01:44 +0900"
+    },
     {
       "title": "\"제2의 K-석유화학 향한 50년 설계하자\"…석화업계 신년인사회(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116051351003",
@@ -147,11 +152,6 @@
       "title": "광주 어등산관광단지 스타필드 2030년 개관 '순조'",
       "link": "https://www.yna.co.kr/view/AKR20260116116500054",
       "pubDate": "Fri, 16 Jan 2026 15:41:19 +0900"
-    },
-    {
-      "title": "[특징주] '4분기 기대치 상회' 대한항공, 올해 호실적 기대에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116043651008",
-      "pubDate": "Fri, 16 Jan 2026 15:39:24 +0900"
     }
   ]
 }
