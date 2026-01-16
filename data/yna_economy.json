@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768599565,
+  "updated_at_unix": 1768601485,
   "items": [
+    {
+      "title": "작년 나라가 세입자에 대신 돌려준 전세금 '뚝'…사상 첫 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260116146500003",
+      "pubDate": "Sat, 17 Jan 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[신상잇슈] 농심 '바삭츄리 고튀'·풀무원 '짜 먹는 나또'",
+      "link": "https://www.yna.co.kr/view/AKR20260116097700030",
+      "pubDate": "Sat, 17 Jan 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[금주핫템] 헤라 '틴티드 샤인 립세럼'·리복 '나노 플렉스 TR 3.0'",
+      "link": "https://www.yna.co.kr/view/AKR20260115139500030",
+      "pubDate": "Sat, 17 Jan 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[이번주뭘살까] 리빙부터 명품 샴페인까지…제철 딸기 행사도",
+      "link": "https://www.yna.co.kr/view/AKR20260116075500030",
+      "pubDate": "Sat, 17 Jan 2026 07:00:01 +0900"
+    },
     {
       "title": "국내 주유소 기름값 6주 연속 하락…\"다음 주도 내릴 듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260116142400003",
@@ -132,26 +152,6 @@
       "title": "[영상] \"진짜 비법을 알고 싶니?\" 베테랑수리공, 아들에게 알려준 비밀",
       "link": "https://www.yna.co.kr/view/AKR20260116103500797",
       "pubDate": "Fri, 16 Jan 2026 16:26:03 +0900"
-    },
-    {
-      "title": "코스피 '불장'에 시가총액 사상 처음 4천조원 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116072051008",
-      "pubDate": "Fri, 16 Jan 2026 16:15:07 +0900"
-    },
-    {
-      "title": "울주군 가축분뇨 퇴비공장 존폐위기…\"분뇨처리 마비 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116121800057",
-      "pubDate": "Fri, 16 Jan 2026 16:09:37 +0900"
-    },
-    {
-      "title": "기획처 장관대행, 머스크 韓 저출산 지적에 \"뼈 아프다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116124200002",
-      "pubDate": "Fri, 16 Jan 2026 16:06:42 +0900"
-    },
-    {
-      "title": "참엔지니어링, 50억원 유상증자…HB홀딩스그룹에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260116123800008",
-      "pubDate": "Fri, 16 Jan 2026 16:05:24 +0900"
     }
   ]
 }
