@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768542823,
+  "updated_at_unix": 1768546776,
   "items": [
+    {
+      "title": "[특징주] 삼성전자, 미국 기술주 훈풍에 또 역대 최고가 경신(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116049051008",
+      "pubDate": "Fri, 16 Jan 2026 15:49:57 +0900"
+    },
+    {
+      "title": "제주 농민회, CPTPP 가입 추진 중단 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260116118300056",
+      "pubDate": "Fri, 16 Jan 2026 15:44:46 +0900"
+    },
+    {
+      "title": "광주 어등산관광단지 스타필드 2030년 개관 '순조'",
+      "link": "https://www.yna.co.kr/view/AKR20260116116500054",
+      "pubDate": "Fri, 16 Jan 2026 15:41:19 +0900"
+    },
+    {
+      "title": "[특징주] '4분기 기대치 상회' 대한항공, 올해 호실적 기대에 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116043651008",
+      "pubDate": "Fri, 16 Jan 2026 15:39:24 +0900"
+    },
+    {
+      "title": "환율, '베선트 효과' 하루 만에 3.9원 상승…1,473.6원",
+      "link": "https://www.yna.co.kr/view/AKR20260116035051002",
+      "pubDate": "Fri, 16 Jan 2026 15:39:22 +0900"
+    },
+    {
+      "title": "외국환시세(1월16일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260116116600002",
+      "pubDate": "Fri, 16 Jan 2026 15:35:46 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 3.9원 오른 1,473.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260116115300002",
+      "pubDate": "Fri, 16 Jan 2026 15:30:14 +0900"
+    },
+    {
+      "title": "부산상의·부산대, 동남권 기업 사업재편 지원 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260116038200051",
+      "pubDate": "Fri, 16 Jan 2026 15:30:00 +0900"
+    },
+    {
+      "title": "안양시, '기업하기 좋은 도시' 상위 10위 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260116112000061",
+      "pubDate": "Fri, 16 Jan 2026 15:24:08 +0900"
+    },
+    {
+      "title": "수원시, 'R&D 사이언스파크' 부지 도시개발구역 지정 고시",
+      "link": "https://www.yna.co.kr/view/AKR20260116111600061",
+      "pubDate": "Fri, 16 Jan 2026 15:22:38 +0900"
+    },
+    {
+      "title": "[하남소식] 키자니아서울, 월 1회 하남시민 입장료 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260116111800061",
+      "pubDate": "Fri, 16 Jan 2026 15:19:44 +0900"
+    },
+    {
+      "title": "iM캐피탈·아이트럭, 화물차주 맞춤형 금융 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260116110700053",
+      "pubDate": "Fri, 16 Jan 2026 15:12:00 +0900"
+    },
+    {
+      "title": "장성·강진에 AI데이터센터 구축 협약…5조5천억 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260116107100054",
+      "pubDate": "Fri, 16 Jan 2026 14:59:00 +0900"
+    },
     {
       "title": "작년 울산 수출 2.1%↓…자동차·석유제품 등 주력 품목 부진",
       "link": "https://www.yna.co.kr/view/AKR20260116102300057",
@@ -87,71 +152,6 @@
       "title": "차바이오텍, 1천억원 유상증자…한화손보 등에 3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260116091600008",
       "pubDate": "Fri, 16 Jan 2026 13:58:46 +0900"
-    },
-    {
-      "title": "\"한일, 지역소멸 데칼코마니…채용연계·메가시티 등 협력해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116071600003",
-      "pubDate": "Fri, 16 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "title": "정부 \"국세·지방세 7대 3 수준으로 노력…상반기에 案 도출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116074000001",
-      "pubDate": "Fri, 16 Jan 2026 12:04:11 +0900"
-    },
-    {
-      "title": "알테오젠 \"피하주사제 전환 기술 추가수출 임박\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116011300017",
-      "pubDate": "Fri, 16 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "한은 \"닷컴버블처럼 주가 30% 급락하면 美 소비증가율 1.7%p↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116057000002",
-      "pubDate": "Fri, 16 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "'옵티머스 펀드 돌려막기' 의혹 하나은행 직원 대법 무죄 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260116046100004",
-      "pubDate": "Fri, 16 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "기획처·중장기전략위 \"경제구조 제로섬 아닌 지속성장 돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116080000002",
-      "pubDate": "Fri, 16 Jan 2026 11:55:03 +0900"
-    },
-    {
-      "title": "[세법시행령] 하이볼 15% 싸진다…청년미래적금, 40세까지 가입 가능(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116000751002",
-      "pubDate": "Fri, 16 Jan 2026 11:47:45 +0900"
-    },
-    {
-      "title": "경영계 노조법 대응 TF, 노동부에 노란봉투법 개선의견 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260116078800003",
-      "pubDate": "Fri, 16 Jan 2026 11:45:47 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 장중 연 3.109%",
-      "link": "https://www.yna.co.kr/view/AKR20260116078100008",
-      "pubDate": "Fri, 16 Jan 2026 11:40:20 +0900"
-    },
-    {
-      "title": "진에어, 신입 객실승무원 채용…서울·부산 각각 두 자릿수 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260116077900003",
-      "pubDate": "Fri, 16 Jan 2026 11:40:17 +0900"
-    },
-    {
-      "title": "[특징주] 삼성생명, 두나무 지분 인수 검토 보도에 52주 신고가",
-      "link": "https://www.yna.co.kr/view/AKR20260116077100008",
-      "pubDate": "Fri, 16 Jan 2026 11:40:04 +0900"
-    },
-    {
-      "title": "금지 성분 검출된 애경 2080 수입치약 전량 검사",
-      "link": "https://www.yna.co.kr/view/AKR20260116076300017",
-      "pubDate": "Fri, 16 Jan 2026 11:35:17 +0900"
-    },
-    {
-      "title": "MBK \"홈플러스 회생 위한 긴급운영자금 중 1천억원 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116075000008",
-      "pubDate": "Fri, 16 Jan 2026 11:29:09 +0900"
     }
   ]
 }
