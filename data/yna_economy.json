@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768576415,
+  "updated_at_unix": 1768578192,
   "items": [
+    {
+      "title": "라이더, 차기 연준 의장 기대 살리나…트럼프와 최종 면접",
+      "link": "https://www.yna.co.kr/view/AKR20260117000600002",
+      "pubDate": "Sat, 17 Jan 2026 00:14:07 +0900"
+    },
     {
       "title": "보험해지 문제로 보안요원에 흉기 휘두른 50대 남성 구속",
       "link": "https://www.yna.co.kr/view/AKR20260116161200004",
@@ -147,11 +152,6 @@
       "title": "제주 농민회, CPTPP 가입 추진 중단 요구",
       "link": "https://www.yna.co.kr/view/AKR20260116118300056",
       "pubDate": "Fri, 16 Jan 2026 15:44:46 +0900"
-    },
-    {
-      "title": "광주 어등산관광단지 스타필드 2030년 개관 '순조'",
-      "link": "https://www.yna.co.kr/view/AKR20260116116500054",
-      "pubDate": "Fri, 16 Jan 2026 15:41:19 +0900"
     }
   ]
 }
