@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768596034,
+  "updated_at_unix": 1768597865,
   "items": [
+    {
+      "title": "국내 주유소 기름값 6주 연속 하락…\"다음 주도 내릴 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116142400003",
+      "pubDate": "Sat, 17 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 '드파인 연희' 등 전국 3천260가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260116117700003",
+      "pubDate": "Sat, 17 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프 \"사형 집쟁 중단 존중\"…WTI 오름폭 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260117007700009",
+      "pubDate": "Sat, 17 Jan 2026 05:54:47 +0900"
+    },
     {
       "title": "필리핀 가사도우미 임금, 韓평균의 절반…\"돌봄가치 재평가해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260116117100371",
@@ -137,21 +152,6 @@
       "title": "참엔지니어링, 50억원 유상증자…HB홀딩스그룹에 3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260116123800008",
       "pubDate": "Fri, 16 Jan 2026 16:05:24 +0900"
-    },
-    {
-      "title": "춘천시, 태권도진흥재단과 '맞손'…태권도 중심도시 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260116121200062",
-      "pubDate": "Fri, 16 Jan 2026 16:01:57 +0900"
-    },
-    {
-      "title": "LH 등 26개 공공기관 올해 70조원 규모 투자 추진…\"역대 최대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116117800002",
-      "pubDate": "Fri, 16 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 알테오젠, 기술수출 기대감에 10% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116098551008",
-      "pubDate": "Fri, 16 Jan 2026 15:57:19 +0900"
     }
   ]
 }
