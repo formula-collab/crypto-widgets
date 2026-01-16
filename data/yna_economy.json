@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768546776,
+  "updated_at_unix": 1768549425,
   "items": [
+    {
+      "title": "[영상] \"진짜 비법을 알고 싶니?\" 베테랑수리공, 아들에게 알려준 비밀",
+      "link": "https://www.yna.co.kr/view/AKR20260116103500797",
+      "pubDate": "Fri, 16 Jan 2026 16:26:03 +0900"
+    },
+    {
+      "title": "코스피 '불장'에 시가총액 사상 처음 4천조원 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116072051008",
+      "pubDate": "Fri, 16 Jan 2026 16:15:07 +0900"
+    },
+    {
+      "title": "울주군 가축분뇨 퇴비공장 존폐위기…\"분뇨처리 마비 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116121800057",
+      "pubDate": "Fri, 16 Jan 2026 16:09:37 +0900"
+    },
+    {
+      "title": "기획처 장관대행, 머스크 韓 저출산 지적에 \"뼈 아프다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116124200002",
+      "pubDate": "Fri, 16 Jan 2026 16:06:42 +0900"
+    },
+    {
+      "title": "참엔지니어링, 50억원 유상증자…HB홀딩스그룹에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260116123800008",
+      "pubDate": "Fri, 16 Jan 2026 16:05:24 +0900"
+    },
+    {
+      "title": "춘천시, 태권도진흥재단과 '맞손'…태권도 중심도시 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260116121200062",
+      "pubDate": "Fri, 16 Jan 2026 16:01:57 +0900"
+    },
+    {
+      "title": "LH 등 26개 공공기관 올해 70조원 규모 투자 추진…\"역대 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116117800002",
+      "pubDate": "Fri, 16 Jan 2026 16:00:00 +0900"
+    },
+    {
+      "title": "[특징주] 알테오젠, 기술수출 기대감에 10% 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116098551008",
+      "pubDate": "Fri, 16 Jan 2026 15:57:19 +0900"
+    },
+    {
+      "title": "[특징주] 삼성생명, 두나무 지분 인수 검토 보도에 52주 신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260116077151008",
+      "pubDate": "Fri, 16 Jan 2026 15:56:24 +0900"
+    },
     {
       "title": "[특징주] 삼성전자, 미국 기술주 훈풍에 또 역대 최고가 경신(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116049051008",
@@ -107,51 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
       "link": "https://www.yna.co.kr/view/AKR20260116097400011",
       "pubDate": "Fri, 16 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[현장] 허허벌판 논밭이 전주 복합스포츠타운으로…윤곽 드러내",
-      "link": "https://www.yna.co.kr/view/AKR20260116093000055",
-      "pubDate": "Fri, 16 Jan 2026 14:29:29 +0900"
-    },
-    {
-      "title": "[특징주] 알테오젠, 기술수출 기대감에 8%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260116098500008",
-      "pubDate": "Fri, 16 Jan 2026 14:24:12 +0900"
-    },
-    {
-      "title": "대우건설 컨소시엄, 가덕도신공항 재입찰 서류 제출",
-      "link": "https://www.yna.co.kr/view/AKR20260116097800003",
-      "pubDate": "Fri, 16 Jan 2026 14:21:29 +0900"
-    },
-    {
-      "title": "NH농협은행, 다음 주 'NH포용금융 특별우대' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260116089500002",
-      "pubDate": "Fri, 16 Jan 2026 14:20:05 +0900"
-    },
-    {
-      "title": "메가커피 점주들도 차액가맹금 소송 나선다…\"1천명 이상 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116091500030",
-      "pubDate": "Fri, 16 Jan 2026 14:02:56 +0900"
-    },
-    {
-      "title": "중기부, 대·中企 상생성장 간담회…'모두의 성장' 전략 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260116055000030",
-      "pubDate": "Fri, 16 Jan 2026 14:00:21 +0900"
-    },
-    {
-      "title": "창립 22주년 부산항만공사 \"글로벌 항만업계 선도자로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116093100051",
-      "pubDate": "Fri, 16 Jan 2026 14:00:10 +0900"
-    },
-    {
-      "title": "김포시, 한강2콤팩트시티·풍무역세권 등 도시개발 박차",
-      "link": "https://www.yna.co.kr/view/AKR20260116093300065",
-      "pubDate": "Fri, 16 Jan 2026 14:00:01 +0900"
-    },
-    {
-      "title": "차바이오텍, 1천억원 유상증자…한화손보 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260116091600008",
-      "pubDate": "Fri, 16 Jan 2026 13:58:46 +0900"
     }
   ]
 }
