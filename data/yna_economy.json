@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768623793,
+  "updated_at_unix": 1768625335,
   "items": [
+    {
+      "title": "[게시판] BNK금융그룹, 새해 첫 '사회공헌의 날' 행사 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260117030200051",
+      "pubDate": "Sat, 17 Jan 2026 13:32:39 +0900"
+    },
     {
       "title": "BNK금융그룹, 경남에서 사회공헌 활동…'복 꾸러미' 제작",
       "link": "https://www.yna.co.kr/view/AKR20260117028000052",
@@ -147,11 +152,6 @@
       "title": "靑, 尹 첫 선고에 \"사법부 의견 존중…형량 관련 입장은 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260116138100001",
       "pubDate": "Fri, 16 Jan 2026 17:46:34 +0900"
-    },
-    {
-      "title": "[용인소식] 마을세무사 16명 위촉…시민 무료 세무 상담",
-      "link": "https://www.yna.co.kr/view/AKR20260116142800061",
-      "pubDate": "Fri, 16 Jan 2026 17:36:40 +0900"
     }
   ]
 }
