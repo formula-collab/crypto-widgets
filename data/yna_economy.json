@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768689615,
+  "updated_at_unix": 1768691415,
   "items": [
+    {
+      "title": "부산시, 농업경쟁력 강화 위한 '기술 보급 시범사업'",
+      "link": "https://www.yna.co.kr/view/AKR20260118006900051",
+      "pubDate": "Sun, 18 Jan 2026 07:54:50 +0900"
+    },
     {
       "title": "\"호텔서 제사음식 테이크아웃\"…'백수저' 셰프의 손맛까지",
       "link": "https://www.yna.co.kr/view/AKR20260116144900030",
@@ -147,11 +152,6 @@
       "title": "[게시판] BNK금융그룹, 새해 첫 '사회공헌의 날' 행사 개최",
       "link": "https://www.yna.co.kr/view/AKR20260117030200051",
       "pubDate": "Sat, 17 Jan 2026 13:32:39 +0900"
-    },
-    {
-      "title": "BNK금융그룹, 경남에서 사회공헌 활동…'복 꾸러미' 제작",
-      "link": "https://www.yna.co.kr/view/AKR20260117028000052",
-      "pubDate": "Sat, 17 Jan 2026 12:30:11 +0900"
     }
   ]
 }
