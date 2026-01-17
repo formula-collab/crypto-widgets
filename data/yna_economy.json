@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768685753,
+  "updated_at_unix": 1768687819,
   "items": [
+    {
+      "title": "환율 부담에 금통위 악재 얹어진 채권시장…연초효과 '멈칫'",
+      "link": "https://www.yna.co.kr/view/AKR20260117036300008",
+      "pubDate": "Sun, 18 Jan 2026 07:03:00 +0900"
+    },
+    {
+      "title": "경기도, 부동산 중개사무소 불법행위 53건 적발…4건 수사의뢰",
+      "link": "https://www.yna.co.kr/view/AKR20260116099900061",
+      "pubDate": "Sun, 18 Jan 2026 07:01:07 +0900"
+    },
+    {
+      "title": "유통가 실적 명암…백화점 웃고 마트·편의점 정체",
+      "link": "https://www.yna.co.kr/view/AKR20260116145600030",
+      "pubDate": "Sun, 18 Jan 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 거침없이 오른 코스피, 꿈의 '오천피' 달성할까",
+      "link": "https://www.yna.co.kr/view/AKR20260117029600008",
+      "pubDate": "Sun, 18 Jan 2026 07:00:02 +0900"
+    },
+    {
+      "title": "K푸드 수출 미·중·일에 편중…유럽 비중 한 자릿수 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260116161500030",
+      "pubDate": "Sun, 18 Jan 2026 06:35:02 +0900"
+    },
+    {
+      "title": "가공식품 수출 18억달러 늘 때 신선농산물은 1억달러 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260116163800030",
+      "pubDate": "Sun, 18 Jan 2026 06:35:00 +0900"
+    },
     {
       "title": "'한전-한수원'으로 쪼개진 원전 수출, 1분기 내 개편안 확정",
       "link": "https://www.yna.co.kr/view/AKR20260117001500003",
@@ -122,36 +152,6 @@
       "title": "방미 귀국 통상본부장 \"美 반도체 포고령, 韓 영향 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260117019300003",
       "pubDate": "Sat, 17 Jan 2026 09:08:45 +0900"
-    },
-    {
-      "title": "'희귀암 유발' 엘러간 인공유방…소비자들 손해배상 1심 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260116143300004",
-      "pubDate": "Sat, 17 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "부산 아파트값 12주 연속 올라…전셋값 상승폭 커져",
-      "link": "https://www.yna.co.kr/view/AKR20260116131700051",
-      "pubDate": "Sat, 17 Jan 2026 08:30:02 +0900"
-    },
-    {
-      "title": "[현장in] 부산 북항재개발 랜드마크 부지, 개발방향 다시 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260116061700051",
-      "pubDate": "Sat, 17 Jan 2026 08:00:06 +0900"
-    },
-    {
-      "title": "작년 나라가 세입자에 대신 돌려준 전세금 '뚝'…사상 첫 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260116146500003",
-      "pubDate": "Sat, 17 Jan 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[신상잇슈] 농심 '바삭츄리 고튀'·풀무원 '짜 먹는 나또'",
-      "link": "https://www.yna.co.kr/view/AKR20260116097700030",
-      "pubDate": "Sat, 17 Jan 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[금주핫템] 헤라 '틴티드 샤인 립세럼'·리복 '나노 플렉스 TR 3.0'",
-      "link": "https://www.yna.co.kr/view/AKR20260115139500030",
-      "pubDate": "Sat, 17 Jan 2026 07:00:02 +0900"
     }
   ]
 }
