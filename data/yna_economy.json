@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768611151,
+  "updated_at_unix": 1768617885,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260117023700011",
+      "pubDate": "Sat, 17 Jan 2026 10:30:01 +0900"
+    },
     {
       "title": "[다음주 경제] 한국 경제, 작년 성장률 1% 넘었나",
       "link": "https://www.yna.co.kr/view/AKR20260117021000002",
@@ -147,11 +152,6 @@
       "title": "금통위 하루뒤 국고채 금리 일제히 하락…3년물 연 3.080%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116132651008",
       "pubDate": "Fri, 16 Jan 2026 17:04:18 +0900"
-    },
-    {
-      "title": "구윤철 \"원화 절하 초래하는 쏠림현상 용인 않겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116132400002",
-      "pubDate": "Fri, 16 Jan 2026 17:00:33 +0900"
     }
   ]
 }
