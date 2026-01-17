@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768606750,
+  "updated_at_unix": 1768611151,
   "items": [
+    {
+      "title": "[다음주 경제] 한국 경제, 작년 성장률 1% 넘었나",
+      "link": "https://www.yna.co.kr/view/AKR20260117021000002",
+      "pubDate": "Sat, 17 Jan 2026 09:26:23 +0900"
+    },
+    {
+      "title": "울주군, 취득세 감면 부동산 사후관리 실태 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260116113100057",
+      "pubDate": "Sat, 17 Jan 2026 09:10:01 +0900"
+    },
+    {
+      "title": "방미 귀국 통상본부장 \"美 반도체 포고령, 韓 영향 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260117019300003",
+      "pubDate": "Sat, 17 Jan 2026 09:08:45 +0900"
+    },
+    {
+      "title": "'희귀암 유발' 엘러간 인공유방…소비자들 손해배상 1심 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260116143300004",
+      "pubDate": "Sat, 17 Jan 2026 09:00:00 +0900"
+    },
     {
       "title": "부산 아파트값 12주 연속 올라…전셋값 상승폭 커져",
       "link": "https://www.yna.co.kr/view/AKR20260116131700051",
@@ -132,26 +152,6 @@
       "title": "구윤철 \"원화 절하 초래하는 쏠림현상 용인 않겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260116132400002",
       "pubDate": "Fri, 16 Jan 2026 17:00:33 +0900"
-    },
-    {
-      "title": "국내 고배당주 투자 등 ETF 4종, 20일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260116135000008",
-      "pubDate": "Fri, 16 Jan 2026 16:56:30 +0900"
-    },
-    {
-      "title": "산림청, R&D 투자 1천656억 '역대급'…재해대응·지역성장 초점",
-      "link": "https://www.yna.co.kr/view/AKR20260116134700063",
-      "pubDate": "Fri, 16 Jan 2026 16:55:04 +0900"
-    },
-    {
-      "title": "메디포스트 \"미국 종속회사 주식 220억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116134500008",
-      "pubDate": "Fri, 16 Jan 2026 16:52:28 +0900"
-    },
-    {
-      "title": "신용정보협회장에 윤영덕 전 의원 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260116133600002",
-      "pubDate": "Fri, 16 Jan 2026 16:47:08 +0900"
     }
   ]
 }
