@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768682402,
+  "updated_at_unix": 1768684135,
   "items": [
+    {
+      "title": "신세계백화점, 웨딩 프로모션…허니문 여행도 프리미엄으로",
+      "link": "https://www.yna.co.kr/view/AKR20260116143200030",
+      "pubDate": "Sun, 18 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "20대 고용률 5년 만에 하락·취업자도 줄어 '더블 마이너스'",
+      "link": "https://www.yna.co.kr/view/AKR20260117040500002",
+      "pubDate": "Sun, 18 Jan 2026 05:57:05 +0900"
+    },
+    {
+      "title": "'대기업 김부장' 월 367만원 더 받아…청년 큰 기업 쏠림 심해져",
+      "link": "https://www.yna.co.kr/view/AKR20260117034900002",
+      "pubDate": "Sun, 18 Jan 2026 05:57:01 +0900"
+    },
+    {
+      "title": "韓 환리스크 달러자산, 외환시장의 20배 넘는다…IMF발 경고음",
+      "link": "https://www.yna.co.kr/view/AKR20260117043200002",
+      "pubDate": "Sun, 18 Jan 2026 05:55:00 +0900"
+    },
+    {
+      "title": "글로벌IB 환율 전망 낙제점…1분기 말 수치 6개월새 100원 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260117040100002",
+      "pubDate": "Sun, 18 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "'국장유턴' 당근·채찍 총동원…ETF 제도개편·증권사 검사확대",
+      "link": "https://www.yna.co.kr/view/AKR20260117039200002",
+      "pubDate": "Sun, 18 Jan 2026 05:51:00 +0900"
+    },
+    {
+      "title": "환율 비상에…금감원, '달러상품 판매' 은행·보험사 줄소환",
+      "link": "https://www.yna.co.kr/view/AKR20260117041500002",
+      "pubDate": "Sun, 18 Jan 2026 05:49:00 +0900"
+    },
+    {
+      "title": "은행권도 환율방어 안간힘…외화예금 금리↓·원화 환전에 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260117044900002",
+      "pubDate": "Sun, 18 Jan 2026 05:47:00 +0900"
+    },
+    {
+      "title": "사라진 3%대 은행 주담대 금리…이번주 0.15%p 더 오른다",
+      "link": "https://www.yna.co.kr/view/AKR20260117045200002",
+      "pubDate": "Sun, 18 Jan 2026 05:45:01 +0900"
+    },
     {
       "title": "1207회 로또 1등 17명…당첨금 각 17억3천만원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260117044100002",
@@ -107,51 +152,6 @@
       "title": "[부동산캘린더] 내주 '드파인 연희' 등 전국 3천260가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20260116117700003",
       "pubDate": "Sat, 17 Jan 2026 06:00:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 트럼프 \"사형 집쟁 중단 존중\"…WTI 오름폭 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260117007700009",
-      "pubDate": "Sat, 17 Jan 2026 05:54:47 +0900"
-    },
-    {
-      "title": "필리핀 가사도우미 임금, 韓평균의 절반…\"돌봄가치 재평가해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116117100371",
-      "pubDate": "Sat, 17 Jan 2026 05:00:00 +0900"
-    },
-    {
-      "title": "트럼프 '차기 연준의장 유력' 백악관 측근에 \"현직에 두고싶어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260117004300071",
-      "pubDate": "Sat, 17 Jan 2026 02:37:14 +0900"
-    },
-    {
-      "title": "달러-원, '비둘기' 해싯 연준 의장설 후퇴에 상승폭 확대…1,474.5원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260117004000002",
-      "pubDate": "Sat, 17 Jan 2026 02:25:15 +0900"
-    },
-    {
-      "title": "라이더, 차기 연준 의장 기대 살리나…트럼프와 최종 면접",
-      "link": "https://www.yna.co.kr/view/AKR20260117000600002",
-      "pubDate": "Sat, 17 Jan 2026 00:14:07 +0900"
-    },
-    {
-      "title": "보험해지 문제로 보안요원에 흉기 휘두른 50대 남성 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260116161200004",
-      "pubDate": "Fri, 16 Jan 2026 21:01:44 +0900"
-    },
-    {
-      "title": "\"제2의 K-석유화학 향한 50년 설계하자\"…석화업계 신년인사회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116051351003",
-      "pubDate": "Fri, 16 Jan 2026 18:38:43 +0900"
-    },
-    {
-      "title": "케이이엠텍, 250억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260116150800008",
-      "pubDate": "Fri, 16 Jan 2026 18:38:30 +0900"
-    },
-    {
-      "title": "가덕도신공항 입찰에 대우건설 컨소시엄만 참여…재공고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116097851003",
-      "pubDate": "Fri, 16 Jan 2026 18:19:41 +0900"
     }
   ]
 }
