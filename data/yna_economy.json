@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768617885,
+  "updated_at_unix": 1768621809,
   "items": [
+    {
+      "title": "BNK금융그룹, 경남에서 사회공헌 활동…'복 꾸러미' 제작",
+      "link": "https://www.yna.co.kr/view/AKR20260117028000052",
+      "pubDate": "Sat, 17 Jan 2026 12:30:11 +0900"
+    },
+    {
+      "title": "청주시, 직원 4천400여명 대상 '지방세·세외수입 체납' 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260117027900064",
+      "pubDate": "Sat, 17 Jan 2026 12:28:12 +0900"
+    },
+    {
+      "title": "[게시판] 한국부동산분석학회, 신년하례식·임시이사회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260117027000003",
+      "pubDate": "Sat, 17 Jan 2026 11:56:05 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260117023700011",
@@ -137,21 +152,6 @@
       "title": "[용인소식] 마을세무사 16명 위촉…시민 무료 세무 상담",
       "link": "https://www.yna.co.kr/view/AKR20260116142800061",
       "pubDate": "Fri, 16 Jan 2026 17:36:40 +0900"
-    },
-    {
-      "title": "[게시판] 보험개발원, '대산보험대상' 상금 5천만원 어린이병원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260116137100002",
-      "pubDate": "Fri, 16 Jan 2026 17:27:56 +0900"
-    },
-    {
-      "title": "금융위, 정부포상 첫 홍보…\"우수 직원 인센티브 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116125100002",
-      "pubDate": "Fri, 16 Jan 2026 17:26:30 +0900"
-    },
-    {
-      "title": "금통위 하루뒤 국고채 금리 일제히 하락…3년물 연 3.080%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260116132651008",
-      "pubDate": "Fri, 16 Jan 2026 17:04:18 +0900"
     }
   ]
 }
