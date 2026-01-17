@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768687819,
+  "updated_at_unix": 1768689615,
   "items": [
+    {
+      "title": "\"호텔서 제사음식 테이크아웃\"…'백수저' 셰프의 손맛까지",
+      "link": "https://www.yna.co.kr/view/AKR20260116144900030",
+      "pubDate": "Sun, 18 Jan 2026 07:31:00 +0900"
+    },
+    {
+      "title": "인천 대단지 아파트서 바닥재 내려앉고 장식 구조물 균열",
+      "link": "https://www.yna.co.kr/view/AKR20260116125600065",
+      "pubDate": "Sun, 18 Jan 2026 07:17:01 +0900"
+    },
+    {
+      "title": "새해 코스피 '불장'에 10종목 중 1개꼴 52주 신고가",
+      "link": "https://www.yna.co.kr/view/AKR20260116159900008",
+      "pubDate": "Sun, 18 Jan 2026 07:15:01 +0900"
+    },
+    {
+      "title": "\"신선함이 살길\"…대형마트들, '먹거리 강화'로 승부",
+      "link": "https://www.yna.co.kr/view/AKR20260117025400030",
+      "pubDate": "Sun, 18 Jan 2026 07:15:00 +0900"
+    },
+    {
+      "title": "샌드박스 딱지 떼고 제도권 안착 토큰증권…사업자 선정은 시끌",
+      "link": "https://www.yna.co.kr/view/AKR20260117036200008",
+      "pubDate": "Sun, 18 Jan 2026 07:10:00 +0900"
+    },
+    {
+      "title": "'불장' 속 자동차·기계·건설 웃고 비금속·의류·음식료 울상",
+      "link": "https://www.yna.co.kr/view/AKR20260116156800008",
+      "pubDate": "Sun, 18 Jan 2026 07:05:01 +0900"
+    },
     {
       "title": "환율 부담에 금통위 악재 얹어진 채권시장…연초효과 '멈칫'",
       "link": "https://www.yna.co.kr/view/AKR20260117036300008",
@@ -122,36 +152,6 @@
       "title": "BNK금융그룹, 경남에서 사회공헌 활동…'복 꾸러미' 제작",
       "link": "https://www.yna.co.kr/view/AKR20260117028000052",
       "pubDate": "Sat, 17 Jan 2026 12:30:11 +0900"
-    },
-    {
-      "title": "청주시, 직원 4천400여명 대상 '지방세·세외수입 체납' 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260117027900064",
-      "pubDate": "Sat, 17 Jan 2026 12:28:12 +0900"
-    },
-    {
-      "title": "[게시판] 한국부동산분석학회, 신년하례식·임시이사회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260117027000003",
-      "pubDate": "Sat, 17 Jan 2026 11:56:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260117023700011",
-      "pubDate": "Sat, 17 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[다음주 경제] 한국 경제, 작년 성장률 1% 넘었나",
-      "link": "https://www.yna.co.kr/view/AKR20260117021000002",
-      "pubDate": "Sat, 17 Jan 2026 09:26:23 +0900"
-    },
-    {
-      "title": "울주군, 취득세 감면 부동산 사후관리 실태 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260116113100057",
-      "pubDate": "Sat, 17 Jan 2026 09:10:01 +0900"
-    },
-    {
-      "title": "방미 귀국 통상본부장 \"美 반도체 포고령, 韓 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260117019300003",
-      "pubDate": "Sat, 17 Jan 2026 09:08:45 +0900"
     }
   ]
 }
