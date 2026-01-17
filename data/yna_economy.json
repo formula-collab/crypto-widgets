@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768649645,
+  "updated_at_unix": 1768652335,
   "items": [
+    {
+      "title": "1207회 로또 1등 17명…당첨금 각 17억3천만원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260117044100002",
+      "pubDate": "Sat, 17 Jan 2026 20:58:08 +0900"
+    },
+    {
+      "title": "1207회 로또 1등 '10, 22, 24, 27, 38, 45'",
+      "link": "https://www.yna.co.kr/view/AKR20260117043900002",
+      "pubDate": "Sat, 17 Jan 2026 20:44:28 +0900"
+    },
     {
       "title": "아프리카돼지열병·고병원성 AI 발생…중수본, 방역관리 강화",
       "link": "https://www.yna.co.kr/view/AKR20260117043700030",
@@ -142,16 +152,6 @@
       "title": "가덕도신공항 입찰에 대우건설 컨소시엄만 참여…재공고(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260116097851003",
       "pubDate": "Fri, 16 Jan 2026 18:19:41 +0900"
-    },
-    {
-      "title": "복지차관 \"국민연금 환헤지 유연성 강화…전략적 모호성 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116147200530",
-      "pubDate": "Fri, 16 Jan 2026 18:10:29 +0900"
-    },
-    {
-      "title": "아이엠바이오로직스·에스팀, 코스닥 상장예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260116149400008",
-      "pubDate": "Fri, 16 Jan 2026 18:09:37 +0900"
     }
   ]
 }
