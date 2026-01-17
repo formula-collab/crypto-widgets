@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768648139,
+  "updated_at_unix": 1768649645,
   "items": [
+    {
+      "title": "아프리카돼지열병·고병원성 AI 발생…중수본, 방역관리 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260117043700030",
+      "pubDate": "Sat, 17 Jan 2026 20:27:57 +0900"
+    },
     {
       "title": "[삶] \"동창회 다녀와서 주식투자 했는데…폭망했습니다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20251221017551546",
@@ -147,11 +152,6 @@
       "title": "아이엠바이오로직스·에스팀, 코스닥 상장예심 통과",
       "link": "https://www.yna.co.kr/view/AKR20260116149400008",
       "pubDate": "Fri, 16 Jan 2026 18:09:37 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260116143400011",
-      "pubDate": "Fri, 16 Jan 2026 18:00:00 +0900"
     }
   ]
 }
