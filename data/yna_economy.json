@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768684135,
+  "updated_at_unix": 1768685753,
   "items": [
+    {
+      "title": "'한전-한수원'으로 쪼개진 원전 수출, 1분기 내 개편안 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260117001500003",
+      "pubDate": "Sun, 18 Jan 2026 06:30:01 +0900"
+    },
+    {
+      "title": "입주 1년 넘게 지연…법원 \"해약 원하면 분양금 돌려줘야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260116123900057",
+      "pubDate": "Sun, 18 Jan 2026 06:06:00 +0900"
+    },
+    {
+      "title": "퇴직연금 의무화·기금형 도입에 노사정 공감…이달 합의 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260116152300530",
+      "pubDate": "Sun, 18 Jan 2026 06:05:01 +0900"
+    },
     {
       "title": "신세계백화점, 웨딩 프로모션…허니문 여행도 프리미엄으로",
       "link": "https://www.yna.co.kr/view/AKR20260116143200030",
@@ -137,21 +152,6 @@
       "title": "[금주핫템] 헤라 '틴티드 샤인 립세럼'·리복 '나노 플렉스 TR 3.0'",
       "link": "https://www.yna.co.kr/view/AKR20260115139500030",
       "pubDate": "Sat, 17 Jan 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[이번주뭘살까] 리빙부터 명품 샴페인까지…제철 딸기 행사도",
-      "link": "https://www.yna.co.kr/view/AKR20260116075500030",
-      "pubDate": "Sat, 17 Jan 2026 07:00:01 +0900"
-    },
-    {
-      "title": "국내 주유소 기름값 6주 연속 하락…\"다음 주도 내릴 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260116142400003",
-      "pubDate": "Sat, 17 Jan 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 '드파인 연희' 등 전국 3천260가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260116117700003",
-      "pubDate": "Sat, 17 Jan 2026 06:00:01 +0900"
     }
   ]
 }
