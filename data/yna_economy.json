@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768774213,
+  "updated_at_unix": 1768776063,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260119011200011",
+      "pubDate": "Mon, 19 Jan 2026 07:30:01 +0900"
+    },
+    {
+      "title": "'주목받는 규제지역' 용인수지…아파트값 상승률 최상위권",
+      "link": "https://www.yna.co.kr/view/AKR20260119005200003",
+      "pubDate": "Mon, 19 Jan 2026 07:29:35 +0900"
+    },
+    {
+      "title": "청년주택부터 내집마련까지…서울 중구 올해 첫 '도시런 스쿨'",
+      "link": "https://www.yna.co.kr/view/AKR20260119013000004",
+      "pubDate": "Mon, 19 Jan 2026 07:28:35 +0900"
+    },
     {
       "title": "[율곡로] 간과하면 후회할 '원화 약세' 경고등",
       "link": "https://www.yna.co.kr/view/AKR20260116158900546",
@@ -137,21 +152,6 @@
       "title": "1분기 제조업 매출 둔화 전망…조선·바이오·반도체도 '흐림'",
       "link": "https://www.yna.co.kr/view/AKR20260118015800003",
       "pubDate": "Sun, 18 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "경제자유구역 입주기업 4.4% 증가…고용 8.8%·투자액 14.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260118016900003",
-      "pubDate": "Sun, 18 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "롯데건설, 4천840억원 규모 가락극동아파트 재건축 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260118016800003",
-      "pubDate": "Sun, 18 Jan 2026 10:32:51 +0900"
-    },
-    {
-      "title": "청약통장 가입자수 작년까지 4년 연속 줄었다…감소폭은 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260118015900003",
-      "pubDate": "Sun, 18 Jan 2026 10:32:15 +0900"
     }
   ]
 }
