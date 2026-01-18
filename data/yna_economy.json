@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768725932,
+  "updated_at_unix": 1768727491,
   "items": [
+    {
+      "title": "中전문가 \"작년 경제성장률 5% 달성할것\"…올해도 성장유지 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260118038600083",
+      "pubDate": "Sun, 18 Jan 2026 18:05:25 +0900"
+    },
     {
       "title": "한·이집트, 포괄적경제동반자협정 추진 위한 공동선언문 서명",
       "link": "https://www.yna.co.kr/view/AKR20260118018300003",
@@ -147,11 +152,6 @@
       "title": "청도 소싸움 '동물학대' 논란…\"약물 주입 등에 강력 조치\"",
       "link": "https://www.yna.co.kr/view/AKR20260118012100030",
       "pubDate": "Sun, 18 Jan 2026 09:02:05 +0900"
-    },
-    {
-      "title": "임종룡 우리금융 회장 \"흔들림 없이 포용금융·소비자보호\"",
-      "link": "https://www.yna.co.kr/view/AKR20260117044400002",
-      "pubDate": "Sun, 18 Jan 2026 09:00:02 +0900"
     }
   ]
 }
