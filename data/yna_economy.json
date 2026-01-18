@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768724066,
+  "updated_at_unix": 1768725932,
   "items": [
+    {
+      "title": "한·이집트, 포괄적경제동반자협정 추진 위한 공동선언문 서명",
+      "link": "https://www.yna.co.kr/view/AKR20260118018300003",
+      "pubDate": "Sun, 18 Jan 2026 17:15:00 +0900"
+    },
     {
       "title": "美 '반도체 관세' 본격화…韓정부·업계 긴장 속 대응책 모색",
       "link": "https://www.yna.co.kr/view/AKR20260118029200003",
@@ -147,11 +152,6 @@
       "title": "임종룡 우리금융 회장 \"흔들림 없이 포용금융·소비자보호\"",
       "link": "https://www.yna.co.kr/view/AKR20260117044400002",
       "pubDate": "Sun, 18 Jan 2026 09:00:02 +0900"
-    },
-    {
-      "title": "이환주 KB국민은행장 \"금융업의 기준이 되도록 가치 키워야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260117045400002",
-      "pubDate": "Sun, 18 Jan 2026 09:00:00 +0900"
     }
   ]
 }
