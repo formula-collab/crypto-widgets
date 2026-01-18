@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768776063,
+  "updated_at_unix": 1768777829,
   "items": [
+    {
+      "title": "[마켓뷰] 코스피, 순환매 지속하며 '오천피' 돌파 시도할까",
+      "link": "https://www.yna.co.kr/view/AKR20260119015300008",
+      "pubDate": "Mon, 19 Jan 2026 08:01:14 +0900"
+    },
+    {
+      "title": "부산시, K-해양반도체 얼라이언스 출범…민관 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260119015500051",
+      "pubDate": "Mon, 19 Jan 2026 07:52:14 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260119011200011",
@@ -142,16 +152,6 @@
       "title": "농식품부, 청년인턴 121명 모집…농업행정·홍보 경험 기회",
       "link": "https://www.yna.co.kr/view/AKR20260116164000030",
       "pubDate": "Sun, 18 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "'신속 인허가 지원센터'로 2천700가구 주택공급 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260118005400003",
-      "pubDate": "Sun, 18 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "1분기 제조업 매출 둔화 전망…조선·바이오·반도체도 '흐림'",
-      "link": "https://www.yna.co.kr/view/AKR20260118015800003",
-      "pubDate": "Sun, 18 Jan 2026 11:00:00 +0900"
     }
   ]
 }
