@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768770578,
+  "updated_at_unix": 1768772181,
   "items": [
+    {
+      "title": "해수부, 마을 어장 내 수상낚시터 운영 위한 고시 제정",
+      "link": "https://www.yna.co.kr/view/AKR20260116152500030",
+      "pubDate": "Mon, 19 Jan 2026 06:00:07 +0900"
+    },
+    {
+      "title": "국토교통 청년인턴 모집…정책 기획에 청년 시각 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260118028700003",
+      "pubDate": "Mon, 19 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "한중 FTA 서비스·투자 후속협상…3개 분과별 5일간 릴레이 협상",
+      "link": "https://www.yna.co.kr/view/AKR20260118020800003",
+      "pubDate": "Mon, 19 Jan 2026 06:00:06 +0900"
+    },
     {
       "title": "서울시 \"환경개선부담금 내달 2일까지 미리 내면 10% 감면\"",
       "link": "https://www.yna.co.kr/view/AKR20260118037000004",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260118015300011",
       "pubDate": "Sun, 18 Jan 2026 10:30:00 +0900"
-    },
-    {
-      "title": "충남도, 녹색건축물 확산 나선다…'2045 탄소중립' 목표 달성",
-      "link": "https://www.yna.co.kr/view/AKR20260118015200063",
-      "pubDate": "Sun, 18 Jan 2026 10:06:25 +0900"
-    },
-    {
-      "title": "디자인 권리보호 강화…부산디자인진흥원, 법률자문단 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260116103100051",
-      "pubDate": "Sun, 18 Jan 2026 10:00:04 +0900"
-    },
-    {
-      "title": "평창군, 귀농 농업창업·주택구입 지원사업 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260116083800062",
-      "pubDate": "Sun, 18 Jan 2026 10:00:03 +0900"
     }
   ]
 }
