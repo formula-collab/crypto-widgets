@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768705510,
+  "updated_at_unix": 1768710344,
   "items": [
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20260118021900002",
+      "pubDate": "Sun, 18 Jan 2026 13:02:58 +0900"
+    },
+    {
+      "title": "직장인 78% \"AI 확산으로 노동시장 불평등·부의 양극화 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260118022200004",
+      "pubDate": "Sun, 18 Jan 2026 12:20:27 +0900"
+    },
+    {
+      "title": "靑, 美 반도체관세 촉각…\"'불리하지 않은 대우' 원칙따라 협의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260118021700001",
+      "pubDate": "Sun, 18 Jan 2026 12:17:55 +0900"
+    },
+    {
+      "title": "한국 차세대 AI 메모리 '강유전체 소자' 특허출원 세계 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260116101800063",
+      "pubDate": "Sun, 18 Jan 2026 12:00:13 +0900"
+    },
+    {
+      "title": "[게시판] 산재예방 노동안전 슬로건 2월 6일까지 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260116128500530",
+      "pubDate": "Sun, 18 Jan 2026 12:00:10 +0900"
+    },
+    {
+      "title": "한은 \"충남 고령층 자영업자 비중 증가…대출 증가폭도 확대＂",
+      "link": "https://www.yna.co.kr/view/AKR20260116136400063",
+      "pubDate": "Sun, 18 Jan 2026 12:00:09 +0900"
+    },
+    {
+      "title": "새마을금고 건전성 특별관리기간…행안부·금융당국 공조 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260116153600530",
+      "pubDate": "Sun, 18 Jan 2026 12:00:03 +0900"
+    },
     {
       "title": "중기중앙회, 협동조합 공동사업 전문인력 인건비 지원",
       "link": "https://www.yna.co.kr/view/AKR20260116144700030",
@@ -117,41 +152,6 @@
       "title": "CU, 생필품 최대 75% 할인…롤티슈·생수 등 10종",
       "link": "https://www.yna.co.kr/view/AKR20260118010500030",
       "pubDate": "Sun, 18 Jan 2026 08:38:33 +0900"
-    },
-    {
-      "title": "부산시, 농업경쟁력 강화 위한 '기술 보급 시범사업'",
-      "link": "https://www.yna.co.kr/view/AKR20260118006900051",
-      "pubDate": "Sun, 18 Jan 2026 07:54:50 +0900"
-    },
-    {
-      "title": "\"호텔서 제사음식 테이크아웃\"…'백수저' 셰프의 손맛까지",
-      "link": "https://www.yna.co.kr/view/AKR20260116144900030",
-      "pubDate": "Sun, 18 Jan 2026 07:31:00 +0900"
-    },
-    {
-      "title": "인천 대단지 아파트서 바닥재 내려앉고 장식 구조물 균열",
-      "link": "https://www.yna.co.kr/view/AKR20260116125600065",
-      "pubDate": "Sun, 18 Jan 2026 07:17:01 +0900"
-    },
-    {
-      "title": "새해 코스피 '불장'에 10종목 중 1개꼴 52주 신고가",
-      "link": "https://www.yna.co.kr/view/AKR20260116159900008",
-      "pubDate": "Sun, 18 Jan 2026 07:15:01 +0900"
-    },
-    {
-      "title": "\"신선함이 살길\"…대형마트들, '먹거리 강화'로 승부",
-      "link": "https://www.yna.co.kr/view/AKR20260117025400030",
-      "pubDate": "Sun, 18 Jan 2026 07:15:00 +0900"
-    },
-    {
-      "title": "샌드박스 딱지 떼고 제도권 안착 토큰증권…사업자 선정은 시끌",
-      "link": "https://www.yna.co.kr/view/AKR20260117036200008",
-      "pubDate": "Sun, 18 Jan 2026 07:10:00 +0900"
-    },
-    {
-      "title": "'불장' 속 자동차·기계·건설 웃고 비금속·의류·음식료 울상",
-      "link": "https://www.yna.co.kr/view/AKR20260116156800008",
-      "pubDate": "Sun, 18 Jan 2026 07:05:01 +0900"
     }
   ]
 }
