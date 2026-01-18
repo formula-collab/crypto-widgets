@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768768813,
+  "updated_at_unix": 1768770578,
   "items": [
+    {
+      "title": "서울시 \"환경개선부담금 내달 2일까지 미리 내면 10% 감면\"",
+      "link": "https://www.yna.co.kr/view/AKR20260118037000004",
+      "pubDate": "Mon, 19 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "구독자 420만 '워크맨', 아리수 정수센터 일일 직원으로 변신",
+      "link": "https://www.yna.co.kr/view/AKR20260118037200004",
+      "pubDate": "Mon, 19 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "산업부, 원전 수출 중소·중견기업 지원 사업…평균 8천200만원",
+      "link": "https://www.yna.co.kr/view/AKR20260118030300003",
+      "pubDate": "Mon, 19 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "공매도 재개 후 대규모 제재…신한운용 등 6곳에 과징금 40억",
+      "link": "https://www.yna.co.kr/view/AKR20260118031800002",
+      "pubDate": "Mon, 19 Jan 2026 05:51:01 +0900"
+    },
     {
       "title": "홍라희, 삼성전자 주식 1천500만주 처분…약 2조원 규모",
       "link": "https://www.yna.co.kr/view/AKR20260118038800003",
@@ -132,26 +152,6 @@
       "title": "평창군, 귀농 농업창업·주택구입 지원사업 신청 접수",
       "link": "https://www.yna.co.kr/view/AKR20260116083800062",
       "pubDate": "Sun, 18 Jan 2026 10:00:03 +0900"
-    },
-    {
-      "title": "5천% 살인이자 적용…복역중인 '강실장' 조직원 무더기 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20260116145100064",
-      "pubDate": "Sun, 18 Jan 2026 10:00:02 +0900"
-    },
-    {
-      "title": "경남도 작년 무역수지 흑자 239억1천만달러…39개월 연속 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260118014000052",
-      "pubDate": "Sun, 18 Jan 2026 09:47:20 +0900"
-    },
-    {
-      "title": "서귀포시축협, 싱가포르서 제주산 한우·돼지고기 수출 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260116138500056",
-      "pubDate": "Sun, 18 Jan 2026 09:30:00 +0900"
-    },
-    {
-      "title": "韓기업들 작년 반덤핑 조사신청 역대 최다…\"국내산업보호\" 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260118011900003",
-      "pubDate": "Sun, 18 Jan 2026 09:05:23 +0900"
     }
   ]
 }
