@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768693038,
+  "updated_at_unix": 1768697945,
   "items": [
+    {
+      "title": "경남도 작년 무역수지 흑자 239억1천만달러…39개월 연속 흑자",
+      "link": "https://www.yna.co.kr/view/AKR20260118014000052",
+      "pubDate": "Sun, 18 Jan 2026 09:47:20 +0900"
+    },
+    {
+      "title": "서귀포시축협, 싱가포르서 제주산 한우·돼지고기 수출 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260116138500056",
+      "pubDate": "Sun, 18 Jan 2026 09:30:00 +0900"
+    },
+    {
+      "title": "韓기업들 작년 반덤핑 조사신청 역대 최다…\"국내산업보호\" 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260118011900003",
+      "pubDate": "Sun, 18 Jan 2026 09:05:23 +0900"
+    },
+    {
+      "title": "청도 소싸움 '동물학대' 논란…\"약물 주입 등에 강력 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260118012100030",
+      "pubDate": "Sun, 18 Jan 2026 09:02:05 +0900"
+    },
+    {
+      "title": "임종룡 우리금융 회장 \"흔들림 없이 포용금융·소비자보호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260117044400002",
+      "pubDate": "Sun, 18 Jan 2026 09:00:02 +0900"
+    },
+    {
+      "title": "이환주 KB국민은행장 \"금융업의 기준이 되도록 가치 키워야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260117045400002",
+      "pubDate": "Sun, 18 Jan 2026 09:00:00 +0900"
+    },
+    {
+      "title": "옥천군 '향수OK카드' 작년 발행액 처음으로 1천억원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260116044600064",
+      "pubDate": "Sun, 18 Jan 2026 08:50:01 +0900"
+    },
+    {
+      "title": "CU, 생필품 최대 75% 할인…롤티슈·생수 등 10종",
+      "link": "https://www.yna.co.kr/view/AKR20260118010500030",
+      "pubDate": "Sun, 18 Jan 2026 08:38:33 +0900"
+    },
     {
       "title": "부산시, 농업경쟁력 강화 위한 '기술 보급 시범사업'",
       "link": "https://www.yna.co.kr/view/AKR20260118006900051",
@@ -112,46 +152,6 @@
       "title": "'국장유턴' 당근·채찍 총동원…ETF 제도개편·증권사 검사확대",
       "link": "https://www.yna.co.kr/view/AKR20260117039200002",
       "pubDate": "Sun, 18 Jan 2026 05:51:00 +0900"
-    },
-    {
-      "title": "환율 비상에…금감원, '달러상품 판매' 은행·보험사 줄소환",
-      "link": "https://www.yna.co.kr/view/AKR20260117041500002",
-      "pubDate": "Sun, 18 Jan 2026 05:49:00 +0900"
-    },
-    {
-      "title": "은행권도 환율방어 안간힘…외화예금 금리↓·원화 환전에 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260117044900002",
-      "pubDate": "Sun, 18 Jan 2026 05:47:00 +0900"
-    },
-    {
-      "title": "사라진 3%대 은행 주담대 금리…이번주 0.15%p 더 오른다",
-      "link": "https://www.yna.co.kr/view/AKR20260117045200002",
-      "pubDate": "Sun, 18 Jan 2026 05:45:01 +0900"
-    },
-    {
-      "title": "1207회 로또 1등 17명…당첨금 각 17억3천만원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260117044100002",
-      "pubDate": "Sat, 17 Jan 2026 20:58:08 +0900"
-    },
-    {
-      "title": "1207회 로또 1등 '10, 22, 24, 27, 38, 45'",
-      "link": "https://www.yna.co.kr/view/AKR20260117043900002",
-      "pubDate": "Sat, 17 Jan 2026 20:44:28 +0900"
-    },
-    {
-      "title": "아프리카돼지열병·고병원성 AI 발생…중수본, 방역관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260117043700030",
-      "pubDate": "Sat, 17 Jan 2026 20:27:57 +0900"
-    },
-    {
-      "title": "[삶] \"동창회 다녀와서 주식투자 했는데…폭망했습니다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20251221017551546",
-      "pubDate": "Sat, 17 Jan 2026 13:36:36 +0900"
-    },
-    {
-      "title": "[게시판] BNK금융그룹, 새해 첫 '사회공헌의 날' 행사 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260117030200051",
-      "pubDate": "Sat, 17 Jan 2026 13:32:39 +0900"
     }
   ]
 }
