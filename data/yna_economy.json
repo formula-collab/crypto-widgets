@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768717025,
+  "updated_at_unix": 1768719075,
   "items": [
+    {
+      "title": "美 '반도체 관세' 본격화…韓정부·업계 긴장 속 대응책 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260118029200003",
+      "pubDate": "Sun, 18 Jan 2026 15:27:12 +0900"
+    },
     {
       "title": "행정연 \"국정과제 만족도 4.77점…2013년 조사 시작 이후 최고\"",
       "link": "https://www.yna.co.kr/view/AKR20260116155600530",
@@ -147,11 +152,6 @@
       "title": "이환주 KB국민은행장 \"금융업의 기준이 되도록 가치 키워야\"",
       "link": "https://www.yna.co.kr/view/AKR20260117045400002",
       "pubDate": "Sun, 18 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "옥천군 '향수OK카드' 작년 발행액 처음으로 1천억원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260116044600064",
-      "pubDate": "Sun, 18 Jan 2026 08:50:01 +0900"
     }
   ]
 }
