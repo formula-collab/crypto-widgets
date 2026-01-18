@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768772181,
+  "updated_at_unix": 1768774213,
   "items": [
+    {
+      "title": "[율곡로] 간과하면 후회할 '원화 약세' 경고등",
+      "link": "https://www.yna.co.kr/view/AKR20260116158900546",
+      "pubDate": "Mon, 19 Jan 2026 06:55:00 +0900"
+    },
     {
       "title": "해수부, 마을 어장 내 수상낚시터 운영 위한 고시 제정",
       "link": "https://www.yna.co.kr/view/AKR20260116152500030",
@@ -147,11 +152,6 @@
       "title": "청약통장 가입자수 작년까지 4년 연속 줄었다…감소폭은 둔화",
       "link": "https://www.yna.co.kr/view/AKR20260118015900003",
       "pubDate": "Sun, 18 Jan 2026 10:32:15 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260118015300011",
-      "pubDate": "Sun, 18 Jan 2026 10:30:00 +0900"
     }
   ]
 }
