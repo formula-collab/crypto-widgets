@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768777829,
+  "updated_at_unix": 1768779457,
   "items": [
+    {
+      "title": "LS증권 \"원화 약세로 외국인 소비 증가…백화점 실적 개선 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119019400008",
+      "pubDate": "Mon, 19 Jan 2026 08:30:15 +0900"
+    },
+    {
+      "title": "KB증권 \"삼성중공업, 올해 수주 증가 전망…투자의견·목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119020800008",
+      "pubDate": "Mon, 19 Jan 2026 08:29:31 +0900"
+    },
+    {
+      "title": "신한투자 \"CJ제일제당, 예상 대비 더 부진한 바이오…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119020200008",
+      "pubDate": "Mon, 19 Jan 2026 08:22:52 +0900"
+    },
+    {
+      "title": "GS25, 흑백요리사2 셰프 상품 잇달아 출시…\"편의점서 미식대결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119019800030",
+      "pubDate": "Mon, 19 Jan 2026 08:21:10 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 순환매 지속하며 '오천피' 돌파 시도할까",
       "link": "https://www.yna.co.kr/view/AKR20260119015300008",
@@ -132,26 +152,6 @@
       "title": "중기중앙회, 협동조합 공동사업 전문인력 인건비 지원",
       "link": "https://www.yna.co.kr/view/AKR20260116144700030",
       "pubDate": "Sun, 18 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"임금체불 사업주 누구?\" 민간 취업포털 채용공고서 확인 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260117027100530",
-      "pubDate": "Sun, 18 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "식당 문 닫고 서빙로봇 위약금에 운다…렌탈 분쟁 주의해야",
-      "link": "https://www.yna.co.kr/view/AKR20260117039300002",
-      "pubDate": "Sun, 18 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "서울시, 매달 주택시장 정보 공개…10·15대책 후 아파트 상승세",
-      "link": "https://www.yna.co.kr/view/AKR20260117023600004",
-      "pubDate": "Sun, 18 Jan 2026 11:15:02 +0900"
-    },
-    {
-      "title": "농식품부, 청년인턴 121명 모집…농업행정·홍보 경험 기회",
-      "link": "https://www.yna.co.kr/view/AKR20260116164000030",
-      "pubDate": "Sun, 18 Jan 2026 11:00:03 +0900"
     }
   ]
 }
