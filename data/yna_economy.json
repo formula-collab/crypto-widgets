@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768821242,
+  "updated_at_unix": 1768822838,
   "items": [
+    {
+      "title": "'김포공항서 자폭할 것' 온라인 협박글…경찰 수사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260119149900004",
+      "pubDate": "Mon, 19 Jan 2026 20:24:42 +0900"
+    },
+    {
+      "title": "페라리, '韓 전통 재해석' 12칠린드리 테일러메이드 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260119149000003",
+      "pubDate": "Mon, 19 Jan 2026 20:10:13 +0900"
+    },
     {
       "title": "서울시 \"국가유산청, 종묘문제 대화 거부하고 일방적 입장 발표\"",
       "link": "https://www.yna.co.kr/view/AKR20260119142700004",
@@ -142,16 +152,6 @@
       "title": "코스피, 12일째 올라 사상 첫 4,900선 돌파…'오천피' 코앞",
       "link": "https://www.yna.co.kr/view/AKR20260119111400008",
       "pubDate": "Mon, 19 Jan 2026 15:37:46 +0900"
-    },
-    {
-      "title": "외국환시세(1월19일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260119111900002",
-      "pubDate": "Mon, 19 Jan 2026 15:35:17 +0900"
-    },
-    {
-      "title": "경남 직업계고, 지난해 공직 채용 시험에 36명 최종 합격",
-      "link": "https://www.yna.co.kr/view/AKR20260119109300052",
-      "pubDate": "Mon, 19 Jan 2026 15:33:01 +0900"
     }
   ]
 }
