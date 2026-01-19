@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768812827,
+  "updated_at_unix": 1768814605,
   "items": [
+    {
+      "title": "오세훈-정원오, 서울 부동산 가격 급등·공급부족 놓고 설전",
+      "link": "https://www.yna.co.kr/view/AKR20260119139200004",
+      "pubDate": "Mon, 19 Jan 2026 18:14:10 +0900"
+    },
+    {
+      "title": "현대제철, '협력사 1천명 직접고용' 노동부지시에 \"내용 파악중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119138400003",
+      "pubDate": "Mon, 19 Jan 2026 18:02:43 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260119136900011",
+      "pubDate": "Mon, 19 Jan 2026 18:00:01 +0900"
+    },
     {
       "title": "안성시, 주거위기가구 긴급지원주택 6가구 운영",
       "link": "https://www.yna.co.kr/view/AKR20260119136700061",
@@ -137,21 +152,6 @@
       "title": "신한銀, 개인·자영업자 외화예금 원화환전에 '90% 환율우대'",
       "link": "https://www.yna.co.kr/view/AKR20260119107000002",
       "pubDate": "Mon, 19 Jan 2026 15:17:18 +0900"
-    },
-    {
-      "title": "엑세스바이오 \"알에프바이오 주식 570억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119104600008",
-      "pubDate": "Mon, 19 Jan 2026 15:10:28 +0900"
-    },
-    {
-      "title": "춘천시, 올해 역대 최대 공공일자리 8천695명 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260119100800062",
-      "pubDate": "Mon, 19 Jan 2026 15:04:02 +0900"
-    },
-    {
-      "title": "제주도, 준공 후 미분양 주택 취득세 50% 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260119101400056",
-      "pubDate": "Mon, 19 Jan 2026 14:54:59 +0900"
     }
   ]
 }
