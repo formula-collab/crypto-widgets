@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768864257,
+  "updated_at_unix": 1768865975,
   "items": [
+    {
+      "title": "KB증권 \"한화에어로, 올해 수주 호조 전망…목표가 162만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120021200008",
+      "pubDate": "Tue, 20 Jan 2026 08:28:55 +0900"
+    },
+    {
+      "title": "CU, 삼송빵집 손잡고 쫀득빵·크림번 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260120021700030",
+      "pubDate": "Tue, 20 Jan 2026 08:26:05 +0900"
+    },
+    {
+      "title": "가덕도신공항 부지조성공사 입찰 재공고…2월 6일 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260120021500051",
+      "pubDate": "Tue, 20 Jan 2026 08:23:40 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 美증시 휴장 속 '오천피' 카운트다운",
       "link": "https://www.yna.co.kr/view/AKR20260120017300008",
@@ -137,21 +152,6 @@
       "title": "안성시, 주거위기가구 긴급지원주택 6가구 운영",
       "link": "https://www.yna.co.kr/view/AKR20260119136700061",
       "pubDate": "Mon, 19 Jan 2026 17:35:02 +0900"
-    },
-    {
-      "title": "나명석 프랜차이즈산업협회장 취임…\"업계 상생경영 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119112100030",
-      "pubDate": "Mon, 19 Jan 2026 17:30:00 +0900"
-    },
-    {
-      "title": "대외금리 연동에 국고채 금리 일제히 상승…3년물 연 3.130%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260119125951008",
-      "pubDate": "Mon, 19 Jan 2026 17:24:32 +0900"
-    },
-    {
-      "title": "양산시 '시민 안전보험' 주요 보장금액 최대 2천만원으로 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260119132100052",
-      "pubDate": "Mon, 19 Jan 2026 17:19:26 +0900"
     }
   ]
 }
