@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768791914,
+  "updated_at_unix": 1768797216,
   "items": [
+    {
+      "title": "日국채 10년물 금리 2.23%로 상승…약 27년만의 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260119076000073",
+      "pubDate": "Mon, 19 Jan 2026 12:04:33 +0900"
+    },
+    {
+      "title": "감사원 \"공공기관 지역인재 채용 부실…기관내 승진기피 현상도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260118039100001",
+      "pubDate": "Mon, 19 Jan 2026 12:00:09 +0900"
+    },
+    {
+      "title": "은행권 \"1분기 가계대출 문턱 다소 낮춘다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119055700002",
+      "pubDate": "Mon, 19 Jan 2026 12:00:06 +0900"
+    },
+    {
+      "title": "청년 첫일자리 문턱·주거비 이중고…일 '잃어버린 세대' 닮은꼴",
+      "link": "https://www.yna.co.kr/view/AKR20260119056800002",
+      "pubDate": "Mon, 19 Jan 2026 12:00:05 +0900"
+    },
+    {
+      "title": "국세청 AI혁신담당관실 현판식…\"K-AI 세정 대도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119059200002",
+      "pubDate": "Mon, 19 Jan 2026 12:00:05 +0900"
+    },
+    {
+      "title": "금융권 SaaS 활용 길 넓어진다…망분리 규제 예외 허용",
+      "link": "https://www.yna.co.kr/view/AKR20260119069600002",
+      "pubDate": "Mon, 19 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "'한국 술은 제주로'…국세청 주류면허지원센터 연 3천건 검사",
+      "link": "https://www.yna.co.kr/view/AKR20260119061200002",
+      "pubDate": "Mon, 19 Jan 2026 12:00:01 +0900"
+    },
     {
       "title": "국고채 금리 일제히 상승…3년물 장중 연 3.091%",
       "link": "https://www.yna.co.kr/view/AKR20260119073200008",
@@ -117,41 +152,6 @@
       "title": "[화성소식] 상반기 청년 부동산 중개료·이사비 지원 신청 접수",
       "link": "https://www.yna.co.kr/view/AKR20260119058300061",
       "pubDate": "Mon, 19 Jan 2026 10:45:30 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260119050700011",
-      "pubDate": "Mon, 19 Jan 2026 10:30:49 +0900"
-    },
-    {
-      "title": "오세훈, 규제에 막힌 신림7구역 찾아 \"사업성 추가개선 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119013700004",
-      "pubDate": "Mon, 19 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "인천 중구, 내달부터 취준생 자격증 응시료 최대 10만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260119053300065",
-      "pubDate": "Mon, 19 Jan 2026 10:29:26 +0900"
-    },
-    {
-      "title": "옥천군 \"청년수당 신설…향토기업 취업하면 최대 100만원 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119053700064",
-      "pubDate": "Mon, 19 Jan 2026 10:29:16 +0900"
-    },
-    {
-      "title": "매각된 한일시멘트 부산공장, 2월부터 넉달간 해체 공사",
-      "link": "https://www.yna.co.kr/view/AKR20260119052900051",
-      "pubDate": "Mon, 19 Jan 2026 10:26:00 +0900"
-    },
-    {
-      "title": "제주 '골목형 상점가' 총 17곳…1년 만에 3배 이상으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260119052000056",
-      "pubDate": "Mon, 19 Jan 2026 10:23:54 +0900"
-    },
-    {
-      "title": "KB캐피탈 대표 \"상품기획부터 사후관리까지 소비자보호 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119045500002",
-      "pubDate": "Mon, 19 Jan 2026 10:21:38 +0900"
     }
   ]
 }
