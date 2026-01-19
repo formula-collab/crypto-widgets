@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768816438,
+  "updated_at_unix": 1768817870,
   "items": [
+    {
+      "title": "서울시 \"국가유산청, 종묘문제 대화 거부하고 일방적 입장 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119142700004",
+      "pubDate": "Mon, 19 Jan 2026 18:46:52 +0900"
+    },
     {
       "title": "[인사] 우리투자증권",
       "link": "https://www.yna.co.kr/view/AKR20260119142000008",
@@ -147,11 +152,6 @@
       "title": "경남 직업계고, 지난해 공직 채용 시험에 36명 최종 합격",
       "link": "https://www.yna.co.kr/view/AKR20260119109300052",
       "pubDate": "Mon, 19 Jan 2026 15:33:01 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.1원 오른 1,473.7원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260119110300002",
-      "pubDate": "Mon, 19 Jan 2026 15:30:27 +0900"
     }
   ]
 }
