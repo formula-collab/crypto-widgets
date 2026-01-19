@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768844676,
+  "updated_at_unix": 1768846629,
   "items": [
+    {
+      "title": "트럼프 '그린란드 관세' 위협에 '셀 아메리카' 우려 재부상",
+      "link": "https://www.yna.co.kr/view/AKR20260120003200072",
+      "pubDate": "Tue, 20 Jan 2026 02:46:18 +0900"
+    },
     {
       "title": "달러-원, 美 휴장 속 약달러에 소폭 뒷걸음질…1,473.10원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260120003000002",
@@ -147,11 +152,6 @@
       "title": "이범석 청주시장 \"SK하이닉스 신규투자 환영…행정지원 만전\"",
       "link": "https://www.yna.co.kr/view/AKR20260119113300064",
       "pubDate": "Mon, 19 Jan 2026 15:46:26 +0900"
-    },
-    {
-      "title": "\"작년말 서울아파트 신고가 비중 9억∼15억으로 중심 이동\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119109800003",
-      "pubDate": "Mon, 19 Jan 2026 15:40:09 +0900"
     }
   ]
 }
