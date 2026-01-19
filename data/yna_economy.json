@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768855371,
+  "updated_at_unix": 1768857026,
   "items": [
+    {
+      "title": "'사업 7년 이내' 창업기업 490만여개…종사자는 833만명",
+      "link": "https://www.yna.co.kr/view/AKR20260119122800030",
+      "pubDate": "Tue, 20 Jan 2026 06:00:09 +0900"
+    },
+    {
+      "title": "경제8단체 \"3차 상법 개정시 합리적 보완필요…배임죄 개선도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119129000003",
+      "pubDate": "Tue, 20 Jan 2026 06:00:07 +0900"
+    },
+    {
+      "title": "사과 20%·귤 13%·D램 15%…12월 생산자물가 넉달째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260119130800002",
+      "pubDate": "Tue, 20 Jan 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시, 설 앞두고 건설현장 공사대금·임금 체불 특별점검",
+      "link": "https://www.yna.co.kr/view/AKR20260119137200004",
+      "pubDate": "Tue, 20 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "RE100 애로기업 美의 3.5배…\"PPA 비용 경감·사업자 범위 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119138800003",
+      "pubDate": "Tue, 20 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "산업단지 공장에도 카페·편의점 들어선다…용도변경허가 면제",
+      "link": "https://www.yna.co.kr/view/AKR20260119144700003",
+      "pubDate": "Tue, 20 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 무역협회 '기후테크 한국 투자생태계 활성화 전략' 보고서 발간",
+      "link": "https://www.yna.co.kr/view/AKR20260119145300003",
+      "pubDate": "Tue, 20 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[이코노워치] 중앙은행의 '신호'가 의미하는 것",
+      "link": "https://www.yna.co.kr/view/AKR20260119114100546",
+      "pubDate": "Tue, 20 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "거의 비슷해진 한미 시장금리…그래도 오르는 환율, 왜?",
+      "link": "https://www.yna.co.kr/view/AKR20260119139000002",
+      "pubDate": "Tue, 20 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "트럼프 '그린란드 관세' 위협에 '셀 아메리카' 우려 재부상",
       "link": "https://www.yna.co.kr/view/AKR20260120003200072",
@@ -107,51 +152,6 @@
       "title": "고객 명의로 대출하고 예금까지 빼돌려…마을금고 직원 징역형",
       "link": "https://www.yna.co.kr/view/AKR20260119121900053",
       "pubDate": "Mon, 19 Jan 2026 16:34:24 +0900"
-    },
-    {
-      "title": "파워큐브세미·케이앤에스아이앤씨, 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260119122500008",
-      "pubDate": "Mon, 19 Jan 2026 16:26:52 +0900"
-    },
-    {
-      "title": "현대제철, 노동자 파업 때 대체근로자 투입 혐의로도 기소돼",
-      "link": "https://www.yna.co.kr/view/AKR20260119120300063",
-      "pubDate": "Mon, 19 Jan 2026 16:12:42 +0900"
-    },
-    {
-      "title": "원/달러 환율 이틀째 상승…0.1원 오른 1,473.7원",
-      "link": "https://www.yna.co.kr/view/AKR20260119118900002",
-      "pubDate": "Mon, 19 Jan 2026 16:10:26 +0900"
-    },
-    {
-      "title": "코스피, 트럼프발 불확실성에도 사상 첫 4,900대…'오천피' 코앞(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260119117400008",
-      "pubDate": "Mon, 19 Jan 2026 16:04:01 +0900"
-    },
-    {
-      "title": "노동부, 고용위기 지역 지원 박차…지자체·업계 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260119097700530",
-      "pubDate": "Mon, 19 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "중기2차관 \"시장·소상공인 지원책, 현장서 잘 작동하도록 협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119106700030",
-      "pubDate": "Mon, 19 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "중기중앙회, 영남권 신년인사회…\"지방주도 성장 시작되길\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119114700030",
-      "pubDate": "Mon, 19 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "대전 유니콘 기업, 대전TP 매칭 통해 5천만달러 수출 상담 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260119116400063",
-      "pubDate": "Mon, 19 Jan 2026 15:56:57 +0900"
-    },
-    {
-      "title": "이범석 청주시장 \"SK하이닉스 신규투자 환영…행정지원 만전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119113300064",
-      "pubDate": "Mon, 19 Jan 2026 15:46:26 +0900"
     }
   ]
 }
