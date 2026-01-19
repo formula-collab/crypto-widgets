@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768858768,
+  "updated_at_unix": 1768860696,
   "items": [
+    {
+      "title": "\"물 들어왔다\"…쿠팡 경쟁자들, 이용자 '최대'로 늘고 거래 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260119119600030",
+      "pubDate": "Tue, 20 Jan 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 약탈된 아프리카 문화유산 반환…한국 '문화 ODA'로 연대",
+      "link": "https://www.yna.co.kr/view/AKR20251216107500898",
+      "pubDate": "Tue, 20 Jan 2026 07:00:03 +0900"
+    },
     {
       "title": "소진공, 종합청렴도 준정부기관 중 '꼴찌' 등급",
       "link": "https://www.yna.co.kr/view/AKR20260119117100030",
@@ -142,16 +152,6 @@
       "title": "경남도, 기업인들과 경제 재도약 다짐…\"경제 호조세 민생 확산\"",
       "link": "https://www.yna.co.kr/view/AKR20260119126000052",
       "pubDate": "Mon, 19 Jan 2026 16:44:18 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.130%",
-      "link": "https://www.yna.co.kr/view/AKR20260119125900008",
-      "pubDate": "Mon, 19 Jan 2026 16:40:26 +0900"
-    },
-    {
-      "title": "김경수 \"지방은행의 지역경제 기여도, 정당하게 평가돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119123500530",
-      "pubDate": "Mon, 19 Jan 2026 16:35:17 +0900"
     }
   ]
 }
