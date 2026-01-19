@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768842934,
+  "updated_at_unix": 1768844676,
   "items": [
+    {
+      "title": "달러-원, 美 휴장 속 약달러에 소폭 뒷걸음질…1,473.10원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260120003000002",
+      "pubDate": "Tue, 20 Jan 2026 02:33:44 +0900"
+    },
     {
       "title": "'김포공항서 자폭할 것' 온라인 협박글…경찰 수사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260119149900004",
@@ -147,11 +152,6 @@
       "title": "\"작년말 서울아파트 신고가 비중 9억∼15억으로 중심 이동\"",
       "link": "https://www.yna.co.kr/view/AKR20260119109800003",
       "pubDate": "Mon, 19 Jan 2026 15:40:09 +0900"
-    },
-    {
-      "title": "코스피, 12일째 올라 사상 첫 4,900선 돌파…'오천피' 코앞",
-      "link": "https://www.yna.co.kr/view/AKR20260119111400008",
-      "pubDate": "Mon, 19 Jan 2026 15:37:46 +0900"
     }
   ]
 }
