@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768814605,
+  "updated_at_unix": 1768816438,
   "items": [
+    {
+      "title": "[인사] 우리투자증권",
+      "link": "https://www.yna.co.kr/view/AKR20260119142000008",
+      "pubDate": "Mon, 19 Jan 2026 18:41:38 +0900"
+    },
+    {
+      "title": "주병기 \"쿠팡 보상안 화난다…정보 유출 사건 활용해 영업\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119140900002",
+      "pubDate": "Mon, 19 Jan 2026 18:30:35 +0900"
+    },
+    {
+      "title": "IMF, 올해 우리나라 성장률 1.9% 전망…소폭 상향 조정",
+      "link": "https://www.yna.co.kr/view/AKR20260119095900002",
+      "pubDate": "Mon, 19 Jan 2026 18:30:01 +0900"
+    },
     {
       "title": "오세훈-정원오, 서울 부동산 가격 급등·공급부족 놓고 설전",
       "link": "https://www.yna.co.kr/view/AKR20260119139200004",
@@ -137,21 +152,6 @@
       "title": "[외환] 원/달러 환율 0.1원 오른 1,473.7원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260119110300002",
       "pubDate": "Mon, 19 Jan 2026 15:30:27 +0900"
-    },
-    {
-      "title": "강원도, 사상 최초 수출 30억 달러 돌파…수출 품목 다변화 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260119105500062",
-      "pubDate": "Mon, 19 Jan 2026 15:21:58 +0900"
-    },
-    {
-      "title": "'논산 세계딸기산업엑스포' 종합실행계획 최종보고회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260119106000063",
-      "pubDate": "Mon, 19 Jan 2026 15:19:15 +0900"
-    },
-    {
-      "title": "신한銀, 개인·자영업자 외화예금 원화환전에 '90% 환율우대'",
-      "link": "https://www.yna.co.kr/view/AKR20260119107000002",
-      "pubDate": "Mon, 19 Jan 2026 15:17:18 +0900"
     }
   ]
 }
