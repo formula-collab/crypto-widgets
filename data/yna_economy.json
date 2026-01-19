@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768797216,
+  "updated_at_unix": 1768800200,
   "items": [
+    {
+      "title": "한국은행 광주전남, 중기 특별자금 대출 신청 기간 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260119092800054",
+      "pubDate": "Mon, 19 Jan 2026 14:16:09 +0900"
+    },
+    {
+      "title": "경찰 \"이혜훈 의혹 7건 집중수사\"…21일 시민단체 고발인 조사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260119074751004",
+      "pubDate": "Mon, 19 Jan 2026 14:13:43 +0900"
+    },
+    {
+      "title": "횡성군, '2026 청년 면접 수당' 최대 15만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260119089200062",
+      "pubDate": "Mon, 19 Jan 2026 14:10:55 +0900"
+    },
+    {
+      "title": "코스피, 장중 오름폭 키워 사상 첫 4,900선 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260119089900008",
+      "pubDate": "Mon, 19 Jan 2026 14:05:23 +0900"
+    },
+    {
+      "title": "'건설현장 임금체불 예방'…노동부-LH 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260119054400530",
+      "pubDate": "Mon, 19 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "농식품부, 2030년까지 농업 공공 인력공급 비중 60%로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260119070500030",
+      "pubDate": "Mon, 19 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "교통대, 졸업생 취업률 66.5%…\"전국 국립대 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119087100064",
+      "pubDate": "Mon, 19 Jan 2026 13:59:24 +0900"
+    },
+    {
+      "title": "[속보] 코스피, 상승폭 키워 장중 사상 첫 4,900선 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260119088100008",
+      "pubDate": "Mon, 19 Jan 2026 13:57:08 +0900"
+    },
+    {
+      "title": "충남도, 올해 청년정책 과제 121개 수립…5천63억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260119083300063",
+      "pubDate": "Mon, 19 Jan 2026 13:43:59 +0900"
+    },
+    {
+      "title": "버려지는 돈으로 꿈돌이 굿즈 만든다…대전시·조폐공사 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260119082500063",
+      "pubDate": "Mon, 19 Jan 2026 13:41:58 +0900"
+    },
     {
       "title": "日국채 10년물 금리 2.23%로 상승…약 27년만의 최고",
       "link": "https://www.yna.co.kr/view/AKR20260119076000073",
@@ -102,56 +152,6 @@
       "title": "미래에셋증권, DC퇴직연금 적립금 16조3천억원…\"전업권 1위\"",
       "link": "https://www.yna.co.kr/view/AKR20260119063000008",
       "pubDate": "Mon, 19 Jan 2026 11:00:29 +0900"
-    },
-    {
-      "title": "[르포] 한옥형 건물 12개동 품은 전북대…한옥 전문인력양성·수출의 산실",
-      "link": "https://www.yna.co.kr/view/AKR20260118042500003",
-      "pubDate": "Mon, 19 Jan 2026 11:00:10 +0900"
-    },
-    {
-      "title": "농식품부, 7천억 규모 K-푸드 수출지원사업 설명회 23일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260119024300030",
-      "pubDate": "Mon, 19 Jan 2026 11:00:10 +0900"
-    },
-    {
-      "title": "정부, 한옥 건축으로 가보고 싶은 중소도시 늘린다",
-      "link": "https://www.yna.co.kr/view/AKR20260118040200003",
-      "pubDate": "Mon, 19 Jan 2026 11:00:07 +0900"
-    },
-    {
-      "title": "강원경제자유구역청, 옥계지구 8필지 분양·임대추진",
-      "link": "https://www.yna.co.kr/view/AKR20260119052400062",
-      "pubDate": "Mon, 19 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "여한구 통상본부장 다보스포럼 참석…반도체 논의 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260119053200003",
-      "pubDate": "Mon, 19 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "생명보험재단 'SOS 생명의전화' 단장…\"눈에 더 잘 띄도록\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119049200002",
-      "pubDate": "Mon, 19 Jan 2026 10:55:37 +0900"
-    },
-    {
-      "title": "바디프랜드, CJ온스타일서 헬스케어로봇 '팔콘N' 선봬",
-      "link": "https://www.yna.co.kr/view/AKR20260119055300030",
-      "pubDate": "Mon, 19 Jan 2026 10:53:24 +0900"
-    },
-    {
-      "title": "올마이투어 \"롯데면세점과 협업해 외국인 숙소예약 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119059600030",
-      "pubDate": "Mon, 19 Jan 2026 10:52:44 +0900"
-    },
-    {
-      "title": "소비자단체協 \"4분기 커피믹스·고추장 등 28개 생필품 상승\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119057800030",
-      "pubDate": "Mon, 19 Jan 2026 10:49:29 +0900"
-    },
-    {
-      "title": "[화성소식] 상반기 청년 부동산 중개료·이사비 지원 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260119058300061",
-      "pubDate": "Mon, 19 Jan 2026 10:45:30 +0900"
     }
   ]
 }
