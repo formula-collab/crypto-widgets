@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768857026,
+  "updated_at_unix": 1768858768,
   "items": [
+    {
+      "title": "소진공, 종합청렴도 준정부기관 중 '꼴찌' 등급",
+      "link": "https://www.yna.co.kr/view/AKR20260119117100030",
+      "pubDate": "Tue, 20 Jan 2026 06:31:00 +0900"
+    },
     {
       "title": "'사업 7년 이내' 창업기업 490만여개…종사자는 833만명",
       "link": "https://www.yna.co.kr/view/AKR20260119122800030",
@@ -147,11 +152,6 @@
       "title": "김경수 \"지방은행의 지역경제 기여도, 정당하게 평가돼야\"",
       "link": "https://www.yna.co.kr/view/AKR20260119123500530",
       "pubDate": "Mon, 19 Jan 2026 16:35:17 +0900"
-    },
-    {
-      "title": "고객 명의로 대출하고 예금까지 빼돌려…마을금고 직원 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20260119121900053",
-      "pubDate": "Mon, 19 Jan 2026 16:34:24 +0900"
     }
   ]
 }
