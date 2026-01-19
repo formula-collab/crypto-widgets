@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768810758,
+  "updated_at_unix": 1768812827,
   "items": [
+    {
+      "title": "안성시, 주거위기가구 긴급지원주택 6가구 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260119136700061",
+      "pubDate": "Mon, 19 Jan 2026 17:35:02 +0900"
+    },
+    {
+      "title": "나명석 프랜차이즈산업협회장 취임…\"업계 상생경영 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119112100030",
+      "pubDate": "Mon, 19 Jan 2026 17:30:00 +0900"
+    },
+    {
+      "title": "대외금리 연동에 국고채 금리 일제히 상승…3년물 연 3.130%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260119125951008",
+      "pubDate": "Mon, 19 Jan 2026 17:24:32 +0900"
+    },
+    {
+      "title": "양산시 '시민 안전보험' 주요 보장금액 최대 2천만원으로 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260119132100052",
+      "pubDate": "Mon, 19 Jan 2026 17:19:26 +0900"
+    },
     {
       "title": "한은 대구경북본부, 중소기업 한시 특별지원 기한 연장",
       "link": "https://www.yna.co.kr/view/AKR20260119128900053",
@@ -132,26 +152,6 @@
       "title": "제주도, 준공 후 미분양 주택 취득세 50% 감면",
       "link": "https://www.yna.co.kr/view/AKR20260119101400056",
       "pubDate": "Mon, 19 Jan 2026 14:54:59 +0900"
-    },
-    {
-      "title": "오세훈, 규제에 막힌 신림7구역 찾아 \"사업성 추가개선 지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260119013751004",
-      "pubDate": "Mon, 19 Jan 2026 14:41:45 +0900"
-    },
-    {
-      "title": "경찰·노동부, 신분당선 연장구간 옹벽붕괴 사고 수사 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260119096700061",
-      "pubDate": "Mon, 19 Jan 2026 14:35:56 +0900"
-    },
-    {
-      "title": "연구개발특구, 딥테크 창업 전진기지로 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260119053800017",
-      "pubDate": "Mon, 19 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260119091900011",
-      "pubDate": "Mon, 19 Jan 2026 14:30:00 +0900"
     }
   ]
 }
