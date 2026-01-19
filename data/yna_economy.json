@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768862577,
+  "updated_at_unix": 1768864257,
   "items": [
+    {
+      "title": "[마켓뷰] 코스피, 美증시 휴장 속 '오천피' 카운트다운",
+      "link": "https://www.yna.co.kr/view/AKR20260120017300008",
+      "pubDate": "Tue, 20 Jan 2026 07:59:13 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260120013100011",
@@ -147,11 +152,6 @@
       "title": "양산시 '시민 안전보험' 주요 보장금액 최대 2천만원으로 강화",
       "link": "https://www.yna.co.kr/view/AKR20260119132100052",
       "pubDate": "Mon, 19 Jan 2026 17:19:26 +0900"
-    },
-    {
-      "title": "한은 대구경북본부, 중소기업 한시 특별지원 기한 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260119128900053",
-      "pubDate": "Mon, 19 Jan 2026 16:58:21 +0900"
     }
   ]
 }
