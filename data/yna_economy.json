@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768801895,
+  "updated_at_unix": 1768803769,
   "items": [
+    {
+      "title": "'논산 세계딸기산업엑스포' 종합실행계획 최종보고회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260119106000063",
+      "pubDate": "Mon, 19 Jan 2026 15:19:15 +0900"
+    },
+    {
+      "title": "신한銀, 개인·자영업자 외화예금 원화환전에 '90% 환율우대'",
+      "link": "https://www.yna.co.kr/view/AKR20260119107000002",
+      "pubDate": "Mon, 19 Jan 2026 15:17:18 +0900"
+    },
+    {
+      "title": "엑세스바이오 \"알에프바이오 주식 570억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119104600008",
+      "pubDate": "Mon, 19 Jan 2026 15:10:28 +0900"
+    },
+    {
+      "title": "춘천시, 올해 역대 최대 공공일자리 8천695명 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260119100800062",
+      "pubDate": "Mon, 19 Jan 2026 15:04:02 +0900"
+    },
+    {
+      "title": "제주도, 준공 후 미분양 주택 취득세 50% 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260119101400056",
+      "pubDate": "Mon, 19 Jan 2026 14:54:59 +0900"
+    },
     {
       "title": "오세훈, 규제에 막힌 신림7구역 찾아 \"사업성 추가개선 지원\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260119013751004",
@@ -127,31 +152,6 @@
       "title": "금융권 SaaS 활용 길 넓어진다…망분리 규제 예외 허용",
       "link": "https://www.yna.co.kr/view/AKR20260119069600002",
       "pubDate": "Mon, 19 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "'한국 술은 제주로'…국세청 주류면허지원센터 연 3천건 검사",
-      "link": "https://www.yna.co.kr/view/AKR20260119061200002",
-      "pubDate": "Mon, 19 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.091%",
-      "link": "https://www.yna.co.kr/view/AKR20260119073200008",
-      "pubDate": "Mon, 19 Jan 2026 11:41:03 +0900"
-    },
-    {
-      "title": "'영끌투자' 중 '트럼프 압박'…K-반도체 투자전략 흔들리나",
-      "link": "https://www.yna.co.kr/view/AKR20260119070700003",
-      "pubDate": "Mon, 19 Jan 2026 11:36:14 +0900"
-    },
-    {
-      "title": "미국육류협회 \"미국산 소·돼지고기, 한국 수입육 점유율 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119065600030",
-      "pubDate": "Mon, 19 Jan 2026 11:34:58 +0900"
-    },
-    {
-      "title": "양구군, 농산물 최저가격지원금 4억원 농가 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260119070600062",
-      "pubDate": "Mon, 19 Jan 2026 11:30:03 +0900"
     }
   ]
 }
