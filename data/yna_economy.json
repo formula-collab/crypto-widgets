@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768800200,
+  "updated_at_unix": 1768801895,
   "items": [
+    {
+      "title": "오세훈, 규제에 막힌 신림7구역 찾아 \"사업성 추가개선 지원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260119013751004",
+      "pubDate": "Mon, 19 Jan 2026 14:41:45 +0900"
+    },
+    {
+      "title": "경찰·노동부, 신분당선 연장구간 옹벽붕괴 사고 수사 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260119096700061",
+      "pubDate": "Mon, 19 Jan 2026 14:35:56 +0900"
+    },
+    {
+      "title": "연구개발특구, 딥테크 창업 전진기지로 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260119053800017",
+      "pubDate": "Mon, 19 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260119091900011",
+      "pubDate": "Mon, 19 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "노동부, 현대제철에 '불법파견' 노동자 1천213명 직접고용 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260119095400530",
+      "pubDate": "Mon, 19 Jan 2026 14:28:06 +0900"
+    },
+    {
+      "title": "새도약기금 협약 13개 대부업체 가입…10개사 협의 중",
+      "link": "https://www.yna.co.kr/view/AKR20260119088500002",
+      "pubDate": "Mon, 19 Jan 2026 14:27:07 +0900"
+    },
+    {
+      "title": "신한은행, 설 앞두고 중소기업에 15조원 자금 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260119083600002",
+      "pubDate": "Mon, 19 Jan 2026 14:26:20 +0900"
+    },
+    {
+      "title": "취임 6개월 맞은 구윤철 \"민생경제 중요…생활물가 철저 관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119093100002",
+      "pubDate": "Mon, 19 Jan 2026 14:25:21 +0900"
+    },
+    {
+      "title": "통영 당동에 윤이상 기념 '첼로 등대' 갖춘 방파제 건설한다",
+      "link": "https://www.yna.co.kr/view/AKR20260119090100052",
+      "pubDate": "Mon, 19 Jan 2026 14:23:16 +0900"
+    },
     {
       "title": "한국은행 광주전남, 중기 특별자금 대출 신청 기간 연장",
       "link": "https://www.yna.co.kr/view/AKR20260119092800054",
@@ -69,7 +114,7 @@
       "pubDate": "Mon, 19 Jan 2026 12:00:06 +0900"
     },
     {
-      "title": "청년 첫일자리 문턱·주거비 이중고…일 '잃어버린 세대' 닮은꼴",
+      "title": "청년 첫일자리 문턱·주거비 이중고…日 '잃어버린 세대' 닮은꼴",
       "link": "https://www.yna.co.kr/view/AKR20260119056800002",
       "pubDate": "Mon, 19 Jan 2026 12:00:05 +0900"
     },
@@ -107,51 +152,6 @@
       "title": "양구군, 농산물 최저가격지원금 4억원 농가 지급",
       "link": "https://www.yna.co.kr/view/AKR20260119070600062",
       "pubDate": "Mon, 19 Jan 2026 11:30:03 +0900"
-    },
-    {
-      "title": "BNK금융, 1조6천억원 규모 설날 특별대출",
-      "link": "https://www.yna.co.kr/view/AKR20260119070400051",
-      "pubDate": "Mon, 19 Jan 2026 11:27:47 +0900"
-    },
-    {
-      "title": "[게시판] 한국토지신탁, 도시재생지원팀 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260119068400003",
-      "pubDate": "Mon, 19 Jan 2026 11:25:38 +0900"
-    },
-    {
-      "title": "[게시판] 현대차증권, 대학생 서포터즈 2기 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260119067800008",
-      "pubDate": "Mon, 19 Jan 2026 11:18:45 +0900"
-    },
-    {
-      "title": "코스피, 장중 상승 전환해 4,880대…또 사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260119066500008",
-      "pubDate": "Mon, 19 Jan 2026 11:17:23 +0900"
-    },
-    {
-      "title": "원주시, 전략산업 집중유치로 9천200억원 유치…1조원 달성 눈앞",
-      "link": "https://www.yna.co.kr/view/AKR20260119065500062",
-      "pubDate": "Mon, 19 Jan 2026 11:12:20 +0900"
-    },
-    {
-      "title": "SGC E&C 작년 공공사업 비중 40% 육박…\"안정적 이익 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119059300003",
-      "pubDate": "Mon, 19 Jan 2026 11:10:50 +0900"
-    },
-    {
-      "title": "미래에셋운용, 연금자산 50조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260119064800008",
-      "pubDate": "Mon, 19 Jan 2026 11:08:20 +0900"
-    },
-    {
-      "title": "외국인 성형수술비 등 1천500억원 가상자산 환치기 일당 검거",
-      "link": "https://www.yna.co.kr/view/AKR20260119058200002",
-      "pubDate": "Mon, 19 Jan 2026 11:06:01 +0900"
-    },
-    {
-      "title": "미래에셋증권, DC퇴직연금 적립금 16조3천억원…\"전업권 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119063000008",
-      "pubDate": "Mon, 19 Jan 2026 11:00:29 +0900"
     }
   ]
 }
