@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768928199,
+  "updated_at_unix": 1768929768,
   "items": [
+    {
+      "title": "美재무 \"트럼프, 차기 연준 의장 이르면 내주 결정…후보 4명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121002700071",
+      "pubDate": "Wed, 21 Jan 2026 01:59:29 +0900"
+    },
     {
       "title": "美장기국채 금리 4개월만에 최고…그린란드 갈등속 日금리↑여파",
       "link": "https://www.yna.co.kr/view/AKR20260121001300072",
@@ -147,11 +152,6 @@
       "title": "얼라인 \"스틱인베 기업가치 제고 플랜, 구체적 계획 불충분\"",
       "link": "https://www.yna.co.kr/view/AKR20260120131000008",
       "pubDate": "Tue, 20 Jan 2026 16:28:46 +0900"
-    },
-    {
-      "title": "글로벌 투자은행들 \"한국 경제, 'K자형 회복' 상태로 진입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120120700002",
-      "pubDate": "Tue, 20 Jan 2026 16:20:12 +0900"
     }
   ]
 }
