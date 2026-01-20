@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768893955,
+  "updated_at_unix": 1768895212,
   "items": [
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.191%",
+      "link": "https://www.yna.co.kr/view/AKR20260120135500008",
+      "pubDate": "Tue, 20 Jan 2026 16:40:36 +0900"
+    },
+    {
+      "title": "김정관 \"美핵심광물 공급망 논의, 韓산업에 광범위한 영향 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120127800003",
+      "pubDate": "Tue, 20 Jan 2026 16:30:00 +0900"
+    },
+    {
+      "title": "얼라인 \"스틱인베 기업가치 제고 플랜, 구체적 계획 불충분\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120131000008",
+      "pubDate": "Tue, 20 Jan 2026 16:28:46 +0900"
+    },
     {
       "title": "글로벌 투자은행들 \"한국 경제, 'K자형 회복' 상태로 진입\"",
       "link": "https://www.yna.co.kr/view/AKR20260120120700002",
@@ -137,21 +152,6 @@
       "title": "한은 울산본부, 중소기업에 설 운전자금 100억 지원",
       "link": "https://www.yna.co.kr/view/AKR20260120111700057",
       "pubDate": "Tue, 20 Jan 2026 15:16:08 +0900"
-    },
-    {
-      "title": "원하청교섭시 하청특성 우선고려…노란봉투법 시행령 재입법예고",
-      "link": "https://www.yna.co.kr/view/AKR20260120107600530",
-      "pubDate": "Tue, 20 Jan 2026 15:12:02 +0900"
-    },
-    {
-      "title": "알테오젠, GSK 자회사에 피하주사제 기술 수출…4천200억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260120112400017",
-      "pubDate": "Tue, 20 Jan 2026 15:11:44 +0900"
-    },
-    {
-      "title": "수입협회, 겨울철 직구 상품 안전성 검사…12% 부적합 판정",
-      "link": "https://www.yna.co.kr/view/AKR20260120111500003",
-      "pubDate": "Tue, 20 Jan 2026 15:10:09 +0900"
     }
   ]
 }
