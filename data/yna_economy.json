@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768948898,
+  "updated_at_unix": 1768950695,
   "items": [
+    {
+      "title": "[마켓뷰] '오천피' 문턱서 일단 멈춘 코스피, 한번 더 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260121021200008",
+      "pubDate": "Wed, 21 Jan 2026 08:00:59 +0900"
+    },
+    {
+      "title": "정부, 상생금융 1조7천억원 푼다…기술탈취 과징금 최대 50억원",
+      "link": "https://www.yna.co.kr/view/AKR20260120142800030",
+      "pubDate": "Wed, 21 Jan 2026 07:50:01 +0900"
+    },
+    {
+      "title": "울산시, 위험현장 투입 청년·일용근로자에 무료 안전교육",
+      "link": "https://www.yna.co.kr/view/AKR20260120167100057",
+      "pubDate": "Wed, 21 Jan 2026 07:38:09 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260121016300011",
@@ -137,21 +152,6 @@
       "title": "[인사] 농림축산식품부",
       "link": "https://www.yna.co.kr/view/AKR20260120143800030",
       "pubDate": "Tue, 20 Jan 2026 17:21:35 +0900"
-    },
-    {
-      "title": "금융권 특고노동자 '노동자추정제' 환영…실효성·고용위축 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260120135400002",
-      "pubDate": "Tue, 20 Jan 2026 17:19:15 +0900"
-    },
-    {
-      "title": "금융에 요양 서비스까지…KB '골든라이프 플래그십 센터' 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260120133000002",
-      "pubDate": "Tue, 20 Jan 2026 17:16:24 +0900"
-    },
-    {
-      "title": "광주글로벌모터스 47명 공채에 1천600명 지원…34대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260120141100054",
-      "pubDate": "Tue, 20 Jan 2026 17:14:27 +0900"
     }
   ]
 }
