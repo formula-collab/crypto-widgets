@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768902711,
+  "updated_at_unix": 1768904204,
   "items": [
+    {
+      "title": "분당·과천 일부 단지 평균 평당가 1억원 넘어…고가거래 형성",
+      "link": "https://www.yna.co.kr/view/AKR20260120160600003",
+      "pubDate": "Tue, 20 Jan 2026 18:58:51 +0900"
+    },
+    {
+      "title": "거침없는 금감원…\"회계감리·금융사 검사에도 특사경 확대해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120160000002",
+      "pubDate": "Tue, 20 Jan 2026 18:49:16 +0900"
+    },
     {
       "title": "신세계면세점 본점, 서울 시내면세점 5년 더 운영",
       "link": "https://www.yna.co.kr/view/AKR20260120150900002",
@@ -142,16 +152,6 @@
       "title": "주도주 순환매 장세에 '쏠림' 심화…중소형과 대형주 격차 커져(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260120080351008",
       "pubDate": "Tue, 20 Jan 2026 16:12:15 +0900"
-    },
-    {
-      "title": "코스피, 13일만에 반락 4,880대 마감…코스닥은 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120126500008",
-      "pubDate": "Tue, 20 Jan 2026 16:08:52 +0900"
-    },
-    {
-      "title": "국민참여펀드 40% 소득공제…서학개미 1분기 복귀시 양도세 0원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120035951002",
-      "pubDate": "Tue, 20 Jan 2026 16:07:22 +0900"
     }
   ]
 }
