@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768881729,
+  "updated_at_unix": 1768885241,
   "items": [
+    {
+      "title": "[부고] 성대규(동양생명 대표이사 사장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260120093600002",
+      "pubDate": "Tue, 20 Jan 2026 13:52:21 +0900"
+    },
+    {
+      "title": "코웨이, 디자인 모니터링 TF 신설…\"디자인 모방 차단\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120088700030",
+      "pubDate": "Tue, 20 Jan 2026 13:37:11 +0900"
+    },
+    {
+      "title": "전기요금 올린 '6천700억대 한전 입찰담합' 대기업 무더기 기소",
+      "link": "https://www.yna.co.kr/view/AKR20260120084900004",
+      "pubDate": "Tue, 20 Jan 2026 13:35:39 +0900"
+    },
+    {
+      "title": "이세영 생성AI스타트업 협회장 \"한일 AI 스타트업, 하나의 생태계 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120085600017",
+      "pubDate": "Tue, 20 Jan 2026 13:30:01 +0900"
+    },
     {
       "title": "알리 셀러계정 털렸다…해커가 계좌변경, 정산금 86억원 가로채",
       "link": "https://www.yna.co.kr/view/AKR20260120082300030",
@@ -132,26 +152,6 @@
       "title": "부산세관, 청사 리모델링 준공…50여년 만에 새단장",
       "link": "https://www.yna.co.kr/view/AKR20260120039900051",
       "pubDate": "Tue, 20 Jan 2026 11:00:05 +0900"
-    },
-    {
-      "title": "한경협국제경영원, 내달 24일 '한경협 HR NEXT 포럼'",
-      "link": "https://www.yna.co.kr/view/AKR20260119145900003",
-      "pubDate": "Tue, 20 Jan 2026 11:00:04 +0900"
-    },
-    {
-      "title": "내달 K-패스 '모두의 카드' 신청 가능 카드사 20개→27개로",
-      "link": "https://www.yna.co.kr/view/AKR20260120041600003",
-      "pubDate": "Tue, 20 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 농촌융복합산업 3차 계획 수립…'창업·관광 활성화'",
-      "link": "https://www.yna.co.kr/view/AKR20260120050400030",
-      "pubDate": "Tue, 20 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "\"철강 등 제3국 우회덤핑도 철퇴\"…산업부, 업계 대상 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260120063400003",
-      "pubDate": "Tue, 20 Jan 2026 11:00:01 +0900"
     }
   ]
 }
