@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768945210,
+  "updated_at_unix": 1768947193,
   "items": [
+    {
+      "title": "AI 전환 가속에 산업별 소프트웨어가 핵심 인프라로",
+      "link": "https://www.yna.co.kr/view/AKR20260120147300017",
+      "pubDate": "Wed, 21 Jan 2026 07:00:03 +0900"
+    },
     {
       "title": "[팩트체크] \"뉴스서 본 금가격이 아니네\"…살 때와 팔 때 1돈당 16만원차",
       "link": "https://www.yna.co.kr/view/AKR20260120032700518",
@@ -147,11 +152,6 @@
       "title": "\"약속 지켜라\"…김동명 위원장, 법정 정년연장 지연에 '쓴소리'",
       "link": "https://www.yna.co.kr/view/AKR20260120139400530",
       "pubDate": "Tue, 20 Jan 2026 17:13:01 +0900"
-    },
-    {
-      "title": "농식품부, 설 성수품 수급 점검…\"채소·과일 공급 안정적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120140900030",
-      "pubDate": "Tue, 20 Jan 2026 17:10:01 +0900"
     }
   ]
 }
