@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768901000,
+  "updated_at_unix": 1768902711,
   "items": [
+    {
+      "title": "신세계면세점 본점, 서울 시내면세점 5년 더 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260120150900002",
+      "pubDate": "Tue, 20 Jan 2026 18:31:36 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260120145100011",
@@ -147,11 +152,6 @@
       "title": "국민참여펀드 40% 소득공제…서학개미 1분기 복귀시 양도세 0원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260120035951002",
       "pubDate": "Tue, 20 Jan 2026 16:07:22 +0900"
-    },
-    {
-      "title": "모티프 이어 트릴리온랩스도 독자AI 패자부활전 도전한다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260120031752017",
-      "pubDate": "Tue, 20 Jan 2026 16:03:56 +0900"
     }
   ]
 }
