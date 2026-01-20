@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768904204,
+  "updated_at_unix": 1768906280,
   "items": [
+    {
+      "title": "전남 곡성 오리농장서 고병원성 AI…방역 관리 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260120161000030",
+      "pubDate": "Tue, 20 Jan 2026 19:13:02 +0900"
+    },
     {
       "title": "분당·과천 일부 단지 평균 평당가 1억원 넘어…고가거래 형성",
       "link": "https://www.yna.co.kr/view/AKR20260120160600003",
@@ -147,11 +152,6 @@
       "title": "포항 영일대해수욕장 인근에 지역 첫 특급호텔 건립 추진",
       "link": "https://www.yna.co.kr/view/AKR20260120127100053",
       "pubDate": "Tue, 20 Jan 2026 16:15:38 +0900"
-    },
-    {
-      "title": "주도주 순환매 장세에 '쏠림' 심화…중소형과 대형주 격차 커져(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120080351008",
-      "pubDate": "Tue, 20 Jan 2026 16:12:15 +0900"
     }
   ]
 }
