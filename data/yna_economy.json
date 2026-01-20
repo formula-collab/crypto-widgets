@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768909331,
+  "updated_at_unix": 1768911876,
   "items": [
+    {
+      "title": "올해 서울 첫 분양 '드파인 연희' 1순위 청약률 44대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260120166400003",
+      "pubDate": "Tue, 20 Jan 2026 20:48:30 +0900"
+    },
     {
       "title": "시총 상위 종목 애프터마켓서 줄하락…삼전·하이닉스 4%대 '뚝'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260120164751008",
@@ -147,11 +152,6 @@
       "title": "'노동자추정제'에 \"자영업자·노동자 부담 커지고 비용 인상\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260120115251030",
       "pubDate": "Tue, 20 Jan 2026 16:20:03 +0900"
-    },
-    {
-      "title": "환율 장중 1,480원 턱 밑까지 상승…사흘째 오름세",
-      "link": "https://www.yna.co.kr/view/AKR20260120124000002",
-      "pubDate": "Tue, 20 Jan 2026 16:17:54 +0900"
     }
   ]
 }
