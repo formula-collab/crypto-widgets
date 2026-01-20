@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768897079,
+  "updated_at_unix": 1768899258,
   "items": [
+    {
+      "title": "이재웅, 쏘카 최고운영책임자로 6년 만에 경영 복귀",
+      "link": "https://www.yna.co.kr/view/AKR20260120146900030",
+      "pubDate": "Tue, 20 Jan 2026 17:43:37 +0900"
+    },
+    {
+      "title": "인천공항 면세점 '롯데·현대' 경쟁…신라·신세계는 불참(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120135651030",
+      "pubDate": "Tue, 20 Jan 2026 17:25:58 +0900"
+    },
+    {
+      "title": "지난달 카드론 잔액 전월비 0.5%↓…두 달만에 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260120142000002",
+      "pubDate": "Tue, 20 Jan 2026 17:25:37 +0900"
+    },
+    {
+      "title": "日금리 뛰고 李대통령 추경 발언…국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120135551008",
+      "pubDate": "Tue, 20 Jan 2026 17:21:55 +0900"
+    },
+    {
+      "title": "한국산업은행, 하노이지점 설립 본인가 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260120136000002",
+      "pubDate": "Tue, 20 Jan 2026 17:21:48 +0900"
+    },
+    {
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.yna.co.kr/view/AKR20260120143800030",
+      "pubDate": "Tue, 20 Jan 2026 17:21:35 +0900"
+    },
+    {
+      "title": "금융권 특고노동자 '노동자추정제' 환영…실효성·고용위축 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260120135400002",
+      "pubDate": "Tue, 20 Jan 2026 17:19:15 +0900"
+    },
+    {
+      "title": "금융에 요양 서비스까지…KB '골든라이프 플래그십 센터' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260120133000002",
+      "pubDate": "Tue, 20 Jan 2026 17:16:24 +0900"
+    },
+    {
+      "title": "광주글로벌모터스 47명 공채에 1천600명 지원…34대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260120141100054",
+      "pubDate": "Tue, 20 Jan 2026 17:14:27 +0900"
+    },
+    {
+      "title": "\"약속 지켜라\"…김동명 위원장, 법정 정년연장 지연에 '쓴소리'",
+      "link": "https://www.yna.co.kr/view/AKR20260120139400530",
+      "pubDate": "Tue, 20 Jan 2026 17:13:01 +0900"
+    },
     {
       "title": "농식품부, 설 성수품 수급 점검…\"채소·과일 공급 안정적\"",
       "link": "https://www.yna.co.kr/view/AKR20260120140900030",
@@ -102,56 +152,6 @@
       "title": "중기부, 모태펀드 1조6천억원 출자…\"AI·딥테크유니콘 육성\"",
       "link": "https://www.yna.co.kr/view/AKR20260120060000030",
       "pubDate": "Tue, 20 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[테크스냅] 인텔리안테크, 우주항공청 '우주신기술' 2관왕",
-      "link": "https://www.yna.co.kr/view/AKR20260120123200017",
-      "pubDate": "Tue, 20 Jan 2026 15:52:47 +0900"
-    },
-    {
-      "title": "[AI픽] 국가AI전략위·방송협회 \"K-AI와 K-콘텐츠 상생에 협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120118500017",
-      "pubDate": "Tue, 20 Jan 2026 15:52:17 +0900"
-    },
-    {
-      "title": "국힘 조은희, 재건축 일반분양자 부정청약 처벌법 발의",
-      "link": "https://www.yna.co.kr/view/AKR20260120121100001",
-      "pubDate": "Tue, 20 Jan 2026 15:51:58 +0900"
-    },
-    {
-      "title": "李대통령, 경사노위 김지형 신임 위원장에 임명장 수여",
-      "link": "https://www.yna.co.kr/view/AKR20260120120600001",
-      "pubDate": "Tue, 20 Jan 2026 15:49:08 +0900"
-    },
-    {
-      "title": "\"조망권 실종\" 시공사 부도…유탑건설 일부 분양자 환급 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260120121400054",
-      "pubDate": "Tue, 20 Jan 2026 15:48:51 +0900"
-    },
-    {
-      "title": "관광공사, 중국 기업회의 1만4천명 유치…\"770억원 경제효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120121200030",
-      "pubDate": "Tue, 20 Jan 2026 15:45:41 +0900"
-    },
-    {
-      "title": "한투증권, 투자권유대행인 유치자산 10조원 돌파…\"업계 최초\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120121500008",
-      "pubDate": "Tue, 20 Jan 2026 15:44:47 +0900"
-    },
-    {
-      "title": "중기·배달업계, '노동자추정제' 추진에 \"고용 피하고 혼란\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120115200030",
-      "pubDate": "Tue, 20 Jan 2026 15:43:42 +0900"
-    },
-    {
-      "title": "백사마을 재개발 정상 추진…\"'길고양이 보호' 가처분 기각돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120121000004",
-      "pubDate": "Tue, 20 Jan 2026 15:43:36 +0900"
-    },
-    {
-      "title": "홈플러스 \"긴급운영자금 대출이 회생 여부 결정…지원 간청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120116500030",
-      "pubDate": "Tue, 20 Jan 2026 15:39:05 +0900"
     }
   ]
 }
