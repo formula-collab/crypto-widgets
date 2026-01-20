@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768899258,
+  "updated_at_unix": 1768901000,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260120145100011",
+      "pubDate": "Tue, 20 Jan 2026 18:00:00 +0900"
+    },
     {
       "title": "이재웅, 쏘카 최고운영책임자로 6년 만에 경영 복귀",
       "link": "https://www.yna.co.kr/view/AKR20260120146900030",
@@ -147,11 +152,6 @@
       "title": "모티프 이어 트릴리온랩스도 독자AI 패자부활전 도전한다(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260120031752017",
       "pubDate": "Tue, 20 Jan 2026 16:03:56 +0900"
-    },
-    {
-      "title": "중기부, 모태펀드 1조6천억원 출자…\"AI·딥테크유니콘 육성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120060000030",
-      "pubDate": "Tue, 20 Jan 2026 16:00:01 +0900"
     }
   ]
 }
