@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768885241,
+  "updated_at_unix": 1768888172,
   "items": [
+    {
+      "title": "시민단체, 취임 1년 맞은 트럼프에 \"유죄 선고\" 퍼포먼스",
+      "link": "https://www.yna.co.kr/view/AKR20260120103400004",
+      "pubDate": "Tue, 20 Jan 2026 14:43:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260120099000011",
+      "pubDate": "Tue, 20 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "식약처 \"애경 2080 수입 치약 87%서 금지 성분 검출\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120100700017",
+      "pubDate": "Tue, 20 Jan 2026 14:22:54 +0900"
+    },
+    {
+      "title": "동원산업 \"복수 M&A 검토…스타키스트 매각 결정된 바 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120097400030",
+      "pubDate": "Tue, 20 Jan 2026 14:10:58 +0900"
+    },
+    {
+      "title": "[게시판] 무역협회, 수출 中企·스타트업에 'CES 2026' 동향 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260120066500003",
+      "pubDate": "Tue, 20 Jan 2026 14:00:15 +0900"
+    },
+    {
+      "title": "[부고] 안경희(한화투자증권 거창지점장)씨 시부상",
+      "link": "https://www.yna.co.kr/view/AKR20260120093200008",
+      "pubDate": "Tue, 20 Jan 2026 13:57:52 +0900"
+    },
     {
       "title": "[부고] 성대규(동양생명 대표이사 사장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260120093600002",
@@ -122,36 +152,6 @@
       "title": "서울 '래미안 엘라비네' 276가구 내달 일반분양",
       "link": "https://www.yna.co.kr/view/AKR20260120076900003",
       "pubDate": "Tue, 20 Jan 2026 11:28:55 +0900"
-    },
-    {
-      "title": "안양시, 범계역 초역세권 청년임대주택 79세대 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260120073700061",
-      "pubDate": "Tue, 20 Jan 2026 11:20:33 +0900"
-    },
-    {
-      "title": "코스피, 장중 낙폭 줄여 4,880대…코스닥은 980선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260120074500008",
-      "pubDate": "Tue, 20 Jan 2026 11:18:49 +0900"
-    },
-    {
-      "title": "아프리카 무관세 美수출길 다시 열리나…美하원 연장안 가결",
-      "link": "https://www.yna.co.kr/view/AKR20260120065600898",
-      "pubDate": "Tue, 20 Jan 2026 11:17:45 +0900"
-    },
-    {
-      "title": "사용자가 '노동자아님' 입증해야…'노동자추정제' 실효성 있을까",
-      "link": "https://www.yna.co.kr/view/AKR20260120069300530",
-      "pubDate": "Tue, 20 Jan 2026 11:14:51 +0900"
-    },
-    {
-      "title": "농식품부, 햇빛소득마을 권역별 설명회 개최…22일 호남권부터",
-      "link": "https://www.yna.co.kr/view/AKR20260120031900030",
-      "pubDate": "Tue, 20 Jan 2026 11:00:06 +0900"
-    },
-    {
-      "title": "부산세관, 청사 리모델링 준공…50여년 만에 새단장",
-      "link": "https://www.yna.co.kr/view/AKR20260120039900051",
-      "pubDate": "Tue, 20 Jan 2026 11:00:05 +0900"
     }
   ]
 }
