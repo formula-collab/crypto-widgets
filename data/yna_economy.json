@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768950695,
+  "updated_at_unix": 1768952462,
   "items": [
+    {
+      "title": "인천 주택매매가격 3개월 연속 상승…연수·부평·계양 주도",
+      "link": "https://www.yna.co.kr/view/AKR20260121023300065",
+      "pubDate": "Wed, 21 Jan 2026 08:31:01 +0900"
+    },
+    {
+      "title": "구윤철 \"전략수출금융지원법 조속 제정…상생기여금 도입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121026600002",
+      "pubDate": "Wed, 21 Jan 2026 08:29:01 +0900"
+    },
+    {
+      "title": "유진證 \"SK하이닉스, 메모리3사 중 가장 강한 이익성…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121027000008",
+      "pubDate": "Wed, 21 Jan 2026 08:27:54 +0900"
+    },
+    {
+      "title": "KB證 \"에코프로비엠, 로봇용 배터리 수요 성장 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121026700008",
+      "pubDate": "Wed, 21 Jan 2026 08:27:22 +0900"
+    },
+    {
+      "title": "농협, 외부 전문가 참여 '농협개혁위원회' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260121025200030",
+      "pubDate": "Wed, 21 Jan 2026 08:18:40 +0900"
+    },
     {
       "title": "[마켓뷰] '오천피' 문턱서 일단 멈춘 코스피, 한번 더 쉬어가나",
       "link": "https://www.yna.co.kr/view/AKR20260121021200008",
@@ -127,31 +152,6 @@
       "title": "이재웅, 쏘카 최고운영책임자로 6년 만에 경영 복귀",
       "link": "https://www.yna.co.kr/view/AKR20260120146900030",
       "pubDate": "Tue, 20 Jan 2026 17:43:37 +0900"
-    },
-    {
-      "title": "인천공항 면세점 '롯데·현대' 경쟁…신라·신세계는 불참(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120135651030",
-      "pubDate": "Tue, 20 Jan 2026 17:25:58 +0900"
-    },
-    {
-      "title": "지난달 카드론 잔액 전월비 0.5%↓…두 달만에 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260120142000002",
-      "pubDate": "Tue, 20 Jan 2026 17:25:37 +0900"
-    },
-    {
-      "title": "日금리 뛰고 李대통령 추경 발언…국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120135551008",
-      "pubDate": "Tue, 20 Jan 2026 17:21:55 +0900"
-    },
-    {
-      "title": "한국산업은행, 하노이지점 설립 본인가 획득",
-      "link": "https://www.yna.co.kr/view/AKR20260120136000002",
-      "pubDate": "Tue, 20 Jan 2026 17:21:48 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260120143800030",
-      "pubDate": "Tue, 20 Jan 2026 17:21:35 +0900"
     }
   ]
 }
