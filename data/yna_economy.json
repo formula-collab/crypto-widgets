@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768895212,
+  "updated_at_unix": 1768897079,
   "items": [
+    {
+      "title": "농식품부, 설 성수품 수급 점검…\"채소·과일 공급 안정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120140900030",
+      "pubDate": "Tue, 20 Jan 2026 17:10:01 +0900"
+    },
+    {
+      "title": "다보링크, 10억원 유상증자…김길한 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260120140100008",
+      "pubDate": "Tue, 20 Jan 2026 17:06:13 +0900"
+    },
+    {
+      "title": "검찰, 바이오디젤 제조사 5곳 압수수색…가격 담합 의혹",
+      "link": "https://www.yna.co.kr/view/AKR20260120115500004",
+      "pubDate": "Tue, 20 Jan 2026 17:03:39 +0900"
+    },
+    {
+      "title": "스틱인베 도용환 회장, 지분 11% 매각…최대주주 美펀드로 변경",
+      "link": "https://www.yna.co.kr/view/AKR20260120139200008",
+      "pubDate": "Tue, 20 Jan 2026 17:02:21 +0900"
+    },
+    {
+      "title": "사고로 중단된 '반얀트리 부산 리조트' 1년만에 정상화 수순",
+      "link": "https://www.yna.co.kr/view/AKR20260120120300051",
+      "pubDate": "Tue, 20 Jan 2026 17:00:01 +0900"
+    },
+    {
+      "title": "전남 전문건설협회 \"건설산업 불공정 경쟁체제 정상화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120137200054",
+      "pubDate": "Tue, 20 Jan 2026 16:54:35 +0900"
+    },
+    {
+      "title": "인천공항 면세점 입찰 롯데·신세계·현대 3파전…신라는 불참",
+      "link": "https://www.yna.co.kr/view/AKR20260120135600030",
+      "pubDate": "Tue, 20 Jan 2026 16:46:18 +0900"
+    },
     {
       "title": "국고채 금리 일제히 상승…3년물 연 3.191%",
       "link": "https://www.yna.co.kr/view/AKR20260120135500008",
@@ -117,41 +152,6 @@
       "title": "홈플러스 \"긴급운영자금 대출이 회생 여부 결정…지원 간청\"",
       "link": "https://www.yna.co.kr/view/AKR20260120116500030",
       "pubDate": "Tue, 20 Jan 2026 15:39:05 +0900"
-    },
-    {
-      "title": "코스피, 13일만에 하락 4,880대 마감…코스닥은 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260120119400008",
-      "pubDate": "Tue, 20 Jan 2026 15:37:45 +0900"
-    },
-    {
-      "title": "고양도시관리공사, 제7기 기술자문위원회 위원 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260120119300060",
-      "pubDate": "Tue, 20 Jan 2026 15:36:23 +0900"
-    },
-    {
-      "title": "진주시민단체 \"KAI 비행센터 부지 매입 특혜 의혹, 진주시 고발\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120116800052",
-      "pubDate": "Tue, 20 Jan 2026 15:36:07 +0900"
-    },
-    {
-      "title": "외국환시세(1월20일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260120119100002",
-      "pubDate": "Tue, 20 Jan 2026 15:35:59 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.4원 오른 1,478.1원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260120117000002",
-      "pubDate": "Tue, 20 Jan 2026 15:30:23 +0900"
-    },
-    {
-      "title": "재계, 택배·배달기사 노동권 강화에 \"소송대란·고용위축 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120114900003",
-      "pubDate": "Tue, 20 Jan 2026 15:22:53 +0900"
-    },
-    {
-      "title": "한은 울산본부, 중소기업에 설 운전자금 100억 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260120111700057",
-      "pubDate": "Tue, 20 Jan 2026 15:16:08 +0900"
     }
   ]
 }
