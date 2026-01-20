@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768877711,
+  "updated_at_unix": 1768881729,
   "items": [
+    {
+      "title": "알리 셀러계정 털렸다…해커가 계좌변경, 정산금 86억원 가로채",
+      "link": "https://www.yna.co.kr/view/AKR20260120082300030",
+      "pubDate": "Tue, 20 Jan 2026 12:00:42 +0900"
+    },
+    {
+      "title": "소비자원 \"검은콩두유, 단백질 가장 높아…아몬드는 열량 낮아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260119101500030",
+      "pubDate": "Tue, 20 Jan 2026 12:00:26 +0900"
+    },
+    {
+      "title": "중기·소상공 지원해 청년일자리 늘린다…노동부-중기부 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260119138900530",
+      "pubDate": "Tue, 20 Jan 2026 12:00:26 +0900"
+    },
+    {
+      "title": "포스코이앤씨 산안법 위반 403건 적발…30건 사법처리",
+      "link": "https://www.yna.co.kr/view/AKR20260119139100530",
+      "pubDate": "Tue, 20 Jan 2026 12:00:24 +0900"
+    },
+    {
+      "title": "으뜸효율 가전제품 구매자에 2천348억원 환급",
+      "link": "https://www.yna.co.kr/view/AKR20260120042800530",
+      "pubDate": "Tue, 20 Jan 2026 12:00:21 +0900"
+    },
+    {
+      "title": "주요방송사 프리랜서 오남용 적발…3명중 1명 '근로자성 인정'",
+      "link": "https://www.yna.co.kr/view/AKR20260120034500530",
+      "pubDate": "Tue, 20 Jan 2026 12:00:19 +0900"
+    },
+    {
+      "title": "\"중기 취업 청년, 연말정산 소득세 90% 감면 잊지 마세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120055300002",
+      "pubDate": "Tue, 20 Jan 2026 12:00:19 +0900"
+    },
+    {
+      "title": "상생페이백 넉달간 1조3천억원…1천170만명, 평균 11만원씩 받아",
+      "link": "https://www.yna.co.kr/view/AKR20260120042000030",
+      "pubDate": "Tue, 20 Jan 2026 12:00:18 +0900"
+    },
+    {
+      "title": "중기옴부즈만 \"규제해결 위해 찾은 중소기업 2%뿐…접근성 높여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120032100030",
+      "pubDate": "Tue, 20 Jan 2026 12:00:16 +0900"
+    },
+    {
+      "title": "연구개발특구에 1천673억…딥테크 창업 드라이브",
+      "link": "https://www.yna.co.kr/view/AKR20260120074000017",
+      "pubDate": "Tue, 20 Jan 2026 12:00:10 +0900"
+    },
+    {
+      "title": "금융당국, 보험업권 손해율·사업비 가이드라인 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260120074600002",
+      "pubDate": "Tue, 20 Jan 2026 12:00:09 +0900"
+    },
+    {
+      "title": "KDI \"수도권-지방 생산성 격차 15년새 2.7→11.1%p 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120076400002",
+      "pubDate": "Tue, 20 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "'쉬었음' 청년 중 45만명, 취업 원하지 않는다…6년새 16만명↑",
+      "link": "https://www.yna.co.kr/view/AKR20260120076300002",
+      "pubDate": "Tue, 20 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "시스템·시스템옴므, 파리패션위크 15회 연속 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260120068900030",
+      "pubDate": "Tue, 20 Jan 2026 11:52:25 +0900"
+    },
     {
       "title": "주도주 순환매 장세에 쏠림 심화…중소형-대형주 격차 확대",
       "link": "https://www.yna.co.kr/view/AKR20260120080300008",
@@ -82,76 +152,6 @@
       "title": "\"철강 등 제3국 우회덤핑도 철퇴\"…산업부, 업계 대상 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260120063400003",
       "pubDate": "Tue, 20 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "제주시 전국 첫 금 현물거래 계좌 전수조사…체납 지방세 징수",
-      "link": "https://www.yna.co.kr/view/AKR20260120066300056",
-      "pubDate": "Tue, 20 Jan 2026 10:50:22 +0900"
-    },
-    {
-      "title": "강릉시, 민생안정·지역경제 활성화 총력…519억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260120062900062",
-      "pubDate": "Tue, 20 Jan 2026 10:45:45 +0900"
-    },
-    {
-      "title": "부천시, 황희찬 후원금으로 주거 위기 가구 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260120064900065",
-      "pubDate": "Tue, 20 Jan 2026 10:43:06 +0900"
-    },
-    {
-      "title": "인천시, 2031년까지 장봉도∼모도 연도교 건설 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260120064600065",
-      "pubDate": "Tue, 20 Jan 2026 10:41:48 +0900"
-    },
-    {
-      "title": "GS건설, 계약 고객 통합서비스 '마이 자이' 본격 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260120061300003",
-      "pubDate": "Tue, 20 Jan 2026 10:32:34 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260120056600011",
-      "pubDate": "Tue, 20 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "中, '사실상의 기준금리' LPR 8개월 연속 동결",
-      "link": "https://www.yna.co.kr/view/AKR20260120059900083",
-      "pubDate": "Tue, 20 Jan 2026 10:28:28 +0900"
-    },
-    {
-      "title": "인천 송도 땅만 분양받고 개발 뒷전…'토지방치 방지법' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260120057900065",
-      "pubDate": "Tue, 20 Jan 2026 10:23:17 +0900"
-    },
-    {
-      "title": "거동 불편 울주군민에 재택의료 서비스…의사·간호사 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260120054400057",
-      "pubDate": "Tue, 20 Jan 2026 10:17:32 +0900"
-    },
-    {
-      "title": "현대건설, 1.5GW 태양광 전력 공급망 확보…국내 최대규모 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260120052400003",
-      "pubDate": "Tue, 20 Jan 2026 10:16:42 +0900"
-    },
-    {
-      "title": "NH투자, 모든 임원의 가족 계좌 모니터링…\"내부통제 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120056700008",
-      "pubDate": "Tue, 20 Jan 2026 10:16:12 +0900"
-    },
-    {
-      "title": "파주시, '청년도전 지원사업' 참여자 130명 선착순 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260120056100060",
-      "pubDate": "Tue, 20 Jan 2026 10:15:34 +0900"
-    },
-    {
-      "title": "흥국화재, 표적치매치료 'MRI 검사비' 보장 배타적사용권 6개월",
-      "link": "https://www.yna.co.kr/view/AKR20260120057100002",
-      "pubDate": "Tue, 20 Jan 2026 10:15:23 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행 \"개인고객 외국환 예치 증명서 비대면 발급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120053700002",
-      "pubDate": "Tue, 20 Jan 2026 10:14:21 +0900"
     }
   ]
 }
