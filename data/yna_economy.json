@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768924319,
+  "updated_at_unix": 1768926064,
   "items": [
+    {
+      "title": "美장기국채 금리 4개월만에 최고…그린란드 갈등속 日금리↑여파",
+      "link": "https://www.yna.co.kr/view/AKR20260121001300072",
+      "pubDate": "Wed, 21 Jan 2026 00:52:09 +0900"
+    },
     {
       "title": "올해 서울 첫 분양 '드파인 연희' 1순위 청약률 44대 1",
       "link": "https://www.yna.co.kr/view/AKR20260120166400003",
@@ -147,11 +152,6 @@
       "title": "글로벌 투자은행들 \"한국 경제, 'K자형 회복' 상태로 진입\"",
       "link": "https://www.yna.co.kr/view/AKR20260120120700002",
       "pubDate": "Tue, 20 Jan 2026 16:20:12 +0900"
-    },
-    {
-      "title": "'노동자추정제'에 \"자영업자·노동자 부담 커지고 비용 인상\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120115251030",
-      "pubDate": "Tue, 20 Jan 2026 16:20:03 +0900"
     }
   ]
 }
