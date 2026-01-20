@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768943553,
+  "updated_at_unix": 1768945210,
   "items": [
+    {
+      "title": "[팩트체크] \"뉴스서 본 금가격이 아니네\"…살 때와 팔 때 1돈당 16만원차",
+      "link": "https://www.yna.co.kr/view/AKR20260120032700518",
+      "pubDate": "Wed, 21 Jan 2026 06:30:01 +0900"
+    },
     {
       "title": "파주 청년에 월세 연 최대 120만원 지원…상반기 60명 모집",
       "link": "https://www.yna.co.kr/view/AKR20260120132100060",
@@ -147,11 +152,6 @@
       "title": "농식품부, 설 성수품 수급 점검…\"채소·과일 공급 안정적\"",
       "link": "https://www.yna.co.kr/view/AKR20260120140900030",
       "pubDate": "Tue, 20 Jan 2026 17:10:01 +0900"
-    },
-    {
-      "title": "다보링크, 10억원 유상증자…김길한 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260120140100008",
-      "pubDate": "Tue, 20 Jan 2026 17:06:13 +0900"
     }
   ]
 }
