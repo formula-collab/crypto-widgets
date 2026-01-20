@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768892308,
+  "updated_at_unix": 1768893955,
   "items": [
+    {
+      "title": "글로벌 투자은행들 \"한국 경제, 'K자형 회복' 상태로 진입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120120700002",
+      "pubDate": "Tue, 20 Jan 2026 16:20:12 +0900"
+    },
+    {
+      "title": "'노동자추정제'에 \"자영업자·노동자 부담 커지고 비용 인상\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120115251030",
+      "pubDate": "Tue, 20 Jan 2026 16:20:03 +0900"
+    },
+    {
+      "title": "환율 장중 1,480원 턱 밑까지 상승…사흘째 오름세",
+      "link": "https://www.yna.co.kr/view/AKR20260120124000002",
+      "pubDate": "Tue, 20 Jan 2026 16:17:54 +0900"
+    },
+    {
+      "title": "전남 김치, 미국 시장 본격 공략 \"전략 산업으로 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120129000054",
+      "pubDate": "Tue, 20 Jan 2026 16:16:41 +0900"
+    },
+    {
+      "title": "포항 영일대해수욕장 인근에 지역 첫 특급호텔 건립 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260120127100053",
+      "pubDate": "Tue, 20 Jan 2026 16:15:38 +0900"
+    },
+    {
+      "title": "주도주 순환매 장세에 '쏠림' 심화…중소형과 대형주 격차 커져(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120080351008",
+      "pubDate": "Tue, 20 Jan 2026 16:12:15 +0900"
+    },
+    {
+      "title": "코스피, 13일만에 반락 4,880대 마감…코스닥은 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120126500008",
+      "pubDate": "Tue, 20 Jan 2026 16:08:52 +0900"
+    },
+    {
+      "title": "국민참여펀드 40% 소득공제…서학개미 1분기 복귀시 양도세 0원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260120035951002",
+      "pubDate": "Tue, 20 Jan 2026 16:07:22 +0900"
+    },
+    {
+      "title": "모티프 이어 트릴리온랩스도 독자AI 패자부활전 도전한다(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260120031752017",
+      "pubDate": "Tue, 20 Jan 2026 16:03:56 +0900"
+    },
+    {
+      "title": "중기부, 모태펀드 1조6천억원 출자…\"AI·딥테크유니콘 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120060000030",
+      "pubDate": "Tue, 20 Jan 2026 16:00:01 +0900"
+    },
+    {
+      "title": "[테크스냅] 인텔리안테크, 우주항공청 '우주신기술' 2관왕",
+      "link": "https://www.yna.co.kr/view/AKR20260120123200017",
+      "pubDate": "Tue, 20 Jan 2026 15:52:47 +0900"
+    },
+    {
+      "title": "[AI픽] 국가AI전략위·방송협회 \"K-AI와 K-콘텐츠 상생에 협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260120118500017",
+      "pubDate": "Tue, 20 Jan 2026 15:52:17 +0900"
+    },
+    {
+      "title": "국힘 조은희, 재건축 일반분양자 부정청약 처벌법 발의",
+      "link": "https://www.yna.co.kr/view/AKR20260120121100001",
+      "pubDate": "Tue, 20 Jan 2026 15:51:58 +0900"
+    },
     {
       "title": "李대통령, 경사노위 김지형 신임 위원장에 임명장 수여",
       "link": "https://www.yna.co.kr/view/AKR20260120120600001",
@@ -87,71 +152,6 @@
       "title": "수입협회, 겨울철 직구 상품 안전성 검사…12% 부적합 판정",
       "link": "https://www.yna.co.kr/view/AKR20260120111500003",
       "pubDate": "Tue, 20 Jan 2026 15:10:09 +0900"
-    },
-    {
-      "title": "[게시판] 예보, 창립 30주년 기념 대국민 공모전 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260120112200002",
-      "pubDate": "Tue, 20 Jan 2026 15:09:25 +0900"
-    },
-    {
-      "title": "서울시 신년업무보고 시작…\"쾌속 주택공급·강북 활성화 집중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260119154100004",
-      "pubDate": "Tue, 20 Jan 2026 15:00:03 +0900"
-    },
-    {
-      "title": "이찬진 \"신뢰훼손 사모펀드 공적 개입 불가피…핀셋 검사할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120063500002",
-      "pubDate": "Tue, 20 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "삼양그룹, 고 김상하 명예회장 5주기 추도식 거행",
-      "link": "https://www.yna.co.kr/view/AKR20260120106800030",
-      "pubDate": "Tue, 20 Jan 2026 14:52:41 +0900"
-    },
-    {
-      "title": "서대문구, 상반기 '재개발·재건축 정비사업 아카데미' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260120106900004",
-      "pubDate": "Tue, 20 Jan 2026 14:51:32 +0900"
-    },
-    {
-      "title": "식약처 \"애경 2080 수입 치약 87%서 금지 성분 검출\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120100751017",
-      "pubDate": "Tue, 20 Jan 2026 14:50:27 +0900"
-    },
-    {
-      "title": "알리 셀러계정 뚫렸다…해커가 계좌변경, 정산금 86억원 가로채(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260120082351030",
-      "pubDate": "Tue, 20 Jan 2026 14:47:55 +0900"
-    },
-    {
-      "title": "트램·공공콘텐츠로 부산항 북항재개발사업 활성화 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260120105900051",
-      "pubDate": "Tue, 20 Jan 2026 14:45:06 +0900"
-    },
-    {
-      "title": "시민단체, 취임 1년 맞은 트럼프에 \"유죄 선고\" 퍼포먼스",
-      "link": "https://www.yna.co.kr/view/AKR20260120103400004",
-      "pubDate": "Tue, 20 Jan 2026 14:43:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260120099000011",
-      "pubDate": "Tue, 20 Jan 2026 14:30:00 +0900"
-    },
-    {
-      "title": "식약처 \"애경 2080 수입 치약 87%서 금지 성분 검출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120100700017",
-      "pubDate": "Tue, 20 Jan 2026 14:22:54 +0900"
-    },
-    {
-      "title": "동원산업 \"복수 M&A 검토…스타키스트 매각 결정된 바 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120097400030",
-      "pubDate": "Tue, 20 Jan 2026 14:10:58 +0900"
-    },
-    {
-      "title": "[게시판] 무역협회, 수출 中企·스타트업에 'CES 2026' 동향 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260120066500003",
-      "pubDate": "Tue, 20 Jan 2026 14:00:15 +0900"
     }
   ]
 }
