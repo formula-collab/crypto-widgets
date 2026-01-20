@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768941446,
+  "updated_at_unix": 1768943553,
   "items": [
+    {
+      "title": "파주 청년에 월세 연 최대 120만원 지원…상반기 60명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260120132100060",
+      "pubDate": "Wed, 21 Jan 2026 06:02:09 +0900"
+    },
+    {
+      "title": "작년 HUG가 보증한 법인 임대보증금 사고·대위변제액 사상 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260120151300003",
+      "pubDate": "Wed, 21 Jan 2026 06:01:00 +0900"
+    },
+    {
+      "title": "롯데하이마트 웨딩페어 프로모션 강화…연중 최대 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260120138600030",
+      "pubDate": "Wed, 21 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "관세 헷갈리면 이 영상부터…산업부 사무관의 美관세 대응 꿀팁",
+      "link": "https://www.yna.co.kr/view/AKR20260120150700003",
+      "pubDate": "Wed, 21 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "OECD 경제단체 60% \"상반기도 침체\"…'급격 위축'은 0.6%로 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260120150400003",
+      "pubDate": "Wed, 21 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 中 경제 성장에 수요 낙관…WTI 1.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260121007800009",
+      "pubDate": "Wed, 21 Jan 2026 05:57:53 +0900"
+    },
+    {
+      "title": "이억원, 내달 저축은행 CEO 첫 간담회…서민·건전성 강조할 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260120143400002",
+      "pubDate": "Wed, 21 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "달러-원, 위험회피에 1,480원 근접 후 뒷걸음질…1,476.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260121003400002",
@@ -117,41 +152,6 @@
       "title": "다보링크, 10억원 유상증자…김길한 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260120140100008",
       "pubDate": "Tue, 20 Jan 2026 17:06:13 +0900"
-    },
-    {
-      "title": "검찰, 바이오디젤 제조사 5곳 압수수색…가격 담합 의혹",
-      "link": "https://www.yna.co.kr/view/AKR20260120115500004",
-      "pubDate": "Tue, 20 Jan 2026 17:03:39 +0900"
-    },
-    {
-      "title": "스틱인베 도용환 회장, 지분 11% 매각…최대주주 美펀드로 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260120139200008",
-      "pubDate": "Tue, 20 Jan 2026 17:02:21 +0900"
-    },
-    {
-      "title": "사고로 중단된 '반얀트리 부산 리조트' 1년만에 정상화 수순",
-      "link": "https://www.yna.co.kr/view/AKR20260120120300051",
-      "pubDate": "Tue, 20 Jan 2026 17:00:01 +0900"
-    },
-    {
-      "title": "전남 전문건설협회 \"건설산업 불공정 경쟁체제 정상화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120137200054",
-      "pubDate": "Tue, 20 Jan 2026 16:54:35 +0900"
-    },
-    {
-      "title": "인천공항 면세점 입찰 롯데·신세계·현대 3파전…신라는 불참",
-      "link": "https://www.yna.co.kr/view/AKR20260120135600030",
-      "pubDate": "Tue, 20 Jan 2026 16:46:18 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.191%",
-      "link": "https://www.yna.co.kr/view/AKR20260120135500008",
-      "pubDate": "Tue, 20 Jan 2026 16:40:36 +0900"
-    },
-    {
-      "title": "김정관 \"美핵심광물 공급망 논의, 韓산업에 광범위한 영향 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260120127800003",
-      "pubDate": "Tue, 20 Jan 2026 16:30:00 +0900"
     }
   ]
 }
