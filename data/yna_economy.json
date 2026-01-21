@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769037333,
+  "updated_at_unix": 1769039054,
   "items": [
+    {
+      "title": "KB증권 \"대한전선, 올해 실적 성장 원년…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122028400008",
+      "pubDate": "Thu, 22 Jan 2026 08:35:06 +0900"
+    },
+    {
+      "title": "한투증권 \"환율 안정 시 크레딧 연초효과 이연돼 나타날 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122027400008",
+      "pubDate": "Thu, 22 Jan 2026 08:33:08 +0900"
+    },
+    {
+      "title": "인천시, 올해 '살기 좋은 어촌' 조성에 260억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260122025300065",
+      "pubDate": "Thu, 22 Jan 2026 08:31:00 +0900"
+    },
+    {
+      "title": "GS샵, 내달 11일까지 '판타지 설날' 행사…프리미엄 선물 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260122027200030",
+      "pubDate": "Thu, 22 Jan 2026 08:28:27 +0900"
+    },
+    {
+      "title": "\"반도체 수출호조, 원화 약세 심리 약화 일조…양극화는 아쉬워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122025700008",
+      "pubDate": "Thu, 22 Jan 2026 08:28:21 +0900"
+    },
+    {
+      "title": "CU, 편의점 아침식사족 위한 'get모닝' 김밥·머핀 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260122025100030",
+      "pubDate": "Thu, 22 Jan 2026 08:13:57 +0900"
+    },
     {
       "title": "작년 韓경제 성장률 1% 턱걸이…건설투자 부진 등에 4분기 -0.3%",
       "link": "https://www.yna.co.kr/view/AKR20260122020900002",
@@ -122,36 +152,6 @@
       "title": "다원시스, 410억8천만원 유상증자…엔지니어링공제조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260121162100008",
       "pubDate": "Wed, 21 Jan 2026 18:11:51 +0900"
-    },
-    {
-      "title": "\"외국인 계절근로자 선택 아닌 필수\"…강원도, 정책 한층 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260121160200062",
-      "pubDate": "Wed, 21 Jan 2026 18:06:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260121155600011",
-      "pubDate": "Wed, 21 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "이니텍 \"자회사 이니넥스트 주식 175억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121158800008",
-      "pubDate": "Wed, 21 Jan 2026 17:47:24 +0900"
-    },
-    {
-      "title": "알래스카 가스관사업 韓 참여 못박은 트럼프…압박으로 작용하나",
-      "link": "https://www.yna.co.kr/view/AKR20260121157700003",
-      "pubDate": "Wed, 21 Jan 2026 17:43:28 +0900"
-    },
-    {
-      "title": "전남 '신안천사김', 해수부 산지거점유통센터 공모 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260121156800054",
-      "pubDate": "Wed, 21 Jan 2026 17:35:32 +0900"
-    },
-    {
-      "title": "증선위, 공개매수 정보로 3.7억원 챙긴 NH투자 직원 檢고발(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260121146451002",
-      "pubDate": "Wed, 21 Jan 2026 17:12:51 +0900"
     }
   ]
 }
