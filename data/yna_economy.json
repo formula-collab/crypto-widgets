@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769028755,
+  "updated_at_unix": 1769030355,
   "items": [
+    {
+      "title": "[서미숙의 집수다] 혼란한 부동산 세제…'1주택=실수요자' 원칙 흔들리나",
+      "link": "https://www.yna.co.kr/view/AKR20260121163800003",
+      "pubDate": "Thu, 22 Jan 2026 06:01:00 +0900"
+    },
+    {
+      "title": "올해부터 '수급 조절용 벼' 사업…평시 가공용, 비상시 밥쌀로",
+      "link": "https://www.yna.co.kr/view/AKR20260121151400030",
+      "pubDate": "Thu, 22 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"마블링·두께까지 취향대로\"…롯데百, 한우선물 세분화",
+      "link": "https://www.yna.co.kr/view/AKR20260121150300030",
+      "pubDate": "Thu, 22 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "국민 55% \"올해 소비 늘릴 것\"…최대 리스크는 '고환율·고물가'",
+      "link": "https://www.yna.co.kr/view/AKR20260121158600003",
+      "pubDate": "Thu, 22 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "월마트도 눈독 들인 K-뷰티…고위급 구매단 12명 대거 방한",
+      "link": "https://www.yna.co.kr/view/AKR20260121174300003",
+      "pubDate": "Thu, 22 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 그린란드 문제 대화로 풀겠다는 트럼프…WTI 0.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260122009400009",
+      "pubDate": "Thu, 22 Jan 2026 05:57:07 +0900"
+    },
+    {
+      "title": "4대 금융, 다음 주부터 실적시즌…사상 최대 순익 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260121158500002",
+      "pubDate": "Thu, 22 Jan 2026 05:55:00 +0900"
+    },
+    {
+      "title": "로또 당첨금 눈높이 1년새 껑충?…\"29억→52억원은 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121143600002",
+      "pubDate": "Thu, 22 Jan 2026 05:53:00 +0900"
+    },
+    {
+      "title": "'서학개미' 양도세 신고 50만명 돌파…1인당 차익 2천800만원",
+      "link": "https://www.yna.co.kr/view/AKR20260121173700002",
+      "pubDate": "Thu, 22 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "美대법원 '연준 이사 해임' 공개변론…\"트럼프 패소 유력\" 관측(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260122003251071",
@@ -107,51 +152,6 @@
       "title": "홈플러스 \"일반노조 포함해 직원 87% 회생계획에 동의\"",
       "link": "https://www.yna.co.kr/view/AKR20260121148900030",
       "pubDate": "Wed, 21 Jan 2026 16:54:41 +0900"
-    },
-    {
-      "title": "고환율 '한두 달' 새 진정?…이대통령 '1,400원' 콕 집은 배경은",
-      "link": "https://www.yna.co.kr/view/AKR20260121141700002",
-      "pubDate": "Wed, 21 Jan 2026 16:48:42 +0900"
-    },
-    {
-      "title": "증선위, 공개매수 정보로 3.7억원 챙긴 NH투자 직원 檢고발",
-      "link": "https://www.yna.co.kr/view/AKR20260121146400002",
-      "pubDate": "Wed, 21 Jan 2026 16:47:44 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.138%",
-      "link": "https://www.yna.co.kr/view/AKR20260121147100008",
-      "pubDate": "Wed, 21 Jan 2026 16:41:25 +0900"
-    },
-    {
-      "title": "환율, 李대통령 '구두개입'에 나흘 만에 하락…아직 1,470원대",
-      "link": "https://www.yna.co.kr/view/AKR20260121138800002",
-      "pubDate": "Wed, 21 Jan 2026 16:26:19 +0900"
-    },
-    {
-      "title": "[대전소식] 농협대전본부, 대국민 신뢰 회복 위한 자정 결의",
-      "link": "https://www.yna.co.kr/view/AKR20260121142700063",
-      "pubDate": "Wed, 21 Jan 2026 16:25:55 +0900"
-    },
-    {
-      "title": "복지부, 첨단재생의료 기본계획 채비…바이오 기업인 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260121141200530",
-      "pubDate": "Wed, 21 Jan 2026 16:25:15 +0900"
-    },
-    {
-      "title": "[인사] 한국산업은행",
-      "link": "https://www.yna.co.kr/view/AKR20260121143200002",
-      "pubDate": "Wed, 21 Jan 2026 16:22:04 +0900"
-    },
-    {
-      "title": "소주 도수 계속 낮아진다…롯데칠성 '새로' 16도→15.7도",
-      "link": "https://www.yna.co.kr/view/AKR20260121140500030",
-      "pubDate": "Wed, 21 Jan 2026 16:20:53 +0900"
-    },
-    {
-      "title": "포항 남·북구 연결 해오름대교 30일 개통…5년 공사끝 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260121141400053",
-      "pubDate": "Wed, 21 Jan 2026 16:16:12 +0900"
     }
   ]
 }
