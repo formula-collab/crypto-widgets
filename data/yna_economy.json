@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769033649,
+  "updated_at_unix": 1769035748,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260122017000011",
+      "pubDate": "Thu, 22 Jan 2026 07:30:01 +0900"
+    },
+    {
+      "title": "목동 11단지 재건축 사업시행자에 한국자산신탁",
+      "link": "https://www.yna.co.kr/view/AKR20260122016800004",
+      "pubDate": "Thu, 22 Jan 2026 07:27:46 +0900"
+    },
     {
       "title": "국채, 日·추경 재료로 냉온탕…당분간 경계감 계속될듯",
       "link": "https://www.yna.co.kr/view/AKR20260121163000008",
@@ -142,16 +152,6 @@
       "title": "李대통령 추경 진화·환율 언급에 국고채 금리 일제히 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260121147151008",
       "pubDate": "Wed, 21 Jan 2026 17:11:33 +0900"
-    },
-    {
-      "title": "농식품부 장관, 전국 도 농업기술원장 간담회…\"현장 연구 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121052500030",
-      "pubDate": "Wed, 21 Jan 2026 17:00:03 +0900"
-    },
-    {
-      "title": "국세청장 \"수출 중기 법인세 납기 3개월 연장·조사 1년 유예\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121075900002",
-      "pubDate": "Wed, 21 Jan 2026 17:00:02 +0900"
     }
   ]
 }
