@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768971588,
+  "updated_at_unix": 1768973409,
   "items": [
+    {
+      "title": "한은·네이버, 세계 중앙은행 첫 '자체 AI' 구축(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260121039151002",
+      "pubDate": "Wed, 21 Jan 2026 14:18:27 +0900"
+    },
+    {
+      "title": "'어르신 복합 복지시설' 남원시 노인복지회관 6월 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260121109800055",
+      "pubDate": "Wed, 21 Jan 2026 14:13:19 +0900"
+    },
+    {
+      "title": "[게시판] 쿠시먼앤드웨이크필드, '브랜딩 솔루션 서비스' 공식 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260121110100003",
+      "pubDate": "Wed, 21 Jan 2026 14:05:36 +0900"
+    },
+    {
+      "title": "HDC현산, 남부내륙철도 3공구 노반신설 기타공사 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260121107800003",
+      "pubDate": "Wed, 21 Jan 2026 14:03:25 +0900"
+    },
+    {
+      "title": "한국잡월드 '미래직업관' 개관…반도체개발 등 18개 직업 체험",
+      "link": "https://www.yna.co.kr/view/AKR20260121050600530",
+      "pubDate": "Wed, 21 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "작년 국경서 마약 3.3t 적발, 역대 최대…여행자·대형밀수 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260121082700002",
+      "pubDate": "Wed, 21 Jan 2026 14:00:03 +0900"
+    },
     {
       "title": "마스턴운용, 여주 물류센터 개발사업 자산관리회사로 선정",
       "link": "https://www.yna.co.kr/view/AKR20260121103300008",
@@ -122,36 +152,6 @@
       "title": "[게시판] 코트라, 'CES AI 혁신 플라자'…\"CES 성과 수출로 연결\"",
       "link": "https://www.yna.co.kr/view/AKR20260121073200003",
       "pubDate": "Wed, 21 Jan 2026 11:13:47 +0900"
-    },
-    {
-      "title": "미래에셋증권, 고객맞춤형랩 잔고 6조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260121077000008",
-      "pubDate": "Wed, 21 Jan 2026 11:13:21 +0900"
-    },
-    {
-      "title": "코스피, 장중 4,890대 보합세…코스닥 낙폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260121076600008",
-      "pubDate": "Wed, 21 Jan 2026 11:12:24 +0900"
-    },
-    {
-      "title": "NH투자, 30억원 이상 고액 자산가 고객 6천명 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260121071500008",
-      "pubDate": "Wed, 21 Jan 2026 11:03:11 +0900"
-    },
-    {
-      "title": "'TCL-소니' 동맹에 TV 시장 지각변동…삼성·LG 입지 위협할까",
-      "link": "https://www.yna.co.kr/view/AKR20260121068100003",
-      "pubDate": "Wed, 21 Jan 2026 11:01:28 +0900"
-    },
-    {
-      "title": "[게시판] 해수부, 부산·대전서 어촌뉴딜3.0 사업 공모 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260121042000030",
-      "pubDate": "Wed, 21 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "식물 신품종보호 출원품종 1만4천건 넘어…기후변화 대응 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260121049900030",
-      "pubDate": "Wed, 21 Jan 2026 11:00:02 +0900"
     }
   ]
 }
