@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768978721,
+  "updated_at_unix": 1768980451,
   "items": [
+    {
+      "title": "소주 도수 계속 낮아진다…롯데칠성 '새로' 16도→15.7도",
+      "link": "https://www.yna.co.kr/view/AKR20260121140500030",
+      "pubDate": "Wed, 21 Jan 2026 16:20:53 +0900"
+    },
+    {
+      "title": "포항 남·북구 연결 해오름대교 30일 개통…5년 공사끝 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260121141400053",
+      "pubDate": "Wed, 21 Jan 2026 16:16:12 +0900"
+    },
+    {
+      "title": "코스피, 미국발 삭풍에도 올라 4,900대 회복…코스닥은 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260121140000008",
+      "pubDate": "Wed, 21 Jan 2026 16:15:48 +0900"
+    },
+    {
+      "title": "李, 부동산 세제개편 신중모드…다주택자 규제 필요성은 거듭 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260121119100003",
+      "pubDate": "Wed, 21 Jan 2026 16:12:52 +0900"
+    },
+    {
+      "title": "5호선 검단·김포 연장 예타 결과 언제쯤…\"발표 지연 꼼수\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121138300065",
+      "pubDate": "Wed, 21 Jan 2026 16:01:12 +0900"
+    },
+    {
+      "title": "핵융합 개발에 1천124억원 투입…정부, 투자 2배 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260121075300017",
+      "pubDate": "Wed, 21 Jan 2026 16:00:02 +0900"
+    },
+    {
+      "title": "기획처, 양극화 대응 릴레이 간담회…지역 균형발전 주제",
+      "link": "https://www.yna.co.kr/view/AKR20260121129100002",
+      "pubDate": "Wed, 21 Jan 2026 16:00:01 +0900"
+    },
     {
       "title": "작년 공인중개사 신규 개업 1998년 IMF 외환위기 이후 최소",
       "link": "https://www.yna.co.kr/view/AKR20260121134200003",
@@ -117,41 +152,6 @@
       "title": "한국잡월드 '미래직업관' 개관…반도체개발 등 18개 직업 체험",
       "link": "https://www.yna.co.kr/view/AKR20260121050600530",
       "pubDate": "Wed, 21 Jan 2026 14:00:05 +0900"
-    },
-    {
-      "title": "작년 국경서 마약 3.3t 적발, 역대 최대…여행자·대형밀수 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260121082700002",
-      "pubDate": "Wed, 21 Jan 2026 14:00:03 +0900"
-    },
-    {
-      "title": "마스턴운용, 여주 물류센터 개발사업 자산관리회사로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260121103300008",
-      "pubDate": "Wed, 21 Jan 2026 13:39:59 +0900"
-    },
-    {
-      "title": "\"미래 직업 미리 만나요\" 경남진로교육원, 체험 프로그램 다채",
-      "link": "https://www.yna.co.kr/view/AKR20260121097400052",
-      "pubDate": "Wed, 21 Jan 2026 13:34:56 +0900"
-    },
-    {
-      "title": "한은, 네이버와 자체 AI 구축…조사연구에 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260121039100002",
-      "pubDate": "Wed, 21 Jan 2026 13:30:02 +0900"
-    },
-    {
-      "title": "李대통령, 주택공급 '현실적 수치' 언급…어디에 얼마나 짓나",
-      "link": "https://www.yna.co.kr/view/AKR20260121091200003",
-      "pubDate": "Wed, 21 Jan 2026 12:31:55 +0900"
-    },
-    {
-      "title": "\"실업급여 나오나요\" 3초내 답변…'AI노동법상담' 이용 11.7만건",
-      "link": "https://www.yna.co.kr/view/AKR20260121034900530",
-      "pubDate": "Wed, 21 Jan 2026 12:00:13 +0900"
-    },
-    {
-      "title": "지난해 발견된 위조지폐 98장…33% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260121043600002",
-      "pubDate": "Wed, 21 Jan 2026 12:00:12 +0900"
     }
   ]
 }
