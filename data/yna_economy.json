@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768964112,
+  "updated_at_unix": 1768968097,
   "items": [
+    {
+      "title": "李대통령, 주택공급 '현실적 수치' 언급…어디에 얼마나 짓나",
+      "link": "https://www.yna.co.kr/view/AKR20260121091200003",
+      "pubDate": "Wed, 21 Jan 2026 12:31:55 +0900"
+    },
+    {
+      "title": "\"실업급여 나오나요\" 3초내 답변…'AI노동법상담' 이용 11.7만건",
+      "link": "https://www.yna.co.kr/view/AKR20260121034900530",
+      "pubDate": "Wed, 21 Jan 2026 12:00:13 +0900"
+    },
+    {
+      "title": "지난해 발견된 위조지폐 98장…33% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260121043600002",
+      "pubDate": "Wed, 21 Jan 2026 12:00:12 +0900"
+    },
+    {
+      "title": "국내 방송미디어 장비·서비스 업계 해외 판로 개척 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260121053800017",
+      "pubDate": "Wed, 21 Jan 2026 12:00:11 +0900"
+    },
+    {
+      "title": "\"허위 소득신고 멈춰\"…국세청, '명의도용 안심차단' 개통",
+      "link": "https://www.yna.co.kr/view/AKR20260121055600002",
+      "pubDate": "Wed, 21 Jan 2026 12:00:11 +0900"
+    },
+    {
+      "title": "고물가에 수돗물 원가·요금 모두 올라…요금 현실화율 74%",
+      "link": "https://www.yna.co.kr/view/AKR20260121068300530",
+      "pubDate": "Wed, 21 Jan 2026 12:00:09 +0900"
+    },
+    {
+      "title": "작년 농가 판매가격 2.5% 올라…구입 가격도 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260121068600002",
+      "pubDate": "Wed, 21 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "지방 기업·개인사업자 대출 예대율 완화…여력 최대 21조↑",
+      "link": "https://www.yna.co.kr/view/AKR20260121077800002",
+      "pubDate": "Wed, 21 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "\"올해 유통 산업 핵심은 '연결'…고객·AI·경험이 경쟁력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121047500003",
+      "pubDate": "Wed, 21 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "4대은행 LTV담합 첫 제재…공정위 \"2년간 이자수익 6조8천억원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121085500002",
+      "pubDate": "Wed, 21 Jan 2026 12:00:00 +0900"
+    },
     {
       "title": "'미리 보는 올 가을겨울 K패션'…LF 헤지스, 수주회 가보니",
       "link": "https://www.yna.co.kr/view/AKR20260121086800030",
@@ -102,56 +152,6 @@
       "title": "경찰, 신분당선 연장구간 사망사고 수사 중대재해팀으로 이관",
       "link": "https://www.yna.co.kr/view/AKR20260121071400061",
       "pubDate": "Wed, 21 Jan 2026 10:59:25 +0900"
-    },
-    {
-      "title": "이대통령 '환율 하락' 언급에…1,460원대 후반으로 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260121045151002",
-      "pubDate": "Wed, 21 Jan 2026 10:56:36 +0900"
-    },
-    {
-      "title": "타임폴리오운용, ETF 브랜드명 TIMEFOLIO→TIME 변경(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260121043351008",
-      "pubDate": "Wed, 21 Jan 2026 10:53:59 +0900"
-    },
-    {
-      "title": "스마일게이트 퓨처랩, 서울시립과학관과 청소년 창의교육 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260121070200017",
-      "pubDate": "Wed, 21 Jan 2026 10:53:44 +0900"
-    },
-    {
-      "title": "[게시판] iM증권, 절세상품 및 퇴직연금 거래 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260121069500008",
-      "pubDate": "Wed, 21 Jan 2026 10:52:20 +0900"
-    },
-    {
-      "title": "교보증권, '프리미어골드 대치센터' 오픈… VIP 자산관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260121067600008",
-      "pubDate": "Wed, 21 Jan 2026 10:51:46 +0900"
-    },
-    {
-      "title": "[특징주] 李대통령 '생리대 무상 공급 검토' 발언에 관련주 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260121067100008",
-      "pubDate": "Wed, 21 Jan 2026 10:49:28 +0900"
-    },
-    {
-      "title": "전주 덕진공원 1단계 기반 정비 완료…중장기 사업 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260121067500055",
-      "pubDate": "Wed, 21 Jan 2026 10:47:24 +0900"
-    },
-    {
-      "title": "하나증권, 신규 계좌 고객에 국내주식 거래 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260121065500008",
-      "pubDate": "Wed, 21 Jan 2026 10:46:54 +0900"
-    },
-    {
-      "title": "노무라 \"삼성·하이닉스, 2030년까지 美투자 100∼120조 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121064600008",
-      "pubDate": "Wed, 21 Jan 2026 10:46:01 +0900"
-    },
-    {
-      "title": "의정부시, 신축 아파트 '공정별 품질점검' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260121068000060",
-      "pubDate": "Wed, 21 Jan 2026 10:45:32 +0900"
     }
   ]
 }
