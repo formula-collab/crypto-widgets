@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768983468,
+  "updated_at_unix": 1768985571,
   "items": [
+    {
+      "title": "알래스카 가스관사업 韓 참여 못박은 트럼프…압박으로 작용하나",
+      "link": "https://www.yna.co.kr/view/AKR20260121157700003",
+      "pubDate": "Wed, 21 Jan 2026 17:43:28 +0900"
+    },
+    {
+      "title": "전남 '신안천사김', 해수부 산지거점유통센터 공모 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260121156800054",
+      "pubDate": "Wed, 21 Jan 2026 17:35:32 +0900"
+    },
     {
       "title": "증선위, 공개매수 정보로 3.7억원 챙긴 NH투자 직원 檢고발(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260121146451002",
@@ -142,16 +152,6 @@
       "title": "[외환] 원/달러 환율 6.8원 내린 1,471.3원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260121132100002",
       "pubDate": "Wed, 21 Jan 2026 15:30:34 +0900"
-    },
-    {
-      "title": "굿네이버스, 유산기부 활성화 토론회…\"공익적 가치 실현돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121130200371",
-      "pubDate": "Wed, 21 Jan 2026 15:23:33 +0900"
-    },
-    {
-      "title": "'상습 정체' 양평 양근대교 4차로 확장공사 내달 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260121124000061",
-      "pubDate": "Wed, 21 Jan 2026 15:14:19 +0900"
     }
   ]
 }
