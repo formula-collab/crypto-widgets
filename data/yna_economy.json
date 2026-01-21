@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769032115,
+  "updated_at_unix": 1769033649,
   "items": [
+    {
+      "title": "국채, 日·추경 재료로 냉온탕…당분간 경계감 계속될듯",
+      "link": "https://www.yna.co.kr/view/AKR20260121163000008",
+      "pubDate": "Thu, 22 Jan 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 매켄지의 용기로…2억 한류 팬과 '디지털 의병' 되자",
+      "link": "https://www.yna.co.kr/view/AKR20260105058600898",
+      "pubDate": "Thu, 22 Jan 2026 07:00:04 +0900"
+    },
     {
       "title": "[서미숙의 집수다] 혼란한 부동산 세제…'1주택=실수요자' 원칙 흔들리나",
       "link": "https://www.yna.co.kr/view/AKR20260121163800003",
@@ -142,16 +152,6 @@
       "title": "국세청장 \"수출 중기 법인세 납기 3개월 연장·조사 1년 유예\"",
       "link": "https://www.yna.co.kr/view/AKR20260121075900002",
       "pubDate": "Wed, 21 Jan 2026 17:00:02 +0900"
-    },
-    {
-      "title": "한은 \"대전 R&D 공공기관에 집중…민간기업으로 성과 확산해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121113200063",
-      "pubDate": "Wed, 21 Jan 2026 17:00:02 +0900"
-    },
-    {
-      "title": "홈플러스 \"일반노조 포함해 직원 87% 회생계획에 동의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121148900030",
-      "pubDate": "Wed, 21 Jan 2026 16:54:41 +0900"
     }
   ]
 }
