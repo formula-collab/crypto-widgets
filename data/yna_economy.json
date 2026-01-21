@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768995782,
+  "updated_at_unix": 1768998282,
   "items": [
+    {
+      "title": "블룸버그 \"韓, 환율압박으로 올해 200억弗 대미투자 연기할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121174500009",
+      "pubDate": "Wed, 21 Jan 2026 21:08:59 +0900"
+    },
     {
       "title": "靑안보실, 민관 경제안보 실무회의 신설…\"정부·민간 원팀협력\"",
       "link": "https://www.yna.co.kr/view/AKR20260121161800001",
@@ -147,11 +152,6 @@
       "title": "작년 공인중개사 신규 개업 1998년 IMF 외환위기 이후 최소",
       "link": "https://www.yna.co.kr/view/AKR20260121134200003",
       "pubDate": "Wed, 21 Jan 2026 15:51:05 +0900"
-    },
-    {
-      "title": "광주 제조업 인공지능 전환 추진비율 20%…\"초기비용 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121136000054",
-      "pubDate": "Wed, 21 Jan 2026 15:47:17 +0900"
     }
   ]
 }
