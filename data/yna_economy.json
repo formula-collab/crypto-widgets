@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769035748,
+  "updated_at_unix": 1769037333,
   "items": [
+    {
+      "title": "작년 韓경제 성장률 1% 턱걸이…건설투자 부진 등에 4분기 -0.3%",
+      "link": "https://www.yna.co.kr/view/AKR20260122020900002",
+      "pubDate": "Thu, 22 Jan 2026 08:00:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 미국발 훈풍 타고 '오천피' 한발 더 다가설 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260122021000008",
+      "pubDate": "Thu, 22 Jan 2026 07:55:25 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260122017000011",
@@ -142,16 +152,6 @@
       "title": "증선위, 공개매수 정보로 3.7억원 챙긴 NH투자 직원 檢고발(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260121146451002",
       "pubDate": "Wed, 21 Jan 2026 17:12:51 +0900"
-    },
-    {
-      "title": "해임 사실 숨기고 용역 약정금 2억원 챙긴 재개발조합장 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20260121101500051",
-      "pubDate": "Wed, 21 Jan 2026 17:12:01 +0900"
-    },
-    {
-      "title": "李대통령 추경 진화·환율 언급에 국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260121147151008",
-      "pubDate": "Wed, 21 Jan 2026 17:11:33 +0900"
     }
   ]
 }
