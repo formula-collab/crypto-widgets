@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769012607,
+  "updated_at_unix": 1769016842,
   "items": [
+    {
+      "title": "달러-원, 야간서 상승폭 확대하며 1,466원 마감…'셀 아메리카' 진정",
+      "link": "https://www.yna.co.kr/view/AKR20260122003600002",
+      "pubDate": "Thu, 22 Jan 2026 02:28:37 +0900"
+    },
+    {
+      "title": "美대법서 '연준이사 해임' 공개변론…'정당한 사유'가 핵심 쟁점",
+      "link": "https://www.yna.co.kr/view/AKR20260122003200071",
+      "pubDate": "Thu, 22 Jan 2026 02:13:37 +0900"
+    },
+    {
+      "title": "JP모건 다이먼 \"카드금리 상한제 경제적 재앙될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122001900072",
+      "pubDate": "Thu, 22 Jan 2026 01:26:37 +0900"
+    },
     {
       "title": "블룸버그 \"韓, 환율압박으로 올해 200억弗 대미투자 연기할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260121174500009",
@@ -137,21 +152,6 @@
       "title": "5호선 검단·김포 연장 예타 결과 언제쯤…\"발표 지연 꼼수\"",
       "link": "https://www.yna.co.kr/view/AKR20260121138300065",
       "pubDate": "Wed, 21 Jan 2026 16:01:12 +0900"
-    },
-    {
-      "title": "핵융합 개발에 1천124억원 투입…정부, 투자 2배 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260121075300017",
-      "pubDate": "Wed, 21 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "기획처, 양극화 대응 릴레이 간담회…지역 균형발전 주제",
-      "link": "https://www.yna.co.kr/view/AKR20260121129100002",
-      "pubDate": "Wed, 21 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "작년 공인중개사 신규 개업 1998년 IMF 외환위기 이후 최소",
-      "link": "https://www.yna.co.kr/view/AKR20260121134200003",
-      "pubDate": "Wed, 21 Jan 2026 15:51:05 +0900"
     }
   ]
 }
