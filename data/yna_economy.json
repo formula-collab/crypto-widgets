@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768987337,
+  "updated_at_unix": 1768989122,
   "items": [
+    {
+      "title": "靑안보실, 민관 경제안보 실무회의 신설…\"정부·민간 원팀협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121161800001",
+      "pubDate": "Wed, 21 Jan 2026 18:15:56 +0900"
+    },
     {
       "title": "다원시스, 410억8천만원 유상증자…엔지니어링공제조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260121162100008",
@@ -147,11 +152,6 @@
       "title": "광주 제조업 인공지능 전환 추진비율 20%…\"초기비용 부담\"",
       "link": "https://www.yna.co.kr/view/AKR20260121136000054",
       "pubDate": "Wed, 21 Jan 2026 15:47:17 +0900"
-    },
-    {
-      "title": "경기도, 전세사기 피해주택 최대 2천만원까지 유지보수비 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260121135200061",
-      "pubDate": "Wed, 21 Jan 2026 15:46:34 +0900"
     }
   ]
 }
