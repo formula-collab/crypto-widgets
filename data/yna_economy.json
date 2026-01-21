@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769024828,
+  "updated_at_unix": 1769026757,
   "items": [
+    {
+      "title": "[AI돋보기] 닻 올린 AI 기본법, 관건은 '현장 안착'",
+      "link": "https://www.yna.co.kr/view/AKR20260121055100017",
+      "pubDate": "Thu, 22 Jan 2026 05:01:02 +0900"
+    },
     {
       "title": "'자율주행이 더 안전' 판단?…美보험사 \"테슬라FSD에 반값 보험료\"",
       "link": "https://www.yna.co.kr/view/AKR20260122005300075",
@@ -147,11 +152,6 @@
       "title": "코스피, 미국발 삭풍에도 올라 4,900대 회복…코스닥은 급락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260121140000008",
       "pubDate": "Wed, 21 Jan 2026 16:15:48 +0900"
-    },
-    {
-      "title": "李, 부동산 세제개편 신중모드…다주택자 규제 필요성은 거듭 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260121119100003",
-      "pubDate": "Wed, 21 Jan 2026 16:12:52 +0900"
     }
   ]
 }
