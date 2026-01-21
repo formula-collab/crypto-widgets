@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1768973409,
+  "updated_at_unix": 1768976460,
   "items": [
+    {
+      "title": "'상습 정체' 양평 양근대교 4차로 확장공사 내달 시작",
+      "link": "https://www.yna.co.kr/view/AKR20260121124000061",
+      "pubDate": "Wed, 21 Jan 2026 15:14:19 +0900"
+    },
+    {
+      "title": "[게시판] 기획처, 중장기 국가발전전략 국민제안 플랫폼 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260121072300002",
+      "pubDate": "Wed, 21 Jan 2026 15:00:02 +0900"
+    },
+    {
+      "title": "크리에이터 미디어 콤플렉스 마곡 시대 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260121102100017",
+      "pubDate": "Wed, 21 Jan 2026 15:00:01 +0900"
+    },
+    {
+      "title": "외환건전성 부담금 한시면제…금융사 '서민금용 출연요율' 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260121123800002",
+      "pubDate": "Wed, 21 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "韓, 인도 산업 인재 양성 위해 'K-마이스터고' 노하우 전수",
+      "link": "https://www.yna.co.kr/view/AKR20260121120600371",
+      "pubDate": "Wed, 21 Jan 2026 14:51:45 +0900"
+    },
+    {
+      "title": "공인회계사 1차 시험 1만4천614명 응시…경쟁률 5.22대 1로 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260121119400002",
+      "pubDate": "Wed, 21 Jan 2026 14:42:39 +0900"
+    },
+    {
+      "title": "광주경총 \"고환율로 제조업·자영업 부담↑…대응 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260121118900054",
+      "pubDate": "Wed, 21 Jan 2026 14:42:07 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 회계사·변호사 전문직 채용 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260121117800002",
+      "pubDate": "Wed, 21 Jan 2026 14:40:14 +0900"
+    },
+    {
+      "title": "[안성소식] 노후 석면 슬레이트 지붕 철거 지원신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260121115700061",
+      "pubDate": "Wed, 21 Jan 2026 14:30:07 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260121114200011",
+      "pubDate": "Wed, 21 Jan 2026 14:30:05 +0900"
+    },
     {
       "title": "한은·네이버, 세계 중앙은행 첫 '자체 AI' 구축(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260121039151002",
@@ -102,56 +152,6 @@
       "title": "'미리 보는 올 가을겨울 K패션'…LF 헤지스, 수주회 가보니",
       "link": "https://www.yna.co.kr/view/AKR20260121086800030",
       "pubDate": "Wed, 21 Jan 2026 11:48:33 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.151%",
-      "link": "https://www.yna.co.kr/view/AKR20260121085800008",
-      "pubDate": "Wed, 21 Jan 2026 11:40:31 +0900"
-    },
-    {
-      "title": "원스톱 수출지원단 간담회…\"수출금융·무역보험·보증 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121082300002",
-      "pubDate": "Wed, 21 Jan 2026 11:39:25 +0900"
-    },
-    {
-      "title": "목포시 김 수출액 역대 최고…\"마른김 4년 연속 전국 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121084900054",
-      "pubDate": "Wed, 21 Jan 2026 11:36:12 +0900"
-    },
-    {
-      "title": "지난달 차보험 손해율 96.1%…2020년 집계 이래 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260121078400002",
-      "pubDate": "Wed, 21 Jan 2026 11:27:44 +0900"
-    },
-    {
-      "title": "강릉시 공무원노조, 면직·명퇴·휴직 급증…제도 개선 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260121079100062",
-      "pubDate": "Wed, 21 Jan 2026 11:25:15 +0900"
-    },
-    {
-      "title": "대신증권, 프로야구단 kt wiz와 스폰서십 계약 5년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260121079800008",
-      "pubDate": "Wed, 21 Jan 2026 11:23:25 +0900"
-    },
-    {
-      "title": "코람코자산운용, 2026년 정기 임원 인사… 섹터 전문화 방점",
-      "link": "https://www.yna.co.kr/view/AKR20260121078800008",
-      "pubDate": "Wed, 21 Jan 2026 11:18:55 +0900"
-    },
-    {
-      "title": "알톤, 20억원 유상증자…나우 M&A 투자펀드 2호에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260121077900008",
-      "pubDate": "Wed, 21 Jan 2026 11:17:12 +0900"
-    },
-    {
-      "title": "서울 고액체납 1천566억원, '38세금징수과'가 쫓는다",
-      "link": "https://www.yna.co.kr/view/AKR20260121064200004",
-      "pubDate": "Wed, 21 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, 'CES AI 혁신 플라자'…\"CES 성과 수출로 연결\"",
-      "link": "https://www.yna.co.kr/view/AKR20260121073200003",
-      "pubDate": "Wed, 21 Jan 2026 11:13:47 +0900"
     }
   ]
 }
