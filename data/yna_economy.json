@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769026757,
+  "updated_at_unix": 1769028755,
   "items": [
+    {
+      "title": "美대법원 '연준 이사 해임' 공개변론…\"트럼프 패소 유력\" 관측(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122003251071",
+      "pubDate": "Thu, 22 Jan 2026 05:32:15 +0900"
+    },
     {
       "title": "[AI돋보기] 닻 올린 AI 기본법, 관건은 '현장 안착'",
       "link": "https://www.yna.co.kr/view/AKR20260121055100017",
@@ -147,11 +152,6 @@
       "title": "포항 남·북구 연결 해오름대교 30일 개통…5년 공사끝 완공",
       "link": "https://www.yna.co.kr/view/AKR20260121141400053",
       "pubDate": "Wed, 21 Jan 2026 16:16:12 +0900"
-    },
-    {
-      "title": "코스피, 미국발 삭풍에도 올라 4,900대 회복…코스닥은 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260121140000008",
-      "pubDate": "Wed, 21 Jan 2026 16:15:48 +0900"
     }
   ]
 }
