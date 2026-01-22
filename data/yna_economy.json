@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769066495,
+  "updated_at_unix": 1769067957,
   "items": [
+    {
+      "title": "충북, 반도체 앞세워 작년 역대 최고 수출실적 기록…338억달러",
+      "link": "https://www.yna.co.kr/view/AKR20260122124300064",
+      "pubDate": "Thu, 22 Jan 2026 16:30:19 +0900"
+    },
+    {
+      "title": "과기부, AI 기본법 지원 데스크 운영…스타트업 현장 설명회도",
+      "link": "https://www.yna.co.kr/view/AKR20260122091200017",
+      "pubDate": "Thu, 22 Jan 2026 16:30:01 +0900"
+    },
+    {
+      "title": "[나주소식] 동신대 일자리플러스센터, 노동부 평가 '우수'",
+      "link": "https://www.yna.co.kr/view/AKR20260122129500054",
+      "pubDate": "Thu, 22 Jan 2026 16:21:45 +0900"
+    },
+    {
+      "title": "[특징주] '불장' 속 뜨거운 이차전지주…삼성SDI 18%대 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122075851008",
+      "pubDate": "Thu, 22 Jan 2026 16:17:26 +0900"
+    },
     {
       "title": "제주 숙박 온라인 거래 80%…'가성비' 선호에 숙박비 지출감소",
       "link": "https://www.yna.co.kr/view/AKR20260122127000056",
@@ -132,26 +152,6 @@
       "title": "올해 근로감독 사업장, 5만→9.2만 확대…위법엔 사법처리 원칙(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260122089151530",
       "pubDate": "Thu, 22 Jan 2026 14:57:53 +0900"
-    },
-    {
-      "title": "NHN 노조 \"5년간 계열사 40% 증발…고용 보장하라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122090351017",
-      "pubDate": "Thu, 22 Jan 2026 14:55:12 +0900"
-    },
-    {
-      "title": "[게시판] 해외건설협회, '융복합 K-City 플랫폼' 사우디·쿠웨이트 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260122095700003",
-      "pubDate": "Thu, 22 Jan 2026 14:51:28 +0900"
-    },
-    {
-      "title": "한수원, 협력 중소기업들과 美 텍사스 찾아 현지시장 진출 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260122083900003",
-      "pubDate": "Thu, 22 Jan 2026 14:50:11 +0900"
-    },
-    {
-      "title": "대우건설, 글로벌 설계사와 한남2구역 재개발 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260122090100003",
-      "pubDate": "Thu, 22 Jan 2026 14:49:49 +0900"
     }
   ]
 }
