@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769058099,
+  "updated_at_unix": 1769060991,
   "items": [
+    {
+      "title": "울진군 \"간선도로망 단절 영덕∼울진∼삼척 고속도 건설해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122108000053",
+      "pubDate": "Thu, 22 Jan 2026 14:43:42 +0900"
+    },
+    {
+      "title": "농식품부, 설 대비 축산물 유통 합동단속…원산지 표시 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260122103900030",
+      "pubDate": "Thu, 22 Jan 2026 14:43:26 +0900"
+    },
+    {
+      "title": "'셀렉스 프로틴 락토프리 플러스' 설 특집 홈쇼핑 방송",
+      "link": "https://www.yna.co.kr/view/AKR20260122101900030",
+      "pubDate": "Thu, 22 Jan 2026 14:42:44 +0900"
+    },
+    {
+      "title": "차은우, '200억 탈세' 의혹에 \"확정 사안 아냐, 적극 소명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122101700005",
+      "pubDate": "Thu, 22 Jan 2026 14:42:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260122102300011",
+      "pubDate": "Thu, 22 Jan 2026 14:30:01 +0900"
+    },
+    {
+      "title": "오산도시공사, 세교터미널부지 개발 본격화…2028년 착공 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260122103500061",
+      "pubDate": "Thu, 22 Jan 2026 14:22:53 +0900"
+    },
+    {
+      "title": "재정정보 공개 확 늘린다…'모두의 재정' 플랫폼 연내 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260122101000002",
+      "pubDate": "Thu, 22 Jan 2026 14:19:00 +0900"
+    },
+    {
+      "title": "광주상의 \"HUG 임대보증제도, 지역 건설 부담 초래\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122103000054",
+      "pubDate": "Thu, 22 Jan 2026 14:18:14 +0900"
+    },
+    {
+      "title": "[코스피 5,000] 배당세 인하도 한몫…정부,'증시 선진화' 주력",
+      "link": "https://www.yna.co.kr/view/AKR20260122085600002",
+      "pubDate": "Thu, 22 Jan 2026 14:15:52 +0900"
+    },
+    {
+      "title": "경찰·노동부, '신분당선 연장구간 사망사고' 합동 감식",
+      "link": "https://www.yna.co.kr/view/AKR20260122100100061",
+      "pubDate": "Thu, 22 Jan 2026 14:09:44 +0900"
+    },
+    {
+      "title": "광주시, 전국 지방소비세 29조 관리…연간 이자수입 100억원",
+      "link": "https://www.yna.co.kr/view/AKR20260122100000054",
+      "pubDate": "Thu, 22 Jan 2026 14:05:27 +0900"
+    },
+    {
+      "title": "김정관 산업장관, 전북 찾아 '5극3특 지역성장' 첫 현장 행보",
+      "link": "https://www.yna.co.kr/view/AKR20260122069900003",
+      "pubDate": "Thu, 22 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "이억원 \"청년에게 기회 줘야…청년미래적금·미소금융 등 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122076500002",
+      "pubDate": "Thu, 22 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "'중소기업 기술탈취 꼼짝마'…범정부 대응단 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260122074600030",
+      "pubDate": "Thu, 22 Jan 2026 14:00:05 +0900"
+    },
+    {
+      "title": "서울 아파트값 상승률 2주째 확대…동작·양천 등 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260122077000003",
+      "pubDate": "Thu, 22 Jan 2026 14:00:04 +0900"
+    },
+    {
+      "title": "올해 근로감독 사업장, 5만→9.2만 확대…위법엔 사법처리 원칙",
+      "link": "https://www.yna.co.kr/view/AKR20260122089100530",
+      "pubDate": "Thu, 22 Jan 2026 14:00:01 +0900"
+    },
+    {
+      "title": "국세청, 철강 중소기업 법인세 3개월 연장…납세담보 면제",
+      "link": "https://www.yna.co.kr/view/AKR20260122090400002",
+      "pubDate": "Thu, 22 Jan 2026 14:00:00 +0900"
+    },
+    {
+      "title": "한투증권, IMA 2호 설정 완료…4영업일 간 7천384억원 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260122098500008",
+      "pubDate": "Thu, 22 Jan 2026 13:59:58 +0900"
+    },
+    {
+      "title": "곽규택 \"부산항 북항 재개발 활성화 용역 부실…예산 낭비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122098100051",
+      "pubDate": "Thu, 22 Jan 2026 13:59:33 +0900"
+    },
     {
       "title": "케스피온 \"엠비티비 주식 21억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260122095100008",
@@ -57,101 +152,6 @@
       "title": "1인당 쌀소비 30년만에 반토막…'K푸드' 열풍에 쌀 식료품 인기",
       "link": "https://www.yna.co.kr/view/AKR20260122061900002",
       "pubDate": "Thu, 22 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "올해 세무사 700명 이상 선발…작년 수준 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260122070800002",
-      "pubDate": "Thu, 22 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "중고생도 '엄카' 대신 가족카드 쓴다…\"분실시 문제 등 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122068000002",
-      "pubDate": "Thu, 22 Jan 2026 12:00:00 +0900"
-    },
-    {
-      "title": "소액연체 다 갚은 292.8만명 '신용사면'…\"대출·카드발급 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122080600002",
-      "pubDate": "Thu, 22 Jan 2026 12:00:00 +0900"
-    },
-    {
-      "title": "HUG 신임 사장 최종 후보에 민주당 최인호 전 의원",
-      "link": "https://www.yna.co.kr/view/AKR20260122082500003",
-      "pubDate": "Thu, 22 Jan 2026 11:59:31 +0900"
-    },
-    {
-      "title": "검찰, 가격담합 의혹 대한제분·사조동아원 대표 구속영장 청구",
-      "link": "https://www.yna.co.kr/view/AKR20260122082100004",
-      "pubDate": "Thu, 22 Jan 2026 11:45:44 +0900"
-    },
-    {
-      "title": "우리은행, 올해 생산적 금융 여신 12조7천억원 공급 방침",
-      "link": "https://www.yna.co.kr/view/AKR20260122081400002",
-      "pubDate": "Thu, 22 Jan 2026 11:41:05 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.135%",
-      "link": "https://www.yna.co.kr/view/AKR20260122081500008",
-      "pubDate": "Thu, 22 Jan 2026 11:40:23 +0900"
-    },
-    {
-      "title": "[코스피 5,000] K뷰티·푸드도 한때 선전…환율 등으로 상승장 소외",
-      "link": "https://www.yna.co.kr/view/AKR20260122074000030",
-      "pubDate": "Thu, 22 Jan 2026 11:39:45 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 작년 글로벌 상승률 1위 이어 올해도 17%로 독보적 선두",
-      "link": "https://www.yna.co.kr/view/AKR20260122077100008",
-      "pubDate": "Thu, 22 Jan 2026 11:32:42 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 재계도 지각변동…조선·방산 뜨고 유통·IT 주춤",
-      "link": "https://www.yna.co.kr/view/AKR20260122076300003",
-      "pubDate": "Thu, 22 Jan 2026 11:27:42 +0900"
-    },
-    {
-      "title": "제주관광 온라인마켓 '탐나오' 작년 판매액 106억원…역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260122077400056",
-      "pubDate": "Thu, 22 Jan 2026 11:25:13 +0900"
-    },
-    {
-      "title": "HP, 하이퍼엑스·오멘 통합한 게이밍 신제품 라인업 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260122075900017",
-      "pubDate": "Thu, 22 Jan 2026 11:25:06 +0900"
-    },
-    {
-      "title": "[게시판] 관세청, 불법 수입양파 통관관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260122077200002",
-      "pubDate": "Thu, 22 Jan 2026 11:24:38 +0900"
-    },
-    {
-      "title": "[특징주] '불장' 속 뜨거운 이차전지주…삼성SDI 16%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260122075800008",
-      "pubDate": "Thu, 22 Jan 2026 11:19:13 +0900"
-    },
-    {
-      "title": "코스피, 장중 5,000대 상승…코스닥 오름폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260122073200008",
-      "pubDate": "Thu, 22 Jan 2026 11:12:40 +0900"
-    },
-    {
-      "title": "쿠팡노조 \"합리적 조사 촉구…노동자·소상공인 희생 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122071200030",
-      "pubDate": "Thu, 22 Jan 2026 11:11:11 +0900"
-    },
-    {
-      "title": "관세청, 중국發 해외직구서 모의총포 3천700개 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260122071700002",
-      "pubDate": "Thu, 22 Jan 2026 11:08:48 +0900"
-    },
-    {
-      "title": "벤츠코리아, 올해 전기차 포함 신차 10종 국내 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260122068100003",
-      "pubDate": "Thu, 22 Jan 2026 11:00:54 +0900"
-    },
-    {
-      "title": "카카오뱅크, 태국 합작법인 통해 가상은행 설립 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260122069200002",
-      "pubDate": "Thu, 22 Jan 2026 11:00:40 +0900"
     }
   ]
 }
