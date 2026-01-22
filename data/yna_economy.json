@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769121899,
+  "updated_at_unix": 1769123502,
   "items": [
+    {
+      "title": "[마켓뷰] '꿈의 지수' 터치한 코스피, 5,000선 안착할까",
+      "link": "https://www.yna.co.kr/view/AKR20260123022200008",
+      "pubDate": "Fri, 23 Jan 2026 07:59:16 +0900"
+    },
+    {
+      "title": "부산시, 부산형 앵커기업 지원 설명회…AI 전환 전략 고민",
+      "link": "https://www.yna.co.kr/view/AKR20260123021800051",
+      "pubDate": "Fri, 23 Jan 2026 07:55:28 +0900"
+    },
     {
       "title": "李대통령 \"'다주택자 양도세 중과 면제' 연장, 전혀 고려않는다\"",
       "link": "https://www.yna.co.kr/view/AKR20260123019600001",
@@ -142,16 +152,6 @@
       "title": "제주 숙박 온라인 거래 80%…'가성비' 선호에 숙박비 지출감소",
       "link": "https://www.yna.co.kr/view/AKR20260122127000056",
       "pubDate": "Thu, 22 Jan 2026 16:15:27 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 원/달러 환율 이틀째 하락…1,469.9원",
-      "link": "https://www.yna.co.kr/view/AKR20260122125700002",
-      "pubDate": "Thu, 22 Jan 2026 16:12:15 +0900"
-    },
-    {
-      "title": "거래소, 기업가치 제고 계획 가이드라인 개정…\"자율성 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122128000008",
-      "pubDate": "Thu, 22 Jan 2026 16:10:16 +0900"
     }
   ]
 }
