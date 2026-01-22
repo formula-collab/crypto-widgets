@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769118170,
+  "updated_at_unix": 1769119968,
   "items": [
+    {
+      "title": "관악구, '강감찬 관악형 민생안정일자리' 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260123013100004",
+      "pubDate": "Fri, 23 Jan 2026 06:51:47 +0900"
+    },
     {
       "title": "바이오시밀러 뜬다…미국·유럽서 K-바이오 공세",
       "link": "https://www.yna.co.kr/view/AKR20260122130600017",
@@ -147,11 +152,6 @@
       "title": "[코스피 5,000] 작년 글로벌 상승률 1위 이어 올해도 '17.5%↑' 선두(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260122077151008",
       "pubDate": "Thu, 22 Jan 2026 16:01:01 +0900"
-    },
-    {
-      "title": "[이코노워치] 마침내 열린 코스피 5,000시대…혁신과 성장이 없다면",
-      "link": "https://www.yna.co.kr/view/AKR20260122125100546",
-      "pubDate": "Thu, 22 Jan 2026 16:00:08 +0900"
     }
   ]
 }
