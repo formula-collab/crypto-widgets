@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769116398,
+  "updated_at_unix": 1769118170,
   "items": [
+    {
+      "title": "바이오시밀러 뜬다…미국·유럽서 K-바이오 공세",
+      "link": "https://www.yna.co.kr/view/AKR20260122130600017",
+      "pubDate": "Fri, 23 Jan 2026 06:33:01 +0900"
+    },
+    {
+      "title": "두쫀쿠 가격 1천∼2천원 '껑충'…호텔까지 뛰어들었다",
+      "link": "https://www.yna.co.kr/view/AKR20260122146400030",
+      "pubDate": "Fri, 23 Jan 2026 06:33:01 +0900"
+    },
     {
       "title": "트럼프, JP모건에 7조원 소송…\"2021년 거래중단, 정치적 차별\"",
       "link": "https://www.yna.co.kr/view/AKR20260123008600071",
@@ -142,16 +152,6 @@
       "title": "[이코노워치] 마침내 열린 코스피 5,000시대…혁신과 성장이 없다면",
       "link": "https://www.yna.co.kr/view/AKR20260122125100546",
       "pubDate": "Thu, 22 Jan 2026 16:00:08 +0900"
-    },
-    {
-      "title": "농식품부 장관, 딸기 농가 찾아 수급 상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260122050400030",
-      "pubDate": "Thu, 22 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "농식품부 차관, 식품업계와 간담회 개최…설 물가 안정 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260122052100030",
-      "pubDate": "Thu, 22 Jan 2026 16:00:01 +0900"
     }
   ]
 }
