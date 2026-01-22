@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769064999,
+  "updated_at_unix": 1769066495,
   "items": [
+    {
+      "title": "제주 숙박 온라인 거래 80%…'가성비' 선호에 숙박비 지출감소",
+      "link": "https://www.yna.co.kr/view/AKR20260122127000056",
+      "pubDate": "Thu, 22 Jan 2026 16:15:27 +0900"
+    },
+    {
+      "title": "[코스피 5,000] 원/달러 환율 이틀째 하락…1,469.9원",
+      "link": "https://www.yna.co.kr/view/AKR20260122125700002",
+      "pubDate": "Thu, 22 Jan 2026 16:12:15 +0900"
+    },
+    {
+      "title": "거래소, 기업가치 제고 계획 가이드라인 개정…\"자율성 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122128000008",
+      "pubDate": "Thu, 22 Jan 2026 16:10:16 +0900"
+    },
+    {
+      "title": "높아지는 통상장벽에…\"울산 중기 지원 공급망협의체 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122120300057",
+      "pubDate": "Thu, 22 Jan 2026 16:09:21 +0900"
+    },
+    {
+      "title": "코스피, '꿈의 지수' 5,000 터치 후 4,950대 마감…코스닥 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122126200008",
+      "pubDate": "Thu, 22 Jan 2026 16:09:09 +0900"
+    },
+    {
+      "title": "[코스피 5,000] 작년 글로벌 상승률 1위 이어 올해도 '17.5%↑' 선두(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122077151008",
+      "pubDate": "Thu, 22 Jan 2026 16:01:01 +0900"
+    },
+    {
+      "title": "[이코노워치] 마침내 열린 코스피 5,000시대…혁신과 성장이 없다면",
+      "link": "https://www.yna.co.kr/view/AKR20260122125100546",
+      "pubDate": "Thu, 22 Jan 2026 16:00:08 +0900"
+    },
+    {
+      "title": "농식품부 장관, 딸기 농가 찾아 수급 상황 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260122050400030",
+      "pubDate": "Thu, 22 Jan 2026 16:00:01 +0900"
+    },
+    {
+      "title": "농식품부 차관, 식품업계와 간담회 개최…설 물가 안정 총력",
+      "link": "https://www.yna.co.kr/view/AKR20260122052100030",
+      "pubDate": "Thu, 22 Jan 2026 16:00:01 +0900"
+    },
+    {
+      "title": "기획처, 연금 부정수급 방지·건보 재정 안정화 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260122109200002",
+      "pubDate": "Thu, 22 Jan 2026 16:00:00 +0900"
+    },
     {
       "title": "[특징주] 사상 첫 '오천피' 돌파에 증권주도 동반 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260122063951008",
@@ -102,56 +152,6 @@
       "title": "대우건설, 글로벌 설계사와 한남2구역 재개발 협업",
       "link": "https://www.yna.co.kr/view/AKR20260122090100003",
       "pubDate": "Thu, 22 Jan 2026 14:49:49 +0900"
-    },
-    {
-      "title": "고양시, 노후주택 리모델링 지원사업 대상자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260122108600060",
-      "pubDate": "Thu, 22 Jan 2026 14:45:14 +0900"
-    },
-    {
-      "title": "울진군 \"간선도로망 단절 영덕∼울진∼삼척 고속도 건설해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122108000053",
-      "pubDate": "Thu, 22 Jan 2026 14:43:42 +0900"
-    },
-    {
-      "title": "농식품부, 설 대비 축산물 유통 합동단속…원산지 표시 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260122103900030",
-      "pubDate": "Thu, 22 Jan 2026 14:43:26 +0900"
-    },
-    {
-      "title": "'셀렉스 프로틴 락토프리 플러스' 설 특집 홈쇼핑 방송",
-      "link": "https://www.yna.co.kr/view/AKR20260122101900030",
-      "pubDate": "Thu, 22 Jan 2026 14:42:44 +0900"
-    },
-    {
-      "title": "차은우, '200억 탈세' 의혹에 \"확정 사안 아냐, 적극 소명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122101700005",
-      "pubDate": "Thu, 22 Jan 2026 14:42:19 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260122102300011",
-      "pubDate": "Thu, 22 Jan 2026 14:30:01 +0900"
-    },
-    {
-      "title": "오산도시공사, 세교터미널부지 개발 본격화…2028년 착공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260122103500061",
-      "pubDate": "Thu, 22 Jan 2026 14:22:53 +0900"
-    },
-    {
-      "title": "재정정보 공개 확 늘린다…'모두의 재정' 플랫폼 연내 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260122101000002",
-      "pubDate": "Thu, 22 Jan 2026 14:19:00 +0900"
-    },
-    {
-      "title": "광주상의 \"HUG 임대보증제도, 지역 건설 부담 초래\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122103000054",
-      "pubDate": "Thu, 22 Jan 2026 14:18:14 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 배당세 인하도 한몫…정부,'증시 선진화' 주력",
-      "link": "https://www.yna.co.kr/view/AKR20260122085600002",
-      "pubDate": "Thu, 22 Jan 2026 14:15:52 +0900"
     }
   ]
 }
