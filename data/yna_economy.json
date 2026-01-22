@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769102727,
+  "updated_at_unix": 1769104304,
   "items": [
+    {
+      "title": "달러-원, 우크라 종전 기대감에 낙폭 확대…1,465원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260123003700002",
+      "pubDate": "Fri, 23 Jan 2026 02:29:35 +0900"
+    },
     {
       "title": "캔버스엔, 140억원 유상증자…디에스체인 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260122148700008",
@@ -147,11 +152,6 @@
       "title": "이지스운용 \"센터필드 매각 추진, EOD 막기 위한 불가피한 결정\"",
       "link": "https://www.yna.co.kr/view/AKR20260122120800008",
       "pubDate": "Thu, 22 Jan 2026 15:41:38 +0900"
-    },
-    {
-      "title": "농가인구 200만명 아래로…올해 농가소득 145만원 증가 전망(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122062351030",
-      "pubDate": "Thu, 22 Jan 2026 15:40:30 +0900"
     }
   ]
 }
