@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769119968,
+  "updated_at_unix": 1769121899,
   "items": [
+    {
+      "title": "李대통령 \"'다주택자 양도세 중과 면제' 연장, 전혀 고려않는다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123019600001",
+      "pubDate": "Fri, 23 Jan 2026 07:36:26 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260123017200011",
+      "pubDate": "Fri, 23 Jan 2026 07:30:42 +0900"
+    },
+    {
+      "title": "서울 강서구, 전세보증금 반환보증 보증료 최대 40만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260123016300004",
+      "pubDate": "Fri, 23 Jan 2026 07:08:52 +0900"
+    },
     {
       "title": "관악구, '강감찬 관악형 민생안정일자리' 참여자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260123013100004",
@@ -137,21 +152,6 @@
       "title": "거래소, 기업가치 제고 계획 가이드라인 개정…\"자율성 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260122128000008",
       "pubDate": "Thu, 22 Jan 2026 16:10:16 +0900"
-    },
-    {
-      "title": "높아지는 통상장벽에…\"울산 중기 지원 공급망협의체 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122120300057",
-      "pubDate": "Thu, 22 Jan 2026 16:09:21 +0900"
-    },
-    {
-      "title": "코스피, '꿈의 지수' 5,000 터치 후 4,950대 마감…코스닥 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122126200008",
-      "pubDate": "Thu, 22 Jan 2026 16:09:09 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 작년 글로벌 상승률 1위 이어 올해도 '17.5%↑' 선두(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122077151008",
-      "pubDate": "Thu, 22 Jan 2026 16:01:01 +0900"
     }
   ]
 }
