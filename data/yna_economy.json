@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769050756,
+  "updated_at_unix": 1769054940,
   "items": [
+    {
+      "title": "양재·개포 묶은 ICT진흥지구…서초·강남구 산업벨트 뜬다",
+      "link": "https://www.yna.co.kr/view/AKR20260122086300004",
+      "pubDate": "Thu, 22 Jan 2026 12:54:55 +0900"
+    },
+    {
+      "title": "정부 부동산정책 \"잘못하고 있다\" 47%…긍정 평가는 35%[NBS]",
+      "link": "https://www.yna.co.kr/view/AKR20260122084000001",
+      "pubDate": "Thu, 22 Jan 2026 12:11:42 +0900"
+    },
+    {
+      "title": "해외직구 전동보드 전 제품, 안전기준 위반…최고속도 초과",
+      "link": "https://www.yna.co.kr/view/AKR20260121140700030",
+      "pubDate": "Thu, 22 Jan 2026 12:00:08 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, '홍콩 금융업 감독제도 편람' 개정 발간",
+      "link": "https://www.yna.co.kr/view/AKR20260122051000002",
+      "pubDate": "Thu, 22 Jan 2026 12:00:04 +0900"
+    },
+    {
+      "title": "1인당 쌀소비 30년만에 반토막…'K푸드' 열풍에 쌀 식료품 인기",
+      "link": "https://www.yna.co.kr/view/AKR20260122061900002",
+      "pubDate": "Thu, 22 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "올해 세무사 700명 이상 선발…작년 수준 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260122070800002",
+      "pubDate": "Thu, 22 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "중고생도 '엄카' 대신 가족카드 쓴다…\"분실시 문제 등 해소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122068000002",
+      "pubDate": "Thu, 22 Jan 2026 12:00:00 +0900"
+    },
+    {
+      "title": "소액연체 다 갚은 292.8만명 '신용사면'…\"대출·카드발급 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122080600002",
+      "pubDate": "Thu, 22 Jan 2026 12:00:00 +0900"
+    },
+    {
+      "title": "HUG 신임 사장 최종 후보에 민주당 최인호 전 의원",
+      "link": "https://www.yna.co.kr/view/AKR20260122082500003",
+      "pubDate": "Thu, 22 Jan 2026 11:59:31 +0900"
+    },
     {
       "title": "검찰, 가격담합 의혹 대한제분·사조동아원 대표 구속영장 청구",
       "link": "https://www.yna.co.kr/view/AKR20260122082100004",
@@ -107,51 +152,6 @@
       "title": "이노비즈협회, 새해 회원사 R&D 역량 강화·글로벌 확산 추진",
       "link": "https://www.yna.co.kr/view/AKR20260122069100030",
       "pubDate": "Thu, 22 Jan 2026 10:58:27 +0900"
-    },
-    {
-      "title": "관세청, CPU 쿨러 'WTO 무관세' 컴퓨터 부품으로 분류",
-      "link": "https://www.yna.co.kr/view/AKR20260122048000002",
-      "pubDate": "Thu, 22 Jan 2026 10:53:57 +0900"
-    },
-    {
-      "title": "수출입은행, AI 대전환에 22조원 투입…\"전방위 금융지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122066100002",
-      "pubDate": "Thu, 22 Jan 2026 10:53:08 +0900"
-    },
-    {
-      "title": "[부고] 윤수현(재정경제부 재산세제과장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260122067900002",
-      "pubDate": "Thu, 22 Jan 2026 10:52:36 +0900"
-    },
-    {
-      "title": "쌤소나이트 레드, 출범 16년 만에 리브랜딩…새 BI·로고 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260122063100030",
-      "pubDate": "Thu, 22 Jan 2026 10:47:56 +0900"
-    },
-    {
-      "title": "CBRE코리아 \"작년 국내 상업용부동산 매매 33.8조…역대 최대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122064500003",
-      "pubDate": "Thu, 22 Jan 2026 10:47:50 +0900"
-    },
-    {
-      "title": "갱년기 남녀 64% \"가장 큰 정서적 지지 대상은 배우자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122062200002",
-      "pubDate": "Thu, 22 Jan 2026 10:47:45 +0900"
-    },
-    {
-      "title": "벤츠·아우디 고의로 '풍덩'…억대 보험금 타낸 일당 5명 적발(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122045851055",
-      "pubDate": "Thu, 22 Jan 2026 10:46:39 +0900"
-    },
-    {
-      "title": "[특징주] 사상 첫 '오천피' 돌파에 증권주도 동반 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260122063900008",
-      "pubDate": "Thu, 22 Jan 2026 10:43:42 +0900"
-    },
-    {
-      "title": "한국 경제, 건설만 빼면 괜찮다?…4분기 역성장 배경은",
-      "link": "https://www.yna.co.kr/view/AKR20260122057000002",
-      "pubDate": "Thu, 22 Jan 2026 10:38:50 +0900"
     }
   ]
 }
