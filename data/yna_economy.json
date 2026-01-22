@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769123502,
+  "updated_at_unix": 1769125214,
   "items": [
+    {
+      "title": "한화에어로, 노르웨이 천무 수출 '청신호'…계약여부 내주 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260123026300003",
+      "pubDate": "Fri, 23 Jan 2026 08:33:01 +0900"
+    },
+    {
+      "title": "인천시, 소상공인 특례보증 1천억원 지원…업체당 5천만원 한도",
+      "link": "https://www.yna.co.kr/view/AKR20260123020700065",
+      "pubDate": "Fri, 23 Jan 2026 08:31:00 +0900"
+    },
+    {
+      "title": "NH투자, 한화 목표가↑…\"인적분할 통한 사업가치 재평가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123024900008",
+      "pubDate": "Fri, 23 Jan 2026 08:30:31 +0900"
+    },
+    {
+      "title": "SSG닷컴, 멤버십 브랜딩 페이지 오픈…행운 부적 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260123026100030",
+      "pubDate": "Fri, 23 Jan 2026 08:28:19 +0900"
+    },
+    {
+      "title": "신한투자 \"삼성에스디에스, IT서비스 경쟁력 확보…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123025500008",
+      "pubDate": "Fri, 23 Jan 2026 08:25:36 +0900"
+    },
     {
       "title": "[마켓뷰] '꿈의 지수' 터치한 코스피, 5,000선 안착할까",
       "link": "https://www.yna.co.kr/view/AKR20260123022200008",
@@ -127,31 +152,6 @@
       "title": "SK증권, 인천 청라 '아이콘 시티' 개발사업 PF 주관",
       "link": "https://www.yna.co.kr/view/AKR20260122133800008",
       "pubDate": "Thu, 22 Jan 2026 16:42:09 +0900"
-    },
-    {
-      "title": "충북, 반도체 앞세워 작년 역대 최고 수출실적 기록…338억달러",
-      "link": "https://www.yna.co.kr/view/AKR20260122124300064",
-      "pubDate": "Thu, 22 Jan 2026 16:30:19 +0900"
-    },
-    {
-      "title": "과기부, AI 기본법 지원 데스크 운영…스타트업 현장 설명회도",
-      "link": "https://www.yna.co.kr/view/AKR20260122091200017",
-      "pubDate": "Thu, 22 Jan 2026 16:30:01 +0900"
-    },
-    {
-      "title": "[나주소식] 동신대 일자리플러스센터, 노동부 평가 '우수'",
-      "link": "https://www.yna.co.kr/view/AKR20260122129500054",
-      "pubDate": "Thu, 22 Jan 2026 16:21:45 +0900"
-    },
-    {
-      "title": "[특징주] '불장' 속 뜨거운 이차전지주…삼성SDI 18%대 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122075851008",
-      "pubDate": "Thu, 22 Jan 2026 16:17:26 +0900"
-    },
-    {
-      "title": "제주 숙박 온라인 거래 80%…'가성비' 선호에 숙박비 지출감소",
-      "link": "https://www.yna.co.kr/view/AKR20260122127000056",
-      "pubDate": "Thu, 22 Jan 2026 16:15:27 +0900"
     }
   ]
 }
