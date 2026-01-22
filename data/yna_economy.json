@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769060991,
+  "updated_at_unix": 1769062791,
   "items": [
+    {
+      "title": "10개 기관 고용 협업체계 구축…복지·금융 '원스톱' 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260122063000530",
+      "pubDate": "Thu, 22 Jan 2026 15:00:01 +0900"
+    },
+    {
+      "title": "수원시, 홍콩서 현지 기업 대상 경제자유구역 투자유치 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260122111200061",
+      "pubDate": "Thu, 22 Jan 2026 14:59:18 +0900"
+    },
+    {
+      "title": "올해 근로감독 사업장, 5만→9.2만 확대…위법엔 사법처리 원칙(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122089151530",
+      "pubDate": "Thu, 22 Jan 2026 14:57:53 +0900"
+    },
+    {
+      "title": "NHN 노조 \"5년간 계열사 40% 증발…고용 보장하라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260122090351017",
+      "pubDate": "Thu, 22 Jan 2026 14:55:12 +0900"
+    },
+    {
+      "title": "[게시판] 해외건설협회, '융복합 K-City 플랫폼' 사우디·쿠웨이트 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260122095700003",
+      "pubDate": "Thu, 22 Jan 2026 14:51:28 +0900"
+    },
+    {
+      "title": "한수원, 협력 중소기업들과 美 텍사스 찾아 현지시장 진출 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260122083900003",
+      "pubDate": "Thu, 22 Jan 2026 14:50:11 +0900"
+    },
+    {
+      "title": "대우건설, 글로벌 설계사와 한남2구역 재개발 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260122090100003",
+      "pubDate": "Thu, 22 Jan 2026 14:49:49 +0900"
+    },
+    {
+      "title": "고양시, 노후주택 리모델링 지원사업 대상자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260122108600060",
+      "pubDate": "Thu, 22 Jan 2026 14:45:14 +0900"
+    },
     {
       "title": "울진군 \"간선도로망 단절 영덕∼울진∼삼척 고속도 건설해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260122108000053",
@@ -112,46 +152,6 @@
       "title": "깨끗한나라, 고객가치실현위원회 출범…\"고객 중심경영 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260122092600030",
       "pubDate": "Thu, 22 Jan 2026 13:38:34 +0900"
-    },
-    {
-      "title": "[동정] 한성숙 중기장관, 혁신벤처업계 신년회 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260122090700030",
-      "pubDate": "Thu, 22 Jan 2026 13:31:03 +0900"
-    },
-    {
-      "title": "KB증권, 디지털 개인연금자산 3조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260122090500008",
-      "pubDate": "Thu, 22 Jan 2026 13:29:46 +0900"
-    },
-    {
-      "title": "[코스피 5,000] \"여전히 저평가\" vs \"반도체 제외 실적전망 글쎄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260108079100008",
-      "pubDate": "Thu, 22 Jan 2026 13:27:22 +0900"
-    },
-    {
-      "title": "양재·개포 묶은 ICT진흥지구…서초·강남구 산업벨트 뜬다",
-      "link": "https://www.yna.co.kr/view/AKR20260122086300004",
-      "pubDate": "Thu, 22 Jan 2026 12:54:55 +0900"
-    },
-    {
-      "title": "정부 부동산정책 \"잘못하고 있다\" 47%…긍정 평가는 35%[NBS]",
-      "link": "https://www.yna.co.kr/view/AKR20260122084000001",
-      "pubDate": "Thu, 22 Jan 2026 12:11:42 +0900"
-    },
-    {
-      "title": "해외직구 전동보드 전 제품, 안전기준 위반…최고속도 초과",
-      "link": "https://www.yna.co.kr/view/AKR20260121140700030",
-      "pubDate": "Thu, 22 Jan 2026 12:00:08 +0900"
-    },
-    {
-      "title": "[게시판] 금감원, '홍콩 금융업 감독제도 편람' 개정 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260122051000002",
-      "pubDate": "Thu, 22 Jan 2026 12:00:04 +0900"
-    },
-    {
-      "title": "1인당 쌀소비 30년만에 반토막…'K푸드' 열풍에 쌀 식료품 인기",
-      "link": "https://www.yna.co.kr/view/AKR20260122061900002",
-      "pubDate": "Thu, 22 Jan 2026 12:00:02 +0900"
     }
   ]
 }
