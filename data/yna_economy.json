@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769114820,
+  "updated_at_unix": 1769116398,
   "items": [
+    {
+      "title": "트럼프, JP모건에 7조원 소송…\"2021년 거래중단, 정치적 차별\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123008600071",
+      "pubDate": "Fri, 23 Jan 2026 06:03:58 +0900"
+    },
+    {
+      "title": "증시·수출 호조에 소비심리 소폭 개선…1월 110.8, 1p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260122134100002",
+      "pubDate": "Fri, 23 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "정부, 4조4천억원 벤처펀드 조성…중기·문체·해수부 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260122149200030",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·우·러, 종전 3자 회담 첫 합의…WTI 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260123008500009",
+      "pubDate": "Fri, 23 Jan 2026 05:54:37 +0900"
+    },
     {
       "title": "달러-원, 우크라 종전 기대감에 낙폭 확대…1,465원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260123003700002",
@@ -132,26 +152,6 @@
       "title": "농식품부 차관, 식품업계와 간담회 개최…설 물가 안정 총력",
       "link": "https://www.yna.co.kr/view/AKR20260122052100030",
       "pubDate": "Thu, 22 Jan 2026 16:00:01 +0900"
-    },
-    {
-      "title": "기획처, 연금 부정수급 방지·건보 재정 안정화 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260122109200002",
-      "pubDate": "Thu, 22 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 사상 첫 '오천피' 돌파에 증권주도 동반 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260122063951008",
-      "pubDate": "Thu, 22 Jan 2026 15:47:20 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 반도체 끌고 車·방산 밀고…순환매로 달성한 대기록(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260119060451008",
-      "pubDate": "Thu, 22 Jan 2026 15:45:37 +0900"
-    },
-    {
-      "title": "이지스운용 \"센터필드 매각 추진, EOD 막기 위한 불가피한 결정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122120800008",
-      "pubDate": "Thu, 22 Jan 2026 15:41:38 +0900"
     }
   ]
 }
