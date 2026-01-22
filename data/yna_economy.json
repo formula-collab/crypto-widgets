@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769054940,
+  "updated_at_unix": 1769058099,
   "items": [
+    {
+      "title": "케스피온 \"엠비티비 주식 21억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122095100008",
+      "pubDate": "Thu, 22 Jan 2026 13:49:58 +0900"
+    },
+    {
+      "title": "\"일상에 온기 미치도록\"…경남도, 올해 도민 체감 경제정책 운용",
+      "link": "https://www.yna.co.kr/view/AKR20260122050300052",
+      "pubDate": "Thu, 22 Jan 2026 13:40:00 +0900"
+    },
+    {
+      "title": "깨끗한나라, 고객가치실현위원회 출범…\"고객 중심경영 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260122092600030",
+      "pubDate": "Thu, 22 Jan 2026 13:38:34 +0900"
+    },
+    {
+      "title": "[동정] 한성숙 중기장관, 혁신벤처업계 신년회 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260122090700030",
+      "pubDate": "Thu, 22 Jan 2026 13:31:03 +0900"
+    },
+    {
+      "title": "KB증권, 디지털 개인연금자산 3조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260122090500008",
+      "pubDate": "Thu, 22 Jan 2026 13:29:46 +0900"
+    },
+    {
+      "title": "[코스피 5,000] \"여전히 저평가\" vs \"반도체 제외 실적전망 글쎄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260108079100008",
+      "pubDate": "Thu, 22 Jan 2026 13:27:22 +0900"
+    },
     {
       "title": "양재·개포 묶은 ICT진흥지구…서초·강남구 산업벨트 뜬다",
       "link": "https://www.yna.co.kr/view/AKR20260122086300004",
@@ -122,36 +152,6 @@
       "title": "카카오뱅크, 태국 합작법인 통해 가상은행 설립 참여",
       "link": "https://www.yna.co.kr/view/AKR20260122069200002",
       "pubDate": "Thu, 22 Jan 2026 11:00:40 +0900"
-    },
-    {
-      "title": "해수부, K씨푸드 수출 지원 확대…내달 권역별 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260122033000030",
-      "pubDate": "Thu, 22 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 새만금 농업용수 공급사업 본격화…1단계 입찰공고",
-      "link": "https://www.yna.co.kr/view/AKR20260122039400030",
-      "pubDate": "Thu, 22 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "안전·편의에 금리 혜택까지…부동산 전자계약 이용 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260122042600003",
-      "pubDate": "Thu, 22 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농가 인구 200만명선 무너져…65세 이상 고령자 비중 56%",
-      "link": "https://www.yna.co.kr/view/AKR20260122062300030",
-      "pubDate": "Thu, 22 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[코스피 5,000] 정부 \"코리아 프리미엄까지…올해 더 강력하게 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260122069400002",
-      "pubDate": "Thu, 22 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "이노비즈협회, 새해 회원사 R&D 역량 강화·글로벌 확산 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260122069100030",
-      "pubDate": "Thu, 22 Jan 2026 10:58:27 +0900"
     }
   ]
 }
