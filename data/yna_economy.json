@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769072071,
+  "updated_at_unix": 1769073771,
   "items": [
+    {
+      "title": "캔버스엔, 140억원 유상증자…디에스체인 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260122148700008",
+      "pubDate": "Thu, 22 Jan 2026 18:01:06 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260122145100011",
+      "pubDate": "Thu, 22 Jan 2026 18:00:01 +0900"
+    },
     {
       "title": "금융위원장, 장민영 중소기업은행 신임 은행장 임명 제청",
       "link": "https://www.yna.co.kr/view/AKR20260122145900002",
@@ -142,16 +152,6 @@
       "title": "농가인구 200만명 아래로…올해 농가소득 145만원 증가 전망(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260122062351030",
       "pubDate": "Thu, 22 Jan 2026 15:40:30 +0900"
-    },
-    {
-      "title": "아프리카 최대 경제국 남아공 경제회복 조짐…'개혁 효과'",
-      "link": "https://www.yna.co.kr/view/AKR20260122114900898",
-      "pubDate": "Thu, 22 Jan 2026 15:37:20 +0900"
-    },
-    {
-      "title": "광주은행, 소상공인 대출 지원 23억원 특별출연",
-      "link": "https://www.yna.co.kr/view/AKR20260122118100054",
-      "pubDate": "Thu, 22 Jan 2026 15:36:44 +0900"
     }
   ]
 }
