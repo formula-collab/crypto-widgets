@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769147318,
+  "updated_at_unix": 1769149151,
   "items": [
+    {
+      "title": "교촌치킨, 전 가맹점에 튀김유 1개월 무상공급…\"점주와 상생\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260123066351030",
+      "pubDate": "Fri, 23 Jan 2026 15:13:00 +0900"
+    },
+    {
+      "title": "\"쿠팡, 미국뒤에 숨어 정부압박 비겁…불법행위 사죄하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123105900030",
+      "pubDate": "Fri, 23 Jan 2026 15:07:42 +0900"
+    },
+    {
+      "title": "[부고] 선석기(광주경제자유구역청장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260123108200054",
+      "pubDate": "Fri, 23 Jan 2026 15:06:23 +0900"
+    },
+    {
+      "title": "이상일 용인시장, 김동연 지사에 '지방산단 심의권한' 이양 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260123102600061",
+      "pubDate": "Fri, 23 Jan 2026 15:03:35 +0900"
+    },
+    {
+      "title": "지구촌나눔운동, 코이카 청년중기봉사단 동남아 파견",
+      "link": "https://www.yna.co.kr/view/AKR20260123104700371",
+      "pubDate": "Fri, 23 Jan 2026 15:03:31 +0900"
+    },
+    {
+      "title": "\"국제유가 내려도 요지부동 전기요금…위기업종만이라도 낮춰야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123040700003",
+      "pubDate": "Fri, 23 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "과천시 \"정부 추가 주택공급지 지정에 과천은 빠져야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123100300061",
+      "pubDate": "Fri, 23 Jan 2026 14:58:31 +0900"
+    },
     {
       "title": "[게시판] 한·아프리카재단-특허기술진흥원, 아프리카 관계 증진 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260123100000898",
@@ -117,41 +152,6 @@
       "title": "이혜훈, 아들 혼인 미신고에 \"결혼식 후 부부관계 최악\"",
       "link": "https://www.yna.co.kr/view/AKR20260123075300002",
       "pubDate": "Fri, 23 Jan 2026 11:47:25 +0900"
-    },
-    {
-      "title": "이혜훈 \"장남, 국위선양자 연대 입학…시아버지 청조근정훈장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123072700002",
-      "pubDate": "Fri, 23 Jan 2026 11:42:54 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.133%",
-      "link": "https://www.yna.co.kr/view/AKR20260123074700008",
-      "pubDate": "Fri, 23 Jan 2026 11:40:49 +0900"
-    },
-    {
-      "title": "면목8구역 정비구역 지정 고시…\"중랑천변 1천260세대 단지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123072800004",
-      "pubDate": "Fri, 23 Jan 2026 11:32:13 +0900"
-    },
-    {
-      "title": "[게시판] 램리서치코리아, 수출입 안전관리 우수업체 인증",
-      "link": "https://www.yna.co.kr/view/AKR20260123069000003",
-      "pubDate": "Fri, 23 Jan 2026 11:25:38 +0900"
-    },
-    {
-      "title": "광양 기업·단체 72％, 행정통합 찬성…전남 동부권 소외는 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260123067600054",
-      "pubDate": "Fri, 23 Jan 2026 11:21:39 +0900"
-    },
-    {
-      "title": "지식재산처, K-브랜드 보호 주치의 'IP분쟁닥터' 본격 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260123068900063",
-      "pubDate": "Fri, 23 Jan 2026 11:19:27 +0900"
-    },
-    {
-      "title": "서금원, 6년간 금융취약계층 20만명 이상 컨설팅 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260123067900002",
-      "pubDate": "Fri, 23 Jan 2026 11:18:03 +0900"
     }
   ]
 }
