@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769161737,
+  "updated_at_unix": 1769163263,
   "items": [
+    {
+      "title": "국토부측, 李 '장남 위장미혼' 의혹에 \"부정청약 소지있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123154300002",
+      "pubDate": "Fri, 23 Jan 2026 18:54:01 +0900"
+    },
+    {
+      "title": "삼성증권, 순이익 1조원 창사 이래 첫 돌파…주당 4천원 배당",
+      "link": "https://www.yna.co.kr/view/AKR20260123154200008",
+      "pubDate": "Fri, 23 Jan 2026 18:51:59 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260123139900011",
@@ -142,16 +152,6 @@
       "title": "재경부, 104개 공공기관 안전관리등급 심사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260123101100002",
       "pubDate": "Fri, 23 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "[부고] 이동훈 국무조정실 국장(전 금융위 대변인) 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260123124100002",
-      "pubDate": "Fri, 23 Jan 2026 15:59:06 +0900"
-    },
-    {
-      "title": "[쇼츠] K-하이마스 '천무' 노르웨이 수출 청신호",
-      "link": "https://www.yna.co.kr/view/AKR20260123123000704",
-      "pubDate": "Fri, 23 Jan 2026 15:54:49 +0900"
     }
   ]
 }
