@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769188695,
+  "updated_at_unix": 1769190235,
   "items": [
+    {
+      "title": "달러-원, 낙폭 확대하며 1,462.50원 마감…'日 개입 경계' 엔 급등 동조",
+      "link": "https://www.yna.co.kr/view/AKR20260124004100002",
+      "pubDate": "Sat, 24 Jan 2026 02:28:28 +0900"
+    },
     {
       "title": "'지하철 8호선 판교 연장사업' 국토부 투자심사 통과",
       "link": "https://www.yna.co.kr/view/AKR20260123161000061",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 사흘째 하락…1,465.8원",
       "link": "https://www.yna.co.kr/view/AKR20260123125300002",
       "pubDate": "Fri, 23 Jan 2026 16:08:39 +0900"
-    },
-    {
-      "title": "[특징주] 슈프리마, '현대차 핵심 파트너' 전망에 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260123043551008",
-      "pubDate": "Fri, 23 Jan 2026 16:04:28 +0900"
     }
   ]
 }
