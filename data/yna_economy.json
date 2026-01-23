@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769154218,
+  "updated_at_unix": 1769156211,
   "items": [
+    {
+      "title": "李, '장남 위장미혼' 부정청약 의혹에 \"결혼 직후 깨진 상황\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260123075351002",
+      "pubDate": "Fri, 23 Jan 2026 17:11:56 +0900"
+    },
+    {
+      "title": "일본은행, 기준금리 예상대로 동결…0.75%로 유지(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260123079252073",
+      "pubDate": "Fri, 23 Jan 2026 17:01:31 +0900"
+    },
+    {
+      "title": "구윤철 \"차세대 전력반도체 골든타임…국민성장펀드 지원 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123134300002",
+      "pubDate": "Fri, 23 Jan 2026 17:00:01 +0900"
+    },
+    {
+      "title": "李 대통령이 지적한 바가지요금…정부, 근절대책 1분기 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260123127900002",
+      "pubDate": "Fri, 23 Jan 2026 17:00:00 +0900"
+    },
+    {
+      "title": "[게시판] 관세청장, 잠비아 국회 대표단 면담…전자통관시스템 지원 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260123133300002",
+      "pubDate": "Fri, 23 Jan 2026 16:52:06 +0900"
+    },
+    {
+      "title": "기획처 \"협동조합은 양극화·지방소멸 보완…1분기 과제 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123133900002",
+      "pubDate": "Fri, 23 Jan 2026 16:49:56 +0900"
+    },
+    {
+      "title": "대구 표준지 공시지가 지난해보다 평균 1.43% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260123133400053",
+      "pubDate": "Fri, 23 Jan 2026 16:49:28 +0900"
+    },
+    {
+      "title": "NH농협은행 경남 영업점, 금융취약계층 배려창구 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260123133200052",
+      "pubDate": "Fri, 23 Jan 2026 16:43:39 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.137%",
+      "link": "https://www.yna.co.kr/view/AKR20260123132500008",
+      "pubDate": "Fri, 23 Jan 2026 16:40:26 +0900"
+    },
     {
       "title": "전남지역 공시지가 0.3% 상승…여수 중앙동 대지 최고가",
       "link": "https://www.yna.co.kr/view/AKR20260123130000054",
@@ -107,51 +152,6 @@
       "title": "광주연구원, 지역 경제성장률 1.6~2.0% 전망…내수 회복 관건",
       "link": "https://www.yna.co.kr/view/AKR20260123116300054",
       "pubDate": "Fri, 23 Jan 2026 15:40:15 +0900"
-    },
-    {
-      "title": "신세계아이앤씨, 스타링크 단말기 국내 유통",
-      "link": "https://www.yna.co.kr/view/AKR20260123108900017",
-      "pubDate": "Fri, 23 Jan 2026 15:37:13 +0900"
-    },
-    {
-      "title": "[게시판] iM뱅크·영남대·대구상의, 'ESG 실천·확산' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260123098600053",
-      "pubDate": "Fri, 23 Jan 2026 15:36:42 +0900"
-    },
-    {
-      "title": "코스피, 상승폭 줄여 4,990대 마감…'천스닥' 목전",
-      "link": "https://www.yna.co.kr/view/AKR20260123116900008",
-      "pubDate": "Fri, 23 Jan 2026 15:36:08 +0900"
-    },
-    {
-      "title": "외국환시세(1월23일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260123117100002",
-      "pubDate": "Fri, 23 Jan 2026 15:35:16 +0900"
-    },
-    {
-      "title": "[인사] 한국은행",
-      "link": "https://www.yna.co.kr/view/AKR20260123114200002",
-      "pubDate": "Fri, 23 Jan 2026 15:30:54 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.1원 내린 1,465.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260123115400002",
-      "pubDate": "Fri, 23 Jan 2026 15:30:19 +0900"
-    },
-    {
-      "title": "부산국제록페스티벌·논산딸기축제 등 '문화관광축제'로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260123112200030",
-      "pubDate": "Fri, 23 Jan 2026 15:19:57 +0900"
-    },
-    {
-      "title": "인천교통공사, 올해 도시철도 노인일자리 1천82개 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260123111800065",
-      "pubDate": "Fri, 23 Jan 2026 15:18:01 +0900"
-    },
-    {
-      "title": "교촌치킨, 전 가맹점에 튀김유 1개월 무상공급…\"점주와 상생\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260123066351030",
-      "pubDate": "Fri, 23 Jan 2026 15:13:00 +0900"
     }
   ]
 }
