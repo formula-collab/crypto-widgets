@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769144325,
+  "updated_at_unix": 1769145947,
   "items": [
+    {
+      "title": "성북구, 사회적경제기업에 사회투자기금 상환 6개월 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260123097400004",
+      "pubDate": "Fri, 23 Jan 2026 14:16:17 +0900"
+    },
+    {
+      "title": "[인사] 공정거래위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260123096800002",
+      "pubDate": "Fri, 23 Jan 2026 14:13:24 +0900"
+    },
+    {
+      "title": "부산 소비자 경제 심리 약간 회복…1월 지수 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260123095500051",
+      "pubDate": "Fri, 23 Jan 2026 14:06:56 +0900"
+    },
+    {
+      "title": "목포해양대, 전국 국·공립대 취업률 1위 달성",
+      "link": "https://www.yna.co.kr/view/AKR20260123092600054",
+      "pubDate": "Fri, 23 Jan 2026 14:02:22 +0900"
+    },
+    {
+      "title": "부산항만공사, 북항재개발 사업 상부시설 직접 개발 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260123093400051",
+      "pubDate": "Fri, 23 Jan 2026 14:00:51 +0900"
+    },
     {
       "title": "與, '정년연장, 지방선거후 입법' 제안…한국노총 반발 퇴장",
       "link": "https://www.yna.co.kr/view/AKR20260123085400530",
@@ -127,31 +152,6 @@
       "title": "코스피, 개인 '팔자' 전환에 장중 오름폭 줄여 4,960대",
       "link": "https://www.yna.co.kr/view/AKR20260123066900008",
       "pubDate": "Fri, 23 Jan 2026 11:10:19 +0900"
-    },
-    {
-      "title": "교촌치킨, 전 가맹점에 튀김유 1개월 무상공급…\"점주와 상생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123066300030",
-      "pubDate": "Fri, 23 Jan 2026 11:08:52 +0900"
-    },
-    {
-      "title": "\"작년에 팔린 서울 아파트 55%가 역대 최고가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123062400003",
-      "pubDate": "Fri, 23 Jan 2026 11:07:12 +0900"
-    },
-    {
-      "title": "여한구, 다보스포럼서 USTR대표 면담…\"한미통상 안정적 관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123051200003",
-      "pubDate": "Fri, 23 Jan 2026 11:05:23 +0900"
-    },
-    {
-      "title": "우리은행, 강남BIZ프라임센터 개점…\"생산적 금융 전초기지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123063700002",
-      "pubDate": "Fri, 23 Jan 2026 11:02:30 +0900"
-    },
-    {
-      "title": "이혜훈, 보좌진 갑질 논란에 \"성숙하지 못한 언행, 진심 사과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123052100002",
-      "pubDate": "Fri, 23 Jan 2026 11:01:59 +0900"
     }
   ]
 }
