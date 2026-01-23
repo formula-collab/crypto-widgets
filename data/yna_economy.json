@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769145947,
+  "updated_at_unix": 1769147318,
   "items": [
+    {
+      "title": "[게시판] 한·아프리카재단-특허기술진흥원, 아프리카 관계 증진 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260123100000898",
+      "pubDate": "Fri, 23 Jan 2026 14:39:16 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260123095100011",
+      "pubDate": "Fri, 23 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "익산시, 만경강 수변도시 조성 '빨간 불'…민간사업자 공모 무산",
+      "link": "https://www.yna.co.kr/view/AKR20260123098200055",
+      "pubDate": "Fri, 23 Jan 2026 14:25:42 +0900"
+    },
+    {
+      "title": "[인사] K-FINCO 전문건설공제조합",
+      "link": "https://www.yna.co.kr/view/AKR20260123099100003",
+      "pubDate": "Fri, 23 Jan 2026 14:25:15 +0900"
+    },
+    {
+      "title": "국토장관, LH '매입임대 역대 최대실적' 담당 실무자 격려",
+      "link": "https://www.yna.co.kr/view/AKR20260123097600003",
+      "pubDate": "Fri, 23 Jan 2026 14:22:17 +0900"
+    },
     {
       "title": "성북구, 사회적경제기업에 사회투자기금 상환 6개월 유예",
       "link": "https://www.yna.co.kr/view/AKR20260123097400004",
@@ -127,31 +152,6 @@
       "title": "서금원, 6년간 금융취약계층 20만명 이상 컨설팅 지원",
       "link": "https://www.yna.co.kr/view/AKR20260123067900002",
       "pubDate": "Fri, 23 Jan 2026 11:18:03 +0900"
-    },
-    {
-      "title": "[게시판] 서울시·GS건설, 정원박람회 '기업동행정원' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260123019700004",
-      "pubDate": "Fri, 23 Jan 2026 11:15:00 +0900"
-    },
-    {
-      "title": "제주도 공직자 유연근무 이용 2년 만에 6배로 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260123063800056",
-      "pubDate": "Fri, 23 Jan 2026 11:12:48 +0900"
-    },
-    {
-      "title": "충북 표준지가 1.82%↑…청주타워 부지 ㎡당 1천24만원으로 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260123066500064",
-      "pubDate": "Fri, 23 Jan 2026 11:11:32 +0900"
-    },
-    {
-      "title": "광명시, '공공재정 유출 차단' 지역선순환경제 전략 수립 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260123057700061",
-      "pubDate": "Fri, 23 Jan 2026 11:11:00 +0900"
-    },
-    {
-      "title": "코스피, 개인 '팔자' 전환에 장중 오름폭 줄여 4,960대",
-      "link": "https://www.yna.co.kr/view/AKR20260123066900008",
-      "pubDate": "Fri, 23 Jan 2026 11:10:19 +0900"
     }
   ]
 }
