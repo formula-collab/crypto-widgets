@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769158270,
+  "updated_at_unix": 1769159977,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260123139900011",
+      "pubDate": "Fri, 23 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "거버넌스포럼 \"자본시장 개혁 정공법, 원화 안정화·국내투자↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123147900008",
+      "pubDate": "Fri, 23 Jan 2026 17:47:39 +0900"
+    },
     {
       "title": "aT, 미국산 계란 224만개 수입…첫 물량 오늘 도착",
       "link": "https://www.yna.co.kr/view/AKR20260123142500030",
@@ -142,16 +152,6 @@
       "title": "[쇼츠] K-하이마스 '천무' 노르웨이 수출 청신호",
       "link": "https://www.yna.co.kr/view/AKR20260123123000704",
       "pubDate": "Fri, 23 Jan 2026 15:54:49 +0900"
-    },
-    {
-      "title": "부산디지털거래소 은거래, 3주 만에 작년 상반기 2배 이상",
-      "link": "https://www.yna.co.kr/view/AKR20260123121200051",
-      "pubDate": "Fri, 23 Jan 2026 15:53:52 +0900"
-    },
-    {
-      "title": "노동부, 지방관서에 '산재·체불·청년일자리' 격차해소 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260123120000530",
-      "pubDate": "Fri, 23 Jan 2026 15:51:04 +0900"
     }
   ]
 }
