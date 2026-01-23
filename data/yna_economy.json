@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769208077,
+  "updated_at_unix": 1769209922,
   "items": [
+    {
+      "title": "안산시다문화센터 직업훈련 성과…결혼이민 73명 자격증 취득",
+      "link": "https://www.yna.co.kr/view/AKR20260123087700061",
+      "pubDate": "Sat, 24 Jan 2026 08:00:50 +0900"
+    },
+    {
+      "title": "부산 아파트값 13주째 오름세…상승폭도 커져",
+      "link": "https://www.yna.co.kr/view/AKR20260123103700051",
+      "pubDate": "Sat, 24 Jan 2026 08:00:06 +0900"
+    },
     {
       "title": "[신상잇슈] 오뚜기 'X.O.만두 교자 동파육'·크라운제과 '신짱 누룽지맛\"",
       "link": "https://www.yna.co.kr/view/AKR20260123038500030",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.137%",
       "link": "https://www.yna.co.kr/view/AKR20260123132500008",
       "pubDate": "Fri, 23 Jan 2026 16:40:26 +0900"
-    },
-    {
-      "title": "전남지역 공시지가 0.3% 상승…여수 중앙동 대지 최고가",
-      "link": "https://www.yna.co.kr/view/AKR20260123130000054",
-      "pubDate": "Fri, 23 Jan 2026 16:31:19 +0900"
-    },
-    {
-      "title": "거래소, 기업가치 제고 관련 공시책임자 설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260123127400008",
-      "pubDate": "Fri, 23 Jan 2026 16:21:14 +0900"
     }
   ]
 }
