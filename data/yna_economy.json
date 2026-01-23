@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769163263,
+  "updated_at_unix": 1769165282,
   "items": [
+    {
+      "title": "예별손보 예비입찰에 2곳 이상 참여…본입찰 수순",
+      "link": "https://www.yna.co.kr/view/AKR20260123157600002",
+      "pubDate": "Fri, 23 Jan 2026 19:19:29 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260123156400002",
+      "pubDate": "Fri, 23 Jan 2026 19:17:46 +0900"
+    },
     {
       "title": "국토부측, 李 '장남 위장미혼' 의혹에 \"부정청약 소지있다\"",
       "link": "https://www.yna.co.kr/view/AKR20260123154300002",
@@ -142,16 +152,6 @@
       "title": "부산은행, 상반기 경영전략 수립…해양·생산적금융 추진",
       "link": "https://www.yna.co.kr/view/AKR20260123124200051",
       "pubDate": "Fri, 23 Jan 2026 16:01:07 +0900"
-    },
-    {
-      "title": "해외 신탁 재산도 올해 6월부터 국세청에 신고해야",
-      "link": "https://www.yna.co.kr/view/AKR20260123083700002",
-      "pubDate": "Fri, 23 Jan 2026 16:00:02 +0900"
-    },
-    {
-      "title": "재경부, 104개 공공기관 안전관리등급 심사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260123101100002",
-      "pubDate": "Fri, 23 Jan 2026 16:00:02 +0900"
     }
   ]
 }
