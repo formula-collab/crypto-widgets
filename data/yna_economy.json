@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769201067,
+  "updated_at_unix": 1769202673,
   "items": [
+    {
+      "title": "국내 주유소 기름값 7주 연속 하락…\"다음 주 상승 전환\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123131300003",
+      "pubDate": "Sat, 24 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 연초 한산한 분양 시장…내주 156가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260123133500003",
+      "pubDate": "Sat, 24 Jan 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 이란으로 향하는 미군 함대…WTI 2.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260124007400009",
+      "pubDate": "Sat, 24 Jan 2026 05:48:04 +0900"
+    },
     {
       "title": "달러-원, 낙폭 확대하며 1,462.50원 마감…'日 개입 경계' 엔 급등 동조",
       "link": "https://www.yna.co.kr/view/AKR20260124004100002",
@@ -137,21 +152,6 @@
       "title": "빙그레 작년 영업이익 33% 감소…\"원부자재 가격 상승\"",
       "link": "https://www.yna.co.kr/view/AKR20260123126500030",
       "pubDate": "Fri, 23 Jan 2026 16:18:09 +0900"
-    },
-    {
-      "title": "한정애, 전략산업 수출 지원 위한 '전략수출금융지원법' 발의",
-      "link": "https://www.yna.co.kr/view/AKR20260123123500001",
-      "pubDate": "Fri, 23 Jan 2026 16:09:59 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260123126100002",
-      "pubDate": "Fri, 23 Jan 2026 16:08:55 +0900"
-    },
-    {
-      "title": "원/달러 환율 사흘째 하락…1,465.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260123125300002",
-      "pubDate": "Fri, 23 Jan 2026 16:08:39 +0900"
     }
   ]
 }
