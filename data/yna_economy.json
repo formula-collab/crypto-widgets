@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769168413,
+  "updated_at_unix": 1769171005,
   "items": [
+    {
+      "title": "'지하철 8호선 판교 연장사업' 국토부 투자심사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260123161000061",
+      "pubDate": "Fri, 23 Jan 2026 21:02:29 +0900"
+    },
+    {
+      "title": "경기 안성서 아프리카돼지열병 확진…올해 두 번째 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260123160500030",
+      "pubDate": "Fri, 23 Jan 2026 20:42:27 +0900"
+    },
     {
       "title": "예별손보 예비입찰에 2곳 이상 참여…본입찰 수순",
       "link": "https://www.yna.co.kr/view/AKR20260123157600002",
@@ -142,16 +152,6 @@
       "title": "[특징주] 슈프리마, '현대차 핵심 파트너' 전망에 상한가 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260123043551008",
       "pubDate": "Fri, 23 Jan 2026 16:04:28 +0900"
-    },
-    {
-      "title": "'전강후약' 코스피, 오름폭 줄여 4,990대 마감…'천스닥' 눈앞(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260123124000008",
-      "pubDate": "Fri, 23 Jan 2026 16:03:21 +0900"
-    },
-    {
-      "title": "부산은행, 상반기 경영전략 수립…해양·생산적금융 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260123124200051",
-      "pubDate": "Fri, 23 Jan 2026 16:01:07 +0900"
     }
   ]
 }
