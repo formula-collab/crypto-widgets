@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769209922,
+  "updated_at_unix": 1769211581,
   "items": [
+    {
+      "title": "고물가·한파에 가격 상승 '남해 시금(金)치'…재배면적 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260123062800052",
+      "pubDate": "Sat, 24 Jan 2026 08:20:01 +0900"
+    },
     {
       "title": "안산시다문화센터 직업훈련 성과…결혼이민 73명 자격증 취득",
       "link": "https://www.yna.co.kr/view/AKR20260123087700061",
@@ -147,11 +152,6 @@
       "title": "NH농협은행 경남 영업점, 금융취약계층 배려창구 운영",
       "link": "https://www.yna.co.kr/view/AKR20260123133200052",
       "pubDate": "Fri, 23 Jan 2026 16:43:39 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.137%",
-      "link": "https://www.yna.co.kr/view/AKR20260123132500008",
-      "pubDate": "Fri, 23 Jan 2026 16:40:26 +0900"
     }
   ]
 }
