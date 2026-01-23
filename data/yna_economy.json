@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769152734,
+  "updated_at_unix": 1769154218,
   "items": [
+    {
+      "title": "전남지역 공시지가 0.3% 상승…여수 중앙동 대지 최고가",
+      "link": "https://www.yna.co.kr/view/AKR20260123130000054",
+      "pubDate": "Fri, 23 Jan 2026 16:31:19 +0900"
+    },
+    {
+      "title": "거래소, 기업가치 제고 관련 공시책임자 설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260123127400008",
+      "pubDate": "Fri, 23 Jan 2026 16:21:14 +0900"
+    },
+    {
+      "title": "현대판 음서제? 이혜훈 \"시부 훈장으로 장남 연세대 입학\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260123072751002",
+      "pubDate": "Fri, 23 Jan 2026 16:21:04 +0900"
+    },
+    {
+      "title": "미국 고배당주 투자 ETF 등 2종, 27일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260123125900008",
+      "pubDate": "Fri, 23 Jan 2026 16:19:44 +0900"
+    },
+    {
+      "title": "빙그레 작년 영업이익 33% 감소…\"원부자재 가격 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123126500030",
+      "pubDate": "Fri, 23 Jan 2026 16:18:09 +0900"
+    },
     {
       "title": "한정애, 전략산업 수출 지원 위한 '전략수출금융지원법' 발의",
       "link": "https://www.yna.co.kr/view/AKR20260123123500001",
@@ -127,31 +152,6 @@
       "title": "교촌치킨, 전 가맹점에 튀김유 1개월 무상공급…\"점주와 상생\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260123066351030",
       "pubDate": "Fri, 23 Jan 2026 15:13:00 +0900"
-    },
-    {
-      "title": "\"쿠팡, 미국뒤에 숨어 정부압박 비겁…불법행위 사죄하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123105900030",
-      "pubDate": "Fri, 23 Jan 2026 15:07:42 +0900"
-    },
-    {
-      "title": "[부고] 선석기(광주경제자유구역청장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260123108200054",
-      "pubDate": "Fri, 23 Jan 2026 15:06:23 +0900"
-    },
-    {
-      "title": "이상일 용인시장, 김동연 지사에 '지방산단 심의권한' 이양 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260123102600061",
-      "pubDate": "Fri, 23 Jan 2026 15:03:35 +0900"
-    },
-    {
-      "title": "지구촌나눔운동, 코이카 청년중기봉사단 동남아 파견",
-      "link": "https://www.yna.co.kr/view/AKR20260123104700371",
-      "pubDate": "Fri, 23 Jan 2026 15:03:31 +0900"
-    },
-    {
-      "title": "\"국제유가 내려도 요지부동 전기요금…위기업종만이라도 낮춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123040700003",
-      "pubDate": "Fri, 23 Jan 2026 15:00:00 +0900"
     }
   ]
 }
