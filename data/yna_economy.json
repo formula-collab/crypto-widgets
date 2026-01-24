@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769288971,
+  "updated_at_unix": 1769290585,
   "items": [
+    {
+      "title": "창고형 할인마트, 4년새 결제액 두배로…대형마트는 뒷걸음",
+      "link": "https://www.yna.co.kr/view/AKR20260123145300030",
+      "pubDate": "Sun, 25 Jan 2026 06:15:00 +0900"
+    },
+    {
+      "title": "[일하는 AI로봇 온다] ③ 로봇이 일자리 줄인다?…고용 늘고 임금 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260124044800003",
+      "pubDate": "Sun, 25 Jan 2026 06:07:02 +0900"
+    },
+    {
+      "title": "[일하는 AI로봇 온다] ② 新러다이트 오나…산업·노동계 상생 해법은",
+      "link": "https://www.yna.co.kr/view/AKR20260123162100003",
+      "pubDate": "Sun, 25 Jan 2026 06:07:01 +0900"
+    },
     {
       "title": "효자 노릇한 '아이폰17'…삼성D·LGD, 4분기 호실적 예고",
       "link": "https://www.yna.co.kr/view/AKR20260123146000003",
@@ -137,21 +152,6 @@
       "title": "울주군야영장·장애인복지관협회, 장애인 복지 활성화 협약",
       "link": "https://www.yna.co.kr/view/AKR20260123051500057",
       "pubDate": "Sat, 24 Jan 2026 10:10:02 +0900"
-    },
-    {
-      "title": "[다음주 경제] 생산·소비 지표 회복됐나…美 FOMC도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260124023700002",
-      "pubDate": "Sat, 24 Jan 2026 09:35:45 +0900"
-    },
-    {
-      "title": "조경태, 부산 북항재개발 '토지·건축물' 통합개발 법안 발의",
-      "link": "https://www.yna.co.kr/view/AKR20260123124700051",
-      "pubDate": "Sat, 24 Jan 2026 09:30:00 +0900"
-    },
-    {
-      "title": "미일 외환당국 엔/달러 환율 개입하나…엔화 강세로 반전",
-      "link": "https://www.yna.co.kr/view/AKR20260124022200073",
-      "pubDate": "Sat, 24 Jan 2026 09:25:03 +0900"
     }
   ]
 }
