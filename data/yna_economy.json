@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769216007,
+  "updated_at_unix": 1769222948,
   "items": [
+    {
+      "title": "울주군, 올해 재산세 과세자료 일제정비…6월 1일 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260123051700057",
+      "pubDate": "Sat, 24 Jan 2026 11:10:00 +0900"
+    },
+    {
+      "title": "전남도, 2025년 김 수출액 4억3천만 달러…'역대 최고'",
+      "link": "https://www.yna.co.kr/view/AKR20260123132700054",
+      "pubDate": "Sat, 24 Jan 2026 11:00:02 +0900"
+    },
+    {
+      "title": "국가공무원 5급 공채·외교관 후보자 시험 경쟁률 31.2대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260124028100001",
+      "pubDate": "Sat, 24 Jan 2026 10:59:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260124026200011",
+      "pubDate": "Sat, 24 Jan 2026 10:30:01 +0900"
+    },
+    {
+      "title": "울주군야영장·장애인복지관협회, 장애인 복지 활성화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260123051500057",
+      "pubDate": "Sat, 24 Jan 2026 10:10:02 +0900"
+    },
     {
       "title": "[다음주 경제] 생산·소비 지표 회복됐나…美 FOMC도 주목",
       "link": "https://www.yna.co.kr/view/AKR20260124023700002",
@@ -127,31 +152,6 @@
       "title": "국고채 금리, 외인 선물 매도 속 일제히 상승…3년물 3.137%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260123132551008",
       "pubDate": "Fri, 23 Jan 2026 17:12:26 +0900"
-    },
-    {
-      "title": "李, '장남 위장미혼' 부정청약 의혹에 \"결혼 직후 깨진 상황\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260123075351002",
-      "pubDate": "Fri, 23 Jan 2026 17:11:56 +0900"
-    },
-    {
-      "title": "일본은행, 기준금리 예상대로 동결…0.75%로 유지(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260123079252073",
-      "pubDate": "Fri, 23 Jan 2026 17:01:31 +0900"
-    },
-    {
-      "title": "구윤철 \"차세대 전력반도체 골든타임…국민성장펀드 지원 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123134300002",
-      "pubDate": "Fri, 23 Jan 2026 17:00:01 +0900"
-    },
-    {
-      "title": "李 대통령이 지적한 바가지요금…정부, 근절대책 1분기 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260123127900002",
-      "pubDate": "Fri, 23 Jan 2026 17:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 관세청장, 잠비아 국회 대표단 면담…전자통관시스템 지원 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260123133300002",
-      "pubDate": "Fri, 23 Jan 2026 16:52:06 +0900"
     }
   ]
 }
