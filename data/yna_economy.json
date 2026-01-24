@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769259920,
+  "updated_at_unix": 1769262342,
   "items": [
+    {
+      "title": "경기 포천 양돈농장서 아프리카돼지열병 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260124048500030",
+      "pubDate": "Sat, 24 Jan 2026 22:01:54 +0900"
+    },
     {
       "title": "1208회 로또 1등 6명…당첨금 각 50억171만원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260124047151002",
@@ -147,11 +152,6 @@
       "title": "삼성증권, 순이익 1조원 창사 이래 첫 돌파…주당 4천원 배당",
       "link": "https://www.yna.co.kr/view/AKR20260123154200008",
       "pubDate": "Fri, 23 Jan 2026 18:51:59 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260123139900011",
-      "pubDate": "Fri, 23 Jan 2026 18:00:01 +0900"
     }
   ]
 }
