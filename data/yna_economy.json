@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769294449,
+  "updated_at_unix": 1769296240,
   "items": [
+    {
+      "title": "트럼프 위험에 독일서 \"미국 예치한 금 본국 송환\" 목소리",
+      "link": "https://www.yna.co.kr/view/AKR20260125005900009",
+      "pubDate": "Sun, 25 Jan 2026 08:03:16 +0900"
+    },
+    {
+      "title": "NH농협금융 \"생산적 금융 체계적 이행\"…특별위원회 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260123142100002",
+      "pubDate": "Sun, 25 Jan 2026 08:00:01 +0900"
+    },
     {
       "title": "한중외교 훈풍에 '중국행 발길' 늘어…여행사들 선점 경쟁 치열",
       "link": "https://www.yna.co.kr/view/AKR20260124034500030",
@@ -142,16 +152,6 @@
       "title": "'달러 사재기' 주춤하나…달러예금 빠지고 달러→원 환전도 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260124043800002",
       "pubDate": "Sun, 25 Jan 2026 05:45:00 +0900"
-    },
-    {
-      "title": "경기 포천 양돈농장서 아프리카돼지열병 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260124048500030",
-      "pubDate": "Sat, 24 Jan 2026 22:01:54 +0900"
-    },
-    {
-      "title": "1208회 로또 1등 6명…당첨금 각 50억171만원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260124047151002",
-      "pubDate": "Sat, 24 Jan 2026 21:01:16 +0900"
     }
   ]
 }
