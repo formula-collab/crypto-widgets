@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769211581,
+  "updated_at_unix": 1769216007,
   "items": [
+    {
+      "title": "[다음주 경제] 생산·소비 지표 회복됐나…美 FOMC도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260124023700002",
+      "pubDate": "Sat, 24 Jan 2026 09:35:45 +0900"
+    },
+    {
+      "title": "조경태, 부산 북항재개발 '토지·건축물' 통합개발 법안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20260123124700051",
+      "pubDate": "Sat, 24 Jan 2026 09:30:00 +0900"
+    },
+    {
+      "title": "미일 외환당국 엔/달러 환율 개입하나…엔화 강세로 반전",
+      "link": "https://www.yna.co.kr/view/AKR20260124022200073",
+      "pubDate": "Sat, 24 Jan 2026 09:25:03 +0900"
+    },
     {
       "title": "고물가·한파에 가격 상승 '남해 시금(金)치'…재배면적 확대",
       "link": "https://www.yna.co.kr/view/AKR20260123062800052",
@@ -137,21 +152,6 @@
       "title": "[게시판] 관세청장, 잠비아 국회 대표단 면담…전자통관시스템 지원 논의",
       "link": "https://www.yna.co.kr/view/AKR20260123133300002",
       "pubDate": "Fri, 23 Jan 2026 16:52:06 +0900"
-    },
-    {
-      "title": "기획처 \"협동조합은 양극화·지방소멸 보완…1분기 과제 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123133900002",
-      "pubDate": "Fri, 23 Jan 2026 16:49:56 +0900"
-    },
-    {
-      "title": "대구 표준지 공시지가 지난해보다 평균 1.43% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260123133400053",
-      "pubDate": "Fri, 23 Jan 2026 16:49:28 +0900"
-    },
-    {
-      "title": "NH농협은행 경남 영업점, 금융취약계층 배려창구 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260123133200052",
-      "pubDate": "Fri, 23 Jan 2026 16:43:39 +0900"
     }
   ]
 }
