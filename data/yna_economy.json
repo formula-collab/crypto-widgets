@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769290585,
+  "updated_at_unix": 1769292622,
   "items": [
+    {
+      "title": "외인 보유주식 비중 5년 9개월여만 최대…이달 '조방원' 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260123153200008",
+      "pubDate": "Sun, 25 Jan 2026 07:03:00 +0900"
+    },
+    {
+      "title": "배민, 로드러너 확대하나…라이더들 반발 이어져",
+      "link": "https://www.yna.co.kr/view/AKR20260124025400030",
+      "pubDate": "Sun, 25 Jan 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 5,000 찍은 코스피, '더 갈까' vs '쉬어갈까' 공방 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260124026700008",
+      "pubDate": "Sun, 25 Jan 2026 07:00:01 +0900"
+    },
+    {
+      "title": "[빈집의 재탄생] 30년 낡은 모텔, 양평 청년공간으로 변신",
+      "link": "https://www.yna.co.kr/view/AKR20260122092900061",
+      "pubDate": "Sun, 25 Jan 2026 06:45:02 +0900"
+    },
+    {
+      "title": "한국, 작년 커피수입액 2조6천억원…1년새 8천억원 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260124042100030",
+      "pubDate": "Sun, 25 Jan 2026 06:33:00 +0900"
+    },
     {
       "title": "창고형 할인마트, 4년새 결제액 두배로…대형마트는 뒷걸음",
       "link": "https://www.yna.co.kr/view/AKR20260123145300030",
@@ -127,31 +152,6 @@
       "title": "여한구 \"USTR 대표에게 쿠팡 수사, 통상 이슈와 구분 강조\"",
       "link": "https://www.yna.co.kr/view/AKR20260124033800003",
       "pubDate": "Sat, 24 Jan 2026 13:26:49 +0900"
-    },
-    {
-      "title": "울주군, 올해 재산세 과세자료 일제정비…6월 1일 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260123051700057",
-      "pubDate": "Sat, 24 Jan 2026 11:10:00 +0900"
-    },
-    {
-      "title": "전남도, 2025년 김 수출액 4억3천만 달러…'역대 최고'",
-      "link": "https://www.yna.co.kr/view/AKR20260123132700054",
-      "pubDate": "Sat, 24 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국가공무원 5급 공채·외교관 후보자 시험 경쟁률 31.2대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260124028100001",
-      "pubDate": "Sat, 24 Jan 2026 10:59:03 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260124026200011",
-      "pubDate": "Sat, 24 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "울주군야영장·장애인복지관협회, 장애인 복지 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260123051500057",
-      "pubDate": "Sat, 24 Jan 2026 10:10:02 +0900"
     }
   ]
 }
