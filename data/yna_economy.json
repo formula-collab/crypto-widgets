@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769296240,
+  "updated_at_unix": 1769297864,
   "items": [
+    {
+      "title": "코리아화인에프티, 2030년까지 영주에 300억 투자…공장 설립",
+      "link": "https://www.yna.co.kr/view/AKR20260125009400053",
+      "pubDate": "Sun, 25 Jan 2026 08:33:10 +0900"
+    },
+    {
+      "title": "강원도 '폐광지 창업 활성화 지원 사업' 모집…최대 2억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260124044600062",
+      "pubDate": "Sun, 25 Jan 2026 08:30:01 +0900"
+    },
+    {
+      "title": "하나금융 \"올해 생산적 금융 17조8천억원 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260124045300002",
+      "pubDate": "Sun, 25 Jan 2026 08:30:01 +0900"
+    },
     {
       "title": "트럼프 위험에 독일서 \"미국 예치한 금 본국 송환\" 목소리",
       "link": "https://www.yna.co.kr/view/AKR20260125005900009",
@@ -137,21 +152,6 @@
       "title": "'반짝추경'에도 자영업 5년만에 최대폭 감소…2030부터 때렸다",
       "link": "https://www.yna.co.kr/view/AKR20260124042000002",
       "pubDate": "Sun, 25 Jan 2026 05:49:00 +0900"
-    },
-    {
-      "title": "규제에 고금리까지…5대銀 가계대출 2년9개월만에 두달 연속↓",
-      "link": "https://www.yna.co.kr/view/AKR20260124048200002",
-      "pubDate": "Sun, 25 Jan 2026 05:47:00 +0900"
-    },
-    {
-      "title": "0%대 외화예금 이자…신한·하나도 금리 파격인하로 '환율방어'",
-      "link": "https://www.yna.co.kr/view/AKR20260124048800002",
-      "pubDate": "Sun, 25 Jan 2026 05:45:02 +0900"
-    },
-    {
-      "title": "'달러 사재기' 주춤하나…달러예금 빠지고 달러→원 환전도 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260124043800002",
-      "pubDate": "Sun, 25 Jan 2026 05:45:00 +0900"
     }
   ]
 }
