@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769247547,
+  "updated_at_unix": 1769249470,
   "items": [
+    {
+      "title": "'소상공인 부담 덜고 지역 경제 활성화'…영월, 공공배달앱 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260124044300062",
+      "pubDate": "Sat, 24 Jan 2026 18:48:52 +0900"
+    },
     {
       "title": "[부고] 김민덕(한섬 대표이사 사장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260124035700030",
@@ -147,11 +152,6 @@
       "title": "aT, 미국산 계란 224만개 수입…첫 물량 오늘 도착",
       "link": "https://www.yna.co.kr/view/AKR20260123142500030",
       "pubDate": "Fri, 23 Jan 2026 17:30:14 +0900"
-    },
-    {
-      "title": "정부, 쌀 시장격리 보류·가공용 쌀 6만t 공급…쌀값 안정 유도",
-      "link": "https://www.yna.co.kr/view/AKR20260123142400030",
-      "pubDate": "Fri, 23 Jan 2026 17:29:35 +0900"
     }
   ]
 }
