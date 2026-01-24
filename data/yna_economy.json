@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769233315,
+  "updated_at_unix": 1769235426,
   "items": [
+    {
+      "title": "[부고] 김민덕(한섬 대표이사 사장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260124035700030",
+      "pubDate": "Sat, 24 Jan 2026 14:59:15 +0900"
+    },
     {
       "title": "여한구 \"USTR 대표에게 쿠팡 수사, 통상 이슈와 구분 강조\"",
       "link": "https://www.yna.co.kr/view/AKR20260124033800003",
@@ -147,11 +152,6 @@
       "title": "정부, 쌀 시장격리 보류·가공용 쌀 6만t 공급…쌀값 안정 유도",
       "link": "https://www.yna.co.kr/view/AKR20260123142400030",
       "pubDate": "Fri, 23 Jan 2026 17:29:35 +0900"
-    },
-    {
-      "title": "제이알글로벌리츠, 1천200억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260123139300008",
-      "pubDate": "Fri, 23 Jan 2026 17:14:08 +0900"
     }
   ]
 }
