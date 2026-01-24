@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769292622,
+  "updated_at_unix": 1769294449,
   "items": [
+    {
+      "title": "한중외교 훈풍에 '중국행 발길' 늘어…여행사들 선점 경쟁 치열",
+      "link": "https://www.yna.co.kr/view/AKR20260124034500030",
+      "pubDate": "Sun, 25 Jan 2026 07:15:01 +0900"
+    },
+    {
+      "title": "'불장'에 증권가 목표주가 넘은 종목 속출…상승 여력 큰 종목은",
+      "link": "https://www.yna.co.kr/view/AKR20260123158600008",
+      "pubDate": "Sun, 25 Jan 2026 07:15:00 +0900"
+    },
+    {
+      "title": "\"외국인 발길 잡아라\"…K패션 '관광명소'에 출점 잇따라",
+      "link": "https://www.yna.co.kr/view/AKR20260123164200030",
+      "pubDate": "Sun, 25 Jan 2026 07:13:00 +0900"
+    },
+    {
+      "title": "증권사 보고서 70만건 분석했더니…\"2013년 이후 투자가치 소멸\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123125700008",
+      "pubDate": "Sun, 25 Jan 2026 07:05:00 +0900"
+    },
     {
       "title": "외인 보유주식 비중 5년 9개월여만 최대…이달 '조방원' 집중",
       "link": "https://www.yna.co.kr/view/AKR20260123153200008",
@@ -132,26 +152,6 @@
       "title": "1208회 로또 1등 6명…당첨금 각 50억171만원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260124047151002",
       "pubDate": "Sat, 24 Jan 2026 21:01:16 +0900"
-    },
-    {
-      "title": "1208회 로또 1등 '6, 27, 30, 36, 38, 42'",
-      "link": "https://www.yna.co.kr/view/AKR20260124047100002",
-      "pubDate": "Sat, 24 Jan 2026 20:45:29 +0900"
-    },
-    {
-      "title": "'소상공인 부담 덜고 지역 경제 활성화'…영월, 공공배달앱 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260124044300062",
-      "pubDate": "Sat, 24 Jan 2026 18:48:52 +0900"
-    },
-    {
-      "title": "[부고] 김민덕(한섬 대표이사 사장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260124035700030",
-      "pubDate": "Sat, 24 Jan 2026 14:59:15 +0900"
-    },
-    {
-      "title": "여한구 \"USTR 대표에게 쿠팡 수사, 통상 이슈와 구분 강조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260124033800003",
-      "pubDate": "Sat, 24 Jan 2026 13:26:49 +0900"
     }
   ]
 }
