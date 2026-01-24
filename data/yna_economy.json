@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769228805,
+  "updated_at_unix": 1769230337,
   "items": [
+    {
+      "title": "여한구 \"USTR 대표에게 쿠팡 수사, 통상 이슈와 구분 강조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260124033800003",
+      "pubDate": "Sat, 24 Jan 2026 13:26:49 +0900"
+    },
     {
       "title": "울주군, 올해 재산세 과세자료 일제정비…6월 1일 부과",
       "link": "https://www.yna.co.kr/view/AKR20260123051700057",
@@ -147,11 +152,6 @@
       "title": "제이알글로벌리츠, 1천200억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260123139300008",
       "pubDate": "Fri, 23 Jan 2026 17:14:08 +0900"
-    },
-    {
-      "title": "국고채 금리, 외인 선물 매도 속 일제히 상승…3년물 3.137%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260123132551008",
-      "pubDate": "Fri, 23 Jan 2026 17:12:26 +0900"
     }
   ]
 }
