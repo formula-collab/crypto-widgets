@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769373741,
+  "updated_at_unix": 1769375395,
   "items": [
+    {
+      "title": "SK에코플랜트, 사업 영역에 가스·화학물질 제조 등 추가",
+      "link": "https://www.yna.co.kr/view/AKR20260125023500003",
+      "pubDate": "Mon, 26 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "울산시, 모든 투자기업에 밀착 행정 지원…현장 책임관 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260125044800057",
+      "pubDate": "Mon, 26 Jan 2026 06:00:07 +0900"
+    },
+    {
+      "title": "경제계 \"배임죄, 과도한 기업 경제형벌…조속히 전면 개편을\"",
+      "link": "https://www.yna.co.kr/view/AKR20260125023400003",
+      "pubDate": "Mon, 26 Jan 2026 06:00:01 +0900"
+    },
+    {
+      "title": "생보업계, 새도약기금 출연금 분담기준 확정…'빅5'가 65% 부담",
+      "link": "https://www.yna.co.kr/view/AKR20260124047800002",
+      "pubDate": "Mon, 26 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "李대통령 \"재연장 생각했다면 오산\"…양도세중과 유예종료 재강조(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260125023351001",
@@ -132,26 +152,6 @@
       "title": "AI로 육상 양식장 질병 막는다…\"광어 생존율 22%p 높여\"",
       "link": "https://www.yna.co.kr/view/AKR20260124043400030",
       "pubDate": "Sun, 25 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "\"남북협력 재개, 일회성 지원보다 인력·기술 교류로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260124044900002",
-      "pubDate": "Sun, 25 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국토부, 내달 4일까지 9기 하자심사분쟁조정위원 22명 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260125012100003",
-      "pubDate": "Sun, 25 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "산업부, 대·중·소기업 '공급망 탄소파트너십' 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260125012200003",
-      "pubDate": "Sun, 25 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "K-소비재, 더우인 타고 중국 내수시장 공략 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20260125014800003",
-      "pubDate": "Sun, 25 Jan 2026 11:00:00 +0900"
     }
   ]
 }
