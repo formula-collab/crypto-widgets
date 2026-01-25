@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769321844,
+  "updated_at_unix": 1769323947,
   "items": [
+    {
+      "title": "'수장 공백' 길어지는 기획예산처…임기근 대행 체제로 현안대응 총력(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260124039751002",
+      "pubDate": "Sun, 25 Jan 2026 15:19:58 +0900"
+    },
+    {
+      "title": "KB \"서울 오피스텔 매매가 12개월째 상승…오름폭은 둔화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260125030300003",
+      "pubDate": "Sun, 25 Jan 2026 15:15:16 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260125030200011",
@@ -142,16 +152,6 @@
       "title": "\"토허구역에서 100일 만에 집 못팔아\"…양도세 중과 시행 후폭풍",
       "link": "https://www.yna.co.kr/view/AKR20260125015900003",
       "pubDate": "Sun, 25 Jan 2026 10:05:50 +0900"
-    },
-    {
-      "title": "LG전자, 설치·운영 편리한 초고화질 사이니지 신제품 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260125011700003",
-      "pubDate": "Sun, 25 Jan 2026 10:00:00 +0900"
-    },
-    {
-      "title": "경북 표준지 공시지가 전년 대비 평균 1.16％ 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260125014200053",
-      "pubDate": "Sun, 25 Jan 2026 09:37:59 +0900"
     }
   ]
 }
