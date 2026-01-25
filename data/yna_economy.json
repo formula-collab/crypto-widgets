@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769311412,
+  "updated_at_unix": 1769315618,
   "items": [
+    {
+      "title": "KB \"서울아파트값 상승폭 2개월째 둔화…집값 상승 전망은 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260125025000003",
+      "pubDate": "Sun, 25 Jan 2026 12:50:44 +0900"
+    },
     {
       "title": "李대통령 \"재연장 생각했다면 오산\"…양도세중과 유예종료 재강조",
       "link": "https://www.yna.co.kr/view/AKR20260125023300001",
@@ -54,7 +59,7 @@
       "pubDate": "Sun, 25 Jan 2026 11:27:56 +0900"
     },
     {
-      "title": "충남 표준지 공지시지가 평균 1.51％↑…아산 2.55％로 최고",
+      "title": "충남 표준지 공시지가 평균 1.51％↑…아산 2.55％로 최고",
       "link": "https://www.yna.co.kr/view/AKR20260125021200063",
       "pubDate": "Sun, 25 Jan 2026 11:21:43 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "우오현 SM그룹 회장, 계열사 현장소장 만나 '강한 리더십' 강조",
       "link": "https://www.yna.co.kr/view/AKR20260125012900003",
       "pubDate": "Sun, 25 Jan 2026 09:14:00 +0900"
-    },
-    {
-      "title": "울주군 \"자동차세 연납해 4.6% 할인받으세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123064400057",
-      "pubDate": "Sun, 25 Jan 2026 09:10:01 +0900"
     }
   ]
 }
