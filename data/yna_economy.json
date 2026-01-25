@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769297864,
+  "updated_at_unix": 1769302850,
   "items": [
+    {
+      "title": "경북 표준지 공시지가 전년 대비 평균 1.16％ 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260125014200053",
+      "pubDate": "Sun, 25 Jan 2026 09:37:59 +0900"
+    },
+    {
+      "title": "부산 표준지 공시지가 평균 1.92% 상승…해운대구 2.74%로 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260125013500051",
+      "pubDate": "Sun, 25 Jan 2026 09:28:45 +0900"
+    },
+    {
+      "title": "우오현 SM그룹 회장, 계열사 현장소장 만나 '강한 리더십' 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260125012900003",
+      "pubDate": "Sun, 25 Jan 2026 09:14:00 +0900"
+    },
+    {
+      "title": "울주군 \"자동차세 연납해 4.6% 할인받으세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260123064400057",
+      "pubDate": "Sun, 25 Jan 2026 09:10:01 +0900"
+    },
+    {
+      "title": "대구시, 2월 2일부터 대구로페이 판매…골목상권 활력 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260125012300053",
+      "pubDate": "Sun, 25 Jan 2026 09:08:52 +0900"
+    },
+    {
+      "title": "GS25, 버추얼 아이돌 '플레이브' 협업상품 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260125012000030",
+      "pubDate": "Sun, 25 Jan 2026 09:06:21 +0900"
+    },
+    {
+      "title": "\"학벌보다 실력\"…부산 고교 인재들, 공기업·대기업 취업",
+      "link": "https://www.yna.co.kr/view/AKR20260123065100051",
+      "pubDate": "Sun, 25 Jan 2026 09:00:07 +0900"
+    },
+    {
+      "title": "평창군, 공동주택 유지보수 단지별 5천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260123104500062",
+      "pubDate": "Sun, 25 Jan 2026 09:00:05 +0900"
+    },
+    {
+      "title": "[게시판] NH농협은행, 구세군 서울후생원서 3억 김치나눔",
+      "link": "https://www.yna.co.kr/view/AKR20260123132200002",
+      "pubDate": "Sun, 25 Jan 2026 09:00:02 +0900"
+    },
+    {
+      "title": "정진완 우리은행장 \"올해 경쟁은행과 격차 빠르게 좁힐 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260124045800002",
+      "pubDate": "Sun, 25 Jan 2026 09:00:01 +0900"
+    },
+    {
+      "title": "BGF리테일, 식품 사막화지역에 '시니어 이동형 편의점' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260125010500030",
+      "pubDate": "Sun, 25 Jan 2026 08:47:14 +0900"
+    },
     {
       "title": "코리아화인에프티, 2030년까지 영주에 300억 투자…공장 설립",
       "link": "https://www.yna.co.kr/view/AKR20260125009400053",
@@ -97,61 +152,6 @@
       "title": "금리 인하 기조에 작년 국내 리츠시장 3년 만에 두자릿수 성장",
       "link": "https://www.yna.co.kr/view/AKR20260123149600003",
       "pubDate": "Sun, 25 Jan 2026 06:01:01 +0900"
-    },
-    {
-      "title": "'이혜훈 늪'에 빠진 기획예산처…낙마해도 임명돼도 험로",
-      "link": "https://www.yna.co.kr/view/AKR20260124039700002",
-      "pubDate": "Sun, 25 Jan 2026 06:01:01 +0900"
-    },
-    {
-      "title": "설 차례상 비용 전통시장서 29만6천원…\"지난해보다 소폭 낮아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123127600030",
-      "pubDate": "Sun, 25 Jan 2026 06:00:07 +0900"
-    },
-    {
-      "title": "삼성전자·SK하이닉스 나란히 분기 영업익 20조 고지 오를까",
-      "link": "https://www.yna.co.kr/view/AKR20260123129500003",
-      "pubDate": "Sun, 25 Jan 2026 06:00:05 +0900"
-    },
-    {
-      "title": "G마켓도 새 멤버십 내놓는다…적립형 '꼭멤버십' 1분기 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260123110400030",
-      "pubDate": "Sun, 25 Jan 2026 06:00:03 +0900"
-    },
-    {
-      "title": "롯데마트 설선물 사전예약 호조…\"5만원미만 세트판매 93% 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123136400030",
-      "pubDate": "Sun, 25 Jan 2026 06:00:02 +0900"
-    },
-    {
-      "title": "주요 백화점, 설 선물세트 본판매 개시…프리미엄 대결",
-      "link": "https://www.yna.co.kr/view/AKR20260123145200030",
-      "pubDate": "Sun, 25 Jan 2026 06:00:01 +0900"
-    },
-    {
-      "title": "삼전 주가 급등에 삼성생명도 강세…유배당 계약 리스크 커지나",
-      "link": "https://www.yna.co.kr/view/AKR20260124047200002",
-      "pubDate": "Sun, 25 Jan 2026 05:59:00 +0900"
-    },
-    {
-      "title": "쿠팡 美 공세 속 공정위 조사 길어져…인기상품 가로채기 조준",
-      "link": "https://www.yna.co.kr/view/AKR20260124045700002",
-      "pubDate": "Sun, 25 Jan 2026 05:53:06 +0900"
-    },
-    {
-      "title": "금감원, 특사경 확대 논란에 '자체 통제안' 제시…금융위는 냉담",
-      "link": "https://www.yna.co.kr/view/AKR20260124044500002",
-      "pubDate": "Sun, 25 Jan 2026 05:51:00 +0900"
-    },
-    {
-      "title": "수출 볕드는데 내수는 글쎄…양극화 키우는 'K자형 성장' 난제",
-      "link": "https://www.yna.co.kr/view/AKR20260124040700002",
-      "pubDate": "Sun, 25 Jan 2026 05:49:03 +0900"
-    },
-    {
-      "title": "'반짝추경'에도 자영업 5년만에 최대폭 감소…2030부터 때렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260124042000002",
-      "pubDate": "Sun, 25 Jan 2026 05:49:00 +0900"
     }
   ]
 }
