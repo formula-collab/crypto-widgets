@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769320032,
+  "updated_at_unix": 1769321844,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260125030200011",
+      "pubDate": "Sun, 25 Jan 2026 15:00:00 +0900"
+    },
     {
       "title": "\"李, 양도세 중과 5월9일 계약까지 유예\"…다주택 매물 쏟아질까(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260125015951003",
@@ -147,11 +152,6 @@
       "title": "경북 표준지 공시지가 전년 대비 평균 1.16％ 상승",
       "link": "https://www.yna.co.kr/view/AKR20260125014200053",
       "pubDate": "Sun, 25 Jan 2026 09:37:59 +0900"
-    },
-    {
-      "title": "부산 표준지 공시지가 평균 1.92% 상승…해운대구 2.74%로 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260125013500051",
-      "pubDate": "Sun, 25 Jan 2026 09:28:45 +0900"
     }
   ]
 }
