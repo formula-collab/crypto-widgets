@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769339340,
+  "updated_at_unix": 1769340957,
   "items": [
+    {
+      "title": "올해 세 차례 아프리카돼지열병 발생…중수본 \"방역관리 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260125048700030",
+      "pubDate": "Sun, 25 Jan 2026 20:08:12 +0900"
+    },
     {
       "title": "쿠팡 美 공세 속 공정위 조사 길어져…인기상품 가로채기 조준(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260124045751002",
@@ -147,11 +152,6 @@
       "title": "'한일 제주 스타트업 펀드' 출자 재일제주인에 중기장관 감사패",
       "link": "https://www.yna.co.kr/view/AKR20260125019000056",
       "pubDate": "Sun, 25 Jan 2026 10:51:38 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260125016300011",
-      "pubDate": "Sun, 25 Jan 2026 10:30:01 +0900"
     }
   ]
 }
