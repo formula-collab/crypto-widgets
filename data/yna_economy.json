@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769380933,
+  "updated_at_unix": 1769382648,
   "items": [
+    {
+      "title": "[마켓뷰] 순환매 지속되며 코스피 5,000선 안착하고 '천스닥' 돌파할까",
+      "link": "https://www.yna.co.kr/view/AKR20260126018900008",
+      "pubDate": "Mon, 26 Jan 2026 08:06:50 +0900"
+    },
+    {
+      "title": "W컨셉, 설 앞두고 '뷰티페스타'…\"할인쿠폰·사은품 증정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126019300030",
+      "pubDate": "Mon, 26 Jan 2026 08:06:26 +0900"
+    },
+    {
+      "title": "부산시, 부기테크 투자쇼·스타트업 투자자 써밋 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260126016400051",
+      "pubDate": "Mon, 26 Jan 2026 07:54:31 +0900"
+    },
+    {
+      "title": "부산시, 유명 경제 유튜버 초청 청년 대상 '영끌' 클래스",
+      "link": "https://www.yna.co.kr/view/AKR20260126016000051",
+      "pubDate": "Mon, 26 Jan 2026 07:53:47 +0900"
+    },
+    {
+      "title": "파라텍, 10억원 유상증자…에스엘에스 투자조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260126014900008",
+      "pubDate": "Mon, 26 Jan 2026 07:45:11 +0900"
+    },
+    {
+      "title": "전기 아닌 '열' 노린다…'고온가스로' 예타 도전",
+      "link": "https://www.yna.co.kr/view/AKR20260123138500017",
+      "pubDate": "Mon, 26 Jan 2026 07:33:01 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260126011700011",
@@ -122,36 +152,6 @@
       "title": "300억대 땅 상속세 0원?…국세청, '꼼수' 베이커리카페 실태조사",
       "link": "https://www.yna.co.kr/view/AKR20260125000200002",
       "pubDate": "Sun, 25 Jan 2026 12:00:00 +0900"
-    },
-    {
-      "title": "경제 전문가 54% \"당분간 1%대 저성장\"…올해 성장률 1.8% 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260125016800003",
-      "pubDate": "Sun, 25 Jan 2026 12:00:00 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"부동산 불로소득 공화국…수술할 건 수술해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260125022500001",
-      "pubDate": "Sun, 25 Jan 2026 11:31:06 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"5월9일 계약분까지 양도세중과 유예 국무회의서 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260125022200001",
-      "pubDate": "Sun, 25 Jan 2026 11:27:56 +0900"
-    },
-    {
-      "title": "충남 표준지 공시지가 평균 1.51％↑…아산 2.55％로 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260125021200063",
-      "pubDate": "Sun, 25 Jan 2026 11:21:43 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"정부 이기는 시장없다\"…'양도세중과 유예종료' 재강조",
-      "link": "https://www.yna.co.kr/view/AKR20260125021100001",
-      "pubDate": "Sun, 25 Jan 2026 11:19:44 +0900"
-    },
-    {
-      "title": "인천 수출 첫 600억달러 돌파…대미 수출은 16년만에 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260123086800065",
-      "pubDate": "Sun, 25 Jan 2026 11:00:05 +0900"
     }
   ]
 }
