@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769375395,
+  "updated_at_unix": 1769377075,
   "items": [
+    {
+      "title": "작년 아파트 시장 '초양극화'…전국 상하위 20% 가격차 14.5배",
+      "link": "https://www.yna.co.kr/view/AKR20260126005400003",
+      "pubDate": "Mon, 26 Jan 2026 06:35:05 +0900"
+    },
+    {
+      "title": "베트남, 4년 연속 중국·미국 이어 '한국의 3대 교역국' 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260125043600003",
+      "pubDate": "Mon, 26 Jan 2026 06:15:00 +0900"
+    },
     {
       "title": "SK에코플랜트, 사업 영역에 가스·화학물질 제조 등 추가",
       "link": "https://www.yna.co.kr/view/AKR20260125023500003",
@@ -142,16 +152,6 @@
       "title": "농관원, 설 명절 앞두고 선물·제수용품 원산지 집중 점검",
       "link": "https://www.yna.co.kr/view/AKR20260123149100030",
       "pubDate": "Sun, 25 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "[게시판] 한경협국제경영원, 30일 'CES 2026, 미래를 여는 창' 조찬경연",
-      "link": "https://www.yna.co.kr/view/AKR20260123162800003",
-      "pubDate": "Sun, 25 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "AI로 육상 양식장 질병 막는다…\"광어 생존율 22%p 높여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260124043400030",
-      "pubDate": "Sun, 25 Jan 2026 11:00:02 +0900"
     }
   ]
 }
