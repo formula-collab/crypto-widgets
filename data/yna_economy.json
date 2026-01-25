@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769337799,
+  "updated_at_unix": 1769339340,
   "items": [
+    {
+      "title": "쿠팡 美 공세 속 공정위 조사 길어져…인기상품 가로채기 조준(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260124045751002",
+      "pubDate": "Sun, 25 Jan 2026 19:58:12 +0900"
+    },
     {
       "title": "LS 계열사 상장 계획에 암초…\"어려운 상황, 모든 방안 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260125044700003",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260125016300011",
       "pubDate": "Sun, 25 Jan 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[부고] 오우택(한국투자캐피탈 대표이사)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260125016600034",
-      "pubDate": "Sun, 25 Jan 2026 10:12:25 +0900"
     }
   ]
 }
