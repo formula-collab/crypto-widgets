@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769315618,
+  "updated_at_unix": 1769318452,
   "items": [
+    {
+      "title": "\"李, 양도세 중과 5월9일 계약까지 유예\"…다주택 매물 쏟아질까(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260125015951003",
+      "pubDate": "Sun, 25 Jan 2026 13:45:27 +0900"
+    },
     {
       "title": "KB \"서울아파트값 상승폭 2개월째 둔화…집값 상승 전망은 증가\"",
       "link": "https://www.yna.co.kr/view/AKR20260125025000003",
@@ -147,11 +152,6 @@
       "title": "부산 표준지 공시지가 평균 1.92% 상승…해운대구 2.74%로 최고",
       "link": "https://www.yna.co.kr/view/AKR20260125013500051",
       "pubDate": "Sun, 25 Jan 2026 09:28:45 +0900"
-    },
-    {
-      "title": "우오현 SM그룹 회장, 계열사 현장소장 만나 '강한 리더십' 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260125012900003",
-      "pubDate": "Sun, 25 Jan 2026 09:14:00 +0900"
     }
   ]
 }
