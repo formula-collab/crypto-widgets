@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769335879,
+  "updated_at_unix": 1769337799,
   "items": [
+    {
+      "title": "LS 계열사 상장 계획에 암초…\"어려운 상황, 모든 방안 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260125044700003",
+      "pubDate": "Sun, 25 Jan 2026 19:14:42 +0900"
+    },
     {
       "title": "경기신보-하나은행, '150억원 특별출연금' 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260125037100061",
@@ -147,11 +152,6 @@
       "title": "[부고] 오우택(한국투자캐피탈 대표이사)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260125016600034",
       "pubDate": "Sun, 25 Jan 2026 10:12:25 +0900"
-    },
-    {
-      "title": "춘천시, 노인일자리사업 역대 최대 규모로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260123129600062",
-      "pubDate": "Sun, 25 Jan 2026 10:10:00 +0900"
     }
   ]
 }
