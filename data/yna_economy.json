@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769326741,
+  "updated_at_unix": 1769328893,
   "items": [
+    {
+      "title": "경기신보-하나은행, '150억원 특별출연금' 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260125037100061",
+      "pubDate": "Sun, 25 Jan 2026 16:59:15 +0900"
+    },
     {
       "title": "'수장 공백' 길어지는 기획예산처…임기근 대행 체제로 현안대응 총력(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260124039751002",
@@ -147,11 +152,6 @@
       "title": "춘천시, 노인일자리사업 역대 최대 규모로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260123129600062",
       "pubDate": "Sun, 25 Jan 2026 10:10:00 +0900"
-    },
-    {
-      "title": "\"토허구역에서 100일 만에 집 못팔아\"…양도세 중과 시행 후폭풍",
-      "link": "https://www.yna.co.kr/view/AKR20260125015900003",
-      "pubDate": "Sun, 25 Jan 2026 10:05:50 +0900"
     }
   ]
 }
