@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769379037,
+  "updated_at_unix": 1769380933,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260126011700011",
+      "pubDate": "Mon, 26 Jan 2026 07:30:00 +0900"
+    },
     {
       "title": "작년 아파트 시장 '초양극화'…전국 상하위 20% 가격차 14.5배",
       "link": "https://www.yna.co.kr/view/AKR20260126005400003",
@@ -147,11 +152,6 @@
       "title": "인천 수출 첫 600억달러 돌파…대미 수출은 16년만에 감소",
       "link": "https://www.yna.co.kr/view/AKR20260123086800065",
       "pubDate": "Sun, 25 Jan 2026 11:00:05 +0900"
-    },
-    {
-      "title": "농관원, 설 명절 앞두고 선물·제수용품 원산지 집중 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260123149100030",
-      "pubDate": "Sun, 25 Jan 2026 11:00:03 +0900"
     }
   ]
 }
