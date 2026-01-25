@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769382648,
+  "updated_at_unix": 1769384342,
   "items": [
+    {
+      "title": "한투증권, 삼성E&A 목표가↑…\"사업부 재편으로 외형 성장 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126022900008",
+      "pubDate": "Mon, 26 Jan 2026 08:33:18 +0900"
+    },
+    {
+      "title": "SSG닷컴, 다음 달 1일까지 '뷰티 쓱세일'…\"설 선물 사세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126022300030",
+      "pubDate": "Mon, 26 Jan 2026 08:31:48 +0900"
+    },
+    {
+      "title": "삼성전자 결합형 세탁건조기, 해외 매체서 '최고의 제품' 호평",
+      "link": "https://www.yna.co.kr/view/AKR20260126022800003",
+      "pubDate": "Mon, 26 Jan 2026 08:31:40 +0900"
+    },
+    {
+      "title": "인천시, 신생아가구 주담대 이자 지원 3천가구 신규 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260126019400065",
+      "pubDate": "Mon, 26 Jan 2026 08:31:00 +0900"
+    },
+    {
+      "title": "소진공, 소상공인 육성사업 '립스' 운영사 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260126020600030",
+      "pubDate": "Mon, 26 Jan 2026 08:18:38 +0900"
+    },
+    {
+      "title": "삼성증권, 삼성전기 목표가↑…\"사업모델 변곡점 맞아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126019900008",
+      "pubDate": "Mon, 26 Jan 2026 08:14:45 +0900"
+    },
+    {
+      "title": "CU, 가성비 화이트와인 '음mmm! 베르데호' 출시…할인 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260126019800030",
+      "pubDate": "Mon, 26 Jan 2026 08:14:04 +0900"
+    },
     {
       "title": "[마켓뷰] 순환매 지속되며 코스피 5,000선 안착하고 '천스닥' 돌파할까",
       "link": "https://www.yna.co.kr/view/AKR20260126018900008",
@@ -117,41 +152,6 @@
       "title": "KB \"서울아파트값 상승폭 2개월째 둔화…집값 상승 전망은 증가\"",
       "link": "https://www.yna.co.kr/view/AKR20260125025000003",
       "pubDate": "Sun, 25 Jan 2026 12:50:44 +0900"
-    },
-    {
-      "title": "李대통령 \"재연장 생각했다면 오산\"…양도세중과 유예종료 재강조",
-      "link": "https://www.yna.co.kr/view/AKR20260125023300001",
-      "pubDate": "Sun, 25 Jan 2026 12:01:52 +0900"
-    },
-    {
-      "title": "지식재산처, 'CEO·연구자를 위한 특허출원 전략' 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260123092500063",
-      "pubDate": "Sun, 25 Jan 2026 12:00:06 +0900"
-    },
-    {
-      "title": "지방 취업하면 '청년일자리도약장려금' 우대…2년 최대 720만원",
-      "link": "https://www.yna.co.kr/view/AKR20260123139000530",
-      "pubDate": "Sun, 25 Jan 2026 12:00:04 +0900"
-    },
-    {
-      "title": "중기부, 팁스 사업 공고…\"연구비·사업화 자금 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260123150400030",
-      "pubDate": "Sun, 25 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "중기중앙회, 공동사업개발 컨설팅 참여 조합 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260123146500030",
-      "pubDate": "Sun, 25 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "'예약물량 안내없이' 갤럭시S25 이벤트 KT에 과태료 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260124046600002",
-      "pubDate": "Sun, 25 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "300억대 땅 상속세 0원?…국세청, '꼼수' 베이커리카페 실태조사",
-      "link": "https://www.yna.co.kr/view/AKR20260125000200002",
-      "pubDate": "Sun, 25 Jan 2026 12:00:00 +0900"
     }
   ]
 }
