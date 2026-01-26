@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769469125,
+  "updated_at_unix": 1769470895,
   "items": [
+    {
+      "title": "다올증권 \"와이지엔터, 4분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127027100008",
+      "pubDate": "Tue, 27 Jan 2026 08:37:10 +0900"
+    },
+    {
+      "title": "한국관광공사, 중동 방한관광 협의체 회원사 신규 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260127027500030",
+      "pubDate": "Tue, 27 Jan 2026 08:36:07 +0900"
+    },
+    {
+      "title": "신한투자 \"에쓰오일, 올해 정유 실적 큰폭 개선 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127026300008",
+      "pubDate": "Tue, 27 Jan 2026 08:31:18 +0900"
+    },
+    {
+      "title": "CU, 이석원 명장과 '베이크하우스405' 협업…차별화 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260127025200030",
+      "pubDate": "Tue, 27 Jan 2026 08:29:55 +0900"
+    },
+    {
+      "title": "靑 \"美 관세인상 공식통보·설명 없어\"…정책실장 주재 대책회의",
+      "link": "https://www.yna.co.kr/view/AKR20260127024000001",
+      "pubDate": "Tue, 27 Jan 2026 08:18:36 +0900"
+    },
+    {
+      "title": "관악구, 상반기 지역공동체일자리 30명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260127023600004",
+      "pubDate": "Tue, 27 Jan 2026 08:11:50 +0900"
+    },
+    {
+      "title": "뛰는 전세 위 나는 매매…서울 9개구 아파트 전세가율 역대 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260127020100003",
+      "pubDate": "Tue, 27 Jan 2026 08:08:52 +0900"
+    },
+    {
+      "title": "삼성증권, 삼전·하닉 목표가↑…\"내년까지 메모리 부족 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127021800008",
+      "pubDate": "Tue, 27 Jan 2026 08:06:55 +0900"
+    },
     {
       "title": "[마켓뷰] 다시 불거진 트럼프 관세 불확실성 속 코스피 향방은",
       "link": "https://www.yna.co.kr/view/AKR20260127019600008",
@@ -112,46 +152,6 @@
       "title": "캐나다 현지서 잠수함 수주용 '절충교역 카드' 풀었다",
       "link": "https://www.yna.co.kr/view/AKR20260127001600003",
       "pubDate": "Tue, 27 Jan 2026 01:42:22 +0900"
-    },
-    {
-      "title": "SK증권, 무궁화신탁 오너에 거액 대출 논란…비상장주 담보(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126153151008",
-      "pubDate": "Mon, 26 Jan 2026 22:27:26 +0900"
-    },
-    {
-      "title": "SK증권, 무궁화신탁 오너에 거액 대출 논란…비상장주 담보",
-      "link": "https://www.yna.co.kr/view/AKR20260126153100008",
-      "pubDate": "Mon, 26 Jan 2026 20:25:22 +0900"
-    },
-    {
-      "title": "전남 영광 돼지농장서 아프리카돼지열병",
-      "link": "https://www.yna.co.kr/view/AKR20260126153000030",
-      "pubDate": "Mon, 26 Jan 2026 20:07:49 +0900"
-    },
-    {
-      "title": "로보티즈 \"우즈벡 종속회사에 294억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126148000008",
-      "pubDate": "Mon, 26 Jan 2026 18:50:39 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260126148200002",
-      "pubDate": "Mon, 26 Jan 2026 18:47:38 +0900"
-    },
-    {
-      "title": "국민연금 국내주식비중 14.9%로 0.5%p↑…한도 넘어도 조정 유예(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126145451530",
-      "pubDate": "Mon, 26 Jan 2026 18:40:50 +0900"
-    },
-    {
-      "title": "미래에셋증권, 1천억원 규모 자사주 매입 이사회 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260126146800008",
-      "pubDate": "Mon, 26 Jan 2026 18:23:10 +0900"
-    },
-    {
-      "title": "힙합으로 재해석한 이순신…'불멸의 파도' 브레이킹댄스 첫 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260126144700371",
-      "pubDate": "Mon, 26 Jan 2026 18:12:37 +0900"
     }
   ]
 }
