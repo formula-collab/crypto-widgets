@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769412442,
+  "updated_at_unix": 1769413591,
   "items": [
+    {
+      "title": "기획처, '5대 미래 리스크 극복' 민관협력체 첫 회의",
+      "link": "https://www.yna.co.kr/view/AKR20260126129700002",
+      "pubDate": "Mon, 26 Jan 2026 16:40:38 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.096%",
+      "link": "https://www.yna.co.kr/view/AKR20260126131000008",
+      "pubDate": "Mon, 26 Jan 2026 16:40:15 +0900"
+    },
+    {
+      "title": "'말 안듣는' 택시 콜 차단…검찰, 카카오모빌리티·대표 기소",
+      "link": "https://www.yna.co.kr/view/AKR20260126124500004",
+      "pubDate": "Mon, 26 Jan 2026 16:40:11 +0900"
+    },
+    {
+      "title": "춘천시, 민생경제 소비 진작 총력…상품권 최대규모 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260126126600062",
+      "pubDate": "Mon, 26 Jan 2026 16:40:04 +0900"
+    },
+    {
+      "title": "한국거래소, 설연휴 전날 밤 파생상품 야간거래 휴장키로",
+      "link": "https://www.yna.co.kr/view/AKR20260126130000008",
+      "pubDate": "Mon, 26 Jan 2026 16:35:54 +0900"
+    },
+    {
+      "title": "음성군, 공공기관 2차 이전 대비 혁신도시 주택공급 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260126127100064",
+      "pubDate": "Mon, 26 Jan 2026 16:32:54 +0900"
+    },
+    {
+      "title": "靑 \"李대통령 '부동산 망국론' 자주 얘기…양도세 정상화 과정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126121300001",
+      "pubDate": "Mon, 26 Jan 2026 16:27:46 +0900"
+    },
     {
       "title": "산안본부장 \"중처법, '기업 구조적 문제 해결 필요' 인식 환기\"",
       "link": "https://www.yna.co.kr/view/AKR20260126122700530",
@@ -117,41 +152,6 @@
       "title": "앵커리츠, 300억원 규모 상장리츠 집중투자 펀드 조성",
       "link": "https://www.yna.co.kr/view/AKR20260126110100003",
       "pubDate": "Mon, 26 Jan 2026 15:17:55 +0900"
-    },
-    {
-      "title": "속초시, 스마트 도시계획 수립…시민 체감형 도시 비전 구현",
-      "link": "https://www.yna.co.kr/view/AKR20260126109400062",
-      "pubDate": "Mon, 26 Jan 2026 15:17:39 +0900"
-    },
-    {
-      "title": "우리금융, '은행·증권 복합 자산관리' 1호점 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260126108900002",
-      "pubDate": "Mon, 26 Jan 2026 15:11:35 +0900"
-    },
-    {
-      "title": "진주 대학생들 \"대학가 월세 인상·꼼수 관리비 대책 마련해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126108300052",
-      "pubDate": "Mon, 26 Jan 2026 15:11:01 +0900"
-    },
-    {
-      "title": "롯데렌탈 지분매각 어디로…롯데-어피니티 \"우려 해소방안 검토\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260126081552030",
-      "pubDate": "Mon, 26 Jan 2026 15:09:39 +0900"
-    },
-    {
-      "title": "신한카드, 7개월 만에 또 희망퇴직…\"고직급 인력비중 커\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126108100002",
-      "pubDate": "Mon, 26 Jan 2026 15:07:30 +0900"
-    },
-    {
-      "title": "주택도시기금앵커리츠, 300억 상장리츠 액티브펀드 운용",
-      "link": "https://www.yna.co.kr/view/AKR20260126108400008",
-      "pubDate": "Mon, 26 Jan 2026 15:06:39 +0900"
-    },
-    {
-      "title": "'초고령사회' 부산, 여성·고령층 경제활동참가율 최하위권",
-      "link": "https://www.yna.co.kr/view/AKR20260123138300051",
-      "pubDate": "Mon, 26 Jan 2026 15:00:01 +0900"
     }
   ]
 }
