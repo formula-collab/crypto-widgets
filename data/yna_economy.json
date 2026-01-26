@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769405140,
+  "updated_at_unix": 1769406714,
   "items": [
+    {
+      "title": "대덕특구, 딥테크 창업부터 스케일업까지 326억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260126102800063",
+      "pubDate": "Mon, 26 Jan 2026 14:44:03 +0900"
+    },
+    {
+      "title": "안양대-낙천, 전통주·발효식품 공동 연구개발 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260126102400061",
+      "pubDate": "Mon, 26 Jan 2026 14:39:26 +0900"
+    },
+    {
+      "title": "여주시, 상수도 요금 3월 고지분부터 19.3% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260126100900061",
+      "pubDate": "Mon, 26 Jan 2026 14:32:48 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260126098200011",
+      "pubDate": "Mon, 26 Jan 2026 14:30:11 +0900"
+    },
+    {
+      "title": "생리대업체들, 중저가 공급 확대 속도…신제품 출시도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126080051030",
+      "pubDate": "Mon, 26 Jan 2026 14:28:30 +0900"
+    },
+    {
+      "title": "李대통령 울산형 비자 부정평가에…김두겸 \"경제 관점서 봐달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126097900057",
+      "pubDate": "Mon, 26 Jan 2026 14:28:22 +0900"
+    },
+    {
+      "title": "[게시판] 교보증권, 'AI 기반 알고리즘 트레이딩' 우수 과제 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260126100100008",
+      "pubDate": "Mon, 26 Jan 2026 14:27:53 +0900"
+    },
+    {
+      "title": "광주 구직활동 청년에 수당 지원…월 50만원씩 최대 300만원",
+      "link": "https://www.yna.co.kr/view/AKR20260126099600054",
+      "pubDate": "Mon, 26 Jan 2026 14:24:16 +0900"
+    },
     {
       "title": "광주·전남 지역민, 올해도 물가 상승 지속 전망",
       "link": "https://www.yna.co.kr/view/AKR20260126099100054",
@@ -112,46 +152,6 @@
       "title": "전자책 표준부터 AX까지…K-SW 해외서 통했다",
       "link": "https://www.yna.co.kr/view/AKR20260126048200017",
       "pubDate": "Mon, 26 Jan 2026 12:00:12 +0900"
-    },
-    {
-      "title": "작년 12월 외화예금 159억달러↑…달러·유로 위주 역대 최대↑",
-      "link": "https://www.yna.co.kr/view/AKR20260126062700002",
-      "pubDate": "Mon, 26 Jan 2026 12:00:09 +0900"
-    },
-    {
-      "title": "한은 \"소득·자산·부채 클수록 변동금리 주담대 선택\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126065400002",
-      "pubDate": "Mon, 26 Jan 2026 12:00:08 +0900"
-    },
-    {
-      "title": "렌터카 1·2위 '롯데-SK' 결합 제동…\"경쟁제한·요금인상 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126069600002",
-      "pubDate": "Mon, 26 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.097%",
-      "link": "https://www.yna.co.kr/view/AKR20260126077300008",
-      "pubDate": "Mon, 26 Jan 2026 11:40:29 +0900"
-    },
-    {
-      "title": "JLR코리아, 디펜더 부분변경 출시…온오프로드 주행 안정성 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260126076900003",
-      "pubDate": "Mon, 26 Jan 2026 11:40:10 +0900"
-    },
-    {
-      "title": "충남 당진서 지난해 여성 946명 취업 성공…\"취업 지원 효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126074900063",
-      "pubDate": "Mon, 26 Jan 2026 11:35:12 +0900"
-    },
-    {
-      "title": "불법사금융 신고 한 번에 피해 구제…원스톱 지원체계 기반 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260126070300002",
-      "pubDate": "Mon, 26 Jan 2026 11:32:44 +0900"
-    },
-    {
-      "title": "거래소, 6월 29일 프리·애프터마켓 연다…오늘 회원사 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260126072300008",
-      "pubDate": "Mon, 26 Jan 2026 11:28:01 +0900"
     }
   ]
 }
