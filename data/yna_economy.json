@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769413591,
+  "updated_at_unix": 1769415495,
   "items": [
+    {
+      "title": "\"대구경북 노인 빈곤 심화…소득 기반 확충해야\"…한은 분석",
+      "link": "https://www.yna.co.kr/view/AKR20260126135300053",
+      "pubDate": "Mon, 26 Jan 2026 17:08:03 +0900"
+    },
+    {
+      "title": "오르비텍 \"제이에스링크 주식 120억원에 추가취득…지분율 3.3%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126136400008",
+      "pubDate": "Mon, 26 Jan 2026 17:07:21 +0900"
+    },
+    {
+      "title": "환율 급락에 국고채 금리 일제히 하락…3년물 연 3.096%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126131051008",
+      "pubDate": "Mon, 26 Jan 2026 17:02:23 +0900"
+    },
+    {
+      "title": "[포항소식] 포항사랑상품권 다음달 3일부터 10% 할인판매",
+      "link": "https://www.yna.co.kr/view/AKR20260126131500053",
+      "pubDate": "Mon, 26 Jan 2026 16:52:07 +0900"
+    },
+    {
+      "title": "충북농기원, 국내산 포도로 '고도수 와인 제조' 특허출원",
+      "link": "https://www.yna.co.kr/view/AKR20260126131900064",
+      "pubDate": "Mon, 26 Jan 2026 16:51:38 +0900"
+    },
+    {
+      "title": "애경산업 작년 영업이익 211억원…국내외 사업부진에 55% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260126132900030",
+      "pubDate": "Mon, 26 Jan 2026 16:51:36 +0900"
+    },
+    {
+      "title": "대전 대덕구의회, 대덕세무서 설치 촉구 건의안 채택",
+      "link": "https://www.yna.co.kr/view/AKR20260126130900063",
+      "pubDate": "Mon, 26 Jan 2026 16:44:42 +0900"
+    },
     {
       "title": "기획처, '5대 미래 리스크 극복' 민관협력체 첫 회의",
       "link": "https://www.yna.co.kr/view/AKR20260126129700002",
@@ -64,13 +99,13 @@
       "pubDate": "Mon, 26 Jan 2026 16:02:41 +0900"
     },
     {
-      "title": "미국산 계란 이달말부터 공급…농식품부·식약처, 검역현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260126027300030",
+      "title": "농식품부, 외국인에 한식 교육…'수라학교' 하반기에 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260126046700030",
       "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
     },
     {
-      "title": "농식품부, 외국인에 한식 교육…'수라학교' 하반기에 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260126046700030",
+      "title": "미국산 계란 이달말부터 공급…농식품부·식약처, 검역현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260126027300030",
       "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
     },
     {
@@ -117,41 +152,6 @@
       "title": "오세훈 \"서울스마트라이프위크 확장…스타트업 성장 발판 마련\"",
       "link": "https://www.yna.co.kr/view/AKR20260126115000004",
       "pubDate": "Mon, 26 Jan 2026 15:37:15 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행, 50세 이상 연금수령자 대상 정기예금",
-      "link": "https://www.yna.co.kr/view/AKR20260126111300002",
-      "pubDate": "Mon, 26 Jan 2026 15:37:03 +0900"
-    },
-    {
-      "title": "외국환시세(1월26일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260126115400002",
-      "pubDate": "Mon, 26 Jan 2026 15:35:22 +0900"
-    },
-    {
-      "title": "내달 말 농어촌 기본소득 지급 시작…사업 적정성 검토 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260126111800002",
-      "pubDate": "Mon, 26 Jan 2026 15:33:35 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 25.2원 내린 1,440.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260126113700002",
-      "pubDate": "Mon, 26 Jan 2026 15:30:26 +0900"
-    },
-    {
-      "title": "울주지역자활센터, 31억2천만원 투입해 창업·취업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260126108800057",
-      "pubDate": "Mon, 26 Jan 2026 15:22:22 +0900"
-    },
-    {
-      "title": "서울세관, 작년 관세 체납징수액 873억원…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260126111000002",
-      "pubDate": "Mon, 26 Jan 2026 15:20:51 +0900"
-    },
-    {
-      "title": "앵커리츠, 300억원 규모 상장리츠 집중투자 펀드 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260126110100003",
-      "pubDate": "Mon, 26 Jan 2026 15:17:55 +0900"
     }
   ]
 }
