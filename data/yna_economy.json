@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769460404,
+  "updated_at_unix": 1769462030,
   "items": [
+    {
+      "title": "중기부, 중소기업 기술거래 기반조성 지원 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260126125700030",
+      "pubDate": "Tue, 27 Jan 2026 06:00:10 +0900"
+    },
+    {
+      "title": "이마트, 29일부터 먹거리·가구가전 할인 '고래잇 페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260126132400030",
+      "pubDate": "Tue, 27 Jan 2026 06:00:10 +0900"
+    },
+    {
+      "title": "K-소비재 블루오션으로 떠오른 60조원 '中 반려동물 시장'",
+      "link": "https://www.yna.co.kr/view/AKR20260126135000003",
+      "pubDate": "Tue, 27 Jan 2026 06:00:05 +0900"
+    },
+    {
+      "title": "기업 체감경기 석달만에 악화…서비스업 등 비제조업 부진",
+      "link": "https://www.yna.co.kr/view/AKR20260126142800002",
+      "pubDate": "Tue, 27 Jan 2026 06:00:02 +0900"
+    },
+    {
+      "title": "저축銀 '투트랙 부실정리' 본격화…PF펀드 이어 관리회사 킥오프",
+      "link": "https://www.yna.co.kr/view/AKR20260126133300002",
+      "pubDate": "Tue, 27 Jan 2026 05:55:01 +0900"
+    },
+    {
+      "title": "함영주 하나금융 회장의 운명은…29일 채용비리 선고",
+      "link": "https://www.yna.co.kr/view/AKR20260126146700002",
+      "pubDate": "Tue, 27 Jan 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'은 통장' 잔액 1년 새 7배로 불어…올해 들어서만 1천억↑",
+      "link": "https://www.yna.co.kr/view/AKR20260126124200002",
+      "pubDate": "Tue, 27 Jan 2026 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 이란 정국 불안 속 일부 되돌림…WTI 0.7%↓",
       "link": "https://www.yna.co.kr/view/AKR20260127005200009",
@@ -117,41 +152,6 @@
       "title": "오천피·천스닥에 '불법 리딩방' 사기 속출…소비자경보 발령",
       "link": "https://www.yna.co.kr/view/AKR20260126138500002",
       "pubDate": "Mon, 26 Jan 2026 17:21:50 +0900"
-    },
-    {
-      "title": "\"대구경북 노인 빈곤 심화…소득 기반 확충해야\"…한은 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260126135300053",
-      "pubDate": "Mon, 26 Jan 2026 17:08:03 +0900"
-    },
-    {
-      "title": "오르비텍 \"제이에스링크 주식 120억원에 추가취득…지분율 3.3%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126136400008",
-      "pubDate": "Mon, 26 Jan 2026 17:07:21 +0900"
-    },
-    {
-      "title": "환율 급락에 국고채 금리 일제히 하락…3년물 연 3.096%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126131051008",
-      "pubDate": "Mon, 26 Jan 2026 17:02:23 +0900"
-    },
-    {
-      "title": "[포항소식] 포항사랑상품권 다음달 3일부터 10% 할인판매",
-      "link": "https://www.yna.co.kr/view/AKR20260126131500053",
-      "pubDate": "Mon, 26 Jan 2026 16:52:07 +0900"
-    },
-    {
-      "title": "충북농기원, 국내산 포도로 '고도수 와인 제조' 특허출원",
-      "link": "https://www.yna.co.kr/view/AKR20260126131900064",
-      "pubDate": "Mon, 26 Jan 2026 16:51:38 +0900"
-    },
-    {
-      "title": "애경산업 작년 영업이익 211억원…국내외 사업부진에 55% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260126132900030",
-      "pubDate": "Mon, 26 Jan 2026 16:51:36 +0900"
-    },
-    {
-      "title": "대전 대덕구의회, 대덕세무서 설치 촉구 건의안 채택",
-      "link": "https://www.yna.co.kr/view/AKR20260126130900063",
-      "pubDate": "Mon, 26 Jan 2026 16:44:42 +0900"
     }
   ]
 }
