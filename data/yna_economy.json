@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769417659,
+  "updated_at_unix": 1769419426,
   "items": [
+    {
+      "title": "힙합으로 재해석한 이순신…'불멸의 파도' 브레이킹댄스 첫 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260126144700371",
+      "pubDate": "Mon, 26 Jan 2026 18:12:37 +0900"
+    },
+    {
+      "title": "국민연금 기금위, 올해 국내 주식 목표비중 14.4%→14.9% 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260126145400530",
+      "pubDate": "Mon, 26 Jan 2026 18:05:34 +0900"
+    },
+    {
+      "title": "대신20호스팩, 코스닥 상장예비심사 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260126145900008",
+      "pubDate": "Mon, 26 Jan 2026 18:01:57 +0900"
+    },
+    {
+      "title": "농식품부 \"농어촌 기본소득 사용지역 확대…5개업종 제한 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126141700030",
+      "pubDate": "Mon, 26 Jan 2026 18:01:33 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260126138700011",
+      "pubDate": "Mon, 26 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "한화투자증권, 작년 영업익 1천474억원…전년의 37배로 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20260126145300008",
+      "pubDate": "Mon, 26 Jan 2026 17:59:33 +0900"
+    },
     {
       "title": "금감원 공공기관 지정 29일 결론…갈등 빚는 금융위 의견 '변수'",
       "link": "https://www.yna.co.kr/view/AKR20260126143400002",
@@ -122,36 +152,6 @@
       "title": "강원 전략산업펀드 1천500억원 조성…기업 맞춤형 지원",
       "link": "https://www.yna.co.kr/view/AKR20260126122800062",
       "pubDate": "Mon, 26 Jan 2026 16:15:55 +0900"
-    },
-    {
-      "title": "4년여만에 '천스닥' 시대 맞이한 코스닥, 훈풍 이어질까(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126121500008",
-      "pubDate": "Mon, 26 Jan 2026 16:06:05 +0900"
-    },
-    {
-      "title": "생리대업체들, '반값생리대' 공급 확대…중저가 제품 출시도(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260126080052030",
-      "pubDate": "Mon, 26 Jan 2026 16:02:41 +0900"
-    },
-    {
-      "title": "농식품부, 외국인에 한식 교육…'수라학교' 하반기에 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260126046700030",
-      "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
-    },
-    {
-      "title": "미국산 계란 이달말부터 공급…농식품부·식약처, 검역현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260126027300030",
-      "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
-    },
-    {
-      "title": "울산대·BNK경남은행, 기업인증형 '핀테크 기초' 과정 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260126120400057",
-      "pubDate": "Mon, 26 Jan 2026 15:58:33 +0900"
-    },
-    {
-      "title": "[인사] 지식재산처",
-      "link": "https://www.yna.co.kr/view/AKR20260126119800063",
-      "pubDate": "Mon, 26 Jan 2026 15:57:44 +0900"
     }
   ]
 }
