@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769458445,
+  "updated_at_unix": 1769460404,
   "items": [
+    {
+      "title": "[뉴욕유가] 이란 정국 불안 속 일부 되돌림…WTI 0.7%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260127005200009",
+      "pubDate": "Tue, 27 Jan 2026 05:31:04 +0900"
+    },
     {
       "title": "달러-원, 야간서 달러 약세에 낙폭 확대…1,443.90원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260127002700002",
@@ -147,11 +152,6 @@
       "title": "대전 대덕구의회, 대덕세무서 설치 촉구 건의안 채택",
       "link": "https://www.yna.co.kr/view/AKR20260126130900063",
       "pubDate": "Mon, 26 Jan 2026 16:44:42 +0900"
-    },
-    {
-      "title": "기획처, '5대 미래 리스크 극복' 민관협력체 첫 회의",
-      "link": "https://www.yna.co.kr/view/AKR20260126129700002",
-      "pubDate": "Mon, 26 Jan 2026 16:40:38 +0900"
     }
   ]
 }
