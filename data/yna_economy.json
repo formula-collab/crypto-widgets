@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769463792,
+  "updated_at_unix": 1769465534,
   "items": [
+    {
+      "title": "'빚투' 신용거래 급증하자…달아오른 증권가 '금리 우대' 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260126140200008",
+      "pubDate": "Tue, 27 Jan 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 알고보면⒀ 세계 1위 여행지, 고통 속의 '다른 품격'",
+      "link": "https://www.yna.co.kr/view/AKR20260105121200898",
+      "pubDate": "Tue, 27 Jan 2026 07:00:03 +0900"
+    },
+    {
+      "title": "트럼프 해외 송금 1% 과세에…아프리카 '송금 경제' 흔들리나",
+      "link": "https://www.yna.co.kr/view/AKR20260126126400898",
+      "pubDate": "Tue, 27 Jan 2026 07:00:02 +0900"
+    },
     {
       "title": "중기부, 중소기업 기술거래 기반조성 지원 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260126125700030",
@@ -137,21 +152,6 @@
       "title": "엑스페릭스, 60억원 유상증자…윤상철 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260126140500008",
       "pubDate": "Mon, 26 Jan 2026 17:32:41 +0900"
-    },
-    {
-      "title": "한일미래파트너십재단, 日에 韓교사 50명 파견…\"양국협력 가속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126107900003",
-      "pubDate": "Mon, 26 Jan 2026 17:30:00 +0900"
-    },
-    {
-      "title": "용인시, 국토부에 경기남부광역철도 신설 등 7개 현안 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260126139400061",
-      "pubDate": "Mon, 26 Jan 2026 17:25:42 +0900"
-    },
-    {
-      "title": "오천피·천스닥에 '불법 리딩방' 사기 속출…소비자경보 발령",
-      "link": "https://www.yna.co.kr/view/AKR20260126138500002",
-      "pubDate": "Mon, 26 Jan 2026 17:21:50 +0900"
     }
   ]
 }
