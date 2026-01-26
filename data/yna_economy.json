@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769410735,
+  "updated_at_unix": 1769412442,
   "items": [
+    {
+      "title": "산안본부장 \"중처법, '기업 구조적 문제 해결 필요' 인식 환기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126122700530",
+      "pubDate": "Mon, 26 Jan 2026 16:19:08 +0900"
+    },
+    {
+      "title": "'천스닥' 돌파 코스닥, 7% 급등 마감…시가총액 사상최대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126116351008",
+      "pubDate": "Mon, 26 Jan 2026 16:17:58 +0900"
+    },
+    {
+      "title": "강원 전략산업펀드 1천500억원 조성…기업 맞춤형 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260126122800062",
+      "pubDate": "Mon, 26 Jan 2026 16:15:55 +0900"
+    },
+    {
+      "title": "4년여만에 '천스닥' 시대 맞이한 코스닥, 훈풍 이어질까(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126121500008",
+      "pubDate": "Mon, 26 Jan 2026 16:06:05 +0900"
+    },
+    {
+      "title": "생리대업체들, '반값생리대' 공급 확대…중저가 제품 출시도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260126080052030",
+      "pubDate": "Mon, 26 Jan 2026 16:02:41 +0900"
+    },
+    {
+      "title": "미국산 계란 이달말부터 공급…농식품부·식약처, 검역현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260126027300030",
+      "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
+    },
+    {
+      "title": "농식품부, 외국인에 한식 교육…'수라학교' 하반기에 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260126046700030",
+      "pubDate": "Mon, 26 Jan 2026 16:00:38 +0900"
+    },
+    {
+      "title": "울산대·BNK경남은행, 기업인증형 '핀테크 기초' 과정 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260126120400057",
+      "pubDate": "Mon, 26 Jan 2026 15:58:33 +0900"
+    },
+    {
+      "title": "[인사] 지식재산처",
+      "link": "https://www.yna.co.kr/view/AKR20260126119800063",
+      "pubDate": "Mon, 26 Jan 2026 15:57:44 +0900"
+    },
     {
       "title": "환율, 엔화 초강세에 25원 넘게 급락…1,440.6원",
       "link": "https://www.yna.co.kr/view/AKR20260126119300002",
@@ -107,51 +152,6 @@
       "title": "'초고령사회' 부산, 여성·고령층 경제활동참가율 최하위권",
       "link": "https://www.yna.co.kr/view/AKR20260123138300051",
       "pubDate": "Mon, 26 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "30인↓ 기업도 '육아기 10시 출근'…김영훈 \"中企 지원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126051200530",
-      "pubDate": "Mon, 26 Jan 2026 15:00:00 +0900"
-    },
-    {
-      "title": "종묘앞 재개발 또 충돌…국가유산청 반발에 서울시 \"부당 압력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126100300004",
-      "pubDate": "Mon, 26 Jan 2026 14:58:22 +0900"
-    },
-    {
-      "title": "현대하이텍, 광주 하남산단에 차 부품 제조공장 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260126105100054",
-      "pubDate": "Mon, 26 Jan 2026 14:53:34 +0900"
-    },
-    {
-      "title": "대덕특구, 딥테크 창업부터 스케일업까지 326억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260126102800063",
-      "pubDate": "Mon, 26 Jan 2026 14:44:03 +0900"
-    },
-    {
-      "title": "안양대-낙천, 전통주·발효식품 공동 연구개발 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260126102400061",
-      "pubDate": "Mon, 26 Jan 2026 14:39:26 +0900"
-    },
-    {
-      "title": "여주시, 상수도 요금 3월 고지분부터 19.3% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260126100900061",
-      "pubDate": "Mon, 26 Jan 2026 14:32:48 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260126098200011",
-      "pubDate": "Mon, 26 Jan 2026 14:30:11 +0900"
-    },
-    {
-      "title": "생리대업체들, 중저가 공급 확대 속도…신제품 출시도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126080051030",
-      "pubDate": "Mon, 26 Jan 2026 14:28:30 +0900"
-    },
-    {
-      "title": "李대통령 울산형 비자 부정평가에…김두겸 \"경제 관점서 봐달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126097900057",
-      "pubDate": "Mon, 26 Jan 2026 14:28:22 +0900"
     }
   ]
 }
