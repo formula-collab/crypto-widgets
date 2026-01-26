@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769465534,
+  "updated_at_unix": 1769467475,
   "items": [
+    {
+      "title": "캐나다 현지서 잠수함 수주용 '절충교역 카드' 총력전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127001601003",
+      "pubDate": "Tue, 27 Jan 2026 07:40:38 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260127015200011",
+      "pubDate": "Tue, 27 Jan 2026 07:31:25 +0900"
+    },
+    {
+      "title": "경제자유구역 지정 추진 강화도에 106개 기업 입주의향",
+      "link": "https://www.yna.co.kr/view/AKR20260126045400065",
+      "pubDate": "Tue, 27 Jan 2026 07:17:00 +0900"
+    },
+    {
+      "title": "연초 명품업계 가격인상 행렬…까르띠에도 '동참'",
+      "link": "https://www.yna.co.kr/view/AKR20260127000800030",
+      "pubDate": "Tue, 27 Jan 2026 07:15:37 +0900"
+    },
     {
       "title": "'빚투' 신용거래 급증하자…달아오른 증권가 '금리 우대' 경쟁",
       "link": "https://www.yna.co.kr/view/AKR20260126140200008",
@@ -132,26 +152,6 @@
       "title": "한화투자증권, 작년 영업익 1천474억원…전년의 37배로 '쑥'",
       "link": "https://www.yna.co.kr/view/AKR20260126145300008",
       "pubDate": "Mon, 26 Jan 2026 17:59:33 +0900"
-    },
-    {
-      "title": "금감원 공공기관 지정 29일 결론…갈등 빚는 금융위 의견 '변수'",
-      "link": "https://www.yna.co.kr/view/AKR20260126143400002",
-      "pubDate": "Mon, 26 Jan 2026 17:48:23 +0900"
-    },
-    {
-      "title": "[광주소식] 광주지방세무사회 창립 50년사 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260126140800054",
-      "pubDate": "Mon, 26 Jan 2026 17:36:16 +0900"
-    },
-    {
-      "title": "엑스페릭스, 10억원 유상증자…박시형 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260126141600008",
-      "pubDate": "Mon, 26 Jan 2026 17:33:40 +0900"
-    },
-    {
-      "title": "엑스페릭스, 60억원 유상증자…윤상철 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260126140500008",
-      "pubDate": "Mon, 26 Jan 2026 17:32:41 +0900"
     }
   ]
 }
