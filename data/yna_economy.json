@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769402228,
+  "updated_at_unix": 1769405140,
   "items": [
+    {
+      "title": "광주·전남 지역민, 올해도 물가 상승 지속 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260126099100054",
+      "pubDate": "Mon, 26 Jan 2026 14:22:52 +0900"
+    },
+    {
+      "title": "영광서 키운 '새싹인삼' 일본 수출 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260126098700054",
+      "pubDate": "Mon, 26 Jan 2026 14:17:58 +0900"
+    },
+    {
+      "title": "[게시판] 쿠시먼앤드웨이크필드, 미국 산업 투자전략 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260126096400003",
+      "pubDate": "Mon, 26 Jan 2026 14:17:08 +0900"
+    },
+    {
+      "title": "[부고] 윤면식(전 한국은행 부총재)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260126097000002",
+      "pubDate": "Mon, 26 Jan 2026 14:11:33 +0900"
+    },
+    {
+      "title": "횡성군, 청년 일자리 정책 박차…구직부터 정착까지 촘촘 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260126094400062",
+      "pubDate": "Mon, 26 Jan 2026 14:07:27 +0900"
+    },
+    {
+      "title": "롯데, 렌터카 기업결합 제동에 \"취지 존중…추가 제안 검토\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126081551030",
+      "pubDate": "Mon, 26 Jan 2026 14:03:57 +0900"
+    },
+    {
+      "title": "작년 전국 땅값 2.25% 올라…서울·경기 전국평균 상회",
+      "link": "https://www.yna.co.kr/view/AKR20260126063900003",
+      "pubDate": "Mon, 26 Jan 2026 14:00:11 +0900"
+    },
+    {
+      "title": "코트라, 올해 사상 최대 수출·투자 위해 전사적 역량 결집",
+      "link": "https://www.yna.co.kr/view/AKR20260126092200003",
+      "pubDate": "Mon, 26 Jan 2026 14:00:00 +0900"
+    },
+    {
+      "title": "원주 첫 우산일반산업단지, 미래 성장 거점으로 재도약 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260126091500062",
+      "pubDate": "Mon, 26 Jan 2026 13:59:09 +0900"
+    },
+    {
+      "title": "아직은 잠잠한 다주택자들…일부 가격 낮춘 매물도 등장",
+      "link": "https://www.yna.co.kr/view/AKR20260126080200003",
+      "pubDate": "Mon, 26 Jan 2026 13:57:46 +0900"
+    },
+    {
+      "title": "원주시, 지역 성장에 재정 역량 집중…현장 중심 예산 적극 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260126090700062",
+      "pubDate": "Mon, 26 Jan 2026 13:55:19 +0900"
+    },
+    {
+      "title": "제주 40∼50대 구직자 채용기업에 월 최대 500만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260126089600056",
+      "pubDate": "Mon, 26 Jan 2026 13:52:27 +0900"
+    },
+    {
+      "title": "국제 금값 사상 첫 5천불 돌파…전문가들 \"당분간 우상향세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126081200008",
+      "pubDate": "Mon, 26 Jan 2026 13:51:41 +0900"
+    },
+    {
+      "title": "서부발전, 1조3천억원 규모 오만 가스복합발전 사업 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260126089200063",
+      "pubDate": "Mon, 26 Jan 2026 13:48:05 +0900"
+    },
+    {
+      "title": "상지대 RISE사업단, 로컬창업 활성화 실무 교육 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260126090200062",
+      "pubDate": "Mon, 26 Jan 2026 13:47:59 +0900"
+    },
     {
       "title": "농협, 설 앞두고 하나로마트서 대규모 할인…510억원 투입",
       "link": "https://www.yna.co.kr/view/AKR20260126042300030",
@@ -77,81 +152,6 @@
       "title": "거래소, 6월 29일 프리·애프터마켓 연다…오늘 회원사 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260126072300008",
       "pubDate": "Mon, 26 Jan 2026 11:28:01 +0900"
-    },
-    {
-      "title": "신안 '1004 굴' 홍콩 수출 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260126073900054",
-      "pubDate": "Mon, 26 Jan 2026 11:26:25 +0900"
-    },
-    {
-      "title": "경주시, 2월 1일부터 택시요금 인상…기본요금 4천→4천500원",
-      "link": "https://www.yna.co.kr/view/AKR20260126073100053",
-      "pubDate": "Mon, 26 Jan 2026 11:24:48 +0900"
-    },
-    {
-      "title": "지식재산처, 우즈베크서 K-지식재산행정시스템 구축 첫 삽",
-      "link": "https://www.yna.co.kr/view/AKR20260126071600063",
-      "pubDate": "Mon, 26 Jan 2026 11:22:03 +0900"
-    },
-    {
-      "title": "배달노조 \"배민, 로드러너 도입시도 전면 중단해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126072200030",
-      "pubDate": "Mon, 26 Jan 2026 11:21:29 +0900"
-    },
-    {
-      "title": "[부고] 온정권(무영CM건축사사무소 회장)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260126072900505",
-      "pubDate": "Mon, 26 Jan 2026 11:18:59 +0900"
-    },
-    {
-      "title": "'천스닥' 돌파한 코스닥 장중 6%대 급등…코스피는 하락전환",
-      "link": "https://www.yna.co.kr/view/AKR20260126071100008",
-      "pubDate": "Mon, 26 Jan 2026 11:18:55 +0900"
-    },
-    {
-      "title": "광주지법, 한국건설 회생계획 인가 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260126072100054",
-      "pubDate": "Mon, 26 Jan 2026 11:16:59 +0900"
-    },
-    {
-      "title": "서울시 세금징수과 유튜브 '38세 금징수씨' 조회수 135만",
-      "link": "https://www.yna.co.kr/view/AKR20260126034500004",
-      "pubDate": "Mon, 26 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "엠아이큐브솔루션, 주당 2.0주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260126070600008",
-      "pubDate": "Mon, 26 Jan 2026 11:14:11 +0900"
-    },
-    {
-      "title": "제주 지역화폐 '탐나는전' 2월 한달간 20% 캐시백…역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260126070200056",
-      "pubDate": "Mon, 26 Jan 2026 11:13:20 +0900"
-    },
-    {
-      "title": "성남시, 야탑밸리에 도시첨단산업단지 조성 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260126069000061",
-      "pubDate": "Mon, 26 Jan 2026 11:11:41 +0900"
-    },
-    {
-      "title": "거래소, 뉴욕서 골드만삭스와 함께 로드쇼 개최…한국시장 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260126069100008",
-      "pubDate": "Mon, 26 Jan 2026 11:10:18 +0900"
-    },
-    {
-      "title": "폭스바겐, ID.4 보조금 432만원 확보…\"올해 수입전기차 최대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126067700003",
-      "pubDate": "Mon, 26 Jan 2026 11:04:38 +0900"
-    },
-    {
-      "title": "한·방글라데시, 다카서 포괄적경제동반자협정 제2차 공식협상",
-      "link": "https://www.yna.co.kr/view/AKR20260126047300003",
-      "pubDate": "Mon, 26 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "작년 '고부가' 경유 수출량 사상 최대…전체 석유제품은 1%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260126048500003",
-      "pubDate": "Mon, 26 Jan 2026 11:00:02 +0900"
     }
   ]
 }
