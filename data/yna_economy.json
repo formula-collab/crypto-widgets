@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769467475,
+  "updated_at_unix": 1769469125,
   "items": [
+    {
+      "title": "[마켓뷰] 다시 불거진 트럼프 관세 불확실성 속 코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260127019600008",
+      "pubDate": "Tue, 27 Jan 2026 08:02:52 +0900"
+    },
+    {
+      "title": "부산형 무역인재 양성 과정 성과…취업률·실무 이해도↑",
+      "link": "https://www.yna.co.kr/view/AKR20260127018800051",
+      "pubDate": "Tue, 27 Jan 2026 08:01:09 +0900"
+    },
+    {
+      "title": "소상공인들 \"쿠팡, 소상공인 고혈로 미국로비…피해보상 촉구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127017900030",
+      "pubDate": "Tue, 27 Jan 2026 08:00:01 +0900"
+    },
+    {
+      "title": "세계도핑방지기구 부산총회 경제적 파급 효과 116억원 추정",
+      "link": "https://www.yna.co.kr/view/AKR20260127018500051",
+      "pubDate": "Tue, 27 Jan 2026 07:59:10 +0900"
+    },
+    {
+      "title": "알파AI \"엔지더블유 주식 55억원어치 취득…지분율 8.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127017600008",
+      "pubDate": "Tue, 27 Jan 2026 07:43:32 +0900"
+    },
     {
       "title": "캐나다 현지서 잠수함 수주용 '절충교역 카드' 총력전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260127001601003",
@@ -127,31 +152,6 @@
       "title": "힙합으로 재해석한 이순신…'불멸의 파도' 브레이킹댄스 첫 공개",
       "link": "https://www.yna.co.kr/view/AKR20260126144700371",
       "pubDate": "Mon, 26 Jan 2026 18:12:37 +0900"
-    },
-    {
-      "title": "국민연금 기금위, 올해 국내 주식 목표비중 14.4%→14.9% 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260126145400530",
-      "pubDate": "Mon, 26 Jan 2026 18:05:34 +0900"
-    },
-    {
-      "title": "대신20호스팩, 코스닥 상장예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260126145900008",
-      "pubDate": "Mon, 26 Jan 2026 18:01:57 +0900"
-    },
-    {
-      "title": "농식품부 \"농어촌 기본소득 사용지역 확대…5개업종 제한 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126141700030",
-      "pubDate": "Mon, 26 Jan 2026 18:01:33 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260126138700011",
-      "pubDate": "Mon, 26 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "한화투자증권, 작년 영업익 1천474억원…전년의 37배로 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20260126145300008",
-      "pubDate": "Mon, 26 Jan 2026 17:59:33 +0900"
     }
   ]
 }
