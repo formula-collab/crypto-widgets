@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769421200,
+  "updated_at_unix": 1769422581,
   "items": [
+    {
+      "title": "로보티즈 \"우즈벡 종속회사에 294억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126148000008",
+      "pubDate": "Mon, 26 Jan 2026 18:50:39 +0900"
+    },
     {
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260126148200002",
@@ -147,11 +152,6 @@
       "title": "음성군, 공공기관 2차 이전 대비 혁신도시 주택공급 확대",
       "link": "https://www.yna.co.kr/view/AKR20260126127100064",
       "pubDate": "Mon, 26 Jan 2026 16:32:54 +0900"
-    },
-    {
-      "title": "靑 \"李대통령 '부동산 망국론' 자주 얘기…양도세 정상화 과정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126121300001",
-      "pubDate": "Mon, 26 Jan 2026 16:27:46 +0900"
     }
   ]
 }
