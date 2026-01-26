@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769419426,
+  "updated_at_unix": 1769421200,
   "items": [
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260126148200002",
+      "pubDate": "Mon, 26 Jan 2026 18:47:38 +0900"
+    },
+    {
+      "title": "국민연금 국내주식비중 14.9%로 0.5%p↑…한도 넘어도 조정 유예(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126145451530",
+      "pubDate": "Mon, 26 Jan 2026 18:40:50 +0900"
+    },
+    {
+      "title": "미래에셋증권, 1천억원 규모 자사주 매입 이사회 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260126146800008",
+      "pubDate": "Mon, 26 Jan 2026 18:23:10 +0900"
+    },
     {
       "title": "힙합으로 재해석한 이순신…'불멸의 파도' 브레이킹댄스 첫 공개",
       "link": "https://www.yna.co.kr/view/AKR20260126144700371",
@@ -137,21 +152,6 @@
       "title": "靑 \"李대통령 '부동산 망국론' 자주 얘기…양도세 정상화 과정\"",
       "link": "https://www.yna.co.kr/view/AKR20260126121300001",
       "pubDate": "Mon, 26 Jan 2026 16:27:46 +0900"
-    },
-    {
-      "title": "산안본부장 \"중처법, '기업 구조적 문제 해결 필요' 인식 환기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126122700530",
-      "pubDate": "Mon, 26 Jan 2026 16:19:08 +0900"
-    },
-    {
-      "title": "'천스닥' 돌파 코스닥, 7% 급등 마감…시가총액 사상최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126116351008",
-      "pubDate": "Mon, 26 Jan 2026 16:17:58 +0900"
-    },
-    {
-      "title": "강원 전략산업펀드 1천500억원 조성…기업 맞춤형 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260126122800062",
-      "pubDate": "Mon, 26 Jan 2026 16:15:55 +0900"
     }
   ]
 }
