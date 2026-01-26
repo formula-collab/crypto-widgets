@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769397184,
+  "updated_at_unix": 1769402228,
   "items": [
+    {
+      "title": "농협, 설 앞두고 하나로마트서 대규모 할인…510억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260126042300030",
+      "pubDate": "Mon, 26 Jan 2026 13:00:09 +0900"
+    },
+    {
+      "title": "롯데, 렌터카 기업결합 제동에 \"취지 존중…추가 제안 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126081500030",
+      "pubDate": "Mon, 26 Jan 2026 12:43:47 +0900"
+    },
     {
       "title": "'생리대 비싸다' 지적에…유한킴벌리, 중저가 생리대 제품 확대",
       "link": "https://www.yna.co.kr/view/AKR20260126080000030",
@@ -142,16 +152,6 @@
       "title": "작년 '고부가' 경유 수출량 사상 최대…전체 석유제품은 1%↓",
       "link": "https://www.yna.co.kr/view/AKR20260126048500003",
       "pubDate": "Mon, 26 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국세청, '조세회피' 다국적기업 전방위 포위망 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260126059800002",
-      "pubDate": "Mon, 26 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게시판] BNK부산은행 2026 뉴스타트 특별대출 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260126066500051",
-      "pubDate": "Mon, 26 Jan 2026 10:57:21 +0900"
     }
   ]
 }
