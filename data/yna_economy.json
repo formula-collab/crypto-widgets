@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769433285,
+  "updated_at_unix": 1769435842,
   "items": [
+    {
+      "title": "SK증권, 무궁화신탁 오너에 거액 대출 논란…비상장주 담보(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126153151008",
+      "pubDate": "Mon, 26 Jan 2026 22:27:26 +0900"
+    },
     {
       "title": "SK증권, 무궁화신탁 오너에 거액 대출 논란…비상장주 담보",
       "link": "https://www.yna.co.kr/view/AKR20260126153100008",
@@ -147,11 +152,6 @@
       "title": "'말 안듣는' 택시 콜 차단…검찰, 카카오모빌리티·대표 기소",
       "link": "https://www.yna.co.kr/view/AKR20260126124500004",
       "pubDate": "Mon, 26 Jan 2026 16:40:11 +0900"
-    },
-    {
-      "title": "춘천시, 민생경제 소비 진작 총력…상품권 최대규모 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260126126600062",
-      "pubDate": "Mon, 26 Jan 2026 16:40:04 +0900"
     }
   ]
 }
