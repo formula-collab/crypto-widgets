@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769415495,
+  "updated_at_unix": 1769417659,
   "items": [
+    {
+      "title": "금감원 공공기관 지정 29일 결론…갈등 빚는 금융위 의견 '변수'",
+      "link": "https://www.yna.co.kr/view/AKR20260126143400002",
+      "pubDate": "Mon, 26 Jan 2026 17:48:23 +0900"
+    },
+    {
+      "title": "[광주소식] 광주지방세무사회 창립 50년사 발간",
+      "link": "https://www.yna.co.kr/view/AKR20260126140800054",
+      "pubDate": "Mon, 26 Jan 2026 17:36:16 +0900"
+    },
+    {
+      "title": "엑스페릭스, 10억원 유상증자…박시형 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260126141600008",
+      "pubDate": "Mon, 26 Jan 2026 17:33:40 +0900"
+    },
+    {
+      "title": "엑스페릭스, 60억원 유상증자…윤상철 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260126140500008",
+      "pubDate": "Mon, 26 Jan 2026 17:32:41 +0900"
+    },
+    {
+      "title": "한일미래파트너십재단, 日에 韓교사 50명 파견…\"양국협력 가속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126107900003",
+      "pubDate": "Mon, 26 Jan 2026 17:30:00 +0900"
+    },
+    {
+      "title": "용인시, 국토부에 경기남부광역철도 신설 등 7개 현안 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260126139400061",
+      "pubDate": "Mon, 26 Jan 2026 17:25:42 +0900"
+    },
+    {
+      "title": "오천피·천스닥에 '불법 리딩방' 사기 속출…소비자경보 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260126138500002",
+      "pubDate": "Mon, 26 Jan 2026 17:21:50 +0900"
+    },
     {
       "title": "\"대구경북 노인 빈곤 심화…소득 기반 확충해야\"…한은 분석",
       "link": "https://www.yna.co.kr/view/AKR20260126135300053",
@@ -117,41 +152,6 @@
       "title": "[인사] 지식재산처",
       "link": "https://www.yna.co.kr/view/AKR20260126119800063",
       "pubDate": "Mon, 26 Jan 2026 15:57:44 +0900"
-    },
-    {
-      "title": "환율, 엔화 초강세에 25원 넘게 급락…1,440.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260126119300002",
-      "pubDate": "Mon, 26 Jan 2026 15:51:56 +0900"
-    },
-    {
-      "title": "[특징주] 美 한파에 천연가스 가격 뛰자…관련 ETN '활활'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126064351008",
-      "pubDate": "Mon, 26 Jan 2026 15:50:10 +0900"
-    },
-    {
-      "title": "작년 유동화증권 발행액 282.2조…전년 대비 35.4% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260126117100008",
-      "pubDate": "Mon, 26 Jan 2026 15:49:22 +0900"
-    },
-    {
-      "title": "[동포의 창] 국회서 한상경제권 활성화 논의하는 특별 포럼 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260126116700371",
-      "pubDate": "Mon, 26 Jan 2026 15:43:36 +0900"
-    },
-    {
-      "title": "'천스닥' 돌파 코스닥, 7% 급등 마감…코스피는 4,940대로 밀려",
-      "link": "https://www.yna.co.kr/view/AKR20260126116300008",
-      "pubDate": "Mon, 26 Jan 2026 15:41:34 +0900"
-    },
-    {
-      "title": "[특징주] LS, 에식스솔루션즈 상장 철회 소식에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126052451008",
-      "pubDate": "Mon, 26 Jan 2026 15:38:39 +0900"
-    },
-    {
-      "title": "오세훈 \"서울스마트라이프위크 확장…스타트업 성장 발판 마련\"",
-      "link": "https://www.yna.co.kr/view/AKR20260126115000004",
-      "pubDate": "Mon, 26 Jan 2026 15:37:15 +0900"
     }
   ]
 }
