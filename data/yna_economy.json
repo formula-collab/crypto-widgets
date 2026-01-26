@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769426010,
+  "updated_at_unix": 1769427572,
   "items": [
+    {
+      "title": "SK증권, 무궁화신탁 오너에 거액 대출 논란…비상장주 담보",
+      "link": "https://www.yna.co.kr/view/AKR20260126153100008",
+      "pubDate": "Mon, 26 Jan 2026 20:25:22 +0900"
+    },
+    {
+      "title": "전남 영광 돼지농장서 아프리카돼지열병",
+      "link": "https://www.yna.co.kr/view/AKR20260126153000030",
+      "pubDate": "Mon, 26 Jan 2026 20:07:49 +0900"
+    },
     {
       "title": "로보티즈 \"우즈벡 종속회사에 294억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260126148000008",
@@ -142,16 +152,6 @@
       "title": "춘천시, 민생경제 소비 진작 총력…상품권 최대규모 발행",
       "link": "https://www.yna.co.kr/view/AKR20260126126600062",
       "pubDate": "Mon, 26 Jan 2026 16:40:04 +0900"
-    },
-    {
-      "title": "한국거래소, 설연휴 전날 밤 파생상품 야간거래 휴장키로",
-      "link": "https://www.yna.co.kr/view/AKR20260126130000008",
-      "pubDate": "Mon, 26 Jan 2026 16:35:54 +0900"
-    },
-    {
-      "title": "음성군, 공공기관 2차 이전 대비 혁신도시 주택공급 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260126127100064",
-      "pubDate": "Mon, 26 Jan 2026 16:32:54 +0900"
     }
   ]
 }
