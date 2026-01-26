@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769408545,
+  "updated_at_unix": 1769410735,
   "items": [
+    {
+      "title": "환율, 엔화 초강세에 25원 넘게 급락…1,440.6원",
+      "link": "https://www.yna.co.kr/view/AKR20260126119300002",
+      "pubDate": "Mon, 26 Jan 2026 15:51:56 +0900"
+    },
+    {
+      "title": "[특징주] 美 한파에 천연가스 가격 뛰자…관련 ETN '활활'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126064351008",
+      "pubDate": "Mon, 26 Jan 2026 15:50:10 +0900"
+    },
+    {
+      "title": "작년 유동화증권 발행액 282.2조…전년 대비 35.4% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260126117100008",
+      "pubDate": "Mon, 26 Jan 2026 15:49:22 +0900"
+    },
+    {
+      "title": "[동포의 창] 국회서 한상경제권 활성화 논의하는 특별 포럼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260126116700371",
+      "pubDate": "Mon, 26 Jan 2026 15:43:36 +0900"
+    },
+    {
+      "title": "'천스닥' 돌파 코스닥, 7% 급등 마감…코스피는 4,940대로 밀려",
+      "link": "https://www.yna.co.kr/view/AKR20260126116300008",
+      "pubDate": "Mon, 26 Jan 2026 15:41:34 +0900"
+    },
+    {
+      "title": "[특징주] LS, 에식스솔루션즈 상장 철회 소식에 52주 신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260126052451008",
+      "pubDate": "Mon, 26 Jan 2026 15:38:39 +0900"
+    },
+    {
+      "title": "오세훈 \"서울스마트라이프위크 확장…스타트업 성장 발판 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126115000004",
+      "pubDate": "Mon, 26 Jan 2026 15:37:15 +0900"
+    },
+    {
+      "title": "[게시판] 신한은행, 50세 이상 연금수령자 대상 정기예금",
+      "link": "https://www.yna.co.kr/view/AKR20260126111300002",
+      "pubDate": "Mon, 26 Jan 2026 15:37:03 +0900"
+    },
+    {
+      "title": "외국환시세(1월26일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260126115400002",
+      "pubDate": "Mon, 26 Jan 2026 15:35:22 +0900"
+    },
+    {
+      "title": "내달 말 농어촌 기본소득 지급 시작…사업 적정성 검토 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260126111800002",
+      "pubDate": "Mon, 26 Jan 2026 15:33:35 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 25.2원 내린 1,440.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260126113700002",
+      "pubDate": "Mon, 26 Jan 2026 15:30:26 +0900"
+    },
+    {
+      "title": "울주지역자활센터, 31억2천만원 투입해 창업·취업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260126108800057",
+      "pubDate": "Mon, 26 Jan 2026 15:22:22 +0900"
+    },
+    {
+      "title": "서울세관, 작년 관세 체납징수액 873억원…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260126111000002",
+      "pubDate": "Mon, 26 Jan 2026 15:20:51 +0900"
+    },
     {
       "title": "앵커리츠, 300억원 규모 상장리츠 집중투자 펀드 조성",
       "link": "https://www.yna.co.kr/view/AKR20260126110100003",
@@ -87,71 +152,6 @@
       "title": "李대통령 울산형 비자 부정평가에…김두겸 \"경제 관점서 봐달라\"",
       "link": "https://www.yna.co.kr/view/AKR20260126097900057",
       "pubDate": "Mon, 26 Jan 2026 14:28:22 +0900"
-    },
-    {
-      "title": "[게시판] 교보증권, 'AI 기반 알고리즘 트레이딩' 우수 과제 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260126100100008",
-      "pubDate": "Mon, 26 Jan 2026 14:27:53 +0900"
-    },
-    {
-      "title": "광주 구직활동 청년에 수당 지원…월 50만원씩 최대 300만원",
-      "link": "https://www.yna.co.kr/view/AKR20260126099600054",
-      "pubDate": "Mon, 26 Jan 2026 14:24:16 +0900"
-    },
-    {
-      "title": "광주·전남 지역민, 올해도 물가 상승 지속 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260126099100054",
-      "pubDate": "Mon, 26 Jan 2026 14:22:52 +0900"
-    },
-    {
-      "title": "영광서 키운 '새싹인삼' 일본 수출 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260126098700054",
-      "pubDate": "Mon, 26 Jan 2026 14:17:58 +0900"
-    },
-    {
-      "title": "[게시판] 쿠시먼앤드웨이크필드, 미국 산업 투자전략 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260126096400003",
-      "pubDate": "Mon, 26 Jan 2026 14:17:08 +0900"
-    },
-    {
-      "title": "[부고] 윤면식(전 한국은행 부총재)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260126097000002",
-      "pubDate": "Mon, 26 Jan 2026 14:11:33 +0900"
-    },
-    {
-      "title": "횡성군, 청년 일자리 정책 박차…구직부터 정착까지 촘촘 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260126094400062",
-      "pubDate": "Mon, 26 Jan 2026 14:07:27 +0900"
-    },
-    {
-      "title": "롯데, 렌터카 기업결합 제동에 \"취지 존중…추가 제안 검토\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260126081551030",
-      "pubDate": "Mon, 26 Jan 2026 14:03:57 +0900"
-    },
-    {
-      "title": "작년 전국 땅값 2.25% 올라…서울·경기 전국평균 상회",
-      "link": "https://www.yna.co.kr/view/AKR20260126063900003",
-      "pubDate": "Mon, 26 Jan 2026 14:00:11 +0900"
-    },
-    {
-      "title": "코트라, 올해 사상 최대 수출·투자 위해 전사적 역량 결집",
-      "link": "https://www.yna.co.kr/view/AKR20260126092200003",
-      "pubDate": "Mon, 26 Jan 2026 14:00:00 +0900"
-    },
-    {
-      "title": "원주 첫 우산일반산업단지, 미래 성장 거점으로 재도약 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260126091500062",
-      "pubDate": "Mon, 26 Jan 2026 13:59:09 +0900"
-    },
-    {
-      "title": "아직은 잠잠한 다주택자들…일부 가격 낮춘 매물도 등장",
-      "link": "https://www.yna.co.kr/view/AKR20260126080200003",
-      "pubDate": "Mon, 26 Jan 2026 13:57:46 +0900"
-    },
-    {
-      "title": "원주시, 지역 성장에 재정 역량 집중…현장 중심 예산 적극 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260126090700062",
-      "pubDate": "Mon, 26 Jan 2026 13:55:19 +0900"
     }
   ]
 }
