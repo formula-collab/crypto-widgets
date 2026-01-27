@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769497051,
+  "updated_at_unix": 1769498637,
   "items": [
+    {
+      "title": "세아스틸인터내셔날, 영국 계열사 주식 276억원에 추가취득",
+      "link": "https://www.yna.co.kr/view/AKR20260127129000008",
+      "pubDate": "Tue, 27 Jan 2026 16:17:22 +0900"
+    },
+    {
+      "title": "[특징주] 트럼프 관세 인상 우려에 현대차 등 자동차주 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127037051008",
+      "pubDate": "Tue, 27 Jan 2026 16:15:29 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자·하이닉스, 실적 발표 앞두고 사상 최고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127106051008",
+      "pubDate": "Tue, 27 Jan 2026 16:14:54 +0900"
+    },
+    {
+      "title": "코스피, 사상 처음 종가 기준 5,000 돌파…코스닥도 '천스닥'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127123751008",
+      "pubDate": "Tue, 27 Jan 2026 16:14:30 +0900"
+    },
+    {
+      "title": "강원농업기술원, 농촌융복합산업 '점프업' 관계기관 사업설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260127129400062",
+      "pubDate": "Tue, 27 Jan 2026 16:07:50 +0900"
+    },
+    {
+      "title": "금투협, 오천피 마감에 \"자본시장 새 역사…경제 대도약 신호탄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127127500008",
+      "pubDate": "Tue, 27 Jan 2026 16:05:42 +0900"
+    },
+    {
+      "title": "해수부, 지역별 맞춤형 수산발전 방안 수립 착수…3월 최종 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260127109100030",
+      "pubDate": "Tue, 27 Jan 2026 16:00:00 +0900"
+    },
+    {
+      "title": "서울시 \"정부 대출규제 후폭풍…이주비 없어 주택공급 차질\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127102451004",
+      "pubDate": "Tue, 27 Jan 2026 15:59:11 +0900"
+    },
     {
       "title": "김해의생명산업진흥원, 유망 창업기업과 대·중견기업 협업 지원",
       "link": "https://www.yna.co.kr/view/AKR20260127124600052",
@@ -112,46 +152,6 @@
       "title": "부산항 북항 배후도로 지하차도 3월 말 우선 개통",
       "link": "https://www.yna.co.kr/view/AKR20260127114100051",
       "pubDate": "Tue, 27 Jan 2026 14:58:29 +0900"
-    },
-    {
-      "title": "미국, 한국에 무역 합의 이행 촉구 서한…사전 경고 성격",
-      "link": "https://www.yna.co.kr/view/AKR20260127111200017",
-      "pubDate": "Tue, 27 Jan 2026 14:49:42 +0900"
-    },
-    {
-      "title": "진보당 \"울산형 광역비자, 조선업 인력난 해법 아니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127111100057",
-      "pubDate": "Tue, 27 Jan 2026 14:47:13 +0900"
-    },
-    {
-      "title": "부산 제조업 체감경기 개선…비제조업은 약간 약화",
-      "link": "https://www.yna.co.kr/view/AKR20260127111600051",
-      "pubDate": "Tue, 27 Jan 2026 14:45:40 +0900"
-    },
-    {
-      "title": "설자금 39조 공급…성수품 최대 50% 할인·고속도로 통행료 면제(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127085451001",
-      "pubDate": "Tue, 27 Jan 2026 14:45:13 +0900"
-    },
-    {
-      "title": "[광명소식] 업사이클아트센터, '가상오피스' 입주 기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260127108700061",
-      "pubDate": "Tue, 27 Jan 2026 14:31:20 +0900"
-    },
-    {
-      "title": "'인생 후반전' 중장년 지원…인력 부족 업종 근속시 연 360만원",
-      "link": "https://www.yna.co.kr/view/AKR20260127062000530",
-      "pubDate": "Tue, 27 Jan 2026 14:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260127104200011",
-      "pubDate": "Tue, 27 Jan 2026 14:30:01 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·하이닉스, 실적 발표 앞두고 사상 최고가",
-      "link": "https://www.yna.co.kr/view/AKR20260127106000008",
-      "pubDate": "Tue, 27 Jan 2026 14:27:14 +0900"
     }
   ]
 }
