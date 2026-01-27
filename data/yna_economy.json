@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769534390,
+  "updated_at_unix": 1769536215,
   "items": [
+    {
+      "title": "달러-원, 한달만에 1,430원대 마감…엔 강세 속 美 소비심리 악화",
+      "link": "https://www.yna.co.kr/view/AKR20260128002900002",
+      "pubDate": "Wed, 28 Jan 2026 02:28:39 +0900"
+    },
     {
       "title": "美정부, 내년 메디케어 지급액 사실상 동결…보험사 주가 급락세",
       "link": "https://www.yna.co.kr/view/AKR20260128000600072",
@@ -147,11 +152,6 @@
       "title": "세아스틸인터내셔날, 영국 계열사 주식 276억원에 추가취득",
       "link": "https://www.yna.co.kr/view/AKR20260127129000008",
       "pubDate": "Tue, 27 Jan 2026 16:17:22 +0900"
-    },
-    {
-      "title": "[특징주] 트럼프 관세 인상 우려에 현대차 등 자동차주 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127037051008",
-      "pubDate": "Tue, 27 Jan 2026 16:15:29 +0900"
     }
   ]
 }
