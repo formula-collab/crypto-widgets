@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769499988,
+  "updated_at_unix": 1769501895,
   "items": [
+    {
+      "title": "현대차·기아, 2년 연속 유럽판매 감소…점유율은 4위 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260127142300003",
+      "pubDate": "Tue, 27 Jan 2026 17:12:50 +0900"
+    },
+    {
+      "title": "관세 이슈에 국고채 금리 대체로 하락…3년물 연 3.094%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127136151008",
+      "pubDate": "Tue, 27 Jan 2026 17:08:55 +0900"
+    },
+    {
+      "title": "작년 대구 수출 역대 3번째 규모…경북 5년만에 400억불 붕괴",
+      "link": "https://www.yna.co.kr/view/AKR20260127141200053",
+      "pubDate": "Tue, 27 Jan 2026 17:08:20 +0900"
+    },
+    {
+      "title": "인천 4.57%·경북 2.15%…지방정부 금고 금리 격차 2배 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260127104800530",
+      "pubDate": "Tue, 27 Jan 2026 17:00:00 +0900"
+    },
+    {
+      "title": "춘천시, 동남권 복합복지센터 건립 추진…2029년 개관 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260127136500062",
+      "pubDate": "Tue, 27 Jan 2026 16:56:24 +0900"
+    },
+    {
+      "title": "홈플러스, 본사 희망퇴직 시행…본사인력 점포 배치도",
+      "link": "https://www.yna.co.kr/view/AKR20260127136200030",
+      "pubDate": "Tue, 27 Jan 2026 16:46:38 +0900"
+    },
+    {
+      "title": "李대통령 \"국회 입법 속도 너무 느려…일을 할 수가 없다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127085551001",
+      "pubDate": "Tue, 27 Jan 2026 16:45:03 +0900"
+    },
     {
       "title": "국고채 금리 대체로 하락…3년물 연 3.094%",
       "link": "https://www.yna.co.kr/view/AKR20260127136100008",
@@ -117,41 +152,6 @@
       "title": "주병기 \"조사 불응시 1일 매출 5%까지 이행강제금\"…17배로 강화",
       "link": "https://www.yna.co.kr/view/AKR20260127121900002",
       "pubDate": "Tue, 27 Jan 2026 15:38:58 +0900"
-    },
-    {
-      "title": "외국환시세(1월27일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260127123800002",
-      "pubDate": "Tue, 27 Jan 2026 15:35:24 +0900"
-    },
-    {
-      "title": "구미·칠곡 광역 바이오가스화 민자사업 확정…1천900억 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260127121600002",
-      "pubDate": "Tue, 27 Jan 2026 15:35:12 +0900"
-    },
-    {
-      "title": "부산시·BPA 등 부산항 항만연관산업 육성·지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260127123500051",
-      "pubDate": "Tue, 27 Jan 2026 15:34:10 +0900"
-    },
-    {
-      "title": "가상자산 거래정보도 신용정보에 포함…이용자 권리보호 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260127117900002",
-      "pubDate": "Tue, 27 Jan 2026 15:32:03 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.6원 오른 1,446.2원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260127122200002",
-      "pubDate": "Tue, 27 Jan 2026 15:30:25 +0900"
-    },
-    {
-      "title": "\"올해 상업부동산 시장 거래규모 최대 32조…시장 불확실성↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127121200008",
-      "pubDate": "Tue, 27 Jan 2026 15:28:35 +0900"
-    },
-    {
-      "title": "올해 아프리카돼지열병 벌써 4건…\"전국 농장 방역 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127120700030",
-      "pubDate": "Tue, 27 Jan 2026 15:23:55 +0900"
     }
   ]
 }
