@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769494793,
+  "updated_at_unix": 1769497051,
   "items": [
+    {
+      "title": "김해의생명산업진흥원, 유망 창업기업과 대·중견기업 협업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260127124600052",
+      "pubDate": "Tue, 27 Jan 2026 15:52:51 +0900"
+    },
+    {
+      "title": "[인사] 라이나생명",
+      "link": "https://www.yna.co.kr/view/AKR20260127126400002",
+      "pubDate": "Tue, 27 Jan 2026 15:51:51 +0900"
+    },
+    {
+      "title": "환율, 美 관세 불확실성에 5.6원 오른 1,446.2원",
+      "link": "https://www.yna.co.kr/view/AKR20260127040751002",
+      "pubDate": "Tue, 27 Jan 2026 15:51:30 +0900"
+    },
+    {
+      "title": "정부 '美관세' 보고받은 산자위원장 \"韓입법과정 美에 설명해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127119400001",
+      "pubDate": "Tue, 27 Jan 2026 15:48:10 +0900"
+    },
+    {
+      "title": "김성은 주건협회장 \"LH 직접 시행 사업에 중소업체도 참여해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127124300003",
+      "pubDate": "Tue, 27 Jan 2026 15:43:00 +0900"
+    },
+    {
+      "title": "아바코 \"YESOL 주식 65억원어치 취득…지분율 79%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127124000008",
+      "pubDate": "Tue, 27 Jan 2026 15:42:57 +0900"
+    },
+    {
+      "title": "또 금감원 힘 실어준 李대통령…특사경 인지수사권 속도낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260127113600002",
+      "pubDate": "Tue, 27 Jan 2026 15:40:03 +0900"
+    },
+    {
+      "title": "코스피, 트럼프발 쇼크에도 사상 처음 종가 기준 5,000 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260127123700008",
+      "pubDate": "Tue, 27 Jan 2026 15:39:19 +0900"
+    },
+    {
+      "title": "주병기 \"조사 불응시 1일 매출 5%까지 이행강제금\"…17배로 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260127121900002",
+      "pubDate": "Tue, 27 Jan 2026 15:38:58 +0900"
+    },
+    {
+      "title": "외국환시세(1월27일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260127123800002",
+      "pubDate": "Tue, 27 Jan 2026 15:35:24 +0900"
+    },
+    {
+      "title": "구미·칠곡 광역 바이오가스화 민자사업 확정…1천900억 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260127121600002",
+      "pubDate": "Tue, 27 Jan 2026 15:35:12 +0900"
+    },
+    {
+      "title": "부산시·BPA 등 부산항 항만연관산업 육성·지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260127123500051",
+      "pubDate": "Tue, 27 Jan 2026 15:34:10 +0900"
+    },
+    {
+      "title": "가상자산 거래정보도 신용정보에 포함…이용자 권리보호 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260127117900002",
+      "pubDate": "Tue, 27 Jan 2026 15:32:03 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 5.6원 오른 1,446.2원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260127122200002",
+      "pubDate": "Tue, 27 Jan 2026 15:30:25 +0900"
+    },
+    {
+      "title": "\"올해 상업부동산 시장 거래규모 최대 32조…시장 불확실성↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127121200008",
+      "pubDate": "Tue, 27 Jan 2026 15:28:35 +0900"
+    },
+    {
+      "title": "올해 아프리카돼지열병 벌써 4건…\"전국 농장 방역 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127120700030",
+      "pubDate": "Tue, 27 Jan 2026 15:23:55 +0900"
+    },
+    {
+      "title": "KGM 작년 매출 4조2천433억원 역대최대…영업익 336% 증가 536억",
+      "link": "https://www.yna.co.kr/view/AKR20260127118500003",
+      "pubDate": "Tue, 27 Jan 2026 15:17:42 +0900"
+    },
     {
       "title": "국민 쿠팡비판 확산 이유는…\"갑질·노동착취·우롱보상 논란\"",
       "link": "https://www.yna.co.kr/view/AKR20260127082400030",
@@ -67,91 +152,6 @@
       "title": "[특징주] 삼성전자·하이닉스, 실적 발표 앞두고 사상 최고가",
       "link": "https://www.yna.co.kr/view/AKR20260127106000008",
       "pubDate": "Tue, 27 Jan 2026 14:27:14 +0900"
-    },
-    {
-      "title": "[게시판] 건설단체들, '나라사랑 보금자리사업' 1억원 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260127095400003",
-      "pubDate": "Tue, 27 Jan 2026 14:26:16 +0900"
-    },
-    {
-      "title": "GS건설, 인도 태양광 발전단지 준공…운영까지 담당",
-      "link": "https://www.yna.co.kr/view/AKR20260127106900003",
-      "pubDate": "Tue, 27 Jan 2026 14:25:54 +0900"
-    },
-    {
-      "title": "올해 공공기관 정규직 2만8천명 채용…2020년 이래 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260127062800002",
-      "pubDate": "Tue, 27 Jan 2026 14:20:26 +0900"
-    },
-    {
-      "title": "[부고] 박현주(신한은행 소비자보호그룹장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260127104600002",
-      "pubDate": "Tue, 27 Jan 2026 14:19:24 +0900"
-    },
-    {
-      "title": "포항 해오름대교 2월 2일로 개통 연기…\"안전공사 추가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127105200053",
-      "pubDate": "Tue, 27 Jan 2026 14:19:05 +0900"
-    },
-    {
-      "title": "대동, 대리점·엔지니어 대상 'AI트랙터·드론' 기술교육",
-      "link": "https://www.yna.co.kr/view/AKR20260127103300030",
-      "pubDate": "Tue, 27 Jan 2026 14:18:00 +0900"
-    },
-    {
-      "title": "미래에셋, 자체제작 동화 '동물원정대' 전국 도서관 기증",
-      "link": "https://www.yna.co.kr/view/AKR20260127105400008",
-      "pubDate": "Tue, 27 Jan 2026 14:17:26 +0900"
-    },
-    {
-      "title": "여수·순천상의 \"전남 동부권 반도체 소부장 권역 재편해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127081100054",
-      "pubDate": "Tue, 27 Jan 2026 14:16:58 +0900"
-    },
-    {
-      "title": "서울시 \"정비사업 91%, 이주비 조달 차질…대출규제 완화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127102400004",
-      "pubDate": "Tue, 27 Jan 2026 14:05:13 +0900"
-    },
-    {
-      "title": "분당 선도지구 '양지마을 32구역' 특별정비구역 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260127100200061",
-      "pubDate": "Tue, 27 Jan 2026 14:04:58 +0900"
-    },
-    {
-      "title": "재생에너지 '직거래 장' 열렸다…대한상의 행사서 100㎿ 거래협의",
-      "link": "https://www.yna.co.kr/view/AKR20260127046200003",
-      "pubDate": "Tue, 27 Jan 2026 14:00:28 +0900"
-    },
-    {
-      "title": "설 앞두고 제주 소상공인에 100억원 규모 특별보증 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260127076400056",
-      "pubDate": "Tue, 27 Jan 2026 14:00:28 +0900"
-    },
-    {
-      "title": "자본연 \"올해 미국 1회 금리 인하 전망…한국은 동결될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127077700008",
-      "pubDate": "Tue, 27 Jan 2026 14:00:28 +0900"
-    },
-    {
-      "title": "부산은행 양산종합금융센터 출범…디지털 전략거점",
-      "link": "https://www.yna.co.kr/view/AKR20260127101200051",
-      "pubDate": "Tue, 27 Jan 2026 13:59:58 +0900"
-    },
-    {
-      "title": "농식품·외교부, K푸드 수출 거점 재외공관 30곳 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260127100900030",
-      "pubDate": "Tue, 27 Jan 2026 13:59:57 +0900"
-    },
-    {
-      "title": "마뗑킴, 성수 플래그십 스토어 확장 이전",
-      "link": "https://www.yna.co.kr/view/AKR20260127100400030",
-      "pubDate": "Tue, 27 Jan 2026 13:57:39 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20260127100600002",
-      "pubDate": "Tue, 27 Jan 2026 13:57:32 +0900"
     }
   ]
 }
