@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769527200,
+  "updated_at_unix": 1769528916,
   "items": [
+    {
+      "title": "美정부, 내년 메디케어 지급액 사실상 동결…보험사 주가 급락세",
+      "link": "https://www.yna.co.kr/view/AKR20260128000600072",
+      "pubDate": "Wed, 28 Jan 2026 00:35:03 +0900"
+    },
     {
       "title": "[게시판] 한경협국제경영원, 한경협 최고경영자과정 90기 수료식",
       "link": "https://www.yna.co.kr/view/AKR20260127099300003",
@@ -147,11 +152,6 @@
       "title": "[특징주] 트럼프 관세 인상 우려에 현대차 등 자동차주 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260127037051008",
       "pubDate": "Tue, 27 Jan 2026 16:15:29 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·하이닉스, 실적 발표 앞두고 사상 최고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127106051008",
-      "pubDate": "Tue, 27 Jan 2026 16:14:54 +0900"
     }
   ]
 }
