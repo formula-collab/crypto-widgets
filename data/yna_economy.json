@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769505727,
+  "updated_at_unix": 1769507539,
   "items": [
+    {
+      "title": "기업은행, 윤인지·오정순 신임 부행장 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260127154300002",
+      "pubDate": "Tue, 27 Jan 2026 18:26:27 +0900"
+    },
+    {
+      "title": "디지털 규제, 한미협상 변수되나…망사용료·지도반출 쟁점(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127130251017",
+      "pubDate": "Tue, 27 Jan 2026 18:25:31 +0900"
+    },
     {
       "title": "미국, 한국에 서한…청 \"트럼프 관세 언급과 관련 없어\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260127111251017",
@@ -142,16 +152,6 @@
       "title": "강원농업기술원, 농촌융복합산업 '점프업' 관계기관 사업설명회",
       "link": "https://www.yna.co.kr/view/AKR20260127129400062",
       "pubDate": "Tue, 27 Jan 2026 16:07:50 +0900"
-    },
-    {
-      "title": "금투협, 오천피 마감에 \"자본시장 새 역사…경제 대도약 신호탄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127127500008",
-      "pubDate": "Tue, 27 Jan 2026 16:05:42 +0900"
-    },
-    {
-      "title": "해수부, 지역별 맞춤형 수산발전 방안 수립 착수…3월 최종 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260127109100030",
-      "pubDate": "Tue, 27 Jan 2026 16:00:00 +0900"
     }
   ]
 }
