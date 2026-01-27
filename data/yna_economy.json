@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769549956,
+  "updated_at_unix": 1769551974,
   "items": [
+    {
+      "title": "달러 가치 4개월 만에 최저…'셀 아메리카'·셧다운 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260128012700072",
+      "pubDate": "Wed, 28 Jan 2026 06:51:53 +0900"
+    },
     {
       "title": "작년 일가정양립 수급자 첫 30만 돌파…男 육아휴직 '역대 최다'",
       "link": "https://www.yna.co.kr/view/AKR20260127143500530",
@@ -147,11 +152,6 @@
       "title": "1월 대구·경북 기업심리지수, 제조업 상승·비제조업 하락",
       "link": "https://www.yna.co.kr/view/AKR20260127144600053",
       "pubDate": "Tue, 27 Jan 2026 17:22:38 +0900"
-    },
-    {
-      "title": "현대차·기아, 2년 연속 유럽판매 감소…점유율은 4위 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260127142300003",
-      "pubDate": "Tue, 27 Jan 2026 17:12:50 +0900"
     }
   ]
 }
