@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769504043,
+  "updated_at_unix": 1769505727,
   "items": [
+    {
+      "title": "미국, 한국에 서한…청 \"트럼프 관세 언급과 관련 없어\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127111251017",
+      "pubDate": "Tue, 27 Jan 2026 18:16:27 +0900"
+    },
+    {
+      "title": "[쇼츠] 트럼프 \"한국산 제품에 다시 25%\"…'관세인상' 언급 왜?",
+      "link": "https://www.yna.co.kr/view/AKR20260127153100704",
+      "pubDate": "Tue, 27 Jan 2026 18:14:16 +0900"
+    },
+    {
+      "title": "靑 \"美 서한은 '기업 차별 말라'…트럼프 관세 언급과 관련없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127149700001",
+      "pubDate": "Tue, 27 Jan 2026 18:00:11 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260127144000011",
+      "pubDate": "Tue, 27 Jan 2026 18:00:01 +0900"
+    },
+    {
+      "title": "4,000 돌파 3개월만 '오천피'…거래소 \"코리아 디스카운트 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127147800008",
+      "pubDate": "Tue, 27 Jan 2026 17:53:59 +0900"
+    },
+    {
+      "title": "CJ올리브네트웍스 두달 넘게 일부 현금영수증 발행 누락",
+      "link": "https://www.yna.co.kr/view/AKR20260127149600017",
+      "pubDate": "Tue, 27 Jan 2026 17:52:46 +0900"
+    },
     {
       "title": "충북 소비자상담센터 접수 최다 불만은 건강식품·항공",
       "link": "https://www.yna.co.kr/view/AKR20260127147300064",
@@ -122,36 +152,6 @@
       "title": "해수부, 지역별 맞춤형 수산발전 방안 수립 착수…3월 최종 발표",
       "link": "https://www.yna.co.kr/view/AKR20260127109100030",
       "pubDate": "Tue, 27 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "서울시 \"정부 대출규제 후폭풍…이주비 없어 주택공급 차질\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127102451004",
-      "pubDate": "Tue, 27 Jan 2026 15:59:11 +0900"
-    },
-    {
-      "title": "김해의생명산업진흥원, 유망 창업기업과 대·중견기업 협업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260127124600052",
-      "pubDate": "Tue, 27 Jan 2026 15:52:51 +0900"
-    },
-    {
-      "title": "[인사] 라이나생명",
-      "link": "https://www.yna.co.kr/view/AKR20260127126400002",
-      "pubDate": "Tue, 27 Jan 2026 15:51:51 +0900"
-    },
-    {
-      "title": "환율, 美 관세 불확실성에 5.6원 오른 1,446.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260127040751002",
-      "pubDate": "Tue, 27 Jan 2026 15:51:30 +0900"
-    },
-    {
-      "title": "정부 '美관세' 보고받은 산자위원장 \"韓입법과정 美에 설명해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127119400001",
-      "pubDate": "Tue, 27 Jan 2026 15:48:10 +0900"
-    },
-    {
-      "title": "김성은 주건협회장 \"LH 직접 시행 사업에 중소업체도 참여해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127124300003",
-      "pubDate": "Tue, 27 Jan 2026 15:43:00 +0900"
     }
   ]
 }
