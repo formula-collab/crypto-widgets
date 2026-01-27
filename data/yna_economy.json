@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769551974,
+  "updated_at_unix": 1769553794,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260128015500011",
+      "pubDate": "Wed, 28 Jan 2026 07:30:00 +0900"
+    },
     {
       "title": "달러 가치 4개월 만에 최저…'셀 아메리카'·셧다운 우려",
       "link": "https://www.yna.co.kr/view/AKR20260128012700072",
@@ -147,11 +152,6 @@
       "title": "위기 처한 거창 화강석산업 돌파구는…군, 중장기 발전계획 수립",
       "link": "https://www.yna.co.kr/view/AKR20260127143700052",
       "pubDate": "Tue, 27 Jan 2026 17:26:09 +0900"
-    },
-    {
-      "title": "1월 대구·경북 기업심리지수, 제조업 상승·비제조업 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260127144600053",
-      "pubDate": "Tue, 27 Jan 2026 17:22:38 +0900"
     }
   ]
 }
