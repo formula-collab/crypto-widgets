@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769501895,
+  "updated_at_unix": 1769504043,
   "items": [
+    {
+      "title": "충북 소비자상담센터 접수 최다 불만은 건강식품·항공",
+      "link": "https://www.yna.co.kr/view/AKR20260127147300064",
+      "pubDate": "Tue, 27 Jan 2026 17:41:07 +0900"
+    },
+    {
+      "title": "'대출 중계 수수료 20%'…36억원 챙긴 일당 5명 검거",
+      "link": "https://www.yna.co.kr/view/AKR20260127145000051",
+      "pubDate": "Tue, 27 Jan 2026 17:41:03 +0900"
+    },
+    {
+      "title": "[영상] 트럼프 \"한국산 제품 다시 25%\"…돌연 '관세인상' 언급 왜?",
+      "link": "https://www.yna.co.kr/view/AKR20260127147500704",
+      "pubDate": "Tue, 27 Jan 2026 17:38:56 +0900"
+    },
+    {
+      "title": "위기 처한 거창 화강석산업 돌파구는…군, 중장기 발전계획 수립",
+      "link": "https://www.yna.co.kr/view/AKR20260127143700052",
+      "pubDate": "Tue, 27 Jan 2026 17:26:09 +0900"
+    },
+    {
+      "title": "1월 대구·경북 기업심리지수, 제조업 상승·비제조업 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260127144600053",
+      "pubDate": "Tue, 27 Jan 2026 17:22:38 +0900"
+    },
     {
       "title": "현대차·기아, 2년 연속 유럽판매 감소…점유율은 4위 유지",
       "link": "https://www.yna.co.kr/view/AKR20260127142300003",
@@ -42,11 +67,6 @@
       "title": "국고채 금리 대체로 하락…3년물 연 3.094%",
       "link": "https://www.yna.co.kr/view/AKR20260127136100008",
       "pubDate": "Tue, 27 Jan 2026 16:40:17 +0900"
-    },
-    {
-      "title": "쿠팡 대규모 개인정보유출에…작년 12월 '탈팡 소비자상담 급증'",
-      "link": "https://www.yna.co.kr/view/AKR20260127113500030",
-      "pubDate": "Tue, 27 Jan 2026 16:34:30 +0900"
     },
     {
       "title": "강훈식 \"韓·캐나다 車 협력 강화로 호혜적 모델 만들 수 있어\"",
@@ -132,26 +152,6 @@
       "title": "김성은 주건협회장 \"LH 직접 시행 사업에 중소업체도 참여해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260127124300003",
       "pubDate": "Tue, 27 Jan 2026 15:43:00 +0900"
-    },
-    {
-      "title": "아바코 \"YESOL 주식 65억원어치 취득…지분율 79%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127124000008",
-      "pubDate": "Tue, 27 Jan 2026 15:42:57 +0900"
-    },
-    {
-      "title": "또 금감원 힘 실어준 李대통령…특사경 인지수사권 속도낼까",
-      "link": "https://www.yna.co.kr/view/AKR20260127113600002",
-      "pubDate": "Tue, 27 Jan 2026 15:40:03 +0900"
-    },
-    {
-      "title": "코스피, 트럼프발 쇼크에도 사상 처음 종가 기준 5,000 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260127123700008",
-      "pubDate": "Tue, 27 Jan 2026 15:39:19 +0900"
-    },
-    {
-      "title": "주병기 \"조사 불응시 1일 매출 5%까지 이행강제금\"…17배로 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260127121900002",
-      "pubDate": "Tue, 27 Jan 2026 15:38:58 +0900"
     }
   ]
 }
