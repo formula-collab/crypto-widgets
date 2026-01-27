@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769507539,
+  "updated_at_unix": 1769508976,
   "items": [
+    {
+      "title": "[게시판] 한경협국제경영원, 한경협 최고경영자과정 90기 수료식",
+      "link": "https://www.yna.co.kr/view/AKR20260127099300003",
+      "pubDate": "Tue, 27 Jan 2026 19:00:01 +0900"
+    },
+    {
+      "title": "[부고] 박희윤(HDC현대산업개발 개발본부장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260127156400003",
+      "pubDate": "Tue, 27 Jan 2026 18:50:44 +0900"
+    },
     {
       "title": "기업은행, 윤인지·오정순 신임 부행장 선임",
       "link": "https://www.yna.co.kr/view/AKR20260127154300002",
@@ -142,16 +152,6 @@
       "title": "[특징주] 삼성전자·하이닉스, 실적 발표 앞두고 사상 최고가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260127106051008",
       "pubDate": "Tue, 27 Jan 2026 16:14:54 +0900"
-    },
-    {
-      "title": "코스피, 사상 처음 종가 기준 5,000 돌파…코스닥도 '천스닥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127123751008",
-      "pubDate": "Tue, 27 Jan 2026 16:14:30 +0900"
-    },
-    {
-      "title": "강원농업기술원, 농촌융복합산업 '점프업' 관계기관 사업설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260127129400062",
-      "pubDate": "Tue, 27 Jan 2026 16:07:50 +0900"
     }
   ]
 }
