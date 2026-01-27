@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769555521,
+  "updated_at_unix": 1769557252,
   "items": [
+    {
+      "title": "KB증권 \"코스메카코리아, 국내외 법인 동반 성장…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128027100008",
+      "pubDate": "Wed, 28 Jan 2026 08:33:40 +0900"
+    },
+    {
+      "title": "車보험 '8주룰' 도입 준비…경상환자 통계 시스템 구축한다",
+      "link": "https://www.yna.co.kr/view/AKR20260127154900002",
+      "pubDate": "Wed, 28 Jan 2026 08:33:02 +0900"
+    },
+    {
+      "title": "\"NOL에서 쏘카 예약\"…놀유니버스, 쏘카와 제휴",
+      "link": "https://www.yna.co.kr/view/AKR20260128025500030",
+      "pubDate": "Wed, 28 Jan 2026 08:32:28 +0900"
+    },
+    {
+      "title": "대상, 세이브더칠드런에 조부모가정 아동 사업 1억원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260128025100030",
+      "pubDate": "Wed, 28 Jan 2026 08:32:09 +0900"
+    },
+    {
+      "title": "제놀루션 \"서울대와 맞춤형 RNAi 방제 기술 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128025400017",
+      "pubDate": "Wed, 28 Jan 2026 08:31:39 +0900"
+    },
+    {
+      "title": "문체부-관광공사, '근로자 휴가비 지원' 사업 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260128023600030",
+      "pubDate": "Wed, 28 Jan 2026 08:31:10 +0900"
+    },
+    {
+      "title": "정부, 설 성수품 '역대최대' 27만t 푼다…할인지원 910억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260127146400030",
+      "pubDate": "Wed, 28 Jan 2026 08:30:02 +0900"
+    },
+    {
+      "title": "설 연휴 KTX·SRT 역귀성 최대 50% 할인…궁·미술관 무료개방",
+      "link": "https://www.yna.co.kr/view/AKR20260127154200002",
+      "pubDate": "Wed, 28 Jan 2026 08:30:01 +0900"
+    },
+    {
+      "title": "\"정책금융 브로커 신고하세요\"…중진공·소진공 포상금 200만원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127161251030",
+      "pubDate": "Wed, 28 Jan 2026 08:11:01 +0900"
+    },
     {
       "title": "삼성증권, '실적 서프라이즈' LS일렉트릭 목표가 대폭 상향",
       "link": "https://www.yna.co.kr/view/AKR20260128022200008",
@@ -107,51 +152,6 @@
       "title": "美정부, 내년 메디케어 지급액 사실상 동결…보험사 주가 급락세",
       "link": "https://www.yna.co.kr/view/AKR20260128000600072",
       "pubDate": "Wed, 28 Jan 2026 00:35:03 +0900"
-    },
-    {
-      "title": "[게시판] 한경협국제경영원, 한경협 최고경영자과정 90기 수료식",
-      "link": "https://www.yna.co.kr/view/AKR20260127099300003",
-      "pubDate": "Tue, 27 Jan 2026 19:00:01 +0900"
-    },
-    {
-      "title": "[부고] 박희윤(HDC현대산업개발 개발본부장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260127156400003",
-      "pubDate": "Tue, 27 Jan 2026 18:50:44 +0900"
-    },
-    {
-      "title": "기업은행, 윤인지·오정순 신임 부행장 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260127154300002",
-      "pubDate": "Tue, 27 Jan 2026 18:26:27 +0900"
-    },
-    {
-      "title": "디지털 규제, 한미협상 변수되나…망사용료·지도반출 쟁점(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127130251017",
-      "pubDate": "Tue, 27 Jan 2026 18:25:31 +0900"
-    },
-    {
-      "title": "미국, 한국에 서한…청 \"트럼프 관세 언급과 관련 없어\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260127111251017",
-      "pubDate": "Tue, 27 Jan 2026 18:16:27 +0900"
-    },
-    {
-      "title": "[쇼츠] 트럼프 \"한국산 제품에 다시 25%\"…'관세인상' 언급 왜?",
-      "link": "https://www.yna.co.kr/view/AKR20260127153100704",
-      "pubDate": "Tue, 27 Jan 2026 18:14:16 +0900"
-    },
-    {
-      "title": "靑 \"美 서한은 '기업 차별 말라'…트럼프 관세 언급과 관련없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127149700001",
-      "pubDate": "Tue, 27 Jan 2026 18:00:11 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260127144000011",
-      "pubDate": "Tue, 27 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "4,000 돌파 3개월만 '오천피'…거래소 \"코리아 디스카운트 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127147800008",
-      "pubDate": "Tue, 27 Jan 2026 17:53:59 +0900"
     }
   ]
 }
