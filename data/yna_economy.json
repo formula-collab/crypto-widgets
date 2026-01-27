@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769553794,
+  "updated_at_unix": 1769555521,
   "items": [
+    {
+      "title": "삼성증권, '실적 서프라이즈' LS일렉트릭 목표가 대폭 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260128022200008",
+      "pubDate": "Wed, 28 Jan 2026 08:08:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 금리 결정·빅테크 실적 앞두고 코스피 훈풍 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260128021900008",
+      "pubDate": "Wed, 28 Jan 2026 08:04:43 +0900"
+    },
+    {
+      "title": "부동산 투자용 1천억대 불법대출 메리츠 前임원 1심서 징역 8년",
+      "link": "https://www.yna.co.kr/view/AKR20260127154400004",
+      "pubDate": "Wed, 28 Jan 2026 08:00:03 +0900"
+    },
+    {
+      "title": "울산 작년 지방세 1조8천545억원 징수…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260127165100057",
+      "pubDate": "Wed, 28 Jan 2026 07:59:17 +0900"
+    },
+    {
+      "title": "소버린 AI 영상 '씨앗' 방송 영상 DB 구축 사업 난항",
+      "link": "https://www.yna.co.kr/view/AKR20260127148900017",
+      "pubDate": "Wed, 28 Jan 2026 07:55:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260128015500011",
@@ -127,31 +152,6 @@
       "title": "4,000 돌파 3개월만 '오천피'…거래소 \"코리아 디스카운트 완화\"",
       "link": "https://www.yna.co.kr/view/AKR20260127147800008",
       "pubDate": "Tue, 27 Jan 2026 17:53:59 +0900"
-    },
-    {
-      "title": "CJ올리브네트웍스 두달 넘게 일부 현금영수증 발행 누락",
-      "link": "https://www.yna.co.kr/view/AKR20260127149600017",
-      "pubDate": "Tue, 27 Jan 2026 17:52:46 +0900"
-    },
-    {
-      "title": "충북 소비자상담센터 접수 최다 불만은 건강식품·항공",
-      "link": "https://www.yna.co.kr/view/AKR20260127147300064",
-      "pubDate": "Tue, 27 Jan 2026 17:41:07 +0900"
-    },
-    {
-      "title": "'대출 중계 수수료 20%'…36억원 챙긴 일당 5명 검거",
-      "link": "https://www.yna.co.kr/view/AKR20260127145000051",
-      "pubDate": "Tue, 27 Jan 2026 17:41:03 +0900"
-    },
-    {
-      "title": "[영상] 트럼프 \"한국산 제품 다시 25%\"…돌연 '관세인상' 언급 왜?",
-      "link": "https://www.yna.co.kr/view/AKR20260127147500704",
-      "pubDate": "Tue, 27 Jan 2026 17:38:56 +0900"
-    },
-    {
-      "title": "위기 처한 거창 화강석산업 돌파구는…군, 중장기 발전계획 수립",
-      "link": "https://www.yna.co.kr/view/AKR20260127143700052",
-      "pubDate": "Tue, 27 Jan 2026 17:26:09 +0900"
     }
   ]
 }
