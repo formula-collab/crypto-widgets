@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769498637,
+  "updated_at_unix": 1769499988,
   "items": [
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 3.094%",
+      "link": "https://www.yna.co.kr/view/AKR20260127136100008",
+      "pubDate": "Tue, 27 Jan 2026 16:40:17 +0900"
+    },
+    {
+      "title": "쿠팡 대규모 개인정보유출에…작년 12월 '탈팡 소비자상담 급증'",
+      "link": "https://www.yna.co.kr/view/AKR20260127113500030",
+      "pubDate": "Tue, 27 Jan 2026 16:34:30 +0900"
+    },
+    {
+      "title": "강훈식 \"韓·캐나다 車 협력 강화로 호혜적 모델 만들 수 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127129800001",
+      "pubDate": "Tue, 27 Jan 2026 16:33:13 +0900"
+    },
+    {
+      "title": "디지털 규제, 한미 협상 변수로 거론…망사용료·지도 쟁점",
+      "link": "https://www.yna.co.kr/view/AKR20260127130200017",
+      "pubDate": "Tue, 27 Jan 2026 16:32:57 +0900"
+    },
+    {
+      "title": "HD현대, 加 수조원대 조선·에너지 패키지딜…수주 총력전 가세",
+      "link": "https://www.yna.co.kr/view/AKR20260127133500003",
+      "pubDate": "Tue, 27 Jan 2026 16:29:38 +0900"
+    },
+    {
+      "title": "美관세 불확실성에도 상승한 코스피…\"타코 트레이드 대응\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127037951008",
+      "pubDate": "Tue, 27 Jan 2026 16:25:12 +0900"
+    },
     {
       "title": "세아스틸인터내셔날, 영국 계열사 주식 276억원에 추가취득",
       "link": "https://www.yna.co.kr/view/AKR20260127129000008",
@@ -122,36 +152,6 @@
       "title": "올해 아프리카돼지열병 벌써 4건…\"전국 농장 방역 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260127120700030",
       "pubDate": "Tue, 27 Jan 2026 15:23:55 +0900"
-    },
-    {
-      "title": "KGM 작년 매출 4조2천433억원 역대최대…영업익 336% 증가 536억",
-      "link": "https://www.yna.co.kr/view/AKR20260127118500003",
-      "pubDate": "Tue, 27 Jan 2026 15:17:42 +0900"
-    },
-    {
-      "title": "국민 쿠팡비판 확산 이유는…\"갑질·노동착취·우롱보상 논란\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127082400030",
-      "pubDate": "Tue, 27 Jan 2026 15:13:29 +0900"
-    },
-    {
-      "title": "[게시판] 한·아프리카재단, K푸드 이집트 시장개척단 참가기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260127109600898",
-      "pubDate": "Tue, 27 Jan 2026 15:08:19 +0900"
-    },
-    {
-      "title": "소상공인연합회 신년인사회…\"새해는 소상공인 권리 회복 원년\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127109300030",
-      "pubDate": "Tue, 27 Jan 2026 15:04:41 +0900"
-    },
-    {
-      "title": "부산은행, 은행 방문 예약 서비스 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260127114400051",
-      "pubDate": "Tue, 27 Jan 2026 14:59:15 +0900"
-    },
-    {
-      "title": "부산항 북항 배후도로 지하차도 3월 말 우선 개통",
-      "link": "https://www.yna.co.kr/view/AKR20260127114100051",
-      "pubDate": "Tue, 27 Jan 2026 14:58:29 +0900"
     }
   ]
 }
