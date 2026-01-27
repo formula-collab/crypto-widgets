@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769483035,
+  "updated_at_unix": 1769488156,
   "items": [
+    {
+      "title": "국조실, 정부 기관에 \"대외충격 대응·물가관리 노력 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127047700001",
+      "pubDate": "Tue, 27 Jan 2026 13:09:30 +0900"
+    },
+    {
+      "title": "경남선관위, 대의원에 현금 제공 새마을금고 이사장 후보 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260127090400052",
+      "pubDate": "Tue, 27 Jan 2026 13:08:55 +0900"
+    },
+    {
+      "title": "靑 \"관세합의 이행 의지 美에 전달하고 차분히 대응할 계획\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127087900001",
+      "pubDate": "Tue, 27 Jan 2026 12:35:01 +0900"
+    },
+    {
+      "title": "李대통령 \"국회 입법 속도 너무 느려…일을 할 수가 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127085500001",
+      "pubDate": "Tue, 27 Jan 2026 12:28:12 +0900"
+    },
+    {
+      "title": "구윤철 \"고등어 등 성수품 최대 50% 할인…명절자금 39조 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127085400001",
+      "pubDate": "Tue, 27 Jan 2026 12:20:54 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"관세합의 이행 의지 美에 전달하고 차분히 대응할 계획\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127086100001",
+      "pubDate": "Tue, 27 Jan 2026 12:17:08 +0900"
+    },
+    {
+      "title": "약달러 원하는 트럼프?…다시 소환되는 '플라자 합의'",
+      "link": "https://www.yna.co.kr/view/AKR20260127071500009",
+      "pubDate": "Tue, 27 Jan 2026 12:16:02 +0900"
+    },
+    {
+      "title": "특검, 고용부 등 압수수색…쿠팡 대관이 업무에 영향 줬나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260127072752004",
+      "pubDate": "Tue, 27 Jan 2026 12:04:57 +0900"
+    },
+    {
+      "title": "소비자원 \"인덕션 보호매트, 튀김·빈 냄비 가열시 화재 위험\"",
+      "link": "https://www.yna.co.kr/view/AKR20260126111700030",
+      "pubDate": "Tue, 27 Jan 2026 12:00:15 +0900"
+    },
+    {
+      "title": "우주청, 민관사절단 미국 파견…스페이스X 직접 간다",
+      "link": "https://www.yna.co.kr/view/AKR20260127046000017",
+      "pubDate": "Tue, 27 Jan 2026 12:00:12 +0900"
+    },
+    {
+      "title": "105명 임금 떼먹고 골프친 병원장 구속…체불 강제수사 1천350건",
+      "link": "https://www.yna.co.kr/view/AKR20260127034300530",
+      "pubDate": "Tue, 27 Jan 2026 12:00:11 +0900"
+    },
+    {
+      "title": "경제6단체 \"기업이 생산한 국가R&D데이터는 공개의무 제외해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260127075400003",
+      "pubDate": "Tue, 27 Jan 2026 12:00:03 +0900"
+    },
+    {
+      "title": "영세 소상공인에 경영안정 바우처 25만원…2월 9일부터 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260127069800030",
+      "pubDate": "Tue, 27 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "생필품값 폭리에 탈세까지…사주자녀 유학비·슈퍼카로 빼돌려",
+      "link": "https://www.yna.co.kr/view/AKR20260126160200002",
+      "pubDate": "Tue, 27 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "대출 청약철회인데 중도상환?…저축銀 업무 전산화로 오인 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260127073700002",
+      "pubDate": "Tue, 27 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "가계대출 금리 석달째 상승…주담대 0.06%p·신용대출 0.41%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260127081700002",
+      "pubDate": "Tue, 27 Jan 2026 12:00:01 +0900"
+    },
+    {
+      "title": "조달청, 해외조달시장 진출 지원 규모·분야 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260127077900063",
+      "pubDate": "Tue, 27 Jan 2026 11:57:19 +0900"
+    },
     {
       "title": "LG CNS 작년 영업이익 5천558억원…올해 한자릿수 성장 전망(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260127043352527",
@@ -67,91 +152,6 @@
       "title": "[동정] 김현겸 팬스타그룹 회장, EBS 방송 출연",
       "link": "https://www.yna.co.kr/view/AKR20260127075500051",
       "pubDate": "Tue, 27 Jan 2026 11:18:14 +0900"
-    },
-    {
-      "title": "농협, 설 명절 '농·축산물 수급대책 상황실' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260127076000030",
-      "pubDate": "Tue, 27 Jan 2026 11:17:48 +0900"
-    },
-    {
-      "title": "스타벅스, 대학생 멤버십 '캠퍼스 버디' 55만명 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260127074700030",
-      "pubDate": "Tue, 27 Jan 2026 11:17:47 +0900"
-    },
-    {
-      "title": "SK하이닉스 성과급 효과?…청주흥덕, 충북 아파트값 오름세 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260127050000064",
-      "pubDate": "Tue, 27 Jan 2026 11:17:42 +0900"
-    },
-    {
-      "title": "CJ프레시웨이 식자재 플랫폼, AI 주문 기능 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260127073200030",
-      "pubDate": "Tue, 27 Jan 2026 11:17:35 +0900"
-    },
-    {
-      "title": "쿠팡 작년결제액 66조…정보유출發 탈팡·불매에 성장 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260127024400030",
-      "pubDate": "Tue, 27 Jan 2026 11:16:53 +0900"
-    },
-    {
-      "title": "[2보] 상설특검, '쿠팡 대관 의혹' 고용부 세종청사 등 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260127072751004",
-      "pubDate": "Tue, 27 Jan 2026 11:15:27 +0900"
-    },
-    {
-      "title": "서울시여성가족재단·SH, 미리내집서 '서울패밀리데이'",
-      "link": "https://www.yna.co.kr/view/AKR20260127030400004",
-      "pubDate": "Tue, 27 Jan 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서울시, 올해 어르신 공공일자리 10만2천개 공급…역대 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260127035400004",
-      "pubDate": "Tue, 27 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "서울시 \"청년안심주택 입주자 1천200명 조사서 만족도 94%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127044600004",
-      "pubDate": "Tue, 27 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "광주경총 \"행정통합 시 산업 대응 방안 모색해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260127072500054",
-      "pubDate": "Tue, 27 Jan 2026 11:02:31 +0900"
-    },
-    {
-      "title": "사업성과 '예산 연계성' 강화…정부, 재정평가 체계 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260126152800002",
-      "pubDate": "Tue, 27 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "'한국산 김' 매력, 다큐로 만난다…안성재 셰프 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260127025600030",
-      "pubDate": "Tue, 27 Jan 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농식품부, 푸드테크 사업자 신고제 도입…산업 육성 체계화",
-      "link": "https://www.yna.co.kr/view/AKR20260127066800030",
-      "pubDate": "Tue, 27 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "농식품부, 초등학생 교육용 책자 '친환경농업 이야기' 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260127069400030",
-      "pubDate": "Tue, 27 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "현대백화점, 'K컬처 환승투어' 참여…더현대서울서 한식 만들기",
-      "link": "https://www.yna.co.kr/view/AKR20260127067600030",
-      "pubDate": "Tue, 27 Jan 2026 10:57:27 +0900"
-    },
-    {
-      "title": "9기 새만금위원회 출범…첨단산업 유치 등 현안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260127070300001",
-      "pubDate": "Tue, 27 Jan 2026 10:55:18 +0900"
-    },
-    {
-      "title": "금값 뛰는데 손 놓은 한은…13년째 매입 않고 관망만",
-      "link": "https://www.yna.co.kr/view/AKR20260127067500002",
-      "pubDate": "Tue, 27 Jan 2026 10:52:17 +0900"
     }
   ]
 }
