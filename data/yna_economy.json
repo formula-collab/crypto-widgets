@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769576357,
+  "updated_at_unix": 1769578104,
   "items": [
+    {
+      "title": "검찰, 'SPC삼립 사망사고' 4명 사전구속영장 보완 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260128105200061",
+      "pubDate": "Wed, 28 Jan 2026 14:21:18 +0900"
+    },
+    {
+      "title": "인천 '국내매출 1천대 기업' 38곳…매출·순이익, 광역시 중 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260128089800065",
+      "pubDate": "Wed, 28 Jan 2026 14:21:10 +0900"
+    },
+    {
+      "title": "PEF협의회 \"사모펀드 역할 확대 맞춰 정식 협회 필요성 논의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128102300008",
+      "pubDate": "Wed, 28 Jan 2026 14:15:19 +0900"
+    },
+    {
+      "title": "SK증권, 선덕원서 신입직원 사회공헌 활동",
+      "link": "https://www.yna.co.kr/view/AKR20260128100800008",
+      "pubDate": "Wed, 28 Jan 2026 14:13:53 +0900"
+    },
+    {
+      "title": "삼전·하이닉스 최고가 랠리에 목표가 줄상향…실적 눈높이도 쑥",
+      "link": "https://www.yna.co.kr/view/AKR20260128092200008",
+      "pubDate": "Wed, 28 Jan 2026 14:12:55 +0900"
+    },
+    {
+      "title": "이억원 \"금감원 특사경 인지수사권 부여…'통제 강화'는 중론\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128093800002",
+      "pubDate": "Wed, 28 Jan 2026 14:00:03 +0900"
+    },
+    {
+      "title": "이억원 \"국내 단일종목 2배 ETF 허용…CEO 선임 주주통제 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128090000002",
+      "pubDate": "Wed, 28 Jan 2026 14:00:01 +0900"
+    },
+    {
+      "title": "GH, 올해 4천193억원 공사·용역 발주…3기 신도시 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260128101400061",
+      "pubDate": "Wed, 28 Jan 2026 13:58:14 +0900"
+    },
+    {
+      "title": "곽규택 \"항공사 통합 불공정…피인수기업·주주 피해 막심\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128100400051",
+      "pubDate": "Wed, 28 Jan 2026 13:55:43 +0900"
+    },
     {
       "title": "노랑풍선, 일본법인 오사카로 이전…강원우 일본법인 대표 취임",
       "link": "https://www.yna.co.kr/view/AKR20260128099200030",
@@ -107,51 +152,6 @@
       "title": "중기연 \"작년 11월 중소제조업 생산 4% 줄고 서비스업 3% 늘어\"",
       "link": "https://www.yna.co.kr/view/AKR20260128077300030",
       "pubDate": "Wed, 28 Jan 2026 11:41:56 +0900"
-    },
-    {
-      "title": "바디프랜드, 설 프로모션 '선물의 정석' 진행",
-      "link": "https://www.yna.co.kr/view/AKR20260128082000030",
-      "pubDate": "Wed, 28 Jan 2026 11:40:50 +0900"
-    },
-    {
-      "title": "LF 이자벨마랑 청담 플래그십에서 봄·여름 신제품 선공개",
-      "link": "https://www.yna.co.kr/view/AKR20260128080200030",
-      "pubDate": "Wed, 28 Jan 2026 11:40:36 +0900"
-    },
-    {
-      "title": "광주·전남 지자체 금고 이자율 공개…최대 1.31%P 격차",
-      "link": "https://www.yna.co.kr/view/AKR20260128078100054",
-      "pubDate": "Wed, 28 Jan 2026 11:30:19 +0900"
-    },
-    {
-      "title": "화성시, 중소기업 재직 청년에 '내일응원금' 100만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260128077600061",
-      "pubDate": "Wed, 28 Jan 2026 11:30:01 +0900"
-    },
-    {
-      "title": "중기중앙회, '中企 지원 최우수 국회의원' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260128055600030",
-      "pubDate": "Wed, 28 Jan 2026 11:30:00 +0900"
-    },
-    {
-      "title": "뒷돈 받고 공사비 증액…용인시 전 지역주택조합장 징역 5년",
-      "link": "https://www.yna.co.kr/view/AKR20260128066200061",
-      "pubDate": "Wed, 28 Jan 2026 11:29:01 +0900"
-    },
-    {
-      "title": "완주군, 지방세 전년보다 13.6%↑…세입 5년 연속 1조원 이상",
-      "link": "https://www.yna.co.kr/view/AKR20260128074800055",
-      "pubDate": "Wed, 28 Jan 2026 11:28:56 +0900"
-    },
-    {
-      "title": "진천지역 근로자 평균 급여 상승세…군 \"투자유치 효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128076700064",
-      "pubDate": "Wed, 28 Jan 2026 11:23:44 +0900"
-    },
-    {
-      "title": "AB운용 \"올해 상반기 액티브 전략·헬스케어 업종에 관심을\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128075800008",
-      "pubDate": "Wed, 28 Jan 2026 11:19:26 +0900"
     }
   ]
 }
