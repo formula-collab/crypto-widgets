@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769642211,
+  "updated_at_unix": 1769643931,
   "items": [
+    {
+      "title": "K뷰티로 큰 올리브영, K웰니스로 영역 확장…'올리브베러' 개장",
+      "link": "https://www.yna.co.kr/view/AKR20260129035200030",
+      "pubDate": "Thu, 29 Jan 2026 08:40:32 +0900"
+    },
+    {
+      "title": "게임이용자협회 \"넥슨 '메이플 키우기' 공정위 신고 취하\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129034600017",
+      "pubDate": "Thu, 29 Jan 2026 08:35:11 +0900"
+    },
+    {
+      "title": "KB증권 \"SKIET, 올해 실적 부진 지속…투자의견 '보류'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129035400008",
+      "pubDate": "Thu, 29 Jan 2026 08:34:07 +0900"
+    },
+    {
+      "title": "삼성증권, 기아 목표가↓…\"경쟁심화·매크로 불확실성 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129032500008",
+      "pubDate": "Thu, 29 Jan 2026 08:33:44 +0900"
+    },
+    {
+      "title": "[인사] 한국농촌경제연구원",
+      "link": "https://www.yna.co.kr/view/AKR20260129033300030",
+      "pubDate": "Thu, 29 Jan 2026 08:22:21 +0900"
+    },
+    {
+      "title": "무신사 스탠다드, 스타필드 빌리지 운정에 새 매장",
+      "link": "https://www.yna.co.kr/view/AKR20260129033000030",
+      "pubDate": "Thu, 29 Jan 2026 08:21:49 +0900"
+    },
+    {
+      "title": "롯데마트, 중국 춘절 앞두고 외국인 대상 상품 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260129032700030",
+      "pubDate": "Thu, 29 Jan 2026 08:20:21 +0900"
+    },
+    {
+      "title": "29CM, 생활용품 매장 '이구홈 성수2' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260129031100030",
+      "pubDate": "Thu, 29 Jan 2026 08:19:50 +0900"
+    },
+    {
+      "title": "부산국제금융센터 3단계 준공…170여개 기업·4천명 근무",
+      "link": "https://www.yna.co.kr/view/AKR20260129030200051",
+      "pubDate": "Thu, 29 Jan 2026 08:15:24 +0900"
+    },
     {
       "title": "한투증권 \"게임, 밸류에이션 부담 적어…올해 관심 가질 업종\"",
       "link": "https://www.yna.co.kr/view/AKR20260129031400008",
@@ -107,51 +152,6 @@
       "title": "[속보] 연준 파월 \"쿡 이사 해임재판, 연준 역사상 가장 중요사건\"",
       "link": "https://www.yna.co.kr/view/AKR20260129008900072",
       "pubDate": "Thu, 29 Jan 2026 04:38:43 +0900"
-    },
-    {
-      "title": "美연준, 금리 3.50∼3.75%로 동결…\"인플레 다소 높은 수준\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129008200071",
-      "pubDate": "Thu, 29 Jan 2026 04:31:03 +0900"
-    },
-    {
-      "title": "美연준 당분간 동결 시사…시장관심은 연준독립성·차기의장에",
-      "link": "https://www.yna.co.kr/view/AKR20260129008100072",
-      "pubDate": "Thu, 29 Jan 2026 04:26:03 +0900"
-    },
-    {
-      "title": "[2보] 美연준, 금리 3.50∼3.75%로 동결…한미 금리차 1.25%P",
-      "link": "https://www.yna.co.kr/view/AKR20260129006500071",
-      "pubDate": "Thu, 29 Jan 2026 04:02:54 +0900"
-    },
-    {
-      "title": "[1보] 美기준금리 '3.5~3.75%' 동결…3연속 인하 후 속도조절",
-      "link": "https://www.yna.co.kr/view/AKR20260129005400071",
-      "pubDate": "Thu, 29 Jan 2026 04:00:39 +0900"
-    },
-    {
-      "title": "달러-원, 美재무 \"엔 개입 없다\"에 낙폭 대거 반납…1,436.10원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260129004400002",
-      "pubDate": "Thu, 29 Jan 2026 02:24:16 +0900"
-    },
-    {
-      "title": "캐나다 중앙은행, 기준금리 2.25%로 동결…\"성장세 완만\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129000600072",
-      "pubDate": "Thu, 29 Jan 2026 00:04:50 +0900"
-    },
-    {
-      "title": "靑 \"부동산 세제, 한두달 내 발표할 내용 아냐…심층 논의 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128159551001",
-      "pubDate": "Wed, 28 Jan 2026 19:20:21 +0900"
-    },
-    {
-      "title": "靑 \"대미특별법 지연에 美 불만…입법노력 상세히 설명할 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128157251001",
-      "pubDate": "Wed, 28 Jan 2026 19:01:42 +0900"
-    },
-    {
-      "title": "미래에셋생명, 자사주 1천600만주 소각 결정…\"주주가치 제고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128166100002",
-      "pubDate": "Wed, 28 Jan 2026 18:43:24 +0900"
     }
   ]
 }
