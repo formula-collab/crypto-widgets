@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769635168,
+  "updated_at_unix": 1769637022,
   "items": [
+    {
+      "title": "연준 파월 \"美성장세 분명히 개선…견조한 기반서 올해 시작\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129011051072",
+      "pubDate": "Thu, 29 Jan 2026 06:31:53 +0900"
+    },
     {
       "title": "중기부, 해외규격인증획득 지원…수출中企 규제대응 뒷받침",
       "link": "https://www.yna.co.kr/view/AKR20260128147100030",
@@ -147,11 +152,6 @@
       "title": "靑 \"대미특별법 지연에 美 불만…입법노력 상세히 설명할것\"",
       "link": "https://www.yna.co.kr/view/AKR20260128157200001",
       "pubDate": "Wed, 28 Jan 2026 17:37:45 +0900"
-    },
-    {
-      "title": "환율 급락에 국고채 금리 일제히 하락…3년물 연 3.067%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128146851008",
-      "pubDate": "Wed, 28 Jan 2026 17:37:13 +0900"
     }
   ]
 }
