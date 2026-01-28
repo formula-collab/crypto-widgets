@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769633597,
+  "updated_at_unix": 1769635168,
   "items": [
+    {
+      "title": "중기부, 해외규격인증획득 지원…수출中企 규제대응 뒷받침",
+      "link": "https://www.yna.co.kr/view/AKR20260128147100030",
+      "pubDate": "Thu, 29 Jan 2026 06:00:04 +0900"
+    },
+    {
+      "title": "볼보·랜드로버 등 11개 차종 5만5천178대 자발적 시정조치",
+      "link": "https://www.yna.co.kr/view/AKR20260128156600003",
+      "pubDate": "Thu, 29 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "서울시, 사회적경제기업에 연 1.75% 저금리 대출…기업당 4억",
+      "link": "https://www.yna.co.kr/view/AKR20260128133000004",
+      "pubDate": "Thu, 29 Jan 2026 06:00:02 +0900"
+    },
     {
       "title": "\"1인가구 100개 늘면 동네 일자리 27개↑…서비스 소비 촉진\"",
       "link": "https://www.yna.co.kr/view/AKR20260128176200002",
@@ -137,21 +152,6 @@
       "title": "환율 급락에 국고채 금리 일제히 하락…3년물 연 3.067%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260128146851008",
       "pubDate": "Wed, 28 Jan 2026 17:37:13 +0900"
-    },
-    {
-      "title": "민생 현장서 13일만에 당무 재개 장동혁…'韓 제명 확정'도 임박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128144751001",
-      "pubDate": "Wed, 28 Jan 2026 17:35:21 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"다주택 중과유예 종료, 행정의 원칙…한두달 말미는 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128157700001",
-      "pubDate": "Wed, 28 Jan 2026 17:33:06 +0900"
-    },
-    {
-      "title": "춘천시, 정주·일자리 중심 외국인 체류 인재 육성 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260128153400062",
-      "pubDate": "Wed, 28 Jan 2026 17:27:13 +0900"
     }
   ]
 }
