@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769579478,
+  "updated_at_unix": 1769581242,
   "items": [
+    {
+      "title": "[부고] 두경태(롯데호텔 서울 총지배인)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260128121000030",
+      "pubDate": "Wed, 28 Jan 2026 15:12:32 +0900"
+    },
+    {
+      "title": "금융위, 롯데손보 경영개선계획 불승인…적기시정조치 상향 수순",
+      "link": "https://www.yna.co.kr/view/AKR20260128119400002",
+      "pubDate": "Wed, 28 Jan 2026 15:11:03 +0900"
+    },
+    {
+      "title": "새 수장 맞은 소진공, 직원비위 잇달아…\"청렴도 개선부터\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128079700030",
+      "pubDate": "Wed, 28 Jan 2026 15:10:10 +0900"
+    },
+    {
+      "title": "핌코 \"WGBI 편입 한국 시장 매력적…환율·인플레 안정 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128117300008",
+      "pubDate": "Wed, 28 Jan 2026 15:03:33 +0900"
+    },
+    {
+      "title": "기획처 재정사업 성과평가단 출범…단장 우석진 교수",
+      "link": "https://www.yna.co.kr/view/AKR20260128105100002",
+      "pubDate": "Wed, 28 Jan 2026 15:00:02 +0900"
+    },
+    {
+      "title": "고용·산업위기 중소·중견기업 법인세 납기 3개월 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260128103700002",
+      "pubDate": "Wed, 28 Jan 2026 15:00:00 +0900"
+    },
+    {
+      "title": "속초시, AI 대화형 돌봄 서비스 도입…취약계층 복지 고도화",
+      "link": "https://www.yna.co.kr/view/AKR20260128116600062",
+      "pubDate": "Wed, 28 Jan 2026 14:59:24 +0900"
+    },
+    {
+      "title": "[게시판] MG신용정보·대신자산신탁, 공공주택 공급 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260128116900002",
+      "pubDate": "Wed, 28 Jan 2026 14:57:49 +0900"
+    },
+    {
+      "title": "[게시판] 신한투자, 대학생 팬슈머 클럽 '쏠-루션' 3기 발대식",
+      "link": "https://www.yna.co.kr/view/AKR20260128116100008",
+      "pubDate": "Wed, 28 Jan 2026 14:55:43 +0900"
+    },
+    {
+      "title": "李대통령 \"한국시장 여전히 저평가…세계 최고 투자처 만들겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128113800001",
+      "pubDate": "Wed, 28 Jan 2026 14:54:51 +0900"
+    },
+    {
+      "title": "야놀자 \"작년 4분기 국내 숙박시장, 호텔 중심 'V'자 반등\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128110100030",
+      "pubDate": "Wed, 28 Jan 2026 14:51:56 +0900"
+    },
+    {
+      "title": "울산 2026학년도 공립 초등·특수교사 합격자 69명",
+      "link": "https://www.yna.co.kr/view/AKR20260128114600057",
+      "pubDate": "Wed, 28 Jan 2026 14:50:53 +0900"
+    },
     {
       "title": "광주형 평생주택 6개월째 중단…내년 8월 완공 예상",
       "link": "https://www.yna.co.kr/view/AKR20260128114000054",
@@ -92,66 +152,6 @@
       "title": "장영진 무보 사장 \"올해 무역보험 지원 역대 최대 275조원\"",
       "link": "https://www.yna.co.kr/view/AKR20260128080000003",
       "pubDate": "Wed, 28 Jan 2026 13:00:02 +0900"
-    },
-    {
-      "title": "팀홀튼 \"올해 말까지 50개 매장 목표…푸드메뉴 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128085400030",
-      "pubDate": "Wed, 28 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "title": "인텔, 최신 18A 공정 기반 AI PC 대거 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260128082900017",
-      "pubDate": "Wed, 28 Jan 2026 12:22:32 +0900"
-    },
-    {
-      "title": "과기부총리 \"미국 서한과 관세 인상 전혀 관련 없다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128086400017",
-      "pubDate": "Wed, 28 Jan 2026 12:22:22 +0900"
-    },
-    {
-      "title": "최인호 HUG 신임 사장 공식 취임…\"국민 주거안정 종합 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128086600003",
-      "pubDate": "Wed, 28 Jan 2026 12:18:07 +0900"
-    },
-    {
-      "title": "오세훈 \"정비사업 규제 풀어야…유휴부지 활용 공급보다 효과적\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128017251004",
-      "pubDate": "Wed, 28 Jan 2026 12:16:30 +0900"
-    },
-    {
-      "title": "담뱃세처럼 설탕세?…대통령 언급에 도입 논란 불붙을까",
-      "link": "https://www.yna.co.kr/view/AKR20260128085500530",
-      "pubDate": "Wed, 28 Jan 2026 12:05:08 +0900"
-    },
-    {
-      "title": "쿠팡 대규모 개인정보유출에…작년 12월 '탈팡 소비자상담 급증'",
-      "link": "https://www.yna.co.kr/view/AKR20260127144400030",
-      "pubDate": "Wed, 28 Jan 2026 12:00:13 +0900"
-    },
-    {
-      "title": "작년 中企수출 1천186억달러로 사상최대…K뷰티·중고차 효자",
-      "link": "https://www.yna.co.kr/view/AKR20260128044500030",
-      "pubDate": "Wed, 28 Jan 2026 12:00:11 +0900"
-    },
-    {
-      "title": "보이스피싱 정보공유 플랫폼으로 3개월간 186억원 피해 막았다",
-      "link": "https://www.yna.co.kr/view/AKR20260128052600002",
-      "pubDate": "Wed, 28 Jan 2026 12:00:10 +0900"
-    },
-    {
-      "title": "한은 \"작년 하반기 전국에서 소비쿠폰 효과 나타나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128060600002",
-      "pubDate": "Wed, 28 Jan 2026 12:00:08 +0900"
-    },
-    {
-      "title": "작년 1∼11월 출생아 23만4천명, 6.2%↑…18년만에 최고 증가율",
-      "link": "https://www.yna.co.kr/view/AKR20260128073400002",
-      "pubDate": "Wed, 28 Jan 2026 12:00:05 +0900"
-    },
-    {
-      "title": "'월급 아닌 사업소득?' 유명 맛집기업 '가짜 3.3' 위장고용 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260128070400530",
-      "pubDate": "Wed, 28 Jan 2026 12:00:03 +0900"
     }
   ]
 }
