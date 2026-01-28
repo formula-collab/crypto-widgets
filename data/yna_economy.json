@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769626657,
+  "updated_at_unix": 1769628255,
   "items": [
+    {
+      "title": "[2보] 美연준, 금리 3.50∼3.75%로 동결…한미 금리차 1.25%P",
+      "link": "https://www.yna.co.kr/view/AKR20260129006500071",
+      "pubDate": "Thu, 29 Jan 2026 04:02:54 +0900"
+    },
+    {
+      "title": "[1보] 美기준금리 '3.5~3.75%' 동결…3연속 인상후 속도조절",
+      "link": "https://www.yna.co.kr/view/AKR20260129005400071",
+      "pubDate": "Thu, 29 Jan 2026 04:00:39 +0900"
+    },
     {
       "title": "달러-원, 美재무 \"엔 개입 없다\"에 낙폭 대거 반납…1,436.10원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260129004400002",
@@ -142,16 +152,6 @@
       "title": "속초시, 콤팩트시티 워크숍 개최…유휴부지 활용 방안 모색",
       "link": "https://www.yna.co.kr/view/AKR20260128151700062",
       "pubDate": "Wed, 28 Jan 2026 17:04:45 +0900"
-    },
-    {
-      "title": "\"글로벌 불확실성 고조…광주·전남 주력산업 리스크 관리해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128151400054",
-      "pubDate": "Wed, 28 Jan 2026 17:03:49 +0900"
-    },
-    {
-      "title": "민생 현장서 13일만에 당무 재개 장동혁…'韓 제명 확정'도 임박",
-      "link": "https://www.yna.co.kr/view/AKR20260128144700001",
-      "pubDate": "Wed, 28 Jan 2026 17:01:50 +0900"
     }
   ]
 }
