@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769578104,
+  "updated_at_unix": 1769579478,
   "items": [
+    {
+      "title": "광주형 평생주택 6개월째 중단…내년 8월 완공 예상",
+      "link": "https://www.yna.co.kr/view/AKR20260128114000054",
+      "pubDate": "Wed, 28 Jan 2026 14:46:46 +0900"
+    },
+    {
+      "title": "예보, 파산 연체채무자 지원…'희망드림 프로젝트' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260128108500002",
+      "pubDate": "Wed, 28 Jan 2026 14:31:48 +0900"
+    },
+    {
+      "title": "대구남부교육청, 건설 시공사들과 상생 결의대회…\"무결점 시공\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128107100053",
+      "pubDate": "Wed, 28 Jan 2026 14:31:10 +0900"
+    },
+    {
+      "title": "[일문일답] 이억원 \"가상자산거래소 제도권 편입…소유지분 규제 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128092800002",
+      "pubDate": "Wed, 28 Jan 2026 14:31:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260128105300011",
+      "pubDate": "Wed, 28 Jan 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[속보] 기아 \"작년 한 해 미국 관세로 영업이익 3조930억원 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128109000003",
+      "pubDate": "Wed, 28 Jan 2026 14:28:27 +0900"
+    },
     {
       "title": "검찰, 'SPC삼립 사망사고' 4명 사전구속영장 보완 요구",
       "link": "https://www.yna.co.kr/view/AKR20260128105200061",
@@ -122,36 +152,6 @@
       "title": "'월급 아닌 사업소득?' 유명 맛집기업 '가짜 3.3' 위장고용 적발",
       "link": "https://www.yna.co.kr/view/AKR20260128070400530",
       "pubDate": "Wed, 28 Jan 2026 12:00:03 +0900"
-    },
-    {
-      "title": "'배우면서 자격증 도전'…올해 과정평가형 자격훈련 2천개 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260128074200530",
-      "pubDate": "Wed, 28 Jan 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"외국인고용 中企절반, 1∼2년후 외국인 사업장 변경 허용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128066700030",
-      "pubDate": "Wed, 28 Jan 2026 12:00:01 +0900"
-    },
-    {
-      "title": "설 전후 불법대부 우려…서울시 \"3월 말까지 집중단속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128083900004",
-      "pubDate": "Wed, 28 Jan 2026 11:47:47 +0900"
-    },
-    {
-      "title": "농협, '농심천심 범국민운동 추진위원회' 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260128082800030",
-      "pubDate": "Wed, 28 Jan 2026 11:42:44 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.082%",
-      "link": "https://www.yna.co.kr/view/AKR20260128082400008",
-      "pubDate": "Wed, 28 Jan 2026 11:42:25 +0900"
-    },
-    {
-      "title": "중기연 \"작년 11월 중소제조업 생산 4% 줄고 서비스업 3% 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128077300030",
-      "pubDate": "Wed, 28 Jan 2026 11:41:56 +0900"
     }
   ]
 }
