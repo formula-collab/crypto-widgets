@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769583448,
+  "updated_at_unix": 1769584930,
   "items": [
+    {
+      "title": "코스피 전체 영문공시 의무 시점, 내년 3월로 앞당긴다",
+      "link": "https://www.yna.co.kr/view/AKR20260128131800002",
+      "pubDate": "Wed, 28 Jan 2026 16:16:31 +0900"
+    },
+    {
+      "title": "하이트진로 작년 영업이익 17% 감소…\"주류시장 소비 위축\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128140200030",
+      "pubDate": "Wed, 28 Jan 2026 16:15:12 +0900"
+    },
+    {
+      "title": "환율, 23.7원 급락한 1,422.5원…석 달 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260128138300002",
+      "pubDate": "Wed, 28 Jan 2026 16:09:07 +0900"
+    },
+    {
+      "title": "'안전 D등급' 광명 충훈대교 접속도로 1개 차선·보도 통행 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260128136900061",
+      "pubDate": "Wed, 28 Jan 2026 16:05:35 +0900"
+    },
+    {
+      "title": "기획처, 지하수저류댐·도암댐 '강릉 가뭄 재발방지' 현장점검",
+      "link": "https://www.yna.co.kr/view/AKR20260128072900002",
+      "pubDate": "Wed, 28 Jan 2026 16:00:00 +0900"
+    },
+    {
+      "title": "'국민참여성장펀드' 6월까지 상품 출시…TF 꾸려 상품 구조 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260128135500002",
+      "pubDate": "Wed, 28 Jan 2026 16:00:00 +0900"
+    },
+    {
+      "title": "압타머사이언스, 120억원 유상증자…웰뉴앤코에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260128134900008",
+      "pubDate": "Wed, 28 Jan 2026 15:59:39 +0900"
+    },
+    {
+      "title": "LG생활건강 작년 영업이익 1천707억원…전년보다 63% 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260128133300527",
+      "pubDate": "Wed, 28 Jan 2026 15:59:21 +0900"
+    },
+    {
+      "title": "인천 상업부동산 시장 '찬바람'…영종 집합상가 공실률 30%",
+      "link": "https://www.yna.co.kr/view/AKR20260128133800065",
+      "pubDate": "Wed, 28 Jan 2026 15:56:08 +0900"
+    },
+    {
+      "title": "이억원 \"금감원 특사경에 인지수사권 필요…'통제 강화'는 중론\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128093851002",
+      "pubDate": "Wed, 28 Jan 2026 15:52:44 +0900"
+    },
     {
       "title": "HD건설기계, 폴란드 수출 K2전차에 엔진 공급",
       "link": "https://www.yna.co.kr/view/AKR20260128131900003",
@@ -102,56 +152,6 @@
       "title": "기획처 재정사업 성과평가단 출범…단장 우석진 교수",
       "link": "https://www.yna.co.kr/view/AKR20260128105100002",
       "pubDate": "Wed, 28 Jan 2026 15:00:02 +0900"
-    },
-    {
-      "title": "고용·산업위기 중소·중견기업 법인세 납기 3개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260128103700002",
-      "pubDate": "Wed, 28 Jan 2026 15:00:00 +0900"
-    },
-    {
-      "title": "속초시, AI 대화형 돌봄 서비스 도입…취약계층 복지 고도화",
-      "link": "https://www.yna.co.kr/view/AKR20260128116600062",
-      "pubDate": "Wed, 28 Jan 2026 14:59:24 +0900"
-    },
-    {
-      "title": "[게시판] MG신용정보·대신자산신탁, 공공주택 공급 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260128116900002",
-      "pubDate": "Wed, 28 Jan 2026 14:57:49 +0900"
-    },
-    {
-      "title": "[게시판] 신한투자, 대학생 팬슈머 클럽 '쏠-루션' 3기 발대식",
-      "link": "https://www.yna.co.kr/view/AKR20260128116100008",
-      "pubDate": "Wed, 28 Jan 2026 14:55:43 +0900"
-    },
-    {
-      "title": "李대통령 \"한국시장 여전히 저평가…세계 최고 투자처 만들겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128113800001",
-      "pubDate": "Wed, 28 Jan 2026 14:54:51 +0900"
-    },
-    {
-      "title": "야놀자 \"작년 4분기 국내 숙박시장, 호텔 중심 'V'자 반등\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128110100030",
-      "pubDate": "Wed, 28 Jan 2026 14:51:56 +0900"
-    },
-    {
-      "title": "울산 2026학년도 공립 초등·특수교사 합격자 69명",
-      "link": "https://www.yna.co.kr/view/AKR20260128114600057",
-      "pubDate": "Wed, 28 Jan 2026 14:50:53 +0900"
-    },
-    {
-      "title": "광주형 평생주택 6개월째 중단…내년 8월 완공 예상",
-      "link": "https://www.yna.co.kr/view/AKR20260128114000054",
-      "pubDate": "Wed, 28 Jan 2026 14:46:46 +0900"
-    },
-    {
-      "title": "예보, 파산 연체채무자 지원…'희망드림 프로젝트' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260128108500002",
-      "pubDate": "Wed, 28 Jan 2026 14:31:48 +0900"
-    },
-    {
-      "title": "대구남부교육청, 건설 시공사들과 상생 결의대회…\"무결점 시공\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128107100053",
-      "pubDate": "Wed, 28 Jan 2026 14:31:10 +0900"
     }
   ]
 }
