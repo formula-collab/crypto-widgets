@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769640627,
+  "updated_at_unix": 1769642211,
   "items": [
+    {
+      "title": "한투증권 \"게임, 밸류에이션 부담 적어…올해 관심 가질 업종\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129031400008",
+      "pubDate": "Thu, 29 Jan 2026 08:11:12 +0900"
+    },
+    {
+      "title": "美 금리인하 숨고르기…한은도 '장기 동결' 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260129026400002",
+      "pubDate": "Thu, 29 Jan 2026 08:08:34 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 FOMC·반도체 실적 소화하며 코스피 상승 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260129029800008",
+      "pubDate": "Thu, 29 Jan 2026 08:06:59 +0900"
+    },
     {
       "title": "美연준, 미국경제 성장세 개선되자 작년 7월 이후 첫 금리동결(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260129008151072",
@@ -137,21 +152,6 @@
       "title": "미래에셋생명, 자사주 1천600만주 소각 결정…\"주주가치 제고\"",
       "link": "https://www.yna.co.kr/view/AKR20260128166100002",
       "pubDate": "Wed, 28 Jan 2026 18:43:24 +0900"
-    },
-    {
-      "title": "금융위, 롯데손보 경영개선계획 불승인…롯데손보 매각에도 차질(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260128119452002",
-      "pubDate": "Wed, 28 Jan 2026 18:31:56 +0900"
-    },
-    {
-      "title": "LG화학 보통주 2천원·우선주 2천50원 현금배당 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260128165400003",
-      "pubDate": "Wed, 28 Jan 2026 18:16:13 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"부동산 세제, 한두 달 내 발표 사안 아냐…심층 논의 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128165200001",
-      "pubDate": "Wed, 28 Jan 2026 18:12:47 +0900"
     }
   ]
 }
