@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769569058,
+  "updated_at_unix": 1769573069,
   "items": [
+    {
+      "title": "장영진 무보 사장 \"올해 무역보험 지원 역대 최대 275조원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128080000003",
+      "pubDate": "Wed, 28 Jan 2026 13:00:02 +0900"
+    },
+    {
+      "title": "팀홀튼 \"올해 말까지 50개 매장 목표…푸드메뉴 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128085400030",
+      "pubDate": "Wed, 28 Jan 2026 13:00:00 +0900"
+    },
+    {
+      "title": "인텔, 최신 18A 공정 기반 AI PC 대거 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260128082900017",
+      "pubDate": "Wed, 28 Jan 2026 12:22:32 +0900"
+    },
+    {
+      "title": "과기부총리 \"미국 서한과 관세 인상 전혀 관련 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128086400017",
+      "pubDate": "Wed, 28 Jan 2026 12:22:22 +0900"
+    },
+    {
+      "title": "최인호 HUG 신임 사장 공식 취임…\"국민 주거안정 종합 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128086600003",
+      "pubDate": "Wed, 28 Jan 2026 12:18:07 +0900"
+    },
+    {
+      "title": "오세훈 \"정비사업 규제 풀어야…유휴부지 활용 공급보다 효과적\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128017251004",
+      "pubDate": "Wed, 28 Jan 2026 12:16:30 +0900"
+    },
+    {
+      "title": "담뱃세처럼 설탕세?…대통령 언급에 도입 논란 불붙을까",
+      "link": "https://www.yna.co.kr/view/AKR20260128085500530",
+      "pubDate": "Wed, 28 Jan 2026 12:05:08 +0900"
+    },
+    {
+      "title": "쿠팡 대규모 개인정보유출에…작년 12월 '탈팡 소비자상담 급증'",
+      "link": "https://www.yna.co.kr/view/AKR20260127144400030",
+      "pubDate": "Wed, 28 Jan 2026 12:00:13 +0900"
+    },
+    {
+      "title": "작년 中企수출 1천186억달러로 사상최대…K뷰티·중고차 효자",
+      "link": "https://www.yna.co.kr/view/AKR20260128044500030",
+      "pubDate": "Wed, 28 Jan 2026 12:00:11 +0900"
+    },
+    {
+      "title": "보이스피싱 정보공유 플랫폼으로 3개월간 186억원 피해 막았다",
+      "link": "https://www.yna.co.kr/view/AKR20260128052600002",
+      "pubDate": "Wed, 28 Jan 2026 12:00:10 +0900"
+    },
+    {
+      "title": "한은 \"작년 하반기 전국에서 소비쿠폰 효과 나타나\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128060600002",
+      "pubDate": "Wed, 28 Jan 2026 12:00:08 +0900"
+    },
+    {
+      "title": "작년 1∼11월 출생아 23만4천명, 6.2%↑…18년만에 최고 증가율",
+      "link": "https://www.yna.co.kr/view/AKR20260128073400002",
+      "pubDate": "Wed, 28 Jan 2026 12:00:05 +0900"
+    },
+    {
+      "title": "'월급 아닌 사업소득?' 유명 맛집기업 '가짜 3.3' 위장고용 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260128070400530",
+      "pubDate": "Wed, 28 Jan 2026 12:00:03 +0900"
+    },
+    {
+      "title": "'배우면서 자격증 도전'…올해 과정평가형 자격훈련 2천개 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260128074200530",
+      "pubDate": "Wed, 28 Jan 2026 12:00:02 +0900"
+    },
+    {
+      "title": "\"외국인고용 中企절반, 1∼2년후 외국인 사업장 변경 허용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128066700030",
+      "pubDate": "Wed, 28 Jan 2026 12:00:01 +0900"
+    },
     {
       "title": "설 전후 불법대부 우려…서울시 \"3월 말까지 집중단속\"",
       "link": "https://www.yna.co.kr/view/AKR20260128083900004",
@@ -77,81 +152,6 @@
       "title": "코스피, 5,100선 넘어 장중 강세 지속…코스닥은 3.5% 급등",
       "link": "https://www.yna.co.kr/view/AKR20260128075000008",
       "pubDate": "Wed, 28 Jan 2026 11:17:35 +0900"
-    },
-    {
-      "title": "올해 강원 공립 유·초등·특수교사 총 157명 최종 합격",
-      "link": "https://www.yna.co.kr/view/AKR20260128074100062",
-      "pubDate": "Wed, 28 Jan 2026 11:17:13 +0900"
-    },
-    {
-      "title": "서울형 R&D 지원사업에 425억 투입…작년보다 15억 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260128023100004",
-      "pubDate": "Wed, 28 Jan 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서부트럭터미널·금호·묵동에 총 1천732가구 주거공급",
-      "link": "https://www.yna.co.kr/view/AKR20260128024100004",
-      "pubDate": "Wed, 28 Jan 2026 11:15:01 +0900"
-    },
-    {
-      "title": "제주, 에너지 성능개선 '그린리모델링'으로 건설경기 활성화",
-      "link": "https://www.yna.co.kr/view/AKR20260128073800056",
-      "pubDate": "Wed, 28 Jan 2026 11:11:15 +0900"
-    },
-    {
-      "title": "대·중소기업·농어업협력재단, 중소기업 ESG 가이드라인 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260128074400030",
-      "pubDate": "Wed, 28 Jan 2026 11:09:17 +0900"
-    },
-    {
-      "title": "iM뱅크, 법인고객에 'ESG 자가진단·온실가스 계산' 무료서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260128073900053",
-      "pubDate": "Wed, 28 Jan 2026 11:07:54 +0900"
-    },
-    {
-      "title": "'신탄진공장 사망사고' 한솔제지 대표 중처법 위반 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260128069500063",
-      "pubDate": "Wed, 28 Jan 2026 11:05:12 +0900"
-    },
-    {
-      "title": "\"무신사, 입점 브랜드와 동반성장\"…연구 결과 학술지에",
-      "link": "https://www.yna.co.kr/view/AKR20260128071100030",
-      "pubDate": "Wed, 28 Jan 2026 11:02:21 +0900"
-    },
-    {
-      "title": "산업 R&D '지역·제조AI' 중심 전환…'5극3특' 성장에 2조원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260128068600003",
-      "pubDate": "Wed, 28 Jan 2026 11:00:49 +0900"
-    },
-    {
-      "title": "해수부, 해양산업 분야 유망기업 수출 지원…15개 기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260128051100051",
-      "pubDate": "Wed, 28 Jan 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 사고·질병 농업인 돕는 '영농도우미' 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260128060400030",
-      "pubDate": "Wed, 28 Jan 2026 11:00:01 +0900"
-    },
-    {
-      "title": "벤츠, 고성능 SUV '메르세데스-AMG GLS 63 4MATIC+' 국내 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260128067900003",
-      "pubDate": "Wed, 28 Jan 2026 10:56:37 +0900"
-    },
-    {
-      "title": "'마지막 분리 임용?' 광주·전남 초등교원 임용 합격자 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260128070000054",
-      "pubDate": "Wed, 28 Jan 2026 10:56:03 +0900"
-    },
-    {
-      "title": "파리바게뜨, LAFC 협업 신제품 3종 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260128067500030",
-      "pubDate": "Wed, 28 Jan 2026 10:50:13 +0900"
-    },
-    {
-      "title": "작년 12월 배달앱 결제 1억2천건 돌파…코로나 때 기록 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260128063200030",
-      "pubDate": "Wed, 28 Jan 2026 10:49:48 +0900"
     }
   ]
 }
