@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769631419,
+  "updated_at_unix": 1769633597,
   "items": [
+    {
+      "title": "\"1인가구 100개 늘면 동네 일자리 27개↑…서비스 소비 촉진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128176200002",
+      "pubDate": "Thu, 29 Jan 2026 05:31:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프, 군사 카드로 이란 거듭 압박…WTI 1.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260129012100009",
+      "pubDate": "Thu, 29 Jan 2026 05:23:45 +0900"
+    },
+    {
+      "title": "소환장 발부에 '반발 성명' 냈던 파월 \"추가로 할 말 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129011000072",
+      "pubDate": "Thu, 29 Jan 2026 05:16:14 +0900"
+    },
     {
       "title": "[속보] 파월 \"성장세전망 분명히 개선…리스크 대응 좋은 위치에 있어\"",
       "link": "https://www.yna.co.kr/view/AKR20260129010100072",
@@ -137,21 +152,6 @@
       "title": "춘천시, 정주·일자리 중심 외국인 체류 인재 육성 추진",
       "link": "https://www.yna.co.kr/view/AKR20260128153400062",
       "pubDate": "Wed, 28 Jan 2026 17:27:13 +0900"
-    },
-    {
-      "title": "김정관 산업장관, 내일 오전 美워싱턴 도착…러트닉 회담 '주목'",
-      "link": "https://www.yna.co.kr/view/AKR20260128155400003",
-      "pubDate": "Wed, 28 Jan 2026 17:26:18 +0900"
-    },
-    {
-      "title": "'담합의혹' 대한제분, 내달부터 밀가루 가격 평균 4.6% 인하",
-      "link": "https://www.yna.co.kr/view/AKR20260128156000030",
-      "pubDate": "Wed, 28 Jan 2026 17:24:04 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"차분히 관세 해결책 모색…김정관-러트닉 채널 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128141700001",
-      "pubDate": "Wed, 28 Jan 2026 17:18:20 +0900"
     }
   ]
 }
