@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769595449,
+  "updated_at_unix": 1769597527,
   "items": [
+    {
+      "title": "靑 \"부동산 세제, 한두달 내 발표할 내용 아냐…심층 논의 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128159551001",
+      "pubDate": "Wed, 28 Jan 2026 19:20:21 +0900"
+    },
     {
       "title": "靑 \"대미특별법 지연에 美 불만…입법노력 상세히 설명할 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260128157251001",
@@ -147,11 +152,6 @@
       "title": "다올투자증권, 지난해 영업익 334억원…전년 대비 흑자 전환",
       "link": "https://www.yna.co.kr/view/AKR20260128149500008",
       "pubDate": "Wed, 28 Jan 2026 16:57:40 +0900"
-    },
-    {
-      "title": "휴대폰 '성지' 지원금, 전산에 남는다",
-      "link": "https://www.yna.co.kr/view/AKR20260128149200017",
-      "pubDate": "Wed, 28 Jan 2026 16:56:57 +0900"
     }
   ]
 }
