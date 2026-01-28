@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769588281,
+  "updated_at_unix": 1769590466,
   "items": [
+    {
+      "title": "KB금융, 전북혁신도시에 'KB금융타운' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260128159900002",
+      "pubDate": "Wed, 28 Jan 2026 17:46:06 +0900"
+    },
+    {
+      "title": "SK하이닉스 \"미국 자회사 주식 14조4천280억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128159200008",
+      "pubDate": "Wed, 28 Jan 2026 17:44:51 +0900"
+    },
+    {
+      "title": "[충북소식] 무역통상진흥시책 통합설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260128158400064",
+      "pubDate": "Wed, 28 Jan 2026 17:43:52 +0900"
+    },
+    {
+      "title": "靑 \"대미특별법 지연에 美 불만…입법노력 상세히 설명할것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128157200001",
+      "pubDate": "Wed, 28 Jan 2026 17:37:45 +0900"
+    },
+    {
+      "title": "환율 급락에 국고채 금리 일제히 하락…3년물 연 3.067%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128146851008",
+      "pubDate": "Wed, 28 Jan 2026 17:37:13 +0900"
+    },
+    {
+      "title": "민생 현장서 13일만에 당무 재개 장동혁…'韓 제명 확정'도 임박(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128144751001",
+      "pubDate": "Wed, 28 Jan 2026 17:35:21 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"다주택 중과유예 종료, 행정의 원칙…한두달 말미는 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128157700001",
+      "pubDate": "Wed, 28 Jan 2026 17:33:06 +0900"
+    },
+    {
+      "title": "춘천시, 정주·일자리 중심 외국인 체류 인재 육성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260128153400062",
+      "pubDate": "Wed, 28 Jan 2026 17:27:13 +0900"
+    },
+    {
+      "title": "김정관 산업장관, 내일 오전 美워싱턴 도착…러트닉 회담 '주목'",
+      "link": "https://www.yna.co.kr/view/AKR20260128155400003",
+      "pubDate": "Wed, 28 Jan 2026 17:26:18 +0900"
+    },
+    {
+      "title": "'담합의혹' 대한제분, 내달부터 밀가루 가격 평균 4.6% 인하",
+      "link": "https://www.yna.co.kr/view/AKR20260128156000030",
+      "pubDate": "Wed, 28 Jan 2026 17:24:04 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"차분히 관세 해결책 모색…김정관-러트닉 채널 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128141700001",
+      "pubDate": "Wed, 28 Jan 2026 17:18:20 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"美, 대미특별법 지연에 투자프로젝트 늦어져 답답함 느낀듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128141500001",
+      "pubDate": "Wed, 28 Jan 2026 17:18:04 +0900"
+    },
+    {
+      "title": "[테크스냅] 윌로그, 브랜드 전면 개편…'글로벌 플랫폼 도약' 의지",
+      "link": "https://www.yna.co.kr/view/AKR20260128152000017",
+      "pubDate": "Wed, 28 Jan 2026 17:16:10 +0900"
+    },
+    {
+      "title": "'체류형 관광거점' 무색…숙박시설 지연 밀양 농어촌휴양단지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128115151052",
+      "pubDate": "Wed, 28 Jan 2026 17:15:49 +0900"
+    },
     {
       "title": "이억원 \"금감원 특사경에 인지수사권 필요…'통제 강화'는 중론\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260128093852002",
@@ -82,76 +152,6 @@
       "title": "금융위, 롯데손보 경영개선계획 불승인…적기시정조치 상향 수순(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260128119451002",
       "pubDate": "Wed, 28 Jan 2026 16:30:55 +0900"
-    },
-    {
-      "title": "\"녹색전환, 경제의 동력으로\"…민관 힘 모아 K-GX 전략 만든다",
-      "link": "https://www.yna.co.kr/view/AKR20260128132100002",
-      "pubDate": "Wed, 28 Jan 2026 16:30:00 +0900"
-    },
-    {
-      "title": "핌코 \"WGBI 편입 한국 시장 매력적…환율·인플레 안정 기대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128117351008",
-      "pubDate": "Wed, 28 Jan 2026 16:25:46 +0900"
-    },
-    {
-      "title": "iM뱅크, 햇살론 통합상품 출시…비대면 이용 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260128120200053",
-      "pubDate": "Wed, 28 Jan 2026 16:24:53 +0900"
-    },
-    {
-      "title": "코스피, 사상 최고치 경신하며 5,200선 가시권…코스닥도 4.7%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128127751008",
-      "pubDate": "Wed, 28 Jan 2026 16:20:13 +0900"
-    },
-    {
-      "title": "코스피 전체 영문공시 의무 시점, 내년 3월로 앞당긴다",
-      "link": "https://www.yna.co.kr/view/AKR20260128131800002",
-      "pubDate": "Wed, 28 Jan 2026 16:16:31 +0900"
-    },
-    {
-      "title": "하이트진로 작년 영업이익 17% 감소…\"주류시장 소비 위축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128140200030",
-      "pubDate": "Wed, 28 Jan 2026 16:15:12 +0900"
-    },
-    {
-      "title": "환율, 23.7원 급락한 1,422.5원…석 달 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260128138300002",
-      "pubDate": "Wed, 28 Jan 2026 16:09:07 +0900"
-    },
-    {
-      "title": "'안전 D등급' 광명 충훈대교 접속도로 1개 차선·보도 통행 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260128136900061",
-      "pubDate": "Wed, 28 Jan 2026 16:05:35 +0900"
-    },
-    {
-      "title": "기획처, 지하수저류댐·도암댐 '강릉 가뭄 재발방지' 현장점검",
-      "link": "https://www.yna.co.kr/view/AKR20260128072900002",
-      "pubDate": "Wed, 28 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "'국민참여성장펀드' 6월까지 상품 출시…TF 꾸려 상품 구조 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260128135500002",
-      "pubDate": "Wed, 28 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "압타머사이언스, 120억원 유상증자…웰뉴앤코에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260128134900008",
-      "pubDate": "Wed, 28 Jan 2026 15:59:39 +0900"
-    },
-    {
-      "title": "LG생활건강 작년 영업이익 1천707억원…전년보다 63% 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260128133300527",
-      "pubDate": "Wed, 28 Jan 2026 15:59:21 +0900"
-    },
-    {
-      "title": "인천 상업부동산 시장 '찬바람'…영종 집합상가 공실률 30%",
-      "link": "https://www.yna.co.kr/view/AKR20260128133800065",
-      "pubDate": "Wed, 28 Jan 2026 15:56:08 +0900"
-    },
-    {
-      "title": "이억원 \"금감원 특사경에 인지수사권 필요…'통제 강화'는 중론\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128093851002",
-      "pubDate": "Wed, 28 Jan 2026 15:52:44 +0900"
     }
   ]
 }
