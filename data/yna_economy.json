@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769592242,
+  "updated_at_unix": 1769593966,
   "items": [
+    {
+      "title": "미래에셋생명, 자사주 1천600만주 소각 결정…\"주주가치 제고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260128166100002",
+      "pubDate": "Wed, 28 Jan 2026 18:43:24 +0900"
+    },
+    {
+      "title": "금융위, 롯데손보 경영개선계획 불승인…롯데손보 매각에도 차질(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260128119452002",
+      "pubDate": "Wed, 28 Jan 2026 18:31:56 +0900"
+    },
     {
       "title": "LG화학 보통주 2천원·우선주 2천50원 현금배당 실시",
       "link": "https://www.yna.co.kr/view/AKR20260128165400003",
@@ -142,16 +152,6 @@
       "title": "기아 \"작년 미국 관세로 3.1조 부담…올해는 최대 3.5조 예상\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260128123451003",
       "pubDate": "Wed, 28 Jan 2026 16:54:37 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.067%",
-      "link": "https://www.yna.co.kr/view/AKR20260128146800008",
-      "pubDate": "Wed, 28 Jan 2026 16:53:30 +0900"
-    },
-    {
-      "title": "LG생활건강 작년 영업이익 1천707억원…63% 줄어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128133351527",
-      "pubDate": "Wed, 28 Jan 2026 16:51:51 +0900"
     }
   ]
 }
