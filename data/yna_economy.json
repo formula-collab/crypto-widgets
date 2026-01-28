@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769584930,
+  "updated_at_unix": 1769586301,
   "items": [
+    {
+      "title": "남양주 화도읍에 1조원 규모 60㎿ 데이터센터 건립",
+      "link": "https://www.yna.co.kr/view/AKR20260128144200060",
+      "pubDate": "Wed, 28 Jan 2026 16:32:32 +0900"
+    },
+    {
+      "title": "금융위, 롯데손보 경영개선계획 불승인…적기시정조치 상향 수순(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128119451002",
+      "pubDate": "Wed, 28 Jan 2026 16:30:55 +0900"
+    },
+    {
+      "title": "\"녹색전환, 경제의 동력으로\"…민관 힘 모아 K-GX 전략 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260128132100002",
+      "pubDate": "Wed, 28 Jan 2026 16:30:00 +0900"
+    },
+    {
+      "title": "핌코 \"WGBI 편입 한국 시장 매력적…환율·인플레 안정 기대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128117351008",
+      "pubDate": "Wed, 28 Jan 2026 16:25:46 +0900"
+    },
+    {
+      "title": "iM뱅크, 햇살론 통합상품 출시…비대면 이용 가능",
+      "link": "https://www.yna.co.kr/view/AKR20260128120200053",
+      "pubDate": "Wed, 28 Jan 2026 16:24:53 +0900"
+    },
+    {
+      "title": "코스피, 사상 최고치 경신하며 5,200선 가시권…코스닥도 4.7%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260128127751008",
+      "pubDate": "Wed, 28 Jan 2026 16:20:13 +0900"
+    },
     {
       "title": "코스피 전체 영문공시 의무 시점, 내년 3월로 앞당긴다",
       "link": "https://www.yna.co.kr/view/AKR20260128131800002",
@@ -122,36 +152,6 @@
       "title": "트럼프 \"달러화 훌륭\"…'달러 약세' 용인하는 듯한 언급(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260128046951072",
       "pubDate": "Wed, 28 Jan 2026 15:25:16 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, 로컬 창업 활성화 기초교육…창업 실행 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260128121500062",
-      "pubDate": "Wed, 28 Jan 2026 15:17:43 +0900"
-    },
-    {
-      "title": "[부고] 두경태(롯데호텔 서울 총지배인)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260128121000030",
-      "pubDate": "Wed, 28 Jan 2026 15:12:32 +0900"
-    },
-    {
-      "title": "금융위, 롯데손보 경영개선계획 불승인…적기시정조치 상향 수순",
-      "link": "https://www.yna.co.kr/view/AKR20260128119400002",
-      "pubDate": "Wed, 28 Jan 2026 15:11:03 +0900"
-    },
-    {
-      "title": "새 수장 맞은 소진공, 직원비위 잇달아…\"청렴도 개선부터\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128079700030",
-      "pubDate": "Wed, 28 Jan 2026 15:10:10 +0900"
-    },
-    {
-      "title": "핌코 \"WGBI 편입 한국 시장 매력적…환율·인플레 안정 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128117300008",
-      "pubDate": "Wed, 28 Jan 2026 15:03:33 +0900"
-    },
-    {
-      "title": "기획처 재정사업 성과평가단 출범…단장 우석진 교수",
-      "link": "https://www.yna.co.kr/view/AKR20260128105100002",
-      "pubDate": "Wed, 28 Jan 2026 15:00:02 +0900"
     }
   ]
 }
