@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769628255,
+  "updated_at_unix": 1769629699,
   "items": [
+    {
+      "title": "[속보] 파월, 소환장 관련 언급 회피 \"기존 성명 부연·반복 안할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129009600072",
+      "pubDate": "Thu, 29 Jan 2026 04:41:17 +0900"
+    },
+    {
+      "title": "[속보] 연준 파월 \"쿡 이사 해임재판, 연준 역사상 가장 중요사건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129008900072",
+      "pubDate": "Thu, 29 Jan 2026 04:38:43 +0900"
+    },
+    {
+      "title": "美연준, 금리 3.50∼3.75%로 동결…\"인플레 다소 높은 수준\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129008200071",
+      "pubDate": "Thu, 29 Jan 2026 04:31:03 +0900"
+    },
+    {
+      "title": "美연준 당분간 동결 시사…시장관심은 연준독립성·차기의장에",
+      "link": "https://www.yna.co.kr/view/AKR20260129008100072",
+      "pubDate": "Thu, 29 Jan 2026 04:26:03 +0900"
+    },
     {
       "title": "[2보] 美연준, 금리 3.50∼3.75%로 동결…한미 금리차 1.25%P",
       "link": "https://www.yna.co.kr/view/AKR20260129006500071",
@@ -132,26 +152,6 @@
       "title": "[테크스냅] 윌로그, 브랜드 전면 개편…'글로벌 플랫폼 도약' 의지",
       "link": "https://www.yna.co.kr/view/AKR20260128152000017",
       "pubDate": "Wed, 28 Jan 2026 17:16:10 +0900"
-    },
-    {
-      "title": "'체류형 관광거점' 무색…숙박시설 지연 밀양 농어촌휴양단지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260128115151052",
-      "pubDate": "Wed, 28 Jan 2026 17:15:49 +0900"
-    },
-    {
-      "title": "이억원 \"금감원 특사경에 인지수사권 필요…'통제 강화'는 중론\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260128093852002",
-      "pubDate": "Wed, 28 Jan 2026 17:06:21 +0900"
-    },
-    {
-      "title": "외국인 무기명 선불카드 한도 50만→100만원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260128148900002",
-      "pubDate": "Wed, 28 Jan 2026 17:05:39 +0900"
-    },
-    {
-      "title": "속초시, 콤팩트시티 워크숍 개최…유휴부지 활용 방안 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260128151700062",
-      "pubDate": "Wed, 28 Jan 2026 17:04:45 +0900"
     }
   ]
 }
