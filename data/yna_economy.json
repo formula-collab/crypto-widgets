@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769573069,
+  "updated_at_unix": 1769576357,
   "items": [
+    {
+      "title": "노랑풍선, 일본법인 오사카로 이전…강원우 일본법인 대표 취임",
+      "link": "https://www.yna.co.kr/view/AKR20260128099200030",
+      "pubDate": "Wed, 28 Jan 2026 13:52:39 +0900"
+    },
+    {
+      "title": "호남권생물자원관, 뇌 건강 개선 천연 복합 소재 기술이전",
+      "link": "https://www.yna.co.kr/view/AKR20260128097400054",
+      "pubDate": "Wed, 28 Jan 2026 13:45:46 +0900"
+    },
     {
       "title": "장영진 무보 사장 \"올해 무역보험 지원 역대 최대 275조원\"",
       "link": "https://www.yna.co.kr/view/AKR20260128080000003",
@@ -142,16 +152,6 @@
       "title": "AB운용 \"올해 상반기 액티브 전략·헬스케어 업종에 관심을\"",
       "link": "https://www.yna.co.kr/view/AKR20260128075800008",
       "pubDate": "Wed, 28 Jan 2026 11:19:26 +0900"
-    },
-    {
-      "title": "항공대, 한국국제협력단과 해외 봉사활동 학점인정 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260128076200060",
-      "pubDate": "Wed, 28 Jan 2026 11:17:57 +0900"
-    },
-    {
-      "title": "코스피, 5,100선 넘어 장중 강세 지속…코스닥은 3.5% 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260128075000008",
-      "pubDate": "Wed, 28 Jan 2026 11:17:35 +0900"
     }
   ]
 }
