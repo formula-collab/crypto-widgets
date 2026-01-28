@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769637022,
+  "updated_at_unix": 1769638570,
   "items": [
+    {
+      "title": "금감원, 분쟁조정사례 75건 추가 공개…종류·담보별 세분화",
+      "link": "https://www.yna.co.kr/view/AKR20260128154200002",
+      "pubDate": "Thu, 29 Jan 2026 07:06:56 +0900"
+    },
+    {
+      "title": "강한 연초효과 기대했건만…금리 변동성에 어수선한 채권시장",
+      "link": "https://www.yna.co.kr/view/AKR20260128168100008",
+      "pubDate": "Thu, 29 Jan 2026 07:05:00 +0900"
+    },
+    {
+      "title": "트럼프 아프리카에도 통상 압력…대미 수출면세 혜택 1년만 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260128126500898",
+      "pubDate": "Thu, 29 Jan 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 2025년 아프리카, 선택의 정치와 위기의 일상화",
+      "link": "https://www.yna.co.kr/view/AKR20260105123200898",
+      "pubDate": "Thu, 29 Jan 2026 07:00:05 +0900"
+    },
+    {
+      "title": "美연준, 트럼프 인하 압박에도 금리 동결…\"인플레 다소 높아\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260129008251071",
+      "pubDate": "Thu, 29 Jan 2026 06:55:15 +0900"
+    },
     {
       "title": "연준 파월 \"美성장세 분명히 개선…견조한 기반서 올해 시작\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260129011051072",
@@ -127,31 +152,6 @@
       "title": "靑 \"다주택 중과 유예 종료, 행정의 원칙…한두 달 말미는 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260128159500001",
       "pubDate": "Wed, 28 Jan 2026 18:01:20 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260128159800011",
-      "pubDate": "Wed, 28 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "KB금융, 전북혁신도시에 'KB금융타운' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260128159900002",
-      "pubDate": "Wed, 28 Jan 2026 17:46:06 +0900"
-    },
-    {
-      "title": "SK하이닉스 \"미국 자회사 주식 14조4천280억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128159200008",
-      "pubDate": "Wed, 28 Jan 2026 17:44:51 +0900"
-    },
-    {
-      "title": "[충북소식] 무역통상진흥시책 통합설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260128158400064",
-      "pubDate": "Wed, 28 Jan 2026 17:43:52 +0900"
-    },
-    {
-      "title": "靑 \"대미특별법 지연에 美 불만…입법노력 상세히 설명할것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128157200001",
-      "pubDate": "Wed, 28 Jan 2026 17:37:45 +0900"
     }
   ]
 }
