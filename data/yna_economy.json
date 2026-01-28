@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769629699,
+  "updated_at_unix": 1769631419,
   "items": [
+    {
+      "title": "[속보] 파월 \"성장세전망 분명히 개선…리스크 대응 좋은 위치에 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129010100072",
+      "pubDate": "Thu, 29 Jan 2026 04:46:47 +0900"
+    },
+    {
+      "title": "[속보] 파월, 의장 임기종료후 이사직 유지 여부에 \"할 말 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129009700072",
+      "pubDate": "Thu, 29 Jan 2026 04:43:26 +0900"
+    },
     {
       "title": "[속보] 파월, 소환장 관련 언급 회피 \"기존 성명 부연·반복 안할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260129009600072",
@@ -29,7 +39,7 @@
       "pubDate": "Thu, 29 Jan 2026 04:02:54 +0900"
     },
     {
-      "title": "[1보] 美기준금리 '3.5~3.75%' 동결…3연속 인상후 속도조절",
+      "title": "[1보] 美기준금리 '3.5~3.75%' 동결…3연속 인하 후 속도조절",
       "link": "https://www.yna.co.kr/view/AKR20260129005400071",
       "pubDate": "Thu, 29 Jan 2026 04:00:39 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "[속보] 靑 \"차분히 관세 해결책 모색…김정관-러트닉 채널 중요\"",
       "link": "https://www.yna.co.kr/view/AKR20260128141700001",
       "pubDate": "Wed, 28 Jan 2026 17:18:20 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"美, 대미특별법 지연에 투자프로젝트 늦어져 답답함 느낀듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260128141500001",
-      "pubDate": "Wed, 28 Jan 2026 17:18:04 +0900"
-    },
-    {
-      "title": "[테크스냅] 윌로그, 브랜드 전면 개편…'글로벌 플랫폼 도약' 의지",
-      "link": "https://www.yna.co.kr/view/AKR20260128152000017",
-      "pubDate": "Wed, 28 Jan 2026 17:16:10 +0900"
     }
   ]
 }
