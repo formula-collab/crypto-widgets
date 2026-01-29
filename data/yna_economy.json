@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769682326,
+  "updated_at_unix": 1769684533,
   "items": [
+    {
+      "title": "올해 공공기관 342개로…통계진흥원 등 11곳 신규 지정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129181151002",
+      "pubDate": "Thu, 29 Jan 2026 19:54:31 +0900"
+    },
+    {
+      "title": "日 건설사 쿠마가이구미 강제동원 피해자 손배소 승소 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260129184200004",
+      "pubDate": "Thu, 29 Jan 2026 19:28:05 +0900"
+    },
+    {
+      "title": "한숨 돌린 금감원…특사경·공공기관 지정 논란서 모두 '판정승'",
+      "link": "https://www.yna.co.kr/view/AKR20260129182600002",
+      "pubDate": "Thu, 29 Jan 2026 19:22:11 +0900"
+    },
     {
       "title": "여한구 통상본부장 방미 \"'트럼프 관세' 합리적 해결책 찾겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260129183600003",
@@ -137,21 +152,6 @@
       "title": "정부 주택공급안에 경실련 \"집값 폭등 불쏘시개 우려\"",
       "link": "https://www.yna.co.kr/view/AKR20260129163500004",
       "pubDate": "Thu, 29 Jan 2026 17:09:36 +0900"
-    },
-    {
-      "title": "남양유업, 홍원식 前회장 징역형에 \"현 경영에 영향 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129165300030",
-      "pubDate": "Thu, 29 Jan 2026 17:08:16 +0900"
-    },
-    {
-      "title": "한은, 2월 최대 5조5천억원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260129164200002",
-      "pubDate": "Thu, 29 Jan 2026 17:06:23 +0900"
-    },
-    {
-      "title": "경제계 \"반도체특별법 국회 통과 환영…AI시대 경쟁력 높일 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129163400003",
-      "pubDate": "Thu, 29 Jan 2026 17:06:23 +0900"
     }
   ]
 }
