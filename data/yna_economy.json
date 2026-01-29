@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769719873,
+  "updated_at_unix": 1769721416,
   "items": [
+    {
+      "title": "전기·수소차 충전시설에 투자…인프라 펀드 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260129153200530",
+      "pubDate": "Fri, 30 Jan 2026 06:00:12 +0900"
+    },
+    {
+      "title": "창동 디지털바이오시티 인허가 착수…'강북전성시대' 박차",
+      "link": "https://www.yna.co.kr/view/AKR20260129153800004",
+      "pubDate": "Fri, 30 Jan 2026 06:00:11 +0900"
+    },
+    {
+      "title": "신세계백화점, 신세계갤러리 청담서 日작가 키네 개인전",
+      "link": "https://www.yna.co.kr/view/AKR20260129161900030",
+      "pubDate": "Fri, 30 Jan 2026 06:00:09 +0900"
+    },
+    {
+      "title": "국내 외국인 유학생의 지역 중소기업 연계 지원 모집 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260129160600030",
+      "pubDate": "Fri, 30 Jan 2026 06:00:08 +0900"
+    },
+    {
+      "title": "작년 ABS 발행금액 46조7천억원…전년 대비 10% 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260129177500002",
+      "pubDate": "Fri, 30 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "작년 주택 공급지표 모두 하락…월세거래 비중 60% 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260129167100003",
+      "pubDate": "Fri, 30 Jan 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[이코노워치] \"정치 멀리하라\"…물러나는 파월의 조언",
+      "link": "https://www.yna.co.kr/view/AKR20260129180900546",
+      "pubDate": "Fri, 30 Jan 2026 06:00:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 이란 근해에 집결하는 미군…WTI 3.5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260130006800009",
@@ -117,41 +152,6 @@
       "title": "'하도급 대금 지급보증 의무화' 법률 개정안 국회 본회의 통과",
       "link": "https://www.yna.co.kr/view/AKR20260129174300003",
       "pubDate": "Thu, 29 Jan 2026 17:43:22 +0900"
-    },
-    {
-      "title": "경찰, 쿠팡서 김병기 前보좌진 인사 불이익 관련 자료 확보(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260129066953004",
-      "pubDate": "Thu, 29 Jan 2026 17:42:50 +0900"
-    },
-    {
-      "title": "국민성장펀드 1호 투자처로 '신안우이 해상풍력사업' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260129093100002",
-      "pubDate": "Thu, 29 Jan 2026 17:42:33 +0900"
-    },
-    {
-      "title": "업스테이지, 포털 다음 인수한다…카카오 지분 맞교환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129169051017",
-      "pubDate": "Thu, 29 Jan 2026 17:40:24 +0900"
-    },
-    {
-      "title": "[게시판] 대구농협, 대구보훈청에 우리 쌀 100포 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260129173400053",
-      "pubDate": "Thu, 29 Jan 2026 17:40:15 +0900"
-    },
-    {
-      "title": "화성시, 특별보좌관 6명 위촉…정책 전문성 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260129171300061",
-      "pubDate": "Thu, 29 Jan 2026 17:26:10 +0900"
-    },
-    {
-      "title": "[게시판] iM뱅크, 대구·경북 적십자에 특별성금 1억원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260129170500053",
-      "pubDate": "Thu, 29 Jan 2026 17:24:06 +0900"
-    },
-    {
-      "title": "업스테이지, 포털 다음 인수한다…카카오 지분 취득 협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260129169000017",
-      "pubDate": "Thu, 29 Jan 2026 17:20:23 +0900"
     }
   ]
 }
