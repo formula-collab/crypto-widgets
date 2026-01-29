@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769727076,
+  "updated_at_unix": 1769728558,
   "items": [
+    {
+      "title": "[마켓뷰] 반도체 실적 소화하며 5,200선 뚫은 코스피…'불장' 이어지나",
+      "link": "https://www.yna.co.kr/view/AKR20260130021900008",
+      "pubDate": "Fri, 30 Jan 2026 08:04:01 +0900"
+    },
+    {
+      "title": "[2보] 작년 산업생산 0.5%↑·5년만에 최소…소비 0.5%·투자 1.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260130022300002",
+      "pubDate": "Fri, 30 Jan 2026 08:02:37 +0900"
+    },
+    {
+      "title": "\"내 아이디어가 부산 관광상품으로\"…K-콘텐츠 아카데미 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260130020800051",
+      "pubDate": "Fri, 30 Jan 2026 08:02:35 +0900"
+    },
+    {
+      "title": "[1보] 작년 산업생산 0.5%↑·5년만에 최소…소비 0.5%·투자 1.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260130020300002",
+      "pubDate": "Fri, 30 Jan 2026 08:00:02 +0900"
+    },
+    {
+      "title": "[속보] 작년 12월 산업생산 1.5% 증가…소매판매 0.9%↑·투자 3.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260130020600002",
+      "pubDate": "Fri, 30 Jan 2026 08:00:01 +0900"
+    },
+    {
+      "title": "美, 경상수지·대미무역흑자 이유로 韓 환율관찰대상국 유지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260130010451071",
+      "pubDate": "Fri, 30 Jan 2026 07:50:21 +0900"
+    },
     {
       "title": "한경협, '미래세대 성장' 청년 간담회…\"누구나 도전할 수 있게\"",
       "link": "https://www.yna.co.kr/view/AKR20260129170800003",
@@ -24,7 +54,7 @@
       "pubDate": "Fri, 30 Jan 2026 07:01:01 +0900"
     },
     {
-      "title": "美재무부, 한국 등 10개국 환율 관찰 대상국으로 지정",
+      "title": "美, 경상수지·대미무역흑자 이유로 韓 환율관찰대상국 유지",
       "link": "https://www.yna.co.kr/view/AKR20260130010400071",
       "pubDate": "Fri, 30 Jan 2026 06:26:49 +0900"
     },
@@ -122,36 +152,6 @@
       "title": "여한구 통상본부장 방미 \"'트럼프 관세' 합리적 해결책 찾겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260129183600003",
       "pubDate": "Thu, 29 Jan 2026 19:18:19 +0900"
-    },
-    {
-      "title": "구윤철 \"공공기관 군살 제거하고 기능개혁 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129166900002",
-      "pubDate": "Thu, 29 Jan 2026 19:00:02 +0900"
-    },
-    {
-      "title": "[속보] 금융감독원, 공공기관 지정 피해…내년 재검토",
-      "link": "https://www.yna.co.kr/view/AKR20260129180300002",
-      "pubDate": "Thu, 29 Jan 2026 19:00:01 +0900"
-    },
-    {
-      "title": "금감원, 올해도 '공공기관 지정 유보'…공공기관 331→342개",
-      "link": "https://www.yna.co.kr/view/AKR20260129181100002",
-      "pubDate": "Thu, 29 Jan 2026 19:00:01 +0900"
-    },
-    {
-      "title": "현대건설 회사채 수요예측 9천100억원 몰려…목표액 5배 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260129176400003",
-      "pubDate": "Thu, 29 Jan 2026 18:41:25 +0900"
-    },
-    {
-      "title": "경제계 \"반도체특별법 국회 통과 환영…주도권 확보 기틀 마련\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129163451003",
-      "pubDate": "Thu, 29 Jan 2026 18:41:06 +0900"
-    },
-    {
-      "title": "한패스·케이피항공산업, 코스닥 상장 예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260129178400008",
-      "pubDate": "Thu, 29 Jan 2026 18:29:22 +0900"
     }
   ]
 }
