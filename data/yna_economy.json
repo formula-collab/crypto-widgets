@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769724973,
+  "updated_at_unix": 1769727076,
   "items": [
+    {
+      "title": "한경협, '미래세대 성장' 청년 간담회…\"누구나 도전할 수 있게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129170800003",
+      "pubDate": "Fri, 30 Jan 2026 07:30:01 +0900"
+    },
+    {
+      "title": "배경훈 부총리 \"SMR 강국 도약 위해 투자 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129174900017",
+      "pubDate": "Fri, 30 Jan 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260130017300011",
+      "pubDate": "Fri, 30 Jan 2026 07:30:00 +0900"
+    },
     {
       "title": "동아프리카 올해 5.8% 성장 전망…공항 등 인프라 투자 효과",
       "link": "https://www.yna.co.kr/view/AKR20260129135600898",
@@ -137,21 +152,6 @@
       "title": "한패스·케이피항공산업, 코스닥 상장 예심 통과",
       "link": "https://www.yna.co.kr/view/AKR20260129178400008",
       "pubDate": "Thu, 29 Jan 2026 18:29:22 +0900"
-    },
-    {
-      "title": "\"30조 추산\" 삼성생명 유배당계약자 몫 '보험부채 0원' 공시 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260129162500002",
-      "pubDate": "Thu, 29 Jan 2026 18:16:35 +0900"
-    },
-    {
-      "title": "CSA 코스믹 \"피엘오조합 주식 73억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129176500008",
-      "pubDate": "Thu, 29 Jan 2026 18:03:55 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260129173100011",
-      "pubDate": "Thu, 29 Jan 2026 18:00:00 +0900"
     }
   ]
 }
