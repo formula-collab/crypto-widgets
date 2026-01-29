@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769721416,
+  "updated_at_unix": 1769723246,
   "items": [
+    {
+      "title": "美재무부, 한국 등 10개국 환율 관찰 대상국으로 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260130010400071",
+      "pubDate": "Fri, 30 Jan 2026 06:26:49 +0900"
+    },
+    {
+      "title": "국제유가, 이란 위기 고조에 3%↑…브렌트유 6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260130008400072",
+      "pubDate": "Fri, 30 Jan 2026 06:11:44 +0900"
+    },
     {
       "title": "전기·수소차 충전시설에 투자…인프라 펀드 조성",
       "link": "https://www.yna.co.kr/view/AKR20260129153200530",
@@ -142,16 +152,6 @@
       "title": "LS전선, 계열사 LS에코첨단소재 주식 701억원에 추가취득",
       "link": "https://www.yna.co.kr/view/AKR20260129174800008",
       "pubDate": "Thu, 29 Jan 2026 17:52:31 +0900"
-    },
-    {
-      "title": "강원도, 업무보고 첫 생중계…도청 홈페이지서 실시간 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260129173300062",
-      "pubDate": "Thu, 29 Jan 2026 17:50:08 +0900"
-    },
-    {
-      "title": "'하도급 대금 지급보증 의무화' 법률 개정안 국회 본회의 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260129174300003",
-      "pubDate": "Thu, 29 Jan 2026 17:43:22 +0900"
     }
   ]
 }
