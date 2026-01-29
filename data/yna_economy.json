@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769670608,
+  "updated_at_unix": 1769673449,
   "items": [
+    {
+      "title": "삼양식품 작년 영업익 52% 증가…매출 2조 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260129159200030",
+      "pubDate": "Thu, 29 Jan 2026 16:46:38 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.106%",
+      "link": "https://www.yna.co.kr/view/AKR20260129158300008",
+      "pubDate": "Thu, 29 Jan 2026 16:40:16 +0900"
+    },
+    {
+      "title": "李대통령 \"증권거래소 백화점, 썩은상품 없어야\"…시장개혁 독려",
+      "link": "https://www.yna.co.kr/view/AKR20260129156300001",
+      "pubDate": "Thu, 29 Jan 2026 16:39:11 +0900"
+    },
+    {
+      "title": "농산물 도매법인 실적부진 땐 지정취소…농안법 개정안 국회통과",
+      "link": "https://www.yna.co.kr/view/AKR20260129153100030",
+      "pubDate": "Thu, 29 Jan 2026 16:39:07 +0900"
+    },
+    {
+      "title": "강원도, 국방경제 보고회 개최…미래 먹거리로 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260129153300062",
+      "pubDate": "Thu, 29 Jan 2026 16:36:23 +0900"
+    },
+    {
+      "title": "한경협, 퓨처 리더스 캠프…\"청년의 상상에서 위대한 기업 탄생\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129153900003",
+      "pubDate": "Thu, 29 Jan 2026 16:36:12 +0900"
+    },
+    {
+      "title": "[게시판] HDC현산, 대한노인회 충주시지회에 쌀 5.6t 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260129154800003",
+      "pubDate": "Thu, 29 Jan 2026 16:35:40 +0900"
+    },
+    {
+      "title": "'연일 불장' 코스닥, 올해 수익률 26%로 껑충…글로벌 1위 등극(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129091051008",
+      "pubDate": "Thu, 29 Jan 2026 16:33:00 +0900"
+    },
+    {
+      "title": "'육아휴직' 앞으로 1∼2주 단위로도 사용…법률안 국회 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260129144300530",
+      "pubDate": "Thu, 29 Jan 2026 16:32:46 +0900"
+    },
+    {
+      "title": "충북농기원, 농식품 특허기술 43건 민간 이전 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260129155300064",
+      "pubDate": "Thu, 29 Jan 2026 16:31:01 +0900"
+    },
+    {
+      "title": "[특징주] 코스피 끌고 코스닥 밀고…불장에 증권주도 '불기둥'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129128651008",
+      "pubDate": "Thu, 29 Jan 2026 16:27:09 +0900"
+    },
+    {
+      "title": "환율, 외국인 주식 매도 속 소폭 반등…1,426.3원",
+      "link": "https://www.yna.co.kr/view/AKR20260129148200002",
+      "pubDate": "Thu, 29 Jan 2026 16:19:26 +0900"
+    },
+    {
+      "title": "현대건설 \"압구정3구역에 화재 대응 주차 로봇 도입 제안할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129151200003",
+      "pubDate": "Thu, 29 Jan 2026 16:13:42 +0900"
+    },
+    {
+      "title": "코스피, 삼전·하닉 호실적에 5,200 돌파 마감…코스닥도 2.7%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129130051008",
+      "pubDate": "Thu, 29 Jan 2026 16:08:51 +0900"
+    },
+    {
+      "title": "'로비 명목으로 건설업체서 10억 편취' 전 경찰청 차장 구속기소",
+      "link": "https://www.yna.co.kr/view/AKR20260129145200061",
+      "pubDate": "Thu, 29 Jan 2026 16:05:24 +0900"
+    },
+    {
+      "title": "李대통령 \"외부 공격엔 함께 싸워야…국제사회 파고 힘 합쳐 넘길\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129147100001",
+      "pubDate": "Thu, 29 Jan 2026 16:05:09 +0900"
+    },
     {
       "title": "서울시 \"정부 주택공급안, 민간개발 외면하고 공공주도 매몰\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260129101551004",
@@ -72,86 +152,6 @@
       "title": "[특징주] 흥국에프엔비, '두쫀쿠' 열풍 속 상한가",
       "link": "https://www.yna.co.kr/view/AKR20260129141700008",
       "pubDate": "Thu, 29 Jan 2026 15:35:15 +0900"
-    },
-    {
-      "title": "강원도, 비대면 유통 농산물까지 안전 점검 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260129136100062",
-      "pubDate": "Thu, 29 Jan 2026 15:34:40 +0900"
-    },
-    {
-      "title": "대상 작년 영업이익 3.6% 감소…\"美 상호관세·경기둔화 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129140600030",
-      "pubDate": "Thu, 29 Jan 2026 15:33:46 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 3.8원 오른 1,426.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260129139700002",
-      "pubDate": "Thu, 29 Jan 2026 15:30:19 +0900"
-    },
-    {
-      "title": "[광주소식] 광주은행, 통합광주전남 사랑통장 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260129137300054",
-      "pubDate": "Thu, 29 Jan 2026 15:20:41 +0900"
-    },
-    {
-      "title": "미래도시펀드 1호 모펀드 운용사에 우리자산운용",
-      "link": "https://www.yna.co.kr/view/AKR20260129135700003",
-      "pubDate": "Thu, 29 Jan 2026 15:20:39 +0900"
-    },
-    {
-      "title": "R&D 예타 18년 만에 폐지…대규모 투자 속도전",
-      "link": "https://www.yna.co.kr/view/AKR20260129135200017",
-      "pubDate": "Thu, 29 Jan 2026 15:19:24 +0900"
-    },
-    {
-      "title": "[부산소식] 동의대, 비교과·취업 우수자 '성파 인재상' 수여",
-      "link": "https://www.yna.co.kr/view/AKR20260129134400051",
-      "pubDate": "Thu, 29 Jan 2026 15:14:44 +0900"
-    },
-    {
-      "title": "광주·전남 기업 체감경기 소폭 반등",
-      "link": "https://www.yna.co.kr/view/AKR20260129135000054",
-      "pubDate": "Thu, 29 Jan 2026 15:13:36 +0900"
-    },
-    {
-      "title": "충북 작년 농식품 수출액 8억4천200만 달러…역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260129132800064",
-      "pubDate": "Thu, 29 Jan 2026 15:12:06 +0900"
-    },
-    {
-      "title": "관세청, 챗봇 관세상담 개통…24시간 무기명 상담 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260129131400002",
-      "pubDate": "Thu, 29 Jan 2026 15:00:24 +0900"
-    },
-    {
-      "title": "정부, 1천400조 연기금 코스닥으로 물길 튼다…'삼천닥' 뒷받침",
-      "link": "https://www.yna.co.kr/view/AKR20260129115900002",
-      "pubDate": "Thu, 29 Jan 2026 15:00:03 +0900"
-    },
-    {
-      "title": "국민연금 이사장 \"기초·국민연금 재구조화 등 구조개혁 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129128000530",
-      "pubDate": "Thu, 29 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "현대차 노조, 이번엔 '24시간 무인공장' 겨냥…\"판 엎을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129123000057",
-      "pubDate": "Thu, 29 Jan 2026 14:50:06 +0900"
-    },
-    {
-      "title": "[게시판] 소방청, 코트라와 소방산업 수출 활성화 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260129127300530",
-      "pubDate": "Thu, 29 Jan 2026 14:49:30 +0900"
-    },
-    {
-      "title": "[특징주] 코스피 끌고 코스닥 밀고…불장에 증권주 '불기둥'",
-      "link": "https://www.yna.co.kr/view/AKR20260129128600008",
-      "pubDate": "Thu, 29 Jan 2026 14:48:00 +0900"
-    },
-    {
-      "title": "고양연구원, 항공대와 미래산업 기반 구축 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260129129000060",
-      "pubDate": "Thu, 29 Jan 2026 14:45:49 +0900"
     }
   ]
 }
