@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769657821,
+  "updated_at_unix": 1769662813,
   "items": [
+    {
+      "title": "맘스터치 \"가맹점주 부당이득금 반환 청구소송 승소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129108600030",
+      "pubDate": "Thu, 29 Jan 2026 13:50:00 +0900"
+    },
+    {
+      "title": "강원도, 기업투자촉진지구 4개 시·군 지정…투자 사각지대 해소",
+      "link": "https://www.yna.co.kr/view/AKR20260129091700062",
+      "pubDate": "Thu, 29 Jan 2026 13:48:57 +0900"
+    },
+    {
+      "title": "염폐수 자원화 기업 카리, 새만금에 3천억 들여 공장 설립",
+      "link": "https://www.yna.co.kr/view/AKR20260129110300055",
+      "pubDate": "Thu, 29 Jan 2026 13:46:49 +0900"
+    },
+    {
+      "title": "펄어비스, 2026년도 채용연계형 봄 인턴십 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260129105600017",
+      "pubDate": "Thu, 29 Jan 2026 13:30:55 +0900"
+    },
+    {
+      "title": "전주시의원 \"전주시 캐릭터만 11개…하나로 정비해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129101700055",
+      "pubDate": "Thu, 29 Jan 2026 13:24:23 +0900"
+    },
+    {
+      "title": "\"명확한 주택공급 신호 긍정적…시차 줄일 속도전이 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129103300003",
+      "pubDate": "Thu, 29 Jan 2026 13:19:04 +0900"
+    },
+    {
+      "title": "'태릉골프장 주택공급'에 노원구 \"고품격·저밀도 단지 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129101600004",
+      "pubDate": "Thu, 29 Jan 2026 12:43:08 +0900"
+    },
+    {
+      "title": "대법 \"쌍방과실 사고서 상대 보험사에 자기부담금 청구 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129100400004",
+      "pubDate": "Thu, 29 Jan 2026 12:41:25 +0900"
+    },
     {
       "title": "[일문일답] 국토부 \"과천 경마장·방첩사 부지 공공주택지구로 묶어 공급\"",
       "link": "https://www.yna.co.kr/view/AKR20260129099400003",
@@ -112,46 +152,6 @@
       "title": "충남 천안에 80㎿급 AI 데이터센터 건립…투자협약 체결",
       "link": "https://www.yna.co.kr/view/AKR20260129083000063",
       "pubDate": "Thu, 29 Jan 2026 11:30:00 +0900"
-    },
-    {
-      "title": "위메이드 \"한국은행도 안심할 원화 스테이블코인 만들겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129087600017",
-      "pubDate": "Thu, 29 Jan 2026 11:29:53 +0900"
-    },
-    {
-      "title": "조현 \"트럼프 관세 재인상 시사, 합의 파기라 보기 어려워\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129071951504",
-      "pubDate": "Thu, 29 Jan 2026 11:21:35 +0900"
-    },
-    {
-      "title": "공사업체 선정 뒷돈 챙긴 성남지역 주택재개발 조합장 재판행",
-      "link": "https://www.yna.co.kr/view/AKR20260129087400061",
-      "pubDate": "Thu, 29 Jan 2026 11:19:26 +0900"
-    },
-    {
-      "title": "[동정] 성광진 한국은행 경남본부장 부임",
-      "link": "https://www.yna.co.kr/view/AKR20260129087000052",
-      "pubDate": "Thu, 29 Jan 2026 11:19:10 +0900"
-    },
-    {
-      "title": "코스피 장중 하락전환해 5,150대로 밀려…코스닥은 1.6% 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260129085900008",
-      "pubDate": "Thu, 29 Jan 2026 11:18:00 +0900"
-    },
-    {
-      "title": "서울시 올해 세무조사 기본계획…\"성실납세 분위기 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129046500004",
-      "pubDate": "Thu, 29 Jan 2026 11:15:02 +0900"
-    },
-    {
-      "title": "방첩사 과천 부지 아파트촌으로…연내 부대해체 후 분산 이전",
-      "link": "https://www.yna.co.kr/view/AKR20260129085500504",
-      "pubDate": "Thu, 29 Jan 2026 11:12:14 +0900"
-    },
-    {
-      "title": "제15회 연합인포맥스 금융대상 IB종합대상에 신한투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20260129084000008",
-      "pubDate": "Thu, 29 Jan 2026 11:12:09 +0900"
     }
   ]
 }
