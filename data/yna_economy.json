@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769679069,
+  "updated_at_unix": 1769682326,
   "items": [
+    {
+      "title": "여한구 통상본부장 방미 \"'트럼프 관세' 합리적 해결책 찾겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129183600003",
+      "pubDate": "Thu, 29 Jan 2026 19:18:19 +0900"
+    },
+    {
+      "title": "구윤철 \"공공기관 군살 제거하고 기능개혁 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129166900002",
+      "pubDate": "Thu, 29 Jan 2026 19:00:02 +0900"
+    },
+    {
+      "title": "[속보] 금융감독원, 공공기관 지정 피해…내년 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20260129180300002",
+      "pubDate": "Thu, 29 Jan 2026 19:00:01 +0900"
+    },
+    {
+      "title": "금감원, 올해도 '공공기관 지정 유보'…공공기관 331→342개",
+      "link": "https://www.yna.co.kr/view/AKR20260129181100002",
+      "pubDate": "Thu, 29 Jan 2026 19:00:01 +0900"
+    },
+    {
+      "title": "현대건설 회사채 수요예측 9천100억원 몰려…목표액 5배 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260129176400003",
+      "pubDate": "Thu, 29 Jan 2026 18:41:25 +0900"
+    },
+    {
+      "title": "경제계 \"반도체특별법 국회 통과 환영…주도권 확보 기틀 마련\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129163451003",
+      "pubDate": "Thu, 29 Jan 2026 18:41:06 +0900"
+    },
+    {
+      "title": "한패스·케이피항공산업, 코스닥 상장 예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260129178400008",
+      "pubDate": "Thu, 29 Jan 2026 18:29:22 +0900"
+    },
     {
       "title": "\"30조 추산\" 삼성생명 유배당계약자 몫 '보험부채 0원' 공시 논란",
       "link": "https://www.yna.co.kr/view/AKR20260129162500002",
@@ -117,41 +152,6 @@
       "title": "경제계 \"반도체특별법 국회 통과 환영…AI시대 경쟁력 높일 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260129163400003",
       "pubDate": "Thu, 29 Jan 2026 17:06:23 +0900"
-    },
-    {
-      "title": "신한금융 \"전북혁신도시에 자산운용 사업 허브 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129162000002",
-      "pubDate": "Thu, 29 Jan 2026 17:02:24 +0900"
-    },
-    {
-      "title": "한경협, 성장전략실·일자리TF 신설…국제본부 확대 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260129162100003",
-      "pubDate": "Thu, 29 Jan 2026 17:00:26 +0900"
-    },
-    {
-      "title": "\"K-콘텐츠 보호 강화\"…'암표근절법'·'누누티비법' 국회 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260129159800005",
-      "pubDate": "Thu, 29 Jan 2026 16:58:58 +0900"
-    },
-    {
-      "title": "법원 \"공인중개사도 전세사기 피해 손해배상 책임\"…임차인 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260129158100061",
-      "pubDate": "Thu, 29 Jan 2026 16:57:17 +0900"
-    },
-    {
-      "title": "삼양식품 작년 영업익 52% 증가…매출 2조 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260129159200030",
-      "pubDate": "Thu, 29 Jan 2026 16:46:38 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.106%",
-      "link": "https://www.yna.co.kr/view/AKR20260129158300008",
-      "pubDate": "Thu, 29 Jan 2026 16:40:16 +0900"
-    },
-    {
-      "title": "李대통령 \"증권거래소 백화점, 썩은상품 없어야\"…시장개혁 독려",
-      "link": "https://www.yna.co.kr/view/AKR20260129156300001",
-      "pubDate": "Thu, 29 Jan 2026 16:39:11 +0900"
     }
   ]
 }
