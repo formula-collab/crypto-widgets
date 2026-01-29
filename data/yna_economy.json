@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769675586,
+  "updated_at_unix": 1769679069,
   "items": [
+    {
+      "title": "\"30조 추산\" 삼성생명 유배당계약자 몫 '보험부채 0원' 공시 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260129162500002",
+      "pubDate": "Thu, 29 Jan 2026 18:16:35 +0900"
+    },
+    {
+      "title": "CSA 코스믹 \"피엘오조합 주식 73억원에 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260129176500008",
+      "pubDate": "Thu, 29 Jan 2026 18:03:55 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260129173100011",
+      "pubDate": "Thu, 29 Jan 2026 18:00:00 +0900"
+    },
+    {
+      "title": "LS전선, 계열사 LS에코첨단소재 주식 701억원에 추가취득",
+      "link": "https://www.yna.co.kr/view/AKR20260129174800008",
+      "pubDate": "Thu, 29 Jan 2026 17:52:31 +0900"
+    },
+    {
+      "title": "강원도, 업무보고 첫 생중계…도청 홈페이지서 실시간 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260129173300062",
+      "pubDate": "Thu, 29 Jan 2026 17:50:08 +0900"
+    },
+    {
+      "title": "'하도급 대금 지급보증 의무화' 법률 개정안 국회 본회의 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260129174300003",
+      "pubDate": "Thu, 29 Jan 2026 17:43:22 +0900"
+    },
+    {
+      "title": "경찰, 쿠팡서 김병기 前보좌진 인사 불이익 관련 자료 확보(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260129066953004",
+      "pubDate": "Thu, 29 Jan 2026 17:42:50 +0900"
+    },
+    {
+      "title": "국민성장펀드 1호 투자처로 '신안우이 해상풍력사업' 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260129093100002",
+      "pubDate": "Thu, 29 Jan 2026 17:42:33 +0900"
+    },
+    {
+      "title": "업스테이지, 포털 다음 인수한다…카카오 지분 맞교환(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260129169051017",
+      "pubDate": "Thu, 29 Jan 2026 17:40:24 +0900"
+    },
+    {
+      "title": "[게시판] 대구농협, 대구보훈청에 우리 쌀 100포 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260129173400053",
+      "pubDate": "Thu, 29 Jan 2026 17:40:15 +0900"
+    },
     {
       "title": "화성시, 특별보좌관 6명 위촉…정책 전문성 강화",
       "link": "https://www.yna.co.kr/view/AKR20260129171300061",
@@ -102,56 +152,6 @@
       "title": "李대통령 \"증권거래소 백화점, 썩은상품 없어야\"…시장개혁 독려",
       "link": "https://www.yna.co.kr/view/AKR20260129156300001",
       "pubDate": "Thu, 29 Jan 2026 16:39:11 +0900"
-    },
-    {
-      "title": "농산물 도매법인 실적부진 땐 지정취소…농안법 개정안 국회통과",
-      "link": "https://www.yna.co.kr/view/AKR20260129153100030",
-      "pubDate": "Thu, 29 Jan 2026 16:39:07 +0900"
-    },
-    {
-      "title": "강원도, 국방경제 보고회 개최…미래 먹거리로 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260129153300062",
-      "pubDate": "Thu, 29 Jan 2026 16:36:23 +0900"
-    },
-    {
-      "title": "한경협, 퓨처 리더스 캠프…\"청년의 상상에서 위대한 기업 탄생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129153900003",
-      "pubDate": "Thu, 29 Jan 2026 16:36:12 +0900"
-    },
-    {
-      "title": "[게시판] HDC현산, 대한노인회 충주시지회에 쌀 5.6t 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260129154800003",
-      "pubDate": "Thu, 29 Jan 2026 16:35:40 +0900"
-    },
-    {
-      "title": "'연일 불장' 코스닥, 올해 수익률 26%로 껑충…글로벌 1위 등극(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129091051008",
-      "pubDate": "Thu, 29 Jan 2026 16:33:00 +0900"
-    },
-    {
-      "title": "'육아휴직' 앞으로 1∼2주 단위로도 사용…법률안 국회 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260129144300530",
-      "pubDate": "Thu, 29 Jan 2026 16:32:46 +0900"
-    },
-    {
-      "title": "충북농기원, 농식품 특허기술 43건 민간 이전 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260129155300064",
-      "pubDate": "Thu, 29 Jan 2026 16:31:01 +0900"
-    },
-    {
-      "title": "[특징주] 코스피 끌고 코스닥 밀고…불장에 증권주도 '불기둥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129128651008",
-      "pubDate": "Thu, 29 Jan 2026 16:27:09 +0900"
-    },
-    {
-      "title": "환율, 외국인 주식 매도 속 소폭 반등…1,426.3원",
-      "link": "https://www.yna.co.kr/view/AKR20260129148200002",
-      "pubDate": "Thu, 29 Jan 2026 16:19:26 +0900"
-    },
-    {
-      "title": "현대건설 \"압구정3구역에 화재 대응 주차 로봇 도입 제안할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129151200003",
-      "pubDate": "Thu, 29 Jan 2026 16:13:42 +0900"
     }
   ]
 }
