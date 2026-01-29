@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769728558,
+  "updated_at_unix": 1769730369,
   "items": [
+    {
+      "title": "11번가, 신규·휴면 고객에 '11만원 쿠폰팩' 또 쏜다",
+      "link": "https://www.yna.co.kr/view/AKR20260130028400030",
+      "pubDate": "Fri, 30 Jan 2026 08:36:19 +0900"
+    },
+    {
+      "title": "한투증권 \"2월 크레딧 채권 시장서 연초효과 재개될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130027800008",
+      "pubDate": "Fri, 30 Jan 2026 08:35:25 +0900"
+    },
+    {
+      "title": "[게시판] 강태영 NH농협은행장, 청소년 도박 근절 캠페인 동참",
+      "link": "https://www.yna.co.kr/view/AKR20260130027500002",
+      "pubDate": "Fri, 30 Jan 2026 08:34:32 +0900"
+    },
+    {
+      "title": "한화증권 \"삼양식품, 올해 실적 성장 기대…목표가 190만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130026400008",
+      "pubDate": "Fri, 30 Jan 2026 08:29:24 +0900"
+    },
+    {
+      "title": "삼성전자, A4 크기 디지털 사이니지 '컬러 이페이퍼' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260130026300003",
+      "pubDate": "Fri, 30 Jan 2026 08:25:17 +0900"
+    },
+    {
+      "title": "G마켓, 보령축제관광재단과 손잡고 해외관광객 유치 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260130025600030",
+      "pubDate": "Fri, 30 Jan 2026 08:21:58 +0900"
+    },
+    {
+      "title": "\"삼전 23만원·하닉 130만원\"…삼성증권, 사흘만 목표가 또 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260130024700008",
+      "pubDate": "Fri, 30 Jan 2026 08:17:11 +0900"
+    },
+    {
+      "title": "모두의주차장, '공항 주차 사전예매' 서비스 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260130024800030",
+      "pubDate": "Fri, 30 Jan 2026 08:16:56 +0900"
+    },
+    {
+      "title": "靑, 환율관찰대상국 재지정에 \"美 재무부와 긴밀 소통\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130024500001",
+      "pubDate": "Fri, 30 Jan 2026 08:15:24 +0900"
+    },
+    {
+      "title": "중진공, 기업인력애로센터 활용 취업지원 참가기업·구직자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260130023900030",
+      "pubDate": "Fri, 30 Jan 2026 08:11:24 +0900"
+    },
+    {
+      "title": "부산시, 우리 동네 폐의약품 안심 수거단 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260130021000051",
+      "pubDate": "Fri, 30 Jan 2026 08:06:10 +0900"
+    },
     {
       "title": "[마켓뷰] 반도체 실적 소화하며 5,200선 뚫은 코스피…'불장' 이어지나",
       "link": "https://www.yna.co.kr/view/AKR20260130021900008",
@@ -97,61 +152,6 @@
       "title": "[이코노워치] \"정치 멀리하라\"…물러나는 파월의 조언",
       "link": "https://www.yna.co.kr/view/AKR20260129180900546",
       "pubDate": "Fri, 30 Jan 2026 06:00:00 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 이란 근해에 집결하는 미군…WTI 3.5%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260130006800009",
-      "pubDate": "Fri, 30 Jan 2026 05:28:16 +0900"
-    },
-    {
-      "title": "트럼프 \"새 연준 의장 내주 발표…미국 금리 가장 낮아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130003100071",
-      "pubDate": "Fri, 30 Jan 2026 02:40:41 +0900"
-    },
-    {
-      "title": "달러-원, 야간서 위험자산 회피에 상승폭 확대…1,434원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260130003000002",
-      "pubDate": "Fri, 30 Jan 2026 02:28:30 +0900"
-    },
-    {
-      "title": "[재산공개] 구윤철 부총리 47억8천만원…주병기 공정위원장 25억7천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260129159500002",
-      "pubDate": "Fri, 30 Jan 2026 00:00:01 +0900"
-    },
-    {
-      "title": "[재산공개] 이찬진 금감원장 385억원…이억원 금융위원장 20억원",
-      "link": "https://www.yna.co.kr/view/AKR20260129155200002",
-      "pubDate": "Fri, 30 Jan 2026 00:00:01 +0900"
-    },
-    {
-      "title": "고위공직 362명 재산공개…노재헌 주중대사 530억여원 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260129172100001",
-      "pubDate": "Fri, 30 Jan 2026 00:00:00 +0900"
-    },
-    {
-      "title": "트럼프 \"타국들은 현금인출기…내 펜 일획에 美로 수조원 유입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129191800071",
-      "pubDate": "Thu, 29 Jan 2026 23:07:39 +0900"
-    },
-    {
-      "title": "올해 공공기관 342개로…통계진흥원 등 11곳 신규 지정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260129181151002",
-      "pubDate": "Thu, 29 Jan 2026 19:54:31 +0900"
-    },
-    {
-      "title": "日 건설사 쿠마가이구미 강제동원 피해자 손배소 승소 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260129184200004",
-      "pubDate": "Thu, 29 Jan 2026 19:28:05 +0900"
-    },
-    {
-      "title": "한숨 돌린 금감원…특사경·공공기관 지정 논란서 모두 '판정승'",
-      "link": "https://www.yna.co.kr/view/AKR20260129182600002",
-      "pubDate": "Thu, 29 Jan 2026 19:22:11 +0900"
-    },
-    {
-      "title": "여한구 통상본부장 방미 \"'트럼프 관세' 합리적 해결책 찾겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260129183600003",
-      "pubDate": "Thu, 29 Jan 2026 19:18:19 +0900"
     }
   ]
 }
