@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769723246,
+  "updated_at_unix": 1769724973,
   "items": [
+    {
+      "title": "동아프리카 올해 5.8% 성장 전망…공항 등 인프라 투자 효과",
+      "link": "https://www.yna.co.kr/view/AKR20260129135600898",
+      "pubDate": "Fri, 30 Jan 2026 07:01:01 +0900"
+    },
     {
       "title": "美재무부, 한국 등 10개국 환율 관찰 대상국으로 지정",
       "link": "https://www.yna.co.kr/view/AKR20260130010400071",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260129173100011",
       "pubDate": "Thu, 29 Jan 2026 18:00:00 +0900"
-    },
-    {
-      "title": "LS전선, 계열사 LS에코첨단소재 주식 701억원에 추가취득",
-      "link": "https://www.yna.co.kr/view/AKR20260129174800008",
-      "pubDate": "Thu, 29 Jan 2026 17:52:31 +0900"
     }
   ]
 }
