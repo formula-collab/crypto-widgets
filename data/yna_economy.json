@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769792674,
+  "updated_at_unix": 1769795772,
   "items": [
+    {
+      "title": "김정관-러트닉 관세협의 결론없이 종결 \"아직 추가 논의 필요\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260130170952071",
+      "pubDate": "Sat, 31 Jan 2026 02:35:08 +0900"
+    },
+    {
+      "title": "달러-원, 연준 의장 '매파' 워시 지명에 상승폭 확대…1,433.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260131003400002",
+      "pubDate": "Sat, 31 Jan 2026 02:34:20 +0900"
+    },
     {
       "title": "새 의장 워시가 이끌 美연준, 6월 이후 금리인하 재개 가능성(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260130171751072",
@@ -142,16 +152,6 @@
       "title": "피치, 한국 국가신용등급 'AA-'·'안정적 전망' 유지",
       "link": "https://www.yna.co.kr/view/AKR20260130137400008",
       "pubDate": "Fri, 30 Jan 2026 16:36:36 +0900"
-    },
-    {
-      "title": "[쇼츠] 美 하이마스 제친 '천무'…K-방산 또 해냈다",
-      "link": "https://www.yna.co.kr/view/AKR20260130135800704",
-      "pubDate": "Fri, 30 Jan 2026 16:31:00 +0900"
-    },
-    {
-      "title": "주건협 \"주택 정책 수도권·지방으로 이원화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130133000003",
-      "pubDate": "Fri, 30 Jan 2026 16:27:20 +0900"
     }
   ]
 }
