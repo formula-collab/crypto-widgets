@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769802620,
+  "updated_at_unix": 1769804211,
   "items": [
+    {
+      "title": "인천 강화군서 올해 첫 구제역 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260131005300030",
+      "pubDate": "Sat, 31 Jan 2026 05:01:59 +0900"
+    },
     {
       "title": "트럼프 \"연준 의장 후보 워시, 금리인하 원해…약속은 안했다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260131003751071",
@@ -147,11 +152,6 @@
       "title": "\"호구인가\" vs \"발전 기대\"…주택공급안 놓고 과천 '시끌'",
       "link": "https://www.yna.co.kr/view/AKR20260130135200061",
       "pubDate": "Fri, 30 Jan 2026 16:46:36 +0900"
-    },
-    {
-      "title": "李대통령 \"실패없는 인생 위험…과감히 도전하는 사회 만들어야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130137700001",
-      "pubDate": "Fri, 30 Jan 2026 16:44:53 +0900"
     }
   ]
 }
