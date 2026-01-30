@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769806318,
+  "updated_at_unix": 1769807894,
   "items": [
+    {
+      "title": "[뉴욕유가] 케빈 워시 등판과 이란 공습 가능성…WTI 0.3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260131007200009",
+      "pubDate": "Sat, 31 Jan 2026 06:02:21 +0900"
+    },
+    {
+      "title": "[삶] \"집 팔아 아들 줬더니…아들집 냉장고의 감 하나 먹기 힘드네요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130074700546",
+      "pubDate": "Sat, 31 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "퇴직연금 20년의 실패…\"기금화로 노후 기둥 다시 세워야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130068900530",
+      "pubDate": "Sat, 31 Jan 2026 06:01:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 8주 연속 하락…\"다음 주 경유는 오를 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130149200003",
+      "pubDate": "Sat, 31 Jan 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 전국 1천200가구 분양…\"설 연휴까지 숨 고르기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130149600003",
+      "pubDate": "Sat, 31 Jan 2026 06:00:01 +0900"
+    },
     {
       "title": "인천 강화군서 구제역 확인…국내서 9개월 만에 발생(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260131005351030",
@@ -127,31 +152,6 @@
       "title": "한은 총재 매파발언·추경 재료에 국고채 금리 일제히 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260130138451008",
       "pubDate": "Fri, 30 Jan 2026 17:16:51 +0900"
-    },
-    {
-      "title": "강원도립대 라이즈사업단, 속초서 AI 활용 창업역량 강화 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260130146300062",
-      "pubDate": "Fri, 30 Jan 2026 17:15:57 +0900"
-    },
-    {
-      "title": "\"트럼프, 차기 연준 의장에 워시 지명 준비중\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260130080353009",
-      "pubDate": "Fri, 30 Jan 2026 17:12:57 +0900"
-    },
-    {
-      "title": "피치, 한국 신용등급 'AA-' 유지…잠재성장률 2.1→1.9% 하향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130137451008",
-      "pubDate": "Fri, 30 Jan 2026 17:02:56 +0900"
-    },
-    {
-      "title": "SKT, '해킹 피해자에 10만원씩 보상' 조정안 불수용",
-      "link": "https://www.yna.co.kr/view/AKR20260130141800017",
-      "pubDate": "Fri, 30 Jan 2026 17:00:00 +0900"
-    },
-    {
-      "title": "KT&G, 임직원 기부 '상상펀드' 누적 500억 원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260130139900030",
-      "pubDate": "Fri, 30 Jan 2026 16:46:43 +0900"
     }
   ]
 }
