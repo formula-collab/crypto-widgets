@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769785228,
+  "updated_at_unix": 1769788529,
   "items": [
+    {
+      "title": "트럼프, 연준 의장에 '후원자 사위' 워시 지명…금리인하 지지(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260130167552009",
+      "pubDate": "Sat, 31 Jan 2026 00:23:16 +0900"
+    },
     {
       "title": "새 수장 맞는 美연준, 6월 이후 금리인하 재개 전망",
       "link": "https://www.yna.co.kr/view/AKR20260130171700072",
@@ -147,11 +152,6 @@
       "title": "과천시 \"주택공급안 수용 불가…일방통행식 행정 멈춰야\"",
       "link": "https://www.yna.co.kr/view/AKR20260130131200061",
       "pubDate": "Fri, 30 Jan 2026 16:25:11 +0900"
-    },
-    {
-      "title": "[영상] 노르웨이 '천무' 도입 확정…K-방산 또 해냈다",
-      "link": "https://www.yna.co.kr/view/AKR20260130131900704",
-      "pubDate": "Fri, 30 Jan 2026 16:22:05 +0900"
     }
   ]
 }
