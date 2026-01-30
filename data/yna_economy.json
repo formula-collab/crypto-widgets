@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769804211,
+  "updated_at_unix": 1769806318,
   "items": [
+    {
+      "title": "인천 강화군서 구제역 확인…국내서 9개월 만에 발생(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260131005351030",
+      "pubDate": "Sat, 31 Jan 2026 05:15:44 +0900"
+    },
     {
       "title": "인천 강화군서 올해 첫 구제역 발생",
       "link": "https://www.yna.co.kr/view/AKR20260131005300030",
@@ -147,11 +152,6 @@
       "title": "KT&G, 임직원 기부 '상상펀드' 누적 500억 원 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260130139900030",
       "pubDate": "Fri, 30 Jan 2026 16:46:43 +0900"
-    },
-    {
-      "title": "\"호구인가\" vs \"발전 기대\"…주택공급안 놓고 과천 '시끌'",
-      "link": "https://www.yna.co.kr/view/AKR20260130135200061",
-      "pubDate": "Fri, 30 Jan 2026 16:46:36 +0900"
     }
   ]
 }
