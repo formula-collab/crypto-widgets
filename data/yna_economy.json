@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769763877,
+  "updated_at_unix": 1769767185,
   "items": [
+    {
+      "title": "서울 자치구들, 정부 주택공급 대책에 \"일방적 발표\" 반발",
+      "link": "https://www.yna.co.kr/view/AKR20260130156800004",
+      "pubDate": "Fri, 30 Jan 2026 18:27:26 +0900"
+    },
+    {
+      "title": "소비자원, SKT 개인정보 유출 피해 보상 소송 지원 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260130155800030",
+      "pubDate": "Fri, 30 Jan 2026 18:16:42 +0900"
+    },
+    {
+      "title": "강원 고성군, 체육시설 헐고 호텔 조성 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260130149800062",
+      "pubDate": "Fri, 30 Jan 2026 18:04:07 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260130145600011",
@@ -137,21 +152,6 @@
       "title": "[특징주] SK하이닉스, 나흘째 올라 역대 첫 '90만닉스' 달성(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260130043351008",
       "pubDate": "Fri, 30 Jan 2026 15:46:23 +0900"
-    },
-    {
-      "title": "환율, 외국인 주식 매도에 13.2원 상승…1,439.5원",
-      "link": "https://www.yna.co.kr/view/AKR20260130039151002",
-      "pubDate": "Fri, 30 Jan 2026 15:44:45 +0900"
-    },
-    {
-      "title": "\"트럼프, 차기 연준 의장에 워시 지명 준비중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130080351009",
-      "pubDate": "Fri, 30 Jan 2026 15:41:08 +0900"
-    },
-    {
-      "title": "'롤러코스터' 코스피, 5,220대 강보합 마감…코스닥은 1.3%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260130120500008",
-      "pubDate": "Fri, 30 Jan 2026 15:41:04 +0900"
     }
   ]
 }
