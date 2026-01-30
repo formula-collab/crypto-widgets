@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769813368,
+  "updated_at_unix": 1769814945,
   "items": [
+    {
+      "title": "부산 아파트 전셋값 상승폭 커져…매매가도 14주째 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260130072900051",
+      "pubDate": "Sat, 31 Jan 2026 08:00:09 +0900"
+    },
+    {
+      "title": "[줌in제주] 제주감귤, 품종·생산지·재배법 따라 이름도 맛도 각양각색",
+      "link": "https://www.yna.co.kr/view/AKR20260129116500056",
+      "pubDate": "Sat, 31 Jan 2026 08:00:08 +0900"
+    },
     {
       "title": "[신상잇슈] 삼립 '두바이st 떠먹케'·오리온 '핫브레이크 쫀득쿠키바'",
       "link": "https://www.yna.co.kr/view/AKR20260130049200030",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260130145600011",
       "pubDate": "Fri, 30 Jan 2026 18:00:01 +0900"
-    },
-    {
-      "title": "美, '日금융긴축 요구' 환율보고서 문구 삭제…日언론 \"상황 변화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130145500073",
-      "pubDate": "Fri, 30 Jan 2026 17:33:17 +0900"
-    },
-    {
-      "title": "정부, '창업프로젝트' 추진…테크·로컬 인재 5천명 발굴(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130096351030",
-      "pubDate": "Fri, 30 Jan 2026 17:33:13 +0900"
     }
   ]
 }
