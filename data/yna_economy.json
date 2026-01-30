@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769801043,
+  "updated_at_unix": 1769802620,
   "items": [
+    {
+      "title": "트럼프 \"연준 의장 후보 워시, 금리인하 원해…약속은 안했다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260131003751071",
+      "pubDate": "Sat, 31 Jan 2026 04:42:02 +0900"
+    },
     {
       "title": "트럼프 \"연준의장후보 워시는 금리인하 원해…인하약속은 안했다\"",
       "link": "https://www.yna.co.kr/view/AKR20260131003700071",
@@ -147,11 +152,6 @@
       "title": "李대통령 \"실패없는 인생 위험…과감히 도전하는 사회 만들어야\"",
       "link": "https://www.yna.co.kr/view/AKR20260130137700001",
       "pubDate": "Fri, 30 Jan 2026 16:44:53 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.138%",
-      "link": "https://www.yna.co.kr/view/AKR20260130138400008",
-      "pubDate": "Fri, 30 Jan 2026 16:42:04 +0900"
     }
   ]
 }
