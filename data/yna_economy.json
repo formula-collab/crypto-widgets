@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769749394,
+  "updated_at_unix": 1769753114,
   "items": [
+    {
+      "title": "농식품부 '농협 개혁 추진단' 출범…'금품선거 근절' 등 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260130065000030",
+      "pubDate": "Fri, 30 Jan 2026 15:00:01 +0900"
+    },
+    {
+      "title": "기획처 \"장애인 고용지원 예산 1조원, 상반기 70% 집행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130108000002",
+      "pubDate": "Fri, 30 Jan 2026 15:00:01 +0900"
+    },
+    {
+      "title": "평택시, 계층별 일자리 3개 사업 참여자 60명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260130109200061",
+      "pubDate": "Fri, 30 Jan 2026 14:57:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260130100800011",
+      "pubDate": "Fri, 30 Jan 2026 14:39:15 +0900"
+    },
+    {
+      "title": "정부, '창업프로젝트' 추진…테크·로컬 인재 5천명 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260130096300030",
+      "pubDate": "Fri, 30 Jan 2026 14:31:56 +0900"
+    },
+    {
+      "title": "기획처·문체부, 예술의전당 현장간담회…\"장기적 안목 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130095500002",
+      "pubDate": "Fri, 30 Jan 2026 14:30:01 +0900"
+    },
+    {
+      "title": "[게시판] 기보, 4개 바이오 벤처기업 'IP-밸류 강소기업' 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260130101200051",
+      "pubDate": "Fri, 30 Jan 2026 14:18:48 +0900"
+    },
+    {
+      "title": "[안양소식] 소상공인에 150억원 규모 특례보증·이자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260130101700061",
+      "pubDate": "Fri, 30 Jan 2026 14:17:36 +0900"
+    },
+    {
+      "title": "게임 개발사 '111퍼센트' 제주 한림읍에 오피스 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260130102200056",
+      "pubDate": "Fri, 30 Jan 2026 14:17:32 +0900"
+    },
+    {
+      "title": "시흥시, 상반기 예산 5천460억원 신속 집행…민생경제 회복 총력",
+      "link": "https://www.yna.co.kr/view/AKR20260130101400061",
+      "pubDate": "Fri, 30 Jan 2026 14:15:36 +0900"
+    },
+    {
+      "title": "전북상공협 \"제3금융중심지 지정 신청·금융그룹 투자 환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130098900055",
+      "pubDate": "Fri, 30 Jan 2026 14:15:28 +0900"
+    },
+    {
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.yna.co.kr/view/AKR20260130098800030",
+      "pubDate": "Fri, 30 Jan 2026 14:11:03 +0900"
+    },
+    {
+      "title": "[인사] 공정거래위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260130099300002",
+      "pubDate": "Fri, 30 Jan 2026 14:10:21 +0900"
+    },
     {
       "title": "증시 불장에 '출퇴근길' 주식거래 급증…시장비중 20% 첫 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260130090600008",
@@ -87,71 +152,6 @@
       "title": "광명시, '오염물질 15배 초과 방류' 포스코이앤씨 현장 또 적발",
       "link": "https://www.yna.co.kr/view/AKR20260130075500061",
       "pubDate": "Fri, 30 Jan 2026 11:24:19 +0900"
-    },
-    {
-      "title": "노동부-제주도, '근로감독 협업체계 마련' 협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260130074800530",
-      "pubDate": "Fri, 30 Jan 2026 11:20:27 +0900"
-    },
-    {
-      "title": "신한은행, 신세계백화점과 협업한 자산관리 서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260130075200002",
-      "pubDate": "Fri, 30 Jan 2026 11:14:52 +0900"
-    },
-    {
-      "title": "코스피, 개인 매수세에 상승폭 확대…장중 한때 5,300선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260130074200008",
-      "pubDate": "Fri, 30 Jan 2026 11:14:07 +0900"
-    },
-    {
-      "title": "국민의힘, 1·29 부동산 공급대책에 \"핵심 빠져 또 실패 가능성\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130040551001",
-      "pubDate": "Fri, 30 Jan 2026 11:07:12 +0900"
-    },
-    {
-      "title": "[동포의 창] \"세계한상대회, 정부 주도에서 민간 자율로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130071800371",
-      "pubDate": "Fri, 30 Jan 2026 11:04:07 +0900"
-    },
-    {
-      "title": "반도체·조선 날고 건설 추락…작년 산업생산 증가폭, 5년만에 최저(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260130022352002",
-      "pubDate": "Fri, 30 Jan 2026 11:00:19 +0900"
-    },
-    {
-      "title": "화성시, 동탄트램 재입찰 착수…입찰조건·사업비 등 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260130070900061",
-      "pubDate": "Fri, 30 Jan 2026 11:00:08 +0900"
-    },
-    {
-      "title": "기획처, 국제 재정협력 시동…주요국 정부·국제기구에 서한",
-      "link": "https://www.yna.co.kr/view/AKR20260130065500002",
-      "pubDate": "Fri, 30 Jan 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[인사] 한국관광공사",
-      "link": "https://www.yna.co.kr/view/AKR20260130067900030",
-      "pubDate": "Fri, 30 Jan 2026 10:56:59 +0900"
-    },
-    {
-      "title": "트럼프 \"30일 새 연준의장 후보 발표…금융계 모두가 아는 인물\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130046151071",
-      "pubDate": "Fri, 30 Jan 2026 10:56:28 +0900"
-    },
-    {
-      "title": "\"HBM 효과\"…한국기업평가, SK하이닉스 신용등급 'AA+'로 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260130067600003",
-      "pubDate": "Fri, 30 Jan 2026 10:54:39 +0900"
-    },
-    {
-      "title": "대전시 내달 6일 기업지원사업 설명회…대전상장기업지수 공표",
-      "link": "https://www.yna.co.kr/view/AKR20260130067500063",
-      "pubDate": "Fri, 30 Jan 2026 10:54:33 +0900"
-    },
-    {
-      "title": "서울시, 정부 '태릉CC 주택공급'에 \"문화유산 보존지역 중첩\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130065100004",
-      "pubDate": "Fri, 30 Jan 2026 10:53:49 +0900"
     }
   ]
 }
