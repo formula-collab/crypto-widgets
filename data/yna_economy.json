@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769790358,
+  "updated_at_unix": 1769792674,
   "items": [
+    {
+      "title": "새 의장 워시가 이끌 美연준, 6월 이후 금리인하 재개 가능성(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260130171751072",
+      "pubDate": "Sat, 31 Jan 2026 01:37:43 +0900"
+    },
     {
       "title": "트럼프, 연준 의장에 '후원자 사위' 워시 지명…금리인하 지지(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260130167552009",
@@ -147,11 +152,6 @@
       "title": "주건협 \"주택 정책 수도권·지방으로 이원화해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260130133000003",
       "pubDate": "Fri, 30 Jan 2026 16:27:20 +0900"
-    },
-    {
-      "title": "과천시 \"주택공급안 수용 불가…일방통행식 행정 멈춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130131200061",
-      "pubDate": "Fri, 30 Jan 2026 16:25:11 +0900"
     }
   ]
 }
