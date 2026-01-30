@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769795772,
+  "updated_at_unix": 1769797861,
   "items": [
+    {
+      "title": "트럼프 \"연준의장후보 워시는 금리인하 원해…인하약속은 안했다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260131003700071",
+      "pubDate": "Sat, 31 Jan 2026 03:07:55 +0900"
+    },
     {
       "title": "김정관-러트닉 관세협의 결론없이 종결 \"아직 추가 논의 필요\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260130170952071",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.138%",
       "link": "https://www.yna.co.kr/view/AKR20260130138400008",
       "pubDate": "Fri, 30 Jan 2026 16:42:04 +0900"
-    },
-    {
-      "title": "피치, 한국 국가신용등급 'AA-'·'안정적 전망' 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260130137400008",
-      "pubDate": "Fri, 30 Jan 2026 16:36:36 +0900"
     }
   ]
 }
