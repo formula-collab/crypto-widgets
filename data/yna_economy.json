@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769759758,
+  "updated_at_unix": 1769761685,
   "items": [
+    {
+      "title": "한은 총재 매파발언·추경 재료에 국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260130138451008",
+      "pubDate": "Fri, 30 Jan 2026 17:16:51 +0900"
+    },
+    {
+      "title": "강원도립대 라이즈사업단, 속초서 AI 활용 창업역량 강화 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260130146300062",
+      "pubDate": "Fri, 30 Jan 2026 17:15:57 +0900"
+    },
+    {
+      "title": "\"트럼프, 차기 연준 의장에 워시 지명 준비중\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260130080353009",
+      "pubDate": "Fri, 30 Jan 2026 17:12:57 +0900"
+    },
+    {
+      "title": "피치, 한국 신용등급 'AA-' 유지…잠재성장률 2.1→1.9% 하향(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260130137451008",
+      "pubDate": "Fri, 30 Jan 2026 17:02:56 +0900"
+    },
+    {
+      "title": "SKT, '해킹 피해자에 10만원씩 보상' 조정안 불수용",
+      "link": "https://www.yna.co.kr/view/AKR20260130141800017",
+      "pubDate": "Fri, 30 Jan 2026 17:00:00 +0900"
+    },
     {
       "title": "KT&G, 임직원 기부 '상상펀드' 누적 500억 원 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260130139900030",
@@ -127,31 +152,6 @@
       "title": "대한상의 박동민 전무, 규제합리화 유공 동백장 수훈",
       "link": "https://www.yna.co.kr/view/AKR20260130115500003",
       "pubDate": "Fri, 30 Jan 2026 15:17:05 +0900"
-    },
-    {
-      "title": "연이틀 '아틀라스' 거론 李대통령…\"AI로봇 대응, 방법은 창업\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130112500001",
-      "pubDate": "Fri, 30 Jan 2026 15:15:09 +0900"
-    },
-    {
-      "title": "[게시판] 한수원, 창업·벤처기업 지원사업…수출·특허등록 등 '성과'",
-      "link": "https://www.yna.co.kr/view/AKR20260130113500003",
-      "pubDate": "Fri, 30 Jan 2026 15:12:58 +0900"
-    },
-    {
-      "title": "안산 기업 58% \"올해 설 경기 작년보다 악화…상여금 줄여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130112100061",
-      "pubDate": "Fri, 30 Jan 2026 15:10:00 +0900"
-    },
-    {
-      "title": "농식품부 '농협 개혁 추진단' 출범…'금품선거 근절' 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260130065000030",
-      "pubDate": "Fri, 30 Jan 2026 15:00:01 +0900"
-    },
-    {
-      "title": "기획처 \"장애인 고용지원 예산 1조원, 상반기 70% 집행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130108000002",
-      "pubDate": "Fri, 30 Jan 2026 15:00:01 +0900"
     }
   ]
 }
