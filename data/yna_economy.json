@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769809555,
+  "updated_at_unix": 1769811190,
   "items": [
+    {
+      "title": "[신상잇슈] 삼립 '두바이st 떠먹케'·오리온 '핫브레이크 쫀득쿠키바'",
+      "link": "https://www.yna.co.kr/view/AKR20260130049200030",
+      "pubDate": "Sat, 31 Jan 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[이번주뭘살까] 신학기 가방부터 황제광어까지…설 앞둔 유통가 분주",
+      "link": "https://www.yna.co.kr/view/AKR20260130046800030",
+      "pubDate": "Sat, 31 Jan 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[금주핫템] 신세계인터내셔날 '연작 전초세트'·한샘 '플로 식탁'",
+      "link": "https://www.yna.co.kr/view/AKR20260130032100030",
+      "pubDate": "Sat, 31 Jan 2026 07:00:02 +0900"
+    },
     {
       "title": "[뉴욕유가] 케빈 워시 등판과 이란 공습 가능성…WTI 0.3%↓",
       "link": "https://www.yna.co.kr/view/AKR20260131007200009",
@@ -137,21 +152,6 @@
       "title": "정부, '창업프로젝트' 추진…테크·로컬 인재 5천명 발굴(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260130096351030",
       "pubDate": "Fri, 30 Jan 2026 17:33:13 +0900"
-    },
-    {
-      "title": "작년 체불 노동자수 3년만에 감소…청산율 90%로 역대 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130070251530",
-      "pubDate": "Fri, 30 Jan 2026 17:32:55 +0900"
-    },
-    {
-      "title": "충북도 지역경제 활성화 대책 회의…정책방향 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260130147600064",
-      "pubDate": "Fri, 30 Jan 2026 17:25:52 +0900"
-    },
-    {
-      "title": "한은 총재 매파발언·추경 재료에 국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130138451008",
-      "pubDate": "Fri, 30 Jan 2026 17:16:51 +0900"
     }
   ]
 }
