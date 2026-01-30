@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769744260,
+  "updated_at_unix": 1769749394,
   "items": [
+    {
+      "title": "증시 불장에 '출퇴근길' 주식거래 급증…시장비중 20% 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260130090600008",
+      "pubDate": "Fri, 30 Jan 2026 13:57:19 +0900"
+    },
+    {
+      "title": "금투협 조직개편 단행…\"K자본시장 장기 성장전략 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260130089600008",
+      "pubDate": "Fri, 30 Jan 2026 13:52:28 +0900"
+    },
+    {
+      "title": "광주상의, 기업 투자 애로·제도 개선 과제 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260130091000054",
+      "pubDate": "Fri, 30 Jan 2026 13:37:34 +0900"
+    },
+    {
+      "title": "노동부-8개 지방정부, '중대재해 예방 사각지대 해소' 협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260130077200530",
+      "pubDate": "Fri, 30 Jan 2026 13:30:00 +0900"
+    },
+    {
+      "title": "구로구, 금융사들과 '금융동행' 협약…212억원대 특례보증",
+      "link": "https://www.yna.co.kr/view/AKR20260130088800004",
+      "pubDate": "Fri, 30 Jan 2026 13:29:09 +0900"
+    },
     {
       "title": "中, 부동산 위기 촉발한 '3대 레드라인' 정책 사실상 종료",
       "link": "https://www.yna.co.kr/view/AKR20260130084100083",
@@ -127,31 +152,6 @@
       "title": "서울시, 정부 '태릉CC 주택공급'에 \"문화유산 보존지역 중첩\"",
       "link": "https://www.yna.co.kr/view/AKR20260130065100004",
       "pubDate": "Fri, 30 Jan 2026 10:53:49 +0900"
-    },
-    {
-      "title": "대구시, 설 전후 건설현장 하도급대금 체불 방지대책 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260130066900053",
-      "pubDate": "Fri, 30 Jan 2026 10:42:08 +0900"
-    },
-    {
-      "title": "광주 어린이집 보육료·필요경비 수납한도액 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260130067700054",
-      "pubDate": "Fri, 30 Jan 2026 10:42:07 +0900"
-    },
-    {
-      "title": "평창군, 그린바이오기업 성장 지원…지방소멸대응기금 12억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260130063700062",
-      "pubDate": "Fri, 30 Jan 2026 10:36:42 +0900"
-    },
-    {
-      "title": "광주 12월 건설수주 감소…전남은 민간부문 중심 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260130064500054",
-      "pubDate": "Fri, 30 Jan 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260130060000011",
-      "pubDate": "Fri, 30 Jan 2026 10:30:00 +0900"
     }
   ]
 }
