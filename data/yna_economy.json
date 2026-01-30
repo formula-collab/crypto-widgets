@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769767185,
+  "updated_at_unix": 1769769379,
   "items": [
+    {
+      "title": "'1천800억 부당대출' 섬남지역 새마을금고 직원·업자 등 재판행",
+      "link": "https://www.yna.co.kr/view/AKR20260130162900061",
+      "pubDate": "Fri, 30 Jan 2026 19:27:44 +0900"
+    },
+    {
+      "title": "콜마비앤에이치, 화장품 자회사 팔고 건기식 집중…사업 재편",
+      "link": "https://www.yna.co.kr/view/AKR20260130160900030",
+      "pubDate": "Fri, 30 Jan 2026 19:16:01 +0900"
+    },
+    {
+      "title": "대전지검, 지역주택조합 자금 유용 업무대행사 대표 등 8명 기소",
+      "link": "https://www.yna.co.kr/view/AKR20260130160300063",
+      "pubDate": "Fri, 30 Jan 2026 19:15:15 +0900"
+    },
+    {
+      "title": "LS일렉트릭, 美 배전반 공장 증설에 2천400억원 추가 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260130158700003",
+      "pubDate": "Fri, 30 Jan 2026 18:56:11 +0900"
+    },
     {
       "title": "서울 자치구들, 정부 주택공급 대책에 \"일방적 발표\" 반발",
       "link": "https://www.yna.co.kr/view/AKR20260130156800004",
@@ -132,26 +152,6 @@
       "title": "작년 체불 노동자수 3년만에 감소…청산율 90%로 역대 최고",
       "link": "https://www.yna.co.kr/view/AKR20260130070200530",
       "pubDate": "Fri, 30 Jan 2026 16:00:00 +0900"
-    },
-    {
-      "title": "사법 리스크 털어낸 함영주 \"미래 먹거리 확보에 소임 다할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130122400002",
-      "pubDate": "Fri, 30 Jan 2026 15:59:25 +0900"
-    },
-    {
-      "title": "포스코이앤씨 \"모든 신축에 자동형 전력 수요 관리 서비스\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130124300003",
-      "pubDate": "Fri, 30 Jan 2026 15:56:25 +0900"
-    },
-    {
-      "title": "하나증권, 작년 영업이익 1천665억원…전년대비 17.3%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130110600008",
-      "pubDate": "Fri, 30 Jan 2026 15:52:31 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스, 나흘째 올라 역대 첫 '90만닉스' 달성(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260130043351008",
-      "pubDate": "Fri, 30 Jan 2026 15:46:23 +0900"
     }
   ]
 }
