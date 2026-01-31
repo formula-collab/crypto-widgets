@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769901107,
+  "updated_at_unix": 1769902932,
   "items": [
+    {
+      "title": "놀유니버스, 농구 국가대표팀 원정경기 응원단 패키지 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260201010900030",
+      "pubDate": "Sun, 1 Feb 2026 08:32:16 +0900"
+    },
     {
       "title": "붕괴사고 광주 화정아이파크, 철거·재시공 끝에 내년 1월 준공",
       "link": "https://www.yna.co.kr/view/AKR20260130075700054",
@@ -147,11 +152,6 @@
       "title": "반도체 빼면 제조업 생산 뒷걸음…중기는 10년만에 최대 감소",
       "link": "https://www.yna.co.kr/view/AKR20260131037600002",
       "pubDate": "Sun, 1 Feb 2026 05:47:02 +0900"
-    },
-    {
-      "title": "먹고입는 건 줄였다…車 제외 소매판매 4년째 감소 '역대 최장'",
-      "link": "https://www.yna.co.kr/view/AKR20260131035000002",
-      "pubDate": "Sun, 1 Feb 2026 05:47:00 +0900"
     }
   ]
 }
