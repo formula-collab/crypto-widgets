@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769895664,
+  "updated_at_unix": 1769897479,
   "items": [
+    {
+      "title": "레버리지 ETF, 서학개미 붙잡나…변동성 확대 우려도",
+      "link": "https://www.yna.co.kr/view/AKR20260131032000008",
+      "pubDate": "Sun, 1 Feb 2026 07:03:01 +0900"
+    },
+    {
+      "title": "경기도, 투자유치 지원 30개사 모집…AI·바이오 분야 등 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260130153400061",
+      "pubDate": "Sun, 1 Feb 2026 07:01:03 +0900"
+    },
+    {
+      "title": "경기도, 자립준비청년도 부동산 중개보수 최대 30만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260130119800061",
+      "pubDate": "Sun, 1 Feb 2026 07:01:03 +0900"
+    },
+    {
+      "title": "'BTS 효과' 현실로…서울 도심·산업계 벌써 뜨겁다",
+      "link": "https://www.yna.co.kr/view/AKR20260131034200030",
+      "pubDate": "Sun, 1 Feb 2026 07:01:01 +0900"
+    },
+    {
+      "title": "광주은행 주택담보대출 금리 상승세…작년보다 1%P 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260130109000054",
+      "pubDate": "Sun, 1 Feb 2026 07:00:11 +0900"
+    },
+    {
+      "title": "[마켓인사이트] '파죽지세' K-증시, 상승 모멘텀 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260131023300008",
+      "pubDate": "Sun, 1 Feb 2026 07:00:11 +0900"
+    },
     {
       "title": "또 불거진 관세 불확실성…트럼프 임기 내내 반복 우려",
       "link": "https://www.yna.co.kr/view/AKR20260131031400003",
@@ -122,36 +152,6 @@
       "title": "국힘, '부동산 정상화 5천피보다 쉽다' 李대통령에 \"왜 못했나\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260131028451001",
       "pubDate": "Sat, 31 Jan 2026 17:07:28 +0900"
-    },
-    {
-      "title": "송파한양2차 재건축 시공사에 GS건설…올해 첫 정비사업 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260131037900003",
-      "pubDate": "Sat, 31 Jan 2026 17:06:27 +0900"
-    },
-    {
-      "title": "포항 해오름대교 5년만에 준공…다음달 2일 오후부터 통행 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260131034000053",
-      "pubDate": "Sat, 31 Jan 2026 15:25:02 +0900"
-    },
-    {
-      "title": "9개월만에 구제역 발생…인천·김포 긴급 예방접종(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260131005352030",
-      "pubDate": "Sat, 31 Jan 2026 13:16:05 +0900"
-    },
-    {
-      "title": "[마이더스] 법인 위험 신호 '가지급금'",
-      "link": "https://www.yna.co.kr/view/AKR20260130085100980",
-      "pubDate": "Sat, 31 Jan 2026 13:00:00 +0900"
-    },
-    {
-      "title": "국힘, '부동산 정상화 5천피보다 쉽다' 李대통령에 \"왜 못했나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260131028400001",
-      "pubDate": "Sat, 31 Jan 2026 12:04:06 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260131025600011",
-      "pubDate": "Sat, 31 Jan 2026 10:30:00 +0900"
     }
   ]
 }
