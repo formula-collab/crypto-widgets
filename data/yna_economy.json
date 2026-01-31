@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769816687,
+  "updated_at_unix": 1769821230,
   "items": [
+    {
+      "title": "'2026 함께마을여행' 울주형 관광사업, 보조사업자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260130106600057",
+      "pubDate": "Sat, 31 Jan 2026 09:10:00 +0900"
+    },
+    {
+      "title": "[IPO챗] '삼수생' 케이뱅크 이번엔 상장하나…수요 예측 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20260130119300008",
+      "pubDate": "Sat, 31 Jan 2026 09:00:02 +0900"
+    },
+    {
+      "title": "[다음주 경제] 1월 물가 얼마나 올랐나…경상수지도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260131017700002",
+      "pubDate": "Sat, 31 Jan 2026 09:00:00 +0900"
+    },
+    {
+      "title": "李대통령 \"부동산 정상화 불가능 같나…5천피보다 쉽고 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260131017600001",
+      "pubDate": "Sat, 31 Jan 2026 08:51:43 +0900"
+    },
+    {
+      "title": "고병원성 조류인플루엔자서 구제역까지…가축전염병 비상",
+      "link": "https://www.yna.co.kr/view/AKR20260131017800030",
+      "pubDate": "Sat, 31 Jan 2026 08:45:07 +0900"
+    },
     {
       "title": "부산 아파트 전셋값 상승폭 커져…매매가도 14주째 올라",
       "link": "https://www.yna.co.kr/view/AKR20260130072900051",
@@ -127,31 +152,6 @@
       "title": "대전지검, 지역주택조합 자금 유용 업무대행사 대표 등 8명 기소",
       "link": "https://www.yna.co.kr/view/AKR20260130160300063",
       "pubDate": "Fri, 30 Jan 2026 19:15:15 +0900"
-    },
-    {
-      "title": "LS일렉트릭, 美 배전반 공장 증설에 2천400억원 추가 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260130158700003",
-      "pubDate": "Fri, 30 Jan 2026 18:56:11 +0900"
-    },
-    {
-      "title": "서울 자치구들, 정부 주택공급 대책에 \"일방적 발표\" 반발",
-      "link": "https://www.yna.co.kr/view/AKR20260130156800004",
-      "pubDate": "Fri, 30 Jan 2026 18:27:26 +0900"
-    },
-    {
-      "title": "소비자원, SKT 개인정보 유출 피해 보상 소송 지원 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260130155800030",
-      "pubDate": "Fri, 30 Jan 2026 18:16:42 +0900"
-    },
-    {
-      "title": "강원 고성군, 체육시설 헐고 호텔 조성 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260130149800062",
-      "pubDate": "Fri, 30 Jan 2026 18:04:07 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260130145600011",
-      "pubDate": "Fri, 30 Jan 2026 18:00:01 +0900"
     }
   ]
 }
