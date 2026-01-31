@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769897479,
+  "updated_at_unix": 1769899527,
   "items": [
+    {
+      "title": "AI 성능 1위라는데…누굴 믿어야 하나",
+      "link": "https://www.yna.co.kr/view/AKR20260130108900017",
+      "pubDate": "Sun, 1 Feb 2026 07:33:00 +0900"
+    },
+    {
+      "title": "지난달 코스닥 기관 순매수액 역대 첫 10조 돌파…손바뀜 '활활'",
+      "link": "https://www.yna.co.kr/view/AKR20260130144300008",
+      "pubDate": "Sun, 1 Feb 2026 07:15:00 +0900"
+    },
+    {
+      "title": "역대급 상승장에 단기과열종목 '우르르'…1년전보다 32%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260130168700008",
+      "pubDate": "Sun, 1 Feb 2026 07:05:01 +0900"
+    },
     {
       "title": "레버리지 ETF, 서학개미 붙잡나…변동성 확대 우려도",
       "link": "https://www.yna.co.kr/view/AKR20260131032000008",
@@ -137,21 +152,6 @@
       "title": "'최대이익' 은행 임단협 타결…최고 350% 상여에 1시간 단축근무",
       "link": "https://www.yna.co.kr/view/AKR20260131046200002",
       "pubDate": "Sun, 1 Feb 2026 05:45:00 +0900"
-    },
-    {
-      "title": "李대통령 \"부동산 정상화 불가능같나…다주택 이번 기회에 팔라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260131017651001",
-      "pubDate": "Sun, 1 Feb 2026 01:03:02 +0900"
-    },
-    {
-      "title": "김정관, 방미 관세협의後 귀국 \"불필요한 오해는 해소됐다 생각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260131042200003",
-      "pubDate": "Sat, 31 Jan 2026 19:17:04 +0900"
-    },
-    {
-      "title": "국힘, '부동산 정상화 5천피보다 쉽다' 李대통령에 \"왜 못했나\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260131028451001",
-      "pubDate": "Sat, 31 Jan 2026 17:07:28 +0900"
     }
   ]
 }
