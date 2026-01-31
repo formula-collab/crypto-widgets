@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769874204,
+  "updated_at_unix": 1769876048,
   "items": [
+    {
+      "title": "李대통령 \"부동산 정상화 불가능같나…다주택 이번 기회에 팔라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260131017651001",
+      "pubDate": "Sun, 1 Feb 2026 01:03:02 +0900"
+    },
     {
       "title": "김정관, 방미 관세협의後 귀국 \"불필요한 오해는 해소됐다 생각\"",
       "link": "https://www.yna.co.kr/view/AKR20260131042200003",
@@ -147,11 +152,6 @@
       "title": "김정관-러트닉 관세협의 결론없이 종결 \"아직 추가 논의 필요\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260130170952071",
       "pubDate": "Sat, 31 Jan 2026 02:35:08 +0900"
-    },
-    {
-      "title": "달러-원, 연준 의장 '매파' 워시 지명에 상승폭 확대…1,433.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260131003400002",
-      "pubDate": "Sat, 31 Jan 2026 02:34:20 +0900"
     }
   ]
 }
