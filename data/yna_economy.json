@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769830373,
+  "updated_at_unix": 1769835340,
   "items": [
+    {
+      "title": "9개월만에 구제역 발생…인천·김포 긴급 예방접종(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260131005352030",
+      "pubDate": "Sat, 31 Jan 2026 13:16:05 +0900"
+    },
+    {
+      "title": "[마이더스] 법인 위험 신호 '가지급금'",
+      "link": "https://www.yna.co.kr/view/AKR20260130085100980",
+      "pubDate": "Sat, 31 Jan 2026 13:00:00 +0900"
+    },
     {
       "title": "국힘, '부동산 정상화 5천피보다 쉽다' 李대통령에 \"왜 못했나\"",
       "link": "https://www.yna.co.kr/view/AKR20260131028400001",
@@ -142,16 +152,6 @@
       "title": "트럼프 선택받은 워시…연준, '금리인하' 압박 속 독립성 시험대",
       "link": "https://www.yna.co.kr/view/AKR20260130169800071",
       "pubDate": "Fri, 30 Jan 2026 22:29:09 +0900"
-    },
-    {
-      "title": "'덜 비둘기파' 연준 의장 등장에 한은 금리 동결 길어지나",
-      "link": "https://www.yna.co.kr/view/AKR20260130167100002",
-      "pubDate": "Fri, 30 Jan 2026 21:36:46 +0900"
-    },
-    {
-      "title": "S&P \"현대차•기아, 관세 부담에도 완만한 수익성 회복 시현할듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130163500008",
-      "pubDate": "Fri, 30 Jan 2026 20:37:09 +0900"
     }
   ]
 }
