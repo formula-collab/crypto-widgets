@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769893907,
+  "updated_at_unix": 1769895664,
   "items": [
+    {
+      "title": "또 불거진 관세 불확실성…트럼프 임기 내내 반복 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260131031400003",
+      "pubDate": "Sun, 1 Feb 2026 06:30:00 +0900"
+    },
+    {
+      "title": "설 명절 앞두고 고기·계란값 부담…축산물 전반 상승세",
+      "link": "https://www.yna.co.kr/view/AKR20260131013300030",
+      "pubDate": "Sun, 1 Feb 2026 06:25:01 +0900"
+    },
+    {
+      "title": "쌀 시장격리 보류했지만 20㎏ 6만5천원 돌파…작년보다 23% 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260131030800030",
+      "pubDate": "Sun, 1 Feb 2026 06:25:01 +0900"
+    },
     {
       "title": "육아휴직 힘든 장애 근로자…고용부담금 제도와 정책 충돌 여전",
       "link": "https://www.yna.co.kr/view/AKR20260130132000530",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260131025600011",
       "pubDate": "Sat, 31 Jan 2026 10:30:00 +0900"
-    },
-    {
-      "title": "송미령 농식품 장관, 싱가포르서 K푸드 홍보 활동",
-      "link": "https://www.yna.co.kr/view/AKR20260131023100030",
-      "pubDate": "Sat, 31 Jan 2026 10:22:07 +0900"
-    },
-    {
-      "title": "'2026 함께마을여행' 울주형 관광사업, 보조사업자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260130106600057",
-      "pubDate": "Sat, 31 Jan 2026 09:10:00 +0900"
-    },
-    {
-      "title": "[IPO챗] '삼수생' 케이뱅크 이번엔 상장하나…수요 예측 돌입",
-      "link": "https://www.yna.co.kr/view/AKR20260130119300008",
-      "pubDate": "Sat, 31 Jan 2026 09:00:02 +0900"
     }
   ]
 }
