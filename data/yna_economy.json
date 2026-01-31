@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769899527,
+  "updated_at_unix": 1769901107,
   "items": [
+    {
+      "title": "붕괴사고 광주 화정아이파크, 철거·재시공 끝에 내년 1월 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260130075700054",
+      "pubDate": "Sun, 1 Feb 2026 08:00:03 +0900"
+    },
+    {
+      "title": "공급대책 관건은 '속도전'…이견 조율 등 남은 과제 산적",
+      "link": "https://www.yna.co.kr/view/AKR20260201007200003",
+      "pubDate": "Sun, 1 Feb 2026 07:47:21 +0900"
+    },
     {
       "title": "AI 성능 1위라는데…누굴 믿어야 하나",
       "link": "https://www.yna.co.kr/view/AKR20260130108900017",
@@ -142,16 +152,6 @@
       "title": "먹고입는 건 줄였다…車 제외 소매판매 4년째 감소 '역대 최장'",
       "link": "https://www.yna.co.kr/view/AKR20260131035000002",
       "pubDate": "Sun, 1 Feb 2026 05:47:00 +0900"
-    },
-    {
-      "title": "올해 초에도 은행원 약 2천400명 짐 싸…퇴직금 많게는 10억원",
-      "link": "https://www.yna.co.kr/view/AKR20260131033800002",
-      "pubDate": "Sun, 1 Feb 2026 05:45:03 +0900"
-    },
-    {
-      "title": "'최대이익' 은행 임단협 타결…최고 350% 상여에 1시간 단축근무",
-      "link": "https://www.yna.co.kr/view/AKR20260131046200002",
-      "pubDate": "Sun, 1 Feb 2026 05:45:00 +0900"
     }
   ]
 }
