@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769892322,
+  "updated_at_unix": 1769893907,
   "items": [
+    {
+      "title": "육아휴직 힘든 장애 근로자…고용부담금 제도와 정책 충돌 여전",
+      "link": "https://www.yna.co.kr/view/AKR20260130132000530",
+      "pubDate": "Sun, 1 Feb 2026 06:08:01 +0900"
+    },
+    {
+      "title": "건설업 불황에 기능인력 8% 감소…퇴직공제 가입자도 17.6% '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260131043500530",
+      "pubDate": "Sun, 1 Feb 2026 06:06:00 +0900"
+    },
+    {
+      "title": "올림픽 특수에도 우울한 국내 TV업계…메모리값 상승에 '삼중고'",
+      "link": "https://www.yna.co.kr/view/AKR20260130125000003",
+      "pubDate": "Sun, 1 Feb 2026 06:05:02 +0900"
+    },
+    {
+      "title": "與, 사법개혁법 설 이후로 순연 검토…비쟁점 민생법안 우선처리",
+      "link": "https://www.yna.co.kr/view/AKR20260131042100001",
+      "pubDate": "Sun, 1 Feb 2026 06:05:00 +0900"
+    },
+    {
+      "title": "중고령자 3명중 2명은 정년연장 찬성…희망 정년은 66.3세",
+      "link": "https://www.yna.co.kr/view/AKR20260131019300530",
+      "pubDate": "Sun, 1 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "쿠팡, 재작년 9천여억원 미국행…한국법인 순이익보다 많아",
+      "link": "https://www.yna.co.kr/view/AKR20260131030200030",
+      "pubDate": "Sun, 1 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "'끝모를 혹한기'…석화업계 현금 확보·사업 슬림화에 '사활'",
+      "link": "https://www.yna.co.kr/view/AKR20260130146100003",
+      "pubDate": "Sun, 1 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "작년 항공지연율 23.3%, 2.4%P↓…최고 지연 항공사는 에어서울",
+      "link": "https://www.yna.co.kr/view/AKR20260130163400003",
+      "pubDate": "Sun, 1 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "해외 IB들 \"미국 기준금리 인하, 6월부터 연내 두 차례\"",
+      "link": "https://www.yna.co.kr/view/AKR20260131045200002",
+      "pubDate": "Sun, 1 Feb 2026 05:59:00 +0900"
+    },
+    {
+      "title": "'오천피 훈풍' 선행지수 23년만에 최고…못 쫓아오는 동행지수",
+      "link": "https://www.yna.co.kr/view/AKR20260131039100002",
+      "pubDate": "Sun, 1 Feb 2026 05:57:01 +0900"
+    },
+    {
+      "title": "코스닥 \"썩은 상품\" 퇴출에 속도…파두 등 23곳 상폐 심사대로",
+      "link": "https://www.yna.co.kr/view/AKR20260131040400002",
+      "pubDate": "Sun, 1 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "민간서도 '30년 고정금리' 주담대 나온다…당국, 연내 도입 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260131045900002",
+      "pubDate": "Sun, 1 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "자고나면 뛰는 대출금리…우리銀 가산금리까지 최고 0.38%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260131046400002",
+      "pubDate": "Sun, 1 Feb 2026 05:49:01 +0900"
+    },
+    {
+      "title": "크루그먼 \"워시 연준의장 후보, 긴축 선호자 아냐…정치 동물\"",
+      "link": "https://www.yna.co.kr/view/AKR20260201002400072",
+      "pubDate": "Sun, 1 Feb 2026 05:47:38 +0900"
+    },
+    {
+      "title": "반도체 빼면 제조업 생산 뒷걸음…중기는 10년만에 최대 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260131037600002",
+      "pubDate": "Sun, 1 Feb 2026 05:47:02 +0900"
+    },
+    {
+      "title": "먹고입는 건 줄였다…車 제외 소매판매 4년째 감소 '역대 최장'",
+      "link": "https://www.yna.co.kr/view/AKR20260131035000002",
+      "pubDate": "Sun, 1 Feb 2026 05:47:00 +0900"
+    },
+    {
+      "title": "올해 초에도 은행원 약 2천400명 짐 싸…퇴직금 많게는 10억원",
+      "link": "https://www.yna.co.kr/view/AKR20260131033800002",
+      "pubDate": "Sun, 1 Feb 2026 05:45:03 +0900"
+    },
+    {
+      "title": "'최대이익' 은행 임단협 타결…최고 350% 상여에 1시간 단축근무",
+      "link": "https://www.yna.co.kr/view/AKR20260131046200002",
+      "pubDate": "Sun, 1 Feb 2026 05:45:00 +0900"
+    },
     {
       "title": "李대통령 \"부동산 정상화 불가능같나…다주택 이번 기회에 팔라\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260131017651001",
@@ -62,96 +152,6 @@
       "title": "[IPO챗] '삼수생' 케이뱅크 이번엔 상장하나…수요 예측 돌입",
       "link": "https://www.yna.co.kr/view/AKR20260130119300008",
       "pubDate": "Sat, 31 Jan 2026 09:00:02 +0900"
-    },
-    {
-      "title": "[다음주 경제] 1월 물가 얼마나 올랐나…경상수지도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260131017700002",
-      "pubDate": "Sat, 31 Jan 2026 09:00:00 +0900"
-    },
-    {
-      "title": "李대통령 \"부동산 정상화 불가능 같나…5천피보다 쉽고 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260131017600001",
-      "pubDate": "Sat, 31 Jan 2026 08:51:43 +0900"
-    },
-    {
-      "title": "고병원성 조류인플루엔자서 구제역까지…가축전염병 비상",
-      "link": "https://www.yna.co.kr/view/AKR20260131017800030",
-      "pubDate": "Sat, 31 Jan 2026 08:45:07 +0900"
-    },
-    {
-      "title": "부산 아파트 전셋값 상승폭 커져…매매가도 14주째 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260130072900051",
-      "pubDate": "Sat, 31 Jan 2026 08:00:09 +0900"
-    },
-    {
-      "title": "[줌in제주] 제주감귤, 품종·생산지·재배법 따라 이름도 맛도 각양각색",
-      "link": "https://www.yna.co.kr/view/AKR20260129116500056",
-      "pubDate": "Sat, 31 Jan 2026 08:00:08 +0900"
-    },
-    {
-      "title": "[신상잇슈] 삼립 '두바이st 떠먹케'·오리온 '핫브레이크 쫀득쿠키바'",
-      "link": "https://www.yna.co.kr/view/AKR20260130049200030",
-      "pubDate": "Sat, 31 Jan 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[이번주뭘살까] 신학기 가방부터 황제광어까지…설 앞둔 유통가 분주",
-      "link": "https://www.yna.co.kr/view/AKR20260130046800030",
-      "pubDate": "Sat, 31 Jan 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[금주핫템] 신세계인터내셔날 '연작 전초세트'·한샘 '플로 식탁'",
-      "link": "https://www.yna.co.kr/view/AKR20260130032100030",
-      "pubDate": "Sat, 31 Jan 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 케빈 워시 등판과 이란 공습 가능성…WTI 0.3%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260131007200009",
-      "pubDate": "Sat, 31 Jan 2026 06:02:21 +0900"
-    },
-    {
-      "title": "[삶] \"집 팔아 아들 줬더니…아들집 냉장고의 감 하나 먹기 힘드네요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130074700546",
-      "pubDate": "Sat, 31 Jan 2026 06:01:01 +0900"
-    },
-    {
-      "title": "퇴직연금 20년의 실패…\"기금화로 노후 기둥 다시 세워야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130068900530",
-      "pubDate": "Sat, 31 Jan 2026 06:01:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 8주 연속 하락…\"다음 주 경유는 오를 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130149200003",
-      "pubDate": "Sat, 31 Jan 2026 06:01:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 전국 1천200가구 분양…\"설 연휴까지 숨 고르기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130149600003",
-      "pubDate": "Sat, 31 Jan 2026 06:00:01 +0900"
-    },
-    {
-      "title": "인천 강화군서 구제역 확인…국내서 9개월 만에 발생(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260131005351030",
-      "pubDate": "Sat, 31 Jan 2026 05:15:44 +0900"
-    },
-    {
-      "title": "인천 강화군서 올해 첫 구제역 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260131005300030",
-      "pubDate": "Sat, 31 Jan 2026 05:01:59 +0900"
-    },
-    {
-      "title": "트럼프 \"연준 의장 후보 워시, 금리인하 원해…약속은 안했다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260131003751071",
-      "pubDate": "Sat, 31 Jan 2026 04:42:02 +0900"
-    },
-    {
-      "title": "트럼프 \"연준의장후보 워시는 금리인하 원해…인하약속은 안했다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260131003700071",
-      "pubDate": "Sat, 31 Jan 2026 03:07:55 +0900"
-    },
-    {
-      "title": "김정관-러트닉 관세협의 결론없이 종결 \"아직 추가 논의 필요\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260130170952071",
-      "pubDate": "Sat, 31 Jan 2026 02:35:08 +0900"
     }
   ]
 }
