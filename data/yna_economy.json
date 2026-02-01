@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769940852,
+  "updated_at_unix": 1769942991,
   "items": [
+    {
+      "title": "금감원, 홍콩 ELS 판매 증권사 5곳에 과태료 약 30억원",
+      "link": "https://www.yna.co.kr/view/AKR20260201043500002",
+      "pubDate": "Sun, 1 Feb 2026 19:44:34 +0900"
+    },
     {
       "title": "농식품부 \"대설 대비 철저한 농작물 안전관리 당부\"",
       "link": "https://www.yna.co.kr/view/AKR20260201036900030",
@@ -147,11 +152,6 @@
       "title": "지난해 서울 아파트 청약가점 평균 65.81…2020년 이래 최고",
       "link": "https://www.yna.co.kr/view/AKR20260201021800003",
       "pubDate": "Sun, 1 Feb 2026 11:08:18 +0900"
-    },
-    {
-      "title": "[게시판] 코트라 124개 해외무역관, 중소중견기업 해외마케팅 지사로 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260201022300003",
-      "pubDate": "Sun, 1 Feb 2026 11:03:55 +0900"
     }
   ]
 }
