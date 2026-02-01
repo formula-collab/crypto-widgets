@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769942991,
+  "updated_at_unix": 1769944401,
   "items": [
+    {
+      "title": "[부고] 윤자경(마스턴투자운용 전무)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260201039300505",
+      "pubDate": "Sun, 1 Feb 2026 19:56:19 +0900"
+    },
     {
       "title": "금감원, 홍콩 ELS 판매 증권사 5곳에 과태료 약 30억원",
       "link": "https://www.yna.co.kr/view/AKR20260201043500002",
@@ -147,11 +152,6 @@
       "title": "\"한국 대졸 초임, 일본·대만 웃돌아…대기업 격차는 약 1.4배\"",
       "link": "https://www.yna.co.kr/view/AKR20260201023500003",
       "pubDate": "Sun, 1 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "지난해 서울 아파트 청약가점 평균 65.81…2020년 이래 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260201021800003",
-      "pubDate": "Sun, 1 Feb 2026 11:08:18 +0900"
     }
   ]
 }
