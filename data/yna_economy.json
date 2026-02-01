@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769927746,
+  "updated_at_unix": 1769930998,
   "items": [
+    {
+      "title": "李대통령, 연일 고강도 SNS 메시지…\"부동산 투기에 나라 망해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260201032600001",
+      "pubDate": "Sun, 1 Feb 2026 16:19:28 +0900"
+    },
     {
       "title": "與, 사법개혁법 설 이후로 순연 검토…비쟁점 민생법안 우선처리(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260131042151001",
@@ -147,11 +152,6 @@
       "title": "올해 여성농업인 특수건강검진 8만명으로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260130166300030",
       "pubDate": "Sun, 1 Feb 2026 11:00:05 +0900"
-    },
-    {
-      "title": "중진공, 해외민간네트워크 통해 중소기업 해외 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260131020100030",
-      "pubDate": "Sun, 1 Feb 2026 11:00:04 +0900"
     }
   ]
 }
