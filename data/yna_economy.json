@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769986056,
+  "updated_at_unix": 1769987673,
   "items": [
+    {
+      "title": "[마켓뷰] '신고가 행진' K-증시, 미국발 한파에 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260202019400008",
+      "pubDate": "Mon, 2 Feb 2026 08:05:45 +0900"
+    },
+    {
+      "title": "부산시 \"민간금융권 육아휴직자 주담대 원금 상환 유예\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202018700051",
+      "pubDate": "Mon, 2 Feb 2026 07:50:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260202014800011",
@@ -142,16 +152,6 @@
       "title": "[게시판] KB국민카드, 30·40세대 특화 'KB YOU 프라임 카드' 출시",
       "link": "https://www.yna.co.kr/view/AKR20260201025400002",
       "pubDate": "Sun, 1 Feb 2026 12:02:50 +0900"
-    },
-    {
-      "title": "새마을금고 \"지난해 정책자금대출 4천52억원 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260201025200002",
-      "pubDate": "Sun, 1 Feb 2026 12:02:20 +0900"
-    },
-    {
-      "title": "지식재산처, 맞춤형 특허정보검색·전자출원 교육 등 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260130058800063",
-      "pubDate": "Sun, 1 Feb 2026 12:00:18 +0900"
     }
   ]
 }
