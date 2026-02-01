@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769934025,
+  "updated_at_unix": 1769935997,
   "items": [
+    {
+      "title": "농식품부 \"대설 대비 철저한 농작물 안전관리 당부\"",
+      "link": "https://www.yna.co.kr/view/AKR20260201036900030",
+      "pubDate": "Sun, 1 Feb 2026 17:50:00 +0900"
+    },
     {
       "title": "국가유산청장 \"종묘·태릉 개발, 기준 동일…영향평가 거쳐야\"",
       "link": "https://www.yna.co.kr/view/AKR20260201034200005",
@@ -147,11 +152,6 @@
       "title": "[게시판] 코트라 124개 해외무역관, 중소중견기업 해외마케팅 지사로 지원",
       "link": "https://www.yna.co.kr/view/AKR20260201022300003",
       "pubDate": "Sun, 1 Feb 2026 11:03:55 +0900"
-    },
-    {
-      "title": "[서미숙의 집수다] 꼼수에 흔들린 청약제도 공정성…제도개선 요구 커진다",
-      "link": "https://www.yna.co.kr/view/AKR20260201021700003",
-      "pubDate": "Sun, 1 Feb 2026 11:03:13 +0900"
     }
   ]
 }
