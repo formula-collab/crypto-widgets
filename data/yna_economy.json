@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769987673,
+  "updated_at_unix": 1769989447,
   "items": [
+    {
+      "title": "세븐일레븐, 치킨 대규모 프로모션…최대 34% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260202025400030",
+      "pubDate": "Mon, 2 Feb 2026 08:36:46 +0900"
+    },
+    {
+      "title": "삼성증권 \"현대로템, 경쟁사 대비 할인폭 과도한 수준까지 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202022400008",
+      "pubDate": "Mon, 2 Feb 2026 08:29:33 +0900"
+    },
+    {
+      "title": "한투증권 \"워시 연준 의장 후보 지명에 약달러 압력 진정될 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202024200008",
+      "pubDate": "Mon, 2 Feb 2026 08:29:02 +0900"
+    },
+    {
+      "title": "롯데홈쇼핑, 명절선물에 여행까지 '마구드림 페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260202024000030",
+      "pubDate": "Mon, 2 Feb 2026 08:27:19 +0900"
+    },
+    {
+      "title": "대신증권 \"효성重, 전력기기 수요 증가에 성장 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202023200008",
+      "pubDate": "Mon, 2 Feb 2026 08:26:08 +0900"
+    },
+    {
+      "title": "중진공, 규제합리화 유공 대통령 표창 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260202023400030",
+      "pubDate": "Mon, 2 Feb 2026 08:23:44 +0900"
+    },
+    {
+      "title": "소진공, '희망리턴패키지 재기사업화' 참여 소상공인 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260202022800030",
+      "pubDate": "Mon, 2 Feb 2026 08:21:56 +0900"
+    },
+    {
+      "title": "\"가구·소품 500여개 브랜드 모았다\"…W컨셉, 라이프페스타",
+      "link": "https://www.yna.co.kr/view/AKR20260202021900030",
+      "pubDate": "Mon, 2 Feb 2026 08:17:44 +0900"
+    },
     {
       "title": "[마켓뷰] '신고가 행진' K-증시, 미국발 한파에 쉬어가나",
       "link": "https://www.yna.co.kr/view/AKR20260202019400008",
@@ -112,46 +152,6 @@
       "title": "李대통령, 연일 고강도 SNS 메시지…\"부동산 투기에 나라 망해\"",
       "link": "https://www.yna.co.kr/view/AKR20260201032600001",
       "pubDate": "Sun, 1 Feb 2026 16:19:28 +0900"
-    },
-    {
-      "title": "與, 사법개혁법 설 이후로 순연 검토…비쟁점 민생법안 우선처리(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260131042151001",
-      "pubDate": "Sun, 1 Feb 2026 15:21:34 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260201027900011",
-      "pubDate": "Sun, 1 Feb 2026 15:00:00 +0900"
-    },
-    {
-      "title": "국힘 \"李대통령, 주택소유자 협박\"…與 \"국힘, 투기자본에 꽃길\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260201020151001",
-      "pubDate": "Sun, 1 Feb 2026 14:47:35 +0900"
-    },
-    {
-      "title": "공급대책 관건은 '속도전'…이견 조율 등 남은 과제 산적(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260201007251003",
-      "pubDate": "Sun, 1 Feb 2026 14:37:32 +0900"
-    },
-    {
-      "title": "오세훈 \"세운지구-태릉CC 개발 이중잣대, 대통령이 정리해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260201011551004",
-      "pubDate": "Sun, 1 Feb 2026 13:10:53 +0900"
-    },
-    {
-      "title": "다카이치, 유세서 엔화약세 장점 강조…수입물가 상승 언급 없어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260201013751073",
-      "pubDate": "Sun, 1 Feb 2026 13:07:08 +0900"
-    },
-    {
-      "title": "與 \"대미투자법 2월 임시국회 내 처리…美 불필요한 갈등 유감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260201025800001",
-      "pubDate": "Sun, 1 Feb 2026 12:43:50 +0900"
-    },
-    {
-      "title": "[게시판] KB국민카드, 30·40세대 특화 'KB YOU 프라임 카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260201025400002",
-      "pubDate": "Sun, 1 Feb 2026 12:02:50 +0900"
     }
   ]
 }
