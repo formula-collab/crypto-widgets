@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769930998,
+  "updated_at_unix": 1769932530,
   "items": [
+    {
+      "title": "김용범 \"재테크 주식 선호 1위, 우연 아냐…패러다임 바뀌었다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260201032500001",
+      "pubDate": "Sun, 1 Feb 2026 16:47:17 +0900"
+    },
+    {
+      "title": "오세훈 \"세운-태릉개발 이중잣대, 대통령이 정리해야\"…설전확산(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260201011552004",
+      "pubDate": "Sun, 1 Feb 2026 16:45:23 +0900"
+    },
     {
       "title": "李대통령, 연일 고강도 SNS 메시지…\"부동산 투기에 나라 망해\"",
       "link": "https://www.yna.co.kr/view/AKR20260201032600001",
@@ -142,16 +152,6 @@
       "title": "해수부, 설 명절 대비 수산물 원산지 표시 특별점검",
       "link": "https://www.yna.co.kr/view/AKR20260130124000030",
       "pubDate": "Sun, 1 Feb 2026 11:00:06 +0900"
-    },
-    {
-      "title": "설 명절 앞두고 한우 할인행사…최대 50% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260130167600030",
-      "pubDate": "Sun, 1 Feb 2026 11:00:05 +0900"
-    },
-    {
-      "title": "올해 여성농업인 특수건강검진 8만명으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260130166300030",
-      "pubDate": "Sun, 1 Feb 2026 11:00:05 +0900"
     }
   ]
 }
