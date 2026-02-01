@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769918791,
+  "updated_at_unix": 1769924457,
   "items": [
+    {
+      "title": "오세훈 \"세운지구-태릉CC 개발 이중잣대, 대통령이 정리해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260201011551004",
+      "pubDate": "Sun, 1 Feb 2026 13:10:53 +0900"
+    },
+    {
+      "title": "다카이치, 유세서 엔화약세 장점 강조…수입물가 상승 언급 없어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260201013751073",
+      "pubDate": "Sun, 1 Feb 2026 13:07:08 +0900"
+    },
     {
       "title": "與 \"대미투자법 2월 임시국회 내 처리…美 불필요한 갈등 유감\"",
       "link": "https://www.yna.co.kr/view/AKR20260201025800001",
@@ -142,16 +152,6 @@
       "title": "저탄소 인증 축산물, 군 급식 첫 공급",
       "link": "https://www.yna.co.kr/view/AKR20260201020900030",
       "pubDate": "Sun, 1 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "올해 농작물재해보험 78개·농업수입안정보험 20개 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260201021900030",
-      "pubDate": "Sun, 1 Feb 2026 11:00:00 +0900"
-    },
-    {
-      "title": "반도체 호조·늦은 설에 1월 수출 34%↑…반도체 200억달러 시대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260201012252003",
-      "pubDate": "Sun, 1 Feb 2026 10:55:10 +0900"
     }
   ]
 }
