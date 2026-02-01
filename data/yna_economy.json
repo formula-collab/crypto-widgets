@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769932530,
+  "updated_at_unix": 1769934025,
   "items": [
+    {
+      "title": "국가유산청장 \"종묘·태릉 개발, 기준 동일…영향평가 거쳐야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260201034200005",
+      "pubDate": "Sun, 1 Feb 2026 16:58:03 +0900"
+    },
+    {
+      "title": "쿠팡, 재작년 9천여억원 미국행…한국법인 순이익보다 많아(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260131030251030",
+      "pubDate": "Sun, 1 Feb 2026 16:56:12 +0900"
+    },
     {
       "title": "김용범 \"재테크 주식 선호 1위, 우연 아냐…패러다임 바뀌었다\"",
       "link": "https://www.yna.co.kr/view/AKR20260201032500001",
@@ -142,16 +152,6 @@
       "title": "[서미숙의 집수다] 꼼수에 흔들린 청약제도 공정성…제도개선 요구 커진다",
       "link": "https://www.yna.co.kr/view/AKR20260201021700003",
       "pubDate": "Sun, 1 Feb 2026 11:03:13 +0900"
-    },
-    {
-      "title": "해양모빌리티 인력 양성 프로그램 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260130122600051",
-      "pubDate": "Sun, 1 Feb 2026 11:00:07 +0900"
-    },
-    {
-      "title": "해수부, 설 명절 대비 수산물 원산지 표시 특별점검",
-      "link": "https://www.yna.co.kr/view/AKR20260130124000030",
-      "pubDate": "Sun, 1 Feb 2026 11:00:06 +0900"
     }
   ]
 }
