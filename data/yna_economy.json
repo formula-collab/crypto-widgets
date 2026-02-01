@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769980415,
+  "updated_at_unix": 1769982186,
   "items": [
+    {
+      "title": "[팩트체크] '러브호텔' 호황은 옛말…모텔이 사라지는 이유는",
+      "link": "https://www.yna.co.kr/view/AKR20260130116700518",
+      "pubDate": "Mon, 2 Feb 2026 06:30:01 +0900"
+    },
+    {
+      "title": "마른김 가격 '역대 최고'…'금김' 한 장 150원 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260201027800030",
+      "pubDate": "Mon, 2 Feb 2026 06:25:01 +0900"
+    },
+    {
+      "title": "울산 공동주택 건설 현황 한눈에…사업승인 위치도 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260201028600057",
+      "pubDate": "Mon, 2 Feb 2026 06:15:01 +0900"
+    },
     {
       "title": "서울 중소형 아파트값, 한강 이남 11개구 평균 18억원 첫 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260201043300003",
@@ -137,21 +152,6 @@
       "title": "가축분뇨 질식 사고 막는다…교육 영상 배포·농장주 책임 강화",
       "link": "https://www.yna.co.kr/view/AKR20260130173100030",
       "pubDate": "Sun, 1 Feb 2026 12:00:14 +0900"
-    },
-    {
-      "title": "청년창업사관학교 16기 입교생 모집…기본·심화과정 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260131022500030",
-      "pubDate": "Sun, 1 Feb 2026 12:00:14 +0900"
-    },
-    {
-      "title": "중기부, 속초시-중진공과 '지방정부 협업형 공제 출시' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260130153200030",
-      "pubDate": "Sun, 1 Feb 2026 12:00:13 +0900"
-    },
-    {
-      "title": "이달부터 영세사업장 인사관리 플랫폼 비용 지원…최대 180만원",
-      "link": "https://www.yna.co.kr/view/AKR20260131035700530",
-      "pubDate": "Sun, 1 Feb 2026 12:00:08 +0900"
     }
   ]
 }
