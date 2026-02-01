@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1769978825,
+  "updated_at_unix": 1769980415,
   "items": [
+    {
+      "title": "서울 중소형 아파트값, 한강 이남 11개구 평균 18억원 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260201043300003",
+      "pubDate": "Mon, 2 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "여성기업 작년 매출 평균 15% 증가…순이익도 9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260130159600030",
+      "pubDate": "Mon, 2 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데마트, 설 주류 1만원부터 1억4천만원까지…6일까지 사전예약",
+      "link": "https://www.yna.co.kr/view/AKR20260201035500030",
+      "pubDate": "Mon, 2 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "'코스피 5,200·고환율 시대' 생존법…신세계 아카데미서 찾는다",
+      "link": "https://www.yna.co.kr/view/AKR20260201036000030",
+      "pubDate": "Mon, 2 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[이코노워치] 비둘기냐 매냐…'세계 경제대통령'이 불러올 불확실성",
+      "link": "https://www.yna.co.kr/view/AKR20260201042500546",
+      "pubDate": "Mon, 2 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "로또 1등 당첨자 누적 1만명 넘어…작년 판매 6.2조 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260201031600002",
+      "pubDate": "Mon, 2 Feb 2026 05:53:01 +0900"
+    },
+    {
+      "title": "국민銀·새마을금고, 가계대출 목표 초과…올해 총량에 '페널티'",
+      "link": "https://www.yna.co.kr/view/AKR20260131039800002",
+      "pubDate": "Mon, 2 Feb 2026 05:51:00 +0900"
+    },
     {
       "title": "[부고] 윤자경(마스턴투자운용 전무)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260201039300505",
@@ -117,41 +152,6 @@
       "title": "이달부터 영세사업장 인사관리 플랫폼 비용 지원…최대 180만원",
       "link": "https://www.yna.co.kr/view/AKR20260131035700530",
       "pubDate": "Sun, 1 Feb 2026 12:00:08 +0900"
-    },
-    {
-      "title": "금융硏 \"미래 환율 상승 기대가 최근 원화 약세 초래\"",
-      "link": "https://www.yna.co.kr/view/AKR20260131033900002",
-      "pubDate": "Sun, 1 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "중기부 과장 인사…\"실전형 인재 전진 배치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260130157900030",
-      "pubDate": "Sun, 1 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "던킨·배스킨라빈스, 판촉 행사 밀어붙였다가 과징금 3억2천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260131039400002",
-      "pubDate": "Sun, 1 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "KB금융, 1천600억원 모험자본 펀드 결성…'K-엔비디아' 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260131046700002",
-      "pubDate": "Sun, 1 Feb 2026 12:00:05 +0900"
-    },
-    {
-      "title": "장바구니 걱정없는 설명절…정부 \"바가지요금 뿌리 뽑겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260201019500530",
-      "pubDate": "Sun, 1 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "전화기 너머 우는 자녀, 알고 보니 AI…\"납치 빙자 보이스피싱\"",
-      "link": "https://www.yna.co.kr/view/AKR20260201021300002",
-      "pubDate": "Sun, 1 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"한국 대졸 초임, 일본·대만 웃돌아…대기업 격차는 약 1.4배\"",
-      "link": "https://www.yna.co.kr/view/AKR20260201023500003",
-      "pubDate": "Sun, 1 Feb 2026 12:00:01 +0900"
     }
   ]
 }
