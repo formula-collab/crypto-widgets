@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770053372,
+  "updated_at_unix": 1770055480,
   "items": [
+    {
+      "title": "달러-원, 美 제조업 호조에 상승폭 확대 후 반납…1,451.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260203003500002",
+      "pubDate": "Tue, 3 Feb 2026 02:27:31 +0900"
+    },
     {
       "title": "'이란과 대화' 트럼프 언급에 국제유가 5% 급락",
       "link": "https://www.yna.co.kr/view/AKR20260202170800009",
@@ -147,11 +152,6 @@
       "title": "[게시판] 하나은행, 서울신용보증재단과 소상공인 지원 협약",
       "link": "https://www.yna.co.kr/view/AKR20260202136900002",
       "pubDate": "Mon, 2 Feb 2026 16:15:20 +0900"
-    },
-    {
-      "title": "기아, 1월 24만5천557대 판매…작년 같은 달보다 2.4% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260202135700003",
-      "pubDate": "Mon, 2 Feb 2026 16:14:18 +0900"
     }
   ]
 }
