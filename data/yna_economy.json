@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770014189,
+  "updated_at_unix": 1770018153,
   "items": [
+    {
+      "title": "김포시, 5호선 연장 조속 추진 촉구…\"5천500억 내겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202142000065",
+      "pubDate": "Mon, 2 Feb 2026 16:37:24 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, 서울신용보증재단과 소상공인 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260202136900002",
+      "pubDate": "Mon, 2 Feb 2026 16:15:20 +0900"
+    },
+    {
+      "title": "기아, 1월 24만5천557대 판매…작년 같은 달보다 2.4% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260202135700003",
+      "pubDate": "Mon, 2 Feb 2026 16:14:18 +0900"
+    },
+    {
+      "title": "吳, 태릉CC 개발 비판…\"정원오, 시민 아닌 대통령 입장 맞추나\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202077351001",
+      "pubDate": "Mon, 2 Feb 2026 16:05:41 +0900"
+    },
+    {
+      "title": "예산실장 \"지역창업 빠른 성장·KAIST 기술창업 확산 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202130800002",
+      "pubDate": "Mon, 2 Feb 2026 16:00:00 +0900"
+    },
+    {
+      "title": "르노코리아 1월 3천732대 판매…전년 동월보다 2.2% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260202132300003",
+      "pubDate": "Mon, 2 Feb 2026 15:54:47 +0900"
+    },
+    {
+      "title": "경기도·시군 7~9급 공무원 올해 5천41명 선발…작년보다 74%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260202128500061",
+      "pubDate": "Mon, 2 Feb 2026 15:48:10 +0900"
+    },
+    {
+      "title": "'워시 쇼크'에 환율 급등…24.8원 오른 1,464.3원",
+      "link": "https://www.yna.co.kr/view/AKR20260202129500002",
+      "pubDate": "Mon, 2 Feb 2026 15:46:29 +0900"
+    },
+    {
+      "title": "외국환시세(2월2일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260202127200002",
+      "pubDate": "Mon, 2 Feb 2026 15:45:05 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 24.8원 오른 1,464.3원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260202125500002",
+      "pubDate": "Mon, 2 Feb 2026 15:31:33 +0900"
+    },
+    {
+      "title": "의정부시, 재개발·재건축에 '적극 행정'",
+      "link": "https://www.yna.co.kr/view/AKR20260202123500060",
+      "pubDate": "Mon, 2 Feb 2026 15:30:20 +0900"
+    },
     {
       "title": "알테오젠, 작년 영업익 1천148억원…역대 최대 실적",
       "link": "https://www.yna.co.kr/view/AKR20260202124700017",
@@ -97,61 +152,6 @@
       "title": "지난달 5대은행 주담대 1.4조원↓…1년10개월 만에 뒷걸음",
       "link": "https://www.yna.co.kr/view/AKR20260202111300002",
       "pubDate": "Mon, 2 Feb 2026 14:50:59 +0900"
-    },
-    {
-      "title": "[속보] 金총리 \"부동산 기조 안 바뀐다…수요 억제책 다시 구사 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202114200001",
-      "pubDate": "Mon, 2 Feb 2026 14:48:07 +0900"
-    },
-    {
-      "title": "金총리 \"美관세, '밴스 핫라인' 포함한 진의파악 거쳐 진전 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202112200001",
-      "pubDate": "Mon, 2 Feb 2026 14:47:32 +0900"
-    },
-    {
-      "title": "부산항 지난해 역대 최대 물동량…글로벌 물류 허브 입증",
-      "link": "https://www.yna.co.kr/view/AKR20260202112900051",
-      "pubDate": "Mon, 2 Feb 2026 14:43:33 +0900"
-    },
-    {
-      "title": "부산시 협상에 의한 계약 636억원 중 부산기업 수주는 9%뿐",
-      "link": "https://www.yna.co.kr/view/AKR20260202110900051",
-      "pubDate": "Mon, 2 Feb 2026 14:33:49 +0900"
-    },
-    {
-      "title": "우주청, 우주기술 실용화 촉진에 5년간 480억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260202087300017",
-      "pubDate": "Mon, 2 Feb 2026 14:30:10 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260202108100011",
-      "pubDate": "Mon, 2 Feb 2026 14:30:01 +0900"
-    },
-    {
-      "title": "새정부 사회적 대화…\"취약노동자·소상공인 포괄 국민참여형\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202086700530",
-      "pubDate": "Mon, 2 Feb 2026 14:30:00 +0900"
-    },
-    {
-      "title": "한수원, 5기 사내벤처 출범…2년간 개발비 3억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260202104400003",
-      "pubDate": "Mon, 2 Feb 2026 14:27:15 +0900"
-    },
-    {
-      "title": "[게시판] 우리카드, 6개 LCC 포인트 통합 적립 카드 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260202102500002",
-      "pubDate": "Mon, 2 Feb 2026 14:25:05 +0900"
-    },
-    {
-      "title": "[부고] 이동현(우리은행 홍보실 차장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260202109000002",
-      "pubDate": "Mon, 2 Feb 2026 14:24:48 +0900"
-    },
-    {
-      "title": "경찰, '복직 노숙농성' 세종호텔 노조원 등 12명 체포(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260202081052004",
-      "pubDate": "Mon, 2 Feb 2026 14:22:23 +0900"
     }
   ]
 }
