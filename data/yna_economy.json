@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770020991,
+  "updated_at_unix": 1770023381,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260202157600011",
+      "pubDate": "Mon, 2 Feb 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20260202157500002",
+      "pubDate": "Mon, 2 Feb 2026 17:50:13 +0900"
+    },
+    {
+      "title": "설 앞두고 천안시장 찾은 구윤철 \"성수품 수급 관리 차질없이\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202109800002",
+      "pubDate": "Mon, 2 Feb 2026 17:50:01 +0900"
+    },
+    {
+      "title": "링크드, 10억원 유상증자…민용재 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260202155000008",
+      "pubDate": "Mon, 2 Feb 2026 17:33:44 +0900"
+    },
+    {
+      "title": "강훈식 \"주가조작 포상금 상한 30억 불과…실효적인지 성찰필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202146400001",
+      "pubDate": "Mon, 2 Feb 2026 17:24:39 +0900"
+    },
+    {
+      "title": "'워시 지명'에 국고채 금리 대체로 상승…3년물 연 3.152%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202142751008",
+      "pubDate": "Mon, 2 Feb 2026 17:24:33 +0900"
+    },
     {
       "title": "강원도, 소상공인 경영안정자금 2천억원 지원…최대 5천만원",
       "link": "https://www.yna.co.kr/view/AKR20260202149200062",
@@ -122,36 +152,6 @@
       "title": "'워시 쇼크'에 환율 급등…24.8원 오른 1,464.3원",
       "link": "https://www.yna.co.kr/view/AKR20260202129500002",
       "pubDate": "Mon, 2 Feb 2026 15:46:29 +0900"
-    },
-    {
-      "title": "외국환시세(2월2일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260202127200002",
-      "pubDate": "Mon, 2 Feb 2026 15:45:05 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 24.8원 오른 1,464.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260202125500002",
-      "pubDate": "Mon, 2 Feb 2026 15:31:33 +0900"
-    },
-    {
-      "title": "의정부시, 재개발·재건축에 '적극 행정'",
-      "link": "https://www.yna.co.kr/view/AKR20260202123500060",
-      "pubDate": "Mon, 2 Feb 2026 15:30:20 +0900"
-    },
-    {
-      "title": "알테오젠, 작년 영업익 1천148억원…역대 최대 실적",
-      "link": "https://www.yna.co.kr/view/AKR20260202124700017",
-      "pubDate": "Mon, 2 Feb 2026 15:28:48 +0900"
-    },
-    {
-      "title": "전북농협 \"사과·배·단감·떫은감 재해보험 드세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202122400055",
-      "pubDate": "Mon, 2 Feb 2026 15:26:47 +0900"
-    },
-    {
-      "title": "원주시, 35세 이상 60세 미만 정규직 일자리 취직 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260202122200062",
-      "pubDate": "Mon, 2 Feb 2026 15:24:24 +0900"
     }
   ]
 }
