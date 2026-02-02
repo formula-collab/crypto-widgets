@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770004748,
+  "updated_at_unix": 1770009791,
   "items": [
+    {
+      "title": "[컬처&레저] '낚시 3법'중 1건 통과…1천만 낚시인들 \"환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202082000542",
+      "pubDate": "Mon, 2 Feb 2026 14:17:51 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"다주택자 양도세 중과유예, 5월 9일 분명히 종료\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202107200001",
+      "pubDate": "Mon, 2 Feb 2026 14:14:41 +0900"
+    },
+    {
+      "title": "hy, 그릭요거트 '메치니코프 그릭' 2종 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260202099100030",
+      "pubDate": "Mon, 2 Feb 2026 14:08:58 +0900"
+    },
+    {
+      "title": "시흥시, 청년 엔지니어 육성사업 본격화… 채용·정착 기능 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260202104500061",
+      "pubDate": "Mon, 2 Feb 2026 14:05:04 +0900"
+    },
+    {
+      "title": "넥슨 강대현 대표, '메이플 키우기' 논란에 직접 본부장 맡았다",
+      "link": "https://www.yna.co.kr/view/AKR20260202092900017",
+      "pubDate": "Mon, 2 Feb 2026 14:05:00 +0900"
+    },
+    {
+      "title": "과기정통부, 연구산업 성장 지원에 345억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260202086200017",
+      "pubDate": "Mon, 2 Feb 2026 14:00:01 +0900"
+    },
+    {
+      "title": "국민성장펀드 5년간 지방에 60조…부산·경북 등 91건 사업 제안",
+      "link": "https://www.yna.co.kr/view/AKR20260202097000002",
+      "pubDate": "Mon, 2 Feb 2026 14:00:01 +0900"
+    },
+    {
+      "title": "한경협, 설 맞아 전통시장서 사회공헌 활동·취약계층 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260202060200003",
+      "pubDate": "Mon, 2 Feb 2026 14:00:00 +0900"
+    },
+    {
+      "title": "과천시의회 \"정부 주택공급안 전면 철회해야\"…결의안 채택",
+      "link": "https://www.yna.co.kr/view/AKR20260202099900061",
+      "pubDate": "Mon, 2 Feb 2026 13:54:13 +0900"
+    },
+    {
+      "title": "경찰, '복직 노숙농성' 세종호텔 노조원 등 12명 체포(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202081051004",
+      "pubDate": "Mon, 2 Feb 2026 13:45:26 +0900"
+    },
+    {
+      "title": "우범기 전주시장 \"전북도와 협력해 제3금융중심지 지정에 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202095000055",
+      "pubDate": "Mon, 2 Feb 2026 13:37:49 +0900"
+    },
+    {
+      "title": "조폐공사, 진주시와 '가짜 종량제봉투' 막을 기술 계약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260202094700063",
+      "pubDate": "Mon, 2 Feb 2026 13:34:57 +0900"
+    },
+    {
+      "title": "한문선 여수상의 회장, 여수시장 선거 불출마 선언",
+      "link": "https://www.yna.co.kr/view/AKR20260202090000054",
+      "pubDate": "Mon, 2 Feb 2026 13:02:59 +0900"
+    },
+    {
+      "title": "박성혁 관광공사 사장 \"방한객 3천만명, 2028년으로 앞당긴다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202027000030",
+      "pubDate": "Mon, 2 Feb 2026 13:00:00 +0900"
+    },
     {
       "title": "전통시장 K-푸드, 해외 진출 성공사례 공유 간담회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260202049500030",
@@ -82,76 +152,6 @@
       "title": "충북시민단체, 청주시외버스터미널 매각 반대 서명운동",
       "link": "https://www.yna.co.kr/view/AKR20260202084400064",
       "pubDate": "Mon, 2 Feb 2026 11:52:57 +0900"
-    },
-    {
-      "title": "연이틀 태릉CC 개발 비판 오세훈…\"숫자맞추기 급급한 공급확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202077300001",
-      "pubDate": "Mon, 2 Feb 2026 11:44:12 +0900"
-    },
-    {
-      "title": "\"경남도, 기업적 경영주체 돼야\"…경남연구원, 보고서 제언",
-      "link": "https://www.yna.co.kr/view/AKR20260202081300052",
-      "pubDate": "Mon, 2 Feb 2026 11:43:46 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.183%",
-      "link": "https://www.yna.co.kr/view/AKR20260202083400008",
-      "pubDate": "Mon, 2 Feb 2026 11:42:19 +0900"
-    },
-    {
-      "title": "경찰, '복직 농성' 세종호텔 노동자 등 10여명 체포·연행",
-      "link": "https://www.yna.co.kr/view/AKR20260202081000004",
-      "pubDate": "Mon, 2 Feb 2026 11:33:51 +0900"
-    },
-    {
-      "title": "원주시, 노인일자리 신규사업 'G케어매니저' 본격 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260202080900062",
-      "pubDate": "Mon, 2 Feb 2026 11:28:23 +0900"
-    },
-    {
-      "title": "완도군-LH, 주민 주거 복지 증진 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260202080400054",
-      "pubDate": "Mon, 2 Feb 2026 11:27:06 +0900"
-    },
-    {
-      "title": "한국필립모리스, 세계 최대 방문객 '아이코스 IFC점' 재단장",
-      "link": "https://www.yna.co.kr/view/AKR20260202078700030",
-      "pubDate": "Mon, 2 Feb 2026 11:23:38 +0900"
-    },
-    {
-      "title": "[게시판] 현대그린푸드, 명절 가정간편식 최대 15% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260202076900030",
-      "pubDate": "Mon, 2 Feb 2026 11:18:33 +0900"
-    },
-    {
-      "title": "미래에셋운용 \"올해 코스닥 영업익, 전년 대비 56% 증가 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202075900008",
-      "pubDate": "Mon, 2 Feb 2026 11:17:14 +0900"
-    },
-    {
-      "title": "은행권, 압류 방지 '생계비 계좌' 출시…월 250만원 보호",
-      "link": "https://www.yna.co.kr/view/AKR20260202066400002",
-      "pubDate": "Mon, 2 Feb 2026 11:15:47 +0900"
-    },
-    {
-      "title": "김영록 전남지사 \"광주·전남 반도체 3축 클러스터 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202076300054",
-      "pubDate": "Mon, 2 Feb 2026 11:11:46 +0900"
-    },
-    {
-      "title": "대구시 '대구거주 요건' 다시 적용 공무원 채용…771명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260202075200053",
-      "pubDate": "Mon, 2 Feb 2026 11:10:36 +0900"
-    },
-    {
-      "title": "[부고] 박춘근(부국증권 감사실장 이사보)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260202075600008",
-      "pubDate": "Mon, 2 Feb 2026 11:09:35 +0900"
-    },
-    {
-      "title": "BYD코리아, 중형 전기세단 씰 후륜구동 트림 2종 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260202075500003",
-      "pubDate": "Mon, 2 Feb 2026 11:08:50 +0900"
     }
   ]
 }
