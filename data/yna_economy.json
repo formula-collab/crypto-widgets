@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770033231,
+  "updated_at_unix": 1770035527,
   "items": [
+    {
+      "title": "'이란과 대화' 트럼프 언급에 국제유가 5% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260202170800009",
+      "pubDate": "Mon, 2 Feb 2026 20:48:11 +0900"
+    },
     {
       "title": "金총리 \"美관세, '밴스 핫라인' 포함한 진의파악 거쳐 진전 중\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260202112251001",
@@ -147,11 +152,6 @@
       "title": "기아, 1월 24만5천557대 판매…작년 같은 달보다 2.4% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260202135700003",
       "pubDate": "Mon, 2 Feb 2026 16:14:18 +0900"
-    },
-    {
-      "title": "吳, 태릉CC 개발 비판…\"정원오, 시민 아닌 대통령 입장 맞추나\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260202077351001",
-      "pubDate": "Mon, 2 Feb 2026 16:05:41 +0900"
     }
   ]
 }
