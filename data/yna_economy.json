@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770018153,
+  "updated_at_unix": 1770020991,
   "items": [
+    {
+      "title": "강원도, 소상공인 경영안정자금 2천억원 지원…최대 5천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260202149200062",
+      "pubDate": "Mon, 2 Feb 2026 17:23:16 +0900"
+    },
+    {
+      "title": "사회적대화 의제…노 \"노동시장 이중구조해소\"·사 \"유연성↑\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202086751530",
+      "pubDate": "Mon, 2 Feb 2026 17:21:26 +0900"
+    },
+    {
+      "title": "쿠팡 '99원 생리대' 이틀 만에 줄줄이 품절…\"빠른 재입고 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202146700030",
+      "pubDate": "Mon, 2 Feb 2026 17:10:55 +0900"
+    },
+    {
+      "title": "강원 GRDP 64조6천억원 '역대 최대'…2020년 이후 13조 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260202146500062",
+      "pubDate": "Mon, 2 Feb 2026 17:10:54 +0900"
+    },
+    {
+      "title": "이동 많은 설 앞두고 '3대 가축전염병' 확산…정부, 방역 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260202140300030",
+      "pubDate": "Mon, 2 Feb 2026 17:04:44 +0900"
+    },
+    {
+      "title": "[동포의 창] 고려인 청년들, 모국서 호텔 서비스직 연수 수료",
+      "link": "https://www.yna.co.kr/view/AKR20260202140400371",
+      "pubDate": "Mon, 2 Feb 2026 16:55:19 +0900"
+    },
+    {
+      "title": "'워시 효과'에 亞증시 '검은 월요일'…금·은·코인 가격도 급락(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260202115152008",
+      "pubDate": "Mon, 2 Feb 2026 16:52:59 +0900"
+    },
+    {
+      "title": "경남상의협, 국토부에 '부전∼마산 복선전철' 조기 개통 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260202144400052",
+      "pubDate": "Mon, 2 Feb 2026 16:52:33 +0900"
+    },
+    {
+      "title": "캐나다 국방조달장관 \"자동차 분야에서 더 큰 경제협력 원해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202144700003",
+      "pubDate": "Mon, 2 Feb 2026 16:52:02 +0900"
+    },
+    {
+      "title": "내부기밀 유출하고 100만불 '뒷돈'…삼성전자 직원 등 구속기소",
+      "link": "https://www.yna.co.kr/view/AKR20260202144500004",
+      "pubDate": "Mon, 2 Feb 2026 16:51:29 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자·SK하이닉스, '16만전자·90만닉스' 내주며 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202040551008",
+      "pubDate": "Mon, 2 Feb 2026 16:49:54 +0900"
+    },
+    {
+      "title": "완성차 5사 1월 판매량 61만527대…국내·해외 동반 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260202144200003",
+      "pubDate": "Mon, 2 Feb 2026 16:49:07 +0900"
+    },
+    {
+      "title": "국제 금·은값 급락에 국내 금시세도 10%↓…\"반등은 유효\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202087051008",
+      "pubDate": "Mon, 2 Feb 2026 16:47:54 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 상승…3년물 연 3.152%",
+      "link": "https://www.yna.co.kr/view/AKR20260202142700008",
+      "pubDate": "Mon, 2 Feb 2026 16:42:59 +0900"
+    },
+    {
+      "title": "\"양도세 중과유예 연장 없다\" 연일 공언에 일부 급매물 등장",
+      "link": "https://www.yna.co.kr/view/AKR20260202137800003",
+      "pubDate": "Mon, 2 Feb 2026 16:42:25 +0900"
+    },
+    {
+      "title": "'워시 효과'에 亞증시 '검은 월요일'…금·은·코인 가격도 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202115151008",
+      "pubDate": "Mon, 2 Feb 2026 16:40:36 +0900"
+    },
     {
       "title": "김포시, 5호선 연장 조속 추진 촉구…\"5천500억 내겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260202142000065",
@@ -72,86 +152,6 @@
       "title": "원주시, 35세 이상 60세 미만 정규직 일자리 취직 지원",
       "link": "https://www.yna.co.kr/view/AKR20260202122200062",
       "pubDate": "Mon, 2 Feb 2026 15:24:24 +0900"
-    },
-    {
-      "title": "CJ제일제당, 바로 먹는 콩 간식 '맛콩' 2종 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260202122500030",
-      "pubDate": "Mon, 2 Feb 2026 15:20:58 +0900"
-    },
-    {
-      "title": "'코스피 5,000' 다음 과제는?…한국거래소, 3일 세미나 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260202122600008",
-      "pubDate": "Mon, 2 Feb 2026 15:20:37 +0900"
-    },
-    {
-      "title": "2PM, 5월 도쿄 돔서 日 데뷔 15주년 기념 콘서트",
-      "link": "https://www.yna.co.kr/view/AKR20260202123100005",
-      "pubDate": "Mon, 2 Feb 2026 15:20:23 +0900"
-    },
-    {
-      "title": "곡성군, 라오스에서 공공형 계절근로자 90명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260202122100054",
-      "pubDate": "Mon, 2 Feb 2026 15:17:49 +0900"
-    },
-    {
-      "title": "金총리 \"부동산 기조 안 바뀐다…수요 억제책 얼마든지 구사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202119400001",
-      "pubDate": "Mon, 2 Feb 2026 15:13:12 +0900"
-    },
-    {
-      "title": "[프로필] 허장 재경부 2차관…정부·국제기구 두루 거친 '글로벌 정책통'",
-      "link": "https://www.yna.co.kr/view/AKR20260202118300002",
-      "pubDate": "Mon, 2 Feb 2026 15:09:25 +0900"
-    },
-    {
-      "title": "與 \"집값 잡힐까 두렵나…국힘, 기우제식 정책실패 기도 멈춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202113800001",
-      "pubDate": "Mon, 2 Feb 2026 15:06:00 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋, 대학생 리더 금융 커리큘럼 성료",
-      "link": "https://www.yna.co.kr/view/AKR20260202118800008",
-      "pubDate": "Mon, 2 Feb 2026 15:05:31 +0900"
-    },
-    {
-      "title": "포천시, 설 명절 맞아 지역화폐 충전 한도 확대 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260202116800060",
-      "pubDate": "Mon, 2 Feb 2026 15:00:40 +0900"
-    },
-    {
-      "title": "[게시판] 서금원, 햇살론 사후관리 지원위해 금융사 순차 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260202109700002",
-      "pubDate": "Mon, 2 Feb 2026 14:58:40 +0900"
-    },
-    {
-      "title": "'검은 월요일' 亞증시 동반급락…\"금·은 마진콜 충격 일파만파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202115100008",
-      "pubDate": "Mon, 2 Feb 2026 14:56:30 +0900"
-    },
-    {
-      "title": "광주글로벌모터스 6년간 20차례 채용, 평균 34대1 경쟁률",
-      "link": "https://www.yna.co.kr/view/AKR20260202116100054",
-      "pubDate": "Mon, 2 Feb 2026 14:56:14 +0900"
-    },
-    {
-      "title": "靑 \"다주택자 양도세 중과유예, 5월 9일 분명히 종료\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202114800001",
-      "pubDate": "Mon, 2 Feb 2026 14:54:39 +0900"
-    },
-    {
-      "title": "나신평 \"주택 공급안, 중장기적 시장 안정…단기적 체감은 제한\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202114400008",
-      "pubDate": "Mon, 2 Feb 2026 14:51:49 +0900"
-    },
-    {
-      "title": "농식품부·aT, 설 맞이 농할상품권 100억원 발행…30% 할인 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260202113000030",
-      "pubDate": "Mon, 2 Feb 2026 14:51:09 +0900"
-    },
-    {
-      "title": "지난달 5대은행 주담대 1.4조원↓…1년10개월 만에 뒷걸음",
-      "link": "https://www.yna.co.kr/view/AKR20260202111300002",
-      "pubDate": "Mon, 2 Feb 2026 14:50:59 +0900"
     }
   ]
 }
