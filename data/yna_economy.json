@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770023381,
+  "updated_at_unix": 1770027022,
   "items": [
+    {
+      "title": "국토부, 1·29 공급대책 '재탕논란'에 반박…\"과거와 큰 차이\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202162600003",
+      "pubDate": "Mon, 2 Feb 2026 18:46:55 +0900"
+    },
+    {
+      "title": "'뉴욕 진출' 꽈배기 점포 찾은 구윤철 \"생활형R&D 예산지원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202109851002",
+      "pubDate": "Mon, 2 Feb 2026 18:30:23 +0900"
+    },
+    {
+      "title": "구윤철 \"현재로선 정부 내 추경 논의 없어…주식시장 면밀 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260202160100002",
+      "pubDate": "Mon, 2 Feb 2026 18:30:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260202157600011",
@@ -137,21 +152,6 @@
       "title": "예산실장 \"지역창업 빠른 성장·KAIST 기술창업 확산 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260202130800002",
       "pubDate": "Mon, 2 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "르노코리아 1월 3천732대 판매…전년 동월보다 2.2% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260202132300003",
-      "pubDate": "Mon, 2 Feb 2026 15:54:47 +0900"
-    },
-    {
-      "title": "경기도·시군 7~9급 공무원 올해 5천41명 선발…작년보다 74%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260202128500061",
-      "pubDate": "Mon, 2 Feb 2026 15:48:10 +0900"
-    },
-    {
-      "title": "'워시 쇼크'에 환율 급등…24.8원 오른 1,464.3원",
-      "link": "https://www.yna.co.kr/view/AKR20260202129500002",
-      "pubDate": "Mon, 2 Feb 2026 15:46:29 +0900"
     }
   ]
 }
