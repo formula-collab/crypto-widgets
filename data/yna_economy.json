@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770074244,
+  "updated_at_unix": 1770076118,
   "items": [
+    {
+      "title": "李대통령 \"무슨 수 써서라도 투기 잡겠다…수단 얼마든지 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203028000001",
+      "pubDate": "Tue, 3 Feb 2026 08:41:39 +0900"
+    },
+    {
+      "title": "LG이노텍, 유럽서 車조명 신제품 공개…DVN 라이팅 워크숍 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260203026900003",
+      "pubDate": "Tue, 3 Feb 2026 08:38:28 +0900"
+    },
+    {
+      "title": "삼성증권, 글로벌운용사 아폴로와 MOU…\"대체투자 라인업 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203027600008",
+      "pubDate": "Tue, 3 Feb 2026 08:35:41 +0900"
+    },
+    {
+      "title": "정관장, 설 맞아 캠페인…건강 선물 수요 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260203027300030",
+      "pubDate": "Tue, 3 Feb 2026 08:34:04 +0900"
+    },
+    {
+      "title": "관광공사, 관광통합플랫폼 협업 회원사 15곳 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260203026500030",
+      "pubDate": "Tue, 3 Feb 2026 08:33:23 +0900"
+    },
+    {
+      "title": "IBK투자, HS효성첨단소재 목표가↑…\"탄소섬유 실적 반등 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203026000008",
+      "pubDate": "Tue, 3 Feb 2026 08:33:21 +0900"
+    },
+    {
+      "title": "유안타證 \"증권업, 기관·개인 회전율 추가 상승 전망…'매수'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203025700008",
+      "pubDate": "Tue, 3 Feb 2026 08:30:50 +0900"
+    },
+    {
+      "title": "서울 아파트 경매에 쏠리는 수요…낙찰가율 4개월째 100% 웃돌아",
+      "link": "https://www.yna.co.kr/view/AKR20260203025000003",
+      "pubDate": "Tue, 3 Feb 2026 08:23:22 +0900"
+    },
+    {
+      "title": "세종시, 상반기 디자인 지원사업 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260203025100063",
+      "pubDate": "Tue, 3 Feb 2026 08:22:26 +0900"
+    },
+    {
+      "title": "[속보] 李대통령 \"부동산 정책수단 얼마든 있어…이번이 마지막 탈출 기회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203024700001",
+      "pubDate": "Tue, 3 Feb 2026 08:19:21 +0900"
+    },
+    {
+      "title": "문체부, AI·디지털 혁신 관광벤처 100개사 발굴·육성",
+      "link": "https://www.yna.co.kr/view/AKR20260203024200030",
+      "pubDate": "Tue, 3 Feb 2026 08:15:22 +0900"
+    },
+    {
+      "title": "[속보] 李대통령 \"내란 극복 대한민국, 부동산 투기 하나 못 잡겠나\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203024400001",
+      "pubDate": "Tue, 3 Feb 2026 08:15:13 +0900"
+    },
     {
       "title": "롯데월드, 장애인·시니어 온라인 우대 예매 서비스 도입",
       "link": "https://www.yna.co.kr/view/AKR20260203023000030",
@@ -92,66 +152,6 @@
       "title": "김건희 일가 '양평 공흥지구 특혜 의혹' 오늘 재판 시작",
       "link": "https://www.yna.co.kr/view/AKR20260202165000004",
       "pubDate": "Tue, 3 Feb 2026 05:00:03 +0900"
-    },
-    {
-      "title": "달러-원, 美 제조업 호조에 상승폭 확대 후 반납…1,451.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260203003500002",
-      "pubDate": "Tue, 3 Feb 2026 02:27:31 +0900"
-    },
-    {
-      "title": "'이란과 대화' 트럼프 언급에 국제유가 5% 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260202170800009",
-      "pubDate": "Mon, 2 Feb 2026 20:48:11 +0900"
-    },
-    {
-      "title": "金총리 \"美관세, '밴스 핫라인' 포함한 진의파악 거쳐 진전 중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260202112251001",
-      "pubDate": "Mon, 2 Feb 2026 19:58:23 +0900"
-    },
-    {
-      "title": "국토부, 1·29 공급대책 '재탕논란'에 반박…\"과거와 큰 차이\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202162600003",
-      "pubDate": "Mon, 2 Feb 2026 18:46:55 +0900"
-    },
-    {
-      "title": "'뉴욕 진출' 꽈배기 점포 찾은 구윤철 \"생활형R&D 예산지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260202109851002",
-      "pubDate": "Mon, 2 Feb 2026 18:30:23 +0900"
-    },
-    {
-      "title": "구윤철 \"현재로선 정부 내 추경 논의 없어…주식시장 면밀 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202160100002",
-      "pubDate": "Mon, 2 Feb 2026 18:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260202157600011",
-      "pubDate": "Mon, 2 Feb 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260202157500002",
-      "pubDate": "Mon, 2 Feb 2026 17:50:13 +0900"
-    },
-    {
-      "title": "설 앞두고 천안시장 찾은 구윤철 \"성수품 수급 관리 차질없이\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202109800002",
-      "pubDate": "Mon, 2 Feb 2026 17:50:01 +0900"
-    },
-    {
-      "title": "링크드, 10억원 유상증자…민용재 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260202155000008",
-      "pubDate": "Mon, 2 Feb 2026 17:33:44 +0900"
-    },
-    {
-      "title": "강훈식 \"주가조작 포상금 상한 30억 불과…실효적인지 성찰필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260202146400001",
-      "pubDate": "Mon, 2 Feb 2026 17:24:39 +0900"
-    },
-    {
-      "title": "'워시 지명'에 국고채 금리 대체로 상승…3년물 연 3.152%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260202142751008",
-      "pubDate": "Mon, 2 Feb 2026 17:24:33 +0900"
     }
   ]
 }
