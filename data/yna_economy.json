@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770152363,
+  "updated_at_unix": 1770154522,
   "items": [
+    {
+      "title": "채소값 출렁이자 '냉동채소' 잘 팔린다…마트매출 최대 10% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260203122800030",
+      "pubDate": "Wed, 4 Feb 2026 06:11:03 +0900"
+    },
+    {
+      "title": "외국인 계절근로자 장기요양보험료 부담 던다",
+      "link": "https://www.yna.co.kr/view/AKR20260203082600530",
+      "pubDate": "Wed, 4 Feb 2026 06:11:02 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·이란, 군사적 마찰에 반등…WTI 1.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260204009700009",
+      "pubDate": "Wed, 4 Feb 2026 06:02:24 +0900"
+    },
+    {
+      "title": "고령자 10명 중 7명은 일한다…55∼64세 고용률 70% 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260203146500530",
+      "pubDate": "Wed, 4 Feb 2026 06:01:03 +0900"
+    },
+    {
+      "title": "중기부-중진공, 'AI 대전환 사업' 참여지역 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260203138600030",
+      "pubDate": "Wed, 4 Feb 2026 06:00:15 +0900"
+    },
+    {
+      "title": "신세계백화점, '300년 명품 곶감' 은풍준시 선물세트 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260203151700030",
+      "pubDate": "Wed, 4 Feb 2026 06:00:11 +0900"
+    },
+    {
+      "title": "'EU 공급망실사지침' 대응책 모색…산업부, 민관합동 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260203158100003",
+      "pubDate": "Wed, 4 Feb 2026 06:00:08 +0900"
+    },
+    {
+      "title": "美관세·보조금 폐지에 작년 韓 대미 전기차 수출 87% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260203158500003",
+      "pubDate": "Wed, 4 Feb 2026 06:00:07 +0900"
+    },
+    {
+      "title": "\"中, 무역보복 법적 근거 마련…대중 교역 리스크 유의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203159800003",
+      "pubDate": "Wed, 4 Feb 2026 06:00:07 +0900"
+    },
+    {
+      "title": "1월 말 외환보유액 4천259억달러…환율 관리에 두달째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260203145700002",
+      "pubDate": "Wed, 4 Feb 2026 06:00:06 +0900"
+    },
     {
       "title": "'탈서울' 주춤하나…작년 순유출 2만명대, 35년만에 최소",
       "link": "https://www.yna.co.kr/view/AKR20260203170800002",
@@ -102,56 +152,6 @@
       "title": "주병기 \"과징금 하한 정한다…가격 재결정 명령도 적극적으로\"",
       "link": "https://www.yna.co.kr/view/AKR20260203149200002",
       "pubDate": "Tue, 3 Feb 2026 17:13:56 +0900"
-    },
-    {
-      "title": "[인사] 우리투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20260203149700008",
-      "pubDate": "Tue, 3 Feb 2026 17:08:31 +0900"
-    },
-    {
-      "title": "입찰부진·호주금리 인상에 국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203143151008",
-      "pubDate": "Tue, 3 Feb 2026 17:07:54 +0900"
-    },
-    {
-      "title": "광주신세계 복합개발 공공기여 1천497억원…주상복합세대 늘려줘",
-      "link": "https://www.yna.co.kr/view/AKR20260203148400054",
-      "pubDate": "Tue, 3 Feb 2026 17:05:21 +0900"
-    },
-    {
-      "title": "SPC삼립 \"시화공장 화재로 심려 끼쳐 송구…당국 조사에 협조\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203144451030",
-      "pubDate": "Tue, 3 Feb 2026 17:03:52 +0900"
-    },
-    {
-      "title": "'5연속 동결' 금통위원들 \"금리 내리기엔 환율·집값 위험 커\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203143400002",
-      "pubDate": "Tue, 3 Feb 2026 17:01:35 +0900"
-    },
-    {
-      "title": "SPC삼립 \"화재 추가 인명피해 없어…심려끼쳐 송구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203144400030",
-      "pubDate": "Tue, 3 Feb 2026 16:49:13 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.189%",
-      "link": "https://www.yna.co.kr/view/AKR20260203143100008",
-      "pubDate": "Tue, 3 Feb 2026 16:44:35 +0900"
-    },
-    {
-      "title": "[특징주] 삼성SDI, 5% 급등 마감…장중 한때 38만원 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203142800008",
-      "pubDate": "Tue, 3 Feb 2026 16:44:23 +0900"
-    },
-    {
-      "title": "[게시판] 한국증권금융, 설맞이 군부대 위문금 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260203142000008",
-      "pubDate": "Tue, 3 Feb 2026 16:38:05 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 신반포 19·25차 재건축 입찰 참여 공식화",
-      "link": "https://www.yna.co.kr/view/AKR20260203141300003",
-      "pubDate": "Tue, 3 Feb 2026 16:33:29 +0900"
     }
   ]
 }
