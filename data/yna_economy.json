@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770102820,
+  "updated_at_unix": 1770105530,
   "items": [
+    {
+      "title": "SPC삼립 \"화재 추가 인명피해 없어…심려끼쳐 송구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203144400030",
+      "pubDate": "Tue, 3 Feb 2026 16:49:13 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.189%",
+      "link": "https://www.yna.co.kr/view/AKR20260203143100008",
+      "pubDate": "Tue, 3 Feb 2026 16:44:35 +0900"
+    },
+    {
+      "title": "[특징주] 삼성SDI, 5% 급등 마감…장중 한때 38만원 넘어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203142800008",
+      "pubDate": "Tue, 3 Feb 2026 16:44:23 +0900"
+    },
+    {
+      "title": "[게시판] 한국증권금융, 설맞이 군부대 위문금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260203142000008",
+      "pubDate": "Tue, 3 Feb 2026 16:38:05 +0900"
+    },
+    {
+      "title": "포스코이앤씨, 신반포 19·25차 재건축 입찰 참여 공식화",
+      "link": "https://www.yna.co.kr/view/AKR20260203141300003",
+      "pubDate": "Tue, 3 Feb 2026 16:33:29 +0900"
+    },
+    {
+      "title": "한투증권 \"퇴직연금 디폴트옵션 '적극투자형 BF1' 수익률 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203134300008",
+      "pubDate": "Tue, 3 Feb 2026 16:32:53 +0900"
+    },
+    {
+      "title": "[특징주] 삼표시멘트, 성수동 부지 개발 기대에 또 상한가 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203058751008",
+      "pubDate": "Tue, 3 Feb 2026 16:30:17 +0900"
+    },
+    {
+      "title": "올해 공공기관 채용정보 박람회 8만여명 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260203136200002",
+      "pubDate": "Tue, 3 Feb 2026 16:30:00 +0900"
+    },
+    {
+      "title": "'검은 월요일' 딛고 일어선 코스피…하루 만에 분위기 급반전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203057151008",
+      "pubDate": "Tue, 3 Feb 2026 16:25:31 +0900"
+    },
+    {
+      "title": "다주택자 '매도 여유기간' 준다…시장은 \"매물 출회에 도움\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203137700003",
+      "pubDate": "Tue, 3 Feb 2026 16:22:49 +0900"
+    },
+    {
+      "title": "금·은 마진콜 쇼크 진정에 국내 금 시세 하루 만에 반등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203073551008",
+      "pubDate": "Tue, 3 Feb 2026 16:17:41 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자·SK하이닉스, 급등해 '16만전자·90만닉스' 회복(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203037351008",
+      "pubDate": "Tue, 3 Feb 2026 16:16:32 +0900"
+    },
+    {
+      "title": "日닛케이지수 3.9% 상승…약 3주만에 종가 최고치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260203135400073",
+      "pubDate": "Tue, 3 Feb 2026 16:12:08 +0900"
+    },
     {
       "title": "호텔신라 작년 영업이익 135억원으로 흑자…순손실은 확대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203129951527",
@@ -87,71 +152,6 @@
       "title": "[외환] 원/달러 환율 18.9원 내린 1,445.4원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260203124500002",
       "pubDate": "Tue, 3 Feb 2026 15:30:31 +0900"
-    },
-    {
-      "title": "익산시 제3산단 27만㎡ 추가 조성…\"부족한 용지 확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203123500055",
-      "pubDate": "Tue, 3 Feb 2026 15:25:57 +0900"
-    },
-    {
-      "title": "오세훈·정원오, 성수동 삼표부지 개발 공방…출사표 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260203116500004",
-      "pubDate": "Tue, 3 Feb 2026 15:16:07 +0900"
-    },
-    {
-      "title": "[제주소식] 한국은행 제주본부, 설맞이 신권 교환",
-      "link": "https://www.yna.co.kr/view/AKR20260203121000056",
-      "pubDate": "Tue, 3 Feb 2026 15:13:21 +0900"
-    },
-    {
-      "title": "충북 1월 소비자물가지수 1.9% ↑…쌀값 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260203119100064",
-      "pubDate": "Tue, 3 Feb 2026 15:12:23 +0900"
-    },
-    {
-      "title": "동우일렉트릭, 안성 미양3산업단지에 1천300억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260203118300061",
-      "pubDate": "Tue, 3 Feb 2026 15:08:07 +0900"
-    },
-    {
-      "title": "[게시판] 무보, 은행 실무자 대상 '보상 잘 받는 법' 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260203118400003",
-      "pubDate": "Tue, 3 Feb 2026 15:07:10 +0900"
-    },
-    {
-      "title": "수협, 농촌경제연구원과 협약…농어가 경영·통계 연구 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260203119300030",
-      "pubDate": "Tue, 3 Feb 2026 15:05:44 +0900"
-    },
-    {
-      "title": "시흥산업진흥원-서울대 정밀기계설계연구소, 제조 혁신 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260203112100061",
-      "pubDate": "Tue, 3 Feb 2026 15:05:39 +0900"
-    },
-    {
-      "title": "현대엘리베이터, 타운보드중앙과 '승강기 매립형 모니터' 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260203115200003",
-      "pubDate": "Tue, 3 Feb 2026 15:05:30 +0900"
-    },
-    {
-      "title": "'불구속 기소' 아이언메이스 \"게임 서비스에 문제 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203113600017",
-      "pubDate": "Tue, 3 Feb 2026 15:04:13 +0900"
-    },
-    {
-      "title": "울산시 전 직원, 복지포인트로 지역화폐 구매…\"동네상권 온기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203114300057",
-      "pubDate": "Tue, 3 Feb 2026 15:00:42 +0900"
-    },
-    {
-      "title": "복지부, 기업 사회공헌 지원·의견 수렴 '혁신자문단' 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260203056800530",
-      "pubDate": "Tue, 3 Feb 2026 15:00:04 +0900"
-    },
-    {
-      "title": "BNK경남은행, 2조2천억 규모 '지역형 생산적 금융' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260203113300052",
-      "pubDate": "Tue, 3 Feb 2026 14:59:24 +0900"
     }
   ]
 }
