@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770105530,
+  "updated_at_unix": 1770107749,
   "items": [
+    {
+      "title": "민생안정지원단, 부산 서금원 방문…자영업자 금융애로 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260203153000002",
+      "pubDate": "Tue, 3 Feb 2026 17:30:03 +0900"
+    },
+    {
+      "title": "카카오 노조, 포털 다음 매각 규탄…\"고용·처우 보장하라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203058951017",
+      "pubDate": "Tue, 3 Feb 2026 17:20:09 +0900"
+    },
+    {
+      "title": "춘천시, 정부 예산 조기 편성 기조에 국비 확보 선제 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260203150800062",
+      "pubDate": "Tue, 3 Feb 2026 17:18:03 +0900"
+    },
+    {
+      "title": "[영상] '성과금 1억' 돈자랑에 '울컥'…\"혼자 물건 다 들고 오셨다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203150100704",
+      "pubDate": "Tue, 3 Feb 2026 17:17:39 +0900"
+    },
+    {
+      "title": "李대통령 \"계란훔치면 꼭 처벌하던데\"…기업 담합에 \"경종 울려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203147300001",
+      "pubDate": "Tue, 3 Feb 2026 17:16:11 +0900"
+    },
+    {
+      "title": "주병기 \"과징금 하한 정한다…가격 재결정 명령도 적극적으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203149200002",
+      "pubDate": "Tue, 3 Feb 2026 17:13:56 +0900"
+    },
+    {
+      "title": "[인사] 우리투자증권",
+      "link": "https://www.yna.co.kr/view/AKR20260203149700008",
+      "pubDate": "Tue, 3 Feb 2026 17:08:31 +0900"
+    },
+    {
+      "title": "입찰부진·호주금리 인상에 국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203143151008",
+      "pubDate": "Tue, 3 Feb 2026 17:07:54 +0900"
+    },
+    {
+      "title": "광주신세계 복합개발 공공기여 1천497억원…주상복합세대 늘려줘",
+      "link": "https://www.yna.co.kr/view/AKR20260203148400054",
+      "pubDate": "Tue, 3 Feb 2026 17:05:21 +0900"
+    },
+    {
+      "title": "SPC삼립 \"시화공장 화재로 심려 끼쳐 송구…당국 조사에 협조\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203144451030",
+      "pubDate": "Tue, 3 Feb 2026 17:03:52 +0900"
+    },
+    {
+      "title": "'5연속 동결' 금통위원들 \"금리 내리기엔 환율·집값 위험 커\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203143400002",
+      "pubDate": "Tue, 3 Feb 2026 17:01:35 +0900"
+    },
     {
       "title": "SPC삼립 \"화재 추가 인명피해 없어…심려끼쳐 송구\"",
       "link": "https://www.yna.co.kr/view/AKR20260203144400030",
@@ -97,61 +152,6 @@
       "title": "거래소 '코스피 5,000' 기념세미나…\"이제 과제는 프리미엄시장\"",
       "link": "https://www.yna.co.kr/view/AKR20260203128100008",
       "pubDate": "Tue, 3 Feb 2026 15:56:24 +0900"
-    },
-    {
-      "title": "경남상의협, 도의회에 비수도권 세제 차등 적용 협조 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260203124600052",
-      "pubDate": "Tue, 3 Feb 2026 15:56:19 +0900"
-    },
-    {
-      "title": "농협 제주본부, 스마트·스피드·시너지 경영 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260203127800056",
-      "pubDate": "Tue, 3 Feb 2026 15:54:42 +0900"
-    },
-    {
-      "title": "아동학대 의심 사망 원인·구조 분석해 정책개선 추진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203090051530",
-      "pubDate": "Tue, 3 Feb 2026 15:52:51 +0900"
-    },
-    {
-      "title": "구윤철 \"이번이 아마 마지막 기회\"…李대통령 \"'아마'는 없다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203127200001",
-      "pubDate": "Tue, 3 Feb 2026 15:51:35 +0900"
-    },
-    {
-      "title": "고양시, 국방대 도시개발사업 예정지 개발행위허가 제한 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260203127400060",
-      "pubDate": "Tue, 3 Feb 2026 15:48:59 +0900"
-    },
-    {
-      "title": "환율, '워시 후폭풍' 진정에 급락…18.9원 내린 1,445.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260203128300002",
-      "pubDate": "Tue, 3 Feb 2026 15:46:28 +0900"
-    },
-    {
-      "title": "정부, 5·9 중과유예 종료…조정지역 잔금 최대 6개월 미세조정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203111351001",
-      "pubDate": "Tue, 3 Feb 2026 15:44:26 +0900"
-    },
-    {
-      "title": "고양시, 노후주택 옥내급수관 개량사업 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260203126300060",
-      "pubDate": "Tue, 3 Feb 2026 15:35:55 +0900"
-    },
-    {
-      "title": "외국환시세(2월3일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260203126400002",
-      "pubDate": "Tue, 3 Feb 2026 15:35:19 +0900"
-    },
-    {
-      "title": "대전시 3∼5일 일본 삿포로 방문해 비즈니스 상담회",
-      "link": "https://www.yna.co.kr/view/AKR20260203124200063",
-      "pubDate": "Tue, 3 Feb 2026 15:33:27 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 18.9원 내린 1,445.4원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260203124500002",
-      "pubDate": "Tue, 3 Feb 2026 15:30:31 +0900"
     }
   ]
 }
