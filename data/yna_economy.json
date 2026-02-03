@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770157099,
+  "updated_at_unix": 1770159246,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260204017000011",
+      "pubDate": "Wed, 4 Feb 2026 07:30:03 +0900"
+    },
+    {
+      "title": "[현장] 송도 도심에 15년넘게 방치돼 흉물된 대기업 땅…주민 불만↑",
+      "link": "https://www.yna.co.kr/view/AKR20260203109300065",
+      "pubDate": "Wed, 4 Feb 2026 07:17:04 +0900"
+    },
     {
       "title": "증시 축제 속 웃지 못하는 채권시장…이달 금리상단 확인할까",
       "link": "https://www.yna.co.kr/view/AKR20260203169400008",
@@ -142,16 +152,6 @@
       "title": "카카오 노조, 포털 다음 매각 규탄…\"고용·처우 보장하라\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203058951017",
       "pubDate": "Tue, 3 Feb 2026 17:20:09 +0900"
-    },
-    {
-      "title": "춘천시, 정부 예산 조기 편성 기조에 국비 확보 선제 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260203150800062",
-      "pubDate": "Tue, 3 Feb 2026 17:18:03 +0900"
-    },
-    {
-      "title": "[영상] '성과금 1억' 돈자랑에 '울컥'…\"혼자 물건 다 들고 오셨다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203150100704",
-      "pubDate": "Tue, 3 Feb 2026 17:17:39 +0900"
     }
   ]
 }
