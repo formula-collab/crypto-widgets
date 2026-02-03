@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770113155,
+  "updated_at_unix": 1770116662,
   "items": [
+    {
+      "title": "셀레믹스, 42억9천300만원 유상증자…박종갑 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260203164700008",
+      "pubDate": "Tue, 3 Feb 2026 19:27:58 +0900"
+    },
+    {
+      "title": "조동철 KDI원장 퇴임…\"이념에 치우치지 않는 정론의 정책방향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203165700002",
+      "pubDate": "Tue, 3 Feb 2026 19:17:22 +0900"
+    },
     {
       "title": "애경그룹, 테르메덴 온천 매각 검토",
       "link": "https://www.yna.co.kr/view/AKR20260203164600030",
@@ -142,16 +152,6 @@
       "title": "'검은 월요일' 딛고 일어선 코스피…하루 만에 분위기 급반전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203057151008",
       "pubDate": "Tue, 3 Feb 2026 16:25:31 +0900"
-    },
-    {
-      "title": "다주택자 '매도 여유기간' 준다…시장은 \"매물 출회에 도움\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203137700003",
-      "pubDate": "Tue, 3 Feb 2026 16:22:49 +0900"
-    },
-    {
-      "title": "금·은 마진콜 쇼크 진정에 국내 금 시세 하루 만에 반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203073551008",
-      "pubDate": "Tue, 3 Feb 2026 16:17:41 +0900"
     }
   ]
 }
