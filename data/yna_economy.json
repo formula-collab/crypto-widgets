@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770154522,
+  "updated_at_unix": 1770157099,
   "items": [
+    {
+      "title": "증시 축제 속 웃지 못하는 채권시장…이달 금리상단 확인할까",
+      "link": "https://www.yna.co.kr/view/AKR20260203169400008",
+      "pubDate": "Wed, 4 Feb 2026 07:03:02 +0900"
+    },
+    {
+      "title": "\"두쫀쿠부터 하트케이크까지\"…호텔업계 '밸런타인디저트' 봇물",
+      "link": "https://www.yna.co.kr/view/AKR20260203129300030",
+      "pubDate": "Wed, 4 Feb 2026 07:01:00 +0900"
+    },
     {
       "title": "채소값 출렁이자 '냉동채소' 잘 팔린다…마트매출 최대 10% 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260203122800030",
@@ -142,16 +152,6 @@
       "title": "[영상] '성과금 1억' 돈자랑에 '울컥'…\"혼자 물건 다 들고 오셨다\"",
       "link": "https://www.yna.co.kr/view/AKR20260203150100704",
       "pubDate": "Tue, 3 Feb 2026 17:17:39 +0900"
-    },
-    {
-      "title": "李대통령 \"계란훔치면 꼭 처벌하던데\"…기업 담합에 \"경종 울려야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203147300001",
-      "pubDate": "Tue, 3 Feb 2026 17:16:11 +0900"
-    },
-    {
-      "title": "주병기 \"과징금 하한 정한다…가격 재결정 명령도 적극적으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203149200002",
-      "pubDate": "Tue, 3 Feb 2026 17:13:56 +0900"
     }
   ]
 }
