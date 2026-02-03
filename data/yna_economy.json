@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770095416,
+  "updated_at_unix": 1770098926,
   "items": [
+    {
+      "title": "울산시 전 직원, 복지포인트로 지역화폐 구매…\"동네상권 온기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203114300057",
+      "pubDate": "Tue, 3 Feb 2026 15:00:42 +0900"
+    },
+    {
+      "title": "복지부, 기업 사회공헌 지원·의견 수렴 '혁신자문단' 구성",
+      "link": "https://www.yna.co.kr/view/AKR20260203056800530",
+      "pubDate": "Tue, 3 Feb 2026 15:00:04 +0900"
+    },
+    {
+      "title": "BNK경남은행, 2조2천억 규모 '지역형 생산적 금융' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260203113300052",
+      "pubDate": "Tue, 3 Feb 2026 14:59:24 +0900"
+    },
+    {
+      "title": "국토장관 \"올해 들어 강남3구 매물 10%대로 늘어…정상화 첫 신호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203114400003",
+      "pubDate": "Tue, 3 Feb 2026 14:58:31 +0900"
+    },
+    {
+      "title": "신한금융, 청년·지방 창업 지원…1천억 펀드 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260203113200002",
+      "pubDate": "Tue, 3 Feb 2026 14:57:01 +0900"
+    },
+    {
+      "title": "김건희 일가 '양평 공흥지구 특혜' 첫 재판 내달 3일로 연기(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260202165051004",
+      "pubDate": "Tue, 3 Feb 2026 14:52:36 +0900"
+    },
+    {
+      "title": "구윤철 \"5·9 前 계약, 3∼6개월 내 잔금 치르면 중과유예 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203111300001",
+      "pubDate": "Tue, 3 Feb 2026 14:45:13 +0900"
+    },
+    {
+      "title": "\"포항명물 과메기가 돌아왔다\" 생산·소비 해마다 감소하다 반등",
+      "link": "https://www.yna.co.kr/view/AKR20260203106000053",
+      "pubDate": "Tue, 3 Feb 2026 14:41:45 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260203105200011",
+      "pubDate": "Tue, 3 Feb 2026 14:32:37 +0900"
+    },
+    {
+      "title": "부산은행, 선거자금 관리 전용 '당선드림통장' 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260203108700051",
+      "pubDate": "Tue, 3 Feb 2026 14:32:32 +0900"
+    },
+    {
+      "title": "李대통령 \"집값과 주가 같은 선상 판단 안 돼…선동 옳지 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203106900001",
+      "pubDate": "Tue, 3 Feb 2026 14:31:03 +0900"
+    },
+    {
+      "title": "[속보] 구윤철 \"5·9 前 계약, 3∼6개월 내 잔금 치르면 중과유예 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203107700001",
+      "pubDate": "Tue, 3 Feb 2026 14:30:01 +0900"
+    },
+    {
+      "title": "[속보] 구윤철 \"다주택 양도세 중과유예 종료…시장현실은 고려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203107300001",
+      "pubDate": "Tue, 3 Feb 2026 14:27:46 +0900"
+    },
+    {
+      "title": "지식재산처, 온라인시스템에 한국형 양자내성암호 실증 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260203106100063",
+      "pubDate": "Tue, 3 Feb 2026 14:26:52 +0900"
+    },
+    {
+      "title": "10일 부산서 해운선사 해기사 취업박람회",
+      "link": "https://www.yna.co.kr/view/AKR20260203105800051",
+      "pubDate": "Tue, 3 Feb 2026 14:18:28 +0900"
+    },
+    {
+      "title": "보은 구병산관광지에 호텔·콘도미니엄 들어선다",
+      "link": "https://www.yna.co.kr/view/AKR20260203101400064",
+      "pubDate": "Tue, 3 Feb 2026 14:17:28 +0900"
+    },
+    {
+      "title": "코웨이, 설맞이 프로모션…의료기기·환경가전 렌탈료 반값",
+      "link": "https://www.yna.co.kr/view/AKR20260203093700030",
+      "pubDate": "Tue, 3 Feb 2026 14:14:04 +0900"
+    },
+    {
+      "title": "부산상의 회장단, 설 앞두고 전통시장서 애로사항 청취",
+      "link": "https://www.yna.co.kr/view/AKR20260203104000051",
+      "pubDate": "Tue, 3 Feb 2026 14:11:37 +0900"
+    },
     {
       "title": "아동권리보장원 \"자립준비청년 지원·안심돌봄 등 10대 성과\"",
       "link": "https://www.yna.co.kr/view/AKR20260203090000530",
@@ -62,96 +152,6 @@
       "title": "상장협, '법정이율 변동이율제 도입' 상법 개정안에 \"찬성\"",
       "link": "https://www.yna.co.kr/view/AKR20260203086800008",
       "pubDate": "Tue, 3 Feb 2026 11:55:49 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.190%",
-      "link": "https://www.yna.co.kr/view/AKR20260203085600008",
-      "pubDate": "Tue, 3 Feb 2026 11:53:20 +0900"
-    },
-    {
-      "title": "[게시판] KB국민은행 '비대면 대출 부산 심사센터' 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260203084500002",
-      "pubDate": "Tue, 3 Feb 2026 11:46:44 +0900"
-    },
-    {
-      "title": "우리금융 \"금융소비자 보호, 사후 대응서 사전 예방으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203075600002",
-      "pubDate": "Tue, 3 Feb 2026 11:36:21 +0900"
-    },
-    {
-      "title": "[바이오스냅] DXVX, NGS플랫폼 혁신기술 특허출원 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260203081600017",
-      "pubDate": "Tue, 3 Feb 2026 11:34:00 +0900"
-    },
-    {
-      "title": "[쇼츠] 러시아산 원유 안 산다고?…인도에 50→18% '통큰인하'",
-      "link": "https://www.yna.co.kr/view/AKR20260203082500704",
-      "pubDate": "Tue, 3 Feb 2026 11:32:06 +0900"
-    },
-    {
-      "title": "\"6·27 대출규제로 집 살길 막혀\"…국가 상대 소송 낸 젊은가장",
-      "link": "https://www.yna.co.kr/view/AKR20260203055400004",
-      "pubDate": "Tue, 3 Feb 2026 11:27:36 +0900"
-    },
-    {
-      "title": "KCOC, 내달 4∼6일 '인도적 지원' 역량 강화 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260203079200371",
-      "pubDate": "Tue, 3 Feb 2026 11:27:03 +0900"
-    },
-    {
-      "title": "李대통령 \"무슨 수 써서라도 투기 잡겠다…일찍 파는 게 유리\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203028051001",
-      "pubDate": "Tue, 3 Feb 2026 11:24:07 +0900"
-    },
-    {
-      "title": "KB증권, 국내 주식선물 수수료 인하 이벤트 진행",
-      "link": "https://www.yna.co.kr/view/AKR20260203078600008",
-      "pubDate": "Tue, 3 Feb 2026 11:17:45 +0900"
-    },
-    {
-      "title": "[게시판] 서울국제정원박람회에 HDC현산 '기업동행정원' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260203049900004",
-      "pubDate": "Tue, 3 Feb 2026 11:15:02 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행, 새희망홀씨 포용금융 프로그램",
-      "link": "https://www.yna.co.kr/view/AKR20260203078100002",
-      "pubDate": "Tue, 3 Feb 2026 11:12:03 +0900"
-    },
-    {
-      "title": "광주·전남 1월 농축산물 물가 상승…쌀·사과 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260203077700054",
-      "pubDate": "Tue, 3 Feb 2026 11:10:37 +0900"
-    },
-    {
-      "title": "대구본부세관, 수출 기업 '원산지 검증 대응' 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20260203077000053",
-      "pubDate": "Tue, 3 Feb 2026 11:08:13 +0900"
-    },
-    {
-      "title": "[부고] 김태훈(한국투자증권 인사부장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260203076500008",
-      "pubDate": "Tue, 3 Feb 2026 11:07:17 +0900"
-    },
-    {
-      "title": "금·은값 폭락에 골드·실버뱅킹 잔액도 급감…\"신중 투자\" 권고",
-      "link": "https://www.yna.co.kr/view/AKR20260203070600002",
-      "pubDate": "Tue, 3 Feb 2026 11:07:01 +0900"
-    },
-    {
-      "title": "인천시, '창업부터 재도전까지' 소상공인 단계별 종합 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260203076000065",
-      "pubDate": "Tue, 3 Feb 2026 11:06:42 +0900"
-    },
-    {
-      "title": "부산 만덕∼센텀 대심도 공사비 상승에 지역 건설사 '휘청'",
-      "link": "https://www.yna.co.kr/view/AKR20260203072700051",
-      "pubDate": "Tue, 3 Feb 2026 11:03:36 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, KIST미래재단에 10억원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260203072400002",
-      "pubDate": "Tue, 3 Feb 2026 11:03:35 +0900"
     }
   ]
 }
