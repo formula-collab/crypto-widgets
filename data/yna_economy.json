@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770110979,
+  "updated_at_unix": 1770113155,
   "items": [
+    {
+      "title": "애경그룹, 테르메덴 온천 매각 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260203164600030",
+      "pubDate": "Tue, 3 Feb 2026 19:00:09 +0900"
+    },
+    {
+      "title": "코스피 역대급 급등에 국내 증시 시가총액 첫 5천조 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260203162800008",
+      "pubDate": "Tue, 3 Feb 2026 18:43:12 +0900"
+    },
+    {
+      "title": "국세청장 \"중과유예 종료되면 양도세 최대 2.7배까지 급증\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203159900002",
+      "pubDate": "Tue, 3 Feb 2026 18:26:31 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260203149400011",
@@ -137,21 +152,6 @@
       "title": "금·은 마진콜 쇼크 진정에 국내 금 시세 하루 만에 반등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203073551008",
       "pubDate": "Tue, 3 Feb 2026 16:17:41 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 급등해 '16만전자·90만닉스' 회복(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203037351008",
-      "pubDate": "Tue, 3 Feb 2026 16:16:32 +0900"
-    },
-    {
-      "title": "日닛케이지수 3.9% 상승…약 3주만에 종가 최고치 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260203135400073",
-      "pubDate": "Tue, 3 Feb 2026 16:12:08 +0900"
-    },
-    {
-      "title": "호텔신라 작년 영업이익 135억원으로 흑자…순손실은 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203129951527",
-      "pubDate": "Tue, 3 Feb 2026 16:10:45 +0900"
     }
   ]
 }
