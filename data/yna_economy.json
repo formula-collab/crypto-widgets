@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770090275,
+  "updated_at_unix": 1770095416,
   "items": [
+    {
+      "title": "아동권리보장원 \"자립준비청년 지원·안심돌봄 등 10대 성과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260203090000530",
+      "pubDate": "Tue, 3 Feb 2026 14:00:02 +0900"
+    },
+    {
+      "title": "광주 중앙공원 1지구 자금 수십억 빼돌린 SPC 전 대표 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260203091600054",
+      "pubDate": "Tue, 3 Feb 2026 13:16:30 +0900"
+    },
     {
       "title": "낸드 가격, D램 따라 폭등 전망…\"올해 1분기 40% 상승\"",
       "link": "https://www.yna.co.kr/view/AKR20260203088600003",
@@ -142,16 +152,6 @@
       "title": "[게시판] 우리은행, KIST미래재단에 10억원 기부",
       "link": "https://www.yna.co.kr/view/AKR20260203072400002",
       "pubDate": "Tue, 3 Feb 2026 11:03:35 +0900"
-    },
-    {
-      "title": "금·은 마진콜 쇼크 진정에 국내 금 시세 하루 만에 반등",
-      "link": "https://www.yna.co.kr/view/AKR20260203073500008",
-      "pubDate": "Tue, 3 Feb 2026 11:01:52 +0900"
-    },
-    {
-      "title": "동부건설 작년 영업이익 606억원…흑자전환 성공",
-      "link": "https://www.yna.co.kr/view/AKR20260203073700003",
-      "pubDate": "Tue, 3 Feb 2026 11:01:08 +0900"
     }
   ]
 }
