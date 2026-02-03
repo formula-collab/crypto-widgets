@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770159246,
+  "updated_at_unix": 1770160711,
   "items": [
+    {
+      "title": "경남 창녕 돼지농장서 아프리카돼지열병",
+      "link": "https://www.yna.co.kr/view/AKR20260204023800030",
+      "pubDate": "Wed, 4 Feb 2026 08:13:32 +0900"
+    },
+    {
+      "title": "[마켓뷰] 미국 기술주 약세…코스피도 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260204018800008",
+      "pubDate": "Wed, 4 Feb 2026 08:07:45 +0900"
+    },
+    {
+      "title": "화승, 부산에 370억원 투자…피지컬AI·로봇 사업화",
+      "link": "https://www.yna.co.kr/view/AKR20260204021200051",
+      "pubDate": "Wed, 4 Feb 2026 08:06:29 +0900"
+    },
+    {
+      "title": "정부, '국가 농업AX플랫폼' 추진…AI로 농업 생태계 전환 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260203138300030",
+      "pubDate": "Wed, 4 Feb 2026 08:00:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260204017000011",
@@ -132,26 +152,6 @@
       "title": "[게시판] 무협, 수출입 기업 위한 외국환 거래 제도 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260203155300003",
       "pubDate": "Tue, 3 Feb 2026 17:48:51 +0900"
-    },
-    {
-      "title": "200억원대 영업손실 세종강남농협 조합원들 상임이사 사퇴 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260203154500063",
-      "pubDate": "Tue, 3 Feb 2026 17:35:19 +0900"
-    },
-    {
-      "title": "한국아태경제協, '프리·포스트 APEC'으로 민관교류 플랫폼 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260203152900371",
-      "pubDate": "Tue, 3 Feb 2026 17:32:38 +0900"
-    },
-    {
-      "title": "민생안정지원단, 부산 서금원 방문…자영업자 금융애로 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260203153000002",
-      "pubDate": "Tue, 3 Feb 2026 17:30:03 +0900"
-    },
-    {
-      "title": "카카오 노조, 포털 다음 매각 규탄…\"고용·처우 보장하라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203058951017",
-      "pubDate": "Tue, 3 Feb 2026 17:20:09 +0900"
     }
   ]
 }
