@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770121975,
+  "updated_at_unix": 1770126963,
   "items": [
+    {
+      "title": "구윤철 \"이번이 아마 마지막 기회\"…李대통령 \"'아마'는 없다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260203127251001",
+      "pubDate": "Tue, 3 Feb 2026 21:39:27 +0900"
+    },
     {
       "title": "셀레믹스, 42억9천300만원 유상증자…박종갑 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260203164700008",
@@ -147,11 +152,6 @@
       "title": "올해 공공기관 채용정보 박람회 8만여명 참여",
       "link": "https://www.yna.co.kr/view/AKR20260203136200002",
       "pubDate": "Tue, 3 Feb 2026 16:30:00 +0900"
-    },
-    {
-      "title": "'검은 월요일' 딛고 일어선 코스피…하루 만에 분위기 급반전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203057151008",
-      "pubDate": "Tue, 3 Feb 2026 16:25:31 +0900"
     }
   ]
 }
