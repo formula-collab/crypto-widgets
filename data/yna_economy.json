@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770150227,
+  "updated_at_unix": 1770152363,
   "items": [
+    {
+      "title": "'탈서울' 주춤하나…작년 순유출 2만명대, 35년만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260203170800002",
+      "pubDate": "Wed, 4 Feb 2026 05:53:02 +0900"
+    },
+    {
+      "title": "은행 대출금리 오르자…보금자리론 판매 25개월 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260203152500002",
+      "pubDate": "Wed, 4 Feb 2026 05:51:02 +0900"
+    },
     {
       "title": "달러-원, 워시 후폭풍 진정되자 하락폭 확대…1,446.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260204003600002",
@@ -142,16 +152,6 @@
       "title": "포스코이앤씨, 신반포 19·25차 재건축 입찰 참여 공식화",
       "link": "https://www.yna.co.kr/view/AKR20260203141300003",
       "pubDate": "Tue, 3 Feb 2026 16:33:29 +0900"
-    },
-    {
-      "title": "한투증권 \"퇴직연금 디폴트옵션 '적극투자형 BF1' 수익률 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203134300008",
-      "pubDate": "Tue, 3 Feb 2026 16:32:53 +0900"
-    },
-    {
-      "title": "[특징주] 삼표시멘트, 성수동 부지 개발 기대에 또 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203058751008",
-      "pubDate": "Tue, 3 Feb 2026 16:30:17 +0900"
     }
   ]
 }
