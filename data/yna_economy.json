@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770160711,
+  "updated_at_unix": 1770162485,
   "items": [
+    {
+      "title": "쏘카, 제주 여행객 위해 항공기 지연·결항 보상 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260204029700030",
+      "pubDate": "Wed, 4 Feb 2026 08:41:18 +0900"
+    },
+    {
+      "title": "고양시, 금융자료 정밀 추적으로 체납징수 사각지대 없앤다",
+      "link": "https://www.yna.co.kr/view/AKR20260204027800060",
+      "pubDate": "Wed, 4 Feb 2026 08:37:03 +0900"
+    },
+    {
+      "title": "구윤철 \"AI 신대륙 탐사…시스템 새롭게 바꿔가겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204028700002",
+      "pubDate": "Wed, 4 Feb 2026 08:34:16 +0900"
+    },
+    {
+      "title": "삼성물산 구호플러스, 봄 컬렉션 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260204028600030",
+      "pubDate": "Wed, 4 Feb 2026 08:33:35 +0900"
+    },
+    {
+      "title": "CJ문화재단, 설립 20주년 기념 콘서트 시리즈 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260204028300030",
+      "pubDate": "Wed, 4 Feb 2026 08:32:46 +0900"
+    },
+    {
+      "title": "설화수, 미백 신제품 '자정앰플세럼' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260204027000030",
+      "pubDate": "Wed, 4 Feb 2026 08:30:43 +0900"
+    },
+    {
+      "title": "인천시, 정년퇴직자 채용 중소제조업체에 연 360만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260204019500065",
+      "pubDate": "Wed, 4 Feb 2026 08:30:03 +0900"
+    },
+    {
+      "title": "IBK투자 \"방한 중국인 증가세 가속…카지노 3사 실적개선 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204025600008",
+      "pubDate": "Wed, 4 Feb 2026 08:29:24 +0900"
+    },
+    {
+      "title": "카카오뱅크 작년 순익 4천803억원, 9.1%↑…또 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260204024800002",
+      "pubDate": "Wed, 4 Feb 2026 08:28:32 +0900"
+    },
+    {
+      "title": "무신사 스탠다드 \"국내외 매장 20여개 더 연다…60호점 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204025700030",
+      "pubDate": "Wed, 4 Feb 2026 08:25:47 +0900"
+    },
+    {
+      "title": "한투증권 \"2월 금통위에서도 기준금리 동결 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204026300008",
+      "pubDate": "Wed, 4 Feb 2026 08:23:05 +0900"
+    },
+    {
+      "title": "키움증권 \"삼성전자, 낸드 경쟁력 회복…목표가 21만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204025100008",
+      "pubDate": "Wed, 4 Feb 2026 08:18:25 +0900"
+    },
     {
       "title": "경남 창녕 돼지농장서 아프리카돼지열병",
       "link": "https://www.yna.co.kr/view/AKR20260204023800030",
@@ -92,66 +152,6 @@
       "title": "1월 말 외환보유액 4천259억달러…환율 관리에 두달째 감소",
       "link": "https://www.yna.co.kr/view/AKR20260203145700002",
       "pubDate": "Wed, 4 Feb 2026 06:00:06 +0900"
-    },
-    {
-      "title": "'탈서울' 주춤하나…작년 순유출 2만명대, 35년만에 최소",
-      "link": "https://www.yna.co.kr/view/AKR20260203170800002",
-      "pubDate": "Wed, 4 Feb 2026 05:53:02 +0900"
-    },
-    {
-      "title": "은행 대출금리 오르자…보금자리론 판매 25개월 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260203152500002",
-      "pubDate": "Wed, 4 Feb 2026 05:51:02 +0900"
-    },
-    {
-      "title": "달러-원, 워시 후폭풍 진정되자 하락폭 확대…1,446.60원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260204003600002",
-      "pubDate": "Wed, 4 Feb 2026 02:42:48 +0900"
-    },
-    {
-      "title": "구윤철 \"이번이 아마 마지막 기회\"…李대통령 \"'아마'는 없다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203127251001",
-      "pubDate": "Tue, 3 Feb 2026 21:39:27 +0900"
-    },
-    {
-      "title": "셀레믹스, 42억9천300만원 유상증자…박종갑 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260203164700008",
-      "pubDate": "Tue, 3 Feb 2026 19:27:58 +0900"
-    },
-    {
-      "title": "조동철 KDI원장 퇴임…\"이념에 치우치지 않는 정론의 정책방향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203165700002",
-      "pubDate": "Tue, 3 Feb 2026 19:17:22 +0900"
-    },
-    {
-      "title": "애경그룹, 테르메덴 온천 매각 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260203164600030",
-      "pubDate": "Tue, 3 Feb 2026 19:00:09 +0900"
-    },
-    {
-      "title": "코스피 역대급 급등에 국내 증시 시가총액 첫 5천조 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260203162800008",
-      "pubDate": "Tue, 3 Feb 2026 18:43:12 +0900"
-    },
-    {
-      "title": "국세청장 \"중과유예 종료되면 양도세 최대 2.7배까지 급증\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203159900002",
-      "pubDate": "Tue, 3 Feb 2026 18:26:31 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260203149400011",
-      "pubDate": "Tue, 3 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "아이텍, 100억원 유상증자…비이피코너스톤에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260203157700008",
-      "pubDate": "Tue, 3 Feb 2026 17:55:43 +0900"
-    },
-    {
-      "title": "[게시판] 무협, 수출입 기업 위한 외국환 거래 제도 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260203155300003",
-      "pubDate": "Tue, 3 Feb 2026 17:48:51 +0900"
     }
   ]
 }
