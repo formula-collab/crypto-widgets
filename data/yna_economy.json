@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770107749,
+  "updated_at_unix": 1770110979,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260203149400011",
+      "pubDate": "Tue, 3 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "아이텍, 100억원 유상증자…비이피코너스톤에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260203157700008",
+      "pubDate": "Tue, 3 Feb 2026 17:55:43 +0900"
+    },
+    {
+      "title": "[게시판] 무협, 수출입 기업 위한 외국환 거래 제도 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260203155300003",
+      "pubDate": "Tue, 3 Feb 2026 17:48:51 +0900"
+    },
+    {
+      "title": "200억원대 영업손실 세종강남농협 조합원들 상임이사 사퇴 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260203154500063",
+      "pubDate": "Tue, 3 Feb 2026 17:35:19 +0900"
+    },
+    {
+      "title": "한국아태경제協, '프리·포스트 APEC'으로 민관교류 플랫폼 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260203152900371",
+      "pubDate": "Tue, 3 Feb 2026 17:32:38 +0900"
+    },
     {
       "title": "민생안정지원단, 부산 서금원 방문…자영업자 금융애로 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260203153000002",
@@ -127,31 +152,6 @@
       "title": "호텔신라 작년 영업이익 135억원으로 흑자…순손실은 확대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203129951527",
       "pubDate": "Tue, 3 Feb 2026 16:10:45 +0900"
-    },
-    {
-      "title": "[특징주] 상장폐지 면한 파두, 거래 재개일 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260203042651008",
-      "pubDate": "Tue, 3 Feb 2026 16:09:11 +0900"
-    },
-    {
-      "title": "[게시판] 장애인고용공단-병원행정관리자협회, '장애인고용 증진' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260203049600530",
-      "pubDate": "Tue, 3 Feb 2026 16:00:05 +0900"
-    },
-    {
-      "title": "'사회적기업 금융부담 완화 지원'…정부-금융기관 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260203056100530",
-      "pubDate": "Tue, 3 Feb 2026 16:00:05 +0900"
-    },
-    {
-      "title": "기획처, 복지현장 서비스 제고…개선과제 내년 예산안 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260203113700002",
-      "pubDate": "Tue, 3 Feb 2026 16:00:03 +0900"
-    },
-    {
-      "title": "거래소 '코스피 5,000' 기념세미나…\"이제 과제는 프리미엄시장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260203128100008",
-      "pubDate": "Tue, 3 Feb 2026 15:56:24 +0900"
     }
   ]
 }
