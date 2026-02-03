@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770140603,
+  "updated_at_unix": 1770144029,
   "items": [
+    {
+      "title": "달러-원, 워시 후폭풍 진정되자 하락폭 확대…1,446.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260204003600002",
+      "pubDate": "Wed, 4 Feb 2026 02:42:48 +0900"
+    },
     {
       "title": "구윤철 \"이번이 아마 마지막 기회\"…李대통령 \"'아마'는 없다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203127251001",
@@ -147,11 +152,6 @@
       "title": "[특징주] 삼표시멘트, 성수동 부지 개발 기대에 또 상한가 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260203058751008",
       "pubDate": "Tue, 3 Feb 2026 16:30:17 +0900"
-    },
-    {
-      "title": "올해 공공기관 채용정보 박람회 8만여명 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260203136200002",
-      "pubDate": "Tue, 3 Feb 2026 16:30:00 +0900"
     }
   ]
 }
