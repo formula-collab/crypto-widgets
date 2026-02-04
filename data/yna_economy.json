@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770197547,
+  "updated_at_unix": 1770200895,
   "items": [
+    {
+      "title": "여야, 대미투자법 특위 구성키로…국힘, 비준동의론 사실상 철회(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260204149451001",
+      "pubDate": "Wed, 4 Feb 2026 18:34:49 +0900"
+    },
     {
       "title": "전속고발제가 뭐길래…공정위 독점권한 46년만에 전면손질되나",
       "link": "https://www.yna.co.kr/view/AKR20260204146800002",
@@ -147,11 +152,6 @@
       "title": "춘천 용산정수장 개선사업 공정률 70% 돌파…내년 준공 목표",
       "link": "https://www.yna.co.kr/view/AKR20260204135400062",
       "pubDate": "Wed, 4 Feb 2026 16:33:35 +0900"
-    },
-    {
-      "title": "춘천 레고랜드, 설 연휴·겨울방학 체험 이벤트 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260204135300062",
-      "pubDate": "Wed, 4 Feb 2026 16:30:54 +0900"
     }
   ]
 }
