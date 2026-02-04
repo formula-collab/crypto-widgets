@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770191991,
+  "updated_at_unix": 1770194667,
   "items": [
+    {
+      "title": "안규백, 국방창업경진대회 출신 창업인들과 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260204152300504",
+      "pubDate": "Wed, 4 Feb 2026 17:34:38 +0900"
+    },
+    {
+      "title": "KDI 신임 원장에 김세직 서울대 명예교수 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260204152400002",
+      "pubDate": "Wed, 4 Feb 2026 17:34:22 +0900"
+    },
+    {
+      "title": "정부, 아프리카돼지열병 방역강화…종사자 모임·불법반입 금지",
+      "link": "https://www.yna.co.kr/view/AKR20260204147500030",
+      "pubDate": "Wed, 4 Feb 2026 17:24:13 +0900"
+    },
+    {
+      "title": "제이브이엠, 작년 역대 최대 매출 달성…영업이익 8.5% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260204147400017",
+      "pubDate": "Wed, 4 Feb 2026 17:20:46 +0900"
+    },
+    {
+      "title": "파마리서치, 작년 매출 5천억원 돌파…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260204145700017",
+      "pubDate": "Wed, 4 Feb 2026 17:19:33 +0900"
+    },
+    {
+      "title": "'성장과실 모두에게' 李대통령 당부에 재계 300조 투자로 화답",
+      "link": "https://www.yna.co.kr/view/AKR20260204144700003",
+      "pubDate": "Wed, 4 Feb 2026 17:14:11 +0900"
+    },
+    {
+      "title": "전주시, 월 1만뭔 청년주택 준공…냉장고 등 갖춘 24호 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260204144400055",
+      "pubDate": "Wed, 4 Feb 2026 17:09:49 +0900"
+    },
+    {
+      "title": "한국개발연구원 신임 원장에 김세직 서울대 명예교수 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260204143200001",
+      "pubDate": "Wed, 4 Feb 2026 17:03:15 +0900"
+    },
+    {
+      "title": "'월세 1만원에 정착'…함양군, 예비 귀농인 '환대하우스' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260204139200052",
+      "pubDate": "Wed, 4 Feb 2026 17:02:28 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.212%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260204138551008",
+      "pubDate": "Wed, 4 Feb 2026 17:00:34 +0900"
+    },
+    {
+      "title": "[속보] 이재용 \"삼성전자 영업실적 많이 올라…더 채용할 여력 생겨\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204142800001",
+      "pubDate": "Wed, 4 Feb 2026 17:00:33 +0900"
+    },
+    {
+      "title": "한은 \"충청권, 바이오산업 거점으로 성장…수도권과는 격차\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204116900063",
+      "pubDate": "Wed, 4 Feb 2026 17:00:01 +0900"
+    },
+    {
+      "title": "[속보] 靑 \"삼성 1만2천명·SK 8천500명·한화 5천780명 채용계획\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204142400001",
+      "pubDate": "Wed, 4 Feb 2026 17:00:00 +0900"
+    },
     {
       "title": "[속보] 靑 \"10대 기업, 올해 5만1천600명 채용…3만4천200명 신입\"",
       "link": "https://www.yna.co.kr/view/AKR20260204142000001",
@@ -87,71 +152,6 @@
       "title": "李대통령 만난 경제계 \"10대 그룹, 5년간 270조원 지방투자\"",
       "link": "https://www.yna.co.kr/view/AKR20260204130200001",
       "pubDate": "Wed, 4 Feb 2026 16:12:29 +0900"
-    },
-    {
-      "title": "李대통령 \"토끼 있어야 호랑이도 건강…성장과실 골고루 돌아가야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204126100001",
-      "pubDate": "Wed, 4 Feb 2026 16:09:57 +0900"
-    },
-    {
-      "title": "[속보] 한경협 \"10대 그룹 5년간 270조원 지방투자…경제계 전체 300조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204116300001",
-      "pubDate": "Wed, 4 Feb 2026 16:03:49 +0900"
-    },
-    {
-      "title": "GS리테일 작년 영업이익 2천921억원…\"매출 사상 최대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204120651527",
-      "pubDate": "Wed, 4 Feb 2026 16:03:18 +0900"
-    },
-    {
-      "title": "정책 지원에 원전까지…건설주 상승률, 증권·반도체 이어 3위(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204096351008",
-      "pubDate": "Wed, 4 Feb 2026 16:02:14 +0900"
-    },
-    {
-      "title": "공정위, '유동성 1위' 과장 광고 의혹 빗썸 현장조사",
-      "link": "https://www.yna.co.kr/view/AKR20260204128600002",
-      "pubDate": "Wed, 4 Feb 2026 16:01:29 +0900"
-    },
-    {
-      "title": "[특징주] 현대차·기아, 美시장 호실적 힘입어 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204044851008",
-      "pubDate": "Wed, 4 Feb 2026 16:00:47 +0900"
-    },
-    {
-      "title": "부산지역 임금체불액 1천억여원…신고 절반이 5인 미만 사업장",
-      "link": "https://www.yna.co.kr/view/AKR20260204127500051",
-      "pubDate": "Wed, 4 Feb 2026 16:00:30 +0900"
-    },
-    {
-      "title": "농식품차관, 설 성수품 할인현장 점검…\"소비자 부담 경감 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204104400030",
-      "pubDate": "Wed, 4 Feb 2026 16:00:02 +0900"
-    },
-    {
-      "title": "그냥드림센터 간 임기근 기획처 대행 \"복지 사각 없애야 선진국\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204123800002",
-      "pubDate": "Wed, 4 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 롯데에너지머티리얼즈, 흑자전환 기대에 14%↑ 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204125400008",
-      "pubDate": "Wed, 4 Feb 2026 15:54:49 +0900"
-    },
-    {
-      "title": "환율, 외국인 주식 매도에 상승…4.8원 오른 1,450.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260204039051002",
-      "pubDate": "Wed, 4 Feb 2026 15:42:10 +0900"
-    },
-    {
-      "title": "맥주 찌꺼기로 스낵을…아일랜드서 스타트업 창업한 최선경씨",
-      "link": "https://www.yna.co.kr/view/AKR20260204117600371",
-      "pubDate": "Wed, 4 Feb 2026 15:36:11 +0900"
-    },
-    {
-      "title": "외국환시세(2월4일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260204121600002",
-      "pubDate": "Wed, 4 Feb 2026 15:35:22 +0900"
     }
   ]
 }
