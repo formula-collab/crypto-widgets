@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770246985,
+  "updated_at_unix": 1770248848,
   "items": [
+    {
+      "title": "세라젬, 리디아 고와 파트너십 연장…글로벌 마케팅 전개",
+      "link": "https://www.yna.co.kr/view/AKR20260205031300030",
+      "pubDate": "Thu, 5 Feb 2026 08:34:51 +0900"
+    },
+    {
+      "title": "키움證 \"에이피알, 올해 2.4조원 매출 달성도 가능…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205028900008",
+      "pubDate": "Thu, 5 Feb 2026 08:30:49 +0900"
+    },
+    {
+      "title": "안성호 에이스경암 이사장, 성남시에 2억원 상당 쌀 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260205028800030",
+      "pubDate": "Thu, 5 Feb 2026 08:30:30 +0900"
+    },
+    {
+      "title": "삼성증권, 한국타이어 목표가↑…\"수익 견조, 모든 지표 호조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205028100008",
+      "pubDate": "Thu, 5 Feb 2026 08:30:24 +0900"
+    },
+    {
+      "title": "에이블리·4910, T1 유니폼 판매…'사인 유니폼' 응모 이벤트도",
+      "link": "https://www.yna.co.kr/view/AKR20260205027000030",
+      "pubDate": "Thu, 5 Feb 2026 08:28:56 +0900"
+    },
+    {
+      "title": "29CM, 내달 성수동에 침구 팝업 '눕 하우스' 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260205026100030",
+      "pubDate": "Thu, 5 Feb 2026 08:28:28 +0900"
+    },
+    {
+      "title": "한투증권, 키움증권 목표가↑…\"증시 활성화로 이익 증가 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205026300008",
+      "pubDate": "Thu, 5 Feb 2026 08:14:47 +0900"
+    },
     {
       "title": "李대통령 \"똘똘한 한 채 갈아타기? 주거용 아니면 안 하는 게 이익\"",
       "link": "https://www.yna.co.kr/view/AKR20260205025600001",
@@ -117,41 +152,6 @@
       "title": "달러-원, '엔·유로 약세發' 달러 강세 속 상승…1,460원 턱밑 마감",
       "link": "https://www.yna.co.kr/view/AKR20260205004800002",
       "pubDate": "Thu, 5 Feb 2026 02:29:42 +0900"
-    },
-    {
-      "title": "갈라선 강선우·김경, '쪼개기 후원금' 두고도 진실공방(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204087951004",
-      "pubDate": "Wed, 4 Feb 2026 22:22:11 +0900"
-    },
-    {
-      "title": "국토장관 \"재초환 폐지나 토허구역 해제 논의한 바 없어\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204150851003",
-      "pubDate": "Wed, 4 Feb 2026 20:33:16 +0900"
-    },
-    {
-      "title": "[부고] 민유성(전 산은금융지주 회장)씨 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260204168600505",
-      "pubDate": "Wed, 4 Feb 2026 20:32:11 +0900"
-    },
-    {
-      "title": "유증 미공개정보로 40억원 부당이득…상장사 임직원 등 檢 고발",
-      "link": "https://www.yna.co.kr/view/AKR20260204167300002",
-      "pubDate": "Wed, 4 Feb 2026 20:21:13 +0900"
-    },
-    {
-      "title": "여야, 대미투자법 특위 구성키로…국힘, 비준동의론 사실상 철회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204149451001",
-      "pubDate": "Wed, 4 Feb 2026 18:34:49 +0900"
-    },
-    {
-      "title": "전속고발제가 뭐길래…공정위 독점권한 46년만에 전면손질되나",
-      "link": "https://www.yna.co.kr/view/AKR20260204146800002",
-      "pubDate": "Wed, 4 Feb 2026 18:22:08 +0900"
-    },
-    {
-      "title": "이규연 \"李대통령 '다주택 참모진, 스스로 고민하리라 생각'\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204155400001",
-      "pubDate": "Wed, 4 Feb 2026 18:16:55 +0900"
     }
   ]
 }
