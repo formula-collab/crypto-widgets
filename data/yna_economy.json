@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770208398,
+  "updated_at_unix": 1770213295,
   "items": [
+    {
+      "title": "갈라선 강선우·김경, '쪼개기 후원금' 두고도 진실공방(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260204087951004",
+      "pubDate": "Wed, 4 Feb 2026 22:22:11 +0900"
+    },
     {
       "title": "국토장관 \"재초환 폐지나 토허구역 해제 논의한 바 없어\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260204150851003",
@@ -147,11 +152,6 @@
       "title": "이렘, 10억원 유상증자…한희철에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260204140200008",
       "pubDate": "Wed, 4 Feb 2026 16:49:29 +0900"
-    },
-    {
-      "title": "HDC현대산업개발 작년 영업익 2천486억원…전년대비 34.7%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260204139100003",
-      "pubDate": "Wed, 4 Feb 2026 16:41:38 +0900"
     }
   ]
 }
