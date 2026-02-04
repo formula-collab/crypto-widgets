@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770176476,
+  "updated_at_unix": 1770181431,
   "items": [
+    {
+      "title": "총리 만난 전북지사 \"기초단체 통합 인센티브도 발표해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260204080951055",
+      "pubDate": "Wed, 4 Feb 2026 13:53:02 +0900"
+    },
+    {
+      "title": "HS화성, 설 앞두고 170여 협력업체에 공사대금 240억 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260204096700053",
+      "pubDate": "Wed, 4 Feb 2026 13:51:58 +0900"
+    },
+    {
+      "title": "지식재산처, 사우디·UAE서 K-지식재산 보호 등 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260204093800063",
+      "pubDate": "Wed, 4 Feb 2026 13:48:38 +0900"
+    },
+    {
+      "title": "롯데칠성 작년 영업이익 10% 줄어…\"경기침체·내수부진 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204095900030",
+      "pubDate": "Wed, 4 Feb 2026 13:46:31 +0900"
+    },
+    {
+      "title": "농협개혁위원회 2차 회의…중앙회장 선거제·경영 투명성 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260204086400030",
+      "pubDate": "Wed, 4 Feb 2026 13:34:30 +0900"
+    },
+    {
+      "title": "삼양엔씨켐, 주당 1.0주 무상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260204089800008",
+      "pubDate": "Wed, 4 Feb 2026 13:20:42 +0900"
+    },
+    {
+      "title": "한국인터넷기업협회 \"은행 주도 스테이블코인 발행 추진 반대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260204084000017",
+      "pubDate": "Wed, 4 Feb 2026 12:56:57 +0900"
+    },
+    {
+      "title": "경찰 업비트 운영사 前대표 소환…'김병기 차남 취업청탁' 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260204087900004",
+      "pubDate": "Wed, 4 Feb 2026 12:56:42 +0900"
+    },
     {
       "title": "케이웨더, 63억1천만원 유상증자…비보파워인터내셔널에 3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260204083700008",
@@ -112,46 +152,6 @@
       "title": "울산시, 올해 지방공무원 549명 채용…작년보다 405명 증가",
       "link": "https://www.yna.co.kr/view/AKR20260204073500057",
       "pubDate": "Wed, 4 Feb 2026 11:05:06 +0900"
-    },
-    {
-      "title": "[광주소식] 광주은행, 디지털예금 금리 이벤트 '최고 3.01%'",
-      "link": "https://www.yna.co.kr/view/AKR20260204074000054",
-      "pubDate": "Wed, 4 Feb 2026 11:04:26 +0900"
-    },
-    {
-      "title": "해수부, 수산물 수출 국제인증 지원 확대…최대 1억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260204032500030",
-      "pubDate": "Wed, 4 Feb 2026 11:00:04 +0900"
-    },
-    {
-      "title": "선원들 바다 위에서도 LTE급 속도…선내 저궤도 위성 인터넷",
-      "link": "https://www.yna.co.kr/view/AKR20260204054300051",
-      "pubDate": "Wed, 4 Feb 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 양파 수급안정 선제 대응…비축물량 1만5천t 수출",
-      "link": "https://www.yna.co.kr/view/AKR20260204052400030",
-      "pubDate": "Wed, 4 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "부산항 신항 수리조선단지 사업 제안서 접수…2028년 착공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260204057400051",
-      "pubDate": "Wed, 4 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "부산·울산에 기회발전특구 추가 지정…8조6천억 투자 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260204050600003",
-      "pubDate": "Wed, 4 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "코트라, '5극3특' 중심 지방 수출·투자유치 지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260204056800003",
-      "pubDate": "Wed, 4 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "GH 첫 단독시행 남양주 다산진건지구 최종 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260204071600061",
-      "pubDate": "Wed, 4 Feb 2026 10:54:26 +0900"
     }
   ]
 }
