@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770226619,
+  "updated_at_unix": 1770230018,
   "items": [
+    {
+      "title": "베선트 미국 재무장관 \"항상 '强달러 정책' 지지\" 재확인",
+      "link": "https://www.yna.co.kr/view/AKR20260205005000071",
+      "pubDate": "Thu, 5 Feb 2026 02:50:09 +0900"
+    },
     {
       "title": "달러-원, '엔·유로 약세發' 달러 강세 속 상승…1,460원 턱밑 마감",
       "link": "https://www.yna.co.kr/view/AKR20260205004800002",
@@ -147,11 +152,6 @@
       "title": "[속보] 靑 \"삼성 1만2천명·SK 8천500명·한화 5천780명 채용계획\"",
       "link": "https://www.yna.co.kr/view/AKR20260204142400001",
       "pubDate": "Wed, 4 Feb 2026 17:00:00 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"10대 기업, 올해 5만1천600명 채용…3만4천200명 신입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204142000001",
-      "pubDate": "Wed, 4 Feb 2026 16:55:56 +0900"
     }
   ]
 }
