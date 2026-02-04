@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770243335,
+  "updated_at_unix": 1770245361,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260205019400011",
+      "pubDate": "Thu, 5 Feb 2026 07:30:09 +0900"
+    },
     {
       "title": "[우분투칼럼] 프랑스어권 아프리카, 2026년 한국의 새로운 선택지",
       "link": "https://www.yna.co.kr/view/AKR20260107113900898",
@@ -147,11 +152,6 @@
       "title": "국토장관 \"재초환 폐지나 토허구역 해제 논의한 바 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260204150800003",
       "pubDate": "Wed, 4 Feb 2026 17:48:34 +0900"
-    },
-    {
-      "title": "'성장과실 모두에게' 李대통령 당부에 재계 300조 투자 내놨다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204144751003",
-      "pubDate": "Wed, 4 Feb 2026 17:47:01 +0900"
     }
   ]
 }
