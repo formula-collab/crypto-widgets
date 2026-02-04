@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770245361,
+  "updated_at_unix": 1770246985,
   "items": [
+    {
+      "title": "李대통령 \"똘똘한 한 채 갈아타기? 주거용 아니면 안 하는 게 이익\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205025600001",
+      "pubDate": "Thu, 5 Feb 2026 08:10:39 +0900"
+    },
+    {
+      "title": "여한구 \"국회 대미투자법 신속처리 합의, 美설득에 도움 될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205024300003",
+      "pubDate": "Thu, 5 Feb 2026 08:02:08 +0900"
+    },
+    {
+      "title": "전세사기 피해주택 매입 누적 5천889호…새정부 들어 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260204132000003",
+      "pubDate": "Thu, 5 Feb 2026 08:00:55 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美기술주 투심 위축 지속…개인 vs 외인 수급대결 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260205023700008",
+      "pubDate": "Thu, 5 Feb 2026 07:59:22 +0900"
+    },
+    {
+      "title": "부산시, 전통 맛 지켜온 노포 활성화…비욘드 비-스타 프로젝트",
+      "link": "https://www.yna.co.kr/view/AKR20260205023500051",
+      "pubDate": "Thu, 5 Feb 2026 07:53:22 +0900"
+    },
+    {
+      "title": "부산시, 청끌기업 120개사 모집…단계별 채용 지원 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260205023300051",
+      "pubDate": "Thu, 5 Feb 2026 07:52:26 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260205019400011",
@@ -122,36 +152,6 @@
       "title": "이규연 \"李대통령 '다주택 참모진, 스스로 고민하리라 생각'\"",
       "link": "https://www.yna.co.kr/view/AKR20260204155400001",
       "pubDate": "Wed, 4 Feb 2026 18:16:55 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260204157200002",
-      "pubDate": "Wed, 4 Feb 2026 18:03:41 +0900"
-    },
-    {
-      "title": "은행 점포 1km 내 통폐합도 영향평가…비도시권 폐쇄 감점 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204064251002",
-      "pubDate": "Wed, 4 Feb 2026 18:00:27 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260204148500011",
-      "pubDate": "Wed, 4 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "李대통령 만난 경제계 \"주요 10개 기업, 5년간 270조 지방 투자\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260204130251001",
-      "pubDate": "Wed, 4 Feb 2026 17:54:19 +0900"
-    },
-    {
-      "title": "화성시, 국토부에 분당선 연장·광역버스 확충 등 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260204152800061",
-      "pubDate": "Wed, 4 Feb 2026 17:48:35 +0900"
-    },
-    {
-      "title": "국토장관 \"재초환 폐지나 토허구역 해제 논의한 바 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204150800003",
-      "pubDate": "Wed, 4 Feb 2026 17:48:34 +0900"
     }
   ]
 }
