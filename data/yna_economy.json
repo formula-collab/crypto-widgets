@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770236505,
+  "updated_at_unix": 1770238648,
   "items": [
+    {
+      "title": "한 판 8천588원까지 올랐던 계란…산란계協 담합 의혹 심판대에",
+      "link": "https://www.yna.co.kr/view/AKR20260204164300002",
+      "pubDate": "Thu, 5 Feb 2026 05:51:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프, 이란 수뇌부에 \"걱정해야 될 것\"…WTI 3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260205011000009",
+      "pubDate": "Thu, 5 Feb 2026 05:44:31 +0900"
+    },
     {
       "title": "베선트 미국 재무장관 \"항상 '强달러 정책' 지지\" 재확인",
       "link": "https://www.yna.co.kr/view/AKR20260205005000071",
@@ -142,16 +152,6 @@
       "title": "[속보] 이재용 \"삼성전자 영업실적 많이 올라…더 채용할 여력 생겨\"",
       "link": "https://www.yna.co.kr/view/AKR20260204142800001",
       "pubDate": "Wed, 4 Feb 2026 17:00:33 +0900"
-    },
-    {
-      "title": "한은 \"충청권, 바이오산업 거점으로 성장…수도권과는 격차\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204116900063",
-      "pubDate": "Wed, 4 Feb 2026 17:00:01 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"삼성 1만2천명·SK 8천500명·한화 5천780명 채용계획\"",
-      "link": "https://www.yna.co.kr/view/AKR20260204142400001",
-      "pubDate": "Wed, 4 Feb 2026 17:00:00 +0900"
     }
   ]
 }
