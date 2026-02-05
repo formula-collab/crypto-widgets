@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770294857,
+  "updated_at_unix": 1770299886,
   "items": [
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260205195300002",
+      "pubDate": "Thu, 5 Feb 2026 21:44:02 +0900"
+    },
     {
       "title": "만호제강 \"현대자동차 주식 103억원어치 취득…지분율 0.01%\"",
       "link": "https://www.yna.co.kr/view/AKR20260205184200008",
@@ -147,11 +152,6 @@
       "title": "\"막대한 성과급 풀렸다\" SK하이닉스 청주사업장 주변 상권 들썩",
       "link": "https://www.yna.co.kr/view/AKR20260205140300064",
       "pubDate": "Thu, 5 Feb 2026 16:56:35 +0900"
-    },
-    {
-      "title": "국토부, '5년째 개통 지연' 부전∼마산 복선전철 관련 조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260205164900003",
-      "pubDate": "Thu, 5 Feb 2026 16:54:57 +0900"
     }
   ]
 }
