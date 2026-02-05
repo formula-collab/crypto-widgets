@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770331916,
+  "updated_at_unix": 1770333283,
   "items": [
+    {
+      "title": "신보중앙회, 장기연체 소상공인 재기 본격 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260206025500030",
+      "pubDate": "Fri, 6 Feb 2026 08:05:55 +0900"
+    },
+    {
+      "title": "전통시장, 설 차례상 비용 대형마트보다 22% 저렴",
+      "link": "https://www.yna.co.kr/view/AKR20260206025300030",
+      "pubDate": "Fri, 6 Feb 2026 08:05:23 +0900"
+    },
+    {
+      "title": "작년 경상흑자 1천231억달러 '역대 최대'…반도체 등 수출 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260206023100002",
+      "pubDate": "Fri, 6 Feb 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산시·해군, 해양·국방 AI 거점 조성…첨단시장 진출 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260206023200051",
+      "pubDate": "Fri, 6 Feb 2026 07:57:54 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260206018100011",
@@ -132,26 +152,6 @@
       "title": "'숨고르기 장세' 국고채 금리 일제히 하락…3년물 연 3.204%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260205162551008",
       "pubDate": "Thu, 5 Feb 2026 17:22:45 +0900"
-    },
-    {
-      "title": "[특징주] 넥센타이어, 10% 급등 마감…타이어주 동반 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205055651008",
-      "pubDate": "Thu, 5 Feb 2026 17:18:44 +0900"
-    },
-    {
-      "title": "[특징주] 롯데케미칼, 적자폭 확대 소식에 11%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205048451008",
-      "pubDate": "Thu, 5 Feb 2026 17:14:59 +0900"
-    },
-    {
-      "title": "[게시판] 산업부, '기업성장 간담회'…성장사다리 복원방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260205166400003",
-      "pubDate": "Thu, 5 Feb 2026 17:14:19 +0900"
-    },
-    {
-      "title": "[특징주] 삼전·하닉, 美기술주 투심약화에 큰폭 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205042251008",
-      "pubDate": "Thu, 5 Feb 2026 17:13:52 +0900"
     }
   ]
 }
