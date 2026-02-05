@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770309214,
+  "updated_at_unix": 1770313115,
   "items": [
+    {
+      "title": "달러-원, 美 고용 악화에 상승 폭 축소…1,463.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260206004900002",
+      "pubDate": "Fri, 6 Feb 2026 02:28:16 +0900"
+    },
     {
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260205195300002",
@@ -147,11 +152,6 @@
       "title": "정부 \"소비자 체감하는 농수산물 유통 혁신안 내년 예산 반영\"",
       "link": "https://www.yna.co.kr/view/AKR20260205163800002",
       "pubDate": "Thu, 5 Feb 2026 17:00:01 +0900"
-    },
-    {
-      "title": "\"막대한 성과급 풀렸다\" SK하이닉스 청주사업장 주변 상권 들썩",
-      "link": "https://www.yna.co.kr/view/AKR20260205140300064",
-      "pubDate": "Thu, 5 Feb 2026 16:56:35 +0900"
     }
   ]
 }
