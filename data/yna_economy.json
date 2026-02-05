@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770333283,
+  "updated_at_unix": 1770335094,
   "items": [
+    {
+      "title": "[동정] 황기연 수은 행장, 울산·경북 '소부장' 기업 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260206030600002",
+      "pubDate": "Fri, 6 Feb 2026 08:36:32 +0900"
+    },
+    {
+      "title": "농식품부, 설 앞두고 식품기업과 할인행사…최대 75% 저렴",
+      "link": "https://www.yna.co.kr/view/AKR20260206029000030",
+      "pubDate": "Fri, 6 Feb 2026 08:35:08 +0900"
+    },
+    {
+      "title": "SK증권 \"LG유플러스, 올해 1조원대 영업익 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206028800008",
+      "pubDate": "Fri, 6 Feb 2026 08:31:38 +0900"
+    },
+    {
+      "title": "삼성증권, KT&G 목표가↑…\"올해 주주환원율 더 높인다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206027000008",
+      "pubDate": "Fri, 6 Feb 2026 08:27:58 +0900"
+    },
+    {
+      "title": "중진공, 청년창업사관학교 졸업식 개최…\"후속 지원 약속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206026600030",
+      "pubDate": "Fri, 6 Feb 2026 08:17:31 +0900"
+    },
+    {
+      "title": "한투증권, KB증권 목표가 12%↑…\"고배당 기업 요건 충족\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206025700008",
+      "pubDate": "Fri, 6 Feb 2026 08:17:29 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美증시 전방위 투매에 하락…외인 '셀 코리아' 가속하나",
+      "link": "https://www.yna.co.kr/view/AKR20260206023900008",
+      "pubDate": "Fri, 6 Feb 2026 08:15:31 +0900"
+    },
     {
       "title": "신보중앙회, 장기연체 소상공인 재기 본격 지원",
       "link": "https://www.yna.co.kr/view/AKR20260206025500030",
@@ -117,41 +152,6 @@
       "title": "서울 성수4지구 재개발 수주전 대우·롯데 2파전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260205057951003",
       "pubDate": "Thu, 5 Feb 2026 17:43:22 +0900"
-    },
-    {
-      "title": "감사원, YTN 매각·尹대통령실 비밀통로 의혹 살핀다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205089351001",
-      "pubDate": "Thu, 5 Feb 2026 17:32:03 +0900"
-    },
-    {
-      "title": "여야, 정무위서 '가상자산 대주주 지분 제한' 한목소리 우려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205095551001",
-      "pubDate": "Thu, 5 Feb 2026 17:31:56 +0900"
-    },
-    {
-      "title": "농식품장관, 설 성수기 축산물 수급현장 점검…\"물가안정 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205133300030",
-      "pubDate": "Thu, 5 Feb 2026 17:30:01 +0900"
-    },
-    {
-      "title": "李대통령 \"피해주며 혼자 잘살면 좋나…고물가에 공권력 총동원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205127851001",
-      "pubDate": "Thu, 5 Feb 2026 17:26:53 +0900"
-    },
-    {
-      "title": "CJ제일제당·대한제분 설탕·밀가루 가격 인하(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260205159951030",
-      "pubDate": "Thu, 5 Feb 2026 17:26:28 +0900"
-    },
-    {
-      "title": "CJ프레시웨이 \"마켓보로 주식 403억원에 추가취득…지분율 55%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205171700008",
-      "pubDate": "Thu, 5 Feb 2026 17:26:01 +0900"
-    },
-    {
-      "title": "'숨고르기 장세' 국고채 금리 일제히 하락…3년물 연 3.204%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205162551008",
-      "pubDate": "Thu, 5 Feb 2026 17:22:45 +0900"
     }
   ]
 }
