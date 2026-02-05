@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770278575,
+  "updated_at_unix": 1770282355,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260205173300011",
+      "pubDate": "Thu, 5 Feb 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[일문일답] 정은보 \"전 세계적 경쟁 확대…거래시간 연장 불가피\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205174000008",
+      "pubDate": "Thu, 5 Feb 2026 17:55:33 +0900"
+    },
+    {
+      "title": "외교부 \"한미, 핵잠·농축재처리 신속 대면협의 공감대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205174700504",
+      "pubDate": "Thu, 5 Feb 2026 17:55:29 +0900"
+    },
+    {
+      "title": "군포 대야미지구 공사중 상수관 파손…2시간 만에 급수 재개",
+      "link": "https://www.yna.co.kr/view/AKR20260205174500061",
+      "pubDate": "Thu, 5 Feb 2026 17:49:37 +0900"
+    },
+    {
+      "title": "국토부 \"1·29 대책 관련 교통 우려, 지자체와 긴밀 소통\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205176000003",
+      "pubDate": "Thu, 5 Feb 2026 17:48:58 +0900"
+    },
+    {
+      "title": "서울 성수4지구 재개발 수주전 롯데·대우 2파전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205057951003",
+      "pubDate": "Thu, 5 Feb 2026 17:43:22 +0900"
+    },
+    {
+      "title": "감사원, YTN 매각·尹대통령실 비밀통로 의혹 살핀다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205089351001",
+      "pubDate": "Thu, 5 Feb 2026 17:32:03 +0900"
+    },
+    {
+      "title": "여야, 정무위서 '가상자산 대주주 지분 제한' 한목소리 우려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205095551001",
+      "pubDate": "Thu, 5 Feb 2026 17:31:56 +0900"
+    },
+    {
+      "title": "농식품장관, 설 성수기 축산물 수급현장 점검…\"물가안정 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205133300030",
+      "pubDate": "Thu, 5 Feb 2026 17:30:01 +0900"
+    },
+    {
+      "title": "李대통령 \"피해주며 혼자 잘살면 좋나…고물가에 공권력 총동원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205127851001",
+      "pubDate": "Thu, 5 Feb 2026 17:26:53 +0900"
+    },
+    {
+      "title": "CJ제일제당·대한제분 설탕·밀가루 가격 인하(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260205159951030",
+      "pubDate": "Thu, 5 Feb 2026 17:26:28 +0900"
+    },
+    {
+      "title": "CJ프레시웨이 \"마켓보로 주식 403억원에 추가취득…지분율 55%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205171700008",
+      "pubDate": "Thu, 5 Feb 2026 17:26:01 +0900"
+    },
+    {
+      "title": "'숨고르기 장세' 국고채 금리 일제히 하락…3년물 연 3.204%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205162551008",
+      "pubDate": "Thu, 5 Feb 2026 17:22:45 +0900"
+    },
+    {
+      "title": "[특징주] 넥센타이어, 10% 급등 마감…타이어주 동반 강세(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205055651008",
+      "pubDate": "Thu, 5 Feb 2026 17:18:44 +0900"
+    },
+    {
+      "title": "[특징주] 롯데케미칼, 적자폭 확대 소식에 11%대 급락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205048451008",
+      "pubDate": "Thu, 5 Feb 2026 17:14:59 +0900"
+    },
+    {
+      "title": "[게시판] 산업부, '기업성장 간담회'…성장사다리 복원방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260205166400003",
+      "pubDate": "Thu, 5 Feb 2026 17:14:19 +0900"
+    },
+    {
+      "title": "[특징주] 삼전·하닉, 美기술주 투심약화에 큰폭 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205042251008",
+      "pubDate": "Thu, 5 Feb 2026 17:13:52 +0900"
+    },
+    {
+      "title": "삼천리 \"미국 자회사 주식 508억원어치 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205167200008",
+      "pubDate": "Thu, 5 Feb 2026 17:12:08 +0900"
+    },
+    {
+      "title": "이억원 \"가상자산거래소 위상 강화 시 대주주 지분제한 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205168700002",
+      "pubDate": "Thu, 5 Feb 2026 17:11:59 +0900"
+    },
+    {
+      "title": "[특징주] '장초반 급락' 한화솔루션, 실적발표 후 약보합 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260205067851008",
+      "pubDate": "Thu, 5 Feb 2026 17:10:35 +0900"
+    },
+    {
+      "title": "[쇼츠] 미친 밥값에 마트털이 의적…캐나다 '현대판 로빈후드'",
+      "link": "https://www.yna.co.kr/view/AKR20260205167700704",
+      "pubDate": "Thu, 5 Feb 2026 17:02:37 +0900"
+    },
+    {
+      "title": "정부 \"소비자 체감하는 농수산물 유통 혁신안 내년 예산 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205163800002",
+      "pubDate": "Thu, 5 Feb 2026 17:00:01 +0900"
+    },
+    {
+      "title": "\"막대한 성과급 풀렸다\" SK하이닉스 청주사업장 주변 상권 들썩",
+      "link": "https://www.yna.co.kr/view/AKR20260205140300064",
+      "pubDate": "Thu, 5 Feb 2026 16:56:35 +0900"
+    },
     {
       "title": "국토부, '5년째 개통 지연' 부전∼마산 복선전철 관련 조사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260205164900003",
@@ -37,121 +152,6 @@
       "title": "이억원 \"주가조작 신고포상금, 예비비 동원해서라도 확보\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260205125051002",
       "pubDate": "Thu, 5 Feb 2026 16:43:11 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단 벤처창업본부, 성과공유·운영방향 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260205160500062",
-      "pubDate": "Thu, 5 Feb 2026 16:38:32 +0900"
-    },
-    {
-      "title": "제2동학개미운동?…외인 역대 최대치 판 날, 개인 최대규모 샀다",
-      "link": "https://www.yna.co.kr/view/AKR20260205159100008",
-      "pubDate": "Thu, 5 Feb 2026 16:38:21 +0900"
-    },
-    {
-      "title": "CJ제일제당, 설탕·밀가루 소비자가격 6% 인하…\"물가안정 동참\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205159900030",
-      "pubDate": "Thu, 5 Feb 2026 16:36:27 +0900"
-    },
-    {
-      "title": "[영상] \"먹고 살기 힘드니 의적질\"…마트 턴 캐나다 로빈후드",
-      "link": "https://www.yna.co.kr/view/AKR20260205158000704",
-      "pubDate": "Thu, 5 Feb 2026 16:32:47 +0900"
-    },
-    {
-      "title": "국토1차관 \"공급 확대 신뢰할 수 있도록 조기 착공에 전력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205159400003",
-      "pubDate": "Thu, 5 Feb 2026 16:29:21 +0900"
-    },
-    {
-      "title": "[동정] 해수차관, 해양수도권 육성 고위급 정책협의회 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260205158500051",
-      "pubDate": "Thu, 5 Feb 2026 16:25:33 +0900"
-    },
-    {
-      "title": "[게시판] 부산은행, 주택담보대출 우대금리 제도 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260205158300051",
-      "pubDate": "Thu, 5 Feb 2026 16:25:00 +0900"
-    },
-    {
-      "title": "CJ제일제당, 설탕·밀가루 소비자가격 인하…\"물가안정 동참\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205157600030",
-      "pubDate": "Thu, 5 Feb 2026 16:23:10 +0900"
-    },
-    {
-      "title": "구리 갈매신도시연합회 \"태릉CC 개발, 교통 대책 선행돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205156800060",
-      "pubDate": "Thu, 5 Feb 2026 16:21:07 +0900"
-    },
-    {
-      "title": "영업시간 규제완화에 대형마트들 \"희망적\"…자영업자들은 반대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205118551030",
-      "pubDate": "Thu, 5 Feb 2026 16:17:33 +0900"
-    },
-    {
-      "title": "KT&G 작년 영업이익 14% 증가…매출, 6조5천억원대로 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205145051527",
-      "pubDate": "Thu, 5 Feb 2026 16:15:40 +0900"
-    },
-    {
-      "title": "코스피, 美기술주 삭풍에 3.9% 급락 속 개인 6.7조원 '폭풍매수'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205152100008",
-      "pubDate": "Thu, 5 Feb 2026 16:11:59 +0900"
-    },
-    {
-      "title": "허가없이 러시아 등에 중고차 수출한 외국인 2명 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260205153800051",
-      "pubDate": "Thu, 5 Feb 2026 16:08:39 +0900"
-    },
-    {
-      "title": "정은보 \"코스피 6,000 넘는 데 큰 문제없다 생각\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205086851008",
-      "pubDate": "Thu, 5 Feb 2026 16:04:06 +0900"
-    },
-    {
-      "title": "나라경제 절반만큼 커진 국민연금…기금운용 '새판 짜기' 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260205149800530",
-      "pubDate": "Thu, 5 Feb 2026 16:03:33 +0900"
-    },
-    {
-      "title": "세종 도심특화 복합쇼핑몰 부지 주거용 오피스텔 용도변경 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260205148700063",
-      "pubDate": "Thu, 5 Feb 2026 16:01:47 +0900"
-    },
-    {
-      "title": "외식기업 해외매장 4천600개 넘어…미국서 5년 새 두배로 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260205147400030",
-      "pubDate": "Thu, 5 Feb 2026 16:00:23 +0900"
-    },
-    {
-      "title": "재경부, '바이오 헬스 지원' 원스톱 수출 119 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260205150700002",
-      "pubDate": "Thu, 5 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "KB금융 작년 순이익 5조8천억원, 15%↑…역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205150100002",
-      "pubDate": "Thu, 5 Feb 2026 15:53:52 +0900"
-    },
-    {
-      "title": "작년 부산 1순위 청약자 86%, 해운대·수영·동래구에 몰려",
-      "link": "https://www.yna.co.kr/view/AKR20260205148400051",
-      "pubDate": "Thu, 5 Feb 2026 15:47:28 +0900"
-    },
-    {
-      "title": "치킨기름 공급사 유통마진 내린 교촌…고법 \"과징금 정당\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205132900004",
-      "pubDate": "Thu, 5 Feb 2026 15:46:11 +0900"
-    },
-    {
-      "title": "[게시판] 한은, 인니 중앙은행과 국가 간 QR 기반 지급서비스 연계 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260205127000002",
-      "pubDate": "Thu, 5 Feb 2026 15:46:02 +0900"
-    },
-    {
-      "title": "환율, 외국인 5조원 매도에 급등…18.8원 오른 1,469.0원",
-      "link": "https://www.yna.co.kr/view/AKR20260205040451002",
-      "pubDate": "Thu, 5 Feb 2026 15:45:45 +0900"
     }
   ]
 }
