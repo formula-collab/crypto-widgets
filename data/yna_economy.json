@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770329769,
+  "updated_at_unix": 1770331916,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260206018100011",
+      "pubDate": "Fri, 6 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "[동정] 오세훈 시장, '남산타운 리모델링' 주민설명회 참석",
       "link": "https://www.yna.co.kr/view/AKR20260206016800004",
@@ -147,11 +152,6 @@
       "title": "[특징주] 삼전·하닉, 美기술주 투심약화에 큰폭 하락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260205042251008",
       "pubDate": "Thu, 5 Feb 2026 17:13:52 +0900"
-    },
-    {
-      "title": "삼천리 \"미국 자회사 주식 508억원어치 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205167200008",
-      "pubDate": "Thu, 5 Feb 2026 17:12:08 +0900"
     }
   ]
 }
