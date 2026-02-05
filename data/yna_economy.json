@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770326382,
+  "updated_at_unix": 1770328260,
   "items": [
+    {
+      "title": "[팩트체크] 전세제도, 한국에만 있다고?…조선 후기 처음 등장",
+      "link": "https://www.yna.co.kr/view/AKR20260205081800518",
+      "pubDate": "Fri, 6 Feb 2026 06:30:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 핵 협상 합의에 급격한 되돌림…WTI 2.8%↓",
       "link": "https://www.yna.co.kr/view/AKR20260206010900009",
@@ -147,11 +152,6 @@
       "title": "이억원 \"가상자산거래소 위상 강화 시 대주주 지분제한 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260205168700002",
       "pubDate": "Thu, 5 Feb 2026 17:11:59 +0900"
-    },
-    {
-      "title": "[특징주] '장초반 급락' 한화솔루션, 실적발표 후 약보합 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260205067851008",
-      "pubDate": "Thu, 5 Feb 2026 17:10:35 +0900"
     }
   ]
 }
