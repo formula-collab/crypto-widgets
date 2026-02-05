@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770285957,
+  "updated_at_unix": 1770289565,
   "items": [
+    {
+      "title": "만호제강 \"현대자동차 주식 103억원어치 취득…지분율 0.01%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205184200008",
+      "pubDate": "Thu, 5 Feb 2026 19:39:59 +0900"
+    },
+    {
+      "title": "한국마사회노조 \"과천 경마공원 이전 발표는 정책 폭거\"",
+      "link": "https://www.yna.co.kr/view/AKR20260205185200061",
+      "pubDate": "Thu, 5 Feb 2026 19:15:55 +0900"
+    },
     {
       "title": "S&P, SK하이닉스 신용등급 'BBB+로 상향…\"우수한 실적 지속\"",
       "link": "https://www.yna.co.kr/view/AKR20260205182200008",
@@ -142,16 +152,6 @@
       "title": "국토부, '5년째 개통 지연' 부전∼마산 복선전철 관련 조사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260205164900003",
       "pubDate": "Thu, 5 Feb 2026 16:54:57 +0900"
-    },
-    {
-      "title": "LH, 법원과 연계한 공동주택관리 분쟁 조정 활성화 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260205163700003",
-      "pubDate": "Thu, 5 Feb 2026 16:51:13 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.204%",
-      "link": "https://www.yna.co.kr/view/AKR20260205162500008",
-      "pubDate": "Thu, 5 Feb 2026 16:50:13 +0900"
     }
   ]
 }
