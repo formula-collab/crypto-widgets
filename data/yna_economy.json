@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770324939,
+  "updated_at_unix": 1770326382,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 핵 협상 합의에 급격한 되돌림…WTI 2.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260206010900009",
+      "pubDate": "Fri, 6 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "1년 중 173일 일터 무단이탈 반복…항우연 직원 중징계",
+      "link": "https://www.yna.co.kr/view/AKR20260205174400063",
+      "pubDate": "Fri, 6 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "달러-원, 美 고용 악화에 상승 폭 축소…1,463.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260206004900002",
@@ -142,16 +152,6 @@
       "title": "[특징주] '장초반 급락' 한화솔루션, 실적발표 후 약보합 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260205067851008",
       "pubDate": "Thu, 5 Feb 2026 17:10:35 +0900"
-    },
-    {
-      "title": "[쇼츠] 미친 밥값에 마트털이 의적…캐나다 '현대판 로빈후드'",
-      "link": "https://www.yna.co.kr/view/AKR20260205167700704",
-      "pubDate": "Thu, 5 Feb 2026 17:02:37 +0900"
-    },
-    {
-      "title": "정부 \"소비자 체감하는 농수산물 유통 혁신안 내년 예산 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260205163800002",
-      "pubDate": "Thu, 5 Feb 2026 17:00:01 +0900"
     }
   ]
 }
