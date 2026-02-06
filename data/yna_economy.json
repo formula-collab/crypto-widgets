@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770412892,
+  "updated_at_unix": 1770414577,
   "items": [
+    {
+      "title": "[AI돋보기] 칩 쌓을수록 '은'이 마른다…AI가 부른 귀금속의 변신",
+      "link": "https://www.yna.co.kr/view/AKR20260130021200017",
+      "pubDate": "Sat, 7 Feb 2026 06:33:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 핵 폐기 협상 공회전…WTI 0.4%↑",
       "link": "https://www.yna.co.kr/view/AKR20260207006600009",
@@ -147,11 +152,6 @@
       "title": "환율, 1,470원 턱밑 마감…종일 상승·하락 공방",
       "link": "https://www.yna.co.kr/view/AKR20260206128200002",
       "pubDate": "Fri, 6 Feb 2026 15:57:27 +0900"
-    },
-    {
-      "title": "광명시, 개웅교 재가설 공사 안전대책 요구… \"급경사 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206131900061",
-      "pubDate": "Fri, 6 Feb 2026 15:56:59 +0900"
     }
   ]
 }
