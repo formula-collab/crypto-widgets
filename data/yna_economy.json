@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770349316,
+  "updated_at_unix": 1770354593,
   "items": [
+    {
+      "title": "GS건설 작년 영업이익 4천378억원…전년 대비 53.1% 증가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206091751527",
+      "pubDate": "Fri, 6 Feb 2026 14:00:40 +0900"
+    },
+    {
+      "title": "대전 기업 시가총액 평균 낸 '대전 상장기업지수' 선포",
+      "link": "https://www.yna.co.kr/view/AKR20260206034200063",
+      "pubDate": "Fri, 6 Feb 2026 14:00:06 +0900"
+    },
+    {
+      "title": "[과학스냅] 과천과학관, 유아청소년 단체 과학교육 프로그램 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260206097300017",
+      "pubDate": "Fri, 6 Feb 2026 14:00:01 +0900"
+    },
+    {
+      "title": "수소기술 국산화에 427억…청정수소 신규사업 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260206071400017",
+      "pubDate": "Fri, 6 Feb 2026 13:30:01 +0900"
+    },
     {
       "title": "올해 상반기 일자리 전망, 반도체만 '맑음'…섬유는 '흐림'",
       "link": "https://www.yna.co.kr/view/AKR20260206037900530",
@@ -132,26 +152,6 @@
       "title": "광주 농성동 주상복합부지에 하얏트플레이스 호텔 추진",
       "link": "https://www.yna.co.kr/view/AKR20260206068300054",
       "pubDate": "Fri, 6 Feb 2026 10:46:04 +0900"
-    },
-    {
-      "title": "한국형 포켓몬 꿈꾼다…데브시스터즈, '쿠키런 유니버스' 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260206057900017",
-      "pubDate": "Fri, 6 Feb 2026 10:45:47 +0900"
-    },
-    {
-      "title": "고양 K-컬처밸리 사업 또 연기…美업체 정밀 안전점검 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260206066900061",
-      "pubDate": "Fri, 6 Feb 2026 10:41:49 +0900"
-    },
-    {
-      "title": "[특징주] 미국발 삭풍에 삼성전자·하이닉스 동반 3%대 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260206066600008",
-      "pubDate": "Fri, 6 Feb 2026 10:39:17 +0900"
-    },
-    {
-      "title": "[게시판] NH농협카드, 정보보호 실천 결의대회",
-      "link": "https://www.yna.co.kr/view/AKR20260206054700002",
-      "pubDate": "Fri, 6 Feb 2026 10:37:14 +0900"
     }
   ]
 }
