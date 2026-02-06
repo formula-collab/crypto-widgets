@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770418043,
+  "updated_at_unix": 1770419732,
   "items": [
+    {
+      "title": "5호선 연장에 5천500억원 제시한 김포시…찬반 공방 가열",
+      "link": "https://www.yna.co.kr/view/AKR20260206146600065",
+      "pubDate": "Sat, 7 Feb 2026 08:00:04 +0900"
+    },
+    {
+      "title": "원주시, 2026 두바이 월드헬스 엑스포(WHX) 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260206150700062",
+      "pubDate": "Sat, 7 Feb 2026 08:00:03 +0900"
+    },
+    {
+      "title": "경기 포천서 두 번째 아프리카돼지열병 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260207013700030",
+      "pubDate": "Sat, 7 Feb 2026 07:56:14 +0900"
+    },
     {
       "title": "[신상잇슈] 파리바게뜨 '두쫀팝 케이크'·오리온 '호호감자크래커'",
       "link": "https://www.yna.co.kr/view/AKR20260206049800030",
@@ -137,21 +152,6 @@
       "title": "美하원 법사위, 쿠팡 소환장 공개…'차별' 주장하며 공개 엄호",
       "link": "https://www.yna.co.kr/view/AKR20260206124000009",
       "pubDate": "Fri, 6 Feb 2026 16:12:50 +0900"
-    },
-    {
-      "title": "우리금융 작년 순익 3조1천413억원, 1.8%↑…\"사실상 역대 최대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206095500002",
-      "pubDate": "Fri, 6 Feb 2026 16:05:53 +0900"
-    },
-    {
-      "title": "[게시판] 작년 하반기 우수 국고채 전문딜러에 크레디아그리콜 등 6개사",
-      "link": "https://www.yna.co.kr/view/AKR20260206113100002",
-      "pubDate": "Fri, 6 Feb 2026 16:00:03 +0900"
-    },
-    {
-      "title": "기획처 \"지역 의료 공급 강화·사각지대 축소 과제 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206119600002",
-      "pubDate": "Fri, 6 Feb 2026 16:00:03 +0900"
     }
   ]
 }
