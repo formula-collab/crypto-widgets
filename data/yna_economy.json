@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770372216,
+  "updated_at_unix": 1770375897,
   "items": [
+    {
+      "title": "'소프트웨어 개발업체' 한컴인스페이스, 코스닥 상장 불발",
+      "link": "https://www.yna.co.kr/view/AKR20260206172100008",
+      "pubDate": "Fri, 6 Feb 2026 19:56:03 +0900"
+    },
     {
       "title": "충남 예산 산란계 농장서 고병원성 조류인플루엔자 발생",
       "link": "https://www.yna.co.kr/view/AKR20260206165500030",
@@ -147,11 +152,6 @@
       "title": "미국발 삭풍에 5% 급락 코스피, 낙폭 일부 만회해 5,080대 마감",
       "link": "https://www.yna.co.kr/view/AKR20260206131000008",
       "pubDate": "Fri, 6 Feb 2026 15:52:20 +0900"
-    },
-    {
-      "title": "한국GM·하청노동자 고용 승계 합의…갈등 봉합",
-      "link": "https://www.yna.co.kr/view/AKR20260206124300063",
-      "pubDate": "Fri, 6 Feb 2026 15:41:39 +0900"
     }
   ]
 }
