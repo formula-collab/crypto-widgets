@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770414577,
+  "updated_at_unix": 1770415923,
   "items": [
+    {
+      "title": "[신상잇슈] 파리바게뜨 '두쫀팝 케이크'·오리온 '호호감자크래커'",
+      "link": "https://www.yna.co.kr/view/AKR20260206049800030",
+      "pubDate": "Sat, 7 Feb 2026 07:00:01 +0900"
+    },
     {
       "title": "[AI돋보기] 칩 쌓을수록 '은'이 마른다…AI가 부른 귀금속의 변신",
       "link": "https://www.yna.co.kr/view/AKR20260130021200017",
@@ -147,11 +152,6 @@
       "title": "기획처 \"지역 의료 공급 강화·사각지대 축소 과제 발굴\"",
       "link": "https://www.yna.co.kr/view/AKR20260206119600002",
       "pubDate": "Fri, 6 Feb 2026 16:00:03 +0900"
-    },
-    {
-      "title": "환율, 1,470원 턱밑 마감…종일 상승·하락 공방",
-      "link": "https://www.yna.co.kr/view/AKR20260206128200002",
-      "pubDate": "Fri, 6 Feb 2026 15:57:27 +0900"
     }
   ]
 }
