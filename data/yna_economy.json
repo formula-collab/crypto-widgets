@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770364836,
+  "updated_at_unix": 1770368723,
   "items": [
+    {
+      "title": "이뮨온시아, 1천200억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260206156900008",
+      "pubDate": "Fri, 6 Feb 2026 17:39:33 +0900"
+    },
+    {
+      "title": "농협 개혁 추진단 2차 회의…운영 투명성 제고 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260206151900030",
+      "pubDate": "Fri, 6 Feb 2026 17:25:20 +0900"
+    },
+    {
+      "title": "국고채 금리, 증시 낙폭에 하락했다 다시 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206144251008",
+      "pubDate": "Fri, 6 Feb 2026 17:24:05 +0900"
+    },
+    {
+      "title": "iM금융 지난해 당기순이익 4천439억원…주당 700원 배당",
+      "link": "https://www.yna.co.kr/view/AKR20260206150300053",
+      "pubDate": "Fri, 6 Feb 2026 17:13:02 +0900"
+    },
+    {
+      "title": "교촌에프앤비, 작년 영업이익 349억원…126% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260206148600030",
+      "pubDate": "Fri, 6 Feb 2026 17:04:03 +0900"
+    },
+    {
+      "title": "특허기술진흥원·UAE, 'AI 기반 특허평가시스템' 도입 확대 협의",
+      "link": "https://www.yna.co.kr/view/AKR20260206147200063",
+      "pubDate": "Fri, 6 Feb 2026 17:00:50 +0900"
+    },
+    {
+      "title": "[동정] 김이탁 국토1차관, 서울도시과학기술고 졸업식 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260206145100003",
+      "pubDate": "Fri, 6 Feb 2026 17:00:49 +0900"
+    },
+    {
+      "title": "[인사] 건설공제조합",
+      "link": "https://www.yna.co.kr/view/AKR20260206147100003",
+      "pubDate": "Fri, 6 Feb 2026 17:00:27 +0900"
+    },
     {
       "title": "두산에너빌 경영진, 빌딩 소유권 분쟁 피소…\"15년 묵은 상습 소송\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260206129851004",
@@ -112,46 +152,6 @@
       "title": "외국환시세(2월6일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260206126700002",
       "pubDate": "Fri, 6 Feb 2026 15:35:20 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.5원 오른 1,469.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260206124500002",
-      "pubDate": "Fri, 6 Feb 2026 15:30:15 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260206123500002",
-      "pubDate": "Fri, 6 Feb 2026 15:29:20 +0900"
-    },
-    {
-      "title": "울진에 하얏트호텔 들어서나…리조트 개발 우선협상대상자 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260206119900053",
-      "pubDate": "Fri, 6 Feb 2026 15:21:46 +0900"
-    },
-    {
-      "title": "李대통령 \"서울 아파트 한 평 3억 말이 되나…정치가 해결해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206114400001",
-      "pubDate": "Fri, 6 Feb 2026 15:17:54 +0900"
-    },
-    {
-      "title": "'LH 보험 입찰담합' 삼성화재 등 보험사 3곳 항소심도 무죄",
-      "link": "https://www.yna.co.kr/view/AKR20260206108300004",
-      "pubDate": "Fri, 6 Feb 2026 15:03:09 +0900"
-    },
-    {
-      "title": "평창군, 저소득층 주택 보수 지원…LH와 사업 위·수탁 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260206116100062",
-      "pubDate": "Fri, 6 Feb 2026 15:02:39 +0900"
-    },
-    {
-      "title": "법원, '여직원 성추행' 광주 모 새마을금고 이사장 집행유예",
-      "link": "https://www.yna.co.kr/view/AKR20260206116200054",
-      "pubDate": "Fri, 6 Feb 2026 14:58:12 +0900"
-    },
-    {
-      "title": "'KLPGA iM금융오픈 2026' 4월 9일 골프존카운티 선산서 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260206110900053",
-      "pubDate": "Fri, 6 Feb 2026 14:46:44 +0900"
     }
   ]
 }
