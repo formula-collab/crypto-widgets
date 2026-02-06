@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770358198,
+  "updated_at_unix": 1770362765,
   "items": [
+    {
+      "title": "[특징주] 넷마블, 최대매출·주주환원책에 8% 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206061051008",
+      "pubDate": "Fri, 6 Feb 2026 16:19:47 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자·하이닉스, 미국발 삭풍 속 약보합 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206066651008",
+      "pubDate": "Fri, 6 Feb 2026 16:13:27 +0900"
+    },
+    {
+      "title": "美하원 법사위, 쿠팡 소환장 공개…'차별' 주장하며 공개 엄호",
+      "link": "https://www.yna.co.kr/view/AKR20260206124000009",
+      "pubDate": "Fri, 6 Feb 2026 16:12:50 +0900"
+    },
+    {
+      "title": "우리금융 작년 순익 3조1천413억원, 1.8%↑…\"사실상 역대 최대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206095500002",
+      "pubDate": "Fri, 6 Feb 2026 16:05:53 +0900"
+    },
+    {
+      "title": "[게시판] 작년 하반기 우수 국고채 전문딜러에 크레디아그리콜 등 6개사",
+      "link": "https://www.yna.co.kr/view/AKR20260206113100002",
+      "pubDate": "Fri, 6 Feb 2026 16:00:03 +0900"
+    },
+    {
+      "title": "기획처 \"지역 의료 공급 강화·사각지대 축소 과제 발굴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206119600002",
+      "pubDate": "Fri, 6 Feb 2026 16:00:03 +0900"
+    },
+    {
+      "title": "환율, 1,470원 턱밑 마감…종일 상승·하락 공방",
+      "link": "https://www.yna.co.kr/view/AKR20260206128200002",
+      "pubDate": "Fri, 6 Feb 2026 15:57:27 +0900"
+    },
+    {
+      "title": "광명시, 개웅교 재가설 공사 안전대책 요구… \"급경사 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206131900061",
+      "pubDate": "Fri, 6 Feb 2026 15:56:59 +0900"
+    },
+    {
+      "title": "DL이앤씨 작년 영업이익 3천870억원…전년 대비 42.8%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206127751527",
+      "pubDate": "Fri, 6 Feb 2026 15:54:15 +0900"
+    },
+    {
+      "title": "박지원 두산에너빌리티 회장, 강남 빌딩 소유권 분쟁으로 피소",
+      "link": "https://www.yna.co.kr/view/AKR20260206129800004",
+      "pubDate": "Fri, 6 Feb 2026 15:53:24 +0900"
+    },
+    {
+      "title": "미국발 삭풍에 5% 급락 코스피, 낙폭 일부 만회해 5,080대 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260206131000008",
+      "pubDate": "Fri, 6 Feb 2026 15:52:20 +0900"
+    },
+    {
+      "title": "한국GM·하청노동자 고용 승계 합의…갈등 봉합",
+      "link": "https://www.yna.co.kr/view/AKR20260206124300063",
+      "pubDate": "Fri, 6 Feb 2026 15:41:39 +0900"
+    },
+    {
+      "title": "[특징주] '역대급 실적' KB금융, 하락장에도 7% 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206058351008",
+      "pubDate": "Fri, 6 Feb 2026 15:38:33 +0900"
+    },
+    {
+      "title": "BNK금융, 작년 당기순이익 8천150억원…전년보다 11.9%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260206124200051",
+      "pubDate": "Fri, 6 Feb 2026 15:36:49 +0900"
+    },
+    {
+      "title": "외국환시세(2월6일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260206126700002",
+      "pubDate": "Fri, 6 Feb 2026 15:35:20 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 0.5원 오른 1,469.5원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260206124500002",
+      "pubDate": "Fri, 6 Feb 2026 15:30:15 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260206123500002",
+      "pubDate": "Fri, 6 Feb 2026 15:29:20 +0900"
+    },
+    {
+      "title": "울진에 하얏트호텔 들어서나…리조트 개발 우선협상대상자 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260206119900053",
+      "pubDate": "Fri, 6 Feb 2026 15:21:46 +0900"
+    },
+    {
+      "title": "李대통령 \"서울 아파트 한 평 3억 말이 되나…정치가 해결해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206114400001",
+      "pubDate": "Fri, 6 Feb 2026 15:17:54 +0900"
+    },
     {
       "title": "'LH 보험 입찰담합' 삼성화재 등 보험사 3곳 항소심도 무죄",
       "link": "https://www.yna.co.kr/view/AKR20260206108300004",
@@ -57,101 +152,6 @@
       "title": "\"소비자 보호는 말씨부터\"…미래에셋, 고객중심 언어가이드 제작",
       "link": "https://www.yna.co.kr/view/AKR20260206106400008",
       "pubDate": "Fri, 6 Feb 2026 14:30:51 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260206100300011",
-      "pubDate": "Fri, 6 Feb 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 건설경영협회·화우, 건설사 노란봉투법 대응전략 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260206105900003",
-      "pubDate": "Fri, 6 Feb 2026 14:28:43 +0900"
-    },
-    {
-      "title": "횡성군, 외국인 계절근로자 안정수급체계 구축…필리핀 현지점검",
-      "link": "https://www.yna.co.kr/view/AKR20260206103100062",
-      "pubDate": "Fri, 6 Feb 2026 14:25:11 +0900"
-    },
-    {
-      "title": "세종시의회, 무인 교통단속장비 과태료 수입 지방세 전환 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260206103600063",
-      "pubDate": "Fri, 6 Feb 2026 14:20:59 +0900"
-    },
-    {
-      "title": "삼성증권 법인맞춤형 보상 플랫폼 앳워크, 업계 첫 RSA 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260206104700008",
-      "pubDate": "Fri, 6 Feb 2026 14:18:31 +0900"
-    },
-    {
-      "title": "퇴직연금 대전환, 중기 기피 돌파 관건…기금형 메기 역할 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260206080400530",
-      "pubDate": "Fri, 6 Feb 2026 14:16:45 +0900"
-    },
-    {
-      "title": "진해 도심 개발 제한 비행안전구역 조정 추진…경남도, 대책회의",
-      "link": "https://www.yna.co.kr/view/AKR20260206048100052",
-      "pubDate": "Fri, 6 Feb 2026 14:10:00 +0900"
-    },
-    {
-      "title": "롯데웰푸드 작년 영업이익 30% 하락…\"원재료 부담 영향\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206090651527",
-      "pubDate": "Fri, 6 Feb 2026 14:06:43 +0900"
-    },
-    {
-      "title": "GS건설 작년 영업이익 4천378억원…전년 대비 53.1% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206091751527",
-      "pubDate": "Fri, 6 Feb 2026 14:00:40 +0900"
-    },
-    {
-      "title": "대전 기업 시가총액 평균 낸 '대전 상장기업지수' 선포",
-      "link": "https://www.yna.co.kr/view/AKR20260206034200063",
-      "pubDate": "Fri, 6 Feb 2026 14:00:06 +0900"
-    },
-    {
-      "title": "[과학스냅] 과천과학관, 유아청소년 단체 과학교육 프로그램 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260206097300017",
-      "pubDate": "Fri, 6 Feb 2026 14:00:01 +0900"
-    },
-    {
-      "title": "수소기술 국산화에 427억…청정수소 신규사업 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260206071400017",
-      "pubDate": "Fri, 6 Feb 2026 13:30:01 +0900"
-    },
-    {
-      "title": "올해 상반기 일자리 전망, 반도체만 '맑음'…섬유는 '흐림'",
-      "link": "https://www.yna.co.kr/view/AKR20260206037900530",
-      "pubDate": "Fri, 6 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "전직 경찰, 희림건축 취업하려다 불발…\"업무관련성 인정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206060800001",
-      "pubDate": "Fri, 6 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "평일엔 모바일로도 로또 구매 가능…한 회당 5천원 한도",
-      "link": "https://www.yna.co.kr/view/AKR20260206065600002",
-      "pubDate": "Fri, 6 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "하남 '캠프 콜번 개발' 우선협상자로 선경이엔씨 컨소시엄 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260206081100061",
-      "pubDate": "Fri, 6 Feb 2026 11:59:05 +0900"
-    },
-    {
-      "title": "조세심판원 \"전입신고 취하돼도 실거주 확인되면 취득세 공제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206076000001",
-      "pubDate": "Fri, 6 Feb 2026 11:54:23 +0900"
-    },
-    {
-      "title": "대우건설 컨소시엄, 가덕도신공항 재입찰 서류 제출…19곳 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260206083800003",
-      "pubDate": "Fri, 6 Feb 2026 11:49:15 +0900"
-    },
-    {
-      "title": "李대통령 \"주가조작 패가망신\"…금융시장 불법행위 연일 경고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206062051001",
-      "pubDate": "Fri, 6 Feb 2026 11:49:05 +0900"
     }
   ]
 }
