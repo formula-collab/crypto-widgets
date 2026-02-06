@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770397692,
+  "updated_at_unix": 1770400978,
   "items": [
+    {
+      "title": "달러-원, '비트코인 급반등' 위험선호에 낙폭 확대…1,463원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260207003000002",
+      "pubDate": "Sat, 7 Feb 2026 02:35:00 +0900"
+    },
     {
       "title": "'소프트웨어 개발업체' 한컴인스페이스, 코스닥 상장 불발",
       "link": "https://www.yna.co.kr/view/AKR20260206172100008",
@@ -147,11 +152,6 @@
       "title": "박지원 두산에너빌리티 회장, 강남 빌딩 소유권 분쟁으로 피소",
       "link": "https://www.yna.co.kr/view/AKR20260206129800004",
       "pubDate": "Fri, 6 Feb 2026 15:53:24 +0900"
-    },
-    {
-      "title": "미국발 삭풍에 5% 급락 코스피, 낙폭 일부 만회해 5,080대 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260206131000008",
-      "pubDate": "Fri, 6 Feb 2026 15:52:20 +0900"
     }
   ]
 }
