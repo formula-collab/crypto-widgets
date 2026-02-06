@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770411329,
+  "updated_at_unix": 1770412892,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 핵 폐기 협상 공회전…WTI 0.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260207006600009",
+      "pubDate": "Sat, 7 Feb 2026 06:00:07 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 '포레나 더샵 인천시청역' 등 900여가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260206127600003",
+      "pubDate": "Sat, 7 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "달러-원, '비트코인 급반등' 위험선호에 낙폭 확대…1,463원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260207003000002",
@@ -142,16 +152,6 @@
       "title": "광명시, 개웅교 재가설 공사 안전대책 요구… \"급경사 우려\"",
       "link": "https://www.yna.co.kr/view/AKR20260206131900061",
       "pubDate": "Fri, 6 Feb 2026 15:56:59 +0900"
-    },
-    {
-      "title": "DL이앤씨 작년 영업이익 3천870억원…전년 대비 42.8%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206127751527",
-      "pubDate": "Fri, 6 Feb 2026 15:54:15 +0900"
-    },
-    {
-      "title": "박지원 두산에너빌리티 회장, 강남 빌딩 소유권 분쟁으로 피소",
-      "link": "https://www.yna.co.kr/view/AKR20260206129800004",
-      "pubDate": "Fri, 6 Feb 2026 15:53:24 +0900"
     }
   ]
 }
