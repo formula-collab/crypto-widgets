@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770419732,
+  "updated_at_unix": 1770421560,
   "items": [
+    {
+      "title": "부산 아파트값 상승세 소폭 둔화…해운대·수영·동래구는 약진",
+      "link": "https://www.yna.co.kr/view/AKR20260206061800051",
+      "pubDate": "Sat, 7 Feb 2026 08:15:01 +0900"
+    },
     {
       "title": "5호선 연장에 5천500억원 제시한 김포시…찬반 공방 가열",
       "link": "https://www.yna.co.kr/view/AKR20260206146600065",
@@ -147,11 +152,6 @@
       "title": "[특징주] 삼성전자·하이닉스, 미국발 삭풍 속 약보합 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260206066651008",
       "pubDate": "Fri, 6 Feb 2026 16:13:27 +0900"
-    },
-    {
-      "title": "美하원 법사위, 쿠팡 소환장 공개…'차별' 주장하며 공개 엄호",
-      "link": "https://www.yna.co.kr/view/AKR20260206124000009",
-      "pubDate": "Fri, 6 Feb 2026 16:12:50 +0900"
     }
   ]
 }
