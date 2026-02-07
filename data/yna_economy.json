@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770506281,
+  "updated_at_unix": 1770508320,
   "items": [
+    {
+      "title": "가덕도신공항 개발 호재 미끼 부동산 사기 70대 징역 1년 선고",
+      "link": "https://www.yna.co.kr/view/AKR20260206114300051",
+      "pubDate": "Sun, 8 Feb 2026 08:30:01 +0900"
+    },
+    {
+      "title": "포항시·금융기관, 소상공인에게 1천200억 대출…이자도 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260206132800053",
+      "pubDate": "Sun, 8 Feb 2026 08:14:21 +0900"
+    },
     {
       "title": "남양주시, 58층짜리 청년·문화 활력 랜드마크 추진",
       "link": "https://www.yna.co.kr/view/AKR20260206120500060",
@@ -142,16 +152,6 @@
       "title": "선긋는 정부, 살아나는 세수…적자국채 없는 벚꽃추경론 고개",
       "link": "https://www.yna.co.kr/view/AKR20260207044400002",
       "pubDate": "Sun, 8 Feb 2026 05:49:03 +0900"
-    },
-    {
-      "title": "반도체 훈풍에…'세수펑크' 4년만에 털고 '초과세수' 청신호",
-      "link": "https://www.yna.co.kr/view/AKR20260207037000002",
-      "pubDate": "Sun, 8 Feb 2026 05:49:00 +0900"
-    },
-    {
-      "title": "작년 민간아파트 분양 10년 새 최소…공급빙하에 청년 주거비↑",
-      "link": "https://www.yna.co.kr/view/AKR20260207041600002",
-      "pubDate": "Sun, 8 Feb 2026 05:47:02 +0900"
     }
   ]
 }
