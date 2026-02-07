@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770448040,
+  "updated_at_unix": 1770450519,
   "items": [
+    {
+      "title": "\"경마공원 절대 사수\"…과천서 주택공급안 반대 집회",
+      "link": "https://www.yna.co.kr/view/AKR20260207038100061",
+      "pubDate": "Sat, 7 Feb 2026 16:08:30 +0900"
+    },
     {
       "title": "최태원, 李대통령 '가짜뉴스' 질타에 \"다시는 재발않도록 만전\"",
       "link": "https://www.yna.co.kr/view/AKR20260207036700003",
@@ -147,11 +152,6 @@
       "title": "교촌에프앤비, 작년 영업이익 349억원…126% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260206148600030",
       "pubDate": "Fri, 6 Feb 2026 17:04:03 +0900"
-    },
-    {
-      "title": "특허기술진흥원·UAE, 'AI 기반 특허평가시스템' 도입 확대 협의",
-      "link": "https://www.yna.co.kr/view/AKR20260206147200063",
-      "pubDate": "Fri, 6 Feb 2026 17:00:50 +0900"
     }
   ]
 }
