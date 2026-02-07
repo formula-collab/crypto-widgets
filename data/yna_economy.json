@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770426124,
+  "updated_at_unix": 1770435340,
   "items": [
+    {
+      "title": "李대통령, 대한상의 '부자 유출' 보도자료에 \"고의적 가짜뉴스\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207027700001",
+      "pubDate": "Sat, 7 Feb 2026 12:11:43 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260207025400011",
+      "pubDate": "Sat, 7 Feb 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[부고] 양완모(삼성증권 부사장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260207024200008",
+      "pubDate": "Sat, 7 Feb 2026 10:01:32 +0900"
+    },
     {
       "title": "올해 9급 공무원 공채 경쟁률 28.6대 1…작년에 이어 상승세",
       "link": "https://www.yna.co.kr/view/AKR20260207022800001",
@@ -137,21 +152,6 @@
       "title": "롤러코스터 탄 금융시장…오천피·1,460원대 환율 가까스로 사수",
       "link": "https://www.yna.co.kr/view/AKR20260206139100002",
       "pubDate": "Fri, 6 Feb 2026 16:30:34 +0900"
-    },
-    {
-      "title": "공포지수, 미국발 증시 급락에 팬데믹 이후 최고치 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206046351008",
-      "pubDate": "Fri, 6 Feb 2026 16:30:33 +0900"
-    },
-    {
-      "title": "[게시판] 주병기 공정위원장, 동아시아 경쟁당국 고위급 회의 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260206119000002",
-      "pubDate": "Fri, 6 Feb 2026 16:30:00 +0900"
-    },
-    {
-      "title": "미국발 삭풍에 5% 급락 코스피, 낙폭 일부 만회해 5,080대 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206131051008",
-      "pubDate": "Fri, 6 Feb 2026 16:27:41 +0900"
     }
   ]
 }
