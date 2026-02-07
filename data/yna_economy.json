@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770502479,
+  "updated_at_unix": 1770504637,
   "items": [
+    {
+      "title": "경기 화성 돼지농장서 아프리카돼지열병",
+      "link": "https://www.yna.co.kr/view/AKR20260208007300030",
+      "pubDate": "Sun, 8 Feb 2026 07:45:30 +0900"
+    },
+    {
+      "title": "인천 첨단기술 기업에 용적률 완화…삼성바이오 첫 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260206060000065",
+      "pubDate": "Sun, 8 Feb 2026 07:17:01 +0900"
+    },
+    {
+      "title": "K-증시 시가총액, 독일 이어 대만마저 추월…세계 8위 '우뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260205102100008",
+      "pubDate": "Sun, 8 Feb 2026 07:15:01 +0900"
+    },
     {
       "title": "반환점 돈 4분기 실적 시즌…상장사 65% 기대치 밑돌아",
       "link": "https://www.yna.co.kr/view/AKR20260206177500008",
@@ -137,21 +152,6 @@
       "title": "\"경마공원 절대 사수\"…과천서 주택공급안 반대 집회",
       "link": "https://www.yna.co.kr/view/AKR20260207038100061",
       "pubDate": "Sat, 7 Feb 2026 16:08:30 +0900"
-    },
-    {
-      "title": "최태원, 李대통령 '가짜뉴스' 질타에 \"다시는 재발않도록 만전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207036700003",
-      "pubDate": "Sat, 7 Feb 2026 15:23:02 +0900"
-    },
-    {
-      "title": "세계식량가격지수 5개월째 하락…유제품·육류·설탕 가격 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260207033600030",
-      "pubDate": "Sat, 7 Feb 2026 14:42:01 +0900"
-    },
-    {
-      "title": "농식품부 장관, 설 성수품 현장 점검…\"장바구니 부담 최소화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207034100030",
-      "pubDate": "Sat, 7 Feb 2026 14:38:19 +0900"
     }
   ]
 }
