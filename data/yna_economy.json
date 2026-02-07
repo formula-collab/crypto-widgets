@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770497319,
+  "updated_at_unix": 1770498926,
   "items": [
+    {
+      "title": "산재·임금체불 대책, 입법 하세월…16개 법안 중 3개만 '통과'",
+      "link": "https://www.yna.co.kr/view/AKR20260206141700530",
+      "pubDate": "Sun, 8 Feb 2026 06:08:00 +0900"
+    },
+    {
+      "title": "지방공기업도 '안전활동 수준평가' 받는다…노동부 행정예고",
+      "link": "https://www.yna.co.kr/view/AKR20260206157200530",
+      "pubDate": "Sun, 8 Feb 2026 06:06:01 +0900"
+    },
+    {
+      "title": "대학 등록금 갈등속 \"물가상승률 이내로 인상 제한\" 법안 발의",
+      "link": "https://www.yna.co.kr/view/AKR20260206179700530",
+      "pubDate": "Sun, 8 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "삼성전자, 美 특허 4년 연속 1위…LG엔솔 22계단 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260206040200003",
+      "pubDate": "Sun, 8 Feb 2026 06:01:02 +0900"
+    },
+    {
+      "title": "[전국레이더] 부담 뚝, 혜택 쑥…설맞이 페이·고향기부 이벤트 '풍성'",
+      "link": "https://www.yna.co.kr/view/AKR20260206135900063",
+      "pubDate": "Sun, 8 Feb 2026 06:00:07 +0900"
+    },
+    {
+      "title": "삼성전자, 설 연휴 후 HBM4 최초 양산…차세대 시장 기선제압",
+      "link": "https://www.yna.co.kr/view/AKR20260207018700003",
+      "pubDate": "Sun, 8 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "대미 車부품 수출 5년 만에 감소…부품업계 영업이익은 6.6％↓",
+      "link": "https://www.yna.co.kr/view/AKR20260207035800003",
+      "pubDate": "Sun, 8 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "지난해 국내 하이브리드차 비중 역대 최대…처음으로 30% 넘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260207045100003",
+      "pubDate": "Sun, 8 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "우리은행, 외화예금 원화환전 때 90% 환율 우대",
+      "link": "https://www.yna.co.kr/view/AKR20260207046000002",
+      "pubDate": "Sun, 8 Feb 2026 05:57:00 +0900"
+    },
+    {
+      "title": "국민연금, 달러 비쌀 때 해외주식 더 샀다…외환당국과 엇박자?",
+      "link": "https://www.yna.co.kr/view/AKR20260207044300002",
+      "pubDate": "Sun, 8 Feb 2026 05:55:01 +0900"
+    },
+    {
+      "title": "새마을금고 동일인 부당대출 1천300억원…자금경로 중점관리",
+      "link": "https://www.yna.co.kr/view/AKR20260207039700002",
+      "pubDate": "Sun, 8 Feb 2026 05:53:01 +0900"
+    },
+    {
+      "title": "2년만에 38% 늘어난 동전주…금융당국, 상장폐지 요건강화 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260207049800002",
+      "pubDate": "Sun, 8 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "선긋는 정부, 살아나는 세수…적자국채 없는 벚꽃추경론 고개",
+      "link": "https://www.yna.co.kr/view/AKR20260207044400002",
+      "pubDate": "Sun, 8 Feb 2026 05:49:03 +0900"
+    },
+    {
+      "title": "반도체 훈풍에…'세수펑크' 4년만에 털고 '초과세수' 청신호",
+      "link": "https://www.yna.co.kr/view/AKR20260207037000002",
+      "pubDate": "Sun, 8 Feb 2026 05:49:00 +0900"
+    },
+    {
+      "title": "작년 민간아파트 분양 10년 새 최소…공급빙하에 청년 주거비↑",
+      "link": "https://www.yna.co.kr/view/AKR20260207041600002",
+      "pubDate": "Sun, 8 Feb 2026 05:47:02 +0900"
+    },
+    {
+      "title": "무주택 2030가구주, 서울 100만 육박 '최대치'…수도권은 205만",
+      "link": "https://www.yna.co.kr/view/AKR20260207038900002",
+      "pubDate": "Sun, 8 Feb 2026 05:47:01 +0900"
+    },
+    {
+      "title": "경기회복·오천피? 남얘기…양극화에 못갚는 은행 대출 '눈덩이'",
+      "link": "https://www.yna.co.kr/view/AKR20260207051000002",
+      "pubDate": "Sun, 8 Feb 2026 05:45:01 +0900"
+    },
     {
       "title": "금융위, 빗썸 불러 긴급회의…대응반 꾸려 다른 거래소도 점검(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260207033251002",
@@ -67,91 +152,6 @@
       "title": "[다음주 경제] 작년 세수펑크 얼마나…1월 일자리 동향도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260207020900002",
       "pubDate": "Sat, 7 Feb 2026 09:13:55 +0900"
-    },
-    {
-      "title": "부산 아파트값 상승세 소폭 둔화…해운대·수영·동래구는 약진",
-      "link": "https://www.yna.co.kr/view/AKR20260206061800051",
-      "pubDate": "Sat, 7 Feb 2026 08:15:01 +0900"
-    },
-    {
-      "title": "5호선 연장에 5천500억원 제시한 김포시…찬반 공방 가열",
-      "link": "https://www.yna.co.kr/view/AKR20260206146600065",
-      "pubDate": "Sat, 7 Feb 2026 08:00:04 +0900"
-    },
-    {
-      "title": "원주시, 2026 두바이 월드헬스 엑스포(WHX) 참가",
-      "link": "https://www.yna.co.kr/view/AKR20260206150700062",
-      "pubDate": "Sat, 7 Feb 2026 08:00:03 +0900"
-    },
-    {
-      "title": "경기 포천서 두 번째 아프리카돼지열병 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260207013700030",
-      "pubDate": "Sat, 7 Feb 2026 07:56:14 +0900"
-    },
-    {
-      "title": "[신상잇슈] 파리바게뜨 '두쫀팝 케이크'·오리온 '호호감자크래커'",
-      "link": "https://www.yna.co.kr/view/AKR20260206049800030",
-      "pubDate": "Sat, 7 Feb 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[AI돋보기] 칩 쌓을수록 '은'이 마른다…AI가 부른 귀금속의 변신",
-      "link": "https://www.yna.co.kr/view/AKR20260130021200017",
-      "pubDate": "Sat, 7 Feb 2026 06:33:00 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美·이란 핵 폐기 협상 공회전…WTI 0.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260207006600009",
-      "pubDate": "Sat, 7 Feb 2026 06:00:07 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 '포레나 더샵 인천시청역' 등 900여가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260206127600003",
-      "pubDate": "Sat, 7 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "달러-원, '비트코인 급반등' 위험선호에 낙폭 확대…1,463원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260207003000002",
-      "pubDate": "Sat, 7 Feb 2026 02:35:00 +0900"
-    },
-    {
-      "title": "'소프트웨어 개발업체' 한컴인스페이스, 코스닥 상장 불발",
-      "link": "https://www.yna.co.kr/view/AKR20260206172100008",
-      "pubDate": "Fri, 6 Feb 2026 19:56:03 +0900"
-    },
-    {
-      "title": "충남 예산 산란계 농장서 고병원성 조류인플루엔자 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260206165500030",
-      "pubDate": "Fri, 6 Feb 2026 18:41:15 +0900"
-    },
-    {
-      "title": "가덕도신공항 재입찰도 대우건설 컨소 단독 응찰…수의계약 가나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206083851003",
-      "pubDate": "Fri, 6 Feb 2026 18:23:59 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260206152100011",
-      "pubDate": "Fri, 6 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "이뮨온시아, 1천200억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260206156900008",
-      "pubDate": "Fri, 6 Feb 2026 17:39:33 +0900"
-    },
-    {
-      "title": "농협 개혁 추진단 2차 회의…운영 투명성 제고 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260206151900030",
-      "pubDate": "Fri, 6 Feb 2026 17:25:20 +0900"
-    },
-    {
-      "title": "국고채 금리, 증시 낙폭에 하락했다 다시 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206144251008",
-      "pubDate": "Fri, 6 Feb 2026 17:24:05 +0900"
-    },
-    {
-      "title": "iM금융 지난해 당기순이익 4천439억원…주당 700원 배당",
-      "link": "https://www.yna.co.kr/view/AKR20260206150300053",
-      "pubDate": "Fri, 6 Feb 2026 17:13:02 +0900"
     }
   ]
 }
