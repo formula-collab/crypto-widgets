@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770504637,
+  "updated_at_unix": 1770506281,
   "items": [
+    {
+      "title": "남양주시, 58층짜리 청년·문화 활력 랜드마크 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260206120500060",
+      "pubDate": "Sun, 8 Feb 2026 08:05:05 +0900"
+    },
+    {
+      "title": "[마켓스토리] 국내 우량주 레버리지 ETF, 올해 상반기 중 나오나",
+      "link": "https://www.yna.co.kr/view/AKR20260207041800008",
+      "pubDate": "Sun, 8 Feb 2026 08:05:00 +0900"
+    },
+    {
+      "title": "광주 공공노인일자리 신청자 늘었는데 선발은 감소…\"경쟁 치열\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206099600054",
+      "pubDate": "Sun, 8 Feb 2026 08:00:06 +0900"
+    },
+    {
+      "title": "서울 강남3구 아파트 매물 증가…매매수급지수 21주만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260208008000003",
+      "pubDate": "Sun, 8 Feb 2026 07:49:21 +0900"
+    },
     {
       "title": "경기 화성 돼지농장서 아프리카돼지열병",
       "link": "https://www.yna.co.kr/view/AKR20260208007300030",
@@ -132,26 +152,6 @@
       "title": "작년 민간아파트 분양 10년 새 최소…공급빙하에 청년 주거비↑",
       "link": "https://www.yna.co.kr/view/AKR20260207041600002",
       "pubDate": "Sun, 8 Feb 2026 05:47:02 +0900"
-    },
-    {
-      "title": "무주택 2030가구주, 서울 100만 육박 '최대치'…수도권은 205만",
-      "link": "https://www.yna.co.kr/view/AKR20260207038900002",
-      "pubDate": "Sun, 8 Feb 2026 05:47:01 +0900"
-    },
-    {
-      "title": "경기회복·오천피? 남얘기…양극화에 못갚는 은행 대출 '눈덩이'",
-      "link": "https://www.yna.co.kr/view/AKR20260207051000002",
-      "pubDate": "Sun, 8 Feb 2026 05:45:01 +0900"
-    },
-    {
-      "title": "금융위, 빗썸 불러 긴급회의…대응반 꾸려 다른 거래소도 점검(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260207033251002",
-      "pubDate": "Sat, 7 Feb 2026 18:17:32 +0900"
-    },
-    {
-      "title": "\"경마공원 절대 사수\"…과천서 주택공급안 반대 집회",
-      "link": "https://www.yna.co.kr/view/AKR20260207038100061",
-      "pubDate": "Sat, 7 Feb 2026 16:08:30 +0900"
     }
   ]
 }
