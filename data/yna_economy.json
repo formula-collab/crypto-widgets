@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770442981,
+  "updated_at_unix": 1770445730,
   "items": [
+    {
+      "title": "최태원, 李대통령 '가짜뉴스' 질타에 \"다시는 재발않도록 만전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207036700003",
+      "pubDate": "Sat, 7 Feb 2026 15:23:02 +0900"
+    },
+    {
+      "title": "세계식량가격지수 5개월째 하락…유제품·육류·설탕 가격 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260207033600030",
+      "pubDate": "Sat, 7 Feb 2026 14:42:01 +0900"
+    },
+    {
+      "title": "농식품부 장관, 설 성수품 현장 점검…\"장바구니 부담 최소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207034100030",
+      "pubDate": "Sat, 7 Feb 2026 14:38:19 +0900"
+    },
     {
       "title": "한신평, 롯데손보 자본성증권 신용등급↓…회사 신용도는 유지",
       "link": "https://www.yna.co.kr/view/AKR20260207033900008",
@@ -137,21 +152,6 @@
       "title": "특허기술진흥원·UAE, 'AI 기반 특허평가시스템' 도입 확대 협의",
       "link": "https://www.yna.co.kr/view/AKR20260206147200063",
       "pubDate": "Fri, 6 Feb 2026 17:00:50 +0900"
-    },
-    {
-      "title": "[동정] 김이탁 국토1차관, 서울도시과학기술고 졸업식 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260206145100003",
-      "pubDate": "Fri, 6 Feb 2026 17:00:49 +0900"
-    },
-    {
-      "title": "[인사] 건설공제조합",
-      "link": "https://www.yna.co.kr/view/AKR20260206147100003",
-      "pubDate": "Fri, 6 Feb 2026 17:00:27 +0900"
-    },
-    {
-      "title": "두산에너빌 경영진, 빌딩 소유권 분쟁 피소…\"15년 묵은 상습 소송\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260206129851004",
-      "pubDate": "Fri, 6 Feb 2026 16:54:49 +0900"
     }
   ]
 }
