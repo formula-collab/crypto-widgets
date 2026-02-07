@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770498926,
+  "updated_at_unix": 1770500774,
   "items": [
+    {
+      "title": "지자체 희망장려금에 노란우산 가입 확대…\"예산이 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207029900030",
+      "pubDate": "Sun, 8 Feb 2026 06:31:00 +0900"
+    },
+    {
+      "title": "정제마진 호조·유가 안정…정유업계, 올해 실적 반등 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260206162000003",
+      "pubDate": "Sun, 8 Feb 2026 06:10:00 +0900"
+    },
     {
       "title": "산재·임금체불 대책, 입법 하세월…16개 법안 중 3개만 '통과'",
       "link": "https://www.yna.co.kr/view/AKR20260206141700530",
@@ -142,16 +152,6 @@
       "title": "[부고] 양완모(삼성증권 부사장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260207024200008",
       "pubDate": "Sat, 7 Feb 2026 10:01:32 +0900"
-    },
-    {
-      "title": "올해 9급 공무원 공채 경쟁률 28.6대 1…작년에 이어 상승세",
-      "link": "https://www.yna.co.kr/view/AKR20260207022800001",
-      "pubDate": "Sat, 7 Feb 2026 09:42:34 +0900"
-    },
-    {
-      "title": "[다음주 경제] 작년 세수펑크 얼마나…1월 일자리 동향도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260207020900002",
-      "pubDate": "Sat, 7 Feb 2026 09:13:55 +0900"
     }
   ]
 }
