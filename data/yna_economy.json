@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770455986,
+  "updated_at_unix": 1770457841,
   "items": [
+    {
+      "title": "금융위, 빗썸 불러 긴급회의…대응반 꾸려 다른 거래소도 점검(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260207033251002",
+      "pubDate": "Sat, 7 Feb 2026 18:17:32 +0900"
+    },
     {
       "title": "\"경마공원 절대 사수\"…과천서 주택공급안 반대 집회",
       "link": "https://www.yna.co.kr/view/AKR20260207038100061",
@@ -147,11 +152,6 @@
       "title": "iM금융 지난해 당기순이익 4천439억원…주당 700원 배당",
       "link": "https://www.yna.co.kr/view/AKR20260206150300053",
       "pubDate": "Fri, 6 Feb 2026 17:13:02 +0900"
-    },
-    {
-      "title": "교촌에프앤비, 작년 영업이익 349억원…126% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260206148600030",
-      "pubDate": "Fri, 6 Feb 2026 17:04:03 +0900"
     }
   ]
 }
