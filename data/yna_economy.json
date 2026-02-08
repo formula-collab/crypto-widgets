@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770542397,
+  "updated_at_unix": 1770544223,
   "items": [
+    {
+      "title": "금융당국, '빗썸사태' 긴급점검회의…\"全거래소 내부통제 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208048800002",
+      "pubDate": "Sun, 8 Feb 2026 18:39:06 +0900"
+    },
     {
       "title": "金총리 \"당정 모두 긴장해야…기본적 입법도 안 돼 안타깝다\"",
       "link": "https://www.yna.co.kr/view/AKR20260208045800001",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260208019300011",
       "pubDate": "Sun, 8 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "경기회복·오천피? 남얘기…양극화에 못갚는 은행 대출 '눈덩이'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260207051051002",
-      "pubDate": "Sun, 8 Feb 2026 10:09:36 +0900"
     }
   ]
 }
