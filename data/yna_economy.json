@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770545681,
+  "updated_at_unix": 1770547908,
   "items": [
+    {
+      "title": "당정 \"유통산업법 개정 추진\"…대형마트 새벽배송 허용되나",
+      "link": "https://www.yna.co.kr/view/AKR20260208051500001",
+      "pubDate": "Sun, 8 Feb 2026 19:34:44 +0900"
+    },
     {
       "title": "李대통령 \"한 사람이 수백채씩 집 사모으면 수만채 지어도 부족\"",
       "link": "https://www.yna.co.kr/view/AKR20260208049500001",
@@ -147,11 +152,6 @@
       "title": "현대硏 \"가계·부동산 대출 비중 줄여야 성장에 자본 유입\"",
       "link": "https://www.yna.co.kr/view/AKR20260207052000002",
       "pubDate": "Sun, 8 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "'관세대응119 상담 1만건 넘겨…'무역장벽 119'로 확대 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260208016000003",
-      "pubDate": "Sun, 8 Feb 2026 11:00:01 +0900"
     }
   ]
 }
