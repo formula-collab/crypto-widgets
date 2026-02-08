@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770529419,
+  "updated_at_unix": 1770532609,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260208033700011",
+      "pubDate": "Sun, 8 Feb 2026 15:00:02 +0900"
+    },
+    {
+      "title": "국세청장 \"해외이주 신고, 10억 이상 자산가 연평균 139명 불과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208033800002",
+      "pubDate": "Sun, 8 Feb 2026 14:54:52 +0900"
+    },
     {
       "title": "특검, '관봉권 의혹' 윗선 밝힐까…'노동부-쿠팡' 유착도 조준",
       "link": "https://www.yna.co.kr/view/AKR20260208029400004",
@@ -142,16 +152,6 @@
       "title": "구윤철 \"상속세 부담에 한국 떠난다는 것은 가짜뉴스\"",
       "link": "https://www.yna.co.kr/view/AKR20260208018700002",
       "pubDate": "Sun, 8 Feb 2026 09:55:04 +0900"
-    },
-    {
-      "title": "대전 대덕구, 빈 점포 활용할 창업청년 모집…2천600만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260208017600063",
-      "pubDate": "Sun, 8 Feb 2026 09:43:40 +0900"
-    },
-    {
-      "title": "롯데건설, 금호21구역 재개발 수주…올해 수주액 1조원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260208016900003",
-      "pubDate": "Sun, 8 Feb 2026 09:38:25 +0900"
     }
   ]
 }
