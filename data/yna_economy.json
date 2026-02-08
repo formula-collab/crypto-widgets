@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770588911,
+  "updated_at_unix": 1770591093,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260209013900011",
+      "pubDate": "Mon, 9 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "설 차례상 전통시장 23만원·대형마트 27만원…4% 넘게 상승",
       "link": "https://www.yna.co.kr/view/AKR20260206149100004",
@@ -146,11 +151,6 @@
     {
       "title": "중기중앙회 \"백화점·마트·온라인쇼핑몰 입점 희망 中企 모집\"",
       "link": "https://www.yna.co.kr/view/AKR20260206179300030",
-      "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
-    },
-    {
-      "title": "지역고교생, 장인으로 키운다…도제도약지구 '경북·인천·충남'",
-      "link": "https://www.yna.co.kr/view/AKR20260207021300530",
       "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
     }
   ]
