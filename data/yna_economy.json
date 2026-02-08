@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770535863,
+  "updated_at_unix": 1770538800,
   "items": [
+    {
+      "title": "오산 궐동지하차도서 상부 타일 낙하…양방향 통제",
+      "link": "https://www.yna.co.kr/view/AKR20260208041800061",
+      "pubDate": "Sun, 8 Feb 2026 16:52:48 +0900"
+    },
+    {
+      "title": "[부고] 김정욱(삼성물산 부사장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260208038500003",
+      "pubDate": "Sun, 8 Feb 2026 16:31:32 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260208033700011",
@@ -142,16 +152,6 @@
       "title": "'유치권 행사중' 건물 래커칠 60대 2심서 유죄로 뒤집혀",
       "link": "https://www.yna.co.kr/view/AKR20260206110700061",
       "pubDate": "Sun, 8 Feb 2026 10:00:04 +0900"
-    },
-    {
-      "title": "CJ제일제당, 밀라노올림픽서 '비비고부스' 설치…\"K푸드 알린다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208017400030",
-      "pubDate": "Sun, 8 Feb 2026 09:59:22 +0900"
-    },
-    {
-      "title": "구윤철 \"상속세 부담에 한국 떠난다는 것은 가짜뉴스\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208018700002",
-      "pubDate": "Sun, 8 Feb 2026 09:55:04 +0900"
     }
   ]
 }
