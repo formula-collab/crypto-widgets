@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770544223,
+  "updated_at_unix": 1770545681,
   "items": [
+    {
+      "title": "李대통령 \"한 사람이 수백채씩 집 사모으면 수만채 지어도 부족\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208049500001",
+      "pubDate": "Sun, 8 Feb 2026 18:57:11 +0900"
+    },
     {
       "title": "금융당국, '빗썸사태' 긴급점검회의…\"全거래소 내부통제 점검\"",
       "link": "https://www.yna.co.kr/view/AKR20260208048800002",
@@ -147,11 +152,6 @@
       "title": "'관세대응119 상담 1만건 넘겨…'무역장벽 119'로 확대 개편",
       "link": "https://www.yna.co.kr/view/AKR20260208016000003",
       "pubDate": "Sun, 8 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260208019300011",
-      "pubDate": "Sun, 8 Feb 2026 10:30:00 +0900"
     }
   ]
 }
