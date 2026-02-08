@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770565608,
+  "updated_at_unix": 1770567413,
   "items": [
+    {
+      "title": "美재무, 日여당 압승에 \"일본 강하면 美도 아시아에서 강해져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209000700071",
+      "pubDate": "Mon, 9 Feb 2026 01:08:35 +0900"
+    },
     {
       "title": "쿠팡은 하는데…'대형마트 새벽배송 허용' 유통산업법 개정 추진(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260208051551001",
@@ -147,11 +152,6 @@
       "title": "미아동 일대 최고 25층 재개발…고도지구 규제완화 첫 적용",
       "link": "https://www.yna.co.kr/view/AKR20260207048600004",
       "pubDate": "Sun, 8 Feb 2026 11:15:01 +0900"
-    },
-    {
-      "title": "한국·인도네시아, 수산물 수출입에 전자검역증명서 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260206130500051",
-      "pubDate": "Sun, 8 Feb 2026 11:00:05 +0900"
     }
   ]
 }
