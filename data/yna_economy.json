@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770513861,
+  "updated_at_unix": 1770523917,
   "items": [
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20260208030700002",
+      "pubDate": "Sun, 8 Feb 2026 13:01:40 +0900"
+    },
+    {
+      "title": "김정관 산업장관, '가짜뉴스 논란' 대한상의에 \"즉각 감사·엄중 문책\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208029700003",
+      "pubDate": "Sun, 8 Feb 2026 12:48:05 +0900"
+    },
+    {
+      "title": "경남 기업 67%, 올해 설 상여금 지급…전년 대비 소폭 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260206142900052",
+      "pubDate": "Sun, 8 Feb 2026 12:05:00 +0900"
+    },
+    {
+      "title": "[게시판] 우체국, '소상공인 경영안정 바우처' 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260206152800017",
+      "pubDate": "Sun, 8 Feb 2026 12:00:16 +0900"
+    },
+    {
+      "title": "새마을금고 57곳 대상 정부합동검사 실시…\"가계대출 관리 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206161800530",
+      "pubDate": "Sun, 8 Feb 2026 12:00:15 +0900"
+    },
+    {
+      "title": "중기부, 국내 최대 창업 인프라 'K-스타트허브' 입주기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260206178400030",
+      "pubDate": "Sun, 8 Feb 2026 12:00:11 +0900"
+    },
+    {
+      "title": "중기중앙회 \"백화점·마트·온라인쇼핑몰 입점 희망 中企 모집\"",
+      "link": "https://www.yna.co.kr/view/AKR20260206179300030",
+      "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
+    },
+    {
+      "title": "지역고교생, 장인으로 키운다…도제도약지구 '경북·인천·충남'",
+      "link": "https://www.yna.co.kr/view/AKR20260207021300530",
+      "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
+    },
+    {
+      "title": "좋은 일자리 창출 '으뜸기업'·유공자' 추천 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260207022400530",
+      "pubDate": "Sun, 8 Feb 2026 12:00:09 +0900"
+    },
+    {
+      "title": "금 직거래 가장해 보이스피싱 자금세탁…금감원 소비자경보 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260207042000002",
+      "pubDate": "Sun, 8 Feb 2026 12:00:07 +0900"
+    },
+    {
+      "title": "공정위 '계열사 자료 허위 제출' 김준기 DB 창업회장 검찰 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260207043000002",
+      "pubDate": "Sun, 8 Feb 2026 12:00:06 +0900"
+    },
+    {
+      "title": "설연휴 공과금 납부는 19일로 연기…중소기업 95조 자금 공급도",
+      "link": "https://www.yna.co.kr/view/AKR20260207050000002",
+      "pubDate": "Sun, 8 Feb 2026 12:00:06 +0900"
+    },
+    {
+      "title": "\"기업 64.8%, 설에 5일 휴무…'경기악화' 응답 작년대비 줄어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208026600003",
+      "pubDate": "Sun, 8 Feb 2026 12:00:01 +0900"
+    },
+    {
+      "title": "국힘, 李대통령 대한상의 '가짜뉴스' 질타에 \"비이성적 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260208026100001",
+      "pubDate": "Sun, 8 Feb 2026 11:45:54 +0900"
+    },
+    {
+      "title": "강남 대치우성1차·쌍용2차, 49층 1천324세대로 통합재건축",
+      "link": "https://www.yna.co.kr/view/AKR20260207048300004",
+      "pubDate": "Sun, 8 Feb 2026 11:15:02 +0900"
+    },
+    {
+      "title": "미아동 일대 최고 25층 재개발…고도지구 규제완화 첫 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260207048600004",
+      "pubDate": "Sun, 8 Feb 2026 11:15:01 +0900"
+    },
+    {
+      "title": "한국·인도네시아, 수산물 수출입에 전자검역증명서 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260206130500051",
+      "pubDate": "Sun, 8 Feb 2026 11:00:05 +0900"
+    },
+    {
+      "title": "농식품부, 반려동물사료 산업화센터 추진…지자체 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260206160100030",
+      "pubDate": "Sun, 8 Feb 2026 11:00:02 +0900"
+    },
+    {
+      "title": "현대硏 \"가계·부동산 대출 비중 줄여야 성장에 자본 유입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207052000002",
+      "pubDate": "Sun, 8 Feb 2026 11:00:02 +0900"
+    },
+    {
+      "title": "'관세대응119 상담 1만건 넘겨…'무역장벽 119'로 확대 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260208016000003",
+      "pubDate": "Sun, 8 Feb 2026 11:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260208019300011",
+      "pubDate": "Sun, 8 Feb 2026 10:30:00 +0900"
+    },
     {
       "title": "경기회복·오천피? 남얘기…양극화에 못갚는 은행 대출 '눈덩이'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260207051051002",
@@ -47,111 +152,6 @@
       "title": "美, 韓에 '25% 관세 위협' 이어 '비관세장벽 양보' 다층 압박",
       "link": "https://www.yna.co.kr/view/AKR20260208013400003",
       "pubDate": "Sun, 8 Feb 2026 09:29:02 +0900"
-    },
-    {
-      "title": "평창군, 주거 취약계층 노후화 주택 시설 개선 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260206132600062",
-      "pubDate": "Sun, 8 Feb 2026 09:01:01 +0900"
-    },
-    {
-      "title": "\"주택조합약정 무효, 분담금 1억 돌려달라\"…대법 \"신의칙 위반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207033300004",
-      "pubDate": "Sun, 8 Feb 2026 09:00:02 +0900"
-    },
-    {
-      "title": "가덕도신공항 개발 호재 미끼 부동산 사기 70대 징역 1년 선고",
-      "link": "https://www.yna.co.kr/view/AKR20260206114300051",
-      "pubDate": "Sun, 8 Feb 2026 08:30:01 +0900"
-    },
-    {
-      "title": "포항시·금융기관, 소상공인에게 1천200억 대출…이자도 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260206132800053",
-      "pubDate": "Sun, 8 Feb 2026 08:14:21 +0900"
-    },
-    {
-      "title": "남양주시, 58층짜리 청년·문화 활력 랜드마크 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260206120500060",
-      "pubDate": "Sun, 8 Feb 2026 08:05:05 +0900"
-    },
-    {
-      "title": "[마켓스토리] 국내 우량주 레버리지 ETF, 올해 상반기 중 나오나",
-      "link": "https://www.yna.co.kr/view/AKR20260207041800008",
-      "pubDate": "Sun, 8 Feb 2026 08:05:00 +0900"
-    },
-    {
-      "title": "광주 공공노인일자리 신청자 늘었는데 선발은 감소…\"경쟁 치열\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206099600054",
-      "pubDate": "Sun, 8 Feb 2026 08:00:06 +0900"
-    },
-    {
-      "title": "서울 강남3구 아파트 매물 증가…매매수급지수 21주만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260208008000003",
-      "pubDate": "Sun, 8 Feb 2026 07:49:21 +0900"
-    },
-    {
-      "title": "경기 화성 돼지농장서 아프리카돼지열병",
-      "link": "https://www.yna.co.kr/view/AKR20260208007300030",
-      "pubDate": "Sun, 8 Feb 2026 07:45:30 +0900"
-    },
-    {
-      "title": "인천 첨단기술 기업에 용적률 완화…삼성바이오 첫 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260206060000065",
-      "pubDate": "Sun, 8 Feb 2026 07:17:01 +0900"
-    },
-    {
-      "title": "K-증시 시가총액, 독일 이어 대만마저 추월…세계 8위 '우뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260205102100008",
-      "pubDate": "Sun, 8 Feb 2026 07:15:01 +0900"
-    },
-    {
-      "title": "반환점 돈 4분기 실적 시즌…상장사 65% 기대치 밑돌아",
-      "link": "https://www.yna.co.kr/view/AKR20260206177500008",
-      "pubDate": "Sun, 8 Feb 2026 07:10:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 미국서 불어온 훈풍…韓증시 '불장 재개' 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260206179100008",
-      "pubDate": "Sun, 8 Feb 2026 07:00:14 +0900"
-    },
-    {
-      "title": "설 성수품 가격은…\"한우·계란 비싸고 농산물은 안정세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207001000030",
-      "pubDate": "Sun, 8 Feb 2026 07:00:03 +0900"
-    },
-    {
-      "title": "김경수 \"행정통합, 주민의사 중요…대중교통망 통합 최우선과제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207035900530",
-      "pubDate": "Sun, 8 Feb 2026 07:00:01 +0900"
-    },
-    {
-      "title": "'부동산과의 전쟁' 와중에도…2030은 롱패딩 입고 '주말 임장'",
-      "link": "https://www.yna.co.kr/view/AKR20260207049600004",
-      "pubDate": "Sun, 8 Feb 2026 06:55:02 +0900"
-    },
-    {
-      "title": "크로플은 163일, 두쫀쿠는 17일…K-디저트 '반감기 쇼크'",
-      "link": "https://www.yna.co.kr/view/AKR20260206178500004",
-      "pubDate": "Sun, 8 Feb 2026 06:55:01 +0900"
-    },
-    {
-      "title": "지자체 희망장려금에 노란우산 가입 확대…\"예산이 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260207029900030",
-      "pubDate": "Sun, 8 Feb 2026 06:31:00 +0900"
-    },
-    {
-      "title": "정제마진 호조·유가 안정…정유업계, 올해 실적 반등 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260206162000003",
-      "pubDate": "Sun, 8 Feb 2026 06:10:00 +0900"
-    },
-    {
-      "title": "산재·임금체불 대책, 입법 하세월…16개 법안 중 3개만 '통과'",
-      "link": "https://www.yna.co.kr/view/AKR20260206141700530",
-      "pubDate": "Sun, 8 Feb 2026 06:08:00 +0900"
-    },
-    {
-      "title": "지방공기업도 '안전활동 수준평가' 받는다…노동부 행정예고",
-      "link": "https://www.yna.co.kr/view/AKR20260206157200530",
-      "pubDate": "Sun, 8 Feb 2026 06:06:01 +0900"
     }
   ]
 }
