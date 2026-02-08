@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770583722,
+  "updated_at_unix": 1770585339,
   "items": [
+    {
+      "title": "설 차례상 전통시장 23만원·대형마트 27만원…4% 넘게 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260206149100004",
+      "pubDate": "Mon, 9 Feb 2026 06:00:10 +0900"
+    },
+    {
+      "title": "롯데百 노원점, 동북 상권 최대 '뷰티관' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260208042700030",
+      "pubDate": "Mon, 9 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "이마트, 제수용 간편식 50여종 최대 30% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260208041700030",
+      "pubDate": "Mon, 9 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "롯데마트·슈퍼, 곡물 스낵 '씬크리스피 뻥칩' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260208040900030",
+      "pubDate": "Mon, 9 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "통상교섭실장, EU 의회·집행위와 철강 수입규제 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260208018400003",
+      "pubDate": "Mon, 9 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"설연휴 전날 사고, 평소보다 23%↑…보험사 특약으로 대비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260207050300002",
+      "pubDate": "Mon, 9 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "해수부 부산 이전 특수에…인근 상권 매출 9.1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260206001200002",
+      "pubDate": "Mon, 9 Feb 2026 05:55:00 +0900"
+    },
+    {
+      "title": "작년 공공기관 정규직 채용 'V자 반등'…2만7천명, 5년만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260208001200002",
+      "pubDate": "Mon, 9 Feb 2026 05:53:02 +0900"
+    },
     {
       "title": "美재무, 日여당 압승에 \"일본 강하면 美도 아시아에서 강해져\"",
       "link": "https://www.yna.co.kr/view/AKR20260209000700071",
@@ -112,46 +152,6 @@
       "title": "지역고교생, 장인으로 키운다…도제도약지구 '경북·인천·충남'",
       "link": "https://www.yna.co.kr/view/AKR20260207021300530",
       "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
-    },
-    {
-      "title": "좋은 일자리 창출 '으뜸기업'·유공자' 추천 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260207022400530",
-      "pubDate": "Sun, 8 Feb 2026 12:00:09 +0900"
-    },
-    {
-      "title": "금 직거래 가장해 보이스피싱 자금세탁…금감원 소비자경보 발령",
-      "link": "https://www.yna.co.kr/view/AKR20260207042000002",
-      "pubDate": "Sun, 8 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "공정위 '계열사 자료 허위 제출' 김준기 DB 창업회장 검찰 고발",
-      "link": "https://www.yna.co.kr/view/AKR20260207043000002",
-      "pubDate": "Sun, 8 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "설연휴 공과금 납부는 19일로 연기…중소기업 95조 자금 공급도",
-      "link": "https://www.yna.co.kr/view/AKR20260207050000002",
-      "pubDate": "Sun, 8 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "\"기업 64.8%, 설에 5일 휴무…'경기악화' 응답 작년대비 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208026600003",
-      "pubDate": "Sun, 8 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국힘, 李대통령 대한상의 '가짜뉴스' 질타에 \"비이성적 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208026100001",
-      "pubDate": "Sun, 8 Feb 2026 11:45:54 +0900"
-    },
-    {
-      "title": "강남 대치우성1차·쌍용2차, 49층 1천324세대로 통합재건축",
-      "link": "https://www.yna.co.kr/view/AKR20260207048300004",
-      "pubDate": "Sun, 8 Feb 2026 11:15:02 +0900"
-    },
-    {
-      "title": "미아동 일대 최고 25층 재개발…고도지구 규제완화 첫 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260207048600004",
-      "pubDate": "Sun, 8 Feb 2026 11:15:01 +0900"
     }
   ]
 }
