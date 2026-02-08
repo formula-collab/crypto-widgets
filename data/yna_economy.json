@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770523917,
+  "updated_at_unix": 1770529419,
   "items": [
+    {
+      "title": "특검, '관봉권 의혹' 윗선 밝힐까…'노동부-쿠팡' 유착도 조준",
+      "link": "https://www.yna.co.kr/view/AKR20260208029400004",
+      "pubDate": "Sun, 8 Feb 2026 13:39:07 +0900"
+    },
+    {
+      "title": "전북도, 2026 지방공무원 1천292명 채용…작년보다 603명↑",
+      "link": "https://www.yna.co.kr/view/AKR20260208031700055",
+      "pubDate": "Sun, 8 Feb 2026 13:22:28 +0900"
+    },
     {
       "title": "[인사] 국가데이터처",
       "link": "https://www.yna.co.kr/view/AKR20260208030700002",
@@ -142,16 +152,6 @@
       "title": "롯데건설, 금호21구역 재개발 수주…올해 수주액 1조원 넘어",
       "link": "https://www.yna.co.kr/view/AKR20260208016900003",
       "pubDate": "Sun, 8 Feb 2026 09:38:25 +0900"
-    },
-    {
-      "title": "GS25, 설 간편식 5종 출시…신선식품도 최대 20% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260208014300030",
-      "pubDate": "Sun, 8 Feb 2026 09:34:27 +0900"
-    },
-    {
-      "title": "美, 韓에 '25% 관세 위협' 이어 '비관세장벽 양보' 다층 압박",
-      "link": "https://www.yna.co.kr/view/AKR20260208013400003",
-      "pubDate": "Sun, 8 Feb 2026 09:29:02 +0900"
     }
   ]
 }
