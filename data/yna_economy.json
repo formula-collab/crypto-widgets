@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770592783,
+  "updated_at_unix": 1770594640,
   "items": [
+    {
+      "title": "한양증권, 기관전용 사모펀드 GP 진출…\"비즈니스 스케일업\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209025500008",
+      "pubDate": "Mon, 9 Feb 2026 08:44:28 +0900"
+    },
+    {
+      "title": "신한투자 \"우리금융, 비과세 배당 시행 등 돋보여…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209024300008",
+      "pubDate": "Mon, 9 Feb 2026 08:42:07 +0900"
+    },
+    {
+      "title": "한화증권 \"롯데쇼핑, 외국인 관광객 증가 효과 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209023900008",
+      "pubDate": "Mon, 9 Feb 2026 08:36:26 +0900"
+    },
+    {
+      "title": "하나증권 \"은행주, 계속 우상향 믿음…비중확대 의견 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209023100008",
+      "pubDate": "Mon, 9 Feb 2026 08:36:08 +0900"
+    },
+    {
+      "title": "[테크스냅] 오케스트로, 한은 '내부망 클라우드 변경관리시스템' 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260209022900017",
+      "pubDate": "Mon, 9 Feb 2026 08:35:55 +0900"
+    },
+    {
+      "title": "美재무, 日여당 압승에 \"일본 강하면 美도 아시아에서 강해져\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209000751071",
+      "pubDate": "Mon, 9 Feb 2026 08:33:54 +0900"
+    },
+    {
+      "title": "양도세 중과 석 달 앞…\"매도냐, 증여냐\" 갈길 바쁜 다주택자들",
+      "link": "https://www.yna.co.kr/view/AKR20260209020500003",
+      "pubDate": "Mon, 9 Feb 2026 08:30:00 +0900"
+    },
+    {
+      "title": "무신사, 오는 25일까지 온오프라인서 '설날 빅세일'",
+      "link": "https://www.yna.co.kr/view/AKR20260209020800030",
+      "pubDate": "Mon, 9 Feb 2026 08:17:57 +0900"
+    },
     {
       "title": "삼성SDI-동서발전, 국내외 ESS·신재생 프로젝트 공동 추진",
       "link": "https://www.yna.co.kr/view/AKR20260209019800003",
@@ -112,46 +152,6 @@
       "title": "지방세 체납관리단 운영에 2029년까지 기간제근로자 2만명 채용",
       "link": "https://www.yna.co.kr/view/AKR20260208045300530",
       "pubDate": "Sun, 8 Feb 2026 17:31:50 +0900"
-    },
-    {
-      "title": "오산 궐동지하차도서 상부 타일 낙하…양방향 통제",
-      "link": "https://www.yna.co.kr/view/AKR20260208041800061",
-      "pubDate": "Sun, 8 Feb 2026 16:52:48 +0900"
-    },
-    {
-      "title": "[부고] 김정욱(삼성물산 부사장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260208038500003",
-      "pubDate": "Sun, 8 Feb 2026 16:31:32 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260208033700011",
-      "pubDate": "Sun, 8 Feb 2026 15:00:02 +0900"
-    },
-    {
-      "title": "국세청장 \"해외이주 신고, 10억 이상 자산가 연평균 139명 불과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208033800002",
-      "pubDate": "Sun, 8 Feb 2026 14:54:52 +0900"
-    },
-    {
-      "title": "특검, '관봉권 의혹' 윗선 밝힐까…'노동부-쿠팡' 유착도 조준",
-      "link": "https://www.yna.co.kr/view/AKR20260208029400004",
-      "pubDate": "Sun, 8 Feb 2026 13:39:07 +0900"
-    },
-    {
-      "title": "전북도, 2026 지방공무원 1천292명 채용…작년보다 603명↑",
-      "link": "https://www.yna.co.kr/view/AKR20260208031700055",
-      "pubDate": "Sun, 8 Feb 2026 13:22:28 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20260208030700002",
-      "pubDate": "Sun, 8 Feb 2026 13:01:40 +0900"
-    },
-    {
-      "title": "김정관 산업장관, '가짜뉴스 논란' 대한상의에 \"즉각 감사·엄중 문책\"",
-      "link": "https://www.yna.co.kr/view/AKR20260208029700003",
-      "pubDate": "Sun, 8 Feb 2026 12:48:05 +0900"
     }
   ]
 }
