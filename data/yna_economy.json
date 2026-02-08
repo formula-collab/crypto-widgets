@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770591093,
+  "updated_at_unix": 1770592783,
   "items": [
+    {
+      "title": "삼성SDI-동서발전, 국내외 ESS·신재생 프로젝트 공동 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260209019800003",
+      "pubDate": "Mon, 9 Feb 2026 08:09:11 +0900"
+    },
+    {
+      "title": "[마켓뷰] 주춤했던 코스피, 미국발 훈풍에 반등 시도할까",
+      "link": "https://www.yna.co.kr/view/AKR20260209017200008",
+      "pubDate": "Mon, 9 Feb 2026 07:56:42 +0900"
+    },
+    {
+      "title": "[부산소식] 세계디자인수도 부산 캐치프레이즈 공모전",
+      "link": "https://www.yna.co.kr/view/AKR20260209018000051",
+      "pubDate": "Mon, 9 Feb 2026 07:53:57 +0900"
+    },
+    {
+      "title": "부산시, 올해 공무원 1천96명 선발…지난해보다 3.6배 늘려",
+      "link": "https://www.yna.co.kr/view/AKR20260209017900051",
+      "pubDate": "Mon, 9 Feb 2026 07:53:42 +0900"
+    },
+    {
+      "title": "부산시·부산은행, 1천500억 규모 소상공인 정책자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260209017600051",
+      "pubDate": "Mon, 9 Feb 2026 07:51:46 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260209013900011",
@@ -127,31 +152,6 @@
       "title": "김정관 산업장관, '가짜뉴스 논란' 대한상의에 \"즉각 감사·엄중 문책\"",
       "link": "https://www.yna.co.kr/view/AKR20260208029700003",
       "pubDate": "Sun, 8 Feb 2026 12:48:05 +0900"
-    },
-    {
-      "title": "경남 기업 67%, 올해 설 상여금 지급…전년 대비 소폭 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260206142900052",
-      "pubDate": "Sun, 8 Feb 2026 12:05:00 +0900"
-    },
-    {
-      "title": "[게시판] 우체국, '소상공인 경영안정 바우처' 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260206152800017",
-      "pubDate": "Sun, 8 Feb 2026 12:00:16 +0900"
-    },
-    {
-      "title": "새마을금고 57곳 대상 정부합동검사 실시…\"가계대출 관리 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206161800530",
-      "pubDate": "Sun, 8 Feb 2026 12:00:15 +0900"
-    },
-    {
-      "title": "중기부, 국내 최대 창업 인프라 'K-스타트허브' 입주기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260206178400030",
-      "pubDate": "Sun, 8 Feb 2026 12:00:11 +0900"
-    },
-    {
-      "title": "중기중앙회 \"백화점·마트·온라인쇼핑몰 입점 희망 中企 모집\"",
-      "link": "https://www.yna.co.kr/view/AKR20260206179300030",
-      "pubDate": "Sun, 8 Feb 2026 12:00:10 +0900"
     }
   ]
 }
