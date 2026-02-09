@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770674621,
+  "updated_at_unix": 1770678141,
   "items": [
+    {
+      "title": "[마켓뷰] 코스피, 상승세 이어가며 최고가 경신 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260210020400008",
+      "pubDate": "Tue, 10 Feb 2026 07:57:07 +0900"
+    },
+    {
+      "title": "부산 유학생 3만명 시대…입국·취업·정주까지 전주기적 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260210020800051",
+      "pubDate": "Tue, 10 Feb 2026 07:56:53 +0900"
+    },
+    {
+      "title": "'청년이 살고픈 도시로'…부산시, 올해 청년정책 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260210020500051",
+      "pubDate": "Tue, 10 Feb 2026 07:54:42 +0900"
+    },
+    {
+      "title": "부산시 \"지역상품 우선구매\"…수의계약도 지역업체 우대",
+      "link": "https://www.yna.co.kr/view/AKR20260210020300051",
+      "pubDate": "Tue, 10 Feb 2026 07:54:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260210016300011",
+      "pubDate": "Tue, 10 Feb 2026 07:30:00 +0900"
+    },
+    {
+      "title": "6·27대책 후 주식·채권 팔아 서울에 집 산 돈 2조원 넘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260208057600003",
+      "pubDate": "Tue, 10 Feb 2026 07:24:25 +0900"
+    },
+    {
+      "title": "[현장] \"작업 없어 연장 녹슬었다\"…제작 대신 수리로 연명하는 제조업",
+      "link": "https://www.yna.co.kr/view/AKR20260209116700065",
+      "pubDate": "Tue, 10 Feb 2026 07:17:00 +0900"
+    },
+    {
+      "title": "무궁화신탁發 부실 확산…매각 난항에 금융권 부담 커지나",
+      "link": "https://www.yna.co.kr/view/AKR20260209153900008",
+      "pubDate": "Tue, 10 Feb 2026 07:10:00 +0900"
+    },
+    {
+      "title": "채권시장, '자민당 압승' 겹악재…불확실성 해소 vs 경계감 계속",
+      "link": "https://www.yna.co.kr/view/AKR20260209172500008",
+      "pubDate": "Tue, 10 Feb 2026 07:07:00 +0900"
+    },
+    {
+      "title": "\"젊을수록 해외 투자 성향 강해…20대 투자금액의 60% 달해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209156800008",
+      "pubDate": "Tue, 10 Feb 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 2026년 아프리카도 'K자 양극화' 두 말 달린다",
+      "link": "https://www.yna.co.kr/view/AKR20260109120900898",
+      "pubDate": "Tue, 10 Feb 2026 07:00:03 +0900"
+    },
     {
       "title": "사회적기업 성장단계별 뒷받침…성숙기엔 2∼3억 사업비 지원",
       "link": "https://www.yna.co.kr/view/AKR20260209137500530",
@@ -97,61 +152,6 @@
       "title": "[인사] 동부건설",
       "link": "https://www.yna.co.kr/view/AKR20260209148200003",
       "pubDate": "Mon, 9 Feb 2026 17:10:22 +0900"
-    },
-    {
-      "title": "김정관 \"3월 대미투자특별법 통과 시 美 관세 인상 유예할 듯\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209132751003",
-      "pubDate": "Mon, 9 Feb 2026 17:09:46 +0900"
-    },
-    {
-      "title": "자민당 압승·입찰 부담에 국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209140451008",
-      "pubDate": "Mon, 9 Feb 2026 17:08:53 +0900"
-    },
-    {
-      "title": "해양진흥공사, 윤리경영 강화 위해 안심변호사제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260209144600051",
-      "pubDate": "Mon, 9 Feb 2026 17:06:44 +0900"
-    },
-    {
-      "title": "CJ제일제당 작년 매출·영업이익 감소…국내 식품·바이오 부진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209141251527",
-      "pubDate": "Mon, 9 Feb 2026 17:04:06 +0900"
-    },
-    {
-      "title": "농식품부 \"설 차례상 비용 작년보다 덜 들어…성수품 안정 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209119000030",
-      "pubDate": "Mon, 9 Feb 2026 17:00:01 +0900"
-    },
-    {
-      "title": "李대통령 \"의무기간 끝난 등록임대주택, 세제도 같아야 공평\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209136500001",
-      "pubDate": "Mon, 9 Feb 2026 16:55:08 +0900"
-    },
-    {
-      "title": "애니플러스 \"종속회사 라프텔 주식 141억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209143100008",
-      "pubDate": "Mon, 9 Feb 2026 16:52:09 +0900"
-    },
-    {
-      "title": "부산상의, 부산이전 해수부와 협력 체계 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260209142700051",
-      "pubDate": "Mon, 9 Feb 2026 16:49:57 +0900"
-    },
-    {
-      "title": "고양시, 자동차세 체납 차량 번호판 영치 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20260209140500060",
-      "pubDate": "Mon, 9 Feb 2026 16:42:42 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.267%",
-      "link": "https://www.yna.co.kr/view/AKR20260209140400008",
-      "pubDate": "Mon, 9 Feb 2026 16:40:22 +0900"
-    },
-    {
-      "title": "양산서 '경남 창업 희망 이야기' 개최…\"창업·투자유치 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209138100052",
-      "pubDate": "Mon, 9 Feb 2026 16:34:36 +0900"
     }
   ]
 }
