@@ -1,8 +1,118 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770616211,
+  "updated_at_unix": 1770619986,
   "items": [
+    {
+      "title": "'사이드카만 3번' 널뛰는 코스피…\"단기급등 매물 소화 국면\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209078451008",
+      "pubDate": "Mon, 9 Feb 2026 15:46:41 +0900"
+    },
+    {
+      "title": "크래프톤 \"3년간 1조원 이상 주주환원…매년 1천억 현금배당\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209123700017",
+      "pubDate": "Mon, 9 Feb 2026 15:39:12 +0900"
+    },
+    {
+      "title": "코스피, 4% 올라 5,300선 목전 마감…코스닥도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260209122800008",
+      "pubDate": "Mon, 9 Feb 2026 15:36:14 +0900"
+    },
+    {
+      "title": "크래프톤, 작년 역대 최고 매출…투자 확대에 영업익은 줄어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209116151527",
+      "pubDate": "Mon, 9 Feb 2026 15:35:34 +0900"
+    },
+    {
+      "title": "외국환시세(2월9일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260209122700002",
+      "pubDate": "Mon, 9 Feb 2026 15:35:18 +0900"
+    },
+    {
+      "title": "기획처, 조직문화 혁신그룹 '비전X' 출범…비생산적 업무 줄이기",
+      "link": "https://www.yna.co.kr/view/AKR20260209119800002",
+      "pubDate": "Mon, 9 Feb 2026 15:34:58 +0900"
+    },
+    {
+      "title": "광주시 경제정책협력관에 박충원 한은 부국장",
+      "link": "https://www.yna.co.kr/view/AKR20260209120900054",
+      "pubDate": "Mon, 9 Feb 2026 15:31:14 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 9.2원 내린 1,460.3원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260209120800002",
+      "pubDate": "Mon, 9 Feb 2026 15:30:14 +0900"
+    },
+    {
+      "title": "중소택배업자가 수수료 협상 때 단결하면 담합?…제도개선 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260209112100002",
+      "pubDate": "Mon, 9 Feb 2026 15:30:00 +0900"
+    },
+    {
+      "title": "울주군 \"연말까지 이월체납액 123억 정리\"…모바일 알림톡도",
+      "link": "https://www.yna.co.kr/view/AKR20260209116300057",
+      "pubDate": "Mon, 9 Feb 2026 15:28:59 +0900"
+    },
+    {
+      "title": "[일문일답] \"빗썸 오지급 비트코인 매도자 재앙…원물로 반환해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209108100002",
+      "pubDate": "Mon, 9 Feb 2026 15:15:26 +0900"
+    },
+    {
+      "title": "현대리바트 작년 영업이익 35% 줄어…\"건설경기 침체\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209116600030",
+      "pubDate": "Mon, 9 Feb 2026 15:12:47 +0900"
+    },
+    {
+      "title": "[군포소식] 청년 학자금 장기연체자 지원…최대 100만원",
+      "link": "https://www.yna.co.kr/view/AKR20260209115100061",
+      "pubDate": "Mon, 9 Feb 2026 15:04:44 +0900"
+    },
+    {
+      "title": "경남상의협, 사천공항 국제공항 승격 건의…\"지역 균형발전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209112800052",
+      "pubDate": "Mon, 9 Feb 2026 15:00:28 +0900"
+    },
+    {
+      "title": "무디스, 韓 은행 산업 전망 '부정적'→'안정적' 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260209111500008",
+      "pubDate": "Mon, 9 Feb 2026 15:00:18 +0900"
+    },
+    {
+      "title": "이찬진 \"빗썸사태로 근본적 문제 노출…오지급 코인은 반환대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209108800002",
+      "pubDate": "Mon, 9 Feb 2026 15:00:00 +0900"
+    },
+    {
+      "title": "SPC삼립 \"시화공장, 식빵라인 제외 생산 재개…95% 수준 가동\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209109600030",
+      "pubDate": "Mon, 9 Feb 2026 14:55:58 +0900"
+    },
+    {
+      "title": "현대리바트, '1천178억원' 이라크 해수처리시설 가설공사 맡는다",
+      "link": "https://www.yna.co.kr/view/AKR20260209111800030",
+      "pubDate": "Mon, 9 Feb 2026 14:55:21 +0900"
+    },
+    {
+      "title": "제주도, 중소기업 경영자금 융자 2년 추가 연장·분할상환 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260209111200056",
+      "pubDate": "Mon, 9 Feb 2026 14:51:06 +0900"
+    },
+    {
+      "title": "대학가 월세 안정화…진주시, 경상대·공인중개사협 등 상생협력",
+      "link": "https://www.yna.co.kr/view/AKR20260209109100052",
+      "pubDate": "Mon, 9 Feb 2026 14:48:47 +0900"
+    },
+    {
+      "title": "현대건설, 글로벌 설계사와 압구정3구역 설계 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260209110700003",
+      "pubDate": "Mon, 9 Feb 2026 14:47:35 +0900"
+    },
+    {
+      "title": "[현장] 속살 드러낸 옛 전주종합경기장…마이스산업 중심지로 첫발",
+      "link": "https://www.yna.co.kr/view/AKR20260209101100055",
+      "pubDate": "Mon, 9 Feb 2026 14:44:24 +0900"
+    },
     {
       "title": "동작구, 내달 9∼11일 '찾아가는 세무설명회'",
       "link": "https://www.yna.co.kr/view/AKR20260209109700004",
@@ -42,116 +152,6 @@
       "title": "미래에셋증권, 작년 세전이익 2조원 넘어… 전년보다 70% 증가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209063651008",
       "pubDate": "Mon, 9 Feb 2026 14:19:28 +0900"
-    },
-    {
-      "title": "오뚜기 작년 영업이익 20% 감소…\"고환율·원재료가 상승 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209105300030",
-      "pubDate": "Mon, 9 Feb 2026 14:18:25 +0900"
-    },
-    {
-      "title": "[안양소식] 설 물가대책반 가동…성수품 16종 집중 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260209105000061",
-      "pubDate": "Mon, 9 Feb 2026 14:17:23 +0900"
-    },
-    {
-      "title": "한상총련 \"심야배송 허용중단하고 온플 독과점 방지해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209099900030",
-      "pubDate": "Mon, 9 Feb 2026 14:00:24 +0900"
-    },
-    {
-      "title": "김세직 KDI 신임원장 \"단기 경기부양책으로 문제 해결 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209097900002",
-      "pubDate": "Mon, 9 Feb 2026 13:52:07 +0900"
-    },
-    {
-      "title": "신세계 작년 영업이익 4천800억원…전년보다 소폭 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260209098500527",
-      "pubDate": "Mon, 9 Feb 2026 13:48:57 +0900"
-    },
-    {
-      "title": "구다이글로벌, 상장준비에 속도…IPO 주관사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260209092600030",
-      "pubDate": "Mon, 9 Feb 2026 13:44:15 +0900"
-    },
-    {
-      "title": "농식품 장관 \"설성수품 17만t 공급…경마장, 경기도내 이전검토\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209078951030",
-      "pubDate": "Mon, 9 Feb 2026 13:42:27 +0900"
-    },
-    {
-      "title": "쌍용건설 \"글로벌세아그룹 편입 이후 3년 연속 영업이익 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209086600003",
-      "pubDate": "Mon, 9 Feb 2026 13:18:47 +0900"
-    },
-    {
-      "title": "데브시스터즈 작년 영업익 62억…\"장기성장 기반 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209087200017",
-      "pubDate": "Mon, 9 Feb 2026 13:16:38 +0900"
-    },
-    {
-      "title": "노동부-한국노총, 정책소통 위한 부대표급 운영협의체 발족(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260207028251530",
-      "pubDate": "Mon, 9 Feb 2026 12:09:02 +0900"
-    },
-    {
-      "title": "유안타증권, 국내주식 복귀 'RIA 계좌' 시행 사전 알림 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260209087100008",
-      "pubDate": "Mon, 9 Feb 2026 12:06:01 +0900"
-    },
-    {
-      "title": "KDI \"수출 물량 증가세 다소 조정…제조업 생산 소폭 감소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209059400002",
-      "pubDate": "Mon, 9 Feb 2026 12:00:24 +0900"
-    },
-    {
-      "title": "중기부, 탄소중립 설비투자 지원사업 참여기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260209061400030",
-      "pubDate": "Mon, 9 Feb 2026 12:00:23 +0900"
-    },
-    {
-      "title": "거래소 \"상장폐지 기업 16%, '결산업무 부실'…유의해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209069700008",
-      "pubDate": "Mon, 9 Feb 2026 12:00:21 +0900"
-    },
-    {
-      "title": "퇴직 후 경력 전환 '중장년 경력지원제' 참여자·기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260209071900530",
-      "pubDate": "Mon, 9 Feb 2026 12:00:21 +0900"
-    },
-    {
-      "title": "\"KPGA 볼 사용률 1위\" 던롭 스릭슨 광고에 과징금 2억600만원",
-      "link": "https://www.yna.co.kr/view/AKR20260209076500002",
-      "pubDate": "Mon, 9 Feb 2026 12:00:18 +0900"
-    },
-    {
-      "title": "농식품 장관 \"설 성수품 17만t 공급…1월 K푸드 수출 13% 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209078900030",
-      "pubDate": "Mon, 9 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "지난달 고용보험 가입자 증가분 75%가 60세 이상…청년은 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260209083600530",
-      "pubDate": "Mon, 9 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "'먹거리 독과점' 3개사, 거액 탈세로 1천500억원 추징",
-      "link": "https://www.yna.co.kr/view/AKR20260209078200002",
-      "pubDate": "Mon, 9 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 카카오뱅크, 개인사업자 대출 성실상환자 이자 최대 10만원 환급",
-      "link": "https://www.yna.co.kr/view/AKR20260209081000002",
-      "pubDate": "Mon, 9 Feb 2026 11:45:51 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.256%",
-      "link": "https://www.yna.co.kr/view/AKR20260209084700008",
-      "pubDate": "Mon, 9 Feb 2026 11:41:35 +0900"
-    },
-    {
-      "title": "유진證, '유진독서클럽' 22일까지 온라인 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260209082500008",
-      "pubDate": "Mon, 9 Feb 2026 11:36:20 +0900"
     }
   ]
 }
