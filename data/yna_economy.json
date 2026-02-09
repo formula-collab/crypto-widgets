@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770669087,
+  "updated_at_unix": 1770672529,
   "items": [
+    {
+      "title": "사회적기업 성장단계별 뒷받침…성숙기엔 2∼3억 사업비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260209137500530",
+      "pubDate": "Tue, 10 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "빗썸 소비자피해 확산 우려…시세급락에 강제청산 사례도 64건",
+      "link": "https://www.yna.co.kr/view/AKR20260209165700002",
+      "pubDate": "Tue, 10 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "금감원, 빗썸 검사로 전격 전환…'유령 코인' 사태 본격 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260209167100002",
+      "pubDate": "Tue, 10 Feb 2026 05:51:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·이란 협상에도 여전한 위험 프리미엄…WTI 1.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260210008100009",
+      "pubDate": "Tue, 10 Feb 2026 05:44:55 +0900"
+    },
     {
       "title": "달러-원, 중국발 약달러·美 고용 우려에 낙폭 확대…1,457.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260210003400002",
@@ -132,26 +152,6 @@
       "title": "양산서 '경남 창업 희망 이야기' 개최…\"창업·투자유치 최우선\"",
       "link": "https://www.yna.co.kr/view/AKR20260209138100052",
       "pubDate": "Mon, 9 Feb 2026 16:34:36 +0900"
-    },
-    {
-      "title": "김정관 \"러트닉, 대미투자법 합의 높이 평가…조금씩 진전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209132700003",
-      "pubDate": "Mon, 9 Feb 2026 16:30:00 +0900"
-    },
-    {
-      "title": "수원교육청, 동수원초 이전신설 사업 완료…내달 개교",
-      "link": "https://www.yna.co.kr/view/AKR20260209137000061",
-      "pubDate": "Mon, 9 Feb 2026 16:29:25 +0900"
-    },
-    {
-      "title": "금융위, 자문기구 회의…\"벤처·지방·자본시장에 자금 흘러야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209136800002",
-      "pubDate": "Mon, 9 Feb 2026 16:28:16 +0900"
-    },
-    {
-      "title": "외교장관 \"美대표, 비관세장벽 진척 없으면 관세인상하겠다 해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209125100001",
-      "pubDate": "Mon, 9 Feb 2026 16:19:16 +0900"
     }
   ]
 }
