@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770633965,
+  "updated_at_unix": 1770637059,
   "items": [
+    {
+      "title": "\"위험한데 처우 낮아\"…조선업 타운홀미팅서 쏟아진 청년 고충",
+      "link": "https://www.yna.co.kr/view/AKR20260209106351530",
+      "pubDate": "Mon, 9 Feb 2026 20:13:27 +0900"
+    },
+    {
+      "title": "전남 나주 돼지농장서 아프리카돼지열병",
+      "link": "https://www.yna.co.kr/view/AKR20260209167000030",
+      "pubDate": "Mon, 9 Feb 2026 19:40:01 +0900"
+    },
     {
       "title": "세종 산란계 농장서 고병원성 조류인플루엔자 발생",
       "link": "https://www.yna.co.kr/view/AKR20260209163400030",
@@ -142,16 +152,6 @@
       "title": "코스피 급등 속 원/달러 환율 나흘 만에 하락…1,460.3원",
       "link": "https://www.yna.co.kr/view/AKR20260209133000002",
       "pubDate": "Mon, 9 Feb 2026 16:18:20 +0900"
-    },
-    {
-      "title": "아파트 1층 알고보니 '옹벽뷰 반지하'…법원, 분양금 반환 판결",
-      "link": "https://www.yna.co.kr/view/AKR20260209128900054",
-      "pubDate": "Mon, 9 Feb 2026 16:10:34 +0900"
-    },
-    {
-      "title": "서울 성수4지구 재개발 수주전 본격화…대우·롯데 2파전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209078351003",
-      "pubDate": "Mon, 9 Feb 2026 16:07:42 +0900"
     }
   ]
 }
