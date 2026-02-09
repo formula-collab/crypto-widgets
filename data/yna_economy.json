@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770678141,
+  "updated_at_unix": 1770681422,
   "items": [
+    {
+      "title": "코람코, 강남역 오피스 '케이스퀘어 강남2' 매각…평당 5천여만",
+      "link": "https://www.yna.co.kr/view/AKR20260210028000008",
+      "pubDate": "Tue, 10 Feb 2026 08:46:00 +0900"
+    },
+    {
+      "title": "중진공, 부실채무자 재기 위해 채무조정 캠페인 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260210026900030",
+      "pubDate": "Tue, 10 Feb 2026 08:38:42 +0900"
+    },
+    {
+      "title": "GS25, 아이브 레이 협업…로로멜로 '미니 두쫀쿠 4입' 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260210026700030",
+      "pubDate": "Tue, 10 Feb 2026 08:36:25 +0900"
+    },
+    {
+      "title": "하나증권 \"미래에셋證, xAI·스페이스X 평가익 1조…목표주가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210025900008",
+      "pubDate": "Tue, 10 Feb 2026 08:34:02 +0900"
+    },
+    {
+      "title": "키움證 \"에스티팜, 외형 성장·제품 믹스 개선 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210026100008",
+      "pubDate": "Tue, 10 Feb 2026 08:31:56 +0900"
+    },
+    {
+      "title": "한화증권 \"'4분기 순항' 한섬, 올해 실적 개선 지속…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210024700008",
+      "pubDate": "Tue, 10 Feb 2026 08:18:38 +0900"
+    },
+    {
+      "title": "풀무원, 미래사업부문 출범…\"신성장 동력 발굴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210024600030",
+      "pubDate": "Tue, 10 Feb 2026 08:17:46 +0900"
+    },
+    {
+      "title": "삼성증권, 신세계 목표가↑…\"올해 상반기 백화점 호조 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210024000008",
+      "pubDate": "Tue, 10 Feb 2026 08:16:39 +0900"
+    },
+    {
+      "title": "李대통령 \"서울 등록임대아파트, 매물 나오면 집값 안정 효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210020900001",
+      "pubDate": "Tue, 10 Feb 2026 07:59:15 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 상승세 이어가며 최고가 경신 시도하나",
       "link": "https://www.yna.co.kr/view/AKR20260210020400008",
@@ -107,51 +152,6 @@
       "title": "'먹거리 독과점' 탈세 적발…오비맥주 1천억·빙그레 200억 추징(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209078251002",
       "pubDate": "Mon, 9 Feb 2026 18:18:00 +0900"
-    },
-    {
-      "title": "\"보험가입 미리 하세요\"…신용정보원, 설 연휴 IT 시스템 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260209156900002",
-      "pubDate": "Mon, 9 Feb 2026 18:11:13 +0900"
-    },
-    {
-      "title": "빗썸 사태에 업비트 '우린 달라'…\"5분마다 장부·잔고 대조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209137900002",
-      "pubDate": "Mon, 9 Feb 2026 18:09:56 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260209152400011",
-      "pubDate": "Mon, 9 Feb 2026 18:00:01 +0900"
-    },
-    {
-      "title": "한화에어로스페이스 \"천무 수출, 유럽 넘어 중동·북미도 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209157000003",
-      "pubDate": "Mon, 9 Feb 2026 17:57:46 +0900"
-    },
-    {
-      "title": "팜스코 \"인도네시아 계열사 주식 827억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209157800008",
-      "pubDate": "Mon, 9 Feb 2026 17:56:29 +0900"
-    },
-    {
-      "title": "CJ제일제당 작년 매출·영업이익 감소…국내 식품·바이오 부진(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260209141252527",
-      "pubDate": "Mon, 9 Feb 2026 17:27:14 +0900"
-    },
-    {
-      "title": "크래프톤, 역대 최고 매출…투자 확대에 영업이익은 줄어(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260209116152527",
-      "pubDate": "Mon, 9 Feb 2026 17:21:00 +0900"
-    },
-    {
-      "title": "대전 설 차례상 비용 전통시장이 제일 저렴…가래떡 가격 29％↑",
-      "link": "https://www.yna.co.kr/view/AKR20260209148400063",
-      "pubDate": "Mon, 9 Feb 2026 17:19:10 +0900"
-    },
-    {
-      "title": "[인사] 동부건설",
-      "link": "https://www.yna.co.kr/view/AKR20260209148200003",
-      "pubDate": "Mon, 9 Feb 2026 17:10:22 +0900"
     }
   ]
 }
