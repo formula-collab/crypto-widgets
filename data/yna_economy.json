@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770630479,
+  "updated_at_unix": 1770633965,
   "items": [
+    {
+      "title": "세종 산란계 농장서 고병원성 조류인플루엔자 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260209163400030",
+      "pubDate": "Mon, 9 Feb 2026 19:01:17 +0900"
+    },
     {
       "title": "형편 어려운 대학생 위해 무료기숙사 운영하다 종부세 냈다",
       "link": "https://www.yna.co.kr/view/AKR20260209161300065",
@@ -147,11 +152,6 @@
       "title": "서울 성수4지구 재개발 수주전 본격화…대우·롯데 2파전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209078351003",
       "pubDate": "Mon, 9 Feb 2026 16:07:42 +0900"
-    },
-    {
-      "title": "코스피, 미국발 훈풍에 4% 급등 5,300선 목전 마감…코스닥 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209129900008",
-      "pubDate": "Mon, 9 Feb 2026 16:05:52 +0900"
     }
   ]
 }
