@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770658876,
+  "updated_at_unix": 1770662510,
   "items": [
+    {
+      "title": "달러-원, 중국발 약달러·美 고용 우려에 낙폭 확대…1,457.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260210003400002",
+      "pubDate": "Tue, 10 Feb 2026 02:47:52 +0900"
+    },
     {
       "title": "\"위험한데 처우 낮아\"…조선업 타운홀미팅서 쏟아진 청년 고충",
       "link": "https://www.yna.co.kr/view/AKR20260209106351530",
@@ -147,11 +152,6 @@
       "title": "외교장관 \"美대표, 비관세장벽 진척 없으면 관세인상하겠다 해\"",
       "link": "https://www.yna.co.kr/view/AKR20260209125100001",
       "pubDate": "Mon, 9 Feb 2026 16:19:16 +0900"
-    },
-    {
-      "title": "코스피 급등 속 원/달러 환율 나흘 만에 하락…1,460.3원",
-      "link": "https://www.yna.co.kr/view/AKR20260209133000002",
-      "pubDate": "Mon, 9 Feb 2026 16:18:20 +0900"
     }
   ]
 }
