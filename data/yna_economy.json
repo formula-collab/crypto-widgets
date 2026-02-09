@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770626220,
+  "updated_at_unix": 1770630479,
   "items": [
+    {
+      "title": "형편 어려운 대학생 위해 무료기숙사 운영하다 종부세 냈다",
+      "link": "https://www.yna.co.kr/view/AKR20260209161300065",
+      "pubDate": "Mon, 9 Feb 2026 18:41:05 +0900"
+    },
+    {
+      "title": "'먹거리 독과점' 탈세 적발…오비맥주 1천억·빙그레 200억 추징(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209078251002",
+      "pubDate": "Mon, 9 Feb 2026 18:18:00 +0900"
+    },
+    {
+      "title": "\"보험가입 미리 하세요\"…신용정보원, 설 연휴 IT 시스템 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260209156900002",
+      "pubDate": "Mon, 9 Feb 2026 18:11:13 +0900"
+    },
+    {
+      "title": "빗썸 사태에 업비트 '우린 달라'…\"5분마다 장부·잔고 대조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209137900002",
+      "pubDate": "Mon, 9 Feb 2026 18:09:56 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260209152400011",
+      "pubDate": "Mon, 9 Feb 2026 18:00:01 +0900"
+    },
+    {
+      "title": "한화에어로스페이스 \"천무 수출, 유럽 넘어 중동·북미도 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209157000003",
+      "pubDate": "Mon, 9 Feb 2026 17:57:46 +0900"
+    },
+    {
+      "title": "팜스코 \"인도네시아 계열사 주식 827억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209157800008",
+      "pubDate": "Mon, 9 Feb 2026 17:56:29 +0900"
+    },
     {
       "title": "CJ제일제당 작년 매출·영업이익 감소…국내 식품·바이오 부진(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260209141252527",
@@ -117,41 +152,6 @@
       "title": "코스피, 미국발 훈풍에 4% 급등 5,300선 목전 마감…코스닥 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209129900008",
       "pubDate": "Mon, 9 Feb 2026 16:05:52 +0900"
-    },
-    {
-      "title": "BNK금융지주 주가 장중 2만원 돌파…연일 최고가 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260209128700051",
-      "pubDate": "Mon, 9 Feb 2026 16:01:29 +0900"
-    },
-    {
-      "title": "노동부·조선 4사, 청년일자리 등 논의…\"K조선 부활 해법 모색\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209106300530",
-      "pubDate": "Mon, 9 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "광명시, 지역 자본 선순환 '3대 전략' 제시…지방소멸 위기 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260209115000061",
-      "pubDate": "Mon, 9 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "기획처, 협동조합 정책협의회…\"1분기에 5차 기본계획 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209125900002",
-      "pubDate": "Mon, 9 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 아모레퍼시픽, 작년 호실적에 20% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209063051008",
-      "pubDate": "Mon, 9 Feb 2026 15:59:20 +0900"
-    },
-    {
-      "title": "경기도, 지역화폐 발전전략 첫 용역…운영대행사 유지여부 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260209127500061",
-      "pubDate": "Mon, 9 Feb 2026 15:55:28 +0900"
-    },
-    {
-      "title": "'사이드카만 3번' 널뛰는 코스피…\"단기급등 매물 소화 국면\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209078451008",
-      "pubDate": "Mon, 9 Feb 2026 15:46:41 +0900"
     }
   ]
 }
