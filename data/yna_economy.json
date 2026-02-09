@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770619986,
+  "updated_at_unix": 1770623199,
   "items": [
+    {
+      "title": "고양시, 자동차세 체납 차량 번호판 영치 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260209140500060",
+      "pubDate": "Mon, 9 Feb 2026 16:42:42 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.267%",
+      "link": "https://www.yna.co.kr/view/AKR20260209140400008",
+      "pubDate": "Mon, 9 Feb 2026 16:40:22 +0900"
+    },
+    {
+      "title": "양산서 '경남 창업 희망 이야기' 개최…\"창업·투자유치 최우선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209138100052",
+      "pubDate": "Mon, 9 Feb 2026 16:34:36 +0900"
+    },
+    {
+      "title": "김정관 \"러트닉, 대미투자법 합의 높이 평가…조금씩 진전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209132700003",
+      "pubDate": "Mon, 9 Feb 2026 16:30:00 +0900"
+    },
+    {
+      "title": "수원교육청, 동수원초 이전신설 사업 완료…내달 개교",
+      "link": "https://www.yna.co.kr/view/AKR20260209137000061",
+      "pubDate": "Mon, 9 Feb 2026 16:29:25 +0900"
+    },
+    {
+      "title": "금융위, 자문기구 회의…\"벤처·지방·자본시장에 자금 흘러야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209136800002",
+      "pubDate": "Mon, 9 Feb 2026 16:28:16 +0900"
+    },
+    {
+      "title": "외교장관 \"美대표, 비관세장벽 진척 없으면 관세인상하겠다 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209125100001",
+      "pubDate": "Mon, 9 Feb 2026 16:19:16 +0900"
+    },
+    {
+      "title": "코스피 급등 속 원/달러 환율 나흘 만에 하락…1,460.3원",
+      "link": "https://www.yna.co.kr/view/AKR20260209133000002",
+      "pubDate": "Mon, 9 Feb 2026 16:18:20 +0900"
+    },
+    {
+      "title": "아파트 1층 알고보니 '옹벽뷰 반지하'…법원, 분양금 반환 판결",
+      "link": "https://www.yna.co.kr/view/AKR20260209128900054",
+      "pubDate": "Mon, 9 Feb 2026 16:10:34 +0900"
+    },
+    {
+      "title": "서울 성수4지구 재개발 수주전 본격화…대우·롯데 2파전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209078351003",
+      "pubDate": "Mon, 9 Feb 2026 16:07:42 +0900"
+    },
+    {
+      "title": "코스피, 미국발 훈풍에 4% 급등 5,300선 목전 마감…코스닥 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209129900008",
+      "pubDate": "Mon, 9 Feb 2026 16:05:52 +0900"
+    },
+    {
+      "title": "BNK금융지주 주가 장중 2만원 돌파…연일 최고가 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260209128700051",
+      "pubDate": "Mon, 9 Feb 2026 16:01:29 +0900"
+    },
+    {
+      "title": "노동부·조선 4사, 청년일자리 등 논의…\"K조선 부활 해법 모색\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209106300530",
+      "pubDate": "Mon, 9 Feb 2026 16:00:01 +0900"
+    },
+    {
+      "title": "광명시, 지역 자본 선순환 '3대 전략' 제시…지방소멸 위기 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260209115000061",
+      "pubDate": "Mon, 9 Feb 2026 16:00:00 +0900"
+    },
+    {
+      "title": "기획처, 협동조합 정책협의회…\"1분기에 5차 기본계획 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209125900002",
+      "pubDate": "Mon, 9 Feb 2026 16:00:00 +0900"
+    },
+    {
+      "title": "[특징주] 아모레퍼시픽, 작년 호실적에 20% 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209063051008",
+      "pubDate": "Mon, 9 Feb 2026 15:59:20 +0900"
+    },
+    {
+      "title": "경기도, 지역화폐 발전전략 첫 용역…운영대행사 유지여부 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260209127500061",
+      "pubDate": "Mon, 9 Feb 2026 15:55:28 +0900"
+    },
     {
       "title": "'사이드카만 3번' 널뛰는 코스피…\"단기급등 매물 소화 국면\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209078451008",
@@ -67,91 +152,6 @@
       "title": "[군포소식] 청년 학자금 장기연체자 지원…최대 100만원",
       "link": "https://www.yna.co.kr/view/AKR20260209115100061",
       "pubDate": "Mon, 9 Feb 2026 15:04:44 +0900"
-    },
-    {
-      "title": "경남상의협, 사천공항 국제공항 승격 건의…\"지역 균형발전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209112800052",
-      "pubDate": "Mon, 9 Feb 2026 15:00:28 +0900"
-    },
-    {
-      "title": "무디스, 韓 은행 산업 전망 '부정적'→'안정적' 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260209111500008",
-      "pubDate": "Mon, 9 Feb 2026 15:00:18 +0900"
-    },
-    {
-      "title": "이찬진 \"빗썸사태로 근본적 문제 노출…오지급 코인은 반환대상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209108800002",
-      "pubDate": "Mon, 9 Feb 2026 15:00:00 +0900"
-    },
-    {
-      "title": "SPC삼립 \"시화공장, 식빵라인 제외 생산 재개…95% 수준 가동\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209109600030",
-      "pubDate": "Mon, 9 Feb 2026 14:55:58 +0900"
-    },
-    {
-      "title": "현대리바트, '1천178억원' 이라크 해수처리시설 가설공사 맡는다",
-      "link": "https://www.yna.co.kr/view/AKR20260209111800030",
-      "pubDate": "Mon, 9 Feb 2026 14:55:21 +0900"
-    },
-    {
-      "title": "제주도, 중소기업 경영자금 융자 2년 추가 연장·분할상환 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260209111200056",
-      "pubDate": "Mon, 9 Feb 2026 14:51:06 +0900"
-    },
-    {
-      "title": "대학가 월세 안정화…진주시, 경상대·공인중개사협 등 상생협력",
-      "link": "https://www.yna.co.kr/view/AKR20260209109100052",
-      "pubDate": "Mon, 9 Feb 2026 14:48:47 +0900"
-    },
-    {
-      "title": "현대건설, 글로벌 설계사와 압구정3구역 설계 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260209110700003",
-      "pubDate": "Mon, 9 Feb 2026 14:47:35 +0900"
-    },
-    {
-      "title": "[현장] 속살 드러낸 옛 전주종합경기장…마이스산업 중심지로 첫발",
-      "link": "https://www.yna.co.kr/view/AKR20260209101100055",
-      "pubDate": "Mon, 9 Feb 2026 14:44:24 +0900"
-    },
-    {
-      "title": "동작구, 내달 9∼11일 '찾아가는 세무설명회'",
-      "link": "https://www.yna.co.kr/view/AKR20260209109700004",
-      "pubDate": "Mon, 9 Feb 2026 14:41:34 +0900"
-    },
-    {
-      "title": "한섬, 작년 영업이익 522억원…18% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260209106500030",
-      "pubDate": "Mon, 9 Feb 2026 14:37:51 +0900"
-    },
-    {
-      "title": "\"재난 피해 주택 복구 돕는다\" 제주도-건축사회 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260209107400056",
-      "pubDate": "Mon, 9 Feb 2026 14:30:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260209104200011",
-      "pubDate": "Mon, 9 Feb 2026 14:30:01 +0900"
-    },
-    {
-      "title": "SK이터닉스 \"신안우이해상풍력 주식 311억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209106400008",
-      "pubDate": "Mon, 9 Feb 2026 14:29:05 +0900"
-    },
-    {
-      "title": "[게시판] NH농협은행, K푸드 투자 전략회의 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260209106200002",
-      "pubDate": "Mon, 9 Feb 2026 14:24:54 +0900"
-    },
-    {
-      "title": "세종시 설 연휴 종합대책…\"물가 관리·응급진료 상황실 운영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209105500063",
-      "pubDate": "Mon, 9 Feb 2026 14:23:41 +0900"
-    },
-    {
-      "title": "미래에셋증권, 작년 세전이익 2조원 넘어… 전년보다 70% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209063651008",
-      "pubDate": "Mon, 9 Feb 2026 14:19:28 +0900"
     }
   ]
 }
