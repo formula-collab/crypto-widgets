@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770623199,
+  "updated_at_unix": 1770626220,
   "items": [
+    {
+      "title": "CJ제일제당 작년 매출·영업이익 감소…국내 식품·바이오 부진(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260209141252527",
+      "pubDate": "Mon, 9 Feb 2026 17:27:14 +0900"
+    },
+    {
+      "title": "크래프톤, 역대 최고 매출…투자 확대에 영업이익은 줄어(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260209116152527",
+      "pubDate": "Mon, 9 Feb 2026 17:21:00 +0900"
+    },
+    {
+      "title": "대전 설 차례상 비용 전통시장이 제일 저렴…가래떡 가격 29％↑",
+      "link": "https://www.yna.co.kr/view/AKR20260209148400063",
+      "pubDate": "Mon, 9 Feb 2026 17:19:10 +0900"
+    },
+    {
+      "title": "[인사] 동부건설",
+      "link": "https://www.yna.co.kr/view/AKR20260209148200003",
+      "pubDate": "Mon, 9 Feb 2026 17:10:22 +0900"
+    },
+    {
+      "title": "김정관 \"3월 대미투자특별법 통과 시 美 관세 인상 유예할 듯\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209132751003",
+      "pubDate": "Mon, 9 Feb 2026 17:09:46 +0900"
+    },
+    {
+      "title": "자민당 압승·입찰 부담에 국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209140451008",
+      "pubDate": "Mon, 9 Feb 2026 17:08:53 +0900"
+    },
+    {
+      "title": "해양진흥공사, 윤리경영 강화 위해 안심변호사제 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260209144600051",
+      "pubDate": "Mon, 9 Feb 2026 17:06:44 +0900"
+    },
+    {
+      "title": "CJ제일제당 작년 매출·영업이익 감소…국내 식품·바이오 부진(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260209141251527",
+      "pubDate": "Mon, 9 Feb 2026 17:04:06 +0900"
+    },
+    {
+      "title": "농식품부 \"설 차례상 비용 작년보다 덜 들어…성수품 안정 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209119000030",
+      "pubDate": "Mon, 9 Feb 2026 17:00:01 +0900"
+    },
+    {
+      "title": "李대통령 \"의무기간 끝난 등록임대주택, 세제도 같아야 공평\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209136500001",
+      "pubDate": "Mon, 9 Feb 2026 16:55:08 +0900"
+    },
+    {
+      "title": "애니플러스 \"종속회사 라프텔 주식 141억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260209143100008",
+      "pubDate": "Mon, 9 Feb 2026 16:52:09 +0900"
+    },
+    {
+      "title": "부산상의, 부산이전 해수부와 협력 체계 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260209142700051",
+      "pubDate": "Mon, 9 Feb 2026 16:49:57 +0900"
+    },
     {
       "title": "고양시, 자동차세 체납 차량 번호판 영치 나선다",
       "link": "https://www.yna.co.kr/view/AKR20260209140500060",
@@ -92,66 +152,6 @@
       "title": "'사이드카만 3번' 널뛰는 코스피…\"단기급등 매물 소화 국면\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209078451008",
       "pubDate": "Mon, 9 Feb 2026 15:46:41 +0900"
-    },
-    {
-      "title": "크래프톤 \"3년간 1조원 이상 주주환원…매년 1천억 현금배당\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209123700017",
-      "pubDate": "Mon, 9 Feb 2026 15:39:12 +0900"
-    },
-    {
-      "title": "코스피, 4% 올라 5,300선 목전 마감…코스닥도 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260209122800008",
-      "pubDate": "Mon, 9 Feb 2026 15:36:14 +0900"
-    },
-    {
-      "title": "크래프톤, 작년 역대 최고 매출…투자 확대에 영업익은 줄어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209116151527",
-      "pubDate": "Mon, 9 Feb 2026 15:35:34 +0900"
-    },
-    {
-      "title": "외국환시세(2월9일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260209122700002",
-      "pubDate": "Mon, 9 Feb 2026 15:35:18 +0900"
-    },
-    {
-      "title": "기획처, 조직문화 혁신그룹 '비전X' 출범…비생산적 업무 줄이기",
-      "link": "https://www.yna.co.kr/view/AKR20260209119800002",
-      "pubDate": "Mon, 9 Feb 2026 15:34:58 +0900"
-    },
-    {
-      "title": "광주시 경제정책협력관에 박충원 한은 부국장",
-      "link": "https://www.yna.co.kr/view/AKR20260209120900054",
-      "pubDate": "Mon, 9 Feb 2026 15:31:14 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 9.2원 내린 1,460.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260209120800002",
-      "pubDate": "Mon, 9 Feb 2026 15:30:14 +0900"
-    },
-    {
-      "title": "중소택배업자가 수수료 협상 때 단결하면 담합?…제도개선 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260209112100002",
-      "pubDate": "Mon, 9 Feb 2026 15:30:00 +0900"
-    },
-    {
-      "title": "울주군 \"연말까지 이월체납액 123억 정리\"…모바일 알림톡도",
-      "link": "https://www.yna.co.kr/view/AKR20260209116300057",
-      "pubDate": "Mon, 9 Feb 2026 15:28:59 +0900"
-    },
-    {
-      "title": "[일문일답] \"빗썸 오지급 비트코인 매도자 재앙…원물로 반환해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209108100002",
-      "pubDate": "Mon, 9 Feb 2026 15:15:26 +0900"
-    },
-    {
-      "title": "현대리바트 작년 영업이익 35% 줄어…\"건설경기 침체\"",
-      "link": "https://www.yna.co.kr/view/AKR20260209116600030",
-      "pubDate": "Mon, 9 Feb 2026 15:12:47 +0900"
-    },
-    {
-      "title": "[군포소식] 청년 학자금 장기연체자 지원…최대 100만원",
-      "link": "https://www.yna.co.kr/view/AKR20260209115100061",
-      "pubDate": "Mon, 9 Feb 2026 15:04:44 +0900"
     }
   ]
 }
