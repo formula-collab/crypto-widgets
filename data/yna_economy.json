@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770723684,
+  "updated_at_unix": 1770727492,
   "items": [
+    {
+      "title": "[부고] 백종원(더본코리아 대표이사)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260210176800030",
+      "pubDate": "Tue, 10 Feb 2026 21:29:53 +0900"
+    },
     {
       "title": "金총리 \"부동산 정책서 세제는 가급적 뒷순위…배제는 안 해\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260210113551001",
@@ -147,11 +152,6 @@
       "title": "구윤철 \"환율 최대한 안정시켜 수입물가 안정 노력하겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260210141300001",
       "pubDate": "Tue, 10 Feb 2026 16:43:06 +0900"
-    },
-    {
-      "title": "무궁화신탁發 부실 확산…매각 난항에 금융권 부담 커지나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260209153951008",
-      "pubDate": "Tue, 10 Feb 2026 16:42:47 +0900"
     }
   ]
 }
