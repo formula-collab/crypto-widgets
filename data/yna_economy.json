@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770742362,
+  "updated_at_unix": 1770745997,
   "items": [
+    {
+      "title": "달러-원, 美 소매판매 부진에 낙폭 확대…1,457.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260211004100002",
+      "pubDate": "Wed, 11 Feb 2026 02:44:37 +0900"
+    },
     {
       "title": "[부고] 백종원(더본코리아 대표이사)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260210176800030",
@@ -147,11 +152,6 @@
       "title": "강원도, 행복한 농업·농촌 위해 8천800억 투자",
       "link": "https://www.yna.co.kr/view/AKR20260210149300062",
       "pubDate": "Tue, 10 Feb 2026 16:44:06 +0900"
-    },
-    {
-      "title": "구윤철 \"환율 최대한 안정시켜 수입물가 안정 노력하겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210141300001",
-      "pubDate": "Tue, 10 Feb 2026 16:43:06 +0900"
     }
   ]
 }
