@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770753267,
+  "updated_at_unix": 1770755615,
   "items": [
+    {
+      "title": "미 가계대출 연체율 8년만에 최고…주택대출 연체율 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260211006800072",
+      "pubDate": "Wed, 11 Feb 2026 05:14:20 +0900"
+    },
     {
       "title": "달러-원, 美 소매판매 부진에 낙폭 확대…1,457.20원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260211004100002",
@@ -147,11 +152,6 @@
       "title": "등록임대도 '신속 주택공급' 재료로…사업자 반발 해소는 과제",
       "link": "https://www.yna.co.kr/view/AKR20260210150300003",
       "pubDate": "Tue, 10 Feb 2026 16:51:57 +0900"
-    },
-    {
-      "title": "강원도, 행복한 농업·농촌 위해 8천800억 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260210149300062",
-      "pubDate": "Tue, 10 Feb 2026 16:44:06 +0900"
     }
   ]
 }
