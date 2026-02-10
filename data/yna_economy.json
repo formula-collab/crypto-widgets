@@ -1,157 +1,157 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770702851,
+  "updated_at_unix": 1770706394,
   "items": [
+    {
+      "title": "소상공인 생존권본부 출범…\"권익침해 사안에 연대운동\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210132700030",
+      "pubDate": "Tue, 10 Feb 2026 15:48:23 +0900"
+    },
+    {
+      "title": "[게시판] 주택건설협회, 취약층에 6천600만원 상당 소방 용품 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260210127800003",
+      "pubDate": "Tue, 10 Feb 2026 15:44:00 +0900"
+    },
+    {
+      "title": "[특징주] 대우건설, 원전 사업 수주 기대감에 52주 신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260210050251008",
+      "pubDate": "Tue, 10 Feb 2026 15:42:31 +0900"
+    },
+    {
+      "title": "거래소, 창사 이래 첫 스타트업 인수…\"AI 전환 본격화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210131600008",
+      "pubDate": "Tue, 10 Feb 2026 15:41:27 +0900"
+    },
+    {
+      "title": "DB증권, 작년 영업이익 1천167억원…전년보다 88.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260210131100008",
+      "pubDate": "Tue, 10 Feb 2026 15:38:38 +0900"
+    },
+    {
+      "title": "국토장관, 1·29 공급대책 '재탕 맞느냐' 지적에 \"일리 있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210126700001",
+      "pubDate": "Tue, 10 Feb 2026 15:38:37 +0900"
+    },
+    {
+      "title": "외국환시세(2월10일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260210130700002",
+      "pubDate": "Tue, 10 Feb 2026 15:36:54 +0900"
+    },
+    {
+      "title": "코스피, 5,300대 강보합 마감…코스닥은 1% 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260210130400008",
+      "pubDate": "Tue, 10 Feb 2026 15:34:34 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 1.2원 내린 1,459.1원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260210129400002",
+      "pubDate": "Tue, 10 Feb 2026 15:30:16 +0900"
+    },
+    {
+      "title": "정읍시, 신중년에 자격증 응시료 지원…연 최대 10만원",
+      "link": "https://www.yna.co.kr/view/AKR20260210128500055",
+      "pubDate": "Tue, 10 Feb 2026 15:27:43 +0900"
+    },
+    {
+      "title": "[게시판] 신한금융 임직원, 남대문시장서 1억원 온누리상품권 사용",
+      "link": "https://www.yna.co.kr/view/AKR20260210126100002",
+      "pubDate": "Tue, 10 Feb 2026 15:25:24 +0900"
+    },
+    {
+      "title": "보훈공단-한국해비타트, 국가보훈대상자 주거지원 활성화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260210126400062",
+      "pubDate": "Tue, 10 Feb 2026 15:22:13 +0900"
+    },
+    {
+      "title": "영월 상동읍에 청년 공유 주거시설 '상동별곡' 문 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260210126000062",
+      "pubDate": "Tue, 10 Feb 2026 15:20:21 +0900"
+    },
+    {
+      "title": "AK홀딩스 \"계열사 에이케이아이에스 주식 433억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210125600008",
+      "pubDate": "Tue, 10 Feb 2026 15:18:11 +0900"
+    },
+    {
+      "title": "울주군, 설맞이 전통시장 장보기·물가안정 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260210124100057",
+      "pubDate": "Tue, 10 Feb 2026 15:15:49 +0900"
+    },
+    {
+      "title": "해남군, 고구마 덩이줄기썩음병 신속 분석 기술 특허출원",
+      "link": "https://www.yna.co.kr/view/AKR20260210124600054",
+      "pubDate": "Tue, 10 Feb 2026 15:13:42 +0900"
+    },
+    {
+      "title": "전북 설 차례상 비용 작년과 비슷한 26만원…전통시장 저렴",
+      "link": "https://www.yna.co.kr/view/AKR20260210122300055",
+      "pubDate": "Tue, 10 Feb 2026 15:12:01 +0900"
+    },
+    {
+      "title": "울주군정신건강복지센터, 지역사회 정신건강 증진 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260210120200057",
+      "pubDate": "Tue, 10 Feb 2026 15:07:33 +0900"
+    },
+    {
+      "title": "케이피에프 \"자회사 에스비비테크 주식 123억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210122600008",
+      "pubDate": "Tue, 10 Feb 2026 15:07:20 +0900"
+    },
+    {
+      "title": "제주 체불임금 가장 많은 업종은 건설업",
+      "link": "https://www.yna.co.kr/view/AKR20260210120400056",
+      "pubDate": "Tue, 10 Feb 2026 15:04:37 +0900"
+    },
+    {
+      "title": "중기중앙회, 지식재산처장과 中企 지식재산권 현안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260210060100030",
+      "pubDate": "Tue, 10 Feb 2026 15:00:04 +0900"
+    },
+    {
+      "title": "코트라-농업정책보험금융원 협약…K-농식품 수출 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260210108800003",
+      "pubDate": "Tue, 10 Feb 2026 15:00:02 +0900"
+    },
+    {
+      "title": "이찬진 \"증권사 임직원 불공정거래, 철저한 자기반성 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210056500002",
+      "pubDate": "Tue, 10 Feb 2026 15:00:01 +0900"
+    },
+    {
+      "title": "[게시판] 공정거래조정원 하도급법 동향 및 개선방향 학술대회",
+      "link": "https://www.yna.co.kr/view/AKR20260210094800002",
+      "pubDate": "Tue, 10 Feb 2026 15:00:01 +0900"
+    },
+    {
+      "title": "\"개성공단서 다시 뛰고 싶다…기업인들 한 맺힌 손 잡아달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210016800030",
+      "pubDate": "Tue, 10 Feb 2026 15:00:00 +0900"
+    },
+    {
+      "title": "국민연금, 의결권 행사 방향 공개 확대…수탁자 책임활동 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260210118700530",
+      "pubDate": "Tue, 10 Feb 2026 14:59:39 +0900"
+    },
+    {
+      "title": "황성엽 금투협회장, 초대 일본자산운용협회장 내정자와 협력논의",
+      "link": "https://www.yna.co.kr/view/AKR20260210119000008",
+      "pubDate": "Tue, 10 Feb 2026 14:55:51 +0900"
+    },
+    {
+      "title": "[게시판] 中企사랑나눔재단, 2026 희망드림장학금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260210118900030",
+      "pubDate": "Tue, 10 Feb 2026 14:55:46 +0900"
+    },
+    {
+      "title": "농어촌 기본소득 이달말부터 지급…'주 3일 이상' 거주해야(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260210086151030",
+      "pubDate": "Tue, 10 Feb 2026 14:54:47 +0900"
+    },
     {
       "title": "金총리 \"성장률 돌려놓는 데 훨씬 주목…정부부채는 관리 가능\"",
       "link": "https://www.yna.co.kr/view/AKR20260210113500001",
       "pubDate": "Tue, 10 Feb 2026 14:42:01 +0900"
-    },
-    {
-      "title": "던스트, 도쿄에 팝업스토어…\"일본 시장 공략\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210115000030",
-      "pubDate": "Tue, 10 Feb 2026 14:40:35 +0900"
-    },
-    {
-      "title": "아모레퍼시픽그룹, 설맞아 협력사에 대금 280억원 조기지급",
-      "link": "https://www.yna.co.kr/view/AKR20260210113600030",
-      "pubDate": "Tue, 10 Feb 2026 14:40:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260210110000011",
-      "pubDate": "Tue, 10 Feb 2026 14:30:00 +0900"
-    },
-    {
-      "title": "통영농협 지난해 34억 손실 발생에 조합원들 경영진 사퇴 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260210110200052",
-      "pubDate": "Tue, 10 Feb 2026 14:28:23 +0900"
-    },
-    {
-      "title": "성수4지구, 대우건설 서류 미비로 재입찰 공고…마감일 4월 6일(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210093351003",
-      "pubDate": "Tue, 10 Feb 2026 14:17:25 +0900"
-    },
-    {
-      "title": "진주시, 대학가 월세 대책 마련…중개수수료 지원·캠퍼스 분산",
-      "link": "https://www.yna.co.kr/view/AKR20260210107300052",
-      "pubDate": "Tue, 10 Feb 2026 14:07:13 +0900"
-    },
-    {
-      "title": "\"배임죄, 적극적 경영의지 약화 우려…부작용 줄일 입법 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210079700003",
-      "pubDate": "Tue, 10 Feb 2026 14:00:19 +0900"
-    },
-    {
-      "title": "한은 총재 \"초고령사회, 사회적 부담 아닌 산업적 기회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210066800002",
-      "pubDate": "Tue, 10 Feb 2026 14:00:19 +0900"
-    },
-    {
-      "title": "한은 \"병원 장례식장에 소규모 화장장 만들어 과부화 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210079600002",
-      "pubDate": "Tue, 10 Feb 2026 14:00:18 +0900"
-    },
-    {
-      "title": "농어촌 기본소득 이달말 첫 지급…'주 3일' 거주해야 인정",
-      "link": "https://www.yna.co.kr/view/AKR20260210086100030",
-      "pubDate": "Tue, 10 Feb 2026 14:00:17 +0900"
-    },
-    {
-      "title": "[Q&A] 농어촌 기본소득 시범사업 지급 기준은…실거주 확인해야",
-      "link": "https://www.yna.co.kr/view/AKR20260210091100030",
-      "pubDate": "Tue, 10 Feb 2026 14:00:02 +0900"
-    },
-    {
-      "title": "금융권, 청년 재무상담 확대한다…\"지방·취약계층 이용 쉽게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210099900002",
-      "pubDate": "Tue, 10 Feb 2026 14:00:00 +0900"
-    },
-    {
-      "title": "고양산업진흥원, 고양문화창조허브 신규 입주기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260210105100060",
-      "pubDate": "Tue, 10 Feb 2026 13:58:43 +0900"
-    },
-    {
-      "title": "서해해경청, 내항 화물선 과적·과승 등 불법 단속",
-      "link": "https://www.yna.co.kr/view/AKR20260210101800054",
-      "pubDate": "Tue, 10 Feb 2026 13:48:28 +0900"
-    },
-    {
-      "title": "허용주 대한기계설비건설협회장 취임",
-      "link": "https://www.yna.co.kr/view/AKR20260210096900003",
-      "pubDate": "Tue, 10 Feb 2026 13:39:25 +0900"
-    },
-    {
-      "title": "교보증권, 코스피200 지수 기초자산 월지급식 ELB 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260210095900008",
-      "pubDate": "Tue, 10 Feb 2026 13:28:46 +0900"
-    },
-    {
-      "title": "성수4지구, 대우건설 서류 미비로 재입찰 공고…마감일 4월 6일",
-      "link": "https://www.yna.co.kr/view/AKR20260210093300003",
-      "pubDate": "Tue, 10 Feb 2026 13:25:43 +0900"
-    },
-    {
-      "title": "통상본부장, 내일 USTR 부대표 면담…\"비관세장벽 중점 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210090300003",
-      "pubDate": "Tue, 10 Feb 2026 12:17:06 +0900"
-    },
-    {
-      "title": "차단율 90% 이상?…전자파 차단 제품 실제 효과는 '미미'",
-      "link": "https://www.yna.co.kr/view/AKR20260209125200030",
-      "pubDate": "Tue, 10 Feb 2026 12:00:19 +0900"
-    },
-    {
-      "title": "3월까지 고령자 친화기업 모집…사업비 최대 3억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260210040200530",
-      "pubDate": "Tue, 10 Feb 2026 12:00:18 +0900"
-    },
-    {
-      "title": "중기부, 기술보호 지원사업 통합 공고…134억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260210055900030",
-      "pubDate": "Tue, 10 Feb 2026 12:00:16 +0900"
-    },
-    {
-      "title": "\"미국 등 해외서 일해볼 기회\"…산업인력공단, 청년 494명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260210062900530",
-      "pubDate": "Tue, 10 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "공정위 '입찰가 후려치기' 서진산업에 과징금 3억8천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260210063500002",
-      "pubDate": "Tue, 10 Feb 2026 12:00:04 +0900"
-    },
-    {
-      "title": "작년 수출 7천94억달러 역대 최대…미 관세에도 반도체가 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260210075300002",
-      "pubDate": "Tue, 10 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "설 앞두고 보이스피싱 주의보…금융당국, 피해예방 10계명 배포",
-      "link": "https://www.yna.co.kr/view/AKR20260210083800002",
-      "pubDate": "Tue, 10 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"대기업이 상위 3사인 산업은 출하액 10배差…독과점 고착화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210086600002",
-      "pubDate": "Tue, 10 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "관세청, EU 탄소국경조정제도 확대 대비 '품목번호 연계표' 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260210084300002",
-      "pubDate": "Tue, 10 Feb 2026 11:52:31 +0900"
-    },
-    {
-      "title": "남원 '설향' 딸기, 홍콩 수출길…올해 30톤 수출 계획",
-      "link": "https://www.yna.co.kr/view/AKR20260210080500055",
-      "pubDate": "Tue, 10 Feb 2026 11:50:07 +0900"
-    },
-    {
-      "title": "구윤철 \"다주택 중과, 5·9 前 계약후 4∼6개월 내 잔금시 유예\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210083300001",
-      "pubDate": "Tue, 10 Feb 2026 11:46:55 +0900"
     }
   ]
 }
