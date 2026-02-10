@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770716890,
+  "updated_at_unix": 1770720156,
   "items": [
+    {
+      "title": "金총리 \"부동산 정책서 세제는 가급적 뒷순위…배제는 안 해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260210113551001",
+      "pubDate": "Tue, 10 Feb 2026 18:53:31 +0900"
+    },
+    {
+      "title": "구윤철 \"환율 최대한 안정시켜 수입물가 안정 노력하겠다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260210141351001",
+      "pubDate": "Tue, 10 Feb 2026 18:47:09 +0900"
+    },
     {
       "title": "국토장관, 1·29 공급대책 '재탕 맞느냐' 지적에 \"일리 있다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260210126751001",
@@ -142,16 +152,6 @@
       "title": "무궁화신탁發 부실 확산…매각 난항에 금융권 부담 커지나(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260209153951008",
       "pubDate": "Tue, 10 Feb 2026 16:42:47 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.224%",
-      "link": "https://www.yna.co.kr/view/AKR20260210148200008",
-      "pubDate": "Tue, 10 Feb 2026 16:40:15 +0900"
-    },
-    {
-      "title": "[특징주] '새벽배송' 법개정 추진에 유통주 줄줄이 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210065751008",
-      "pubDate": "Tue, 10 Feb 2026 16:39:10 +0900"
     }
   ]
 }
