@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770764834,
+  "updated_at_unix": 1770767888,
   "items": [
+    {
+      "title": "떫은감협회, '감협회'로 명칭 변경…\"덜 익은 감 오해 줄인다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211030900030",
+      "pubDate": "Wed, 11 Feb 2026 08:50:23 +0900"
+    },
+    {
+      "title": "NH아문디운용 \"향후 3년간 전환 금융·스튜어드십 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211029800008",
+      "pubDate": "Wed, 11 Feb 2026 08:48:33 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, ESG 경영 인증 AI 기업에 대출 2% 우대금리",
+      "link": "https://www.yna.co.kr/view/AKR20260211029200002",
+      "pubDate": "Wed, 11 Feb 2026 08:44:56 +0900"
+    },
+    {
+      "title": "민생물가 특별관리 장관급TF 가동…\"불법·불공정 제거\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211025000002",
+      "pubDate": "Wed, 11 Feb 2026 08:41:32 +0900"
+    },
+    {
+      "title": "IBK투자 \"BGF리테일, 자회사 경쟁력 확대\"…목표가↑",
+      "link": "https://www.yna.co.kr/view/AKR20260211027700008",
+      "pubDate": "Wed, 11 Feb 2026 08:41:17 +0900"
+    },
+    {
+      "title": "하나증권 \"은행주 상승 랠리 계속될듯…모든 지주사 목표주가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211026300008",
+      "pubDate": "Wed, 11 Feb 2026 08:34:41 +0900"
+    },
+    {
+      "title": "한화증권 \"파라다이스, 춘절연휴 中관광객 증가 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211026400008",
+      "pubDate": "Wed, 11 Feb 2026 08:34:28 +0900"
+    },
+    {
+      "title": "[인천소식] 인천시, 일상돌봄 서비스 지원대상 13∼64세로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260211025100065",
+      "pubDate": "Wed, 11 Feb 2026 08:30:03 +0900"
+    },
+    {
+      "title": "\"카카오빈이 초콜릿으로\"…국내 유일 설비 갖춘 롯데 양산공장",
+      "link": "https://www.yna.co.kr/view/AKR20260210173600030",
+      "pubDate": "Wed, 11 Feb 2026 08:30:00 +0900"
+    },
+    {
+      "title": "대상, 일본 식품전시회 'SMTS 2026' 첫 참가…\"일본 본격 공략\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211025800030",
+      "pubDate": "Wed, 11 Feb 2026 08:28:23 +0900"
+    },
+    {
+      "title": "유진투자 \"KT, 주주환원 약속 충실히 이행…목표주가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211024100008",
+      "pubDate": "Wed, 11 Feb 2026 08:17:23 +0900"
+    },
+    {
+      "title": "한투증권, CJ대한통운 목표가 30%↑…\"택배 성장이 실적 견인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211023800008",
+      "pubDate": "Wed, 11 Feb 2026 08:16:52 +0900"
+    },
+    {
+      "title": "삼성증권, 네오위즈 목표가↓…\"본격 성장은 내년부터\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211023500008",
+      "pubDate": "Wed, 11 Feb 2026 08:13:33 +0900"
+    },
+    {
+      "title": "\"미국, 이란산 원유 운송하는 '그림자 선단' 나포 저울질\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211021100009",
+      "pubDate": "Wed, 11 Feb 2026 08:07:11 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 미국 경기 우려 확산 속 방향성 탐색 전망",
       "link": "https://www.yna.co.kr/view/AKR20260211020600008",
@@ -82,76 +152,6 @@
       "title": "미 가계대출 연체율 8년만에 최고…주택대출 연체율 상승",
       "link": "https://www.yna.co.kr/view/AKR20260211006800072",
       "pubDate": "Wed, 11 Feb 2026 05:14:20 +0900"
-    },
-    {
-      "title": "달러-원, 美 소매판매 부진에 낙폭 확대…1,457.20원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260211004100002",
-      "pubDate": "Wed, 11 Feb 2026 02:44:37 +0900"
-    },
-    {
-      "title": "[부고] 백종원(더본코리아 대표이사)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260210176800030",
-      "pubDate": "Tue, 10 Feb 2026 21:29:53 +0900"
-    },
-    {
-      "title": "金총리 \"부동산 정책서 세제는 가급적 뒷순위…배제는 안 해\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210113551001",
-      "pubDate": "Tue, 10 Feb 2026 18:53:31 +0900"
-    },
-    {
-      "title": "구윤철 \"환율 최대한 안정시켜 수입물가 안정 노력하겠다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210141351001",
-      "pubDate": "Tue, 10 Feb 2026 18:47:09 +0900"
-    },
-    {
-      "title": "국토장관, 1·29 공급대책 '재탕 맞느냐' 지적에 \"일리 있다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210126751001",
-      "pubDate": "Tue, 10 Feb 2026 18:31:46 +0900"
-    },
-    {
-      "title": "與 \"李정부서 경제수치 큰폭 상승\"…野 \"환율·물가·집값폭등\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210158500001",
-      "pubDate": "Tue, 10 Feb 2026 18:20:29 +0900"
-    },
-    {
-      "title": "보험연구원 원추위, 제7대 원장에 김헌수 순천향대 교수 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260210166200002",
-      "pubDate": "Tue, 10 Feb 2026 18:17:39 +0900"
-    },
-    {
-      "title": "납세자연맹, 차은우 과세정보 유출 세무공무원·기자 고발",
-      "link": "https://www.yna.co.kr/view/AKR20260210166000002",
-      "pubDate": "Tue, 10 Feb 2026 18:15:58 +0900"
-    },
-    {
-      "title": "성수4지구, 대우건설 서류 미비로 재입찰 공고했다가 취소(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260210093352003",
-      "pubDate": "Tue, 10 Feb 2026 18:10:53 +0900"
-    },
-    {
-      "title": "오리엔트정공, 31억원 유상증자…오리엔트바이오에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260210164300008",
-      "pubDate": "Tue, 10 Feb 2026 18:01:39 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260210159500011",
-      "pubDate": "Tue, 10 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "파라다이스, 방한 관광객 증가에 작년 매출·영업이익 '최대'",
-      "link": "https://www.yna.co.kr/view/AKR20260210163700030",
-      "pubDate": "Tue, 10 Feb 2026 17:57:18 +0900"
-    },
-    {
-      "title": "SK㈜, 작년 배당금 8천원…분리과세 적용 고배당기업 분류가능성",
-      "link": "https://www.yna.co.kr/view/AKR20260210163400003",
-      "pubDate": "Tue, 10 Feb 2026 17:55:33 +0900"
-    },
-    {
-      "title": "아스타, 100억원 유상증자…에스디바이오센서에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260210161400008",
-      "pubDate": "Tue, 10 Feb 2026 17:39:53 +0900"
     }
   ]
 }
