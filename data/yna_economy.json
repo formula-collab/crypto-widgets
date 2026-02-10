@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770755615,
+  "updated_at_unix": 1770759171,
   "items": [
+    {
+      "title": "울산 창업 지원 사업을 한눈에…누리집에 통합 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260210172400057",
+      "pubDate": "Wed, 11 Feb 2026 06:04:00 +0900"
+    },
+    {
+      "title": "현대차·기아·BMW 51개 차종 17만9천880대 자발적 시정조치",
+      "link": "https://www.yna.co.kr/view/AKR20260210110700003",
+      "pubDate": "Wed, 11 Feb 2026 06:00:10 +0900"
+    },
+    {
+      "title": "신세계인터내셔날, 사내벤처 '아이디어 팟' 1기 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260210142700030",
+      "pubDate": "Wed, 11 Feb 2026 06:00:06 +0900"
+    },
+    {
+      "title": "전국 창조경제센터에서 투자유치사업 '창업-BuS' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260210147400030",
+      "pubDate": "Wed, 11 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "작년 500대 기업 일자리 6천700개↓…CJ올리브영은 최다 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260210146700003",
+      "pubDate": "Wed, 11 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "[시승기] '가성비'로 소형車시장 공략 BYD 돌핀…넓은 공간에 다채 사양",
+      "link": "https://www.yna.co.kr/view/AKR20260210155800003",
+      "pubDate": "Wed, 11 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 확실한 신호 기다리는 원유 시장…WTI 0.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260211009100009",
+      "pubDate": "Wed, 11 Feb 2026 05:57:43 +0900"
+    },
+    {
+      "title": "작년 카드사 순이익 1조8천억, 8%↓…수수료 줄고 이자비용 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260210169800002",
+      "pubDate": "Wed, 11 Feb 2026 05:51:00 +0900"
+    },
     {
       "title": "미 가계대출 연체율 8년만에 최고…주택대출 연체율 상승",
       "link": "https://www.yna.co.kr/view/AKR20260211006800072",
@@ -112,46 +152,6 @@
       "title": "산지 쌀값 한 가마 23만원 돌파…정부양곡 푼다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260210029251030",
       "pubDate": "Tue, 10 Feb 2026 17:14:15 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.224%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210148251008",
-      "pubDate": "Tue, 10 Feb 2026 17:13:21 +0900"
-    },
-    {
-      "title": "충북도, 25개 경제기관·단체와 현안 전략회의 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260210155100064",
-      "pubDate": "Tue, 10 Feb 2026 17:13:13 +0900"
-    },
-    {
-      "title": "외국인 금형기술자 비자 시범도입…숙련기능인력 소폭 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260210153100004",
-      "pubDate": "Tue, 10 Feb 2026 17:07:45 +0900"
-    },
-    {
-      "title": "'10조 세입경정' 작년 국세 수입 373.9조…1.8조 '플러스'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210065651002",
-      "pubDate": "Tue, 10 Feb 2026 17:05:54 +0900"
-    },
-    {
-      "title": "[동정] 김상민 부산디지털자산거래소 대표, 에릭 트럼프와 환담",
-      "link": "https://www.yna.co.kr/view/AKR20260210153200051",
-      "pubDate": "Tue, 10 Feb 2026 17:00:19 +0900"
-    },
-    {
-      "title": "대전 CES 통합관 성과공유회…596억원 수출·투자 상담",
-      "link": "https://www.yna.co.kr/view/AKR20260210151600063",
-      "pubDate": "Tue, 10 Feb 2026 16:55:30 +0900"
-    },
-    {
-      "title": "[나주소식] 청년 행정인턴제 첫 도입…20명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260210151900054",
-      "pubDate": "Tue, 10 Feb 2026 16:52:28 +0900"
-    },
-    {
-      "title": "등록임대도 '신속 주택공급' 재료로…사업자 반발 해소는 과제",
-      "link": "https://www.yna.co.kr/view/AKR20260210150300003",
-      "pubDate": "Tue, 10 Feb 2026 16:51:57 +0900"
     }
   ]
 }
