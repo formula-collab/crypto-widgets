@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770712647,
+  "updated_at_unix": 1770716890,
   "items": [
+    {
+      "title": "국토장관, 1·29 공급대책 '재탕 맞느냐' 지적에 \"일리 있다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260210126751001",
+      "pubDate": "Tue, 10 Feb 2026 18:31:46 +0900"
+    },
+    {
+      "title": "與 \"李정부서 경제수치 큰폭 상승\"…野 \"환율·물가·집값폭등\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210158500001",
+      "pubDate": "Tue, 10 Feb 2026 18:20:29 +0900"
+    },
+    {
+      "title": "보험연구원 원추위, 제7대 원장에 김헌수 순천향대 교수 추천",
+      "link": "https://www.yna.co.kr/view/AKR20260210166200002",
+      "pubDate": "Tue, 10 Feb 2026 18:17:39 +0900"
+    },
+    {
+      "title": "납세자연맹, 차은우 과세정보 유출 세무공무원·기자 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260210166000002",
+      "pubDate": "Tue, 10 Feb 2026 18:15:58 +0900"
+    },
+    {
+      "title": "성수4지구, 대우건설 서류 미비로 재입찰 공고했다가 취소(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260210093352003",
+      "pubDate": "Tue, 10 Feb 2026 18:10:53 +0900"
+    },
+    {
+      "title": "오리엔트정공, 31억원 유상증자…오리엔트바이오에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260210164300008",
+      "pubDate": "Tue, 10 Feb 2026 18:01:39 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260210159500011",
+      "pubDate": "Tue, 10 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "파라다이스, 방한 관광객 증가에 작년 매출·영업이익 '최대'",
+      "link": "https://www.yna.co.kr/view/AKR20260210163700030",
+      "pubDate": "Tue, 10 Feb 2026 17:57:18 +0900"
+    },
+    {
+      "title": "SK㈜, 작년 배당금 8천원…분리과세 적용 고배당기업 분류가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260210163400003",
+      "pubDate": "Tue, 10 Feb 2026 17:55:33 +0900"
+    },
+    {
+      "title": "아스타, 100억원 유상증자…에스디바이오센서에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260210161400008",
+      "pubDate": "Tue, 10 Feb 2026 17:39:53 +0900"
+    },
+    {
+      "title": "클래시스 \"브라질 자회사 지주사에 233억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210160100008",
+      "pubDate": "Tue, 10 Feb 2026 17:35:36 +0900"
+    },
     {
       "title": "한국증권금융, '첫 해외영업점' 홍콩법인 출범식 개최",
       "link": "https://www.yna.co.kr/view/AKR20260210155200008",
@@ -97,61 +152,6 @@
       "title": "[특징주] '새벽배송' 법개정 추진에 유통주 줄줄이 신고가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260210065751008",
       "pubDate": "Tue, 10 Feb 2026 16:39:10 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, 동물자원 산업 특화 창업 아카데미 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260210147300062",
-      "pubDate": "Tue, 10 Feb 2026 16:37:03 +0900"
-    },
-    {
-      "title": "강원도농업기술원, 농산부산물 원료 안정 공급모델 구축 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260210144200062",
-      "pubDate": "Tue, 10 Feb 2026 16:36:36 +0900"
-    },
-    {
-      "title": "金총리 \"환율, 펀더멘털·외환보유 문제 아냐…현재는 수급반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210140000001",
-      "pubDate": "Tue, 10 Feb 2026 16:33:37 +0900"
-    },
-    {
-      "title": "롯데렌탈, 작년 영업이익 3천125억원…10% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260210140400030",
-      "pubDate": "Tue, 10 Feb 2026 16:19:02 +0900"
-    },
-    {
-      "title": "BNK경남은행·경상국립대 창원지원단, 스타트업 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260210141400052",
-      "pubDate": "Tue, 10 Feb 2026 16:18:32 +0900"
-    },
-    {
-      "title": "거래소 로비에 근조화환…노조 \"코스닥 분리는 투기판 제도화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210139400008",
-      "pubDate": "Tue, 10 Feb 2026 16:17:00 +0900"
-    },
-    {
-      "title": "지역 농산물 소비 촉진 '거제로컬 누리센터 아주점' 12일 개장",
-      "link": "https://www.yna.co.kr/view/AKR20260210137300052",
-      "pubDate": "Tue, 10 Feb 2026 16:16:00 +0900"
-    },
-    {
-      "title": "[게시판] \"명절기간 불법사금융 조심\"…서금원, 남대문시장서 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260210140200002",
-      "pubDate": "Tue, 10 Feb 2026 16:13:15 +0900"
-    },
-    {
-      "title": "원/달러 환율 이틀째 하락…1,459.1원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260210138600002",
-      "pubDate": "Tue, 10 Feb 2026 16:12:32 +0900"
-    },
-    {
-      "title": "[현장] \"물가 올라 장보기도 겁나\"…설 앞둔 마산어시장엔 한숨만",
-      "link": "https://www.yna.co.kr/view/AKR20260210110500052",
-      "pubDate": "Tue, 10 Feb 2026 16:10:58 +0900"
-    },
-    {
-      "title": "[특징주] '깜짝 호실적' 내놓은 한섬, 16% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210041351008",
-      "pubDate": "Tue, 10 Feb 2026 16:06:05 +0900"
     }
   ]
 }
