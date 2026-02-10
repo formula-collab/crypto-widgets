@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770759171,
+  "updated_at_unix": 1770762509,
   "items": [
+    {
+      "title": "인천 송도 생활형숙박시설 287곳 불법 정황…이행강제금 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260210059800065",
+      "pubDate": "Wed, 11 Feb 2026 07:17:01 +0900"
+    },
+    {
+      "title": "美연준 로건·해맥, 금리동결 시사…\"현 통화정책 좋은 위치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211011800072",
+      "pubDate": "Wed, 11 Feb 2026 06:37:41 +0900"
+    },
     {
       "title": "울산 창업 지원 사업을 한눈에…누리집에 통합 공고",
       "link": "https://www.yna.co.kr/view/AKR20260210172400057",
@@ -142,16 +152,6 @@
       "title": "관세청, 국제우편물 마약류 2차 검사 부산·중부권으로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260210158300002",
       "pubDate": "Tue, 10 Feb 2026 17:27:03 +0900"
-    },
-    {
-      "title": "삼양식품, 196억원 규모 결산배당…주당 2천600원",
-      "link": "https://www.yna.co.kr/view/AKR20260210157900030",
-      "pubDate": "Tue, 10 Feb 2026 17:23:29 +0900"
-    },
-    {
-      "title": "산지 쌀값 한 가마 23만원 돌파…정부양곡 푼다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260210029251030",
-      "pubDate": "Tue, 10 Feb 2026 17:14:15 +0900"
     }
   ]
 }
