@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770798891,
+  "updated_at_unix": 1770802843,
   "items": [
+    {
+      "title": "오세훈 \"李정부 정비사업 이해 수준 절망적…피해자는 국민\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211174700004",
+      "pubDate": "Wed, 11 Feb 2026 18:20:58 +0900"
+    },
+    {
+      "title": "'유령 코인' 빗썸 5년간 6회 점검했는데…'당국 책임론'도 부상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260211129851002",
+      "pubDate": "Wed, 11 Feb 2026 18:16:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260211167200011",
+      "pubDate": "Wed, 11 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "광명전기 \"피앤씨테크 주식 38억원어치 취득…지분율 10.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211169700008",
+      "pubDate": "Wed, 11 Feb 2026 17:50:53 +0900"
+    },
+    {
+      "title": "두산밥캣, 경기침체·관세로 작년 영업익 전년比 21%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260211168100003",
+      "pubDate": "Wed, 11 Feb 2026 17:34:29 +0900"
+    },
+    {
+      "title": "현대차 '아틀라스', 일자리 영향은?…진보당 울산서 토론회",
+      "link": "https://www.yna.co.kr/view/AKR20260211160400057",
+      "pubDate": "Wed, 11 Feb 2026 17:32:27 +0900"
+    },
     {
       "title": "두산로보틱스, 작년 영업손실 595억원…인력채용·기업인수 영향",
       "link": "https://www.yna.co.kr/view/AKR20260211164400003",
@@ -122,36 +152,6 @@
       "title": "경북도 \"전력·용수 풍부…구미가 반도체공장 최적지\"",
       "link": "https://www.yna.co.kr/view/AKR20260211144000053",
       "pubDate": "Wed, 11 Feb 2026 16:04:32 +0900"
-    },
-    {
-      "title": "넥써쓰, 유상증자·CB로 133억 조달…웹젠·씨에스홀딩스 참여(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260211141251008",
-      "pubDate": "Wed, 11 Feb 2026 16:04:10 +0900"
-    },
-    {
-      "title": "치솟는 메모리 값에…\"올해 스마트폰 생산량 10∼15% 급감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211143400003",
-      "pubDate": "Wed, 11 Feb 2026 16:03:38 +0900"
-    },
-    {
-      "title": "코스피, 美 고용지표 앞두고 1% 올라 5,350대 마감…코스닥 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260211144100008",
-      "pubDate": "Wed, 11 Feb 2026 16:02:44 +0900"
-    },
-    {
-      "title": "[게시판] 현대해상, 베트남 유학생 맞춤 보험 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260211117200002",
-      "pubDate": "Wed, 11 Feb 2026 16:01:26 +0900"
-    },
-    {
-      "title": "송미령 농식품부 장관, 전통시장서 설 성수품 수급 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260211071600030",
-      "pubDate": "Wed, 11 Feb 2026 16:00:06 +0900"
-    },
-    {
-      "title": "부실 저축은행 정리 위한 예보 특별계정 1년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260211106000002",
-      "pubDate": "Wed, 11 Feb 2026 16:00:01 +0900"
     }
   ]
 }
