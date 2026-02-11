@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770806281,
+  "updated_at_unix": 1770809760,
   "items": [
+    {
+      "title": "정원오 \"삼표레미콘 공장 이전, 내가 협상\"…오세훈에 재차 반박",
+      "link": "https://www.yna.co.kr/view/AKR20260211183300004",
+      "pubDate": "Wed, 11 Feb 2026 20:01:26 +0900"
+    },
     {
       "title": "애경그룹, 재무구조 개선…\"재도약 발판 마련\"",
       "link": "https://www.yna.co.kr/view/AKR20260211182500030",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 사흘째 하락…1,450.1원",
       "link": "https://www.yna.co.kr/view/AKR20260211144200002",
       "pubDate": "Wed, 11 Feb 2026 16:09:26 +0900"
-    },
-    {
-      "title": "[특징주] MSCI 신규 편입 현대건설 상승…삼성에피스 보합(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260211047651008",
-      "pubDate": "Wed, 11 Feb 2026 16:08:05 +0900"
     }
   ]
 }
