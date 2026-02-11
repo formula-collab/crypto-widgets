@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770850551,
+  "updated_at_unix": 1770852200,
   "items": [
+    {
+      "title": "UTK, 울산에 920억원 들여 액체화물 저장시설 증설",
+      "link": "https://www.yna.co.kr/view/AKR20260211187400057",
+      "pubDate": "Thu, 12 Feb 2026 08:09:50 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 반도체 기대감에 4일 연속 상승할까",
+      "link": "https://www.yna.co.kr/view/AKR20260212021000008",
+      "pubDate": "Thu, 12 Feb 2026 07:54:46 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260212016100011",
@@ -142,16 +152,6 @@
       "title": "과기부, 'AI 민생 10대 프로젝트' 시동…국산 NPU 활용",
       "link": "https://www.yna.co.kr/view/AKR20260211158400017",
       "pubDate": "Wed, 11 Feb 2026 17:00:09 +0900"
-    },
-    {
-      "title": "메모리값 1년 새 6배…라우터·셋톱박스 직격탄",
-      "link": "https://www.yna.co.kr/view/AKR20260211158200017",
-      "pubDate": "Wed, 11 Feb 2026 16:58:40 +0900"
-    },
-    {
-      "title": "법무부, 재외동포 체류자격 일원화…국적 차별 없앤다",
-      "link": "https://www.yna.co.kr/view/AKR20260211156100004",
-      "pubDate": "Wed, 11 Feb 2026 16:47:47 +0900"
     }
   ]
 }
