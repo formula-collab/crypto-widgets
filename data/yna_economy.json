@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770802843,
+  "updated_at_unix": 1770806281,
   "items": [
+    {
+      "title": "애경그룹, 재무구조 개선…\"재도약 발판 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211182500030",
+      "pubDate": "Wed, 11 Feb 2026 19:31:32 +0900"
+    },
+    {
+      "title": "성동구 \"성수4지구 재입찰 공고, 절차 안 지켜…규정 위반\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260211088052003",
+      "pubDate": "Wed, 11 Feb 2026 19:30:14 +0900"
+    },
     {
       "title": "오세훈 \"李정부 정비사업 이해 수준 절망적…피해자는 국민\"",
       "link": "https://www.yna.co.kr/view/AKR20260211174700004",
@@ -142,16 +152,6 @@
       "title": "[특징주] MSCI 신규 편입 현대건설 상승…삼성에피스 보합(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260211047651008",
       "pubDate": "Wed, 11 Feb 2026 16:08:05 +0900"
-    },
-    {
-      "title": "[게시판] 한국수입협회장, 주한 아르헨티나 대사 면담",
-      "link": "https://www.yna.co.kr/view/AKR20260211145900003",
-      "pubDate": "Wed, 11 Feb 2026 16:06:16 +0900"
-    },
-    {
-      "title": "경북도 \"전력·용수 풍부…구미가 반도체공장 최적지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211144000053",
-      "pubDate": "Wed, 11 Feb 2026 16:04:32 +0900"
     }
   ]
 }
