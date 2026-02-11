@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770848380,
+  "updated_at_unix": 1770850551,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260212016100011",
+      "pubDate": "Thu, 12 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 아프리카와 개발협력⑼ 다르푸르 평화 위한 청년자원활동 사업",
       "link": "https://www.yna.co.kr/view/AKR20260126024600898",
@@ -147,11 +152,6 @@
       "title": "법무부, 재외동포 체류자격 일원화…국적 차별 없앤다",
       "link": "https://www.yna.co.kr/view/AKR20260211156100004",
       "pubDate": "Wed, 11 Feb 2026 16:47:47 +0900"
-    },
-    {
-      "title": "농협금융, 지난해 순익 2조5천112억원, 2.3%↑…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260211149500002",
-      "pubDate": "Wed, 11 Feb 2026 16:44:15 +0900"
     }
   ]
 }
