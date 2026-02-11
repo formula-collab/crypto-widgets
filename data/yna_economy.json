@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770809760,
+  "updated_at_unix": 1770813629,
   "items": [
+    {
+      "title": "경북 성주 육용오리 농장서 고병원성 조류인플루엔자",
+      "link": "https://www.yna.co.kr/view/AKR20260211184400030",
+      "pubDate": "Wed, 11 Feb 2026 20:33:39 +0900"
+    },
     {
       "title": "정원오 \"삼표레미콘 공장 이전, 내가 협상\"…오세훈에 재차 반박",
       "link": "https://www.yna.co.kr/view/AKR20260211183300004",
@@ -147,11 +152,6 @@
       "title": "[특징주] 한미약품, 호실적·신약 기대감에 6% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260211058151008",
       "pubDate": "Wed, 11 Feb 2026 16:12:58 +0900"
-    },
-    {
-      "title": "원/달러 환율 사흘째 하락…1,450.1원",
-      "link": "https://www.yna.co.kr/view/AKR20260211144200002",
-      "pubDate": "Wed, 11 Feb 2026 16:09:26 +0900"
     }
   ]
 }
