@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770846919,
+  "updated_at_unix": 1770848380,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⑼ 다르푸르 평화 위한 청년자원활동 사업",
+      "link": "https://www.yna.co.kr/view/AKR20260126024600898",
+      "pubDate": "Thu, 12 Feb 2026 07:00:04 +0900"
+    },
     {
       "title": "충남 당진 돼지농장서 아프리카돼지열병 발생",
       "link": "https://www.yna.co.kr/view/AKR20260212010400030",
@@ -147,11 +152,6 @@
       "title": "농협금융, 지난해 순익 2조5천112억원, 2.3%↑…역대 최대",
       "link": "https://www.yna.co.kr/view/AKR20260211149500002",
       "pubDate": "Wed, 11 Feb 2026 16:44:15 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.200%",
-      "link": "https://www.yna.co.kr/view/AKR20260211155300008",
-      "pubDate": "Wed, 11 Feb 2026 16:43:37 +0900"
     }
   ]
 }
