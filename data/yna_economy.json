@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770843709,
+  "updated_at_unix": 1770846919,
   "items": [
+    {
+      "title": "충남 당진 돼지농장서 아프리카돼지열병 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260212010400030",
+      "pubDate": "Thu, 12 Feb 2026 06:23:12 +0900"
+    },
+    {
+      "title": "우리은행, 첨단산업 '열공' 정례화…생산적 금융 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260211168400002",
+      "pubDate": "Thu, 12 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "미 1월 고용지표 해석분분…시장은 연준 금리동결 예상 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260212009100072",
+      "pubDate": "Thu, 12 Feb 2026 06:04:08 +0900"
+    },
+    {
+      "title": "[이코노워치] 생활물가 자극하는 담합, 민생고통의 주범이다",
+      "link": "https://www.yna.co.kr/view/AKR20260210177100546",
+      "pubDate": "Thu, 12 Feb 2026 06:00:08 +0900"
+    },
+    {
+      "title": "[게시판] 장애인고용 콘텐츠 공모전…포스터·숏폼·에세이 분야",
+      "link": "https://www.yna.co.kr/view/AKR20260211151500530",
+      "pubDate": "Thu, 12 Feb 2026 06:00:06 +0900"
+    },
+    {
+      "title": "통상본부장, 암참 초청 간담회 참석…\"한미 통상환경 안정화 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211177100003",
+      "pubDate": "Thu, 12 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "자영업자 대출, 소득의 3.4배…非자영업자 2.2배보다 높아",
       "link": "https://www.yna.co.kr/view/AKR20260211175400002",
@@ -122,36 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.200%",
       "link": "https://www.yna.co.kr/view/AKR20260211155300008",
       "pubDate": "Wed, 11 Feb 2026 16:43:37 +0900"
-    },
-    {
-      "title": "[특징주] KB금융, 5.8% 급등 마감…시총 60조 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260211155200008",
-      "pubDate": "Wed, 11 Feb 2026 16:42:09 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20260211154400002",
-      "pubDate": "Wed, 11 Feb 2026 16:34:32 +0900"
-    },
-    {
-      "title": "20주년 맞은 평창송어축제, 지역경제 견인…매출 22억원 달성",
-      "link": "https://www.yna.co.kr/view/AKR20260211151200062",
-      "pubDate": "Wed, 11 Feb 2026 16:28:33 +0900"
-    },
-    {
-      "title": "송언석 \"한미협상 때 '비관세장벽 이면 합의' 여부 밝혀야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211145500001",
-      "pubDate": "Wed, 11 Feb 2026 16:26:53 +0900"
-    },
-    {
-      "title": "[동정] 이명구 관세청장, 주한EU 대사 만나 관세 현안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260211151100002",
-      "pubDate": "Wed, 11 Feb 2026 16:24:53 +0900"
-    },
-    {
-      "title": "경기도 '극저신용대출 2.0' 1차 접수 30분 만에 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260211150300061",
-      "pubDate": "Wed, 11 Feb 2026 16:23:16 +0900"
     }
   ]
 }
