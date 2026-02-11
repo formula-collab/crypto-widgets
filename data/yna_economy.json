@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770784735,
+  "updated_at_unix": 1770789685,
   "items": [
+    {
+      "title": "동원산업, 작년 영업이익 5천156억원…주당 600원 배당",
+      "link": "https://www.yna.co.kr/view/AKR20260211121600030",
+      "pubDate": "Wed, 11 Feb 2026 14:57:00 +0900"
+    },
+    {
+      "title": "여야 \"빗썸 대관업무에 치중\"…정무위서 '오지급 사태' 질타",
+      "link": "https://www.yna.co.kr/view/AKR20260211102500001",
+      "pubDate": "Wed, 11 Feb 2026 14:41:50 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장 \"생산적 금융으로 자본시장 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211116600002",
+      "pubDate": "Wed, 11 Feb 2026 14:31:41 +0900"
+    },
+    {
+      "title": "\"카지노업 의심거래 사전 탐지 중요\"…FIU, 자금세탁방지 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260211111500002",
+      "pubDate": "Wed, 11 Feb 2026 14:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260211114800011",
+      "pubDate": "Wed, 11 Feb 2026 14:30:01 +0900"
+    },
+    {
+      "title": "경기도, 송파하남선 광역철도 2∼4공구 입찰 성립",
+      "link": "https://www.yna.co.kr/view/AKR20260211115600060",
+      "pubDate": "Wed, 11 Feb 2026 14:24:30 +0900"
+    },
+    {
+      "title": "울주군, 소상공인 특례보증 1차 접수 '오픈런'…5분 만에 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260211112500057",
+      "pubDate": "Wed, 11 Feb 2026 14:22:19 +0900"
+    },
+    {
+      "title": "전남도, 광양만권 이차전지 특화단지 인재 양성",
+      "link": "https://www.yna.co.kr/view/AKR20260211114700054",
+      "pubDate": "Wed, 11 Feb 2026 14:19:39 +0900"
+    },
+    {
+      "title": "[게시판] KB국민은행, 망원시장서 지역화폐로 식료품 구입",
+      "link": "https://www.yna.co.kr/view/AKR20260211094500002",
+      "pubDate": "Wed, 11 Feb 2026 14:15:59 +0900"
+    },
+    {
+      "title": "이찬진 \"코인 장부대조 실시간 연동돼야…빗썸 전산고도화 늦어\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260211077551002",
+      "pubDate": "Wed, 11 Feb 2026 14:12:00 +0900"
+    },
+    {
+      "title": "금융위, 국민성장펀드 참여 민간금융 '면책'…위험가중치 완화도",
+      "link": "https://www.yna.co.kr/view/AKR20260211107400002",
+      "pubDate": "Wed, 11 Feb 2026 14:05:43 +0900"
+    },
+    {
+      "title": "'승승장구' 국민연금, 美증시에서 작년 한 해 43조원 평가이익",
+      "link": "https://www.yna.co.kr/view/AKR20260211092100008",
+      "pubDate": "Wed, 11 Feb 2026 14:05:41 +0900"
+    },
+    {
+      "title": "현대백화점 작년 순이익 1천419억원으로 흑자…\"신규점포 추진\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260211099651527",
+      "pubDate": "Wed, 11 Feb 2026 14:03:44 +0900"
+    },
+    {
+      "title": "금감원, 종투사 임원 소집…\"생산적 금융 선도적 투자자 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211099900002",
+      "pubDate": "Wed, 11 Feb 2026 14:00:41 +0900"
+    },
+    {
+      "title": "\"올해 EU 그린 무역장벽 본격화…선제적 리스크 관리 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211086700003",
+      "pubDate": "Wed, 11 Feb 2026 14:00:11 +0900"
+    },
+    {
+      "title": "수은 행장 \"설립 목적이 생산적 금융…수출 중기에 온기 전파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260211086500002",
+      "pubDate": "Wed, 11 Feb 2026 14:00:10 +0900"
+    },
+    {
+      "title": "이마트 작년 순이익 2천463억원으로 흑자전환…\"수익구조 강화\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260211097751527",
+      "pubDate": "Wed, 11 Feb 2026 13:57:14 +0900"
+    },
     {
       "title": "여한구, USTR 부대표 면담…미국車안전기준·디지털 등 집중협의",
       "link": "https://www.yna.co.kr/view/AKR20260211095600003",
@@ -49,13 +134,13 @@
       "pubDate": "Wed, 11 Feb 2026 12:00:09 +0900"
     },
     {
-      "title": "'숨은 금융자산' 1.6조원 소비자에 환급…카드포인트 가장 많아",
-      "link": "https://www.yna.co.kr/view/AKR20260211087100002",
+      "title": "AI 관제가 연 '무인경제'…에스원 45년 보안관제 진화의 현장",
+      "link": "https://www.yna.co.kr/view/AKR20260211069700030",
       "pubDate": "Wed, 11 Feb 2026 12:00:06 +0900"
     },
     {
-      "title": "AI 관제가 연 '무인경제'…에스원 45년 보안관제 진화의 현장",
-      "link": "https://www.yna.co.kr/view/AKR20260211069700030",
+      "title": "'숨은 금융자산' 1.6조원 소비자에 환급…카드포인트 가장 많아",
+      "link": "https://www.yna.co.kr/view/AKR20260211087100002",
       "pubDate": "Wed, 11 Feb 2026 12:00:06 +0900"
     },
     {
@@ -67,91 +152,6 @@
       "title": "금융권 가계대출 한달만에 1.4조 반등…2금융권 풍선효과",
       "link": "https://www.yna.co.kr/view/AKR20260211091400002",
       "pubDate": "Wed, 11 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.207%",
-      "link": "https://www.yna.co.kr/view/AKR20260211090200008",
-      "pubDate": "Wed, 11 Feb 2026 11:54:35 +0900"
-    },
-    {
-      "title": "오리온그룹, 사업회사·지주사 배당 대폭 확대…2천46억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260211091200030",
-      "pubDate": "Wed, 11 Feb 2026 11:54:11 +0900"
-    },
-    {
-      "title": "신세계, 청주시장 공략 속도…스타필드빌리지 연말 개점 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260211083900064",
-      "pubDate": "Wed, 11 Feb 2026 11:40:07 +0900"
-    },
-    {
-      "title": "성수4지구 갈등 지속…조합 \"대우건설, 홍보 제한규정 위반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211088000003",
-      "pubDate": "Wed, 11 Feb 2026 11:35:16 +0900"
-    },
-    {
-      "title": "키움증권, 중개형 ISA  잔고 3조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260211087200008",
-      "pubDate": "Wed, 11 Feb 2026 11:31:23 +0900"
-    },
-    {
-      "title": "AI·로봇이 인력대체? 대응은…HD현대중 노사, 머리 맞댄다",
-      "link": "https://www.yna.co.kr/view/AKR20260211046100057",
-      "pubDate": "Wed, 11 Feb 2026 11:30:01 +0900"
-    },
-    {
-      "title": "빗썸 대표 \"코인 오지급 피해, 민원 접수 통해 폭넓게 구제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211087000002",
-      "pubDate": "Wed, 11 Feb 2026 11:28:14 +0900"
-    },
-    {
-      "title": "광주상의 \"행정통합특별법 특례, 정부의 과감한 결단 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211086400054",
-      "pubDate": "Wed, 11 Feb 2026 11:24:45 +0900"
-    },
-    {
-      "title": "코스피, 장중 상승 전환해 5,340대…코스닥도 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260211085500008",
-      "pubDate": "Wed, 11 Feb 2026 11:22:20 +0900"
-    },
-    {
-      "title": "'이제는 K패션' 모처럼 웃은 의류업…주가 바닥 치고 반등세",
-      "link": "https://www.yna.co.kr/view/AKR20260211084100008",
-      "pubDate": "Wed, 11 Feb 2026 11:20:12 +0900"
-    },
-    {
-      "title": "'코스피 5천 시대' 강원 소재 상장사 시총 3년 전보다 64% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260211080900062",
-      "pubDate": "Wed, 11 Feb 2026 11:17:56 +0900"
-    },
-    {
-      "title": "취업자 증가폭, 13개월만에 최소…한파에 노인일자리 '꽁꽁'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260211020452002",
-      "pubDate": "Wed, 11 Feb 2026 11:16:30 +0900"
-    },
-    {
-      "title": "서울시, 315억 투입해 소상공인 창업부터 재도전까지 종합지원",
-      "link": "https://www.yna.co.kr/view/AKR20260211063900004",
-      "pubDate": "Wed, 11 Feb 2026 11:15:01 +0900"
-    },
-    {
-      "title": "금융당국, 오늘부터 빗썸 외 가상자산 거래소 4곳도 현장점검",
-      "link": "https://www.yna.co.kr/view/AKR20260211081300002",
-      "pubDate": "Wed, 11 Feb 2026 11:11:57 +0900"
-    },
-    {
-      "title": "롯데관광개발, 중앙아시아 3개국 비즈니스 클래스 패키지 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260211081000030",
-      "pubDate": "Wed, 11 Feb 2026 11:10:47 +0900"
-    },
-    {
-      "title": "주한독일상공회의소, 韓·獨 반도체협력 비즈니스 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260211079100003",
-      "pubDate": "Wed, 11 Feb 2026 11:08:09 +0900"
-    },
-    {
-      "title": "이찬진 \"코인 장부 대조 5분도 길어…실시간 감시돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211077500002",
-      "pubDate": "Wed, 11 Feb 2026 11:03:47 +0900"
     }
   ]
 }
