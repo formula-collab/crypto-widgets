@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770795173,
+  "updated_at_unix": 1770798891,
   "items": [
+    {
+      "title": "두산로보틱스, 작년 영업손실 595억원…인력채용·기업인수 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260211164400003",
+      "pubDate": "Wed, 11 Feb 2026 17:30:03 +0900"
+    },
+    {
+      "title": "양산시 물금읍 증산리에 신도시 조성…아파트 등 7천69가구",
+      "link": "https://www.yna.co.kr/view/AKR20260211164900052",
+      "pubDate": "Wed, 11 Feb 2026 17:27:30 +0900"
+    },
+    {
+      "title": "'트럼프 차남' 에릭 트럼프 하남 방문…이현재 시장과 환담",
+      "link": "https://www.yna.co.kr/view/AKR20260211165900061",
+      "pubDate": "Wed, 11 Feb 2026 17:25:57 +0900"
+    },
+    {
+      "title": "춘천숲체원, 생산자·소비자 잇는 상설 판매공간 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260211163600062",
+      "pubDate": "Wed, 11 Feb 2026 17:22:53 +0900"
+    },
+    {
+      "title": "美고용부진 기대에 국고채 금리 일제히 하락…3년물 연 3.200%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260211155351008",
+      "pubDate": "Wed, 11 Feb 2026 17:06:39 +0900"
+    },
+    {
+      "title": "과기부, 'AI 민생 10대 프로젝트' 시동…국산 NPU 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260211158400017",
+      "pubDate": "Wed, 11 Feb 2026 17:00:09 +0900"
+    },
+    {
+      "title": "메모리값 1년 새 6배…라우터·셋톱박스 직격탄",
+      "link": "https://www.yna.co.kr/view/AKR20260211158200017",
+      "pubDate": "Wed, 11 Feb 2026 16:58:40 +0900"
+    },
+    {
+      "title": "법무부, 재외동포 체류자격 일원화…국적 차별 없앤다",
+      "link": "https://www.yna.co.kr/view/AKR20260211156100004",
+      "pubDate": "Wed, 11 Feb 2026 16:47:47 +0900"
+    },
+    {
+      "title": "농협금융, 지난해 순익 2조5천112억원, 2.3%↑…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260211149500002",
+      "pubDate": "Wed, 11 Feb 2026 16:44:15 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.200%",
+      "link": "https://www.yna.co.kr/view/AKR20260211155300008",
+      "pubDate": "Wed, 11 Feb 2026 16:43:37 +0900"
+    },
+    {
+      "title": "[특징주] KB금융, 5.8% 급등 마감…시총 60조 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260211155200008",
+      "pubDate": "Wed, 11 Feb 2026 16:42:09 +0900"
+    },
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20260211154400002",
+      "pubDate": "Wed, 11 Feb 2026 16:34:32 +0900"
+    },
     {
       "title": "20주년 맞은 평창송어축제, 지역경제 견인…매출 22억원 달성",
       "link": "https://www.yna.co.kr/view/AKR20260211151200062",
@@ -92,66 +152,6 @@
       "title": "부실 저축은행 정리 위한 예보 특별계정 1년 연장",
       "link": "https://www.yna.co.kr/view/AKR20260211106000002",
       "pubDate": "Wed, 11 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 기획처, 설명절 맞이 부여 아동복지시설 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260211133200002",
-      "pubDate": "Wed, 11 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "기획처, 인구위기 대응 간담회…\"외국인재 육성, 건보 효율화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211143100002",
-      "pubDate": "Wed, 11 Feb 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[구리소식] 시청사 임시주차장 180면 조성…4월 개방",
-      "link": "https://www.yna.co.kr/view/AKR20260211143000060",
-      "pubDate": "Wed, 11 Feb 2026 15:57:12 +0900"
-    },
-    {
-      "title": "넥써쓰, 113억원 유상증자…장현국 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260211141200008",
-      "pubDate": "Wed, 11 Feb 2026 15:53:01 +0900"
-    },
-    {
-      "title": "조달청, 컴퓨터 수급 안정 신속 대응…납품 일수 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260211138800063",
-      "pubDate": "Wed, 11 Feb 2026 15:51:37 +0900"
-    },
-    {
-      "title": "소진공이사장 \"고래싸움에 새우등 터질라\"…새벽배송 신중론제기",
-      "link": "https://www.yna.co.kr/view/AKR20260211125400030",
-      "pubDate": "Wed, 11 Feb 2026 15:39:16 +0900"
-    },
-    {
-      "title": "경남도, 지역상생형 일터 조성…국비 131억원 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260211136600052",
-      "pubDate": "Wed, 11 Feb 2026 15:39:10 +0900"
-    },
-    {
-      "title": "[특징주] '흑자전환' 엔씨소프트, 실적개선 기대에 5% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260211037251008",
-      "pubDate": "Wed, 11 Feb 2026 15:38:59 +0900"
-    },
-    {
-      "title": "金총리 \"오세훈 재임기간 서울 재건축·재개발 특별한 진전없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260211130700001",
-      "pubDate": "Wed, 11 Feb 2026 15:37:39 +0900"
-    },
-    {
-      "title": "외국환시세(2월11일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260211136800002",
-      "pubDate": "Wed, 11 Feb 2026 15:36:10 +0900"
-    },
-    {
-      "title": "코스피, 1% 올라 5,350대 마감…코스닥은 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260211136700008",
-      "pubDate": "Wed, 11 Feb 2026 15:35:54 +0900"
-    },
-    {
-      "title": "셀피글로벌, 50억원 유상증자…윤정엽에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260211133700008",
-      "pubDate": "Wed, 11 Feb 2026 15:31:32 +0900"
     }
   ]
 }
