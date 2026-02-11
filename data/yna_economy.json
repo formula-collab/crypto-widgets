@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770852200,
+  "updated_at_unix": 1770853873,
   "items": [
+    {
+      "title": "충남도 건설본부 북부사무소 아산에 문 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260212029700063",
+      "pubDate": "Thu, 12 Feb 2026 08:40:05 +0900"
+    },
+    {
+      "title": "11번가, 중국 징둥닷컴과 '역직구 서비스' 협약…\"상반기 개시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212028900030",
+      "pubDate": "Thu, 12 Feb 2026 08:39:57 +0900"
+    },
+    {
+      "title": "삼성증권, 한국금융지주·메리츠금융지주 목표주가 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260212028500008",
+      "pubDate": "Thu, 12 Feb 2026 08:31:23 +0900"
+    },
+    {
+      "title": "인천시, 대학생·대학원생 학자금대출 이자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260212027700065",
+      "pubDate": "Thu, 12 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "iM증권 \"유한양행, 올해 레이저티닙 로열티 매출 큰 폭 성장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212027800008",
+      "pubDate": "Thu, 12 Feb 2026 08:30:27 +0900"
+    },
+    {
+      "title": "DS투자 \"오리온 호실적·라인업 확대 기대…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212027600008",
+      "pubDate": "Thu, 12 Feb 2026 08:29:26 +0900"
+    },
+    {
+      "title": "서울신라호텔, '포브스 트래블 가이드' 5성 호텔 8년 연속 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260212026300030",
+      "pubDate": "Thu, 12 Feb 2026 08:24:40 +0900"
+    },
+    {
+      "title": "한화증권 \"카카오게임즈, 실적 부진 지속…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212026200008",
+      "pubDate": "Thu, 12 Feb 2026 08:20:34 +0900"
+    },
     {
       "title": "UTK, 울산에 920억원 들여 액체화물 저장시설 증설",
       "link": "https://www.yna.co.kr/view/AKR20260211187400057",
@@ -112,46 +152,6 @@
       "title": "광명전기 \"피앤씨테크 주식 38억원어치 취득…지분율 10.1%\"",
       "link": "https://www.yna.co.kr/view/AKR20260211169700008",
       "pubDate": "Wed, 11 Feb 2026 17:50:53 +0900"
-    },
-    {
-      "title": "두산밥캣, 경기침체·관세로 작년 영업익 전년比 21%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260211168100003",
-      "pubDate": "Wed, 11 Feb 2026 17:34:29 +0900"
-    },
-    {
-      "title": "현대차 '아틀라스', 일자리 영향은?…진보당 울산서 토론회",
-      "link": "https://www.yna.co.kr/view/AKR20260211160400057",
-      "pubDate": "Wed, 11 Feb 2026 17:32:27 +0900"
-    },
-    {
-      "title": "두산로보틱스, 작년 영업손실 595억원…인력채용·기업인수 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260211164400003",
-      "pubDate": "Wed, 11 Feb 2026 17:30:03 +0900"
-    },
-    {
-      "title": "양산시 물금읍 증산리에 신도시 조성…아파트 등 7천69가구",
-      "link": "https://www.yna.co.kr/view/AKR20260211164900052",
-      "pubDate": "Wed, 11 Feb 2026 17:27:30 +0900"
-    },
-    {
-      "title": "'트럼프 차남' 에릭 트럼프 하남 방문…이현재 시장과 환담",
-      "link": "https://www.yna.co.kr/view/AKR20260211165900061",
-      "pubDate": "Wed, 11 Feb 2026 17:25:57 +0900"
-    },
-    {
-      "title": "춘천숲체원, 생산자·소비자 잇는 상설 판매공간 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260211163600062",
-      "pubDate": "Wed, 11 Feb 2026 17:22:53 +0900"
-    },
-    {
-      "title": "美고용부진 기대에 국고채 금리 일제히 하락…3년물 연 3.200%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260211155351008",
-      "pubDate": "Wed, 11 Feb 2026 17:06:39 +0900"
-    },
-    {
-      "title": "과기부, 'AI 민생 10대 프로젝트' 시동…국산 NPU 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260211158400017",
-      "pubDate": "Wed, 11 Feb 2026 17:00:09 +0900"
     }
   ]
 }
