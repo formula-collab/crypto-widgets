@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770938322,
+  "updated_at_unix": 1770940211,
   "items": [
+    {
+      "title": "유안타증권, 올해 코스피 전망 범위 '5,000∼6,300'으로 조정",
+      "link": "https://www.yna.co.kr/view/AKR20260213028900008",
+      "pubDate": "Fri, 13 Feb 2026 08:45:46 +0900"
+    },
+    {
+      "title": "올리브영, 성수서 '뉴웰니스 라운지' 팝업…올리브베러 론칭기념",
+      "link": "https://www.yna.co.kr/view/AKR20260213029700030",
+      "pubDate": "Fri, 13 Feb 2026 08:45:07 +0900"
+    },
+    {
+      "title": "놀유니버스, 부산원아시아페스티벌 티켓판매·유통 맡아",
+      "link": "https://www.yna.co.kr/view/AKR20260213029500030",
+      "pubDate": "Fri, 13 Feb 2026 08:42:45 +0900"
+    },
+    {
+      "title": "맘스터치, 후덕죽 셰프와 협업한 버거·치킨 3월 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260213029300030",
+      "pubDate": "Fri, 13 Feb 2026 08:41:40 +0900"
+    },
+    {
+      "title": "\"노동·자본 양극화 가속\"…한국도 'K자형 경제' 심화하나",
+      "link": "https://www.yna.co.kr/view/AKR20260213027900008",
+      "pubDate": "Fri, 13 Feb 2026 08:39:16 +0900"
+    },
+    {
+      "title": "대상, 올리고당·물엿제품 '가격 인하'…\"물가안정 기조 동참\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213027600030",
+      "pubDate": "Fri, 13 Feb 2026 08:34:38 +0900"
+    },
+    {
+      "title": "정부, 특별법 앞서 대미 투자 프로젝트 사전 검토 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260213026800003",
+      "pubDate": "Fri, 13 Feb 2026 08:33:26 +0900"
+    },
+    {
+      "title": "SK證 \"카카오, 올해 광고 매출·AI 성과 기대…목표가 8만7천원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213026100008",
+      "pubDate": "Fri, 13 Feb 2026 08:26:24 +0900"
+    },
+    {
+      "title": "유진투자 \"하이브, BTS 월드투어 시작…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213025200008",
+      "pubDate": "Fri, 13 Feb 2026 08:23:22 +0900"
+    },
     {
       "title": "NH투자, 대신증권 목표가↑…\"자사주 처분 계획 긍정적\"",
       "link": "https://www.yna.co.kr/view/AKR20260213023800008",
@@ -107,51 +152,6 @@
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260212190700002",
       "pubDate": "Thu, 12 Feb 2026 18:45:40 +0900"
-    },
-    {
-      "title": "홍콩ELS 판매銀 5곳에 1조원대 과징금…사전통지안서 일부 감경",
-      "link": "https://www.yna.co.kr/view/AKR20260212187700002",
-      "pubDate": "Thu, 12 Feb 2026 18:35:28 +0900"
-    },
-    {
-      "title": "'건축사 사무소 명의대여 금지' 건축사법 개정안 국회 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260212188100003",
-      "pubDate": "Thu, 12 Feb 2026 18:29:23 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260212177800011",
-      "pubDate": "Thu, 12 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "케이뱅크, 공모가 8천300원 확정…희망 범위 하단",
-      "link": "https://www.yna.co.kr/view/AKR20260212180700008",
-      "pubDate": "Thu, 12 Feb 2026 17:34:34 +0900"
-    },
-    {
-      "title": "노동자 고용보험 기준 근로시간→소득 전환…청년 34세로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260212179600530",
-      "pubDate": "Thu, 12 Feb 2026 17:28:25 +0900"
-    },
-    {
-      "title": "한국씨티은행, 작년 미 본사에 총 3천837억원 배당",
-      "link": "https://www.yna.co.kr/view/AKR20260212174300002",
-      "pubDate": "Thu, 12 Feb 2026 17:19:58 +0900"
-    },
-    {
-      "title": "노동당국, '노동관계법 위반 의혹' 인천항보안공사 근로감독",
-      "link": "https://www.yna.co.kr/view/AKR20260212177000065",
-      "pubDate": "Thu, 12 Feb 2026 17:18:37 +0900"
-    },
-    {
-      "title": "압구정4구역 재건축 설명회에 7개사 참석…내달 30일 입찰 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260212177200003",
-      "pubDate": "Thu, 12 Feb 2026 17:17:19 +0900"
-    },
-    {
-      "title": "李대통령 \"포괄임금 개선, 입법前에라도 지침 등으로 먼저 시행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260212173800001",
-      "pubDate": "Thu, 12 Feb 2026 17:14:08 +0900"
     }
   ]
 }
