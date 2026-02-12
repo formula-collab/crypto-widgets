@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770929779,
+  "updated_at_unix": 1770931569,
   "items": [
+    {
+      "title": "[뉴욕유가] 트럼프 \"한 달 동안 이란과 대화하겠다\"…WTI 2.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260213009100009",
+      "pubDate": "Fri, 13 Feb 2026 06:01:37 +0900"
+    },
+    {
+      "title": "서울시, 2026년 7∼9급 공무원 3천180명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260212166300004",
+      "pubDate": "Fri, 13 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "외국인 1월 국내 주식 약 1천억원 순매도…채권 석달째 순투자",
+      "link": "https://www.yna.co.kr/view/AKR20260212183800002",
+      "pubDate": "Fri, 13 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "원재료 값 상승에 1월 수입물가 0.4%↑…7개월 연속 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260212190000002",
+      "pubDate": "Fri, 13 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "달러-원, 기술주 투매發 위험회피에 변동성…1,438.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260213003600002",
@@ -132,26 +152,6 @@
       "title": "\"농협 비상임조합장 연임 2회로 제한\"…농협법개정안 국회통과",
       "link": "https://www.yna.co.kr/view/AKR20260212168200030",
       "pubDate": "Thu, 12 Feb 2026 16:44:49 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.154%",
-      "link": "https://www.yna.co.kr/view/AKR20260212167400008",
-      "pubDate": "Thu, 12 Feb 2026 16:40:18 +0900"
-    },
-    {
-      "title": "\"제사용품 평균비용, 설 직전에 싸져…작년보다는 올라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260212161500030",
-      "pubDate": "Thu, 12 Feb 2026 16:40:01 +0900"
-    },
-    {
-      "title": "[동포의 창] 내달 파라과이서 중소기업 진출 돕는 '상품 전시회'",
-      "link": "https://www.yna.co.kr/view/AKR20260212163800371",
-      "pubDate": "Thu, 12 Feb 2026 16:39:06 +0900"
-    },
-    {
-      "title": "조흥 \"삼익유가공 주식 275억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260212165600008",
-      "pubDate": "Thu, 12 Feb 2026 16:37:29 +0900"
     }
   ]
 }
