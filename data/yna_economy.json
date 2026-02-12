@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770917472,
+  "updated_at_unix": 1770921881,
   "items": [
+    {
+      "title": "달러-원, 기술주 투매發 위험회피에 변동성…1,438.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260213003600002",
+      "pubDate": "Fri, 13 Feb 2026 02:29:44 +0900"
+    },
     {
       "title": "무디스, 韓신용등급 'Aa2' 유지…올해 성장률 1.8% 제시(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260212191252008",
@@ -147,11 +152,6 @@
       "title": "조흥 \"삼익유가공 주식 275억원어치 취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260212165600008",
       "pubDate": "Thu, 12 Feb 2026 16:37:29 +0900"
-    },
-    {
-      "title": "장동혁 \"노동가치 높이는 정책추진\"…한국노총 방문해 勞心 잡기",
-      "link": "https://www.yna.co.kr/view/AKR20260212158400001",
-      "pubDate": "Thu, 12 Feb 2026 16:36:47 +0900"
     }
   ]
 }
