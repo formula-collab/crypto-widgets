@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770895894,
+  "updated_at_unix": 1770899845,
   "items": [
+    {
+      "title": "무디스, 韓신용등급 'Aa2' 유지…올해 성장률 1.8% 제시(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260212191252008",
+      "pubDate": "Thu, 12 Feb 2026 21:07:35 +0900"
+    },
+    {
+      "title": "강훈식 \"李정부, 입법·행정권 총동원 가능…부동산폐해 끝내야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212185000001",
+      "pubDate": "Thu, 12 Feb 2026 20:52:59 +0900"
+    },
     {
       "title": "무디스, 한국 신용등급 'Aa2'·등급전망 '안정적' 유지(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260212191251008",
@@ -142,16 +152,6 @@
       "title": "장동혁 \"노동가치 높이는 정책추진\"…한국노총 방문해 勞心 잡기",
       "link": "https://www.yna.co.kr/view/AKR20260212158400001",
       "pubDate": "Thu, 12 Feb 2026 16:36:47 +0900"
-    },
-    {
-      "title": "롯데손보, 작년 당기순이익 513억원…전년보다 111.9%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260212165000002",
-      "pubDate": "Thu, 12 Feb 2026 16:36:09 +0900"
-    },
-    {
-      "title": "한-EU 거시경제 대화, 新경제질서 대응 전략 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260212161900002",
-      "pubDate": "Thu, 12 Feb 2026 16:30:00 +0900"
     }
   ]
 }
