@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770885156,
+  "updated_at_unix": 1770888988,
   "items": [
+    {
+      "title": "'건축사 사무소 명의대여 금지' 건축사법 개정안 국회 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260212188100003",
+      "pubDate": "Thu, 12 Feb 2026 18:29:23 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260212177800011",
+      "pubDate": "Thu, 12 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "케이뱅크, 공모가 8천300원 확정…희망 범위 하단",
+      "link": "https://www.yna.co.kr/view/AKR20260212180700008",
+      "pubDate": "Thu, 12 Feb 2026 17:34:34 +0900"
+    },
+    {
+      "title": "노동자 고용보험 기준 근로시간→소득 전환…청년 34세로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260212179600530",
+      "pubDate": "Thu, 12 Feb 2026 17:28:25 +0900"
+    },
     {
       "title": "한국씨티은행, 작년 미 본사에 총 3천837억원 배당",
       "link": "https://www.yna.co.kr/view/AKR20260212174300002",
@@ -132,26 +152,6 @@
       "title": "유진기업 \"유진더블유사모투자 합자회사 주식 623억에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260212156300008",
       "pubDate": "Thu, 12 Feb 2026 16:14:26 +0900"
-    },
-    {
-      "title": "카카오뱅크, 정기예금 금리 인상…최고 연 3.00%",
-      "link": "https://www.yna.co.kr/view/AKR20260212158300002",
-      "pubDate": "Thu, 12 Feb 2026 16:13:49 +0900"
-    },
-    {
-      "title": "올해 아프리카돼지열병 11건 발생…벌써 작년의 2배 육박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260212010451030",
-      "pubDate": "Thu, 12 Feb 2026 16:12:46 +0900"
-    },
-    {
-      "title": "코스피, 반도체주 훈풍에 3% 급등…사상 첫 5,500선 돌파 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260212156000008",
-      "pubDate": "Thu, 12 Feb 2026 16:12:39 +0900"
-    },
-    {
-      "title": "대신증권, 자사주 1천535만주 소각…\"주주가치 제고 극대화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260212155400008",
-      "pubDate": "Thu, 12 Feb 2026 16:08:18 +0900"
     }
   ]
 }
