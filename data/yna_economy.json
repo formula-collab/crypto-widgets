@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770933374,
+  "updated_at_unix": 1770934991,
   "items": [
+    {
+      "title": "李대통령 \"다주택자에 대출연장 공정한가…금융 혜택 문제 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213013300001",
+      "pubDate": "Fri, 13 Feb 2026 06:56:14 +0900"
+    },
     {
       "title": "[르포] \"조금만 사고 할인 챙기고\"…설 앞둔 마트·시장, 실속소비 대세",
       "link": "https://www.yna.co.kr/view/AKR20260212166500030",
@@ -147,11 +152,6 @@
       "title": "[서미숙의 집수다] 존폐 기로에 놓인 등록임대사업자…시장 영향 촉각(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260212084551003",
       "pubDate": "Thu, 12 Feb 2026 16:52:15 +0900"
-    },
-    {
-      "title": "경기도 부동산특별대책반 가동…아파트 가격 담합 4명 입건",
-      "link": "https://www.yna.co.kr/view/AKR20260212169600061",
-      "pubDate": "Thu, 12 Feb 2026 16:50:22 +0900"
     }
   ]
 }
