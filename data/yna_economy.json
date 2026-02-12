@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770892388,
+  "updated_at_unix": 1770895894,
   "items": [
+    {
+      "title": "무디스, 한국 신용등급 'Aa2'·등급전망 '안정적' 유지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260212191251008",
+      "pubDate": "Thu, 12 Feb 2026 20:20:10 +0900"
+    },
+    {
+      "title": "구광모, LG家 상속소송서 세모녀에 승소…법원 \"재산분할 유효\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260212060052004",
+      "pubDate": "Thu, 12 Feb 2026 20:12:45 +0900"
+    },
+    {
+      "title": "[1보] 무디스, 한국 신용등급 'Aa2'·등급전망 '안정적' 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260212191200008",
+      "pubDate": "Thu, 12 Feb 2026 20:04:12 +0900"
+    },
+    {
+      "title": "김정관 산업장관, 설 앞두고 남대문시장 깜짝 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260212194200003",
+      "pubDate": "Thu, 12 Feb 2026 19:56:37 +0900"
+    },
+    {
+      "title": "LG家 상속소송 패소 세 모녀측 \"판결에 깊은 유감…즉각 항소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212192200004",
+      "pubDate": "Thu, 12 Feb 2026 19:30:09 +0900"
+    },
     {
       "title": "삼척∼강릉 고속철도 예타 통과…동해안 경제 대동맥의 서막(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260212170951062",
@@ -127,31 +152,6 @@
       "title": "한-EU 거시경제 대화, 新경제질서 대응 전략 공유",
       "link": "https://www.yna.co.kr/view/AKR20260212161900002",
       "pubDate": "Thu, 12 Feb 2026 16:30:00 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260212163500002",
-      "pubDate": "Thu, 12 Feb 2026 16:29:30 +0900"
-    },
-    {
-      "title": "[게시판] 롯데건설, 아동복지시설 개선 '러브하우스' 99호 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260212161600003",
-      "pubDate": "Thu, 12 Feb 2026 16:28:00 +0900"
-    },
-    {
-      "title": "한국증권금융, 성장금융과 3천100억 규모 'K-growth 펀드' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260212159200008",
-      "pubDate": "Thu, 12 Feb 2026 16:23:31 +0900"
-    },
-    {
-      "title": "부산지하철 정관선 신설·삼척-강릉 철도고속화 예타 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260212159000002",
-      "pubDate": "Thu, 12 Feb 2026 16:22:06 +0900"
-    },
-    {
-      "title": "'반도체의 날' 코스피, 단숨에 5,500선 돌파…'18만 전자' 눈앞(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260212109151008",
-      "pubDate": "Thu, 12 Feb 2026 16:21:58 +0900"
     }
   ]
 }
