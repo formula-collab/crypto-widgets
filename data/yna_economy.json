@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770936838,
+  "updated_at_unix": 1770938322,
   "items": [
+    {
+      "title": "NH투자, 대신증권 목표가↑…\"자사주 처분 계획 긍정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213023800008",
+      "pubDate": "Fri, 13 Feb 2026 08:08:39 +0900"
+    },
+    {
+      "title": "삼성TV플러스, 월이용자 1억명 돌파…미디어 플랫폼 영토확장",
+      "link": "https://www.yna.co.kr/view/AKR20260212182100003",
+      "pubDate": "Fri, 13 Feb 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] 연휴 앞둔 코스피, 美증시 급락에 상승세 제동 걸리나",
+      "link": "https://www.yna.co.kr/view/AKR20260213020900008",
+      "pubDate": "Fri, 13 Feb 2026 07:58:02 +0900"
+    },
+    {
+      "title": "부산 3개 전문대 육성형 사업 선정…유학생에게 파격 비자 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260213021000051",
+      "pubDate": "Fri, 13 Feb 2026 07:55:36 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260213017700011",
@@ -132,26 +152,6 @@
       "title": "李대통령 \"포괄임금 개선, 입법前에라도 지침 등으로 먼저 시행\"",
       "link": "https://www.yna.co.kr/view/AKR20260212173800001",
       "pubDate": "Thu, 12 Feb 2026 17:14:08 +0900"
-    },
-    {
-      "title": "공정위, '대통령 관저 골프시설 공사비 전가 의혹' 현대건설 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260212167900002",
-      "pubDate": "Thu, 12 Feb 2026 17:06:59 +0900"
-    },
-    {
-      "title": "한은 \"금리 상승 과도\" 언급에 국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260212167451008",
-      "pubDate": "Thu, 12 Feb 2026 17:03:50 +0900"
-    },
-    {
-      "title": "삼척∼강릉 고속철도 예타 통과…동해안 경제 대동맥의 서막",
-      "link": "https://www.yna.co.kr/view/AKR20260212170900062",
-      "pubDate": "Thu, 12 Feb 2026 17:02:16 +0900"
-    },
-    {
-      "title": "남양유업, 작년 영업이익 5년 만에 흑자 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260212171600030",
-      "pubDate": "Thu, 12 Feb 2026 16:56:45 +0900"
     }
   ]
 }
