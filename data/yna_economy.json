@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771019755,
+  "updated_at_unix": 1771021417,
   "items": [
+    {
+      "title": "증권사 설 연휴 24시간 데스크 운영…이벤트 '풍성'",
+      "link": "https://www.yna.co.kr/view/AKR20260213081200008",
+      "pubDate": "Sat, 14 Feb 2026 07:10:01 +0900"
+    },
+    {
+      "title": "[신상잇슈] 농심 '누들핏 쇼유완탕'·오뚜기 '퀵모닝 오믈렛'",
+      "link": "https://www.yna.co.kr/view/AKR20260213061700030",
+      "pubDate": "Sat, 14 Feb 2026 07:00:06 +0900"
+    },
+    {
+      "title": "[금주핫템] 헤라 'UV 프로텍터 CC'·깨끗한나라 '깨나베이커리'",
+      "link": "https://www.yna.co.kr/view/AKR20260209128400030",
+      "pubDate": "Sat, 14 Feb 2026 07:00:05 +0900"
+    },
+    {
+      "title": "개발자도, 회계사도…'AI 공포'에 명절 두려운 취준생들",
+      "link": "https://www.yna.co.kr/view/AKR20260207027800004",
+      "pubDate": "Sat, 14 Feb 2026 06:55:01 +0900"
+    },
     {
       "title": "'변호사보다 낫네' 회계사 소득 1억2천만원…개업 전문직 1위",
       "link": "https://www.yna.co.kr/view/AKR20260213168600002",
@@ -132,26 +152,6 @@
       "title": "부산상공회의소, 해사법원 부산 설치 확정 '환영'",
       "link": "https://www.yna.co.kr/view/AKR20260213154400051",
       "pubDate": "Fri, 13 Feb 2026 16:22:47 +0900"
-    },
-    {
-      "title": "신한금융, 취약계층 먹거리 '그냥드림' 지원액 45억→100억 증액",
-      "link": "https://www.yna.co.kr/view/AKR20260213153100530",
-      "pubDate": "Fri, 13 Feb 2026 16:18:18 +0900"
-    },
-    {
-      "title": "나신평 \"SK이터닉스, 하향검토 등급 감시 대상 등록\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213154200008",
-      "pubDate": "Fri, 13 Feb 2026 16:17:45 +0900"
-    },
-    {
-      "title": "조각투자 장외거래소에 NXT컨소시엄·KDX…루센트블록 탈락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213113351002",
-      "pubDate": "Fri, 13 Feb 2026 16:13:54 +0900"
-    },
-    {
-      "title": "[게시판] iM뱅크, 대구모금회에 온누리상품권 1억1천만원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260213149200053",
-      "pubDate": "Fri, 13 Feb 2026 16:11:16 +0900"
     }
   ]
 }
