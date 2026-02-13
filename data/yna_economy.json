@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770955015,
+  "updated_at_unix": 1770959877,
   "items": [
+    {
+      "title": "삼양식품, 일본 식품전시회서 한정판 '불닭 카레' 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260213105600030",
+      "pubDate": "Fri, 13 Feb 2026 13:44:54 +0900"
+    },
+    {
+      "title": "광양시, 고용위기 선제대응지역 지정…국비 최대 80억 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260213102000054",
+      "pubDate": "Fri, 13 Feb 2026 13:40:51 +0900"
+    },
+    {
+      "title": "김진애 국건위원장 \"건축 新생태계로 공간민주주의 높일 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213072400003",
+      "pubDate": "Fri, 13 Feb 2026 13:30:00 +0900"
+    },
+    {
+      "title": "경남도 산하 9개 공공기관, 상반기 정규직 33명 통합 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260213097500052",
+      "pubDate": "Fri, 13 Feb 2026 13:05:00 +0900"
+    },
     {
       "title": "인사처, 올해 중증장애인 국가공무원 70명 선발",
       "link": "https://www.yna.co.kr/view/AKR20260213024800001",
@@ -132,26 +152,6 @@
       "title": "광주·전남 1월 무역수지 8억2천만 달러 흑자",
       "link": "https://www.yna.co.kr/view/AKR20260213070300054",
       "pubDate": "Fri, 13 Feb 2026 10:32:47 +0900"
-    },
-    {
-      "title": "인천시, 검단∼송도 도시철도 3호선 올 상반기 예타 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260213058200065",
-      "pubDate": "Fri, 13 Feb 2026 10:31:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260213065400011",
-      "pubDate": "Fri, 13 Feb 2026 10:30:04 +0900"
-    },
-    {
-      "title": "전북도, 보육료 인상분 전액 지원…물가·인건비 상승 고려",
-      "link": "https://www.yna.co.kr/view/AKR20260213069200055",
-      "pubDate": "Fri, 13 Feb 2026 10:29:53 +0900"
-    },
-    {
-      "title": "천안 '하늘그린오이' 본격 출하…전국 최대 산지",
-      "link": "https://www.yna.co.kr/view/AKR20260213065300063",
-      "pubDate": "Fri, 13 Feb 2026 10:20:40 +0900"
     }
   ]
 }
