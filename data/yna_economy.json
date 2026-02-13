@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770975157,
+  "updated_at_unix": 1770978547,
   "items": [
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260213181600002",
+      "pubDate": "Fri, 13 Feb 2026 19:21:08 +0900"
+    },
+    {
+      "title": "손경식 경총 회장 5연임…회장단 회의서 재추대하기로",
+      "link": "https://www.yna.co.kr/view/AKR20260213182500003",
+      "pubDate": "Fri, 13 Feb 2026 18:59:48 +0900"
+    },
+    {
+      "title": "루센트블록, 금융당국 조각투자 장외거래소 탈락 결정에 반박",
+      "link": "https://www.yna.co.kr/view/AKR20260213179700017",
+      "pubDate": "Fri, 13 Feb 2026 18:29:31 +0900"
+    },
     {
       "title": "[동정] 오세훈, 설 연휴 앞두고 물가 점검·사업지 방문",
       "link": "https://www.yna.co.kr/view/AKR20260213179500004",
@@ -137,21 +152,6 @@
       "title": "정부, '독과점' 고속道 휴게소 개선…국토장관 \"비싸고 맛없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260213140200003",
       "pubDate": "Fri, 13 Feb 2026 15:53:43 +0900"
-    },
-    {
-      "title": "점심때 홀로 작업하던 60대 하청 노동자 콘크리트에 깔려 숨져",
-      "link": "https://www.yna.co.kr/view/AKR20260213138000061",
-      "pubDate": "Fri, 13 Feb 2026 15:49:19 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, '18만전자' 등극…하이닉스는 1% 내려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213039351008",
-      "pubDate": "Fri, 13 Feb 2026 15:47:11 +0900"
-    },
-    {
-      "title": "부산시, 국내 최초 조각투자 유통 전담 거래소 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260213140600051",
-      "pubDate": "Fri, 13 Feb 2026 15:38:40 +0900"
     }
   ]
 }
