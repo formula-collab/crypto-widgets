@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770968504,
+  "updated_at_unix": 1770971408,
   "items": [
+    {
+      "title": "금융위 \"다주택자 대출연장 실태 파악\"…합동TF 구성(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260213084352002",
+      "pubDate": "Fri, 13 Feb 2026 17:23:24 +0900"
+    },
+    {
+      "title": "경기노동청, 고의·상습 임금체불 사업주 3명 체포해 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260213166400061",
+      "pubDate": "Fri, 13 Feb 2026 17:07:15 +0900"
+    },
+    {
+      "title": "에이엔피, 10억원 유상증자…전운관 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260213166300008",
+      "pubDate": "Fri, 13 Feb 2026 17:06:06 +0900"
+    },
+    {
+      "title": "한은 이어 부총리 구두개입에 국고채 금리 일제히 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213160351008",
+      "pubDate": "Fri, 13 Feb 2026 17:00:26 +0900"
+    },
+    {
+      "title": "농식품 장관, 가축전염병 방역점검…\"설연휴 24시간 비상대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213034400030",
+      "pubDate": "Fri, 13 Feb 2026 17:00:03 +0900"
+    },
+    {
+      "title": "넥스트레이드 \"증시 활황 힘입어 거래량·거래대금 전반적 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213162600008",
+      "pubDate": "Fri, 13 Feb 2026 16:54:40 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.142%",
+      "link": "https://www.yna.co.kr/view/AKR20260213160300008",
+      "pubDate": "Fri, 13 Feb 2026 16:40:13 +0900"
+    },
     {
       "title": "[특징주] 대신증권, 자사주 대규모 소각에 신고가 기록(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260213041051008",
@@ -49,7 +84,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:09:00 +0900"
     },
     {
-      "title": "'적기시정조치 상향' 롯데손보, 금융위 상대 행정소송 취하",
+      "title": "'적기시정조치 상향 수순' 롯데손보, 금융위 상대 행정소송 취하",
       "link": "https://www.yna.co.kr/view/AKR20260213150100002",
       "pubDate": "Fri, 13 Feb 2026 16:07:59 +0900"
     },
@@ -117,41 +152,6 @@
       "title": "[동포의 창] 동포청-세무사회, 재외동포 세금 고민 해결 돕는다",
       "link": "https://www.yna.co.kr/view/AKR20260213123100371",
       "pubDate": "Fri, 13 Feb 2026 14:49:24 +0900"
-    },
-    {
-      "title": "김진애 국건위원장 \"건축 新생태계로 공간민주주의 높일 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213072451003",
-      "pubDate": "Fri, 13 Feb 2026 14:38:52 +0900"
-    },
-    {
-      "title": "토큰증권협의회장, 조각투자 장외거래소 승인에 \"실행국면 진입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213122600008",
-      "pubDate": "Fri, 13 Feb 2026 14:36:53 +0900"
-    },
-    {
-      "title": "'시공사 줄파산에 24년간 미준공' 창녕 도원아파트, 사용 승인",
-      "link": "https://www.yna.co.kr/view/AKR20260213111000052",
-      "pubDate": "Fri, 13 Feb 2026 14:32:27 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260213113000011",
-      "pubDate": "Fri, 13 Feb 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 부산디지털자산거래소, 신규 가입자 금 증정 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260213120300051",
-      "pubDate": "Fri, 13 Feb 2026 14:27:08 +0900"
-    },
-    {
-      "title": "광명시-농협 광명시지부, 태양광 절감 전기료 사회환원 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260213114700061",
-      "pubDate": "Fri, 13 Feb 2026 14:20:12 +0900"
-    },
-    {
-      "title": "[게시판] 부산은행, 부산역·진영휴게소에 이동점포 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260213116500051",
-      "pubDate": "Fri, 13 Feb 2026 14:18:17 +0900"
     }
   ]
 }
