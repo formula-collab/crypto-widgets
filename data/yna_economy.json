@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770964379,
+  "updated_at_unix": 1770968504,
   "items": [
+    {
+      "title": "[특징주] 대신증권, 자사주 대규모 소각에 신고가 기록(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213041051008",
+      "pubDate": "Fri, 13 Feb 2026 16:34:41 +0900"
+    },
+    {
+      "title": "이화공영, 60억원 유상증자…한앤브라더스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260213157400008",
+      "pubDate": "Fri, 13 Feb 2026 16:33:34 +0900"
+    },
+    {
+      "title": "SK하이닉스, '채용 고속도로' 개통…반도체 인재 쓸어담는다",
+      "link": "https://www.yna.co.kr/view/AKR20260213152000003",
+      "pubDate": "Fri, 13 Feb 2026 16:24:48 +0900"
+    },
+    {
+      "title": "부산상공회의소, 해사법원 부산 설치 확정 '환영'",
+      "link": "https://www.yna.co.kr/view/AKR20260213154400051",
+      "pubDate": "Fri, 13 Feb 2026 16:22:47 +0900"
+    },
+    {
+      "title": "신한금융, 취약계층 먹거리 '그냥드림' 지원액 45억→100억 증액",
+      "link": "https://www.yna.co.kr/view/AKR20260213153100530",
+      "pubDate": "Fri, 13 Feb 2026 16:18:18 +0900"
+    },
+    {
+      "title": "나신평 \"SK이터닉스, 하향검토 등급 감시 대상 등록\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213154200008",
+      "pubDate": "Fri, 13 Feb 2026 16:17:45 +0900"
+    },
+    {
+      "title": "조각투자 장외거래소에 NXT컨소시엄·KDX…루센트블록 탈락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213113351002",
+      "pubDate": "Fri, 13 Feb 2026 16:13:54 +0900"
+    },
+    {
+      "title": "[게시판] iM뱅크, 대구모금회에 온누리상품권 1억1천만원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260213149200053",
+      "pubDate": "Fri, 13 Feb 2026 16:11:16 +0900"
+    },
+    {
+      "title": "원/달러 환율 연휴 앞두고 닷새 만에 상승…1,444.9원",
+      "link": "https://www.yna.co.kr/view/AKR20260213150700002",
+      "pubDate": "Fri, 13 Feb 2026 16:09:00 +0900"
+    },
+    {
+      "title": "'적기시정조치 상향' 롯데손보, 금융위 상대 행정소송 취하",
+      "link": "https://www.yna.co.kr/view/AKR20260213150100002",
+      "pubDate": "Fri, 13 Feb 2026 16:07:59 +0900"
+    },
+    {
+      "title": "더본코리아, 작년 악재영향에 영업손실 237억원",
+      "link": "https://www.yna.co.kr/view/AKR20260213149800030",
+      "pubDate": "Fri, 13 Feb 2026 16:05:30 +0900"
+    },
+    {
+      "title": "코스피, 사상 최고치 찍고 5,500대 약보합 마감…코스닥 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213149100008",
+      "pubDate": "Fri, 13 Feb 2026 16:03:42 +0900"
+    },
+    {
+      "title": "[특징주] 하이브, 실적 성장 기대에 2% 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213051251008",
+      "pubDate": "Fri, 13 Feb 2026 15:57:51 +0900"
+    },
+    {
+      "title": "정부, '독과점' 고속道 휴게소 개선…국토장관 \"비싸고 맛없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213140200003",
+      "pubDate": "Fri, 13 Feb 2026 15:53:43 +0900"
+    },
+    {
+      "title": "점심때 홀로 작업하던 60대 하청 노동자 콘크리트에 깔려 숨져",
+      "link": "https://www.yna.co.kr/view/AKR20260213138000061",
+      "pubDate": "Fri, 13 Feb 2026 15:49:19 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자, '18만전자' 등극…하이닉스는 1% 내려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213039351008",
+      "pubDate": "Fri, 13 Feb 2026 15:47:11 +0900"
+    },
+    {
+      "title": "부산시, 국내 최초 조각투자 유통 전담 거래소 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260213140600051",
+      "pubDate": "Fri, 13 Feb 2026 15:38:40 +0900"
+    },
+    {
+      "title": "외국환시세(2월13일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260213139700002",
+      "pubDate": "Fri, 13 Feb 2026 15:37:05 +0900"
+    },
+    {
+      "title": "코스피, 등락 끝에 5,500대 약보합 마감…코스닥도 내려",
+      "link": "https://www.yna.co.kr/view/AKR20260213139600008",
+      "pubDate": "Fri, 13 Feb 2026 15:36:09 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 4.7원 오른 1,444.9원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260213137800002",
+      "pubDate": "Fri, 13 Feb 2026 15:30:21 +0900"
+    },
     {
       "title": "한성숙 중기장관, 설 앞두고 포방터시장 방문",
       "link": "https://www.yna.co.kr/view/AKR20260213128000030",
@@ -52,106 +152,6 @@
       "title": "[게시판] 부산은행, 부산역·진영휴게소에 이동점포 운영",
       "link": "https://www.yna.co.kr/view/AKR20260213116500051",
       "pubDate": "Fri, 13 Feb 2026 14:18:17 +0900"
-    },
-    {
-      "title": "조각투자 장외거래소에 NXT컨소시엄·KDX…루센트블록 탈락",
-      "link": "https://www.yna.co.kr/view/AKR20260213113300002",
-      "pubDate": "Fri, 13 Feb 2026 14:16:20 +0900"
-    },
-    {
-      "title": "유·무상 ODA 모니터링 강화…재외공관 관리·감독 권한 부여",
-      "link": "https://www.yna.co.kr/view/AKR20260213111200371",
-      "pubDate": "Fri, 13 Feb 2026 14:13:15 +0900"
-    },
-    {
-      "title": "삼양식품, 일본 식품전시회서 한정판 '불닭 카레' 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260213105600030",
-      "pubDate": "Fri, 13 Feb 2026 13:44:54 +0900"
-    },
-    {
-      "title": "광양시, 고용위기 선제대응지역 지정…국비 최대 80억 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260213102000054",
-      "pubDate": "Fri, 13 Feb 2026 13:40:51 +0900"
-    },
-    {
-      "title": "김진애 국건위원장 \"건축 新생태계로 공간민주주의 높일 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213072400003",
-      "pubDate": "Fri, 13 Feb 2026 13:30:00 +0900"
-    },
-    {
-      "title": "경남도 산하 9개 공공기관, 상반기 정규직 33명 통합 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260213097500052",
-      "pubDate": "Fri, 13 Feb 2026 13:05:00 +0900"
-    },
-    {
-      "title": "인사처, 올해 중증장애인 국가공무원 70명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260213024800001",
-      "pubDate": "Fri, 13 Feb 2026 12:00:10 +0900"
-    },
-    {
-      "title": "한은, 설 앞두고 시중에 4조8천억원 공급…작년보다 6.2%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260213034500002",
-      "pubDate": "Fri, 13 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "중기부 \"소상공인 경영안정 바우처, 이틀간 2천500억원 지급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213052300030",
-      "pubDate": "Fri, 13 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "정부, 고용보험·농업정책자금 지출 구조 개편 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260213071300002",
-      "pubDate": "Fri, 13 Feb 2026 12:00:04 +0900"
-    },
-    {
-      "title": "12월 통화량 23조원↑, 기업·가계 예금 등 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260213071500002",
-      "pubDate": "Fri, 13 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "'주70시간 노동·체불·직내괴'…노동부, 런베뮤 대표 형사입건",
-      "link": "https://www.yna.co.kr/view/AKR20260213086700530",
-      "pubDate": "Fri, 13 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "노동부, '쿠팡 감독 중 접대' 경찰수사 요청…추가 비위도 확인",
-      "link": "https://www.yna.co.kr/view/AKR20260213093000530",
-      "pubDate": "Fri, 13 Feb 2026 11:54:54 +0900"
-    },
-    {
-      "title": "금융위 \"'다주택자 대출연장' 실태 파악\"…금융권 점검회의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213084351002",
-      "pubDate": "Fri, 13 Feb 2026 11:49:51 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.146%",
-      "link": "https://www.yna.co.kr/view/AKR20260213091200008",
-      "pubDate": "Fri, 13 Feb 2026 11:49:20 +0900"
-    },
-    {
-      "title": "李대통령 \"다주택자 대출연장 공정한가…아직도 판단 안 서시나\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260213013352001",
-      "pubDate": "Fri, 13 Feb 2026 11:42:17 +0900"
-    },
-    {
-      "title": "경찰, '채용비리 의혹' 강서구의회 의장·운영위원장 소환조사",
-      "link": "https://www.yna.co.kr/view/AKR20260213086600004",
-      "pubDate": "Fri, 13 Feb 2026 11:24:36 +0900"
-    },
-    {
-      "title": "관세청, 설 연휴 크루즈 관광객 특별통관지원반 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260213085900002",
-      "pubDate": "Fri, 13 Feb 2026 11:23:39 +0900"
-    },
-    {
-      "title": "코스피, 장중 5,540대 상승…코스닥은 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260213085800008",
-      "pubDate": "Fri, 13 Feb 2026 11:21:46 +0900"
-    },
-    {
-      "title": "금융위 \"'다주택자 대출연장' 실태 파악\"…전금융권 점검회의",
-      "link": "https://www.yna.co.kr/view/AKR20260213084300002",
-      "pubDate": "Fri, 13 Feb 2026 11:19:58 +0900"
     }
   ]
 }
