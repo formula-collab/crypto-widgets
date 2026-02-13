@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771025181,
+  "updated_at_unix": 1771026611,
   "items": [
+    {
+      "title": "'설연휴 쇼핑족 잡아라'…패션플랫폼, 특가·할인쿠폰 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260213024100030",
+      "pubDate": "Sat, 14 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "'도시개발·철도망 구축' 양산시, 2040년 인구 48만 달성 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260213149000052",
+      "pubDate": "Sat, 14 Feb 2026 08:25:00 +0900"
+    },
     {
       "title": "대구·경북 설 전 화폐 발행 작년보다 4.4% 감소",
       "link": "https://www.yna.co.kr/view/AKR20260213144200053",
@@ -142,16 +152,6 @@
       "title": "농식품 장관, 가축전염병 방역점검…\"설연휴 24시간 비상대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260213034400030",
       "pubDate": "Fri, 13 Feb 2026 17:00:03 +0900"
-    },
-    {
-      "title": "넥스트레이드 \"증시 활황 힘입어 거래량·거래대금 전반적 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213162600008",
-      "pubDate": "Fri, 13 Feb 2026 16:54:40 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.142%",
-      "link": "https://www.yna.co.kr/view/AKR20260213160300008",
-      "pubDate": "Fri, 13 Feb 2026 16:40:13 +0900"
     }
   ]
 }
