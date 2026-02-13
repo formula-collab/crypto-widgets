@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771016573,
+  "updated_at_unix": 1771019755,
   "items": [
+    {
+      "title": "'변호사보다 낫네' 회계사 소득 1억2천만원…개업 전문직 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260213168600002",
+      "pubDate": "Sat, 14 Feb 2026 06:11:01 +0900"
+    },
+    {
+      "title": "주유소 휘발유 가격 10주 연속 하락…\"다음주는 오를 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213134100003",
+      "pubDate": "Sat, 14 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] OPEC+ 증산 움직임에도 저가 매수…WTI 강보합",
+      "link": "https://www.yna.co.kr/view/AKR20260214008400009",
+      "pubDate": "Sat, 14 Feb 2026 06:00:56 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 설 연휴에 쉬어가는 내주 분양 시장…견본주택 3곳 개관",
+      "link": "https://www.yna.co.kr/view/AKR20260213162700003",
+      "pubDate": "Sat, 14 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "달러-원, 예상보다 낮은 美 CPI에 상승폭 축소…1,444.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260214003500002",
@@ -132,26 +152,6 @@
       "title": "[게시판] iM뱅크, 대구모금회에 온누리상품권 1억1천만원 기부",
       "link": "https://www.yna.co.kr/view/AKR20260213149200053",
       "pubDate": "Fri, 13 Feb 2026 16:11:16 +0900"
-    },
-    {
-      "title": "원/달러 환율 연휴 앞두고 닷새 만에 상승…1,444.9원",
-      "link": "https://www.yna.co.kr/view/AKR20260213150700002",
-      "pubDate": "Fri, 13 Feb 2026 16:09:00 +0900"
-    },
-    {
-      "title": "'적기시정조치 상향 수순' 롯데손보, 금융위 상대 행정소송 취하",
-      "link": "https://www.yna.co.kr/view/AKR20260213150100002",
-      "pubDate": "Fri, 13 Feb 2026 16:07:59 +0900"
-    },
-    {
-      "title": "더본코리아, 작년 악재영향에 영업손실 237억원",
-      "link": "https://www.yna.co.kr/view/AKR20260213149800030",
-      "pubDate": "Fri, 13 Feb 2026 16:05:30 +0900"
-    },
-    {
-      "title": "코스피, 사상 최고치 찍고 5,500대 약보합 마감…코스닥 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213149100008",
-      "pubDate": "Fri, 13 Feb 2026 16:03:42 +0900"
     }
   ]
 }
