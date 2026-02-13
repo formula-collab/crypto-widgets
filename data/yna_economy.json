@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770971408,
+  "updated_at_unix": 1770975157,
   "items": [
+    {
+      "title": "[동정] 오세훈, 설 연휴 앞두고 물가 점검·사업지 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260213179500004",
+      "pubDate": "Fri, 13 Feb 2026 18:13:29 +0900"
+    },
+    {
+      "title": "올해 아프리카돼지열병 14건…설 앞두고 방역 총력 대응(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260213008152030",
+      "pubDate": "Fri, 13 Feb 2026 18:00:17 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260213172900011",
+      "pubDate": "Fri, 13 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "앤디포스, 10억원 유상증자…토르1호조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260213176000008",
+      "pubDate": "Fri, 13 Feb 2026 17:53:30 +0900"
+    },
+    {
+      "title": "미래에셋, 국내 4위 암호화폐 거래소 코빗 지분 92% 취득결정",
+      "link": "https://www.yna.co.kr/view/AKR20260213174300008",
+      "pubDate": "Fri, 13 Feb 2026 17:46:55 +0900"
+    },
+    {
+      "title": "靑 \"李대통령, 부동산카드 준비는 하되 당장은 안 쓴다 해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213066351001",
+      "pubDate": "Fri, 13 Feb 2026 17:29:01 +0900"
+    },
     {
       "title": "금융위 \"다주택자 대출연장 실태 파악\"…합동TF 구성(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260213084352002",
@@ -122,36 +152,6 @@
       "title": "부산시, 국내 최초 조각투자 유통 전담 거래소 유치",
       "link": "https://www.yna.co.kr/view/AKR20260213140600051",
       "pubDate": "Fri, 13 Feb 2026 15:38:40 +0900"
-    },
-    {
-      "title": "외국환시세(2월13일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260213139700002",
-      "pubDate": "Fri, 13 Feb 2026 15:37:05 +0900"
-    },
-    {
-      "title": "코스피, 등락 끝에 5,500대 약보합 마감…코스닥도 내려",
-      "link": "https://www.yna.co.kr/view/AKR20260213139600008",
-      "pubDate": "Fri, 13 Feb 2026 15:36:09 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.7원 오른 1,444.9원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260213137800002",
-      "pubDate": "Fri, 13 Feb 2026 15:30:21 +0900"
-    },
-    {
-      "title": "한성숙 중기장관, 설 앞두고 포방터시장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260213128000030",
-      "pubDate": "Fri, 13 Feb 2026 15:00:49 +0900"
-    },
-    {
-      "title": "광진구, 취득세 안내·전세사기 예방 챗봇으로 한번에 해결",
-      "link": "https://www.yna.co.kr/view/AKR20260213127300004",
-      "pubDate": "Fri, 13 Feb 2026 14:54:24 +0900"
-    },
-    {
-      "title": "[동포의 창] 동포청-세무사회, 재외동포 세금 고민 해결 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20260213123100371",
-      "pubDate": "Fri, 13 Feb 2026 14:49:24 +0900"
     }
   ]
 }
