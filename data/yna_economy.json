@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770985954,
+  "updated_at_unix": 1770990832,
   "items": [
+    {
+      "title": "통상본부장, 美 주최 핵심광물 통상장관 화상회의 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260213165600003",
+      "pubDate": "Fri, 13 Feb 2026 22:10:00 +0900"
+    },
     {
       "title": "[인사] 금융위원회",
       "link": "https://www.yna.co.kr/view/AKR20260213181600002",
@@ -147,11 +152,6 @@
       "title": "[특징주] 하이브, 실적 성장 기대에 2% 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260213051251008",
       "pubDate": "Fri, 13 Feb 2026 15:57:51 +0900"
-    },
-    {
-      "title": "정부, '독과점' 고속道 휴게소 개선…국토장관 \"비싸고 맛없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213140200003",
-      "pubDate": "Fri, 13 Feb 2026 15:53:43 +0900"
     }
   ]
 }
