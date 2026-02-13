@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771021417,
+  "updated_at_unix": 1771023451,
   "items": [
+    {
+      "title": "식품기업들 이익 줄었는데 가격 못 올리고 눈치",
+      "link": "https://www.yna.co.kr/view/AKR20260213167200030",
+      "pubDate": "Sat, 14 Feb 2026 07:25:00 +0900"
+    },
     {
       "title": "증권사 설 연휴 24시간 데스크 운영…이벤트 '풍성'",
       "link": "https://www.yna.co.kr/view/AKR20260213081200008",
@@ -147,11 +152,6 @@
       "title": "SK하이닉스, '채용 고속도로' 개통…반도체 인재 쓸어담는다",
       "link": "https://www.yna.co.kr/view/AKR20260213152000003",
       "pubDate": "Fri, 13 Feb 2026 16:24:48 +0900"
-    },
-    {
-      "title": "부산상공회의소, 해사법원 부산 설치 확정 '환영'",
-      "link": "https://www.yna.co.kr/view/AKR20260213154400051",
-      "pubDate": "Fri, 13 Feb 2026 16:22:47 +0900"
     }
   ]
 }
