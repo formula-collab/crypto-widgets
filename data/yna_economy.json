@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1770959877,
+  "updated_at_unix": 1770964379,
   "items": [
+    {
+      "title": "한성숙 중기장관, 설 앞두고 포방터시장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260213128000030",
+      "pubDate": "Fri, 13 Feb 2026 15:00:49 +0900"
+    },
+    {
+      "title": "광진구, 취득세 안내·전세사기 예방 챗봇으로 한번에 해결",
+      "link": "https://www.yna.co.kr/view/AKR20260213127300004",
+      "pubDate": "Fri, 13 Feb 2026 14:54:24 +0900"
+    },
+    {
+      "title": "[동포의 창] 동포청-세무사회, 재외동포 세금 고민 해결 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20260213123100371",
+      "pubDate": "Fri, 13 Feb 2026 14:49:24 +0900"
+    },
+    {
+      "title": "김진애 국건위원장 \"건축 新생태계로 공간민주주의 높일 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213072451003",
+      "pubDate": "Fri, 13 Feb 2026 14:38:52 +0900"
+    },
+    {
+      "title": "토큰증권협의회장, 조각투자 장외거래소 승인에 \"실행국면 진입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213122600008",
+      "pubDate": "Fri, 13 Feb 2026 14:36:53 +0900"
+    },
+    {
+      "title": "'시공사 줄파산에 24년간 미준공' 창녕 도원아파트, 사용 승인",
+      "link": "https://www.yna.co.kr/view/AKR20260213111000052",
+      "pubDate": "Fri, 13 Feb 2026 14:32:27 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260213113000011",
+      "pubDate": "Fri, 13 Feb 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[게시판] 부산디지털자산거래소, 신규 가입자 금 증정 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260213120300051",
+      "pubDate": "Fri, 13 Feb 2026 14:27:08 +0900"
+    },
+    {
+      "title": "광명시-농협 광명시지부, 태양광 절감 전기료 사회환원 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260213114700061",
+      "pubDate": "Fri, 13 Feb 2026 14:20:12 +0900"
+    },
+    {
+      "title": "[게시판] 부산은행, 부산역·진영휴게소에 이동점포 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260213116500051",
+      "pubDate": "Fri, 13 Feb 2026 14:18:17 +0900"
+    },
+    {
+      "title": "조각투자 장외거래소에 NXT컨소시엄·KDX…루센트블록 탈락",
+      "link": "https://www.yna.co.kr/view/AKR20260213113300002",
+      "pubDate": "Fri, 13 Feb 2026 14:16:20 +0900"
+    },
+    {
+      "title": "유·무상 ODA 모니터링 강화…재외공관 관리·감독 권한 부여",
+      "link": "https://www.yna.co.kr/view/AKR20260213111200371",
+      "pubDate": "Fri, 13 Feb 2026 14:13:15 +0900"
+    },
     {
       "title": "삼양식품, 일본 식품전시회서 한정판 '불닭 카레' 공개",
       "link": "https://www.yna.co.kr/view/AKR20260213105600030",
@@ -92,66 +152,6 @@
       "title": "금융위 \"'다주택자 대출연장' 실태 파악\"…전금융권 점검회의",
       "link": "https://www.yna.co.kr/view/AKR20260213084300002",
       "pubDate": "Fri, 13 Feb 2026 11:19:58 +0900"
-    },
-    {
-      "title": "서울시, 강서·양천 모아타운 2곳 추진…2천606세대 공급 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260213041500004",
-      "pubDate": "Fri, 13 Feb 2026 11:15:03 +0900"
-    },
-    {
-      "title": "서울시, 올해 시니어 일자리 지원 확대…지원센터 5개 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260213064300004",
-      "pubDate": "Fri, 13 Feb 2026 11:15:00 +0900"
-    },
-    {
-      "title": "한투증권 인니법인, 동남아 매체 선정 '최우수 로컬통화 채권상'",
-      "link": "https://www.yna.co.kr/view/AKR20260213083100008",
-      "pubDate": "Fri, 13 Feb 2026 11:13:08 +0900"
-    },
-    {
-      "title": "파주시, 캠프에드워즈 도시개발사업 군 협의 절차 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260213080100060",
-      "pubDate": "Fri, 13 Feb 2026 11:13:07 +0900"
-    },
-    {
-      "title": "면접 탈락자도 챙긴다…남부발전, 보듬채용 프로그램 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260213080300051",
-      "pubDate": "Fri, 13 Feb 2026 11:04:52 +0900"
-    },
-    {
-      "title": "이규연 \"李대통령, 부동산카드 준비는 하되 당장은 안 쓴다 해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213066300001",
-      "pubDate": "Fri, 13 Feb 2026 11:02:18 +0900"
-    },
-    {
-      "title": "올해 아프리카돼지열병 14건 발생…작년의 두 배 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213008151030",
-      "pubDate": "Fri, 13 Feb 2026 10:53:46 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행, 펀드어워즈 최우수상",
-      "link": "https://www.yna.co.kr/view/AKR20260213075400002",
-      "pubDate": "Fri, 13 Feb 2026 10:52:54 +0900"
-    },
-    {
-      "title": "고양시, 취약계층에 난방비 13억원 긴급 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260213071900060",
-      "pubDate": "Fri, 13 Feb 2026 10:39:19 +0900"
-    },
-    {
-      "title": "하나은행, 글로벌파이낸스 선정 '최우수 부동산 투자상' 등 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260213072200002",
-      "pubDate": "Fri, 13 Feb 2026 10:39:09 +0900"
-    },
-    {
-      "title": "보령화력 주변 주민·기업, 연 1% 금리로 농협서 대출 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260213070600063",
-      "pubDate": "Fri, 13 Feb 2026 10:34:49 +0900"
-    },
-    {
-      "title": "광주·전남 1월 무역수지 8억2천만 달러 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260213070300054",
-      "pubDate": "Fri, 13 Feb 2026 10:32:47 +0900"
     }
   ]
 }
