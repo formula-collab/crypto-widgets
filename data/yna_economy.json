@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771023451,
+  "updated_at_unix": 1771025181,
   "items": [
+    {
+      "title": "대구·경북 설 전 화폐 발행 작년보다 4.4% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260213144200053",
+      "pubDate": "Sat, 14 Feb 2026 08:02:00 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 한 번 새기면 평생?…'맞춤형 지속성' 문신 기술 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260213126100017",
+      "pubDate": "Sat, 14 Feb 2026 08:00:08 +0900"
+    },
+    {
+      "title": "명절 전후에도 보이스피싱 '기승'…최근 6년간 피해 4만건 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260213153600001",
+      "pubDate": "Sat, 14 Feb 2026 08:00:02 +0900"
+    },
     {
       "title": "식품기업들 이익 줄었는데 가격 못 올리고 눈치",
       "link": "https://www.yna.co.kr/view/AKR20260213167200030",
@@ -137,21 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.142%",
       "link": "https://www.yna.co.kr/view/AKR20260213160300008",
       "pubDate": "Fri, 13 Feb 2026 16:40:13 +0900"
-    },
-    {
-      "title": "[특징주] 대신증권, 자사주 대규모 소각에 신고가 기록(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213041051008",
-      "pubDate": "Fri, 13 Feb 2026 16:34:41 +0900"
-    },
-    {
-      "title": "이화공영, 60억원 유상증자…한앤브라더스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260213157400008",
-      "pubDate": "Fri, 13 Feb 2026 16:33:34 +0900"
-    },
-    {
-      "title": "SK하이닉스, '채용 고속도로' 개통…반도체 인재 쓸어담는다",
-      "link": "https://www.yna.co.kr/view/AKR20260213152000003",
-      "pubDate": "Fri, 13 Feb 2026 16:24:48 +0900"
     }
   ]
 }
