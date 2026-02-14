@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771057115,
+  "updated_at_unix": 1771059237,
   "items": [
+    {
+      "title": "강훈식 \"'부동산 불패' 끝낸다는 기조…이재명은 합니다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214036700001",
+      "pubDate": "Sat, 14 Feb 2026 17:28:16 +0900"
+    },
     {
       "title": "국힘 \"李대통령 '집팔라 강요안해'는 말장난\"…與 \"제발 저린격\"",
       "link": "https://www.yna.co.kr/view/AKR20260214036400001",
@@ -147,11 +152,6 @@
       "title": "올해 아프리카돼지열병 14건…설 앞두고 방역 총력 대응(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260213008152030",
       "pubDate": "Fri, 13 Feb 2026 18:00:17 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260213172900011",
-      "pubDate": "Fri, 13 Feb 2026 18:00:00 +0900"
     }
   ]
 }
