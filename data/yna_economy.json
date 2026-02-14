@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771102001,
+  "updated_at_unix": 1771103626,
   "items": [
+    {
+      "title": "韓, 대미투자 검토 '속도'…범정부 이행위원회 실무단 구성 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260214031100003",
+      "pubDate": "Sun, 15 Feb 2026 06:05:00 +0900"
+    },
+    {
+      "title": "파주시, '일자리발굴단' 본격 운영…기업 구인난 해소 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260211140400060",
+      "pubDate": "Sun, 15 Feb 2026 06:01:03 +0900"
+    },
+    {
+      "title": "설 앞두고 과일·고기·생선·쌀값 올라…정부 할인 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260213198400030",
+      "pubDate": "Sun, 15 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "사업소득 '초양극화'…상하위 20% 격차 처음 100배 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260214039400002",
+      "pubDate": "Sun, 15 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "'명절 상여금' 휴직자·계약직도 줘야할까…취업규칙 등 따라야",
+      "link": "https://www.yna.co.kr/view/AKR20260213108700530",
+      "pubDate": "Sun, 15 Feb 2026 06:00:00 +0900"
+    },
     {
       "title": "보조배터리 소비자 피해구제 신청, 5년 새 4배 증가",
       "link": "https://www.yna.co.kr/view/AKR20260213171200001",
@@ -127,31 +152,6 @@
       "title": "[뉴욕유가] OPEC+ 증산 움직임에도 저가 매수…WTI 강보합",
       "link": "https://www.yna.co.kr/view/AKR20260214008400009",
       "pubDate": "Sat, 14 Feb 2026 06:00:56 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 설 연휴에 쉬어가는 내주 분양 시장…견본주택 3곳 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260213162700003",
-      "pubDate": "Sat, 14 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "달러-원, 예상보다 낮은 美 CPI에 상승폭 축소…1,444.60원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260214003500002",
-      "pubDate": "Sat, 14 Feb 2026 02:23:01 +0900"
-    },
-    {
-      "title": "통상본부장, 美 주최 핵심광물 통상장관 화상회의 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260213165600003",
-      "pubDate": "Fri, 13 Feb 2026 22:10:00 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260213181600002",
-      "pubDate": "Fri, 13 Feb 2026 19:21:08 +0900"
-    },
-    {
-      "title": "손경식 경총 회장 5연임…회장단 회의서 재추대하기로",
-      "link": "https://www.yna.co.kr/view/AKR20260213182500003",
-      "pubDate": "Fri, 13 Feb 2026 18:59:48 +0900"
     }
   ]
 }
