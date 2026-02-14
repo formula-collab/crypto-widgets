@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771105424,
+  "updated_at_unix": 1771107124,
   "items": [
+    {
+      "title": "\"금·은 가고 비철금속 뜬다\"…원자재 슈퍼사이클 시작되나",
+      "link": "https://www.yna.co.kr/view/AKR20260212154900008",
+      "pubDate": "Sun, 15 Feb 2026 07:03:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 美대법 상호관세 판결 나올까…변동성 주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260214025500008",
+      "pubDate": "Sun, 15 Feb 2026 07:01:07 +0900"
+    },
+    {
+      "title": "\"○○○에 투자했더니 82% 올랐네\"…이달 상승률 1위 종목은",
+      "link": "https://www.yna.co.kr/view/AKR20260213152600008",
+      "pubDate": "Sun, 15 Feb 2026 07:01:00 +0900"
+    },
+    {
+      "title": "올해 광주 아파트 분양 1만세대 또 풀린다…엇갈린 시장 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260212169000054",
+      "pubDate": "Sun, 15 Feb 2026 07:00:08 +0900"
+    },
+    {
+      "title": "\"건설업계 청년-중장년 조직문화 인식차 커…청년은 부정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213188900003",
+      "pubDate": "Sun, 15 Feb 2026 07:00:05 +0900"
+    },
     {
       "title": "韓, 대미투자 검토 '속도'…범정부 이행위원회 실무단 구성 착수",
       "link": "https://www.yna.co.kr/view/AKR20260214031100003",
@@ -127,31 +152,6 @@
       "title": "[신상잇슈] 농심 '누들핏 쇼유완탕'·오뚜기 '퀵모닝 오믈렛'",
       "link": "https://www.yna.co.kr/view/AKR20260213061700030",
       "pubDate": "Sat, 14 Feb 2026 07:00:06 +0900"
-    },
-    {
-      "title": "[금주핫템] 헤라 'UV 프로텍터 CC'·깨끗한나라 '깨나베이커리'",
-      "link": "https://www.yna.co.kr/view/AKR20260209128400030",
-      "pubDate": "Sat, 14 Feb 2026 07:00:05 +0900"
-    },
-    {
-      "title": "개발자도, 회계사도…'AI 공포'에 명절 두려운 취준생들",
-      "link": "https://www.yna.co.kr/view/AKR20260207027800004",
-      "pubDate": "Sat, 14 Feb 2026 06:55:01 +0900"
-    },
-    {
-      "title": "'변호사보다 낫네' 회계사 소득 1억2천만원…개업 전문직 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260213168600002",
-      "pubDate": "Sat, 14 Feb 2026 06:11:01 +0900"
-    },
-    {
-      "title": "주유소 휘발유 가격 10주 연속 하락…\"다음주는 오를 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213134100003",
-      "pubDate": "Sat, 14 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] OPEC+ 증산 움직임에도 저가 매수…WTI 강보합",
-      "link": "https://www.yna.co.kr/view/AKR20260214008400009",
-      "pubDate": "Sat, 14 Feb 2026 06:00:56 +0900"
     }
   ]
 }
