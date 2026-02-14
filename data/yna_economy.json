@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771109214,
+  "updated_at_unix": 1771110817,
   "items": [
+    {
+      "title": "울주군 전통시장서 15·25일 '작은 축제'…퓨전국악 공연도",
+      "link": "https://www.yna.co.kr/view/AKR20260213055300057",
+      "pubDate": "Sun, 15 Feb 2026 08:10:01 +0900"
+    },
+    {
+      "title": "\"쿠팡 분쟁조정 신청 온라인플랫폼 중 최다…약 5년새 458건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214021500002",
+      "pubDate": "Sun, 15 Feb 2026 08:01:06 +0900"
+    },
+    {
+      "title": "\"본사 컵의 반값\"…메가커피 일부 가맹점주들, 컵 직접 조달한다",
+      "link": "https://www.yna.co.kr/view/AKR20260213195200030",
+      "pubDate": "Sun, 15 Feb 2026 08:01:00 +0900"
+    },
+    {
+      "title": "전주시, 소규모점포 청년창업에 최대 1천500만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260213074000055",
+      "pubDate": "Sun, 15 Feb 2026 08:00:11 +0900"
+    },
     {
       "title": "인천시, 올 하반기부터 백령공항 배후부지 개발 밑그림 그린다",
       "link": "https://www.yna.co.kr/view/AKR20260212060600065",
@@ -132,26 +152,6 @@
       "title": "[IPO챗] 올해 1호 코스피 상장 추진 케이뱅크, 일반 청약 시작",
       "link": "https://www.yna.co.kr/view/AKR20260213025700008",
       "pubDate": "Sat, 14 Feb 2026 09:00:06 +0900"
-    },
-    {
-      "title": "'설연휴 쇼핑족 잡아라'…패션플랫폼, 특가·할인쿠폰 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260213024100030",
-      "pubDate": "Sat, 14 Feb 2026 08:31:00 +0900"
-    },
-    {
-      "title": "'도시개발·철도망 구축' 양산시, 2040년 인구 48만 달성 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260213149000052",
-      "pubDate": "Sat, 14 Feb 2026 08:25:00 +0900"
-    },
-    {
-      "title": "대구·경북 설 전 화폐 발행 작년보다 4.4% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260213144200053",
-      "pubDate": "Sat, 14 Feb 2026 08:02:00 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 한 번 새기면 평생?…'맞춤형 지속성' 문신 기술 개발",
-      "link": "https://www.yna.co.kr/view/AKR20260213126100017",
-      "pubDate": "Sat, 14 Feb 2026 08:00:08 +0900"
     }
   ]
 }
