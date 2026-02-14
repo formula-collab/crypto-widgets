@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771055496,
+  "updated_at_unix": 1771057115,
   "items": [
+    {
+      "title": "국힘 \"李대통령 '집팔라 강요안해'는 말장난\"…與 \"제발 저린격\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214036400001",
+      "pubDate": "Sat, 14 Feb 2026 16:55:21 +0900"
+    },
     {
       "title": "경남 창녕 양돈농장서 아프리카돼지열병 발생…15건으로 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260214035800030",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260213172900011",
       "pubDate": "Fri, 13 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "앤디포스, 10억원 유상증자…토르1호조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260213176000008",
-      "pubDate": "Fri, 13 Feb 2026 17:53:30 +0900"
     }
   ]
 }
