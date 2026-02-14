@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771026611,
+  "updated_at_unix": 1771031091,
   "items": [
+    {
+      "title": "부산 아파트값 15주째 상승…해운대·수영·동래구 '강세'",
+      "link": "https://www.yna.co.kr/view/AKR20260213113900051",
+      "pubDate": "Sat, 14 Feb 2026 09:44:03 +0900"
+    },
+    {
+      "title": "해남군, 주거·일자리·문화 아우르는 청년정책 본격 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260212126100054",
+      "pubDate": "Sat, 14 Feb 2026 09:00:08 +0900"
+    },
+    {
+      "title": "[IPO챗] 올해 1호 코스피 상장 추진 케이뱅크, 일반 청약 시작",
+      "link": "https://www.yna.co.kr/view/AKR20260213025700008",
+      "pubDate": "Sat, 14 Feb 2026 09:00:06 +0900"
+    },
     {
       "title": "'설연휴 쇼핑족 잡아라'…패션플랫폼, 특가·할인쿠폰 이벤트",
       "link": "https://www.yna.co.kr/view/AKR20260213024100030",
@@ -137,21 +152,6 @@
       "title": "경기노동청, 고의·상습 임금체불 사업주 3명 체포해 조사",
       "link": "https://www.yna.co.kr/view/AKR20260213166400061",
       "pubDate": "Fri, 13 Feb 2026 17:07:15 +0900"
-    },
-    {
-      "title": "에이엔피, 10억원 유상증자…전운관 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260213166300008",
-      "pubDate": "Fri, 13 Feb 2026 17:06:06 +0900"
-    },
-    {
-      "title": "한은 이어 부총리 구두개입에 국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213160351008",
-      "pubDate": "Fri, 13 Feb 2026 17:00:26 +0900"
-    },
-    {
-      "title": "농식품 장관, 가축전염병 방역점검…\"설연휴 24시간 비상대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213034400030",
-      "pubDate": "Fri, 13 Feb 2026 17:00:03 +0900"
     }
   ]
 }
