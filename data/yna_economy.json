@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771060819,
+  "updated_at_unix": 1771062663,
   "items": [
+    {
+      "title": "[동정] 오세훈, 설연휴 첫날 영등포전통시장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260214041600004",
+      "pubDate": "Sat, 14 Feb 2026 18:27:35 +0900"
+    },
     {
       "title": "강훈식 \"'부동산 불패' 끝낸다는 기조…이재명은 합니다\"",
       "link": "https://www.yna.co.kr/view/AKR20260214036700001",
@@ -147,11 +152,6 @@
       "title": "[동정] 오세훈, 설 연휴 앞두고 물가 점검·사업지 방문",
       "link": "https://www.yna.co.kr/view/AKR20260213179500004",
       "pubDate": "Fri, 13 Feb 2026 18:13:29 +0900"
-    },
-    {
-      "title": "올해 아프리카돼지열병 14건…설 앞두고 방역 총력 대응(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260213008152030",
-      "pubDate": "Fri, 13 Feb 2026 18:00:17 +0900"
     }
   ]
 }
