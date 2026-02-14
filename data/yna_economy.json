@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771067623,
+  "updated_at_unix": 1771069313,
   "items": [
+    {
+      "title": "李대통령 \"집 팔라고 강요 안 해…투기 부당특혜 회수하려는 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260214024551001",
+      "pubDate": "Sat, 14 Feb 2026 20:15:15 +0900"
+    },
     {
       "title": "[동정] 오세훈, 설연휴 첫날 영등포전통시장 방문",
       "link": "https://www.yna.co.kr/view/AKR20260214041600004",
@@ -147,11 +152,6 @@
       "title": "루센트블록, 금융당국 조각투자 장외거래소 탈락 결정에 반박",
       "link": "https://www.yna.co.kr/view/AKR20260213179700017",
       "pubDate": "Fri, 13 Feb 2026 18:29:31 +0900"
-    },
-    {
-      "title": "[동정] 오세훈, 설 연휴 앞두고 물가 점검·사업지 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260213179500004",
-      "pubDate": "Fri, 13 Feb 2026 18:13:29 +0900"
     }
   ]
 }
