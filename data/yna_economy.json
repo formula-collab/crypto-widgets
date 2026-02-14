@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771098132,
+  "updated_at_unix": 1771100032,
   "items": [
+    {
+      "title": "보조배터리 소비자 피해구제 신청, 5년 새 4배 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260213171200001",
+      "pubDate": "Sun, 15 Feb 2026 05:00:00 +0900"
+    },
     {
       "title": "李대통령 \"집 팔라고 강요 안 해…투기 부당특혜 회수하려는 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260214024551001",
@@ -147,11 +152,6 @@
       "title": "손경식 경총 회장 5연임…회장단 회의서 재추대하기로",
       "link": "https://www.yna.co.kr/view/AKR20260213182500003",
       "pubDate": "Fri, 13 Feb 2026 18:59:48 +0900"
-    },
-    {
-      "title": "루센트블록, 금융당국 조각투자 장외거래소 탈락 결정에 반박",
-      "link": "https://www.yna.co.kr/view/AKR20260213179700017",
-      "pubDate": "Fri, 13 Feb 2026 18:29:31 +0900"
     }
   ]
 }
