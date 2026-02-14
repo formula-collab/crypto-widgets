@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771031091,
+  "updated_at_unix": 1771040318,
   "items": [
+    {
+      "title": "구미시, 상반기 소상공인에게 960억 특례 보증…이자도 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260214027500053",
+      "pubDate": "Sat, 14 Feb 2026 11:57:56 +0900"
+    },
+    {
+      "title": "李대통령 \"집 팔라고 강요 안 해…투기 부당특혜 회수하려는 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214024500001",
+      "pubDate": "Sat, 14 Feb 2026 10:42:18 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260214023900011",
+      "pubDate": "Sat, 14 Feb 2026 10:30:00 +0900"
+    },
     {
       "title": "부산 아파트값 15주째 상승…해운대·수영·동래구 '강세'",
       "link": "https://www.yna.co.kr/view/AKR20260213113900051",
@@ -137,21 +152,6 @@
       "title": "미래에셋, 국내 4위 암호화폐 거래소 코빗 지분 92% 취득결정",
       "link": "https://www.yna.co.kr/view/AKR20260213174300008",
       "pubDate": "Fri, 13 Feb 2026 17:46:55 +0900"
-    },
-    {
-      "title": "靑 \"李대통령, 부동산카드 준비는 하되 당장은 안 쓴다 해\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213066351001",
-      "pubDate": "Fri, 13 Feb 2026 17:29:01 +0900"
-    },
-    {
-      "title": "금융위 \"다주택자 대출연장 실태 파악\"…합동TF 구성(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260213084352002",
-      "pubDate": "Fri, 13 Feb 2026 17:23:24 +0900"
-    },
-    {
-      "title": "경기노동청, 고의·상습 임금체불 사업주 3명 체포해 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260213166400061",
-      "pubDate": "Fri, 13 Feb 2026 17:07:15 +0900"
     }
   ]
 }
