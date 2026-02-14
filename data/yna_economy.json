@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771107124,
+  "updated_at_unix": 1771109214,
   "items": [
+    {
+      "title": "인천시, 올 하반기부터 백령공항 배후부지 개발 밑그림 그린다",
+      "link": "https://www.yna.co.kr/view/AKR20260212060600065",
+      "pubDate": "Sun, 15 Feb 2026 07:27:01 +0900"
+    },
+    {
+      "title": "[마켓人] '베스트 애널' 황병진 \"金 상승 안 끝났다…전망치 6천달러\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213133000008",
+      "pubDate": "Sun, 15 Feb 2026 07:20:01 +0900"
+    },
+    {
+      "title": "상반기 금리인하 기대 축소에 올 들어 美채권 보관액 1조원 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260213156300008",
+      "pubDate": "Sun, 15 Feb 2026 07:15:00 +0900"
+    },
+    {
+      "title": "꺼지지않는 크레딧시장 경계심리…\"금리 안정화가 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213110300008",
+      "pubDate": "Sun, 15 Feb 2026 07:05:01 +0900"
+    },
     {
       "title": "\"금·은 가고 비철금속 뜬다\"…원자재 슈퍼사이클 시작되나",
       "link": "https://www.yna.co.kr/view/AKR20260212154900008",
@@ -132,26 +152,6 @@
       "title": "[바이오사이언스] 한 번 새기면 평생?…'맞춤형 지속성' 문신 기술 개발",
       "link": "https://www.yna.co.kr/view/AKR20260213126100017",
       "pubDate": "Sat, 14 Feb 2026 08:00:08 +0900"
-    },
-    {
-      "title": "명절 전후에도 보이스피싱 '기승'…최근 6년간 피해 4만건 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260213153600001",
-      "pubDate": "Sat, 14 Feb 2026 08:00:02 +0900"
-    },
-    {
-      "title": "식품기업들 이익 줄었는데 가격 못 올리고 눈치",
-      "link": "https://www.yna.co.kr/view/AKR20260213167200030",
-      "pubDate": "Sat, 14 Feb 2026 07:25:00 +0900"
-    },
-    {
-      "title": "증권사 설 연휴 24시간 데스크 운영…이벤트 '풍성'",
-      "link": "https://www.yna.co.kr/view/AKR20260213081200008",
-      "pubDate": "Sat, 14 Feb 2026 07:10:01 +0900"
-    },
-    {
-      "title": "[신상잇슈] 농심 '누들핏 쇼유완탕'·오뚜기 '퀵모닝 오믈렛'",
-      "link": "https://www.yna.co.kr/view/AKR20260213061700030",
-      "pubDate": "Sat, 14 Feb 2026 07:00:06 +0900"
     }
   ]
 }
