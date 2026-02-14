@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771110817,
+  "updated_at_unix": 1771112626,
   "items": [
+    {
+      "title": "춘제 중국인 관광객 몰려온다…카지노업계 '만실' 잇따라",
+      "link": "https://www.yna.co.kr/view/AKR20260213193800030",
+      "pubDate": "Sun, 15 Feb 2026 08:35:00 +0900"
+    },
+    {
+      "title": "공문 위장 HTML 피싱 확산…기업메일 노린다",
+      "link": "https://www.yna.co.kr/view/AKR20260213163500017",
+      "pubDate": "Sun, 15 Feb 2026 08:13:00 +0900"
+    },
     {
       "title": "울주군 전통시장서 15·25일 '작은 축제'…퓨전국악 공연도",
       "link": "https://www.yna.co.kr/view/AKR20260213055300057",
@@ -142,16 +152,6 @@
       "title": "부산 아파트값 15주째 상승…해운대·수영·동래구 '강세'",
       "link": "https://www.yna.co.kr/view/AKR20260213113900051",
       "pubDate": "Sat, 14 Feb 2026 09:44:03 +0900"
-    },
-    {
-      "title": "해남군, 주거·일자리·문화 아우르는 청년정책 본격 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260212126100054",
-      "pubDate": "Sat, 14 Feb 2026 09:00:08 +0900"
-    },
-    {
-      "title": "[IPO챗] 올해 1호 코스피 상장 추진 케이뱅크, 일반 청약 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260213025700008",
-      "pubDate": "Sat, 14 Feb 2026 09:00:06 +0900"
     }
   ]
 }
