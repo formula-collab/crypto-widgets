@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771188442,
+  "updated_at_unix": 1771190065,
   "items": [
+    {
+      "title": "삼성전자, 신기록 행진 이어간다…분기 30조 영업익 가시권",
+      "link": "https://www.yna.co.kr/view/AKR20260213063800003",
+      "pubDate": "Mon, 16 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "'빚더미' 소상공인, 대출 상환 포기하고 보증기관 의존",
+      "link": "https://www.yna.co.kr/view/AKR20260213167600002",
+      "pubDate": "Mon, 16 Feb 2026 05:55:00 +0900"
+    },
+    {
+      "title": "문과 전문직부터 AI발 고용충격?…전문서비스업 두달째 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260214037200002",
+      "pubDate": "Mon, 16 Feb 2026 05:53:01 +0900"
+    },
+    {
+      "title": "유튜버 1인당 연 수입 7천만, 4년 만에 25%↑…상위 1%는 13억",
+      "link": "https://www.yna.co.kr/view/AKR20260215024600002",
+      "pubDate": "Mon, 16 Feb 2026 05:51:01 +0900"
+    },
     {
       "title": "5년간 '라벨 갈이' 상품 2천억 규모 적발…\"95%가 중국산\"",
       "link": "https://www.yna.co.kr/view/AKR20260213171500001",
@@ -132,26 +152,6 @@
       "title": "\"○○○에 투자했더니 82% 올랐네\"…이달 상승률 1위 종목은",
       "link": "https://www.yna.co.kr/view/AKR20260213152600008",
       "pubDate": "Sun, 15 Feb 2026 07:01:00 +0900"
-    },
-    {
-      "title": "올해 광주 아파트 분양 1만세대 또 풀린다…엇갈린 시장 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260212169000054",
-      "pubDate": "Sun, 15 Feb 2026 07:00:08 +0900"
-    },
-    {
-      "title": "\"건설업계 청년-중장년 조직문화 인식차 커…청년은 부정적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213188900003",
-      "pubDate": "Sun, 15 Feb 2026 07:00:05 +0900"
-    },
-    {
-      "title": "韓, 대미투자 검토 '속도'…범정부 이행위원회 실무단 구성 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260214031100003",
-      "pubDate": "Sun, 15 Feb 2026 06:05:00 +0900"
-    },
-    {
-      "title": "파주시, '일자리발굴단' 본격 운영…기업 구인난 해소 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260211140400060",
-      "pubDate": "Sun, 15 Feb 2026 06:01:03 +0900"
     }
   ]
 }
