@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771190065,
+  "updated_at_unix": 1771191848,
   "items": [
+    {
+      "title": "벤처도 '여풍'…여성 창업·고용 비중 모두 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260214030600030",
+      "pubDate": "Mon, 16 Feb 2026 06:31:01 +0900"
+    },
+    {
+      "title": "'미생'의 종합상사는 옛말…에너지·AI·바이오 기업으로 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260215013700003",
+      "pubDate": "Mon, 16 Feb 2026 06:15:01 +0900"
+    },
     {
       "title": "삼성전자, 신기록 행진 이어간다…분기 30조 영업익 가시권",
       "link": "https://www.yna.co.kr/view/AKR20260213063800003",
@@ -142,16 +152,6 @@
       "title": "\"금·은 가고 비철금속 뜬다\"…원자재 슈퍼사이클 시작되나",
       "link": "https://www.yna.co.kr/view/AKR20260212154900008",
       "pubDate": "Sun, 15 Feb 2026 07:03:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 美대법 상호관세 판결 나올까…변동성 주의보",
-      "link": "https://www.yna.co.kr/view/AKR20260214025500008",
-      "pubDate": "Sun, 15 Feb 2026 07:01:07 +0900"
-    },
-    {
-      "title": "\"○○○에 투자했더니 82% 올랐네\"…이달 상승률 1위 종목은",
-      "link": "https://www.yna.co.kr/view/AKR20260213152600008",
-      "pubDate": "Sun, 15 Feb 2026 07:01:00 +0900"
     }
   ]
 }
