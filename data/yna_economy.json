@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771112626,
+  "updated_at_unix": 1771117821,
   "items": [
+    {
+      "title": "새마을금고·신협 1월 가계대출 1조 확대…모집인 영업 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260214001200002",
+      "pubDate": "Sun, 15 Feb 2026 10:01:00 +0900"
+    },
+    {
+      "title": "토허구역 확대 여파…서울 아파트 원정매입 3년2개월 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260215011800003",
+      "pubDate": "Sun, 15 Feb 2026 09:15:20 +0900"
+    },
+    {
+      "title": "섬 발전소 용역 근로자들, 한전 '직접고용 소송' 항소심도 승소",
+      "link": "https://www.yna.co.kr/view/AKR20260212138900054",
+      "pubDate": "Sun, 15 Feb 2026 09:00:06 +0900"
+    },
+    {
+      "title": "대법 \"국내 미등록 특허도 제조 등에 실질적 사용시 과세 대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214030500004",
+      "pubDate": "Sun, 15 Feb 2026 09:00:02 +0900"
+    },
     {
       "title": "춘제 중국인 관광객 몰려온다…카지노업계 '만실' 잇따라",
       "link": "https://www.yna.co.kr/view/AKR20260213193800030",
@@ -132,26 +152,6 @@
       "title": "경남 창녕 양돈농장서 아프리카돼지열병 발생…15건으로 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260214035800030",
       "pubDate": "Sat, 14 Feb 2026 16:32:07 +0900"
-    },
-    {
-      "title": "구미시, 상반기 소상공인에게 960억 특례 보증…이자도 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260214027500053",
-      "pubDate": "Sat, 14 Feb 2026 11:57:56 +0900"
-    },
-    {
-      "title": "李대통령 \"집 팔라고 강요 안 해…투기 부당특혜 회수하려는 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214024500001",
-      "pubDate": "Sat, 14 Feb 2026 10:42:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260214023900011",
-      "pubDate": "Sat, 14 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "부산 아파트값 15주째 상승…해운대·수영·동래구 '강세'",
-      "link": "https://www.yna.co.kr/view/AKR20260213113900051",
-      "pubDate": "Sat, 14 Feb 2026 09:44:03 +0900"
     }
   ]
 }
