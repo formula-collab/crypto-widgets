@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771193557,
+  "updated_at_unix": 1771195665,
   "items": [
+    {
+      "title": "인천 옹진군, 이전 20년만에 옛 청사 매각 추진…내달 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260212127500065",
+      "pubDate": "Mon, 16 Feb 2026 07:27:01 +0900"
+    },
+    {
+      "title": "연초 고액자산가 포트폴리오 보니…삼성전자·알파벳 대거 쇼핑",
+      "link": "https://www.yna.co.kr/view/AKR20260213163000008",
+      "pubDate": "Mon, 16 Feb 2026 07:15:00 +0900"
+    },
     {
       "title": "\"작년 주요 석화 영업손실 1.5조…구조개편 성과는 시일 걸릴것\"",
       "link": "https://www.yna.co.kr/view/AKR20260213037500008",
@@ -142,16 +152,6 @@
       "title": "토허구역 확대 여파…서울 아파트 원정매입 3년2개월 만에 최저",
       "link": "https://www.yna.co.kr/view/AKR20260215011800003",
       "pubDate": "Sun, 15 Feb 2026 09:15:20 +0900"
-    },
-    {
-      "title": "섬 발전소 용역 근로자들, 한전 '직접고용 소송' 항소심도 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260212138900054",
-      "pubDate": "Sun, 15 Feb 2026 09:00:06 +0900"
-    },
-    {
-      "title": "대법 \"국내 미등록 특허도 제조 등에 실질적 사용시 과세 대상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214030500004",
-      "pubDate": "Sun, 15 Feb 2026 09:00:02 +0900"
     }
   ]
 }
