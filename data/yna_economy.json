@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771132680,
+  "updated_at_unix": 1771135851,
   "items": [
+    {
+      "title": "\"반려동물은 가족\"…펫보험 작년 신규계약 40% 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260214039200002",
+      "pubDate": "Sun, 15 Feb 2026 15:01:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260215022700011",
+      "pubDate": "Sun, 15 Feb 2026 15:00:01 +0900"
+    },
     {
       "title": "대출 못 갚는 중소기업 속출…기보 대위변제 사상 최대",
       "link": "https://www.yna.co.kr/view/AKR20260213160000002",
@@ -142,16 +152,6 @@
       "title": "설 앞두고 과일·고기·생선·쌀값 올라…정부 할인 지원",
       "link": "https://www.yna.co.kr/view/AKR20260213198400030",
       "pubDate": "Sun, 15 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "사업소득 '초양극화'…상하위 20% 격차 처음 100배 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260214039400002",
-      "pubDate": "Sun, 15 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "'명절 상여금' 휴직자·계약직도 줘야할까…취업규칙 등 따라야",
-      "link": "https://www.yna.co.kr/view/AKR20260213108700530",
-      "pubDate": "Sun, 15 Feb 2026 06:00:00 +0900"
     }
   ]
 }
