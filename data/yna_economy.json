@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771184626,
+  "updated_at_unix": 1771186433,
   "items": [
+    {
+      "title": "5년간 '라벨 갈이' 상품 2천억 규모 적발…\"95%가 중국산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213171500001",
+      "pubDate": "Mon, 16 Feb 2026 05:00:01 +0900"
+    },
     {
       "title": "\"반려동물은 가족\"…펫보험 작년 신규계약 40% 급증",
       "link": "https://www.yna.co.kr/view/AKR20260214039200002",
@@ -147,11 +152,6 @@
       "title": "파주시, '일자리발굴단' 본격 운영…기업 구인난 해소 나서",
       "link": "https://www.yna.co.kr/view/AKR20260211140400060",
       "pubDate": "Sun, 15 Feb 2026 06:01:03 +0900"
-    },
-    {
-      "title": "설 앞두고 과일·고기·생선·쌀값 올라…정부 할인 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260213198400030",
-      "pubDate": "Sun, 15 Feb 2026 06:01:01 +0900"
     }
   ]
 }
