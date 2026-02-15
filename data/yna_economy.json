@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771117821,
+  "updated_at_unix": 1771127916,
   "items": [
+    {
+      "title": "[동포의 창] \"재외동포 체류자격 F-4로 통합…동포 정착의 전환점될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260215000700371",
+      "pubDate": "Sun, 15 Feb 2026 12:25:49 +0900"
+    },
+    {
+      "title": "설 앞두고 과일·고기·생선·쌀값 올라…정부 할인 지원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260213198451030",
+      "pubDate": "Sun, 15 Feb 2026 11:59:34 +0900"
+    },
+    {
+      "title": "[부고] 김동하(롯데면세점 대표이사)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260215016800505",
+      "pubDate": "Sun, 15 Feb 2026 11:14:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260215014300011",
+      "pubDate": "Sun, 15 Feb 2026 10:30:01 +0900"
+    },
+    {
+      "title": "AI로 외주 줄인다…게임사들 비용 절감 선언",
+      "link": "https://www.yna.co.kr/view/AKR20260213181000017",
+      "pubDate": "Sun, 15 Feb 2026 10:18:00 +0900"
+    },
     {
       "title": "새마을금고·신협 1월 가계대출 1조 확대…모집인 영업 중단",
       "link": "https://www.yna.co.kr/view/AKR20260214001200002",
@@ -127,31 +152,6 @@
       "title": "보조배터리 소비자 피해구제 신청, 5년 새 4배 증가",
       "link": "https://www.yna.co.kr/view/AKR20260213171200001",
       "pubDate": "Sun, 15 Feb 2026 05:00:00 +0900"
-    },
-    {
-      "title": "李대통령 \"집 팔라고 강요 안 해…투기 부당특혜 회수하려는 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260214024551001",
-      "pubDate": "Sat, 14 Feb 2026 20:15:15 +0900"
-    },
-    {
-      "title": "[동정] 오세훈, 설연휴 첫날 영등포전통시장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260214041600004",
-      "pubDate": "Sat, 14 Feb 2026 18:27:35 +0900"
-    },
-    {
-      "title": "강훈식 \"'부동산 불패' 끝낸다는 기조…이재명은 합니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214036700001",
-      "pubDate": "Sat, 14 Feb 2026 17:28:16 +0900"
-    },
-    {
-      "title": "국힘 \"李대통령 '집팔라 강요안해'는 말장난\"…與 \"제발 저린격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214036400001",
-      "pubDate": "Sat, 14 Feb 2026 16:55:21 +0900"
-    },
-    {
-      "title": "경남 창녕 양돈농장서 아프리카돼지열병 발생…15건으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260214035800030",
-      "pubDate": "Sat, 14 Feb 2026 16:32:07 +0900"
     }
   ]
 }
