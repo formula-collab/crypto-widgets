@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771191848,
+  "updated_at_unix": 1771193557,
   "items": [
+    {
+      "title": "\"작년 주요 석화 영업손실 1.5조…구조개편 성과는 시일 걸릴것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213037500008",
+      "pubDate": "Mon, 16 Feb 2026 07:05:01 +0900"
+    },
+    {
+      "title": "\"반도체 꺾여야 살아난다\"는 말까지…당국 의지에 채권 안정될까",
+      "link": "https://www.yna.co.kr/view/AKR20260213096400008",
+      "pubDate": "Mon, 16 Feb 2026 07:05:00 +0900"
+    },
+    {
+      "title": "모건스탠리 \"2월 금통위 금리동결 예상…성장률 전망치 올릴듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213130500008",
+      "pubDate": "Mon, 16 Feb 2026 07:03:01 +0900"
+    },
+    {
+      "title": "'불장' 속 더 크게 웃은 금융주…고배당 매력에 투심 쏠려",
+      "link": "https://www.yna.co.kr/view/AKR20260213157100008",
+      "pubDate": "Mon, 16 Feb 2026 07:01:02 +0900"
+    },
+    {
+      "title": "농식품부 외국인근로자 기간연장 추진에 법무부는 \"현행유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213171300030",
+      "pubDate": "Mon, 16 Feb 2026 07:01:01 +0900"
+    },
+    {
+      "title": "최근 5년 외국인 여행자 세관위반 최다국은 中…\"면세초과 최다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213040300001",
+      "pubDate": "Mon, 16 Feb 2026 07:00:06 +0900"
+    },
+    {
+      "title": "\"돈 쓸 일 많은 설인데 빈 주머니\" 임금체불 근로자들 눈물",
+      "link": "https://www.yna.co.kr/view/AKR20260212143400064",
+      "pubDate": "Mon, 16 Feb 2026 07:00:05 +0900"
+    },
+    {
+      "title": "AI 시대 오피스 공실 위기?…\"산업 재편으로 새 수요 등장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260215027200003",
+      "pubDate": "Mon, 16 Feb 2026 07:00:01 +0900"
+    },
+    {
+      "title": "한국은행, 지방 인재 20% 채용 목표 2년 연속 채워",
+      "link": "https://www.yna.co.kr/view/AKR20260214032000002",
+      "pubDate": "Mon, 16 Feb 2026 06:55:00 +0900"
+    },
+    {
+      "title": "관세 체납액 2년 연속 2조원대…10억 이상 고액 체납이 90%",
+      "link": "https://www.yna.co.kr/view/AKR20260215018600002",
+      "pubDate": "Mon, 16 Feb 2026 06:53:00 +0900"
+    },
+    {
+      "title": "이번 겨울 보험사 긴급출동 321만건…한파에 견인 등 2% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260213190400002",
+      "pubDate": "Mon, 16 Feb 2026 06:51:00 +0900"
+    },
     {
       "title": "벤처도 '여풍'…여성 창업·고용 비중 모두 늘었다",
       "link": "https://www.yna.co.kr/view/AKR20260214030600030",
@@ -97,61 +152,6 @@
       "title": "대법 \"국내 미등록 특허도 제조 등에 실질적 사용시 과세 대상\"",
       "link": "https://www.yna.co.kr/view/AKR20260214030500004",
       "pubDate": "Sun, 15 Feb 2026 09:00:02 +0900"
-    },
-    {
-      "title": "춘제 중국인 관광객 몰려온다…카지노업계 '만실' 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20260213193800030",
-      "pubDate": "Sun, 15 Feb 2026 08:35:00 +0900"
-    },
-    {
-      "title": "공문 위장 HTML 피싱 확산…기업메일 노린다",
-      "link": "https://www.yna.co.kr/view/AKR20260213163500017",
-      "pubDate": "Sun, 15 Feb 2026 08:13:00 +0900"
-    },
-    {
-      "title": "울주군 전통시장서 15·25일 '작은 축제'…퓨전국악 공연도",
-      "link": "https://www.yna.co.kr/view/AKR20260213055300057",
-      "pubDate": "Sun, 15 Feb 2026 08:10:01 +0900"
-    },
-    {
-      "title": "\"쿠팡 분쟁조정 신청 온라인플랫폼 중 최다…약 5년새 458건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214021500002",
-      "pubDate": "Sun, 15 Feb 2026 08:01:06 +0900"
-    },
-    {
-      "title": "\"본사 컵의 반값\"…메가커피 일부 가맹점주들, 컵 직접 조달한다",
-      "link": "https://www.yna.co.kr/view/AKR20260213195200030",
-      "pubDate": "Sun, 15 Feb 2026 08:01:00 +0900"
-    },
-    {
-      "title": "전주시, 소규모점포 청년창업에 최대 1천500만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260213074000055",
-      "pubDate": "Sun, 15 Feb 2026 08:00:11 +0900"
-    },
-    {
-      "title": "인천시, 올 하반기부터 백령공항 배후부지 개발 밑그림 그린다",
-      "link": "https://www.yna.co.kr/view/AKR20260212060600065",
-      "pubDate": "Sun, 15 Feb 2026 07:27:01 +0900"
-    },
-    {
-      "title": "[마켓人] '베스트 애널' 황병진 \"金 상승 안 끝났다…전망치 6천달러\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213133000008",
-      "pubDate": "Sun, 15 Feb 2026 07:20:01 +0900"
-    },
-    {
-      "title": "상반기 금리인하 기대 축소에 올 들어 美채권 보관액 1조원 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260213156300008",
-      "pubDate": "Sun, 15 Feb 2026 07:15:00 +0900"
-    },
-    {
-      "title": "꺼지지않는 크레딧시장 경계심리…\"금리 안정화가 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213110300008",
-      "pubDate": "Sun, 15 Feb 2026 07:05:01 +0900"
-    },
-    {
-      "title": "\"금·은 가고 비철금속 뜬다\"…원자재 슈퍼사이클 시작되나",
-      "link": "https://www.yna.co.kr/view/AKR20260212154900008",
-      "pubDate": "Sun, 15 Feb 2026 07:03:01 +0900"
     }
   ]
 }
