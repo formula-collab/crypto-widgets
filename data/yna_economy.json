@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771195665,
+  "updated_at_unix": 1771197319,
   "items": [
+    {
+      "title": "[강원 고성소식] 여성 구직활동 지원사업 참여자 모집…월 50만원",
+      "link": "https://www.yna.co.kr/view/AKR20260213045700062",
+      "pubDate": "Mon, 16 Feb 2026 08:00:09 +0900"
+    },
     {
       "title": "인천 옹진군, 이전 20년만에 옛 청사 매각 추진…내달 공고",
       "link": "https://www.yna.co.kr/view/AKR20260212127500065",
@@ -147,11 +152,6 @@
       "title": "새마을금고·신협 1월 가계대출 1조 확대…모집인 영업 중단",
       "link": "https://www.yna.co.kr/view/AKR20260214001200002",
       "pubDate": "Sun, 15 Feb 2026 10:01:00 +0900"
-    },
-    {
-      "title": "토허구역 확대 여파…서울 아파트 원정매입 3년2개월 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260215011800003",
-      "pubDate": "Sun, 15 Feb 2026 09:15:20 +0900"
     }
   ]
 }
