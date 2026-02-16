@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771234828,
+  "updated_at_unix": 1771238296,
   "items": [
+    {
+      "title": "'총선 대승' 日다카이치 만난 일본은행 총재 \"특별한 요구 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260216035600073",
+      "pubDate": "Mon, 16 Feb 2026 18:40:43 +0900"
+    },
     {
       "title": "'미생'의 종합상사는 옛말…에너지·AI·바이오 기업으로 전환",
       "link": "https://www.yna.co.kr/view/AKR20260215013751003",
@@ -147,11 +152,6 @@
       "title": "삼성전자, 신기록 행진 이어간다…분기 30조 영업익 가시권",
       "link": "https://www.yna.co.kr/view/AKR20260213063800003",
       "pubDate": "Mon, 16 Feb 2026 06:00:03 +0900"
-    },
-    {
-      "title": "'빚더미' 소상공인, 대출 상환 포기하고 보증기관 의존",
-      "link": "https://www.yna.co.kr/view/AKR20260213167600002",
-      "pubDate": "Mon, 16 Feb 2026 05:55:00 +0900"
     }
   ]
 }
