@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771282385,
+  "updated_at_unix": 1771283907,
   "items": [
+    {
+      "title": "與대화기구, '주 46시간' 야간배송 논의…쿠팡 등 반대에 난항",
+      "link": "https://www.yna.co.kr/view/AKR20260213192100001",
+      "pubDate": "Tue, 17 Feb 2026 08:00:13 +0900"
+    },
+    {
+      "title": "\"부산시 신중년 정책, 돌봄 대상서 인적 자산으로 바꿔야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260210115100051",
+      "pubDate": "Tue, 17 Feb 2026 08:00:11 +0900"
+    },
+    {
+      "title": "광주시, 군복무 청년 상해보험 보장 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260213146900054",
+      "pubDate": "Tue, 17 Feb 2026 08:00:07 +0900"
+    },
+    {
+      "title": "작년 국내 경차 판매 역대 최소…고물가에 올해부터 반등 조짐",
+      "link": "https://www.yna.co.kr/view/AKR20260216033000003",
+      "pubDate": "Tue, 17 Feb 2026 08:00:01 +0900"
+    },
     {
       "title": "'서해남북평화도로' 1단계 영종도∼신도 올해 5월말 개통",
       "link": "https://www.yna.co.kr/view/AKR20260210070700065",
@@ -132,26 +152,6 @@
       "title": "양구군 일자리 지원센터, 맞춤형 취업 서비스 제공",
       "link": "https://www.yna.co.kr/view/AKR20260213113800062",
       "pubDate": "Mon, 16 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "춘천시, 지역업체·신기술 제품 우선 계약 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260213166800062",
-      "pubDate": "Mon, 16 Feb 2026 11:10:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260216017600011",
-      "pubDate": "Mon, 16 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "시민홀·북카페 갖춘 복합문화공간 여주시 신청사 내달말 첫삽",
-      "link": "https://www.yna.co.kr/view/AKR20260211053900061",
-      "pubDate": "Mon, 16 Feb 2026 10:00:50 +0900"
-    },
-    {
-      "title": "부산진해경제자유구역청, 중대재해예방 지원 사업 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260212163000051",
-      "pubDate": "Mon, 16 Feb 2026 10:00:04 +0900"
     }
   ]
 }
