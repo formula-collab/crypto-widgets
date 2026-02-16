@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771283907,
+  "updated_at_unix": 1771285786,
   "items": [
+    {
+      "title": "전주시, 5개 지구 지적 재조사사업…\"경계 분쟁 해소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260217009600055",
+      "pubDate": "Tue, 17 Feb 2026 08:45:55 +0900"
+    },
+    {
+      "title": "옛 대구 동부소방서 건물 'AI 산업 거점'으로 재탄생된다",
+      "link": "https://www.yna.co.kr/view/AKR20260213142200053",
+      "pubDate": "Tue, 17 Feb 2026 08:30:01 +0900"
+    },
     {
       "title": "與대화기구, '주 46시간' 야간배송 논의…쿠팡 등 반대에 난항",
       "link": "https://www.yna.co.kr/view/AKR20260213192100001",
@@ -142,16 +152,6 @@
       "title": "'미생'의 종합상사는 옛말…에너지·AI·바이오 기업으로 전환",
       "link": "https://www.yna.co.kr/view/AKR20260215013751003",
       "pubDate": "Mon, 16 Feb 2026 17:01:26 +0900"
-    },
-    {
-      "title": "AI 인재 순유출 심화…한국 매력도 30위권 정체",
-      "link": "https://www.yna.co.kr/view/AKR20260213046000017",
-      "pubDate": "Mon, 16 Feb 2026 13:33:01 +0900"
-    },
-    {
-      "title": "양구군 일자리 지원센터, 맞춤형 취업 서비스 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260213113800062",
-      "pubDate": "Mon, 16 Feb 2026 12:00:03 +0900"
     }
   ]
 }
