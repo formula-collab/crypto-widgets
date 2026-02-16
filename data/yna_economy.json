@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771204082,
+  "updated_at_unix": 1771214368,
   "items": [
+    {
+      "title": "양구군 일자리 지원센터, 맞춤형 취업 서비스 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260213113800062",
+      "pubDate": "Mon, 16 Feb 2026 12:00:03 +0900"
+    },
+    {
+      "title": "춘천시, 지역업체·신기술 제품 우선 계약 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260213166800062",
+      "pubDate": "Mon, 16 Feb 2026 11:10:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260216017600011",
+      "pubDate": "Mon, 16 Feb 2026 10:30:00 +0900"
+    },
     {
       "title": "시민홀·북카페 갖춘 복합문화공간 여주시 신청사 내달말 첫삽",
       "link": "https://www.yna.co.kr/view/AKR20260211053900061",
@@ -137,21 +152,6 @@
       "title": "유튜버 1인당 연 수입 7천만, 4년 만에 25%↑…상위 1%는 13억",
       "link": "https://www.yna.co.kr/view/AKR20260215024600002",
       "pubDate": "Mon, 16 Feb 2026 05:51:01 +0900"
-    },
-    {
-      "title": "5년간 '라벨 갈이' 상품 2천억 규모 적발…\"95%가 중국산\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213171500001",
-      "pubDate": "Mon, 16 Feb 2026 05:00:01 +0900"
-    },
-    {
-      "title": "\"반려동물은 가족\"…펫보험 작년 신규계약 40% 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260214039200002",
-      "pubDate": "Sun, 15 Feb 2026 15:01:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260215022700011",
-      "pubDate": "Sun, 15 Feb 2026 15:00:01 +0900"
     }
   ]
 }
