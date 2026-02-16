@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771275133,
+  "updated_at_unix": 1771276700,
   "items": [
+    {
+      "title": "LG전자, 美 컨슈머리포트 '최고의 건조기' 상위권 휩쓸어",
+      "link": "https://www.yna.co.kr/view/AKR20260213034800003",
+      "pubDate": "Tue, 17 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "\"TV 깨지고 냉장고 음식 썩어\"…이사업체 피해 해마다 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260213088000030",
+      "pubDate": "Tue, 17 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "'수출 주력'으로 떠오른 K-소비재…푸드·화장품 '100억불 고지'",
+      "link": "https://www.yna.co.kr/view/AKR20260215013900003",
+      "pubDate": "Tue, 17 Feb 2026 06:05:00 +0900"
+    },
+    {
+      "title": "최대 이익에도 사라지는 은행 지점…5대銀 작년 94개 폐쇄",
+      "link": "https://www.yna.co.kr/view/AKR20260216036000002",
+      "pubDate": "Tue, 17 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "지난해 車부품 수입 물가, 고환율에 1년새 7% 가까이 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260213179400003",
+      "pubDate": "Tue, 17 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "현대엔지니어링, 하도급대금 104억원 미루다 공정위 나서자 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260213197500002",
+      "pubDate": "Tue, 17 Feb 2026 05:59:01 +0900"
+    },
+    {
+      "title": "즉석 사진관 4년 만에 매출 2.4배됐지만…폐업은 3.5배로 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260215018700002",
+      "pubDate": "Tue, 17 Feb 2026 05:57:01 +0900"
+    },
+    {
+      "title": "한국 작년 4분기 성장률 24개국 중 22위…올해도 불확실성 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260215034900002",
+      "pubDate": "Tue, 17 Feb 2026 05:55:00 +0900"
+    },
+    {
+      "title": "부모 불안이 키운 29조 시장…'경쟁 압박'에 사교육비 쏟아",
+      "link": "https://www.yna.co.kr/view/AKR20260215024300002",
+      "pubDate": "Tue, 17 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "'다주택 양도중과' 후속책은…'실거주 중심' 핀셋 카드 시선",
+      "link": "https://www.yna.co.kr/view/AKR20260215027600002",
+      "pubDate": "Tue, 17 Feb 2026 05:51:01 +0900"
+    },
     {
       "title": "'총선 대승' 日다카이치 만난 일본은행 총재 \"특별한 요구 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260216035600073",
@@ -102,56 +152,6 @@
       "title": "'불장' 속 더 크게 웃은 금융주…고배당 매력에 투심 쏠려",
       "link": "https://www.yna.co.kr/view/AKR20260213157100008",
       "pubDate": "Mon, 16 Feb 2026 07:01:02 +0900"
-    },
-    {
-      "title": "농식품부 외국인근로자 기간연장 추진에 법무부는 \"현행유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213171300030",
-      "pubDate": "Mon, 16 Feb 2026 07:01:01 +0900"
-    },
-    {
-      "title": "최근 5년 외국인 여행자 세관위반 최다국은 中…\"면세초과 최다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213040300001",
-      "pubDate": "Mon, 16 Feb 2026 07:00:06 +0900"
-    },
-    {
-      "title": "\"돈 쓸 일 많은 설인데 빈 주머니\" 임금체불 근로자들 눈물",
-      "link": "https://www.yna.co.kr/view/AKR20260212143400064",
-      "pubDate": "Mon, 16 Feb 2026 07:00:05 +0900"
-    },
-    {
-      "title": "AI 시대 오피스 공실 위기?…\"산업 재편으로 새 수요 등장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260215027200003",
-      "pubDate": "Mon, 16 Feb 2026 07:00:01 +0900"
-    },
-    {
-      "title": "한국은행, 지방 인재 20% 채용 목표 2년 연속 채워",
-      "link": "https://www.yna.co.kr/view/AKR20260214032000002",
-      "pubDate": "Mon, 16 Feb 2026 06:55:00 +0900"
-    },
-    {
-      "title": "관세 체납액 2년 연속 2조원대…10억 이상 고액 체납이 90%",
-      "link": "https://www.yna.co.kr/view/AKR20260215018600002",
-      "pubDate": "Mon, 16 Feb 2026 06:53:00 +0900"
-    },
-    {
-      "title": "이번 겨울 보험사 긴급출동 321만건…한파에 견인 등 2% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260213190400002",
-      "pubDate": "Mon, 16 Feb 2026 06:51:00 +0900"
-    },
-    {
-      "title": "벤처도 '여풍'…여성 창업·고용 비중 모두 늘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260214030600030",
-      "pubDate": "Mon, 16 Feb 2026 06:31:01 +0900"
-    },
-    {
-      "title": "'미생'의 종합상사는 옛말…에너지·AI·바이오 기업으로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260215013700003",
-      "pubDate": "Mon, 16 Feb 2026 06:15:01 +0900"
-    },
-    {
-      "title": "삼성전자, 신기록 행진 이어간다…분기 30조 영업익 가시권",
-      "link": "https://www.yna.co.kr/view/AKR20260213063800003",
-      "pubDate": "Mon, 16 Feb 2026 06:00:03 +0900"
     }
   ]
 }
