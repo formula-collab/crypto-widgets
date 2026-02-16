@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771280179,
+  "updated_at_unix": 1771282385,
   "items": [
+    {
+      "title": "'서해남북평화도로' 1단계 영종도∼신도 올해 5월말 개통",
+      "link": "https://www.yna.co.kr/view/AKR20260210070700065",
+      "pubDate": "Tue, 17 Feb 2026 07:17:00 +0900"
+    },
+    {
+      "title": "'불장'에 올해 상장사 66% 목표가 올라…최대 상향 종목은",
+      "link": "https://www.yna.co.kr/view/AKR20260213126400008",
+      "pubDate": "Tue, 17 Feb 2026 07:15:01 +0900"
+    },
     {
       "title": "AI에 올인한 벤처시장…자금은 왜 미국으로 몰렸나",
       "link": "https://www.yna.co.kr/view/AKR20260215035600017",
@@ -142,16 +152,6 @@
       "title": "부산진해경제자유구역청, 중대재해예방 지원 사업 추진",
       "link": "https://www.yna.co.kr/view/AKR20260212163000051",
       "pubDate": "Mon, 16 Feb 2026 10:00:04 +0900"
-    },
-    {
-      "title": "차선 침범 차량 '쿵'…보험금 6억 편취 40대 항소심도 실형",
-      "link": "https://www.yna.co.kr/view/AKR20260213114200061",
-      "pubDate": "Mon, 16 Feb 2026 10:00:02 +0900"
-    },
-    {
-      "title": "5천원 이하 화장품 '인기'…뷰티업계 \"초저가제품 출시 더 늘듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213073500030",
-      "pubDate": "Mon, 16 Feb 2026 09:11:01 +0900"
     }
   ]
 }
