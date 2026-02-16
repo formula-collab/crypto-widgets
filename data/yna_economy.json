@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771214368,
+  "updated_at_unix": 1771219587,
   "items": [
+    {
+      "title": "AI 인재 순유출 심화…한국 매력도 30위권 정체",
+      "link": "https://www.yna.co.kr/view/AKR20260213046000017",
+      "pubDate": "Mon, 16 Feb 2026 13:33:01 +0900"
+    },
     {
       "title": "양구군 일자리 지원센터, 맞춤형 취업 서비스 제공",
       "link": "https://www.yna.co.kr/view/AKR20260213113800062",
@@ -147,11 +152,6 @@
       "title": "문과 전문직부터 AI발 고용충격?…전문서비스업 두달째 급감",
       "link": "https://www.yna.co.kr/view/AKR20260214037200002",
       "pubDate": "Mon, 16 Feb 2026 05:53:01 +0900"
-    },
-    {
-      "title": "유튜버 1인당 연 수입 7천만, 4년 만에 25%↑…상위 1%는 13억",
-      "link": "https://www.yna.co.kr/view/AKR20260215024600002",
-      "pubDate": "Mon, 16 Feb 2026 05:51:01 +0900"
     }
   ]
 }
