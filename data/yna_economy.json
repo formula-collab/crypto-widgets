@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771199197,
+  "updated_at_unix": 1771204082,
   "items": [
+    {
+      "title": "시민홀·북카페 갖춘 복합문화공간 여주시 신청사 내달말 첫삽",
+      "link": "https://www.yna.co.kr/view/AKR20260211053900061",
+      "pubDate": "Mon, 16 Feb 2026 10:00:50 +0900"
+    },
+    {
+      "title": "부산진해경제자유구역청, 중대재해예방 지원 사업 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260212163000051",
+      "pubDate": "Mon, 16 Feb 2026 10:00:04 +0900"
+    },
+    {
+      "title": "차선 침범 차량 '쿵'…보험금 6억 편취 40대 항소심도 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260213114200061",
+      "pubDate": "Mon, 16 Feb 2026 10:00:02 +0900"
+    },
+    {
+      "title": "5천원 이하 화장품 '인기'…뷰티업계 \"초저가제품 출시 더 늘듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213073500030",
+      "pubDate": "Mon, 16 Feb 2026 09:11:01 +0900"
+    },
+    {
+      "title": "李대통령 \"살지도 않을 집 사모아 온갖 사회문제…부담 지워야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260216012600001",
+      "pubDate": "Mon, 16 Feb 2026 09:07:56 +0900"
+    },
+    {
+      "title": "부산 기장군, 청년 창업자 임차료 20만원씩 10개월 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260213053900051",
+      "pubDate": "Mon, 16 Feb 2026 09:00:05 +0900"
+    },
     {
       "title": "'재평가 보류' 또 변수 맞닥뜨린 마산해양신도시…공모는 어떻게",
       "link": "https://www.yna.co.kr/view/AKR20260209092200052",
@@ -122,36 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260215022700011",
       "pubDate": "Sun, 15 Feb 2026 15:00:01 +0900"
-    },
-    {
-      "title": "대출 못 갚는 중소기업 속출…기보 대위변제 사상 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260213160000002",
-      "pubDate": "Sun, 15 Feb 2026 13:01:00 +0900"
-    },
-    {
-      "title": "[동포의 창] \"재외동포 체류자격 F-4로 통합…동포 정착의 전환점될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260215000700371",
-      "pubDate": "Sun, 15 Feb 2026 12:25:49 +0900"
-    },
-    {
-      "title": "설 앞두고 과일·고기·생선·쌀값 올라…정부 할인 지원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260213198451030",
-      "pubDate": "Sun, 15 Feb 2026 11:59:34 +0900"
-    },
-    {
-      "title": "[부고] 김동하(롯데면세점 대표이사)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260215016800505",
-      "pubDate": "Sun, 15 Feb 2026 11:14:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260215014300011",
-      "pubDate": "Sun, 15 Feb 2026 10:30:01 +0900"
-    },
-    {
-      "title": "AI로 외주 줄인다…게임사들 비용 절감 선언",
-      "link": "https://www.yna.co.kr/view/AKR20260213181000017",
-      "pubDate": "Sun, 15 Feb 2026 10:18:00 +0900"
     }
   ]
 }
