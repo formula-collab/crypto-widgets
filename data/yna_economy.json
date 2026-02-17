@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771308851,
+  "updated_at_unix": 1771313415,
   "items": [
+    {
+      "title": "[부고] 김영란(CJ프레시웨이 전략지원담당)씨 시부상",
+      "link": "https://www.yna.co.kr/view/AKR20260217023900030",
+      "pubDate": "Tue, 17 Feb 2026 15:43:41 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260217020700011",
@@ -147,11 +152,6 @@
       "title": "현대엔지니어링, 하도급대금 104억원 미루다 공정위 나서자 지급",
       "link": "https://www.yna.co.kr/view/AKR20260213197500002",
       "pubDate": "Tue, 17 Feb 2026 05:59:01 +0900"
-    },
-    {
-      "title": "즉석 사진관 4년 만에 매출 2.4배됐지만…폐업은 3.5배로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260215018700002",
-      "pubDate": "Tue, 17 Feb 2026 05:57:01 +0900"
     }
   ]
 }
