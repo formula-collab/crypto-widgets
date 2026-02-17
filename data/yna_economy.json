@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771370302,
+  "updated_at_unix": 1771372191,
   "items": [
+    {
+      "title": "경북도, 신산업 육성·일자리 질 제고 등 경제정책 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260213041100053",
+      "pubDate": "Wed, 18 Feb 2026 08:31:01 +0900"
+    },
+    {
+      "title": "시중은행 전환 2주년 앞둔 iM뱅크, 지역은행서 전국구 도약",
+      "link": "https://www.yna.co.kr/view/AKR20260213170400053",
+      "pubDate": "Wed, 18 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행·롯데호텔앤리조트, 시니어 입주민 금융 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260214022300002",
+      "pubDate": "Wed, 18 Feb 2026 08:30:00 +0900"
+    },
     {
       "title": "폐원 앞둔 군포 소재 '남부기술교육원'…매입 협의 '지지부진'",
       "link": "https://www.yna.co.kr/view/AKR20260211146300061",
@@ -137,21 +152,6 @@
       "title": "'글로벌 TV 1위' 삼성전자, 작년 OLED TV 판매량 200만대 달성",
       "link": "https://www.yna.co.kr/view/AKR20260213091900003",
       "pubDate": "Wed, 18 Feb 2026 06:01:03 +0900"
-    },
-    {
-      "title": "이달 서울 아파트 매매 계약 10건 중 9건이 '15억원 이하'",
-      "link": "https://www.yna.co.kr/view/AKR20260217027900003",
-      "pubDate": "Wed, 18 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "알테오젠 2배 ETF?…금융당국, 흥행·투자자 보호 '균형점' 고심",
-      "link": "https://www.yna.co.kr/view/AKR20260214046900002",
-      "pubDate": "Wed, 18 Feb 2026 06:01:00 +0900"
-    },
-    {
-      "title": "'트럼프 관세' 충격에…韓, 美 수입시장 순위 7→9위 밀려",
-      "link": "https://www.yna.co.kr/view/AKR20260215014100003",
-      "pubDate": "Wed, 18 Feb 2026 06:00:02 +0900"
     }
   ]
 }
