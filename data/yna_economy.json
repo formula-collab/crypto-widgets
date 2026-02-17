@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771290410,
+  "updated_at_unix": 1771300479,
   "items": [
+    {
+      "title": "기술수출 20조 K-바이오…신약 완주 시험대",
+      "link": "https://www.yna.co.kr/view/AKR20260213147300017",
+      "pubDate": "Tue, 17 Feb 2026 11:12:00 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] 다주택자 압박에 요동치는 주택시장…설 이후 전망은",
+      "link": "https://www.yna.co.kr/view/AKR20260217013200003",
+      "pubDate": "Tue, 17 Feb 2026 10:44:24 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260217012700011",
+      "pubDate": "Tue, 17 Feb 2026 10:30:00 +0900"
+    },
     {
       "title": "광주회생법원 내달 1일 개원…\"신속성·전문성 기대\"",
       "link": "https://www.yna.co.kr/view/AKR20260212151000054",
@@ -137,21 +152,6 @@
       "title": "한국 작년 4분기 성장률 24개국 중 22위…올해도 불확실성 확대",
       "link": "https://www.yna.co.kr/view/AKR20260215034900002",
       "pubDate": "Tue, 17 Feb 2026 05:55:00 +0900"
-    },
-    {
-      "title": "부모 불안이 키운 29조 시장…'경쟁 압박'에 사교육비 쏟아",
-      "link": "https://www.yna.co.kr/view/AKR20260215024300002",
-      "pubDate": "Tue, 17 Feb 2026 05:53:00 +0900"
-    },
-    {
-      "title": "'다주택 양도중과' 후속책은…'실거주 중심' 핀셋 카드 시선",
-      "link": "https://www.yna.co.kr/view/AKR20260215027600002",
-      "pubDate": "Tue, 17 Feb 2026 05:51:01 +0900"
-    },
-    {
-      "title": "'총선 대승' 日다카이치 만난 일본은행 총재 \"특별한 요구 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260216035600073",
-      "pubDate": "Mon, 16 Feb 2026 18:40:43 +0900"
     }
   ]
 }
