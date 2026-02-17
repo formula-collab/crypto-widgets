@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771285786,
+  "updated_at_unix": 1771290410,
   "items": [
+    {
+      "title": "광주회생법원 내달 1일 개원…\"신속성·전문성 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260212151000054",
+      "pubDate": "Tue, 17 Feb 2026 09:00:04 +0900"
+    },
     {
       "title": "전주시, 5개 지구 지적 재조사사업…\"경계 분쟁 해소\"",
       "link": "https://www.yna.co.kr/view/AKR20260217009600055",
@@ -147,11 +152,6 @@
       "title": "'총선 대승' 日다카이치 만난 일본은행 총재 \"특별한 요구 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260216035600073",
       "pubDate": "Mon, 16 Feb 2026 18:40:43 +0900"
-    },
-    {
-      "title": "'미생'의 종합상사는 옛말…에너지·AI·바이오 기업으로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260215013751003",
-      "pubDate": "Mon, 16 Feb 2026 17:01:26 +0900"
     }
   ]
 }
