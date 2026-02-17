@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771359888,
+  "updated_at_unix": 1771362024,
   "items": [
+    {
+      "title": "번듯한 직장도 알바도 없다…출발선부터 흔들리는 20대",
+      "link": "https://www.yna.co.kr/view/AKR20260216021300002",
+      "pubDate": "Wed, 18 Feb 2026 05:53:01 +0900"
+    },
+    {
+      "title": "대출 자영업자 20명 중 1명은 채무불이행…5년새 3배로 뛰어",
+      "link": "https://www.yna.co.kr/view/AKR20260214031200002",
+      "pubDate": "Wed, 18 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "5대은행 신용대출 최저금리 14개월만에 4%대로↑…'빚투'족 부담",
+      "link": "https://www.yna.co.kr/view/AKR20260216035900002",
+      "pubDate": "Wed, 18 Feb 2026 05:49:00 +0900"
+    },
+    {
+      "title": "소득세는 늘지만 다른 세수는 불안…부가세 80조 아래로 위축",
+      "link": "https://www.yna.co.kr/view/AKR20260216000700002",
+      "pubDate": "Wed, 18 Feb 2026 05:47:05 +0900"
+    },
+    {
+      "title": "근로소득세 70조 육박, 또 최대…10년간 국세 비중 12→18% 커져",
+      "link": "https://www.yna.co.kr/view/AKR20260215029800002",
+      "pubDate": "Wed, 18 Feb 2026 05:47:00 +0900"
+    },
+    {
+      "title": "임대사업자 대출 13.9조 '정조준'…만기연장 때 RTI 재심사 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260216026600002",
+      "pubDate": "Wed, 18 Feb 2026 05:45:00 +0900"
+    },
     {
       "title": "[부고] 김영란(CJ프레시웨이 전략지원담당)씨 시부상",
       "link": "https://www.yna.co.kr/view/AKR20260217023900030",
@@ -122,36 +152,6 @@
       "title": "한국 어르신에게 '일'이란…\"자기 존엄성·존재감·체면\"",
       "link": "https://www.yna.co.kr/view/AKR20260216022000530",
       "pubDate": "Tue, 17 Feb 2026 07:00:01 +0900"
-    },
-    {
-      "title": "LG전자, 美 컨슈머리포트 '최고의 건조기' 상위권 휩쓸어",
-      "link": "https://www.yna.co.kr/view/AKR20260213034800003",
-      "pubDate": "Tue, 17 Feb 2026 06:05:01 +0900"
-    },
-    {
-      "title": "\"TV 깨지고 냉장고 음식 썩어\"…이사업체 피해 해마다 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260213088000030",
-      "pubDate": "Tue, 17 Feb 2026 06:05:01 +0900"
-    },
-    {
-      "title": "'수출 주력'으로 떠오른 K-소비재…푸드·화장품 '100억불 고지'",
-      "link": "https://www.yna.co.kr/view/AKR20260215013900003",
-      "pubDate": "Tue, 17 Feb 2026 06:05:00 +0900"
-    },
-    {
-      "title": "최대 이익에도 사라지는 은행 지점…5대銀 작년 94개 폐쇄",
-      "link": "https://www.yna.co.kr/view/AKR20260216036000002",
-      "pubDate": "Tue, 17 Feb 2026 06:01:00 +0900"
-    },
-    {
-      "title": "지난해 車부품 수입 물가, 고환율에 1년새 7% 가까이 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260213179400003",
-      "pubDate": "Tue, 17 Feb 2026 06:00:02 +0900"
-    },
-    {
-      "title": "현대엔지니어링, 하도급대금 104억원 미루다 공정위 나서자 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260213197500002",
-      "pubDate": "Tue, 17 Feb 2026 05:59:01 +0900"
     }
   ]
 }
