@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771305394,
+  "updated_at_unix": 1771308851,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260217020700011",
+      "pubDate": "Tue, 17 Feb 2026 15:00:00 +0900"
+    },
     {
       "title": "기술수출 20조 K-바이오…신약 완주 시험대",
       "link": "https://www.yna.co.kr/view/AKR20260213147300017",
@@ -147,11 +152,6 @@
       "title": "즉석 사진관 4년 만에 매출 2.4배됐지만…폐업은 3.5배로 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260215018700002",
       "pubDate": "Tue, 17 Feb 2026 05:57:01 +0900"
-    },
-    {
-      "title": "한국 작년 4분기 성장률 24개국 중 22위…올해도 불확실성 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260215034900002",
-      "pubDate": "Tue, 17 Feb 2026 05:55:00 +0900"
     }
   ]
 }
