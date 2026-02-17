@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771362024,
+  "updated_at_unix": 1771365103,
   "items": [
+    {
+      "title": "\"쿠팡 키우더니 대형마트도…새벽배송 항의집회 열 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260214042800030",
+      "pubDate": "Wed, 18 Feb 2026 06:31:00 +0900"
+    },
+    {
+      "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260211169300530",
+      "pubDate": "Wed, 18 Feb 2026 06:15:00 +0900"
+    },
+    {
+      "title": "기후변화 대응이 '미래 일자리'…2032년까지 연평균 3.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260213089400530",
+      "pubDate": "Wed, 18 Feb 2026 06:07:01 +0900"
+    },
+    {
+      "title": "배달앱 상생 논의 1년째 제자리걸음…입법 논의도 멈춰",
+      "link": "https://www.yna.co.kr/view/AKR20260213195800030",
+      "pubDate": "Wed, 18 Feb 2026 06:03:01 +0900"
+    },
+    {
+      "title": "고용평등 임금공시제 500인 이상 민간기업 대상 가닥",
+      "link": "https://www.yna.co.kr/view/AKR20260213192300530",
+      "pubDate": "Wed, 18 Feb 2026 06:03:01 +0900"
+    },
+    {
+      "title": "출시 임박 삼성전자 '갤럭시 S26'…엑시노스 승부수 통할까",
+      "link": "https://www.yna.co.kr/view/AKR20260213093500003",
+      "pubDate": "Wed, 18 Feb 2026 06:01:05 +0900"
+    },
+    {
+      "title": "'글로벌 TV 1위' 삼성전자, 작년 OLED TV 판매량 200만대 달성",
+      "link": "https://www.yna.co.kr/view/AKR20260213091900003",
+      "pubDate": "Wed, 18 Feb 2026 06:01:03 +0900"
+    },
+    {
+      "title": "이달 서울 아파트 매매 계약 10건 중 9건이 '15억원 이하'",
+      "link": "https://www.yna.co.kr/view/AKR20260217027900003",
+      "pubDate": "Wed, 18 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "알테오젠 2배 ETF?…금융당국, 흥행·투자자 보호 '균형점' 고심",
+      "link": "https://www.yna.co.kr/view/AKR20260214046900002",
+      "pubDate": "Wed, 18 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "'트럼프 관세' 충격에…韓, 美 수입시장 순위 7→9위 밀려",
+      "link": "https://www.yna.co.kr/view/AKR20260215014100003",
+      "pubDate": "Wed, 18 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "노동부, '사용자' 판단위원회 만든다…노란봉투법 혼란 최소화",
+      "link": "https://www.yna.co.kr/view/AKR20260213148200530",
+      "pubDate": "Wed, 18 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "밀가루 담합 또 심판대로…올렸다 찔끔 내리면 가격 재결정 명령",
+      "link": "https://www.yna.co.kr/view/AKR20260214036600002",
+      "pubDate": "Wed, 18 Feb 2026 05:59:03 +0900"
+    },
+    {
+      "title": "빗썸 사고에 한은 이례적 일침 \"원화코인도 안전성 확보해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260215036100002",
+      "pubDate": "Wed, 18 Feb 2026 05:57:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·이란, 핵 협상 기본 원칙 합의…WTI 0.9%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260218005900009",
+      "pubDate": "Wed, 18 Feb 2026 05:56:36 +0900"
+    },
     {
       "title": "번듯한 직장도 알바도 없다…출발선부터 흔들리는 20대",
       "link": "https://www.yna.co.kr/view/AKR20260216021300002",
@@ -82,76 +152,6 @@
       "title": "\"부산시 신중년 정책, 돌봄 대상서 인적 자산으로 바꿔야\"",
       "link": "https://www.yna.co.kr/view/AKR20260210115100051",
       "pubDate": "Tue, 17 Feb 2026 08:00:11 +0900"
-    },
-    {
-      "title": "광주시, 군복무 청년 상해보험 보장 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260213146900054",
-      "pubDate": "Tue, 17 Feb 2026 08:00:07 +0900"
-    },
-    {
-      "title": "작년 국내 경차 판매 역대 최소…고물가에 올해부터 반등 조짐",
-      "link": "https://www.yna.co.kr/view/AKR20260216033000003",
-      "pubDate": "Tue, 17 Feb 2026 08:00:01 +0900"
-    },
-    {
-      "title": "'서해남북평화도로' 1단계 영종도∼신도 올해 5월말 개통",
-      "link": "https://www.yna.co.kr/view/AKR20260210070700065",
-      "pubDate": "Tue, 17 Feb 2026 07:17:00 +0900"
-    },
-    {
-      "title": "'불장'에 올해 상장사 66% 목표가 올라…최대 상향 종목은",
-      "link": "https://www.yna.co.kr/view/AKR20260213126400008",
-      "pubDate": "Tue, 17 Feb 2026 07:15:01 +0900"
-    },
-    {
-      "title": "AI에 올인한 벤처시장…자금은 왜 미국으로 몰렸나",
-      "link": "https://www.yna.co.kr/view/AKR20260215035600017",
-      "pubDate": "Tue, 17 Feb 2026 07:07:04 +0900"
-    },
-    {
-      "title": "빅테크 구조조정 재가속…'AI발 디스토피아'의 그림자",
-      "link": "https://www.yna.co.kr/view/AKR20260212141000008",
-      "pubDate": "Tue, 17 Feb 2026 07:05:01 +0900"
-    },
-    {
-      "title": "\"4월 세계국채지수 편입 앞두고 해외자금 선유입 신호 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213168000008",
-      "pubDate": "Tue, 17 Feb 2026 07:03:00 +0900"
-    },
-    {
-      "title": "\"세뱃돈 어디에 투자할까\" 증권가 '비중확대' 의견 종목은",
-      "link": "https://www.yna.co.kr/view/AKR20260213132400008",
-      "pubDate": "Tue, 17 Feb 2026 07:01:03 +0900"
-    },
-    {
-      "title": "엄마 학력 높을수록 육아휴직 이용기간·이용률↑",
-      "link": "https://www.yna.co.kr/view/AKR20260215017500530",
-      "pubDate": "Tue, 17 Feb 2026 07:01:01 +0900"
-    },
-    {
-      "title": "특공 청약경쟁률, 일반공급의 절반 수준…생초·신혼이 85% 차지",
-      "link": "https://www.yna.co.kr/view/AKR20260215034100003",
-      "pubDate": "Tue, 17 Feb 2026 07:01:00 +0900"
-    },
-    {
-      "title": "최근 2년 새 임금체불 16% 늘어…운수·창고업은 80% 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260213173400001",
-      "pubDate": "Tue, 17 Feb 2026 07:00:08 +0900"
-    },
-    {
-      "title": "[우분투칼럼] 아프리카 알고보면⒁ 평창 설원 경험서 시작한 동계올림픽",
-      "link": "https://www.yna.co.kr/view/AKR20260206037700898",
-      "pubDate": "Tue, 17 Feb 2026 07:00:07 +0900"
-    },
-    {
-      "title": "서울시, 현금 공공기여 제도 개선…'강북 전성시대' 추진력↑",
-      "link": "https://www.yna.co.kr/view/AKR20260213184400004",
-      "pubDate": "Tue, 17 Feb 2026 07:00:04 +0900"
-    },
-    {
-      "title": "한국 어르신에게 '일'이란…\"자기 존엄성·존재감·체면\"",
-      "link": "https://www.yna.co.kr/view/AKR20260216022000530",
-      "pubDate": "Tue, 17 Feb 2026 07:00:01 +0900"
     }
   ]
 }
