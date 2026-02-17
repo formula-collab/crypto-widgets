@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771365103,
+  "updated_at_unix": 1771366727,
   "items": [
+    {
+      "title": "계약해지·실적악화 슬쩍…설 연휴 앞두고 쏟아진 '올빼미 공시'",
+      "link": "https://www.yna.co.kr/view/AKR20260213196400008",
+      "pubDate": "Wed, 18 Feb 2026 07:10:00 +0900"
+    },
+    {
+      "title": "코스피 역대급 불장에 외국인 韓주식 보유액 갑절로 '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260213130600008",
+      "pubDate": "Wed, 18 Feb 2026 07:03:01 +0900"
+    },
+    {
+      "title": "경기도, 여성과학기술인·초기기술기업 연구개발비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260213155700061",
+      "pubDate": "Wed, 18 Feb 2026 07:02:03 +0900"
+    },
+    {
+      "title": "'오천피 효과'…시총 1조클럽 상장사, 한달여만 42개 '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260213168100008",
+      "pubDate": "Wed, 18 Feb 2026 07:01:01 +0900"
+    },
+    {
+      "title": "美 공급망 압박 속 韓 선택은…다변화 과제지만 기업 부담 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260213183200504",
+      "pubDate": "Wed, 18 Feb 2026 07:01:00 +0900"
+    },
+    {
+      "title": "금호타이어 함평 이전 눈앞…광주공장 매각 '과제'",
+      "link": "https://www.yna.co.kr/view/AKR20260213094500054",
+      "pubDate": "Wed, 18 Feb 2026 07:00:06 +0900"
+    },
+    {
+      "title": "BTS 컴백에 묻힌 결혼식·돌잔치…'발 동동' 피해 구제책 없나",
+      "link": "https://www.yna.co.kr/view/AKR20260217000800004",
+      "pubDate": "Wed, 18 Feb 2026 06:55:01 +0900"
+    },
     {
       "title": "\"쿠팡 키우더니 대형마트도…새벽배송 항의집회 열 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260214042800030",
@@ -117,41 +152,6 @@
       "title": "기술수출 20조 K-바이오…신약 완주 시험대",
       "link": "https://www.yna.co.kr/view/AKR20260213147300017",
       "pubDate": "Tue, 17 Feb 2026 11:12:00 +0900"
-    },
-    {
-      "title": "[서미숙의 집수다] 다주택자 압박에 요동치는 주택시장…설 이후 전망은",
-      "link": "https://www.yna.co.kr/view/AKR20260217013200003",
-      "pubDate": "Tue, 17 Feb 2026 10:44:24 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260217012700011",
-      "pubDate": "Tue, 17 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "광주회생법원 내달 1일 개원…\"신속성·전문성 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260212151000054",
-      "pubDate": "Tue, 17 Feb 2026 09:00:04 +0900"
-    },
-    {
-      "title": "전주시, 5개 지구 지적 재조사사업…\"경계 분쟁 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260217009600055",
-      "pubDate": "Tue, 17 Feb 2026 08:45:55 +0900"
-    },
-    {
-      "title": "옛 대구 동부소방서 건물 'AI 산업 거점'으로 재탄생된다",
-      "link": "https://www.yna.co.kr/view/AKR20260213142200053",
-      "pubDate": "Tue, 17 Feb 2026 08:30:01 +0900"
-    },
-    {
-      "title": "與대화기구, '주 46시간' 야간배송 논의…쿠팡 등 반대에 난항",
-      "link": "https://www.yna.co.kr/view/AKR20260213192100001",
-      "pubDate": "Tue, 17 Feb 2026 08:00:13 +0900"
-    },
-    {
-      "title": "\"부산시 신중년 정책, 돌봄 대상서 인적 자산으로 바꿔야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260210115100051",
-      "pubDate": "Tue, 17 Feb 2026 08:00:11 +0900"
     }
   ]
 }
