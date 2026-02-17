@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771368896,
+  "updated_at_unix": 1771370302,
   "items": [
+    {
+      "title": "폐원 앞둔 군포 소재 '남부기술교육원'…매입 협의 '지지부진'",
+      "link": "https://www.yna.co.kr/view/AKR20260211146300061",
+      "pubDate": "Wed, 18 Feb 2026 08:00:50 +0900"
+    },
+    {
+      "title": "NH농협금융, 포용금융 신상품 3종 순차 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260213173200002",
+      "pubDate": "Wed, 18 Feb 2026 08:00:04 +0900"
+    },
     {
       "title": "공공임대 입주자 '미스매치'…당첨 대비 포기 비율 절반 넘어",
       "link": "https://www.yna.co.kr/view/AKR20260218008000003",
@@ -142,16 +152,6 @@
       "title": "'트럼프 관세' 충격에…韓, 美 수입시장 순위 7→9위 밀려",
       "link": "https://www.yna.co.kr/view/AKR20260215014100003",
       "pubDate": "Wed, 18 Feb 2026 06:00:02 +0900"
-    },
-    {
-      "title": "노동부, '사용자' 판단위원회 만든다…노란봉투법 혼란 최소화",
-      "link": "https://www.yna.co.kr/view/AKR20260213148200530",
-      "pubDate": "Wed, 18 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "밀가루 담합 또 심판대로…올렸다 찔끔 내리면 가격 재결정 명령",
-      "link": "https://www.yna.co.kr/view/AKR20260214036600002",
-      "pubDate": "Wed, 18 Feb 2026 05:59:03 +0900"
     }
   ]
 }
