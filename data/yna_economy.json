@@ -1,8 +1,118 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771376961,
+  "updated_at_unix": 1771386989,
   "items": [
+    {
+      "title": "구윤철 \"청년인턴 채용·2030자문단 위촉 절차 시작\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218032600002",
+      "pubDate": "Wed, 18 Feb 2026 12:45:47 +0900"
+    },
+    {
+      "title": "韓 전고체전지 출원 증가율 2위…상위 10개 출원인 중 4개",
+      "link": "https://www.yna.co.kr/view/AKR20260213136600063",
+      "pubDate": "Wed, 18 Feb 2026 12:00:05 +0900"
+    },
+    {
+      "title": "중진공, 글로벌쇼핑몰 활용 판매지원사업 수행기관 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260214028400030",
+      "pubDate": "Wed, 18 Feb 2026 12:00:03 +0900"
+    },
+    {
+      "title": "현금·상품권에 얼룩진 처방전…공정위, 제약사 리베이트 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260213195500002",
+      "pubDate": "Wed, 18 Feb 2026 12:00:02 +0900"
+    },
+    {
+      "title": "금감원, 2025년 사업보고서 점검 예고…중대재해 공시 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260216020600002",
+      "pubDate": "Wed, 18 Feb 2026 12:00:01 +0900"
+    },
+    {
+      "title": "북한, 자금세탁·테러자금 '고위험국' 재지정",
+      "link": "https://www.yna.co.kr/view/AKR20260218024800002",
+      "pubDate": "Wed, 18 Feb 2026 12:00:00 +0900"
+    },
+    {
+      "title": "춘천시, 2026년 청년 도전 지원사업 추진…'다시 일어설 기회'",
+      "link": "https://www.yna.co.kr/view/AKR20260218030500062",
+      "pubDate": "Wed, 18 Feb 2026 11:54:05 +0900"
+    },
+    {
+      "title": "국힘, '다주택 다 문제는 아냐' 李대통령에 \"이제 꼬리 내려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218029100001",
+      "pubDate": "Wed, 18 Feb 2026 11:53:35 +0900"
+    },
+    {
+      "title": "타임빌라스 수원, 유아 성장 브랜드 '슈퍼키즈성장센터' 오픈",
+      "link": "https://www.yna.co.kr/view/AKR20260218029900030",
+      "pubDate": "Wed, 18 Feb 2026 11:45:05 +0900"
+    },
+    {
+      "title": "GS샵, 프리미엄 가전 판매 확대…브레빌 커피머신 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260218028000030",
+      "pubDate": "Wed, 18 Feb 2026 11:32:21 +0900"
+    },
+    {
+      "title": "장동혁 \"노모, 날 풀리면 서울에 50억 아파트 구경 가겠다고 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218026200001",
+      "pubDate": "Wed, 18 Feb 2026 11:31:54 +0900"
+    },
+    {
+      "title": "서울시, 청년 창업가 육성하는 '프렙 아카데미' 교육생 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260213188300004",
+      "pubDate": "Wed, 18 Feb 2026 11:15:03 +0900"
+    },
+    {
+      "title": "취업·창업 정보를 한눈에…가이드북 '서울의 모든 잡'",
+      "link": "https://www.yna.co.kr/view/AKR20260213194900004",
+      "pubDate": "Wed, 18 Feb 2026 11:15:01 +0900"
+    },
+    {
+      "title": "전남도, 올해 노인 일자리 7만3천여명 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260213084700054",
+      "pubDate": "Wed, 18 Feb 2026 11:00:01 +0900"
+    },
+    {
+      "title": "안강망어업→고정자루망어업…어려운 수산용어 알기 쉽게 바꿔",
+      "link": "https://www.yna.co.kr/view/AKR20260216012900030",
+      "pubDate": "Wed, 18 Feb 2026 11:00:00 +0900"
+    },
+    {
+      "title": "현대그린푸드, 빕스·만석닭강정과 협업…이색메뉴 선보인다",
+      "link": "https://www.yna.co.kr/view/AKR20260218026500030",
+      "pubDate": "Wed, 18 Feb 2026 10:57:47 +0900"
+    },
+    {
+      "title": "삼성증권 \"IRP·연금저축 각각 10조원 돌파…합산잔고 71%↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218025000008",
+      "pubDate": "Wed, 18 Feb 2026 10:47:42 +0900"
+    },
+    {
+      "title": "더벤티, 베트남 호찌민 2호점 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260218025500030",
+      "pubDate": "Wed, 18 Feb 2026 10:41:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260218019400011",
+      "pubDate": "Wed, 18 Feb 2026 10:30:00 +0900"
+    },
+    {
+      "title": "태백 스마트축산단지에 수도권 축산기업 2천억 투자 의향",
+      "link": "https://www.yna.co.kr/view/AKR20260213140100062",
+      "pubDate": "Wed, 18 Feb 2026 10:10:00 +0900"
+    },
+    {
+      "title": "이마트, 생필품·먹거리 할인…\"명절 후 물가안정 앞장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218022100030",
+      "pubDate": "Wed, 18 Feb 2026 10:09:07 +0900"
+    },
+    {
+      "title": "[부고] 류철한(BGF리테일 경영지원부문장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260218022700030",
+      "pubDate": "Wed, 18 Feb 2026 10:08:18 +0900"
+    },
     {
       "title": "현대건설, 신한은행과 전략산업 전반 '생산적 금융' 협력",
       "link": "https://www.yna.co.kr/view/AKR20260218019600003",
@@ -42,116 +152,6 @@
       "title": "GS25 \"'흑백요리사2' 셰프 협업 상품 2주만에 80만개 판매\"",
       "link": "https://www.yna.co.kr/view/AKR20260218013400030",
       "pubDate": "Wed, 18 Feb 2026 08:53:42 +0900"
-    },
-    {
-      "title": "경북도, 올해 공무원 2천234명 채용…작년보다 829명 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260218016600053",
-      "pubDate": "Wed, 18 Feb 2026 08:51:15 +0900"
-    },
-    {
-      "title": "경북도, 신산업 육성·일자리 질 제고 등 경제정책 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260213041100053",
-      "pubDate": "Wed, 18 Feb 2026 08:31:01 +0900"
-    },
-    {
-      "title": "시중은행 전환 2주년 앞둔 iM뱅크, 지역은행서 전국구 도약",
-      "link": "https://www.yna.co.kr/view/AKR20260213170400053",
-      "pubDate": "Wed, 18 Feb 2026 08:31:00 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행·롯데호텔앤리조트, 시니어 입주민 금융 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260214022300002",
-      "pubDate": "Wed, 18 Feb 2026 08:30:00 +0900"
-    },
-    {
-      "title": "폐원 앞둔 군포 소재 '남부기술교육원'…매입 협의 '지지부진'",
-      "link": "https://www.yna.co.kr/view/AKR20260211146300061",
-      "pubDate": "Wed, 18 Feb 2026 08:00:50 +0900"
-    },
-    {
-      "title": "NH농협금융, 포용금융 신상품 3종 순차 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260213173200002",
-      "pubDate": "Wed, 18 Feb 2026 08:00:04 +0900"
-    },
-    {
-      "title": "공공임대 입주자 '미스매치'…당첨 대비 포기 비율 절반 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260218008000003",
-      "pubDate": "Wed, 18 Feb 2026 07:46:47 +0900"
-    },
-    {
-      "title": "\"지역맛집·상품 세계에 알린다\"…백년가게 영문홈페이지 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260213151000030",
-      "pubDate": "Wed, 18 Feb 2026 07:35:00 +0900"
-    },
-    {
-      "title": "AI 품은 갤럭시 S26, 200만원 시대 열리나",
-      "link": "https://www.yna.co.kr/view/AKR20260213059800017",
-      "pubDate": "Wed, 18 Feb 2026 07:33:01 +0900"
-    },
-    {
-      "title": "울타리 쳐 놓은 옛 포항역…주상복합건물 개발 감감무소식",
-      "link": "https://www.yna.co.kr/view/AKR20260213126800053",
-      "pubDate": "Wed, 18 Feb 2026 07:32:53 +0900"
-    },
-    {
-      "title": "여수 경도에 호남 첫 JW메리어트 호텔 들어선다…연내 착공",
-      "link": "https://www.yna.co.kr/view/AKR20260212074200054",
-      "pubDate": "Wed, 18 Feb 2026 07:31:00 +0900"
-    },
-    {
-      "title": "[팩트체크] 세뱃돈도 증여세 대상?…\"사회통념 범위라면 비과세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213147000518",
-      "pubDate": "Wed, 18 Feb 2026 07:30:01 +0900"
-    },
-    {
-      "title": "코스피·코스닥은 '불장'인데…투자자 외면받는 코넥스",
-      "link": "https://www.yna.co.kr/view/AKR20260213182000008",
-      "pubDate": "Wed, 18 Feb 2026 07:25:01 +0900"
-    },
-    {
-      "title": "오세훈 vs 정원오…서울시장 선거 전초전 불붙은 '성수동'",
-      "link": "https://www.yna.co.kr/view/AKR20260214028500004",
-      "pubDate": "Wed, 18 Feb 2026 07:20:31 +0900"
-    },
-    {
-      "title": "2월 개인·외국인 순매수 상위종목 비교해보니…승자는",
-      "link": "https://www.yna.co.kr/view/AKR20260213191800008",
-      "pubDate": "Wed, 18 Feb 2026 07:20:00 +0900"
-    },
-    {
-      "title": "인천 도심 군부대 이전 숙원 풀리나…국회서 관련 입법 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260210054100065",
-      "pubDate": "Wed, 18 Feb 2026 07:17:00 +0900"
-    },
-    {
-      "title": "설 끝나면 코스피 오른다?…10년 통계 보니 '반반'",
-      "link": "https://www.yna.co.kr/view/AKR20260213118500008",
-      "pubDate": "Wed, 18 Feb 2026 07:15:01 +0900"
-    },
-    {
-      "title": "계약해지·실적악화 슬쩍…설 연휴 앞두고 쏟아진 '올빼미 공시'",
-      "link": "https://www.yna.co.kr/view/AKR20260213196400008",
-      "pubDate": "Wed, 18 Feb 2026 07:10:00 +0900"
-    },
-    {
-      "title": "코스피 역대급 불장에 외국인 韓주식 보유액 갑절로 '껑충'",
-      "link": "https://www.yna.co.kr/view/AKR20260213130600008",
-      "pubDate": "Wed, 18 Feb 2026 07:03:01 +0900"
-    },
-    {
-      "title": "경기도, 여성과학기술인·초기기술기업 연구개발비 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260213155700061",
-      "pubDate": "Wed, 18 Feb 2026 07:02:03 +0900"
-    },
-    {
-      "title": "'오천피 효과'…시총 1조클럽 상장사, 한달여만 42개 '껑충'",
-      "link": "https://www.yna.co.kr/view/AKR20260213168100008",
-      "pubDate": "Wed, 18 Feb 2026 07:01:01 +0900"
-    },
-    {
-      "title": "美 공급망 압박 속 韓 선택은…다변화 과제지만 기업 부담 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260213183200504",
-      "pubDate": "Wed, 18 Feb 2026 07:01:00 +0900"
     }
   ]
 }
