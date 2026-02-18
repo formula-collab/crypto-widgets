@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771418087,
+  "updated_at_unix": 1771423204,
   "items": [
+    {
+      "title": "日 1호 대미 투자 확정에 한국도 움직였다…실무단 미국행(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260218030851003",
+      "pubDate": "Wed, 18 Feb 2026 22:12:53 +0900"
+    },
     {
       "title": "강원대 사범대, 중등교원 임용 165명 배출…\"체계적 지원 결실\"",
       "link": "https://www.yna.co.kr/view/AKR20260218055300062",
@@ -147,11 +152,6 @@
       "title": "평창군, 청년 자격증 취득비 지원…취업 경쟁력 강화",
       "link": "https://www.yna.co.kr/view/AKR20260213109000062",
       "pubDate": "Wed, 18 Feb 2026 09:05:01 +0900"
-    },
-    {
-      "title": "충북 쇠퇴지역 지도 새롭게 그릴 '도시재생 신규 사업' 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260213178200064",
-      "pubDate": "Wed, 18 Feb 2026 09:00:08 +0900"
     }
   ]
 }
