@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771451593,
+  "updated_at_unix": 1771453276,
   "items": [
+    {
+      "title": "경기도, 올해 '기존주택 매입·전세임대' 3천715가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260213111600061",
+      "pubDate": "Thu, 19 Feb 2026 07:01:03 +0900"
+    },
+    {
+      "title": "해외서 '불닭' 짝퉁 판쳐…삼양식품 'Buldak' 상표권 등록 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260214040900030",
+      "pubDate": "Thu, 19 Feb 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[마켓人] 서정현 NH아문디운용 본부장 \"채권→주식 대전환은 과도한 해석\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213191200008",
+      "pubDate": "Thu, 19 Feb 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카의 기후위기, 연대인가 경쟁인가",
+      "link": "https://www.yna.co.kr/view/AKR20260205152900898",
+      "pubDate": "Thu, 19 Feb 2026 07:00:05 +0900"
+    },
     {
       "title": "작년 서울 집합건물 생애최초 매수자 절반이 30대…'역대 최대'",
       "link": "https://www.yna.co.kr/view/AKR20260218050100003",
@@ -132,26 +152,6 @@
       "title": "GS샵, 프리미엄 가전 판매 확대…브레빌 커피머신 선보여",
       "link": "https://www.yna.co.kr/view/AKR20260218028000030",
       "pubDate": "Wed, 18 Feb 2026 11:32:21 +0900"
-    },
-    {
-      "title": "장동혁 \"노모, 날 풀리면 서울에 50억 아파트 구경 가겠다고 해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218026200001",
-      "pubDate": "Wed, 18 Feb 2026 11:31:54 +0900"
-    },
-    {
-      "title": "서울시, 청년 창업가 육성하는 '프렙 아카데미' 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260213188300004",
-      "pubDate": "Wed, 18 Feb 2026 11:15:03 +0900"
-    },
-    {
-      "title": "취업·창업 정보를 한눈에…가이드북 '서울의 모든 잡'",
-      "link": "https://www.yna.co.kr/view/AKR20260213194900004",
-      "pubDate": "Wed, 18 Feb 2026 11:15:01 +0900"
-    },
-    {
-      "title": "전남도, 올해 노인 일자리 7만3천여명 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260213084700054",
-      "pubDate": "Wed, 18 Feb 2026 11:00:01 +0900"
     }
   ]
 }
