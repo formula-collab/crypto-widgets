@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771448576,
+  "updated_at_unix": 1771451593,
   "items": [
+    {
+      "title": "작년 서울 집합건물 생애최초 매수자 절반이 30대…'역대 최대'",
+      "link": "https://www.yna.co.kr/view/AKR20260218050100003",
+      "pubDate": "Thu, 19 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "'회생·파산 전문' 대전회생법원 다음 달 1일 개원",
+      "link": "https://www.yna.co.kr/view/AKR20260213069400063",
+      "pubDate": "Thu, 19 Feb 2026 06:00:11 +0900"
+    },
+    {
+      "title": "'중증장애인 고용모델 개발·확산 사업' 참여 기업·기관 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260213183900530",
+      "pubDate": "Thu, 19 Feb 2026 06:00:06 +0900"
+    },
+    {
+      "title": "홈플러스, 19일부터 이틀간 도시락 2종 990원 할인 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260218034500030",
+      "pubDate": "Thu, 19 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "롯데百, 20일부터 '웨딩페어'…웨딩마일리지 두 배 적립",
+      "link": "https://www.yna.co.kr/view/AKR20260218050800030",
+      "pubDate": "Thu, 19 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "신세계백화점, '5메이징 카드 페스타'…제휴카드사와 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260218052100030",
+      "pubDate": "Thu, 19 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "롯데온, '파이널 세일' 개최…\"봄 신상부터 겨울 마감까지 할인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218053200030",
+      "pubDate": "Thu, 19 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "롯데마트, 신학기 용품 할인…가방·실내화 최대 30% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260218053600030",
+      "pubDate": "Thu, 19 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "대법 \"저작권은 창작자 것…음원공급계약이 권리양도는 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218047900004",
+      "pubDate": "Thu, 19 Feb 2026 06:00:00 +0900"
+    },
     {
       "title": "금감원, '유령 코인' 빗썸 검사 연장…오지급 사례 더 나올 듯",
       "link": "https://www.yna.co.kr/view/AKR20260216015000002",
@@ -107,51 +152,6 @@
       "title": "전남도, 올해 노인 일자리 7만3천여명 제공",
       "link": "https://www.yna.co.kr/view/AKR20260213084700054",
       "pubDate": "Wed, 18 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "안강망어업→고정자루망어업…어려운 수산용어 알기 쉽게 바꿔",
-      "link": "https://www.yna.co.kr/view/AKR20260216012900030",
-      "pubDate": "Wed, 18 Feb 2026 11:00:00 +0900"
-    },
-    {
-      "title": "현대그린푸드, 빕스·만석닭강정과 협업…이색메뉴 선보인다",
-      "link": "https://www.yna.co.kr/view/AKR20260218026500030",
-      "pubDate": "Wed, 18 Feb 2026 10:57:47 +0900"
-    },
-    {
-      "title": "삼성증권 \"IRP·연금저축 각각 10조원 돌파…합산잔고 71%↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218025000008",
-      "pubDate": "Wed, 18 Feb 2026 10:47:42 +0900"
-    },
-    {
-      "title": "더벤티, 베트남 호찌민 2호점 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260218025500030",
-      "pubDate": "Wed, 18 Feb 2026 10:41:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260218019400011",
-      "pubDate": "Wed, 18 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "태백 스마트축산단지에 수도권 축산기업 2천억 투자 의향",
-      "link": "https://www.yna.co.kr/view/AKR20260213140100062",
-      "pubDate": "Wed, 18 Feb 2026 10:10:00 +0900"
-    },
-    {
-      "title": "이마트, 생필품·먹거리 할인…\"명절 후 물가안정 앞장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218022100030",
-      "pubDate": "Wed, 18 Feb 2026 10:09:07 +0900"
-    },
-    {
-      "title": "[부고] 류철한(BGF리테일 경영지원부문장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260218022700030",
-      "pubDate": "Wed, 18 Feb 2026 10:08:18 +0900"
-    },
-    {
-      "title": "현대건설, 신한은행과 전략산업 전반 '생산적 금융' 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260218019600003",
-      "pubDate": "Wed, 18 Feb 2026 09:44:31 +0900"
     }
   ]
 }
