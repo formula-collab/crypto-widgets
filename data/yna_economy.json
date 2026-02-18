@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771391994,
+  "updated_at_unix": 1771396537,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260218039500011",
+      "pubDate": "Wed, 18 Feb 2026 15:00:00 +0900"
+    },
     {
       "title": "[부고] 박진호(보험개발원 부원장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260218036500002",
@@ -147,11 +152,6 @@
       "title": "대법 \"무면허운전 '사고부담금 최대 1억' 보험약관 유효\"",
       "link": "https://www.yna.co.kr/view/AKR20260217022000004",
       "pubDate": "Wed, 18 Feb 2026 09:00:02 +0900"
-    },
-    {
-      "title": "LGU+, MWC서 한국 유망 AI 스타트업 세계 시장에 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260218014600017",
-      "pubDate": "Wed, 18 Feb 2026 09:00:01 +0900"
     }
   ]
 }
