@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771455474,
+  "updated_at_unix": 1771457191,
   "items": [
+    {
+      "title": "롯데호텔앤리조트, 광주에 ＇L7 충장 바이 롯데호텔' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260219021300030",
+      "pubDate": "Thu, 19 Feb 2026 08:18:41 +0900"
+    },
+    {
+      "title": "삼성증권, 클래시스 목표가↑…\"中허가 등 다수 모멘텀 유효\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219021800008",
+      "pubDate": "Thu, 19 Feb 2026 08:16:25 +0900"
+    },
+    {
+      "title": "[마켓뷰] 설 연휴 마친 코스피, 美 기술주 강세에 상승 출발할까",
+      "link": "https://www.yna.co.kr/view/AKR20260219020400008",
+      "pubDate": "Thu, 19 Feb 2026 08:07:26 +0900"
+    },
+    {
+      "title": "강남구, 생계형 체납자 지원 3종 패키지 도입…전담조직 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260219019300004",
+      "pubDate": "Thu, 19 Feb 2026 07:58:18 +0900"
+    },
+    {
+      "title": "부산시, 블록체인 특화 클러스터 조성 사업 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260219018700051",
+      "pubDate": "Thu, 19 Feb 2026 07:52:32 +0900"
+    },
     {
       "title": "에이치이티, 울산에 145억원 들여 변압기 제조설비 확장",
       "link": "https://www.yna.co.kr/view/AKR20260218056000057",
@@ -127,31 +152,6 @@
       "title": "중진공, 글로벌쇼핑몰 활용 판매지원사업 수행기관 모집",
       "link": "https://www.yna.co.kr/view/AKR20260214028400030",
       "pubDate": "Wed, 18 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "현금·상품권에 얼룩진 처방전…공정위, 제약사 리베이트 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260213195500002",
-      "pubDate": "Wed, 18 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "금감원, 2025년 사업보고서 점검 예고…중대재해 공시 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260216020600002",
-      "pubDate": "Wed, 18 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "북한, 자금세탁·테러자금 '고위험국' 재지정",
-      "link": "https://www.yna.co.kr/view/AKR20260218024800002",
-      "pubDate": "Wed, 18 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "춘천시, 2026년 청년 도전 지원사업 추진…'다시 일어설 기회'",
-      "link": "https://www.yna.co.kr/view/AKR20260218030500062",
-      "pubDate": "Wed, 18 Feb 2026 11:54:05 +0900"
-    },
-    {
-      "title": "국힘, '다주택 다 문제는 아냐' 李대통령에 \"이제 꼬리 내려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218029100001",
-      "pubDate": "Wed, 18 Feb 2026 11:53:35 +0900"
     }
   ]
 }
