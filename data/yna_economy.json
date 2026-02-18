@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771446419,
+  "updated_at_unix": 1771448576,
   "items": [
+    {
+      "title": "금감원, '유령 코인' 빗썸 검사 연장…오지급 사례 더 나올 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260216015000002",
+      "pubDate": "Thu, 19 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 밴스 \"이란, 핵심 요구 받아들이지 않아\"…WTI 4.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260219005800009",
+      "pubDate": "Thu, 19 Feb 2026 05:23:26 +0900"
+    },
     {
       "title": "日 1호 대미 투자 확정에 한국도 움직였다…실무단 미국행(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260218030851003",
@@ -142,16 +152,6 @@
       "title": "현대건설, 신한은행과 전략산업 전반 '생산적 금융' 협력",
       "link": "https://www.yna.co.kr/view/AKR20260218019600003",
       "pubDate": "Wed, 18 Feb 2026 09:44:31 +0900"
-    },
-    {
-      "title": "李대통령 \"사회악은 다주택 부추긴 정치인…심지어 이해충돌\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218016400001",
-      "pubDate": "Wed, 18 Feb 2026 09:26:53 +0900"
-    },
-    {
-      "title": "평창군, 청년 자격증 취득비 지원…취업 경쟁력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260213109000062",
-      "pubDate": "Wed, 18 Feb 2026 09:05:01 +0900"
     }
   ]
 }
