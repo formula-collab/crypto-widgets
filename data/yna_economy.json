@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771453276,
+  "updated_at_unix": 1771455474,
   "items": [
+    {
+      "title": "에이치이티, 울산에 145억원 들여 변압기 제조설비 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260218056000057",
+      "pubDate": "Thu, 19 Feb 2026 07:45:31 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260219013700011",
+      "pubDate": "Thu, 19 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "경기도, 올해 '기존주택 매입·전세임대' 3천715가구 공급",
       "link": "https://www.yna.co.kr/view/AKR20260213111600061",
@@ -142,16 +152,6 @@
       "title": "국힘, '다주택 다 문제는 아냐' 李대통령에 \"이제 꼬리 내려\"",
       "link": "https://www.yna.co.kr/view/AKR20260218029100001",
       "pubDate": "Wed, 18 Feb 2026 11:53:35 +0900"
-    },
-    {
-      "title": "타임빌라스 수원, 유아 성장 브랜드 '슈퍼키즈성장센터' 오픈",
-      "link": "https://www.yna.co.kr/view/AKR20260218029900030",
-      "pubDate": "Wed, 18 Feb 2026 11:45:05 +0900"
-    },
-    {
-      "title": "GS샵, 프리미엄 가전 판매 확대…브레빌 커피머신 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260218028000030",
-      "pubDate": "Wed, 18 Feb 2026 11:32:21 +0900"
     }
   ]
 }
