@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771372191,
+  "updated_at_unix": 1771376961,
   "items": [
+    {
+      "title": "현대건설, 신한은행과 전략산업 전반 '생산적 금융' 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260218019600003",
+      "pubDate": "Wed, 18 Feb 2026 09:44:31 +0900"
+    },
+    {
+      "title": "李대통령 \"사회악은 다주택 부추긴 정치인…심지어 이해충돌\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218016400001",
+      "pubDate": "Wed, 18 Feb 2026 09:26:53 +0900"
+    },
+    {
+      "title": "평창군, 청년 자격증 취득비 지원…취업 경쟁력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260213109000062",
+      "pubDate": "Wed, 18 Feb 2026 09:05:01 +0900"
+    },
+    {
+      "title": "충북 쇠퇴지역 지도 새롭게 그릴 '도시재생 신규 사업' 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260213178200064",
+      "pubDate": "Wed, 18 Feb 2026 09:00:08 +0900"
+    },
+    {
+      "title": "대법 \"무면허운전 '사고부담금 최대 1억' 보험약관 유효\"",
+      "link": "https://www.yna.co.kr/view/AKR20260217022000004",
+      "pubDate": "Wed, 18 Feb 2026 09:00:02 +0900"
+    },
+    {
+      "title": "LGU+, MWC서 한국 유망 AI 스타트업 세계 시장에 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260218014600017",
+      "pubDate": "Wed, 18 Feb 2026 09:00:01 +0900"
+    },
+    {
+      "title": "롯데백화점, 본점에 '아트 VM프로젝트' 선봬…\"쇼핑·예술 결합\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218014700030",
+      "pubDate": "Wed, 18 Feb 2026 08:54:55 +0900"
+    },
+    {
+      "title": "GS25 \"'흑백요리사2' 셰프 협업 상품 2주만에 80만개 판매\"",
+      "link": "https://www.yna.co.kr/view/AKR20260218013400030",
+      "pubDate": "Wed, 18 Feb 2026 08:53:42 +0900"
+    },
+    {
+      "title": "경북도, 올해 공무원 2천234명 채용…작년보다 829명 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260218016600053",
+      "pubDate": "Wed, 18 Feb 2026 08:51:15 +0900"
+    },
     {
       "title": "경북도, 신산업 육성·일자리 질 제고 등 경제정책 추진",
       "link": "https://www.yna.co.kr/view/AKR20260213041100053",
@@ -107,51 +152,6 @@
       "title": "美 공급망 압박 속 韓 선택은…다변화 과제지만 기업 부담 우려",
       "link": "https://www.yna.co.kr/view/AKR20260213183200504",
       "pubDate": "Wed, 18 Feb 2026 07:01:00 +0900"
-    },
-    {
-      "title": "금호타이어 함평 이전 눈앞…광주공장 매각 '과제'",
-      "link": "https://www.yna.co.kr/view/AKR20260213094500054",
-      "pubDate": "Wed, 18 Feb 2026 07:00:06 +0900"
-    },
-    {
-      "title": "BTS 컴백에 묻힌 결혼식·돌잔치…'발 동동' 피해 구제책 없나",
-      "link": "https://www.yna.co.kr/view/AKR20260217000800004",
-      "pubDate": "Wed, 18 Feb 2026 06:55:01 +0900"
-    },
-    {
-      "title": "\"쿠팡 키우더니 대형마트도…새벽배송 항의집회 열 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260214042800030",
-      "pubDate": "Wed, 18 Feb 2026 06:31:00 +0900"
-    },
-    {
-      "title": "구직자 10명당 일자리 3.6개뿐…작년 구인배수 역대 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260211169300530",
-      "pubDate": "Wed, 18 Feb 2026 06:15:00 +0900"
-    },
-    {
-      "title": "기후변화 대응이 '미래 일자리'…2032년까지 연평균 3.6%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260213089400530",
-      "pubDate": "Wed, 18 Feb 2026 06:07:01 +0900"
-    },
-    {
-      "title": "배달앱 상생 논의 1년째 제자리걸음…입법 논의도 멈춰",
-      "link": "https://www.yna.co.kr/view/AKR20260213195800030",
-      "pubDate": "Wed, 18 Feb 2026 06:03:01 +0900"
-    },
-    {
-      "title": "고용평등 임금공시제 500인 이상 민간기업 대상 가닥",
-      "link": "https://www.yna.co.kr/view/AKR20260213192300530",
-      "pubDate": "Wed, 18 Feb 2026 06:03:01 +0900"
-    },
-    {
-      "title": "출시 임박 삼성전자 '갤럭시 S26'…엑시노스 승부수 통할까",
-      "link": "https://www.yna.co.kr/view/AKR20260213093500003",
-      "pubDate": "Wed, 18 Feb 2026 06:01:05 +0900"
-    },
-    {
-      "title": "'글로벌 TV 1위' 삼성전자, 작년 OLED TV 판매량 200만대 달성",
-      "link": "https://www.yna.co.kr/view/AKR20260213091900003",
-      "pubDate": "Wed, 18 Feb 2026 06:01:03 +0900"
     }
   ]
 }
