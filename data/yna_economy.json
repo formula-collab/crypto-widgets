@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771386989,
+  "updated_at_unix": 1771391994,
   "items": [
+    {
+      "title": "[부고] 박진호(보험개발원 부원장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260218036500002",
+      "pubDate": "Wed, 18 Feb 2026 13:39:20 +0900"
+    },
+    {
+      "title": "첫발 뗀 일본…한국 1호 대미투자도 발전·에너지·광물 유력",
+      "link": "https://www.yna.co.kr/view/AKR20260218030800003",
+      "pubDate": "Wed, 18 Feb 2026 12:50:18 +0900"
+    },
     {
       "title": "구윤철 \"청년인턴 채용·2030자문단 위촉 절차 시작\"",
       "link": "https://www.yna.co.kr/view/AKR20260218032600002",
@@ -142,16 +152,6 @@
       "title": "LGU+, MWC서 한국 유망 AI 스타트업 세계 시장에 소개",
       "link": "https://www.yna.co.kr/view/AKR20260218014600017",
       "pubDate": "Wed, 18 Feb 2026 09:00:01 +0900"
-    },
-    {
-      "title": "롯데백화점, 본점에 '아트 VM프로젝트' 선봬…\"쇼핑·예술 결합\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218014700030",
-      "pubDate": "Wed, 18 Feb 2026 08:54:55 +0900"
-    },
-    {
-      "title": "GS25 \"'흑백요리사2' 셰프 협업 상품 2주만에 80만개 판매\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218013400030",
-      "pubDate": "Wed, 18 Feb 2026 08:53:42 +0900"
     }
   ]
 }
