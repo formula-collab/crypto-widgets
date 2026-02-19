@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771541765,
+  "updated_at_unix": 1771543316,
   "items": [
+    {
+      "title": "[마켓뷰] 美 증시 삭풍에 먹구름…코스피 '불장' 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260220023400008",
+      "pubDate": "Fri, 20 Feb 2026 08:08:44 +0900"
+    },
+    {
+      "title": "\"조명·주방용품 한눈에\"…29CM, '이구홈위크' 기획전",
+      "link": "https://www.yna.co.kr/view/AKR20260220023800030",
+      "pubDate": "Fri, 20 Feb 2026 08:08:31 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시 계층별 소비자 피해 예방 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260220020800051",
+      "pubDate": "Fri, 20 Feb 2026 07:55:50 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260220016100011",
@@ -137,21 +152,6 @@
       "title": "[특징주] 미 조선업 재건계획 기대감 속 조선주 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260219053751008",
       "pubDate": "Thu, 19 Feb 2026 16:11:43 +0900"
-    },
-    {
-      "title": "코스피, 설연휴 대기수요 유입에 최고치 경신…5,700선도 보인다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260219110151008",
-      "pubDate": "Thu, 19 Feb 2026 16:09:48 +0900"
-    },
-    {
-      "title": "환율, 설 연휴 지난 첫 거래일 0.6원 오른 1,445.5원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260219112900002",
-      "pubDate": "Thu, 19 Feb 2026 16:09:29 +0900"
-    },
-    {
-      "title": "[게시판] DB손보, 보험금 지급 전 과정에 'AI 상담' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260219114300002",
-      "pubDate": "Thu, 19 Feb 2026 16:01:35 +0900"
     }
   ]
 }
