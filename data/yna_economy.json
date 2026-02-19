@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771482826,
+  "updated_at_unix": 1771486892,
   "items": [
+    {
+      "title": "1월 대구 수출 작년 대비 27.5%, 경북은 29.8% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260115126151053",
+      "pubDate": "Thu, 19 Feb 2026 16:35:17 +0900"
+    },
+    {
+      "title": "박완수 지사, 주한체코대사와 경남 전략산업 교류 확대방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260219120200052",
+      "pubDate": "Thu, 19 Feb 2026 16:30:29 +0900"
+    },
+    {
+      "title": "[특징주] 미 조선업 재건계획 기대감 속 조선주 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219053751008",
+      "pubDate": "Thu, 19 Feb 2026 16:11:43 +0900"
+    },
+    {
+      "title": "코스피, 설연휴 대기수요 유입에 최고치 경신…5,700선도 보인다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219110151008",
+      "pubDate": "Thu, 19 Feb 2026 16:09:48 +0900"
+    },
+    {
+      "title": "환율, 설 연휴 지난 첫 거래일 0.6원 오른 1,445.5원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260219112900002",
+      "pubDate": "Thu, 19 Feb 2026 16:09:29 +0900"
+    },
+    {
+      "title": "[게시판] DB손보, 보험금 지급 전 과정에 'AI 상담' 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260219114300002",
+      "pubDate": "Thu, 19 Feb 2026 16:01:35 +0900"
+    },
+    {
+      "title": "작년 무역안보 침해 범죄 6천억원…1년 새 3배로 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260219113600002",
+      "pubDate": "Thu, 19 Feb 2026 16:01:04 +0900"
+    },
+    {
+      "title": "[특징주] 광동제약, 판권 보유 노안치료제 FDA 승인에 상한가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219093951008",
+      "pubDate": "Thu, 19 Feb 2026 15:58:37 +0900"
+    },
+    {
+      "title": "연휴 끝나자마자 코스피 신기록…\"내달까지 반도체 주도 상승장\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219061051008",
+      "pubDate": "Thu, 19 Feb 2026 15:58:10 +0900"
+    },
+    {
+      "title": "[특징주] 코스피 사상 최고치 랠리에 증권주 급등…줄신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219036251008",
+      "pubDate": "Thu, 19 Feb 2026 15:55:17 +0900"
+    },
+    {
+      "title": "최교진 교육장관 \"교복업체 담합·불공정행위 여부 살피겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219112100530",
+      "pubDate": "Thu, 19 Feb 2026 15:53:39 +0900"
+    },
+    {
+      "title": "주담대 변동금리 다섯 달 만에 하락…1월 코픽스 0.12%p↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219102851002",
+      "pubDate": "Thu, 19 Feb 2026 15:41:40 +0900"
+    },
+    {
+      "title": "코스피, 연휴 끝나자마자 최고치 경신…5,600선 굳히며 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260219110100008",
+      "pubDate": "Thu, 19 Feb 2026 15:39:22 +0900"
+    },
+    {
+      "title": "외국환시세(2월19일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260219109800002",
+      "pubDate": "Thu, 19 Feb 2026 15:35:14 +0900"
+    },
+    {
+      "title": "[부고] 홍동수(세계은행 박사·전 한국은행 직원)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260219108600002",
+      "pubDate": "Thu, 19 Feb 2026 15:34:40 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 0.6원 오른 1,445.5원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260219108300002",
+      "pubDate": "Thu, 19 Feb 2026 15:30:12 +0900"
+    },
     {
       "title": "GS건설, 성수1지구 입찰보증금 1천억원 완납…입찰서류 제출",
       "link": "https://www.yna.co.kr/view/AKR20260219107400003",
@@ -72,86 +152,6 @@
       "title": "광주시, 시민안전보험에 성폭력범죄 보상 추가",
       "link": "https://www.yna.co.kr/view/AKR20260219090700054",
       "pubDate": "Thu, 19 Feb 2026 14:11:14 +0900"
-    },
-    {
-      "title": "울산 북구, 올해 소상공인 경영안정에 100억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260219089400057",
-      "pubDate": "Thu, 19 Feb 2026 14:08:28 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"망국적 부동산 공화국 극복…모두의 경제 만들어야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219089700001",
-      "pubDate": "Thu, 19 Feb 2026 14:06:43 +0900"
-    },
-    {
-      "title": "1월 아파트 포함 서울 집값 0.91%↑…상승률 두 달째 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260219067100003",
-      "pubDate": "Thu, 19 Feb 2026 14:00:02 +0900"
-    },
-    {
-      "title": "조각투자 장외거래소 예비인가 NXT컨소시엄 \"4분기 시장개설\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219080900008",
-      "pubDate": "Thu, 19 Feb 2026 13:36:47 +0900"
-    },
-    {
-      "title": "목포시, '국가 김산업 컨트롤 타워' 도약 선언",
-      "link": "https://www.yna.co.kr/view/AKR20260219080500054",
-      "pubDate": "Thu, 19 Feb 2026 13:35:15 +0900"
-    },
-    {
-      "title": "삼성물산, 에너지·바이오 등 성장사업에 3년간 최대 9.4조 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260219074300003",
-      "pubDate": "Thu, 19 Feb 2026 13:22:15 +0900"
-    },
-    {
-      "title": "IPO 늘자 발행공시 위반 180% 급증…금감원, 88사 143건 조치",
-      "link": "https://www.yna.co.kr/view/AKR20260219072600002",
-      "pubDate": "Thu, 19 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "거래소 \"코스닥 부실기업 신속퇴출…지배주주 같으면 통합심사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219073400008",
-      "pubDate": "Thu, 19 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "서울시, 강북에 16조 투자한다…오세훈 \"완전히 새로운 강북\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260218031851004",
-      "pubDate": "Thu, 19 Feb 2026 11:55:11 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.136%",
-      "link": "https://www.yna.co.kr/view/AKR20260219072300008",
-      "pubDate": "Thu, 19 Feb 2026 11:40:58 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행, 방카슈랑스 모바일 가입 경품행사",
-      "link": "https://www.yna.co.kr/view/AKR20260219068600002",
-      "pubDate": "Thu, 19 Feb 2026 11:22:09 +0900"
-    },
-    {
-      "title": "5,600선 올라선 코스피, 장중 강세 지속…코스닥은 매수사이드카",
-      "link": "https://www.yna.co.kr/view/AKR20260219066700008",
-      "pubDate": "Thu, 19 Feb 2026 11:18:51 +0900"
-    },
-    {
-      "title": "안산시, '투자유치 1호' 인테그리스 지정…첨단산업 유치 가속",
-      "link": "https://www.yna.co.kr/view/AKR20260219064700061",
-      "pubDate": "Thu, 19 Feb 2026 11:13:15 +0900"
-    },
-    {
-      "title": "'박나래 수사' 경찰, 퇴직 후 '박나래 변호' 로펌 재취업",
-      "link": "https://www.yna.co.kr/view/AKR20260219065100004",
-      "pubDate": "Thu, 19 Feb 2026 11:10:58 +0900"
-    },
-    {
-      "title": "신한투자, 넥스트레이드·조각투자 7개사와 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260219065300008",
-      "pubDate": "Thu, 19 Feb 2026 11:09:09 +0900"
-    },
-    {
-      "title": "[대구소식] 서구, 내달부터 찾아가는 취업상담실 운영…월 1회",
-      "link": "https://www.yna.co.kr/view/AKR20260219059600053",
-      "pubDate": "Thu, 19 Feb 2026 11:08:03 +0900"
     }
   ]
 }
