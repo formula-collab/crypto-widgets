@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771489837,
+  "updated_at_unix": 1771493633,
   "items": [
+    {
+      "title": "모바일어플라이언스, 90억원 유증…에어로스페이스코리아 조합 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260219139100008",
+      "pubDate": "Thu, 19 Feb 2026 18:14:08 +0900"
+    },
+    {
+      "title": "근로감독관 7급 2차 시험에 651명 합격…내달 20일 최종선발",
+      "link": "https://www.yna.co.kr/view/AKR20260219055000001",
+      "pubDate": "Thu, 19 Feb 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260219133800011",
+      "pubDate": "Thu, 19 Feb 2026 18:00:00 +0900"
+    },
+    {
+      "title": "이오플로우, 11억원 유상증자…채움투자조합5호에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260219133100008",
+      "pubDate": "Thu, 19 Feb 2026 17:30:13 +0900"
+    },
+    {
+      "title": "\"기업 투자유치 노하우 공유\"…충북도, 실무자 워크숍 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260219131700064",
+      "pubDate": "Thu, 19 Feb 2026 17:28:57 +0900"
+    },
     {
       "title": "국고채 금리 일제히 상승…3년물 연 3.178%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260219123051008",
@@ -127,31 +152,6 @@
       "title": "원주시, '2026 원주라면축제' 성공 개최 협력 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260219103800062",
       "pubDate": "Thu, 19 Feb 2026 15:11:11 +0900"
-    },
-    {
-      "title": "충북 1월 수출액 28억9천만 달러…반도체 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260219098600064",
-      "pubDate": "Thu, 19 Feb 2026 15:07:21 +0900"
-    },
-    {
-      "title": "울주군, '찾아가는 맞춤형 창업 컨설팅 지원' 희망자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260219102500057",
-      "pubDate": "Thu, 19 Feb 2026 15:06:16 +0900"
-    },
-    {
-      "title": "주담대 변동금리 다섯 달 만에 하락…1월 코픽스 0.12%p↓",
-      "link": "https://www.yna.co.kr/view/AKR20260219102800002",
-      "pubDate": "Thu, 19 Feb 2026 15:05:57 +0900"
-    },
-    {
-      "title": "카카오게임즈, '슴미니즈' 정식 출시일 2월 25일로 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260219099900017",
-      "pubDate": "Thu, 19 Feb 2026 14:58:54 +0900"
-    },
-    {
-      "title": "귀금속 제조 스태리그룹, 익산에 102억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260219097200055",
-      "pubDate": "Thu, 19 Feb 2026 14:50:07 +0900"
     }
   ]
 }
