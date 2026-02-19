@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771522902,
+  "updated_at_unix": 1771526261,
   "items": [
+    {
+      "title": "미 주택담보대출 금리 6%…3년 5개월 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260220004400072",
+      "pubDate": "Fri, 20 Feb 2026 02:51:51 +0900"
+    },
     {
       "title": "달러-원, 트럼프 \"이란과 좋은 대화\"에 상승폭 축소…1,448.90원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260220004100002",
@@ -147,11 +152,6 @@
       "title": "[부고] 홍동수(세계은행 박사·전 한국은행 직원)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260219108600002",
       "pubDate": "Thu, 19 Feb 2026 15:34:40 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.6원 오른 1,445.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260219108300002",
-      "pubDate": "Thu, 19 Feb 2026 15:30:12 +0900"
     }
   ]
 }
