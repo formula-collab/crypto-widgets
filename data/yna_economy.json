@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771486892,
+  "updated_at_unix": 1771489837,
   "items": [
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.178%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219123051008",
+      "pubDate": "Thu, 19 Feb 2026 17:08:01 +0900"
+    },
+    {
+      "title": "파주시, 24∼26일 구인·구직 만남의 날…86명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260219128600060",
+      "pubDate": "Thu, 19 Feb 2026 17:07:42 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.178%",
+      "link": "https://www.yna.co.kr/view/AKR20260219123000008",
+      "pubDate": "Thu, 19 Feb 2026 16:51:07 +0900"
+    },
+    {
+      "title": "강원도, 민선 8기 56개 기업·1조 8천억원 투자 이끌어",
+      "link": "https://www.yna.co.kr/view/AKR20260219122400062",
+      "pubDate": "Thu, 19 Feb 2026 16:47:55 +0900"
+    },
+    {
+      "title": "성남시장·국회의원들, 분당 재건축 물량제한 폐지 촉구(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219057051061",
+      "pubDate": "Thu, 19 Feb 2026 16:39:11 +0900"
+    },
     {
       "title": "1월 대구 수출 작년 대비 27.5%, 경북은 29.8% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260115126151053",
@@ -127,31 +152,6 @@
       "title": "귀금속 제조 스태리그룹, 익산에 102억원 투자",
       "link": "https://www.yna.co.kr/view/AKR20260219097200055",
       "pubDate": "Thu, 19 Feb 2026 14:50:07 +0900"
-    },
-    {
-      "title": "고양시, 노후한 일산신도시·원도심 정비사업 '속도'",
-      "link": "https://www.yna.co.kr/view/AKR20260219094700060",
-      "pubDate": "Thu, 19 Feb 2026 14:36:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260219091600011",
-      "pubDate": "Thu, 19 Feb 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[특징주] 광동제약, 독점판권 보유 노안치료제 FDA승인에 상한가",
-      "link": "https://www.yna.co.kr/view/AKR20260219093900008",
-      "pubDate": "Thu, 19 Feb 2026 14:28:59 +0900"
-    },
-    {
-      "title": "[파주소식] 중소기업 지식재산 창출 지원 사업 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260219091400060",
-      "pubDate": "Thu, 19 Feb 2026 14:14:39 +0900"
-    },
-    {
-      "title": "광주시, 시민안전보험에 성폭력범죄 보상 추가",
-      "link": "https://www.yna.co.kr/view/AKR20260219090700054",
-      "pubDate": "Thu, 19 Feb 2026 14:11:14 +0900"
     }
   ]
 }
