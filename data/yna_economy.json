@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771543316,
+  "updated_at_unix": 1771545037,
   "items": [
+    {
+      "title": "서울 중구, 주거지 용도지역 전면 재정비 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260220028500004",
+      "pubDate": "Fri, 20 Feb 2026 08:46:36 +0900"
+    },
+    {
+      "title": "조선호텔, 김치수출 확대…\"2030년까지 김치매출 1천억원 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220028000030",
+      "pubDate": "Fri, 20 Feb 2026 08:42:29 +0900"
+    },
+    {
+      "title": "무신사, 상반기 서울숲에 매장 20여곳 연다…\"K패션에 활력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220026300030",
+      "pubDate": "Fri, 20 Feb 2026 08:30:09 +0900"
+    },
+    {
+      "title": "하나證 \"삼성SDI, 삼성D 지분매각시 11조원 현금기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220026100008",
+      "pubDate": "Fri, 20 Feb 2026 08:26:30 +0900"
+    },
+    {
+      "title": "KB증권 \"RFHIC, 방산 실적 성장 지속…목표가 50%↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220025200008",
+      "pubDate": "Fri, 20 Feb 2026 08:18:26 +0900"
+    },
+    {
+      "title": "\"소상공인 사업장에 스마트 기술을\"…소진공, 권역별 기술시연회",
+      "link": "https://www.yna.co.kr/view/AKR20260220024800030",
+      "pubDate": "Fri, 20 Feb 2026 08:17:24 +0900"
+    },
+    {
+      "title": "삼성증권, 씨앤씨인터내셔널 투자의견 하향…\"실적 가시성 악화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220023500008",
+      "pubDate": "Fri, 20 Feb 2026 08:14:07 +0900"
+    },
     {
       "title": "[마켓뷰] 美 증시 삭풍에 먹구름…코스피 '불장' 쉬어가나",
       "link": "https://www.yna.co.kr/view/AKR20260220023400008",
@@ -117,41 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.178%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260219123051008",
       "pubDate": "Thu, 19 Feb 2026 17:08:01 +0900"
-    },
-    {
-      "title": "파주시, 24∼26일 구인·구직 만남의 날…86명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260219128600060",
-      "pubDate": "Thu, 19 Feb 2026 17:07:42 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.178%",
-      "link": "https://www.yna.co.kr/view/AKR20260219123000008",
-      "pubDate": "Thu, 19 Feb 2026 16:51:07 +0900"
-    },
-    {
-      "title": "강원도, 민선 8기 56개 기업·1조 8천억원 투자 이끌어",
-      "link": "https://www.yna.co.kr/view/AKR20260219122400062",
-      "pubDate": "Thu, 19 Feb 2026 16:47:55 +0900"
-    },
-    {
-      "title": "성남시장·국회의원들, 분당 재건축 물량제한 폐지 촉구(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260219057051061",
-      "pubDate": "Thu, 19 Feb 2026 16:39:11 +0900"
-    },
-    {
-      "title": "1월 대구 수출 작년 대비 27.5%, 경북은 29.8% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260115126151053",
-      "pubDate": "Thu, 19 Feb 2026 16:35:17 +0900"
-    },
-    {
-      "title": "박완수 지사, 주한체코대사와 경남 전략산업 교류 확대방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260219120200052",
-      "pubDate": "Thu, 19 Feb 2026 16:30:29 +0900"
-    },
-    {
-      "title": "[특징주] 미 조선업 재건계획 기대감 속 조선주 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260219053751008",
-      "pubDate": "Thu, 19 Feb 2026 16:11:43 +0900"
     }
   ]
 }
