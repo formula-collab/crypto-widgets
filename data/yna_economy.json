@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771473367,
+  "updated_at_unix": 1771478270,
   "items": [
+    {
+      "title": "광주시, 시민안전보험에 성폭력범죄 보상 추가",
+      "link": "https://www.yna.co.kr/view/AKR20260219090700054",
+      "pubDate": "Thu, 19 Feb 2026 14:11:14 +0900"
+    },
+    {
+      "title": "울산 북구, 올해 소상공인 경영안정에 100억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260219089400057",
+      "pubDate": "Thu, 19 Feb 2026 14:08:28 +0900"
+    },
+    {
+      "title": "[속보] 李대통령 \"망국적 부동산 공화국 극복…모두의 경제 만들어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219089700001",
+      "pubDate": "Thu, 19 Feb 2026 14:06:43 +0900"
+    },
+    {
+      "title": "1월 아파트 포함 서울 집값 0.91%↑…상승률 두 달째 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260219067100003",
+      "pubDate": "Thu, 19 Feb 2026 14:00:02 +0900"
+    },
+    {
+      "title": "조각투자 장외거래소 예비인가 NXT컨소시엄 \"4분기 시장개설\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219080900008",
+      "pubDate": "Thu, 19 Feb 2026 13:36:47 +0900"
+    },
+    {
+      "title": "목포시, '국가 김산업 컨트롤 타워' 도약 선언",
+      "link": "https://www.yna.co.kr/view/AKR20260219080500054",
+      "pubDate": "Thu, 19 Feb 2026 13:35:15 +0900"
+    },
+    {
+      "title": "삼성물산, 에너지·바이오 등 성장사업에 3년간 최대 9.4조 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260219074300003",
+      "pubDate": "Thu, 19 Feb 2026 13:22:15 +0900"
+    },
     {
       "title": "IPO 늘자 발행공시 위반 180% 급증…금감원, 88사 143건 조치",
       "link": "https://www.yna.co.kr/view/AKR20260219072600002",
@@ -117,41 +152,6 @@
       "title": "하나은행, 디지털 플랫폼 재정비…모바일 앱 '하나원큐' 등 개편",
       "link": "https://www.yna.co.kr/view/AKR20260219062700002",
       "pubDate": "Thu, 19 Feb 2026 10:59:32 +0900"
-    },
-    {
-      "title": "동작구, 청년도전 지원사업 참여자 모집…최대 350만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260219062500004",
-      "pubDate": "Thu, 19 Feb 2026 10:56:27 +0900"
-    },
-    {
-      "title": "코스닥 급등에 매수 사이드카 발동…코스닥150선물 6%대↑",
-      "link": "https://www.yna.co.kr/view/AKR20260219060451008",
-      "pubDate": "Thu, 19 Feb 2026 10:56:22 +0900"
-    },
-    {
-      "title": "천호3구역 재건축단지 입주 본격화…강동구, 행정지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260219061700004",
-      "pubDate": "Thu, 19 Feb 2026 10:54:34 +0900"
-    },
-    {
-      "title": "[속보] 코스닥 매수 사이드카 발동",
-      "link": "https://www.yna.co.kr/view/AKR20260219060400008",
-      "pubDate": "Thu, 19 Feb 2026 10:47:47 +0900"
-    },
-    {
-      "title": "우리자산신탁, 목동1단지 재건축 사업시행자로 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260219060100002",
-      "pubDate": "Thu, 19 Feb 2026 10:47:44 +0900"
-    },
-    {
-      "title": "BPA, 내달 5일 서울서 항만물류 해외진출 지원 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260219058000051",
-      "pubDate": "Thu, 19 Feb 2026 10:44:24 +0900"
-    },
-    {
-      "title": "성남시장·국회의원들, 분당 재건축 물량제한 폐지 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260219057000061",
-      "pubDate": "Thu, 19 Feb 2026 10:34:15 +0900"
     }
   ]
 }
