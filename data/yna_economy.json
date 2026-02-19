@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771536092,
+  "updated_at_unix": 1771538055,
   "items": [
+    {
+      "title": "국제유가, 이란 위기 고조에 2%↑…6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260220011400072",
+      "pubDate": "Fri, 20 Feb 2026 06:19:56 +0900"
+    },
     {
       "title": "\"농어촌서비스기준 생활체감 중심으로\"…시행령 개정안 입법예고",
       "link": "https://www.yna.co.kr/view/AKR20260219098300030",
@@ -147,11 +152,6 @@
       "title": "연휴 끝나자마자 코스피 신기록…\"내달까지 반도체 주도 상승장\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260219061051008",
       "pubDate": "Thu, 19 Feb 2026 15:58:10 +0900"
-    },
-    {
-      "title": "[특징주] 코스피 사상 최고치 랠리에 증권주 급등…줄신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260219036251008",
-      "pubDate": "Thu, 19 Feb 2026 15:55:17 +0900"
     }
   ]
 }
