@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771497127,
+  "updated_at_unix": 1771500602,
   "items": [
+    {
+      "title": "금융위, 임대사업자 대출 점검…\"현황 파악해 대책 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219146900002",
+      "pubDate": "Thu, 19 Feb 2026 19:53:40 +0900"
+    },
+    {
+      "title": "BC카드, 새 대표이사에 김영우 전 KT 전무 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260219145900002",
+      "pubDate": "Thu, 19 Feb 2026 19:34:04 +0900"
+    },
     {
       "title": "CJ·대한제분 등 '밀가루 담합' 의혹 20년 만에 또 공정위 회부",
       "link": "https://www.yna.co.kr/view/AKR20260219142000002",
@@ -142,16 +152,6 @@
       "title": "GS건설, 성수1지구 입찰보증금 1천억원 완납…입찰서류 제출",
       "link": "https://www.yna.co.kr/view/AKR20260219107400003",
       "pubDate": "Thu, 19 Feb 2026 15:28:58 +0900"
-    },
-    {
-      "title": "[동포의 창] '한-캐나다 무역 선봉장' 이영현 월드옥타 명예회장 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260219105600371",
-      "pubDate": "Thu, 19 Feb 2026 15:28:28 +0900"
-    },
-    {
-      "title": "S&P, 한화토탈에너지스 등급 '부정적 관찰대상' 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260219105200008",
-      "pubDate": "Thu, 19 Feb 2026 15:20:01 +0900"
     }
   ]
 }
