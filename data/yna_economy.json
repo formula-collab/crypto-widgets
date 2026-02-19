@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771478270,
+  "updated_at_unix": 1771482826,
   "items": [
+    {
+      "title": "GS건설, 성수1지구 입찰보증금 1천억원 완납…입찰서류 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260219107400003",
+      "pubDate": "Thu, 19 Feb 2026 15:28:58 +0900"
+    },
+    {
+      "title": "[동포의 창] '한-캐나다 무역 선봉장' 이영현 월드옥타 명예회장 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260219105600371",
+      "pubDate": "Thu, 19 Feb 2026 15:28:28 +0900"
+    },
+    {
+      "title": "S&P, 한화토탈에너지스 등급 '부정적 관찰대상' 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260219105200008",
+      "pubDate": "Thu, 19 Feb 2026 15:20:01 +0900"
+    },
+    {
+      "title": "원주시, '2026 원주라면축제' 성공 개최 협력 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260219103800062",
+      "pubDate": "Thu, 19 Feb 2026 15:11:11 +0900"
+    },
+    {
+      "title": "충북 1월 수출액 28억9천만 달러…반도체 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260219098600064",
+      "pubDate": "Thu, 19 Feb 2026 15:07:21 +0900"
+    },
+    {
+      "title": "울주군, '찾아가는 맞춤형 창업 컨설팅 지원' 희망자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260219102500057",
+      "pubDate": "Thu, 19 Feb 2026 15:06:16 +0900"
+    },
+    {
+      "title": "주담대 변동금리 다섯 달 만에 하락…1월 코픽스 0.12%p↓",
+      "link": "https://www.yna.co.kr/view/AKR20260219102800002",
+      "pubDate": "Thu, 19 Feb 2026 15:05:57 +0900"
+    },
+    {
+      "title": "카카오게임즈, '슴미니즈' 정식 출시일 2월 25일로 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260219099900017",
+      "pubDate": "Thu, 19 Feb 2026 14:58:54 +0900"
+    },
+    {
+      "title": "귀금속 제조 스태리그룹, 익산에 102억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260219097200055",
+      "pubDate": "Thu, 19 Feb 2026 14:50:07 +0900"
+    },
+    {
+      "title": "고양시, 노후한 일산신도시·원도심 정비사업 '속도'",
+      "link": "https://www.yna.co.kr/view/AKR20260219094700060",
+      "pubDate": "Thu, 19 Feb 2026 14:36:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260219091600011",
+      "pubDate": "Thu, 19 Feb 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[특징주] 광동제약, 독점판권 보유 노안치료제 FDA승인에 상한가",
+      "link": "https://www.yna.co.kr/view/AKR20260219093900008",
+      "pubDate": "Thu, 19 Feb 2026 14:28:59 +0900"
+    },
+    {
+      "title": "[파주소식] 중소기업 지식재산 창출 지원 사업 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260219091400060",
+      "pubDate": "Thu, 19 Feb 2026 14:14:39 +0900"
+    },
     {
       "title": "광주시, 시민안전보험에 성폭력범죄 보상 추가",
       "link": "https://www.yna.co.kr/view/AKR20260219090700054",
@@ -87,71 +152,6 @@
       "title": "[대구소식] 서구, 내달부터 찾아가는 취업상담실 운영…월 1회",
       "link": "https://www.yna.co.kr/view/AKR20260219059600053",
       "pubDate": "Thu, 19 Feb 2026 11:08:03 +0900"
-    },
-    {
-      "title": "대신증권, 고객 맞춤형 '대신밸런스 멀티인컴랩' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260219062800008",
-      "pubDate": "Thu, 19 Feb 2026 11:06:06 +0900"
-    },
-    {
-      "title": "[게시판] 유안타증권 MEGA센터잠실지점, 25일 투자설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260219062100008",
-      "pubDate": "Thu, 19 Feb 2026 11:04:16 +0900"
-    },
-    {
-      "title": "연휴 끝나자마자 코스피 불기둥…\"내달까지 반도체 주도 상승장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219061000008",
-      "pubDate": "Thu, 19 Feb 2026 11:03:40 +0900"
-    },
-    {
-      "title": "한국, 몰도바와 경제협력협정 체결…경제공동위원회 설립",
-      "link": "https://www.yna.co.kr/view/AKR20260219063200504",
-      "pubDate": "Thu, 19 Feb 2026 11:01:14 +0900"
-    },
-    {
-      "title": "4천쪽짜리 건설공사 안전관리계획서 500쪽으로 줄인다",
-      "link": "https://www.yna.co.kr/view/AKR20260219023200003",
-      "pubDate": "Thu, 19 Feb 2026 11:00:05 +0900"
-    },
-    {
-      "title": "CXO연구소 \"삼성전자 직원 평균연봉 19%↑…1억5천만원대 추정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219029300003",
-      "pubDate": "Thu, 19 Feb 2026 11:00:04 +0900"
-    },
-    {
-      "title": "건축자재 품질인정, 절차는 줄이고 안전관리는 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260219035700003",
-      "pubDate": "Thu, 19 Feb 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, 외국인 계절근로자 3대 의무보험 1년 계도기간",
-      "link": "https://www.yna.co.kr/view/AKR20260219044300030",
-      "pubDate": "Thu, 19 Feb 2026 11:00:03 +0900"
-    },
-    {
-      "title": "해수부, 작년 5천404억원 규모 항만개발사업 민간투자 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260219049900051",
-      "pubDate": "Thu, 19 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "해수부, 해외 물류시장 개척지원사업 참여 기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260219050000051",
-      "pubDate": "Thu, 19 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "인천 1월 수출, 전년 대비 16.9% 증가…무역수지 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260219060500065",
-      "pubDate": "Thu, 19 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "1월 자동차 수출 61억달러로 21.7%↑…역대 1월 중 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260219059500003",
-      "pubDate": "Thu, 19 Feb 2026 11:00:00 +0900"
-    },
-    {
-      "title": "하나은행, 디지털 플랫폼 재정비…모바일 앱 '하나원큐' 등 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260219062700002",
-      "pubDate": "Thu, 19 Feb 2026 10:59:32 +0900"
     }
   ]
 }
