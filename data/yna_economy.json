@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771539592,
+  "updated_at_unix": 1771541765,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260220016100011",
+      "pubDate": "Fri, 20 Feb 2026 07:30:01 +0900"
+    },
     {
       "title": "커지는 코스닥 부양 기대감…외국인, 연휴 이후에도 ETF '사자'",
       "link": "https://www.yna.co.kr/view/AKR20260219119700008",
@@ -147,11 +152,6 @@
       "title": "[게시판] DB손보, 보험금 지급 전 과정에 'AI 상담' 도입",
       "link": "https://www.yna.co.kr/view/AKR20260219114300002",
       "pubDate": "Thu, 19 Feb 2026 16:01:35 +0900"
-    },
-    {
-      "title": "작년 무역안보 침해 범죄 6천억원…1년 새 3배로 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260219113600002",
-      "pubDate": "Thu, 19 Feb 2026 16:01:04 +0900"
     }
   ]
 }
