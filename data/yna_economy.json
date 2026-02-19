@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771493633,
+  "updated_at_unix": 1771497127,
   "items": [
+    {
+      "title": "CJ·대한제분 등 '밀가루 담합' 의혹 20년 만에 또 공정위 회부",
+      "link": "https://www.yna.co.kr/view/AKR20260219142000002",
+      "pubDate": "Thu, 19 Feb 2026 19:18:48 +0900"
+    },
     {
       "title": "모바일어플라이언스, 90억원 유증…에어로스페이스코리아 조합 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260219139100008",
@@ -147,11 +152,6 @@
       "title": "S&P, 한화토탈에너지스 등급 '부정적 관찰대상' 지정",
       "link": "https://www.yna.co.kr/view/AKR20260219105200008",
       "pubDate": "Thu, 19 Feb 2026 15:20:01 +0900"
-    },
-    {
-      "title": "원주시, '2026 원주라면축제' 성공 개최 협력 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260219103800062",
-      "pubDate": "Thu, 19 Feb 2026 15:11:11 +0900"
     }
   ]
 }
