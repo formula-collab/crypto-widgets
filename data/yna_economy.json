@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771458629,
+  "updated_at_unix": 1771463316,
   "items": [
+    {
+      "title": "맥도날드, 가격 100∼400원 인상…빅맥세트 7천600원",
+      "link": "https://www.yna.co.kr/view/AKR20260219049300030",
+      "pubDate": "Thu, 19 Feb 2026 10:00:19 +0900"
+    },
+    {
+      "title": "서울시, 강북에 16조 집중 투자…교통망 확충·산업거점 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260218031800004",
+      "pubDate": "Thu, 19 Feb 2026 10:00:03 +0900"
+    },
+    {
+      "title": "코트라, K-소비재 수출 지원…\"60개국·336개 유통망 뚫는다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219043200003",
+      "pubDate": "Thu, 19 Feb 2026 10:00:00 +0900"
+    },
+    {
+      "title": "경남도, 파리 K-프리미엄 소비재전 참가기업 모집…3월 6일까지",
+      "link": "https://www.yna.co.kr/view/AKR20260219049400052",
+      "pubDate": "Thu, 19 Feb 2026 09:59:48 +0900"
+    },
+    {
+      "title": "교보생명, 자궁질환 초음파검사 특약 6개월 배타적사용권",
+      "link": "https://www.yna.co.kr/view/AKR20260219045200002",
+      "pubDate": "Thu, 19 Feb 2026 09:50:20 +0900"
+    },
+    {
+      "title": "[게시판] 보건복지부, 보건 국제기구 취업 정보 제공 워크숍",
+      "link": "https://www.yna.co.kr/view/AKR20260219046200530",
+      "pubDate": "Thu, 19 Feb 2026 09:48:21 +0900"
+    },
+    {
+      "title": "한화증권, 美 크리서스에 180억원 규모 전략적 투자 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260219040800008",
+      "pubDate": "Thu, 19 Feb 2026 09:40:43 +0900"
+    },
+    {
+      "title": "설 연휴 마친 코스피, 2% 넘게 급등 출발해 사상 첫 5,600 고지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260219031951008",
+      "pubDate": "Thu, 19 Feb 2026 09:38:58 +0900"
+    },
+    {
+      "title": "미국·이란 긴장 고조에…유가·금값 일제히 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260219030700009",
+      "pubDate": "Thu, 19 Feb 2026 09:35:54 +0900"
+    },
+    {
+      "title": "bhc, '치킨 버거' 판매 매장 확대…\"직장인·학생·혼밥족 공략\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219039300030",
+      "pubDate": "Thu, 19 Feb 2026 09:32:40 +0900"
+    },
+    {
+      "title": "LG생활건강 \"VDL, 동남아 이커머스 입점 뒤 매출 급성장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219037200030",
+      "pubDate": "Thu, 19 Feb 2026 09:31:15 +0900"
+    },
+    {
+      "title": "KB증권, 취약계층 어르신에 설맞이 간편식 등 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260219037800008",
+      "pubDate": "Thu, 19 Feb 2026 09:30:27 +0900"
+    },
+    {
+      "title": "1월 美서부 수출 운임 두 달째 하락…동부는 석 달 연속 오름세",
+      "link": "https://www.yna.co.kr/view/AKR20260219035500002",
+      "pubDate": "Thu, 19 Feb 2026 09:22:42 +0900"
+    },
+    {
+      "title": "[특징주] 코스피 사상 최고치 랠리에 증권주 급등…줄줄이 신고가",
+      "link": "https://www.yna.co.kr/view/AKR20260219036200008",
+      "pubDate": "Thu, 19 Feb 2026 09:21:38 +0900"
+    },
+    {
+      "title": "농심, 라면 미식 프로젝트…'신라면 아부라소바' 선보인다",
+      "link": "https://www.yna.co.kr/view/AKR20260219035600030",
+      "pubDate": "Thu, 19 Feb 2026 09:19:44 +0900"
+    },
+    {
+      "title": "연휴 지나고 첫 거래일 원/달러 환율 7.1원 상승…1,450원대",
+      "link": "https://www.yna.co.kr/view/AKR20260219033200002",
+      "pubDate": "Thu, 19 Feb 2026 09:11:33 +0900"
+    },
+    {
+      "title": "유한킴벌리, '나무심기' 참여 예비·신혼부부 참가자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260219032500030",
+      "pubDate": "Thu, 19 Feb 2026 09:09:25 +0900"
+    },
+    {
+      "title": "설 연휴 마친 코스피, 2% 넘게 급등 출발해 사상 첫 5,600 고지",
+      "link": "https://www.yna.co.kr/view/AKR20260219031900008",
+      "pubDate": "Thu, 19 Feb 2026 09:08:58 +0900"
+    },
+    {
+      "title": "한은 \"2월 들어 주요 가격변수 변동성 높아진 상황\"",
+      "link": "https://www.yna.co.kr/view/AKR20260219031800002",
+      "pubDate": "Thu, 19 Feb 2026 09:06:32 +0900"
+    },
+    {
+      "title": "외국환시세(2월19일·하나은행 1차 고시 기준)",
+      "link": "https://www.yna.co.kr/view/AKR20260219030000002",
+      "pubDate": "Thu, 19 Feb 2026 09:00:18 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 6.1원 오른 1,451.0원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260219030100002",
+      "pubDate": "Thu, 19 Feb 2026 09:00:12 +0900"
+    },
+    {
+      "title": "KB금융, 100% 그룹 자본으로 1조원 '성장인프라펀드' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260219027000002",
+      "pubDate": "Thu, 19 Feb 2026 08:51:24 +0900"
+    },
+    {
+      "title": "신한투자 \"두산밥캣, 바닥권 업황에도 추가성장 가능\"…목표가↑",
+      "link": "https://www.yna.co.kr/view/AKR20260219026700008",
+      "pubDate": "Thu, 19 Feb 2026 08:50:01 +0900"
+    },
     {
       "title": "한화증권 \"현대차, 자율주행 모멘텀 가시화…목표가 65만원\"",
       "link": "https://www.yna.co.kr/view/AKR20260219026900008",
@@ -37,121 +152,6 @@
       "title": "삼성證 \"LIG넥스원, 수주잔고의 매출 환원 속도 더뎌\"…목표가↓",
       "link": "https://www.yna.co.kr/view/AKR20260219024400008",
       "pubDate": "Thu, 19 Feb 2026 08:36:50 +0900"
-    },
-    {
-      "title": "슈퍼사이클 맞은 '반도체'…\"올해 채용 가장 활발한 업종\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219024500003",
-      "pubDate": "Thu, 19 Feb 2026 08:33:41 +0900"
-    },
-    {
-      "title": "NH투자, KT 목표가↑…\"글로벌 주요 통신사 대비 현저히 저평가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219022100008",
-      "pubDate": "Thu, 19 Feb 2026 08:30:27 +0900"
-    },
-    {
-      "title": "무신사 스탠다드, 내달 중국 2호점 오픈…\"시장 확장에 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219022900030",
-      "pubDate": "Thu, 19 Feb 2026 08:26:39 +0900"
-    },
-    {
-      "title": "롯데호텔앤리조트, 광주에 ＇L7 충장 바이 롯데호텔' 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260219021300030",
-      "pubDate": "Thu, 19 Feb 2026 08:18:41 +0900"
-    },
-    {
-      "title": "삼성증권, 클래시스 목표가↑…\"中허가 등 다수 모멘텀 유효\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219021800008",
-      "pubDate": "Thu, 19 Feb 2026 08:16:25 +0900"
-    },
-    {
-      "title": "[마켓뷰] 설 연휴 마친 코스피, 美 기술주 강세에 상승 출발할까",
-      "link": "https://www.yna.co.kr/view/AKR20260219020400008",
-      "pubDate": "Thu, 19 Feb 2026 08:07:26 +0900"
-    },
-    {
-      "title": "강남구, 생계형 체납자 지원 3종 패키지 도입…전담조직 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260219019300004",
-      "pubDate": "Thu, 19 Feb 2026 07:58:18 +0900"
-    },
-    {
-      "title": "부산시, 블록체인 특화 클러스터 조성 사업 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260219018700051",
-      "pubDate": "Thu, 19 Feb 2026 07:52:32 +0900"
-    },
-    {
-      "title": "에이치이티, 울산에 145억원 들여 변압기 제조설비 확장",
-      "link": "https://www.yna.co.kr/view/AKR20260218056000057",
-      "pubDate": "Thu, 19 Feb 2026 07:45:31 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260219013700011",
-      "pubDate": "Thu, 19 Feb 2026 07:30:00 +0900"
-    },
-    {
-      "title": "경기도, 올해 '기존주택 매입·전세임대' 3천715가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260213111600061",
-      "pubDate": "Thu, 19 Feb 2026 07:01:03 +0900"
-    },
-    {
-      "title": "해외서 '불닭' 짝퉁 판쳐…삼양식품 'Buldak' 상표권 등록 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260214040900030",
-      "pubDate": "Thu, 19 Feb 2026 07:01:01 +0900"
-    },
-    {
-      "title": "[마켓人] 서정현 NH아문디운용 본부장 \"채권→주식 대전환은 과도한 해석\"",
-      "link": "https://www.yna.co.kr/view/AKR20260213191200008",
-      "pubDate": "Thu, 19 Feb 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[우분투칼럼] 아프리카의 기후위기, 연대인가 경쟁인가",
-      "link": "https://www.yna.co.kr/view/AKR20260205152900898",
-      "pubDate": "Thu, 19 Feb 2026 07:00:05 +0900"
-    },
-    {
-      "title": "작년 서울 집합건물 생애최초 매수자 절반이 30대…'역대 최대'",
-      "link": "https://www.yna.co.kr/view/AKR20260218050100003",
-      "pubDate": "Thu, 19 Feb 2026 06:01:00 +0900"
-    },
-    {
-      "title": "'회생·파산 전문' 대전회생법원 다음 달 1일 개원",
-      "link": "https://www.yna.co.kr/view/AKR20260213069400063",
-      "pubDate": "Thu, 19 Feb 2026 06:00:11 +0900"
-    },
-    {
-      "title": "'중증장애인 고용모델 개발·확산 사업' 참여 기업·기관 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260213183900530",
-      "pubDate": "Thu, 19 Feb 2026 06:00:06 +0900"
-    },
-    {
-      "title": "홈플러스, 19일부터 이틀간 도시락 2종 990원 할인 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260218034500030",
-      "pubDate": "Thu, 19 Feb 2026 06:00:04 +0900"
-    },
-    {
-      "title": "롯데百, 20일부터 '웨딩페어'…웨딩마일리지 두 배 적립",
-      "link": "https://www.yna.co.kr/view/AKR20260218050800030",
-      "pubDate": "Thu, 19 Feb 2026 06:00:03 +0900"
-    },
-    {
-      "title": "신세계백화점, '5메이징 카드 페스타'…제휴카드사와 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260218052100030",
-      "pubDate": "Thu, 19 Feb 2026 06:00:02 +0900"
-    },
-    {
-      "title": "롯데온, '파이널 세일' 개최…\"봄 신상부터 겨울 마감까지 할인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218053200030",
-      "pubDate": "Thu, 19 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "롯데마트, 신학기 용품 할인…가방·실내화 최대 30% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260218053600030",
-      "pubDate": "Thu, 19 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "대법 \"저작권은 창작자 것…음원공급계약이 권리양도는 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260218047900004",
-      "pubDate": "Thu, 19 Feb 2026 06:00:00 +0900"
     }
   ]
 }
