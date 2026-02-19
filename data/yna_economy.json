@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771534481,
+  "updated_at_unix": 1771536092,
   "items": [
+    {
+      "title": "\"농어촌서비스기준 생활체감 중심으로\"…시행령 개정안 입법예고",
+      "link": "https://www.yna.co.kr/view/AKR20260219098300030",
+      "pubDate": "Fri, 20 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "핀테크 스타트업 육성기관 '서울핀테크랩' 입주기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260219125800004",
+      "pubDate": "Fri, 20 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "'한·인도 경제협력 컨퍼런스'…AI·공급망 등 협력모색",
+      "link": "https://www.yna.co.kr/view/AKR20260219147600003",
+      "pubDate": "Fri, 20 Feb 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美, 이란과 전면전으로 가나…WTI 1.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260220009800009",
+      "pubDate": "Fri, 20 Feb 2026 05:59:26 +0900"
+    },
+    {
+      "title": "[샷!] \"이 검사 안 하면 죽을 수도 있다니 어쩌겠어요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260213097700505",
+      "pubDate": "Fri, 20 Feb 2026 05:50:00 +0900"
+    },
     {
       "title": "미 주택담보대출 금리 6%…3년 5개월 만에 최저",
       "link": "https://www.yna.co.kr/view/AKR20260220004400072",
@@ -127,31 +152,6 @@
       "title": "[특징주] 코스피 사상 최고치 랠리에 증권주 급등…줄신고가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260219036251008",
       "pubDate": "Thu, 19 Feb 2026 15:55:17 +0900"
-    },
-    {
-      "title": "최교진 교육장관 \"교복업체 담합·불공정행위 여부 살피겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260219112100530",
-      "pubDate": "Thu, 19 Feb 2026 15:53:39 +0900"
-    },
-    {
-      "title": "주담대 변동금리 다섯 달 만에 하락…1월 코픽스 0.12%p↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260219102851002",
-      "pubDate": "Thu, 19 Feb 2026 15:41:40 +0900"
-    },
-    {
-      "title": "코스피, 연휴 끝나자마자 최고치 경신…5,600선 굳히며 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260219110100008",
-      "pubDate": "Thu, 19 Feb 2026 15:39:22 +0900"
-    },
-    {
-      "title": "외국환시세(2월19일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260219109800002",
-      "pubDate": "Thu, 19 Feb 2026 15:35:14 +0900"
-    },
-    {
-      "title": "[부고] 홍동수(세계은행 박사·전 한국은행 직원)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260219108600002",
-      "pubDate": "Thu, 19 Feb 2026 15:34:40 +0900"
     }
   ]
 }
