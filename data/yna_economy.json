@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771590695,
+  "updated_at_unix": 1771595548,
   "items": [
+    {
+      "title": "[2보] 미 작년 12월 PCE물가 전년 대비 2.9%↑…전망 상회",
+      "link": "https://www.yna.co.kr/view/AKR20260220161851072",
+      "pubDate": "Fri, 20 Feb 2026 22:45:05 +0900"
+    },
+    {
+      "title": "[1보] 미 작년 12월 PCE물가 전년 대비 2.9%↑…전망 상회",
+      "link": "https://www.yna.co.kr/view/AKR20260220161800072",
+      "pubDate": "Fri, 20 Feb 2026 22:38:19 +0900"
+    },
+    {
+      "title": "[속보] 미 2025년 연간성장률 2.2%…2%대 성장세 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260220161500072",
+      "pubDate": "Fri, 20 Feb 2026 22:33:50 +0900"
+    },
+    {
+      "title": "전남 무안서 아프리카돼지열병…올해 19번째 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260220160300030",
+      "pubDate": "Fri, 20 Feb 2026 22:17:10 +0900"
+    },
     {
       "title": "지난달 카드론 잔액 전월비 0.6%↑…한달 만에 증가 전환",
       "link": "https://www.yna.co.kr/view/AKR20260220153500002",
@@ -132,26 +152,6 @@
       "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권",
       "link": "https://www.yna.co.kr/view/AKR20260220112200008",
       "pubDate": "Fri, 20 Feb 2026 15:35:15 +0900"
-    },
-    {
-      "title": "외국환시세(2월20일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260220112500002",
-      "pubDate": "Fri, 20 Feb 2026 15:35:14 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.1원 오른 1,446.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260220110800002",
-      "pubDate": "Fri, 20 Feb 2026 15:30:16 +0900"
-    },
-    {
-      "title": "하이드로리튬, 5.5억원 유상증자…세진씨아이 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260220109400008",
-      "pubDate": "Fri, 20 Feb 2026 15:24:20 +0900"
-    },
-    {
-      "title": "'밀가루 담합' 공정위 심판대에…20년만에 가격재결정 명령 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220069351002",
-      "pubDate": "Fri, 20 Feb 2026 15:12:37 +0900"
     }
   ]
 }
