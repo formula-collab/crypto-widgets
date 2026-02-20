@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771629496,
+  "updated_at_unix": 1771631266,
   "items": [
+    {
+      "title": "與, '美상호관세 위법판결'에 \"국익중심 원칙 아래 정부와 협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221023600001",
+      "pubDate": "Sat, 21 Feb 2026 08:41:43 +0900"
+    },
     {
       "title": "똑같은 사기인데…경찰 7년 전엔 유죄, 지금은 무혐의?",
       "link": "https://www.yna.co.kr/view/AKR20260212131300004",
@@ -147,11 +152,6 @@
       "title": "환율, 이란 위기에 1.1원↑…수출업체 달러 매도에 상승폭 줄여",
       "link": "https://www.yna.co.kr/view/AKR20260220125000002",
       "pubDate": "Fri, 20 Feb 2026 16:40:58 +0900"
-    },
-    {
-      "title": "美국무부 부장관, 투자유치 성과로 한국기업 사례 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260220123600504",
-      "pubDate": "Fri, 20 Feb 2026 16:28:36 +0900"
     }
   ]
 }
