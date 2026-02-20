@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771578158,
+  "updated_at_unix": 1771581666,
   "items": [
+    {
+      "title": "구윤철 \"바이오, 반도체 같은 성장축되도록 적극 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220143800002",
+      "pubDate": "Fri, 20 Feb 2026 18:14:18 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260220136900011",
+      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0900"
+    },
     {
       "title": "퀀타매트릭스 \"프랑스 자회사 주식 43억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260220141100008",
@@ -142,16 +152,6 @@
       "title": "[해남소식] 원도심 초콜릿매장 창업자 모집…최대 5천만원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260220106700054",
       "pubDate": "Fri, 20 Feb 2026 15:06:38 +0900"
-    },
-    {
-      "title": "울주군 청년 소통간담회…문화 프로그램 확대 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260220102400057",
-      "pubDate": "Fri, 20 Feb 2026 15:03:40 +0900"
-    },
-    {
-      "title": "금감원, 李대통령 지적한 '다주택자 대출' 대응 TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260220100800002",
-      "pubDate": "Fri, 20 Feb 2026 15:00:02 +0900"
     }
   ]
 }
