@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771605659,
+  "updated_at_unix": 1771608517,
   "items": [
+    {
+      "title": "달러-원, 美 상호관세 위법 판결에 상승분 대거 반납…1,446.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260221005000002",
+      "pubDate": "Sat, 21 Feb 2026 02:24:51 +0900"
+    },
     {
       "title": "靑, 美 '상호관세 위법' 판결에 \"국익 부합하는 방향으로 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260221003300001",
@@ -147,11 +152,6 @@
       "title": "[특징주] 美 이란 공습 가능성에 방산주 줄상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220036551008",
       "pubDate": "Fri, 20 Feb 2026 16:00:22 +0900"
-    },
-    {
-      "title": "[특징주] '블랙록 지분 보유' SK하이닉스, 6% 급등해 사상 첫 95만원대",
-      "link": "https://www.yna.co.kr/view/AKR20260220117000008",
-      "pubDate": "Fri, 20 Feb 2026 15:59:22 +0900"
     }
   ]
 }
