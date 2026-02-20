@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771603184,
+  "updated_at_unix": 1771605659,
   "items": [
+    {
+      "title": "靑, 美 '상호관세 위법' 판결에 \"국익 부합하는 방향으로 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221003300001",
+      "pubDate": "Sat, 21 Feb 2026 01:21:23 +0900"
+    },
     {
       "title": "'상호관세 위법' 판결에도…500조 대미 투자 재협상 어려울 듯",
       "link": "https://www.yna.co.kr/view/AKR20260221001100003",
@@ -147,11 +152,6 @@
       "title": "[특징주] '블랙록 지분 보유' SK하이닉스, 6% 급등해 사상 첫 95만원대",
       "link": "https://www.yna.co.kr/view/AKR20260220117000008",
       "pubDate": "Fri, 20 Feb 2026 15:59:22 +0900"
-    },
-    {
-      "title": "산림청, '복권기금 활용' 청소년 도시숲 시민과학 프로젝트 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260220116300063",
-      "pubDate": "Fri, 20 Feb 2026 15:55:26 +0900"
     }
   ]
 }
