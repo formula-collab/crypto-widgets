@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771597946,
+  "updated_at_unix": 1771601326,
   "items": [
+    {
+      "title": "美작년 12월 PCE물가 전년 대비 2.9%↑…인플레 우려 지속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220161852072",
+      "pubDate": "Fri, 20 Feb 2026 23:58:46 +0900"
+    },
     {
       "title": "[2보] 미 작년 12월 PCE물가 전년 대비 2.9%↑…전망 상회",
       "link": "https://www.yna.co.kr/view/AKR20260220161851072",
@@ -147,11 +152,6 @@
       "title": "건강보험공단, 내달 5일까지 신규직원 600명 모집",
       "link": "https://www.yna.co.kr/view/AKR20260220113900530",
       "pubDate": "Fri, 20 Feb 2026 15:47:19 +0900"
-    },
-    {
-      "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권",
-      "link": "https://www.yna.co.kr/view/AKR20260220112200008",
-      "pubDate": "Fri, 20 Feb 2026 15:35:15 +0900"
     }
   ]
 }
