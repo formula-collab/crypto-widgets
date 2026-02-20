@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771627819,
+  "updated_at_unix": 1771629496,
   "items": [
+    {
+      "title": "똑같은 사기인데…경찰 7년 전엔 유죄, 지금은 무혐의?",
+      "link": "https://www.yna.co.kr/view/AKR20260212131300004",
+      "pubDate": "Sat, 21 Feb 2026 07:55:00 +0900"
+    },
     {
       "title": "[금주핫템] LF 아떼 '어센틱 립 글로이 밤'·까사미아 '캄포 레스트'",
       "link": "https://www.yna.co.kr/view/AKR20260220085300030",
@@ -147,11 +152,6 @@
       "title": "美국무부 부장관, 투자유치 성과로 한국기업 사례 소개",
       "link": "https://www.yna.co.kr/view/AKR20260220123600504",
       "pubDate": "Fri, 20 Feb 2026 16:28:36 +0900"
-    },
-    {
-      "title": "[특징주] 보험주 일제 상한가…자사주 의무소각 기대 덕분?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220088951008",
-      "pubDate": "Fri, 20 Feb 2026 16:23:41 +0900"
     }
   ]
 }
