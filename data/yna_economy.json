@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771558956,
+  "updated_at_unix": 1771564280,
   "items": [
+    {
+      "title": "지난해 1만6천여명 호남 떠나…20대 인구 유출 심각",
+      "link": "https://www.yna.co.kr/view/AKR20260220090600054",
+      "pubDate": "Fri, 20 Feb 2026 14:07:54 +0900"
+    },
+    {
+      "title": "다주택자 압박 속 서울 아파트값 상승세 3주째 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260220069800003",
+      "pubDate": "Fri, 20 Feb 2026 14:00:02 +0900"
+    },
+    {
+      "title": "'맞춤형 일자리 정책 마련'…지역·산업 특화 고용센터 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260220072900530",
+      "pubDate": "Fri, 20 Feb 2026 14:00:01 +0900"
+    },
+    {
+      "title": "한신평 \"14개 부동산신탁사, 지난해 4천689억원 순손실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220086200008",
+      "pubDate": "Fri, 20 Feb 2026 13:59:06 +0900"
+    },
+    {
+      "title": "[특징주] 보험주 잇단 상한가…자사주 의무소각 기대 덕분?",
+      "link": "https://www.yna.co.kr/view/AKR20260220088900008",
+      "pubDate": "Fri, 20 Feb 2026 13:58:11 +0900"
+    },
+    {
+      "title": "[게시판] 교보증권, '2026 윤리경영의 날' 교육 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260220081000008",
+      "pubDate": "Fri, 20 Feb 2026 13:49:10 +0900"
+    },
+    {
+      "title": "과기부총리, 'AI 글로벌 파트너십' 각료 이사회 회의 주재",
+      "link": "https://www.yna.co.kr/view/AKR20260220041800017",
+      "pubDate": "Fri, 20 Feb 2026 13:00:01 +0900"
+    },
     {
       "title": "장민영 신임 기업은행장 \"300조 생산적금융 프로젝트 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260220077100002",
@@ -29,7 +64,7 @@
       "pubDate": "Fri, 20 Feb 2026 12:00:03 +0900"
     },
     {
-      "title": "작년말 가계빚 1천979억 최대…빚투·영끌에 4분기 대출 11조↑",
+      "title": "작년말 가계빚 1천979조 최대…빚투·영끌에 4분기 대출 11조↑",
       "link": "https://www.yna.co.kr/view/AKR20260220074700002",
       "pubDate": "Fri, 20 Feb 2026 12:00:00 +0900"
     },
@@ -117,41 +152,6 @@
       "title": "李대통령 \"기존 다주택자 대출연장·대환대출 규제 검토 지시\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220041251001",
       "pubDate": "Fri, 20 Feb 2026 10:25:29 +0900"
-    },
-    {
-      "title": "군포시, LH 매입임대주택 예비입주 40가구 모집…시세 30% 수준",
-      "link": "https://www.yna.co.kr/view/AKR20260220055200061",
-      "pubDate": "Fri, 20 Feb 2026 10:22:31 +0900"
-    },
-    {
-      "title": "성북구, 새마을금고와 손잡고 소상공인에 60억 특별융자",
-      "link": "https://www.yna.co.kr/view/AKR20260220054000004",
-      "pubDate": "Fri, 20 Feb 2026 10:21:56 +0900"
-    },
-    {
-      "title": "울산생명의숲, 산림 치유체험 문화 활성화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260220045900057",
-      "pubDate": "Fri, 20 Feb 2026 10:05:33 +0900"
-    },
-    {
-      "title": "울주군, 청년지원에 226억 투입…주택임차 월 최대 20만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260220045500057",
-      "pubDate": "Fri, 20 Feb 2026 10:02:33 +0900"
-    },
-    {
-      "title": "식품진흥원-창업보육협회, K-푸드 청년창업 세계 진출에 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260220046000055",
-      "pubDate": "Fri, 20 Feb 2026 10:02:25 +0900"
-    },
-    {
-      "title": "파주시, 지역화폐 '역대 최대' 4천억원 발행 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260220049100060",
-      "pubDate": "Fri, 20 Feb 2026 10:01:33 +0900"
-    },
-    {
-      "title": "인천시, 올해 7∼9급 공무원 1천575명 신규 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260220034000065",
-      "pubDate": "Fri, 20 Feb 2026 10:00:07 +0900"
     }
   ]
 }
