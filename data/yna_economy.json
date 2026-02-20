@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771601326,
+  "updated_at_unix": 1771603184,
   "items": [
+    {
+      "title": "'상호관세 위법' 판결에도…500조 대미 투자 재협상 어려울 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260221001100003",
+      "pubDate": "Sat, 21 Feb 2026 00:30:05 +0900"
+    },
     {
       "title": "美작년 12월 PCE물가 전년 대비 2.9%↑…인플레 우려 지속(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220161852072",
@@ -147,11 +152,6 @@
       "title": "산림청, '복권기금 활용' 청소년 도시숲 시민과학 프로젝트 추진",
       "link": "https://www.yna.co.kr/view/AKR20260220116300063",
       "pubDate": "Fri, 20 Feb 2026 15:55:26 +0900"
-    },
-    {
-      "title": "건강보험공단, 내달 5일까지 신규직원 600명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260220113900530",
-      "pubDate": "Fri, 20 Feb 2026 15:47:19 +0900"
     }
   ]
 }
