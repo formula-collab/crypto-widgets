@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771623973,
+  "updated_at_unix": 1771625596,
   "items": [
+    {
+      "title": "[금주핫템] LF 아떼 '어센틱 립 글로이 밤'·까사미아 '캄포 레스트'",
+      "link": "https://www.yna.co.kr/view/AKR20260220085300030",
+      "pubDate": "Sat, 21 Feb 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오리온 '오감자 버터갈릭감자튀김맛'·오뚜기 '오늘의 만두'",
+      "link": "https://www.yna.co.kr/view/AKR20260220057600030",
+      "pubDate": "Sat, 21 Feb 2026 07:00:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 트럼프 관세 위법에 불확실성 촉발…WTI 약보합 마감",
       "link": "https://www.yna.co.kr/view/AKR20260221012200009",
@@ -142,16 +152,6 @@
       "title": "[특징주] 보험주 일제 상한가…자사주 의무소각 기대 덕분?(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220088951008",
       "pubDate": "Fri, 20 Feb 2026 16:23:41 +0900"
-    },
-    {
-      "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220112251008",
-      "pubDate": "Fri, 20 Feb 2026 16:16:47 +0900"
-    },
-    {
-      "title": "[특징주] LG디스플레이, OLED 저변확대 기대 속 8% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220044351008",
-      "pubDate": "Fri, 20 Feb 2026 16:04:45 +0900"
     }
   ]
 }
