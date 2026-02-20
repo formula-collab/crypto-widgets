@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771572490,
+  "updated_at_unix": 1771574481,
   "items": [
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.143%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220128151008",
+      "pubDate": "Fri, 20 Feb 2026 16:56:10 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.143%",
+      "link": "https://www.yna.co.kr/view/AKR20260220128100008",
+      "pubDate": "Fri, 20 Feb 2026 16:46:05 +0900"
+    },
+    {
+      "title": "SK온, 희망퇴직·무급휴직 실시…전기차 캐즘에 경영 효율화",
+      "link": "https://www.yna.co.kr/view/AKR20260220128400003",
+      "pubDate": "Fri, 20 Feb 2026 16:42:41 +0900"
+    },
+    {
+      "title": "대우건설, 성수4지구 입찰 논란 사과…\"적절치 못한 행동 확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220122900003",
+      "pubDate": "Fri, 20 Feb 2026 16:41:55 +0900"
+    },
+    {
+      "title": "환율, 이란 위기에 1.1원↑…수출업체 달러 매도에 상승폭 줄여",
+      "link": "https://www.yna.co.kr/view/AKR20260220125000002",
+      "pubDate": "Fri, 20 Feb 2026 16:40:58 +0900"
+    },
+    {
+      "title": "美국무부 부장관, 투자유치 성과로 한국기업 사례 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260220123600504",
+      "pubDate": "Fri, 20 Feb 2026 16:28:36 +0900"
+    },
+    {
+      "title": "[특징주] 보험주 일제 상한가…자사주 의무소각 기대 덕분?(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220088951008",
+      "pubDate": "Fri, 20 Feb 2026 16:23:41 +0900"
+    },
     {
       "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220112251008",
@@ -117,41 +152,6 @@
       "title": "경기도, '부동산 부패 제보 핫라인' 개설…집값 띄우기 특별조사",
       "link": "https://www.yna.co.kr/view/AKR20260220090900061",
       "pubDate": "Fri, 20 Feb 2026 14:09:59 +0900"
-    },
-    {
-      "title": "광주시, 저신용 소상공인 금융이자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260220090700054",
-      "pubDate": "Fri, 20 Feb 2026 14:08:15 +0900"
-    },
-    {
-      "title": "지난해 1만6천여명 호남 떠나…20대 인구 유출 심각",
-      "link": "https://www.yna.co.kr/view/AKR20260220090600054",
-      "pubDate": "Fri, 20 Feb 2026 14:07:54 +0900"
-    },
-    {
-      "title": "다주택자 압박 속 서울 아파트값 상승세 3주째 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260220069800003",
-      "pubDate": "Fri, 20 Feb 2026 14:00:02 +0900"
-    },
-    {
-      "title": "'맞춤형 일자리 정책 마련'…지역·산업 특화 고용센터 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260220072900530",
-      "pubDate": "Fri, 20 Feb 2026 14:00:01 +0900"
-    },
-    {
-      "title": "한신평 \"14개 부동산신탁사, 지난해 4천689억원 순손실\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220086200008",
-      "pubDate": "Fri, 20 Feb 2026 13:59:06 +0900"
-    },
-    {
-      "title": "[특징주] 보험주 잇단 상한가…자사주 의무소각 기대 덕분?",
-      "link": "https://www.yna.co.kr/view/AKR20260220088900008",
-      "pubDate": "Fri, 20 Feb 2026 13:58:11 +0900"
-    },
-    {
-      "title": "[게시판] 교보증권, '2026 윤리경영의 날' 교육 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260220081000008",
-      "pubDate": "Fri, 20 Feb 2026 13:49:10 +0900"
     }
   ]
 }
