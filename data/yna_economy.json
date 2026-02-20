@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771574481,
+  "updated_at_unix": 1771578158,
   "items": [
+    {
+      "title": "퀀타매트릭스 \"프랑스 자회사 주식 43억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220141100008",
+      "pubDate": "Fri, 20 Feb 2026 17:43:04 +0900"
+    },
+    {
+      "title": "아모레 차녀 서호정씨, 101억원어치 지분 매각…\"증여세 납부용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220138100030",
+      "pubDate": "Fri, 20 Feb 2026 17:29:51 +0900"
+    },
+    {
+      "title": "창업기업 육성 산실…익산에 '스타트업 라운지 키움공간' 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260220134000055",
+      "pubDate": "Fri, 20 Feb 2026 17:19:50 +0900"
+    },
+    {
+      "title": "DB손보, 작년 순이익 1조5천349억원…전년 대비 13.4%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260220134100002",
+      "pubDate": "Fri, 20 Feb 2026 17:13:15 +0900"
+    },
+    {
+      "title": "돼지 사료에서 아프리카돼지열병 유전자 첫 검출",
+      "link": "https://www.yna.co.kr/view/AKR20260220132800030",
+      "pubDate": "Fri, 20 Feb 2026 17:05:50 +0900"
+    },
+    {
+      "title": "경남도, 해빙기 안전사고 예방…공동주택 건설현장 안전점검",
+      "link": "https://www.yna.co.kr/view/AKR20260220131600052",
+      "pubDate": "Fri, 20 Feb 2026 17:01:36 +0900"
+    },
     {
       "title": "국고채 금리 일제히 하락…3년물 연 3.143%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220128151008",
@@ -122,36 +152,6 @@
       "title": "금감원, 李대통령 지적한 '다주택자 대출' 대응 TF 가동",
       "link": "https://www.yna.co.kr/view/AKR20260220100800002",
       "pubDate": "Fri, 20 Feb 2026 15:00:02 +0900"
-    },
-    {
-      "title": "성수1지구 재개발 시공사 선정 입찰에 GS건설만 응찰",
-      "link": "https://www.yna.co.kr/view/AKR20260220104100003",
-      "pubDate": "Fri, 20 Feb 2026 14:59:41 +0900"
-    },
-    {
-      "title": "국토차관 \"가덕신공항 2035년 개항, 국민 약속…차질없이 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220100300003",
-      "pubDate": "Fri, 20 Feb 2026 14:46:54 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260220098400030",
-      "pubDate": "Fri, 20 Feb 2026 14:34:56 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260220097200011",
-      "pubDate": "Fri, 20 Feb 2026 14:34:20 +0900"
-    },
-    {
-      "title": "[안성소식] LH 매입임대주택 예비입주자 105세대 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260220096400061",
-      "pubDate": "Fri, 20 Feb 2026 14:27:18 +0900"
-    },
-    {
-      "title": "경기도, '부동산 부패 제보 핫라인' 개설…집값 띄우기 특별조사",
-      "link": "https://www.yna.co.kr/view/AKR20260220090900061",
-      "pubDate": "Fri, 20 Feb 2026 14:09:59 +0900"
     }
   ]
 }
