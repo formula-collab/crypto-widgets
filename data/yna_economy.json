@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771581666,
+  "updated_at_unix": 1771585307,
   "items": [
+    {
+      "title": "지난달 카드론 잔액 전월비 0.6%↑…한달 만에 증가 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260220153500002",
+      "pubDate": "Fri, 20 Feb 2026 19:24:27 +0900"
+    },
+    {
+      "title": "[동정] 김윤덕 국토장관, 카자흐 대사와 스마트시티 등 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260220139500003",
+      "pubDate": "Fri, 20 Feb 2026 19:06:35 +0900"
+    },
     {
       "title": "구윤철 \"바이오, 반도체 같은 성장축되도록 적극 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260220143800002",
@@ -142,16 +152,6 @@
       "title": "'밀가루 담합' 공정위 심판대에…20년만에 가격재결정 명령 검토(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220069351002",
       "pubDate": "Fri, 20 Feb 2026 15:12:37 +0900"
-    },
-    {
-      "title": "연일 고점 경신 코스피, 장중 5,800마저 넘어…공포지수도 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260220101100008",
-      "pubDate": "Fri, 20 Feb 2026 15:08:02 +0900"
-    },
-    {
-      "title": "[해남소식] 원도심 초콜릿매장 창업자 모집…최대 5천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260220106700054",
-      "pubDate": "Fri, 20 Feb 2026 15:06:38 +0900"
     }
   ]
 }
