@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771567881,
+  "updated_at_unix": 1771572490,
   "items": [
+    {
+      "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220112251008",
+      "pubDate": "Fri, 20 Feb 2026 16:16:47 +0900"
+    },
+    {
+      "title": "[특징주] LG디스플레이, OLED 저변확대 기대 속 8% 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220044351008",
+      "pubDate": "Fri, 20 Feb 2026 16:04:45 +0900"
+    },
+    {
+      "title": "삼성생명, 작년 순이익 2조3천억원, 9%↑…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260220099900002",
+      "pubDate": "Fri, 20 Feb 2026 16:02:12 +0900"
+    },
+    {
+      "title": "울산 1월 수출 25.3%↑…주력 자동차·석유제품·선박 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260220115400057",
+      "pubDate": "Fri, 20 Feb 2026 16:01:22 +0900"
+    },
+    {
+      "title": "[특징주] 美 이란 공습 가능성에 방산주 줄상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220036551008",
+      "pubDate": "Fri, 20 Feb 2026 16:00:22 +0900"
+    },
+    {
+      "title": "[특징주] '블랙록 지분 보유' SK하이닉스, 6% 급등해 사상 첫 95만원대",
+      "link": "https://www.yna.co.kr/view/AKR20260220117000008",
+      "pubDate": "Fri, 20 Feb 2026 15:59:22 +0900"
+    },
+    {
+      "title": "산림청, '복권기금 활용' 청소년 도시숲 시민과학 프로젝트 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260220116300063",
+      "pubDate": "Fri, 20 Feb 2026 15:55:26 +0900"
+    },
+    {
+      "title": "건강보험공단, 내달 5일까지 신규직원 600명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260220113900530",
+      "pubDate": "Fri, 20 Feb 2026 15:47:19 +0900"
+    },
+    {
+      "title": "코스피, 2.3% 급등해 5,800선 첫 돌파…'육천피' 가시권",
+      "link": "https://www.yna.co.kr/view/AKR20260220112200008",
+      "pubDate": "Fri, 20 Feb 2026 15:35:15 +0900"
+    },
+    {
+      "title": "외국환시세(2월20일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260220112500002",
+      "pubDate": "Fri, 20 Feb 2026 15:35:14 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 1.1원 오른 1,446.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260220110800002",
+      "pubDate": "Fri, 20 Feb 2026 15:30:16 +0900"
+    },
+    {
+      "title": "하이드로리튬, 5.5억원 유상증자…세진씨아이 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260220109400008",
+      "pubDate": "Fri, 20 Feb 2026 15:24:20 +0900"
+    },
+    {
+      "title": "'밀가루 담합' 공정위 심판대에…20년만에 가격재결정 명령 검토(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260220069351002",
+      "pubDate": "Fri, 20 Feb 2026 15:12:37 +0900"
+    },
     {
       "title": "연일 고점 경신 코스피, 장중 5,800마저 넘어…공포지수도 올라",
       "link": "https://www.yna.co.kr/view/AKR20260220101100008",
@@ -87,71 +152,6 @@
       "title": "[게시판] 교보증권, '2026 윤리경영의 날' 교육 실시",
       "link": "https://www.yna.co.kr/view/AKR20260220081000008",
       "pubDate": "Fri, 20 Feb 2026 13:49:10 +0900"
-    },
-    {
-      "title": "과기부총리, 'AI 글로벌 파트너십' 각료 이사회 회의 주재",
-      "link": "https://www.yna.co.kr/view/AKR20260220041800017",
-      "pubDate": "Fri, 20 Feb 2026 13:00:01 +0900"
-    },
-    {
-      "title": "장민영 신임 기업은행장 \"300조 생산적금융 프로젝트 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220077100002",
-      "pubDate": "Fri, 20 Feb 2026 12:11:14 +0900"
-    },
-    {
-      "title": "[이코노워치] 세계 경제 옥죄는 중동의 위기",
-      "link": "https://www.yna.co.kr/view/AKR20260220076400546",
-      "pubDate": "Fri, 20 Feb 2026 12:02:39 +0900"
-    },
-    {
-      "title": "반도체·조선 쏠림…작년 광공업생산 충북 등 5곳만 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260220055900002",
-      "pubDate": "Fri, 20 Feb 2026 12:00:07 +0900"
-    },
-    {
-      "title": "작년 4분기 부산 수출입, 2024년보다 모두 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260220069100051",
-      "pubDate": "Fri, 20 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"6년간 밀가루 담합\"…공정위, 20년 만에 가격재결정 명령 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260220069300002",
-      "pubDate": "Fri, 20 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "작년말 가계빚 1천979조 최대…빚투·영끌에 4분기 대출 11조↑",
-      "link": "https://www.yna.co.kr/view/AKR20260220074700002",
-      "pubDate": "Fri, 20 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.152%",
-      "link": "https://www.yna.co.kr/view/AKR20260220073000008",
-      "pubDate": "Fri, 20 Feb 2026 11:40:45 +0900"
-    },
-    {
-      "title": "달바글로벌 작년 영업이익 1천억원 넘어 '최대'",
-      "link": "https://www.yna.co.kr/view/AKR20260220071800030",
-      "pubDate": "Fri, 20 Feb 2026 11:30:58 +0900"
-    },
-    {
-      "title": "'현금 선호' 일본 가계 결제서 카드가 현금 추월",
-      "link": "https://www.yna.co.kr/view/AKR20260220071000073",
-      "pubDate": "Fri, 20 Feb 2026 11:29:17 +0900"
-    },
-    {
-      "title": "5,700고지 밟은 코스피, 장중 상승폭 확대…코스닥은 낙폭 좁혀",
-      "link": "https://www.yna.co.kr/view/AKR20260220067900008",
-      "pubDate": "Fri, 20 Feb 2026 11:18:29 +0900"
-    },
-    {
-      "title": "친척 일감 몰아주기·휴가비 1천만원…음실련 방만 경영 '도마'",
-      "link": "https://www.yna.co.kr/view/AKR20260220051700005",
-      "pubDate": "Fri, 20 Feb 2026 11:02:48 +0900"
-    },
-    {
-      "title": "삼성화재 순이익 2조183억원…2년 연속 2조원대 유지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220024451527",
-      "pubDate": "Fri, 20 Feb 2026 11:01:41 +0900"
     }
   ]
 }
