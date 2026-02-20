@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771620687,
+  "updated_at_unix": 1771622040,
   "items": [
+    {
+      "title": "[뉴욕유가] 트럼프 관세 위법에 불확실성 촉발…WTI 약보합 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260221012200009",
+      "pubDate": "Sat, 21 Feb 2026 06:04:09 +0900"
+    },
+    {
+      "title": "주유소 기름값 11주 만에 상승 전환…\"다음 주도 오를 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220133500003",
+      "pubDate": "Sat, 21 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 봄철 분양 성수기 준비…내주 전국 600여가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260220140100003",
+      "pubDate": "Sat, 21 Feb 2026 06:00:00 +0900"
+    },
     {
       "title": "달러-원, 美 상호관세 위법 판결에 상승분 대거 반납…1,446.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260221005000002",
@@ -137,21 +152,6 @@
       "title": "[특징주] LG디스플레이, OLED 저변확대 기대 속 8% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220044351008",
       "pubDate": "Fri, 20 Feb 2026 16:04:45 +0900"
-    },
-    {
-      "title": "삼성생명, 작년 순이익 2조3천억원, 9%↑…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260220099900002",
-      "pubDate": "Fri, 20 Feb 2026 16:02:12 +0900"
-    },
-    {
-      "title": "울산 1월 수출 25.3%↑…주력 자동차·석유제품·선박 호조",
-      "link": "https://www.yna.co.kr/view/AKR20260220115400057",
-      "pubDate": "Fri, 20 Feb 2026 16:01:22 +0900"
-    },
-    {
-      "title": "[특징주] 美 이란 공습 가능성에 방산주 줄상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220036551008",
-      "pubDate": "Fri, 20 Feb 2026 16:00:22 +0900"
     }
   ]
 }
