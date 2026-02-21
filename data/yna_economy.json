@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771657566,
+  "updated_at_unix": 1771660108,
   "items": [
+    {
+      "title": "[美관세 위법판결] 중기부 \"中企 영향 최소화 위해 적극 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221048800030",
+      "pubDate": "Sat, 21 Feb 2026 16:34:41 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 與 \"국익중심·실용 외교 원칙 아래 정부와 협력\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260221023651001",
+      "pubDate": "Sat, 21 Feb 2026 16:19:06 +0900"
+    },
     {
       "title": "[美관세 위법판결] 광주진보연대 \"대미협상 전면 재검토해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260221045200054",
@@ -142,16 +152,6 @@
       "title": "달러-원, 美 상호관세 위법 판결에 상승분 대거 반납…1,446.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260221005000002",
       "pubDate": "Sat, 21 Feb 2026 02:24:51 +0900"
-    },
-    {
-      "title": "靑, 美 '상호관세 위법' 판결에 \"국익 부합하는 방향으로 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221003300001",
-      "pubDate": "Sat, 21 Feb 2026 01:21:23 +0900"
-    },
-    {
-      "title": "'상호관세 위법' 판결에도…500조 대미 투자 재협상 어려울 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260221001100003",
-      "pubDate": "Sat, 21 Feb 2026 00:30:05 +0900"
     }
   ]
 }
