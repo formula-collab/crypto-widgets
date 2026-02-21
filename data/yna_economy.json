@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771708337,
+  "updated_at_unix": 1771710129,
   "items": [
+    {
+      "title": "일본산 수산물 수입액 급증…후쿠시마 사고 이전 수준 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260221030100030",
+      "pubDate": "Sun, 22 Feb 2026 06:31:00 +0900"
+    },
+    {
+      "title": "K-바이오 수출 가로막은 보톡스 규제 풀리나",
+      "link": "https://www.yna.co.kr/view/AKR20260220144200017",
+      "pubDate": "Sun, 22 Feb 2026 06:15:00 +0900"
+    },
+    {
+      "title": "산재 늘어나는데…'사법조치'는 4년새 3분의 1로 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260220112300530",
+      "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
+    },
+    {
+      "title": "로켓성장 '급제동' 쿠팡 4분기 성적은…김범석 직접 등장하나",
+      "link": "https://www.yna.co.kr/view/AKR20260220129000030",
+      "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
+    },
     {
       "title": "정부는 \"지역 균형발전\" 외치는데…청년 여성들 \"서울로 서울로\"",
       "link": "https://www.yna.co.kr/view/AKR20260221044800530",
@@ -132,26 +152,6 @@
       "title": "[美관세 위법판결] 김정관 산업장관 \"대미 수출 여건, 큰 틀서 유지될 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260221034200003",
       "pubDate": "Sat, 21 Feb 2026 11:03:53 +0900"
-    },
-    {
-      "title": "\"日엔화 실질 가치, 약 31년 전의 35% 수준\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221034900073",
-      "pubDate": "Sat, 21 Feb 2026 11:01:41 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260221032700011",
-      "pubDate": "Sat, 21 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] '핵잠·원자력' 한미 안보 협상 영향은",
-      "link": "https://www.yna.co.kr/view/AKR20260221031300504",
-      "pubDate": "Sat, 21 Feb 2026 10:26:46 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 상호관세 제동 걸렸지만…韓경제엔 또다른 불확실",
-      "link": "https://www.yna.co.kr/view/AKR20260221031400002",
-      "pubDate": "Sat, 21 Feb 2026 10:17:09 +0900"
     }
   ]
 }
