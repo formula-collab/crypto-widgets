@@ -1,10 +1,15 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771715642,
+  "updated_at_unix": 1771717352,
   "items": [
     {
-      "title": "정부 압박에…강남구 아파트값 2년만에 하락 전환하나",
+      "title": "세종시, 청년 주거임대료 지원사업 추진…무주택 청년 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260222012600063",
+      "pubDate": "Sun, 22 Feb 2026 08:25:25 +0900"
+    },
+    {
+      "title": "정부 연일 압박에…강남구 아파트값 2년만에 하락 전환하나",
       "link": "https://www.yna.co.kr/view/AKR20260222010500003",
       "pubDate": "Sun, 22 Feb 2026 08:03:51 +0900"
     },
@@ -74,13 +79,13 @@
       "pubDate": "Sun, 22 Feb 2026 06:15:00 +0900"
     },
     {
-      "title": "산재 늘어나는데…'사법조치'는 4년새 3분의 1로 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260220112300530",
+      "title": "로켓성장 '급제동' 쿠팡 4분기 성적은…김범석 직접 등장하나",
+      "link": "https://www.yna.co.kr/view/AKR20260220129000030",
       "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
     },
     {
-      "title": "로켓성장 '급제동' 쿠팡 4분기 성적은…김범석 직접 등장하나",
-      "link": "https://www.yna.co.kr/view/AKR20260220129000030",
+      "title": "산재 늘어나는데…'사법조치'는 4년새 3분의 1로 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260220112300530",
       "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
     },
     {
@@ -147,11 +152,6 @@
       "title": "한은, 올해 성장률 전망 1.9∼2.0%로 높일듯…美 관세 평가 주목",
       "link": "https://www.yna.co.kr/view/AKR20260221056500002",
       "pubDate": "Sun, 22 Feb 2026 05:45:03 +0900"
-    },
-    {
-      "title": "기준금리 또 동결될듯…\"반도체 주도 경기회복에 인하명분 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221061100002",
-      "pubDate": "Sun, 22 Feb 2026 05:45:00 +0900"
     }
   ]
 }
