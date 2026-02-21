@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771655297,
+  "updated_at_unix": 1771657566,
   "items": [
+    {
+      "title": "[美관세 위법판결] 광주진보연대 \"대미협상 전면 재검토해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221045200054",
+      "pubDate": "Sat, 21 Feb 2026 15:34:18 +0900"
+    },
     {
       "title": "AI가 일자리 빼앗나?…딜로이트 \"아직은 글쎄\"",
       "link": "https://www.yna.co.kr/view/AKR20260220061800017",
@@ -147,11 +152,6 @@
       "title": "'상호관세 위법' 판결에도…500조 대미 투자 재협상 어려울 듯",
       "link": "https://www.yna.co.kr/view/AKR20260221001100003",
       "pubDate": "Sat, 21 Feb 2026 00:30:05 +0900"
-    },
-    {
-      "title": "美작년 12월 PCE물가 전년 대비 2.9%↑…인플레 우려 지속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220161852072",
-      "pubDate": "Fri, 20 Feb 2026 23:58:46 +0900"
     }
   ]
 }
