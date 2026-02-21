@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771644834,
+  "updated_at_unix": 1771649974,
   "items": [
+    {
+      "title": "AI가 일자리 빼앗나?…딜로이트 \"아직은 글쎄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220061800017",
+      "pubDate": "Sat, 21 Feb 2026 13:30:01 +0900"
+    },
+    {
+      "title": "소외계층 돕고 환경도 정화…BNK부산은행, 지역 곳곳서 봉사활동",
+      "link": "https://www.yna.co.kr/view/AKR20260221039200051",
+      "pubDate": "Sat, 21 Feb 2026 13:07:51 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 구윤철 긴급회의…\"국익 최우선 대응, 금융동향 면밀점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221038700002",
+      "pubDate": "Sat, 21 Feb 2026 13:01:18 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 혁신당 \"정부, 국제사회와 공조해 국익 외교로 대응해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260221026251001",
+      "pubDate": "Sat, 21 Feb 2026 12:45:44 +0900"
+    },
     {
       "title": "[美관세 위법판결] 국회 대미투자특위 위원장 \"예정대로 24일 입법공청회 진행\"",
       "link": "https://www.yna.co.kr/view/AKR20260221036100001",
@@ -132,26 +152,6 @@
       "title": "美작년 12월 PCE물가 전년 대비 2.9%↑…인플레 우려 지속(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260220161852072",
       "pubDate": "Fri, 20 Feb 2026 23:58:46 +0900"
-    },
-    {
-      "title": "[2보] 미 작년 12월 PCE물가 전년 대비 2.9%↑…전망 상회",
-      "link": "https://www.yna.co.kr/view/AKR20260220161851072",
-      "pubDate": "Fri, 20 Feb 2026 22:45:05 +0900"
-    },
-    {
-      "title": "[1보] 미 작년 12월 PCE물가 전년 대비 2.9%↑…전망 상회",
-      "link": "https://www.yna.co.kr/view/AKR20260220161800072",
-      "pubDate": "Fri, 20 Feb 2026 22:38:19 +0900"
-    },
-    {
-      "title": "[속보] 미 2025년 연간성장률 2.2%…2%대 성장세 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260220161500072",
-      "pubDate": "Fri, 20 Feb 2026 22:33:50 +0900"
-    },
-    {
-      "title": "전남 무안서 아프리카돼지열병…올해 19번째 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260220160300030",
-      "pubDate": "Fri, 20 Feb 2026 22:17:10 +0900"
     }
   ]
 }
