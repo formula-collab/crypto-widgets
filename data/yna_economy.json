@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771711918,
+  "updated_at_unix": 1771713990,
   "items": [
+    {
+      "title": "트럼프, 이란 공격 가능성 고조…국제유가 급등에 정유주 '들썩'",
+      "link": "https://www.yna.co.kr/view/AKR20260221032000008",
+      "pubDate": "Sun, 22 Feb 2026 07:20:00 +0900"
+    },
+    {
+      "title": "민선8기 끝나가는데…인천경제자유구역 주요 사업 '지지부진'",
+      "link": "https://www.yna.co.kr/view/AKR20260220062500065",
+      "pubDate": "Sun, 22 Feb 2026 07:17:02 +0900"
+    },
+    {
+      "title": "북미서 웃은 K뷰티…화장품 상장사들 이익판도 뒤집혔다",
+      "link": "https://www.yna.co.kr/view/AKR20260221039100030",
+      "pubDate": "Sun, 22 Feb 2026 07:17:00 +0900"
+    },
+    {
+      "title": "'K뷰티' 진화, 이제는 디바이스…2030년 45조 세계 시장 겨냥",
+      "link": "https://www.yna.co.kr/view/AKR20260221047100030",
+      "pubDate": "Sun, 22 Feb 2026 07:15:01 +0900"
+    },
+    {
+      "title": "코스피 '불장'에도 올해 외국인 9조 팔아…작년 순매도액의 2배",
+      "link": "https://www.yna.co.kr/view/AKR20260220154100008",
+      "pubDate": "Sun, 22 Feb 2026 07:15:01 +0900"
+    },
     {
       "title": "[마켓인사이트] 엔비디아 실적에 쏠린 시선…'AI 파괴론' 넘어설까",
       "link": "https://www.yna.co.kr/view/AKR20260221032800008",
@@ -127,31 +152,6 @@
       "title": "[美관세 위법판결] 중기부 \"中企 영향 최소화 위해 적극 대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260221048800030",
       "pubDate": "Sat, 21 Feb 2026 16:34:41 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 與 \"국익중심·실용 외교 원칙 아래 정부와 협력\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260221023651001",
-      "pubDate": "Sat, 21 Feb 2026 16:19:06 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 광주진보연대 \"대미협상 전면 재검토해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221045200054",
-      "pubDate": "Sat, 21 Feb 2026 15:34:18 +0900"
-    },
-    {
-      "title": "AI가 일자리 빼앗나?…딜로이트 \"아직은 글쎄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220061800017",
-      "pubDate": "Sat, 21 Feb 2026 13:30:01 +0900"
-    },
-    {
-      "title": "소외계층 돕고 환경도 정화…BNK부산은행, 지역 곳곳서 봉사활동",
-      "link": "https://www.yna.co.kr/view/AKR20260221039200051",
-      "pubDate": "Sat, 21 Feb 2026 13:07:51 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 구윤철 긴급회의…\"국익 최우선 대응, 금융동향 면밀점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221038700002",
-      "pubDate": "Sat, 21 Feb 2026 13:01:18 +0900"
     }
   ]
 }
