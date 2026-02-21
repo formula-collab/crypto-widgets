@@ -1,10 +1,20 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771631266,
+  "updated_at_unix": 1771635768,
   "items": [
     {
-      "title": "與, '美상호관세 위법판결'에 \"국익중심 원칙 아래 정부와 협력\"",
+      "title": "[다음주 경제] 한은 기준금리 결정…지난해 출산율 올랐나",
+      "link": "https://www.yna.co.kr/view/AKR20260221026600002",
+      "pubDate": "Sat, 21 Feb 2026 09:12:52 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 진보당 \"정부·국회, 대미투자특별법 추진 즉각 멈춰야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221026200001",
+      "pubDate": "Sat, 21 Feb 2026 09:06:21 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 與 \"국익중심·실용 외교 원칙 아래 정부와 협력\"",
       "link": "https://www.yna.co.kr/view/AKR20260221023600001",
       "pubDate": "Sat, 21 Feb 2026 08:41:43 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "SK온, 희망퇴직·무급휴직 실시…전기차 캐즘에 경영 효율화",
       "link": "https://www.yna.co.kr/view/AKR20260220128400003",
       "pubDate": "Fri, 20 Feb 2026 16:42:41 +0900"
-    },
-    {
-      "title": "대우건설, 성수4지구 입찰 논란 사과…\"적절치 못한 행동 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220122900003",
-      "pubDate": "Fri, 20 Feb 2026 16:41:55 +0900"
-    },
-    {
-      "title": "환율, 이란 위기에 1.1원↑…수출업체 달러 매도에 상승폭 줄여",
-      "link": "https://www.yna.co.kr/view/AKR20260220125000002",
-      "pubDate": "Fri, 20 Feb 2026 16:40:58 +0900"
     }
   ]
 }
