@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771713990,
+  "updated_at_unix": 1771715642,
   "items": [
+    {
+      "title": "정부 압박에…강남구 아파트값 2년만에 하락 전환하나",
+      "link": "https://www.yna.co.kr/view/AKR20260222010500003",
+      "pubDate": "Sun, 22 Feb 2026 08:03:51 +0900"
+    },
     {
       "title": "트럼프, 이란 공격 가능성 고조…국제유가 급등에 정유주 '들썩'",
       "link": "https://www.yna.co.kr/view/AKR20260221032000008",
@@ -147,11 +152,6 @@
       "title": "기준금리 또 동결될듯…\"반도체 주도 경기회복에 인하명분 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260221061100002",
       "pubDate": "Sun, 22 Feb 2026 05:45:00 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 중기부 \"中企 영향 최소화 위해 적극 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221048800030",
-      "pubDate": "Sat, 21 Feb 2026 16:34:41 +0900"
     }
   ]
 }
