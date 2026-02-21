@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771710129,
+  "updated_at_unix": 1771711918,
   "items": [
+    {
+      "title": "[마켓인사이트] 엔비디아 실적에 쏠린 시선…'AI 파괴론' 넘어설까",
+      "link": "https://www.yna.co.kr/view/AKR20260221032800008",
+      "pubDate": "Sun, 22 Feb 2026 07:01:57 +0900"
+    },
+    {
+      "title": "경기도, 작년 체납자 1천884명 공탁금 압류…37억원 징수",
+      "link": "https://www.yna.co.kr/view/AKR20260220115100061",
+      "pubDate": "Sun, 22 Feb 2026 07:01:03 +0900"
+    },
+    {
+      "title": "배민-처갓집 '배민온리' 재시동…참여연대, 공정위 신고 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260220143300030",
+      "pubDate": "Sun, 22 Feb 2026 07:01:01 +0900"
+    },
+    {
+      "title": "계엄의 또다른 그늘…지푸라기 잡는 심정으로 복권 산 국민들",
+      "link": "https://www.yna.co.kr/view/AKR20260220107400008",
+      "pubDate": "Sun, 22 Feb 2026 07:00:19 +0900"
+    },
+    {
+      "title": "[샷!] \"노후자금 아파트 담보대출까지 고민했지만…\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220120000505",
+      "pubDate": "Sun, 22 Feb 2026 07:00:02 +0900"
+    },
+    {
+      "title": "AI 기본법 한달…네이버·카카오 워터마크 적용 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260220147400017",
+      "pubDate": "Sun, 22 Feb 2026 06:45:01 +0900"
+    },
     {
       "title": "일본산 수산물 수입액 급증…후쿠시마 사고 이전 수준 넘어",
       "link": "https://www.yna.co.kr/view/AKR20260221030100030",
@@ -122,36 +152,6 @@
       "title": "[美관세 위법판결] 구윤철 긴급회의…\"국익 최우선 대응, 금융동향 면밀점검\"",
       "link": "https://www.yna.co.kr/view/AKR20260221038700002",
       "pubDate": "Sat, 21 Feb 2026 13:01:18 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 혁신당 \"정부, 국제사회와 공조해 국익 외교로 대응해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260221026251001",
-      "pubDate": "Sat, 21 Feb 2026 12:45:44 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 국회 대미투자특위 위원장 \"예정대로 24일 입법공청회 진행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221036100001",
-      "pubDate": "Sat, 21 Feb 2026 11:57:56 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 전문가들 \"韓, 섣부른 재협상 거론, 정 맞을 수 있어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221036000003",
-      "pubDate": "Sat, 21 Feb 2026 11:37:38 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 재계, 긴장 속 사태 예의주시…\"관세 리스크 연장되나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221035500003",
-      "pubDate": "Sat, 21 Feb 2026 11:21:23 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 국힘 \"우리만 대규모 대미투자 떠안게 돼…플랜B 마련 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221034100001",
-      "pubDate": "Sat, 21 Feb 2026 11:07:04 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 김정관 산업장관 \"대미 수출 여건, 큰 틀서 유지될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221034200003",
-      "pubDate": "Sat, 21 Feb 2026 11:03:53 +0900"
     }
   ]
 }
