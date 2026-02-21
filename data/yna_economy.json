@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771635768,
+  "updated_at_unix": 1771644834,
   "items": [
+    {
+      "title": "[美관세 위법판결] 국회 대미투자특위 위원장 \"예정대로 24일 입법공청회 진행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221036100001",
+      "pubDate": "Sat, 21 Feb 2026 11:57:56 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 전문가들 \"韓, 섣부른 재협상 거론, 정 맞을 수 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221036000003",
+      "pubDate": "Sat, 21 Feb 2026 11:37:38 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 재계, 긴장 속 사태 예의주시…\"관세 리스크 연장되나\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221035500003",
+      "pubDate": "Sat, 21 Feb 2026 11:21:23 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 국힘 \"우리만 대규모 대미투자 떠안게 돼…플랜B 마련 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221034100001",
+      "pubDate": "Sat, 21 Feb 2026 11:07:04 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 김정관 산업장관 \"대미 수출 여건, 큰 틀서 유지될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221034200003",
+      "pubDate": "Sat, 21 Feb 2026 11:03:53 +0900"
+    },
+    {
+      "title": "\"日엔화 실질 가치, 약 31년 전의 35% 수준\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221034900073",
+      "pubDate": "Sat, 21 Feb 2026 11:01:41 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260221032700011",
+      "pubDate": "Sat, 21 Feb 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] '핵잠·원자력' 한미 안보 협상 영향은",
+      "link": "https://www.yna.co.kr/view/AKR20260221031300504",
+      "pubDate": "Sat, 21 Feb 2026 10:26:46 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 상호관세 제동 걸렸지만…韓경제엔 또다른 불확실",
+      "link": "https://www.yna.co.kr/view/AKR20260221031400002",
+      "pubDate": "Sat, 21 Feb 2026 10:17:09 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 트럼프가 꺼내든 대체 카드에 불확실성 짙어진 시장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260114052551075",
+      "pubDate": "Sat, 21 Feb 2026 10:13:02 +0900"
+    },
+    {
+      "title": "백석대, 美괌 현지서 '해외취업자 위한 찾아가는 졸업식'",
+      "link": "https://www.yna.co.kr/view/AKR20260221030900063",
+      "pubDate": "Sat, 21 Feb 2026 10:01:45 +0900"
+    },
+    {
+      "title": "경기 시군 곳곳 경마장 유치에 참전…과천은 \"이전 반대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260220092400061",
+      "pubDate": "Sat, 21 Feb 2026 10:00:15 +0900"
+    },
+    {
+      "title": "부산 아파트값 16주째 상승…전셋값 상승폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260220113700051",
+      "pubDate": "Sat, 21 Feb 2026 10:00:04 +0900"
+    },
     {
       "title": "[다음주 경제] 한은 기준금리 결정…지난해 출산율 올랐나",
       "link": "https://www.yna.co.kr/view/AKR20260221026600002",
@@ -87,71 +152,6 @@
       "title": "전남 무안서 아프리카돼지열병…올해 19번째 발생",
       "link": "https://www.yna.co.kr/view/AKR20260220160300030",
       "pubDate": "Fri, 20 Feb 2026 22:17:10 +0900"
-    },
-    {
-      "title": "지난달 카드론 잔액 전월비 0.6%↑…한달 만에 증가 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260220153500002",
-      "pubDate": "Fri, 20 Feb 2026 19:24:27 +0900"
-    },
-    {
-      "title": "[동정] 김윤덕 국토장관, 카자흐 대사와 스마트시티 등 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260220139500003",
-      "pubDate": "Fri, 20 Feb 2026 19:06:35 +0900"
-    },
-    {
-      "title": "구윤철 \"바이오, 반도체 같은 성장축되도록 적극 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220143800002",
-      "pubDate": "Fri, 20 Feb 2026 18:14:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260220136900011",
-      "pubDate": "Fri, 20 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "퀀타매트릭스 \"프랑스 자회사 주식 43억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220141100008",
-      "pubDate": "Fri, 20 Feb 2026 17:43:04 +0900"
-    },
-    {
-      "title": "아모레 차녀 서호정씨, 101억원어치 지분 매각…\"증여세 납부용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220138100030",
-      "pubDate": "Fri, 20 Feb 2026 17:29:51 +0900"
-    },
-    {
-      "title": "창업기업 육성 산실…익산에 '스타트업 라운지 키움공간' 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260220134000055",
-      "pubDate": "Fri, 20 Feb 2026 17:19:50 +0900"
-    },
-    {
-      "title": "DB손보, 작년 순이익 1조5천349억원…전년 대비 13.4%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260220134100002",
-      "pubDate": "Fri, 20 Feb 2026 17:13:15 +0900"
-    },
-    {
-      "title": "돼지 사료에서 아프리카돼지열병 유전자 첫 검출",
-      "link": "https://www.yna.co.kr/view/AKR20260220132800030",
-      "pubDate": "Fri, 20 Feb 2026 17:05:50 +0900"
-    },
-    {
-      "title": "경남도, 해빙기 안전사고 예방…공동주택 건설현장 안전점검",
-      "link": "https://www.yna.co.kr/view/AKR20260220131600052",
-      "pubDate": "Fri, 20 Feb 2026 17:01:36 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.143%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260220128151008",
-      "pubDate": "Fri, 20 Feb 2026 16:56:10 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.143%",
-      "link": "https://www.yna.co.kr/view/AKR20260220128100008",
-      "pubDate": "Fri, 20 Feb 2026 16:46:05 +0900"
-    },
-    {
-      "title": "SK온, 희망퇴직·무급휴직 실시…전기차 캐즘에 경영 효율화",
-      "link": "https://www.yna.co.kr/view/AKR20260220128400003",
-      "pubDate": "Fri, 20 Feb 2026 16:42:41 +0900"
     }
   ]
 }
