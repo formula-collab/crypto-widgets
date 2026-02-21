@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771706686,
+  "updated_at_unix": 1771708337,
   "items": [
+    {
+      "title": "정부는 \"지역 균형발전\" 외치는데…청년 여성들 \"서울로 서울로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221044800530",
+      "pubDate": "Sun, 22 Feb 2026 06:08:01 +0900"
+    },
+    {
+      "title": "'4년새 2배' 고지혈 복합제…HK이노엔·일동 격돌",
+      "link": "https://www.yna.co.kr/view/AKR20260220140500017",
+      "pubDate": "Sun, 22 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "작년 서울 주택 매수에 증여·상속자금 4조4천400억…1년새 두배",
+      "link": "https://www.yna.co.kr/view/AKR20260221056700003",
+      "pubDate": "Sun, 22 Feb 2026 06:01:01 +0900"
+    },
+    {
+      "title": "친분 있어서?…미납 관리비 없애준 아파트관리사무소 직원",
+      "link": "https://www.yna.co.kr/view/AKR20260220101900057",
+      "pubDate": "Sun, 22 Feb 2026 06:00:06 +0900"
+    },
+    {
+      "title": "국내 기업 10년간 해외서 ESG 관련 과징금 2조5천억 부과받아",
+      "link": "https://www.yna.co.kr/view/AKR20260220152300003",
+      "pubDate": "Sun, 22 Feb 2026 06:00:02 +0900"
+    },
+    {
+      "title": "현대차그룹, 미국 피지컬 AI 스타트업에 투자…로봇 생태계 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260221045600003",
+      "pubDate": "Sun, 22 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "금감원, KB·전북·토뱅 정기검사…'소비자보호 검사반' 첫 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260221051500002",
+      "pubDate": "Sun, 22 Feb 2026 05:53:01 +0900"
+    },
+    {
+      "title": "반도체 호황에도…제조업 상용근로자 5년 새 최대 폭 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260221057500002",
+      "pubDate": "Sun, 22 Feb 2026 05:51:02 +0900"
+    },
+    {
+      "title": "작년 제조업 취업자 비중 역대 최저…美관세폭풍에 청년층 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260221054800002",
+      "pubDate": "Sun, 22 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "5대 은행 다주택자 주담대 36조원…3년 새 2.3배로 불어",
+      "link": "https://www.yna.co.kr/view/AKR20260221056600002",
+      "pubDate": "Sun, 22 Feb 2026 05:49:03 +0900"
+    },
+    {
+      "title": "다주택 대출연장, 규제지역 아파트엔 '불허' 가닥…LTV 0% 거론",
+      "link": "https://www.yna.co.kr/view/AKR20260221057900002",
+      "pubDate": "Sun, 22 Feb 2026 05:49:00 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 불확실성 장기화…한국 경제엔 '양날의 칼'",
+      "link": "https://www.yna.co.kr/view/AKR20260221046600002",
+      "pubDate": "Sun, 22 Feb 2026 05:47:00 +0900"
+    },
+    {
+      "title": "한은, 올해 성장률 전망 1.9∼2.0%로 높일듯…美 관세 평가 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260221056500002",
+      "pubDate": "Sun, 22 Feb 2026 05:45:03 +0900"
+    },
+    {
+      "title": "기준금리 또 동결될듯…\"반도체 주도 경기회복에 인하명분 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221061100002",
+      "pubDate": "Sun, 22 Feb 2026 05:45:00 +0900"
+    },
     {
       "title": "[美관세 위법판결] 중기부 \"中企 영향 최소화 위해 적극 대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260221048800030",
@@ -82,76 +152,6 @@
       "title": "[美관세 위법판결] 상호관세 제동 걸렸지만…韓경제엔 또다른 불확실",
       "link": "https://www.yna.co.kr/view/AKR20260221031400002",
       "pubDate": "Sat, 21 Feb 2026 10:17:09 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 트럼프가 꺼내든 대체 카드에 불확실성 짙어진 시장(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260114052551075",
-      "pubDate": "Sat, 21 Feb 2026 10:13:02 +0900"
-    },
-    {
-      "title": "백석대, 美괌 현지서 '해외취업자 위한 찾아가는 졸업식'",
-      "link": "https://www.yna.co.kr/view/AKR20260221030900063",
-      "pubDate": "Sat, 21 Feb 2026 10:01:45 +0900"
-    },
-    {
-      "title": "경기 시군 곳곳 경마장 유치에 참전…과천은 \"이전 반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220092400061",
-      "pubDate": "Sat, 21 Feb 2026 10:00:15 +0900"
-    },
-    {
-      "title": "부산 아파트값 16주째 상승…전셋값 상승폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260220113700051",
-      "pubDate": "Sat, 21 Feb 2026 10:00:04 +0900"
-    },
-    {
-      "title": "[다음주 경제] 한은 기준금리 결정…지난해 출산율 올랐나",
-      "link": "https://www.yna.co.kr/view/AKR20260221026600002",
-      "pubDate": "Sat, 21 Feb 2026 09:12:52 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 진보당 \"정부·국회, 대미투자특별법 추진 즉각 멈춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221026200001",
-      "pubDate": "Sat, 21 Feb 2026 09:06:21 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 與 \"국익중심·실용 외교 원칙 아래 정부와 협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221023600001",
-      "pubDate": "Sat, 21 Feb 2026 08:41:43 +0900"
-    },
-    {
-      "title": "똑같은 사기인데…경찰 7년 전엔 유죄, 지금은 무혐의?",
-      "link": "https://www.yna.co.kr/view/AKR20260212131300004",
-      "pubDate": "Sat, 21 Feb 2026 07:55:00 +0900"
-    },
-    {
-      "title": "[금주핫템] LF 아떼 '어센틱 립 글로이 밤'·까사미아 '캄포 레스트'",
-      "link": "https://www.yna.co.kr/view/AKR20260220085300030",
-      "pubDate": "Sat, 21 Feb 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[신상잇슈] 오리온 '오감자 버터갈릭감자튀김맛'·오뚜기 '오늘의 만두'",
-      "link": "https://www.yna.co.kr/view/AKR20260220057600030",
-      "pubDate": "Sat, 21 Feb 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 트럼프 관세 위법에 불확실성 촉발…WTI 약보합 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260221012200009",
-      "pubDate": "Sat, 21 Feb 2026 06:04:09 +0900"
-    },
-    {
-      "title": "주유소 기름값 11주 만에 상승 전환…\"다음 주도 오를 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220133500003",
-      "pubDate": "Sat, 21 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 봄철 분양 성수기 준비…내주 전국 600여가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260220140100003",
-      "pubDate": "Sat, 21 Feb 2026 06:00:00 +0900"
-    },
-    {
-      "title": "달러-원, 美 상호관세 위법 판결에 상승분 대거 반납…1,446.60원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260221005000002",
-      "pubDate": "Sat, 21 Feb 2026 02:24:51 +0900"
     }
   ]
 }
