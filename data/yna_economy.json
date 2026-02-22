@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771802073,
+  "updated_at_unix": 1771803927,
   "items": [
+    {
+      "title": "한화운용, 지토재단과 유동성 스테이킹 ETP 인프라 구축 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260223023700008",
+      "pubDate": "Mon, 23 Feb 2026 08:38:59 +0900"
+    },
+    {
+      "title": "'담합 의혹' 사조CPK, 전분당 제품 가격 최대 5% 인하",
+      "link": "https://www.yna.co.kr/view/AKR20260223024100030",
+      "pubDate": "Mon, 23 Feb 2026 08:38:33 +0900"
+    },
+    {
+      "title": "LF \"헤지스 액세서리 '오라백' 인기…20·30대 고객 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223024000030",
+      "pubDate": "Mon, 23 Feb 2026 08:38:19 +0900"
+    },
+    {
+      "title": "KB증권 \"현대건설, 한미 원전협력 수혜 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223022300008",
+      "pubDate": "Mon, 23 Feb 2026 08:35:24 +0900"
+    },
+    {
+      "title": "삼성증권, 삼성화재 목표가↑…\"잔여 자사주 소각 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223019900008",
+      "pubDate": "Mon, 23 Feb 2026 08:31:05 +0900"
+    },
+    {
+      "title": "인천시, 미취업청년 맞춤형 사업 참가자에 최대 350만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260223018100065",
+      "pubDate": "Mon, 23 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "K-유산균 통했다…쎌바이오텍 작년 매출 6.8%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260223022400017",
+      "pubDate": "Mon, 23 Feb 2026 08:30:50 +0900"
+    },
+    {
+      "title": "한투증권, 삼성전기 목표가 29.4%↑…\"MLCC 판가 인상 가시화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223022100008",
+      "pubDate": "Mon, 23 Feb 2026 08:27:23 +0900"
+    },
+    {
+      "title": "키움증권 \"DB손보, 추가 주주환원 기대감 상승…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223020500008",
+      "pubDate": "Mon, 23 Feb 2026 08:23:36 +0900"
+    },
+    {
+      "title": "W컨셉, 스프링 시즌 프리쇼…370여개 브랜드 신상품 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260223016700030",
+      "pubDate": "Mon, 23 Feb 2026 08:19:26 +0900"
+    },
+    {
+      "title": "닥터지, 글로벌 모델에 변우석…\"K스킨케어 알린다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223019300030",
+      "pubDate": "Mon, 23 Feb 2026 08:18:12 +0900"
+    },
     {
       "title": "부산 장낙대교 건설공사 기공식…\"서부산권 교통 대전환 신호탄\"",
       "link": "https://www.yna.co.kr/view/AKR20260223015300051",
@@ -97,61 +152,6 @@
       "title": "장동혁, '다주택 줄면 집값 안정' 李대통령에 \"기적의 억지\"",
       "link": "https://www.yna.co.kr/view/AKR20260222039400001",
       "pubDate": "Sun, 22 Feb 2026 15:40:14 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260222036000011",
-      "pubDate": "Sun, 22 Feb 2026 15:00:00 +0900"
-    },
-    {
-      "title": "무협 \"美 새 관세 구조로 'FTA 체결국' 韓 경쟁력↑ 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260222033200003",
-      "pubDate": "Sun, 22 Feb 2026 13:57:53 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 당정청, 관세·통상 대책회의…美동향·상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260222032600001",
-      "pubDate": "Sun, 22 Feb 2026 13:04:40 +0900"
-    },
-    {
-      "title": "[인사] 국가데이터처",
-      "link": "https://www.yna.co.kr/view/AKR20260222030000002",
-      "pubDate": "Sun, 22 Feb 2026 12:32:07 +0900"
-    },
-    {
-      "title": "韓 '마이크로 LED 전사기술' 특허 세계 1위…LG·삼성 등 두각",
-      "link": "https://www.yna.co.kr/view/AKR20260220106300063",
-      "pubDate": "Sun, 22 Feb 2026 12:00:12 +0900"
-    },
-    {
-      "title": "[테크스냅] 가상 융합산업 이끌 청년 인재 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260220134600017",
-      "pubDate": "Sun, 22 Feb 2026 12:00:09 +0900"
-    },
-    {
-      "title": "중기부, 내달 '점프업' 2기 기업 선정…1차로 198곳 발굴",
-      "link": "https://www.yna.co.kr/view/AKR20260220101400030",
-      "pubDate": "Sun, 22 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "중기부·중기중앙회, 제조 AI 상용화 본격화…870억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260220138800030",
-      "pubDate": "Sun, 22 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "패륜 콘텐츠로 혐오 조장한 사이버 레커, 뒤로는 탈세",
-      "link": "https://www.yna.co.kr/view/AKR20260221052500002",
-      "pubDate": "Sun, 22 Feb 2026 12:00:03 +0900"
-    },
-    {
-      "title": "공정위, 수급업자 기술자료 무단으로 요구한 쎄믹스에 과징금",
-      "link": "https://www.yna.co.kr/view/AKR20260221058000002",
-      "pubDate": "Sun, 22 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "직장인 66% \"퇴근 이후, 쉬는 날에도 회사서 업무 연락 받아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260222006600004",
-      "pubDate": "Sun, 22 Feb 2026 12:00:01 +0900"
     }
   ]
 }
