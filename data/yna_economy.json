@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771751960,
+  "updated_at_unix": 1771753868,
   "items": [
+    {
+      "title": "與, 장동혁 '다주택규제 기적의 억지'에 \"설명없는 이상한 비유\"",
+      "link": "https://www.yna.co.kr/view/AKR20260222051000001",
+      "pubDate": "Sun, 22 Feb 2026 18:24:14 +0900"
+    },
     {
       "title": "대통령경호처, 'AI기반 위험물 검색 기법' 美 특허 획득",
       "link": "https://www.yna.co.kr/view/AKR20260222049000001",
@@ -147,11 +152,6 @@
       "title": "세종시, 청년 주거임대료 지원사업 추진…무주택 청년 대상",
       "link": "https://www.yna.co.kr/view/AKR20260222012600063",
       "pubDate": "Sun, 22 Feb 2026 08:25:25 +0900"
-    },
-    {
-      "title": "정부 연일 압박에…강남구 아파트값 2년만에 하락 전환하나",
-      "link": "https://www.yna.co.kr/view/AKR20260222010500003",
-      "pubDate": "Sun, 22 Feb 2026 08:03:51 +0900"
     }
   ]
 }
