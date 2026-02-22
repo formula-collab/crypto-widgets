@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771793241,
+  "updated_at_unix": 1771794843,
   "items": [
+    {
+      "title": "메모리 이어 MLCC 가격 '들썩'…AI 슈퍼사이클, 부품사로 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260220132700003",
+      "pubDate": "Mon, 23 Feb 2026 06:05:01 +0900"
+    },
+    {
+      "title": "작년 서울 아파트 가격 13.5% 올라…팬데믹 이후 최대 상승폭",
+      "link": "https://www.yna.co.kr/view/AKR20260220155600004",
+      "pubDate": "Mon, 23 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "노브랜드, '꼬박꼬밥' 협업 건강 간편식 7종 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260222045600030",
+      "pubDate": "Mon, 23 Feb 2026 06:00:01 +0900"
+    },
+    {
+      "title": "대부업 신규대출 작년 4분기 8천억…3년 반 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260221060100002",
+      "pubDate": "Mon, 23 Feb 2026 05:55:02 +0900"
+    },
+    {
+      "title": "건설 불황에 직격탄…기업銀 중소 건설업체 연체율 역대 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260222054600002",
+      "pubDate": "Mon, 23 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "과도한 면세·낮은 실효세율…조세부담률 OECD 최하위권",
+      "link": "https://www.yna.co.kr/view/AKR20260221059700002",
+      "pubDate": "Mon, 23 Feb 2026 05:51:04 +0900"
+    },
+    {
+      "title": "작년 걷힌 세금 490조 육박…조세부담률 18%대, 3년 만에 반등",
+      "link": "https://www.yna.co.kr/view/AKR20260222032100002",
+      "pubDate": "Mon, 23 Feb 2026 05:51:00 +0900"
+    },
     {
       "title": "여야, 재경위서 정부에 '美 관세' 향후 대응 질의",
       "link": "https://www.yna.co.kr/view/AKR20260222053300001",
@@ -117,41 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260222021800011",
       "pubDate": "Sun, 22 Feb 2026 10:30:01 +0900"
-    },
-    {
-      "title": "김용범 \"금융건전성 지탱하는 방향으로 주택시장 구조 전환해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260222021900001",
-      "pubDate": "Sun, 22 Feb 2026 10:26:47 +0900"
-    },
-    {
-      "title": "LG전자, '글로벌 사우스' 공략 본격화…\"2030년까지 매출 2배\"",
-      "link": "https://www.yna.co.kr/view/AKR20260222016300003",
-      "pubDate": "Sun, 22 Feb 2026 10:00:00 +0900"
-    },
-    {
-      "title": "CJ제일제당, 중국 싱후이핀과 라이신 기술 라이선스 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260222019000030",
-      "pubDate": "Sun, 22 Feb 2026 09:51:53 +0900"
-    },
-    {
-      "title": "美 관세 위법 판결에도…韓 대미투자 일단 그대로 간다",
-      "link": "https://www.yna.co.kr/view/AKR20260222017400003",
-      "pubDate": "Sun, 22 Feb 2026 09:31:17 +0900"
-    },
-    {
-      "title": "평창군, 청년 전월세 보증금 대출이자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260220098100062",
-      "pubDate": "Sun, 22 Feb 2026 09:10:00 +0900"
-    },
-    {
-      "title": "평창군, 신혼부부·다자녀가구 주거자금 대출이자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260220094800062",
-      "pubDate": "Sun, 22 Feb 2026 09:01:00 +0900"
-    },
-    {
-      "title": "관세에 일본·독일산 차량 美가격 큰 폭 상승…韓 제조차량만 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260222014600003",
-      "pubDate": "Sun, 22 Feb 2026 09:00:51 +0900"
     }
   ]
 }
