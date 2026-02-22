@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771763037,
+  "updated_at_unix": 1771766567,
   "items": [
+    {
+      "title": "[美관세 위법판결] 당정청 \"대미투자법 조속입법 최선…내달 9일까지 처리\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260222032651001",
+      "pubDate": "Sun, 22 Feb 2026 22:07:38 +0900"
+    },
     {
       "title": "與, 장동혁 '다주택규제 기적의 억지'에 \"설명없는 이상한 비유\"",
       "link": "https://www.yna.co.kr/view/AKR20260222051000001",
@@ -147,11 +152,6 @@
       "title": "이차전지 영업비밀 빼돌려 유료자문…LG엔솔 前직원 실형",
       "link": "https://www.yna.co.kr/view/AKR20260220150500004",
       "pubDate": "Sun, 22 Feb 2026 09:00:08 +0900"
-    },
-    {
-      "title": "세종시, 청년 주거임대료 지원사업 추진…무주택 청년 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260222012600063",
-      "pubDate": "Sun, 22 Feb 2026 08:25:25 +0900"
     }
   ]
 }
