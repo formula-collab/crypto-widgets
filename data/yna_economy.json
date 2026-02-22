@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771722431,
+  "updated_at_unix": 1771732424,
   "items": [
+    {
+      "title": "[인사] 국가데이터처",
+      "link": "https://www.yna.co.kr/view/AKR20260222030000002",
+      "pubDate": "Sun, 22 Feb 2026 12:32:07 +0900"
+    },
+    {
+      "title": "韓 '마이크로 LED 전사기술' 특허 세계 1위…LG·삼성 등 두각",
+      "link": "https://www.yna.co.kr/view/AKR20260220106300063",
+      "pubDate": "Sun, 22 Feb 2026 12:00:12 +0900"
+    },
+    {
+      "title": "[테크스냅] 가상 융합산업 이끌 청년 인재 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260220134600017",
+      "pubDate": "Sun, 22 Feb 2026 12:00:09 +0900"
+    },
+    {
+      "title": "중기부, 내달 '점프업' 2기 기업 선정…1차로 198곳 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260220101400030",
+      "pubDate": "Sun, 22 Feb 2026 12:00:06 +0900"
+    },
+    {
+      "title": "중기부·중기중앙회, 제조 AI 상용화 본격화…870억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260220138800030",
+      "pubDate": "Sun, 22 Feb 2026 12:00:06 +0900"
+    },
+    {
+      "title": "패륜 콘텐츠로 혐오 조장한 사이버 레커, 뒤로는 탈세",
+      "link": "https://www.yna.co.kr/view/AKR20260221052500002",
+      "pubDate": "Sun, 22 Feb 2026 12:00:03 +0900"
+    },
+    {
+      "title": "공정위, 수급업자 기술자료 무단으로 요구한 쎄믹스에 과징금",
+      "link": "https://www.yna.co.kr/view/AKR20260221058000002",
+      "pubDate": "Sun, 22 Feb 2026 12:00:02 +0900"
+    },
+    {
+      "title": "직장인 66% \"퇴근 이후, 쉬는 날에도 회사서 업무 연락 받아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260222006600004",
+      "pubDate": "Sun, 22 Feb 2026 12:00:01 +0900"
+    },
+    {
+      "title": "3월 제조업 업황 전망도 '맑음'…반도체 전망 1년9개월만 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260222028400003",
+      "pubDate": "Sun, 22 Feb 2026 11:42:33 +0900"
+    },
+    {
+      "title": "서울시 \"대출규제로 신혼부부 내집마련 대출가능금액 1억 줄어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260221061500004",
+      "pubDate": "Sun, 22 Feb 2026 11:15:00 +0900"
+    },
+    {
+      "title": "서울시 '중장년취업사관학교' 가동…40대부터 취업 전과정 관리",
+      "link": "https://www.yna.co.kr/view/AKR20260222022000004",
+      "pubDate": "Sun, 22 Feb 2026 11:15:00 +0900"
+    },
+    {
+      "title": "해수부, 기후변화에 양식장 이전·품종 전환 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20260220148400030",
+      "pubDate": "Sun, 22 Feb 2026 11:00:00 +0900"
+    },
+    {
+      "title": "경북도, 지역 창업 생태계 경쟁력 강화 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260222023900053",
+      "pubDate": "Sun, 22 Feb 2026 10:34:59 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260222021800011",
+      "pubDate": "Sun, 22 Feb 2026 10:30:01 +0900"
+    },
+    {
+      "title": "김용범 \"금융건전성 지탱하는 방향으로 주택시장 구조 전환해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260222021900001",
+      "pubDate": "Sun, 22 Feb 2026 10:26:47 +0900"
+    },
     {
       "title": "LG전자, '글로벌 사우스' 공략 본격화…\"2030년까지 매출 2배\"",
       "link": "https://www.yna.co.kr/view/AKR20260222016300003",
@@ -77,81 +152,6 @@
       "title": "[마켓인사이트] 엔비디아 실적에 쏠린 시선…'AI 파괴론' 넘어설까",
       "link": "https://www.yna.co.kr/view/AKR20260221032800008",
       "pubDate": "Sun, 22 Feb 2026 07:01:57 +0900"
-    },
-    {
-      "title": "경기도, 작년 체납자 1천884명 공탁금 압류…37억원 징수",
-      "link": "https://www.yna.co.kr/view/AKR20260220115100061",
-      "pubDate": "Sun, 22 Feb 2026 07:01:03 +0900"
-    },
-    {
-      "title": "배민-처갓집 '배민온리' 재시동…참여연대, 공정위 신고 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260220143300030",
-      "pubDate": "Sun, 22 Feb 2026 07:01:01 +0900"
-    },
-    {
-      "title": "계엄의 또다른 그늘…지푸라기 잡는 심정으로 복권 산 국민들",
-      "link": "https://www.yna.co.kr/view/AKR20260220107400008",
-      "pubDate": "Sun, 22 Feb 2026 07:00:19 +0900"
-    },
-    {
-      "title": "[샷!] \"아들도 현실을 이해하고 귀국 택했다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260220120000505",
-      "pubDate": "Sun, 22 Feb 2026 07:00:02 +0900"
-    },
-    {
-      "title": "AI 기본법 한달…네이버·카카오 워터마크 적용 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260220147400017",
-      "pubDate": "Sun, 22 Feb 2026 06:45:01 +0900"
-    },
-    {
-      "title": "일본산 수산물 수입액 급증…후쿠시마 사고 이전 수준 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260221030100030",
-      "pubDate": "Sun, 22 Feb 2026 06:31:00 +0900"
-    },
-    {
-      "title": "K-바이오 수출 가로막은 보톡스 규제 풀리나",
-      "link": "https://www.yna.co.kr/view/AKR20260220144200017",
-      "pubDate": "Sun, 22 Feb 2026 06:15:00 +0900"
-    },
-    {
-      "title": "로켓성장 '급제동' 쿠팡 4분기 성적은…김범석 직접 등장하나",
-      "link": "https://www.yna.co.kr/view/AKR20260220129000030",
-      "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
-    },
-    {
-      "title": "산재 늘어나는데…'사법조치'는 4년새 3분의 1로 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260220112300530",
-      "pubDate": "Sun, 22 Feb 2026 06:11:01 +0900"
-    },
-    {
-      "title": "정부는 \"지역 균형발전\" 외치는데…청년 여성들 \"서울로 서울로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221044800530",
-      "pubDate": "Sun, 22 Feb 2026 06:08:01 +0900"
-    },
-    {
-      "title": "'4년새 2배' 고지혈 복합제…HK이노엔·일동 격돌",
-      "link": "https://www.yna.co.kr/view/AKR20260220140500017",
-      "pubDate": "Sun, 22 Feb 2026 06:05:01 +0900"
-    },
-    {
-      "title": "작년 서울 주택 매수에 증여·상속자금 4조4천400억…1년새 두배",
-      "link": "https://www.yna.co.kr/view/AKR20260221056700003",
-      "pubDate": "Sun, 22 Feb 2026 06:01:01 +0900"
-    },
-    {
-      "title": "친분 있어서?…미납 관리비 없애준 아파트관리사무소 직원",
-      "link": "https://www.yna.co.kr/view/AKR20260220101900057",
-      "pubDate": "Sun, 22 Feb 2026 06:00:06 +0900"
-    },
-    {
-      "title": "국내 기업 10년간 해외서 ESG 관련 과징금 2조5천억 부과받아",
-      "link": "https://www.yna.co.kr/view/AKR20260220152300003",
-      "pubDate": "Sun, 22 Feb 2026 06:00:02 +0900"
-    },
-    {
-      "title": "현대차그룹, 미국 피지컬 AI 스타트업에 투자…로봇 생태계 확장",
-      "link": "https://www.yna.co.kr/view/AKR20260221045600003",
-      "pubDate": "Sun, 22 Feb 2026 06:00:01 +0900"
     }
   ]
 }
