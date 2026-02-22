@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771748317,
+  "updated_at_unix": 1771750390,
   "items": [
+    {
+      "title": "대통령경호처, 'AI기반 위험물 검색 기법' 美 특허 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260222049000001",
+      "pubDate": "Sun, 22 Feb 2026 17:38:27 +0900"
+    },
     {
       "title": "다주택 대출연장, 규제지역 아파트엔 '불허' 가닥…LTV 0% 거론(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260221057951002",
@@ -147,11 +152,6 @@
       "title": "정부 연일 압박에…강남구 아파트값 2년만에 하락 전환하나",
       "link": "https://www.yna.co.kr/view/AKR20260222010500003",
       "pubDate": "Sun, 22 Feb 2026 08:03:51 +0900"
-    },
-    {
-      "title": "트럼프, 이란 공격 가능성 고조…국제유가 급등에 정유주 '들썩'",
-      "link": "https://www.yna.co.kr/view/AKR20260221032000008",
-      "pubDate": "Sun, 22 Feb 2026 07:20:00 +0900"
     }
   ]
 }
