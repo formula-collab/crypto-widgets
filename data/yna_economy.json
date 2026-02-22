@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771732424,
+  "updated_at_unix": 1771737065,
   "items": [
+    {
+      "title": "무협 \"美 새 관세 구조로 'FTA 체결국' 韓 경쟁력↑ 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260222033200003",
+      "pubDate": "Sun, 22 Feb 2026 13:57:53 +0900"
+    },
+    {
+      "title": "[美관세 위법판결] 당정청, 관세·통상 대책회의…美동향·상황 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260222032600001",
+      "pubDate": "Sun, 22 Feb 2026 13:04:40 +0900"
+    },
     {
       "title": "[인사] 국가데이터처",
       "link": "https://www.yna.co.kr/view/AKR20260222030000002",
@@ -142,16 +152,6 @@
       "title": "'K뷰티' 진화, 이제는 디바이스…2030년 45조 세계 시장 겨냥",
       "link": "https://www.yna.co.kr/view/AKR20260221047100030",
       "pubDate": "Sun, 22 Feb 2026 07:15:01 +0900"
-    },
-    {
-      "title": "코스피 '불장'에도 올해 외국인 9조 팔아…작년 순매도액의 2배",
-      "link": "https://www.yna.co.kr/view/AKR20260220154100008",
-      "pubDate": "Sun, 22 Feb 2026 07:15:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 엔비디아 실적에 쏠린 시선…'AI 파괴론' 넘어설까",
-      "link": "https://www.yna.co.kr/view/AKR20260221032800008",
-      "pubDate": "Sun, 22 Feb 2026 07:01:57 +0900"
     }
   ]
 }
