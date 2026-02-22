@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771737065,
+  "updated_at_unix": 1771740441,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260222036000011",
+      "pubDate": "Sun, 22 Feb 2026 15:00:00 +0900"
+    },
     {
       "title": "무협 \"美 새 관세 구조로 'FTA 체결국' 韓 경쟁력↑ 가능성\"",
       "link": "https://www.yna.co.kr/view/AKR20260222033200003",
@@ -147,11 +152,6 @@
       "title": "북미서 웃은 K뷰티…화장품 상장사들 이익판도 뒤집혔다",
       "link": "https://www.yna.co.kr/view/AKR20260221039100030",
       "pubDate": "Sun, 22 Feb 2026 07:17:00 +0900"
-    },
-    {
-      "title": "'K뷰티' 진화, 이제는 디바이스…2030년 45조 세계 시장 겨냥",
-      "link": "https://www.yna.co.kr/view/AKR20260221047100030",
-      "pubDate": "Sun, 22 Feb 2026 07:15:01 +0900"
     }
   ]
 }
