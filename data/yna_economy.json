@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771744135,
+  "updated_at_unix": 1771746719,
   "items": [
+    {
+      "title": "다주택 대출연장, 규제지역 아파트엔 '불허' 가닥…LTV 0% 거론(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260221057951002",
+      "pubDate": "Sun, 22 Feb 2026 16:33:34 +0900"
+    },
     {
       "title": "장동혁, '다주택 줄면 집값 안정' 李대통령에 \"기적의 억지\"",
       "link": "https://www.yna.co.kr/view/AKR20260222039400001",
@@ -147,11 +152,6 @@
       "title": "트럼프, 이란 공격 가능성 고조…국제유가 급등에 정유주 '들썩'",
       "link": "https://www.yna.co.kr/view/AKR20260221032000008",
       "pubDate": "Sun, 22 Feb 2026 07:20:00 +0900"
-    },
-    {
-      "title": "민선8기 끝나가는데…인천경제자유구역 주요 사업 '지지부진'",
-      "link": "https://www.yna.co.kr/view/AKR20260220062500065",
-      "pubDate": "Sun, 22 Feb 2026 07:17:02 +0900"
     }
   ]
 }
