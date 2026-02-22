@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771717352,
+  "updated_at_unix": 1771722431,
   "items": [
+    {
+      "title": "LG전자, '글로벌 사우스' 공략 본격화…\"2030년까지 매출 2배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260222016300003",
+      "pubDate": "Sun, 22 Feb 2026 10:00:00 +0900"
+    },
+    {
+      "title": "CJ제일제당, 중국 싱후이핀과 라이신 기술 라이선스 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260222019000030",
+      "pubDate": "Sun, 22 Feb 2026 09:51:53 +0900"
+    },
+    {
+      "title": "美 관세 위법 판결에도…韓 대미투자 일단 그대로 간다",
+      "link": "https://www.yna.co.kr/view/AKR20260222017400003",
+      "pubDate": "Sun, 22 Feb 2026 09:31:17 +0900"
+    },
+    {
+      "title": "평창군, 청년 전월세 보증금 대출이자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260220098100062",
+      "pubDate": "Sun, 22 Feb 2026 09:10:00 +0900"
+    },
+    {
+      "title": "평창군, 신혼부부·다자녀가구 주거자금 대출이자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260220094800062",
+      "pubDate": "Sun, 22 Feb 2026 09:01:00 +0900"
+    },
+    {
+      "title": "관세에 일본·독일산 차량 美가격 큰 폭 상승…韓 제조차량만 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260222014600003",
+      "pubDate": "Sun, 22 Feb 2026 09:00:51 +0900"
+    },
+    {
+      "title": "이차전지 영업비밀 빼돌려 유료자문…LG엔솔 前직원 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260220150500004",
+      "pubDate": "Sun, 22 Feb 2026 09:00:08 +0900"
+    },
     {
       "title": "세종시, 청년 주거임대료 지원사업 추진…무주택 청년 대상",
       "link": "https://www.yna.co.kr/view/AKR20260222012600063",
@@ -59,7 +94,7 @@
       "pubDate": "Sun, 22 Feb 2026 07:00:19 +0900"
     },
     {
-      "title": "[샷!] \"노후자금 아파트 담보대출까지 고민했지만…\"",
+      "title": "[샷!] \"아들도 현실을 이해하고 귀국 택했다\"",
       "link": "https://www.yna.co.kr/view/AKR20260220120000505",
       "pubDate": "Sun, 22 Feb 2026 07:00:02 +0900"
     },
@@ -117,41 +152,6 @@
       "title": "현대차그룹, 미국 피지컬 AI 스타트업에 투자…로봇 생태계 확장",
       "link": "https://www.yna.co.kr/view/AKR20260221045600003",
       "pubDate": "Sun, 22 Feb 2026 06:00:01 +0900"
-    },
-    {
-      "title": "금감원, KB·전북·토뱅 정기검사…'소비자보호 검사반' 첫 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260221051500002",
-      "pubDate": "Sun, 22 Feb 2026 05:53:01 +0900"
-    },
-    {
-      "title": "반도체 호황에도…제조업 상용근로자 5년 새 최대 폭 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260221057500002",
-      "pubDate": "Sun, 22 Feb 2026 05:51:02 +0900"
-    },
-    {
-      "title": "작년 제조업 취업자 비중 역대 최저…美관세폭풍에 청년층 급감",
-      "link": "https://www.yna.co.kr/view/AKR20260221054800002",
-      "pubDate": "Sun, 22 Feb 2026 05:51:00 +0900"
-    },
-    {
-      "title": "5대 은행 다주택자 주담대 36조원…3년 새 2.3배로 불어",
-      "link": "https://www.yna.co.kr/view/AKR20260221056600002",
-      "pubDate": "Sun, 22 Feb 2026 05:49:03 +0900"
-    },
-    {
-      "title": "다주택 대출연장, 규제지역 아파트엔 '불허' 가닥…LTV 0% 거론",
-      "link": "https://www.yna.co.kr/view/AKR20260221057900002",
-      "pubDate": "Sun, 22 Feb 2026 05:49:00 +0900"
-    },
-    {
-      "title": "[美관세 위법판결] 불확실성 장기화…한국 경제엔 '양날의 칼'",
-      "link": "https://www.yna.co.kr/view/AKR20260221046600002",
-      "pubDate": "Sun, 22 Feb 2026 05:47:00 +0900"
-    },
-    {
-      "title": "한은, 올해 성장률 전망 1.9∼2.0%로 높일듯…美 관세 평가 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260221056500002",
-      "pubDate": "Sun, 22 Feb 2026 05:45:03 +0900"
     }
   ]
 }
