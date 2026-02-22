@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771800428,
+  "updated_at_unix": 1771802073,
   "items": [
+    {
+      "title": "부산 장낙대교 건설공사 기공식…\"서부산권 교통 대전환 신호탄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223015300051",
+      "pubDate": "Mon, 23 Feb 2026 08:09:25 +0900"
+    },
+    {
+      "title": "부산 청년고용률·경제활동참가율↑…10명 중 8명 부산거주 희망",
+      "link": "https://www.yna.co.kr/view/AKR20260223015200051",
+      "pubDate": "Mon, 23 Feb 2026 08:08:58 +0900"
+    },
+    {
+      "title": "[마켓뷰] \"'트럼프 맘대로 관세' 끝났다\"…韓도 안도랠리 동참 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260223008800008",
+      "pubDate": "Mon, 23 Feb 2026 08:02:13 +0900"
+    },
     {
       "title": "용산50플러스센터 개관…\"중장년 인생 2막 통합지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260223013600004",
@@ -137,21 +152,6 @@
       "title": "직장인 66% \"퇴근 이후, 쉬는 날에도 회사서 업무 연락 받아\"",
       "link": "https://www.yna.co.kr/view/AKR20260222006600004",
       "pubDate": "Sun, 22 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "3월 제조업 업황 전망도 '맑음'…반도체 전망 1년9개월만 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260222028400003",
-      "pubDate": "Sun, 22 Feb 2026 11:42:33 +0900"
-    },
-    {
-      "title": "서울시 \"대출규제로 신혼부부 내집마련 대출가능금액 1억 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260221061500004",
-      "pubDate": "Sun, 22 Feb 2026 11:15:00 +0900"
-    },
-    {
-      "title": "서울시 '중장년취업사관학교' 가동…40대부터 취업 전과정 관리",
-      "link": "https://www.yna.co.kr/view/AKR20260222022000004",
-      "pubDate": "Sun, 22 Feb 2026 11:15:00 +0900"
     }
   ]
 }
