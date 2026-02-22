@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771789359,
+  "updated_at_unix": 1771791212,
   "items": [
+    {
+      "title": "여야, 재경위서 정부에 '美 관세' 향후 대응 질의",
+      "link": "https://www.yna.co.kr/view/AKR20260222053300001",
+      "pubDate": "Mon, 23 Feb 2026 05:01:00 +0900"
+    },
     {
       "title": "[美관세 위법판결] 당정청 \"대미투자법 조속입법 최선…내달 9일까지 처리\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260222032651001",
@@ -147,11 +152,6 @@
       "title": "관세에 일본·독일산 차량 美가격 큰 폭 상승…韓 제조차량만 하락",
       "link": "https://www.yna.co.kr/view/AKR20260222014600003",
       "pubDate": "Sun, 22 Feb 2026 09:00:51 +0900"
-    },
-    {
-      "title": "이차전지 영업비밀 빼돌려 유료자문…LG엔솔 前직원 실형",
-      "link": "https://www.yna.co.kr/view/AKR20260220150500004",
-      "pubDate": "Sun, 22 Feb 2026 09:00:08 +0900"
     }
   ]
 }
