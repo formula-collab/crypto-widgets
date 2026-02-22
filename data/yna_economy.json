@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771798347,
+  "updated_at_unix": 1771800428,
   "items": [
+    {
+      "title": "용산50플러스센터 개관…\"중장년 인생 2막 통합지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223013600004",
+      "pubDate": "Mon, 23 Feb 2026 07:36:37 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260223010800011",
+      "pubDate": "Mon, 23 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "\"NBA 직관·사이판서 마라톤\"…여행업계 스포츠 상품 잇단 출시",
       "link": "https://www.yna.co.kr/view/AKR20260221045300030",
@@ -142,16 +152,6 @@
       "title": "서울시 '중장년취업사관학교' 가동…40대부터 취업 전과정 관리",
       "link": "https://www.yna.co.kr/view/AKR20260222022000004",
       "pubDate": "Sun, 22 Feb 2026 11:15:00 +0900"
-    },
-    {
-      "title": "해수부, 기후변화에 양식장 이전·품종 전환 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20260220148400030",
-      "pubDate": "Sun, 22 Feb 2026 11:00:00 +0900"
-    },
-    {
-      "title": "경북도, 지역 창업 생태계 경쟁력 강화 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20260222023900053",
-      "pubDate": "Sun, 22 Feb 2026 10:34:59 +0900"
     }
   ]
 }
