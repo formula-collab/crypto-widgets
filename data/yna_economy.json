@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771888081,
+  "updated_at_unix": 1771890638,
   "items": [
+    {
+      "title": "애경산업 바디케어 브랜드 美 월마트에 입점",
+      "link": "https://www.yna.co.kr/view/AKR20260224028400030",
+      "pubDate": "Tue, 24 Feb 2026 08:43:54 +0900"
+    },
+    {
+      "title": "한화운용, 임동준 전략사업유닛장 선임…\"대체투자 역량 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224029400008",
+      "pubDate": "Tue, 24 Feb 2026 08:41:47 +0900"
+    },
+    {
+      "title": "키움證 \"육천피는 시간문제\"…올해 코스피 예상 상단 7,300 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260224027700008",
+      "pubDate": "Tue, 24 Feb 2026 08:40:52 +0900"
+    },
+    {
+      "title": "하나증권 \"KT, 내달 자사주·배당 갈림길…변동 가능성 남아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224027400008",
+      "pubDate": "Tue, 24 Feb 2026 08:38:25 +0900"
+    },
+    {
+      "title": "신영證, 해운업 투자의견↑…\"인수합병 통한 기업가치제고 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224025800008",
+      "pubDate": "Tue, 24 Feb 2026 08:36:09 +0900"
+    },
+    {
+      "title": "KB증권 \"대한조선, 올해 수주 호조 지속…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224026500008",
+      "pubDate": "Tue, 24 Feb 2026 08:33:50 +0900"
+    },
+    {
+      "title": "인천 주택매매가격 4개월 연속 오름세…상승 폭은 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260224024600065",
+      "pubDate": "Tue, 24 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "전세물건 줄었는데 송파·강남 전셋값은 약세…강북과 '온도차'",
+      "link": "https://www.yna.co.kr/view/AKR20260223159700003",
+      "pubDate": "Tue, 24 Feb 2026 08:08:47 +0900"
+    },
+    {
+      "title": "한투증권, 현대해상 목표가 25% 상향…\"단계적 주주환원 제시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224023100008",
+      "pubDate": "Tue, 24 Feb 2026 08:05:48 +0900"
+    },
     {
       "title": "[마켓뷰] 트럼프 '플랜B' 여진 지속…미국발 찬바람 주의보",
       "link": "https://www.yna.co.kr/view/AKR20260224021100008",
@@ -107,51 +152,6 @@
       "title": "정부, '엘리엇 ISDS' 불복소송 승소…1천600억 국고유출 막았다",
       "link": "https://www.yna.co.kr/view/AKR20260223156500004",
       "pubDate": "Mon, 23 Feb 2026 20:01:09 +0900"
-    },
-    {
-      "title": "美 로봇 석학 \"한국기업들 강점 있다…독자개발보단 협력해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223155900004",
-      "pubDate": "Mon, 23 Feb 2026 19:23:11 +0900"
-    },
-    {
-      "title": "공정위 전속고발권 공방…與 \"폐지 검토해야\"·국힘 \"기업 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223149600001",
-      "pubDate": "Mon, 23 Feb 2026 19:06:49 +0900"
-    },
-    {
-      "title": "금융위, 공적자금관리위원회 민간위원 4명 위촉",
-      "link": "https://www.yna.co.kr/view/AKR20260223152900002",
-      "pubDate": "Mon, 23 Feb 2026 18:51:00 +0900"
-    },
-    {
-      "title": "금융위, 가상자산거래소 비공개 면담…대주주지분 규제 재확인",
-      "link": "https://www.yna.co.kr/view/AKR20260223152300002",
-      "pubDate": "Mon, 23 Feb 2026 18:46:34 +0900"
-    },
-    {
-      "title": "지투지바이오, 750억원 유증…KB증권 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260223151800008",
-      "pubDate": "Mon, 23 Feb 2026 18:44:09 +0900"
-    },
-    {
-      "title": "유티아이 \"베트남 종속회사에 145억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223149400008",
-      "pubDate": "Mon, 23 Feb 2026 18:39:32 +0900"
-    },
-    {
-      "title": "한국-브라질 경제계, 첨단제조·전략광물 등 3대 협력방안 논의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223086051003",
-      "pubDate": "Mon, 23 Feb 2026 18:35:27 +0900"
-    },
-    {
-      "title": "임기근 \"광역통합 지원, 합리적 수준의 기대 어긋나지 않을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223151000002",
-      "pubDate": "Mon, 23 Feb 2026 18:34:12 +0900"
-    },
-    {
-      "title": "검찰, '전분당 담합 의혹' 대상·삼양사 등 4개 업체 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260223147700004",
-      "pubDate": "Mon, 23 Feb 2026 18:02:21 +0900"
     }
   ]
 }
