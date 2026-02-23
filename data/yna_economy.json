@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771878763,
+  "updated_at_unix": 1771882414,
   "items": [
+    {
+      "title": "[뉴욕유가] 미군 수뇌부, 이란 공습에 우려 드러내…WTI 약보합 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260224007700009",
+      "pubDate": "Tue, 24 Feb 2026 06:02:27 +0900"
+    },
+    {
+      "title": "FIU, 캄보디아 사태 등 현장사례 중심 교육 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260223134000002",
+      "pubDate": "Tue, 24 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "D램 50%·호박 41%…1월 생산자물가 다섯달째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260223135500002",
+      "pubDate": "Tue, 24 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "국내기업 경기전망 4년만에 긍정 전환…제조업 수출 선전이 견인",
+      "link": "https://www.yna.co.kr/view/AKR20260223105000003",
+      "pubDate": "Tue, 24 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "집값 상승 기대 석달 만에 꺾여…3년7개월새 최대폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260223136300002",
+      "pubDate": "Tue, 24 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "작년 12월 은행대출 연체율 0.5%로 하락…연말 기준 10년래 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260223146300002",
+      "pubDate": "Tue, 24 Feb 2026 06:00:00 +0900"
+    },
+    {
+      "title": "원화 실질가치 7개월 만에 반등…상대적 약세 진정되나",
+      "link": "https://www.yna.co.kr/view/AKR20260223151700002",
+      "pubDate": "Tue, 24 Feb 2026 05:51:00 +0900"
+    },
     {
       "title": "美주택대출 금리, 관세 불확실성에 6% 밑으로 하락",
       "link": "https://www.yna.co.kr/view/AKR20260224003800072",
@@ -117,41 +152,6 @@
       "title": "임기근 \"본예산 집행 우선…추경은 세입·경기 종합 고려\"",
       "link": "https://www.yna.co.kr/view/AKR20260223139600002",
       "pubDate": "Mon, 23 Feb 2026 17:07:45 +0900"
-    },
-    {
-      "title": "한화생명 작년 당기순익 8천363억원…\"국내외 자회사 실적 견조\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223136900002",
-      "pubDate": "Mon, 23 Feb 2026 17:05:34 +0900"
-    },
-    {
-      "title": "한국-브라질 경제계, 첨단제조·전략광물 등 3대 협력방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260223086000003",
-      "pubDate": "Mon, 23 Feb 2026 17:00:00 +0900"
-    },
-    {
-      "title": "한은 총재 \"건설경기 예상보다 나빠…구조조정으로 정리해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223132900002",
-      "pubDate": "Mon, 23 Feb 2026 16:57:46 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.154%",
-      "link": "https://www.yna.co.kr/view/AKR20260223133200008",
-      "pubDate": "Mon, 23 Feb 2026 16:49:49 +0900"
-    },
-    {
-      "title": "강원도, 두바이 월드헬스 엑스포서 325억원 수출계약 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260223133600062",
-      "pubDate": "Mon, 23 Feb 2026 16:46:26 +0900"
-    },
-    {
-      "title": "日·中 열연제품 업체들, 최대 33% 관세 압박에 '수출 가격 인상 약속'",
-      "link": "https://www.yna.co.kr/view/AKR20260223131100003",
-      "pubDate": "Mon, 23 Feb 2026 16:42:59 +0900"
-    },
-    {
-      "title": "SK네트웍스, 'AI 스타트업' 업스테이지 지분 추가취득…총 12.9%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223122551008",
-      "pubDate": "Mon, 23 Feb 2026 16:30:19 +0900"
     }
   ]
 }
