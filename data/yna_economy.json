@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771835709,
+  "updated_at_unix": 1771839692,
   "items": [
+    {
+      "title": "한국-브라질 경제계, 첨단제조·전략광물 등 3대 협력방안 논의(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260223086051003",
+      "pubDate": "Mon, 23 Feb 2026 18:35:27 +0900"
+    },
+    {
+      "title": "임기근 \"광역통합 지원, 합리적 수준의 기대 어긋나지 않을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223151000002",
+      "pubDate": "Mon, 23 Feb 2026 18:34:12 +0900"
+    },
+    {
+      "title": "검찰, '전분당 담합 의혹' 대상·삼양 등 4개 업체 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260223147700004",
+      "pubDate": "Mon, 23 Feb 2026 18:02:21 +0900"
+    },
+    {
+      "title": "공정위 vs 검찰 리니언시 신경전에…주병기 \"공정위로 단일화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223145600002",
+      "pubDate": "Mon, 23 Feb 2026 17:56:04 +0900"
+    },
+    {
+      "title": "케이뱅크, 청약 경쟁률 134.6대 1…증거금 9조8천500억원",
+      "link": "https://www.yna.co.kr/view/AKR20260223146900008",
+      "pubDate": "Mon, 23 Feb 2026 17:52:20 +0900"
+    },
+    {
+      "title": "김동연, '민생투어' 재개…공공주택·반도체 등 과제 중심 소통",
+      "link": "https://www.yna.co.kr/view/AKR20260223145900061",
+      "pubDate": "Mon, 23 Feb 2026 17:46:27 +0900"
+    },
+    {
+      "title": "전분당 담합 의혹에 업체들 줄줄이 '가격 인하'(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260223024153030",
+      "pubDate": "Mon, 23 Feb 2026 17:34:19 +0900"
+    },
+    {
+      "title": "단통법 폐지 후 첫 소비자 간담회…이용자 권익 강화 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260223143300017",
+      "pubDate": "Mon, 23 Feb 2026 17:34:03 +0900"
+    },
     {
       "title": "남부발전, 상반기 신입사원 등 102명 공개 채용",
       "link": "https://www.yna.co.kr/view/AKR20260223142400051",
@@ -112,46 +152,6 @@
       "title": "[게시판] KB국민카드, 러너 맞춤형 혜택 'KB마라톤 카드' 출시",
       "link": "https://www.yna.co.kr/view/AKR20260223121600002",
       "pubDate": "Mon, 23 Feb 2026 15:53:04 +0900"
-    },
-    {
-      "title": "SK네트웍스 \"업스테이지 주식 470억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223122500008",
-      "pubDate": "Mon, 23 Feb 2026 15:52:14 +0900"
-    },
-    {
-      "title": "한은 총재 \"부동산 안정, 궁극적으로 수도권 집중 완화돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223119500002",
-      "pubDate": "Mon, 23 Feb 2026 15:51:32 +0900"
-    },
-    {
-      "title": "美 관세 불확실성에 달러 약세…환율, 6.6원 내린 1,440.0원",
-      "link": "https://www.yna.co.kr/view/AKR20260223032551002",
-      "pubDate": "Mon, 23 Feb 2026 15:51:16 +0900"
-    },
-    {
-      "title": "춘천시, '정원교육도시' 조성 추진…봄내 꿈나무 정원사 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260223117400062",
-      "pubDate": "Mon, 23 Feb 2026 15:50:30 +0900"
-    },
-    {
-      "title": "남양주시, 내달 25일 왕숙 첨단산업단지 첫 투자 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260223120800060",
-      "pubDate": "Mon, 23 Feb 2026 15:50:08 +0900"
-    },
-    {
-      "title": "조기 종료·감원 확산…중소 게임사 '한파'",
-      "link": "https://www.yna.co.kr/view/AKR20260223118700017",
-      "pubDate": "Mon, 23 Feb 2026 15:49:18 +0900"
-    },
-    {
-      "title": "광주은행 노조 천막농성 돌입…임단협 타결 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260223121900054",
-      "pubDate": "Mon, 23 Feb 2026 15:48:51 +0900"
-    },
-    {
-      "title": "강원 외국인 노동자 경제적 유발효과 증가율 연 11.5%",
-      "link": "https://www.yna.co.kr/view/AKR20260223112600062",
-      "pubDate": "Mon, 23 Feb 2026 15:48:40 +0900"
     }
   ]
 }
