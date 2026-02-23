@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771839692,
+  "updated_at_unix": 1771843132,
   "items": [
+    {
+      "title": "美 로봇 석학 \"한국기업들 강점 있다…독자개발보단 협력해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223155900004",
+      "pubDate": "Mon, 23 Feb 2026 19:23:11 +0900"
+    },
+    {
+      "title": "공정위 전속고발권 공방…與 \"폐지 검토해야\"·국힘 \"기업 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223149600001",
+      "pubDate": "Mon, 23 Feb 2026 19:06:49 +0900"
+    },
+    {
+      "title": "금융위, 공적자금관리위원회 민간위원 4명 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20260223152900002",
+      "pubDate": "Mon, 23 Feb 2026 18:51:00 +0900"
+    },
+    {
+      "title": "금융위, 가상자산거래소 비공개 면담…대주주지분 규제 재확인",
+      "link": "https://www.yna.co.kr/view/AKR20260223152300002",
+      "pubDate": "Mon, 23 Feb 2026 18:46:34 +0900"
+    },
+    {
+      "title": "지투지바이오, 750억원 유증…KB증권 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260223151800008",
+      "pubDate": "Mon, 23 Feb 2026 18:44:09 +0900"
+    },
+    {
+      "title": "유티아이 \"베트남 종속회사에 145억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223149400008",
+      "pubDate": "Mon, 23 Feb 2026 18:39:32 +0900"
+    },
     {
       "title": "한국-브라질 경제계, 첨단제조·전략광물 등 3대 협력방안 논의(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260223086051003",
@@ -14,7 +44,7 @@
       "pubDate": "Mon, 23 Feb 2026 18:34:12 +0900"
     },
     {
-      "title": "검찰, '전분당 담합 의혹' 대상·삼양 등 4개 업체 압수수색",
+      "title": "검찰, '전분당 담합 의혹' 대상·삼양사 등 4개 업체 압수수색",
       "link": "https://www.yna.co.kr/view/AKR20260223147700004",
       "pubDate": "Mon, 23 Feb 2026 18:02:21 +0900"
     },
@@ -122,36 +152,6 @@
       "title": "구윤철 \"한미합의 유효…대미투자특별법 절차대로 진행돼야\"",
       "link": "https://www.yna.co.kr/view/AKR20260223126800002",
       "pubDate": "Mon, 23 Feb 2026 16:12:36 +0900"
-    },
-    {
-      "title": "부산상의·무역협회, 미국 관세 위법 판결 대응 설명회 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260223125200051",
-      "pubDate": "Mon, 23 Feb 2026 16:05:22 +0900"
-    },
-    {
-      "title": "포커스에이아이, 20억원 유상증자…케이엘1호조합 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260223124400008",
-      "pubDate": "Mon, 23 Feb 2026 16:02:03 +0900"
-    },
-    {
-      "title": "전북도·국민연금·KB, 혁신도시에 'KB금융타운 조성' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260223105100055",
-      "pubDate": "Mon, 23 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "고양시, 자체 개발 장미 품종 특허권 이전 희망 업체 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260223123500060",
-      "pubDate": "Mon, 23 Feb 2026 15:57:59 +0900"
-    },
-    {
-      "title": "포천시, 고용노동부 '청년성장프로젝트' 공모 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260223122000060",
-      "pubDate": "Mon, 23 Feb 2026 15:55:35 +0900"
-    },
-    {
-      "title": "[게시판] KB국민카드, 러너 맞춤형 혜택 'KB마라톤 카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260223121600002",
-      "pubDate": "Mon, 23 Feb 2026 15:53:04 +0900"
     }
   ]
 }
