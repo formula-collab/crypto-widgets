@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771868060,
+  "updated_at_unix": 1771872394,
   "items": [
+    {
+      "title": "'美연준의장 탈락' 월러 \"고용호조 지속시 금리동결 지지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224003500072",
+      "pubDate": "Tue, 24 Feb 2026 03:20:57 +0900"
+    },
+    {
+      "title": "달러-원, 미 국채금리 하락發 달러 약세에 하락폭 확대…1,442.90원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260224002800002",
+      "pubDate": "Tue, 24 Feb 2026 02:29:50 +0900"
+    },
     {
       "title": "경남 의령 돼지농장서 아프리카돼지열병…올해 20번째 발생",
       "link": "https://www.yna.co.kr/view/AKR20260223161100030",
@@ -142,16 +152,6 @@
       "title": "'이차전지 제조 기업' 케이솔루션, 코스닥 상장예심 신청",
       "link": "https://www.yna.co.kr/view/AKR20260223130900008",
       "pubDate": "Mon, 23 Feb 2026 16:30:05 +0900"
-    },
-    {
-      "title": "[특징주] 상법개정 기대속 보험주 급등…미래에셋生 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223053751008",
-      "pubDate": "Mon, 23 Feb 2026 16:29:33 +0900"
-    },
-    {
-      "title": "경기신보, 내달 6일까지 4개 권역별 지원사업설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260223129200061",
-      "pubDate": "Mon, 23 Feb 2026 16:21:41 +0900"
     }
   ]
 }
