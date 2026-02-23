@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771872394,
+  "updated_at_unix": 1771876239,
   "items": [
+    {
+      "title": "美주택대출 금리, 관세 불확실성에 6% 밑으로 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260224003800072",
+      "pubDate": "Tue, 24 Feb 2026 03:47:49 +0900"
+    },
     {
       "title": "'美연준의장 탈락' 월러 \"고용호조 지속시 금리동결 지지\"",
       "link": "https://www.yna.co.kr/view/AKR20260224003500072",
@@ -147,11 +152,6 @@
       "title": "SK네트웍스, 'AI 스타트업' 업스테이지 지분 추가취득…총 12.9%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260223122551008",
       "pubDate": "Mon, 23 Feb 2026 16:30:19 +0900"
-    },
-    {
-      "title": "'이차전지 제조 기업' 케이솔루션, 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260223130900008",
-      "pubDate": "Mon, 23 Feb 2026 16:30:05 +0900"
     }
   ]
 }
