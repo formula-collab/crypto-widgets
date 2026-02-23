@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771885769,
+  "updated_at_unix": 1771888081,
   "items": [
+    {
+      "title": "[마켓뷰] 트럼프 '플랜B' 여진 지속…미국발 찬바람 주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260224021100008",
+      "pubDate": "Tue, 24 Feb 2026 08:01:04 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시, '청년모두가 주거비' 지원사업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260224021200051",
+      "pubDate": "Tue, 24 Feb 2026 07:54:57 +0900"
+    },
+    {
+      "title": "부산시·대선주조, 외국어메뉴판 플랫폼 '부산올랭' 확산 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260224021000051",
+      "pubDate": "Tue, 24 Feb 2026 07:54:43 +0900"
+    },
+    {
+      "title": "부산시, 벤처투자 회수금 4.5배 성과…1천억원 모펀드 재도전",
+      "link": "https://www.yna.co.kr/view/AKR20260224020700051",
+      "pubDate": "Tue, 24 Feb 2026 07:54:11 +0900"
+    },
+    {
+      "title": "부산시, 친환경·제조 AI기업 4개사와 MOU…440억원 규모 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260224020200051",
+      "pubDate": "Tue, 24 Feb 2026 07:52:09 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260224016000011",
+      "pubDate": "Tue, 24 Feb 2026 07:30:01 +0900"
+    },
     {
       "title": "채권시장 모레 금통위 경계…동결 전망 속 펀더멘털에 쏠린 시선",
       "link": "https://www.yna.co.kr/view/AKR20260223142600008",
@@ -122,36 +152,6 @@
       "title": "검찰, '전분당 담합 의혹' 대상·삼양사 등 4개 업체 압수수색",
       "link": "https://www.yna.co.kr/view/AKR20260223147700004",
       "pubDate": "Mon, 23 Feb 2026 18:02:21 +0900"
-    },
-    {
-      "title": "공정위 vs 검찰 리니언시 신경전에…주병기 \"공정위로 단일화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223145600002",
-      "pubDate": "Mon, 23 Feb 2026 17:56:04 +0900"
-    },
-    {
-      "title": "케이뱅크, 청약 경쟁률 134.6대 1…증거금 9조8천500억원",
-      "link": "https://www.yna.co.kr/view/AKR20260223146900008",
-      "pubDate": "Mon, 23 Feb 2026 17:52:20 +0900"
-    },
-    {
-      "title": "김동연, '민생투어' 재개…공공주택·반도체 등 과제 중심 소통",
-      "link": "https://www.yna.co.kr/view/AKR20260223145900061",
-      "pubDate": "Mon, 23 Feb 2026 17:46:27 +0900"
-    },
-    {
-      "title": "전분당 담합 의혹에 업체들 줄줄이 '가격 인하'(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260223024153030",
-      "pubDate": "Mon, 23 Feb 2026 17:34:19 +0900"
-    },
-    {
-      "title": "단통법 폐지 후 첫 소비자 간담회…이용자 권익 강화 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260223143300017",
-      "pubDate": "Mon, 23 Feb 2026 17:34:03 +0900"
-    },
-    {
-      "title": "남부발전, 상반기 신입사원 등 102명 공개 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260223142400051",
-      "pubDate": "Mon, 23 Feb 2026 17:27:12 +0900"
     }
   ]
 }
