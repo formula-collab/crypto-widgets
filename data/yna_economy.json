@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771819083,
+  "updated_at_unix": 1771824210,
   "items": [
+    {
+      "title": "[영상] 9분 만에 동났다 990원 도시락 오픈런…홈플러스의 '승부수'",
+      "link": "https://www.yna.co.kr/view/AKR20260223074200797",
+      "pubDate": "Mon, 23 Feb 2026 14:17:29 +0900"
+    },
+    {
+      "title": "[광주소식] 주택건설협회, 소화기 1천160대 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260223094900054",
+      "pubDate": "Mon, 23 Feb 2026 14:08:31 +0900"
+    },
+    {
+      "title": "제주 탐나는전 적립률 20%로 올리자 소비 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260223094600056",
+      "pubDate": "Mon, 23 Feb 2026 14:05:28 +0900"
+    },
+    {
+      "title": "익산시, 신혼부부·청년 공공임대 보증금 무이자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260223093900055",
+      "pubDate": "Mon, 23 Feb 2026 14:03:04 +0900"
+    },
+    {
+      "title": "광명시, 새터마을에 복합복지공간 '다정·다감센터' 착공",
+      "link": "https://www.yna.co.kr/view/AKR20260223093800061",
+      "pubDate": "Mon, 23 Feb 2026 14:02:19 +0900"
+    },
+    {
+      "title": "한은총재 \"반도체 호조 등에 성장률 작년보다 상당폭 높아질 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223063900002",
+      "pubDate": "Mon, 23 Feb 2026 14:00:04 +0900"
+    },
+    {
+      "title": "저축은행, 중견기업까지 대출영업 확대…주식보유 한도도 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260223065500002",
+      "pubDate": "Mon, 23 Feb 2026 14:00:03 +0900"
+    },
+    {
+      "title": "'장시간노동' 제조·항공사 49곳서 야간·휴일수당 등 36억 체불",
+      "link": "https://www.yna.co.kr/view/AKR20260223061400530",
+      "pubDate": "Mon, 23 Feb 2026 14:00:03 +0900"
+    },
+    {
+      "title": "한은 \"코스피 변동성 확대 가능성 유의…수도권 집값 불안 여전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223081400002",
+      "pubDate": "Mon, 23 Feb 2026 14:00:00 +0900"
+    },
+    {
+      "title": "인천 빵 제조업체서 수억원대 임금 체불…운영자 검찰 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260223090500065",
+      "pubDate": "Mon, 23 Feb 2026 13:47:04 +0900"
+    },
+    {
+      "title": "'익산청년시청 창업보육실' 입주기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260223089900055",
+      "pubDate": "Mon, 23 Feb 2026 13:44:45 +0900"
+    },
+    {
+      "title": "해남 송지 학가·우근항 어촌뉴딜사업 본격화…100억 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260223087900054",
+      "pubDate": "Mon, 23 Feb 2026 13:37:59 +0900"
+    },
+    {
+      "title": "\"양천구는 서울 도시정비 핵심축\"…정비물량 9만세대 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260223085800004",
+      "pubDate": "Mon, 23 Feb 2026 13:28:43 +0900"
+    },
+    {
+      "title": "[이코노워치] 시계제로 美관세, 더 불안해진 대미투자와 수출",
+      "link": "https://www.yna.co.kr/view/AKR20260223084300546",
+      "pubDate": "Mon, 23 Feb 2026 13:15:05 +0900"
+    },
+    {
+      "title": "李대통령 \"핵심광물 협력확대\"…룰라 \"브라질 희토류 투자 희망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223082100001",
+      "pubDate": "Mon, 23 Feb 2026 13:13:11 +0900"
+    },
     {
       "title": "미 관세 위법 판결에 증권가 \"증시 영향 제한적\"…업종별 셈법은",
       "link": "https://www.yna.co.kr/view/AKR20260223075400008",
@@ -77,81 +152,6 @@
       "title": "[화성소식] 청년구직자 대상 정장 대여·면접사진 촬영비 지원",
       "link": "https://www.yna.co.kr/view/AKR20260223069900061",
       "pubDate": "Mon, 23 Feb 2026 11:15:12 +0900"
-    },
-    {
-      "title": "부산 시민단체 \"남구청, 이기대 입구 아파트 사업계획 반려해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223057500051",
-      "pubDate": "Mon, 23 Feb 2026 11:10:00 +0900"
-    },
-    {
-      "title": "하나은행, 밤 9시까지 야간 점포 운영한다…2개 지점 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260223066000002",
-      "pubDate": "Mon, 23 Feb 2026 11:03:00 +0900"
-    },
-    {
-      "title": "AI·첨단바이오 스타트업, 1개월 내 특허심사 결과 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260223030800063",
-      "pubDate": "Mon, 23 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국토부, 2천900여개 건설현장 점검…해빙기 안전사고 예방",
-      "link": "https://www.yna.co.kr/view/AKR20260223038000003",
-      "pubDate": "Mon, 23 Feb 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[부고] 이경석(전 쌍용건설 부사장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260223064200505",
-      "pubDate": "Mon, 23 Feb 2026 10:56:51 +0900"
-    },
-    {
-      "title": "울산 새해 첫달 수출 21% 증가…차·선박 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260223059600057",
-      "pubDate": "Mon, 23 Feb 2026 10:48:46 +0900"
-    },
-    {
-      "title": "노무라, 올해 상반기 코스피 목표치 최대 8,000 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260223061800008",
-      "pubDate": "Mon, 23 Feb 2026 10:47:58 +0900"
-    },
-    {
-      "title": "1월 기준 서울 민간아파트 분양가 평당 5천273만원",
-      "link": "https://www.yna.co.kr/view/AKR20260223060800003",
-      "pubDate": "Mon, 23 Feb 2026 10:47:39 +0900"
-    },
-    {
-      "title": "중국·필리핀에 콜센터 두고 보이스피싱…76명 무더기 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260223057400063",
-      "pubDate": "Mon, 23 Feb 2026 10:40:38 +0900"
-    },
-    {
-      "title": "코람코운용, 데이터센터 조직확대…\"디지털 인프라 플랫폼 도약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223056500008",
-      "pubDate": "Mon, 23 Feb 2026 10:34:20 +0900"
-    },
-    {
-      "title": "[특징주] 보험주, 3차상법개정안 기대에 강세…미래에셋생명 장중 상한가",
-      "link": "https://www.yna.co.kr/view/AKR20260223053700008",
-      "pubDate": "Mon, 23 Feb 2026 10:33:36 +0900"
-    },
-    {
-      "title": "진천군, 백곡호 일원 전원주택 단지 조성사업 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260223047200064",
-      "pubDate": "Mon, 23 Feb 2026 10:33:23 +0900"
-    },
-    {
-      "title": "울산시, '샤힌 프로젝트' 6월 말 준공에 총력 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260222065600057",
-      "pubDate": "Mon, 23 Feb 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260223052800011",
-      "pubDate": "Mon, 23 Feb 2026 10:30:01 +0900"
-    },
-    {
-      "title": "부산은행, AI 기반 대안신용평가 모형 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260223057200051",
-      "pubDate": "Mon, 23 Feb 2026 10:27:59 +0900"
     }
   ]
 }
