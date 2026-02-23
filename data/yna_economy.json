@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771846305,
+  "updated_at_unix": 1771850189,
   "items": [
+    {
+      "title": "경남 의령 돼지농장서 아프리카돼지열병…올해 20번째 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260223161100030",
+      "pubDate": "Mon, 23 Feb 2026 21:10:37 +0900"
+    },
     {
       "title": "정부, '엘리엇 ISDS' 불복소송 승소…1천600억 국고유출 막았다",
       "link": "https://www.yna.co.kr/view/AKR20260223156500004",
@@ -147,11 +152,6 @@
       "title": "경기신보, 내달 6일까지 4개 권역별 지원사업설명회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260223129200061",
       "pubDate": "Mon, 23 Feb 2026 16:21:41 +0900"
-    },
-    {
-      "title": "구윤철 \"비거주 부동산 레버리지 정상화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223128700002",
-      "pubDate": "Mon, 23 Feb 2026 16:19:58 +0900"
     }
   ]
 }
