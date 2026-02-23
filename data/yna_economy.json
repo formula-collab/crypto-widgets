@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771843132,
+  "updated_at_unix": 1771846305,
   "items": [
+    {
+      "title": "정부, '엘리엇 ISDS' 불복소송 승소…1천600억 국고유출 막았다",
+      "link": "https://www.yna.co.kr/view/AKR20260223156500004",
+      "pubDate": "Mon, 23 Feb 2026 20:01:09 +0900"
+    },
     {
       "title": "美 로봇 석학 \"한국기업들 강점 있다…독자개발보단 협력해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260223155900004",
@@ -147,11 +152,6 @@
       "title": "구윤철 \"비거주 부동산 레버리지 정상화 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260223128700002",
       "pubDate": "Mon, 23 Feb 2026 16:19:58 +0900"
-    },
-    {
-      "title": "구윤철 \"한미합의 유효…대미투자특별법 절차대로 진행돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223126800002",
-      "pubDate": "Mon, 23 Feb 2026 16:12:36 +0900"
     }
   ]
 }
