@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771882414,
+  "updated_at_unix": 1771885769,
   "items": [
+    {
+      "title": "채권시장 모레 금통위 경계…동결 전망 속 펀더멘털에 쏠린 시선",
+      "link": "https://www.yna.co.kr/view/AKR20260223142600008",
+      "pubDate": "Tue, 24 Feb 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 치솟는 금·구리값…아프리카 자원부국의 '선택'은",
+      "link": "https://www.yna.co.kr/view/AKR20260206028600898",
+      "pubDate": "Tue, 24 Feb 2026 07:00:02 +0900"
+    },
+    {
+      "title": "과기자문회의 \"스타트업·전략기술 분야 주52시간 예외\" 제안",
+      "link": "https://www.yna.co.kr/view/AKR20260223117800017",
+      "pubDate": "Tue, 24 Feb 2026 06:33:02 +0900"
+    },
     {
       "title": "[뉴욕유가] 미군 수뇌부, 이란 공습에 우려 드러내…WTI 약보합 지속",
       "link": "https://www.yna.co.kr/view/AKR20260224007700009",
@@ -137,21 +152,6 @@
       "title": "남부발전, 상반기 신입사원 등 102명 공개 채용",
       "link": "https://www.yna.co.kr/view/AKR20260223142400051",
       "pubDate": "Mon, 23 Feb 2026 17:27:12 +0900"
-    },
-    {
-      "title": "철원군, 청년 창업 공간 지원사업 참여자 내달 6일까지 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260223141900062",
-      "pubDate": "Mon, 23 Feb 2026 17:26:50 +0900"
-    },
-    {
-      "title": "이창용 성장률 발언에 국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223133251008",
-      "pubDate": "Mon, 23 Feb 2026 17:11:30 +0900"
-    },
-    {
-      "title": "임기근 \"본예산 집행 우선…추경은 세입·경기 종합 고려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223139600002",
-      "pubDate": "Mon, 23 Feb 2026 17:07:45 +0900"
     }
   ]
 }
