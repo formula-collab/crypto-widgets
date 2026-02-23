@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771832742,
+  "updated_at_unix": 1771835709,
   "items": [
+    {
+      "title": "남부발전, 상반기 신입사원 등 102명 공개 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260223142400051",
+      "pubDate": "Mon, 23 Feb 2026 17:27:12 +0900"
+    },
+    {
+      "title": "철원군, 청년 창업 공간 지원사업 참여자 내달 6일까지 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260223141900062",
+      "pubDate": "Mon, 23 Feb 2026 17:26:50 +0900"
+    },
+    {
+      "title": "이창용 성장률 발언에 국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260223133251008",
+      "pubDate": "Mon, 23 Feb 2026 17:11:30 +0900"
+    },
+    {
+      "title": "임기근 \"본예산 집행 우선…추경은 세입·경기 종합 고려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223139600002",
+      "pubDate": "Mon, 23 Feb 2026 17:07:45 +0900"
+    },
+    {
+      "title": "한화생명 작년 당기순익 8천363억원…\"국내외 자회사 실적 견조\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260223136900002",
+      "pubDate": "Mon, 23 Feb 2026 17:05:34 +0900"
+    },
+    {
+      "title": "한국-브라질 경제계, 첨단제조·전략광물 등 3대 협력방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260223086000003",
+      "pubDate": "Mon, 23 Feb 2026 17:00:00 +0900"
+    },
+    {
+      "title": "한은 총재 \"건설경기 예상보다 나빠…구조조정으로 정리해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260223132900002",
+      "pubDate": "Mon, 23 Feb 2026 16:57:46 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.154%",
+      "link": "https://www.yna.co.kr/view/AKR20260223133200008",
+      "pubDate": "Mon, 23 Feb 2026 16:49:49 +0900"
+    },
+    {
+      "title": "강원도, 두바이 월드헬스 엑스포서 325억원 수출계약 성과",
+      "link": "https://www.yna.co.kr/view/AKR20260223133600062",
+      "pubDate": "Mon, 23 Feb 2026 16:46:26 +0900"
+    },
+    {
+      "title": "日·中 열연제품 업체들, 최대 33% 관세 압박에 '수출 가격 인상 약속'",
+      "link": "https://www.yna.co.kr/view/AKR20260223131100003",
+      "pubDate": "Mon, 23 Feb 2026 16:42:59 +0900"
+    },
     {
       "title": "SK네트웍스, 'AI 스타트업' 업스테이지 지분 추가취득…총 12.9%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260223122551008",
@@ -102,56 +152,6 @@
       "title": "강원 외국인 노동자 경제적 유발효과 증가율 연 11.5%",
       "link": "https://www.yna.co.kr/view/AKR20260223112600062",
       "pubDate": "Mon, 23 Feb 2026 15:48:40 +0900"
-    },
-    {
-      "title": "[게시판] 이명구 관세청장, 일선 세관 직원들과 타운홀 미팅",
-      "link": "https://www.yna.co.kr/view/AKR20260223119600002",
-      "pubDate": "Mon, 23 Feb 2026 15:47:39 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 미국발 훈풍에 동반 최고가 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223032651008",
-      "pubDate": "Mon, 23 Feb 2026 15:41:38 +0900"
-    },
-    {
-      "title": "농식품부 \"농산물 안정세…돼지고기 1만5천t 할당관세 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223106600030",
-      "pubDate": "Mon, 23 Feb 2026 15:40:39 +0900"
-    },
-    {
-      "title": "[특징주] 현대차, 상호관세 위법 판결에 3% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223034751008",
-      "pubDate": "Mon, 23 Feb 2026 15:40:32 +0900"
-    },
-    {
-      "title": "외국환시세(2월23일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260223117200002",
-      "pubDate": "Mon, 23 Feb 2026 15:40:22 +0900"
-    },
-    {
-      "title": "60대가 20대보다 더 벌어…대기업 임금, 중소기업의 2배(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260223054851002",
-      "pubDate": "Mon, 23 Feb 2026 15:40:14 +0900"
-    },
-    {
-      "title": "부산연구원·시의회, 24일 첫 조찬 정책 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260223116900051",
-      "pubDate": "Mon, 23 Feb 2026 15:35:00 +0900"
-    },
-    {
-      "title": "밀가루값 담합했다가 5% 내리면 충분?…주병기 \"10% 이상 해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260223112200002",
-      "pubDate": "Mon, 23 Feb 2026 15:31:02 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 6.6원 내린 1,440.0원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260223115600002",
-      "pubDate": "Mon, 23 Feb 2026 15:30:14 +0900"
-    },
-    {
-      "title": "데이터정책에 민간 목소리 담는다…국가데이터 민관협의체 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260223113300002",
-      "pubDate": "Mon, 23 Feb 2026 15:30:00 +0900"
     }
   ]
 }
