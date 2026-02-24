@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771918940,
+  "updated_at_unix": 1771922005,
   "items": [
+    {
+      "title": "김정규 타이어뱅크 회장 파기환송심 첫 공판 열려",
+      "link": "https://www.yna.co.kr/view/AKR20260224152800063",
+      "pubDate": "Tue, 24 Feb 2026 17:23:34 +0900"
+    },
+    {
+      "title": "대구·경북 1월 수출 실적 큰 폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260224151000053",
+      "pubDate": "Tue, 24 Feb 2026 17:22:19 +0900"
+    },
+    {
+      "title": "미래에셋생명 작년 당기순이익 1천308억원…전년 대비 3.9%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260224144800002",
+      "pubDate": "Tue, 24 Feb 2026 17:12:32 +0900"
+    },
+    {
+      "title": "키움투자자산운용 ETF 4종, 내달 자진 상장폐지",
+      "link": "https://www.yna.co.kr/view/AKR20260224148800008",
+      "pubDate": "Tue, 24 Feb 2026 17:10:26 +0900"
+    },
+    {
+      "title": "코스피 2% 급등에 국고채 금리 일제히 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260224142351008",
+      "pubDate": "Tue, 24 Feb 2026 17:02:37 +0900"
+    },
+    {
+      "title": "롯데웰푸드, 희망퇴직…\"미래 성장동력 확보 위해 조직 효율화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224142900030",
+      "pubDate": "Tue, 24 Feb 2026 16:48:18 +0900"
+    },
+    {
+      "title": "경기교육청, 직업교육 체계 전환…\"AI 초융합 시대 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224140700060",
+      "pubDate": "Tue, 24 Feb 2026 16:43:08 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.158%",
+      "link": "https://www.yna.co.kr/view/AKR20260224142300008",
+      "pubDate": "Tue, 24 Feb 2026 16:41:02 +0900"
+    },
+    {
+      "title": "軍 장기간부 적금 신설…매칭지원으로 3년 만기 최대 2천300만원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260224033151504",
+      "pubDate": "Tue, 24 Feb 2026 16:35:12 +0900"
+    },
     {
       "title": "광명시, 전국 첫 '공정무역 캐시백' 안착…가게 5곳 신규 인증",
       "link": "https://www.yna.co.kr/view/AKR20260224117800061",
@@ -107,51 +152,6 @@
       "title": "고정밀 지도 국외 반출 심의 결과 이번 주 결정 가능성",
       "link": "https://www.yna.co.kr/view/AKR20260224123900003",
       "pubDate": "Tue, 24 Feb 2026 15:38:30 +0900"
-    },
-    {
-      "title": "[게시판] KB국민은행·국방부, '장기간부 도약적금' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260224124800002",
-      "pubDate": "Tue, 24 Feb 2026 15:38:13 +0900"
-    },
-    {
-      "title": "[특징주] 애경산업, 美 월마트 입점 소식에 12% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224039051008",
-      "pubDate": "Tue, 24 Feb 2026 15:36:33 +0900"
-    },
-    {
-      "title": "외국환시세(2월24일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260224124300002",
-      "pubDate": "Tue, 24 Feb 2026 15:35:13 +0900"
-    },
-    {
-      "title": "[특징주] 소액주주보호 명문화 추진 고려아연, 8.6% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224042951008",
-      "pubDate": "Tue, 24 Feb 2026 15:34:57 +0900"
-    },
-    {
-      "title": "신한금융, 전북혁신도시에 금융허브…자산운용 사무소 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260224122200002",
-      "pubDate": "Tue, 24 Feb 2026 15:34:15 +0900"
-    },
-    {
-      "title": "1월 자동차보험 손해율 88.5%…새해도 적자 구조 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260224122100002",
-      "pubDate": "Tue, 24 Feb 2026 15:33:47 +0900"
-    },
-    {
-      "title": "강원평화경제연구소, 춘천 기업혁신파크사업 전반 점검 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260224121400062",
-      "pubDate": "Tue, 24 Feb 2026 15:30:46 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.5원 오른 1,442.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260224122500002",
-      "pubDate": "Tue, 24 Feb 2026 15:30:17 +0900"
-    },
-    {
-      "title": "軍 장기간부 적금 신설…매칭지원으로 3년 만기 최대 2천300만원",
-      "link": "https://www.yna.co.kr/view/AKR20260224033100504",
-      "pubDate": "Tue, 24 Feb 2026 15:28:05 +0900"
     }
   ]
 }
