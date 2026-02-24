@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771922005,
+  "updated_at_unix": 1771925988,
   "items": [
+    {
+      "title": "고정밀 지도 국외 반출 심의 결과 이번 주 결정 가능성(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260224123951003",
+      "pubDate": "Tue, 24 Feb 2026 18:03:13 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260224154500011",
+      "pubDate": "Tue, 24 Feb 2026 18:00:01 +0900"
+    },
+    {
+      "title": "금융당국, 다주택자 대출연장 정밀 타격 준비…통계 정비 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260224157900002",
+      "pubDate": "Tue, 24 Feb 2026 17:57:39 +0900"
+    },
+    {
+      "title": "SK스퀘어, 작년 영업익 8조8천억 '사상 최대'…125% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260224141900017",
+      "pubDate": "Tue, 24 Feb 2026 17:50:15 +0900"
+    },
+    {
+      "title": "주병기 \"교복, 관행적 담합 의심…전분당 조사 내달 초 마무리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224157200002",
+      "pubDate": "Tue, 24 Feb 2026 17:47:12 +0900"
+    },
     {
       "title": "김정규 타이어뱅크 회장 파기환송심 첫 공판 열려",
       "link": "https://www.yna.co.kr/view/AKR20260224152800063",
@@ -127,31 +152,6 @@
       "title": "[특징주] 대우건설, 신규수주 기대감속 8% 급등…신고가도 경신(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224051051008",
       "pubDate": "Tue, 24 Feb 2026 15:53:21 +0900"
-    },
-    {
-      "title": "나신평 \"불장 속 증권사 경쟁 심화…대형-중소형사 양극화 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224125900008",
-      "pubDate": "Tue, 24 Feb 2026 15:50:20 +0900"
-    },
-    {
-      "title": "부산 소비자 경제 심리 회복 추세…2월 지수 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260224129200051",
-      "pubDate": "Tue, 24 Feb 2026 15:50:17 +0900"
-    },
-    {
-      "title": "[게시판] KB국민카드, '소상공인 회복 지원' 햇살론 카드 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260224128600002",
-      "pubDate": "Tue, 24 Feb 2026 15:47:51 +0900"
-    },
-    {
-      "title": "환율, 美 관세정책 혼선에 2.5원 오른 1,442.5원",
-      "link": "https://www.yna.co.kr/view/AKR20260224035951002",
-      "pubDate": "Tue, 24 Feb 2026 15:46:02 +0900"
-    },
-    {
-      "title": "고정밀 지도 국외 반출 심의 결과 이번 주 결정 가능성",
-      "link": "https://www.yna.co.kr/view/AKR20260224123900003",
-      "pubDate": "Tue, 24 Feb 2026 15:38:30 +0900"
     }
   ]
 }
