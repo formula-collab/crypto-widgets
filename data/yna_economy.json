@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771966808,
+  "updated_at_unix": 1771969087,
   "items": [
+    {
+      "title": "구로·불광·구의 등 6곳, 신속통합기획 재개발 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260224169200004",
+      "pubDate": "Wed, 25 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "기업 체감경기 한달만에 반등…부동산·정보통신업 등 실적 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260224153400002",
+      "pubDate": "Wed, 25 Feb 2026 06:00:01 +0900"
+    },
     {
       "title": "돈 오래 안 묶어둔다…지난해 2년 이상 정기예금 역대 최대폭 감소",
       "link": "https://www.yna.co.kr/view/AKR20260224166200002",
@@ -142,16 +152,6 @@
       "title": "광명시, 전국 첫 '공정무역 캐시백' 안착…가게 5곳 신규 인증",
       "link": "https://www.yna.co.kr/view/AKR20260224117800061",
       "pubDate": "Tue, 24 Feb 2026 16:30:00 +0900"
-    },
-    {
-      "title": "LH·성남시, 상대원3구역 재개발 사업시행협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260224131800003",
-      "pubDate": "Tue, 24 Feb 2026 16:27:10 +0900"
-    },
-    {
-      "title": "한국선급 2025년 결산안 의결…수입 2천60억원",
-      "link": "https://www.yna.co.kr/view/AKR20260224138800051",
-      "pubDate": "Tue, 24 Feb 2026 16:26:47 +0900"
     }
   ]
 }
