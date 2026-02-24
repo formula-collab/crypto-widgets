@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771910207,
+  "updated_at_unix": 1771914776,
   "items": [
+    {
+      "title": "한국자산관리공사, 이종국 신임 부사장 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260224119600002",
+      "pubDate": "Tue, 24 Feb 2026 15:22:44 +0900"
+    },
+    {
+      "title": "\"작년 국가신용등급, 美中 강등…이탈리아·스페인 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224118600002",
+      "pubDate": "Tue, 24 Feb 2026 15:18:59 +0900"
+    },
+    {
+      "title": "ECB 총재 \"법만으로 중앙은행 독립성 못지켜…수장의 신념 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224119200009",
+      "pubDate": "Tue, 24 Feb 2026 15:15:02 +0900"
+    },
+    {
+      "title": "부산 센텀2지구 도시첨단산단 착공…191만㎡ 규모(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260224119300051",
+      "pubDate": "Tue, 24 Feb 2026 15:14:08 +0900"
+    },
+    {
+      "title": "관세청 미래성장혁신위원회…\"다층 국경감시체계 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224116900002",
+      "pubDate": "Tue, 24 Feb 2026 15:11:15 +0900"
+    },
+    {
+      "title": "[AI픽] 플로우, 프로젝트 설계하는 'AI 에이전트' 국내 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260224117600017",
+      "pubDate": "Tue, 24 Feb 2026 15:10:27 +0900"
+    },
+    {
+      "title": "\"검토도 없이 찬성표\"…금감원, 운용사 수탁자책임 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260224052000002",
+      "pubDate": "Tue, 24 Feb 2026 15:00:01 +0900"
+    },
+    {
+      "title": "광주시, 올해 공직자 1천명 채용…전년 대비 3배 ↑",
+      "link": "https://www.yna.co.kr/view/AKR20260224113100054",
+      "pubDate": "Tue, 24 Feb 2026 14:51:59 +0900"
+    },
+    {
+      "title": "강원 의료기기, 중동 심장부 두바이서 'K-메디컬' 저력 증명",
+      "link": "https://www.yna.co.kr/view/AKR20260224103100062",
+      "pubDate": "Tue, 24 Feb 2026 14:45:14 +0900"
+    },
+    {
+      "title": "광주·전남 집값 상승 기대 '뚝'…13년 만 최대 낙폭",
+      "link": "https://www.yna.co.kr/view/AKR20260224111200054",
+      "pubDate": "Tue, 24 Feb 2026 14:39:53 +0900"
+    },
+    {
+      "title": "[AI픽] AI 학습 데이터 구매비용도 연구개발 세액공제",
+      "link": "https://www.yna.co.kr/view/AKR20260224108900017",
+      "pubDate": "Tue, 24 Feb 2026 14:39:48 +0900"
+    },
+    {
+      "title": "김성주 부산은행장 \"수도권 영업 강화로 성장동력 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224110100051",
+      "pubDate": "Tue, 24 Feb 2026 14:34:16 +0900"
+    },
+    {
+      "title": "성수4지구, '홍보 요원 철수' 문제로 조합·대우 갈등 재점화",
+      "link": "https://www.yna.co.kr/view/AKR20260224108700003",
+      "pubDate": "Tue, 24 Feb 2026 14:30:45 +0900"
+    },
+    {
+      "title": "경남도, 중기·소상공·노동자 챙기는 '체감형 지원정책' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260224107300052",
+      "pubDate": "Tue, 24 Feb 2026 14:30:10 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260224104100011",
+      "pubDate": "Tue, 24 Feb 2026 14:30:01 +0900"
+    },
+    {
+      "title": "중진공, K-뷰티론 예산 400억원으로 확대…지원요건 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260224108500030",
+      "pubDate": "Tue, 24 Feb 2026 14:29:32 +0900"
+    },
+    {
+      "title": "코스피, 연일 최고치 랠리…공포지수도 엿새째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260224108100008",
+      "pubDate": "Tue, 24 Feb 2026 14:26:34 +0900"
+    },
+    {
+      "title": "전남도, 2027년 국고 건의 신규사업 153건 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260224107700054",
+      "pubDate": "Tue, 24 Feb 2026 14:21:49 +0900"
+    },
+    {
+      "title": "어업용 세척기도 부가세 환급받는다…관련 규정 국무회의 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260224106800030",
+      "pubDate": "Tue, 24 Feb 2026 14:20:35 +0900"
+    },
+    {
+      "title": "로젠, 완주군 제2산단에 물류터미널 추진…축구장 22개 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260224102400055",
+      "pubDate": "Tue, 24 Feb 2026 14:18:04 +0900"
+    },
     {
       "title": "스타트업 혁신기술을 軍으로…민군 기술협력 '피치데이'",
       "link": "https://www.yna.co.kr/view/AKR20260224066000504",
@@ -52,106 +152,6 @@
       "title": "대미투자법 공방…\"조속 처리\"·\"투자 서두르는 게 합당한가\"",
       "link": "https://www.yna.co.kr/view/AKR20260224087700001",
       "pubDate": "Tue, 24 Feb 2026 12:54:59 +0900"
-    },
-    {
-      "title": "李대통령, 담합에 \"온동네 파면 다 더러워…신고포상금 몇백억 줘라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224088600001",
-      "pubDate": "Tue, 24 Feb 2026 12:41:22 +0900"
-    },
-    {
-      "title": "경찰, '김병기 차남 특혜채용 의혹' 빗썸 본사 등 압수수색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224054251004",
-      "pubDate": "Tue, 24 Feb 2026 12:28:17 +0900"
-    },
-    {
-      "title": "李대통령 \"나라의 모든 문제 원천이 부동산…농지까지 투기대상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224087500001",
-      "pubDate": "Tue, 24 Feb 2026 12:25:49 +0900"
-    },
-    {
-      "title": "작년 서울 빌라 임대차 10건중 6건 월세…'순수 월세' 16% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260224087000003",
-      "pubDate": "Tue, 24 Feb 2026 12:12:16 +0900"
-    },
-    {
-      "title": "IBK투자, 나무이앤알과 EU 탄소국경조정제도 대응 협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260224085000008",
-      "pubDate": "Tue, 24 Feb 2026 12:04:11 +0900"
-    },
-    {
-      "title": "공정위 '아파트보수공사 담합' 주원디엔피·이루미건설에 과징금",
-      "link": "https://www.yna.co.kr/view/AKR20260224052500002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:15 +0900"
-    },
-    {
-      "title": "작년 4분기 공적자금 1천228억원 회수…회수율 72.5％",
-      "link": "https://www.yna.co.kr/view/AKR20260224062500002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:08 +0900"
-    },
-    {
-      "title": "작년 지방세 수입 120조9천억원으로 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260224073000530",
-      "pubDate": "Tue, 24 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "작년 3분기 임금근로 일자리 14만개↑…20대는 3년째 내리막",
-      "link": "https://www.yna.co.kr/view/AKR20260224078200002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "금감원, 내달 4∼16일 금융감독 업무설명회…8개 부문 순차 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260224084300002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "작년 4분기 신규주담대 평균 2.1억…규제에 1천421만원 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260224083600002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "청년 부진에 특별·광역시 고용률 또 하락…쉬었음 등 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260224070400002",
-      "pubDate": "Tue, 24 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "손경식 경총회장, 만장일치로 5연임…\"범경영계 차원 공조 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224063600003",
-      "pubDate": "Tue, 24 Feb 2026 12:00:00 +0900"
-    },
-    {
-      "title": "증권사 부장이 코스닥 주가조작 가담…검찰, 대신증권 압수수색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224073251004",
-      "pubDate": "Tue, 24 Feb 2026 11:52:46 +0900"
-    },
-    {
-      "title": "예천축협 조합장 선거 앞두고 금품 돌린 예비후보 등 2명 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260224083400053",
-      "pubDate": "Tue, 24 Feb 2026 11:51:16 +0900"
-    },
-    {
-      "title": "가족회사 위장 취업해 아파트 특별공급 두 차례 따낸 일가 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260224083700064",
-      "pubDate": "Tue, 24 Feb 2026 11:48:19 +0900"
-    },
-    {
-      "title": "경기 광주시 장사시설 건립 가속…'선정방식 완화' 조례 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260224083300061",
-      "pubDate": "Tue, 24 Feb 2026 11:43:04 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.133%",
-      "link": "https://www.yna.co.kr/view/AKR20260224083200008",
-      "pubDate": "Tue, 24 Feb 2026 11:41:33 +0900"
-    },
-    {
-      "title": "신영증권, '신영 아트업 장학증서' 수여식 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260224080900008",
-      "pubDate": "Tue, 24 Feb 2026 11:35:37 +0900"
-    },
-    {
-      "title": "신임 보험연구원장에 김헌수 순천향대 교수 선출",
-      "link": "https://www.yna.co.kr/view/AKR20260224078000002",
-      "pubDate": "Tue, 24 Feb 2026 11:29:53 +0900"
     }
   ]
 }
