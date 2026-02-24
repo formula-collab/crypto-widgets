@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771969087,
+  "updated_at_unix": 1771971705,
   "items": [
+    {
+      "title": "특혜논란에 백지화된 인천 송도 K팝시티 부지 사업자 공모 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260224118400065",
+      "pubDate": "Wed, 25 Feb 2026 07:17:00 +0900"
+    },
     {
       "title": "구로·불광·구의 등 6곳, 신속통합기획 재개발 추진",
       "link": "https://www.yna.co.kr/view/AKR20260224169200004",
@@ -147,11 +152,6 @@
       "title": "軍 장기간부 적금 신설…매칭지원으로 3년 만기 최대 2천300만원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224033151504",
       "pubDate": "Tue, 24 Feb 2026 16:35:12 +0900"
-    },
-    {
-      "title": "광명시, 전국 첫 '공정무역 캐시백' 안착…가게 5곳 신규 인증",
-      "link": "https://www.yna.co.kr/view/AKR20260224117800061",
-      "pubDate": "Tue, 24 Feb 2026 16:30:00 +0900"
     }
   ]
 }
