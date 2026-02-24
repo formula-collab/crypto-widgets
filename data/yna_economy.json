@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771925988,
+  "updated_at_unix": 1771929400,
   "items": [
+    {
+      "title": "국토부 \"내달 지자체와 임대료 상한 의무 위반 사례 특별 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260224166800003",
+      "pubDate": "Tue, 24 Feb 2026 19:05:04 +0900"
+    },
+    {
+      "title": "미래에셋, WM·투자전략 부문대표에 김민균·박희찬 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260224166300008",
+      "pubDate": "Tue, 24 Feb 2026 19:00:52 +0900"
+    },
+    {
+      "title": "미래에셋, 6천354억 규모 주주환원 이사회 결의…역대 최대규모",
+      "link": "https://www.yna.co.kr/view/AKR20260224165300008",
+      "pubDate": "Tue, 24 Feb 2026 18:49:47 +0900"
+    },
+    {
+      "title": "가덕도신공항 부지조성공사, 대우건설 컨소시엄과 수의계약 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260224164800051",
+      "pubDate": "Tue, 24 Feb 2026 18:46:24 +0900"
+    },
+    {
+      "title": "성수4지구 갈등 재점화 봉합…조합 \"대우 해명 수용하고 사과\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260224108751003",
+      "pubDate": "Tue, 24 Feb 2026 18:42:15 +0900"
+    },
     {
       "title": "고정밀 지도 국외 반출 심의 결과 이번 주 결정 가능성(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224123951003",
@@ -127,31 +152,6 @@
       "title": "반도체·AI에 자금 쏠렸다…7천632억 과기펀드 출범",
       "link": "https://www.yna.co.kr/view/AKR20260224104200017",
       "pubDate": "Tue, 24 Feb 2026 16:10:01 +0900"
-    },
-    {
-      "title": "\"트럼프 땡큐\"…추가관세발 불확실성에 국내외 금값 반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224064151008",
-      "pubDate": "Tue, 24 Feb 2026 16:09:22 +0900"
-    },
-    {
-      "title": "[게시판] 부산 내항화물운송사업자 유류세 보조금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260224131500051",
-      "pubDate": "Tue, 24 Feb 2026 16:00:25 +0900"
-    },
-    {
-      "title": "노동부, 양대노총 이어 경총과도 소통창구…경정협의체 발족",
-      "link": "https://www.yna.co.kr/view/AKR20260224052400530",
-      "pubDate": "Tue, 24 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "강원농협, 도청과 함께 농산물 수급 안정 대책 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260224130400062",
-      "pubDate": "Tue, 24 Feb 2026 15:54:00 +0900"
-    },
-    {
-      "title": "[특징주] 대우건설, 신규수주 기대감속 8% 급등…신고가도 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224051051008",
-      "pubDate": "Tue, 24 Feb 2026 15:53:21 +0900"
     }
   ]
 }
