@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771964554,
+  "updated_at_unix": 1771966808,
   "items": [
+    {
+      "title": "돈 오래 안 묶어둔다…지난해 2년 이상 정기예금 역대 최대폭 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260224166200002",
+      "pubDate": "Wed, 25 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "집값 상승 기대, 중장년·중상위 소득층서 더 크게 꺾였다",
+      "link": "https://www.yna.co.kr/view/AKR20260224156000002",
+      "pubDate": "Wed, 25 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 이란, 핵 협상 두고 \"합의 가시권\"…WTI 1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260225007100009",
+      "pubDate": "Wed, 25 Feb 2026 05:33:41 +0900"
+    },
     {
       "title": "\"美, 은행에 고객 시민권정보 수집 요구 검토…이민단속 일환\"",
       "link": "https://www.yna.co.kr/view/AKR20260225005100071",
@@ -137,21 +152,6 @@
       "title": "한국선급 2025년 결산안 의결…수입 2천60억원",
       "link": "https://www.yna.co.kr/view/AKR20260224138800051",
       "pubDate": "Tue, 24 Feb 2026 16:26:47 +0900"
-    },
-    {
-      "title": "새만금 수변도시 4공구 부지조성 속도…남광토건 컨소시엄 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260224133200055",
-      "pubDate": "Tue, 24 Feb 2026 16:15:24 +0900"
-    },
-    {
-      "title": "[부산소식] 부산은행, '모두愛(애) 보훈밥상' 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260224135000051",
-      "pubDate": "Tue, 24 Feb 2026 16:14:28 +0900"
-    },
-    {
-      "title": "강원도립대 RISE사업단, 지역특화 평생교육 성과발표회",
-      "link": "https://www.yna.co.kr/view/AKR20260224134400062",
-      "pubDate": "Tue, 24 Feb 2026 16:12:28 +0900"
     }
   ]
 }
