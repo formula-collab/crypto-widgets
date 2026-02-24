@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771975559,
+  "updated_at_unix": 1771977160,
   "items": [
+    {
+      "title": "\"금리 상승 둔화에 스프레드 보합됐지만…공사채 약세 해소돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225028300008",
+      "pubDate": "Wed, 25 Feb 2026 08:43:52 +0900"
+    },
+    {
+      "title": "NH투자, 티엘비 목표가 8만1천→8만4천원 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260225027800008",
+      "pubDate": "Wed, 25 Feb 2026 08:40:52 +0900"
+    },
+    {
+      "title": "李대통령 \"농지 매각명령에 공산당 운운…경자유전 이해 못한 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225026100001",
+      "pubDate": "Wed, 25 Feb 2026 08:33:52 +0900"
+    },
+    {
+      "title": "SK증권 \"'4분기 순항' 한국카본, 실적 성장 지속…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225026800008",
+      "pubDate": "Wed, 25 Feb 2026 08:28:01 +0900"
+    },
+    {
+      "title": "대신증권 \"SK스퀘어, 하이닉스 대안 매력 여전…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225026500008",
+      "pubDate": "Wed, 25 Feb 2026 08:26:52 +0900"
+    },
     {
       "title": "IBK투자, 선익시스템 목표가 126%↑…\"3세대 태양광전지 수혜\"",
       "link": "https://www.yna.co.kr/view/AKR20260225024600008",
@@ -127,31 +152,6 @@
       "title": "고정밀 지도 국외 반출 심의 결과 이번 주 결정 가능성(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224123951003",
       "pubDate": "Tue, 24 Feb 2026 18:03:13 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260224154500011",
-      "pubDate": "Tue, 24 Feb 2026 18:00:01 +0900"
-    },
-    {
-      "title": "금융당국, 다주택자 대출연장 정밀 타격 준비…통계 정비 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260224157900002",
-      "pubDate": "Tue, 24 Feb 2026 17:57:39 +0900"
-    },
-    {
-      "title": "SK스퀘어, 작년 영업익 8조8천억 '사상 최대'…125% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260224141900017",
-      "pubDate": "Tue, 24 Feb 2026 17:50:15 +0900"
-    },
-    {
-      "title": "주병기 \"교복, 관행적 담합 의심…전분당 조사 내달 초 마무리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224157200002",
-      "pubDate": "Tue, 24 Feb 2026 17:47:12 +0900"
-    },
-    {
-      "title": "김정규 타이어뱅크 회장 파기환송심 첫 공판 열려",
-      "link": "https://www.yna.co.kr/view/AKR20260224152800063",
-      "pubDate": "Tue, 24 Feb 2026 17:23:34 +0900"
     }
   ]
 }
