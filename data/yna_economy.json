@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771941784,
+  "updated_at_unix": 1771946074,
   "items": [
+    {
+      "title": "美 작년 연간 주택가격 1.3%↑…14년 만에 상승률 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260224180500072",
+      "pubDate": "Tue, 24 Feb 2026 23:57:09 +0900"
+    },
     {
       "title": "김제·성주 산란계 농장서 고병원성 조류인플루엔자",
       "link": "https://www.yna.co.kr/view/AKR20260224176300030",
@@ -147,11 +152,6 @@
       "title": "사법개혁법 대치에 대미투자법 심사 유탄…특위 법안 상정 불발(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224087751001",
       "pubDate": "Tue, 24 Feb 2026 16:11:48 +0900"
-    },
-    {
-      "title": "코스피, 연일 최고치 랠리…공포지수도 엿새째 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224108151008",
-      "pubDate": "Tue, 24 Feb 2026 16:10:54 +0900"
     }
   ]
 }
