@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771973827,
+  "updated_at_unix": 1771975559,
   "items": [
+    {
+      "title": "IBK투자, 선익시스템 목표가 126%↑…\"3세대 태양광전지 수혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225024600008",
+      "pubDate": "Wed, 25 Feb 2026 08:16:54 +0900"
+    },
+    {
+      "title": "구윤철 \"누적된 구조적 문제가 경제 발목…사업재편 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225025100002",
+      "pubDate": "Wed, 25 Feb 2026 08:15:15 +0900"
+    },
+    {
+      "title": "한투증권 \"심텍, 아쉬운 실적에도 수익성 개선 가시성 높아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225023600008",
+      "pubDate": "Wed, 25 Feb 2026 08:09:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] '꿈의 6천피' 코앞에 둔 코스피, 韓증시 새 시대 열리나",
+      "link": "https://www.yna.co.kr/view/AKR20260225021500008",
+      "pubDate": "Wed, 25 Feb 2026 07:59:42 +0900"
+    },
+    {
+      "title": "부산시, '알리바바닷컴' 입점 지원 18개사 79억원 수출 실적",
+      "link": "https://www.yna.co.kr/view/AKR20260225021200051",
+      "pubDate": "Wed, 25 Feb 2026 07:53:21 +0900"
+    },
     {
       "title": "대통령 질타받은 '공공계약 선급금' 관리 강화한다",
       "link": "https://www.yna.co.kr/view/AKR20260224164200002",
@@ -127,31 +152,6 @@
       "title": "김정규 타이어뱅크 회장 파기환송심 첫 공판 열려",
       "link": "https://www.yna.co.kr/view/AKR20260224152800063",
       "pubDate": "Tue, 24 Feb 2026 17:23:34 +0900"
-    },
-    {
-      "title": "대구·경북 1월 수출 실적 큰 폭 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260224151000053",
-      "pubDate": "Tue, 24 Feb 2026 17:22:19 +0900"
-    },
-    {
-      "title": "미래에셋생명 작년 당기순이익 1천308억원…전년 대비 3.9%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260224144800002",
-      "pubDate": "Tue, 24 Feb 2026 17:12:32 +0900"
-    },
-    {
-      "title": "키움투자자산운용 ETF 4종, 내달 자진 상장폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260224148800008",
-      "pubDate": "Tue, 24 Feb 2026 17:10:26 +0900"
-    },
-    {
-      "title": "코스피 2% 급등에 국고채 금리 일제히 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224142351008",
-      "pubDate": "Tue, 24 Feb 2026 17:02:37 +0900"
-    },
-    {
-      "title": "롯데웰푸드, 희망퇴직…\"미래 성장동력 확보 위해 조직 효율화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260224142900030",
-      "pubDate": "Tue, 24 Feb 2026 16:48:18 +0900"
     }
   ]
 }
