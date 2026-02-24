@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1771929400,
+  "updated_at_unix": 1771932726,
   "items": [
+    {
+      "title": "더샵분당센트로 무순위 청약 경쟁률 11대 1…계약은 '미지수'",
+      "link": "https://www.yna.co.kr/view/AKR20260224172300003",
+      "pubDate": "Tue, 24 Feb 2026 20:02:45 +0900"
+    },
     {
       "title": "국토부 \"내달 지자체와 임대료 상한 의무 위반 사례 특별 점검\"",
       "link": "https://www.yna.co.kr/view/AKR20260224166800003",
@@ -147,11 +152,6 @@
       "title": "[특징주] 삼성전자, 사상 첫 '20만 전자'…3.6% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260224096551008",
       "pubDate": "Tue, 24 Feb 2026 16:10:09 +0900"
-    },
-    {
-      "title": "반도체·AI에 자금 쏠렸다…7천632억 과기펀드 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260224104200017",
-      "pubDate": "Tue, 24 Feb 2026 16:10:01 +0900"
     }
   ]
 }
