@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772012460,
+  "updated_at_unix": 1772015940,
   "items": [
+    {
+      "title": "산은 회장 \"대산 신규지원 중 4천300억 전담…채권단 협조기대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260225146851002",
+      "pubDate": "Wed, 25 Feb 2026 19:18:39 +0900"
+    },
+    {
+      "title": "HDC현대산업개발, 'IPARK현대산업개발'로 간판 바꾼다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260225164951003",
+      "pubDate": "Wed, 25 Feb 2026 18:47:10 +0900"
+    },
+    {
+      "title": "원양어선 안전 강화 '케이프타운 협정' 내년 2월부터 발효",
+      "link": "https://www.yna.co.kr/view/AKR20260225169000030",
+      "pubDate": "Wed, 25 Feb 2026 18:47:06 +0900"
+    },
     {
       "title": "식약처 '비식품 원료' 사용 마가목진액 회수",
       "link": "https://www.yna.co.kr/view/AKR20260225167000017",
@@ -137,21 +152,6 @@
       "title": "더크로스 이시하, 음저협 회장 취임…\"4년 안에 결과로 증명\"",
       "link": "https://www.yna.co.kr/view/AKR20260225149800005",
       "pubDate": "Wed, 25 Feb 2026 16:53:32 +0900"
-    },
-    {
-      "title": "[코스피 6,000] 한달여만 1,000포인트 올랐다…압도적 세계 1위(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260224105751008",
-      "pubDate": "Wed, 25 Feb 2026 16:48:17 +0900"
-    },
-    {
-      "title": "전남도, '전남광주특별시 특별법' 후속 대응책 마련(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260225143951054",
-      "pubDate": "Wed, 25 Feb 2026 16:47:49 +0900"
-    },
-    {
-      "title": "주가조작·회계부정 신고 포상금 상한 없앤다…\"3∼4배로 뛸 듯\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260225126951002",
-      "pubDate": "Wed, 25 Feb 2026 16:46:38 +0900"
     }
   ]
 }
