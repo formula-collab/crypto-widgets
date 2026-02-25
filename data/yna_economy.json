@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772061863,
+  "updated_at_unix": 1772063384,
   "items": [
+    {
+      "title": "서산 석유화학 중소기업 대출이자 지원…11월 13일까지 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260226032200063",
+      "pubDate": "Thu, 26 Feb 2026 08:42:08 +0900"
+    },
+    {
+      "title": "다올증권 \"삼성SDI, 美 중국산 ESS 수입 규제 수혜…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226030200008",
+      "pubDate": "Thu, 26 Feb 2026 08:37:48 +0900"
+    },
+    {
+      "title": "DS투자 \"소비자물가지수, 집값급등 반영 못해…측정방법 바꿔야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226026800008",
+      "pubDate": "Thu, 26 Feb 2026 08:32:50 +0900"
+    },
+    {
+      "title": "인천시, 2030년까지 청년 정규직 일자리 500개 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260226028800065",
+      "pubDate": "Thu, 26 Feb 2026 08:31:00 +0900"
+    },
+    {
+      "title": "'수입업자 배불린' 할당관세 꼼수 막는다…관세포탈죄 특별수사",
+      "link": "https://www.yna.co.kr/view/AKR20260225174600002",
+      "pubDate": "Thu, 26 Feb 2026 08:30:02 +0900"
+    },
+    {
+      "title": "'등골휘는' 교복값 확 낮춘다…비싸고 불편한 정장교복 사라지나",
+      "link": "https://www.yna.co.kr/view/AKR20260225169600530",
+      "pubDate": "Thu, 26 Feb 2026 08:30:01 +0900"
+    },
+    {
+      "title": "셀트리온 \"미 관세 리스크 구조적 대응 체계 완료\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226028700017",
+      "pubDate": "Thu, 26 Feb 2026 08:26:37 +0900"
+    },
+    {
+      "title": "NH투자 \"엔씨소프트 신작 성과…목표가 30만→33만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226029000008",
+      "pubDate": "Thu, 26 Feb 2026 08:25:42 +0900"
+    },
     {
       "title": "한투증권 \"배당락 몰린 날이지만 영향 크지 않을 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260226026600008",
@@ -112,46 +152,6 @@
       "title": "HDC현대산업개발, 'IPARK현대산업개발'로 간판 바꾼다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260225164951003",
       "pubDate": "Wed, 25 Feb 2026 18:47:10 +0900"
-    },
-    {
-      "title": "원양어선 안전 강화 '케이프타운 협정' 내년 2월부터 발효",
-      "link": "https://www.yna.co.kr/view/AKR20260225169000030",
-      "pubDate": "Wed, 25 Feb 2026 18:47:06 +0900"
-    },
-    {
-      "title": "식약처 '비식품 원료' 사용 마가목진액 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260225167000017",
-      "pubDate": "Wed, 25 Feb 2026 18:25:25 +0900"
-    },
-    {
-      "title": "HDC현대산업개발, 'IPARK현대산업개발'로 사명 변경키로",
-      "link": "https://www.yna.co.kr/view/AKR20260225164900003",
-      "pubDate": "Wed, 25 Feb 2026 18:11:33 +0900"
-    },
-    {
-      "title": "에스투더블유 \"일본 자회사 주식 17억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260225161500008",
-      "pubDate": "Wed, 25 Feb 2026 18:08:52 +0900"
-    },
-    {
-      "title": "[속보] SK하이닉스, 용인 클러스터 1기 팹에 21.6조 투자 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260225164300003",
-      "pubDate": "Wed, 25 Feb 2026 18:08:20 +0900"
-    },
-    {
-      "title": "[부산소식] 부산교육청·부산세무사회, 경제·금융 교육 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260225162800051",
-      "pubDate": "Wed, 25 Feb 2026 18:01:15 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260225158700011",
-      "pubDate": "Wed, 25 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "한식, K이니셔티브 연계 본격화…한식진흥원-국립중앙박물관 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260225161100030",
-      "pubDate": "Wed, 25 Feb 2026 18:00:00 +0900"
     }
   ]
 }
