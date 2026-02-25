@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772058040,
+  "updated_at_unix": 1772060249,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260226016400011",
+      "pubDate": "Thu, 26 Feb 2026 07:30:01 +0900"
+    },
     {
       "title": "[우분투칼럼] '대국' 이집트 경제, IMF 구조조정 반복…안정 속 불안",
       "link": "https://www.yna.co.kr/view/AKR20260206031100898",
@@ -147,11 +152,6 @@
       "title": "알엔투테크놀로지, 50억원 유상증자…크로스1호조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260225155200008",
       "pubDate": "Wed, 25 Feb 2026 17:16:00 +0900"
-    },
-    {
-      "title": "1분기 공적채권 발행 6조원 축소…시장안정 기조 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260225154900002",
-      "pubDate": "Wed, 25 Feb 2026 17:12:47 +0900"
     }
   ]
 }
