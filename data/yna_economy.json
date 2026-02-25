@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772019158,
+  "updated_at_unix": 1772023010,
   "items": [
+    {
+      "title": "경기 포천 산란계 농장 고병원성 AI…동절기 49건",
+      "link": "https://www.yna.co.kr/view/AKR20260225177700030",
+      "pubDate": "Wed, 25 Feb 2026 20:48:22 +0900"
+    },
     {
       "title": "산은 회장 \"대산 신규지원 중 4천300억 전담…채권단 협조기대\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260225146851002",
@@ -147,11 +152,6 @@
       "title": "KB증권, 7천억원 주주배정 유상증자 결정…\"시장 경쟁력 제고\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260225139551008",
       "pubDate": "Wed, 25 Feb 2026 16:54:28 +0900"
-    },
-    {
-      "title": "더크로스 이시하, 음저협 회장 취임…\"4년 안에 결과로 증명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260225149800005",
-      "pubDate": "Wed, 25 Feb 2026 16:53:32 +0900"
     }
   ]
 }
