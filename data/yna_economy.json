@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772060249,
+  "updated_at_unix": 1772061863,
   "items": [
+    {
+      "title": "한투증권 \"배당락 몰린 날이지만 영향 크지 않을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226026600008",
+      "pubDate": "Thu, 26 Feb 2026 08:14:31 +0900"
+    },
+    {
+      "title": "IMF \"올해 美금리 1회 인하\" 예상…\"관세·이민정책 효과 부정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226023500071",
+      "pubDate": "Thu, 26 Feb 2026 08:11:16 +0900"
+    },
+    {
+      "title": "[마켓뷰] '6천피'도 넘어선 코스피, '승승장구' 강세 지속 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260226019800008",
+      "pubDate": "Thu, 26 Feb 2026 08:03:21 +0900"
+    },
+    {
+      "title": "부산시, 2026년 원전기업 지원사업 통합설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260226023200051",
+      "pubDate": "Thu, 26 Feb 2026 07:55:36 +0900"
+    },
+    {
+      "title": "부산시, 디자인산업 지원사업 참여기업 60개사 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260226023100051",
+      "pubDate": "Thu, 26 Feb 2026 07:55:26 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260226016400011",
@@ -127,31 +152,6 @@
       "title": "한식, K이니셔티브 연계 본격화…한식진흥원-국립중앙박물관 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260225161100030",
       "pubDate": "Wed, 25 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[속보] HDC현대산업개발, 'IPARK현대산업개발'로 사명 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260225162200003",
-      "pubDate": "Wed, 25 Feb 2026 17:53:04 +0900"
-    },
-    {
-      "title": "한-튀르키예 경제공동위…11년 만에 장관급 격상해 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260225159700002",
-      "pubDate": "Wed, 25 Feb 2026 17:50:01 +0900"
-    },
-    {
-      "title": "'눈먼돈' 나랏돈 부정수급, 지난해 1천건 '역대 최다'",
-      "link": "https://www.yna.co.kr/view/AKR20260225079800002",
-      "pubDate": "Wed, 25 Feb 2026 17:30:01 +0900"
-    },
-    {
-      "title": "알엔투테크놀로지, 10억원 유상증자…캡틴글로벌에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260225159000008",
-      "pubDate": "Wed, 25 Feb 2026 17:29:29 +0900"
-    },
-    {
-      "title": "알엔투테크놀로지, 50억원 유상증자…크로스1호조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260225155200008",
-      "pubDate": "Wed, 25 Feb 2026 17:16:00 +0900"
     }
   ]
 }
