@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772037563,
+  "updated_at_unix": 1772041816,
   "items": [
+    {
+      "title": "달러-원, 4개월來 최저 마감…위험자산 선호 속 엔 약세 회복",
+      "link": "https://www.yna.co.kr/view/AKR20260226003600002",
+      "pubDate": "Thu, 26 Feb 2026 02:34:58 +0900"
+    },
     {
       "title": "경기 포천 산란계 농장 고병원성 AI…동절기 49건",
       "link": "https://www.yna.co.kr/view/AKR20260225177700030",
@@ -147,11 +152,6 @@
       "title": "[인사] 신영증권",
       "link": "https://www.yna.co.kr/view/AKR20260225150600008",
       "pubDate": "Wed, 25 Feb 2026 16:55:16 +0900"
-    },
-    {
-      "title": "KB증권, 7천억원 주주배정 유상증자 결정…\"시장 경쟁력 제고\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260225139551008",
-      "pubDate": "Wed, 25 Feb 2026 16:54:28 +0900"
     }
   ]
 }
