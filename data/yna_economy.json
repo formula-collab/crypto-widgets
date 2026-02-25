@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772055273,
+  "updated_at_unix": 1772058040,
   "items": [
+    {
+      "title": "[우분투칼럼] '대국' 이집트 경제, IMF 구조조정 반복…안정 속 불안",
+      "link": "https://www.yna.co.kr/view/AKR20260206031100898",
+      "pubDate": "Thu, 26 Feb 2026 07:00:03 +0900"
+    },
     {
       "title": "[이코노워치] 역사에 없던 '6천피'시대…이젠 다른 시장을 만들자",
       "link": "https://www.yna.co.kr/view/AKR20260225155800546",
@@ -147,11 +152,6 @@
       "title": "1분기 공적채권 발행 6조원 축소…시장안정 기조 유지",
       "link": "https://www.yna.co.kr/view/AKR20260225154900002",
       "pubDate": "Wed, 25 Feb 2026 17:12:47 +0900"
-    },
-    {
-      "title": "포항시, 중소·중견기업 대출 확대…한도 10억→15억",
-      "link": "https://www.yna.co.kr/view/AKR20260225153100053",
-      "pubDate": "Wed, 25 Feb 2026 17:10:39 +0900"
     }
   ]
 }
