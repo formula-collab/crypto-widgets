@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772051060,
+  "updated_at_unix": 1772053144,
   "items": [
+    {
+      "title": "\"AI 많이 노출된 회계·경리 및 상담직, 청년고용 감소 추세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225176100002",
+      "pubDate": "Thu, 26 Feb 2026 05:53:00 +0900"
+    },
+    {
+      "title": "산은, 대산 재편 5천900억 전담해 채권단 설득…3주 후 결의",
+      "link": "https://www.yna.co.kr/view/AKR20260225179600002",
+      "pubDate": "Thu, 26 Feb 2026 05:51:00 +0900"
+    },
+    {
+      "title": "'교복 담합' 내주 심판대 올린다…공정위 '일벌백계 카드' 고심",
+      "link": "https://www.yna.co.kr/view/AKR20260225166100002",
+      "pubDate": "Thu, 26 Feb 2026 05:49:01 +0900"
+    },
+    {
+      "title": "국민연금 해외투자에 환율 충격 완화장치 마련된다",
+      "link": "https://www.yna.co.kr/view/AKR20260225177100002",
+      "pubDate": "Thu, 26 Feb 2026 05:47:00 +0900"
+    },
+    {
+      "title": "올해 두번째 금통위…성장률 올리고 금리는 6연속 동결할 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260225172600002",
+      "pubDate": "Thu, 26 Feb 2026 05:45:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美 원유 재고 예상치 대폭 상회…WTI 0.3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260226007200009",
+      "pubDate": "Thu, 26 Feb 2026 05:40:08 +0900"
+    },
     {
       "title": "달러-원, 4개월來 최저 마감…위험자산 선호 속 엔 약세 회복",
       "link": "https://www.yna.co.kr/view/AKR20260226003600002",
@@ -122,36 +152,6 @@
       "title": "'상여금 300%+700만원' KB국민은행, 1시간 조기퇴근 홍보까지",
       "link": "https://www.yna.co.kr/view/AKR20260225138800002",
       "pubDate": "Wed, 25 Feb 2026 17:00:30 +0900"
-    },
-    {
-      "title": "소년원 찾은 정부, '위기 청소년'의 일상회복 위한 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260225133400002",
-      "pubDate": "Wed, 25 Feb 2026 17:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 개보위, 소비자·시민단체 개인정보 정책간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260225145300530",
-      "pubDate": "Wed, 25 Feb 2026 17:00:02 +0900"
-    },
-    {
-      "title": "산은 회장 \"대산 신규지원 중 4천300억 전담…채권단 협조기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260225146800002",
-      "pubDate": "Wed, 25 Feb 2026 17:00:01 +0900"
-    },
-    {
-      "title": "경마 노동자들 \"생존권 보장하라\"…과천경마장 이전반대 결의대회",
-      "link": "https://www.yna.co.kr/view/AKR20260225144900061",
-      "pubDate": "Wed, 25 Feb 2026 16:58:48 +0900"
-    },
-    {
-      "title": "한국디벨로퍼협회장에 김한모 HM그룹 회장",
-      "link": "https://www.yna.co.kr/view/AKR20260225150100003",
-      "pubDate": "Wed, 25 Feb 2026 16:57:03 +0900"
-    },
-    {
-      "title": "[인사] 신영증권",
-      "link": "https://www.yna.co.kr/view/AKR20260225150600008",
-      "pubDate": "Wed, 25 Feb 2026 16:55:16 +0900"
     }
   ]
 }
