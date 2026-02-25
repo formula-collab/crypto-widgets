@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772053144,
+  "updated_at_unix": 1772055273,
   "items": [
+    {
+      "title": "[이코노워치] 역사에 없던 '6천피'시대…이젠 다른 시장을 만들자",
+      "link": "https://www.yna.co.kr/view/AKR20260225155800546",
+      "pubDate": "Thu, 26 Feb 2026 06:00:04 +0900"
+    },
+    {
+      "title": "작년 창업기업 113만6천개로 4% 줄어…5년째 감소세",
+      "link": "https://www.yna.co.kr/view/AKR20260225158200030",
+      "pubDate": "Thu, 26 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "이마트, 라오스에 '노브랜드 4호점' 개점…\"해외 첫 델리 코너\"",
+      "link": "https://www.yna.co.kr/view/AKR20260225160600030",
+      "pubDate": "Thu, 26 Feb 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"K-산업·공급망 주권 강화\"…민관 '산업무역안보포럼' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260225164700003",
+      "pubDate": "Thu, 26 Feb 2026 06:00:00 +0900"
+    },
+    {
+      "title": "작년 감사인 지정회사 1천971곳, 6% 증가…빅4 회계법인 비중↓",
+      "link": "https://www.yna.co.kr/view/AKR20260225176600002",
+      "pubDate": "Thu, 26 Feb 2026 06:00:00 +0900"
+    },
     {
       "title": "\"AI 많이 노출된 회계·경리 및 상담직, 청년고용 감소 추세\"",
       "link": "https://www.yna.co.kr/view/AKR20260225176100002",
@@ -127,31 +152,6 @@
       "title": "포항시, 중소·중견기업 대출 확대…한도 10억→15억",
       "link": "https://www.yna.co.kr/view/AKR20260225153100053",
       "pubDate": "Wed, 25 Feb 2026 17:10:39 +0900"
-    },
-    {
-      "title": "코레일, 상반기 1천830명 채용…내달 온라인 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260225151200063",
-      "pubDate": "Wed, 25 Feb 2026 17:09:39 +0900"
-    },
-    {
-      "title": "금통위 앞둔 외인 매수세…국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260225146251008",
-      "pubDate": "Wed, 25 Feb 2026 17:08:30 +0900"
-    },
-    {
-      "title": "강원 고성군 수산물 축제 연대…해양 문화도시 도약 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260225151900062",
-      "pubDate": "Wed, 25 Feb 2026 17:05:31 +0900"
-    },
-    {
-      "title": "서경배 회장, 아모레퍼시픽 주식 19만주 차녀에게 증여",
-      "link": "https://www.yna.co.kr/view/AKR20260225151500030",
-      "pubDate": "Wed, 25 Feb 2026 17:02:04 +0900"
-    },
-    {
-      "title": "'상여금 300%+700만원' KB국민은행, 1시간 조기퇴근 홍보까지",
-      "link": "https://www.yna.co.kr/view/AKR20260225138800002",
-      "pubDate": "Wed, 25 Feb 2026 17:00:30 +0900"
     }
   ]
 }
