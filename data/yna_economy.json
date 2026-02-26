@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772148272,
+  "updated_at_unix": 1772149803,
   "items": [
+    {
+      "title": "롯데마트, 카카오서 장보기 서비스…양사 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260227026000030",
+      "pubDate": "Fri, 27 Feb 2026 08:32:14 +0900"
+    },
+    {
+      "title": "DS투자, 두산 목표가↑…\"기회비용 감수하며 자사주 전량소각\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227025600008",
+      "pubDate": "Fri, 27 Feb 2026 08:32:11 +0900"
+    },
+    {
+      "title": "인천 신혼·신생아·다자녀가구에 '천원주택' 700가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260227019500065",
+      "pubDate": "Fri, 27 Feb 2026 08:30:08 +0900"
+    },
+    {
+      "title": "KB증권 \"대한항공, 올해 실적 개선 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227025400008",
+      "pubDate": "Fri, 27 Feb 2026 08:27:05 +0900"
+    },
+    {
+      "title": "한투증권 \"환율 등락 범위 하단 1,380원 내외까지 열어 둬야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227024700008",
+      "pubDate": "Fri, 27 Feb 2026 08:23:08 +0900"
+    },
+    {
+      "title": "농협은행, '최고 6.8% 금리 제한' 포용금융 대출 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260226152700002",
+      "pubDate": "Fri, 27 Feb 2026 08:20:01 +0900"
+    },
     {
       "title": "부산시, 해빙기 안전사고 예방 취약시설 1천800곳 점검",
       "link": "https://www.yna.co.kr/view/AKR20260227021100051",
@@ -122,36 +152,6 @@
       "title": "인천공항 면세점 신규 사업자에 호텔롯데·현대디에프 선정",
       "link": "https://www.yna.co.kr/view/AKR20260226182600002",
       "pubDate": "Thu, 26 Feb 2026 18:25:15 +0900"
-    },
-    {
-      "title": "삼성E&A, 해외서 3.4조원 규모 화공플랜트 건설공사 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260226182500003",
-      "pubDate": "Thu, 26 Feb 2026 18:12:02 +0900"
-    },
-    {
-      "title": "대화제약 \"현대약품 주식 108억원어치 취득…지분율 2.6%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226181200008",
-      "pubDate": "Thu, 26 Feb 2026 18:06:17 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260226177400011",
-      "pubDate": "Thu, 26 Feb 2026 18:00:01 +0900"
-    },
-    {
-      "title": "HLB테라퓨틱스, 주당 0.05주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260226180600008",
-      "pubDate": "Thu, 26 Feb 2026 17:59:30 +0900"
-    },
-    {
-      "title": "세아제강지주 \"영국 계열사 주식 681억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226179900008",
-      "pubDate": "Thu, 26 Feb 2026 17:58:26 +0900"
-    },
-    {
-      "title": "남양주 우리금융 IT 센터 8천500억 투입…2029년 완공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260226177500060",
-      "pubDate": "Thu, 26 Feb 2026 17:45:47 +0900"
     }
   ]
 }
