@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772139606,
+  "updated_at_unix": 1772141674,
   "items": [
+    {
+      "title": "[팩트체크] 충주맨만이 아니다…퇴직공무원 10명 중 6명 '중도 사직'",
+      "link": "https://www.yna.co.kr/view/AKR20260226107100518",
+      "pubDate": "Fri, 27 Feb 2026 06:30:01 +0900"
+    },
+    {
+      "title": "편의점들, 신학기 앞두고 간편식 확대…\"가격 낮추고 중량 늘려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226156500030",
+      "pubDate": "Fri, 27 Feb 2026 06:15:01 +0900"
+    },
+    {
+      "title": "지난달 '악성 미분양' 다시 늘어…전국 2만9천555가구",
+      "link": "https://www.yna.co.kr/view/AKR20260226160400003",
+      "pubDate": "Fri, 27 Feb 2026 06:00:15 +0900"
+    },
+    {
+      "title": "분양가상한제 기본형건축비 2.12% 상승…㎡당 222만원",
+      "link": "https://www.yna.co.kr/view/AKR20260226155700003",
+      "pubDate": "Fri, 27 Feb 2026 06:00:12 +0900"
+    },
+    {
+      "title": "한은 \"수출 날고 집값·주가 올라도…과거보다 소비증가 효과↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226152500002",
+      "pubDate": "Fri, 27 Feb 2026 06:00:11 +0900"
+    },
+    {
+      "title": "구로 개봉·송파 잠실 등 'SH 참여' 모아타운 7곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260226182100004",
+      "pubDate": "Fri, 27 Feb 2026 06:00:08 +0900"
+    },
+    {
+      "title": "\"뛰는 쌀값 잡는다\"…농식품부, 정부양곡 15만t 단계적 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260226178700030",
+      "pubDate": "Fri, 27 Feb 2026 06:00:07 +0900"
+    },
+    {
+      "title": "소상공인 채무조정 새출발기금 27.7조 신청…11만4천명 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260226185900002",
+      "pubDate": "Fri, 27 Feb 2026 06:00:06 +0900"
+    },
+    {
+      "title": "금감원 \"결산 관련 불공정거래 1분기 집중발생\"…엄중조치 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260226180200002",
+      "pubDate": "Fri, 27 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "한은, 외화대출 규제 더 푼다…수출기업 운전자금 대출 허용",
+      "link": "https://www.yna.co.kr/view/AKR20260226181400002",
+      "pubDate": "Fri, 27 Feb 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美·이란 핵 협상 긍정적 분위기…WTI 0.32%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260227008700009",
+      "pubDate": "Fri, 27 Feb 2026 05:56:00 +0900"
+    },
     {
       "title": "달러-원, 야간서 1,430원 돌파 마감…위험회피에 10원 넘게 뛰기도",
       "link": "https://www.yna.co.kr/view/AKR20260227003900002",
@@ -97,61 +152,6 @@
       "title": "태백시, 168억 투입 3천667명에 노인일자리 제공",
       "link": "https://www.yna.co.kr/view/AKR20260226175500062",
       "pubDate": "Thu, 26 Feb 2026 17:22:46 +0900"
-    },
-    {
-      "title": "신풍제약 \"현대약품 주식 296억원어치 취득…지분율 7.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226175300008",
-      "pubDate": "Thu, 26 Feb 2026 17:22:16 +0900"
-    },
-    {
-      "title": "비둘기파적 금통위에…국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226166451008",
-      "pubDate": "Thu, 26 Feb 2026 17:14:51 +0900"
-    },
-    {
-      "title": "\"삼성전자 시총 1조 달러 클럽 진입…글로벌 12위 껑충\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226170000008",
-      "pubDate": "Thu, 26 Feb 2026 17:10:51 +0900"
-    },
-    {
-      "title": "울산 부유식 해상풍력사업 난항…민관협력 추진 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260226171200057",
-      "pubDate": "Thu, 26 Feb 2026 17:10:46 +0900"
-    },
-    {
-      "title": "서부발전, 임금피크제 인력 활용 'WP-안전코칭단' 발족",
-      "link": "https://www.yna.co.kr/view/AKR20260226172000063",
-      "pubDate": "Thu, 26 Feb 2026 17:10:06 +0900"
-    },
-    {
-      "title": "침하한 포항 죽도시장 동빈교 재가설 마무리…28일 개통",
-      "link": "https://www.yna.co.kr/view/AKR20260226170900053",
-      "pubDate": "Thu, 26 Feb 2026 17:02:10 +0900"
-    },
-    {
-      "title": "삼남매가족 월 75만원, 농어촌기본소득 첫발…인구늘고 상권활기",
-      "link": "https://www.yna.co.kr/view/AKR20260226044551030",
-      "pubDate": "Thu, 26 Feb 2026 17:00:00 +0900"
-    },
-    {
-      "title": "양양군, 퇴원환자 돌봄 공백 해소 의료·요양 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260226169400062",
-      "pubDate": "Thu, 26 Feb 2026 16:57:50 +0900"
-    },
-    {
-      "title": "충남도, 14개사 5천억 투자유치…6개 시군 생산시설 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260226169700063",
-      "pubDate": "Thu, 26 Feb 2026 16:57:14 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260226169600002",
-      "pubDate": "Thu, 26 Feb 2026 16:56:38 +0900"
-    },
-    {
-      "title": "손경식 회장, 金총리 만나 \"노란봉투법, 명확한 법 해석 시급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226166700003",
-      "pubDate": "Thu, 26 Feb 2026 16:47:26 +0900"
     }
   ]
 }
