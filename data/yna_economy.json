@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772146643,
+  "updated_at_unix": 1772148272,
   "items": [
+    {
+      "title": "부산시, 해빙기 안전사고 예방 취약시설 1천800곳 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260227021100051",
+      "pubDate": "Fri, 27 Feb 2026 08:01:49 +0900"
+    },
+    {
+      "title": "[마켓뷰] 엔비디아 급락·美반도체 약세…韓증시도 하락출발 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260227021600008",
+      "pubDate": "Fri, 27 Feb 2026 07:59:28 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260227016600011",
@@ -142,16 +152,6 @@
       "title": "남양주 우리금융 IT 센터 8천500억 투입…2029년 완공 목표",
       "link": "https://www.yna.co.kr/view/AKR20260226177500060",
       "pubDate": "Thu, 26 Feb 2026 17:45:47 +0900"
-    },
-    {
-      "title": "노란봉투법, 조선업 영향은…\"하청 처우 개선 시 인력난 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226149400057",
-      "pubDate": "Thu, 26 Feb 2026 17:44:18 +0900"
-    },
-    {
-      "title": "구윤철 \"민생으로 사익 편취 안 돼\"…이 대통령 \"잘 하신다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226176200002",
-      "pubDate": "Thu, 26 Feb 2026 17:36:19 +0900"
     }
   ]
 }
