@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772091067,
+  "updated_at_unix": 1772094786,
   "items": [
+    {
+      "title": "'변화를 넘어 성장'…경남경총, 중기 AI 훈련 등 올해 신규 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260226175000052",
+      "pubDate": "Thu, 26 Feb 2026 17:26:07 +0900"
+    },
+    {
+      "title": "태백시, 168억 투입 3천667명에 노인일자리 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260226175500062",
+      "pubDate": "Thu, 26 Feb 2026 17:22:46 +0900"
+    },
+    {
+      "title": "신풍제약 \"현대약품 주식 296억원어치 취득…지분율 7.2%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226175300008",
+      "pubDate": "Thu, 26 Feb 2026 17:22:16 +0900"
+    },
+    {
+      "title": "비둘기파적 금통위에…국고채 금리 일제히 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226166451008",
+      "pubDate": "Thu, 26 Feb 2026 17:14:51 +0900"
+    },
+    {
+      "title": "\"삼성전자 시총 1조 달러 클럽 진입…글로벌 12위 껑충\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226170000008",
+      "pubDate": "Thu, 26 Feb 2026 17:10:51 +0900"
+    },
+    {
+      "title": "울산 부유식 해상풍력사업 난항…민관협력 추진 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260226171200057",
+      "pubDate": "Thu, 26 Feb 2026 17:10:46 +0900"
+    },
+    {
+      "title": "서부발전, 임금피크제 인력 활용 'WP-안전코칭단' 발족",
+      "link": "https://www.yna.co.kr/view/AKR20260226172000063",
+      "pubDate": "Thu, 26 Feb 2026 17:10:06 +0900"
+    },
+    {
+      "title": "침하한 포항 죽도시장 동빈교 재가설 마무리…28일 개통",
+      "link": "https://www.yna.co.kr/view/AKR20260226170900053",
+      "pubDate": "Thu, 26 Feb 2026 17:02:10 +0900"
+    },
+    {
+      "title": "삼남매가족 월 75만원, 농어촌기본소득 첫발…인구늘고 상권활기",
+      "link": "https://www.yna.co.kr/view/AKR20260226044551030",
+      "pubDate": "Thu, 26 Feb 2026 17:00:00 +0900"
+    },
+    {
+      "title": "양양군, 퇴원환자 돌봄 공백 해소 의료·요양 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260226169400062",
+      "pubDate": "Thu, 26 Feb 2026 16:57:50 +0900"
+    },
+    {
+      "title": "충남도, 14개사 5천억 투자유치…6개 시군 생산시설 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260226169700063",
+      "pubDate": "Thu, 26 Feb 2026 16:57:14 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260226169600002",
+      "pubDate": "Thu, 26 Feb 2026 16:56:38 +0900"
+    },
+    {
+      "title": "손경식 회장, 金총리 만나 \"노란봉투법, 명확한 법 해석 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226166700003",
+      "pubDate": "Thu, 26 Feb 2026 16:47:26 +0900"
+    },
+    {
+      "title": "[쇼츠] 125억 쌓아놓고 \"가져가라\"…중국 기업의 통 큰 보너스",
+      "link": "https://www.yna.co.kr/view/AKR20260226164100704",
+      "pubDate": "Thu, 26 Feb 2026 16:42:55 +0900"
+    },
+    {
+      "title": "오성첨단소재 \"알에프텍 주식 150억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226166500008",
+      "pubDate": "Thu, 26 Feb 2026 16:41:50 +0900"
+    },
+    {
+      "title": "파리바게뜨·뚜레쥬르, 빵·케이크 가격 내린다(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260226133652030",
+      "pubDate": "Thu, 26 Feb 2026 16:40:47 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.062%",
+      "link": "https://www.yna.co.kr/view/AKR20260226166400008",
+      "pubDate": "Thu, 26 Feb 2026 16:40:47 +0900"
+    },
+    {
+      "title": "작년 주택 구입 의향 가구 30% 밑돌아…7년 만에 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260226119800002",
+      "pubDate": "Thu, 26 Feb 2026 16:33:21 +0900"
+    },
+    {
+      "title": "[일문일답] 한은총재 \"국민연금 해외투자 축소 발표가 환율안정에 큰 기여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226144800002",
+      "pubDate": "Thu, 26 Feb 2026 16:31:34 +0900"
+    },
     {
       "title": "SKC, 1조원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260226158600008",
@@ -57,101 +152,6 @@
       "title": "[특징주] AI데이터센터 정책 기대에 전력기기주 급등…일진전기 5%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260226061351008",
       "pubDate": "Thu, 26 Feb 2026 16:00:36 +0900"
-    },
-    {
-      "title": "'IPO 완주' 케이뱅크 최우형 행장 연임…단독 후보 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260226147500002",
-      "pubDate": "Thu, 26 Feb 2026 15:59:48 +0900"
-    },
-    {
-      "title": "원/달러 환율 약 한 달 만에 최저…1,425.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260226153000002",
-      "pubDate": "Thu, 26 Feb 2026 15:59:12 +0900"
-    },
-    {
-      "title": "광주은행, 소상공인 경영컨설팅 1천건 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260226151900054",
-      "pubDate": "Thu, 26 Feb 2026 15:55:17 +0900"
-    },
-    {
-      "title": "연일 불장·자사주 소각 겹호재에 증권주 랠리",
-      "link": "https://www.yna.co.kr/view/AKR20260226152300008",
-      "pubDate": "Thu, 26 Feb 2026 15:53:19 +0900"
-    },
-    {
-      "title": "\"광주 미래차 전환시 2천억 투자하면 6천억 부가가치 창출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226149500054",
-      "pubDate": "Thu, 26 Feb 2026 15:53:17 +0900"
-    },
-    {
-      "title": "정부 \"온라인 커뮤니티 집값담합 적극대응…불법행위 무관용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226149300001",
-      "pubDate": "Thu, 26 Feb 2026 15:51:53 +0900"
-    },
-    {
-      "title": "파리바게뜨, 일부 제품 가격 내려…삼립도 인하 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226133651030",
-      "pubDate": "Thu, 26 Feb 2026 15:48:46 +0900"
-    },
-    {
-      "title": "알에프텍, 150억원 유상증자…오성첨단소재에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260226150000008",
-      "pubDate": "Thu, 26 Feb 2026 15:44:24 +0900"
-    },
-    {
-      "title": "지식재산처, 해외 지식재산 분쟁 지원 823억…전년대비 36% 늘려",
-      "link": "https://www.yna.co.kr/view/AKR20260226148300063",
-      "pubDate": "Thu, 26 Feb 2026 15:43:36 +0900"
-    },
-    {
-      "title": "[특징주] LG전자, 엔비디아 협력 확대 기대속 10%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226047951008",
-      "pubDate": "Thu, 26 Feb 2026 15:39:27 +0900"
-    },
-    {
-      "title": "코스피, 3.67% 급등해 역대 처음 6,300대 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260226147900008",
-      "pubDate": "Thu, 26 Feb 2026 15:37:59 +0900"
-    },
-    {
-      "title": "공정위, 쿠팡에 과징금 22억원…횡포에 제동·제재에 한계점도(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260226098552002",
-      "pubDate": "Thu, 26 Feb 2026 15:37:23 +0900"
-    },
-    {
-      "title": "외국환시세(2월26일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260226147700002",
-      "pubDate": "Thu, 26 Feb 2026 15:36:26 +0900"
-    },
-    {
-      "title": "국민성장펀드 재정모펀드 운용사 선정…성장금융·신한·우리",
-      "link": "https://www.yna.co.kr/view/AKR20260226146500002",
-      "pubDate": "Thu, 26 Feb 2026 15:35:35 +0900"
-    },
-    {
-      "title": "[특징주] 두산, 현금배당·자사주 소각 공시후 4%대 급등마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226138051008",
-      "pubDate": "Thu, 26 Feb 2026 15:35:26 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 3.6원 내린 1,425.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260226146600002",
-      "pubDate": "Thu, 26 Feb 2026 15:30:18 +0900"
-    },
-    {
-      "title": "한은 \"1분기 성장률 1% 내외…반도체 좋으면 더 오를 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226142400002",
-      "pubDate": "Thu, 26 Feb 2026 15:25:28 +0900"
-    },
-    {
-      "title": "화성시, 화옹지구 내 경마장 유치 공식화…기자회견은 취소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226084651061",
-      "pubDate": "Thu, 26 Feb 2026 15:22:18 +0900"
-    },
-    {
-      "title": "IMF, 올해 美금리 1회 인하 예상…\"무역 상대국들과 협력해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226023551071",
-      "pubDate": "Thu, 26 Feb 2026 15:21:26 +0900"
     }
   ]
 }
