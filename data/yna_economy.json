@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772098644,
+  "updated_at_unix": 1772102072,
   "items": [
+    {
+      "title": "첨단기술 노리는 산업 스파이…간첩죄 개정으로 근절될까",
+      "link": "https://www.yna.co.kr/view/AKR20260226187900003",
+      "pubDate": "Thu, 26 Feb 2026 19:09:44 +0900"
+    },
+    {
+      "title": "동절기 고병원성 조류인플루엔자 50건으로 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260226186500030",
+      "pubDate": "Thu, 26 Feb 2026 18:51:15 +0900"
+    },
+    {
+      "title": "KDB생명 새 대표에 김병철 전 수석부사장",
+      "link": "https://www.yna.co.kr/view/AKR20260226183300002",
+      "pubDate": "Thu, 26 Feb 2026 18:47:04 +0900"
+    },
+    {
+      "title": "3년만에 인천공항 재입성하는 롯데免…현대는 '매출 1위' 기대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226182651002",
+      "pubDate": "Thu, 26 Feb 2026 18:35:08 +0900"
+    },
     {
       "title": "인벤티지랩 \"종속회사 큐라티스 주식 135억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260226184900008",
@@ -132,26 +152,6 @@
       "title": "오성첨단소재 \"알에프텍 주식 150억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260226166500008",
       "pubDate": "Thu, 26 Feb 2026 16:41:50 +0900"
-    },
-    {
-      "title": "파리바게뜨·뚜레쥬르, 빵·케이크 가격 내린다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260226133652030",
-      "pubDate": "Thu, 26 Feb 2026 16:40:47 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.062%",
-      "link": "https://www.yna.co.kr/view/AKR20260226166400008",
-      "pubDate": "Thu, 26 Feb 2026 16:40:47 +0900"
-    },
-    {
-      "title": "작년 주택 구입 의향 가구 30% 밑돌아…7년 만에 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260226119800002",
-      "pubDate": "Thu, 26 Feb 2026 16:33:21 +0900"
-    },
-    {
-      "title": "[일문일답] 한은총재 \"국민연금 해외투자 축소 발표가 환율안정에 큰 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226144800002",
-      "pubDate": "Thu, 26 Feb 2026 16:31:34 +0900"
     }
   ]
 }
