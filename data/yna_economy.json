@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772144675,
+  "updated_at_unix": 1772146643,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260227016600011",
+      "pubDate": "Fri, 27 Feb 2026 07:30:00 +0900"
+    },
     {
       "title": "'비둘기파' 금통위에 숨돌린 채권시장…약세장 터닝포인트 될까",
       "link": "https://www.yna.co.kr/view/AKR20260226170500008",
@@ -147,11 +152,6 @@
       "title": "구윤철 \"민생으로 사익 편취 안 돼\"…이 대통령 \"잘 하신다\"",
       "link": "https://www.yna.co.kr/view/AKR20260226176200002",
       "pubDate": "Thu, 26 Feb 2026 17:36:19 +0900"
-    },
-    {
-      "title": "한국주거복지포럼 신임 이사장에 박상우 전 국토장관",
-      "link": "https://www.yna.co.kr/view/AKR20260226176500003",
-      "pubDate": "Thu, 26 Feb 2026 17:30:21 +0900"
     }
   ]
 }
