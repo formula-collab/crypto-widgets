@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772122318,
+  "updated_at_unix": 1772127135,
   "items": [
+    {
+      "title": "달러-원, 야간서 1,430원 돌파 마감…위험회피에 10원 넘게 뛰기도",
+      "link": "https://www.yna.co.kr/view/AKR20260227003900002",
+      "pubDate": "Fri, 27 Feb 2026 02:26:00 +0900"
+    },
     {
       "title": "美, 이란과 핵협상 와중에 러·이란 연계 스위스은행 제재 추진",
       "link": "https://www.yna.co.kr/view/AKR20260227000400071",
@@ -147,11 +152,6 @@
       "title": "손경식 회장, 金총리 만나 \"노란봉투법, 명확한 법 해석 시급\"",
       "link": "https://www.yna.co.kr/view/AKR20260226166700003",
       "pubDate": "Thu, 26 Feb 2026 16:47:26 +0900"
-    },
-    {
-      "title": "[쇼츠] 125억 쌓아놓고 \"가져가라\"…중국 기업의 통 큰 보너스",
-      "link": "https://www.yna.co.kr/view/AKR20260226164100704",
-      "pubDate": "Thu, 26 Feb 2026 16:42:55 +0900"
     }
   ]
 }
