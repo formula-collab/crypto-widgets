@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772141674,
+  "updated_at_unix": 1772144675,
   "items": [
+    {
+      "title": "'비둘기파' 금통위에 숨돌린 채권시장…약세장 터닝포인트 될까",
+      "link": "https://www.yna.co.kr/view/AKR20260226170500008",
+      "pubDate": "Fri, 27 Feb 2026 07:03:00 +0900"
+    },
+    {
+      "title": "경남 합천 돼지농장서 아프리카돼지열병…올해 21번째 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260227013800030",
+      "pubDate": "Fri, 27 Feb 2026 06:51:47 +0900"
+    },
     {
       "title": "[팩트체크] 충주맨만이 아니다…퇴직공무원 10명 중 6명 '중도 사직'",
       "link": "https://www.yna.co.kr/view/AKR20260226107100518",
@@ -142,16 +152,6 @@
       "title": "한국주거복지포럼 신임 이사장에 박상우 전 국토장관",
       "link": "https://www.yna.co.kr/view/AKR20260226176500003",
       "pubDate": "Thu, 26 Feb 2026 17:30:21 +0900"
-    },
-    {
-      "title": "'변화를 넘어 성장'…경남경총, 중기 AI 훈련 등 올해 신규 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260226175000052",
-      "pubDate": "Thu, 26 Feb 2026 17:26:07 +0900"
-    },
-    {
-      "title": "태백시, 168억 투입 3천667명에 노인일자리 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260226175500062",
-      "pubDate": "Thu, 26 Feb 2026 17:22:46 +0900"
     }
   ]
 }
