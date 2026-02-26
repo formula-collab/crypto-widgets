@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772082909,
+  "updated_at_unix": 1772086489,
   "items": [
+    {
+      "title": "울주군, 범서읍 화재 취약가구에 소화기 100개 배부",
+      "link": "https://www.yna.co.kr/view/AKR20260226138700057",
+      "pubDate": "Thu, 26 Feb 2026 15:08:01 +0900"
+    },
+    {
+      "title": "울주복지재단, 지역사회 복지증진·민관협력 강화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260226138500057",
+      "pubDate": "Thu, 26 Feb 2026 15:06:08 +0900"
+    },
+    {
+      "title": "[특징주] 두산, 현금배당·자사주 소각계획 공시 후 장중 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260226138000008",
+      "pubDate": "Thu, 26 Feb 2026 15:02:13 +0900"
+    },
+    {
+      "title": "이찬진 \"보험사 高수수료 경쟁 지양…건전성 훼손엔 엄정 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226135700002",
+      "pubDate": "Thu, 26 Feb 2026 15:00:00 +0900"
+    },
+    {
+      "title": "현대건설, 아파트에 DRT 서비스 선보인다…현대차와 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260226136200003",
+      "pubDate": "Thu, 26 Feb 2026 14:59:10 +0900"
+    },
+    {
+      "title": "롤렉스·에르메스…명품관 같은 국세청 압류 수장고 첫 공개(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226089551002",
+      "pubDate": "Thu, 26 Feb 2026 14:56:45 +0900"
+    },
+    {
+      "title": "[게시판] 기상청-보험업계, 기상 감정 활성화와 보험 개발 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260226136300530",
+      "pubDate": "Thu, 26 Feb 2026 14:55:24 +0900"
+    },
+    {
+      "title": "[고양소식] 청년 행정 체험 연수생 34명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260226134800060",
+      "pubDate": "Thu, 26 Feb 2026 14:44:44 +0900"
+    },
+    {
+      "title": "파리바게뜨, 빵·케이크 11종 가격 내려…밀가루 인하 이후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260226133600030",
+      "pubDate": "Thu, 26 Feb 2026 14:39:52 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260226126600011",
+      "pubDate": "Thu, 26 Feb 2026 14:39:20 +0900"
+    },
+    {
+      "title": "미국 전문기업 KMC, 무안공항에 화물기 조립라인 구축키로",
+      "link": "https://www.yna.co.kr/view/AKR20260226133800054",
+      "pubDate": "Thu, 26 Feb 2026 14:38:02 +0900"
+    },
+    {
+      "title": "마스턴운용, 준공 앞둔 성수동 프라임 오피스 매수인지위 양수도",
+      "link": "https://www.yna.co.kr/view/AKR20260226130800008",
+      "pubDate": "Thu, 26 Feb 2026 14:31:35 +0900"
+    },
+    {
+      "title": "소멸위기 농어촌에 기본소득 첫 지급…\"사람 모이고 상점 생겨\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226044500030",
+      "pubDate": "Thu, 26 Feb 2026 14:30:17 +0900"
+    },
+    {
+      "title": "익산시콘텐츠센터, 중소벤처기업부 평가 3년 연속 '최고'",
+      "link": "https://www.yna.co.kr/view/AKR20260226130000055",
+      "pubDate": "Thu, 26 Feb 2026 14:29:17 +0900"
+    },
+    {
+      "title": "[현장] \"학원도 더 보내고, 생필품도 사고\"…월 15만원의 행복 시작",
+      "link": "https://www.yna.co.kr/view/AKR20260226121600055",
+      "pubDate": "Thu, 26 Feb 2026 14:22:31 +0900"
+    },
+    {
+      "title": "미래에셋증권, '미래에셋 CD금리 플러스 ETN' 매수 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260226128100008",
+      "pubDate": "Thu, 26 Feb 2026 14:22:29 +0900"
+    },
+    {
+      "title": "황광명 한국은행 광주전남본부장 취임",
+      "link": "https://www.yna.co.kr/view/AKR20260226127700054",
+      "pubDate": "Thu, 26 Feb 2026 14:18:21 +0900"
+    },
+    {
+      "title": "광주·전남 기업 체감경기 두 달 연속 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260226124600054",
+      "pubDate": "Thu, 26 Feb 2026 14:18:00 +0900"
+    },
+    {
+      "title": "강남발 집값 하락세 주변으로 확산할까…한강벨트 영향권",
+      "link": "https://www.yna.co.kr/view/AKR20260226125100003",
+      "pubDate": "Thu, 26 Feb 2026 14:15:15 +0900"
+    },
+    {
+      "title": "사천 공공지원 민간임대주택 표류…조합원들 \"대책 마련하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226124100052",
+      "pubDate": "Thu, 26 Feb 2026 14:14:18 +0900"
+    },
+    {
+      "title": "안양시, 수질·대기 전문기관과 협력…환경관리 역량 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260226125400061",
+      "pubDate": "Thu, 26 Feb 2026 14:11:52 +0900"
+    },
     {
       "title": "[속보] 李대통령 \"서울 집값 하락…부동산공화국 해체 못 넘을 벽 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20260226124300001",
@@ -44,114 +149,9 @@
       "pubDate": "Thu, 26 Feb 2026 14:01:22 +0900"
     },
     {
-      "title": "[게시판] 금융위, 국민성장펀드 대구·경북지역 릴레이 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260226077200002",
-      "pubDate": "Thu, 26 Feb 2026 14:00:05 +0900"
-    },
-    {
-      "title": "서울 아파트값 상승세 위축…강남3구·용산 2년만에 하락 전환",
+      "title": "서울 아파트값 상승세 위축…강남3구·용산 하락 전환",
       "link": "https://www.yna.co.kr/view/AKR20260226087100003",
       "pubDate": "Thu, 26 Feb 2026 14:00:05 +0900"
-    },
-    {
-      "title": "암참·주한미국대사관, 미국 건국 250주년 기념 협력 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260226119200003",
-      "pubDate": "Thu, 26 Feb 2026 13:54:39 +0900"
-    },
-    {
-      "title": "국민연금 해외투자에 환율 충격 완화장치 마련된다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260225177151002",
-      "pubDate": "Thu, 26 Feb 2026 13:51:19 +0900"
-    },
-    {
-      "title": "슈퍼마켓업계 \"새벽배송 허용반대·온라인플랫폼 규제 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226096800030",
-      "pubDate": "Thu, 26 Feb 2026 13:30:01 +0900"
-    },
-    {
-      "title": "반도체 호조에…한은, 올해 성장률 전망치 1.8→2.0%(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260226060351002",
-      "pubDate": "Thu, 26 Feb 2026 13:30:01 +0900"
-    },
-    {
-      "title": "구로구, 코웨이와 손잡고 내달 중장년 채용설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260226112200004",
-      "pubDate": "Thu, 26 Feb 2026 13:20:01 +0900"
-    },
-    {
-      "title": "한은 총재 \"수도권 집값 더 지켜봐야…환율도 안심하기 일러\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226109200002",
-      "pubDate": "Thu, 26 Feb 2026 12:55:23 +0900"
-    },
-    {
-      "title": "대법 \"골프코스도 창작물 저작권 보호\"…골프존 사건 파기환송(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260226088551004",
-      "pubDate": "Thu, 26 Feb 2026 12:47:23 +0900"
-    },
-    {
-      "title": "與, 대미투자법 심사 차질에 국힘에 협조 촉구…직권상정도 거론",
-      "link": "https://www.yna.co.kr/view/AKR20260226099600001",
-      "pubDate": "Thu, 26 Feb 2026 12:35:50 +0900"
-    },
-    {
-      "title": "[부고] 한수일(NH아문디자산운용 상무)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260226108800505",
-      "pubDate": "Thu, 26 Feb 2026 12:33:51 +0900"
-    },
-    {
-      "title": "[게시판] KB금융·농식품부, 지방·중기·청년 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260226108700002",
-      "pubDate": "Thu, 26 Feb 2026 12:32:18 +0900"
-    },
-    {
-      "title": "[부고] 유광일(전 메리츠화재 수도권 2본부장)씨 부인상",
-      "link": "https://www.yna.co.kr/view/AKR20260226108100505",
-      "pubDate": "Thu, 26 Feb 2026 12:14:31 +0900"
-    },
-    {
-      "title": "더딘 실질소득 증가…'양극화' 고소득층 쏠림에 분배지표 악화",
-      "link": "https://www.yna.co.kr/view/AKR20260226085000002",
-      "pubDate": "Thu, 26 Feb 2026 12:06:00 +0900"
-    },
-    {
-      "title": "한은총재 \"반도체 등 IT제조업, 올해 성장률에 0.7%p 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226105551002",
-      "pubDate": "Thu, 26 Feb 2026 12:02:03 +0900"
-    },
-    {
-      "title": "지난해 학교 등 아동관련기관 취업제한명령 어긴 33명 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260226034600530",
-      "pubDate": "Thu, 26 Feb 2026 12:00:15 +0900"
-    },
-    {
-      "title": "3월 중소기업 경기에 봄바람 기대…\"제조업 전망지수 상승\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226065100030",
-      "pubDate": "Thu, 26 Feb 2026 12:00:11 +0900"
-    },
-    {
-      "title": "북한 벼 재배면적 4년만에 증가…남한의 78% 수준",
-      "link": "https://www.yna.co.kr/view/AKR20260226079300002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:08 +0900"
-    },
-    {
-      "title": "국세청 수색 중 1억 돈가방 빼돌린 탈세 가족…금고엔 금두꺼비",
-      "link": "https://www.yna.co.kr/view/AKR20260226068100002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "고물가에 닫힌 지갑…작년 실질 소비지출, 코로나 후 5년 만에↓",
-      "link": "https://www.yna.co.kr/view/AKR20260226083800002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:06 +0900"
-    },
-    {
-      "title": "'경쟁사와 거래금지' 조건…한국엔지니어링플라스틱에 과징금",
-      "link": "https://www.yna.co.kr/view/AKR20260226091800002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:05 +0900"
-    },
-    {
-      "title": "롤렉스·에르메스·귀금속 가득…국세청 압류 수장고 첫 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260226089500002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:04 +0900"
     }
   ]
 }
