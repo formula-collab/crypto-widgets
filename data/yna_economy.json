@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772077429,
+  "updated_at_unix": 1772082909,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"서울 집값 하락…부동산공화국 해체 못 넘을 벽 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226124300001",
+      "pubDate": "Thu, 26 Feb 2026 14:09:00 +0900"
+    },
+    {
+      "title": "최진식 중견련 회장 \"국가 혁신 어젠다 선도하는 중심될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226122600003",
+      "pubDate": "Thu, 26 Feb 2026 14:08:41 +0900"
+    },
+    {
+      "title": "[속보] 李대통령 \"상법개정·주가누르기 방지법으로 정상화 흐름 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226123800001",
+      "pubDate": "Thu, 26 Feb 2026 14:07:46 +0900"
+    },
+    {
+      "title": "기획처, 지방 재정전략협의회…지특회계 '초광역계정' 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260226123500002",
+      "pubDate": "Thu, 26 Feb 2026 14:06:31 +0900"
+    },
+    {
+      "title": "[인사] 공정거래위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260226122700002",
+      "pubDate": "Thu, 26 Feb 2026 14:06:03 +0900"
+    },
+    {
+      "title": "삼성웰스토리, 선재스님과 구내식당서 사찰음식 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260226120500030",
+      "pubDate": "Thu, 26 Feb 2026 14:05:11 +0900"
+    },
+    {
+      "title": "공정위, '갑질' 쿠팡에 과징금 때렸지만…22억 '솜방망이' 한계(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226098551002",
+      "pubDate": "Thu, 26 Feb 2026 14:04:47 +0900"
+    },
+    {
+      "title": "과천시, 아주대·과천도시공사와 종합의료시설 건립 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260226121700061",
+      "pubDate": "Thu, 26 Feb 2026 14:01:22 +0900"
+    },
+    {
+      "title": "[게시판] 금융위, 국민성장펀드 대구·경북지역 릴레이 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260226077200002",
+      "pubDate": "Thu, 26 Feb 2026 14:00:05 +0900"
+    },
+    {
+      "title": "서울 아파트값 상승세 위축…강남3구·용산 2년만에 하락 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260226087100003",
+      "pubDate": "Thu, 26 Feb 2026 14:00:05 +0900"
+    },
+    {
+      "title": "암참·주한미국대사관, 미국 건국 250주년 기념 협력 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260226119200003",
+      "pubDate": "Thu, 26 Feb 2026 13:54:39 +0900"
+    },
+    {
+      "title": "국민연금 해외투자에 환율 충격 완화장치 마련된다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260225177151002",
+      "pubDate": "Thu, 26 Feb 2026 13:51:19 +0900"
+    },
+    {
+      "title": "슈퍼마켓업계 \"새벽배송 허용반대·온라인플랫폼 규제 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226096800030",
+      "pubDate": "Thu, 26 Feb 2026 13:30:01 +0900"
+    },
+    {
+      "title": "반도체 호조에…한은, 올해 성장률 전망치 1.8→2.0%(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260226060351002",
+      "pubDate": "Thu, 26 Feb 2026 13:30:01 +0900"
+    },
+    {
+      "title": "구로구, 코웨이와 손잡고 내달 중장년 채용설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260226112200004",
+      "pubDate": "Thu, 26 Feb 2026 13:20:01 +0900"
+    },
+    {
+      "title": "한은 총재 \"수도권 집값 더 지켜봐야…환율도 안심하기 일러\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226109200002",
+      "pubDate": "Thu, 26 Feb 2026 12:55:23 +0900"
+    },
+    {
+      "title": "대법 \"골프코스도 창작물 저작권 보호\"…골프존 사건 파기환송(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260226088551004",
+      "pubDate": "Thu, 26 Feb 2026 12:47:23 +0900"
+    },
     {
       "title": "與, 대미투자법 심사 차질에 국힘에 협조 촉구…직권상정도 거론",
       "link": "https://www.yna.co.kr/view/AKR20260226099600001",
@@ -67,91 +152,6 @@
       "title": "롤렉스·에르메스·귀금속 가득…국세청 압류 수장고 첫 공개",
       "link": "https://www.yna.co.kr/view/AKR20260226089500002",
       "pubDate": "Thu, 26 Feb 2026 12:00:04 +0900"
-    },
-    {
-      "title": "연간 근로시간 4년 연속 감소…제조업 종사자 28개월만 증가전환",
-      "link": "https://www.yna.co.kr/view/AKR20260226092800530",
-      "pubDate": "Thu, 26 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "공정위, '갑질' 쿠팡에 과징금 때렸지만…22억 '솜방망이' 한계",
-      "link": "https://www.yna.co.kr/view/AKR20260226098500002",
-      "pubDate": "Thu, 26 Feb 2026 12:00:02 +0900"
-    },
-    {
-      "title": "부영그룹, 외국인 유학생 102명에 장학금 4억800만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260226102800003",
-      "pubDate": "Thu, 26 Feb 2026 12:00:01 +0900"
-    },
-    {
-      "title": "한은총재 \"IT중심 성장·주가상승·AI 등에 양극화 커질 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226104351002",
-      "pubDate": "Thu, 26 Feb 2026 11:59:02 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"반도체 등 IT제조업, 올해 성장률에 0.7%p 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226105500002",
-      "pubDate": "Thu, 26 Feb 2026 11:56:19 +0900"
-    },
-    {
-      "title": "노원구 '구민 자전거보험' 보장 확대…진단위로금 최대 70만원",
-      "link": "https://www.yna.co.kr/view/AKR20260226104600004",
-      "pubDate": "Thu, 26 Feb 2026 11:55:43 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"IT중심 성장·주가상승·AI 등에 양극화 커질 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226104300002",
-      "pubDate": "Thu, 26 Feb 2026 11:52:18 +0900"
-    },
-    {
-      "title": "한은총재 \"금리점도표 도입, 임기전 마무리하는 게 좋다고 생각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226102951002",
-      "pubDate": "Thu, 26 Feb 2026 11:50:01 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"금리점도표 도입, 임기전 마무리하는 게 좋다고 생각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226102900002",
-      "pubDate": "Thu, 26 Feb 2026 11:47:26 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.068%",
-      "link": "https://www.yna.co.kr/view/AKR20260226100900008",
-      "pubDate": "Thu, 26 Feb 2026 11:46:09 +0900"
-    },
-    {
-      "title": "한은총재 \"1∼2월 ETF 등 개인 해외투자, 작년말 수준으로 많아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226100351002",
-      "pubDate": "Thu, 26 Feb 2026 11:45:42 +0900"
-    },
-    {
-      "title": "노브랜드버거, 업계 최저 2천500원 '어메이징 불고기' 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260226101100030",
-      "pubDate": "Thu, 26 Feb 2026 11:42:23 +0900"
-    },
-    {
-      "title": "與, 전세사기 피해구제책 발표…임차보증금 일정비율 회복 보장",
-      "link": "https://www.yna.co.kr/view/AKR20260226091000001",
-      "pubDate": "Thu, 26 Feb 2026 11:40:53 +0900"
-    },
-    {
-      "title": "한은총재 \"부동산 안정, 공급·세제·수도권집중 해결해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226098251002",
-      "pubDate": "Thu, 26 Feb 2026 11:40:38 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"1∼2월 ETF 등 개인 해외투자, 작년말 수준으로 많아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226100300002",
-      "pubDate": "Thu, 26 Feb 2026 11:38:52 +0900"
-    },
-    {
-      "title": "쿠팡이츠, 포장 수수료도 받는다…음식값의 6.8%",
-      "link": "https://www.yna.co.kr/view/AKR20260226099400030",
-      "pubDate": "Thu, 26 Feb 2026 11:36:32 +0900"
-    },
-    {
-      "title": "한은총재 \"현 시장금리와 기준금리 격차, 과도하다고 생각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226097551002",
-      "pubDate": "Thu, 26 Feb 2026 11:35:18 +0900"
     }
   ]
 }
