@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772179236,
+  "updated_at_unix": 1772182990,
   "items": [
+    {
+      "title": "\"소통으로 신뢰받는 예산편성\"…시민·전문가 의견, 지침에 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260227152300002",
+      "pubDate": "Fri, 27 Feb 2026 17:31:14 +0900"
+    },
+    {
+      "title": "李대통령, 분당 아파트 매물로 내놔…靑 \"부동산 정상화 의지\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260227138851001",
+      "pubDate": "Fri, 27 Feb 2026 17:29:18 +0900"
+    },
+    {
+      "title": "BNK금융그룹, 주총 특별결의 등 지배구조 개선 논의 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260227152700051",
+      "pubDate": "Fri, 27 Feb 2026 17:25:07 +0900"
+    },
+    {
+      "title": "오세훈, 풍납동 모아타운 현장 찾아 \"전방위적 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227151000004",
+      "pubDate": "Fri, 27 Feb 2026 17:23:42 +0900"
+    },
+    {
+      "title": "[인사] 우리금융지주",
+      "link": "https://www.yna.co.kr/view/AKR20260227151800002",
+      "pubDate": "Fri, 27 Feb 2026 17:18:56 +0900"
+    },
+    {
+      "title": "시큐레터, 30억원 유상증자…시큐레터보안솔루션 제이차투자조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260227150400008",
+      "pubDate": "Fri, 27 Feb 2026 17:15:10 +0900"
+    },
+    {
+      "title": "양부남, 악성 세외수입 체납자 금융정보조회법 대표발의",
+      "link": "https://www.yna.co.kr/view/AKR20260227147000054",
+      "pubDate": "Fri, 27 Feb 2026 17:02:32 +0900"
+    },
+    {
+      "title": "비둘기파적 금통위 영향 계속…국고채 금리 일제히 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260227142151008",
+      "pubDate": "Fri, 27 Feb 2026 16:58:55 +0900"
+    },
     {
       "title": "\"AI시대 창업가 키운다\" 강원도립대, 실전형 창업 교육",
       "link": "https://www.yna.co.kr/view/AKR20260227145400062",
@@ -112,46 +152,6 @@
       "title": "\"국내 지도사업 역차별 우려\" vs \"외국인 관광객 불편 해소\"",
       "link": "https://www.yna.co.kr/view/AKR20260227125200017",
       "pubDate": "Fri, 27 Feb 2026 15:53:46 +0900"
-    },
-    {
-      "title": "[특징주] 한전, 유가상승·전분기 실적 실망감 속 7%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227054151008",
-      "pubDate": "Fri, 27 Feb 2026 15:52:54 +0900"
-    },
-    {
-      "title": "인터넷은행 3사, 작년 4분기 중저신용 대출비중 30% 목표치 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260227126000002",
-      "pubDate": "Fri, 27 Feb 2026 15:52:02 +0900"
-    },
-    {
-      "title": "[특징주] 한미반도체, 해외 장비공급 소식에 17%대 상승마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227049651008",
-      "pubDate": "Fri, 27 Feb 2026 15:51:40 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 미국발 찬바람에 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227038751008",
-      "pubDate": "Fri, 27 Feb 2026 15:49:04 +0900"
-    },
-    {
-      "title": "[인사] 은행연합회",
-      "link": "https://www.yna.co.kr/view/AKR20260227125600002",
-      "pubDate": "Fri, 27 Feb 2026 15:42:59 +0900"
-    },
-    {
-      "title": "한경협, 4대 그룹 회장단 합류 지속 추진…\"계속 소통 중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227122400003",
-      "pubDate": "Fri, 27 Feb 2026 15:40:34 +0900"
-    },
-    {
-      "title": "경총 \"노란봉투법 교섭매뉴얼, 하청업체 경영권 침해…분쟁유발\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227123100003",
-      "pubDate": "Fri, 27 Feb 2026 15:38:54 +0900"
-    },
-    {
-      "title": "코스피, 등락 끝에 6,240대 하락 마감…코스닥은 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260227123700008",
-      "pubDate": "Fri, 27 Feb 2026 15:37:05 +0900"
     }
   ]
 }
