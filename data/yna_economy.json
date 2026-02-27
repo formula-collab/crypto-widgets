@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772232433,
+  "updated_at_unix": 1772234079,
   "items": [
+    {
+      "title": "김해시, 청년 월세 지원 대상자 모집…월 최대 20만원",
+      "link": "https://www.yna.co.kr/view/AKR20260227103200052",
+      "pubDate": "Sat, 28 Feb 2026 08:02:00 +0900"
+    },
+    {
+      "title": "부산 아파트값도 상승 주춤…전셋값은 상승폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260226168600051",
+      "pubDate": "Sat, 28 Feb 2026 08:00:08 +0900"
+    },
     {
       "title": "[신상잇슈] 파리바게뜨 '한입브레드'·롯데웰푸드 '프리미엄 월드콘'",
       "link": "https://www.yna.co.kr/view/AKR20260227113500030",
@@ -142,16 +152,6 @@
       "title": "1월 외화 예금 14억달러↓…달러 예금은 역대 최대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260227076951002",
       "pubDate": "Fri, 27 Feb 2026 16:36:11 +0900"
-    },
-    {
-      "title": "李대통령, 분당 아파트 매물로 내놔…靑 \"부동산 정상화 의지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227138800001",
-      "pubDate": "Fri, 27 Feb 2026 16:31:02 +0900"
-    },
-    {
-      "title": "[속보] 靑 \"李대통령, 거주목적 1주택 내놔…부동산 정상화 의지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227138100001",
-      "pubDate": "Fri, 27 Feb 2026 16:27:14 +0900"
     }
   ]
 }
