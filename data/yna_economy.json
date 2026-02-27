@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772225344,
+  "updated_at_unix": 1772227107,
   "items": [
+    {
+      "title": "[뉴욕유가] 주요국, 잇달아 이란서 대피 권고…WTI 2.77%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260228008300009",
+      "pubDate": "Sat, 28 Feb 2026 06:05:30 +0900"
+    },
+    {
+      "title": "주유소 기름값 2주 연속 상승…\"다음 주 경유 오름세 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227146700003",
+      "pubDate": "Sat, 28 Feb 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 봄 분양 시장 개막…전국 6천가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260227157500003",
+      "pubDate": "Sat, 28 Feb 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[샷!] \"반지하도 월세 60만원 넘어요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260226159400505",
+      "pubDate": "Sat, 28 Feb 2026 05:50:01 +0900"
+    },
     {
       "title": "달러-원, 끈적한 美 도매물가에 급등 후 반락…1,440원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260228003700002",
@@ -132,26 +152,6 @@
       "title": "[속보] 李대통령, 분당 아파트 매물로…靑 \"시세보다 저렴하게 내놔\"",
       "link": "https://www.yna.co.kr/view/AKR20260227137700001",
       "pubDate": "Fri, 27 Feb 2026 16:25:27 +0900"
-    },
-    {
-      "title": "골프존 \"대법원판결에 적극적인 대응…창작성 등 판단 받겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227135500007",
-      "pubDate": "Fri, 27 Feb 2026 16:22:18 +0900"
-    },
-    {
-      "title": "닭·돼지·소 전염병 확산에 특별방역대책기간 내달까지 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260227135900030",
-      "pubDate": "Fri, 27 Feb 2026 16:18:25 +0900"
-    },
-    {
-      "title": "코스피, 외인 역대최대 투매에 6,240대 하락…거래대금 사상최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227134100008",
-      "pubDate": "Fri, 27 Feb 2026 16:14:23 +0900"
-    },
-    {
-      "title": "[인사] 현대해상",
-      "link": "https://www.yna.co.kr/view/AKR20260227134300002",
-      "pubDate": "Fri, 27 Feb 2026 16:07:54 +0900"
     }
   ]
 }
