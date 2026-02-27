@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772234079,
+  "updated_at_unix": 1772235804,
   "items": [
+    {
+      "title": "거제시, 지류 거제사랑상품권 환전 수수료 3월부터 면제",
+      "link": "https://www.yna.co.kr/view/AKR20260227137400052",
+      "pubDate": "Sat, 28 Feb 2026 08:10:01 +0900"
+    },
     {
       "title": "김해시, 청년 월세 지원 대상자 모집…월 최대 20만원",
       "link": "https://www.yna.co.kr/view/AKR20260227103200052",
@@ -147,11 +152,6 @@
       "title": "포천에 경기국방벤처센터 개소…'방위산업 기업 지원 거점'",
       "link": "https://www.yna.co.kr/view/AKR20260227140800060",
       "pubDate": "Fri, 27 Feb 2026 16:38:20 +0900"
-    },
-    {
-      "title": "1월 외화 예금 14억달러↓…달러 예금은 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227076951002",
-      "pubDate": "Fri, 27 Feb 2026 16:36:11 +0900"
     }
   ]
 }
