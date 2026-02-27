@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772190153,
+  "updated_at_unix": 1772193004,
   "items": [
+    {
+      "title": "강훈식 \"부동산 모든 정책수단 가능…주가조작 2배이상 과징금\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227172800001",
+      "pubDate": "Fri, 27 Feb 2026 20:37:58 +0900"
+    },
     {
       "title": "유일에너테크, 10억원 유상증자…박진수에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260227166100008",
@@ -147,11 +152,6 @@
       "title": "농식품부 '농협 개혁 추진단' 4차 회의…내달 법안 발의 추진",
       "link": "https://www.yna.co.kr/view/AKR20260227054600030",
       "pubDate": "Fri, 27 Feb 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행 '치매 안심 신탁' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260227127800002",
-      "pubDate": "Fri, 27 Feb 2026 15:59:25 +0900"
     }
   ]
 }
