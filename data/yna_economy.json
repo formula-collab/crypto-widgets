@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772202691,
+  "updated_at_unix": 1772206147,
   "items": [
+    {
+      "title": "국세청, 성과 홍보하다 체납자 코인 마스터키 노출 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260227180500002",
+      "pubDate": "Fri, 27 Feb 2026 23:59:53 +0900"
+    },
     {
       "title": "李대통령 \"공직자책임 다하려 집 내놔…'시세차익' 보도 악의적\"",
       "link": "https://www.yna.co.kr/view/AKR20260227174600001",
@@ -147,11 +152,6 @@
       "title": "UNIST, 과기부 '실험실 창업 혁신단' 선정…국비 76억 확보",
       "link": "https://www.yna.co.kr/view/AKR20260227128700057",
       "pubDate": "Fri, 27 Feb 2026 16:04:42 +0900"
-    },
-    {
-      "title": "청양군, 주민 1인당 농어촌 기본소득 15만원 지급 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260227131500063",
-      "pubDate": "Fri, 27 Feb 2026 16:03:46 +0900"
     }
   ]
 }
