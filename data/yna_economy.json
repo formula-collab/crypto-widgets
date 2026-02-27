@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772193004,
+  "updated_at_unix": 1772195540,
   "items": [
+    {
+      "title": "李대통령 \"공직자책임 다하려 집 내놔…'시세차익' 보도 악의적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227174600001",
+      "pubDate": "Fri, 27 Feb 2026 20:52:10 +0900"
+    },
     {
       "title": "강훈식 \"부동산 모든 정책수단 가능…주가조작 2배이상 과징금\"",
       "link": "https://www.yna.co.kr/view/AKR20260227172800001",
@@ -147,11 +152,6 @@
       "title": "청양군, 주민 1인당 농어촌 기본소득 15만원 지급 개시",
       "link": "https://www.yna.co.kr/view/AKR20260227131500063",
       "pubDate": "Fri, 27 Feb 2026 16:03:46 +0900"
-    },
-    {
-      "title": "농식품부 '농협 개혁 추진단' 4차 회의…내달 법안 발의 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260227054600030",
-      "pubDate": "Fri, 27 Feb 2026 16:00:01 +0900"
     }
   ]
 }
