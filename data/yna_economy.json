@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772163601,
+  "updated_at_unix": 1772168931,
   "items": [
+    {
+      "title": "[게시판] 금융위, '국민성장펀드 승인' 이수스페셜티 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260227070100002",
+      "pubDate": "Fri, 27 Feb 2026 14:00:26 +0900"
+    },
+    {
+      "title": "BNK금융그룹, 동남권 혁신기업 성장 지원체계 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260227098900051",
+      "pubDate": "Fri, 27 Feb 2026 13:57:50 +0900"
+    },
+    {
+      "title": "한투증권, 1억3천만 달러 KB국민카드 김치본드 발행 주관",
+      "link": "https://www.yna.co.kr/view/AKR20260227094400008",
+      "pubDate": "Fri, 27 Feb 2026 13:56:13 +0900"
+    },
+    {
+      "title": "한경협, 4대 그룹 회장단 합류 지속 추진…\"계속 소통 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227093400003",
+      "pubDate": "Fri, 27 Feb 2026 13:44:08 +0900"
+    },
+    {
+      "title": "[게시판] SH-LX, 지적측량·공간 정보 협력 강화 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260227092600004",
+      "pubDate": "Fri, 27 Feb 2026 13:34:44 +0900"
+    },
+    {
+      "title": "양천구, 내달 '도시정비사업 지식포럼' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260227092400004",
+      "pubDate": "Fri, 27 Feb 2026 13:33:54 +0900"
+    },
+    {
+      "title": "현대건설, KIND·한투리얼에셋과 글로벌 부동산 개발사업 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260227087600003",
+      "pubDate": "Fri, 27 Feb 2026 13:22:11 +0900"
+    },
     {
       "title": "카카오페이證, 정규장 초반 일부 서비스 일시지연",
       "link": "https://www.yna.co.kr/view/AKR20260227086600008",
@@ -117,41 +152,6 @@
       "title": "오산시 \"옹벽 붕괴 사고, 강우보다 구조적 취약성에 기인\"",
       "link": "https://www.yna.co.kr/view/AKR20260227073800061",
       "pubDate": "Fri, 27 Feb 2026 11:10:25 +0900"
-    },
-    {
-      "title": "소공연, '일하는 사람 기본법' 반대 대국민 서명운동 돌입",
-      "link": "https://www.yna.co.kr/view/AKR20260227064500030",
-      "pubDate": "Fri, 27 Feb 2026 11:04:39 +0900"
-    },
-    {
-      "title": "[게시판] KGM, 독일서 딜러 콘퍼런스…유럽시장에 '무쏘' 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260227070700003",
-      "pubDate": "Fri, 27 Feb 2026 11:00:15 +0900"
-    },
-    {
-      "title": "연합뉴스 '전기화 시대 도전' 기획보도, KBCSD 언론상 대상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260226148800003",
-      "pubDate": "Fri, 27 Feb 2026 11:00:03 +0900"
-    },
-    {
-      "title": "1월 국세 53조 걷혀, 작년보다 13%↑…부동산·주식거래 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260227059800002",
-      "pubDate": "Fri, 27 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "관세청, 육류 수입업체 등 9곳 할당관세 악용 혐의 조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260227060700002",
-      "pubDate": "Fri, 27 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "정부 \"MSCI 선진지수 편입 과제 39개 중 22개 1분기 중 실행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227069100002",
-      "pubDate": "Fri, 27 Feb 2026 11:00:01 +0900"
-    },
-    {
-      "title": "노란봉투법 교섭창구 최소 2개…원·하청 노조간 '분리'가 원칙",
-      "link": "https://www.yna.co.kr/view/AKR20260227062500530",
-      "pubDate": "Fri, 27 Feb 2026 11:00:00 +0900"
     }
   ]
 }
