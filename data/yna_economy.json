@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772228888,
+  "updated_at_unix": 1772230375,
   "items": [
+    {
+      "title": "[신상잇슈] 파리바게뜨 '한입브레드'·롯데웰푸드 '프리미엄 월드콘'",
+      "link": "https://www.yna.co.kr/view/AKR20260227113500030",
+      "pubDate": "Sat, 28 Feb 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[금주핫템] 라네즈 '주스팝 박스 립 틴트'·스튜디오 톰보이 'SS컬렉션'",
+      "link": "https://www.yna.co.kr/view/AKR20260227112600030",
+      "pubDate": "Sat, 28 Feb 2026 07:00:03 +0900"
+    },
     {
       "title": "[뉴욕유가] 주요국, 잇달아 이란서 대피 권고…WTI 2.77%↑",
       "link": "https://www.yna.co.kr/view/AKR20260228008300009",
@@ -142,16 +152,6 @@
       "title": "[속보] 靑 \"李대통령, 거주목적 1주택 내놔…부동산 정상화 의지\"",
       "link": "https://www.yna.co.kr/view/AKR20260227138100001",
       "pubDate": "Fri, 27 Feb 2026 16:27:14 +0900"
-    },
-    {
-      "title": "현대약품 \"대화제약 주식 108억원어치 취득…지분율 3.8%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227137900008",
-      "pubDate": "Fri, 27 Feb 2026 16:26:31 +0900"
-    },
-    {
-      "title": "[속보] 李대통령, 분당 아파트 매물로…靑 \"시세보다 저렴하게 내놔\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227137700001",
-      "pubDate": "Fri, 27 Feb 2026 16:25:27 +0900"
     }
   ]
 }
