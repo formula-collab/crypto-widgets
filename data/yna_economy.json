@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772275455,
+  "updated_at_unix": 1772276999,
   "items": [
+    {
+      "title": "[美 이란 공격] 무역협회 \"한국 단기적 수출 영향 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260228054400003",
+      "pubDate": "Sat, 28 Feb 2026 19:40:31 +0900"
+    },
     {
       "title": "[美 이란 공격] 글로벌 경제·안보 충격…호르무즈 막히면 '패닉' 온다",
       "link": "https://www.yna.co.kr/view/AKR20260228052400009",
@@ -147,11 +152,6 @@
       "title": "李대통령, 분당 아파트 매물로 내놔…靑 \"부동산 정상화 의지\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260227138851001",
       "pubDate": "Fri, 27 Feb 2026 17:29:18 +0900"
-    },
-    {
-      "title": "BNK금융그룹, 주총 특별결의 등 지배구조 개선 논의 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260227152700051",
-      "pubDate": "Fri, 27 Feb 2026 17:25:07 +0900"
     }
   ]
 }
