@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772287949,
+  "updated_at_unix": 1772289813,
   "items": [
+    {
+      "title": "샤오미, MWC 선공…유럽 프리미엄 정면승부",
+      "link": "https://www.yna.co.kr/view/AKR20260228037101017",
+      "pubDate": "Sat, 28 Feb 2026 23:30:00 +0900"
+    },
     {
       "title": "경기 고양시 한우농장서 구제역 추가 발생…올해 3건으로 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260228059000030",
@@ -147,11 +152,6 @@
       "title": "'부동산 투기와 전쟁' 나선 李대통령…집 내놓으며 직접 '총대'",
       "link": "https://www.yna.co.kr/view/AKR20260227158900001",
       "pubDate": "Fri, 27 Feb 2026 18:13:20 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260227150700011",
-      "pubDate": "Fri, 27 Feb 2026 18:00:00 +0900"
     }
   ]
 }
