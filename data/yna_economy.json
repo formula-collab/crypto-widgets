@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772281335,
+  "updated_at_unix": 1772284186,
   "items": [
+    {
+      "title": "경기 고양시 한우농장서 구제역 추가 발생…올해 3건으로 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260228059000030",
+      "pubDate": "Sat, 28 Feb 2026 21:16:52 +0900"
+    },
     {
       "title": "[美 이란 공격] 구윤철 \"긴밀한 대응 태세\"…내일 관계기관 합동 점검회의",
       "link": "https://www.yna.co.kr/view/AKR20260228057000002",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260227150700011",
       "pubDate": "Fri, 27 Feb 2026 18:00:00 +0900"
-    },
-    {
-      "title": "\"소통으로 신뢰받는 예산편성\"…시민·전문가 의견, 지침에 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260227152300002",
-      "pubDate": "Fri, 27 Feb 2026 17:31:14 +0900"
     }
   ]
 }
