@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772248068,
+  "updated_at_unix": 1772253425,
   "items": [
+    {
+      "title": "'다주택' 장동혁, 오피스텔 1채 매물로 내놔…\"거래는 아직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260228033000001",
+      "pubDate": "Sat, 28 Feb 2026 13:16:36 +0900"
+    },
     {
       "title": "전남도, 동·서부 이민외국인 근로자지원센터 운영",
       "link": "https://www.yna.co.kr/view/AKR20260227144600054",
@@ -147,11 +152,6 @@
       "title": "[인사] 우리금융지주",
       "link": "https://www.yna.co.kr/view/AKR20260227151800002",
       "pubDate": "Fri, 27 Feb 2026 17:18:56 +0900"
-    },
-    {
-      "title": "시큐레터, 30억원 유상증자…시큐레터보안솔루션 제이차투자조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260227150400008",
-      "pubDate": "Fri, 27 Feb 2026 17:15:10 +0900"
     }
   ]
 }
