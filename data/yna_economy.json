@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772314765,
+  "updated_at_unix": 1772316712,
   "items": [
+    {
+      "title": "\"홈플러스 기업회생신청…대형마트 시장 구조적 변화 불가피\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227152200008",
+      "pubDate": "Sun, 1 Mar 2026 07:03:01 +0900"
+    },
+    {
+      "title": "LS증권 \"트럼프, 중간선거 앞두고 물가 중심 행동 나설 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227082600008",
+      "pubDate": "Sun, 1 Mar 2026 07:02:01 +0900"
+    },
+    {
+      "title": "[美 이란 공격] 봉쇄 시작된 호르무즈 해협은 '글로벌 에너지 동맥'",
+      "link": "https://www.yna.co.kr/view/AKR20260301008400009",
+      "pubDate": "Sun, 1 Mar 2026 07:01:02 +0900"
+    },
+    {
+      "title": "설 이어 대보름 물가도 '안정세'…전통시장 차림비용 2.8% 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260228033200030",
+      "pubDate": "Sun, 1 Mar 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 흔들리는 미국 반도체주…한국 증시 영향은",
+      "link": "https://www.yna.co.kr/view/AKR20260227179400008",
+      "pubDate": "Sun, 1 Mar 2026 07:00:08 +0900"
+    },
+    {
+      "title": "[전국레이더] 수달·검독수리 \"반갑다\"…생태복원에 돌아오는 멸종위기종",
+      "link": "https://www.yna.co.kr/view/AKR20260227051300056",
+      "pubDate": "Sun, 1 Mar 2026 07:00:05 +0900"
+    },
+    {
+      "title": "시간은 매수자 편?…강남3구 수요-공급 우열 '동등'",
+      "link": "https://www.yna.co.kr/view/AKR20260301007000003",
+      "pubDate": "Sun, 1 Mar 2026 06:56:36 +0900"
+    },
     {
       "title": "\"바나나 먹기 부담\"…수입과일 관세인하 효과 아직",
       "link": "https://www.yna.co.kr/view/AKR20260227163700030",
@@ -117,41 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260228026800011",
       "pubDate": "Sat, 28 Feb 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 2월 물가 얼마나 올랐나…건설·소비 회복도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260228021700002",
-      "pubDate": "Sat, 28 Feb 2026 09:01:46 +0900"
-    },
-    {
-      "title": "포항공대, 대경권 실험실 창업거점 기관 3기 연속 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260227145000053",
-      "pubDate": "Sat, 28 Feb 2026 08:43:21 +0900"
-    },
-    {
-      "title": "거제시, 지류 거제사랑상품권 환전 수수료 3월부터 면제",
-      "link": "https://www.yna.co.kr/view/AKR20260227137400052",
-      "pubDate": "Sat, 28 Feb 2026 08:10:01 +0900"
-    },
-    {
-      "title": "김해시, 청년 월세 지원 대상자 모집…월 최대 20만원",
-      "link": "https://www.yna.co.kr/view/AKR20260227103200052",
-      "pubDate": "Sat, 28 Feb 2026 08:02:00 +0900"
-    },
-    {
-      "title": "부산 아파트값도 상승 주춤…전셋값은 상승폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260226168600051",
-      "pubDate": "Sat, 28 Feb 2026 08:00:08 +0900"
-    },
-    {
-      "title": "[신상잇슈] 파리바게뜨 '한입브레드'·롯데웰푸드 '프리미엄 월드콘'",
-      "link": "https://www.yna.co.kr/view/AKR20260227113500030",
-      "pubDate": "Sat, 28 Feb 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[금주핫템] 라네즈 '주스팝 박스 립 틴트'·스튜디오 톰보이 'SS컬렉션'",
-      "link": "https://www.yna.co.kr/view/AKR20260227112600030",
-      "pubDate": "Sat, 28 Feb 2026 07:00:03 +0900"
     }
   ]
 }
