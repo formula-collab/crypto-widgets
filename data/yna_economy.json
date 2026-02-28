@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772320309,
+  "updated_at_unix": 1772322048,
   "items": [
+    {
+      "title": "주민세 주민에 직접 환원 사업, 생활자치 실천 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260226142500054",
+      "pubDate": "Sun, 1 Mar 2026 08:21:00 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 한은, 24시간 시장 모니터링…필요시 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260301013800002",
+      "pubDate": "Sun, 1 Mar 2026 08:14:30 +0900"
+    },
     {
       "title": "금값 한달만 5천200불선 회복…'트럼프 리스크'에 반등세 지속?",
       "link": "https://www.yna.co.kr/view/AKR20260228021100008",
@@ -142,16 +152,6 @@
       "title": "'다주택' 장동혁, 오피스텔 1채 매물로 내놔…\"거래는 아직\"",
       "link": "https://www.yna.co.kr/view/AKR20260228033000001",
       "pubDate": "Sat, 28 Feb 2026 13:16:36 +0900"
-    },
-    {
-      "title": "전남도, 동·서부 이민외국인 근로자지원센터 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260227144600054",
-      "pubDate": "Sat, 28 Feb 2026 11:00:03 +0900"
-    },
-    {
-      "title": "인천 송도 유럽형 스파단지 테르메 본협약…2031년 개장 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260227128800065",
-      "pubDate": "Sat, 28 Feb 2026 11:00:00 +0900"
     }
   ]
 }
