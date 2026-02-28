@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772240292,
+  "updated_at_unix": 1772248068,
   "items": [
+    {
+      "title": "전남도, 동·서부 이민외국인 근로자지원센터 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260227144600054",
+      "pubDate": "Sat, 28 Feb 2026 11:00:03 +0900"
+    },
+    {
+      "title": "인천 송도 유럽형 스파단지 테르메 본협약…2031년 개장 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260227128800065",
+      "pubDate": "Sat, 28 Feb 2026 11:00:00 +0900"
+    },
+    {
+      "title": "[마이더스] 세무조사 피하는 법인세 체크리스트",
+      "link": "https://www.yna.co.kr/view/AKR20260226117200980",
+      "pubDate": "Sat, 28 Feb 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260228026800011",
+      "pubDate": "Sat, 28 Feb 2026 10:30:00 +0900"
+    },
     {
       "title": "[다음주 경제] 2월 물가 얼마나 올랐나…건설·소비 회복도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260228021700002",
@@ -132,26 +152,6 @@
       "title": "시큐레터, 30억원 유상증자…시큐레터보안솔루션 제이차투자조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260227150400008",
       "pubDate": "Fri, 27 Feb 2026 17:15:10 +0900"
-    },
-    {
-      "title": "양부남, 악성 세외수입 체납자 금융정보조회법 대표발의",
-      "link": "https://www.yna.co.kr/view/AKR20260227147000054",
-      "pubDate": "Fri, 27 Feb 2026 17:02:32 +0900"
-    },
-    {
-      "title": "비둘기파적 금통위 영향 계속…국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260227142151008",
-      "pubDate": "Fri, 27 Feb 2026 16:58:55 +0900"
-    },
-    {
-      "title": "\"AI시대 창업가 키운다\" 강원도립대, 실전형 창업 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260227145400062",
-      "pubDate": "Fri, 27 Feb 2026 16:55:09 +0900"
-    },
-    {
-      "title": "D램 11개월 연속 상승해 13달러…낸드도 34% 추가 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260227142200003",
-      "pubDate": "Fri, 27 Feb 2026 16:42:38 +0900"
     }
   ]
 }
