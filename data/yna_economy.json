@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772313045,
+  "updated_at_unix": 1772314765,
   "items": [
+    {
+      "title": "\"바나나 먹기 부담\"…수입과일 관세인하 효과 아직",
+      "link": "https://www.yna.co.kr/view/AKR20260227163700030",
+      "pubDate": "Sun, 1 Mar 2026 06:35:01 +0900"
+    },
     {
       "title": "'초호황' 삼성전자·SK하이닉스 작년 법인세 8.5조…5배 넘게 ↑",
       "link": "https://www.yna.co.kr/view/AKR20260227143000003",
@@ -147,11 +152,6 @@
       "title": "[금주핫템] 라네즈 '주스팝 박스 립 틴트'·스튜디오 톰보이 'SS컬렉션'",
       "link": "https://www.yna.co.kr/view/AKR20260227112600030",
       "pubDate": "Sat, 28 Feb 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 주요국, 잇달아 이란서 대피 권고…WTI 2.77%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260228008300009",
-      "pubDate": "Sat, 28 Feb 2026 06:05:30 +0900"
     }
   ]
 }
