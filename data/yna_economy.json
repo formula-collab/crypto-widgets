@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772268481,
+  "updated_at_unix": 1772270161,
   "items": [
+    {
+      "title": "'다주택' 장동혁, 오피스텔 매물로 내놔…\"보러오는 분도 없다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260228033051001",
+      "pubDate": "Sat, 28 Feb 2026 17:57:54 +0900"
+    },
     {
       "title": "'다주택' 장동혁, 오피스텔 1채 매물로 내놔…\"거래는 아직\"",
       "link": "https://www.yna.co.kr/view/AKR20260228033000001",
@@ -147,11 +152,6 @@
       "title": "오세훈, 풍납동 모아타운 현장 찾아 \"전방위적 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260227151000004",
       "pubDate": "Fri, 27 Feb 2026 17:23:42 +0900"
-    },
-    {
-      "title": "[인사] 우리금융지주",
-      "link": "https://www.yna.co.kr/view/AKR20260227151800002",
-      "pubDate": "Fri, 27 Feb 2026 17:18:56 +0900"
     }
   ]
 }
