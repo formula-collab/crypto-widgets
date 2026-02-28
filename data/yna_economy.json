@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772235804,
+  "updated_at_unix": 1772240292,
   "items": [
+    {
+      "title": "[다음주 경제] 2월 물가 얼마나 올랐나…건설·소비 회복도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260228021700002",
+      "pubDate": "Sat, 28 Feb 2026 09:01:46 +0900"
+    },
+    {
+      "title": "포항공대, 대경권 실험실 창업거점 기관 3기 연속 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260227145000053",
+      "pubDate": "Sat, 28 Feb 2026 08:43:21 +0900"
+    },
     {
       "title": "거제시, 지류 거제사랑상품권 환전 수수료 3월부터 면제",
       "link": "https://www.yna.co.kr/view/AKR20260227137400052",
@@ -142,16 +152,6 @@
       "title": "D램 11개월 연속 상승해 13달러…낸드도 34% 추가 급등",
       "link": "https://www.yna.co.kr/view/AKR20260227142200003",
       "pubDate": "Fri, 27 Feb 2026 16:42:38 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.041%",
-      "link": "https://www.yna.co.kr/view/AKR20260227142100008",
-      "pubDate": "Fri, 27 Feb 2026 16:40:21 +0900"
-    },
-    {
-      "title": "포천에 경기국방벤처센터 개소…'방위산업 기업 지원 거점'",
-      "link": "https://www.yna.co.kr/view/AKR20260227140800060",
-      "pubDate": "Fri, 27 Feb 2026 16:38:20 +0900"
     }
   ]
 }
