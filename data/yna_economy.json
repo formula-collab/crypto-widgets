@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772316712,
+  "updated_at_unix": 1772318648,
   "items": [
+    {
+      "title": "금값 한달만 5천200불선 회복…'트럼프 리스크'에 반등세 지속?",
+      "link": "https://www.yna.co.kr/view/AKR20260228021100008",
+      "pubDate": "Sun, 1 Mar 2026 07:20:00 +0900"
+    },
+    {
+      "title": "최고치 랠리에 9개로 늘어난 코스피 '황제주'…차기 후보군은",
+      "link": "https://www.yna.co.kr/view/AKR20260228000800008",
+      "pubDate": "Sun, 1 Mar 2026 07:10:00 +0900"
+    },
     {
       "title": "\"홈플러스 기업회생신청…대형마트 시장 구조적 변화 불가피\"",
       "link": "https://www.yna.co.kr/view/AKR20260227152200008",
@@ -142,16 +152,6 @@
       "title": "인천 송도 유럽형 스파단지 테르메 본협약…2031년 개장 목표",
       "link": "https://www.yna.co.kr/view/AKR20260227128800065",
       "pubDate": "Sat, 28 Feb 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[마이더스] 세무조사 피하는 법인세 체크리스트",
-      "link": "https://www.yna.co.kr/view/AKR20260226117200980",
-      "pubDate": "Sat, 28 Feb 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260228026800011",
-      "pubDate": "Sat, 28 Feb 2026 10:30:00 +0900"
     }
   ]
 }
