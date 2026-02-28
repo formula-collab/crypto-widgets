@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772311449,
+  "updated_at_unix": 1772313045,
   "items": [
+    {
+      "title": "'초호황' 삼성전자·SK하이닉스 작년 법인세 8.5조…5배 넘게 ↑",
+      "link": "https://www.yna.co.kr/view/AKR20260227143000003",
+      "pubDate": "Sun, 1 Mar 2026 06:05:01 +0900"
+    },
+    {
+      "title": "지역 일자리 정책, 지자체에 맡긴다…올해 상반기 입법 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260227160300530",
+      "pubDate": "Sun, 1 Mar 2026 06:05:01 +0900"
+    },
+    {
+      "title": "리츠, 도입 25년 만에 시가총액 10조원 사상 첫 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260228058800003",
+      "pubDate": "Sun, 1 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[르포] 서산 산업위기 선제대응지역 지정 6개월…\"나아진 게 없어요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260227135200063",
+      "pubDate": "Sun, 1 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "작년 불법사금융 신고 1만7천538건…13년 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260228032600002",
+      "pubDate": "Sun, 1 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "\"쿠팡, 메일·메신저 30일마다 삭제\"…티끌 모아 파헤친 '갑질'",
+      "link": "https://www.yna.co.kr/view/AKR20260228052800002",
+      "pubDate": "Sun, 1 Mar 2026 05:55:02 +0900"
+    },
+    {
+      "title": "내수 칼바람에…음식업·임대업 2년 가까이 줄폐업",
+      "link": "https://www.yna.co.kr/view/AKR20260228060000002",
+      "pubDate": "Sun, 1 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "금융위, 전방위 규제 강구…비주거용 대출·투기1주택도 사정권",
+      "link": "https://www.yna.co.kr/view/AKR20260228043500002",
+      "pubDate": "Sun, 1 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "IMF '눈물의 비디오'도 틀어…금융지주, 잘 나갈 때 기강 잡는다",
+      "link": "https://www.yna.co.kr/view/AKR20260228039600002",
+      "pubDate": "Sun, 1 Mar 2026 05:49:01 +0900"
+    },
+    {
+      "title": "금융지주 주가 1년새 2배로…4대지주 회장 3억∼12억 평가익",
+      "link": "https://www.yna.co.kr/view/AKR20260228062400002",
+      "pubDate": "Sun, 1 Mar 2026 05:47:02 +0900"
+    },
+    {
+      "title": "[美 이란 공격] 코스피발 '경기 훈풍' 아직인데…고개 든 '중동 리스크'",
+      "link": "https://www.yna.co.kr/view/AKR20260228057300002",
+      "pubDate": "Sun, 1 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "샤오미, MWC 선공…유럽 프리미엄 정면승부",
       "link": "https://www.yna.co.kr/view/AKR20260228037101017",
@@ -97,61 +152,6 @@
       "title": "[뉴욕유가] 주요국, 잇달아 이란서 대피 권고…WTI 2.77%↑",
       "link": "https://www.yna.co.kr/view/AKR20260228008300009",
       "pubDate": "Sat, 28 Feb 2026 06:05:30 +0900"
-    },
-    {
-      "title": "주유소 기름값 2주 연속 상승…\"다음 주 경유 오름세 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227146700003",
-      "pubDate": "Sat, 28 Feb 2026 06:01:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 봄 분양 시장 개막…전국 6천가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260227157500003",
-      "pubDate": "Sat, 28 Feb 2026 06:00:00 +0900"
-    },
-    {
-      "title": "[샷!] \"반지하도 월세 60만원 넘어요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260226159400505",
-      "pubDate": "Sat, 28 Feb 2026 05:50:01 +0900"
-    },
-    {
-      "title": "달러-원, 끈적한 美 도매물가에 급등 후 반락…1,440원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260228003700002",
-      "pubDate": "Sat, 28 Feb 2026 02:40:45 +0900"
-    },
-    {
-      "title": "국세청, 성과 홍보하다 체납자 코인 마스터키 노출 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260227180500002",
-      "pubDate": "Fri, 27 Feb 2026 23:59:53 +0900"
-    },
-    {
-      "title": "李대통령 \"공직자책임 다하려 집 내놔…'시세차익' 보도 악의적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227174600001",
-      "pubDate": "Fri, 27 Feb 2026 20:52:10 +0900"
-    },
-    {
-      "title": "강훈식 \"부동산 모든 정책수단 가능…주가조작 2배이상 과징금\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227172800001",
-      "pubDate": "Fri, 27 Feb 2026 20:37:58 +0900"
-    },
-    {
-      "title": "유일에너테크, 10억원 유상증자…박진수에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260227166100008",
-      "pubDate": "Fri, 27 Feb 2026 18:45:30 +0900"
-    },
-    {
-      "title": "엑스큐어 \"제이케이신기술투자조합 제12호 주식 70억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227161900008",
-      "pubDate": "Fri, 27 Feb 2026 18:23:04 +0900"
-    },
-    {
-      "title": "우리금융, 대표이사 이사회 아닌 주총에서 선임한다",
-      "link": "https://www.yna.co.kr/view/AKR20260227151200002",
-      "pubDate": "Fri, 27 Feb 2026 18:15:37 +0900"
-    },
-    {
-      "title": "'부동산 투기와 전쟁' 나선 李대통령…집 내놓으며 직접 '총대'",
-      "link": "https://www.yna.co.kr/view/AKR20260227158900001",
-      "pubDate": "Fri, 27 Feb 2026 18:13:20 +0900"
     }
   ]
 }
