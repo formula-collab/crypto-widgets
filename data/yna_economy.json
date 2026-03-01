@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772403146,
+  "updated_at_unix": 1772405164,
   "items": [
+    {
+      "title": "지난달 '불장'에 코스피 거래대금 30조 돌파…사상 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260228001600008",
+      "pubDate": "Mon, 2 Mar 2026 07:10:01 +0900"
+    },
     {
       "title": "불장에도 2월 IPO시장 찬바람…신규상장 예비심사 신청도 잠잠",
       "link": "https://www.yna.co.kr/view/AKR20260228051200008",
@@ -147,11 +152,6 @@
       "title": "[하메네이 사망] 정부, 실물경제 영향 점검…비축유 방출 태세 확인",
       "link": "https://www.yna.co.kr/view/AKR20260301029500003",
       "pubDate": "Sun, 1 Mar 2026 11:16:02 +0900"
-    },
-    {
-      "title": "서울시 '청년 쿡 센터' 지원받은 기업들 1년새 매출 86% 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260228025400004",
-      "pubDate": "Sun, 1 Mar 2026 11:15:01 +0900"
     }
   ]
 }
