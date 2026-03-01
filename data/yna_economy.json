@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772406778,
+  "updated_at_unix": 1772408538,
   "items": [
+    {
+      "title": "하나은행, 장기복무 군간부 적금 출시…납입액 100% 정부 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260228039200002",
+      "pubDate": "Mon, 2 Mar 2026 08:30:00 +0900"
+    },
+    {
+      "title": "무보·신한은행, 수출 中企 대상 '비대면 다이렉트 보증' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260302015300003",
+      "pubDate": "Mon, 2 Mar 2026 08:27:42 +0900"
+    },
+    {
+      "title": "삼성, 주름 제거 강화한 '비스포크 AI 에어드레서' 신제품 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260302015500003",
+      "pubDate": "Mon, 2 Mar 2026 08:25:23 +0900"
+    },
+    {
+      "title": "노인 대상 금융사기·허위광고 피해 예방…경남도, 소비자교육",
+      "link": "https://www.yna.co.kr/view/AKR20260227143100052",
+      "pubDate": "Mon, 2 Mar 2026 08:22:01 +0900"
+    },
     {
       "title": "익산시, 청년 주택구입 대출이자 지원…최대 600만원",
       "link": "https://www.yna.co.kr/view/AKR20260227130600055",
@@ -132,26 +152,6 @@
       "title": "[하메네이 사망] 농식품부, 농산업·식품 분야 실시간 점검체계 가동",
       "link": "https://www.yna.co.kr/view/AKR20260301058000030",
       "pubDate": "Sun, 1 Mar 2026 18:54:52 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 더 커진 세계 경제 불확실성…관세혼란에 유가까지",
-      "link": "https://www.yna.co.kr/view/AKR20260301040500009",
-      "pubDate": "Sun, 1 Mar 2026 15:54:45 +0900"
-    },
-    {
-      "title": "국세청, 코인 유출 사과…구윤철 \"디지털자산 관리 실태 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260301042100002",
-      "pubDate": "Sun, 1 Mar 2026 15:06:22 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260301040700011",
-      "pubDate": "Sun, 1 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260301039700002",
-      "pubDate": "Sun, 1 Mar 2026 14:31:01 +0900"
     }
   ]
 }
