@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772322048,
+  "updated_at_unix": 1772327577,
   "items": [
+    {
+      "title": "부산진해경제자유구역청, 입주기업 ESG 경영 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260226172100051",
+      "pubDate": "Sun, 1 Mar 2026 10:00:04 +0900"
+    },
+    {
+      "title": "[2보] 반도체 초호황에 2월 수출 29%↑…반도체 역대 최대 실적",
+      "link": "https://www.yna.co.kr/view/AKR20260301019000003",
+      "pubDate": "Sun, 1 Mar 2026 09:25:54 +0900"
+    },
+    {
+      "title": "[속보] 2월 무역수지 155억달러 흑자…13개월 연속 흑자 행진",
+      "link": "https://www.yna.co.kr/view/AKR20260301017200003",
+      "pubDate": "Sun, 1 Mar 2026 09:00:09 +0900"
+    },
+    {
+      "title": "[속보] 2월 반도체 수출 252억달러…3개월 연속 200억달러 상회",
+      "link": "https://www.yna.co.kr/view/AKR20260301016900003",
+      "pubDate": "Sun, 1 Mar 2026 09:00:08 +0900"
+    },
+    {
+      "title": "건설경기 악화 장기화…광주 주택 재개발 '답보'",
+      "link": "https://www.yna.co.kr/view/AKR20260227134500054",
+      "pubDate": "Sun, 1 Mar 2026 09:00:08 +0900"
+    },
+    {
+      "title": "원주시 청년지원센터, AI 활용 청년 취업 원스톱 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260227041400062",
+      "pubDate": "Sun, 1 Mar 2026 09:00:06 +0900"
+    },
     {
       "title": "주민세 주민에 직접 환원 사업, 생활자치 실천 주목",
       "link": "https://www.yna.co.kr/view/AKR20260226142500054",
@@ -122,36 +152,6 @@
       "title": "샤오미, MWC 선공…유럽 프리미엄 정면승부",
       "link": "https://www.yna.co.kr/view/AKR20260228037101017",
       "pubDate": "Sat, 28 Feb 2026 23:30:00 +0900"
-    },
-    {
-      "title": "경기 고양시 한우농장서 구제역 추가 발생…올해 3건으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260228059000030",
-      "pubDate": "Sat, 28 Feb 2026 21:16:52 +0900"
-    },
-    {
-      "title": "[美 이란 공격] 구윤철 \"긴밀한 대응 태세\"…내일 관계기관 합동 점검회의",
-      "link": "https://www.yna.co.kr/view/AKR20260228057000002",
-      "pubDate": "Sat, 28 Feb 2026 20:28:40 +0900"
-    },
-    {
-      "title": "[美 이란 공격] 무역협회 \"한국 단기적 수출 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260228054400003",
-      "pubDate": "Sat, 28 Feb 2026 19:40:31 +0900"
-    },
-    {
-      "title": "[美 이란 공격] 글로벌 경제·안보 충격…호르무즈 막히면 '패닉' 온다",
-      "link": "https://www.yna.co.kr/view/AKR20260228052400009",
-      "pubDate": "Sat, 28 Feb 2026 19:07:31 +0900"
-    },
-    {
-      "title": "'다주택' 장동혁, 오피스텔 매물로 내놔…\"보러오는 분도 없다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260228033051001",
-      "pubDate": "Sat, 28 Feb 2026 17:57:54 +0900"
-    },
-    {
-      "title": "'다주택' 장동혁, 오피스텔 1채 매물로 내놔…\"거래는 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260228033000001",
-      "pubDate": "Sat, 28 Feb 2026 13:16:36 +0900"
     }
   ]
 }
