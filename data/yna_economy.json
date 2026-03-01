@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772401285,
+  "updated_at_unix": 1772403146,
   "items": [
+    {
+      "title": "불장에도 2월 IPO시장 찬바람…신규상장 예비심사 신청도 잠잠",
+      "link": "https://www.yna.co.kr/view/AKR20260228051200008",
+      "pubDate": "Mon, 2 Mar 2026 07:07:00 +0900"
+    },
+    {
+      "title": "\"AI 혁명, 저주냐 축복이냐\"…금융시장 전문가들 갑론을박",
+      "link": "https://www.yna.co.kr/view/AKR20260227179500008",
+      "pubDate": "Mon, 2 Mar 2026 07:03:04 +0900"
+    },
+    {
+      "title": "'주총 쏠림 현상' 여전…분산 노력에도 특정 사흘에 73% 몰려",
+      "link": "https://www.yna.co.kr/view/AKR20260227180700008",
+      "pubDate": "Mon, 2 Mar 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[샷!] 하객으로 위장해 몰래 엿본다",
+      "link": "https://www.yna.co.kr/view/AKR20260225051800505",
+      "pubDate": "Mon, 2 Mar 2026 07:00:00 +0900"
+    },
+    {
+      "title": "뼈까지 갈았는데…10대 턱에 박힌 의료기기, 합의금은 300만원",
+      "link": "https://www.yna.co.kr/view/AKR20260225123800004",
+      "pubDate": "Mon, 2 Mar 2026 06:55:02 +0900"
+    },
     {
       "title": "[팩트체크] 100돈 금팔찌 주인 안 나타났다면?…유실물 소유권은 누구에게",
       "link": "https://www.yna.co.kr/view/AKR20260227076400518",
@@ -127,31 +152,6 @@
       "title": "서울시 '청년 쿡 센터' 지원받은 기업들 1년새 매출 86% 성장",
       "link": "https://www.yna.co.kr/view/AKR20260228025400004",
       "pubDate": "Sun, 1 Mar 2026 11:15:01 +0900"
-    },
-    {
-      "title": "전남도, 올해 장애인 일자리 4천132명 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260227146800054",
-      "pubDate": "Sun, 1 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농식품부, '삼겹살데이' 맞아 3월 돼지고기 할인 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260228001000030",
-      "pubDate": "Sun, 1 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "농식품부, 친환경농업직불제 문턱 낮춘다…신청요건 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260228001200030",
-      "pubDate": "Sun, 1 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "반도체 쾌속 질주에 2월 수출 29%↑…무역흑자 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260301019051003",
-      "pubDate": "Sun, 1 Mar 2026 10:39:25 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 중동발 전운에 증권가 촉각…\"코스피 충격은 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260301026600008",
-      "pubDate": "Sun, 1 Mar 2026 10:31:13 +0900"
     }
   ]
 }
