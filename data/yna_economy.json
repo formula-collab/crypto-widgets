@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772405164,
+  "updated_at_unix": 1772406778,
   "items": [
+    {
+      "title": "익산시, 청년 주택구입 대출이자 지원…최대 600만원",
+      "link": "https://www.yna.co.kr/view/AKR20260227130600055",
+      "pubDate": "Mon, 2 Mar 2026 08:00:11 +0900"
+    },
+    {
+      "title": "수은, 시중은행과 '글로벌 진출 K금융 협의체' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260228049000002",
+      "pubDate": "Mon, 2 Mar 2026 08:00:10 +0900"
+    },
+    {
+      "title": "원전 정산 분쟁에 힘 못 쓰는 정부…수출 일원화는 가능할까",
+      "link": "https://www.yna.co.kr/view/AKR20260301067300003",
+      "pubDate": "Mon, 2 Mar 2026 07:53:35 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 국제유가 10% '껑충'…안전자산 엔값도 들썩",
+      "link": "https://www.yna.co.kr/view/AKR20260302011900009",
+      "pubDate": "Mon, 2 Mar 2026 07:52:00 +0900"
+    },
+    {
+      "title": "하나은행, 이란 사태 피해 기업에 12조원 긴급 금융 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260302010600002",
+      "pubDate": "Mon, 2 Mar 2026 07:41:14 +0900"
+    },
+    {
+      "title": "KB금융 \"중동 불안 관련 피해기업 금융 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302010200002",
+      "pubDate": "Mon, 2 Mar 2026 07:39:58 +0900"
+    },
     {
       "title": "지난달 '불장'에 코스피 거래대금 30조 돌파…사상 최대",
       "link": "https://www.yna.co.kr/view/AKR20260228001600008",
@@ -122,36 +152,6 @@
       "title": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\"",
       "link": "https://www.yna.co.kr/view/AKR20260301039700002",
       "pubDate": "Sun, 1 Mar 2026 14:31:01 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 구윤철 \"각별한 경계심\"…관계기관 합동 비상대응반 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260301037100002",
-      "pubDate": "Sun, 1 Mar 2026 13:37:48 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 무역협회 \"호르무즈 봉쇄 시 해상운임 최대 80% 폭증\"",
-      "link": "https://www.yna.co.kr/view/AKR20260301034700003",
-      "pubDate": "Sun, 1 Mar 2026 12:46:47 +0900"
-    },
-    {
-      "title": "성평등부, '포용적 조직문화' 기업 맞춤형 다양성 교육 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260227167900530",
-      "pubDate": "Sun, 1 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"부모 세대가 쌓은 자산 많을수록 자녀 세대 불평등 심화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260228038700002",
-      "pubDate": "Sun, 1 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국세청, 다주택자 양도세 중과 전용 신고·상담창구 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260228060800002",
-      "pubDate": "Sun, 1 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 정부, 실물경제 영향 점검…비축유 방출 태세 확인",
-      "link": "https://www.yna.co.kr/view/AKR20260301029500003",
-      "pubDate": "Sun, 1 Mar 2026 11:16:02 +0900"
     }
   ]
 }
