@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772377943,
+  "updated_at_unix": 1772379724,
   "items": [
+    {
+      "title": "[하메네이 사망] OPEC+, 일20만6천배럴 증산 합의…문제는 호르무즈",
+      "link": "https://www.yna.co.kr/view/AKR20260302000300072",
+      "pubDate": "Mon, 2 Mar 2026 00:20:48 +0900"
+    },
     {
       "title": "[속보] 李대통령 \"다주택 팔기 싫으면 두라…이익·손해는 정부가 정해\"",
       "link": "https://www.yna.co.kr/view/AKR20260301062300001",
@@ -147,11 +152,6 @@
       "title": "주민세 주민에 직접 환원 사업, 생활자치 실천 주목",
       "link": "https://www.yna.co.kr/view/AKR20260226142500054",
       "pubDate": "Sun, 1 Mar 2026 08:21:00 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 한은, 24시간 시장 모니터링…필요시 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260301013800002",
-      "pubDate": "Sun, 1 Mar 2026 08:14:30 +0900"
     }
   ]
 }
