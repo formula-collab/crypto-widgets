@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772327577,
+  "updated_at_unix": 1772337542,
   "items": [
+    {
+      "title": "[하메네이 사망] 무역협회 \"호르무즈 봉쇄 시 해상운임 최대 80% 폭증\"",
+      "link": "https://www.yna.co.kr/view/AKR20260301034700003",
+      "pubDate": "Sun, 1 Mar 2026 12:46:47 +0900"
+    },
+    {
+      "title": "성평등부, '포용적 조직문화' 기업 맞춤형 다양성 교육 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260227167900530",
+      "pubDate": "Sun, 1 Mar 2026 12:00:03 +0900"
+    },
+    {
+      "title": "\"부모 세대가 쌓은 자산 많을수록 자녀 세대 불평등 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260228038700002",
+      "pubDate": "Sun, 1 Mar 2026 12:00:02 +0900"
+    },
+    {
+      "title": "국세청, 다주택자 양도세 중과 전용 신고·상담창구 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260228060800002",
+      "pubDate": "Sun, 1 Mar 2026 12:00:01 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 정부, 실물경제 영향 점검…비축유 방출 태세 확인",
+      "link": "https://www.yna.co.kr/view/AKR20260301029500003",
+      "pubDate": "Sun, 1 Mar 2026 11:16:02 +0900"
+    },
+    {
+      "title": "서울시 '청년 쿡 센터' 지원받은 기업들 1년새 매출 86% 성장",
+      "link": "https://www.yna.co.kr/view/AKR20260228025400004",
+      "pubDate": "Sun, 1 Mar 2026 11:15:01 +0900"
+    },
+    {
+      "title": "전남도, 올해 장애인 일자리 4천132명 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260227146800054",
+      "pubDate": "Sun, 1 Mar 2026 11:00:02 +0900"
+    },
+    {
+      "title": "농식품부, '삼겹살데이' 맞아 3월 돼지고기 할인 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260228001000030",
+      "pubDate": "Sun, 1 Mar 2026 11:00:01 +0900"
+    },
+    {
+      "title": "농식품부, 친환경농업직불제 문턱 낮춘다…신청요건 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260228001200030",
+      "pubDate": "Sun, 1 Mar 2026 11:00:01 +0900"
+    },
+    {
+      "title": "반도체 쾌속 질주에 2월 수출 29%↑…무역흑자 역대 최대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260301019051003",
+      "pubDate": "Sun, 1 Mar 2026 10:39:25 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 중동발 전운에 증권가 촉각…\"코스피 충격은 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260301026600008",
+      "pubDate": "Sun, 1 Mar 2026 10:31:13 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260301026900011",
+      "pubDate": "Sun, 1 Mar 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 코스피발 '경기 훈풍' 아직인데…고개 든 '중동 리스크'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260228057351002",
+      "pubDate": "Sun, 1 Mar 2026 10:11:58 +0900"
+    },
     {
       "title": "부산진해경제자유구역청, 입주기업 ESG 경영 지원",
       "link": "https://www.yna.co.kr/view/AKR20260226172100051",
@@ -87,71 +152,6 @@
       "title": "시간은 매수자 편?…강남3구 수요-공급 우열 '동등'",
       "link": "https://www.yna.co.kr/view/AKR20260301007000003",
       "pubDate": "Sun, 1 Mar 2026 06:56:36 +0900"
-    },
-    {
-      "title": "\"바나나 먹기 부담\"…수입과일 관세인하 효과 아직",
-      "link": "https://www.yna.co.kr/view/AKR20260227163700030",
-      "pubDate": "Sun, 1 Mar 2026 06:35:01 +0900"
-    },
-    {
-      "title": "'초호황' 삼성전자·SK하이닉스 작년 법인세 8.5조…5배 넘게 ↑",
-      "link": "https://www.yna.co.kr/view/AKR20260227143000003",
-      "pubDate": "Sun, 1 Mar 2026 06:05:01 +0900"
-    },
-    {
-      "title": "지역 일자리 정책, 지자체에 맡긴다…올해 상반기 입법 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260227160300530",
-      "pubDate": "Sun, 1 Mar 2026 06:05:01 +0900"
-    },
-    {
-      "title": "리츠, 도입 25년 만에 시가총액 10조원 사상 첫 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260228058800003",
-      "pubDate": "Sun, 1 Mar 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[르포] 서산 산업위기 선제대응지역 지정 6개월…\"나아진 게 없어요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227135200063",
-      "pubDate": "Sun, 1 Mar 2026 06:00:03 +0900"
-    },
-    {
-      "title": "작년 불법사금융 신고 1만7천538건…13년 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260228032600002",
-      "pubDate": "Sun, 1 Mar 2026 05:57:00 +0900"
-    },
-    {
-      "title": "\"쿠팡, 메일·메신저 30일마다 삭제\"…티끌 모아 파헤친 '갑질'",
-      "link": "https://www.yna.co.kr/view/AKR20260228052800002",
-      "pubDate": "Sun, 1 Mar 2026 05:55:02 +0900"
-    },
-    {
-      "title": "내수 칼바람에…음식업·임대업 2년 가까이 줄폐업",
-      "link": "https://www.yna.co.kr/view/AKR20260228060000002",
-      "pubDate": "Sun, 1 Mar 2026 05:53:00 +0900"
-    },
-    {
-      "title": "금융위, 전방위 규제 강구…비주거용 대출·투기1주택도 사정권",
-      "link": "https://www.yna.co.kr/view/AKR20260228043500002",
-      "pubDate": "Sun, 1 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "IMF '눈물의 비디오'도 틀어…금융지주, 잘 나갈 때 기강 잡는다",
-      "link": "https://www.yna.co.kr/view/AKR20260228039600002",
-      "pubDate": "Sun, 1 Mar 2026 05:49:01 +0900"
-    },
-    {
-      "title": "금융지주 주가 1년새 2배로…4대지주 회장 3억∼12억 평가익",
-      "link": "https://www.yna.co.kr/view/AKR20260228062400002",
-      "pubDate": "Sun, 1 Mar 2026 05:47:02 +0900"
-    },
-    {
-      "title": "[美 이란 공격] 코스피발 '경기 훈풍' 아직인데…고개 든 '중동 리스크'",
-      "link": "https://www.yna.co.kr/view/AKR20260228057300002",
-      "pubDate": "Sun, 1 Mar 2026 05:45:00 +0900"
-    },
-    {
-      "title": "샤오미, MWC 선공…유럽 프리미엄 정면승부",
-      "link": "https://www.yna.co.kr/view/AKR20260228037101017",
-      "pubDate": "Sat, 28 Feb 2026 23:30:00 +0900"
     }
   ]
 }
