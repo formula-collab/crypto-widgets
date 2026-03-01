@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772358513,
+  "updated_at_unix": 1772360070,
   "items": [
+    {
+      "title": "경기 포천 산란계 농장서 고병원성 AI…동절기 51건 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260301058500030",
+      "pubDate": "Sun, 1 Mar 2026 19:07:13 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 농식품부, 농산업·식품 분야 실시간 점검체계 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260301058000030",
+      "pubDate": "Sun, 1 Mar 2026 18:54:52 +0900"
+    },
     {
       "title": "[하메네이 사망] 더 커진 세계 경제 불확실성…관세혼란에 유가까지",
       "link": "https://www.yna.co.kr/view/AKR20260301040500009",
@@ -142,16 +152,6 @@
       "title": "최고치 랠리에 9개로 늘어난 코스피 '황제주'…차기 후보군은",
       "link": "https://www.yna.co.kr/view/AKR20260228000800008",
       "pubDate": "Sun, 1 Mar 2026 07:10:00 +0900"
-    },
-    {
-      "title": "\"홈플러스 기업회생신청…대형마트 시장 구조적 변화 불가피\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227152200008",
-      "pubDate": "Sun, 1 Mar 2026 07:03:01 +0900"
-    },
-    {
-      "title": "LS증권 \"트럼프, 중간선거 앞두고 물가 중심 행동 나설 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260227082600008",
-      "pubDate": "Sun, 1 Mar 2026 07:02:01 +0900"
     }
   ]
 }
