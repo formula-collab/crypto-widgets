@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772362031,
+  "updated_at_unix": 1772363466,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"다주택 팔기 싫으면 두라…이익·손해는 정부가 정해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260301062300001",
+      "pubDate": "Sun, 1 Mar 2026 20:03:15 +0900"
+    },
     {
       "title": "[하메네이 사망] 중기부, 중동상황 피해 접수…정책자금·보증 지원",
       "link": "https://www.yna.co.kr/view/AKR20260301059200030",
@@ -147,11 +152,6 @@
       "title": "[하메네이 사망] 한은, 24시간 시장 모니터링…필요시 대응",
       "link": "https://www.yna.co.kr/view/AKR20260301013800002",
       "pubDate": "Sun, 1 Mar 2026 08:14:30 +0900"
-    },
-    {
-      "title": "금값 한달만 5천200불선 회복…'트럼프 리스크'에 반등세 지속?",
-      "link": "https://www.yna.co.kr/view/AKR20260228021100008",
-      "pubDate": "Sun, 1 Mar 2026 07:20:00 +0900"
     }
   ]
 }
