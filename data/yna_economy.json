@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772342209,
+  "updated_at_unix": 1772345162,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260301040700011",
+      "pubDate": "Sun, 1 Mar 2026 15:00:00 +0900"
+    },
+    {
+      "title": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260301039700002",
+      "pubDate": "Sun, 1 Mar 2026 14:31:01 +0900"
+    },
     {
       "title": "[하메네이 사망] 구윤철 \"각별한 경계심\"…관계기관 합동 비상대응반 가동",
       "link": "https://www.yna.co.kr/view/AKR20260301037100002",
@@ -142,16 +152,6 @@
       "title": "설 이어 대보름 물가도 '안정세'…전통시장 차림비용 2.8% 줄어",
       "link": "https://www.yna.co.kr/view/AKR20260228033200030",
       "pubDate": "Sun, 1 Mar 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 흔들리는 미국 반도체주…한국 증시 영향은",
-      "link": "https://www.yna.co.kr/view/AKR20260227179400008",
-      "pubDate": "Sun, 1 Mar 2026 07:00:08 +0900"
-    },
-    {
-      "title": "[전국레이더] 수달·검독수리 \"반갑다\"…생태복원에 돌아오는 멸종위기종",
-      "link": "https://www.yna.co.kr/view/AKR20260227051300056",
-      "pubDate": "Sun, 1 Mar 2026 07:00:05 +0900"
     }
   ]
 }
