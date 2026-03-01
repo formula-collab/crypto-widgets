@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772399549,
+  "updated_at_unix": 1772401285,
   "items": [
+    {
+      "title": "[팩트체크] 100돈 금팔찌 주인 안 나타났다면?…유실물 소유권은 누구에게",
+      "link": "https://www.yna.co.kr/view/AKR20260227076400518",
+      "pubDate": "Mon, 2 Mar 2026 06:30:01 +0900"
+    },
+    {
+      "title": "반도체 호황 속 인재 확보전…삼성·SK하이닉스 이달 채용 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20260227166600003",
+      "pubDate": "Mon, 2 Mar 2026 06:30:01 +0900"
+    },
     {
       "title": "정부, 사상 첫 '농지 전수조사' 나선다…수도권 투기위험군 중점",
       "link": "https://www.yna.co.kr/view/AKR20260228031700030",
@@ -142,16 +152,6 @@
       "title": "[하메네이 사망] 중동발 전운에 증권가 촉각…\"코스피 충격은 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260301026600008",
       "pubDate": "Sun, 1 Mar 2026 10:31:13 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260301026900011",
-      "pubDate": "Sun, 1 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[하메네이 사망] 코스피발 '경기 훈풍' 아직인데…고개 든 '중동 리스크'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260228057351002",
-      "pubDate": "Sun, 1 Mar 2026 10:11:58 +0900"
     }
   ]
 }
