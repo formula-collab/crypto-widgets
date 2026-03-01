@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772397935,
+  "updated_at_unix": 1772399549,
   "items": [
+    {
+      "title": "정부, 사상 첫 '농지 전수조사' 나선다…수도권 투기위험군 중점",
+      "link": "https://www.yna.co.kr/view/AKR20260228031700030",
+      "pubDate": "Mon, 2 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "이번주 로또 추첨방송 오후 10시30분으로 변경…WBC 중계",
+      "link": "https://www.yna.co.kr/view/AKR20260301045200002",
+      "pubDate": "Mon, 2 Mar 2026 05:55:00 +0900"
+    },
+    {
+      "title": "車보험 일제히 적자…5대 손보사 작년 순익 11.5% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260228064200002",
+      "pubDate": "Mon, 2 Mar 2026 05:51:01 +0900"
+    },
+    {
+      "title": "\"작년 3분기 한국 실질 주택가격은 2% 하락…56개국 중 47위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260228045400002",
+      "pubDate": "Mon, 2 Mar 2026 05:49:00 +0900"
+    },
+    {
+      "title": "외로움도 빈부격차?…월 100만원 미만 가구, 600만원의 1.7배",
+      "link": "https://www.yna.co.kr/view/AKR20260301028700002",
+      "pubDate": "Mon, 2 Mar 2026 05:47:01 +0900"
+    },
+    {
+      "title": "고소득층 지갑 확 안 열린다…평균소비성향 4년 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260228048900002",
+      "pubDate": "Mon, 2 Mar 2026 05:45:03 +0900"
+    },
+    {
+      "title": "적자가구 비율 6년 만에 최고…네 집 중 한 집 '마이너스' 살림",
+      "link": "https://www.yna.co.kr/view/AKR20260228040100002",
+      "pubDate": "Mon, 2 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "[하메네이 사망] OPEC+, 일20만6천배럴 증산 합의…문제는 호르무즈",
       "link": "https://www.yna.co.kr/view/AKR20260302000300072",
@@ -117,41 +152,6 @@
       "title": "[하메네이 사망] 코스피발 '경기 훈풍' 아직인데…고개 든 '중동 리스크'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260228057351002",
       "pubDate": "Sun, 1 Mar 2026 10:11:58 +0900"
-    },
-    {
-      "title": "부산진해경제자유구역청, 입주기업 ESG 경영 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260226172100051",
-      "pubDate": "Sun, 1 Mar 2026 10:00:04 +0900"
-    },
-    {
-      "title": "[2보] 반도체 초호황에 2월 수출 29%↑…반도체 역대 최대 실적",
-      "link": "https://www.yna.co.kr/view/AKR20260301019000003",
-      "pubDate": "Sun, 1 Mar 2026 09:25:54 +0900"
-    },
-    {
-      "title": "[속보] 2월 무역수지 155억달러 흑자…13개월 연속 흑자 행진",
-      "link": "https://www.yna.co.kr/view/AKR20260301017200003",
-      "pubDate": "Sun, 1 Mar 2026 09:00:09 +0900"
-    },
-    {
-      "title": "[속보] 2월 반도체 수출 252억달러…3개월 연속 200억달러 상회",
-      "link": "https://www.yna.co.kr/view/AKR20260301016900003",
-      "pubDate": "Sun, 1 Mar 2026 09:00:08 +0900"
-    },
-    {
-      "title": "건설경기 악화 장기화…광주 주택 재개발 '답보'",
-      "link": "https://www.yna.co.kr/view/AKR20260227134500054",
-      "pubDate": "Sun, 1 Mar 2026 09:00:08 +0900"
-    },
-    {
-      "title": "원주시 청년지원센터, AI 활용 청년 취업 원스톱 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260227041400062",
-      "pubDate": "Sun, 1 Mar 2026 09:00:06 +0900"
-    },
-    {
-      "title": "주민세 주민에 직접 환원 사업, 생활자치 실천 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260226142500054",
-      "pubDate": "Sun, 1 Mar 2026 08:21:00 +0900"
     }
   ]
 }
