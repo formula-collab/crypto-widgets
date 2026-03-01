@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772337542,
+  "updated_at_unix": 1772342209,
   "items": [
+    {
+      "title": "[하메네이 사망] 구윤철 \"각별한 경계심\"…관계기관 합동 비상대응반 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260301037100002",
+      "pubDate": "Sun, 1 Mar 2026 13:37:48 +0900"
+    },
     {
       "title": "[하메네이 사망] 무역협회 \"호르무즈 봉쇄 시 해상운임 최대 80% 폭증\"",
       "link": "https://www.yna.co.kr/view/AKR20260301034700003",
@@ -147,11 +152,6 @@
       "title": "[전국레이더] 수달·검독수리 \"반갑다\"…생태복원에 돌아오는 멸종위기종",
       "link": "https://www.yna.co.kr/view/AKR20260227051300056",
       "pubDate": "Sun, 1 Mar 2026 07:00:05 +0900"
-    },
-    {
-      "title": "시간은 매수자 편?…강남3구 수요-공급 우열 '동등'",
-      "link": "https://www.yna.co.kr/view/AKR20260301007000003",
-      "pubDate": "Sun, 1 Mar 2026 06:56:36 +0900"
     }
   ]
 }
