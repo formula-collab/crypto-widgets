@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772442286,
+  "updated_at_unix": 1772446174,
   "items": [
+    {
+      "title": "송미령 장관, 필리핀 방문…K농기계·K농식품 진출 확대 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260302046600030",
+      "pubDate": "Mon, 2 Mar 2026 19:00:00 +0900"
+    },
+    {
+      "title": "산업부, 싱가포르 진출기업 간담회…\"애로 해소 지원에 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302066000003",
+      "pubDate": "Mon, 2 Mar 2026 18:46:41 +0900"
+    },
+    {
+      "title": "재경차관 \"중동 상황, 금융시장 영향 혼조세…면밀 모니터링\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302065500002",
+      "pubDate": "Mon, 2 Mar 2026 18:31:43 +0900"
+    },
+    {
+      "title": "5대 금융, 이란 사태 피해 기업에 일제히 금융지원(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260302022552002",
+      "pubDate": "Mon, 2 Mar 2026 18:05:19 +0900"
+    },
     {
       "title": "경찰, '편입·채용 의혹' 김병기 차남 2차 소환…7시간 조사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260302032051004",
@@ -132,26 +152,6 @@
       "title": "금융사 자금세탁방지 자발적 노력에 가점 준다",
       "link": "https://www.yna.co.kr/view/AKR20260302027200002",
       "pubDate": "Mon, 2 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "경찰, '편입·채용 의혹' 김병기 차남 재차 소환",
-      "link": "https://www.yna.co.kr/view/AKR20260302032000004",
-      "pubDate": "Mon, 2 Mar 2026 11:35:52 +0900"
-    },
-    {
-      "title": "\"서울 등록임대주택 임대료, 일반 시세 절반…주거 안정에 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302022900003",
-      "pubDate": "Mon, 2 Mar 2026 11:17:59 +0900"
-    },
-    {
-      "title": "서울시, AI·콘텐츠·바이오 등 청년일자리 기업 200곳 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260301063500004",
-      "pubDate": "Mon, 2 Mar 2026 11:15:01 +0900"
-    },
-    {
-      "title": "폐업하는 개사육 농가소득 '한시적 비과세' 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260228059500030",
-      "pubDate": "Mon, 2 Mar 2026 11:00:03 +0900"
     }
   ]
 }
