@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772485202,
+  "updated_at_unix": 1772487379,
   "items": [
+    {
+      "title": "美 이란 공격에 유가·천연가스 급등 마감…브렌트 7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260303007000072",
+      "pubDate": "Tue, 3 Mar 2026 06:04:24 +0900"
+    },
+    {
+      "title": "올해 1·2월 민간아파트 청약 일반공급 물량, 15년 만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260302073700003",
+      "pubDate": "Tue, 3 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "경제계, 대미투자법 신속통과 촉구…\"늦어질수록 협상력 약화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302047300003",
+      "pubDate": "Tue, 3 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[이코노워치] '비둘기 중앙은행' 만드는 美日…한은의 운명은",
+      "link": "https://www.yna.co.kr/view/AKR20260226158500546",
+      "pubDate": "Tue, 3 Mar 2026 06:00:02 +0900"
+    },
     {
       "title": "[뉴욕유가] 호르무즈 해협 걸어 잠근 이란…WTI 6.3%↑",
       "link": "https://www.yna.co.kr/view/AKR20260303006500009",
@@ -132,26 +152,6 @@
       "title": "한투증권, 中 국태해통증권과 MOU…리서치·리테일·IB 협업",
       "link": "https://www.yna.co.kr/view/AKR20260302039600008",
       "pubDate": "Mon, 2 Mar 2026 13:12:34 +0900"
-    },
-    {
-      "title": "韓 원유 70%·LNG 20% 중동 의존…호르무즈 해협 막히면 韓산업 타격 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260302037500003",
-      "pubDate": "Mon, 2 Mar 2026 12:57:30 +0900"
-    },
-    {
-      "title": "지식재산처, 국가유산 활용 상품 디자인 분쟁 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260227096100063",
-      "pubDate": "Mon, 2 Mar 2026 12:00:12 +0900"
-    },
-    {
-      "title": "중기부, 창업중심대학 참여기업 모집…\"청년 선정비율 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260228027100030",
-      "pubDate": "Mon, 2 Mar 2026 12:00:07 +0900"
-    },
-    {
-      "title": "어린이 체육교습업체 27% 수업료 미표시…\"과태료 등 조치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260228034800002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:07 +0900"
     }
   ]
 }
