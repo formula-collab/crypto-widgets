@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772422804,
+  "updated_at_unix": 1772428220,
   "items": [
+    {
+      "title": "KB \"2월 서울아파트값 상승폭 확대…집값 상승 기대감은 하락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302041800003",
+      "pubDate": "Mon, 2 Mar 2026 13:58:52 +0900"
+    },
+    {
+      "title": "재경부·녹색기후기금 연례협의…고위급 3자 협의체 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260302042600002",
+      "pubDate": "Mon, 2 Mar 2026 13:56:47 +0900"
+    },
+    {
+      "title": "5대 금융, 이란 사태 비상대응체계…기업 금융지원(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260302022551002",
+      "pubDate": "Mon, 2 Mar 2026 13:46:36 +0900"
+    },
+    {
+      "title": "한투증권, 中 국태해통증권과 MOU…리서치·리테일·IB 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260302039600008",
+      "pubDate": "Mon, 2 Mar 2026 13:12:34 +0900"
+    },
+    {
+      "title": "韓 원유 70%·LNG 20% 중동 의존…호르무즈 해협 막히면 韓산업 타격 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260302037500003",
+      "pubDate": "Mon, 2 Mar 2026 12:57:30 +0900"
+    },
     {
       "title": "지식재산처, 국가유산 활용 상품 디자인 분쟁 막는다",
       "link": "https://www.yna.co.kr/view/AKR20260227096100063",
@@ -127,31 +152,6 @@
       "title": "인천시, 미취업 청년에 구직활동비 최대 300만원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260302015900065",
       "pubDate": "Mon, 2 Mar 2026 08:42:39 +0900"
-    },
-    {
-      "title": "하나은행, 장기복무 군간부 적금 출시…납입액 100% 정부 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260228039200002",
-      "pubDate": "Mon, 2 Mar 2026 08:30:00 +0900"
-    },
-    {
-      "title": "무보·신한은행, 수출 中企 대상 '비대면 다이렉트 보증' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260302015300003",
-      "pubDate": "Mon, 2 Mar 2026 08:27:42 +0900"
-    },
-    {
-      "title": "삼성, 주름 제거 강화한 '비스포크 AI 에어드레서' 신제품 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260302015500003",
-      "pubDate": "Mon, 2 Mar 2026 08:25:23 +0900"
-    },
-    {
-      "title": "노인 대상 금융사기·허위광고 피해 예방…경남도, 소비자교육",
-      "link": "https://www.yna.co.kr/view/AKR20260227143100052",
-      "pubDate": "Mon, 2 Mar 2026 08:22:01 +0900"
-    },
-    {
-      "title": "익산시, 청년 주택구입 대출이자 지원…최대 600만원",
-      "link": "https://www.yna.co.kr/view/AKR20260227130600055",
-      "pubDate": "Mon, 2 Mar 2026 08:00:11 +0900"
     }
   ]
 }
