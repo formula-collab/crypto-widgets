@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772438518,
+  "updated_at_unix": 1772442286,
   "items": [
+    {
+      "title": "경찰, '편입·채용 의혹' 김병기 차남 2차 소환…7시간 조사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260302032051004",
+      "pubDate": "Mon, 2 Mar 2026 17:21:00 +0900"
+    },
     {
       "title": "중동 불안 장기화시 韓경제·금융시장 충격 우려…당국 주시",
       "link": "https://www.yna.co.kr/view/AKR20260302057500002",
@@ -147,11 +152,6 @@
       "title": "폐업하는 개사육 농가소득 '한시적 비과세' 적용",
       "link": "https://www.yna.co.kr/view/AKR20260228059500030",
       "pubDate": "Mon, 2 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "80년 역사 품은 '밀양딸기', 지리적표시 농산물 등록",
-      "link": "https://www.yna.co.kr/view/AKR20260228055400030",
-      "pubDate": "Mon, 2 Mar 2026 11:00:02 +0900"
     }
   ]
 }
