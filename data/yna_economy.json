@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772431750,
+  "updated_at_unix": 1772436595,
   "items": [
+    {
+      "title": "국세청 코인 두차례 걸쳐 유출…경찰, 피의자 2명 추적",
+      "link": "https://www.yna.co.kr/view/AKR20260302054400004",
+      "pubDate": "Mon, 2 Mar 2026 16:06:27 +0900"
+    },
+    {
+      "title": "KB부동산 \"서울 오피스텔 매매가 13개월째 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302053300003",
+      "pubDate": "Mon, 2 Mar 2026 15:51:49 +0900"
+    },
+    {
+      "title": "2월 서울 아파트 경매 시장 주춤…낙찰가율 하락 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260302050500003",
+      "pubDate": "Mon, 2 Mar 2026 15:22:12 +0900"
+    },
+    {
+      "title": "박홍근 초대 기획예산처 장관 후보자 \"대한민국 대도약 떠받치는 톱니바퀴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302050300002",
+      "pubDate": "Mon, 2 Mar 2026 15:20:33 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260302049700011",
+      "pubDate": "Mon, 2 Mar 2026 15:00:33 +0900"
+    },
     {
       "title": "한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
       "link": "https://www.yna.co.kr/view/AKR20260302046400003",
@@ -127,31 +152,6 @@
       "title": "진천군, 신규 공무원에 임대보증금 지원…최대 500만원",
       "link": "https://www.yna.co.kr/view/AKR20260302025700064",
       "pubDate": "Mon, 2 Mar 2026 10:31:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260302026000011",
-      "pubDate": "Mon, 2 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "태백시 삼수동·황연동 도시재생 시동…주민공청회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260227109900062",
-      "pubDate": "Mon, 2 Mar 2026 10:10:00 +0900"
-    },
-    {
-      "title": "부영그룹, 신임 회장에 이용섭 전 건교부 장관 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260302024500003",
-      "pubDate": "Mon, 2 Mar 2026 10:07:54 +0900"
-    },
-    {
-      "title": "회사 영업비밀 유출하고 경쟁업체 차린 창고업체 임원 실형",
-      "link": "https://www.yna.co.kr/view/AKR20260227120900061",
-      "pubDate": "Mon, 2 Mar 2026 10:00:02 +0900"
-    },
-    {
-      "title": "LG CNS, AI·로보틱스 등 핵심사업 분야 경력사원 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260302020900017",
-      "pubDate": "Mon, 2 Mar 2026 10:00:00 +0900"
     }
   ]
 }
