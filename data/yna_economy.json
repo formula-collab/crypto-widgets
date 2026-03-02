@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772491900,
+  "updated_at_unix": 1772493315,
   "items": [
+    {
+      "title": "형지I&C, 130억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260303018400008",
+      "pubDate": "Tue, 3 Mar 2026 08:06:18 +0900"
+    },
+    {
+      "title": "[마켓뷰] 하루 쉰 코스피, 美-이란 전쟁 여파에도 반등 시도할까",
+      "link": "https://www.yna.co.kr/view/AKR20260303019700008",
+      "pubDate": "Tue, 3 Mar 2026 08:05:45 +0900"
+    },
+    {
+      "title": "[부산소식] 제2회 부산녹색환경상 후보자 추천",
+      "link": "https://www.yna.co.kr/view/AKR20260303019600051",
+      "pubDate": "Tue, 3 Mar 2026 08:00:34 +0900"
+    },
+    {
+      "title": "부산시, 미취업 청년 사회진입 활동비 최대 180만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260303019400051",
+      "pubDate": "Tue, 3 Mar 2026 08:00:03 +0900"
+    },
+    {
+      "title": "부산시, 1차 추경 2천813억원…동물원 인수·내수경제 활성화",
+      "link": "https://www.yna.co.kr/view/AKR20260303019300051",
+      "pubDate": "Tue, 3 Mar 2026 07:59:20 +0900"
+    },
+    {
+      "title": "부산시, 지역 기업당 최대 30억원…총 5천억원 정책자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260303018900051",
+      "pubDate": "Tue, 3 Mar 2026 07:57:28 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260303014100011",
@@ -122,36 +152,6 @@
       "title": "KB부동산 \"서울 오피스텔 매매가 13개월째 상승\"",
       "link": "https://www.yna.co.kr/view/AKR20260302053300003",
       "pubDate": "Mon, 2 Mar 2026 15:51:49 +0900"
-    },
-    {
-      "title": "2월 서울 아파트 경매 시장 주춤…낙찰가율 하락 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260302050500003",
-      "pubDate": "Mon, 2 Mar 2026 15:22:12 +0900"
-    },
-    {
-      "title": "박홍근 초대 기획예산처 장관 후보자 \"대한민국 대도약 떠받치는 톱니바퀴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302050300002",
-      "pubDate": "Mon, 2 Mar 2026 15:20:33 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260302049700011",
-      "pubDate": "Mon, 2 Mar 2026 15:00:33 +0900"
-    },
-    {
-      "title": "한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
-      "link": "https://www.yna.co.kr/view/AKR20260302046400003",
-      "pubDate": "Mon, 2 Mar 2026 14:47:55 +0900"
-    },
-    {
-      "title": "한국앤컴퍼니그룹 한온시스템 '하도급 갑질'로 과징금 14억(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260228035901002",
-      "pubDate": "Mon, 2 Mar 2026 14:36:54 +0900"
-    },
-    {
-      "title": "[속보] 李대통령, 기획예산처 장관 후보자에 與 중진 박홍근 지명",
-      "link": "https://www.yna.co.kr/view/AKR20260302044700001",
-      "pubDate": "Mon, 2 Mar 2026 14:31:11 +0900"
     }
   ]
 }
