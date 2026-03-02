@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772449559,
+  "updated_at_unix": 1772452174,
   "items": [
+    {
+      "title": "정부 \"원유·석유제품 208일분 비축…장기화에도 확실히 대비\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260302065551002",
+      "pubDate": "Mon, 2 Mar 2026 20:38:20 +0900"
+    },
+    {
+      "title": "정부, 사상 첫 '농지 전수조사' 추진…수도권 투기위험군 중점(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260228031752030",
+      "pubDate": "Mon, 2 Mar 2026 20:32:42 +0900"
+    },
     {
       "title": "김병주 회장 자택 담보로…MBK, 홈플러스 수혈자금 1천억원 마련",
       "link": "https://www.yna.co.kr/view/AKR20260302068900008",
@@ -142,16 +152,6 @@
       "title": "금감원, '계리감리팀' 신설…계리가정보고서도 도입",
       "link": "https://www.yna.co.kr/view/AKR20260228064800002",
       "pubDate": "Mon, 2 Mar 2026 12:00:05 +0900"
-    },
-    {
-      "title": "국세청 \"근로장려금 반기 신청 16일까지 하세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260301059100002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "상호금융 리스크 관리 엄격하게…부동산 PF 대출한도 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260302025000002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:02 +0900"
     }
   ]
 }
