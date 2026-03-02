@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772487379,
+  "updated_at_unix": 1772489851,
   "items": [
+    {
+      "title": "[우분투칼럼] 네이션스컵 눈길 끈 '동상 응원'…영웅 루뭄바가 실제 주인공",
+      "link": "https://www.yna.co.kr/view/AKR20260206059700898",
+      "pubDate": "Tue, 3 Mar 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[AI돋보기] 중동 긴장 고조…AI 인프라·사이버 안보 시험대",
+      "link": "https://www.yna.co.kr/view/AKR20260302071100017",
+      "pubDate": "Tue, 3 Mar 2026 06:33:01 +0900"
+    },
     {
       "title": "美 이란 공격에 유가·천연가스 급등 마감…브렌트 7%↑",
       "link": "https://www.yna.co.kr/view/AKR20260303007000072",
@@ -142,16 +152,6 @@
       "title": "재경부·녹색기후기금 연례협의…고위급 3자 협의체 신설",
       "link": "https://www.yna.co.kr/view/AKR20260302042600002",
       "pubDate": "Mon, 2 Mar 2026 13:56:47 +0900"
-    },
-    {
-      "title": "5대 금융, 이란 사태 비상대응체계…기업 금융지원(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260302022551002",
-      "pubDate": "Mon, 2 Mar 2026 13:46:36 +0900"
-    },
-    {
-      "title": "한투증권, 中 국태해통증권과 MOU…리서치·리테일·IB 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260302039600008",
-      "pubDate": "Mon, 2 Mar 2026 13:12:34 +0900"
     }
   ]
 }
