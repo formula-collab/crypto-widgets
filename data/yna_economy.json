@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772489851,
+  "updated_at_unix": 1772491900,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260303014100011",
+      "pubDate": "Tue, 3 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "인천 강화 경제자유구역 3월 지정 어려울 듯…관계부처 협의중",
+      "link": "https://www.yna.co.kr/view/AKR20260227096800065",
+      "pubDate": "Tue, 3 Mar 2026 07:17:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 네이션스컵 눈길 끈 '동상 응원'…영웅 루뭄바가 실제 주인공",
       "link": "https://www.yna.co.kr/view/AKR20260206059700898",
@@ -142,16 +152,6 @@
       "title": "[속보] 李대통령, 기획예산처 장관 후보자에 與 중진 박홍근 지명",
       "link": "https://www.yna.co.kr/view/AKR20260302044700001",
       "pubDate": "Mon, 2 Mar 2026 14:31:11 +0900"
-    },
-    {
-      "title": "KB \"2월 서울아파트값 상승폭 확대…집값 상승 기대감은 하락\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302041800003",
-      "pubDate": "Mon, 2 Mar 2026 13:58:52 +0900"
-    },
-    {
-      "title": "재경부·녹색기후기금 연례협의…고위급 3자 협의체 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260302042600002",
-      "pubDate": "Mon, 2 Mar 2026 13:56:47 +0900"
     }
   ]
 }
