@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772493315,
+  "updated_at_unix": 1772495175,
   "items": [
+    {
+      "title": "이상순·서경덕, \"3·1운동 정신 노래로 계승\"…영상 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260302074500371",
+      "pubDate": "Tue, 3 Mar 2026 08:40:01 +0900"
+    },
+    {
+      "title": "아파트 공시가격 내주 발표…강남·한강벨트 세부담 커진다",
+      "link": "https://www.yna.co.kr/view/AKR20260303023700003",
+      "pubDate": "Tue, 3 Mar 2026 08:39:32 +0900"
+    },
+    {
+      "title": "테헤란로 리모델링 활성화한다…15년 넘은 건물에 최대 30% 증축",
+      "link": "https://www.yna.co.kr/view/AKR20260303027400004",
+      "pubDate": "Tue, 3 Mar 2026 08:38:50 +0900"
+    },
+    {
+      "title": "신영증권 \"이란 사태, 국내 정유사 상대적 유리…비중확대 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303024800008",
+      "pubDate": "Tue, 3 Mar 2026 08:36:39 +0900"
+    },
+    {
+      "title": "충남 서북부에 이차전지 국가첨단전략산업 특화단지 유치 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260303026300063",
+      "pubDate": "Tue, 3 Mar 2026 08:36:14 +0900"
+    },
+    {
+      "title": "수은, 중동발 위기 대응 프로그램…피해 기업 금융지원",
+      "link": "https://www.yna.co.kr/view/AKR20260303026000002",
+      "pubDate": "Tue, 3 Mar 2026 08:31:23 +0900"
+    },
+    {
+      "title": "소진공, 홈플러스 입점 소상공인 직접대출 전환…\"절차 간소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303024700030",
+      "pubDate": "Tue, 3 Mar 2026 08:30:19 +0900"
+    },
+    {
+      "title": "키움證 \"삼성전자 올해 영업익 200조원 예상…목표가 26만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303025500008",
+      "pubDate": "Tue, 3 Mar 2026 08:29:18 +0900"
+    },
+    {
+      "title": "금융위, 중동 피해기업에 13.3조 프로그램…\"가짜뉴스엔 무관용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303023500002",
+      "pubDate": "Tue, 3 Mar 2026 08:27:39 +0900"
+    },
+    {
+      "title": "다올증권 \"에스엘, 로봇 상업화 수혜 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303023200008",
+      "pubDate": "Tue, 3 Mar 2026 08:26:57 +0900"
+    },
     {
       "title": "형지I&C, 130억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260303018400008",
@@ -102,56 +152,6 @@
       "title": "김병주 회장 자택 담보로…MBK, 홈플러스 수혈자금 1천억원 마련",
       "link": "https://www.yna.co.kr/view/AKR20260302068900008",
       "pubDate": "Mon, 2 Mar 2026 19:14:07 +0900"
-    },
-    {
-      "title": "송미령 장관, 필리핀 방문…K농기계·K농식품 진출 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260302046600030",
-      "pubDate": "Mon, 2 Mar 2026 19:00:00 +0900"
-    },
-    {
-      "title": "산업부, 싱가포르 진출기업 간담회…\"애로 해소 지원에 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302066000003",
-      "pubDate": "Mon, 2 Mar 2026 18:46:41 +0900"
-    },
-    {
-      "title": "재경차관 \"중동 상황, 금융시장 영향 혼조세…면밀 모니터링\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302065500002",
-      "pubDate": "Mon, 2 Mar 2026 18:31:43 +0900"
-    },
-    {
-      "title": "5대 금융, 이란 사태 피해 기업에 일제히 금융지원(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260302022552002",
-      "pubDate": "Mon, 2 Mar 2026 18:05:19 +0900"
-    },
-    {
-      "title": "경찰, '편입·채용 의혹' 김병기 차남 2차 소환…7시간 조사(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260302032051004",
-      "pubDate": "Mon, 2 Mar 2026 17:21:00 +0900"
-    },
-    {
-      "title": "중동 불안 장기화시 韓경제·금융시장 충격 우려…당국 주시",
-      "link": "https://www.yna.co.kr/view/AKR20260302057500002",
-      "pubDate": "Mon, 2 Mar 2026 16:43:57 +0900"
-    },
-    {
-      "title": "이혜훈 낙마 36일만에 '친명 중진' 전진배치…안정성·연속성 방점",
-      "link": "https://www.yna.co.kr/view/AKR20260302057300001",
-      "pubDate": "Mon, 2 Mar 2026 16:41:33 +0900"
-    },
-    {
-      "title": "美이란공습에 기후부, 에너지상황 점검…\"전력수급 영향없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302057700530",
-      "pubDate": "Mon, 2 Mar 2026 16:36:39 +0900"
-    },
-    {
-      "title": "국세청 코인 두차례 걸쳐 유출…경찰, 정식 수사 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260302054400004",
-      "pubDate": "Mon, 2 Mar 2026 16:06:27 +0900"
-    },
-    {
-      "title": "KB부동산 \"서울 오피스텔 매매가 13개월째 상승\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302053300003",
-      "pubDate": "Mon, 2 Mar 2026 15:51:49 +0900"
     }
   ]
 }
