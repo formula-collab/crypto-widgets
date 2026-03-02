@@ -1,10 +1,25 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772436595,
+  "updated_at_unix": 1772438518,
   "items": [
     {
-      "title": "국세청 코인 두차례 걸쳐 유출…경찰, 피의자 2명 추적",
+      "title": "중동 불안 장기화시 韓경제·금융시장 충격 우려…당국 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260302057500002",
+      "pubDate": "Mon, 2 Mar 2026 16:43:57 +0900"
+    },
+    {
+      "title": "이혜훈 낙마 36일만에 '친명 중진' 전진배치…안정성·연속성 방점",
+      "link": "https://www.yna.co.kr/view/AKR20260302057300001",
+      "pubDate": "Mon, 2 Mar 2026 16:41:33 +0900"
+    },
+    {
+      "title": "美이란공습에 기후부, 에너지상황 점검…\"전력수급 영향없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260302057700530",
+      "pubDate": "Mon, 2 Mar 2026 16:36:39 +0900"
+    },
+    {
+      "title": "국세청 코인 두차례 걸쳐 유출…경찰, 정식 수사 전환",
       "link": "https://www.yna.co.kr/view/AKR20260302054400004",
       "pubDate": "Mon, 2 Mar 2026 16:06:27 +0900"
     },
@@ -137,21 +152,6 @@
       "title": "80년 역사 품은 '밀양딸기', 지리적표시 농산물 등록",
       "link": "https://www.yna.co.kr/view/AKR20260228055400030",
       "pubDate": "Mon, 2 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "코트라, K-소비재 中샘스클럽 입점 지원…\"식품·생활용품 수요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260302016700003",
-      "pubDate": "Mon, 2 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "정부, 사상 첫 '농지 전수조사' 추진…수도권 투기위험군 중점(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260228031751030",
-      "pubDate": "Mon, 2 Mar 2026 10:40:25 +0900"
-    },
-    {
-      "title": "진천군, 신규 공무원에 임대보증금 지원…최대 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260302025700064",
-      "pubDate": "Mon, 2 Mar 2026 10:31:01 +0900"
     }
   ]
 }
