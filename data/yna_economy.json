@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772465477,
+  "updated_at_unix": 1772469067,
   "items": [
+    {
+      "title": "안전자산 아니었나…美국채가, 고유가·인플레 우려에 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260303001500072",
+      "pubDate": "Tue, 3 Mar 2026 00:57:48 +0900"
+    },
     {
       "title": "정부 \"원유·석유제품 208일분 비축…장기화에도 확실히 대비\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260302065551002",
@@ -147,11 +152,6 @@
       "title": "[게시판] 제7기 혁신형 물기업 10곳, 3일부터 공개모집",
       "link": "https://www.yna.co.kr/view/AKR20260301034500530",
       "pubDate": "Mon, 2 Mar 2026 12:00:06 +0900"
-    },
-    {
-      "title": "금감원, '계리감리팀' 신설…계리가정보고서도 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260228064800002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:05 +0900"
     }
   ]
 }
