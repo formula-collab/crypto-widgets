@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772483346,
+  "updated_at_unix": 1772485202,
   "items": [
+    {
+      "title": "[뉴욕유가] 호르무즈 해협 걸어 잠근 이란…WTI 6.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260303006500009",
+      "pubDate": "Tue, 3 Mar 2026 05:54:06 +0900"
+    },
+    {
+      "title": "국제금값, 美 이란 공격에 상승…달러화도 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260303005500072",
+      "pubDate": "Tue, 3 Mar 2026 05:45:13 +0900"
+    },
     {
       "title": "안전자산 아니었나…美국채가, 고유가·인플레 우려에 하락",
       "link": "https://www.yna.co.kr/view/AKR20260303001500072",
@@ -142,16 +152,6 @@
       "title": "어린이 체육교습업체 27% 수업료 미표시…\"과태료 등 조치\"",
       "link": "https://www.yna.co.kr/view/AKR20260228034800002",
       "pubDate": "Mon, 2 Mar 2026 12:00:07 +0900"
-    },
-    {
-      "title": "한국앤컴퍼니 계열사 한온시스템 '하도급 갑질'로 과징금 14억원",
-      "link": "https://www.yna.co.kr/view/AKR20260228035900002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:06 +0900"
-    },
-    {
-      "title": "[게시판] 제7기 혁신형 물기업 10곳, 3일부터 공개모집",
-      "link": "https://www.yna.co.kr/view/AKR20260301034500530",
-      "pubDate": "Mon, 2 Mar 2026 12:00:06 +0900"
     }
   ]
 }
