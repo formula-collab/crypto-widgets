@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772446174,
+  "updated_at_unix": 1772449559,
   "items": [
+    {
+      "title": "김병주 회장 자택 담보로…MBK, 홈플러스 수혈자금 1천억원 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260302068900008",
+      "pubDate": "Mon, 2 Mar 2026 19:14:07 +0900"
+    },
     {
       "title": "송미령 장관, 필리핀 방문…K농기계·K농식품 진출 확대 논의",
       "link": "https://www.yna.co.kr/view/AKR20260302046600030",
@@ -147,11 +152,6 @@
       "title": "상호금융 리스크 관리 엄격하게…부동산 PF 대출한도 신설",
       "link": "https://www.yna.co.kr/view/AKR20260302025000002",
       "pubDate": "Mon, 2 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "금융사 자금세탁방지 자발적 노력에 가점 준다",
-      "link": "https://www.yna.co.kr/view/AKR20260302027200002",
-      "pubDate": "Mon, 2 Mar 2026 12:00:00 +0900"
     }
   ]
 }
