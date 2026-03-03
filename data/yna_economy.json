@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772569286,
+  "updated_at_unix": 1772571195,
   "items": [
+    {
+      "title": "[뉴욕유가] 호르무즈 봉쇄 충격파 확산…WTI 4.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260304010400009",
+      "pubDate": "Wed, 4 Mar 2026 05:35:33 +0900"
+    },
     {
       "title": "\"美, 호르무즈 통과 유조선 보호 검토…'유가급등 우려' 신호\"",
       "link": "https://www.yna.co.kr/view/AKR20260304006900071",
@@ -147,11 +152,6 @@
       "title": "봉준호·김연아 등 '모범납세자'로 표창(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260303069852002",
       "pubDate": "Tue, 3 Mar 2026 17:00:00 +0900"
-    },
-    {
-      "title": "한음저협 등 6개 음악권리단체, AI 시대 대비 상생委 발족",
-      "link": "https://www.yna.co.kr/view/AKR20260303141100005",
-      "pubDate": "Tue, 3 Mar 2026 16:51:51 +0900"
     }
   ]
 }
