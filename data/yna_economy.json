@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772571195,
+  "updated_at_unix": 1772573010,
   "items": [
+    {
+      "title": "이란전 장기화 우려·호르무즈 봉쇄 여파…브렌트·WTI 4.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260304012000072",
+      "pubDate": "Wed, 4 Mar 2026 06:10:53 +0900"
+    },
+    {
+      "title": "시장금리 상승에…보금자리론 판매 2년 2개월 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260303155500002",
+      "pubDate": "Wed, 4 Mar 2026 05:51:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 호르무즈 봉쇄 충격파 확산…WTI 4.7%↑",
       "link": "https://www.yna.co.kr/view/AKR20260304010400009",
@@ -142,16 +152,6 @@
       "title": "딜리셔스·피지티, 코스닥 상장예비심사 신청",
       "link": "https://www.yna.co.kr/view/AKR20260303148400008",
       "pubDate": "Tue, 3 Mar 2026 17:08:58 +0900"
-    },
-    {
-      "title": "행안부 '청년인턴' 인기 좋네…역대 최고 경쟁률 19:1",
-      "link": "https://www.yna.co.kr/view/AKR20260303144900530",
-      "pubDate": "Tue, 3 Mar 2026 17:00:00 +0900"
-    },
-    {
-      "title": "봉준호·김연아 등 '모범납세자'로 표창(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260303069852002",
-      "pubDate": "Tue, 3 Mar 2026 17:00:00 +0900"
     }
   ]
 }
