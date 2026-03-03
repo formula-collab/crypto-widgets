@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772574763,
+  "updated_at_unix": 1772576235,
   "items": [
+    {
+      "title": "트럼프, 국제유가 비상에 이란발 경제 파장 대응 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260304017600071",
+      "pubDate": "Wed, 4 Mar 2026 07:04:08 +0900"
+    },
     {
       "title": "[팩트체크] \"춥게 살았는데\"…1월 아파트 관리비 유독 오른 이유는",
       "link": "https://www.yna.co.kr/view/AKR20260303118500518",
@@ -147,11 +152,6 @@
       "title": "국토차관, 3기 신도시 현장 점검…\"일정 차질없이 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260303148200003",
       "pubDate": "Tue, 3 Mar 2026 17:20:06 +0900"
-    },
-    {
-      "title": "미-이란 전쟁에 국고채 금리 폭등…3년물 연 3.180%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260303143351008",
-      "pubDate": "Tue, 3 Mar 2026 17:19:04 +0900"
     }
   ]
 }
