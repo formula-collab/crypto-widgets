@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772509371,
+  "updated_at_unix": 1772514564,
   "items": [
+    {
+      "title": "임금체불 통계지표 3→11개로 확대 공개…체불률·만인율 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260303039900530",
+      "pubDate": "Tue, 3 Mar 2026 14:00:25 +0900"
+    },
+    {
+      "title": "금감원 \"무분별한 채권시효 부활 안돼\"…대부업 이용자보호 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260303057700002",
+      "pubDate": "Tue, 3 Mar 2026 14:00:23 +0900"
+    },
+    {
+      "title": "작년 의약품 등 바이오헬스 수출액 279억달러…\"역대 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303080900530",
+      "pubDate": "Tue, 3 Mar 2026 14:00:22 +0900"
+    },
+    {
+      "title": "한국기술교육대 학생 논문, KCI 등재 학술지 게재",
+      "link": "https://www.yna.co.kr/view/AKR20260303104600063",
+      "pubDate": "Tue, 3 Mar 2026 13:59:02 +0900"
+    },
+    {
+      "title": "코스피 6,000선 붕괴…'공포지수' 10% 올라 팬데믹 이후 최대치",
+      "link": "https://www.yna.co.kr/view/AKR20260303100200008",
+      "pubDate": "Tue, 3 Mar 2026 13:55:55 +0900"
+    },
+    {
+      "title": "\"밀린 공사비 달라\" 아파트 출입로 막은 하도급 업체들",
+      "link": "https://www.yna.co.kr/view/AKR20260303101400064",
+      "pubDate": "Tue, 3 Mar 2026 13:51:51 +0900"
+    },
+    {
+      "title": "유일에너테크, 77억 유상증자…성원메탈제삼차홀딩스에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260303097400008",
+      "pubDate": "Tue, 3 Mar 2026 13:31:16 +0900"
+    },
+    {
+      "title": "중동 전쟁에 결국 '검은 화요일'…코스피, 장중 5%대 폭락",
+      "link": "https://www.yna.co.kr/view/AKR20260303094900008",
+      "pubDate": "Tue, 3 Mar 2026 13:13:22 +0900"
+    },
     {
       "title": "급락장에 코스피 매도 사이드카 발동…한 달만",
       "link": "https://www.yna.co.kr/view/AKR20260303091800008",
@@ -112,46 +152,6 @@
       "title": "서울시 장기전세주택 20년…입주자 보증금 10조 절감",
       "link": "https://www.yna.co.kr/view/AKR20260303043200004",
       "pubDate": "Tue, 3 Mar 2026 11:15:02 +0900"
-    },
-    {
-      "title": "하이트진로, 7주년 '테라' 새 모델로 손흥민 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20260303078300030",
-      "pubDate": "Tue, 3 Mar 2026 11:13:39 +0900"
-    },
-    {
-      "title": "제주도, 납세 유공 10개 법인과 개인 3명에 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260303078000056",
-      "pubDate": "Tue, 3 Mar 2026 11:12:11 +0900"
-    },
-    {
-      "title": "[게시판] 한국공인회계사회, 지역 기반 네트워크 사업 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260303076200002",
-      "pubDate": "Tue, 3 Mar 2026 11:11:52 +0900"
-    },
-    {
-      "title": "[부고] 나준호(LX세미콘 부사장)씨 장인상",
-      "link": "https://www.yna.co.kr/view/AKR20260303078700505",
-      "pubDate": "Tue, 3 Mar 2026 11:10:47 +0900"
-    },
-    {
-      "title": "그린리소스 \"래티스 주식 40억원어치 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260303076300008",
-      "pubDate": "Tue, 3 Mar 2026 11:07:27 +0900"
-    },
-    {
-      "title": "농식품부, '농촌관광 가는 주간' 연중 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260303075600030",
-      "pubDate": "Tue, 3 Mar 2026 11:02:58 +0900"
-    },
-    {
-      "title": "\"지역주민이 만드는 관광\"…'관광두레' 주민사업체 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260303073400030",
-      "pubDate": "Tue, 3 Mar 2026 11:01:46 +0900"
-    },
-    {
-      "title": "농식품부, '돼지 생산관리 인증' 올해부터 시범운영",
-      "link": "https://www.yna.co.kr/view/AKR20260303071800030",
-      "pubDate": "Tue, 3 Mar 2026 11:00:32 +0900"
     }
   ]
 }
