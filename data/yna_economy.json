@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772521988,
+  "updated_at_unix": 1772524682,
   "items": [
+    {
+      "title": "울주군, 공공건축 품질전문가 30명 위촉…\"품질 관리 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303137100057",
+      "pubDate": "Tue, 3 Mar 2026 16:47:00 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.180%",
+      "link": "https://www.yna.co.kr/view/AKR20260303143300008",
+      "pubDate": "Tue, 3 Mar 2026 16:42:33 +0900"
+    },
+    {
+      "title": "라면 업체, 가격 인하 검토…정부, 식품업계 소집",
+      "link": "https://www.yna.co.kr/view/AKR20260303141700030",
+      "pubDate": "Tue, 3 Mar 2026 16:37:58 +0900"
+    },
+    {
+      "title": "중동 전쟁에 금융시장 패닉…코스피 7%대 급락, 환율 26원 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260303138600002",
+      "pubDate": "Tue, 3 Mar 2026 16:36:50 +0900"
+    },
+    {
+      "title": "[광주소식] 광주은행, 지방선거 '당선기원통장' 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260303140300054",
+      "pubDate": "Tue, 3 Mar 2026 16:32:23 +0900"
+    },
+    {
+      "title": "한투증권, MTS 업데이트…\"정보 접근·자산관리 편의 제고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303139900008",
+      "pubDate": "Tue, 3 Mar 2026 16:28:32 +0900"
+    },
+    {
+      "title": "'검은 화요일'에도…인버스 팔고 레버리지 담은 개인들",
+      "link": "https://www.yna.co.kr/view/AKR20260303135800008",
+      "pubDate": "Tue, 3 Mar 2026 16:24:25 +0900"
+    },
+    {
+      "title": "성북구 청년 스마트창업센터 개관…\"청년 도전의 기반\"",
+      "link": "https://www.yna.co.kr/view/AKR20260303139200004",
+      "pubDate": "Tue, 3 Mar 2026 16:24:21 +0900"
+    },
+    {
+      "title": "중동 전쟁에 환율 26원 넘게 뛰어 1,460원대 중반으로",
+      "link": "https://www.yna.co.kr/view/AKR20260303136800002",
+      "pubDate": "Tue, 3 Mar 2026 16:22:00 +0900"
+    },
+    {
+      "title": "美·이란 전쟁에 '검은 화요일'…유가 급등하자 코스피, 7% 폭락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260303094951008",
+      "pubDate": "Tue, 3 Mar 2026 16:21:12 +0900"
+    },
+    {
+      "title": "농식품부·아워홈, 국산 콩 소비 확산 캠페인 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260303138100030",
+      "pubDate": "Tue, 3 Mar 2026 16:19:43 +0900"
+    },
+    {
+      "title": "'검은 화요일' 코스피 VI 322건 발동…2월 일평균 대비 75.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260303136900008",
+      "pubDate": "Tue, 3 Mar 2026 16:16:46 +0900"
+    },
+    {
+      "title": "'검은 화요일' 코스피, 7% 급락 5,800선 내줘…낙폭 사상 최대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260303134800008",
+      "pubDate": "Tue, 3 Mar 2026 16:14:51 +0900"
+    },
     {
       "title": "강서구, 중소기업·소상공인에 275억원 '희망금융 특별신용보증'",
       "link": "https://www.yna.co.kr/view/AKR20260303133600004",
@@ -87,71 +152,6 @@
       "title": "태백시, 강릉영동대와 협동수업 협약…'담 없는 캠퍼스' 첫발",
       "link": "https://www.yna.co.kr/view/AKR20260303124600062",
       "pubDate": "Tue, 3 Mar 2026 15:23:09 +0900"
-    },
-    {
-      "title": "춘천 후평산단 스마트그린 전환 속도…공정률 70% 넘어서",
-      "link": "https://www.yna.co.kr/view/AKR20260303122900062",
-      "pubDate": "Tue, 3 Mar 2026 15:14:43 +0900"
-    },
-    {
-      "title": "'수천억 시스템가구 입찰담합 비리' 업체 대표들 1심서 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260303122100004",
-      "pubDate": "Tue, 3 Mar 2026 15:14:42 +0900"
-    },
-    {
-      "title": "이민정책 팔걷어붙인 정부…법무부, 인재유치 비자 신설·확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260303105651004",
-      "pubDate": "Tue, 3 Mar 2026 15:11:17 +0900"
-    },
-    {
-      "title": "'광주 최대' 광천 재개발 분양가 평당 2천400만원 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260303120600054",
-      "pubDate": "Tue, 3 Mar 2026 15:07:38 +0900"
-    },
-    {
-      "title": "이찬진 \"시장안정에 감독역량 집중\"…중동상황 비상대응TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260303121100002",
-      "pubDate": "Tue, 3 Mar 2026 15:05:45 +0900"
-    },
-    {
-      "title": "전북교육청, 공무원 53명 선발…내달 13∼17일 원서 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260303117500055",
-      "pubDate": "Tue, 3 Mar 2026 15:02:04 +0900"
-    },
-    {
-      "title": "전주시, 산단 근로자에 주 4회 '천원의 아침밥' 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260303071900055",
-      "pubDate": "Tue, 3 Mar 2026 15:00:01 +0900"
-    },
-    {
-      "title": "공정위 경인사무소 출범…\"수도권 사건 과부하 해소 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260303077900002",
-      "pubDate": "Tue, 3 Mar 2026 15:00:01 +0900"
-    },
-    {
-      "title": "중기부, 중동 리스크 대응 TF 가동…中企 피해 지원방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260303105400030",
-      "pubDate": "Tue, 3 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "울산교육청, 올해 9급 지방공무원 25명 신규 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260303118000057",
-      "pubDate": "Tue, 3 Mar 2026 14:59:38 +0900"
-    },
-    {
-      "title": "해남군-전남지방우정청, 농수축산물 판로 확대 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260303118300054",
-      "pubDate": "Tue, 3 Mar 2026 14:57:10 +0900"
-    },
-    {
-      "title": "임금체불 통계지표 3→11개로 확대 공개…체불률·만인율 신설(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260303039951530",
-      "pubDate": "Tue, 3 Mar 2026 14:56:22 +0900"
-    },
-    {
-      "title": "중소 박스업계, 원지값 일방 인상 규탄…\"사전 협의 촉구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260303114000030",
-      "pubDate": "Tue, 3 Mar 2026 14:50:12 +0900"
     }
   ]
 }
