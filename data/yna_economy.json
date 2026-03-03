@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772578233,
+  "updated_at_unix": 1772579752,
   "items": [
+    {
+      "title": "[2보] 반도체 줄며 1월 산업생산 1.3%↓…설비투자는 6.8% 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260304023951002",
+      "pubDate": "Wed, 4 Mar 2026 08:00:37 +0900"
+    },
+    {
+      "title": "[1보] 1월 산업생산 1.3%↓…소비 2.3%↑, 투자 6.8%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260304023900002",
+      "pubDate": "Wed, 4 Mar 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산시, 찾아가는 투자유치 설명회…유망기업 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260304025400051",
+      "pubDate": "Wed, 4 Mar 2026 07:59:27 +0900"
+    },
+    {
+      "title": "[마켓뷰] 호르무즈 봉쇄 여파 지속에 코스피 추가 하락 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260304025100008",
+      "pubDate": "Wed, 4 Mar 2026 07:59:16 +0900"
+    },
+    {
+      "title": "부산시, 외국인 원스톱 의료서비스 제공 협력체계 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260304025200051",
+      "pubDate": "Wed, 4 Mar 2026 07:59:12 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260304019400011",
@@ -127,31 +152,6 @@
       "title": "빵값 이어 라면값도 내리나…일부 업체 검토 중(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260303141751030",
       "pubDate": "Tue, 3 Mar 2026 17:56:35 +0900"
-    },
-    {
-      "title": "美·이란 전쟁에 코스피 시총 하루새 377조원 증발…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260303151100008",
-      "pubDate": "Tue, 3 Mar 2026 17:47:00 +0900"
-    },
-    {
-      "title": "AI부터 엔지니어링까지…기업들, '해외원조 시장' 진출 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260303150000371",
-      "pubDate": "Tue, 3 Mar 2026 17:40:01 +0900"
-    },
-    {
-      "title": "반도체장비·납사 등 호르무즈 의존도 높아…수입다변화 등 대비",
-      "link": "https://www.yna.co.kr/view/AKR20260303152300003",
-      "pubDate": "Tue, 3 Mar 2026 17:25:51 +0900"
-    },
-    {
-      "title": "강원도, 2030년까지 수출 40억달러 목표…4대 전략 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260303152000062",
-      "pubDate": "Tue, 3 Mar 2026 17:22:51 +0900"
-    },
-    {
-      "title": "한국수입협회, 수입정책포럼 개최 \"공급망 경쟁력 핵심\"",
-      "link": "https://www.yna.co.kr/view/AKR20260303150900003",
-      "pubDate": "Tue, 3 Mar 2026 17:21:34 +0900"
     }
   ]
 }
