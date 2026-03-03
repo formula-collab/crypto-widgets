@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772573010,
+  "updated_at_unix": 1772574763,
   "items": [
+    {
+      "title": "[팩트체크] \"춥게 살았는데\"…1월 아파트 관리비 유독 오른 이유는",
+      "link": "https://www.yna.co.kr/view/AKR20260303118500518",
+      "pubDate": "Wed, 4 Mar 2026 06:30:02 +0900"
+    },
     {
       "title": "이란전 장기화 우려·호르무즈 봉쇄 여파…브렌트·WTI 4.7%↑",
       "link": "https://www.yna.co.kr/view/AKR20260304012000072",
@@ -147,11 +152,6 @@
       "title": "미-이란 전쟁에 국고채 금리 폭등…3년물 연 3.180%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260303143351008",
       "pubDate": "Tue, 3 Mar 2026 17:19:04 +0900"
-    },
-    {
-      "title": "딜리셔스·피지티, 코스닥 상장예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260303148400008",
-      "pubDate": "Tue, 3 Mar 2026 17:08:58 +0900"
     }
   ]
 }
