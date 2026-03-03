@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772562791,
+  "updated_at_unix": 1772566317,
   "items": [
+    {
+      "title": "\"美, 호르무즈 통과 유조선 보호 검토…'유가급등 우려' 신호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304006900071",
+      "pubDate": "Wed, 4 Mar 2026 04:27:37 +0900"
+    },
+    {
+      "title": "중동위기 확산에 인플레 위험 재부상…채권 금리 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260304006300072",
+      "pubDate": "Wed, 4 Mar 2026 04:00:58 +0900"
+    },
     {
       "title": "달러-원, 야간서 1,485.70원 마감…한때 17년만에 처음으로 1,500원 상회",
       "link": "https://www.yna.co.kr/view/AKR20260304005400002",
@@ -142,16 +152,6 @@
       "title": "한음저협 등 6개 음악권리단체, AI 시대 대비 상생委 발족",
       "link": "https://www.yna.co.kr/view/AKR20260303141100005",
       "pubDate": "Tue, 3 Mar 2026 16:51:51 +0900"
-    },
-    {
-      "title": "종로구, 건설사와 손잡고 재난 신속대응시스템 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260303082700004",
-      "pubDate": "Tue, 3 Mar 2026 16:49:50 +0900"
-    },
-    {
-      "title": "울주군, 공공건축 품질전문가 30명 위촉…\"품질 관리 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260303137100057",
-      "pubDate": "Tue, 3 Mar 2026 16:47:00 +0900"
     }
   ]
 }
