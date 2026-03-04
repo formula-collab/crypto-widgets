@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772612749,
+  "updated_at_unix": 1772614873,
   "items": [
+    {
+      "title": "대한건설협회 경남도회 건설회관 공사 '부정 입찰 의혹' 고발장",
+      "link": "https://www.yna.co.kr/view/AKR20260304163100052",
+      "pubDate": "Wed, 4 Mar 2026 17:46:38 +0900"
+    },
+    {
+      "title": "전쟁이 데이터센터까지 노렸다…이란전 속 IT업계 긴장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304133551017",
+      "pubDate": "Wed, 4 Mar 2026 17:42:19 +0900"
+    },
+    {
+      "title": "서울 휘발유 1천800원 돌파…\"더 오르기 전에 넣자\" 주유소 '북적'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304147051003",
+      "pubDate": "Wed, 4 Mar 2026 17:36:50 +0900"
+    },
+    {
+      "title": "화성시, 동탄트램 1단계 공사 입찰 재공고…사업 절차 재개",
+      "link": "https://www.yna.co.kr/view/AKR20260304162800061",
+      "pubDate": "Wed, 4 Mar 2026 17:36:09 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전자, 12% 내려 '17만전자'…글로벌 시총 순위 15위로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304044952008",
+      "pubDate": "Wed, 4 Mar 2026 17:33:30 +0900"
+    },
+    {
+      "title": "오텍 \"종속회사 씨알케이 주식 155억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304161500008",
+      "pubDate": "Wed, 4 Mar 2026 17:27:08 +0900"
+    },
+    {
+      "title": "중동발 쇼크에 '안전자산' 채권도 속수무책…금리 연일 오름세",
+      "link": "https://www.yna.co.kr/view/AKR20260304153500008",
+      "pubDate": "Wed, 4 Mar 2026 17:25:33 +0900"
+    },
+    {
+      "title": "'중동사태 대응' 충북도, 경제기관·단체와 긴급회의 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260304157300064",
+      "pubDate": "Wed, 4 Mar 2026 17:22:45 +0900"
+    },
+    {
+      "title": "한국거래소, 고배당기업 기업가치제고 공시 설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260304159200008",
+      "pubDate": "Wed, 4 Mar 2026 17:22:36 +0900"
+    },
     {
       "title": "중동발 쇼크에 주식은 물론 원화·채권·금까지 '쿼드러플 약세'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304153900008",
@@ -107,51 +152,6 @@
       "title": "3월부터 울릉사랑상품권 할인율 10→12%…\"인구감소지역 혜택\"",
       "link": "https://www.yna.co.kr/view/AKR20260304145200053",
       "pubDate": "Wed, 4 Mar 2026 16:13:36 +0900"
-    },
-    {
-      "title": "올해 상승률 세계 1위 코스피, 중동 사태 충격파도 가장 컸다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304070751008",
-      "pubDate": "Wed, 4 Mar 2026 16:11:38 +0900"
-    },
-    {
-      "title": "증시급락 속 '안전자산' 금도 내려…\"강달러·국채금리 상승탓\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304081551008",
-      "pubDate": "Wed, 4 Mar 2026 16:03:46 +0900"
-    },
-    {
-      "title": "건설기술인공제회 설립 추진…건설기술진흥법 개정안 발의",
-      "link": "https://www.yna.co.kr/view/AKR20260304141900003",
-      "pubDate": "Wed, 4 Mar 2026 16:01:18 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 11.7% 내려 '17만 전자'로…하이닉스도 9.6%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304044951008",
-      "pubDate": "Wed, 4 Mar 2026 15:59:52 +0900"
-    },
-    {
-      "title": "'이란 사태'로 암초 부닥친 韓증시…전문가들 \"패닉은 금물\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304063851008",
-      "pubDate": "Wed, 4 Mar 2026 15:57:34 +0900"
-    },
-    {
-      "title": "기획처·중장기위, 혁신랩 도입…중요사업 실험·검증",
-      "link": "https://www.yna.co.kr/view/AKR20260304129700002",
-      "pubDate": "Wed, 4 Mar 2026 15:46:54 +0900"
-    },
-    {
-      "title": "금융위, 중동 피해기업 대출 1년 연장…금융사 임직원 면책적용",
-      "link": "https://www.yna.co.kr/view/AKR20260304138900002",
-      "pubDate": "Wed, 4 Mar 2026 15:46:33 +0900"
-    },
-    {
-      "title": "인천상의, 창업 기업 'IP 컨설팅' 지원…18일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260304138500065",
-      "pubDate": "Wed, 4 Mar 2026 15:45:35 +0900"
-    },
-    {
-      "title": "'공포의 수요일' 코스피, 12% 폭락해 5,090대…역대 최대 하락률",
-      "link": "https://www.yna.co.kr/view/AKR20260304137100008",
-      "pubDate": "Wed, 4 Mar 2026 15:43:02 +0900"
     }
   ]
 }
