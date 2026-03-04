@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772643938,
+  "updated_at_unix": 1772647235,
   "items": [
+    {
+      "title": "달러-원, 이란 美 물밑 접촉설에 하락 전환…1,462.90원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260305003500002",
+      "pubDate": "Thu, 5 Mar 2026 02:26:57 +0900"
+    },
     {
       "title": "美 \"트럼프암살시도 이란부대지휘관 제거…수일내 영공 완전장악\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260304186152071",
@@ -147,11 +152,6 @@
       "title": "CSA 코스믹 \"블루원 주식 13억원어치 취득…지분율 36.7%\"",
       "link": "https://www.yna.co.kr/view/AKR20260304155900008",
       "pubDate": "Wed, 4 Mar 2026 17:05:00 +0900"
-    },
-    {
-      "title": "코스피 하락률, 9.11 테러 때보다 높았다…불명예 기록도 속출",
-      "link": "https://www.yna.co.kr/view/AKR20260304152900008",
-      "pubDate": "Wed, 4 Mar 2026 17:03:35 +0900"
     }
   ]
 }
