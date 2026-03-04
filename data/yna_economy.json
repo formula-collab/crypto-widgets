@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772600578,
+  "updated_at_unix": 1772604144,
   "items": [
+    {
+      "title": "TJ미디어, 주당 0.5주 무상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260304123800008",
+      "pubDate": "Wed, 4 Mar 2026 14:57:33 +0900"
+    },
+    {
+      "title": "화천군, 양육 친화·신혼부부 주거 안정 강화 추경 편성",
+      "link": "https://www.yna.co.kr/view/AKR20260304120400062",
+      "pubDate": "Wed, 4 Mar 2026 14:50:31 +0900"
+    },
+    {
+      "title": "\"부동산 민원, 이젠 카톡으로\"…서대문구 챗봇 서비스 시작",
+      "link": "https://www.yna.co.kr/view/AKR20260304118800004",
+      "pubDate": "Wed, 4 Mar 2026 14:38:26 +0900"
+    },
+    {
+      "title": "김성주 광주회생법원장 \"채권자 보호하고 채무자에겐 복귀 발판\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304119200054",
+      "pubDate": "Wed, 4 Mar 2026 14:36:52 +0900"
+    },
+    {
+      "title": "부산은행, 취약계층 고등학생 학력신장 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260304119100051",
+      "pubDate": "Wed, 4 Mar 2026 14:36:39 +0900"
+    },
+    {
+      "title": "수혜주가 없다…증시 패닉에 방산·해운주도 결국 '털썩'",
+      "link": "https://www.yna.co.kr/view/AKR20260304113500008",
+      "pubDate": "Wed, 4 Mar 2026 14:34:25 +0900"
+    },
+    {
+      "title": "국수·차로 변신한 고춧잎…농진청, 잎전용 고추 '원기2호' 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260304110900055",
+      "pubDate": "Wed, 4 Mar 2026 14:34:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260304113200011",
+      "pubDate": "Wed, 4 Mar 2026 14:30:09 +0900"
+    },
+    {
+      "title": "[평택소식] 청년 대상 '글로벌·대기업 취업 멘토링 콘서트'",
+      "link": "https://www.yna.co.kr/view/AKR20260304116600061",
+      "pubDate": "Wed, 4 Mar 2026 14:28:09 +0900"
+    },
+    {
+      "title": "춘천세무서, 제60회 납세자의 날 기념행사 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260304116000062",
+      "pubDate": "Wed, 4 Mar 2026 14:25:45 +0900"
+    },
+    {
+      "title": "산업장관, '최대 60조원' 캐나다 잠수함 수주 지원 위해 5일 출국",
+      "link": "https://www.yna.co.kr/view/AKR20260304115100003",
+      "pubDate": "Wed, 4 Mar 2026 14:21:32 +0900"
+    },
+    {
+      "title": "\"일상 재무고민 물어보세요\"…서금원, 청년 SNS 상담소 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260304110100002",
+      "pubDate": "Wed, 4 Mar 2026 14:18:06 +0900"
+    },
+    {
+      "title": "중기중앙회 경남본부, 소상공인 경영 개선 지원 설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260304052900052",
+      "pubDate": "Wed, 4 Mar 2026 14:15:01 +0900"
+    },
+    {
+      "title": "한-필리핀 정상회담 계기 K-소비재 1천600만 달러 수출계약",
+      "link": "https://www.yna.co.kr/view/AKR20260304111700003",
+      "pubDate": "Wed, 4 Mar 2026 14:10:47 +0900"
+    },
+    {
+      "title": "금감원 \"디지털·IT 사전예방 감독…고위험사 선별 테마검사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304091900002",
+      "pubDate": "Wed, 4 Mar 2026 14:00:13 +0900"
+    },
+    {
+      "title": "금감원 \"해외 사모대출펀드, 美이란 충돌에 불확실성↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304107100002",
+      "pubDate": "Wed, 4 Mar 2026 14:00:11 +0900"
+    },
     {
       "title": "광주은행 노사 임금협상 타결…천막농성 해제",
       "link": "https://www.yna.co.kr/view/AKR20260304108800054",
@@ -72,86 +152,6 @@
       "title": "작년 기관 해외증권투자 872억달러↑…주가상승 등에 최대폭",
       "link": "https://www.yna.co.kr/view/AKR20260304079300002",
       "pubDate": "Wed, 4 Mar 2026 12:00:06 +0900"
-    },
-    {
-      "title": "효성, 기술자료 요구 관행 개선…상생자금 34억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260304084900002",
-      "pubDate": "Wed, 4 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "지난해 IPO 공모가 거품 진정세…밴드 초과 확정 '0건'",
-      "link": "https://www.yna.co.kr/view/AKR20260304081100002",
-      "pubDate": "Wed, 4 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "신한 팔란티어 커버드콜 ETF 10개월 연속 배당",
-      "link": "https://www.yna.co.kr/view/AKR20260304093100008",
-      "pubDate": "Wed, 4 Mar 2026 11:47:11 +0900"
-    },
-    {
-      "title": "충남도, 당진에 418㏊ 규모 '스마트 감자 거점' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260304091600063",
-      "pubDate": "Wed, 4 Mar 2026 11:41:54 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.184%",
-      "link": "https://www.yna.co.kr/view/AKR20260304092500008",
-      "pubDate": "Wed, 4 Mar 2026 11:41:31 +0900"
-    },
-    {
-      "title": "\"은행 대기줄 100명도 넘어\" 지역화폐 열풍에 '오픈런'",
-      "link": "https://www.yna.co.kr/view/AKR20260304091700054",
-      "pubDate": "Wed, 4 Mar 2026 11:40:52 +0900"
-    },
-    {
-      "title": "[속보] 코스피도 거래 재개 '서킷브레이커 해제'…8%대 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260304092600008",
-      "pubDate": "Wed, 4 Mar 2026 11:40:21 +0900"
-    },
-    {
-      "title": "[속보] 코스닥 거래재개 '서킷브레이커 해제'…8%대 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260304091800008",
-      "pubDate": "Wed, 4 Mar 2026 11:39:02 +0900"
-    },
-    {
-      "title": "1,500원 넘보는 환율…\"이란 사태 장기화 땐 추가 상승\" 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260304085000002",
-      "pubDate": "Wed, 4 Mar 2026 11:38:51 +0900"
-    },
-    {
-      "title": "코스피·코스닥, 폭락에 서킷브레이커 잇단 발동…거래 일시중단(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304087051008",
-      "pubDate": "Wed, 4 Mar 2026 11:35:39 +0900"
-    },
-    {
-      "title": "정부 \"중동사태 속 석유·가스 비축량 충분…당분간 문제 없다\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260304031352001",
-      "pubDate": "Wed, 4 Mar 2026 11:35:37 +0900"
-    },
-    {
-      "title": "서울스퀘어, 한투리얼에셋이 1조2천800억원에 인수",
-      "link": "https://www.yna.co.kr/view/AKR20260304089600003",
-      "pubDate": "Wed, 4 Mar 2026 11:29:54 +0900"
-    },
-    {
-      "title": "여야, 대미투자특위 파행 딛고 본격 가동…투자공사 설립 공감대",
-      "link": "https://www.yna.co.kr/view/AKR20260304081900001",
-      "pubDate": "Wed, 4 Mar 2026 11:28:50 +0900"
-    },
-    {
-      "title": "구윤철 \"환율, 경각심 갖고 모니터링하고 있다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304089200002",
-      "pubDate": "Wed, 4 Mar 2026 11:27:32 +0900"
-    },
-    {
-      "title": "대전시교육청, 대전교육사랑카드 적립금 5억4천여만원 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260304087800063",
-      "pubDate": "Wed, 4 Mar 2026 11:27:12 +0900"
-    },
-    {
-      "title": "쌍용건설, 신입사원 공개채용…8개 부문 35명",
-      "link": "https://www.yna.co.kr/view/AKR20260304088900003",
-      "pubDate": "Wed, 4 Mar 2026 11:27:10 +0900"
     }
   ]
 }
