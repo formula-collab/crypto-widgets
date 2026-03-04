@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772627461,
+  "updated_at_unix": 1772632123,
   "items": [
+    {
+      "title": "美국방, 對이란 군사작전 \"미국이 이기고 있다…그들은 끝장나\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304186100071",
+      "pubDate": "Wed, 4 Mar 2026 22:20:20 +0900"
+    },
     {
       "title": "금융위, 중동 피해기업 대출 1년 연장…금융사 임직원 면책적용(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304138951002",
@@ -147,11 +152,6 @@
       "title": "환갑 맞은 국세청, 'K-AI 대전환' 60대 미래혁신안 발표",
       "link": "https://www.yna.co.kr/view/AKR20260304149800002",
       "pubDate": "Wed, 4 Mar 2026 17:00:00 +0900"
-    },
-    {
-      "title": "삼성전자-협력업체 분쟁에 공정위 조사…삼성전자 \"위법 없었다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304083551002",
-      "pubDate": "Wed, 4 Mar 2026 16:58:47 +0900"
     }
   ]
 }
