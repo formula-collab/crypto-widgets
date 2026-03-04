@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772662778,
+  "updated_at_unix": 1772664854,
   "items": [
+    {
+      "title": "울산시, 올해 체납 징수 목표액 826억원…체납차량 영치 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260304178200057",
+      "pubDate": "Thu, 5 Mar 2026 07:48:06 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260305016500011",
+      "pubDate": "Thu, 5 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "서초구, 발달장애인이 일하는 '늘봄카페' 14호점 개소",
       "link": "https://www.yna.co.kr/view/AKR20260305016300004",
@@ -142,16 +152,6 @@
       "title": "대우건설, 자사주 471만5천주 소각키로…420억원 규모",
       "link": "https://www.yna.co.kr/view/AKR20260304166500003",
       "pubDate": "Wed, 4 Mar 2026 17:58:46 +0900"
-    },
-    {
-      "title": "구윤철 \"중동 불확실성 우려…정부 위기대응능력 공고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304166300002",
-      "pubDate": "Wed, 4 Mar 2026 17:58:23 +0900"
-    },
-    {
-      "title": "대한건설협회 경남도회 건설회관 공사 '부정 입찰 의혹' 고발장",
-      "link": "https://www.yna.co.kr/view/AKR20260304163100052",
-      "pubDate": "Wed, 4 Mar 2026 17:46:38 +0900"
     }
   ]
 }
