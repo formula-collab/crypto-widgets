@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772634640,
+  "updated_at_unix": 1772638119,
   "items": [
+    {
+      "title": "美 \"트럼프암살시도 이란부대지휘관 제거…수일내 영공 완전장악\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260304186152071",
+      "pubDate": "Thu, 5 Mar 2026 00:21:04 +0900"
+    },
     {
       "title": "美국방 \"미국이 이기고 있다…며칠내 이란 영공 완전장악\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304186151071",
@@ -147,11 +152,6 @@
       "title": "코스피 하락률, 9.11 테러 때보다 높았다…불명예 기록도 속출",
       "link": "https://www.yna.co.kr/view/AKR20260304152900008",
       "pubDate": "Wed, 4 Mar 2026 17:03:35 +0900"
-    },
-    {
-      "title": "롯데웰푸드, 신동빈 회장 사내이사 재선임…자사주 10만주 소각",
-      "link": "https://www.yna.co.kr/view/AKR20260304155500030",
-      "pubDate": "Wed, 4 Mar 2026 17:01:41 +0900"
     }
   ]
 }
