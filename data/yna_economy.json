@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772624933,
+  "updated_at_unix": 1772627461,
   "items": [
+    {
+      "title": "금융위, 중동 피해기업 대출 1년 연장…금융사 임직원 면책적용(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304138951002",
+      "pubDate": "Wed, 4 Mar 2026 21:07:07 +0900"
+    },
     {
       "title": "경북 봉화 산란계 농장서 고병원성 AI…동절기 52건 발생",
       "link": "https://www.yna.co.kr/view/AKR20260304179500030",
@@ -147,11 +152,6 @@
       "title": "삼성전자-협력업체 분쟁에 공정위 조사…삼성전자 \"위법 없었다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304083551002",
       "pubDate": "Wed, 4 Mar 2026 16:58:47 +0900"
-    },
-    {
-      "title": "코스피 이틀째 급락…공포지수 사상 처음 80선 넘어 개미들 패닉(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304094451008",
-      "pubDate": "Wed, 4 Mar 2026 16:48:31 +0900"
     }
   ]
 }
