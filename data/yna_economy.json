@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772657601,
+  "updated_at_unix": 1772659382,
   "items": [
+    {
+      "title": "불법대부계약 무효확인서, 금감원장 명의로 발송",
+      "link": "https://www.yna.co.kr/view/AKR20260304136600002",
+      "pubDate": "Thu, 5 Mar 2026 06:00:06 +0900"
+    },
+    {
+      "title": "2월말 외환보유액 4천276억달러…외평채발행에 석달만에 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260304152600002",
+      "pubDate": "Thu, 5 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "제기동 한옥마을, 경동시장과 연계한 '핫플'로 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260304162000004",
+      "pubDate": "Thu, 5 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "다주택자 대출 잔액 103조…절반은 서울·경기에 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260304186800002",
+      "pubDate": "Thu, 5 Mar 2026 05:55:00 +0900"
+    },
+    {
+      "title": "공정위, 쿠팡 소비자 피해 집중점검…\"미주문 상품 배송\" 주장도",
+      "link": "https://www.yna.co.kr/view/AKR20260304174100002",
+      "pubDate": "Thu, 5 Mar 2026 05:53:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 美, 유가 불안 달래는 데 집중…WTI 강보합",
+      "link": "https://www.yna.co.kr/view/AKR20260305008600009",
+      "pubDate": "Thu, 5 Mar 2026 05:52:18 +0900"
+    },
+    {
+      "title": "개인사업자 연체율 10년 새 곱절로…코로나 이후 4년째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260304180000002",
+      "pubDate": "Thu, 5 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "與, 오늘 재계와 간담회…중동 정세·대미관세 협상 의견 수렴",
       "link": "https://www.yna.co.kr/view/AKR20260304171800001",
@@ -117,41 +152,6 @@
       "title": "오텍 \"종속회사 씨알케이 주식 155억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260304161500008",
       "pubDate": "Wed, 4 Mar 2026 17:27:08 +0900"
-    },
-    {
-      "title": "중동발 쇼크에 '안전자산' 채권도 속수무책…금리 연일 오름세",
-      "link": "https://www.yna.co.kr/view/AKR20260304153500008",
-      "pubDate": "Wed, 4 Mar 2026 17:25:33 +0900"
-    },
-    {
-      "title": "'중동사태 대응' 충북도, 경제기관·단체와 긴급회의 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260304157300064",
-      "pubDate": "Wed, 4 Mar 2026 17:22:45 +0900"
-    },
-    {
-      "title": "한국거래소, 고배당기업 기업가치제고 공시 설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260304159200008",
-      "pubDate": "Wed, 4 Mar 2026 17:22:36 +0900"
-    },
-    {
-      "title": "중동발 쇼크에 주식은 물론 원화·채권·금까지 '쿼드러플 약세'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304153900008",
-      "pubDate": "Wed, 4 Mar 2026 17:21:24 +0900"
-    },
-    {
-      "title": "가평군, 재난피해 주택 신축 때 설계·감리비 50% 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260304160100060",
-      "pubDate": "Wed, 4 Mar 2026 17:19:35 +0900"
-    },
-    {
-      "title": "세계관·감성까지 공유…라운드어라운드·테토 팝업 가보니",
-      "link": "https://www.yna.co.kr/view/AKR20260304156500030",
-      "pubDate": "Wed, 4 Mar 2026 17:15:36 +0900"
-    },
-    {
-      "title": "국고채 금리, 중동 전쟁에 이틀째 상승…3년물 연 3.223%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304152051008",
-      "pubDate": "Wed, 4 Mar 2026 17:08:22 +0900"
     }
   ]
 }
