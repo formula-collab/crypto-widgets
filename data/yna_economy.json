@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772618463,
+  "updated_at_unix": 1772622018,
   "items": [
+    {
+      "title": "SK증권, 자사주 1천만주 소각…주식 병합도 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260304178600008",
+      "pubDate": "Wed, 4 Mar 2026 19:42:39 +0900"
+    },
+    {
+      "title": "與, 내일 재계와 간담회…중동 정세·대미관세 협상 의견청취(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304167351001",
+      "pubDate": "Wed, 4 Mar 2026 19:26:04 +0900"
+    },
     {
       "title": "與, 내일 재계와 간담회…중동 정세·대미관세 협상 의견청취",
       "link": "https://www.yna.co.kr/view/AKR20260304167300001",
@@ -142,16 +152,6 @@
       "title": "[충남소식] 청양군, 5번째 청년 셰어하우스 준공",
       "link": "https://www.yna.co.kr/view/AKR20260304151600063",
       "pubDate": "Wed, 4 Mar 2026 16:47:22 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.223%",
-      "link": "https://www.yna.co.kr/view/AKR20260304152000008",
-      "pubDate": "Wed, 4 Mar 2026 16:40:30 +0900"
-    },
-    {
-      "title": "고환율·고유가에 실물경제 파급 촉각…주가 급락에 내수 우려도",
-      "link": "https://www.yna.co.kr/view/AKR20260304145000002",
-      "pubDate": "Wed, 4 Mar 2026 16:38:42 +0900"
     }
   ]
 }
