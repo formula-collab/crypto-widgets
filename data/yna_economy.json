@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772608118,
+  "updated_at_unix": 1772610866,
   "items": [
+    {
+      "title": "[충남소식] 청양군, 5번째 청년 셰어하우스 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260304151600063",
+      "pubDate": "Wed, 4 Mar 2026 16:47:22 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 3.223%",
+      "link": "https://www.yna.co.kr/view/AKR20260304152000008",
+      "pubDate": "Wed, 4 Mar 2026 16:40:30 +0900"
+    },
+    {
+      "title": "고환율·고유가에 실물경제 파급 촉각…주가 급락에 내수 우려도",
+      "link": "https://www.yna.co.kr/view/AKR20260304145000002",
+      "pubDate": "Wed, 4 Mar 2026 16:38:42 +0900"
+    },
+    {
+      "title": "중동 전쟁 파장에…원/달러 환율 10.1원 뛴 1,476.2원",
+      "link": "https://www.yna.co.kr/view/AKR20260304145100002",
+      "pubDate": "Wed, 4 Mar 2026 16:34:44 +0900"
+    },
+    {
+      "title": "농식품부, 조생종 양파 출하 앞두고 '중국산 양파 관리 강화'",
+      "link": "https://www.yna.co.kr/view/AKR20260304136700030",
+      "pubDate": "Wed, 4 Mar 2026 16:30:38 +0900"
+    },
+    {
+      "title": "수출입은행, 필리핀 최대 전력사와 원전 협력 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260304148100002",
+      "pubDate": "Wed, 4 Mar 2026 16:29:23 +0900"
+    },
+    {
+      "title": "증시 패닉에 '반사수혜' 방산·해운·정유株도 결국 꺾여(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304113551008",
+      "pubDate": "Wed, 4 Mar 2026 16:28:31 +0900"
+    },
+    {
+      "title": "중동사태로 '시차 없이' 기름값 급등…서울 휘발유 1천800원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260304147000003",
+      "pubDate": "Wed, 4 Mar 2026 16:25:18 +0900"
+    },
+    {
+      "title": "'공포의 수요일' 코스피 12% 급락 5,000선 위태…역대최대 하락률(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304145400008",
+      "pubDate": "Wed, 4 Mar 2026 16:21:30 +0900"
+    },
+    {
+      "title": "[게시판] iM뱅크, 대구 두류공원서 1천명분 무료급식 봉사",
+      "link": "https://www.yna.co.kr/view/AKR20260304145800053",
+      "pubDate": "Wed, 4 Mar 2026 16:18:29 +0900"
+    },
+    {
+      "title": "3월부터 울릉사랑상품권 할인율 10→12%…\"인구감소지역 혜택\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304145200053",
+      "pubDate": "Wed, 4 Mar 2026 16:13:36 +0900"
+    },
+    {
+      "title": "올해 상승률 세계 1위 코스피, 중동 사태 충격파도 가장 컸다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304070751008",
+      "pubDate": "Wed, 4 Mar 2026 16:11:38 +0900"
+    },
     {
       "title": "증시급락 속 '안전자산' 금도 내려…\"강달러·국채금리 상승탓\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304081551008",
@@ -92,66 +152,6 @@
       "title": "정부 '중동사태'에 공급망기금 확대…원유 구매 긴급지원 강화",
       "link": "https://www.yna.co.kr/view/AKR20260304130600002",
       "pubDate": "Wed, 4 Mar 2026 15:19:08 +0900"
-    },
-    {
-      "title": "단순 원조서 대형화·브랜드화…코이카, 7대 시그니처 사업 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260304130000371",
-      "pubDate": "Wed, 4 Mar 2026 15:18:45 +0900"
-    },
-    {
-      "title": "'빚투' 32조원…증권사들, 한도 소진에 신용거래 일시 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260304129300008",
-      "pubDate": "Wed, 4 Mar 2026 15:17:30 +0900"
-    },
-    {
-      "title": "李대통령 \"필리핀 무역전통 큰 잠재력…제조·인프라 협력\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304100051001",
-      "pubDate": "Wed, 4 Mar 2026 15:13:42 +0900"
-    },
-    {
-      "title": "한-필리핀 정상회담 계기 K-소비재 1천600만 달러 수출계약(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304111751003",
-      "pubDate": "Wed, 4 Mar 2026 15:10:19 +0900"
-    },
-    {
-      "title": "빙그레, 결산배당 주당 3천300원 유지…\"정부 밸류업 기조 맞춰\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304127900030",
-      "pubDate": "Wed, 4 Mar 2026 15:08:37 +0900"
-    },
-    {
-      "title": "'D-6' 개정노조법 현장안착 총력…노동부-중노위, 워크숍 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260304127100530",
-      "pubDate": "Wed, 4 Mar 2026 15:08:09 +0900"
-    },
-    {
-      "title": "중동사태 피해 최소화…부산시, 민관 대응체계·정책자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260304127000051",
-      "pubDate": "Wed, 4 Mar 2026 15:03:38 +0900"
-    },
-    {
-      "title": "안양박달스마트시티 군사시설 지하화…\"최고수준 안전공법 적용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304123700061",
-      "pubDate": "Wed, 4 Mar 2026 14:59:47 +0900"
-    },
-    {
-      "title": "기보·경남은행·중진공, 지역 스타트업 지원 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260304124100051",
-      "pubDate": "Wed, 4 Mar 2026 14:59:13 +0900"
-    },
-    {
-      "title": "TJ미디어, 주당 0.5주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260304123800008",
-      "pubDate": "Wed, 4 Mar 2026 14:57:33 +0900"
-    },
-    {
-      "title": "화천군, 양육 친화·신혼부부 주거 안정 강화 추경 편성",
-      "link": "https://www.yna.co.kr/view/AKR20260304120400062",
-      "pubDate": "Wed, 4 Mar 2026 14:50:31 +0900"
-    },
-    {
-      "title": "\"부동산 민원, 이젠 카톡으로\"…서대문구 챗봇 서비스 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260304118800004",
-      "pubDate": "Wed, 4 Mar 2026 14:38:26 +0900"
     }
   ]
 }
