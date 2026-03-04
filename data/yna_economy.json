@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772614873,
+  "updated_at_unix": 1772618463,
   "items": [
+    {
+      "title": "與, 내일 재계와 간담회…중동 정세·대미관세 협상 의견청취",
+      "link": "https://www.yna.co.kr/view/AKR20260304167300001",
+      "pubDate": "Wed, 4 Mar 2026 18:15:58 +0900"
+    },
+    {
+      "title": "LG家 상속재산 소송 패소한 세모녀, 1심 판결에 항소",
+      "link": "https://www.yna.co.kr/view/AKR20260304167200004",
+      "pubDate": "Wed, 4 Mar 2026 18:15:12 +0900"
+    },
+    {
+      "title": "미래에셋생명, 자사주 93% 소각…\"주주가치 제고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304166800002",
+      "pubDate": "Wed, 4 Mar 2026 18:06:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260304164100011",
+      "pubDate": "Wed, 4 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[반론보도] <\"안전 강화하자\"는 건설사 요청 묵살한 관급공사 감리 송치> 관련",
+      "link": "https://www.yna.co.kr/view/AKR20260304163900034",
+      "pubDate": "Wed, 4 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "하나금융 사외이사 후보로 최현자 서울대 교수 추천",
+      "link": "https://www.yna.co.kr/view/AKR20260304164400002",
+      "pubDate": "Wed, 4 Mar 2026 17:58:55 +0900"
+    },
+    {
+      "title": "대우건설, 자사주 471만5천주 소각키로…420억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260304166500003",
+      "pubDate": "Wed, 4 Mar 2026 17:58:46 +0900"
+    },
+    {
+      "title": "구윤철 \"중동 불확실성 우려…정부 위기대응능력 공고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304166300002",
+      "pubDate": "Wed, 4 Mar 2026 17:58:23 +0900"
+    },
     {
       "title": "대한건설협회 경남도회 건설회관 공사 '부정 입찰 의혹' 고발장",
       "link": "https://www.yna.co.kr/view/AKR20260304163100052",
@@ -112,46 +152,6 @@
       "title": "고환율·고유가에 실물경제 파급 촉각…주가 급락에 내수 우려도",
       "link": "https://www.yna.co.kr/view/AKR20260304145000002",
       "pubDate": "Wed, 4 Mar 2026 16:38:42 +0900"
-    },
-    {
-      "title": "중동 전쟁 파장에…원/달러 환율 10.1원 뛴 1,476.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260304145100002",
-      "pubDate": "Wed, 4 Mar 2026 16:34:44 +0900"
-    },
-    {
-      "title": "농식품부, 조생종 양파 출하 앞두고 '중국산 양파 관리 강화'",
-      "link": "https://www.yna.co.kr/view/AKR20260304136700030",
-      "pubDate": "Wed, 4 Mar 2026 16:30:38 +0900"
-    },
-    {
-      "title": "수출입은행, 필리핀 최대 전력사와 원전 협력 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260304148100002",
-      "pubDate": "Wed, 4 Mar 2026 16:29:23 +0900"
-    },
-    {
-      "title": "증시 패닉에 '반사수혜' 방산·해운·정유株도 결국 꺾여(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304113551008",
-      "pubDate": "Wed, 4 Mar 2026 16:28:31 +0900"
-    },
-    {
-      "title": "중동사태로 '시차 없이' 기름값 급등…서울 휘발유 1천800원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260304147000003",
-      "pubDate": "Wed, 4 Mar 2026 16:25:18 +0900"
-    },
-    {
-      "title": "'공포의 수요일' 코스피 12% 급락 5,000선 위태…역대최대 하락률(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304145400008",
-      "pubDate": "Wed, 4 Mar 2026 16:21:30 +0900"
-    },
-    {
-      "title": "[게시판] iM뱅크, 대구 두류공원서 1천명분 무료급식 봉사",
-      "link": "https://www.yna.co.kr/view/AKR20260304145800053",
-      "pubDate": "Wed, 4 Mar 2026 16:18:29 +0900"
-    },
-    {
-      "title": "3월부터 울릉사랑상품권 할인율 10→12%…\"인구감소지역 혜택\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304145200053",
-      "pubDate": "Wed, 4 Mar 2026 16:13:36 +0900"
     }
   ]
 }
