@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772659382,
+  "updated_at_unix": 1772661230,
   "items": [
+    {
+      "title": "소·돼지·닭고기 가격 두 자릿수 '껑충'…밥상물가 고공행진",
+      "link": "https://www.yna.co.kr/view/AKR20260304171200030",
+      "pubDate": "Thu, 5 Mar 2026 06:23:47 +0900"
+    },
+    {
+      "title": "국제유가, 거친 랠리 중단하고 일단 숨고르기…보합권 거래",
+      "link": "https://www.yna.co.kr/view/AKR20260305010900072",
+      "pubDate": "Thu, 5 Mar 2026 06:20:36 +0900"
+    },
     {
       "title": "불법대부계약 무효확인서, 금감원장 명의로 발송",
       "link": "https://www.yna.co.kr/view/AKR20260304136600002",
@@ -142,16 +152,6 @@
       "title": "화성시, 동탄트램 1단계 공사 입찰 재공고…사업 절차 재개",
       "link": "https://www.yna.co.kr/view/AKR20260304162800061",
       "pubDate": "Wed, 4 Mar 2026 17:36:09 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 12% 내려 '17만전자'…글로벌 시총 순위 15위로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304044952008",
-      "pubDate": "Wed, 4 Mar 2026 17:33:30 +0900"
-    },
-    {
-      "title": "오텍 \"종속회사 씨알케이 주식 155억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304161500008",
-      "pubDate": "Wed, 4 Mar 2026 17:27:08 +0900"
     }
   ]
 }
