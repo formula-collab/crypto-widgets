@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772622018,
+  "updated_at_unix": 1772624933,
   "items": [
+    {
+      "title": "경북 봉화 산란계 농장서 고병원성 AI…동절기 52건 발생",
+      "link": "https://www.yna.co.kr/view/AKR20260304179500030",
+      "pubDate": "Wed, 4 Mar 2026 19:58:43 +0900"
+    },
     {
       "title": "SK증권, 자사주 1천만주 소각…주식 병합도 진행",
       "link": "https://www.yna.co.kr/view/AKR20260304178600008",
@@ -147,11 +152,6 @@
       "title": "코스피 이틀째 급락…공포지수 사상 처음 80선 넘어 개미들 패닉(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260304094451008",
       "pubDate": "Wed, 4 Mar 2026 16:48:31 +0900"
-    },
-    {
-      "title": "[충남소식] 청양군, 5번째 청년 셰어하우스 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260304151600063",
-      "pubDate": "Wed, 4 Mar 2026 16:47:22 +0900"
     }
   ]
 }
