@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772632123,
+  "updated_at_unix": 1772634640,
   "items": [
+    {
+      "title": "美국방 \"미국이 이기고 있다…며칠내 이란 영공 완전장악\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260304186151071",
+      "pubDate": "Wed, 4 Mar 2026 23:14:40 +0900"
+    },
     {
       "title": "美국방, 對이란 군사작전 \"미국이 이기고 있다…그들은 끝장나\"",
       "link": "https://www.yna.co.kr/view/AKR20260304186100071",
@@ -147,11 +152,6 @@
       "title": "롯데웰푸드, 신동빈 회장 사내이사 재선임…자사주 10만주 소각",
       "link": "https://www.yna.co.kr/view/AKR20260304155500030",
       "pubDate": "Wed, 4 Mar 2026 17:01:41 +0900"
-    },
-    {
-      "title": "환갑 맞은 국세청, 'K-AI 대전환' 60대 미래혁신안 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260304149800002",
-      "pubDate": "Wed, 4 Mar 2026 17:00:00 +0900"
     }
   ]
 }
