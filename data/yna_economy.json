@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772661230,
+  "updated_at_unix": 1772662778,
   "items": [
+    {
+      "title": "서초구, 발달장애인이 일하는 '늘봄카페' 14호점 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260305016300004",
+      "pubDate": "Thu, 5 Mar 2026 07:07:59 +0900"
+    },
+    {
+      "title": "中 5월부터 아프리카 수입 관세 면제…대만 수교국은 제외",
+      "link": "https://www.yna.co.kr/view/AKR20260304145600898",
+      "pubDate": "Thu, 5 Mar 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⑽ 르완다의 개발과 카가메 대통령",
+      "link": "https://www.yna.co.kr/view/AKR20260219063100898",
+      "pubDate": "Thu, 5 Mar 2026 07:00:05 +0900"
+    },
     {
       "title": "소·돼지·닭고기 가격 두 자릿수 '껑충'…밥상물가 고공행진",
       "link": "https://www.yna.co.kr/view/AKR20260304171200030",
@@ -137,21 +152,6 @@
       "title": "대한건설협회 경남도회 건설회관 공사 '부정 입찰 의혹' 고발장",
       "link": "https://www.yna.co.kr/view/AKR20260304163100052",
       "pubDate": "Wed, 4 Mar 2026 17:46:38 +0900"
-    },
-    {
-      "title": "전쟁이 데이터센터까지 노렸다…이란전 속 IT업계 긴장(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304133551017",
-      "pubDate": "Wed, 4 Mar 2026 17:42:19 +0900"
-    },
-    {
-      "title": "서울 휘발유 1천800원 돌파…\"더 오르기 전에 넣자\" 주유소 '북적'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260304147051003",
-      "pubDate": "Wed, 4 Mar 2026 17:36:50 +0900"
-    },
-    {
-      "title": "화성시, 동탄트램 1단계 공사 입찰 재공고…사업 절차 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260304162800061",
-      "pubDate": "Wed, 4 Mar 2026 17:36:09 +0900"
     }
   ]
 }
