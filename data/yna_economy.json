@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772699740,
+  "updated_at_unix": 1772703113,
   "items": [
+    {
+      "title": "\"중동사태 대응\" 대전시, 비상경제대책본부 구성",
+      "link": "https://www.yna.co.kr/view/AKR20260305166700063",
+      "pubDate": "Thu, 5 Mar 2026 18:09:07 +0900"
+    },
+    {
+      "title": "거래소, '거래시간 연장 6월 시행'서 물러서…하반기 연기 가닥(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305155351008",
+      "pubDate": "Thu, 5 Mar 2026 18:07:45 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260305161900011",
+      "pubDate": "Thu, 5 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "메모리 가격 급등에…\"올해 스마트폰 패널 출하량 7.3%↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305165900003",
+      "pubDate": "Thu, 5 Mar 2026 17:56:45 +0900"
+    },
+    {
+      "title": "에어비앤비 \"지역 여행 활성화 집중…빈집 많은 제주부터 추진\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305077051030",
+      "pubDate": "Thu, 5 Mar 2026 17:50:46 +0900"
+    },
+    {
+      "title": "[르포] '싼 기름 찾아 삼만리' 100대 행렬 이어진 최저가 주유소",
+      "link": "https://www.yna.co.kr/view/AKR20260305160100063",
+      "pubDate": "Thu, 5 Mar 2026 17:38:44 +0900"
+    },
     {
       "title": "대우건설, 가덕도신공항 공사 수의계약 의사 조달청에 회신(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260305046551003",
@@ -122,36 +152,6 @@
       "title": "[게시판] 대선주조, 성실납세로 재정경제부 장관 표창",
       "link": "https://www.yna.co.kr/view/AKR20260305145200051",
       "pubDate": "Thu, 5 Mar 2026 16:14:38 +0900"
-    },
-    {
-      "title": "산업부, 내일부터 석유 유통시장 특별점검…월 2천회 암행단속",
-      "link": "https://www.yna.co.kr/view/AKR20260305141900003",
-      "pubDate": "Thu, 5 Mar 2026 16:06:08 +0900"
-    },
-    {
-      "title": "제주도, 물가안정 종합상황실 운영…에너지 가격 감시 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260305139700056",
-      "pubDate": "Thu, 5 Mar 2026 16:01:53 +0900"
-    },
-    {
-      "title": "환율, 이란 사태 진정 기대에 8.1원 내린 1,468.1원",
-      "link": "https://www.yna.co.kr/view/AKR20260305040451002",
-      "pubDate": "Thu, 5 Mar 2026 15:56:49 +0900"
-    },
-    {
-      "title": "한국도로공사 유휴부지 스마트팜으로 활용…장애인 일자리 창출",
-      "link": "https://www.yna.co.kr/view/AKR20260305139800063",
-      "pubDate": "Thu, 5 Mar 2026 15:49:10 +0900"
-    },
-    {
-      "title": "[특징주] 이란 쇼크 끝났나…삼성전자·SK하이닉스 급반등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305041051008",
-      "pubDate": "Thu, 5 Mar 2026 15:44:03 +0900"
-    },
-    {
-      "title": "코스피, 9.6% 급등해 5,580대…상승폭 역대 최대 490포인트",
-      "link": "https://www.yna.co.kr/view/AKR20260305137200008",
-      "pubDate": "Thu, 5 Mar 2026 15:40:10 +0900"
     }
   ]
 }
