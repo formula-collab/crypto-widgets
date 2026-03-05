@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772744230,
+  "updated_at_unix": 1772746107,
   "items": [
+    {
+      "title": "남녀 임금격차 OECD 1위 '불명예'…임금공시제로 오명 벗을까",
+      "link": "https://www.yna.co.kr/view/AKR20260305171600530",
+      "pubDate": "Fri, 6 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "IPO·유상증자 감소에 1월 주식발행 95.7%↓…회사채는 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260305135300002",
+      "pubDate": "Fri, 6 Mar 2026 06:00:24 +0900"
+    },
+    {
+      "title": "국제유가, 중동 유조선 피격에 상승폭 확대…WTI 8%대↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306003351072",
+      "pubDate": "Fri, 6 Mar 2026 05:55:58 +0900"
+    },
+    {
+      "title": "급등락 중 증권사 MTS 등 잇단 장애 …금감원 \"사고원인 등 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305170400002",
+      "pubDate": "Fri, 6 Mar 2026 05:55:01 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 이란 전쟁, 중동 전쟁으로 번지나…WTI 8.5% 폭등",
+      "link": "https://www.yna.co.kr/view/AKR20260306009700009",
+      "pubDate": "Fri, 6 Mar 2026 05:53:53 +0900"
+    },
+    {
+      "title": "재경부 특화 AI 플랫폼 구축…클라우드·생성형 AI 서비스 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260305160800002",
+      "pubDate": "Fri, 6 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "JP모건 \"美 금리인하 끝났다\"…유가 충격에 물가 불확실성↑",
+      "link": "https://www.yna.co.kr/view/AKR20260305164100002",
+      "pubDate": "Fri, 6 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "[샷!] 이런 증명사진, 사기인가",
       "link": "https://www.yna.co.kr/view/AKR20260304117000505",
@@ -117,41 +152,6 @@
       "title": "냉온탕 오간 금융시장…코스피 9%대 반등·환율은 1,460원대로",
       "link": "https://www.yna.co.kr/view/AKR20260305151500002",
       "pubDate": "Thu, 5 Mar 2026 16:58:41 +0900"
-    },
-    {
-      "title": "춘천 중장년기술창업센터, 운영성과 평가 A등급…2년 연속 우수",
-      "link": "https://www.yna.co.kr/view/AKR20260305154900062",
-      "pubDate": "Thu, 5 Mar 2026 16:56:07 +0900"
-    },
-    {
-      "title": "'공포의 수요일' 코스피 일중 변동률, 팬데믹 이후 6년만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260305145300008",
-      "pubDate": "Thu, 5 Mar 2026 16:55:21 +0900"
-    },
-    {
-      "title": "춘천시, '지역거점 창업도시' 공모 대응…창업기관 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260305154100062",
-      "pubDate": "Thu, 5 Mar 2026 16:55:11 +0900"
-    },
-    {
-      "title": "구윤철 \"석유류값 인상 몰염치…최고가 지정, 신속 검토해달라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305134251002",
-      "pubDate": "Thu, 5 Mar 2026 16:44:50 +0900"
-    },
-    {
-      "title": "대구본부세관, 국제섬유박람회서 기업 수출 지원 활동",
-      "link": "https://www.yna.co.kr/view/AKR20260305152100053",
-      "pubDate": "Thu, 5 Mar 2026 16:42:01 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.189%",
-      "link": "https://www.yna.co.kr/view/AKR20260305152700008",
-      "pubDate": "Thu, 5 Mar 2026 16:41:26 +0900"
-    },
-    {
-      "title": "국민연금 국내주식 의결권, 일부 위탁운용사로…\"자본시장 성장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305148700530",
-      "pubDate": "Thu, 5 Mar 2026 16:40:50 +0900"
     }
   ]
 }
