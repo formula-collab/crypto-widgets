@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772714054,
+  "updated_at_unix": 1772718838,
   "items": [
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260305181500002",
+      "pubDate": "Thu, 5 Mar 2026 22:08:44 +0900"
+    },
     {
       "title": "'코스닥상장사 주가조작 가담' 전직 증권사 직원 구속",
       "link": "https://www.yna.co.kr/view/AKR20260305178800004",
@@ -147,11 +152,6 @@
       "title": "대한항공·LG화학 등 8개사, 유가증권시장 공시우수법인 선정",
       "link": "https://www.yna.co.kr/view/AKR20260305148900008",
       "pubDate": "Thu, 5 Mar 2026 16:32:23 +0900"
-    },
-    {
-      "title": "'현기증 장세' 코스피, 사상 최대 폭락 다음날 역대급 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305057951008",
-      "pubDate": "Thu, 5 Mar 2026 16:30:59 +0900"
     }
   ]
 }
