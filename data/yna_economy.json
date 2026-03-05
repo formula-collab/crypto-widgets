@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772687236,
+  "updated_at_unix": 1772690706,
   "items": [
+    {
+      "title": "울주군 중부노인복지관, 치매극복 선도단체에 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260305125500057",
+      "pubDate": "Thu, 5 Mar 2026 14:59:49 +0900"
+    },
+    {
+      "title": "수출입은행 \"대한조선 선박 수출에 맞춤형 금융지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305127400002",
+      "pubDate": "Thu, 5 Mar 2026 14:59:49 +0900"
+    },
+    {
+      "title": "울주군 전통시장서 주민 참여형 '작은축제' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260305125400057",
+      "pubDate": "Thu, 5 Mar 2026 14:58:14 +0900"
+    },
+    {
+      "title": "하나은행, 오픈 API 플랫폼 개편…58개 통화 환율 24시간 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260305117500002",
+      "pubDate": "Thu, 5 Mar 2026 14:46:14 +0900"
+    },
+    {
+      "title": "대구시, 해빙기 공사장 침하·붕괴 사고 예방 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260305121000053",
+      "pubDate": "Thu, 5 Mar 2026 14:37:51 +0900"
+    },
+    {
+      "title": "[동정] 유상철 HJ중공업 대표, 일일 명예세무서장 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20260305120600051",
+      "pubDate": "Thu, 5 Mar 2026 14:36:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260305112700011",
+      "pubDate": "Thu, 5 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "현대건설, 17개 금융기관과 압구정 3·5구역 금융지원 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260305117900003",
+      "pubDate": "Thu, 5 Mar 2026 14:29:03 +0900"
+    },
+    {
+      "title": "1월 상업업무용 빌딩 거래량·거래금액 동반 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260305098300003",
+      "pubDate": "Thu, 5 Mar 2026 14:20:18 +0900"
+    },
+    {
+      "title": "안양 아크로베스티뉴 청년주택 '흥행'…경쟁률 31.8대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260305116000061",
+      "pubDate": "Thu, 5 Mar 2026 14:19:11 +0900"
+    },
+    {
+      "title": "한투증권, 피델리티와 파트너십 강화…리테일 상품 라인업 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260305115700008",
+      "pubDate": "Thu, 5 Mar 2026 14:16:34 +0900"
+    },
+    {
+      "title": "이창용 \"정부 산업정책, 민간 금융기관과 위험 분담해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305115000002",
+      "pubDate": "Thu, 5 Mar 2026 14:13:44 +0900"
+    },
+    {
+      "title": "[게시판] BNK투자증권, 제1기 고객패널 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260305115200051",
+      "pubDate": "Thu, 5 Mar 2026 14:13:41 +0900"
+    },
+    {
+      "title": "포스코퓨처엠 \"퓨처머티리얼에 3천579억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305112500008",
+      "pubDate": "Thu, 5 Mar 2026 14:13:11 +0900"
+    },
+    {
+      "title": "'담터 꿀대추차' 판매 중단·회수…세균수 기준 부적합",
+      "link": "https://www.yna.co.kr/view/AKR20260305114400017",
+      "pubDate": "Thu, 5 Mar 2026 14:13:10 +0900"
+    },
+    {
+      "title": "'현기증 장세'에 거래량 급증…일부 증권사 MTS서 잇달아 오류",
+      "link": "https://www.yna.co.kr/view/AKR20260305112100008",
+      "pubDate": "Thu, 5 Mar 2026 14:11:06 +0900"
+    },
+    {
+      "title": "파주시, 국제규격 인공암벽장 개장",
+      "link": "https://www.yna.co.kr/view/AKR20260305113400060",
+      "pubDate": "Thu, 5 Mar 2026 14:10:28 +0900"
+    },
+    {
+      "title": "제분사 대표 7명, 밀가루 담합 사죄…협회 이사직 사임(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305108851030",
+      "pubDate": "Thu, 5 Mar 2026 14:09:28 +0900"
+    },
+    {
+      "title": "금감원 \"민생 금융범죄 직접 수사\"…AI 기반 감시 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260305111700002",
+      "pubDate": "Thu, 5 Mar 2026 14:03:17 +0900"
+    },
+    {
+      "title": "의왕 건설현장서 배관 맞은 70대 작업자, 한 달여 만에 사망",
+      "link": "https://www.yna.co.kr/view/AKR20260305111100061",
+      "pubDate": "Thu, 5 Mar 2026 14:01:20 +0900"
+    },
+    {
+      "title": "아파트값 더 떨어진 강남·송파·용산…서울 곳곳 가격조정 흐름",
+      "link": "https://www.yna.co.kr/view/AKR20260305104400003",
+      "pubDate": "Thu, 5 Mar 2026 14:00:06 +0900"
+    },
     {
       "title": "서울 아파트값 상승세 5주째 둔화…강남3구·용산 약세 지속",
       "link": "https://www.yna.co.kr/view/AKR20260305086800003",
@@ -47,111 +152,6 @@
       "title": "에어비앤비 \"올해 지역 살리기에 집중…여행 활성화 방안 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260305077000030",
       "pubDate": "Thu, 5 Mar 2026 13:00:00 +0900"
-    },
-    {
-      "title": "노동청 \"성적수치심 느낄 만큼 과한 근접행위, 성희롱 인정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305094300063",
-      "pubDate": "Thu, 5 Mar 2026 12:02:18 +0900"
-    },
-    {
-      "title": "李대통령 \"유류 최고가격 지정 필요…바가지 제재 방안도 논의\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305070951001",
-      "pubDate": "Thu, 5 Mar 2026 12:01:12 +0900"
-    },
-    {
-      "title": "인조가죽에 '에코레더' 부당광고 무더기 적발…\"친환경 아니다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260304115600030",
-      "pubDate": "Thu, 5 Mar 2026 12:00:22 +0900"
-    },
-    {
-      "title": "고용상 성차별 피해 권리구제 지원…민간 고용평등상담실 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260304158800530",
-      "pubDate": "Thu, 5 Mar 2026 12:00:22 +0900"
-    },
-    {
-      "title": "웹젠, 게임 종료 숨기고 캐릭터 출시…공정위 과태료 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260305048400002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:20 +0900"
-    },
-    {
-      "title": "기업성장펀드, 코스닥에 상장…소형화 방지위해 최소모집 300억",
-      "link": "https://www.yna.co.kr/view/AKR20260305075200002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:15 +0900"
-    },
-    {
-      "title": "예금만큼 안전하다고?…금감원 \"ETF 광고 과장 주의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305082500002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "연초에도 뜨거운 온라인쇼핑…석달 연속 24조원대 거래",
-      "link": "https://www.yna.co.kr/view/AKR20260305080200002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "공정위, 장례업계 '뒷돈' 관행 첫 제재…5개권역 장례식장 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260305082100002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "삶 만족도, 여전히 OECD 최하위권…자살률·상대적빈곤율 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260305083800002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "데이터처, 유엔통계위 참석…\"데이터 외교 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305089600002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국세청 '주식시장 반칙 3종' 집중 조사…6천155억원 탈루 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260305087200002",
-      "pubDate": "Thu, 5 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "S&P \"한국 기업 영업실적 개선추세…업종별 격차는 뚜렷\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305095000008",
-      "pubDate": "Thu, 5 Mar 2026 11:58:39 +0900"
-    },
-    {
-      "title": "휘발유 1천800원 돌파…정부 가격 통제 검토에 업계 촉각(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305077101003",
-      "pubDate": "Thu, 5 Mar 2026 11:50:00 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.189%",
-      "link": "https://www.yna.co.kr/view/AKR20260305092000008",
-      "pubDate": "Thu, 5 Mar 2026 11:40:29 +0900"
-    },
-    {
-      "title": "영등포구, 3년 연속 전체고용률·여성고용률 서울 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260305091200004",
-      "pubDate": "Thu, 5 Mar 2026 11:40:06 +0900"
-    },
-    {
-      "title": "업계 \"韓원유선 7척 호르무즈해협 묶여…원유수요 시나리오 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305028451001",
-      "pubDate": "Thu, 5 Mar 2026 11:38:16 +0900"
-    },
-    {
-      "title": "서울시, 서남권 7.3조 투자…서부선 가속화, 첨단산업 거점조성(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305014551004",
-      "pubDate": "Thu, 5 Mar 2026 11:38:13 +0900"
-    },
-    {
-      "title": "두산건설·아주산업, '시간당 6mm 비에도 콘크리트 타설 기술' 특허 취득",
-      "link": "https://www.yna.co.kr/view/AKR20260305067700003",
-      "pubDate": "Thu, 5 Mar 2026 11:37:45 +0900"
-    },
-    {
-      "title": "서천군 \"장항산단 주거 환경 부족…공공주택 건립 시급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305089700063",
-      "pubDate": "Thu, 5 Mar 2026 11:33:17 +0900"
-    },
-    {
-      "title": "인천시, 계양AX파크 2단계 지정 추진…AI기반 첨단산단 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260305088000065",
-      "pubDate": "Thu, 5 Mar 2026 11:31:08 +0900"
     }
   ]
 }
