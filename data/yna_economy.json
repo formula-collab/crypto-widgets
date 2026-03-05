@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772721428,
+  "updated_at_unix": 1772725162,
   "items": [
+    {
+      "title": "美-이란 전쟁에 유가 출렁이자 '물가비상' 백악관도 대응 고심",
+      "link": "https://www.yna.co.kr/view/AKR20260306000200071",
+      "pubDate": "Fri, 6 Mar 2026 00:05:35 +0900"
+    },
     {
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260305181500002",
@@ -147,11 +152,6 @@
       "title": "CJ제일제당, '미래혁신사무국' 신설…체질개선 나선다",
       "link": "https://www.yna.co.kr/view/AKR20260305151700030",
       "pubDate": "Thu, 5 Mar 2026 16:37:54 +0900"
-    },
-    {
-      "title": "대한항공·LG화학 등 8개사, 유가증권시장 공시우수법인 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260305148900008",
-      "pubDate": "Thu, 5 Mar 2026 16:32:23 +0900"
     }
   ]
 }
