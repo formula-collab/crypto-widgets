@@ -1,10 +1,70 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772749482,
+  "updated_at_unix": 1772753571,
   "items": [
     {
-      "title": "남녀 임금격차 OECD 1위 '불명예'…임금공시제로 오명 벗을까",
+      "title": "DS투자 \"ETF 활성화로 증시 변동성 확대…전략적 활용전략 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306028700008",
+      "pubDate": "Fri, 6 Mar 2026 08:27:59 +0900"
+    },
+    {
+      "title": "신한투자 \"업황 개선으로 고성장…원익QnC·티에스이 목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306029600008",
+      "pubDate": "Fri, 6 Mar 2026 08:27:09 +0900"
+    },
+    {
+      "title": "삼성증권 \"SKT, 이익 개선·앤트로픽 등 지분가치 부각\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306027000008",
+      "pubDate": "Fri, 6 Mar 2026 08:25:10 +0900"
+    },
+    {
+      "title": "창의적 관광기업 발굴…부산관광스타트업 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260306024000051",
+      "pubDate": "Fri, 6 Mar 2026 08:07:00 +0900"
+    },
+    {
+      "title": "AI 기반 침수 피해 예방…부산시, 극한호우 대응 협력체계 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260306023900051",
+      "pubDate": "Fri, 6 Mar 2026 08:02:37 +0900"
+    },
+    {
+      "title": "[2보] 2월 소비자물가 2.0% 상승…6개월 연속 2%대",
+      "link": "https://www.yna.co.kr/view/AKR20260306021651002",
+      "pubDate": "Fri, 6 Mar 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[1보] 2월 소비자물가 2.0% 상승…전월 수준 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260306021600002",
+      "pubDate": "Fri, 6 Mar 2026 08:00:05 +0900"
+    },
+    {
+      "title": "에어비앤비, '할망숙소' 제주올레 등에 커뮤니티 펀드 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260305181300030",
+      "pubDate": "Fri, 6 Mar 2026 08:00:05 +0900"
+    },
+    {
+      "title": "1월 경상흑자 133억달러…반도체 등 수출 호조에 역대 5위",
+      "link": "https://www.yna.co.kr/view/AKR20260306022800002",
+      "pubDate": "Fri, 6 Mar 2026 08:00:01 +0900"
+    },
+    {
+      "title": "[마켓뷰] 중동사태에 흔들리는 코스피, 유가 급등에 하방 압력 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260306023500008",
+      "pubDate": "Fri, 6 Mar 2026 07:57:47 +0900"
+    },
+    {
+      "title": "부산시·교육청, 스마트학교·국립청소년디딤센터 유치 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260306023800051",
+      "pubDate": "Fri, 6 Mar 2026 07:55:08 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260306018700011",
+      "pubDate": "Fri, 6 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[여성의날] 남녀 임금격차 OECD 1위 '불명예'…임금공시제로 오명 벗을까",
       "link": "https://www.yna.co.kr/view/AKR20260305171600530",
       "pubDate": "Fri, 6 Mar 2026 06:01:01 +0900"
     },
@@ -92,66 +152,6 @@
       "title": "거래소, '거래시간 연장 6월 시행'서 물러서…하반기 연기 가닥(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260305155351008",
       "pubDate": "Thu, 5 Mar 2026 18:07:45 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260305161900011",
-      "pubDate": "Thu, 5 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "메모리 가격 급등에…\"올해 스마트폰 패널 출하량 7.3%↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305165900003",
-      "pubDate": "Thu, 5 Mar 2026 17:56:45 +0900"
-    },
-    {
-      "title": "에어비앤비 \"지역 여행 활성화 집중…빈집 많은 제주부터 추진\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305077051030",
-      "pubDate": "Thu, 5 Mar 2026 17:50:46 +0900"
-    },
-    {
-      "title": "[르포] '싼 기름 찾아 삼만리' 100대 행렬 이어진 최저가 주유소",
-      "link": "https://www.yna.co.kr/view/AKR20260305160100063",
-      "pubDate": "Thu, 5 Mar 2026 17:38:44 +0900"
-    },
-    {
-      "title": "대우건설, 가덕도신공항 공사 수의계약 의사 조달청에 회신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305046551003",
-      "pubDate": "Thu, 5 Mar 2026 17:27:25 +0900"
-    },
-    {
-      "title": "고려아연 주주서한 발송…美투자 성공위한 '리더십 연속성' 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260305160500003",
-      "pubDate": "Thu, 5 Mar 2026 17:26:52 +0900"
-    },
-    {
-      "title": "화성환경운동연합 \"화옹지구 내 경마장 유치 추진 철회하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305156600061",
-      "pubDate": "Thu, 5 Mar 2026 17:24:12 +0900"
-    },
-    {
-      "title": "주식 거래시간 연장 6월 시행 물 건너가나…거래소, 연기 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260305155300008",
-      "pubDate": "Thu, 5 Mar 2026 17:14:36 +0900"
-    },
-    {
-      "title": "이란 전쟁 완화 기대감에 국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305152751008",
-      "pubDate": "Thu, 5 Mar 2026 17:12:17 +0900"
-    },
-    {
-      "title": "국민연금 국내주식 의결권 일부 민간 이전 추진…\"수익률 제고\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305148751530",
-      "pubDate": "Thu, 5 Mar 2026 17:12:07 +0900"
-    },
-    {
-      "title": "[동정] 강호동 농협중앙회장, 가축 방역 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260305153000030",
-      "pubDate": "Thu, 5 Mar 2026 17:06:19 +0900"
-    },
-    {
-      "title": "냉온탕 오간 금융시장…코스피 9%대 반등·환율은 1,460원대로",
-      "link": "https://www.yna.co.kr/view/AKR20260305151500002",
-      "pubDate": "Thu, 5 Mar 2026 16:58:41 +0900"
     }
   ]
 }
