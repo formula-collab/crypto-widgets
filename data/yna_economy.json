@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772711526,
+  "updated_at_unix": 1772714054,
   "items": [
+    {
+      "title": "'코스닥상장사 주가조작 가담' 전직 증권사 직원 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260305178800004",
+      "pubDate": "Thu, 5 Mar 2026 21:07:50 +0900"
+    },
     {
       "title": "전날 코스피 일중변동률 11.42%…금융위기·팬데믹 이후 최고치(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260305145351008",
@@ -147,11 +152,6 @@
       "title": "'현기증 장세' 코스피, 사상 최대 폭락 다음날 역대급 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260305057951008",
       "pubDate": "Thu, 5 Mar 2026 16:30:59 +0900"
-    },
-    {
-      "title": "삶만족도, 또 OECD 최하위권…'허리' 40대 자살·비만율 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305083851002",
-      "pubDate": "Thu, 5 Mar 2026 16:30:03 +0900"
     }
   ]
 }
