@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772740951,
+  "updated_at_unix": 1772744230,
   "items": [
+    {
+      "title": "[샷!] 이런 증명사진, 사기인가",
+      "link": "https://www.yna.co.kr/view/AKR20260304117000505",
+      "pubDate": "Fri, 6 Mar 2026 05:50:01 +0900"
+    },
     {
       "title": "달러-원, 이란發 유가 재급등에 상승세 전환…1,482.20원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260306004800002",
@@ -147,11 +152,6 @@
       "title": "국민연금 국내주식 의결권, 일부 위탁운용사로…\"자본시장 성장\"",
       "link": "https://www.yna.co.kr/view/AKR20260305148700530",
       "pubDate": "Thu, 5 Mar 2026 16:40:50 +0900"
-    },
-    {
-      "title": "부동산·주택·건설자재 업계도 AI 도입·교육 활발",
-      "link": "https://www.yna.co.kr/view/AKR20260305151100003",
-      "pubDate": "Thu, 5 Mar 2026 16:40:45 +0900"
     }
   ]
 }
