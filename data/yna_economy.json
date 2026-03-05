@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772681956,
+  "updated_at_unix": 1772687236,
   "items": [
+    {
+      "title": "서울 아파트값 상승세 5주째 둔화…강남3구·용산 약세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260305086800003",
+      "pubDate": "Thu, 5 Mar 2026 14:00:02 +0900"
+    },
+    {
+      "title": "국세청, 중동사태 피해 기업에 법인세 납기 연장·세무조사 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260305101900002",
+      "pubDate": "Thu, 5 Mar 2026 14:00:01 +0900"
+    },
+    {
+      "title": "경남도, 지난해 신규 기술기반창업 비수도권 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260305107000052",
+      "pubDate": "Thu, 5 Mar 2026 13:52:15 +0900"
+    },
+    {
+      "title": "[1보] 한국제분협회 이사 전원 사임…\"담합 사죄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305108800030",
+      "pubDate": "Thu, 5 Mar 2026 13:48:07 +0900"
+    },
+    {
+      "title": "SK디앤디, 주거 브랜드 '에피소드 컨비니 홍대' 신규 오픈",
+      "link": "https://www.yna.co.kr/view/AKR20260305103700003",
+      "pubDate": "Thu, 5 Mar 2026 13:43:35 +0900"
+    },
+    {
+      "title": "여야, 2조 규모 대미투자공사 합의…리스크관리委로 3중 안전망",
+      "link": "https://www.yna.co.kr/view/AKR20260305099400001",
+      "pubDate": "Thu, 5 Mar 2026 13:39:50 +0900"
+    },
+    {
+      "title": "민주노총, 10일 노란봉투법 시행시 원청교섭 돌입 \"7월 총파업\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305100200530",
+      "pubDate": "Thu, 5 Mar 2026 13:36:53 +0900"
+    },
+    {
+      "title": "광주은행, 우즈베키스탄 금융시장 진출 교두보 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260305100300054",
+      "pubDate": "Thu, 5 Mar 2026 13:20:53 +0900"
+    },
+    {
+      "title": "에어비앤비 \"올해 지역 살리기에 집중…여행 활성화 방안 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305077000030",
+      "pubDate": "Thu, 5 Mar 2026 13:00:00 +0900"
+    },
     {
       "title": "노동청 \"성적수치심 느낄 만큼 과한 근접행위, 성희롱 인정\"",
       "link": "https://www.yna.co.kr/view/AKR20260305094300063",
@@ -107,51 +152,6 @@
       "title": "인천시, 계양AX파크 2단계 지정 추진…AI기반 첨단산단 목표",
       "link": "https://www.yna.co.kr/view/AKR20260305088000065",
       "pubDate": "Thu, 5 Mar 2026 11:31:08 +0900"
-    },
-    {
-      "title": "정기선 HD현대 회장 \"필리핀과 깊은 신뢰 구축…양국 가교 역할\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305083900003",
-      "pubDate": "Thu, 5 Mar 2026 11:30:00 +0900"
-    },
-    {
-      "title": "금융위, 중동 상황 대응 실무회의…수출기업 유동성 애로 점검(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260305064251002",
-      "pubDate": "Thu, 5 Mar 2026 11:29:37 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, HERO 체크카드 적립금 1천600만원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260305086700002",
-      "pubDate": "Thu, 5 Mar 2026 11:24:27 +0900"
-    },
-    {
-      "title": "[게시판] 우리카드, '서류제출 無' 화물복지카드 발급 서비스 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260305086500002",
-      "pubDate": "Thu, 5 Mar 2026 11:23:55 +0900"
-    },
-    {
-      "title": "서울시, 생성형 AI·제조 실무 결합한 'K-패션' 인재 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260305086300004",
-      "pubDate": "Thu, 5 Mar 2026 11:23:37 +0900"
-    },
-    {
-      "title": "구윤철 \"휘발유가격 과도한 인상 현상…담합·불공정 행위 엄단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305081900001",
-      "pubDate": "Thu, 5 Mar 2026 11:22:02 +0900"
-    },
-    {
-      "title": "하루 새 돌변…코스피 최고 12% 폭등·환율 20원 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260305074700002",
-      "pubDate": "Thu, 5 Mar 2026 11:21:30 +0900"
-    },
-    {
-      "title": "한국거래소, 내달부터 상장법인 대상 밸류업 컨설팅",
-      "link": "https://www.yna.co.kr/view/AKR20260305084000008",
-      "pubDate": "Thu, 5 Mar 2026 11:16:27 +0900"
-    },
-    {
-      "title": "AI로 이상징후 포착…서울시, 불법 부동산거래 집중점검",
-      "link": "https://www.yna.co.kr/view/AKR20260305038600004",
-      "pubDate": "Thu, 5 Mar 2026 11:15:03 +0900"
     }
   ]
 }
