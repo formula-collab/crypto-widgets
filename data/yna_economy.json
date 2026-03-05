@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772706490,
+  "updated_at_unix": 1772708751,
   "items": [
+    {
+      "title": "전날 코스피 일중변동률 11.42%…금융위기·팬데믹 이후 최고치(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305145351008",
+      "pubDate": "Thu, 5 Mar 2026 19:43:44 +0900"
+    },
     {
       "title": "휘발유·경유 1천800원선 돌파…서울 주유소는 1천900원 육박(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260305077102003",
@@ -147,11 +152,6 @@
       "title": "삶만족도, 또 OECD 최하위권…'허리' 40대 자살·비만율 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260305083851002",
       "pubDate": "Thu, 5 Mar 2026 16:30:03 +0900"
-    },
-    {
-      "title": "김동연, 중동정세 악화에 '중소기업 지원책' 긴급 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260305148100061",
-      "pubDate": "Thu, 5 Mar 2026 16:27:32 +0900"
     }
   ]
 }
