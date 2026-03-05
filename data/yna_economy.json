@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772694756,
+  "updated_at_unix": 1772697461,
   "items": [
+    {
+      "title": "구윤철 \"석유류값 인상 몰염치…최고가 지정, 신속 검토해달라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305134251002",
+      "pubDate": "Thu, 5 Mar 2026 16:44:50 +0900"
+    },
+    {
+      "title": "대구본부세관, 국제섬유박람회서 기업 수출 지원 활동",
+      "link": "https://www.yna.co.kr/view/AKR20260305152100053",
+      "pubDate": "Thu, 5 Mar 2026 16:42:01 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.189%",
+      "link": "https://www.yna.co.kr/view/AKR20260305152700008",
+      "pubDate": "Thu, 5 Mar 2026 16:41:26 +0900"
+    },
+    {
+      "title": "국민연금 국내주식 의결권, 일부 위탁운용사로…\"자본시장 성장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260305148700530",
+      "pubDate": "Thu, 5 Mar 2026 16:40:50 +0900"
+    },
+    {
+      "title": "부동산·주택·건설자재 업계도 AI 도입·교육 활발",
+      "link": "https://www.yna.co.kr/view/AKR20260305151100003",
+      "pubDate": "Thu, 5 Mar 2026 16:40:45 +0900"
+    },
+    {
+      "title": "토스, 국내 증시 상장 검토…금감원에 IPO 절차 질의",
+      "link": "https://www.yna.co.kr/view/AKR20260305149600017",
+      "pubDate": "Thu, 5 Mar 2026 16:39:26 +0900"
+    },
+    {
+      "title": "CJ제일제당, '미래혁신사무국' 신설…체질개선 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260305151700030",
+      "pubDate": "Thu, 5 Mar 2026 16:37:54 +0900"
+    },
+    {
+      "title": "대한항공·LG화학 등 8개사, 유가증권시장 공시우수법인 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260305148900008",
+      "pubDate": "Thu, 5 Mar 2026 16:32:23 +0900"
+    },
+    {
+      "title": "'현기증 장세' 코스피, 사상 최대 폭락 다음날 역대급 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305057951008",
+      "pubDate": "Thu, 5 Mar 2026 16:30:59 +0900"
+    },
+    {
+      "title": "삶만족도, 또 OECD 최하위권…'허리' 40대 자살·비만율 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305083851002",
+      "pubDate": "Thu, 5 Mar 2026 16:30:03 +0900"
+    },
+    {
+      "title": "김동연, 중동정세 악화에 '중소기업 지원책' 긴급 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260305148100061",
+      "pubDate": "Thu, 5 Mar 2026 16:27:32 +0900"
+    },
+    {
+      "title": "코스피, 9.6% 올라 5,580대…금융위기 이후 역대 두번째 상승률(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260305144300008",
+      "pubDate": "Thu, 5 Mar 2026 16:21:30 +0900"
+    },
+    {
+      "title": "[게시판] 대선주조, 성실납세로 재정경제부 장관 표창",
+      "link": "https://www.yna.co.kr/view/AKR20260305145200051",
+      "pubDate": "Thu, 5 Mar 2026 16:14:38 +0900"
+    },
     {
       "title": "산업부, 내일부터 석유 유통시장 특별점검…월 2천회 암행단속",
       "link": "https://www.yna.co.kr/view/AKR20260305141900003",
@@ -87,71 +152,6 @@
       "title": "[게시판] 부산항만공사, 중동사태 비상대책반 운영",
       "link": "https://www.yna.co.kr/view/AKR20260305132700051",
       "pubDate": "Thu, 5 Mar 2026 15:20:19 +0900"
-    },
-    {
-      "title": "복지장관 \"중동 리스크 확대…국민연금, 시장 면밀히 살펴야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305132100530",
-      "pubDate": "Thu, 5 Mar 2026 15:19:37 +0900"
-    },
-    {
-      "title": "노동부 진주·양산지청 중대재해수사과 신설…산재 수사 효율화",
-      "link": "https://www.yna.co.kr/view/AKR20260305088800052",
-      "pubDate": "Thu, 5 Mar 2026 15:15:40 +0900"
-    },
-    {
-      "title": "중장기전략위, 대학교육 방향성 논의…미래사회 전략 분과회의",
-      "link": "https://www.yna.co.kr/view/AKR20260305131100002",
-      "pubDate": "Thu, 5 Mar 2026 15:15:35 +0900"
-    },
-    {
-      "title": "서초구 '2026 청년정책' 가동…\"38개 사업 8천여명 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305130400004",
-      "pubDate": "Thu, 5 Mar 2026 15:15:26 +0900"
-    },
-    {
-      "title": "'SPC삼립 시화공장 사망사고' 책임자 4명 사전구속영장 재신청",
-      "link": "https://www.yna.co.kr/view/AKR20260305130300061",
-      "pubDate": "Thu, 5 Mar 2026 15:13:38 +0900"
-    },
-    {
-      "title": "무알코올 맥주 '카스 올제로' 마트·편의점서 만난다",
-      "link": "https://www.yna.co.kr/view/AKR20260305129700030",
-      "pubDate": "Thu, 5 Mar 2026 15:06:12 +0900"
-    },
-    {
-      "title": "심보균 예비후보 \"익산 아파트 공급 과잉…수변도시 재검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305126700055",
-      "pubDate": "Thu, 5 Mar 2026 15:03:34 +0900"
-    },
-    {
-      "title": "가덕도신공항 부지조성 컨소시엄에 지역기업 지분율 18%",
-      "link": "https://www.yna.co.kr/view/AKR20260305127200051",
-      "pubDate": "Thu, 5 Mar 2026 15:02:10 +0900"
-    },
-    {
-      "title": "울주군 중부노인복지관, 치매극복 선도단체에 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260305125500057",
-      "pubDate": "Thu, 5 Mar 2026 14:59:49 +0900"
-    },
-    {
-      "title": "수출입은행 \"대한조선 선박 수출에 맞춤형 금융지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260305127400002",
-      "pubDate": "Thu, 5 Mar 2026 14:59:49 +0900"
-    },
-    {
-      "title": "울주군 전통시장서 주민 참여형 '작은축제' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260305125400057",
-      "pubDate": "Thu, 5 Mar 2026 14:58:14 +0900"
-    },
-    {
-      "title": "하나은행, 오픈 API 플랫폼 개편…58개 통화 환율 24시간 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260305117500002",
-      "pubDate": "Thu, 5 Mar 2026 14:46:14 +0900"
-    },
-    {
-      "title": "대구시, 해빙기 공사장 침하·붕괴 사고 예방 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260305121000053",
-      "pubDate": "Thu, 5 Mar 2026 14:37:51 +0900"
     }
   ]
 }
