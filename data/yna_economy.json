@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772783697,
+  "updated_at_unix": 1772785459,
   "items": [
+    {
+      "title": "기름값 급등에 서울 1천900원대…3년만에 '경유＞휘발유' 역전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306061601003",
+      "pubDate": "Fri, 6 Mar 2026 17:08:44 +0900"
+    },
+    {
+      "title": "콜마비앤에이치 \"종속회사 강소콜마미보과기에 280억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306147400008",
+      "pubDate": "Fri, 6 Mar 2026 17:03:24 +0900"
+    },
+    {
+      "title": "웰킵스하이텍 \"BH 제1호 재무구조개선 투자기구에 60억 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306147300008",
+      "pubDate": "Fri, 6 Mar 2026 17:02:30 +0900"
+    },
+    {
+      "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.227%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306143451008",
+      "pubDate": "Fri, 6 Mar 2026 17:00:47 +0900"
+    },
+    {
+      "title": "野김은혜 \"정정옥 비서관 농지투기 의혹\"…靑 \"상황 파악할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306140600001",
+      "pubDate": "Fri, 6 Mar 2026 16:52:11 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.227%",
+      "link": "https://www.yna.co.kr/view/AKR20260306143400008",
+      "pubDate": "Fri, 6 Mar 2026 16:50:10 +0900"
+    },
     {
       "title": "'중국 반도체 기업 투자' ETF 등 3종 10일 신규상장",
       "link": "https://www.yna.co.kr/view/AKR20260306142500008",
@@ -122,36 +152,6 @@
       "title": "평택시, 미국·이란 전쟁 관련 '비상경제대책본부' 운영",
       "link": "https://www.yna.co.kr/view/AKR20260306118900061",
       "pubDate": "Fri, 6 Mar 2026 15:09:01 +0900"
-    },
-    {
-      "title": "주유소협회 \"기름값 상승은 정유사 공급가 영향…'폭리' 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306113000003",
-      "pubDate": "Fri, 6 Mar 2026 14:56:31 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행, 한화오션과 조선업 금융 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260306114600002",
-      "pubDate": "Fri, 6 Mar 2026 14:56:00 +0900"
-    },
-    {
-      "title": "충청권광역철도·동해남부선 인근 유휴부지, 민간 제안 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260306115000063",
-      "pubDate": "Fri, 6 Mar 2026 14:54:06 +0900"
-    },
-    {
-      "title": "[동포의 창] 국내 청년 33명, 12개국 동포 기업에서 실무 경험",
-      "link": "https://www.yna.co.kr/view/AKR20260306114700371",
-      "pubDate": "Fri, 6 Mar 2026 14:54:02 +0900"
-    },
-    {
-      "title": "[부산소식] 부산은행갤러리서 봄맞이 전시회 잇달아",
-      "link": "https://www.yna.co.kr/view/AKR20260306113900051",
-      "pubDate": "Fri, 6 Mar 2026 14:53:48 +0900"
-    },
-    {
-      "title": "세아제강지주 작년 영업이익 2천58억원…전년보다 2.7% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260306112500003",
-      "pubDate": "Fri, 6 Mar 2026 14:48:56 +0900"
     }
   ]
 }
