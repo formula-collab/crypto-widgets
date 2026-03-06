@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772781006,
+  "updated_at_unix": 1772783697,
   "items": [
+    {
+      "title": "'중국 반도체 기업 투자' ETF 등 3종 10일 신규상장",
+      "link": "https://www.yna.co.kr/view/AKR20260306142500008",
+      "pubDate": "Fri, 6 Mar 2026 16:37:12 +0900"
+    },
+    {
+      "title": "금융위, 중동상황 시장점검…시장안정프로그램 적극 운영 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260306134500002",
+      "pubDate": "Fri, 6 Mar 2026 16:11:28 +0900"
+    },
+    {
+      "title": "코스피, 등락 끝에 5,580대 강보합 마감…코스닥은 3% 넘게 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306134200008",
+      "pubDate": "Fri, 6 Mar 2026 16:07:34 +0900"
+    },
+    {
+      "title": "KeSPA·한화생명, e스포츠 국가대표 공식 파트너십 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260306134000017",
+      "pubDate": "Fri, 6 Mar 2026 16:07:19 +0900"
+    },
     {
       "title": "납 기준 초과 검출된 사과주스 판매 중단·회수",
       "link": "https://www.yna.co.kr/view/AKR20260306133200017",
@@ -132,26 +152,6 @@
       "title": "세아제강지주 작년 영업이익 2천58억원…전년보다 2.7% 감소",
       "link": "https://www.yna.co.kr/view/AKR20260306112500003",
       "pubDate": "Fri, 6 Mar 2026 14:48:56 +0900"
-    },
-    {
-      "title": "울산 민관 '원팀'으로 소상공인 지원…지역상품권 107억원 구매",
-      "link": "https://www.yna.co.kr/view/AKR20260306114300057",
-      "pubDate": "Fri, 6 Mar 2026 14:48:17 +0900"
-    },
-    {
-      "title": "[게시판] NH투자, 올해 첫 '사랑의 나눔 헌혈' 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260306114200008",
-      "pubDate": "Fri, 6 Mar 2026 14:48:02 +0900"
-    },
-    {
-      "title": "NH농협은행 경남본부, 중동 전쟁 피해기업에 유동성 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260306102400052",
-      "pubDate": "Fri, 6 Mar 2026 14:33:05 +0900"
-    },
-    {
-      "title": "안산시, 청년 임대차 중개보수 감면…'착한부동산' 62곳 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260306108700061",
-      "pubDate": "Fri, 6 Mar 2026 14:27:32 +0900"
     }
   ]
 }
