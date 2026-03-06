@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772791151,
+  "updated_at_unix": 1772793285,
   "items": [
+    {
+      "title": "사우디, 아시아에 파는 원유 가격 인상…3년 반만에 최대폭↑",
+      "link": "https://www.yna.co.kr/view/AKR20260306167200009",
+      "pubDate": "Fri, 6 Mar 2026 19:08:31 +0900"
+    },
+    {
+      "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306168000001",
+      "pubDate": "Fri, 6 Mar 2026 19:05:12 +0900"
+    },
+    {
+      "title": "마포 레드로드 공사 현장서 자재 무너져…50대 작업자 사망",
+      "link": "https://www.yna.co.kr/view/AKR20260306170900004",
+      "pubDate": "Fri, 6 Mar 2026 19:02:15 +0900"
+    },
+    {
+      "title": "가족·지인 '허위 직원'으로 동원…7억대 고용보험금 부정수급",
+      "link": "https://www.yna.co.kr/view/AKR20260306170100065",
+      "pubDate": "Fri, 6 Mar 2026 18:57:30 +0900"
+    },
     {
       "title": "지니너스, 200억원 유증…케이비 디지털 플랫폼 펀드 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260306169900008",
@@ -132,26 +152,6 @@
       "title": "野김은혜 \"정정옥 비서관 농지투기 의혹\"…靑 \"상황 파악할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260306140600001",
       "pubDate": "Fri, 6 Mar 2026 16:52:11 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.227%",
-      "link": "https://www.yna.co.kr/view/AKR20260306143400008",
-      "pubDate": "Fri, 6 Mar 2026 16:50:10 +0900"
-    },
-    {
-      "title": "'중국 반도체 기업 투자' ETF 등 3종 10일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260306142500008",
-      "pubDate": "Fri, 6 Mar 2026 16:37:12 +0900"
-    },
-    {
-      "title": "금융위, 중동상황 시장점검…시장안정프로그램 적극 운영 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260306134500002",
-      "pubDate": "Fri, 6 Mar 2026 16:11:28 +0900"
-    },
-    {
-      "title": "코스피, 등락 끝에 5,580대 강보합 마감…코스닥은 3% 넘게 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306134200008",
-      "pubDate": "Fri, 6 Mar 2026 16:07:34 +0900"
     }
   ]
 }
