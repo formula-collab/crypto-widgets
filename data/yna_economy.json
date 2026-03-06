@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772773439,
+  "updated_at_unix": 1772776952,
   "items": [
+    {
+      "title": "주유소협회 \"기름값 상승은 정유사 공급가 영향…'폭리' 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306113000003",
+      "pubDate": "Fri, 6 Mar 2026 14:56:31 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, 한화오션과 조선업 금융 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260306114600002",
+      "pubDate": "Fri, 6 Mar 2026 14:56:00 +0900"
+    },
+    {
+      "title": "충청권광역철도·동해남부선 인근 유휴부지, 민간 제안 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260306115000063",
+      "pubDate": "Fri, 6 Mar 2026 14:54:06 +0900"
+    },
+    {
+      "title": "[동포의 창] 국내 청년 33명, 12개국 동포 기업에서 실무 경험",
+      "link": "https://www.yna.co.kr/view/AKR20260306114700371",
+      "pubDate": "Fri, 6 Mar 2026 14:54:02 +0900"
+    },
+    {
+      "title": "[부산소식] 부산은행갤러리서 봄맞이 전시회 잇달아",
+      "link": "https://www.yna.co.kr/view/AKR20260306113900051",
+      "pubDate": "Fri, 6 Mar 2026 14:53:48 +0900"
+    },
+    {
+      "title": "세아제강지주 작년 영업이익 2천58억원…전년보다 2.7% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260306112500003",
+      "pubDate": "Fri, 6 Mar 2026 14:48:56 +0900"
+    },
+    {
+      "title": "울산 민관 '원팀'으로 소상공인 지원…지역상품권 107억원 구매",
+      "link": "https://www.yna.co.kr/view/AKR20260306114300057",
+      "pubDate": "Fri, 6 Mar 2026 14:48:17 +0900"
+    },
+    {
+      "title": "[게시판] NH투자, 올해 첫 '사랑의 나눔 헌혈' 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260306114200008",
+      "pubDate": "Fri, 6 Mar 2026 14:48:02 +0900"
+    },
+    {
+      "title": "NH농협은행 경남본부, 중동 전쟁 피해기업에 유동성 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260306102400052",
+      "pubDate": "Fri, 6 Mar 2026 14:33:05 +0900"
+    },
+    {
+      "title": "안산시, 청년 임대차 중개보수 감면…'착한부동산' 62곳 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260306108700061",
+      "pubDate": "Fri, 6 Mar 2026 14:27:32 +0900"
+    },
+    {
+      "title": "이란 사태 영향 최소화…경남도, 민생경제안정 대책회의",
+      "link": "https://www.yna.co.kr/view/AKR20260306104600052",
+      "pubDate": "Fri, 6 Mar 2026 14:06:15 +0900"
+    },
+    {
+      "title": "\"제주 '탐나는전'에 AI 접목해 스마트 경제 정책 도구로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306075000056",
+      "pubDate": "Fri, 6 Mar 2026 14:00:02 +0900"
+    },
     {
       "title": "SK에코엔지니어링, 500억원 유상증자…AI 인프라 사업 기반 마련",
       "link": "https://www.yna.co.kr/view/AKR20260306103300003",
@@ -92,66 +152,6 @@
       "title": "전주시, 아동급식카드 사용 음식점 1천200곳→ 9천곳 확대",
       "link": "https://www.yna.co.kr/view/AKR20260306070800055",
       "pubDate": "Fri, 6 Mar 2026 11:00:55 +0900"
-    },
-    {
-      "title": "농협, 전국 농기계 무상 수리 발대식…영농철 점검 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260306041400030",
-      "pubDate": "Fri, 6 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국표원·식약처, WTO에 韓 수출 걸림돌 해소 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260306058500003",
-      "pubDate": "Fri, 6 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "재경부, 홍콩서 한국경제 설명회…\"성장 회복 흐름 견조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306046700002",
-      "pubDate": "Fri, 6 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "부산상의 회장단, 자동차 부품 기업 현장 방문…애로사항 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260306066200051",
-      "pubDate": "Fri, 6 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "동부건설, 738억원 규모 고양창릉 지하차도 공사 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260306075100003",
-      "pubDate": "Fri, 6 Mar 2026 10:58:13 +0900"
-    },
-    {
-      "title": "장수군, 창업 청년에 점포리모델링·장비구입비 1천800만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260306073200055",
-      "pubDate": "Fri, 6 Mar 2026 10:56:47 +0900"
-    },
-    {
-      "title": "광주전남 2월 물가 1.6∼1.9% 상승…돼지고기·쌀·고등어 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260306065700054",
-      "pubDate": "Fri, 6 Mar 2026 10:49:17 +0900"
-    },
-    {
-      "title": "울주군정신건강복지센터, 지역 소상공인 정신건강 증진 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260306067500057",
-      "pubDate": "Fri, 6 Mar 2026 10:40:06 +0900"
-    },
-    {
-      "title": "관세청, '중동 비상대응 TF' 구성…수출입 기업 긴급 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260306065400002",
-      "pubDate": "Fri, 6 Mar 2026 10:38:55 +0900"
-    },
-    {
-      "title": "2035년 플라즈마 4대 강국 도전…정부 기술개발 전략 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260306067800017",
-      "pubDate": "Fri, 6 Mar 2026 10:36:36 +0900"
-    },
-    {
-      "title": "전북 기업인들 \"새만금국제공항은 지역경제 도약 필수 인프라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306066800055",
-      "pubDate": "Fri, 6 Mar 2026 10:30:23 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260306062800011",
-      "pubDate": "Fri, 6 Mar 2026 10:30:00 +0900"
     }
   ]
 }
