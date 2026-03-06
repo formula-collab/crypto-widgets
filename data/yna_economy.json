@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772809427,
+  "updated_at_unix": 1772812594,
   "items": [
+    {
+      "title": "美연준 월러 이사 \"이란전쟁, 인플레에 지속영향 미치지 않을것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260307001100072",
+      "pubDate": "Sat, 7 Mar 2026 00:38:08 +0900"
+    },
     {
       "title": "석유 3단체 \"공급 및 가격 안정 적극 협조\"",
       "link": "https://www.yna.co.kr/view/AKR20260306180800003",
@@ -147,11 +152,6 @@
       "title": "농식품부 \"중동 정세 영향 제한적…장기화 대비 모니터링 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260306153900030",
       "pubDate": "Fri, 6 Mar 2026 17:24:34 +0900"
-    },
-    {
-      "title": "과천시의회, '경마공원 이전 철회 특별위원회' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260306152300061",
-      "pubDate": "Fri, 6 Mar 2026 17:19:56 +0900"
     }
   ]
 }
