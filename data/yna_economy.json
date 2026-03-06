@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772797682,
+  "updated_at_unix": 1772800174,
   "items": [
+    {
+      "title": "'무혐의' 세관직원들 고소에…백해룡 \"영혼까지 매수돼\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306162551004",
+      "pubDate": "Fri, 6 Mar 2026 20:42:48 +0900"
+    },
     {
       "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306168051001",
@@ -147,11 +152,6 @@
       "title": "기름값 급등에 서울 1천900원대…3년만에 '경유＞휘발유' 역전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306061601003",
       "pubDate": "Fri, 6 Mar 2026 17:08:44 +0900"
-    },
-    {
-      "title": "콜마비앤에이치 \"종속회사 강소콜마미보과기에 280억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306147400008",
-      "pubDate": "Fri, 6 Mar 2026 17:03:24 +0900"
     }
   ]
 }
