@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772830329,
+  "updated_at_unix": 1772831927,
   "items": [
+    {
+      "title": "뉴욕증시, 유가급등·고용위축에 하락 마감…다우 1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260307010400072",
+      "pubDate": "Sat, 7 Mar 2026 06:09:33 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 전국 2천여가구 공급…견본주택 4곳 개관",
+      "link": "https://www.yna.co.kr/view/AKR20260306163200003",
+      "pubDate": "Sat, 7 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 원유 공급 마르기 시작했다…WTI 사상 최대 상승률",
+      "link": "https://www.yna.co.kr/view/AKR20260307009600009",
+      "pubDate": "Sat, 7 Mar 2026 05:57:47 +0900"
+    },
     {
       "title": "호르무즈 봉쇄에 치솟는 국제유가…배럴당 90달러 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260307008600072",
@@ -137,21 +152,6 @@
       "title": "2025년 우수 투자은행 시상식…최우수IB에 미래에셋증권",
       "link": "https://www.yna.co.kr/view/AKR20260306158400008",
       "pubDate": "Fri, 6 Mar 2026 17:39:19 +0900"
-    },
-    {
-      "title": "SC제일은행 작년 순익 1천415억원…ELS 제재 충당금에 57% 급감",
-      "link": "https://www.yna.co.kr/view/AKR20260306152500002",
-      "pubDate": "Fri, 6 Mar 2026 17:34:09 +0900"
-    },
-    {
-      "title": "금융위, 기관 주주활동 범위 명확화…\"자사주 소각 요구 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306148100002",
-      "pubDate": "Fri, 6 Mar 2026 17:31:12 +0900"
-    },
-    {
-      "title": "동남권원자력의학원·부산글로벌도시재단, 의료서비스 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260306156600051",
-      "pubDate": "Fri, 6 Mar 2026 17:30:24 +0900"
     }
   ]
 }
