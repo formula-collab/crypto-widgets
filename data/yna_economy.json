@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772837492,
+  "updated_at_unix": 1772839060,
   "items": [
+    {
+      "title": "부산 해수동 아파트값 상승세 둔화…전셋값은 강세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260306086000051",
+      "pubDate": "Sat, 7 Mar 2026 08:00:10 +0900"
+    },
+    {
+      "title": "\"월급 120만원 깎인 셈\"…유가 급등에 화물차 기사들 '비명'",
+      "link": "https://www.yna.co.kr/view/AKR20260307000900004",
+      "pubDate": "Sat, 7 Mar 2026 07:55:00 +0900"
+    },
+    {
+      "title": "유가 급등 속 고용충격까지…美 스태그플레이션 우려 부상",
+      "link": "https://www.yna.co.kr/view/AKR20260307016900072",
+      "pubDate": "Sat, 7 Mar 2026 07:53:31 +0900"
+    },
     {
       "title": "[신상잇슈] 롯데웰푸드 말랑카우 초코볼젤리·농심 포테토칩 교촌간장치킨맛",
       "link": "https://www.yna.co.kr/view/AKR20260306036800030",
@@ -137,21 +152,6 @@
       "title": "'마약밀수 의혹 무혐의' 세관 직원들, 검찰에 백해룡 고소",
       "link": "https://www.yna.co.kr/view/AKR20260306162500004",
       "pubDate": "Fri, 6 Mar 2026 18:07:31 +0900"
-    },
-    {
-      "title": "코오롱 \"계열사 코오롱티슈진 주식 600억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306162700008",
-      "pubDate": "Fri, 6 Mar 2026 18:04:10 +0900"
-    },
-    {
-      "title": "인벤티지랩 \"종속회사 큐라티스 주식 100억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306161600008",
-      "pubDate": "Fri, 6 Mar 2026 18:01:59 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260306153000011",
-      "pubDate": "Fri, 6 Mar 2026 18:00:00 +0900"
     }
   ]
 }
