@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772787614,
+  "updated_at_unix": 1772791151,
   "items": [
+    {
+      "title": "지니너스, 200억원 유증…케이비 디지털 플랫폼 펀드 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260306169900008",
+      "pubDate": "Fri, 6 Mar 2026 18:52:49 +0900"
+    },
+    {
+      "title": "오아 \"중국•유럽 등 유통업체에 44억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306167700008",
+      "pubDate": "Fri, 6 Mar 2026 18:39:29 +0900"
+    },
+    {
+      "title": "인벤티지랩, 527억원 유증…플렉서스 로프티록 바이오 신기술조합 2호 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260306167300008",
+      "pubDate": "Fri, 6 Mar 2026 18:36:49 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260306166600002",
+      "pubDate": "Fri, 6 Mar 2026 18:16:31 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260306166500002",
+      "pubDate": "Fri, 6 Mar 2026 18:16:16 +0900"
+    },
+    {
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20260306164300002",
+      "pubDate": "Fri, 6 Mar 2026 18:16:08 +0900"
+    },
+    {
+      "title": "주유소 찾은 구윤철 \"국가위기로 가격 인상, 파렴치…단호 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306162800002",
+      "pubDate": "Fri, 6 Mar 2026 18:14:23 +0900"
+    },
+    {
+      "title": "'가정·성폭력 보험상품' 출시 논란…\"여성폭력 시장대상 전락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306162400530",
+      "pubDate": "Fri, 6 Mar 2026 18:14:03 +0900"
+    },
+    {
+      "title": "'마약밀수 의혹 무혐의' 세관 직원들, 검찰에 백해룡 고소",
+      "link": "https://www.yna.co.kr/view/AKR20260306162500004",
+      "pubDate": "Fri, 6 Mar 2026 18:07:31 +0900"
+    },
+    {
+      "title": "코오롱 \"계열사 코오롱티슈진 주식 600억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306162700008",
+      "pubDate": "Fri, 6 Mar 2026 18:04:10 +0900"
+    },
+    {
+      "title": "인벤티지랩 \"종속회사 큐라티스 주식 100억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306161600008",
+      "pubDate": "Fri, 6 Mar 2026 18:01:59 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260306153000011",
+      "pubDate": "Fri, 6 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "[바이오스냅] 페니트리움 바이오사이언스 출범…신약 개발 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260306161800017",
+      "pubDate": "Fri, 6 Mar 2026 17:57:13 +0900"
+    },
     {
       "title": "큐라티스, 100억원 유상증자…인벤티지랩에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260306159100008",
@@ -87,71 +152,6 @@
       "title": "코스피, 등락 끝에 5,580대 강보합 마감…코스닥은 3% 넘게 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306134200008",
       "pubDate": "Fri, 6 Mar 2026 16:07:34 +0900"
-    },
-    {
-      "title": "KeSPA·한화생명, e스포츠 국가대표 공식 파트너십 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260306134000017",
-      "pubDate": "Fri, 6 Mar 2026 16:07:19 +0900"
-    },
-    {
-      "title": "납 기준 초과 검출된 사과주스 판매 중단·회수",
-      "link": "https://www.yna.co.kr/view/AKR20260306133200017",
-      "pubDate": "Fri, 6 Mar 2026 16:03:11 +0900"
-    },
-    {
-      "title": "올해도 체불노동자 감소행진…체불 68%는 '30인 미만 사업장'",
-      "link": "https://www.yna.co.kr/view/AKR20260306113400530",
-      "pubDate": "Fri, 6 Mar 2026 16:00:03 +0900"
-    },
-    {
-      "title": "보험업권 \"5년간 생산적금융 40조 지원…국민성장펀드엔 8조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306118700002",
-      "pubDate": "Fri, 6 Mar 2026 16:00:03 +0900"
-    },
-    {
-      "title": "구윤철 \"청년 창업, 중요한 성장전략…재도전 생태계 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306115400002",
-      "pubDate": "Fri, 6 Mar 2026 16:00:02 +0900"
-    },
-    {
-      "title": "[특징주] 이란 사태 우려에 방산주 강세지속…LIG넥스원 9%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306060851008",
-      "pubDate": "Fri, 6 Mar 2026 15:48:09 +0900"
-    },
-    {
-      "title": "[특징주] 삼전·닉스, 이란사태 우려 속 2%가까이 하락마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306041851008",
-      "pubDate": "Fri, 6 Mar 2026 15:43:02 +0900"
-    },
-    {
-      "title": "독성연, 몽골과 식품·환경 안전관리 MOU…통합 모델 구축 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260306129900063",
-      "pubDate": "Fri, 6 Mar 2026 15:42:52 +0900"
-    },
-    {
-      "title": "중동발 리스크에 광주 수출기업, 물류·에너지 비용 상승 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260306128800054",
-      "pubDate": "Fri, 6 Mar 2026 15:42:01 +0900"
-    },
-    {
-      "title": "환율, 이란 사태 장기화 우려에 8.3원 오른 1,476.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260306040951002",
-      "pubDate": "Fri, 6 Mar 2026 15:40:36 +0900"
-    },
-    {
-      "title": "코스피, 5,580대 강보합 마감…코스닥은 3%대 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260306128200008",
-      "pubDate": "Fri, 6 Mar 2026 15:36:43 +0900"
-    },
-    {
-      "title": "외국환시세(3월6일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260306128000002",
-      "pubDate": "Fri, 6 Mar 2026 15:36:06 +0900"
-    },
-    {
-      "title": "화물연대 \"유가 폭등에 생존권 위협…안전운임제 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306120600004",
-      "pubDate": "Fri, 6 Mar 2026 15:34:25 +0900"
     }
   ]
 }
