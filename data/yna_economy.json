@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772768287,
+  "updated_at_unix": 1772773439,
   "items": [
+    {
+      "title": "SK에코엔지니어링, 500억원 유상증자…AI 인프라 사업 기반 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260306103300003",
+      "pubDate": "Fri, 6 Mar 2026 13:58:29 +0900"
+    },
+    {
+      "title": "국토부, 안산시와 '철도 지하화' 사업 협력 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260306101100003",
+      "pubDate": "Fri, 6 Mar 2026 13:48:16 +0900"
+    },
+    {
+      "title": "무학, 프리미엄 저도수 소주 'All New 좋은데이' 출시…15.7도",
+      "link": "https://www.yna.co.kr/view/AKR20260306099100052",
+      "pubDate": "Fri, 6 Mar 2026 13:38:46 +0900"
+    },
+    {
+      "title": "정부 \"석유류 가격 조속히 안정되도록 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306091800002",
+      "pubDate": "Fri, 6 Mar 2026 13:31:08 +0900"
+    },
+    {
+      "title": "구윤철 \"중동발 불확실성 선제 대응…석유류 등 민생안정 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306095800002",
+      "pubDate": "Fri, 6 Mar 2026 13:29:34 +0900"
+    },
+    {
+      "title": "동작구, 소상공인에 287억원대 특별보증 융자지원",
+      "link": "https://www.yna.co.kr/view/AKR20260306094100004",
+      "pubDate": "Fri, 6 Mar 2026 13:23:29 +0900"
+    },
+    {
+      "title": "충북 2월 소비자물가지수 2.0% ↑…쌀·커피값 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260306093200064",
+      "pubDate": "Fri, 6 Mar 2026 13:09:32 +0900"
+    },
     {
       "title": "연말정산 환급금 18일에 나온다…국세청, 법정기한보다 조기지급",
       "link": "https://www.yna.co.kr/view/AKR20260305153100002",
@@ -117,41 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260306062800011",
       "pubDate": "Fri, 6 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "횡성군, 중소기업 수출 판로 확대…4억6천만원 규모 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260306060200062",
-      "pubDate": "Fri, 6 Mar 2026 10:24:56 +0900"
-    },
-    {
-      "title": "노동부-금융권, 장애인 고용확대 위해 맞손…협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260306045600530",
-      "pubDate": "Fri, 6 Mar 2026 10:20:00 +0900"
-    },
-    {
-      "title": "군포시, 부동산 초보 청년 위한 '안심계약 도움서비스' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260306064400061",
-      "pubDate": "Fri, 6 Mar 2026 10:19:23 +0900"
-    },
-    {
-      "title": "2월 물가 2.0% 상승…'중동 사태' 유가 상승은 내달 반영될 듯(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260306021653002",
-      "pubDate": "Fri, 6 Mar 2026 10:16:21 +0900"
-    },
-    {
-      "title": "미래에셋증권, 우리카드 5천만弗 '소셜 김치본드' 발행주관 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260306063000008",
-      "pubDate": "Fri, 6 Mar 2026 10:13:35 +0900"
-    },
-    {
-      "title": "당정 \"해외주식 양도소득세 공제 등 '환율안정법' 신속처리\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306031051001",
-      "pubDate": "Fri, 6 Mar 2026 10:11:56 +0900"
-    },
-    {
-      "title": "서울 주유소 기름값 1천900원대 진입…경유 가격, 휘발유 추월",
-      "link": "https://www.yna.co.kr/view/AKR20260306061600003",
-      "pubDate": "Fri, 6 Mar 2026 10:10:18 +0900"
     }
   ]
 }
