@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772785459,
+  "updated_at_unix": 1772787614,
   "items": [
+    {
+      "title": "큐라티스, 100억원 유상증자…인벤티지랩에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260306159100008",
+      "pubDate": "Fri, 6 Mar 2026 17:41:37 +0900"
+    },
+    {
+      "title": "2025년 우수 투자은행 시상식…최우수IB에 미래에셋증권",
+      "link": "https://www.yna.co.kr/view/AKR20260306158400008",
+      "pubDate": "Fri, 6 Mar 2026 17:39:19 +0900"
+    },
+    {
+      "title": "SC제일은행 작년 순익 1천415억원…ELS 제재 충당금에 57% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260306152500002",
+      "pubDate": "Fri, 6 Mar 2026 17:34:09 +0900"
+    },
+    {
+      "title": "금융위, 기관 주주활동 범위 명확화…\"자사주 소각 요구 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306148100002",
+      "pubDate": "Fri, 6 Mar 2026 17:31:12 +0900"
+    },
+    {
+      "title": "동남권원자력의학원·부산글로벌도시재단, 의료서비스 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260306156600051",
+      "pubDate": "Fri, 6 Mar 2026 17:30:24 +0900"
+    },
+    {
+      "title": "재경부, 원화외평채 입찰기관 간담회…중동 영향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260306147000002",
+      "pubDate": "Fri, 6 Mar 2026 17:30:00 +0900"
+    },
+    {
+      "title": "농식품부 \"중동 정세 영향 제한적…장기화 대비 모니터링 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306153900030",
+      "pubDate": "Fri, 6 Mar 2026 17:24:34 +0900"
+    },
+    {
+      "title": "과천시의회, '경마공원 이전 철회 특별위원회' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260306152300061",
+      "pubDate": "Fri, 6 Mar 2026 17:19:56 +0900"
+    },
     {
       "title": "기름값 급등에 서울 1천900원대…3년만에 '경유＞휘발유' 역전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306061601003",
@@ -112,46 +152,6 @@
       "title": "화물연대 \"유가 폭등에 생존권 위협…안전운임제 확대해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260306120600004",
       "pubDate": "Fri, 6 Mar 2026 15:34:25 +0900"
-    },
-    {
-      "title": "대전 사회초년생 상대 200억원대 전세사기 임대업자, 징역 13년",
-      "link": "https://www.yna.co.kr/view/AKR20260306121200063",
-      "pubDate": "Fri, 6 Mar 2026 15:32:27 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 8.3원 오른 1,476.4원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260306126000002",
-      "pubDate": "Fri, 6 Mar 2026 15:31:06 +0900"
-    },
-    {
-      "title": "SK바이오팜 \"미국 계열사 주식 513억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306124700008",
-      "pubDate": "Fri, 6 Mar 2026 15:26:19 +0900"
-    },
-    {
-      "title": "코이카-시민사회, 해외 원조사업 협력 확대…'워킹그룹' 첫 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260306118500371",
-      "pubDate": "Fri, 6 Mar 2026 15:17:11 +0900"
-    },
-    {
-      "title": "[K-VIBE] 전태수의 '웹 3.0' 이야기…'K-토큰증권' 협의체 출범 이후 과제",
-      "link": "https://www.yna.co.kr/view/AKR20260306111900371",
-      "pubDate": "Fri, 6 Mar 2026 15:14:35 +0900"
-    },
-    {
-      "title": "아·태 최대 재생에너지 기업 뷔나그룹, 태안에 1조원 투자 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260306115900063",
-      "pubDate": "Fri, 6 Mar 2026 15:11:42 +0900"
-    },
-    {
-      "title": "KB국민은행, 신임 사외이사 후보로 연태훈 금융연 연구위원 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260306119900002",
-      "pubDate": "Fri, 6 Mar 2026 15:09:49 +0900"
-    },
-    {
-      "title": "평택시, 미국·이란 전쟁 관련 '비상경제대책본부' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260306118900061",
-      "pubDate": "Fri, 6 Mar 2026 15:09:01 +0900"
     }
   ]
 }
