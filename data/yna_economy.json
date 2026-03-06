@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772800174,
+  "updated_at_unix": 1772804066,
   "items": [
+    {
+      "title": "석유 3단체 \"공급 및 가격 안정 적극 협조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306180800003",
+      "pubDate": "Fri, 6 Mar 2026 22:22:06 +0900"
+    },
     {
       "title": "'무혐의' 세관직원들 고소에…백해룡 \"영혼까지 매수돼\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306162551004",
@@ -34,7 +39,7 @@
       "pubDate": "Fri, 6 Mar 2026 19:05:12 +0900"
     },
     {
-      "title": "마포 레드로드 공사 현장서 자재 무너져…50대 작업자 사망",
+      "title": "마포 동교동 공사 현장서 자재 무너져…50대 작업자 사망",
       "link": "https://www.yna.co.kr/view/AKR20260306170900004",
       "pubDate": "Fri, 6 Mar 2026 19:02:15 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "과천시의회, '경마공원 이전 철회 특별위원회' 운영",
       "link": "https://www.yna.co.kr/view/AKR20260306152300061",
       "pubDate": "Fri, 6 Mar 2026 17:19:56 +0900"
-    },
-    {
-      "title": "기름값 급등에 서울 1천900원대…3년만에 '경유＞휘발유' 역전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306061601003",
-      "pubDate": "Fri, 6 Mar 2026 17:08:44 +0900"
     }
   ]
 }
