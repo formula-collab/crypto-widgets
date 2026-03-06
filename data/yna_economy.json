@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772793285,
+  "updated_at_unix": 1772795977,
   "items": [
+    {
+      "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306168051001",
+      "pubDate": "Fri, 6 Mar 2026 19:53:19 +0900"
+    },
+    {
+      "title": "정부, 알뜰주유소부터 단속…\"과다인상 땐 사업권 박탈\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306173900003",
+      "pubDate": "Fri, 6 Mar 2026 19:34:49 +0900"
+    },
+    {
+      "title": "野김은혜 \"정정옥 비서관 농지투기 의혹\"…靑 \"필요시 조치할 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260306140651001",
+      "pubDate": "Fri, 6 Mar 2026 19:34:12 +0900"
+    },
     {
       "title": "사우디, 아시아에 파는 원유 가격 인상…3년 반만에 최대폭↑",
       "link": "https://www.yna.co.kr/view/AKR20260306167200009",
@@ -137,21 +152,6 @@
       "title": "콜마비앤에이치 \"종속회사 강소콜마미보과기에 280억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260306147400008",
       "pubDate": "Fri, 6 Mar 2026 17:03:24 +0900"
-    },
-    {
-      "title": "웰킵스하이텍 \"BH 제1호 재무구조개선 투자기구에 60억 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306147300008",
-      "pubDate": "Fri, 6 Mar 2026 17:02:30 +0900"
-    },
-    {
-      "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.227%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306143451008",
-      "pubDate": "Fri, 6 Mar 2026 17:00:47 +0900"
-    },
-    {
-      "title": "野김은혜 \"정정옥 비서관 농지투기 의혹\"…靑 \"상황 파악할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306140600001",
-      "pubDate": "Fri, 6 Mar 2026 16:52:11 +0900"
     }
   ]
 }
