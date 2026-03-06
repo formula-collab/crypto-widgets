@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772831927,
+  "updated_at_unix": 1772833730,
   "items": [
+    {
+      "title": "뉴욕증시, 유가급등·고용위축에 하락 마감…다우 1%↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260307010451072",
+      "pubDate": "Sat, 7 Mar 2026 06:27:05 +0900"
+    },
     {
       "title": "뉴욕증시, 유가급등·고용위축에 하락 마감…다우 1%↓",
       "link": "https://www.yna.co.kr/view/AKR20260307010400072",
@@ -147,11 +152,6 @@
       "title": "큐라티스, 100억원 유상증자…인벤티지랩에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260306159100008",
       "pubDate": "Fri, 6 Mar 2026 17:41:37 +0900"
-    },
-    {
-      "title": "2025년 우수 투자은행 시상식…최우수IB에 미래에셋증권",
-      "link": "https://www.yna.co.kr/view/AKR20260306158400008",
-      "pubDate": "Fri, 6 Mar 2026 17:39:19 +0900"
     }
   ]
 }
