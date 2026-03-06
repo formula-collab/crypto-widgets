@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772839060,
+  "updated_at_unix": 1772840786,
   "items": [
+    {
+      "title": "'호르무즈발 유가비상'에 美, \"러 원유 제재 추가완화 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260307020700071",
+      "pubDate": "Sat, 7 Mar 2026 08:24:17 +0900"
+    },
     {
       "title": "부산 해수동 아파트값 상승세 둔화…전셋값은 강세 지속",
       "link": "https://www.yna.co.kr/view/AKR20260306086000051",
@@ -147,11 +152,6 @@
       "title": "'가정·성폭력 보험상품' 출시 논란…\"여성폭력 시장대상 전락\"",
       "link": "https://www.yna.co.kr/view/AKR20260306162400530",
       "pubDate": "Fri, 6 Mar 2026 18:14:03 +0900"
-    },
-    {
-      "title": "'마약밀수 의혹 무혐의' 세관 직원들, 검찰에 백해룡 고소",
-      "link": "https://www.yna.co.kr/view/AKR20260306162500004",
-      "pubDate": "Fri, 6 Mar 2026 18:07:31 +0900"
     }
   ]
 }
