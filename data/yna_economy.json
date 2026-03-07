@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772919611,
+  "updated_at_unix": 1772921497,
   "items": [
+    {
+      "title": "유가 급등에 중소형 정유·에너지주 '들썩'…상승률 상위권 포진",
+      "link": "https://www.yna.co.kr/view/AKR20260306180700008",
+      "pubDate": "Sun, 8 Mar 2026 07:03:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 잦아들지 않는 중동위기…韓증시 반등세 이어갈 수 있나",
+      "link": "https://www.yna.co.kr/view/AKR20260307031600008",
+      "pubDate": "Sun, 8 Mar 2026 07:00:17 +0900"
+    },
+    {
+      "title": "[빈집의 재탄생] 낡은 한옥·옛 떡공장이 활기 넘치는 청년 아지트로",
+      "link": "https://www.yna.co.kr/view/AKR20260303111100052",
+      "pubDate": "Sun, 8 Mar 2026 06:45:01 +0900"
+    },
     {
       "title": "격차 확대·순위 역전…증시 활황 속 ETF 운용사 순위 지각변동",
       "link": "https://www.yna.co.kr/view/AKR20260307031900008",
@@ -137,21 +152,6 @@
       "title": "노동 당국, 고흥 굴양식장 외국인 인권침해 의혹 조사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260307045900054",
       "pubDate": "Sat, 7 Mar 2026 15:31:06 +0900"
-    },
-    {
-      "title": "세계 식량가격지수 0.9%↑…5개월 하락 후 상승 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260307043200030",
-      "pubDate": "Sat, 7 Mar 2026 14:57:54 +0900"
-    },
-    {
-      "title": "김정관·여한구 동시 방미…美러트닉 등 만나 관세·투자 협의",
-      "link": "https://www.yna.co.kr/view/AKR20260307042600003",
-      "pubDate": "Sat, 7 Mar 2026 14:43:06 +0900"
-    },
-    {
-      "title": "경남여성단체, 세계 여성의 날 기념…\"구조적 성차별 여전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306153700052",
-      "pubDate": "Sat, 7 Mar 2026 14:30:01 +0900"
     }
   ]
 }
