@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772921497,
+  "updated_at_unix": 1772923499,
   "items": [
+    {
+      "title": "'롤러코스터 증시'에 손바뀜 급증…흥구석유 회전율 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260306177000008",
+      "pubDate": "Sun, 8 Mar 2026 07:15:01 +0900"
+    },
+    {
+      "title": "인천공항 면세점 4월에 확 바뀐다…롯데·현대 '승부수'",
+      "link": "https://www.yna.co.kr/view/AKR20260306173200030",
+      "pubDate": "Sun, 8 Mar 2026 07:11:00 +0900"
+    },
+    {
+      "title": "나흘간 코스피 VI 발동 3천건 넘어…가장 자주 발동된 종목은",
+      "link": "https://www.yna.co.kr/view/AKR20260307000600008",
+      "pubDate": "Sun, 8 Mar 2026 07:07:00 +0900"
+    },
     {
       "title": "유가 급등에 중소형 정유·에너지주 '들썩'…상승률 상위권 포진",
       "link": "https://www.yna.co.kr/view/AKR20260306180700008",
@@ -137,21 +152,6 @@
       "title": "\"경마공원 사수\"…과천시민 한달 만에 또 주택공급안 반대 집회",
       "link": "https://www.yna.co.kr/view/AKR20260307050300061",
       "pubDate": "Sat, 7 Mar 2026 17:25:12 +0900"
-    },
-    {
-      "title": "주유소 기름값 또 올라…서울 평균 2천원 앞두고 상승세 둔화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260307028051003",
-      "pubDate": "Sat, 7 Mar 2026 16:33:03 +0900"
-    },
-    {
-      "title": "속초시, 유가 상승 우려에 주유소 현장 계도 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260307047600062",
-      "pubDate": "Sat, 7 Mar 2026 16:32:37 +0900"
-    },
-    {
-      "title": "노동 당국, 고흥 굴양식장 외국인 인권침해 의혹 조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260307045900054",
-      "pubDate": "Sat, 7 Mar 2026 15:31:06 +0900"
     }
   ]
 }
