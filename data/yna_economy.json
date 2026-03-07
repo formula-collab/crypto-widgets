@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772916279,
+  "updated_at_unix": 1772917875,
   "items": [
+    {
+      "title": "LG디스플레이 OLED 품은 파나소닉…올레드TV 경쟁 불붙나",
+      "link": "https://www.yna.co.kr/view/AKR20260305162000003",
+      "pubDate": "Sun, 8 Mar 2026 06:05:00 +0900"
+    },
+    {
+      "title": "호르무즈 막히면 설비 멈출 수도…정유사 원유 확보 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260307033600003",
+      "pubDate": "Sun, 8 Mar 2026 06:03:00 +0900"
+    },
+    {
+      "title": "고유가에 에너지빈곤 우려…\"소득대비 연료비 높은 가구 20%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260306121600530",
+      "pubDate": "Sun, 8 Mar 2026 06:02:01 +0900"
+    },
+    {
+      "title": "[노란봉투법 시행] ③ 재계 '폭풍전야'…TF 가동·매뉴얼 마련 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260306123900003",
+      "pubDate": "Sun, 8 Mar 2026 06:01:03 +0900"
+    },
+    {
+      "title": "[노란봉투법 시행] ② 노동계, 원청 상대 대규모 교섭 요구 예고…투쟁 계획도",
+      "link": "https://www.yna.co.kr/view/AKR20260305149200530",
+      "pubDate": "Sun, 8 Mar 2026 06:01:02 +0900"
+    },
+    {
+      "title": "하림, 회장 아들 회사에 일감 몰아주기 의혹도…대법원서 판단",
+      "link": "https://www.yna.co.kr/view/AKR20260307033300030",
+      "pubDate": "Sun, 8 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[노란봉투법 시행] ① 파업노동자 손배책임 제한…원청책임 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260305126600530",
+      "pubDate": "Sun, 8 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "'닭고기 담합' 논란…하림, 1천억원 과징금 소송 결과 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260306184700030",
+      "pubDate": "Sun, 8 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "금감원, 해외사모대출 불완전판매 예의주시…업계 자체점검 주문",
+      "link": "https://www.yna.co.kr/view/AKR20260307050100002",
+      "pubDate": "Sun, 8 Mar 2026 05:59:01 +0900"
+    },
+    {
+      "title": "금감원 불법사금융 특사경도 인지수사권…경기도 노하우 '열공'",
+      "link": "https://www.yna.co.kr/view/AKR20260307050200002",
+      "pubDate": "Sun, 8 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "다주택자 주담대 비중 다시 상승…지난해 36조원 늘어 32%",
+      "link": "https://www.yna.co.kr/view/AKR20260307045600002",
+      "pubDate": "Sun, 8 Mar 2026 05:55:00 +0900"
+    },
+    {
+      "title": "새마을금고 올해 가계대출 못 늘린다…당국 '순증0' 첫적용 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260307055400002",
+      "pubDate": "Sun, 8 Mar 2026 05:53:01 +0900"
+    },
+    {
+      "title": "이란사태 빚투 절정…닷새간 마통 1.3조↑, 5년3개월만에 최대폭",
+      "link": "https://www.yna.co.kr/view/AKR20260307058800002",
+      "pubDate": "Sun, 8 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "이란 사태에 널뛰는 환율…코로나19 이후 변동성 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260307049800002",
+      "pubDate": "Sun, 8 Mar 2026 05:49:00 +0900"
+    },
+    {
+      "title": "당국 역할론, 생활물가 눌렀지만…중동발 '고유가 파도'엔 한계",
+      "link": "https://www.yna.co.kr/view/AKR20260307058300002",
+      "pubDate": "Sun, 8 Mar 2026 05:47:04 +0900"
+    },
+    {
+      "title": "'중동 사태' 장기화 기로…우크라전 물가 충격 재현 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260307054500002",
+      "pubDate": "Sun, 8 Mar 2026 05:47:00 +0900"
+    },
+    {
+      "title": "중동 변수에 올해 2% 성장전망 흔들…'외날개' 반도체도 불안",
+      "link": "https://www.yna.co.kr/view/AKR20260307051200002",
+      "pubDate": "Sun, 8 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "1214회 로또 1등 12명…당첨금 각 24억3천만원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260307059900002",
@@ -67,91 +152,6 @@
       "title": "태백시 삼수동 일대 도시재생 시동…버스터미널 부지 협약",
       "link": "https://www.yna.co.kr/view/AKR20260306154200062",
       "pubDate": "Sat, 7 Mar 2026 11:20:01 +0900"
-    },
-    {
-      "title": "'위기 때 엔화 매수는 옛말'…이란 공습 후에 오히려 약세 뚜렷",
-      "link": "https://www.yna.co.kr/view/AKR20260307031500073",
-      "pubDate": "Sat, 7 Mar 2026 10:51:47 +0900"
-    },
-    {
-      "title": "\"40억 상당 건물 매입대금 미지급\"…서울시의원 사기 혐의 피소",
-      "link": "https://www.yna.co.kr/view/AKR20260307031000061",
-      "pubDate": "Sat, 7 Mar 2026 10:49:44 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260307030600011",
-      "pubDate": "Sat, 7 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "서울 주유소 기름값 2천원 갈까…상승폭은 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260307028000003",
-      "pubDate": "Sat, 7 Mar 2026 09:56:13 +0900"
-    },
-    {
-      "title": "[다음주 경제] 이란사태 대응 총력…작년 1인당 국민소득 얼마",
-      "link": "https://www.yna.co.kr/view/AKR20260307026700002",
-      "pubDate": "Sat, 7 Mar 2026 09:25:27 +0900"
-    },
-    {
-      "title": "춘천시 기초연금 최대 2.1% 인상…수급 대상 발굴 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260306100400062",
-      "pubDate": "Sat, 7 Mar 2026 09:10:01 +0900"
-    },
-    {
-      "title": "원주시, 중소기업 신용보증수수료 지원…안정적 경영 환경 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260306046400062",
-      "pubDate": "Sat, 7 Mar 2026 09:00:02 +0900"
-    },
-    {
-      "title": "'호르무즈발 유가비상'에 美, \"러 원유 제재 추가완화 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260307020700071",
-      "pubDate": "Sat, 7 Mar 2026 08:24:17 +0900"
-    },
-    {
-      "title": "부산 해수동 아파트값 상승세 둔화…전셋값은 강세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260306086000051",
-      "pubDate": "Sat, 7 Mar 2026 08:00:10 +0900"
-    },
-    {
-      "title": "\"월급 120만원 깎인 셈\"…유가 급등에 화물차 기사들 '비명'",
-      "link": "https://www.yna.co.kr/view/AKR20260307000900004",
-      "pubDate": "Sat, 7 Mar 2026 07:55:00 +0900"
-    },
-    {
-      "title": "유가 급등 속 고용충격까지…美 스태그플레이션 우려 부상",
-      "link": "https://www.yna.co.kr/view/AKR20260307016900072",
-      "pubDate": "Sat, 7 Mar 2026 07:53:31 +0900"
-    },
-    {
-      "title": "[신상잇슈] 롯데웰푸드 말랑카우 초코볼젤리·농심 포테토칩 교촌간장치킨맛",
-      "link": "https://www.yna.co.kr/view/AKR20260306036800030",
-      "pubDate": "Sat, 7 Mar 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[금주핫템] 에이피뷰티 안티에이징 프로그램·맨온더분 'SS 컬렉션'",
-      "link": "https://www.yna.co.kr/view/AKR20260306132400030",
-      "pubDate": "Sat, 7 Mar 2026 07:00:01 +0900"
-    },
-    {
-      "title": "뉴욕증시, 유가급등·고용위축에 하락 마감…다우 1%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260307010451072",
-      "pubDate": "Sat, 7 Mar 2026 06:27:05 +0900"
-    },
-    {
-      "title": "뉴욕증시, 유가급등·고용위축에 하락 마감…다우 1%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260307010400072",
-      "pubDate": "Sat, 7 Mar 2026 06:09:33 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 전국 2천여가구 공급…견본주택 4곳 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260306163200003",
-      "pubDate": "Sat, 7 Mar 2026 06:00:00 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 원유 공급 마르기 시작했다…WTI 사상 최대 상승률",
-      "link": "https://www.yna.co.kr/view/AKR20260307009600009",
-      "pubDate": "Sat, 7 Mar 2026 05:57:47 +0900"
     }
   ]
 }
