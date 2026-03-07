@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772923499,
+  "updated_at_unix": 1772925132,
   "items": [
+    {
+      "title": "호텔 파인 다이닝 약진…6개 호텔 레스토랑도 '별 달았다'",
+      "link": "https://www.yna.co.kr/view/AKR20260307034500030",
+      "pubDate": "Sun, 8 Mar 2026 08:01:00 +0900"
+    },
+    {
+      "title": "부산은행 가을야구 예·적금 20년째…우대이율 더 높인다",
+      "link": "https://www.yna.co.kr/view/AKR20260305160700051",
+      "pubDate": "Sun, 8 Mar 2026 08:00:08 +0900"
+    },
+    {
+      "title": "트럼프 관세에도 작년 美-아프리카 교역액 16% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260306114500898",
+      "pubDate": "Sun, 8 Mar 2026 08:00:06 +0900"
+    },
+    {
+      "title": "\"도로폭 20m 넘어야 도심복합개발\"…서울시 기준 실효성 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260306185200004",
+      "pubDate": "Sun, 8 Mar 2026 08:00:01 +0900"
+    },
+    {
+      "title": "경영계 \"노동계, 노란봉투법 무리한 요구 안 돼…불법행위 자제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260307055800003",
+      "pubDate": "Sun, 8 Mar 2026 08:00:01 +0900"
+    },
     {
       "title": "'롤러코스터 증시'에 손바뀜 급증…흥구석유 회전율 1위",
       "link": "https://www.yna.co.kr/view/AKR20260306177000008",
@@ -127,31 +152,6 @@
       "title": "'중동 사태' 장기화 기로…우크라전 물가 충격 재현 우려",
       "link": "https://www.yna.co.kr/view/AKR20260307054500002",
       "pubDate": "Sun, 8 Mar 2026 05:47:00 +0900"
-    },
-    {
-      "title": "중동 변수에 올해 2% 성장전망 흔들…'외날개' 반도체도 불안",
-      "link": "https://www.yna.co.kr/view/AKR20260307051200002",
-      "pubDate": "Sun, 8 Mar 2026 05:45:00 +0900"
-    },
-    {
-      "title": "1214회 로또 1등 12명…당첨금 각 24억3천만원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260307059900002",
-      "pubDate": "Sat, 7 Mar 2026 22:40:55 +0900"
-    },
-    {
-      "title": "1214회 로또 1등 '10, 15, 19, 27, 30, 33'",
-      "link": "https://www.yna.co.kr/view/AKR20260307059700002",
-      "pubDate": "Sat, 7 Mar 2026 22:29:49 +0900"
-    },
-    {
-      "title": "경기 포천 육용종계 농장서 고병원성 AI…동절기 53건 발생",
-      "link": "https://www.yna.co.kr/view/AKR20260307053000030",
-      "pubDate": "Sat, 7 Mar 2026 18:41:54 +0900"
-    },
-    {
-      "title": "\"경마공원 사수\"…과천시민 한달 만에 또 주택공급안 반대 집회",
-      "link": "https://www.yna.co.kr/view/AKR20260307050300061",
-      "pubDate": "Sat, 7 Mar 2026 17:25:12 +0900"
     }
   ]
 }
