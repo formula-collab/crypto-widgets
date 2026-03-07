@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772866917,
+  "updated_at_unix": 1772869550,
   "items": [
+    {
+      "title": "주유소 기름값 또 올라…서울 평균 2천원 앞두고 상승세 둔화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260307028051003",
+      "pubDate": "Sat, 7 Mar 2026 16:33:03 +0900"
+    },
+    {
+      "title": "속초시, 유가 상승 우려에 주유소 현장 계도 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260307047600062",
+      "pubDate": "Sat, 7 Mar 2026 16:32:37 +0900"
+    },
     {
       "title": "노동 당국, 고흥 굴양식장 외국인 인권침해 의혹 조사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260307045900054",
@@ -142,16 +152,6 @@
       "title": "석유 3단체 \"공급 및 가격 안정 적극 협조\"",
       "link": "https://www.yna.co.kr/view/AKR20260306180800003",
       "pubDate": "Fri, 6 Mar 2026 22:22:06 +0900"
-    },
-    {
-      "title": "'무혐의' 세관직원들 고소에…백해룡 \"영혼까지 매수돼\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306162551004",
-      "pubDate": "Fri, 6 Mar 2026 20:42:48 +0900"
-    },
-    {
-      "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260306168051001",
-      "pubDate": "Fri, 6 Mar 2026 19:53:19 +0900"
     }
   ]
 }
