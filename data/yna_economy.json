@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772889079,
+  "updated_at_unix": 1772891522,
   "items": [
+    {
+      "title": "1214회 로또 1등 12명…당첨금 각 24억3천만원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260307059900002",
+      "pubDate": "Sat, 7 Mar 2026 22:40:55 +0900"
+    },
+    {
+      "title": "1214회 로또 1등 '10, 15, 19, 27, 30, 33'",
+      "link": "https://www.yna.co.kr/view/AKR20260307059700002",
+      "pubDate": "Sat, 7 Mar 2026 22:29:49 +0900"
+    },
     {
       "title": "경기 포천 육용종계 농장서 고병원성 AI…동절기 53건 발생",
       "link": "https://www.yna.co.kr/view/AKR20260307053000030",
@@ -142,16 +152,6 @@
       "title": "[뉴욕유가] 원유 공급 마르기 시작했다…WTI 사상 최대 상승률",
       "link": "https://www.yna.co.kr/view/AKR20260307009600009",
       "pubDate": "Sat, 7 Mar 2026 05:57:47 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄에 치솟는 국제유가…배럴당 90달러 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260307008600072",
-      "pubDate": "Sat, 7 Mar 2026 05:21:57 +0900"
-    },
-    {
-      "title": "달러-원, 美 고용 '쇼크'에 상승폭 대거 축소…1,481.60원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260307004500002",
-      "pubDate": "Sat, 7 Mar 2026 02:33:34 +0900"
     }
   ]
 }
