@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772925132,
+  "updated_at_unix": 1772926904,
   "items": [
+    {
+      "title": "계명대 등 9개 대학, 도심캠퍼스서 '대구창업학' 공동 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260306158000053",
+      "pubDate": "Sun, 8 Mar 2026 08:30:01 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, 한국남부발전과 해상풍력 발전 공동 개발 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260307045300002",
+      "pubDate": "Sun, 8 Mar 2026 08:30:01 +0900"
+    },
+    {
+      "title": "농협, 300억원 투입해 면세유·주유소 할인 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260308011900030",
+      "pubDate": "Sun, 8 Mar 2026 08:26:38 +0900"
+    },
+    {
+      "title": "부산 이전 해수부·공공기관 직원 부동산 취득세 감면 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260306129000051",
+      "pubDate": "Sun, 8 Mar 2026 08:13:01 +0900"
+    },
     {
       "title": "호텔 파인 다이닝 약진…6개 호텔 레스토랑도 '별 달았다'",
       "link": "https://www.yna.co.kr/view/AKR20260307034500030",
@@ -132,26 +152,6 @@
       "title": "새마을금고 올해 가계대출 못 늘린다…당국 '순증0' 첫적용 추진",
       "link": "https://www.yna.co.kr/view/AKR20260307055400002",
       "pubDate": "Sun, 8 Mar 2026 05:53:01 +0900"
-    },
-    {
-      "title": "이란사태 빚투 절정…닷새간 마통 1.3조↑, 5년3개월만에 최대폭",
-      "link": "https://www.yna.co.kr/view/AKR20260307058800002",
-      "pubDate": "Sun, 8 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "이란 사태에 널뛰는 환율…코로나19 이후 변동성 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260307049800002",
-      "pubDate": "Sun, 8 Mar 2026 05:49:00 +0900"
-    },
-    {
-      "title": "당국 역할론, 생활물가 눌렀지만…중동발 '고유가 파도'엔 한계",
-      "link": "https://www.yna.co.kr/view/AKR20260307058300002",
-      "pubDate": "Sun, 8 Mar 2026 05:47:04 +0900"
-    },
-    {
-      "title": "'중동 사태' 장기화 기로…우크라전 물가 충격 재현 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260307054500002",
-      "pubDate": "Sun, 8 Mar 2026 05:47:00 +0900"
     }
   ]
 }
