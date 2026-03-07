@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772854051,
+  "updated_at_unix": 1772858694,
   "items": [
+    {
+      "title": "올해 국가공무원 5급·외교관 1차 시험 응시율 67.8%",
+      "link": "https://www.yna.co.kr/view/AKR20260307038200001",
+      "pubDate": "Sat, 7 Mar 2026 13:33:19 +0900"
+    },
     {
       "title": "경남도, 1천162억원 투입해 대학교육·지역산업 직접 연결",
       "link": "https://www.yna.co.kr/view/AKR20260307034200052",
@@ -147,11 +152,6 @@
       "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260306168000001",
       "pubDate": "Fri, 6 Mar 2026 19:05:12 +0900"
-    },
-    {
-      "title": "마포 동교동 공사 현장서 자재 무너져…50대 작업자 사망",
-      "link": "https://www.yna.co.kr/view/AKR20260306170900004",
-      "pubDate": "Fri, 6 Mar 2026 19:02:15 +0900"
     }
   ]
 }
