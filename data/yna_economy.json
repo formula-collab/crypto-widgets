@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772864693,
+  "updated_at_unix": 1772866917,
   "items": [
+    {
+      "title": "노동 당국, 고흥 굴양식장 외국인 인권침해 의혹 조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260307045900054",
+      "pubDate": "Sat, 7 Mar 2026 15:31:06 +0900"
+    },
     {
       "title": "세계 식량가격지수 0.9%↑…5개월 하락 후 상승 전환",
       "link": "https://www.yna.co.kr/view/AKR20260307043200030",
@@ -147,11 +152,6 @@
       "title": "金총리 \"청년 위한 공공임대주택 공급 대폭 확대해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260306168051001",
       "pubDate": "Fri, 6 Mar 2026 19:53:19 +0900"
-    },
-    {
-      "title": "정부, 알뜰주유소부터 단속…\"과다인상 땐 사업권 박탈\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306173900003",
-      "pubDate": "Fri, 6 Mar 2026 19:34:49 +0900"
     }
   ]
 }
