@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772840786,
+  "updated_at_unix": 1772845312,
   "items": [
+    {
+      "title": "서울 주유소 기름값 2천원 갈까…상승폭은 둔화",
+      "link": "https://www.yna.co.kr/view/AKR20260307028000003",
+      "pubDate": "Sat, 7 Mar 2026 09:56:13 +0900"
+    },
+    {
+      "title": "[다음주 경제] 이란사태 대응 총력…작년 1인당 국민소득 얼마",
+      "link": "https://www.yna.co.kr/view/AKR20260307026700002",
+      "pubDate": "Sat, 7 Mar 2026 09:25:27 +0900"
+    },
+    {
+      "title": "춘천시 기초연금 최대 2.1% 인상…수급 대상 발굴 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260306100400062",
+      "pubDate": "Sat, 7 Mar 2026 09:10:01 +0900"
+    },
+    {
+      "title": "원주시, 중소기업 신용보증수수료 지원…안정적 경영 환경 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260306046400062",
+      "pubDate": "Sat, 7 Mar 2026 09:00:02 +0900"
+    },
     {
       "title": "'호르무즈발 유가비상'에 美, \"러 원유 제재 추가완화 가능\"",
       "link": "https://www.yna.co.kr/view/AKR20260307020700071",
@@ -132,26 +152,6 @@
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260306166600002",
       "pubDate": "Fri, 6 Mar 2026 18:16:31 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260306166500002",
-      "pubDate": "Fri, 6 Mar 2026 18:16:16 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260306164300002",
-      "pubDate": "Fri, 6 Mar 2026 18:16:08 +0900"
-    },
-    {
-      "title": "주유소 찾은 구윤철 \"국가위기로 가격 인상, 파렴치…단호 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306162800002",
-      "pubDate": "Fri, 6 Mar 2026 18:14:23 +0900"
-    },
-    {
-      "title": "'가정·성폭력 보험상품' 출시 논란…\"여성폭력 시장대상 전락\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306162400530",
-      "pubDate": "Fri, 6 Mar 2026 18:14:03 +0900"
     }
   ]
 }
