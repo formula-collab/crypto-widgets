@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772871427,
+  "updated_at_unix": 1772873458,
   "items": [
+    {
+      "title": "\"경마공원 사수\"…과천시민 한달 만에 또 주택공급안 반대 집회",
+      "link": "https://www.yna.co.kr/view/AKR20260307050300061",
+      "pubDate": "Sat, 7 Mar 2026 17:25:12 +0900"
+    },
     {
       "title": "주유소 기름값 또 올라…서울 평균 2천원 앞두고 상승세 둔화(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260307028051003",
@@ -147,11 +152,6 @@
       "title": "美연준 월러 이사 \"이란전쟁, 인플레에 지속영향 미치지 않을것\"",
       "link": "https://www.yna.co.kr/view/AKR20260307001100072",
       "pubDate": "Sat, 7 Mar 2026 00:38:08 +0900"
-    },
-    {
-      "title": "석유 3단체 \"공급 및 가격 안정 적극 협조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306180800003",
-      "pubDate": "Fri, 6 Mar 2026 22:22:06 +0900"
     }
   ]
 }
