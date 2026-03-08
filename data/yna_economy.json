@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773004393,
+  "updated_at_unix": 1773006119,
   "items": [
+    {
+      "title": "'두쫀쿠' 열풍에…작년 4분기 베이커리·디저트 매출 9.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260307045200002",
+      "pubDate": "Mon, 9 Mar 2026 06:34:11 +0900"
+    },
+    {
+      "title": "임금근로 새 일자리 1년 새 25만개 증발…60대 이상도 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260304171600002",
+      "pubDate": "Mon, 9 Mar 2026 06:32:52 +0900"
+    },
+    {
+      "title": "'노년의 비극' 80세 이상 남성 자살률 가장 높아…평균의 3.7배",
+      "link": "https://www.yna.co.kr/view/AKR20260307046700002",
+      "pubDate": "Mon, 9 Mar 2026 06:32:05 +0900"
+    },
     {
       "title": "울산시, 청년 맞춤형 임대주택 150가구 공모…설계·입지 강화",
       "link": "https://www.yna.co.kr/view/AKR20260308045800057",
@@ -137,21 +152,6 @@
       "title": "강원도청 신청사 행정절차 마무리…이달 중 착공식",
       "link": "https://www.yna.co.kr/view/AKR20260308022000062",
       "pubDate": "Sun, 8 Mar 2026 11:02:27 +0900"
-    },
-    {
-      "title": "농식품부, 쌀산업기여도 평가…벼 가격 과도 인상 감점",
-      "link": "https://www.yna.co.kr/view/AKR20260306170700030",
-      "pubDate": "Sun, 8 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "\"반도체 수출 '나홀로' 호황에…체감경기 크게 개선 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260307038500002",
-      "pubDate": "Sun, 8 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "국토부, 소규모 건설현장 안전관리 강화 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260308004500003",
-      "pubDate": "Sun, 8 Mar 2026 11:00:02 +0900"
     }
   ]
 }
