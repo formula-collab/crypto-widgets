@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773007951,
+  "updated_at_unix": 1773009948,
   "items": [
+    {
+      "title": "강남구, 전국 최초 '12억 이하 1주택 다자녀 가구' 재산세 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260309015600004",
+      "pubDate": "Mon, 9 Mar 2026 07:36:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260309013500011",
+      "pubDate": "Mon, 9 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "치솟는 유가…브렌트유·WTI 배럴당 100달러 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260309014300009",
+      "pubDate": "Mon, 9 Mar 2026 07:25:17 +0900"
+    },
+    {
+      "title": "송도국제도시 '아트센터 인천' 지원단지 개발사업 감사원 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260306066000065",
+      "pubDate": "Mon, 9 Mar 2026 07:17:01 +0900"
+    },
     {
       "title": "'두쫀쿠' 열풍에…작년 4분기 베이커리·디저트 매출 9.5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260307045200002",
@@ -132,26 +152,6 @@
       "title": "서울시, 사전협상 공공기여 10조 확보…'강북전성시대'에 투자",
       "link": "https://www.yna.co.kr/view/AKR20260307009200004",
       "pubDate": "Sun, 8 Mar 2026 11:15:04 +0900"
-    },
-    {
-      "title": "상반기 전기차 보조금 소진 임박…상용차 마감속도 더 빨라",
-      "link": "https://www.yna.co.kr/view/AKR20260308022100003",
-      "pubDate": "Sun, 8 Mar 2026 11:06:01 +0900"
-    },
-    {
-      "title": "전남 농수산물 1월 수출액 7천641만 달러…작년보다 39%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260308022400054",
-      "pubDate": "Sun, 8 Mar 2026 11:06:00 +0900"
-    },
-    {
-      "title": "국힘 김재섭 \"정원오 여수 땅 인근에 또 농지… 최소 2만2천㎡\"",
-      "link": "https://www.yna.co.kr/view/AKR20260308021000001",
-      "pubDate": "Sun, 8 Mar 2026 11:05:27 +0900"
-    },
-    {
-      "title": "강원도청 신청사 행정절차 마무리…이달 중 착공식",
-      "link": "https://www.yna.co.kr/view/AKR20260308022000062",
-      "pubDate": "Sun, 8 Mar 2026 11:02:27 +0900"
     }
   ]
 }
