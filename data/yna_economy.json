@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772949635,
+  "updated_at_unix": 1772953436,
   "items": [
+    {
+      "title": "[동정] 임종룡 우리금융 회장, 그룹사 여성 부장들과 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260308035400002",
+      "pubDate": "Sun, 8 Mar 2026 15:12:50 +0900"
+    },
     {
       "title": "김재섭, 정원오 농지법 위반 의혹 추가제기…鄭측 \"합법적 자산\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260308021051001",
@@ -147,11 +152,6 @@
       "title": "[게시판] 우리은행, LG유플러스와 유학생 보이스피싱 예방 교육",
       "link": "https://www.yna.co.kr/view/AKR20260307050700002",
       "pubDate": "Sun, 8 Mar 2026 09:00:07 +0900"
-    },
-    {
-      "title": "[동정] 양종희 KB금융 회장, 여성 부점장들과 콘퍼런스",
-      "link": "https://www.yna.co.kr/view/AKR20260307060700002",
-      "pubDate": "Sun, 8 Mar 2026 09:00:03 +0900"
     }
   ]
 }
