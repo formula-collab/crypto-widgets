@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772946268,
+  "updated_at_unix": 1772949635,
   "items": [
+    {
+      "title": "김재섭, 정원오 농지법 위반 의혹 추가제기…鄭측 \"합법적 자산\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260308021051001",
+      "pubDate": "Sun, 8 Mar 2026 14:52:11 +0900"
+    },
     {
       "title": "강원도청 신청사 행정절차 마무리…이달 중 착공식(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260308022051062",
@@ -147,11 +152,6 @@
       "title": "[동정] 양종희 KB금융 회장, 여성 부점장들과 콘퍼런스",
       "link": "https://www.yna.co.kr/view/AKR20260307060700002",
       "pubDate": "Sun, 8 Mar 2026 09:00:03 +0900"
-    },
-    {
-      "title": "신한금융 \"자산불평등 역대 최고…집값 안정돼야 소비·출산\"",
-      "link": "https://www.yna.co.kr/view/AKR20260307060200002",
-      "pubDate": "Sun, 8 Mar 2026 09:00:02 +0900"
     }
   ]
 }
