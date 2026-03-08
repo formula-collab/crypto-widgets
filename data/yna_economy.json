@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772926904,
+  "updated_at_unix": 1772931983,
   "items": [
+    {
+      "title": "韓 석유·가스 중동의존도 10년새 15∼20%p↓…대미투자 '에너지' 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260308016000003",
+      "pubDate": "Sun, 8 Mar 2026 09:55:46 +0900"
+    },
+    {
+      "title": "기름값 상승세 다소 둔화…전국 휘발유 1천893원·경유 1천915원",
+      "link": "https://www.yna.co.kr/view/AKR20260308015800003",
+      "pubDate": "Sun, 8 Mar 2026 09:33:04 +0900"
+    },
+    {
+      "title": "충남도, 전국 첫 '흰다리새우 양식재해보험' 올해도 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260308015100063",
+      "pubDate": "Sun, 8 Mar 2026 09:21:53 +0900"
+    },
+    {
+      "title": "충남도, 30억원 들여 소상공인 위기 극복·재도약 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260308014800063",
+      "pubDate": "Sun, 8 Mar 2026 09:18:16 +0900"
+    },
+    {
+      "title": "[게시판] 우리은행, LG유플러스와 유학생 보이스피싱 예방 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260307050700002",
+      "pubDate": "Sun, 8 Mar 2026 09:00:07 +0900"
+    },
+    {
+      "title": "[동정] 양종희 KB금융 회장, 여성 부점장들과 콘퍼런스",
+      "link": "https://www.yna.co.kr/view/AKR20260307060700002",
+      "pubDate": "Sun, 8 Mar 2026 09:00:03 +0900"
+    },
+    {
+      "title": "신한금융 \"자산불평등 역대 최고…집값 안정돼야 소비·출산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260307060200002",
+      "pubDate": "Sun, 8 Mar 2026 09:00:02 +0900"
+    },
+    {
+      "title": "KB국민은행, 새희망홀씨 대출 금리 1%p 인하",
+      "link": "https://www.yna.co.kr/view/AKR20260307061000002",
+      "pubDate": "Sun, 8 Mar 2026 09:00:01 +0900"
+    },
+    {
+      "title": "조건부 전세대출 막히자…서울 새 입주 아파트, 월세 계약이 60%",
+      "link": "https://www.yna.co.kr/view/AKR20260308013500003",
+      "pubDate": "Sun, 8 Mar 2026 08:54:33 +0900"
+    },
     {
       "title": "계명대 등 9개 대학, 도심캠퍼스서 '대구창업학' 공동 운영",
       "link": "https://www.yna.co.kr/view/AKR20260306158000053",
@@ -107,51 +152,6 @@
       "title": "고유가에 에너지빈곤 우려…\"소득대비 연료비 높은 가구 20%\"",
       "link": "https://www.yna.co.kr/view/AKR20260306121600530",
       "pubDate": "Sun, 8 Mar 2026 06:02:01 +0900"
-    },
-    {
-      "title": "[노란봉투법 시행] ③ 재계 '폭풍전야'…TF 가동·매뉴얼 마련 '비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260306123900003",
-      "pubDate": "Sun, 8 Mar 2026 06:01:03 +0900"
-    },
-    {
-      "title": "[노란봉투법 시행] ② 노동계, 원청 상대 대규모 교섭 요구 예고…투쟁 계획도",
-      "link": "https://www.yna.co.kr/view/AKR20260305149200530",
-      "pubDate": "Sun, 8 Mar 2026 06:01:02 +0900"
-    },
-    {
-      "title": "하림, 회장 아들 회사에 일감 몰아주기 의혹도…대법원서 판단",
-      "link": "https://www.yna.co.kr/view/AKR20260307033300030",
-      "pubDate": "Sun, 8 Mar 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[노란봉투법 시행] ① 파업노동자 손배책임 제한…원청책임 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260305126600530",
-      "pubDate": "Sun, 8 Mar 2026 06:01:01 +0900"
-    },
-    {
-      "title": "'닭고기 담합' 논란…하림, 1천억원 과징금 소송 결과 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260306184700030",
-      "pubDate": "Sun, 8 Mar 2026 06:01:00 +0900"
-    },
-    {
-      "title": "금감원, 해외사모대출 불완전판매 예의주시…업계 자체점검 주문",
-      "link": "https://www.yna.co.kr/view/AKR20260307050100002",
-      "pubDate": "Sun, 8 Mar 2026 05:59:01 +0900"
-    },
-    {
-      "title": "금감원 불법사금융 특사경도 인지수사권…경기도 노하우 '열공'",
-      "link": "https://www.yna.co.kr/view/AKR20260307050200002",
-      "pubDate": "Sun, 8 Mar 2026 05:57:00 +0900"
-    },
-    {
-      "title": "다주택자 주담대 비중 다시 상승…지난해 36조원 늘어 32%",
-      "link": "https://www.yna.co.kr/view/AKR20260307045600002",
-      "pubDate": "Sun, 8 Mar 2026 05:55:00 +0900"
-    },
-    {
-      "title": "새마을금고 올해 가계대출 못 늘린다…당국 '순증0' 첫적용 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260307055400002",
-      "pubDate": "Sun, 8 Mar 2026 05:53:01 +0900"
     }
   ]
 }
