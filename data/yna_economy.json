@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773009948,
+  "updated_at_unix": 1773011589,
   "items": [
+    {
+      "title": "\"커피농장에 야자수숲 하이킹\"…안데스로 손짓하는 콜롬비아",
+      "link": "https://www.yna.co.kr/view/AKR20260307047100030",
+      "pubDate": "Mon, 9 Mar 2026 08:01:02 +0900"
+    },
+    {
+      "title": "\"세계 관광객 새로운 경험 원해…콜롬비아 신규 관광지 발굴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260307050600030",
+      "pubDate": "Mon, 9 Mar 2026 08:01:00 +0900"
+    },
+    {
+      "title": "산업장관 \"국제유가 상승에 편승한 물가안정 역행 행위 엄벌\"",
+      "link": "https://www.yna.co.kr/view/AKR20260308021100003",
+      "pubDate": "Mon, 9 Mar 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 고용 충격·유가 급등에 먹구름 짙어진 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20260309018200008",
+      "pubDate": "Mon, 9 Mar 2026 07:59:52 +0900"
+    },
+    {
+      "title": "서초구, 신혼부부·청년에 전월세 보증금 대출이자 지원한다",
+      "link": "https://www.yna.co.kr/view/AKR20260309018600004",
+      "pubDate": "Mon, 9 Mar 2026 07:56:55 +0900"
+    },
+    {
+      "title": "부산기업, 4050 정규직 고용하면 6개월간 480만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260309017800051",
+      "pubDate": "Mon, 9 Mar 2026 07:55:20 +0900"
+    },
     {
       "title": "강남구, 전국 최초 '12억 이하 1주택 다자녀 가구' 재산세 감면",
       "link": "https://www.yna.co.kr/view/AKR20260309015600004",
@@ -122,36 +152,6 @@
       "title": "첨단산업 분야 글로벌 지식재산 거래 지원…중소·중견기업 모집",
       "link": "https://www.yna.co.kr/view/AKR20260306085000063",
       "pubDate": "Sun, 8 Mar 2026 12:00:13 +0900"
-    },
-    {
-      "title": "포스기·키오스크 구입 강제한 '동대문엽떡'…공정위 시정명령",
-      "link": "https://www.yna.co.kr/view/AKR20260307023900002",
-      "pubDate": "Sun, 8 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "금감원, 선불충전금 환불비율 상향…주식정보 서비스 관행 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260307055300002",
-      "pubDate": "Sun, 8 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "'충성론'·'병장론' 광고 활개…군장병 대부업 대출 444억",
-      "link": "https://www.yna.co.kr/view/AKR20260307058000002",
-      "pubDate": "Sun, 8 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "직장인 절반 \"노동 소득으로 생계 유지·미래 대비 불가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260308003700004",
-      "pubDate": "Sun, 8 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "재경부, IMF 아시아 컨퍼런스 참석…\"정부, 신산업 마중물 역할\"",
-      "link": "https://www.yna.co.kr/view/AKR20260308018600002",
-      "pubDate": "Sun, 8 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "서울시, 사전협상 공공기여 10조 확보…'강북전성시대'에 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260307009200004",
-      "pubDate": "Sun, 8 Mar 2026 11:15:04 +0900"
     }
   ]
 }
