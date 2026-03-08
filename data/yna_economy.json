@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772979306,
+  "updated_at_unix": 1772981206,
   "items": [
+    {
+      "title": "美에너지장관 \"이란 전쟁발 유가 위기 '몇달' 걸릴 문제 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260308057500071",
+      "pubDate": "Sun, 8 Mar 2026 23:26:04 +0900"
+    },
     {
       "title": "김정관 \"美 관세인상 없을 것 같다…석유 최고가격제 준비 마쳐\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260308046652003",
@@ -147,11 +152,6 @@
       "title": "[게시판] 무보·코트라, 중소·중견기업 수출 지원 협력 강화",
       "link": "https://www.yna.co.kr/view/AKR20260308017400003",
       "pubDate": "Sun, 8 Mar 2026 10:03:56 +0900"
-    },
-    {
-      "title": "\"중동사태에 중국車 가장 큰 피해…도요타·현대차도 타격 클 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260308014900003",
-      "pubDate": "Sun, 8 Mar 2026 10:01:51 +0900"
     }
   ]
 }
