@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772956040,
+  "updated_at_unix": 1772957891,
   "items": [
+    {
+      "title": "2천원 앞둔 기름값 상승세 주춤…휘발유 1천895원·경유 1천918원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260308015801003",
+      "pubDate": "Sun, 8 Mar 2026 17:08:04 +0900"
+    },
     {
       "title": "국힘 \"기름값 2천원에 민생 비명…겁박 대신 구조적 해법 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260308026500001",
@@ -147,11 +152,6 @@
       "title": "충남도, 전국 첫 '흰다리새우 양식재해보험' 올해도 운영",
       "link": "https://www.yna.co.kr/view/AKR20260308015100063",
       "pubDate": "Sun, 8 Mar 2026 09:21:53 +0900"
-    },
-    {
-      "title": "충남도, 30억원 들여 소상공인 위기 극복·재도약 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260308014800063",
-      "pubDate": "Sun, 8 Mar 2026 09:18:16 +0900"
     }
   ]
 }
