@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773011589,
+  "updated_at_unix": 1773013339,
   "items": [
+    {
+      "title": "삼성증권 \"코스닥 시장 성장주 관심 확대 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309024800008",
+      "pubDate": "Mon, 9 Mar 2026 08:35:52 +0900"
+    },
+    {
+      "title": "유진證 \"전쟁 후 에너지자립 필요성 각인…태양광·풍력주 강세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309021900008",
+      "pubDate": "Mon, 9 Mar 2026 08:28:52 +0900"
+    },
+    {
+      "title": "세븐일레븐도 '초저가 생리대' 선보여…물가 안정 행사도",
+      "link": "https://www.yna.co.kr/view/AKR20260309022100030",
+      "pubDate": "Mon, 9 Mar 2026 08:22:19 +0900"
+    },
+    {
+      "title": "무신사·에이블리·지그재그 봄 세일…최대 95% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260309021700030",
+      "pubDate": "Mon, 9 Mar 2026 08:20:53 +0900"
+    },
+    {
+      "title": "국제유가 결국 배럴당 100달러 돌파…2022년 7월 후 처음(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260309014351009",
+      "pubDate": "Mon, 9 Mar 2026 08:09:45 +0900"
+    },
     {
       "title": "\"커피농장에 야자수숲 하이킹\"…안데스로 손짓하는 콜롬비아",
       "link": "https://www.yna.co.kr/view/AKR20260307047100030",
@@ -127,31 +152,6 @@
       "title": "[동정] 임종룡 우리금융 회장, 그룹사 여성 부장들과 행사",
       "link": "https://www.yna.co.kr/view/AKR20260308035400002",
       "pubDate": "Sun, 8 Mar 2026 15:12:50 +0900"
-    },
-    {
-      "title": "김재섭, 정원오 농지법 위반 의혹 추가제기…鄭측 \"합법적 자산\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260308021051001",
-      "pubDate": "Sun, 8 Mar 2026 14:52:11 +0900"
-    },
-    {
-      "title": "강원도청 신청사 행정절차 마무리…이달 중 착공식(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260308022051062",
-      "pubDate": "Sun, 8 Mar 2026 13:39:45 +0900"
-    },
-    {
-      "title": "경남도, 기름값 안정에 역량 집중…주유소 특별점검",
-      "link": "https://www.yna.co.kr/view/AKR20260308029300052",
-      "pubDate": "Sun, 8 Mar 2026 12:48:08 +0900"
-    },
-    {
-      "title": "소비자원, '두쫀쿠 안전주의보'…\"알레르기·치아손상 주의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260306055900030",
-      "pubDate": "Sun, 8 Mar 2026 12:00:14 +0900"
-    },
-    {
-      "title": "첨단산업 분야 글로벌 지식재산 거래 지원…중소·중견기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260306085000063",
-      "pubDate": "Sun, 8 Mar 2026 12:00:13 +0900"
     }
   ]
 }
