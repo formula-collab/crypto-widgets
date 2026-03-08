@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772961493,
+  "updated_at_unix": 1772963348,
   "items": [
+    {
+      "title": "김정관 \"美 관세인상 없을 것 같다…석유 최고가격제 준비 마쳐\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260308046651003",
+      "pubDate": "Sun, 8 Mar 2026 18:39:30 +0900"
+    },
+    {
+      "title": "김정관 \"대미투자법 통과되면 美 관세인상 없을 것 같다고 들어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260308046600003",
+      "pubDate": "Sun, 8 Mar 2026 18:22:29 +0900"
+    },
     {
       "title": "2천원 앞둔 기름값 상승세 주춤…휘발유 1천895원·경유 1천918원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260308015801003",
@@ -142,16 +152,6 @@
       "title": "韓 석유·가스 중동의존도 10년새 15∼20%p↓…대미투자 '에너지' 주목",
       "link": "https://www.yna.co.kr/view/AKR20260308016000003",
       "pubDate": "Sun, 8 Mar 2026 09:55:46 +0900"
-    },
-    {
-      "title": "기름값 상승세 다소 둔화…전국 휘발유 1천893원·경유 1천915원",
-      "link": "https://www.yna.co.kr/view/AKR20260308015800003",
-      "pubDate": "Sun, 8 Mar 2026 09:33:04 +0900"
-    },
-    {
-      "title": "충남도, 전국 첫 '흰다리새우 양식재해보험' 올해도 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260308015100063",
-      "pubDate": "Sun, 8 Mar 2026 09:21:53 +0900"
     }
   ]
 }
