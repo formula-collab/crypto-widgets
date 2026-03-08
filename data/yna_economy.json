@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773002745,
+  "updated_at_unix": 1773004393,
   "items": [
+    {
+      "title": "울산시, 청년 맞춤형 임대주택 150가구 공모…설계·입지 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260308045800057",
+      "pubDate": "Mon, 9 Mar 2026 06:07:00 +0900"
+    },
+    {
+      "title": "동탄, 구리 제치고 경기 비규제지 아파트값 주간 상승률 선두",
+      "link": "https://www.yna.co.kr/view/AKR20260308052200003",
+      "pubDate": "Mon, 9 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "모아타운 '병목' 뚫는다…서울시, 31곳 현장 공정촉진회의",
+      "link": "https://www.yna.co.kr/view/AKR20260306174200004",
+      "pubDate": "Mon, 9 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"중동혼란 틈타 가짜호재로 현혹\"…금감원 소비자경보 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260307058200002",
+      "pubDate": "Mon, 9 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "롯데백화점, 상반기 신입사원 두 자릿수 채용…\"직무 중심 전형\"",
+      "link": "https://www.yna.co.kr/view/AKR20260308040600030",
+      "pubDate": "Mon, 9 Mar 2026 06:00:01 +0900"
+    },
     {
       "title": "美에너지장관 \"이란 전쟁발 유가 위기 '몇달' 걸릴 문제 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20260308057500071",
@@ -127,31 +152,6 @@
       "title": "국토부, 소규모 건설현장 안전관리 강화 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260308004500003",
       "pubDate": "Sun, 8 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "코트라 MWC 한국관…131개 기업 수출상담 672건·2.2억달러 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260308019200003",
-      "pubDate": "Sun, 8 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "반얀트리 부산 해운대 공사 재개…10∼11월 개장 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260306072100051",
-      "pubDate": "Sun, 8 Mar 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260308017100011",
-      "pubDate": "Sun, 8 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "춘천시 봄내여성센터 운영 1주년…입주팀 전원 창업",
-      "link": "https://www.yna.co.kr/view/AKR20260306139900062",
-      "pubDate": "Sun, 8 Mar 2026 10:10:00 +0900"
-    },
-    {
-      "title": "[게시판] 무보·코트라, 중소·중견기업 수출 지원 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260308017400003",
-      "pubDate": "Sun, 8 Mar 2026 10:03:56 +0900"
     }
   ]
 }
