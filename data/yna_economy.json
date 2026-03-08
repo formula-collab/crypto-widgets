@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1772963348,
+  "updated_at_unix": 1772964858,
   "items": [
+    {
+      "title": "김정관 \"美 관세인상 없을 것 같다…석유 최고가격제 준비 마쳐\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260308046652003",
+      "pubDate": "Sun, 8 Mar 2026 18:54:03 +0900"
+    },
     {
       "title": "김정관 \"美 관세인상 없을 것 같다…석유 최고가격제 준비 마쳐\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260308046651003",
@@ -147,11 +152,6 @@
       "title": "\"중동사태에 중국車 가장 큰 피해…도요타·현대차도 타격 클 듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260308014900003",
       "pubDate": "Sun, 8 Mar 2026 10:01:51 +0900"
-    },
-    {
-      "title": "韓 석유·가스 중동의존도 10년새 15∼20%p↓…대미투자 '에너지' 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260308016000003",
-      "pubDate": "Sun, 8 Mar 2026 09:55:46 +0900"
     }
   ]
 }
