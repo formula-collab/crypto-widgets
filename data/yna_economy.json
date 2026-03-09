@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773084752,
+  "updated_at_unix": 1773087644,
   "items": [
+    {
+      "title": "與, '중동사태 경제대응' TF 발족…에너지·경제 파급효과 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260309166400001",
+      "pubDate": "Tue, 10 Mar 2026 05:00:10 +0900"
+    },
+    {
+      "title": "[뉴욕유가] G7 비축유 방출 가능성에 오름폭 대거 반납…4% 상승 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260310007800009",
+      "pubDate": "Tue, 10 Mar 2026 04:41:41 +0900"
+    },
     {
       "title": "[유가 100달러] 트럼프 \"이란 석유 확보? 말하기엔 너무 이르다\"",
       "link": "https://www.yna.co.kr/view/AKR20260310005200071",
@@ -142,16 +152,6 @@
       "title": "금감원, 중동 사태에 증권사 IT임원 소집…\"전산장애 철저 대비\"",
       "link": "https://www.yna.co.kr/view/AKR20260309151300002",
       "pubDate": "Mon, 9 Mar 2026 17:11:08 +0900"
-    },
-    {
-      "title": "카카오, 제주 본사 부지 내 오피스 2개동 2028년 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260309150100056",
-      "pubDate": "Mon, 9 Mar 2026 17:09:06 +0900"
-    },
-    {
-      "title": "유가 급등에 국고채 금리 일제히 폭등…3년물 연 3.420%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309144751008",
-      "pubDate": "Mon, 9 Mar 2026 17:07:36 +0900"
     }
   ]
 }
