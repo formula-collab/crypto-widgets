@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773098211,
+  "updated_at_unix": 1773100023,
   "items": [
+    {
+      "title": "하나증권 \"RFHIC 목표가 10만원으로 상향…어닝서프라이즈 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310031200008",
+      "pubDate": "Tue, 10 Mar 2026 08:40:19 +0900"
+    },
+    {
+      "title": "신한투자 \"비츠로셀, 방산·에너지 실적 상향 가능…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310030800008",
+      "pubDate": "Tue, 10 Mar 2026 08:36:46 +0900"
+    },
+    {
+      "title": "무신사, 스포츠·IP 전문 '팬 스토어' 선봬",
+      "link": "https://www.yna.co.kr/view/AKR20260310027300030",
+      "pubDate": "Tue, 10 Mar 2026 08:36:45 +0900"
+    },
+    {
+      "title": "키움證 \"LIG넥스원 중동사태 수혜 가장 클 것…목표가 105만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310030600008",
+      "pubDate": "Tue, 10 Mar 2026 08:33:13 +0900"
+    },
+    {
+      "title": "IBK투자 \"유가 올라 건설원가 부담 가중…2022년형 쇼크는 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310029600008",
+      "pubDate": "Tue, 10 Mar 2026 08:31:05 +0900"
+    },
+    {
+      "title": "씨어스테크놀로지, 주당 2.0주 무상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260310030400008",
+      "pubDate": "Tue, 10 Mar 2026 08:28:46 +0900"
+    },
+    {
+      "title": "한투증권 \"국제선 여객 증가…항공, 유가 안정 시 재평가 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310027900008",
+      "pubDate": "Tue, 10 Mar 2026 08:23:19 +0900"
+    },
     {
       "title": "[글로벌 코리안] 중남미서 나눔으로 'K-스피릿(情)' 전파하는 하경서 회장",
       "link": "https://www.yna.co.kr/view/AKR20260307007600371",
@@ -117,41 +152,6 @@
       "title": "석유 최고가격제 '국제시세+마진'…정유사 손실 보전·매점매석 고시 병행",
       "link": "https://www.yna.co.kr/view/AKR20260309158400003",
       "pubDate": "Tue, 10 Mar 2026 06:01:00 +0900"
-    },
-    {
-      "title": "[일지] 노란봉투법 유래부터 법 시행까지",
-      "link": "https://www.yna.co.kr/view/AKR20260309045000530",
-      "pubDate": "Tue, 10 Mar 2026 06:00:09 +0900"
-    },
-    {
-      "title": "서부트럭터미널 기부채납시설 설계 당선작 '플로팅 큐브'",
-      "link": "https://www.yna.co.kr/view/AKR20260309158100004",
-      "pubDate": "Tue, 10 Mar 2026 06:00:04 +0900"
-    },
-    {
-      "title": "금융위 \"국민성장펀드 투자하다 손실 나도 금융사 임직원 면책\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309160800002",
-      "pubDate": "Tue, 10 Mar 2026 06:00:01 +0900"
-    },
-    {
-      "title": "금융위, 생산적금융 손실 면책 주문…지역투자 지원도 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260309161700002",
-      "pubDate": "Tue, 10 Mar 2026 06:00:00 +0900"
-    },
-    {
-      "title": "순찰도 멈춰야?…'차량 1만7천대' 경찰도 기름값 예의주시",
-      "link": "https://www.yna.co.kr/view/AKR20260309148200004",
-      "pubDate": "Tue, 10 Mar 2026 05:55:00 +0900"
-    },
-    {
-      "title": "'유가 쇼크'에 실물타격…고개 드는 '민생·에너지 추경론'",
-      "link": "https://www.yna.co.kr/view/AKR20260309157100002",
-      "pubDate": "Tue, 10 Mar 2026 05:51:01 +0900"
-    },
-    {
-      "title": "국제유가, G7 비축유 방출 가능성에 배럴당 80달러대로 반락",
-      "link": "https://www.yna.co.kr/view/AKR20260310009600072",
-      "pubDate": "Tue, 10 Mar 2026 05:38:07 +0900"
     }
   ]
 }
