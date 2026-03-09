@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773074689,
+  "updated_at_unix": 1773077932,
   "items": [
+    {
+      "title": "[유가 100달러] 푸틴 \"호르무즈 거치는 원유 생산, 완전 중단 위험\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310002900108",
+      "pubDate": "Tue, 10 Mar 2026 01:46:10 +0900"
+    },
     {
       "title": "[유가 100달러]모건스탠리 \"호르무즈 봉쇄 장기화땐 130달러\"",
       "link": "https://www.yna.co.kr/view/AKR20260310000400072",
@@ -147,11 +152,6 @@
       "title": "경남, 중동 수출기업에 운송료 지원 200만→500만원으로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260309143200052",
       "pubDate": "Mon, 9 Mar 2026 17:01:25 +0900"
-    },
-    {
-      "title": "경기도, 중동사태 피해 기업에 특별경영자금 600억원 융자지원",
-      "link": "https://www.yna.co.kr/view/AKR20260309147800061",
-      "pubDate": "Mon, 9 Mar 2026 16:58:41 +0900"
     }
   ]
 }
