@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773071140,
+  "updated_at_unix": 1773074689,
   "items": [
+    {
+      "title": "[유가 100달러]모건스탠리 \"호르무즈 봉쇄 장기화땐 130달러\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310000400072",
+      "pubDate": "Tue, 10 Mar 2026 01:27:08 +0900"
+    },
     {
       "title": "'월세 3만원' 포항형 천원주택 인기…10.6대 1 경쟁률",
       "link": "https://www.yna.co.kr/view/AKR20260309172600053",
@@ -147,11 +152,6 @@
       "title": "경기도, 중동사태 피해 기업에 특별경영자금 600억원 융자지원",
       "link": "https://www.yna.co.kr/view/AKR20260309147800061",
       "pubDate": "Mon, 9 Mar 2026 16:58:41 +0900"
-    },
-    {
-      "title": "스타코링크, 40억원 유상증자…선박기자재 상생펀드에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260309143500008",
-      "pubDate": "Mon, 9 Mar 2026 16:42:19 +0900"
     }
   ]
 }
