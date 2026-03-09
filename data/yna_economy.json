@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773033300,
+  "updated_at_unix": 1773036837,
   "items": [
+    {
+      "title": "GS건설, 동반성장 프로그램 강화…핵심 협력사 금융지원 등",
+      "link": "https://www.yna.co.kr/view/AKR20260309122400003",
+      "pubDate": "Mon, 9 Mar 2026 15:08:19 +0900"
+    },
+    {
+      "title": "금감원, 광주은행 신종자본증권 발행에 \"위법성 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309119000054",
+      "pubDate": "Mon, 9 Mar 2026 15:05:57 +0900"
+    },
+    {
+      "title": "대미투자특별법, 특위서 여야 만장일치 통과…12일 본회의 처리",
+      "link": "https://www.yna.co.kr/view/AKR20260309112200001",
+      "pubDate": "Mon, 9 Mar 2026 15:05:47 +0900"
+    },
+    {
+      "title": "강태영 농협은행장, 농식품펀드 투자기업 찾아 지원 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260309118100002",
+      "pubDate": "Mon, 9 Mar 2026 15:02:33 +0900"
+    },
+    {
+      "title": "원강수 원주시장 \"맞춤형 도시재생, 상권 활성화·공동체 회복\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309118300062",
+      "pubDate": "Mon, 9 Mar 2026 15:02:31 +0900"
+    },
+    {
+      "title": "삼성, 상반기 신입사원 공채 시작…삼성전자 등 18개사 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260309096900003",
+      "pubDate": "Mon, 9 Mar 2026 15:00:00 +0900"
+    },
+    {
+      "title": "가덕도신공항 부지조성 기본설계 착수…공단 \"공기문제 없을 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260309047101051",
+      "pubDate": "Mon, 9 Mar 2026 14:58:41 +0900"
+    },
+    {
+      "title": "제주지사 \"국제유가 급등…가계·경영비 부담 최소화 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309118800056",
+      "pubDate": "Mon, 9 Mar 2026 14:56:24 +0900"
+    },
+    {
+      "title": "급락장 속 한국거래소 전산 장애…일부 주문 거부·지연",
+      "link": "https://www.yna.co.kr/view/AKR20260309118200008",
+      "pubDate": "Mon, 9 Mar 2026 14:55:59 +0900"
+    },
+    {
+      "title": "[유가 100달러] S&P500 선물 1.3% 하락…달러는 강세(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260309029951009",
+      "pubDate": "Mon, 9 Mar 2026 14:50:28 +0900"
+    },
+    {
+      "title": "농식품부 \"닭고기 가격 작년보다 올라…공급량 늘리고 할인지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309112400030",
+      "pubDate": "Mon, 9 Mar 2026 14:48:41 +0900"
+    },
+    {
+      "title": "대전 서구, 전세사기 의심 중개업소 합동 점검…9건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260309116200063",
+      "pubDate": "Mon, 9 Mar 2026 14:46:39 +0900"
+    },
+    {
+      "title": "제주도, 신소재 기반 첨단기업 어썸레이와 투자협약",
+      "link": "https://www.yna.co.kr/view/AKR20260309116100056",
+      "pubDate": "Mon, 9 Mar 2026 14:44:16 +0900"
+    },
+    {
+      "title": "알파고 10년 후 이세돌 무대…앤트로픽 후원 있었다",
+      "link": "https://www.yna.co.kr/view/AKR20260309115100017",
+      "pubDate": "Mon, 9 Mar 2026 14:42:54 +0900"
+    },
+    {
+      "title": "경제계 \"대미투자법 국회특위 통과 환영…본회의도 차질 없길\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309114200003",
+      "pubDate": "Mon, 9 Mar 2026 14:41:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260309109200011",
+      "pubDate": "Mon, 9 Mar 2026 14:37:56 +0900"
+    },
+    {
+      "title": "안양시, 13일 제1회 신성장전략 포럼…피지컬 AI 육성 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260309111300061",
+      "pubDate": "Mon, 9 Mar 2026 14:28:34 +0900"
+    },
+    {
+      "title": "[평택소식] 올 2단계 공공근로사업 참여자 136명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260309110500061",
+      "pubDate": "Mon, 9 Mar 2026 14:24:28 +0900"
+    },
+    {
+      "title": "[유가 100달러] \"농번기 코앞인데\"…농민들 걱정도 '태산'",
+      "link": "https://www.yna.co.kr/view/AKR20260309106600054",
+      "pubDate": "Mon, 9 Mar 2026 14:18:52 +0900"
+    },
+    {
+      "title": "[속보] 대미투자특별법, 국회 대미특위서 여야 만장일치 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260309104100001",
+      "pubDate": "Mon, 9 Mar 2026 14:14:11 +0900"
+    },
+    {
+      "title": "현대차·삼성화재, 국토부 'K-자율주행 협력모델' 참여한다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260309061901003",
+      "pubDate": "Mon, 9 Mar 2026 14:12:20 +0900"
+    },
     {
       "title": "정부, '노란봉투법' 안착 지원…판단지원위·전담반 운영",
       "link": "https://www.yna.co.kr/view/AKR20260309067700530",
@@ -47,111 +152,6 @@
       "title": "한컴·국립장애인도서관 협약…공공 간행물 접근성 높인다",
       "link": "https://www.yna.co.kr/view/AKR20260309093800017",
       "pubDate": "Mon, 9 Mar 2026 13:09:49 +0900"
-    },
-    {
-      "title": "현대차·삼성화재, 정부 'K-자율주행 협력모델' 참여기업 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260309061900003",
-      "pubDate": "Mon, 9 Mar 2026 13:00:00 +0900"
-    },
-    {
-      "title": "[유가 100달러] 세계 경제 덮친 '오일 쇼크' 공포",
-      "link": "https://www.yna.co.kr/view/AKR20260309082500009",
-      "pubDate": "Mon, 9 Mar 2026 12:39:41 +0900"
-    },
-    {
-      "title": "삼립, 도세호·정인호 각자대표 체제로…\"안전경영 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309092800030",
-      "pubDate": "Mon, 9 Mar 2026 12:21:24 +0900"
-    },
-    {
-      "title": "'특허괴물과 공모' 15억에 삼성 기밀 넘긴 前직원 등 5명 기소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309058551004",
-      "pubDate": "Mon, 9 Mar 2026 12:06:01 +0900"
-    },
-    {
-      "title": "李대통령 \"비상한 각오로 선제대응…석유 최고가격제 신속 시행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309089000001",
-      "pubDate": "Mon, 9 Mar 2026 12:03:21 +0900"
-    },
-    {
-      "title": "AI CCTV SOC칩 국산화 지원…부품 자립화·수출 기여 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260309048600017",
-      "pubDate": "Mon, 9 Mar 2026 12:00:10 +0900"
-    },
-    {
-      "title": "고배당 분리과세 사전안내…국세청 \"세제 혜택 놓치지 마세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309081800002",
-      "pubDate": "Mon, 9 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "담합땐 매출의 '최소 10%' 과징금 매긴다…부과기준율 대폭 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260309080800002",
-      "pubDate": "Mon, 9 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "경찰 \"중동사태 물가 교란 범죄 척결…기름값 단속 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309088800004",
-      "pubDate": "Mon, 9 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "건설업 대출, 6분기 연속 줄어…역대 최장기 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260309084500002",
-      "pubDate": "Mon, 9 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "5년간 이상기후 금융리스크는…한은·금감원·기상청 공동 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260309082700002",
-      "pubDate": "Mon, 9 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "현대건설, 상반기 신입사원·외국인 유학생 공개채용",
-      "link": "https://www.yna.co.kr/view/AKR20260309090500003",
-      "pubDate": "Mon, 9 Mar 2026 11:59:27 +0900"
-    },
-    {
-      "title": "[유가 100달러] 한국·일본 등 아시아 증시 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260309087900009",
-      "pubDate": "Mon, 9 Mar 2026 11:56:48 +0900"
-    },
-    {
-      "title": "NST, 출연연 공동채용 매달 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260309090800017",
-      "pubDate": "Mon, 9 Mar 2026 11:55:14 +0900"
-    },
-    {
-      "title": "SH, 강서구 등촌동 모아타운 2개 구역 '공동 시행' 첫발",
-      "link": "https://www.yna.co.kr/view/AKR20260309089700004",
-      "pubDate": "Mon, 9 Mar 2026 11:50:42 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.477%",
-      "link": "https://www.yna.co.kr/view/AKR20260309088000008",
-      "pubDate": "Mon, 9 Mar 2026 11:47:12 +0900"
-    },
-    {
-      "title": "[유가 100달러] 물가·환율·금리 '3高'…한국경제 'S 불안' 고개",
-      "link": "https://www.yna.co.kr/view/AKR20260309075300002",
-      "pubDate": "Mon, 9 Mar 2026 11:47:00 +0900"
-    },
-    {
-      "title": "신한금융 \"기업 성장잠재력 기반 신용평가 시스템 개발 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309089200002",
-      "pubDate": "Mon, 9 Mar 2026 11:46:56 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행, 글로벌파이낸스 선정 최우수 무역금융 은행상",
-      "link": "https://www.yna.co.kr/view/AKR20260309072300002",
-      "pubDate": "Mon, 9 Mar 2026 11:37:04 +0900"
-    },
-    {
-      "title": "[동정] 진옥동 신한금융 회장, 그룹내 여성 리더들과 콘퍼런스",
-      "link": "https://www.yna.co.kr/view/AKR20260309086400002",
-      "pubDate": "Mon, 9 Mar 2026 11:36:44 +0900"
-    },
-    {
-      "title": "농식품부, 농산물 유통 전문가 협의체 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260309086800030",
-      "pubDate": "Mon, 9 Mar 2026 11:34:50 +0900"
     }
   ]
 }
