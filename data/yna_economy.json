@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773052465,
+  "updated_at_unix": 1773055629,
   "items": [
+    {
+      "title": "[유가 100달러] 아프리카도 유가 급등에 골머리",
+      "link": "https://www.yna.co.kr/view/AKR20260309169900099",
+      "pubDate": "Mon, 9 Mar 2026 20:10:34 +0900"
+    },
     {
       "title": "李대통령 \"경영은 정상적으로…담합 등 불법 예외없이 엄중제재\"",
       "link": "https://www.yna.co.kr/view/AKR20260309165400001",
@@ -147,11 +152,6 @@
       "title": "[유가 100달러] 유가 급등에 韓증시 패닉…\"이례적 한달 2번 서킷브레이커\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260309057551008",
       "pubDate": "Mon, 9 Mar 2026 16:39:58 +0900"
-    },
-    {
-      "title": "코스피, 유가 급등 속 6% 폭락 마감…코스닥도 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309130651008",
-      "pubDate": "Mon, 9 Mar 2026 16:32:14 +0900"
     }
   ]
 }
