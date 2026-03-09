@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773087644,
+  "updated_at_unix": 1773089753,
   "items": [
+    {
+      "title": "'유가 쇼크'에 실물타격…고개 드는 '민생·에너지 추경론'",
+      "link": "https://www.yna.co.kr/view/AKR20260309157100002",
+      "pubDate": "Tue, 10 Mar 2026 05:51:01 +0900"
+    },
+    {
+      "title": "국제유가, G7 비축유 방출 가능성에 배럴당 80달러대로 반락",
+      "link": "https://www.yna.co.kr/view/AKR20260310009600072",
+      "pubDate": "Tue, 10 Mar 2026 05:38:07 +0900"
+    },
     {
       "title": "與, '중동사태 경제대응' TF 발족…에너지·경제 파급효과 점검",
       "link": "https://www.yna.co.kr/view/AKR20260309166400001",
@@ -142,16 +152,6 @@
       "title": "[유가 100달러] \"면세유값 감당 안 돼\"…전국 농민들 고유가에 '허덕'",
       "link": "https://www.yna.co.kr/view/AKR20260309148900052",
       "pubDate": "Mon, 9 Mar 2026 17:13:45 +0900"
-    },
-    {
-      "title": "오세훈 \"정부 정책에 청년 주거난 심각…내일 서울시 대책 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309134800004",
-      "pubDate": "Mon, 9 Mar 2026 17:11:48 +0900"
-    },
-    {
-      "title": "금감원, 중동 사태에 증권사 IT임원 소집…\"전산장애 철저 대비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309151300002",
-      "pubDate": "Mon, 9 Mar 2026 17:11:08 +0900"
     }
   ]
 }
