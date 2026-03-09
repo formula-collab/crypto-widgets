@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773091422,
+  "updated_at_unix": 1773093136,
   "items": [
+    {
+      "title": "[율곡로] 꽉 막힌 호르무즈 물길 언제 풀릴까",
+      "link": "https://www.yna.co.kr/view/AKR20260309143000546",
+      "pubDate": "Tue, 10 Mar 2026 06:33:00 +0900"
+    },
+    {
+      "title": "MZ세대 전유물 아냐…가성비 화장품 3040·외국인 수요 '급증'",
+      "link": "https://www.yna.co.kr/view/AKR20260306179600030",
+      "pubDate": "Tue, 10 Mar 2026 06:31:01 +0900"
+    },
+    {
+      "title": "호텔롯데, 운영자회사 '롯데HM' 설립…위탁운영 경쟁 본격화되나",
+      "link": "https://www.yna.co.kr/view/AKR20260309157000030",
+      "pubDate": "Tue, 10 Mar 2026 06:31:01 +0900"
+    },
+    {
+      "title": "유가 급등에 포항 철강공단 긴장…\"장기화시 물류비 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309149400053",
+      "pubDate": "Tue, 10 Mar 2026 06:25:31 +0900"
+    },
     {
       "title": "[일문일답] \"李정부 '경사노위 1기' 이달 출범…공론화 절차 본격화\"",
       "link": "https://www.yna.co.kr/view/AKR20260304187300530",
@@ -132,26 +152,6 @@
       "title": "노동부 울산지청, 조선업 사업장 불시 점검",
       "link": "https://www.yna.co.kr/view/AKR20260309154800057",
       "pubDate": "Mon, 9 Mar 2026 17:39:38 +0900"
-    },
-    {
-      "title": "푸드나무 \"한국축산데이터 주식 30억원어치 취득…지분율 5.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309155800008",
-      "pubDate": "Mon, 9 Mar 2026 17:37:01 +0900"
-    },
-    {
-      "title": "\"1억3천만원 지원이 4천억 기업으로\"…큐브위성 경연대회 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260309155300017",
-      "pubDate": "Mon, 9 Mar 2026 17:36:08 +0900"
-    },
-    {
-      "title": "\"꿈의 기업이잖아요\" SK하이닉스 채용설명회에 충북대생 '북적'",
-      "link": "https://www.yna.co.kr/view/AKR20260309141100064",
-      "pubDate": "Mon, 9 Mar 2026 17:33:18 +0900"
-    },
-    {
-      "title": "'특금법 위반' 빗썸에 6개월 영업정지 등 중징계 사전통보",
-      "link": "https://www.yna.co.kr/view/AKR20260309148700002",
-      "pubDate": "Mon, 9 Mar 2026 17:32:30 +0900"
     }
   ]
 }
