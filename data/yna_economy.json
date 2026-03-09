@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773049004,
+  "updated_at_unix": 1773052465,
   "items": [
+    {
+      "title": "李대통령 \"경영은 정상적으로…담합 등 불법 예외없이 엄중제재\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309165400001",
+      "pubDate": "Mon, 9 Mar 2026 18:55:22 +0900"
+    },
     {
       "title": "고려아연 \"MBK측, 고려아연 사칭해 경찰 고소\"…MBK·영풍 \"사실관계 왜곡\"",
       "link": "https://www.yna.co.kr/view/AKR20260309161800003",
@@ -147,11 +152,6 @@
       "title": "코스피, 유가 급등 속 6% 폭락 마감…코스닥도 급락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260309130651008",
       "pubDate": "Mon, 9 Mar 2026 16:32:14 +0900"
-    },
-    {
-      "title": "국회 세미나서 '디지털자산거래소 지분 제한' 우려 제기",
-      "link": "https://www.yna.co.kr/view/AKR20260309139300017",
-      "pubDate": "Mon, 9 Mar 2026 16:24:23 +0900"
     }
   ]
 }
