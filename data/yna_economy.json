@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773089753,
+  "updated_at_unix": 1773091422,
   "items": [
+    {
+      "title": "[일문일답] \"李정부 '경사노위 1기' 이달 출범…공론화 절차 본격화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260304187300530",
+      "pubDate": "Tue, 10 Mar 2026 06:07:01 +0900"
+    },
+    {
+      "title": "경사노위 위원장 \"공론화 첫의제 '인구구조변화에 따른 일자리'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309155000530",
+      "pubDate": "Tue, 10 Mar 2026 06:07:00 +0900"
+    },
+    {
+      "title": "석유 최고가격제 '국제시세+마진'…정유사 손실 보전·매점매석 고시 병행",
+      "link": "https://www.yna.co.kr/view/AKR20260309158400003",
+      "pubDate": "Tue, 10 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[일지] 노란봉투법 유래부터 법 시행까지",
+      "link": "https://www.yna.co.kr/view/AKR20260309045000530",
+      "pubDate": "Tue, 10 Mar 2026 06:00:09 +0900"
+    },
+    {
+      "title": "서부트럭터미널 기부채납시설 설계 당선작 '플로팅 큐브'",
+      "link": "https://www.yna.co.kr/view/AKR20260309158100004",
+      "pubDate": "Tue, 10 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "금융위 \"국민성장펀드 투자하다 손실 나도 금융사 임직원 면책\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309160800002",
+      "pubDate": "Tue, 10 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "금융위, 생산적금융 손실 면책 주문…지역투자 지원도 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260309161700002",
+      "pubDate": "Tue, 10 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "순찰도 멈춰야?…'차량 1만7천대' 경찰도 기름값 예의주시",
+      "link": "https://www.yna.co.kr/view/AKR20260309148200004",
+      "pubDate": "Tue, 10 Mar 2026 05:55:00 +0900"
+    },
     {
       "title": "'유가 쇼크'에 실물타격…고개 드는 '민생·에너지 추경론'",
       "link": "https://www.yna.co.kr/view/AKR20260309157100002",
@@ -112,46 +152,6 @@
       "title": "'특금법 위반' 빗썸에 6개월 영업정지 등 중징계 사전통보",
       "link": "https://www.yna.co.kr/view/AKR20260309148700002",
       "pubDate": "Mon, 9 Mar 2026 17:32:30 +0900"
-    },
-    {
-      "title": "행안부, 중동 상황 대비 지방정부 대응체계 논의…TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260309153600530",
-      "pubDate": "Mon, 9 Mar 2026 17:27:46 +0900"
-    },
-    {
-      "title": "코트라, 중동 수출 피해기업에 긴급지원…'패스트 트랙' 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260309154100003",
-      "pubDate": "Mon, 9 Mar 2026 17:26:09 +0900"
-    },
-    {
-      "title": "靑 \"유가 최고가격제 금주 시행…현 시중 가격보다 낮아질 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309137451001",
-      "pubDate": "Mon, 9 Mar 2026 17:20:16 +0900"
-    },
-    {
-      "title": "[게시판] iM뱅크, 대구보훈청에 후원금 2천만원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260309152400053",
-      "pubDate": "Mon, 9 Mar 2026 17:16:41 +0900"
-    },
-    {
-      "title": "[유가 100달러] 중동 '감산 도미노'…원유 공급 충격(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309060451009",
-      "pubDate": "Mon, 9 Mar 2026 17:16:28 +0900"
-    },
-    {
-      "title": "전남도, 중동 사태 비상경제 대책 TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260309150900054",
-      "pubDate": "Mon, 9 Mar 2026 17:15:04 +0900"
-    },
-    {
-      "title": "공정위 '협력업체 기술 유용' 의혹 LG화학 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260309152100002",
-      "pubDate": "Mon, 9 Mar 2026 17:14:28 +0900"
-    },
-    {
-      "title": "[유가 100달러] \"면세유값 감당 안 돼\"…전국 농민들 고유가에 '허덕'",
-      "link": "https://www.yna.co.kr/view/AKR20260309148900052",
-      "pubDate": "Mon, 9 Mar 2026 17:13:45 +0900"
     }
   ]
 }
