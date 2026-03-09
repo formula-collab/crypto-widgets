@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773027825,
+  "updated_at_unix": 1773033300,
   "items": [
+    {
+      "title": "정부, '노란봉투법' 안착 지원…판단지원위·전담반 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260309067700530",
+      "pubDate": "Mon, 9 Mar 2026 14:00:03 +0900"
+    },
+    {
+      "title": "선거 앞두고 돈봉투 제공…새마을금고 이사장 징역형 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260309084600064",
+      "pubDate": "Mon, 9 Mar 2026 14:00:03 +0900"
+    },
+    {
+      "title": "한국·스위스, 18조5천억 원화-스위스프랑 통화스와프 갱신",
+      "link": "https://www.yna.co.kr/view/AKR20260309088200002",
+      "pubDate": "Mon, 9 Mar 2026 14:00:03 +0900"
+    },
+    {
+      "title": "\"포용금융 종합평가체계로 내실화…생산적금융에 자본규제 개편\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309099600002",
+      "pubDate": "Mon, 9 Mar 2026 14:00:01 +0900"
+    },
+    {
+      "title": "압구정역 인근 리모델링 공사장 외벽 비계 붕괴…인명피해 없어",
+      "link": "https://www.yna.co.kr/view/AKR20260309103700004",
+      "pubDate": "Mon, 9 Mar 2026 13:57:51 +0900"
+    },
+    {
+      "title": "금감원, 긴급 금융시장 점검…'빚투' 자금흐름 등 모니터링 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260309103800002",
+      "pubDate": "Mon, 9 Mar 2026 13:56:14 +0900"
+    },
+    {
+      "title": "새도약기금, 취약계층 13만3천명 장기연체빚 6천억원 소각",
+      "link": "https://www.yna.co.kr/view/AKR20260309097900002",
+      "pubDate": "Mon, 9 Mar 2026 13:46:50 +0900"
+    },
+    {
+      "title": "거창군, 정장·대평리 '복합 명품도시' 조성사업 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260309094500052",
+      "pubDate": "Mon, 9 Mar 2026 13:14:18 +0900"
+    },
+    {
+      "title": "한컴·국립장애인도서관 협약…공공 간행물 접근성 높인다",
+      "link": "https://www.yna.co.kr/view/AKR20260309093800017",
+      "pubDate": "Mon, 9 Mar 2026 13:09:49 +0900"
+    },
+    {
+      "title": "현대차·삼성화재, 정부 'K-자율주행 협력모델' 참여기업 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260309061900003",
+      "pubDate": "Mon, 9 Mar 2026 13:00:00 +0900"
+    },
     {
       "title": "[유가 100달러] 세계 경제 덮친 '오일 쇼크' 공포",
       "link": "https://www.yna.co.kr/view/AKR20260309082500009",
@@ -102,56 +152,6 @@
       "title": "농식품부, 농산물 유통 전문가 협의체 출범",
       "link": "https://www.yna.co.kr/view/AKR20260309086800030",
       "pubDate": "Mon, 9 Mar 2026 11:34:50 +0900"
-    },
-    {
-      "title": "[유가 100달러] \"더 오르면 차 세워야\" 속타는 화물기사들",
-      "link": "https://www.yna.co.kr/view/AKR20260309083200051",
-      "pubDate": "Mon, 9 Mar 2026 11:33:41 +0900"
-    },
-    {
-      "title": "청년 창업 홍보는 여기서…경남청년정보플랫폼 '청년 PR' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260309083900052",
-      "pubDate": "Mon, 9 Mar 2026 11:31:37 +0900"
-    },
-    {
-      "title": "[유가 100달러] 고공행진 전망이 기름부었다…'원정주유'·대중교통 출근",
-      "link": "https://www.yna.co.kr/view/AKR20260309071600004",
-      "pubDate": "Mon, 9 Mar 2026 11:28:21 +0900"
-    },
-    {
-      "title": "대상 청정원, 브랜드 출시 30주년 기념 엠블럼 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260309084100030",
-      "pubDate": "Mon, 9 Mar 2026 11:27:05 +0900"
-    },
-    {
-      "title": "[이코노워치] 유가급등에 커지는 'S공포'…'3高시대'가 오면",
-      "link": "https://www.yna.co.kr/view/AKR20260309083100546",
-      "pubDate": "Mon, 9 Mar 2026 11:26:59 +0900"
-    },
-    {
-      "title": "대전시, 우주·로봇 기업과 행정·기술사업화·투자 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260309082000063",
-      "pubDate": "Mon, 9 Mar 2026 11:24:44 +0900"
-    },
-    {
-      "title": "농협, 각종 비리 도마에…중앙회장·퇴직자 '황금열쇠'까지 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260309079900030",
-      "pubDate": "Mon, 9 Mar 2026 11:23:32 +0900"
-    },
-    {
-      "title": "서울 소상공인 '안심통장'…연리 4.8%에 2천억원 대출 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260309039400004",
-      "pubDate": "Mon, 9 Mar 2026 11:15:02 +0900"
-    },
-    {
-      "title": "대신자산신탁, 신림5구역 추진위와 MOU…재개발 사업 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260309074800008",
-      "pubDate": "Mon, 9 Mar 2026 11:13:54 +0900"
-    },
-    {
-      "title": "[유가 100달러] \"더 오른다\" vs \"떨어진다\"…유가 급등 속 개미 엇갈린 베팅",
-      "link": "https://www.yna.co.kr/view/AKR20260309075800008",
-      "pubDate": "Mon, 9 Mar 2026 11:12:26 +0900"
     }
   ]
 }
