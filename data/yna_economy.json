@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773096669,
+  "updated_at_unix": 1773098211,
   "items": [
+    {
+      "title": "[글로벌 코리안] 중남미서 나눔으로 'K-스피릿(情)' 전파하는 하경서 회장",
+      "link": "https://www.yna.co.kr/view/AKR20260307007600371",
+      "pubDate": "Tue, 10 Mar 2026 08:04:31 +0900"
+    },
+    {
+      "title": "[마켓뷰] 유가 안정에 상승한 美 증시…코스피도 충격 딛고 급반등하나",
+      "link": "https://www.yna.co.kr/view/AKR20260310024100008",
+      "pubDate": "Tue, 10 Mar 2026 08:04:14 +0900"
+    },
+    {
+      "title": "작년 1인당 국민소득 3만6천855달러…원화절하에 0.3% 성장 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260310023000002",
+      "pubDate": "Tue, 10 Mar 2026 08:00:00 +0900"
+    },
+    {
+      "title": "부산시, 기후테크 기업에 200억원 지원…이산화탄소 감축효과",
+      "link": "https://www.yna.co.kr/view/AKR20260310023600051",
+      "pubDate": "Tue, 10 Mar 2026 07:57:37 +0900"
+    },
+    {
+      "title": "10주년 맞은 부산원아시아페스티벌 6월 개최…K컬처 체험도",
+      "link": "https://www.yna.co.kr/view/AKR20260310023500051",
+      "pubDate": "Tue, 10 Mar 2026 07:56:51 +0900"
+    },
+    {
+      "title": "부산시, 중동발 유가 급등에 석유판매업 특별점검 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260310023400051",
+      "pubDate": "Tue, 10 Mar 2026 07:56:26 +0900"
+    },
+    {
+      "title": "박형준, 스타트업 지놈 대표 만나 \"창업 생태계 고도화\" 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260310023300051",
+      "pubDate": "Tue, 10 Mar 2026 07:56:00 +0900"
+    },
+    {
+      "title": "강북구, 미취업 중장년에도 자격시험 응시료 최대 10만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260310023800004",
+      "pubDate": "Tue, 10 Mar 2026 07:53:23 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260310019600011",
@@ -112,46 +152,6 @@
       "title": "국제유가, G7 비축유 방출 가능성에 배럴당 80달러대로 반락",
       "link": "https://www.yna.co.kr/view/AKR20260310009600072",
       "pubDate": "Tue, 10 Mar 2026 05:38:07 +0900"
-    },
-    {
-      "title": "與, '중동사태 경제대응' TF 발족…에너지·경제 파급효과 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260309166400001",
-      "pubDate": "Tue, 10 Mar 2026 05:00:10 +0900"
-    },
-    {
-      "title": "[뉴욕유가] G7 비축유 방출 가능성에 오름폭 대거 반납…4% 상승 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260310007800009",
-      "pubDate": "Tue, 10 Mar 2026 04:41:41 +0900"
-    },
-    {
-      "title": "[유가 100달러] 트럼프 \"이란 석유 확보? 말하기엔 너무 이르다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310005200071",
-      "pubDate": "Tue, 10 Mar 2026 03:27:25 +0900"
-    },
-    {
-      "title": "달러-원, 유가 오름폭 대거 축소에 급락…1,473.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260310004700002",
-      "pubDate": "Tue, 10 Mar 2026 02:59:03 +0900"
-    },
-    {
-      "title": "[유가 100달러] 푸틴 \"호르무즈 거치는 원유 생산, 완전 중단 위험\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310002900108",
-      "pubDate": "Tue, 10 Mar 2026 01:46:10 +0900"
-    },
-    {
-      "title": "[유가 100달러]모건스탠리 \"호르무즈 봉쇄 장기화땐 130달러\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310000400072",
-      "pubDate": "Tue, 10 Mar 2026 01:27:08 +0900"
-    },
-    {
-      "title": "'월세 3만원' 포항형 천원주택 인기…10.6대 1 경쟁률",
-      "link": "https://www.yna.co.kr/view/AKR20260309172600053",
-      "pubDate": "Mon, 9 Mar 2026 21:18:32 +0900"
-    },
-    {
-      "title": "거래소, 장중 전산장애…\"CB 발동 후 데이터 불일치 오류 발생\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309118251008",
-      "pubDate": "Mon, 9 Mar 2026 20:23:35 +0900"
     }
   ]
 }
