@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773055629,
+  "updated_at_unix": 1773057268,
   "items": [
+    {
+      "title": "거래소, 장중 전산장애…\"CB 발동 후 데이터 불일치 오류 발생\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260309118251008",
+      "pubDate": "Mon, 9 Mar 2026 20:23:35 +0900"
+    },
     {
       "title": "[유가 100달러] 아프리카도 유가 급등에 골머리",
       "link": "https://www.yna.co.kr/view/AKR20260309169900099",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.420%",
       "link": "https://www.yna.co.kr/view/AKR20260309144700008",
       "pubDate": "Mon, 9 Mar 2026 16:40:40 +0900"
-    },
-    {
-      "title": "[유가 100달러] 유가 급등에 韓증시 패닉…\"이례적 한달 2번 서킷브레이커\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260309057551008",
-      "pubDate": "Mon, 9 Mar 2026 16:39:58 +0900"
     }
   ]
 }
