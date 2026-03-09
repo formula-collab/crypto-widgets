@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773094643,
+  "updated_at_unix": 1773096669,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260310019600011",
+      "pubDate": "Tue, 10 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "강남구, 소녀시대 유리 등 유공납세자 10명 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260310021000004",
+      "pubDate": "Tue, 10 Mar 2026 07:28:32 +0900"
+    },
+    {
+      "title": "[유가 100달러] 인천 섬 기름값 2천원대…백령도 주민 \"한달 난방비 40만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309149800065",
+      "pubDate": "Tue, 10 Mar 2026 07:27:01 +0900"
+    },
+    {
+      "title": "놀유니버스 \"K콘텐츠 인기에 1월 놀월드 플랫폼 이용자 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309072900030",
+      "pubDate": "Tue, 10 Mar 2026 07:15:00 +0900"
+    },
     {
       "title": "유가 급등에 재차 요동친 채권시장…금리 인상 전망은 '분분'",
       "link": "https://www.yna.co.kr/view/AKR20260309157700008",
@@ -132,26 +152,6 @@
       "title": "거래소, 장중 전산장애…\"CB 발동 후 데이터 불일치 오류 발생\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260309118251008",
       "pubDate": "Mon, 9 Mar 2026 20:23:35 +0900"
-    },
-    {
-      "title": "[유가 100달러] 아프리카도 유가 급등에 골머리",
-      "link": "https://www.yna.co.kr/view/AKR20260309169900099",
-      "pubDate": "Mon, 9 Mar 2026 20:10:34 +0900"
-    },
-    {
-      "title": "李대통령 \"경영은 정상적으로…담합 등 불법 예외없이 엄중제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309165400001",
-      "pubDate": "Mon, 9 Mar 2026 18:55:22 +0900"
-    },
-    {
-      "title": "고려아연 \"MBK측, 고려아연 사칭해 경찰 고소\"…MBK·영풍 \"사실관계 왜곡\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309161800003",
-      "pubDate": "Mon, 9 Mar 2026 18:24:43 +0900"
-    },
-    {
-      "title": "여야, 유가 부당폭리 대응 한목소리…대국민·산업계 대책 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260309155700001",
-      "pubDate": "Mon, 9 Mar 2026 18:13:17 +0900"
     }
   ]
 }
