@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773093136,
+  "updated_at_unix": 1773094643,
   "items": [
+    {
+      "title": "유가 급등에 재차 요동친 채권시장…금리 인상 전망은 '분분'",
+      "link": "https://www.yna.co.kr/view/AKR20260309157700008",
+      "pubDate": "Tue, 10 Mar 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[마켓人] 박연주 미래에셋 리서치센터장 \"AI 전쟁 승자 곧 가려질 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260309165000008",
+      "pubDate": "Tue, 10 Mar 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 안창호의 빗자루질…'아프리카돼지열병' 낙인을 쓸자",
+      "link": "https://www.yna.co.kr/view/AKR20260220029200898",
+      "pubDate": "Tue, 10 Mar 2026 07:00:05 +0900"
+    },
+    {
+      "title": "유가, 트럼프 \"전쟁 마무리수순\" 발언에 배럴당 80달러대로↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260310009651072",
+      "pubDate": "Tue, 10 Mar 2026 06:55:50 +0900"
+    },
     {
       "title": "[율곡로] 꽉 막힌 호르무즈 물길 언제 풀릴까",
       "link": "https://www.yna.co.kr/view/AKR20260309143000546",
@@ -132,26 +152,6 @@
       "title": "여야, 유가 부당폭리 대응 한목소리…대국민·산업계 대책 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260309155700001",
       "pubDate": "Mon, 9 Mar 2026 18:13:17 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260309153800011",
-      "pubDate": "Mon, 9 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "김정관 \"캐나다 잠수함 프로젝트, 분리 발주 계획 없다고 들어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309158200003",
-      "pubDate": "Mon, 9 Mar 2026 17:52:15 +0900"
-    },
-    {
-      "title": "농식품부 \"축산물가격 작년보다 비싸…수입 계란 내주부터 푼다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260309156300030",
-      "pubDate": "Mon, 9 Mar 2026 17:41:41 +0900"
-    },
-    {
-      "title": "노동부 울산지청, 조선업 사업장 불시 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260309154800057",
-      "pubDate": "Mon, 9 Mar 2026 17:39:38 +0900"
     }
   ]
 }
