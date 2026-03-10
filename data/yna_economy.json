@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773153528,
+  "updated_at_unix": 1773157777,
   "items": [
+    {
+      "title": "IEA, 정부간 긴급회의 소집…비축유 방출 여부 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260310202600081",
+      "pubDate": "Tue, 10 Mar 2026 23:52:22 +0900"
+    },
     {
       "title": "토스뱅크 앱에서 환전 오류 발생…엔화 반값에 거래돼(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260310197751002",
@@ -146,11 +151,6 @@
     {
       "title": "대전·충남, 중동사태 긴급 대응…수출기업 경영안정 지원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260310062651063",
-      "pubDate": "Tue, 10 Mar 2026 16:00:01 +0900"
-    },
-    {
-      "title": "금감원, 중동발 산업위험 점검…필요시 취약업종 만기연장 독려",
-      "link": "https://www.yna.co.kr/view/AKR20260310143800002",
       "pubDate": "Tue, 10 Mar 2026 16:00:01 +0900"
     }
   ]
