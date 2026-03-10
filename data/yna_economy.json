@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773177622,
+  "updated_at_unix": 1773179242,
   "items": [
+    {
+      "title": "[팩트체크] 휘발유 평균 2천원 또 넘을까…유류세 인하 효과는 어느 정도",
+      "link": "https://www.yna.co.kr/view/AKR20260310155300518",
+      "pubDate": "Wed, 11 Mar 2026 06:30:01 +0900"
+    },
     {
       "title": "은퇴 후 건보료 공포…재산 부과 체계가 낳은 기형적 선택",
       "link": "https://www.yna.co.kr/view/AKR20260310117300530",
@@ -147,11 +152,6 @@
       "title": "전날 폭등 국고채 금리, 유가 하락에 급락…3년물 연 3.283%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260310166351008",
       "pubDate": "Tue, 10 Mar 2026 17:18:08 +0900"
-    },
-    {
-      "title": "울산시, '중동 상황 비상경제 대응팀' 가동…통상지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260310170600057",
-      "pubDate": "Tue, 10 Mar 2026 17:09:37 +0900"
     }
   ]
 }
