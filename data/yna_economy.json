@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773113753,
+  "updated_at_unix": 1773119067,
   "items": [
+    {
+      "title": "'패륜 배우자·자녀 상속권 제한' 민법 개정안 국무회의 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260310089600001",
+      "pubDate": "Tue, 10 Mar 2026 13:36:39 +0900"
+    },
+    {
+      "title": "트럼프, 호르무즈 봉쇄시 \"국가로서 재건 불가능하게 만들것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310111300071",
+      "pubDate": "Tue, 10 Mar 2026 13:36:01 +0900"
+    },
+    {
+      "title": "'대장동 배당결의 무효소송' 첫 재판 열려…민사소송 2년9개월만",
+      "link": "https://www.yna.co.kr/view/AKR20260310115500061",
+      "pubDate": "Tue, 10 Mar 2026 13:29:07 +0900"
+    },
+    {
+      "title": "국토부, 서울 도심복합사업 신규 후보지 공모…6월 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260310102300003",
+      "pubDate": "Tue, 10 Mar 2026 13:00:03 +0900"
+    },
+    {
+      "title": "벤츠 '화재 위험에 리콜된 배터리' 숨기고 팔아…과징금 112억원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260310107751002",
+      "pubDate": "Tue, 10 Mar 2026 12:38:58 +0900"
+    },
     {
       "title": "80돌 한국노총, \"과오 사과\"…AI시대 노동권 보호체계 구축 추진(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260310096451530",
@@ -59,7 +84,7 @@
       "pubDate": "Tue, 10 Mar 2026 11:59:41 +0900"
     },
     {
-      "title": "전세사기 계약 전 선순위채권 등 위험요소 확인 쉬워진다",
+      "title": "전세계약 전 선순위채권 등 위험요소 확인 쉬워진다",
       "link": "https://www.yna.co.kr/view/AKR20260310027400003",
       "pubDate": "Tue, 10 Mar 2026 11:49:08 +0900"
     },
@@ -127,31 +152,6 @@
       "title": "'노란봉투법' 시행 첫날 대전지역 노조·시민단체 잇따라 환영",
       "link": "https://www.yna.co.kr/view/AKR20260310098500063",
       "pubDate": "Tue, 10 Mar 2026 11:09:06 +0900"
-    },
-    {
-      "title": "해수부, 중동 상황 관련 수산식품 수출업계 애로사항 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260310027000030",
-      "pubDate": "Tue, 10 Mar 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, EU 환경규제 시행 앞두고 대응 방안 세미나 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260310040500030",
-      "pubDate": "Tue, 10 Mar 2026 11:00:04 +0900"
-    },
-    {
-      "title": "3월 아파트 분양전망 하락…다주택자 매물 증가·관망세 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260310053200003",
-      "pubDate": "Tue, 10 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "코트라, 서비스 수출 유망기업 80개사 선정…해외 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260310055300003",
-      "pubDate": "Tue, 10 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "李대통령 \"물가안정 시급…석유 최고가격제·직접지원 등 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310091100001",
-      "pubDate": "Tue, 10 Mar 2026 10:58:20 +0900"
     }
   ]
 }
