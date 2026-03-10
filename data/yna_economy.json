@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773146032,
+  "updated_at_unix": 1773150830,
   "items": [
+    {
+      "title": "토스뱅크 앱에서 환전 오류 발생…엔화 반값에 거래돼(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260310197751002",
+      "pubDate": "Tue, 10 Mar 2026 22:18:57 +0900"
+    },
+    {
+      "title": "토스뱅크 앱에서 환전 오류 발생…엔화 반값에 거래돼",
+      "link": "https://www.yna.co.kr/view/AKR20260310197700002",
+      "pubDate": "Tue, 10 Mar 2026 21:29:37 +0900"
+    },
     {
       "title": "아산 메추리농장·김제 육용종계 농장서 고병원성 AI",
       "link": "https://www.yna.co.kr/view/AKR20260310193000030",
@@ -142,16 +152,6 @@
       "title": "금감원, 중동발 산업위험 점검…필요시 취약업종 만기연장 독려",
       "link": "https://www.yna.co.kr/view/AKR20260310143800002",
       "pubDate": "Tue, 10 Mar 2026 16:00:01 +0900"
-    },
-    {
-      "title": "순천시·메디앙스 업무협약…그린바이오 지구에 생산시설 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260310154000054",
-      "pubDate": "Tue, 10 Mar 2026 15:53:19 +0900"
-    },
-    {
-      "title": "노란봉투법 첫날 민주노총 집회…\"노동기본권 확대 투쟁\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310152600004",
-      "pubDate": "Tue, 10 Mar 2026 15:52:18 +0900"
     }
   ]
 }
