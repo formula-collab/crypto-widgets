@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773183015,
+  "updated_at_unix": 1773184620,
   "items": [
+    {
+      "title": "[마켓뷰] 유가 불확실성·오라클 호실적 속 코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260311024900008",
+      "pubDate": "Wed, 11 Mar 2026 08:03:12 +0900"
+    },
+    {
+      "title": "최태원·윤호중 \"사회문제 해결과 경제성장 함께\"…저성장 해법 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260310199500003",
+      "pubDate": "Wed, 11 Mar 2026 08:00:00 +0900"
+    },
+    {
+      "title": "부산시, 부전역 복합환승센터 본격 추진…2030년 착공 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260311025300051",
+      "pubDate": "Wed, 11 Mar 2026 07:54:38 +0900"
+    },
     {
       "title": "울산시, 지역 건설업체 하도급률 37% 목표…51개 현장 영업",
       "link": "https://www.yna.co.kr/view/AKR20260310194600057",
@@ -137,21 +152,6 @@
       "title": "삼성전자 직원연봉 역대 최대 1.58억…전영현 56억·노태문 61억(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260310176751003",
       "pubDate": "Tue, 10 Mar 2026 17:53:01 +0900"
-    },
-    {
-      "title": "엔씨소프트 \"獨저스트플레이 주식 3천억원에 취득…지분율 70%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310177300008",
-      "pubDate": "Tue, 10 Mar 2026 17:30:16 +0900"
-    },
-    {
-      "title": "중국 '유가 급등' 충격 덜 한 이유는",
-      "link": "https://www.yna.co.kr/view/AKR20260310156100009",
-      "pubDate": "Tue, 10 Mar 2026 17:29:32 +0900"
-    },
-    {
-      "title": "\"과천 경마공원 이전비용·매출감소 각각 1조2천억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310176900061",
-      "pubDate": "Tue, 10 Mar 2026 17:26:21 +0900"
     }
   ]
 }
