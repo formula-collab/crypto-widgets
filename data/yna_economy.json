@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773176067,
+  "updated_at_unix": 1773177622,
   "items": [
+    {
+      "title": "은퇴 후 건보료 공포…재산 부과 체계가 낳은 기형적 선택",
+      "link": "https://www.yna.co.kr/view/AKR20260310117300530",
+      "pubDate": "Wed, 11 Mar 2026 06:11:00 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] 李 대통령 주목한 싱가포르 부동산 정책…국내 도입은?",
+      "link": "https://www.yna.co.kr/view/AKR20260310180100003",
+      "pubDate": "Wed, 11 Mar 2026 06:03:00 +0900"
+    },
+    {
+      "title": "국내 진출 외국계 기업, 매출 1%만 법인세 납부…2년새 33% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260310131200003",
+      "pubDate": "Wed, 11 Mar 2026 06:00:11 +0900"
+    },
+    {
+      "title": "코트라, 세계 최대 첨단소재 박람회서 글로벌 기업 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260310164600003",
+      "pubDate": "Wed, 11 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "개정상법 앞둔 슈퍼 주총시즌 개막…지배구조 줄다리기 '팽팽'",
+      "link": "https://www.yna.co.kr/view/AKR20260310181000003",
+      "pubDate": "Wed, 11 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "금감원, 빗썸사태 검사 한 달 만에 종료…제재수위 심사 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20260310068500002",
+      "pubDate": "Wed, 11 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[샷!] \"트럼프 아들이랑 김정은 딸 결혼시키자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310112100505",
+      "pubDate": "Wed, 11 Mar 2026 05:50:01 +0900"
+    },
     {
       "title": "국제유가, 전쟁 조기종식 기대에 11% 급락…80달러대 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260311005951072",
@@ -117,41 +152,6 @@
       "title": "울산시, '중동 상황 비상경제 대응팀' 가동…통상지원 강화",
       "link": "https://www.yna.co.kr/view/AKR20260310170600057",
       "pubDate": "Tue, 10 Mar 2026 17:09:37 +0900"
-    },
-    {
-      "title": "중동 정세 따라 금융시장 급변…코스피 5% 반등·환율 26원 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260310172000002",
-      "pubDate": "Tue, 10 Mar 2026 17:05:43 +0900"
-    },
-    {
-      "title": "\"창원 자족형복합행정타운 입주 예정 9개 공공기관 부지 계약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310168100052",
-      "pubDate": "Tue, 10 Mar 2026 17:01:30 +0900"
-    },
-    {
-      "title": "중동 사태에 대출 금리도 들썩…영끌·빚투족 긴장",
-      "link": "https://www.yna.co.kr/view/AKR20260310171200002",
-      "pubDate": "Tue, 10 Mar 2026 17:01:18 +0900"
-    },
-    {
-      "title": "이찬진 \"중동발 불확실성 지속\"…반대매매·ETF손실 안내 강화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310108451002",
-      "pubDate": "Tue, 10 Mar 2026 17:00:01 +0900"
-    },
-    {
-      "title": "한국·일본 증시 반등…트럼프 이번엔 이란 타코?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310105751009",
-      "pubDate": "Tue, 10 Mar 2026 16:59:19 +0900"
-    },
-    {
-      "title": "강원도 \"금융지원 8천억원에서 1조원 규모로 확대 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310163200062",
-      "pubDate": "Tue, 10 Mar 2026 16:50:59 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.283%",
-      "link": "https://www.yna.co.kr/view/AKR20260310166300008",
-      "pubDate": "Tue, 10 Mar 2026 16:40:15 +0900"
     }
   ]
 }
