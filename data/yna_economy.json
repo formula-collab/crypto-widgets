@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773164228,
+  "updated_at_unix": 1773167628,
   "items": [
+    {
+      "title": "달러-원, 유가 안정 속 약달러에 뒷걸음질…1,465.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260311004500002",
+      "pubDate": "Wed, 11 Mar 2026 02:53:28 +0900"
+    },
+    {
+      "title": "美 \"미해군, 호르무즈통과 유조선 성공적 호위\"…개전후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260311003600071",
+      "pubDate": "Wed, 11 Mar 2026 02:35:20 +0900"
+    },
     {
       "title": "IEA, 정부간 긴급회의 소집…비축유 방출 여부 결정",
       "link": "https://www.yna.co.kr/view/AKR20260310202600081",
@@ -142,16 +152,6 @@
       "title": "소상공인단체, 대형마트 새벽배송 허용 법안 반발…철회 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260310149700030",
       "pubDate": "Tue, 10 Mar 2026 16:03:46 +0900"
-    },
-    {
-      "title": "보조금 부정수급땐 '이익 9배' 환수…환수액 30% 신고포상",
-      "link": "https://www.yna.co.kr/view/AKR20260310091600002",
-      "pubDate": "Tue, 10 Mar 2026 16:00:02 +0900"
-    },
-    {
-      "title": "대전·충남, 중동사태 긴급 대응…수출기업 경영안정 지원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310062651063",
-      "pubDate": "Tue, 10 Mar 2026 16:00:01 +0900"
     }
   ]
 }
