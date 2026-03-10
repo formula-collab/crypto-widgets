@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773167628,
+  "updated_at_unix": 1773171036,
   "items": [
+    {
+      "title": "[뉴욕유가] 트럼프 \"전쟁 곧 끝날 것\"…WTI 12% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260311007800009",
+      "pubDate": "Wed, 11 Mar 2026 04:16:47 +0900"
+    },
+    {
+      "title": "美에너지정보청 \"국제유가, 두달 넘게 배럴당 95달러 웃돌것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311007200072",
+      "pubDate": "Wed, 11 Mar 2026 03:59:25 +0900"
+    },
+    {
+      "title": "美 \"호르무즈 유조선 호위\" SNS올렸다 삭제…백악관 \"아직 안해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260311003651071",
+      "pubDate": "Wed, 11 Mar 2026 03:45:17 +0900"
+    },
+    {
+      "title": "국제유가, 전쟁 조기종식 기대에 급락세 지속…80달러대로",
+      "link": "https://www.yna.co.kr/view/AKR20260311005900072",
+      "pubDate": "Wed, 11 Mar 2026 03:32:26 +0900"
+    },
     {
       "title": "달러-원, 유가 안정 속 약달러에 뒷걸음질…1,465.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260311004500002",
@@ -132,26 +152,6 @@
       "title": "횡성군, 외국인 계절 농업근로자 기숙사 건립 사업 공모",
       "link": "https://www.yna.co.kr/view/AKR20260310160600062",
       "pubDate": "Tue, 10 Mar 2026 16:37:39 +0900"
-    },
-    {
-      "title": "경남 고성 공룡나라쇼핑몰, 9년 연속 소비자친화브랜드 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260310160700052",
-      "pubDate": "Tue, 10 Mar 2026 16:26:43 +0900"
-    },
-    {
-      "title": "[게시판] NH농협카드, 중동發 고유가에 주유비 할인 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260310158600002",
-      "pubDate": "Tue, 10 Mar 2026 16:18:26 +0900"
-    },
-    {
-      "title": "트럼프 한마디에 울고웃는 증시…6%씩 급등락 연일 현기증장세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310064651008",
-      "pubDate": "Tue, 10 Mar 2026 16:04:07 +0900"
-    },
-    {
-      "title": "소상공인단체, 대형마트 새벽배송 허용 법안 반발…철회 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260310149700030",
-      "pubDate": "Tue, 10 Mar 2026 16:03:46 +0900"
     }
   ]
 }
