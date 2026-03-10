@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773138458,
+  "updated_at_unix": 1773140762,
   "items": [
+    {
+      "title": "아산 메추리농장·김제 육용종계 농장서 고병원성 AI",
+      "link": "https://www.yna.co.kr/view/AKR20260310193000030",
+      "pubDate": "Tue, 10 Mar 2026 19:40:00 +0900"
+    },
     {
       "title": "신보 새 이사장에 강승준 서울과기대 대외국제부총장 내정",
       "link": "https://www.yna.co.kr/view/AKR20260310182000002",
@@ -147,11 +152,6 @@
       "title": "노란봉투법 첫날 민주노총 집회…\"노동기본권 확대 투쟁\"",
       "link": "https://www.yna.co.kr/view/AKR20260310152600004",
       "pubDate": "Tue, 10 Mar 2026 15:52:18 +0900"
-    },
-    {
-      "title": "\"트럼프 책사들, 이란 전쟁에 '출구 찾아야' 비밀리 조언\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310151300009",
-      "pubDate": "Tue, 10 Mar 2026 15:52:13 +0900"
     }
   ]
 }
