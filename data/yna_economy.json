@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773119067,
+  "updated_at_unix": 1773122589,
   "items": [
+    {
+      "title": "제주도, 최저·최고가 주유소 일 2회 공개…담합 신고센터 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260310136300056",
+      "pubDate": "Tue, 10 Mar 2026 14:46:04 +0900"
+    },
+    {
+      "title": "화성시, 24~25일 AI·로봇 산업 '투자유치&컨퍼런스' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260310136100061",
+      "pubDate": "Tue, 10 Mar 2026 14:41:39 +0900"
+    },
+    {
+      "title": "李대통령 \"물가안정 시급…유류세 감면, 차등 지원도 검토\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260310091151001",
+      "pubDate": "Tue, 10 Mar 2026 14:38:33 +0900"
+    },
+    {
+      "title": "인천시 \"서울5호선 김포·검단 연장 환영…서울 출퇴근 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310133400065",
+      "pubDate": "Tue, 10 Mar 2026 14:35:00 +0900"
+    },
+    {
+      "title": "장동혁 \"尹정부 때 노동계 의견 충분히 수렴 못해 반성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310124800001",
+      "pubDate": "Tue, 10 Mar 2026 14:33:45 +0900"
+    },
+    {
+      "title": "[게시판] 기업은행, 법인 대상 비대면 '전자위임장' 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20260310134600002",
+      "pubDate": "Tue, 10 Mar 2026 14:30:03 +0900"
+    },
+    {
+      "title": "인구감소지역 예타, 경제성 가중치 낮추고 지역균형 5%p 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260310106500002",
+      "pubDate": "Tue, 10 Mar 2026 14:30:02 +0900"
+    },
+    {
+      "title": "노란봉투법 시행속 비용 떠넘기기 막는다…노동부·공정위 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260310104500530",
+      "pubDate": "Tue, 10 Mar 2026 14:30:01 +0900"
+    },
+    {
+      "title": "5호선 김포검단 연장·위례신사선 신설, 예비타당성조사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260310126300002",
+      "pubDate": "Tue, 10 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260310127500011",
+      "pubDate": "Tue, 10 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "중기중앙회장 연임제한 폐지 논란…법안소위 앞두고 찬반 여론전",
+      "link": "https://www.yna.co.kr/view/AKR20260310131100030",
+      "pubDate": "Tue, 10 Mar 2026 14:26:46 +0900"
+    },
+    {
+      "title": "울주 중부노인복지관, 정서건강 증진·전문상담 구축 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260310128000057",
+      "pubDate": "Tue, 10 Mar 2026 14:16:01 +0900"
+    },
+    {
+      "title": "\"환율충격 줄이려면 MSCI선진국지수 편입 등 외환순공급 늘려야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310129500008",
+      "pubDate": "Tue, 10 Mar 2026 14:14:58 +0900"
+    },
+    {
+      "title": "서울시, 2030년까지 청년주택 7만4천호 공급한다",
+      "link": "https://www.yna.co.kr/view/AKR20260310100700004",
+      "pubDate": "Tue, 10 Mar 2026 14:10:00 +0900"
+    },
+    {
+      "title": "[특징주] 정부 '생리대 무상 제공 사업' 추진에 관련주 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260310127100008",
+      "pubDate": "Tue, 10 Mar 2026 14:05:55 +0900"
+    },
+    {
+      "title": "인천교육청-GM테크니컬센터코리아, 창의융합교육 협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260310127200065",
+      "pubDate": "Tue, 10 Mar 2026 14:05:01 +0900"
+    },
+    {
+      "title": "노동부, '364일계약' 등 불합리 고용의심 지방정부 30곳 감독",
+      "link": "https://www.yna.co.kr/view/AKR20260310122300530",
+      "pubDate": "Tue, 10 Mar 2026 14:04:01 +0900"
+    },
+    {
+      "title": "부산상의·부산국세청, 중동사태 충격 최소화 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260310067900051",
+      "pubDate": "Tue, 10 Mar 2026 14:00:04 +0900"
+    },
+    {
+      "title": "금감원 \"금융투자 올해 예방적 감독…고위험상품 집중심사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310067700002",
+      "pubDate": "Tue, 10 Mar 2026 14:00:03 +0900"
+    },
+    {
+      "title": "\"국내 외국인투자로 경제안보 리스크…투자 안보 심사 강화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310112800003",
+      "pubDate": "Tue, 10 Mar 2026 14:00:01 +0900"
+    },
     {
       "title": "'패륜 배우자·자녀 상속권 제한' 민법 개정안 국무회의 통과",
       "link": "https://www.yna.co.kr/view/AKR20260310089600001",
@@ -52,106 +152,6 @@
       "title": "국내기업 3곳 중 2곳 \"올해 채용계획 有\"…작년보다 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260310042700003",
       "pubDate": "Tue, 10 Mar 2026 12:00:21 +0900"
-    },
-    {
-      "title": "산업계 선호 '과정평가 국가기술자격' 정보 직업계고에 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260310088200530",
-      "pubDate": "Tue, 10 Mar 2026 12:00:19 +0900"
-    },
-    {
-      "title": "국세청, 300명 투입해 석유 불법 유통점검…세무조사도 병행",
-      "link": "https://www.yna.co.kr/view/AKR20260310098400002",
-      "pubDate": "Tue, 10 Mar 2026 12:00:17 +0900"
-    },
-    {
-      "title": "주문하고 계약서도 안 준 인지컨트롤스…과징금 1억4천400만원",
-      "link": "https://www.yna.co.kr/view/AKR20260310097900002",
-      "pubDate": "Tue, 10 Mar 2026 12:00:17 +0900"
-    },
-    {
-      "title": "외국인 전문인력 근로자 절반 이상 월평균 수입 300만원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260310100800002",
-      "pubDate": "Tue, 10 Mar 2026 12:00:16 +0900"
-    },
-    {
-      "title": "벤츠 '화재 위험에 리콜된 배터리' 숨기고 팔아…과징금 112억원",
-      "link": "https://www.yna.co.kr/view/AKR20260310107700002",
-      "pubDate": "Tue, 10 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "이찬진 \"중동발 불확실성 지속\"…반대매매·ETF손실 안내 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260310108400002",
-      "pubDate": "Tue, 10 Mar 2026 11:59:41 +0900"
-    },
-    {
-      "title": "전세계약 전 선순위채권 등 위험요소 확인 쉬워진다",
-      "link": "https://www.yna.co.kr/view/AKR20260310027400003",
-      "pubDate": "Tue, 10 Mar 2026 11:49:08 +0900"
-    },
-    {
-      "title": "건설업계, 노란봉투법 관련 노조 교섭요구 움직임에 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20260310106800003",
-      "pubDate": "Tue, 10 Mar 2026 11:48:48 +0900"
-    },
-    {
-      "title": "유가 하락에…한국·일본 등 아시아 증시 반등",
-      "link": "https://www.yna.co.kr/view/AKR20260310105700009",
-      "pubDate": "Tue, 10 Mar 2026 11:45:10 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.303%",
-      "link": "https://www.yna.co.kr/view/AKR20260310107500008",
-      "pubDate": "Tue, 10 Mar 2026 11:40:26 +0900"
-    },
-    {
-      "title": "화천군, 군 복무 청년 94명 전원 상해보험 가입·보험료 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260310101500062",
-      "pubDate": "Tue, 10 Mar 2026 11:33:23 +0900"
-    },
-    {
-      "title": "80돌 한국노총, \"과오 사과\"…AI시대 노동권 보호체계 구축 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260310096400530",
-      "pubDate": "Tue, 10 Mar 2026 11:25:33 +0900"
-    },
-    {
-      "title": "중기부, 중기중앙회장 연임제한 폐지에 \"신중검토\"…사실상 반대",
-      "link": "https://www.yna.co.kr/view/AKR20260310100600030",
-      "pubDate": "Tue, 10 Mar 2026 11:25:19 +0900"
-    },
-    {
-      "title": "신한투자, 신한SOL 앱 내 절세 관리 서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260310103400008",
-      "pubDate": "Tue, 10 Mar 2026 11:23:55 +0900"
-    },
-    {
-      "title": "\"고랭지 무·배추 수급 안정\"…강원도, 광역수급관리센터 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260310096500062",
-      "pubDate": "Tue, 10 Mar 2026 11:20:28 +0900"
-    },
-    {
-      "title": "李대통령 \"조기 추경해야 할 상황…재정지원 등 추가재정 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260310100400001",
-      "pubDate": "Tue, 10 Mar 2026 11:17:00 +0900"
-    },
-    {
-      "title": "서울시, 면접 정장 무료 대여 '취업날개' 서비스 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260310047000004",
-      "pubDate": "Tue, 10 Mar 2026 11:15:03 +0900"
-    },
-    {
-      "title": "미래에셋 'TIGER 미국배당다우존스 ETF' 순자산 3조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260310100100008",
-      "pubDate": "Tue, 10 Mar 2026 11:13:20 +0900"
-    },
-    {
-      "title": "로킷헬스케어, 625억원 유증…브룩데일펀드 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260310096900008",
-      "pubDate": "Tue, 10 Mar 2026 11:11:25 +0900"
-    },
-    {
-      "title": "'노란봉투법' 시행 첫날 대전지역 노조·시민단체 잇따라 환영",
-      "link": "https://www.yna.co.kr/view/AKR20260310098500063",
-      "pubDate": "Tue, 10 Mar 2026 11:09:06 +0900"
     }
   ]
 }
