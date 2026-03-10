@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773131680,
+  "updated_at_unix": 1773135157,
   "items": [
+    {
+      "title": "신보 새 이사장에 강승준 서울과기대 대외국제부총장 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260310182000002",
+      "pubDate": "Tue, 10 Mar 2026 18:17:22 +0900"
+    },
+    {
+      "title": "전남도, 한전 등과 공공주도 재생에너지 발전단지 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260310184400054",
+      "pubDate": "Tue, 10 Mar 2026 18:12:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260310175300011",
+      "pubDate": "Tue, 10 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "엘에스엠앤엠 2천억원 유상증자…최대주주 LS에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260310182200008",
+      "pubDate": "Tue, 10 Mar 2026 17:53:29 +0900"
+    },
+    {
+      "title": "삼성전자 직원연봉 역대 최대 1.58억…전영현 56억·노태문 61억(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260310176751003",
+      "pubDate": "Tue, 10 Mar 2026 17:53:01 +0900"
+    },
+    {
+      "title": "엔씨소프트 \"獨저스트플레이 주식 3천억원에 취득…지분율 70%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260310177300008",
+      "pubDate": "Tue, 10 Mar 2026 17:30:16 +0900"
+    },
+    {
+      "title": "중국 '유가 급등' 충격 덜 한 이유는",
+      "link": "https://www.yna.co.kr/view/AKR20260310156100009",
+      "pubDate": "Tue, 10 Mar 2026 17:29:32 +0900"
+    },
     {
       "title": "\"과천 경마공원 이전비용·매출감소 각각 1조2천억원\"",
       "link": "https://www.yna.co.kr/view/AKR20260310176900061",
@@ -117,41 +152,6 @@
       "title": "\"트럼프 책사들, 이란 전쟁에 '출구 찾아야' 비밀리 조언\"",
       "link": "https://www.yna.co.kr/view/AKR20260310151300009",
       "pubDate": "Tue, 10 Mar 2026 15:52:13 +0900"
-    },
-    {
-      "title": "[특징주] 정부 '생리대 무상 제공 사업' 추진에 관련주 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310127151008",
-      "pubDate": "Tue, 10 Mar 2026 15:49:53 +0900"
-    },
-    {
-      "title": "환율, 유가 안정·전쟁 종식 기대에 26원 급락…1,469.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260310151900002",
-      "pubDate": "Tue, 10 Mar 2026 15:48:15 +0900"
-    },
-    {
-      "title": "[특징주] 국제유가 하락에 정유주 줄줄이 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310045751008",
-      "pubDate": "Tue, 10 Mar 2026 15:45:56 +0900"
-    },
-    {
-      "title": "[특징주] 항공株, 국제선 여객 호실적·유가 하락에 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310052351008",
-      "pubDate": "Tue, 10 Mar 2026 15:42:36 +0900"
-    },
-    {
-      "title": "[르포] \"출항 겁난다\" 중동 전쟁 여파에 부산 어선 '시름'",
-      "link": "https://www.yna.co.kr/view/AKR20260310144800051",
-      "pubDate": "Tue, 10 Mar 2026 15:41:59 +0900"
-    },
-    {
-      "title": "[과학스냅] 중앙과학관, 초능력 아이템 수집전 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260310151400017",
-      "pubDate": "Tue, 10 Mar 2026 15:41:26 +0900"
-    },
-    {
-      "title": "대구시, 중동 정세 대응 비상경제 TF 구성…주유소 합동점검",
-      "link": "https://www.yna.co.kr/view/AKR20260310150200053",
-      "pubDate": "Tue, 10 Mar 2026 15:39:27 +0900"
     }
   ]
 }
