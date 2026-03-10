@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773184620,
+  "updated_at_unix": 1773186400,
   "items": [
+    {
+      "title": "금감원, '엔화 반값 오류' 토스뱅크 현장점검…100억원대 손실",
+      "link": "https://www.yna.co.kr/view/AKR20260311033000002",
+      "pubDate": "Wed, 11 Mar 2026 08:43:56 +0900"
+    },
+    {
+      "title": "[AI픽] SBVA, 얀 르쿤 AI 연구랩 AMI에 500억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260311033200017",
+      "pubDate": "Wed, 11 Mar 2026 08:42:55 +0900"
+    },
+    {
+      "title": "한화증권 \"한전기술, 올해 실적 개선 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311031100008",
+      "pubDate": "Wed, 11 Mar 2026 08:28:58 +0900"
+    },
+    {
+      "title": "에이피알, 미국 코첼라에 공식 스폰서로 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260311030900030",
+      "pubDate": "Wed, 11 Mar 2026 08:27:32 +0900"
+    },
+    {
+      "title": "유안타증권 \"통신주, 방어주 역할 톡톡…'매수' 의견 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311030400008",
+      "pubDate": "Wed, 11 Mar 2026 08:25:36 +0900"
+    },
+    {
+      "title": "DS투자, '5조 자사주 소각' SK 목표가↑…\"주주환원 지속 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311029600008",
+      "pubDate": "Wed, 11 Mar 2026 08:22:52 +0900"
+    },
+    {
+      "title": "한투증권 \"크레딧, 유가 되돌림·한은 의지에 강세 기조 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311028800008",
+      "pubDate": "Wed, 11 Mar 2026 08:21:25 +0900"
+    },
+    {
+      "title": "문체부-관광공사, '관광 글로벌 챌린지' 참가기업 30곳 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260311029200030",
+      "pubDate": "Wed, 11 Mar 2026 08:19:55 +0900"
+    },
+    {
+      "title": "무보, '이란 사태 비상대책 TF' 가동…무역금융 한도 1.5배 우대",
+      "link": "https://www.yna.co.kr/view/AKR20260311028900003",
+      "pubDate": "Wed, 11 Mar 2026 08:16:37 +0900"
+    },
     {
       "title": "[마켓뷰] 유가 불확실성·오라클 호실적 속 코스피 향방은",
       "link": "https://www.yna.co.kr/view/AKR20260311024900008",
@@ -104,54 +149,9 @@
       "pubDate": "Wed, 11 Mar 2026 02:53:28 +0900"
     },
     {
-      "title": "美 \"미해군, 호르무즈통과 유조선 성공적 호위\"…개전후 처음",
+      "title": "美 \"미해군, 호르무즈통과 유조선 호위했다\" 발표했다가 철회",
       "link": "https://www.yna.co.kr/view/AKR20260311003600071",
       "pubDate": "Wed, 11 Mar 2026 02:35:20 +0900"
-    },
-    {
-      "title": "IEA, 정부간 긴급회의 소집…비축유 방출 여부 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260310202600081",
-      "pubDate": "Tue, 10 Mar 2026 23:52:22 +0900"
-    },
-    {
-      "title": "토스뱅크 앱에서 환전 오류 발생…엔화 반값에 거래돼(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310197751002",
-      "pubDate": "Tue, 10 Mar 2026 22:18:57 +0900"
-    },
-    {
-      "title": "토스뱅크 앱에서 환전 오류 발생…엔화 반값에 거래돼",
-      "link": "https://www.yna.co.kr/view/AKR20260310197700002",
-      "pubDate": "Tue, 10 Mar 2026 21:29:37 +0900"
-    },
-    {
-      "title": "아산 메추리농장·김제 육용종계 농장서 고병원성 AI",
-      "link": "https://www.yna.co.kr/view/AKR20260310193000030",
-      "pubDate": "Tue, 10 Mar 2026 19:40:00 +0900"
-    },
-    {
-      "title": "신보 새 이사장에 강승준 서울과기대 대외국제부총장 내정",
-      "link": "https://www.yna.co.kr/view/AKR20260310182000002",
-      "pubDate": "Tue, 10 Mar 2026 18:17:22 +0900"
-    },
-    {
-      "title": "전남도, 한전 등과 공공주도 재생에너지 발전단지 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260310184400054",
-      "pubDate": "Tue, 10 Mar 2026 18:12:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260310175300011",
-      "pubDate": "Tue, 10 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "엘에스엠앤엠 2천억원 유상증자…최대주주 LS에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260310182200008",
-      "pubDate": "Tue, 10 Mar 2026 17:53:29 +0900"
-    },
-    {
-      "title": "삼성전자 직원연봉 역대 최대 1.58억…전영현 56억·노태문 61억(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260310176751003",
-      "pubDate": "Tue, 10 Mar 2026 17:53:01 +0900"
     }
   ]
 }
