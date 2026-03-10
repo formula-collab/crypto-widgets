@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773171036,
+  "updated_at_unix": 1773174074,
   "items": [
+    {
+      "title": "국제유가, 전쟁 조기종식 기대에 11% 급락…80달러대 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260311005951072",
+      "pubDate": "Wed, 11 Mar 2026 05:11:09 +0900"
+    },
     {
       "title": "[뉴욕유가] 트럼프 \"전쟁 곧 끝날 것\"…WTI 12% 급락",
       "link": "https://www.yna.co.kr/view/AKR20260311007800009",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 대체로 하락…3년물 연 3.283%",
       "link": "https://www.yna.co.kr/view/AKR20260310166300008",
       "pubDate": "Tue, 10 Mar 2026 16:40:15 +0900"
-    },
-    {
-      "title": "횡성군, 외국인 계절 농업근로자 기숙사 건립 사업 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260310160600062",
-      "pubDate": "Tue, 10 Mar 2026 16:37:39 +0900"
     }
   ]
 }
