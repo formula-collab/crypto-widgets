@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773240129,
+  "updated_at_unix": 1773243412,
   "items": [
+    {
+      "title": "국제유가, 사상최대 비축유 방출에도 불안지속…브렌트 90달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260312001000072",
+      "pubDate": "Thu, 12 Mar 2026 00:24:58 +0900"
+    },
+    {
+      "title": "한국부동산원 청약홈 홈페이지 전면 개편…\"이용 편의성 높여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311144200003",
+      "pubDate": "Thu, 12 Mar 2026 00:00:00 +0900"
+    },
     {
       "title": "美 2월 소비자물가 전년대비 2.4%↑…이란전쟁 전 물가반영(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260311181451072",
@@ -142,16 +152,6 @@
       "title": "CSA 코스믹 \"블루원 주식 22억원어치 추가취득…지분율 64%\"",
       "link": "https://www.yna.co.kr/view/AKR20260311155300008",
       "pubDate": "Wed, 11 Mar 2026 17:03:01 +0900"
-    },
-    {
-      "title": "창원시, 중동 정세 불안 대응 기업체·유관기관 긴급 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260311153800052",
-      "pubDate": "Wed, 11 Mar 2026 17:01:16 +0900"
-    },
-    {
-      "title": "금융위, '주가조작 패가망신 1호' 병원장 등 11명 검찰 고발",
-      "link": "https://www.yna.co.kr/view/AKR20260311151800002",
-      "pubDate": "Wed, 11 Mar 2026 16:59:48 +0900"
     }
   ]
 }
