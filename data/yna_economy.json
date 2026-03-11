@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773215891,
+  "updated_at_unix": 1773218241,
   "items": [
+    {
+      "title": "LS \"자회사 엘에스엠앤엠 주식 2천억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311162300008",
+      "pubDate": "Wed, 11 Mar 2026 17:31:30 +0900"
+    },
+    {
+      "title": "무인정산 도입 해고 통보, 창원팔룡터널 수납원 \"고용 승계하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311155700052",
+      "pubDate": "Wed, 11 Mar 2026 17:25:33 +0900"
+    },
+    {
+      "title": "바닷길 운항도 차질 빚나…여객선사·해경, 오른 유류비에 고민",
+      "link": "https://www.yna.co.kr/view/AKR20260311151700052",
+      "pubDate": "Wed, 11 Mar 2026 17:16:56 +0900"
+    },
+    {
+      "title": "인천시, 중동 상황 대응 '비상경제TF' 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260311158800065",
+      "pubDate": "Wed, 11 Mar 2026 17:16:01 +0900"
+    },
+    {
+      "title": "DB증권, 주당 550원 현금배당 추진…\"역대 최대 규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311157700008",
+      "pubDate": "Wed, 11 Mar 2026 17:11:14 +0900"
+    },
+    {
+      "title": "유가 안정에 국고채 금리 일제히 하락…3년물 연 3.253%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260311150351008",
+      "pubDate": "Wed, 11 Mar 2026 17:04:24 +0900"
+    },
+    {
+      "title": "CSA 코스믹 \"블루원 주식 22억원어치 추가취득…지분율 64%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311155300008",
+      "pubDate": "Wed, 11 Mar 2026 17:03:01 +0900"
+    },
+    {
+      "title": "창원시, 중동 정세 불안 대응 기업체·유관기관 긴급 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260311153800052",
+      "pubDate": "Wed, 11 Mar 2026 17:01:16 +0900"
+    },
+    {
+      "title": "금융위, '주가조작 패가망신 1호' 병원장 등 11명 검찰 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260311151800002",
+      "pubDate": "Wed, 11 Mar 2026 16:59:48 +0900"
+    },
+    {
+      "title": "LH충북본부 \"올해 건설공사·보상·주거복지에 7천622억 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311150500064",
+      "pubDate": "Wed, 11 Mar 2026 16:54:50 +0900"
+    },
+    {
+      "title": "[동정] 이명구 관세청장, K-뷰티 수출업체 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260311153700002",
+      "pubDate": "Wed, 11 Mar 2026 16:53:10 +0900"
+    },
     {
       "title": "경남도의회 경제환경위, 상공계 건의 4건 입법…정책협력 결실",
       "link": "https://www.yna.co.kr/view/AKR20260311148500052",
@@ -97,61 +152,6 @@
       "title": "전 국민 AI 시대 연다…정부 '모두의 AI' 정책 가동",
       "link": "https://www.yna.co.kr/view/AKR20260311108700017",
       "pubDate": "Wed, 11 Mar 2026 16:00:07 +0900"
-    },
-    {
-      "title": "부처별 흩어진 전략기술 513개 정비…19개 분야로 묶는다",
-      "link": "https://www.yna.co.kr/view/AKR20260311112900017",
-      "pubDate": "Wed, 11 Mar 2026 16:00:01 +0900"
-    },
-    {
-      "title": "환율, 유가 안정·달러 약세에 이틀 연속 하락…1,466.5원",
-      "link": "https://www.yna.co.kr/view/AKR20260311133700002",
-      "pubDate": "Wed, 11 Mar 2026 15:54:29 +0900"
-    },
-    {
-      "title": "[전주소식] 고객과 가까이…크라운해태, 전주서 국악공연",
-      "link": "https://www.yna.co.kr/view/AKR20260311136200055",
-      "pubDate": "Wed, 11 Mar 2026 15:54:26 +0900"
-    },
-    {
-      "title": "구윤철 \"최고가격제 2주 단위로 시행…1천800원이면 해제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311131100002",
-      "pubDate": "Wed, 11 Mar 2026 15:53:45 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 1% 올라 '19만전자' 회복…하이닉스는 1.8%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311044651008",
-      "pubDate": "Wed, 11 Mar 2026 15:50:19 +0900"
-    },
-    {
-      "title": "[특징주] 삼성생명·화재, 전자 소각 계획 수혜주 평가에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311060951008",
-      "pubDate": "Wed, 11 Mar 2026 15:48:21 +0900"
-    },
-    {
-      "title": "구윤철 \"화물차·택배·농어민 등 취약층 타깃 민생추경\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311131500002",
-      "pubDate": "Wed, 11 Mar 2026 15:47:44 +0900"
-    },
-    {
-      "title": "금감원, 중동상황 외화유동성 점검…스트레스테스트 주기 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260311130700002",
-      "pubDate": "Wed, 11 Mar 2026 15:46:57 +0900"
-    },
-    {
-      "title": "산청군농민회 \"산청농협, 사업준비금 일방적 삭감 사과하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311130200052",
-      "pubDate": "Wed, 11 Mar 2026 15:46:18 +0900"
-    },
-    {
-      "title": "[특징주] 증권株, 이란 사태 충격 딛고 지수 우상향하자 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311043151008",
-      "pubDate": "Wed, 11 Mar 2026 15:46:09 +0900"
-    },
-    {
-      "title": "외국환시세(3월11일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260311132300002",
-      "pubDate": "Wed, 11 Mar 2026 15:44:02 +0900"
     }
   ]
 }
