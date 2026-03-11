@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773262459,
+  "updated_at_unix": 1773264106,
   "items": [
+    {
+      "title": "[미·이란 전쟁 2주] 중동발 오일쇼크…한국 산업계 전방위 '타격'",
+      "link": "https://www.yna.co.kr/view/AKR20260311177900003",
+      "pubDate": "Thu, 12 Mar 2026 06:01:08 +0900"
+    },
+    {
+      "title": "[미·이란 전쟁 2주] 금융시장 대혼돈…코스피 10%대 급등락·환율 널뛰어",
+      "link": "https://www.yna.co.kr/view/AKR20260311163600002",
+      "pubDate": "Thu, 12 Mar 2026 06:01:06 +0900"
+    },
+    {
+      "title": "고물가에 바뀐 돼지고기 지도…삼겹살 줄고 '다리 살' 급부상",
+      "link": "https://www.yna.co.kr/view/AKR20260311156200030",
+      "pubDate": "Thu, 12 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "'전기차 충전 중 화재' 대물피해 100억원 보장…보험사업자 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260311161300530",
+      "pubDate": "Thu, 12 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "삼성생명 \"유배당보험 역마진\"…계약 현황 첫 공시",
+      "link": "https://www.yna.co.kr/view/AKR20260311177300002",
+      "pubDate": "Thu, 12 Mar 2026 05:55:00 +0900"
+    },
+    {
+      "title": "한은, 통화신용정책 수시 국회 보고 요구에 '난색'",
+      "link": "https://www.yna.co.kr/view/AKR20260311154600002",
+      "pubDate": "Thu, 12 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "한은 \"최고가격제 소비자 부담 일시 경감…도입 기간은 짧게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311161600002",
+      "pubDate": "Thu, 12 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 사상최대 비축유 방출에도 5%↑…브렌트 92달러(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260312001051072",
@@ -117,41 +152,6 @@
       "title": "NH투자증권, IMA '3호 사업자' 될 듯…증선위 통과",
       "link": "https://www.yna.co.kr/view/AKR20260311165600002",
       "pubDate": "Wed, 11 Mar 2026 17:54:01 +0900"
-    },
-    {
-      "title": "'미래전략 컨트롤타워' 박홍근 \"기획처, 단순한 예산부처 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311165500002",
-      "pubDate": "Wed, 11 Mar 2026 17:53:39 +0900"
-    },
-    {
-      "title": "ℓ당 1천733원 판매에…\"1천700원대 주유소들 돈쭐내자\" 응원",
-      "link": "https://www.yna.co.kr/view/AKR20260311159400064",
-      "pubDate": "Wed, 11 Mar 2026 17:49:58 +0900"
-    },
-    {
-      "title": "첫날 하청노조 교섭요구 받은 원청 2.3%만 수용…대다수 '유보'",
-      "link": "https://www.yna.co.kr/view/AKR20260311156900530",
-      "pubDate": "Wed, 11 Mar 2026 17:45:42 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농지 전수조사, 어떻게 할지 검토 중\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260311112852030",
-      "pubDate": "Wed, 11 Mar 2026 17:34:55 +0900"
-    },
-    {
-      "title": "LS \"자회사 엘에스엠앤엠 주식 2천억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311162300008",
-      "pubDate": "Wed, 11 Mar 2026 17:31:30 +0900"
-    },
-    {
-      "title": "무인정산 도입 해고 통보, 창원팔룡터널 수납원 \"고용 승계하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311155700052",
-      "pubDate": "Wed, 11 Mar 2026 17:25:33 +0900"
-    },
-    {
-      "title": "바닷길 운항도 차질 빚나…여객선사·해경, 오른 유류비에 고민",
-      "link": "https://www.yna.co.kr/view/AKR20260311151700052",
-      "pubDate": "Wed, 11 Mar 2026 17:16:56 +0900"
     }
   ]
 }
