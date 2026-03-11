@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773224889,
+  "updated_at_unix": 1773227127,
   "items": [
+    {
+      "title": "조선업 외국 전문인력 확대한다…법무부, 비자제도 개선 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260311173400004",
+      "pubDate": "Wed, 11 Mar 2026 19:26:28 +0900"
+    },
     {
       "title": "한화리츠, 숭례문 이마트타워 인수 우선협상대상자 선정",
       "link": "https://www.yna.co.kr/view/AKR20260311172500008",
@@ -147,11 +152,6 @@
       "title": "사토시홀딩스 \"계열사 한국첨단소재 주식 32억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260311150700008",
       "pubDate": "Wed, 11 Mar 2026 16:44:06 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.253%",
-      "link": "https://www.yna.co.kr/view/AKR20260311150300008",
-      "pubDate": "Wed, 11 Mar 2026 16:43:39 +0900"
     }
   ]
 }
