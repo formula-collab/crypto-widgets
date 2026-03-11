@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773254334,
+  "updated_at_unix": 1773257688,
   "items": [
+    {
+      "title": "[뉴욕유가] 비축유 4억배럴 방출 계획도 못잡은 유가…WTI 4.6% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260312005600009",
+      "pubDate": "Thu, 12 Mar 2026 03:45:01 +0900"
+    },
     {
       "title": "달러-원, 빛바랜 IEA 비축유 방출에 유가 따라 급반등…1,477원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260312004000002",
@@ -147,11 +152,6 @@
       "title": "DB증권, 주당 550원 현금배당 추진…\"역대 최대 규모\"",
       "link": "https://www.yna.co.kr/view/AKR20260311157700008",
       "pubDate": "Wed, 11 Mar 2026 17:11:14 +0900"
-    },
-    {
-      "title": "유가 안정에 국고채 금리 일제히 하락…3년물 연 3.253%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311150351008",
-      "pubDate": "Wed, 11 Mar 2026 17:04:24 +0900"
     }
   ]
 }
