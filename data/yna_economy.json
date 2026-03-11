@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773227127,
+  "updated_at_unix": 1773229888,
   "items": [
+    {
+      "title": "카드사 금리인하 수용률 70% 넘어…신한카드 가장 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260311176300002",
+      "pubDate": "Wed, 11 Mar 2026 20:02:21 +0900"
+    },
     {
       "title": "조선업 외국 전문인력 확대한다…법무부, 비자제도 개선 추진",
       "link": "https://www.yna.co.kr/view/AKR20260311173400004",
@@ -147,11 +152,6 @@
       "title": "경남도의회 경제환경위, 상공계 건의 4건 입법…정책협력 결실",
       "link": "https://www.yna.co.kr/view/AKR20260311148500052",
       "pubDate": "Wed, 11 Mar 2026 16:48:53 +0900"
-    },
-    {
-      "title": "사토시홀딩스 \"계열사 한국첨단소재 주식 32억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311150700008",
-      "pubDate": "Wed, 11 Mar 2026 16:44:06 +0900"
     }
   ]
 }
