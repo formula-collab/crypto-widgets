@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773205539,
+  "updated_at_unix": 1773209156,
   "items": [
+    {
+      "title": "시몬스 \"성인 10명중 7명, '수면의 질 저하'로 불편 겪어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311103500030",
+      "pubDate": "Wed, 11 Mar 2026 15:00:01 +0900"
+    },
+    {
+      "title": "[광주 북구소식] 석유판매업소 기름값 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260311121800054",
+      "pubDate": "Wed, 11 Mar 2026 14:51:46 +0900"
+    },
+    {
+      "title": "S&P \"韓금융기관들, 중동분쟁에도 시장변동성 견딜 회복력 갖춰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311113800008",
+      "pubDate": "Wed, 11 Mar 2026 14:50:31 +0900"
+    },
+    {
+      "title": "BNK금융·두산에너빌리티, 친환경 에너지 사업 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260311120100051",
+      "pubDate": "Wed, 11 Mar 2026 14:46:29 +0900"
+    },
+    {
+      "title": "춘천시, 중동발 경제 불안 대응…공공요금 인상 보류",
+      "link": "https://www.yna.co.kr/view/AKR20260311118500062",
+      "pubDate": "Wed, 11 Mar 2026 14:41:52 +0900"
+    },
+    {
+      "title": "신정훈 \"전남 서남권, 에너지·첨단·해양산업으로 발전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311117800054",
+      "pubDate": "Wed, 11 Mar 2026 14:35:10 +0900"
+    },
+    {
+      "title": "정부, 전략 비축유 시장에 푸나…\"IEA와 국제공조 논의 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311052051009",
+      "pubDate": "Wed, 11 Mar 2026 14:32:28 +0900"
+    },
+    {
+      "title": "중기부, '창업도시' 조성 논의…정책자문단 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260311115700030",
+      "pubDate": "Wed, 11 Mar 2026 14:31:53 +0900"
+    },
+    {
+      "title": "금감원, 보험사·GA 검사 강화…'1천200% 수수료' 위반 집중점검",
+      "link": "https://www.yna.co.kr/view/AKR20260311115800002",
+      "pubDate": "Wed, 11 Mar 2026 14:30:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260311111600011",
+      "pubDate": "Wed, 11 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "안양시, 맞춤형 채용 플랫폼 가동…올해 54회 취업행사 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260311112200061",
+      "pubDate": "Wed, 11 Mar 2026 14:27:48 +0900"
+    },
+    {
+      "title": "금천구, '전국 최초' 토지거래허가 신청 자동화",
+      "link": "https://www.yna.co.kr/view/AKR20260311115100004",
+      "pubDate": "Wed, 11 Mar 2026 14:27:26 +0900"
+    },
+    {
+      "title": "송미령 장관 \"농지 투기 근절 위한 농지조사 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311112800030",
+      "pubDate": "Wed, 11 Mar 2026 14:25:36 +0900"
+    },
+    {
+      "title": "대전경찰청, 10월까지 민생물가 교란 범죄 특별 단속",
+      "link": "https://www.yna.co.kr/view/AKR20260311111900063",
+      "pubDate": "Wed, 11 Mar 2026 14:22:07 +0900"
+    },
+    {
+      "title": "트립닷컴 \"여성 해외여행객 중 한국인 여행횟수 1위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311079500030",
+      "pubDate": "Wed, 11 Mar 2026 14:19:35 +0900"
+    },
+    {
+      "title": "행복청, 세종 국가채용센터 건립사업 예비타당성 조사 면제",
+      "link": "https://www.yna.co.kr/view/AKR20260311109500063",
+      "pubDate": "Wed, 11 Mar 2026 14:09:02 +0900"
+    },
+    {
+      "title": "가파르게 오르던 상장사 실적 전망, 중동발 유가쇼크에 '주춤'",
+      "link": "https://www.yna.co.kr/view/AKR20260311094100008",
+      "pubDate": "Wed, 11 Mar 2026 14:07:02 +0900"
+    },
     {
       "title": "의결권자문사 ISS·글래스루이스 \"진옥동 신한 회장 선임 찬성\"",
       "link": "https://www.yna.co.kr/view/AKR20260311107900002",
@@ -67,91 +152,6 @@
       "title": "국세청, 올해도 수수료 없는 소득세 환급…111만명·1천409억",
       "link": "https://www.yna.co.kr/view/AKR20260311061900002",
       "pubDate": "Wed, 11 Mar 2026 12:00:16 +0900"
-    },
-    {
-      "title": "'당근마켓'에 생년월일·주소 안 낸다…후기 자의적 삭제 억제",
-      "link": "https://www.yna.co.kr/view/AKR20260311077100002",
-      "pubDate": "Wed, 11 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "2월 금융권 가계대출 2.9조원↑…증가폭도 1.5조원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260311090600002",
-      "pubDate": "Wed, 11 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국제 에너지 가격 급등에…정부 '전기요금 안정화 방안' 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260311093200530",
-      "pubDate": "Wed, 11 Mar 2026 11:52:25 +0900"
-    },
-    {
-      "title": "신협중앙회, 고영철 회장 첫 인사…\"현장 실행력·전문성 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311092100002",
-      "pubDate": "Wed, 11 Mar 2026 11:48:15 +0900"
-    },
-    {
-      "title": "진주시 'K-기업가정신 창업경진대회' 접수…\"창의적 인재 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311080000052",
-      "pubDate": "Wed, 11 Mar 2026 11:42:28 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 장중 연 3.256%",
-      "link": "https://www.yna.co.kr/view/AKR20260311091400008",
-      "pubDate": "Wed, 11 Mar 2026 11:40:22 +0900"
-    },
-    {
-      "title": "과기부총리, 전쟁 포화 UAE와 AI 협력 우려에 \"파트너십 공고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311087900017",
-      "pubDate": "Wed, 11 Mar 2026 11:36:42 +0900"
-    },
-    {
-      "title": "金총리 \"새만금·전북 대혁신 역사적 의미…지방성장 출발\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311065151001",
-      "pubDate": "Wed, 11 Mar 2026 11:36:32 +0900"
-    },
-    {
-      "title": "강원도, 축산브랜드 경쟁력 강화…수출 육성 등 64억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260311088800062",
-      "pubDate": "Wed, 11 Mar 2026 11:35:37 +0900"
-    },
-    {
-      "title": "두산, 글로벌 AI 스타트업 'AMI 랩스'에 약 99억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260311089600003",
-      "pubDate": "Wed, 11 Mar 2026 11:31:22 +0900"
-    },
-    {
-      "title": "윤홍근 회장, KIVA 서울외교자원봉사회 창립식…\"개도국과 상생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311088100030",
-      "pubDate": "Wed, 11 Mar 2026 11:30:56 +0900"
-    },
-    {
-      "title": "서울시 \"세운4구역 행정조정신청, 공정·객관성 훼손…자치침해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311085100004",
-      "pubDate": "Wed, 11 Mar 2026 11:30:47 +0900"
-    },
-    {
-      "title": "국내 유가 상승률, 작년 이스라엘-이란 전쟁 대비 5∼7배 높아",
-      "link": "https://www.yna.co.kr/view/AKR20260311085400054",
-      "pubDate": "Wed, 11 Mar 2026 11:30:24 +0900"
-    },
-    {
-      "title": "제주항공 일반직 신입사원 공개채용…19일까지 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260311082600003",
-      "pubDate": "Wed, 11 Mar 2026 11:29:14 +0900"
-    },
-    {
-      "title": "서금원장, 육군장병 금융교육 특강…\"불법사금융 위험노출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311084400002",
-      "pubDate": "Wed, 11 Mar 2026 11:28:51 +0900"
-    },
-    {
-      "title": "시큐리티스코어카드 한국지사 설립…\"아시아 보안 전략 허브로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311083100017",
-      "pubDate": "Wed, 11 Mar 2026 11:24:06 +0900"
-    },
-    {
-      "title": "장수군, 청년·신혼부부에 임대보증금 최고 5천만원·10년 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260311085700055",
-      "pubDate": "Wed, 11 Mar 2026 11:23:25 +0900"
     }
   ]
 }
