@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773221518,
+  "updated_at_unix": 1773224889,
   "items": [
+    {
+      "title": "한화리츠, 숭례문 이마트타워 인수 우선협상대상자 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260311172500008",
+      "pubDate": "Wed, 11 Mar 2026 19:03:24 +0900"
+    },
+    {
+      "title": "'520억원 담보 미기재' 이화전기공업에 감사인 지정·과징금",
+      "link": "https://www.yna.co.kr/view/AKR20260311169600002",
+      "pubDate": "Wed, 11 Mar 2026 18:42:27 +0900"
+    },
+    {
+      "title": "\"IEA, 1억 배럴 이상 전략 비축유 방출 권고\"<로이터>",
+      "link": "https://www.yna.co.kr/view/AKR20260311170000081",
+      "pubDate": "Wed, 11 Mar 2026 18:35:58 +0900"
+    },
+    {
+      "title": "휴림에이텍, 230억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260311169500008",
+      "pubDate": "Wed, 11 Mar 2026 18:33:54 +0900"
+    },
     {
       "title": "웅진씽크빅, 자사주 185만주 소각·주당 85원 현금배당",
       "link": "https://www.yna.co.kr/view/AKR20260311168600030",
@@ -132,26 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.253%",
       "link": "https://www.yna.co.kr/view/AKR20260311150300008",
       "pubDate": "Wed, 11 Mar 2026 16:43:39 +0900"
-    },
-    {
-      "title": "[안양소식] 사회적기업 창업 공모…최대 800만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260311150600061",
-      "pubDate": "Wed, 11 Mar 2026 16:42:04 +0900"
-    },
-    {
-      "title": "원주시, 원도심에 '학성갤러리' 개관…문화의 빛 밝힌다",
-      "link": "https://www.yna.co.kr/view/AKR20260311144500062",
-      "pubDate": "Wed, 11 Mar 2026 16:38:47 +0900"
-    },
-    {
-      "title": "구윤철 \"중동 사태 빨리 안 끝나면 성장률 마이너스 영향 확실\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311148300002",
-      "pubDate": "Wed, 11 Mar 2026 16:38:03 +0900"
-    },
-    {
-      "title": "신정훈, 광주·전남 비전 제시 \"에너지·해양산업 발전\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311117851054",
-      "pubDate": "Wed, 11 Mar 2026 16:32:14 +0900"
     }
   ]
 }
