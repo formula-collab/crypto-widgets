@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773232414,
+  "updated_at_unix": 1773237451,
   "items": [
+    {
+      "title": "美 2월 소비자물가 전년대비 2.4%↑…이란전쟁 전 물가반영(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260311181451072",
+      "pubDate": "Wed, 11 Mar 2026 22:37:25 +0900"
+    },
+    {
+      "title": "호르무즈해협서 선박 4척 피격…이란 \"유가 200불 각오하라\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260311154852009",
+      "pubDate": "Wed, 11 Mar 2026 22:12:27 +0900"
+    },
+    {
+      "title": "\"IEA, 4억 배럴 비축유 방출 권고할 듯…사상 최대 규모\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260311170051081",
+      "pubDate": "Wed, 11 Mar 2026 21:34:59 +0900"
+    },
     {
       "title": "카드사 금리인하 수용률 70% 넘어…신한카드 가장 높아",
       "link": "https://www.yna.co.kr/view/AKR20260311176300002",
@@ -137,21 +152,6 @@
       "title": "금융위, '주가조작 패가망신 1호' 병원장 등 11명 검찰 고발",
       "link": "https://www.yna.co.kr/view/AKR20260311151800002",
       "pubDate": "Wed, 11 Mar 2026 16:59:48 +0900"
-    },
-    {
-      "title": "LH충북본부 \"올해 건설공사·보상·주거복지에 7천622억 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311150500064",
-      "pubDate": "Wed, 11 Mar 2026 16:54:50 +0900"
-    },
-    {
-      "title": "[동정] 이명구 관세청장, K-뷰티 수출업체 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260311153700002",
-      "pubDate": "Wed, 11 Mar 2026 16:53:10 +0900"
-    },
-    {
-      "title": "경남도의회 경제환경위, 상공계 건의 4건 입법…정책협력 결실",
-      "link": "https://www.yna.co.kr/view/AKR20260311148500052",
-      "pubDate": "Wed, 11 Mar 2026 16:48:53 +0900"
     }
   ]
 }
