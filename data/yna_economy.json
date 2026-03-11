@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773265961,
+  "updated_at_unix": 1773267447,
   "items": [
+    {
+      "title": "[우분투칼럼] 우간다 무세베니 40년 집권과 야권의 도전",
+      "link": "https://www.yna.co.kr/view/AKR20260305033100898",
+      "pubDate": "Thu, 12 Mar 2026 07:00:05 +0900"
+    },
+    {
+      "title": "\"외출도 자제\"…기름값 폭등에 직격탄 맞은 섬 주민들",
+      "link": "https://www.yna.co.kr/view/AKR20260311169100065",
+      "pubDate": "Thu, 12 Mar 2026 07:00:02 +0900"
+    },
     {
       "title": "이란전쟁에 웃는 셰일업계…50년만에 정유소 건설·장비 품귀",
       "link": "https://www.yna.co.kr/view/AKR20260312012200075",
@@ -142,16 +152,6 @@
       "title": "온누리호 후속 해양연구선 만든다…5년간 1천916억원 투자",
       "link": "https://www.yna.co.kr/view/AKR20260311145100017",
       "pubDate": "Wed, 11 Mar 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260311161800011",
-      "pubDate": "Wed, 11 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "대전시, 석유 관련 기관과 간담회…주유소 합동점검 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260311166100063",
-      "pubDate": "Wed, 11 Mar 2026 17:58:24 +0900"
     }
   ]
 }
