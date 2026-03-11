@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773250823,
+  "updated_at_unix": 1773254334,
   "items": [
+    {
+      "title": "달러-원, 빛바랜 IEA 비축유 방출에 유가 따라 급반등…1,477원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260312004000002",
+      "pubDate": "Thu, 12 Mar 2026 02:41:57 +0900"
+    },
     {
       "title": "국제유가, 사상최대 비축유 방출에도 불안지속…브렌트 90달러대",
       "link": "https://www.yna.co.kr/view/AKR20260312001000072",
@@ -147,11 +152,6 @@
       "title": "유가 안정에 국고채 금리 일제히 하락…3년물 연 3.253%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260311150351008",
       "pubDate": "Wed, 11 Mar 2026 17:04:24 +0900"
-    },
-    {
-      "title": "CSA 코스믹 \"블루원 주식 22억원어치 추가취득…지분율 64%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311155300008",
-      "pubDate": "Wed, 11 Mar 2026 17:03:01 +0900"
     }
   ]
 }
