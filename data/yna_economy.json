@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773260535,
+  "updated_at_unix": 1773262459,
   "items": [
+    {
+      "title": "국제유가, 사상최대 비축유 방출에도 5%↑…브렌트 92달러(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260312001051072",
+      "pubDate": "Thu, 12 Mar 2026 05:37:29 +0900"
+    },
     {
       "title": "트럼프 \"시장 잘 버티고 있어…꽤 짧은 시간내 정상화할것\"",
       "link": "https://www.yna.co.kr/view/AKR20260312006300071",
@@ -147,11 +152,6 @@
       "title": "바닷길 운항도 차질 빚나…여객선사·해경, 오른 유류비에 고민",
       "link": "https://www.yna.co.kr/view/AKR20260311151700052",
       "pubDate": "Wed, 11 Mar 2026 17:16:56 +0900"
-    },
-    {
-      "title": "인천시, 중동 상황 대응 '비상경제TF' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260311158800065",
-      "pubDate": "Wed, 11 Mar 2026 17:16:01 +0900"
     }
   ]
 }
