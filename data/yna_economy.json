@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773269167,
+  "updated_at_unix": 1773270909,
   "items": [
+    {
+      "title": "[마켓뷰] '네 마녀의 날' 맞은 코스피, 지속되는 유가 우려 속 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260312025500008",
+      "pubDate": "Thu, 12 Mar 2026 08:05:02 +0900"
+    },
+    {
+      "title": "신월·신정생활권중심 개발 물꼬…지구계획변경으로 용적률 400%",
+      "link": "https://www.yna.co.kr/view/AKR20260312024200004",
+      "pubDate": "Thu, 12 Mar 2026 07:59:36 +0900"
+    },
+    {
+      "title": "부산서 18일 국제물산업박람회…물산업 최신기술 한자리에",
+      "link": "https://www.yna.co.kr/view/AKR20260312023200051",
+      "pubDate": "Thu, 12 Mar 2026 07:54:36 +0900"
+    },
+    {
+      "title": "부산시, 18일 노후계획도시정비 2단계 사업 주민설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260312022900051",
+      "pubDate": "Thu, 12 Mar 2026 07:54:02 +0900"
+    },
+    {
+      "title": "부산시, 대기오염물질 불법 배출 26개 업체 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260312022600051",
+      "pubDate": "Thu, 12 Mar 2026 07:53:17 +0900"
+    },
+    {
+      "title": "부산시, 넥스트루트 특별금융 협약…지역 기업에 5천억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260312022500051",
+      "pubDate": "Thu, 12 Mar 2026 07:53:01 +0900"
+    },
     {
       "title": "서울 중구, 주유소 가격표시제 전수 점검",
       "link": "https://www.yna.co.kr/view/AKR20260312020300004",
@@ -122,36 +152,6 @@
       "title": "카드사 금리인하 수용률 70% 넘어…신한카드 가장 높아",
       "link": "https://www.yna.co.kr/view/AKR20260311176300002",
       "pubDate": "Wed, 11 Mar 2026 20:02:21 +0900"
-    },
-    {
-      "title": "조선업 외국 전문인력 확대한다…법무부, 비자제도 개선 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260311173400004",
-      "pubDate": "Wed, 11 Mar 2026 19:26:28 +0900"
-    },
-    {
-      "title": "한화리츠, 숭례문 이마트타워 인수 우선협상대상자 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260311172500008",
-      "pubDate": "Wed, 11 Mar 2026 19:03:24 +0900"
-    },
-    {
-      "title": "'520억원 담보 미기재' 이화전기공업에 감사인 지정·과징금",
-      "link": "https://www.yna.co.kr/view/AKR20260311169600002",
-      "pubDate": "Wed, 11 Mar 2026 18:42:27 +0900"
-    },
-    {
-      "title": "\"IEA, 1억 배럴 이상 전략 비축유 방출 권고\"<로이터>",
-      "link": "https://www.yna.co.kr/view/AKR20260311170000081",
-      "pubDate": "Wed, 11 Mar 2026 18:35:58 +0900"
-    },
-    {
-      "title": "휴림에이텍, 230억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260311169500008",
-      "pubDate": "Wed, 11 Mar 2026 18:33:54 +0900"
-    },
-    {
-      "title": "웅진씽크빅, 자사주 185만주 소각·주당 85원 현금배당",
-      "link": "https://www.yna.co.kr/view/AKR20260311168600030",
-      "pubDate": "Wed, 11 Mar 2026 18:21:35 +0900"
     }
   ]
 }
