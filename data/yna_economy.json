@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773267447,
+  "updated_at_unix": 1773269167,
   "items": [
+    {
+      "title": "서울 중구, 주유소 가격표시제 전수 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260312020300004",
+      "pubDate": "Thu, 12 Mar 2026 07:33:24 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260312017600011",
+      "pubDate": "Thu, 12 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "\"韓, 車산업 환경변화 대응해 혁신 생산거점 역할 강화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260311163200003",
+      "pubDate": "Thu, 12 Mar 2026 07:26:31 +0900"
+    },
+    {
+      "title": "인천 중구, 영종도 미개발지 밑그림…지구단위계획 개발 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260311120600065",
+      "pubDate": "Thu, 12 Mar 2026 07:17:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 우간다 무세베니 40년 집권과 야권의 도전",
       "link": "https://www.yna.co.kr/view/AKR20260305033100898",
@@ -132,26 +152,6 @@
       "title": "웅진씽크빅, 자사주 185만주 소각·주당 85원 현금배당",
       "link": "https://www.yna.co.kr/view/AKR20260311168600030",
       "pubDate": "Wed, 11 Mar 2026 18:21:35 +0900"
-    },
-    {
-      "title": "구윤철 \"유가 1천800원대 적정 수준…2천원대 현상 줄어들 듯\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311131151002",
-      "pubDate": "Wed, 11 Mar 2026 18:19:03 +0900"
-    },
-    {
-      "title": "[게시판] NH농협카드, 시니어 고객 대상 'NH올원더풀카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260311166200002",
-      "pubDate": "Wed, 11 Mar 2026 18:06:52 +0900"
-    },
-    {
-      "title": "뉴인텍, 130억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260311166300008",
-      "pubDate": "Wed, 11 Mar 2026 18:01:35 +0900"
-    },
-    {
-      "title": "온누리호 후속 해양연구선 만든다…5년간 1천916억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260311145100017",
-      "pubDate": "Wed, 11 Mar 2026 18:00:02 +0900"
     }
   ]
 }
