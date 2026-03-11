@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773270909,
+  "updated_at_unix": 1773272738,
   "items": [
+    {
+      "title": "무신사, '택갈이' 적발 브랜드 전 상품 퇴출…AI 검수 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260312030400030",
+      "pubDate": "Thu, 12 Mar 2026 08:36:43 +0900"
+    },
+    {
+      "title": "일화, '초정탄산수' 중국 수출…프리미엄 탄산수 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260312030300030",
+      "pubDate": "Thu, 12 Mar 2026 08:35:30 +0900"
+    },
+    {
+      "title": "KB증권 \"삼성전자, 실적 성장 본격화 전망…목표가 32만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312029400008",
+      "pubDate": "Thu, 12 Mar 2026 08:30:08 +0900"
+    },
+    {
+      "title": "삼성증권 \"한전, 또 한 번 사상 최대 실적 경신 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312026300008",
+      "pubDate": "Thu, 12 Mar 2026 08:26:22 +0900"
+    },
+    {
+      "title": "DS투자, 농심 목표가 8% 내려잡아…\"2026년 실적추정치 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312028000008",
+      "pubDate": "Thu, 12 Mar 2026 08:24:08 +0900"
+    },
+    {
+      "title": "한투증권 \"이란 사태 후 고물가 위험 헤지할 자산 검토해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312026100008",
+      "pubDate": "Thu, 12 Mar 2026 08:19:41 +0900"
+    },
+    {
+      "title": "롯데온, '키즈 스카이런' 모집…아쿠아리움·쿠키런과 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260312027300030",
+      "pubDate": "Thu, 12 Mar 2026 08:17:52 +0900"
+    },
+    {
+      "title": "美 \"전략비축유 1억7천200만 배럴 방출할 것…다음주부터\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312026000071",
+      "pubDate": "Thu, 12 Mar 2026 08:17:15 +0900"
+    },
+    {
+      "title": "[부고] 이주한(LS증권 S&T사업부 대표)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260312027500008",
+      "pubDate": "Thu, 12 Mar 2026 08:16:17 +0900"
+    },
     {
       "title": "[마켓뷰] '네 마녀의 날' 맞은 코스피, 지속되는 유가 우려 속 향방은",
       "link": "https://www.yna.co.kr/view/AKR20260312025500008",
@@ -107,51 +152,6 @@
       "title": "국제유가, 사상최대 비축유 방출에도 5%↑…브렌트 92달러(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260312001051072",
       "pubDate": "Thu, 12 Mar 2026 05:37:29 +0900"
-    },
-    {
-      "title": "트럼프 \"시장 잘 버티고 있어…꽤 짧은 시간내 정상화할것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312006300071",
-      "pubDate": "Thu, 12 Mar 2026 04:45:43 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 비축유 4억배럴 방출 계획도 못잡은 유가…WTI 4.6% 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260312005600009",
-      "pubDate": "Thu, 12 Mar 2026 03:45:01 +0900"
-    },
-    {
-      "title": "달러-원, 빛바랜 IEA 비축유 방출에 유가 따라 급반등…1,477원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260312004000002",
-      "pubDate": "Thu, 12 Mar 2026 02:41:57 +0900"
-    },
-    {
-      "title": "국제유가, 사상최대 비축유 방출에도 불안지속…브렌트 90달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260312001000072",
-      "pubDate": "Thu, 12 Mar 2026 00:24:58 +0900"
-    },
-    {
-      "title": "한국부동산원 청약홈 홈페이지 전면 개편…\"이용 편의성 높여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260311144200003",
-      "pubDate": "Thu, 12 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "美 2월 소비자물가 전년대비 2.4%↑…이란전쟁 전 물가반영(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311181451072",
-      "pubDate": "Wed, 11 Mar 2026 22:37:25 +0900"
-    },
-    {
-      "title": "호르무즈해협서 선박 4척 피격…이란 \"유가 200불 각오하라\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260311154852009",
-      "pubDate": "Wed, 11 Mar 2026 22:12:27 +0900"
-    },
-    {
-      "title": "\"IEA, 4억 배럴 비축유 방출 권고할 듯…사상 최대 규모\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260311170051081",
-      "pubDate": "Wed, 11 Mar 2026 21:34:59 +0900"
-    },
-    {
-      "title": "카드사 금리인하 수용률 70% 넘어…신한카드 가장 높아",
-      "link": "https://www.yna.co.kr/view/AKR20260311176300002",
-      "pubDate": "Wed, 11 Mar 2026 20:02:21 +0900"
     }
   ]
 }
