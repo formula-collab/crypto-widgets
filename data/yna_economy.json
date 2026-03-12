@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773346930,
+  "updated_at_unix": 1773349065,
   "items": [
+    {
+      "title": "의결권자문사 글래스루이스 \"우리금융 임종룡 연임 찬성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312165900002",
+      "pubDate": "Fri, 13 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "유가, 이란 호르무즈 봉쇄 의지에↑…브렌트 100달러 돌파 마감",
       "link": "https://www.yna.co.kr/view/AKR20260313007500072",
@@ -147,11 +152,6 @@
       "title": "박홍근 \"강력한 지출 구조조정…따뜻하고 유능한 재정 실현\"",
       "link": "https://www.yna.co.kr/view/AKR20260312144200002",
       "pubDate": "Thu, 12 Mar 2026 17:00:00 +0900"
-    },
-    {
-      "title": "강남 집값 하락세 한강벨트로 확대…중저가 지역은 반대 양상(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312115751003",
-      "pubDate": "Thu, 12 Mar 2026 16:57:16 +0900"
     }
   ]
 }
