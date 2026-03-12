@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773302392,
+  "updated_at_unix": 1773305229,
   "items": [
+    {
+      "title": "한투증권, 6천200억원 배당 결정…주당 1만7천613원",
+      "link": "https://www.yna.co.kr/view/AKR20260312162700008",
+      "pubDate": "Thu, 12 Mar 2026 17:41:25 +0900"
+    },
+    {
+      "title": "HUG 최인호 사장 \"공공 지원 민간임대리츠 활성화할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312161800003",
+      "pubDate": "Thu, 12 Mar 2026 17:33:59 +0900"
+    },
+    {
+      "title": "李대통령 \"부당한 가격 인상 더는 안 돼…철저히 감시·제재\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312160000001",
+      "pubDate": "Thu, 12 Mar 2026 17:31:19 +0900"
+    },
+    {
+      "title": "남양유업, 310억원 규모 주주환원 추진…배당·자사주 취득",
+      "link": "https://www.yna.co.kr/view/AKR20260312158800030",
+      "pubDate": "Thu, 12 Mar 2026 17:29:28 +0900"
+    },
+    {
+      "title": "해양진흥공사, 중소 예·도선업으로 금융지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260312156800051",
+      "pubDate": "Thu, 12 Mar 2026 17:15:00 +0900"
+    },
+    {
+      "title": "농심·오뚜기 라면값 내린다…식용유 가격도 인하(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260312125851030",
+      "pubDate": "Thu, 12 Mar 2026 17:11:58 +0900"
+    },
+    {
+      "title": "유가 100달러 돌파에 국고채 금리 다시 상승…3년물 연 3.271%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260312148351008",
+      "pubDate": "Thu, 12 Mar 2026 17:08:51 +0900"
+    },
+    {
+      "title": "토비스, 코스닥 분할재상장 예비심사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260312154000008",
+      "pubDate": "Thu, 12 Mar 2026 17:04:05 +0900"
+    },
+    {
+      "title": "박홍근 \"강력한 지출 구조조정…따뜻하고 유능한 재정 실현\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312144200002",
+      "pubDate": "Thu, 12 Mar 2026 17:00:00 +0900"
+    },
+    {
+      "title": "강남 집값 하락세 한강벨트로 확대…중저가 지역은 반대 양상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260312115751003",
+      "pubDate": "Thu, 12 Mar 2026 16:57:16 +0900"
+    },
+    {
+      "title": "한국모바일게임협회·NC AI, 인디게임 발전 위한 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260312150000017",
+      "pubDate": "Thu, 12 Mar 2026 16:56:51 +0900"
+    },
     {
       "title": "속초시, 신중년 재취업 지원 본격화…관계 기관 협력체계 구축",
       "link": "https://www.yna.co.kr/view/AKR20260312148900062",
@@ -97,61 +152,6 @@
       "title": "유가 고공행진·트럼프 레임덕 기대에 신재생株 연일 강세(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260312083351008",
       "pubDate": "Thu, 12 Mar 2026 16:05:00 +0900"
-    },
-    {
-      "title": "코레일, 1천800명 채용에 2만9천242명 지원…5월부터 임용",
-      "link": "https://www.yna.co.kr/view/AKR20260312139500063",
-      "pubDate": "Thu, 12 Mar 2026 16:03:29 +0900"
-    },
-    {
-      "title": "[게시판] 국조실·관세청, 인천공항 마약 밀반입 검사체계 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260312070000002",
-      "pubDate": "Thu, 12 Mar 2026 16:00:02 +0900"
-    },
-    {
-      "title": "구윤철, 14일 한일 재무장관회의 참석…한국 경제 투자설명회도",
-      "link": "https://www.yna.co.kr/view/AKR20260312112500002",
-      "pubDate": "Thu, 12 Mar 2026 16:00:02 +0900"
-    },
-    {
-      "title": "알테오젠, 키트루다 SC 조성물 특허 미국 등록",
-      "link": "https://www.yna.co.kr/view/AKR20260312128500017",
-      "pubDate": "Thu, 12 Mar 2026 15:55:14 +0900"
-    },
-    {
-      "title": "봄 맞아 화색 도는 화장품株…\"중동 사태 악재지만 영향 제한적\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312086151008",
-      "pubDate": "Thu, 12 Mar 2026 15:52:43 +0900"
-    },
-    {
-      "title": "구글 \"AI가 검색 확장\"…제미나이 기반 광고·쇼핑사업 확대한다",
-      "link": "https://www.yna.co.kr/view/AKR20260312123300017",
-      "pubDate": "Thu, 12 Mar 2026 15:50:14 +0900"
-    },
-    {
-      "title": "삼성물산, 강서구에 래미안 첫선…272가구 일반분양",
-      "link": "https://www.yna.co.kr/view/AKR20260312135300003",
-      "pubDate": "Thu, 12 Mar 2026 15:48:11 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 1.1% 내려 '18만전자'로…하이닉스도 2.6%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312042451008",
-      "pubDate": "Thu, 12 Mar 2026 15:47:51 +0900"
-    },
-    {
-      "title": "[특징주] 유가 100달러 재돌파에 중앙에너비스 등 정유주 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312040751008",
-      "pubDate": "Thu, 12 Mar 2026 15:45:59 +0900"
-    },
-    {
-      "title": "[특징주] 오이솔루션, 美통신장비 수주 기대에 장중 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312064651008",
-      "pubDate": "Thu, 12 Mar 2026 15:43:31 +0900"
-    },
-    {
-      "title": "태광산업 \"'위법 행위' 롯데홈쇼핑 대표이사 재선임 반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312134200003",
-      "pubDate": "Thu, 12 Mar 2026 15:41:54 +0900"
     }
   ]
 }
