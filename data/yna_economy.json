@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773349065,
+  "updated_at_unix": 1773350922,
   "items": [
+    {
+      "title": "한우 사육 줄어들자…가격 뛰고 소비 줄었다",
+      "link": "https://www.yna.co.kr/view/AKR20260312183300030",
+      "pubDate": "Fri, 13 Mar 2026 05:59:01 +0900"
+    },
     {
       "title": "의결권자문사 글래스루이스 \"우리금융 임종룡 연임 찬성\"",
       "link": "https://www.yna.co.kr/view/AKR20260312165900002",
@@ -147,11 +152,6 @@
       "title": "토비스, 코스닥 분할재상장 예비심사 통과",
       "link": "https://www.yna.co.kr/view/AKR20260312154000008",
       "pubDate": "Thu, 12 Mar 2026 17:04:05 +0900"
-    },
-    {
-      "title": "박홍근 \"강력한 지출 구조조정…따뜻하고 유능한 재정 실현\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312144200002",
-      "pubDate": "Thu, 12 Mar 2026 17:00:00 +0900"
     }
   ]
 }
