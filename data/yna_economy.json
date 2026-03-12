@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773307936,
+  "updated_at_unix": 1773311292,
   "items": [
+    {
+      "title": "연구기관장들 \"조속한 추경 필요…취약부문 타깃팅시 경제 안정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312173100002",
+      "pubDate": "Thu, 12 Mar 2026 19:05:39 +0900"
+    },
+    {
+      "title": "석유·쌀·식용유·통신비·관리비 등 23개 품목 가격 특별 관리",
+      "link": "https://www.yna.co.kr/view/AKR20260312137000002",
+      "pubDate": "Thu, 12 Mar 2026 19:00:02 +0900"
+    },
+    {
+      "title": "문체부 \"민생물가 위해 암표 적극 단속…신고센터 활동 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312135600005",
+      "pubDate": "Thu, 12 Mar 2026 19:00:02 +0900"
+    },
+    {
+      "title": "석유 최고가격제 내일부터 전격 시행…정유사 공급가격 낮춘다",
+      "link": "https://www.yna.co.kr/view/AKR20260312171500003",
+      "pubDate": "Thu, 12 Mar 2026 19:00:00 +0900"
+    },
+    {
+      "title": "\"적극 협력하겠다\"…고강도 정부 대책에 말 아낀 정유업계",
+      "link": "https://www.yna.co.kr/view/AKR20260312169200003",
+      "pubDate": "Thu, 12 Mar 2026 19:00:00 +0900"
+    },
+    {
+      "title": "해수부, 중동 지역 긴장 고조 수출입물류 비상대응반 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260312170300051",
+      "pubDate": "Thu, 12 Mar 2026 18:36:26 +0900"
+    },
     {
       "title": "대한항공 \"대한항공씨앤디서비스 주식 7천500억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260312166200008",
@@ -122,36 +152,6 @@
       "title": "전국 평균 휘발윳값 1800원대 진입…경유는 1천919원",
       "link": "https://www.yna.co.kr/view/AKR20260312144100003",
       "pubDate": "Thu, 12 Mar 2026 16:27:05 +0900"
-    },
-    {
-      "title": "AI발 메모리 품귀 내년까지…\"가격 180% 폭등에 IT 업계 비상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312142500017",
-      "pubDate": "Thu, 12 Mar 2026 16:26:58 +0900"
-    },
-    {
-      "title": "이란 사태 후 코스피 하락폭 최대…\"너무 잘 나가서 매 더 맞아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312143000008",
-      "pubDate": "Thu, 12 Mar 2026 16:25:32 +0900"
-    },
-    {
-      "title": "\"중국 OLED 디스플레이 생산능력, 2029년부터 한국 추월할 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312142200003",
-      "pubDate": "Thu, 12 Mar 2026 16:15:45 +0900"
-    },
-    {
-      "title": "경북 동해안 기업 잇단 중대재해…노동부, 고강도 감독",
-      "link": "https://www.yna.co.kr/view/AKR20260312139400053",
-      "pubDate": "Thu, 12 Mar 2026 16:14:18 +0900"
-    },
-    {
-      "title": "유가 100달러 재돌파에…환율 14.7원 오른 1,481.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260312135200002",
-      "pubDate": "Thu, 12 Mar 2026 16:10:28 +0900"
-    },
-    {
-      "title": "강원도, 2030년까지 빈집 3천50곳 정비…358억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260312139000062",
-      "pubDate": "Thu, 12 Mar 2026 16:09:02 +0900"
     }
   ]
 }
