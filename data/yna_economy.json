@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773340643,
+  "updated_at_unix": 1773344064,
   "items": [
+    {
+      "title": "이란전쟁 여파에 미 주택대출 금리 다시 6%대로",
+      "link": "https://www.yna.co.kr/view/AKR20260313005300072",
+      "pubDate": "Fri, 13 Mar 2026 03:40:24 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 이란 지도자 '호르무즈 봉쇄' 의지에 10% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260313005700009",
+      "pubDate": "Fri, 13 Mar 2026 03:39:01 +0900"
+    },
     {
       "title": "달러-원, 이란 최고지도자 강경 입장에 상승폭 확대…1,488.50원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260313004600002",
@@ -142,16 +152,6 @@
       "title": "한국모바일게임협회·NC AI, 인디게임 발전 위한 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260312150000017",
       "pubDate": "Thu, 12 Mar 2026 16:56:51 +0900"
-    },
-    {
-      "title": "속초시, 신중년 재취업 지원 본격화…관계 기관 협력체계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260312148900062",
-      "pubDate": "Thu, 12 Mar 2026 16:47:53 +0900"
-    },
-    {
-      "title": "임금체불 형량 '징역 3년→5년' 상향…감독관 명칭 73년만 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260312147400530",
-      "pubDate": "Thu, 12 Mar 2026 16:43:47 +0900"
     }
   ]
 }
