@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773300387,
+  "updated_at_unix": 1773302392,
   "items": [
+    {
+      "title": "속초시, 신중년 재취업 지원 본격화…관계 기관 협력체계 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260312148900062",
+      "pubDate": "Thu, 12 Mar 2026 16:47:53 +0900"
+    },
+    {
+      "title": "임금체불 형량 '징역 3년→5년' 상향…감독관 명칭 73년만 변경",
+      "link": "https://www.yna.co.kr/view/AKR20260312147400530",
+      "pubDate": "Thu, 12 Mar 2026 16:43:47 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.271%",
+      "link": "https://www.yna.co.kr/view/AKR20260312148300008",
+      "pubDate": "Thu, 12 Mar 2026 16:40:13 +0900"
+    },
+    {
+      "title": "태광산업 \"롯데홈쇼핑 대표재선임 반대\"…롯데, 주총후 입장표명(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260312134251003",
+      "pubDate": "Thu, 12 Mar 2026 16:40:08 +0900"
+    },
+    {
+      "title": "더코디, 70억원 유상증자…지엔티파마에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260312147300008",
+      "pubDate": "Thu, 12 Mar 2026 16:38:30 +0900"
+    },
+    {
+      "title": "李대통령, 대미투자특별법 국회 통과에 \"차질 없이 후속 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312144400001",
+      "pubDate": "Thu, 12 Mar 2026 16:33:58 +0900"
+    },
+    {
+      "title": "강원도 겨울관광 '주춤'…스키장 방문객 15% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260312144900062",
+      "pubDate": "Thu, 12 Mar 2026 16:33:21 +0900"
+    },
+    {
+      "title": "전국 평균 휘발윳값 1800원대 진입…경유는 1천919원",
+      "link": "https://www.yna.co.kr/view/AKR20260312144100003",
+      "pubDate": "Thu, 12 Mar 2026 16:27:05 +0900"
+    },
+    {
+      "title": "AI발 메모리 품귀 내년까지…\"가격 180% 폭등에 IT 업계 비상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312142500017",
+      "pubDate": "Thu, 12 Mar 2026 16:26:58 +0900"
+    },
+    {
+      "title": "이란 사태 후 코스피 하락폭 최대…\"너무 잘 나가서 매 더 맞아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312143000008",
+      "pubDate": "Thu, 12 Mar 2026 16:25:32 +0900"
+    },
     {
       "title": "\"중국 OLED 디스플레이 생산능력, 2029년부터 한국 추월할 듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260312142200003",
@@ -102,56 +152,6 @@
       "title": "태광산업 \"'위법 행위' 롯데홈쇼핑 대표이사 재선임 반대\"",
       "link": "https://www.yna.co.kr/view/AKR20260312134200003",
       "pubDate": "Thu, 12 Mar 2026 15:41:54 +0900"
-    },
-    {
-      "title": "[특징주] 원전株, 유가 상승에 '대안 에너지' 관심 커지자 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312044251008",
-      "pubDate": "Thu, 12 Mar 2026 15:38:42 +0900"
-    },
-    {
-      "title": "합천군, 32만 필지 '연속지적도' 정비 완료…13일 시스템 탑재",
-      "link": "https://www.yna.co.kr/view/AKR20260312132200052",
-      "pubDate": "Thu, 12 Mar 2026 15:37:30 +0900"
-    },
-    {
-      "title": "[광주소식] 광주상의, 4.5일제 확산 지원사업 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260312133200054",
-      "pubDate": "Thu, 12 Mar 2026 15:37:02 +0900"
-    },
-    {
-      "title": "[특징주] 농심, 목표가 잇단 하향에 5%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312057451008",
-      "pubDate": "Thu, 12 Mar 2026 15:36:49 +0900"
-    },
-    {
-      "title": "외국환시세(3월12일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260312132500002",
-      "pubDate": "Thu, 12 Mar 2026 15:35:18 +0900"
-    },
-    {
-      "title": "홈플러스 \"노사, 경영 정상화 위한 구조혁신 필요성에 공감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312125700030",
-      "pubDate": "Thu, 12 Mar 2026 15:34:40 +0900"
-    },
-    {
-      "title": "日 인터넷뱅킹 부정송금 966억원 '사상 최악'…기업 피해가 절반",
-      "link": "https://www.yna.co.kr/view/AKR20260312128100009",
-      "pubDate": "Thu, 12 Mar 2026 15:33:11 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 14.7원 오른 1,481.2원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260312130900002",
-      "pubDate": "Thu, 12 Mar 2026 15:30:35 +0900"
-    },
-    {
-      "title": "지식재산처, 이세돌과 손잡고 '대한민국의 다음 수' 알린다",
-      "link": "https://www.yna.co.kr/view/AKR20260312041700063",
-      "pubDate": "Thu, 12 Mar 2026 15:30:00 +0900"
-    },
-    {
-      "title": "현대건설, 북유럽서 원전 사업기반 확대 행보…\"협력 다각화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312129400003",
-      "pubDate": "Thu, 12 Mar 2026 15:29:11 +0900"
     }
   ]
 }
