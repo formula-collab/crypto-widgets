@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773355743,
+  "updated_at_unix": 1773357445,
   "items": [
+    {
+      "title": "\"미지급 성과급 달라\"…삼성 계열사 퇴직자들, 소송 대열에 합류",
+      "link": "https://www.yna.co.kr/view/AKR20260313021800530",
+      "pubDate": "Fri, 13 Mar 2026 08:04:06 +0900"
+    },
+    {
+      "title": "편의점들, 앱 이용자 '쑥'…온라인서 오프라인 고객 모은다",
+      "link": "https://www.yna.co.kr/view/AKR20260312171300030",
+      "pubDate": "Fri, 13 Mar 2026 08:01:13 +0900"
+    },
+    {
+      "title": "[마켓뷰] 지속되는 유가 상승에 코스피 하락세 지속되나",
+      "link": "https://www.yna.co.kr/view/AKR20260313024500008",
+      "pubDate": "Fri, 13 Mar 2026 07:59:45 +0900"
+    },
     {
       "title": "美은행당국, 자본규제 개편안 마무리…\"자본요건 소폭 감소\"",
       "link": "https://www.yna.co.kr/view/AKR20260313020600072",
@@ -137,21 +152,6 @@
       "title": "한투증권, 6천200억원 배당 결정…주당 1만7천613원",
       "link": "https://www.yna.co.kr/view/AKR20260312162700008",
       "pubDate": "Thu, 12 Mar 2026 17:41:25 +0900"
-    },
-    {
-      "title": "HUG 최인호 사장 \"공공 지원 민간임대리츠 활성화할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312161800003",
-      "pubDate": "Thu, 12 Mar 2026 17:33:59 +0900"
-    },
-    {
-      "title": "李대통령 \"부당한 가격 인상 더는 안 돼…철저히 감시·제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312160000001",
-      "pubDate": "Thu, 12 Mar 2026 17:31:19 +0900"
-    },
-    {
-      "title": "남양유업, 310억원 규모 주주환원 추진…배당·자사주 취득",
-      "link": "https://www.yna.co.kr/view/AKR20260312158800030",
-      "pubDate": "Thu, 12 Mar 2026 17:29:28 +0900"
     }
   ]
 }
