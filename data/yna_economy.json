@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773305229,
+  "updated_at_unix": 1773307936,
   "items": [
+    {
+      "title": "대한항공 \"대한항공씨앤디서비스 주식 7천500억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312166200008",
+      "pubDate": "Thu, 12 Mar 2026 18:12:56 +0900"
+    },
+    {
+      "title": "카카오 노조, 디케이테크인 고용불안 집회…\"카카오 책임 촉구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312167200017",
+      "pubDate": "Thu, 12 Mar 2026 18:12:54 +0900"
+    },
+    {
+      "title": "태광산업 \"롯데홈쇼핑 대표 사퇴해야\"…롯데 \"비정상주장\" 일축(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260312134252003",
+      "pubDate": "Thu, 12 Mar 2026 18:08:57 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260312158300011",
+      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "레이저쎌, 14억원 유상증자…셀링웨어에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260312163100008",
+      "pubDate": "Thu, 12 Mar 2026 17:50:23 +0900"
+    },
     {
       "title": "한투증권, 6천200억원 배당 결정…주당 1만7천613원",
       "link": "https://www.yna.co.kr/view/AKR20260312162700008",
@@ -127,31 +152,6 @@
       "title": "강원도, 2030년까지 빈집 3천50곳 정비…358억 투입",
       "link": "https://www.yna.co.kr/view/AKR20260312139000062",
       "pubDate": "Thu, 12 Mar 2026 16:09:02 +0900"
-    },
-    {
-      "title": "국제 유가, 사흘만에 다시 장중 100달러 돌파(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260312091452009",
-      "pubDate": "Thu, 12 Mar 2026 16:08:28 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄 리스크에…금감원 \"보험사 유동성 경색도 대비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312140300002",
-      "pubDate": "Thu, 12 Mar 2026 16:08:03 +0900"
-    },
-    {
-      "title": "정부 \"대미투자특별법 시행 만반 준비…하위법령 제정 착수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312138700002",
-      "pubDate": "Thu, 12 Mar 2026 16:07:10 +0900"
-    },
-    {
-      "title": "가상자산거래소, 보이스피싱 의심자금 상시 감시 의무화",
-      "link": "https://www.yna.co.kr/view/AKR20260312137700002",
-      "pubDate": "Thu, 12 Mar 2026 16:05:47 +0900"
-    },
-    {
-      "title": "유가 고공행진·트럼프 레임덕 기대에 신재생株 연일 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312083351008",
-      "pubDate": "Thu, 12 Mar 2026 16:05:00 +0900"
     }
   ]
 }
