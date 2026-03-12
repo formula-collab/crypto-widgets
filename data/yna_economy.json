@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773350922,
+  "updated_at_unix": 1773352475,
   "items": [
+    {
+      "title": "[팩트체크] 외국 담배회사, 규제 약해 한국으로 몰려온다고?",
+      "link": "https://www.yna.co.kr/view/AKR20260312110300518",
+      "pubDate": "Fri, 13 Mar 2026 06:30:02 +0900"
+    },
     {
       "title": "한우 사육 줄어들자…가격 뛰고 소비 줄었다",
       "link": "https://www.yna.co.kr/view/AKR20260312183300030",
@@ -147,11 +152,6 @@
       "title": "유가 100달러 돌파에 국고채 금리 다시 상승…3년물 연 3.271%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260312148351008",
       "pubDate": "Thu, 12 Mar 2026 17:08:51 +0900"
-    },
-    {
-      "title": "토비스, 코스닥 분할재상장 예비심사 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260312154000008",
-      "pubDate": "Thu, 12 Mar 2026 17:04:05 +0900"
     }
   ]
 }
