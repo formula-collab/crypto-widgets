@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773313525,
+  "updated_at_unix": 1773316009,
   "items": [
+    {
+      "title": "구윤철 \"석유 최고가격제로 소비자 부담 완화…위법 엄정 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312179500002",
+      "pubDate": "Thu, 12 Mar 2026 20:22:06 +0900"
+    },
     {
       "title": "석유 최고가격제 내일 시행…휘발유 출고가 109원 내린 1천724원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260312171551003",
@@ -147,11 +152,6 @@
       "title": "더코디, 70억원 유상증자…지엔티파마에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260312147300008",
       "pubDate": "Thu, 12 Mar 2026 16:38:30 +0900"
-    },
-    {
-      "title": "李대통령, 대미투자특별법 국회 통과에 \"차질 없이 후속 조치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312144400001",
-      "pubDate": "Thu, 12 Mar 2026 16:33:58 +0900"
     }
   ]
 }
