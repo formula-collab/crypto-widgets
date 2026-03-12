@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773323710,
+  "updated_at_unix": 1773326442,
   "items": [
+    {
+      "title": "美에너지장관 \"월말이전엔 美해군 호르무즈 선박호위 가능할듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312189000071",
+      "pubDate": "Thu, 12 Mar 2026 23:23:47 +0900"
+    },
     {
       "title": "트럼프 \"유가 오르면 美 큰돈 벌지만 이란 핵보유 저지 더 중요\"",
       "link": "https://www.yna.co.kr/view/AKR20260312188000071",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.271%",
       "link": "https://www.yna.co.kr/view/AKR20260312148300008",
       "pubDate": "Thu, 12 Mar 2026 16:40:13 +0900"
-    },
-    {
-      "title": "태광산업 \"롯데홈쇼핑 대표재선임 반대\"…롯데, 주총후 입장표명(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312134251003",
-      "pubDate": "Thu, 12 Mar 2026 16:40:08 +0900"
     }
   ]
 }
