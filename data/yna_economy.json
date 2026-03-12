@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773357445,
+  "updated_at_unix": 1773359194,
   "items": [
+    {
+      "title": "삼성증권 \"엔씨, 2030년 매출 5조 달성 불가능하지 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313031600008",
+      "pubDate": "Fri, 13 Mar 2026 08:32:43 +0900"
+    },
+    {
+      "title": "DS투자 \"박스권 갇힌 美증시, '네 마녀의 날' 방향성 되찾을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313031100008",
+      "pubDate": "Fri, 13 Mar 2026 08:30:33 +0900"
+    },
+    {
+      "title": "인천시, 유가 상승에 불법유통 합동점검…취약층 난방비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260313029900065",
+      "pubDate": "Fri, 13 Mar 2026 08:30:01 +0900"
+    },
+    {
+      "title": "한투증권 \"코스피, 과거 최대 하락폭 고려시 저점은 4,885 수준\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313029000008",
+      "pubDate": "Fri, 13 Mar 2026 08:27:32 +0900"
+    },
+    {
+      "title": "KB證 \"SK하이닉스, 메모리 수요 급증 최대수혜…목표가 170만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313028700008",
+      "pubDate": "Fri, 13 Mar 2026 08:26:08 +0900"
+    },
+    {
+      "title": "최고가격제 시행 직후 전국 기름값 하락…휘발유 1천893원",
+      "link": "https://www.yna.co.kr/view/AKR20260313029100003",
+      "pubDate": "Fri, 13 Mar 2026 08:23:04 +0900"
+    },
+    {
+      "title": "안보리 '이란 제재 복원' 회의…미 vs 중·러 또 충돌",
+      "link": "https://www.yna.co.kr/view/AKR20260313026900072",
+      "pubDate": "Fri, 13 Mar 2026 08:16:35 +0900"
+    },
     {
       "title": "\"미지급 성과급 달라\"…삼성 계열사 퇴직자들, 소송 대열에 합류",
       "link": "https://www.yna.co.kr/view/AKR20260313021800530",
@@ -117,41 +152,6 @@
       "title": "\"적극 협력하겠다\"…고강도 정부 대책에 말 아낀 정유업계",
       "link": "https://www.yna.co.kr/view/AKR20260312169200003",
       "pubDate": "Thu, 12 Mar 2026 19:00:00 +0900"
-    },
-    {
-      "title": "해수부, 중동 지역 긴장 고조 수출입물류 비상대응반 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260312170300051",
-      "pubDate": "Thu, 12 Mar 2026 18:36:26 +0900"
-    },
-    {
-      "title": "대한항공 \"대한항공씨앤디서비스 주식 7천500억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312166200008",
-      "pubDate": "Thu, 12 Mar 2026 18:12:56 +0900"
-    },
-    {
-      "title": "카카오 노조, 디케이테크인 고용불안 집회…\"카카오 책임 촉구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260312167200017",
-      "pubDate": "Thu, 12 Mar 2026 18:12:54 +0900"
-    },
-    {
-      "title": "태광산업 \"롯데홈쇼핑 대표 사퇴해야\"…롯데 \"비정상주장\" 일축(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260312134252003",
-      "pubDate": "Thu, 12 Mar 2026 18:08:57 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260312158300011",
-      "pubDate": "Thu, 12 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "레이저쎌, 14억원 유상증자…셀링웨어에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260312163100008",
-      "pubDate": "Thu, 12 Mar 2026 17:50:23 +0900"
-    },
-    {
-      "title": "한투증권, 6천200억원 배당 결정…주당 1만7천613원",
-      "link": "https://www.yna.co.kr/view/AKR20260312162700008",
-      "pubDate": "Thu, 12 Mar 2026 17:41:25 +0900"
     }
   ]
 }
