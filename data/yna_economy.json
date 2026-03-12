@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773353655,
+  "updated_at_unix": 1773355743,
   "items": [
+    {
+      "title": "美은행당국, 자본규제 개편안 마무리…\"자본요건 소폭 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313020600072",
+      "pubDate": "Fri, 13 Mar 2026 07:31:51 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260313019800011",
+      "pubDate": "Fri, 13 Mar 2026 07:30:01 +0900"
+    },
     {
       "title": "[인터뷰] 김은경 서금원장 \"기본대출·저축 등 'K서민금융' 본격 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260312163200002",
@@ -142,16 +152,6 @@
       "title": "남양유업, 310억원 규모 주주환원 추진…배당·자사주 취득",
       "link": "https://www.yna.co.kr/view/AKR20260312158800030",
       "pubDate": "Thu, 12 Mar 2026 17:29:28 +0900"
-    },
-    {
-      "title": "해양진흥공사, 중소 예·도선업으로 금융지원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260312156800051",
-      "pubDate": "Thu, 12 Mar 2026 17:15:00 +0900"
-    },
-    {
-      "title": "농심·오뚜기 라면값 내린다…식용유 가격도 인하(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260312125851030",
-      "pubDate": "Thu, 12 Mar 2026 17:11:58 +0900"
     }
   ]
 }
