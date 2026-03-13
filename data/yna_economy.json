@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773433267,
+  "updated_at_unix": 1773435440,
   "items": [
+    {
+      "title": "국제유가, 이란 항전의지에 3%↑…브렌트유 이틀째 100달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260314006400072",
+      "pubDate": "Sat, 14 Mar 2026 05:20:35 +0900"
+    },
     {
       "title": "[뉴욕유가] 2주째 화염에 빠진 중동…WTI 3% 급등",
       "link": "https://www.yna.co.kr/view/AKR20260314003800009",
@@ -147,11 +152,6 @@
       "title": "오일쇼크에 고무된 이란 '공습 중단해야 휴전 협상' 배짱",
       "link": "https://www.yna.co.kr/view/AKR20260313129300009",
       "pubDate": "Fri, 13 Mar 2026 16:13:25 +0900"
-    },
-    {
-      "title": "\"시작은 쉬워도 끝내기는…\" 전쟁 장기화 우려에 증시 압박 가중(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313065251008",
-      "pubDate": "Fri, 13 Mar 2026 16:08:09 +0900"
     }
   ]
 }
