@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773395985,
+  "updated_at_unix": 1773398318,
   "items": [
+    {
+      "title": "에이비프로바이오, 40억원 유상증자…리턴즈에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260313166700008",
+      "pubDate": "Fri, 13 Mar 2026 19:03:10 +0900"
+    },
     {
       "title": "서울시, 주유소 현장점검 강화하고 '매점매석 신고센터' 운영",
       "link": "https://www.yna.co.kr/view/AKR20260313164700004",
@@ -147,11 +152,6 @@
       "title": "화성시, 향남~오산 13.3㎞ 고속화도로 건설사업 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260313127300061",
       "pubDate": "Fri, 13 Mar 2026 15:57:45 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 2%대 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313042951008",
-      "pubDate": "Fri, 13 Mar 2026 15:55:35 +0900"
     }
   ]
 }
