@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773388808,
+  "updated_at_unix": 1773392540,
   "items": [
+    {
+      "title": "[동포의 창] \"H-2·F-4 통합, 체류 안정화 첫발…건보료·취업 장벽은 여전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313156300371",
+      "pubDate": "Fri, 13 Mar 2026 17:57:24 +0900"
+    },
+    {
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20260313155800002",
+      "pubDate": "Fri, 13 Mar 2026 17:46:59 +0900"
+    },
+    {
+      "title": "환율, 유가 급등에 이틀째 올라…야간거래 장중 1,500원 또 넘어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313123051002",
+      "pubDate": "Fri, 13 Mar 2026 17:37:16 +0900"
+    },
+    {
+      "title": "카카오페이證 이사회, 신호철 대표 재선임 의결…31일 주총 소집",
+      "link": "https://www.yna.co.kr/view/AKR20260313154000008",
+      "pubDate": "Fri, 13 Mar 2026 17:37:07 +0900"
+    },
+    {
+      "title": "석유 최고가제 시행 첫날…전국 주유소 44% 기름값 내렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260313148400003",
+      "pubDate": "Fri, 13 Mar 2026 17:22:30 +0900"
+    },
+    {
+      "title": "[속보] 원/달러 환율 야간 거래 장중 1,500원 또 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260313148900002",
+      "pubDate": "Fri, 13 Mar 2026 17:18:29 +0900"
+    },
+    {
+      "title": "관세청 \"석유 수입신고 지연시 가산세\"…매점매석·비축 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260313142700002",
+      "pubDate": "Fri, 13 Mar 2026 17:01:43 +0900"
+    },
+    {
+      "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.338%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313140051008",
+      "pubDate": "Fri, 13 Mar 2026 17:00:40 +0900"
+    },
     {
       "title": "한패스, 공모가 상단 1만9천원 확정…16∼17일 청약",
       "link": "https://www.yna.co.kr/view/AKR20260313143000008",
@@ -19,7 +59,7 @@
       "pubDate": "Fri, 13 Mar 2026 16:41:56 +0900"
     },
     {
-      "title": "'버터떡' 인기에 식품업계도 참전…SPC·이디야커피도 판매",
+      "title": "버터떡 인기에 식품업계도 참전…패션파이브·이디야커피도 판매",
       "link": "https://www.yna.co.kr/view/AKR20260313138500030",
       "pubDate": "Fri, 13 Mar 2026 16:36:52 +0900"
     },
@@ -112,46 +152,6 @@
       "title": "유가 쇼크에…코스피 5,500선 밑돌고 환율 1,490원 넘어(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313050051002",
       "pubDate": "Fri, 13 Mar 2026 15:53:37 +0900"
-    },
-    {
-      "title": "부천시, 월 임대료 1만원 '청년드림주택' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260313126100065",
-      "pubDate": "Fri, 13 Mar 2026 15:52:04 +0900"
-    },
-    {
-      "title": "[특징주] 펄어비스, 신작 '붉은사막' 기대감에 9%대 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313062051008",
-      "pubDate": "Fri, 13 Mar 2026 15:49:26 +0900"
-    },
-    {
-      "title": "원/달러 환율 다시 1,490원대…유가 급등에 이틀째 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260313123000002",
-      "pubDate": "Fri, 13 Mar 2026 15:48:45 +0900"
-    },
-    {
-      "title": "외국환시세(3월13일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260313122800002",
-      "pubDate": "Fri, 13 Mar 2026 15:47:23 +0900"
-    },
-    {
-      "title": "日, 중동전쟁에 뜬금없는 화장지 사재기 경보…업계 \"재고 충분\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313120400009",
-      "pubDate": "Fri, 13 Mar 2026 15:45:48 +0900"
-    },
-    {
-      "title": "코스모신소재, 350억원 유상증자…코스모앤컴퍼니에 제3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260313123700008",
-      "pubDate": "Fri, 13 Mar 2026 15:43:06 +0900"
-    },
-    {
-      "title": "팬데믹 때보다 심각…정부 '매출 반토막' 면세산업 지원 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260313115100002",
-      "pubDate": "Fri, 13 Mar 2026 15:42:52 +0900"
-    },
-    {
-      "title": "[특징주] 남양유업, 주주환원 추진에 9%대 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313043151008",
-      "pubDate": "Fri, 13 Mar 2026 15:41:38 +0900"
     }
   ]
 }
