@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773438849,
+  "updated_at_unix": 1773440313,
   "items": [
+    {
+      "title": "[신상잇슈] 롯데칠성 '펩시제로슈거 피치향'·해태 '포키 극세 멜론'",
+      "link": "https://www.yna.co.kr/view/AKR20260313146300030",
+      "pubDate": "Sat, 14 Mar 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[금주핫템] 까사미아 '모나코 소파'·노스페이스 '몬테라 재킷'",
+      "link": "https://www.yna.co.kr/view/AKR20260313031200030",
+      "pubDate": "Sat, 14 Mar 2026 07:00:01 +0900"
+    },
     {
       "title": "[부동산캘린더] '벚꽃 분양' 본격화…마곡 토지임대부·방화뉴타운 등 주목",
       "link": "https://www.yna.co.kr/view/AKR20260313137400003",
@@ -142,16 +152,6 @@
       "title": "iM뱅크, 대구시 등과 '대구형 상생 금융' 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260313136300053",
       "pubDate": "Fri, 13 Mar 2026 16:31:40 +0900"
-    },
-    {
-      "title": "\"비난 기사 쓰겠다\" 골재업체 협박해 수천만원 뜯은 기자 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260313137000064",
-      "pubDate": "Fri, 13 Mar 2026 16:30:51 +0900"
-    },
-    {
-      "title": "창원시, 중동지역 위기 대응 비상대응체제 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260313133900052",
-      "pubDate": "Fri, 13 Mar 2026 16:21:48 +0900"
     }
   ]
 }
