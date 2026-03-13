@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773378470,
+  "updated_at_unix": 1773381982,
   "items": [
+    {
+      "title": "JW홀딩스 \"솔리더스인베스트먼트 주식 306억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313112400008",
+      "pubDate": "Fri, 13 Mar 2026 14:56:41 +0900"
+    },
+    {
+      "title": "'조합 자금 횡령·입찰 특혜 의혹' 재개발 조합장, 1심서 무죄",
+      "link": "https://www.yna.co.kr/view/AKR20260313111100055",
+      "pubDate": "Fri, 13 Mar 2026 14:53:20 +0900"
+    },
+    {
+      "title": "제너시스BBQ, 2031년까지 순천만정원 인근에 특급호텔 건립",
+      "link": "https://www.yna.co.kr/view/AKR20260313100300054",
+      "pubDate": "Fri, 13 Mar 2026 14:51:08 +0900"
+    },
+    {
+      "title": "계란 한 판 다시 7천원대…산란계 1천만마리 살처분에 물가 비상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313047751030",
+      "pubDate": "Fri, 13 Mar 2026 14:41:04 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260313102400011",
+      "pubDate": "Fri, 13 Mar 2026 14:40:43 +0900"
+    },
+    {
+      "title": "CJ그룹, 오픈소스 생태계 확장 위해 '오소리 프로젝트' 합류",
+      "link": "https://www.yna.co.kr/view/AKR20260313103700030",
+      "pubDate": "Fri, 13 Mar 2026 14:26:41 +0900"
+    },
+    {
+      "title": "[테크스냅] 네이버페이 '우리집 관리비 정기납부' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260313098700017",
+      "pubDate": "Fri, 13 Mar 2026 14:19:19 +0900"
+    },
+    {
+      "title": "광주 시내버스 요금 250원 인상 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260313100700054",
+      "pubDate": "Fri, 13 Mar 2026 14:14:45 +0900"
+    },
+    {
+      "title": "진주 농민들 \"면세유 폭등에 파산 위기…대책 마련하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313095900052",
+      "pubDate": "Fri, 13 Mar 2026 14:06:26 +0900"
+    },
     {
       "title": "부산상의, 중동사태 간담회…\"유류세 인하·물류비 지원 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260313071500051",
@@ -107,51 +152,6 @@
       "title": "코스피, 고유가·환율에 장중 0.8% 내려…코스닥은 상승 전환",
       "link": "https://www.yna.co.kr/view/AKR20260313078100008",
       "pubDate": "Fri, 13 Mar 2026 11:28:52 +0900"
-    },
-    {
-      "title": "트럼프 '금리 발등' 찍었나?…시장, 금리인하 전망 낮춰",
-      "link": "https://www.yna.co.kr/view/AKR20260313069900009",
-      "pubDate": "Fri, 13 Mar 2026 11:25:03 +0900"
-    },
-    {
-      "title": "석유 최고가격제 시행 첫날 \"큰 시름은 덜었지만…체감은 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313072600063",
-      "pubDate": "Fri, 13 Mar 2026 11:21:22 +0900"
-    },
-    {
-      "title": "한화 선박계열사 3사, 이탈리아 선급과 해상 탈탄소화 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260313074300003",
-      "pubDate": "Fri, 13 Mar 2026 11:13:28 +0900"
-    },
-    {
-      "title": "올해 공동주택 공시가격안 18일부터 열람…내달 30일 결정·공시",
-      "link": "https://www.yna.co.kr/view/AKR20260313073500003",
-      "pubDate": "Fri, 13 Mar 2026 11:08:42 +0900"
-    },
-    {
-      "title": "벤처캐피탈협회장 \"국민성장펀드 연계 코스닥 펀드 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313026600030",
-      "pubDate": "Fri, 13 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "기획처, 중앙부처 주관 국제행사 정책성 등급조사 폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260313066000002",
-      "pubDate": "Fri, 13 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "은행권, 전세사기 피해주택 경매서 배당 일부 포기…피해자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260313062800002",
-      "pubDate": "Fri, 13 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "부안군에 수소·방산·AI 제조기지 구축…DH그룹 투자 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260313070900055",
-      "pubDate": "Fri, 13 Mar 2026 10:59:16 +0900"
-    },
-    {
-      "title": "주병기 \"부산·경북·제주 주유소 담합 의심 조사 중…엄중제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313067700002",
-      "pubDate": "Fri, 13 Mar 2026 10:52:57 +0900"
     }
   ]
 }
