@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773426554,
+  "updated_at_unix": 1773428834,
   "items": [
+    {
+      "title": "[뉴욕유가] 2주째 화염에 빠진 중동…WTI 3% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260314003800009",
+      "pubDate": "Sat, 14 Mar 2026 03:50:21 +0900"
+    },
     {
       "title": "'트럼프책사' 나바로 \"이란위협 제거시 국제유가 60달러 밑돌것\"",
       "link": "https://www.yna.co.kr/view/AKR20260314002800072",
@@ -147,11 +152,6 @@
       "title": "\"시작은 쉬워도 끝내기는…\" 전쟁 장기화 우려에 증시 압박 가중(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313065251008",
       "pubDate": "Fri, 13 Mar 2026 16:08:09 +0900"
-    },
-    {
-      "title": "부산 수출기업, 중동사태 장기화 우려…\"물류비 등 지원 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313071551051",
-      "pubDate": "Fri, 13 Mar 2026 16:04:54 +0900"
     }
   ]
 }
