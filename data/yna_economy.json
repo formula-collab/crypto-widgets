@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773435440,
+  "updated_at_unix": 1773437274,
   "items": [
+    {
+      "title": "[부동산캘린더] '벚꽃 분양' 본격화…마곡 토지임대부·방화뉴타운 등 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260313137400003",
+      "pubDate": "Sat, 14 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "중동 포화 속 기대치 밑돈 경제지표…뉴욕증시 또 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260314006351072",
+      "pubDate": "Sat, 14 Mar 2026 05:55:08 +0900"
+    },
     {
       "title": "국제유가, 이란 항전의지에 3%↑…브렌트유 이틀째 100달러대",
       "link": "https://www.yna.co.kr/view/AKR20260314006400072",
@@ -142,16 +152,6 @@
       "title": "창원시, 중동지역 위기 대응 비상대응체제 가동",
       "link": "https://www.yna.co.kr/view/AKR20260313133900052",
       "pubDate": "Fri, 13 Mar 2026 16:21:48 +0900"
-    },
-    {
-      "title": "LG전자, 지난해 R&D 비용 '역대 최대'…올해도 4조원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260313133600003",
-      "pubDate": "Fri, 13 Mar 2026 16:19:53 +0900"
-    },
-    {
-      "title": "오일쇼크에 고무된 이란 '공습 중단해야 휴전 협상' 배짱",
-      "link": "https://www.yna.co.kr/view/AKR20260313129300009",
-      "pubDate": "Fri, 13 Mar 2026 16:13:25 +0900"
     }
   ]
 }
