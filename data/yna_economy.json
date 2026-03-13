@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773392540,
+  "updated_at_unix": 1773395985,
   "items": [
+    {
+      "title": "서울시, 주유소 현장점검 강화하고 '매점매석 신고센터' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260313164700004",
+      "pubDate": "Fri, 13 Mar 2026 18:50:57 +0900"
+    },
+    {
+      "title": "작년 금융지주 회장 연봉은…KB 양종희 19억·신한 진옥동 13억",
+      "link": "https://www.yna.co.kr/view/AKR20260313160600002",
+      "pubDate": "Fri, 13 Mar 2026 18:30:45 +0900"
+    },
+    {
+      "title": "삼성물산·현대건설 수주 사우디 네옴시티 터널공사 계약 해지",
+      "link": "https://www.yna.co.kr/view/AKR20260313160300003",
+      "pubDate": "Fri, 13 Mar 2026 18:12:13 +0900"
+    },
+    {
+      "title": "석유 최고가제 시행 첫날…전국 주유소 44% 기름값 내렸다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313148451003",
+      "pubDate": "Fri, 13 Mar 2026 18:04:45 +0900"
+    },
     {
       "title": "[동포의 창] \"H-2·F-4 통합, 체류 안정화 첫발…건보료·취업 장벽은 여전\"",
       "link": "https://www.yna.co.kr/view/AKR20260313156300371",
@@ -132,26 +152,6 @@
       "title": "[특징주] 삼성전자·SK하이닉스, 2%대 하락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313042951008",
       "pubDate": "Fri, 13 Mar 2026 15:55:35 +0900"
-    },
-    {
-      "title": "김영록 \"500조 반도체 투자 유치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313125400054",
-      "pubDate": "Fri, 13 Mar 2026 15:54:56 +0900"
-    },
-    {
-      "title": "[동정] 이억원, SC그룹 회장 면담…\"기업금융 지원 강화 요청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313125100002",
-      "pubDate": "Fri, 13 Mar 2026 15:54:15 +0900"
-    },
-    {
-      "title": "국민연금, 999조 굴리는 알리안츠GI와 파트너십…투자 경험 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260313126000530",
-      "pubDate": "Fri, 13 Mar 2026 15:53:41 +0900"
-    },
-    {
-      "title": "유가 쇼크에…코스피 5,500선 밑돌고 환율 1,490원 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313050051002",
-      "pubDate": "Fri, 13 Mar 2026 15:53:37 +0900"
     }
   ]
 }
