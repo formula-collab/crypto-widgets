@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773421435,
+  "updated_at_unix": 1773424550,
   "items": [
+    {
+      "title": "달러-원, 1,500원 터치 후 소폭 뒷걸음질…1,497.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260314002700002",
+      "pubDate": "Sat, 14 Mar 2026 02:46:36 +0900"
+    },
     {
       "title": "美 3월 미시간대 소비자심리 악화…미·이란 전쟁 여파",
       "link": "https://www.yna.co.kr/view/AKR20260313182500072",
@@ -147,11 +152,6 @@
       "title": "[특징주] 유가 따라 올랐던 정유주, 상승분 내주고 하락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313046751008",
       "pubDate": "Fri, 13 Mar 2026 16:03:18 +0900"
-    },
-    {
-      "title": "낮 산업용 전기료 1kWh당 최대 16.9원↓…봄·가을 휴일 반값",
-      "link": "https://www.yna.co.kr/view/AKR20260313127200530",
-      "pubDate": "Fri, 13 Mar 2026 16:02:31 +0900"
     }
   ]
 }
