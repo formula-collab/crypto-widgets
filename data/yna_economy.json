@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773373124,
+  "updated_at_unix": 1773378470,
   "items": [
+    {
+      "title": "부산상의, 중동사태 간담회…\"유류세 인하·물류비 지원 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313071500051",
+      "pubDate": "Fri, 13 Mar 2026 14:00:08 +0900"
+    },
+    {
+      "title": "파주시, 중동발 경제위기 대응 '비상경제대응 전담 조직' 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260313097300060",
+      "pubDate": "Fri, 13 Mar 2026 13:55:24 +0900"
+    },
+    {
+      "title": "형지글로벌 \"자회사 형지에스콰이아 주식 69억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313094400008",
+      "pubDate": "Fri, 13 Mar 2026 13:52:00 +0900"
+    },
+    {
+      "title": "국세청 '최고가격제·매점매석 금지' 대응 주유소 현장점검",
+      "link": "https://www.yna.co.kr/view/AKR20260313092900002",
+      "pubDate": "Fri, 13 Mar 2026 13:40:25 +0900"
+    },
+    {
+      "title": "개인정보위원장 \"韓美, 신뢰 기반 데이터 협력·교류 중요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313068751530",
+      "pubDate": "Fri, 13 Mar 2026 13:28:29 +0900"
+    },
+    {
+      "title": "방치됐던 제주 빈집, 공공임대·농어촌유학 주택으로 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260313087300056",
+      "pubDate": "Fri, 13 Mar 2026 13:15:28 +0900"
+    },
+    {
+      "title": "한국거래소, '성평등 위한 링더벨' 타종식 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260313080600008",
+      "pubDate": "Fri, 13 Mar 2026 13:14:53 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.299%",
+      "link": "https://www.yna.co.kr/view/AKR20260313081800008",
+      "pubDate": "Fri, 13 Mar 2026 13:14:07 +0900"
+    },
+    {
+      "title": "KFC, 역대 최고 실적에도 23종 가격 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260313087000030",
+      "pubDate": "Fri, 13 Mar 2026 12:43:32 +0900"
+    },
     {
       "title": "1월 통화량 28조원↑…기업 수출대금 예치 등에 석달째 증가",
       "link": "https://www.yna.co.kr/view/AKR20260313063900002",
@@ -107,51 +152,6 @@
       "title": "주병기 \"부산·경북·제주 주유소 담합 의심 조사 중…엄중제재\"",
       "link": "https://www.yna.co.kr/view/AKR20260313067700002",
       "pubDate": "Fri, 13 Mar 2026 10:52:57 +0900"
-    },
-    {
-      "title": "\"시작은 쉬워도 끝내기는…\" 이란사태 장기화 우려 증시 압박",
-      "link": "https://www.yna.co.kr/view/AKR20260313065200008",
-      "pubDate": "Fri, 13 Mar 2026 10:40:54 +0900"
-    },
-    {
-      "title": "김정관 \"석유 최고가격제, 시장통제 아닌 국민경제 보호 위한 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313058500003",
-      "pubDate": "Fri, 13 Mar 2026 10:40:00 +0900"
-    },
-    {
-      "title": "GH, 광교신도시에 2029년까지 공공지식산업센터 건립",
-      "link": "https://www.yna.co.kr/view/AKR20260313065300061",
-      "pubDate": "Fri, 13 Mar 2026 10:39:41 +0900"
-    },
-    {
-      "title": "영암군, 남풍지구에 행정복합타운 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260313064800054",
-      "pubDate": "Fri, 13 Mar 2026 10:36:05 +0900"
-    },
-    {
-      "title": "광명시, 중동정세 불안 대응 '민생안정 전담창구' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260313059400061",
-      "pubDate": "Fri, 13 Mar 2026 10:35:28 +0900"
-    },
-    {
-      "title": "[특징주] 크래프톤, 한화에어로와 피지컬AI 합작사 추진에 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260313065000008",
-      "pubDate": "Fri, 13 Mar 2026 10:33:56 +0900"
-    },
-    {
-      "title": "제주 378개 어린이집 대상 안전보험 가입비 전액 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260313064100056",
-      "pubDate": "Fri, 13 Mar 2026 10:32:15 +0900"
-    },
-    {
-      "title": "NH투자증권, 쿼타랩과 '주식보상제도 연계서비스' 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260313062900008",
-      "pubDate": "Fri, 13 Mar 2026 10:30:24 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260313060400011",
-      "pubDate": "Fri, 13 Mar 2026 10:30:00 +0900"
     }
   ]
 }
