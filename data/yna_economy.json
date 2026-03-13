@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773405116,
+  "updated_at_unix": 1773409925,
   "items": [
+    {
+      "title": "李대통령 \"석유 최고가격제 어기는 주유소, 제게 신고해달라\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260313056752001",
+      "pubDate": "Fri, 13 Mar 2026 21:50:48 +0900"
+    },
     {
       "title": "구윤철 \"바로 지금 韓경제에 주목해야\"…도쿄서 투자 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260313172000002",
@@ -147,11 +152,6 @@
       "title": "금감원, 중동상황 틈탄 불법 공매도 관리 강화 주문",
       "link": "https://www.yna.co.kr/view/AKR20260313080200002",
       "pubDate": "Fri, 13 Mar 2026 16:00:06 +0900"
-    },
-    {
-      "title": "올해 전략기술 R&D에 8조6천억원 투입…30% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260313112300017",
-      "pubDate": "Fri, 13 Mar 2026 16:00:04 +0900"
     }
   ]
 }
