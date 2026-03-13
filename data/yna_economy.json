@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773424550,
+  "updated_at_unix": 1773426554,
   "items": [
+    {
+      "title": "'트럼프책사' 나바로 \"이란위협 제거시 국제유가 60달러 밑돌것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314002800072",
+      "pubDate": "Sat, 14 Mar 2026 03:04:39 +0900"
+    },
     {
       "title": "달러-원, 1,500원 터치 후 소폭 뒷걸음질…1,497.50원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260314002700002",
@@ -147,11 +152,6 @@
       "title": "부산 수출기업, 중동사태 장기화 우려…\"물류비 등 지원 필요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313071551051",
       "pubDate": "Fri, 13 Mar 2026 16:04:54 +0900"
-    },
-    {
-      "title": "[특징주] 유가 따라 올랐던 정유주, 상승분 내주고 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313046751008",
-      "pubDate": "Fri, 13 Mar 2026 16:03:18 +0900"
     }
   ]
 }
