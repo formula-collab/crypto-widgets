@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773398318,
+  "updated_at_unix": 1773400951,
   "items": [
+    {
+      "title": "경찰, 김병기 차남 자택·차량 7시간 추가 압수수색(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260313078751004",
+      "pubDate": "Fri, 13 Mar 2026 19:37:35 +0900"
+    },
     {
       "title": "에이비프로바이오, 40억원 유상증자…리턴즈에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260313166700008",
@@ -147,11 +152,6 @@
       "title": "임금체불 사업주 대신 지급한 정부, '집중 회수' 나선다",
       "link": "https://www.yna.co.kr/view/AKR20260313116700002",
       "pubDate": "Fri, 13 Mar 2026 16:00:02 +0900"
-    },
-    {
-      "title": "화성시, 향남~오산 13.3㎞ 고속화도로 건설사업 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260313127300061",
-      "pubDate": "Fri, 13 Mar 2026 15:57:45 +0900"
     }
   ]
 }
