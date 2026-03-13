@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773412484,
+  "updated_at_unix": 1773415951,
   "items": [
+    {
+      "title": "美 3월 미시간대 소비자심리 악화…미·이란 전쟁 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260313182500072",
+      "pubDate": "Fri, 13 Mar 2026 23:49:40 +0900"
+    },
     {
       "title": "李대통령 \"석유 최고가격제 어기는 주유소, 제게 신고해달라\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260313056752001",
@@ -147,11 +152,6 @@
       "title": "낮 산업용 전기료 1kWh당 최대 16.9원↓…봄·가을 휴일 반값",
       "link": "https://www.yna.co.kr/view/AKR20260313127200530",
       "pubDate": "Fri, 13 Mar 2026 16:02:31 +0900"
-    },
-    {
-      "title": "금감원, 중동상황 틈탄 불법 공매도 관리 강화 주문",
-      "link": "https://www.yna.co.kr/view/AKR20260313080200002",
-      "pubDate": "Fri, 13 Mar 2026 16:00:06 +0900"
     }
   ]
 }
