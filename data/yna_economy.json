@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773400951,
+  "updated_at_unix": 1773402578,
   "items": [
+    {
+      "title": "구윤철 \"바로 지금 韓경제에 주목해야\"…도쿄서 투자 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260313172000002",
+      "pubDate": "Fri, 13 Mar 2026 20:28:46 +0900"
+    },
     {
       "title": "경찰, 김병기 차남 자택·차량 7시간 추가 압수수색(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313078751004",
@@ -147,11 +152,6 @@
       "title": "올해 전략기술 R&D에 8조6천억원 투입…30% 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260313112300017",
       "pubDate": "Fri, 13 Mar 2026 16:00:04 +0900"
-    },
-    {
-      "title": "임금체불 사업주 대신 지급한 정부, '집중 회수' 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20260313116700002",
-      "pubDate": "Fri, 13 Mar 2026 16:00:02 +0900"
     }
   ]
 }
