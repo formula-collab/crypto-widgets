@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773524724,
+  "updated_at_unix": 1773526444,
   "items": [
+    {
+      "title": "거래대금 폭증에 증권사 '돈방석'…5개 대형사 1분기 영업익 3조",
+      "link": "https://www.yna.co.kr/view/AKR20260313158100008",
+      "pubDate": "Sun, 15 Mar 2026 07:05:01 +0900"
+    },
+    {
+      "title": "유가 뛰자 원유 ETN에 몰리는 투심…전쟁 발발 후 수익률 2배로",
+      "link": "https://www.yna.co.kr/view/AKR20260313178500008",
+      "pubDate": "Sun, 15 Mar 2026 07:03:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 이란 '역린' 때린 트럼프…증시 변동성 또 치솟나",
+      "link": "https://www.yna.co.kr/view/AKR20260314026400008",
+      "pubDate": "Sun, 15 Mar 2026 07:00:16 +0900"
+    },
+    {
+      "title": "[르포] \"어서 와, 아미\"…BTS 공연 앞두고 들썩이는 명동·광화문",
+      "link": "https://www.yna.co.kr/view/AKR20260314010600030",
+      "pubDate": "Sun, 15 Mar 2026 07:00:07 +0900"
+    },
+    {
+      "title": "작년 항공소비자 피해구제 신청 3천건 넘어…1년 새 26.8% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260313158600003",
+      "pubDate": "Sun, 15 Mar 2026 07:00:03 +0900"
+    },
+    {
+      "title": "NH농협금융, 마을기업 중심 지역 밀착형 포용 금융",
+      "link": "https://www.yna.co.kr/view/AKR20260313159400002",
+      "pubDate": "Sun, 15 Mar 2026 07:00:00 +0900"
+    },
     {
       "title": "\"비용 더 줄여라\"…'금값' 메모리·전쟁 겹악재 맞은 삼성·LG전자",
       "link": "https://www.yna.co.kr/view/AKR20260314031500003",
@@ -122,36 +152,6 @@
       "title": "NYT \"미국, 이란전쟁 탓 인도태평양 영향력 약해진다\"",
       "link": "https://www.yna.co.kr/view/AKR20260314028900009",
       "pubDate": "Sat, 14 Mar 2026 11:15:59 +0900"
-    },
-    {
-      "title": "전남에 행안부 마을기업 16곳 지정…사업비 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260313148700054",
-      "pubDate": "Sat, 14 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260314026100011",
-      "pubDate": "Sat, 14 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[부고] 김경하(브이아이자산운용 상무)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260314027200034",
-      "pubDate": "Sat, 14 Mar 2026 10:27:24 +0900"
-    },
-    {
-      "title": "울주군보건소·카카오헬스케어, 24시간 혈당주치의 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260313093300057",
-      "pubDate": "Sat, 14 Mar 2026 10:10:01 +0900"
-    },
-    {
-      "title": "석유 최고가제 이튿날 기름값 두자릿수↓…휘발유·경유 격차 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260314024600003",
-      "pubDate": "Sat, 14 Mar 2026 09:54:34 +0900"
-    },
-    {
-      "title": "푸틴 계속 웃는다…중동전쟁 탓 미국·유럽 안보동맹도 파열음",
-      "link": "https://www.yna.co.kr/view/AKR20260314021000009",
-      "pubDate": "Sat, 14 Mar 2026 09:25:34 +0900"
     }
   ]
 }
