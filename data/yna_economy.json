@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773522973,
+  "updated_at_unix": 1773524724,
   "items": [
+    {
+      "title": "\"비용 더 줄여라\"…'금값' 메모리·전쟁 겹악재 맞은 삼성·LG전자",
+      "link": "https://www.yna.co.kr/view/AKR20260314031500003",
+      "pubDate": "Sun, 15 Mar 2026 06:31:01 +0900"
+    },
+    {
+      "title": "'2만4천% 살인 이자' 채무자들 숨통 조인 불법 대부 일당 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260314050900062",
+      "pubDate": "Sun, 15 Mar 2026 06:13:03 +0900"
+    },
     {
       "title": "산재 예방으로 사망 5명 줄면 '51.8억' 편익…\"비용 아닌 투자\"",
       "link": "https://www.yna.co.kr/view/AKR20260313139600530",
@@ -142,16 +152,6 @@
       "title": "푸틴 계속 웃는다…중동전쟁 탓 미국·유럽 안보동맹도 파열음",
       "link": "https://www.yna.co.kr/view/AKR20260314021000009",
       "pubDate": "Sat, 14 Mar 2026 09:25:34 +0900"
-    },
-    {
-      "title": "경남소방본부, 방화복 세척 지역자활센터에 위탁",
-      "link": "https://www.yna.co.kr/view/AKR20260313067100052",
-      "pubDate": "Sat, 14 Mar 2026 09:15:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 2월 일자리 얼마나 늘었나…수입물가도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260314022900002",
-      "pubDate": "Sat, 14 Mar 2026 09:10:52 +0900"
     }
   ]
 }
