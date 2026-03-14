@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773445675,
+  "updated_at_unix": 1773450248,
   "items": [
+    {
+      "title": "석유 최고가제 이튿날 기름값 두자릿수↓…휘발유·경유 격차 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260314024600003",
+      "pubDate": "Sat, 14 Mar 2026 09:54:34 +0900"
+    },
+    {
+      "title": "푸틴 계속 웃는다…중동전쟁 탓 미국·유럽 안보동맹도 파열음",
+      "link": "https://www.yna.co.kr/view/AKR20260314021000009",
+      "pubDate": "Sat, 14 Mar 2026 09:25:34 +0900"
+    },
+    {
+      "title": "경남소방본부, 방화복 세척 지역자활센터에 위탁",
+      "link": "https://www.yna.co.kr/view/AKR20260313067100052",
+      "pubDate": "Sat, 14 Mar 2026 09:15:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 2월 일자리 얼마나 늘었나…수입물가도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260314022900002",
+      "pubDate": "Sat, 14 Mar 2026 09:10:52 +0900"
+    },
     {
       "title": "부산 아파트값도 상승세 둔화…전셋값은 강세 지속",
       "link": "https://www.yna.co.kr/view/AKR20260313122600051",
@@ -132,26 +152,6 @@
       "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.338%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313140051008",
       "pubDate": "Fri, 13 Mar 2026 17:00:40 +0900"
-    },
-    {
-      "title": "한패스, 공모가 상단 1만9천원 확정…16∼17일 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260313143000008",
-      "pubDate": "Fri, 13 Mar 2026 16:53:18 +0900"
-    },
-    {
-      "title": "낮 산업용 전기료 1kWh당 최대 16.9원↓…봄·가을 휴일 반값(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313127251530",
-      "pubDate": "Fri, 13 Mar 2026 16:51:52 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.338%",
-      "link": "https://www.yna.co.kr/view/AKR20260313140000008",
-      "pubDate": "Fri, 13 Mar 2026 16:41:56 +0900"
-    },
-    {
-      "title": "버터떡 인기에 식품업계도 참전…패션파이브·이디야커피도 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260313138500030",
-      "pubDate": "Fri, 13 Mar 2026 16:36:52 +0900"
     }
   ]
 }
