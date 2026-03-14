@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773530218,
+  "updated_at_unix": 1773532014,
   "items": [
+    {
+      "title": "하나금융, 英 SC그룹과 글로벌 금융·디지털자산 협력 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260314042300002",
+      "pubDate": "Sun, 15 Mar 2026 08:30:01 +0900"
+    },
     {
       "title": "'펫 동반 허용' 보름…동네카페는 '노펫존', 대형매장만 몰려",
       "link": "https://www.yna.co.kr/view/AKR20260313168100030",
@@ -147,11 +152,6 @@
       "title": "중동전쟁에 원화 하락폭 주요국 최상위…평균 환율 환란 후 최고",
       "link": "https://www.yna.co.kr/view/AKR20260314043700002",
       "pubDate": "Sun, 15 Mar 2026 05:49:01 +0900"
-    },
-    {
-      "title": "한은 \"추경, 물가 자극 가능성 작아…성장 영향은 추정 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314042500002",
-      "pubDate": "Sun, 15 Mar 2026 05:47:04 +0900"
     }
   ]
 }
