@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773459449,
+  "updated_at_unix": 1773464731,
   "items": [
+    {
+      "title": "트럼프 새 지렛대 꽂았다…하르그 섬은 이란 정권·경제 생명줄",
+      "link": "https://www.yna.co.kr/view/AKR20260314033100009",
+      "pubDate": "Sat, 14 Mar 2026 13:09:06 +0900"
+    },
     {
       "title": "NYT \"미국, 이란전쟁 탓 인도태평양 영향력 약해진다\"",
       "link": "https://www.yna.co.kr/view/AKR20260314028900009",
@@ -147,11 +152,6 @@
       "title": "[인사] 기획예산처",
       "link": "https://www.yna.co.kr/view/AKR20260313155800002",
       "pubDate": "Fri, 13 Mar 2026 17:46:59 +0900"
-    },
-    {
-      "title": "환율, 유가 급등에 이틀째 올라…야간거래 장중 1,500원 또 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313123051002",
-      "pubDate": "Fri, 13 Mar 2026 17:37:16 +0900"
     }
   ]
 }
