@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773468166,
+  "updated_at_unix": 1773472108,
   "items": [
+    {
+      "title": "[부고] 정규식(정규식 비뇨기과의원 원장)씨 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260314040300003",
+      "pubDate": "Sat, 14 Mar 2026 15:07:16 +0900"
+    },
     {
       "title": "트럼프 새 지렛대 꽂았다…하르그 섬은 이란 정권·경제 생명줄",
       "link": "https://www.yna.co.kr/view/AKR20260314033100009",
@@ -147,11 +152,6 @@
       "title": "[동포의 창] \"H-2·F-4 통합, 체류 안정화 첫발…건보료·취업 장벽은 여전\"",
       "link": "https://www.yna.co.kr/view/AKR20260313156300371",
       "pubDate": "Fri, 13 Mar 2026 17:57:24 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260313155800002",
-      "pubDate": "Fri, 13 Mar 2026 17:46:59 +0900"
     }
   ]
 }
