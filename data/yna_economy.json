@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773521317,
+  "updated_at_unix": 1773522973,
   "items": [
+    {
+      "title": "산재 예방으로 사망 5명 줄면 '51.8억' 편익…\"비용 아닌 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313139600530",
+      "pubDate": "Sun, 15 Mar 2026 06:07:00 +0900"
+    },
+    {
+      "title": "\"야간노동, 직무 만족도 낮추고 '개인 발전가능성' 인식도 저해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313150300530",
+      "pubDate": "Sun, 15 Mar 2026 06:05:02 +0900"
+    },
+    {
+      "title": "與속도전 예고에 국힘 반대 여론전…추경 놓고 기싸움 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260314047100001",
+      "pubDate": "Sun, 15 Mar 2026 06:05:01 +0900"
+    },
+    {
+      "title": "쿠팡 정보유출 석달 지났는데 불안여전…명의도용·2차피해 의심",
+      "link": "https://www.yna.co.kr/view/AKR20260313158900030",
+      "pubDate": "Sun, 15 Mar 2026 06:01:03 +0900"
+    },
+    {
+      "title": "쿠팡 로켓서 '중장년층 이탈' 현실화…결제추정액 10% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260314040500030",
+      "pubDate": "Sun, 15 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "치솟는 유가에 항공 유류할증료 급등…\"10만원 이상 오를 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313164200003",
+      "pubDate": "Sun, 15 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "'역대최대 실적' SK하이닉스 작년 연구개발비도 역대최대 6.7조",
+      "link": "https://www.yna.co.kr/view/AKR20260313138400003",
+      "pubDate": "Sun, 15 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"美 특허제도 변경, '특허괴물' 키우고 자국 안보까지 위협\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314035400003",
+      "pubDate": "Sun, 15 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "해상운임 원유·가스·컨테이너 전방위 상승…항공운임도 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20260314052700003",
+      "pubDate": "Sun, 15 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "'1조 흥행' 코스닥액티브 종목 노출 무방비…당국 규제 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260314049800002",
+      "pubDate": "Sun, 15 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "저소득층, 가처분 소득 10%가 에너지비…중동전에 설상가상",
+      "link": "https://www.yna.co.kr/view/AKR20260314046300002",
+      "pubDate": "Sun, 15 Mar 2026 05:55:01 +0900"
+    },
+    {
+      "title": "'호르무즈 봉쇄' 선박보험 익스포저 1.7조…보험사 유동성 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260314053600002",
+      "pubDate": "Sun, 15 Mar 2026 05:53:01 +0900"
+    },
+    {
+      "title": "중동전쟁 격화에 자금시장 긴장…당국, 20조 채안펀드 증액 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260314055500002",
+      "pubDate": "Sun, 15 Mar 2026 05:51:01 +0900"
+    },
+    {
+      "title": "중동전쟁에 원화 하락폭 주요국 최상위…평균 환율 환란 후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260314043700002",
+      "pubDate": "Sun, 15 Mar 2026 05:49:01 +0900"
+    },
+    {
+      "title": "한은 \"추경, 물가 자극 가능성 작아…성장 영향은 추정 어려워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314042500002",
+      "pubDate": "Sun, 15 Mar 2026 05:47:04 +0900"
+    },
+    {
+      "title": "추경으로 내수위축 우려 반전될까…\"장기전 대비해야\" 지적도",
+      "link": "https://www.yna.co.kr/view/AKR20260314053900002",
+      "pubDate": "Sun, 15 Mar 2026 05:47:02 +0900"
+    },
+    {
+      "title": "중동불안·고유가에 초고속 민생추경…초과세수에 10조∼20조說",
+      "link": "https://www.yna.co.kr/view/AKR20260314051500002",
+      "pubDate": "Sun, 15 Mar 2026 05:47:01 +0900"
+    },
+    {
+      "title": "영끌·빚투 비명…은행 주담대 상단 6.5% 넘어, 2년5개월내 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260314056000002",
+      "pubDate": "Sun, 15 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "한일 재무장관 중동정세 논의…\"안정적 에너지 공급 위해 협력\"",
       "link": "https://www.yna.co.kr/view/AKR20260314046900002",
@@ -62,96 +152,6 @@
       "title": "[다음주 경제] 2월 일자리 얼마나 늘었나…수입물가도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260314022900002",
       "pubDate": "Sat, 14 Mar 2026 09:10:52 +0900"
-    },
-    {
-      "title": "부산 아파트값도 상승세 둔화…전셋값은 강세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260313122600051",
-      "pubDate": "Sat, 14 Mar 2026 08:10:01 +0900"
-    },
-    {
-      "title": "[신상잇슈] 롯데칠성 '펩시제로슈거 피치향'·해태 '포키 극세 멜론'",
-      "link": "https://www.yna.co.kr/view/AKR20260313146300030",
-      "pubDate": "Sat, 14 Mar 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[금주핫템] 까사미아 '모나코 소파'·노스페이스 '몬테라 재킷'",
-      "link": "https://www.yna.co.kr/view/AKR20260313031200030",
-      "pubDate": "Sat, 14 Mar 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] '벚꽃 분양' 본격화…마곡 토지임대부·방화뉴타운 등 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260313137400003",
-      "pubDate": "Sat, 14 Mar 2026 06:00:00 +0900"
-    },
-    {
-      "title": "중동 포화 속 기대치 밑돈 경제지표…뉴욕증시 또 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260314006351072",
-      "pubDate": "Sat, 14 Mar 2026 05:55:08 +0900"
-    },
-    {
-      "title": "국제유가, 이란 항전의지에 3%↑…브렌트유 이틀째 100달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260314006400072",
-      "pubDate": "Sat, 14 Mar 2026 05:20:35 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 2주째 화염에 빠진 중동…WTI 3% 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260314003800009",
-      "pubDate": "Sat, 14 Mar 2026 03:50:21 +0900"
-    },
-    {
-      "title": "'트럼프책사' 나바로 \"이란위협 제거시 국제유가 60달러 밑돌것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314002800072",
-      "pubDate": "Sat, 14 Mar 2026 03:04:39 +0900"
-    },
-    {
-      "title": "달러-원, 1,500원 터치 후 소폭 뒷걸음질…1,497.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260314002700002",
-      "pubDate": "Sat, 14 Mar 2026 02:46:36 +0900"
-    },
-    {
-      "title": "美 3월 미시간대 소비자심리 악화…미·이란 전쟁 여파",
-      "link": "https://www.yna.co.kr/view/AKR20260313182500072",
-      "pubDate": "Fri, 13 Mar 2026 23:49:40 +0900"
-    },
-    {
-      "title": "李대통령 \"석유 최고가격제 어기는 주유소, 제게 신고해달라\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260313056752001",
-      "pubDate": "Fri, 13 Mar 2026 21:50:48 +0900"
-    },
-    {
-      "title": "구윤철 \"바로 지금 韓경제에 주목해야\"…도쿄서 투자 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260313172000002",
-      "pubDate": "Fri, 13 Mar 2026 20:28:46 +0900"
-    },
-    {
-      "title": "경찰, 김병기 차남 자택·차량 7시간 추가 압수수색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313078751004",
-      "pubDate": "Fri, 13 Mar 2026 19:37:35 +0900"
-    },
-    {
-      "title": "에이비프로바이오, 40억원 유상증자…리턴즈에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260313166700008",
-      "pubDate": "Fri, 13 Mar 2026 19:03:10 +0900"
-    },
-    {
-      "title": "서울시, 주유소 현장점검 강화하고 '매점매석 신고센터' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260313164700004",
-      "pubDate": "Fri, 13 Mar 2026 18:50:57 +0900"
-    },
-    {
-      "title": "작년 금융지주 회장 연봉은…KB 양종희 19억·신한 진옥동 13억",
-      "link": "https://www.yna.co.kr/view/AKR20260313160600002",
-      "pubDate": "Fri, 13 Mar 2026 18:30:45 +0900"
-    },
-    {
-      "title": "삼성물산·현대건설 수주 사우디 네옴시티 터널공사 계약 해지",
-      "link": "https://www.yna.co.kr/view/AKR20260313160300003",
-      "pubDate": "Fri, 13 Mar 2026 18:12:13 +0900"
-    },
-    {
-      "title": "석유 최고가제 시행 첫날…전국 주유소 44% 기름값 내렸다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313148451003",
-      "pubDate": "Fri, 13 Mar 2026 18:04:45 +0900"
     }
   ]
 }
