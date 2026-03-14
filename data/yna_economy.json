@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773450248,
+  "updated_at_unix": 1773459449,
   "items": [
+    {
+      "title": "NYT \"미국, 이란전쟁 탓 인도태평양 영향력 약해진다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314028900009",
+      "pubDate": "Sat, 14 Mar 2026 11:15:59 +0900"
+    },
+    {
+      "title": "전남에 행안부 마을기업 16곳 지정…사업비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260313148700054",
+      "pubDate": "Sat, 14 Mar 2026 11:00:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260314026100011",
+      "pubDate": "Sat, 14 Mar 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[부고] 김경하(브이아이자산운용 상무)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260314027200034",
+      "pubDate": "Sat, 14 Mar 2026 10:27:24 +0900"
+    },
+    {
+      "title": "울주군보건소·카카오헬스케어, 24시간 혈당주치의 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260313093300057",
+      "pubDate": "Sat, 14 Mar 2026 10:10:01 +0900"
+    },
     {
       "title": "석유 최고가제 이튿날 기름값 두자릿수↓…휘발유·경유 격차 축소",
       "link": "https://www.yna.co.kr/view/AKR20260314024600003",
@@ -127,31 +152,6 @@
       "title": "환율, 유가 급등에 이틀째 올라…야간거래 장중 1,500원 또 넘어(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313123051002",
       "pubDate": "Fri, 13 Mar 2026 17:37:16 +0900"
-    },
-    {
-      "title": "카카오페이證 이사회, 신호철 대표 재선임 의결…31일 주총 소집",
-      "link": "https://www.yna.co.kr/view/AKR20260313154000008",
-      "pubDate": "Fri, 13 Mar 2026 17:37:07 +0900"
-    },
-    {
-      "title": "석유 최고가제 시행 첫날…전국 주유소 44% 기름값 내렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260313148400003",
-      "pubDate": "Fri, 13 Mar 2026 17:22:30 +0900"
-    },
-    {
-      "title": "[속보] 원/달러 환율 야간 거래 장중 1,500원 또 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260313148900002",
-      "pubDate": "Fri, 13 Mar 2026 17:18:29 +0900"
-    },
-    {
-      "title": "관세청 \"석유 수입신고 지연시 가산세\"…매점매석·비축 차단",
-      "link": "https://www.yna.co.kr/view/AKR20260313142700002",
-      "pubDate": "Fri, 13 Mar 2026 17:01:43 +0900"
-    },
-    {
-      "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.338%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260313140051008",
-      "pubDate": "Fri, 13 Mar 2026 17:00:40 +0900"
     }
   ]
 }
