@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773526444,
+  "updated_at_unix": 1773528522,
   "items": [
+    {
+      "title": "또다른 공급절벽…작년 빌라 준공물량 아파트의 10분의 1",
+      "link": "https://www.yna.co.kr/view/AKR20260315007500003",
+      "pubDate": "Sun, 15 Mar 2026 07:20:58 +0900"
+    },
+    {
+      "title": "정릉버스차고지, 410억 들여 수영장·체육관 갖춘 복합시설로",
+      "link": "https://www.yna.co.kr/view/AKR20260313157900004",
+      "pubDate": "Sun, 15 Mar 2026 07:20:30 +0900"
+    },
+    {
+      "title": "경기도, '무역위기 대응 패키지' 지원…중소기업 600곳 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260313154800061",
+      "pubDate": "Sun, 15 Mar 2026 07:15:01 +0900"
+    },
+    {
+      "title": "4분기 실적시즌 막바지…상장사 10곳 중 6곳꼴 기대치 밑돌아",
+      "link": "https://www.yna.co.kr/view/AKR20260313128400008",
+      "pubDate": "Sun, 15 Mar 2026 07:15:00 +0900"
+    },
     {
       "title": "거래대금 폭증에 증권사 '돈방석'…5개 대형사 1분기 영업익 3조",
       "link": "https://www.yna.co.kr/view/AKR20260313158100008",
@@ -132,26 +152,6 @@
       "title": "영끌·빚투 비명…은행 주담대 상단 6.5% 넘어, 2년5개월내 최고",
       "link": "https://www.yna.co.kr/view/AKR20260314056000002",
       "pubDate": "Sun, 15 Mar 2026 05:45:00 +0900"
-    },
-    {
-      "title": "한일 재무장관 중동정세 논의…\"안정적 에너지 공급 위해 협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314046900002",
-      "pubDate": "Sat, 14 Mar 2026 17:15:22 +0900"
-    },
-    {
-      "title": "[부고] 정규식(정규식 비뇨기과의원 원장)씨 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260314040300003",
-      "pubDate": "Sat, 14 Mar 2026 15:07:16 +0900"
-    },
-    {
-      "title": "트럼프 새 지렛대 꽂았다…하르그 섬은 이란 정권·경제 생명줄",
-      "link": "https://www.yna.co.kr/view/AKR20260314033100009",
-      "pubDate": "Sat, 14 Mar 2026 13:09:06 +0900"
-    },
-    {
-      "title": "NYT \"미국, 이란전쟁 탓 인도태평양 영향력 약해진다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314028900009",
-      "pubDate": "Sat, 14 Mar 2026 11:15:59 +0900"
     }
   ]
 }
