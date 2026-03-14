@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773474726,
+  "updated_at_unix": 1773476503,
   "items": [
+    {
+      "title": "한일 재무장관 중동정세 논의…\"안정적 에너지 공급 위해 협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314046900002",
+      "pubDate": "Sat, 14 Mar 2026 17:15:22 +0900"
+    },
     {
       "title": "[부고] 정규식(정규식 비뇨기과의원 원장)씨 별세",
       "link": "https://www.yna.co.kr/view/AKR20260314040300003",
@@ -147,11 +152,6 @@
       "title": "석유 최고가제 시행 첫날…전국 주유소 44% 기름값 내렸다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260313148451003",
       "pubDate": "Fri, 13 Mar 2026 18:04:45 +0900"
-    },
-    {
-      "title": "[동포의 창] \"H-2·F-4 통합, 체류 안정화 첫발…건보료·취업 장벽은 여전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260313156300371",
-      "pubDate": "Fri, 13 Mar 2026 17:57:24 +0900"
     }
   ]
 }
