@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773528522,
+  "updated_at_unix": 1773530218,
   "items": [
+    {
+      "title": "'펫 동반 허용' 보름…동네카페는 '노펫존', 대형매장만 몰려",
+      "link": "https://www.yna.co.kr/view/AKR20260313168100030",
+      "pubDate": "Sun, 15 Mar 2026 08:01:01 +0900"
+    },
+    {
+      "title": "조상진 부산시의원 \"폐교 활용 발달장애인 평생교육 검토해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260313040900051",
+      "pubDate": "Sun, 15 Mar 2026 08:00:07 +0900"
+    },
+    {
+      "title": "남양주 왕숙 국도 47호선 지하화 2028년 10월 개통",
+      "link": "https://www.yna.co.kr/view/AKR20260313134700060",
+      "pubDate": "Sun, 15 Mar 2026 08:00:06 +0900"
+    },
     {
       "title": "또다른 공급절벽…작년 빌라 준공물량 아파트의 10분의 1",
       "link": "https://www.yna.co.kr/view/AKR20260315007500003",
@@ -137,21 +152,6 @@
       "title": "한은 \"추경, 물가 자극 가능성 작아…성장 영향은 추정 어려워\"",
       "link": "https://www.yna.co.kr/view/AKR20260314042500002",
       "pubDate": "Sun, 15 Mar 2026 05:47:04 +0900"
-    },
-    {
-      "title": "추경으로 내수위축 우려 반전될까…\"장기전 대비해야\" 지적도",
-      "link": "https://www.yna.co.kr/view/AKR20260314053900002",
-      "pubDate": "Sun, 15 Mar 2026 05:47:02 +0900"
-    },
-    {
-      "title": "중동불안·고유가에 초고속 민생추경…초과세수에 10조∼20조說",
-      "link": "https://www.yna.co.kr/view/AKR20260314051500002",
-      "pubDate": "Sun, 15 Mar 2026 05:47:01 +0900"
-    },
-    {
-      "title": "영끌·빚투 비명…은행 주담대 상단 6.5% 넘어, 2년5개월내 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260314056000002",
-      "pubDate": "Sun, 15 Mar 2026 05:45:00 +0900"
     }
   ]
 }
