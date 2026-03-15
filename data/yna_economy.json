@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773609437,
+  "updated_at_unix": 1773611275,
   "items": [
+    {
+      "title": "소진공이사장 \"천만명 일자리지탱 생태계…소상공인가치 만들어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260315024200030",
+      "pubDate": "Mon, 16 Mar 2026 06:31:01 +0900"
+    },
+    {
+      "title": "[팩트체크] 'AI 시대' 사라질 직업과 살아남을 직업은",
+      "link": "https://www.yna.co.kr/view/AKR20260313085700518",
+      "pubDate": "Mon, 16 Mar 2026 06:30:01 +0900"
+    },
     {
       "title": "유행따라 널뛰는 음식가격…두쫀쿠·탕후루 두 배 이상 뛰기도",
       "link": "https://www.yna.co.kr/view/AKR20260314041700030",
@@ -142,16 +152,6 @@
       "title": "고용노동 공공데이터·AI활용 공모전…16일부터 응모작 접수",
       "link": "https://www.yna.co.kr/view/AKR20260313141900530",
       "pubDate": "Sun, 15 Mar 2026 12:00:10 +0900"
-    },
-    {
-      "title": "AI 앱 개발자 온라인 입문과정 개설…내일배움카드로 90% 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260313147700530",
-      "pubDate": "Sun, 15 Mar 2026 12:00:10 +0900"
-    },
-    {
-      "title": "중기부, 소재·부품·장비 개발기업 140곳 모집…168억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260313155000030",
-      "pubDate": "Sun, 15 Mar 2026 12:00:05 +0900"
     }
   ]
 }
