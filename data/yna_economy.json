@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773595104,
+  "updated_at_unix": 1773597009,
   "items": [
+    {
+      "title": "美유엔대사 \"트럼프, 하르그섬 석유시설 공격도 배제 안할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316001500072",
+      "pubDate": "Mon, 16 Mar 2026 02:45:00 +0900"
+    },
     {
       "title": "국제유가, 하르그섬 공격에 불안한 한주 직면…급등 출발 우려",
       "link": "https://www.yna.co.kr/view/AKR20260316000200072",
@@ -147,11 +152,6 @@
       "title": "서울캠퍼스타운, 창업기업 730개 선발…\"아기유니콘 76개 육성\"",
       "link": "https://www.yna.co.kr/view/AKR20260314037700004",
       "pubDate": "Sun, 15 Mar 2026 11:15:04 +0900"
-    },
-    {
-      "title": "서울시, 대학 순회하며 청년정책 소개하는 '꿀팁버스' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260314040100004",
-      "pubDate": "Sun, 15 Mar 2026 11:15:03 +0900"
     }
   ]
 }
