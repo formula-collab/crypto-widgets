@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773597009,
+  "updated_at_unix": 1773598972,
   "items": [
+    {
+      "title": "트럼프 '호르무즈 군함 파견' 요청받은 韓등 5개국 '신중 모드'",
+      "link": "https://www.yna.co.kr/view/AKR20260316001700071",
+      "pubDate": "Mon, 16 Mar 2026 03:09:39 +0900"
+    },
     {
       "title": "美유엔대사 \"트럼프, 하르그섬 석유시설 공격도 배제 안할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260316001500072",
@@ -147,11 +152,6 @@
       "title": "\"대중교통 이용 독려\"…음성군, 고유가 우려 속 에너지절약 운동",
       "link": "https://www.yna.co.kr/view/AKR20260315024100064",
       "pubDate": "Sun, 15 Mar 2026 11:16:13 +0900"
-    },
-    {
-      "title": "서울캠퍼스타운, 창업기업 730개 선발…\"아기유니콘 76개 육성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314037700004",
-      "pubDate": "Sun, 15 Mar 2026 11:15:04 +0900"
     }
   ]
 }
