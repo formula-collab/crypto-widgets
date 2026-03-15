@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773616729,
+  "updated_at_unix": 1773618546,
   "items": [
+    {
+      "title": "'이란사태 속 환율·자산 어디로'…연합뉴스TV 17일 심포지엄",
+      "link": "https://www.yna.co.kr/view/AKR20260316026200002",
+      "pubDate": "Mon, 16 Mar 2026 08:41:22 +0900"
+    },
+    {
+      "title": "대신증권 \"현대차, 팰리세이드 리콜…펀더멘털 영향 크지 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316025400008",
+      "pubDate": "Mon, 16 Mar 2026 08:39:50 +0900"
+    },
+    {
+      "title": "[게시판] 공영홈쇼핑, 우수 아이디어·혁신기업 제품 공모전",
+      "link": "https://www.yna.co.kr/view/AKR20260316025000030",
+      "pubDate": "Mon, 16 Mar 2026 08:37:51 +0900"
+    },
+    {
+      "title": "로레알코리아, '한국 로레알-유네스코 여성과학자상' 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260316023800030",
+      "pubDate": "Mon, 16 Mar 2026 08:34:11 +0900"
+    },
+    {
+      "title": "에이피알, 인도 최대 뷰티플랫폼 진출…\"새로운 성장동력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316022800030",
+      "pubDate": "Mon, 16 Mar 2026 08:30:30 +0900"
+    },
+    {
+      "title": "한투증권 \"전쟁은 고금리 유도…충격 덜 받는 업종 보험·은행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316021200008",
+      "pubDate": "Mon, 16 Mar 2026 08:29:56 +0900"
+    },
+    {
+      "title": "이스타항공, 신입 객실승무원 공개채용…50여명 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260316023200003",
+      "pubDate": "Mon, 16 Mar 2026 08:28:53 +0900"
+    },
+    {
+      "title": "KB證 \"포스코퓨처엠, 美 중국산 음극재 관세 취소 영향 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316023100008",
+      "pubDate": "Mon, 16 Mar 2026 08:28:25 +0900"
+    },
+    {
+      "title": "\"중국내 합성고무 가격 급등…지정학 리스크에 원가부담 가중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316019600008",
+      "pubDate": "Mon, 16 Mar 2026 08:15:46 +0900"
+    },
     {
       "title": "[마켓뷰] 100달러 넘은 국제유가…코스피 변동성 확대 지속하나",
       "link": "https://www.yna.co.kr/view/AKR20260316019100008",
@@ -107,51 +152,6 @@
       "title": "트럼프 '호르무즈 군함 파견' 요청받은 韓등 5개국 '신중 모드'",
       "link": "https://www.yna.co.kr/view/AKR20260316001700071",
       "pubDate": "Mon, 16 Mar 2026 03:09:39 +0900"
-    },
-    {
-      "title": "美유엔대사 \"트럼프, 하르그섬 석유시설 공격도 배제 안할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316001500072",
-      "pubDate": "Mon, 16 Mar 2026 02:45:00 +0900"
-    },
-    {
-      "title": "국제유가, 하르그섬 공격에 불안한 한주 직면…급등 출발 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260316000200072",
-      "pubDate": "Mon, 16 Mar 2026 00:07:24 +0900"
-    },
-    {
-      "title": "美에너지장관 \"韓등 호르무즈 통과 에너지 의존…협력이 논리적\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260315058651071",
-      "pubDate": "Sun, 15 Mar 2026 23:55:08 +0900"
-    },
-    {
-      "title": "美에너지장관 \"韓등 호르무즈 통과 에너지 의존…협력이 논리적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260315058600071",
-      "pubDate": "Sun, 15 Mar 2026 22:53:34 +0900"
-    },
-    {
-      "title": "G마켓 협력 브랜드 매출 증가…\"한 달 치 매출 하루 만에\"",
-      "link": "https://www.yna.co.kr/view/AKR20260315053700030",
-      "pubDate": "Sun, 15 Mar 2026 22:25:26 +0900"
-    },
-    {
-      "title": "李대통령, 시장서 '팥붕' 먹방…金여사, 아이들에 나눠주기도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260315035551001",
-      "pubDate": "Sun, 15 Mar 2026 19:11:22 +0900"
-    },
-    {
-      "title": "'공공기관 통폐합' 이번주 부처별 협의…양대 공항공사 테이블",
-      "link": "https://www.yna.co.kr/view/AKR20260315048900002",
-      "pubDate": "Sun, 15 Mar 2026 19:03:41 +0900"
-    },
-    {
-      "title": "[일지] 쉰들러 ISDS 소송 제기부터 한국정부 전부 승소까지",
-      "link": "https://www.yna.co.kr/view/AKR20260315043000004",
-      "pubDate": "Sun, 15 Mar 2026 17:50:25 +0900"
-    },
-    {
-      "title": "\"한국정부 정당한 법집행\"…쉰들러 국제투자분쟁 이유있는 완승",
-      "link": "https://www.yna.co.kr/view/AKR20260315041300004",
-      "pubDate": "Sun, 15 Mar 2026 17:48:39 +0900"
     }
   ]
 }
