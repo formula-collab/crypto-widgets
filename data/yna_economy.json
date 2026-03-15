@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773615056,
+  "updated_at_unix": 1773616729,
   "items": [
+    {
+      "title": "[마켓뷰] 100달러 넘은 국제유가…코스피 변동성 확대 지속하나",
+      "link": "https://www.yna.co.kr/view/AKR20260316019100008",
+      "pubDate": "Mon, 16 Mar 2026 08:11:42 +0900"
+    },
+    {
+      "title": "W컨셉, '스프링위크' 개최…봄 상품 최대 80% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260316020400030",
+      "pubDate": "Mon, 16 Mar 2026 08:10:34 +0900"
+    },
+    {
+      "title": "[부산소식] 제2기 부산시 어린이기자단 발대식",
+      "link": "https://www.yna.co.kr/view/AKR20260316016100051",
+      "pubDate": "Mon, 16 Mar 2026 07:59:55 +0900"
+    },
+    {
+      "title": "부산시, 고용유지 중소기업에 4대 보험료 최대 1천200만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260316015900051",
+      "pubDate": "Mon, 16 Mar 2026 07:59:09 +0900"
+    },
+    {
+      "title": "부산시, 유니콘 기업 에어알로와 업무협력…무료 eSIM 배부",
+      "link": "https://www.yna.co.kr/view/AKR20260316015600051",
+      "pubDate": "Mon, 16 Mar 2026 07:58:33 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260316011400011",
@@ -127,31 +152,6 @@
       "title": "\"한국정부 정당한 법집행\"…쉰들러 국제투자분쟁 이유있는 완승",
       "link": "https://www.yna.co.kr/view/AKR20260315041300004",
       "pubDate": "Sun, 15 Mar 2026 17:48:39 +0900"
-    },
-    {
-      "title": "김정관 장관, 美·호주·베트남·뉴질랜드와 에너지 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260315040100003",
-      "pubDate": "Sun, 15 Mar 2026 17:00:00 +0900"
-    },
-    {
-      "title": "[인사] 중소벤처기업부",
-      "link": "https://www.yna.co.kr/view/AKR20260315042200030",
-      "pubDate": "Sun, 15 Mar 2026 16:58:02 +0900"
-    },
-    {
-      "title": "석유 최고가격제 시행 사흘째…주유소 가격 인하 '거북이 속도'",
-      "link": "https://www.yna.co.kr/view/AKR20260315035800003",
-      "pubDate": "Sun, 15 Mar 2026 15:28:01 +0900"
-    },
-    {
-      "title": "李대통령, 창원 시장서 장바구니 물가점검…붕어빵·떡볶이 맛봐",
-      "link": "https://www.yna.co.kr/view/AKR20260315035500001",
-      "pubDate": "Sun, 15 Mar 2026 15:20:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260315033400011",
-      "pubDate": "Sun, 15 Mar 2026 15:00:00 +0900"
     }
   ]
 }
