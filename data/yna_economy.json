@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773553676,
+  "updated_at_unix": 1773556951,
   "items": [
+    {
+      "title": "석유 최고가격제 시행 사흘째…주유소 가격 인하 '거북이 속도'",
+      "link": "https://www.yna.co.kr/view/AKR20260315035800003",
+      "pubDate": "Sun, 15 Mar 2026 15:28:01 +0900"
+    },
+    {
+      "title": "李대통령, 창원 시장서 장바구니 물가점검…붕어빵·떡볶이 맛봐",
+      "link": "https://www.yna.co.kr/view/AKR20260315035500001",
+      "pubDate": "Sun, 15 Mar 2026 15:20:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260315033400011",
+      "pubDate": "Sun, 15 Mar 2026 15:00:00 +0900"
+    },
     {
       "title": "제주 '탐나는전' 누적 2조4천485억원 발행·28만명 가입",
       "link": "https://www.yna.co.kr/view/AKR20260315027800056",
@@ -137,21 +152,6 @@
       "title": "GS25, 신선식품 매출 확대…'신선한 예약' 기획전",
       "link": "https://www.yna.co.kr/view/AKR20260315015500030",
       "pubDate": "Sun, 15 Mar 2026 09:07:15 +0900"
-    },
-    {
-      "title": "신한은행 \"생산·포용금융 위해 서남·동남권 특화거점 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314056200002",
-      "pubDate": "Sun, 15 Mar 2026 09:00:01 +0900"
-    },
-    {
-      "title": "현대건설·현대제철, 부유식 해상풍력 독자 모델 개발 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260315013200003",
-      "pubDate": "Sun, 15 Mar 2026 09:00:00 +0900"
-    },
-    {
-      "title": "신세계면세점, 인천공항 1터미널 까르띠에 부티크 리뉴얼",
-      "link": "https://www.yna.co.kr/view/AKR20260315014000030",
-      "pubDate": "Sun, 15 Mar 2026 08:45:06 +0900"
     }
   ]
 }
