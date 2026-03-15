@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773581280,
+  "updated_at_unix": 1773583293,
   "items": [
+    {
+      "title": "美에너지장관 \"韓등 호르무즈 통과 에너지 의존…협력이 논리적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260315058600071",
+      "pubDate": "Sun, 15 Mar 2026 22:53:34 +0900"
+    },
+    {
+      "title": "G마켓 협력 브랜드 매출 증가…\"한 달 치 매출 하루 만에\"",
+      "link": "https://www.yna.co.kr/view/AKR20260315053700030",
+      "pubDate": "Sun, 15 Mar 2026 22:25:26 +0900"
+    },
     {
       "title": "李대통령, 시장서 '팥붕' 먹방…金여사, 아이들에 나눠주기도(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260315035551001",
@@ -142,16 +152,6 @@
       "title": "통상본부장, 인도 상공부 장관 회담…CEPA 개선 협상 '가속화'",
       "link": "https://www.yna.co.kr/view/AKR20260315018000003",
       "pubDate": "Sun, 15 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[인사] 중소벤처기업부",
-      "link": "https://www.yna.co.kr/view/AKR20260315021600030",
-      "pubDate": "Sun, 15 Mar 2026 10:41:20 +0900"
-    },
-    {
-      "title": "서부경남 상공계, 컨벤션센터·출입국사무소 필요성 제기",
-      "link": "https://www.yna.co.kr/view/AKR20260315021200052",
-      "pubDate": "Sun, 15 Mar 2026 10:39:30 +0900"
     }
   ]
 }
