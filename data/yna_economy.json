@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773532014,
+  "updated_at_unix": 1773537303,
   "items": [
+    {
+      "title": "포스코이앤씨, 서울 서초구 '오티에르 반포' 이달 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260315017100003",
+      "pubDate": "Sun, 15 Mar 2026 09:40:57 +0900"
+    },
+    {
+      "title": "쿠팡, 5월까지 산지서 딸기 3천t 매입",
+      "link": "https://www.yna.co.kr/view/AKR20260315016700030",
+      "pubDate": "Sun, 15 Mar 2026 09:30:09 +0900"
+    },
+    {
+      "title": "[게시판] 롯데건설 전사 타운홀 미팅 개최…경영계획 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260315015400003",
+      "pubDate": "Sun, 15 Mar 2026 09:09:55 +0900"
+    },
+    {
+      "title": "GS25, 신선식품 매출 확대…'신선한 예약' 기획전",
+      "link": "https://www.yna.co.kr/view/AKR20260315015500030",
+      "pubDate": "Sun, 15 Mar 2026 09:07:15 +0900"
+    },
+    {
+      "title": "신한은행 \"생산·포용금융 위해 서남·동남권 특화거점 구축\"",
+      "link": "https://www.yna.co.kr/view/AKR20260314056200002",
+      "pubDate": "Sun, 15 Mar 2026 09:00:01 +0900"
+    },
+    {
+      "title": "현대건설·현대제철, 부유식 해상풍력 독자 모델 개발 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260315013200003",
+      "pubDate": "Sun, 15 Mar 2026 09:00:00 +0900"
+    },
+    {
+      "title": "신세계면세점, 인천공항 1터미널 까르띠에 부티크 리뉴얼",
+      "link": "https://www.yna.co.kr/view/AKR20260315014000030",
+      "pubDate": "Sun, 15 Mar 2026 08:45:06 +0900"
+    },
     {
       "title": "하나금융, 英 SC그룹과 글로벌 금융·디지털자산 협력 맞손",
       "link": "https://www.yna.co.kr/view/AKR20260314042300002",
@@ -117,41 +152,6 @@
       "title": "'역대최대 실적' SK하이닉스 작년 연구개발비도 역대최대 6.7조",
       "link": "https://www.yna.co.kr/view/AKR20260313138400003",
       "pubDate": "Sun, 15 Mar 2026 06:00:03 +0900"
-    },
-    {
-      "title": "\"美 특허제도 변경, '특허괴물' 키우고 자국 안보까지 위협\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314035400003",
-      "pubDate": "Sun, 15 Mar 2026 06:00:01 +0900"
-    },
-    {
-      "title": "해상운임 원유·가스·컨테이너 전방위 상승…항공운임도 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20260314052700003",
-      "pubDate": "Sun, 15 Mar 2026 06:00:00 +0900"
-    },
-    {
-      "title": "'1조 흥행' 코스닥액티브 종목 노출 무방비…당국 규제 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260314049800002",
-      "pubDate": "Sun, 15 Mar 2026 05:57:00 +0900"
-    },
-    {
-      "title": "저소득층, 가처분 소득 10%가 에너지비…중동전에 설상가상",
-      "link": "https://www.yna.co.kr/view/AKR20260314046300002",
-      "pubDate": "Sun, 15 Mar 2026 05:55:01 +0900"
-    },
-    {
-      "title": "'호르무즈 봉쇄' 선박보험 익스포저 1.7조…보험사 유동성 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260314053600002",
-      "pubDate": "Sun, 15 Mar 2026 05:53:01 +0900"
-    },
-    {
-      "title": "중동전쟁 격화에 자금시장 긴장…당국, 20조 채안펀드 증액 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260314055500002",
-      "pubDate": "Sun, 15 Mar 2026 05:51:01 +0900"
-    },
-    {
-      "title": "중동전쟁에 원화 하락폭 주요국 최상위…평균 환율 환란 후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260314043700002",
-      "pubDate": "Sun, 15 Mar 2026 05:49:01 +0900"
     }
   ]
 }
