@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773607796,
+  "updated_at_unix": 1773609437,
   "items": [
+    {
+      "title": "유행따라 널뛰는 음식가격…두쫀쿠·탕후루 두 배 이상 뛰기도",
+      "link": "https://www.yna.co.kr/view/AKR20260314041700030",
+      "pubDate": "Mon, 16 Mar 2026 06:05:02 +0900"
+    },
+    {
+      "title": "농식품부 가축방역망 뚫려…돼지열병 최대·3대전염병 동시다발",
+      "link": "https://www.yna.co.kr/view/AKR20260314051600030",
+      "pubDate": "Mon, 16 Mar 2026 06:01:02 +0900"
+    },
+    {
+      "title": "'계란 10개 4천원'…닭·돼지고기·한우까지 축산물값 뜀박질",
+      "link": "https://www.yna.co.kr/view/AKR20260313173300030",
+      "pubDate": "Mon, 16 Mar 2026 06:01:02 +0900"
+    },
+    {
+      "title": "작년 전국 1순위 청약 접수 71만건…전년 대비 '반토막'",
+      "link": "https://www.yna.co.kr/view/AKR20260315039200003",
+      "pubDate": "Mon, 16 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "울산시, 경기도에 '고액 체납세 징수 노하우' 전수",
+      "link": "https://www.yna.co.kr/view/AKR20260315051600057",
+      "pubDate": "Mon, 16 Mar 2026 06:00:10 +0900"
+    },
+    {
+      "title": "[다문화 3.0] '당구여제' 스롱 피아비 \"나를 있게 한 건 캄보디아의 눈동자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260312190000371",
+      "pubDate": "Mon, 16 Mar 2026 06:00:06 +0900"
+    },
+    {
+      "title": "\"고용 71% 담당하는 서비스업 경쟁력 위해 서발법 제정해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260315041800003",
+      "pubDate": "Mon, 16 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "이마트24, 명동에 라면 특화 매장…K뷰티·K팝도 한곳에",
+      "link": "https://www.yna.co.kr/view/AKR20260315042000030",
+      "pubDate": "Mon, 16 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "신세계백화점, 봄맞이 콘서트 개최…뮤지컬 배우 공연",
+      "link": "https://www.yna.co.kr/view/AKR20260315043300030",
+      "pubDate": "Mon, 16 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "'레지던스 실거주 가능' 잘못 홍보했지만…계약금 반환 불가",
+      "link": "https://www.yna.co.kr/view/AKR20260315036300004",
+      "pubDate": "Mon, 16 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "등록금 인상에 교육물가 15년만에 최대폭↑…올해도 상승 압력",
+      "link": "https://www.yna.co.kr/view/AKR20260315022400002",
+      "pubDate": "Mon, 16 Mar 2026 05:51:24 +0900"
+    },
     {
       "title": "트럼프 '호르무즈 군함 파견' 요청받은 韓등 5개국 '신중 모드'",
       "link": "https://www.yna.co.kr/view/AKR20260316001700071",
@@ -97,61 +152,6 @@
       "title": "중기부, 소재·부품·장비 개발기업 140곳 모집…168억원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260313155000030",
       "pubDate": "Sun, 15 Mar 2026 12:00:05 +0900"
-    },
-    {
-      "title": "중진공, 온라인수출플랫폼 사업 참여기업 250개사 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260314029100030",
-      "pubDate": "Sun, 15 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 금융위 1분기 혁신금융서비스 지정 16일부터 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260314030900002",
-      "pubDate": "Sun, 15 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "\"주유지원금 가짜뉴스로 보이스피싱 주의\"…금감원 소비자경보",
-      "link": "https://www.yna.co.kr/view/AKR20260314050800002",
-      "pubDate": "Sun, 15 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "롯데쇼핑, 납품업체에 계약서·이자 안 줬다가 과징금 5.7억원",
-      "link": "https://www.yna.co.kr/view/AKR20260314052500002",
-      "pubDate": "Sun, 15 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"생산적 금융 성공엔 은행 선별 능력·명확한 인센티브 필수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260314043400002",
-      "pubDate": "Sun, 15 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "직장갑질119 \"직장인 55%는 원청 갑질 경험·목격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260315005700004",
-      "pubDate": "Sun, 15 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "양도세 중과 두 달 앞…\"급매보다 더 낮게\" 싼 매물부터 팔린다",
-      "link": "https://www.yna.co.kr/view/AKR20260315026700003",
-      "pubDate": "Sun, 15 Mar 2026 11:49:45 +0900"
-    },
-    {
-      "title": "KB국민은행 \"생산적금융 협의체 출범…지침도 발간\"",
-      "link": "https://www.yna.co.kr/view/AKR20260315024000002",
-      "pubDate": "Sun, 15 Mar 2026 11:47:16 +0900"
-    },
-    {
-      "title": "[부고] 윤석헌(전 금융감독원장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260315023000002",
-      "pubDate": "Sun, 15 Mar 2026 11:46:39 +0900"
-    },
-    {
-      "title": "서강석 송파구청장, 4월 초까지 재개발·재건축 조합 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260315024900004",
-      "pubDate": "Sun, 15 Mar 2026 11:23:35 +0900"
-    },
-    {
-      "title": "\"대중교통 이용 독려\"…음성군, 고유가 우려 속 에너지절약 운동",
-      "link": "https://www.yna.co.kr/view/AKR20260315024100064",
-      "pubDate": "Sun, 15 Mar 2026 11:16:13 +0900"
     }
   ]
 }
