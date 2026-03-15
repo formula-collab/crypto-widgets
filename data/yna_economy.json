@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773586353,
+  "updated_at_unix": 1773587919,
   "items": [
+    {
+      "title": "국제유가, 하르그섬 공격에 불안한 한주 직면…급등 출발 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260316000200072",
+      "pubDate": "Mon, 16 Mar 2026 00:07:24 +0900"
+    },
+    {
+      "title": "美에너지장관 \"韓등 호르무즈 통과 에너지 의존…협력이 논리적\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260315058651071",
+      "pubDate": "Sun, 15 Mar 2026 23:55:08 +0900"
+    },
     {
       "title": "美에너지장관 \"韓등 호르무즈 통과 에너지 의존…협력이 논리적\"",
       "link": "https://www.yna.co.kr/view/AKR20260315058600071",
@@ -142,16 +152,6 @@
       "title": "서울시, 대학 순회하며 청년정책 소개하는 '꿀팁버스' 운영",
       "link": "https://www.yna.co.kr/view/AKR20260314040100004",
       "pubDate": "Sun, 15 Mar 2026 11:15:03 +0900"
-    },
-    {
-      "title": "코트라, 日 마쿠아케와 손잡고 우리 소비재 기업 수출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260315016000003",
-      "pubDate": "Sun, 15 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "통상본부장, 인도 상공부 장관 회담…CEPA 개선 협상 '가속화'",
-      "link": "https://www.yna.co.kr/view/AKR20260315018000003",
-      "pubDate": "Sun, 15 Mar 2026 11:00:00 +0900"
     }
   ]
 }
