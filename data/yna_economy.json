@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773612926,
+  "updated_at_unix": 1773615056,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260316011400011",
+      "pubDate": "Mon, 16 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "\"차 실었는데 뱃길 끊겨\"…중동 사태에 중고차 수출 '사면초가'",
+      "link": "https://www.yna.co.kr/view/AKR20260313102300065",
+      "pubDate": "Mon, 16 Mar 2026 07:17:00 +0900"
+    },
     {
       "title": "소진공이사장 \"천만명 일자리지탱 생태계…소상공인가치 만들어\"",
       "link": "https://www.yna.co.kr/view/AKR20260315024200030",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260315033400011",
       "pubDate": "Sun, 15 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "제주 '탐나는전' 누적 2조4천485억원 발행·28만명 가입",
-      "link": "https://www.yna.co.kr/view/AKR20260315027800056",
-      "pubDate": "Sun, 15 Mar 2026 12:09:34 +0900"
-    },
-    {
-      "title": "고용노동 공공데이터·AI활용 공모전…16일부터 응모작 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260313141900530",
-      "pubDate": "Sun, 15 Mar 2026 12:00:10 +0900"
     }
   ]
 }
