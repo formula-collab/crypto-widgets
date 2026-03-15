@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773567261,
+  "updated_at_unix": 1773569885,
   "items": [
+    {
+      "title": "李대통령, 시장서 '팥붕' 먹방…金여사, 아이들에 나눠주기도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260315035551001",
+      "pubDate": "Sun, 15 Mar 2026 19:11:22 +0900"
+    },
+    {
+      "title": "'공공기관 통폐합' 이번주 부처별 협의…양대 공항공사 테이블",
+      "link": "https://www.yna.co.kr/view/AKR20260315048900002",
+      "pubDate": "Sun, 15 Mar 2026 19:03:41 +0900"
+    },
     {
       "title": "[일지] 쉰들러 ISDS 소송 제기부터 한국정부 전부 승소까지",
       "link": "https://www.yna.co.kr/view/AKR20260315043000004",
@@ -142,16 +152,6 @@
       "title": "서부경남 상공계, 컨벤션센터·출입국사무소 필요성 제기",
       "link": "https://www.yna.co.kr/view/AKR20260315021200052",
       "pubDate": "Sun, 15 Mar 2026 10:39:30 +0900"
-    },
-    {
-      "title": "\"국제유가 50% 급등시 건설생산비용 1.06% 상승…토목공사 직격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260315020800003",
-      "pubDate": "Sun, 15 Mar 2026 10:36:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260315019600011",
-      "pubDate": "Sun, 15 Mar 2026 10:30:00 +0900"
     }
   ]
 }
