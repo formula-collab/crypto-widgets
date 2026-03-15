@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773563033,
+  "updated_at_unix": 1773565155,
   "items": [
+    {
+      "title": "[일지] 쉰들러 ISDS 소송 제기부터 한국정부 전부 승소까지",
+      "link": "https://www.yna.co.kr/view/AKR20260315043000004",
+      "pubDate": "Sun, 15 Mar 2026 17:50:25 +0900"
+    },
+    {
+      "title": "\"한국정부 정당한 법집행\"…쉰들러 국제투자분쟁 이유있는 완승",
+      "link": "https://www.yna.co.kr/view/AKR20260315041300004",
+      "pubDate": "Sun, 15 Mar 2026 17:48:39 +0900"
+    },
     {
       "title": "김정관 장관, 美·호주·베트남·뉴질랜드와 에너지 협력 논의",
       "link": "https://www.yna.co.kr/view/AKR20260315040100003",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260315019600011",
       "pubDate": "Sun, 15 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 서울 서초구 '오티에르 반포' 이달 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260315017100003",
-      "pubDate": "Sun, 15 Mar 2026 09:40:57 +0900"
-    },
-    {
-      "title": "쿠팡, 5월까지 산지서 딸기 3천t 매입",
-      "link": "https://www.yna.co.kr/view/AKR20260315016700030",
-      "pubDate": "Sun, 15 Mar 2026 09:30:09 +0900"
     }
   ]
 }
