@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773694940,
+  "updated_at_unix": 1773698312,
   "items": [
+    {
+      "title": "네이버·두나무 합병 심사 속도전…공정위 추가 자료 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260316125500017",
+      "pubDate": "Tue, 17 Mar 2026 06:33:00 +0900"
+    },
+    {
+      "title": "[글로벌 코리안] \"유럽서 꽃으로 연 길, 송도서 K-웰니스로 피워요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316083100371",
+      "pubDate": "Tue, 17 Mar 2026 06:15:01 +0900"
+    },
+    {
+      "title": "[이코노워치] '위기 온다'는 공포 마케팅이 고개를 들 때",
+      "link": "https://www.yna.co.kr/view/AKR20260316131700546",
+      "pubDate": "Tue, 17 Mar 2026 06:10:00 +0900"
+    },
+    {
+      "title": "AI 신약에 돈 몰린다…빅파마 공동 R&D 130조원 베팅",
+      "link": "https://www.yna.co.kr/view/AKR20260316133700017",
+      "pubDate": "Tue, 17 Mar 2026 06:05:01 +0900"
+    },
+    {
+      "title": "코스맥스, 이탈리아 인터코스와 격차벌려…\"K뷰티가 세계 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316131300030",
+      "pubDate": "Tue, 17 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "울산 온산국가산단에 대규모 반도체 세정제 생산공장 신설 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260316152300057",
+      "pubDate": "Tue, 17 Mar 2026 06:00:18 +0900"
+    },
+    {
+      "title": "서울투자진흥재단, 글로벌 부동산박람회 MIPIM에서 투자 세일즈",
+      "link": "https://www.yna.co.kr/view/AKR20260316128200004",
+      "pubDate": "Tue, 17 Mar 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금융권 해외부동산 부실 우려 2.1조…\"중동사태 위험 모니터링\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316116300002",
+      "pubDate": "Tue, 17 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "2월 수입물가 1.1%↑·8개월째 상승…중동긴장에 유가 오른 탓",
+      "link": "https://www.yna.co.kr/view/AKR20260316151500002",
+      "pubDate": "Tue, 17 Mar 2026 06:00:03 +0900"
+    },
     {
       "title": "\"이란사태 1년 이어지면 한국 성장률 0%대·기준금리 인하\"",
       "link": "https://www.yna.co.kr/view/AKR20260316155800002",
@@ -107,51 +152,6 @@
       "title": "동아대, 의대 정원 확대 맞춰 150억원 인프라 투자",
       "link": "https://www.yna.co.kr/view/AKR20260316140500051",
       "pubDate": "Mon, 16 Mar 2026 17:21:07 +0900"
-    },
-    {
-      "title": "유가 고공행진에도 국고채 금리 하락…3년물 연 3.300%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316132851008",
-      "pubDate": "Mon, 16 Mar 2026 17:08:49 +0900"
-    },
-    {
-      "title": "성호전자 \"글로벌테크놀로지 주식 300억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316136400008",
-      "pubDate": "Mon, 16 Mar 2026 17:05:46 +0900"
-    },
-    {
-      "title": "[AI픽] 정부 'AI 고속도로' 가속…GPU 4천장 이상 추가 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260316133000017",
-      "pubDate": "Mon, 16 Mar 2026 16:48:11 +0900"
-    },
-    {
-      "title": "부산대·창원대, 부산진해경제자유구역 기업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260316132700051",
-      "pubDate": "Mon, 16 Mar 2026 16:40:52 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.300%",
-      "link": "https://www.yna.co.kr/view/AKR20260316132800008",
-      "pubDate": "Mon, 16 Mar 2026 16:40:15 +0900"
-    },
-    {
-      "title": "농식품부 방역망 뚫려…소·돼지·닭 전염병 2년 연속 동시확산(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260314051651030",
-      "pubDate": "Mon, 16 Mar 2026 16:36:02 +0900"
-    },
-    {
-      "title": "노동부, 청년 회계사 잇단 사망 '삼정회계법인' 기획감독 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260316129400530",
-      "pubDate": "Mon, 16 Mar 2026 16:34:34 +0900"
-    },
-    {
-      "title": "코스콤, 임직원 참여 '1본부 1봉사활동' 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260316126200008",
-      "pubDate": "Mon, 16 Mar 2026 16:34:21 +0900"
-    },
-    {
-      "title": "이란 사태발 유가 급등에 원유 베팅 ETF '빚투' 제동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316065551008",
-      "pubDate": "Mon, 16 Mar 2026 16:33:36 +0900"
     }
   ]
 }
