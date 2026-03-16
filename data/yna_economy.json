@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773698312,
+  "updated_at_unix": 1773700253,
   "items": [
+    {
+      "title": "부장이 CEO의 3배…작년 불장에 증권사 '연봉킹' 임직원 속출",
+      "link": "https://www.yna.co.kr/view/AKR20260316150600008",
+      "pubDate": "Tue, 17 Mar 2026 07:20:00 +0900"
+    },
+    {
+      "title": "김밥 1천500원·짜장면 2천원…'착한가격' 지키는 음식점들",
+      "link": "https://www.yna.co.kr/view/AKR20260316122600065",
+      "pubDate": "Tue, 17 Mar 2026 07:17:01 +0900"
+    },
+    {
+      "title": "'실적파티' 증권가 주주환원 열기…중소형사도 배당확대 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260316106100008",
+      "pubDate": "Tue, 17 Mar 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카는 중국이 '접수'했다는 착각",
+      "link": "https://www.yna.co.kr/view/AKR20260305040000898",
+      "pubDate": "Tue, 17 Mar 2026 07:00:03 +0900"
+    },
     {
       "title": "네이버·두나무 합병 심사 속도전…공정위 추가 자료 요구",
       "link": "https://www.yna.co.kr/view/AKR20260316125500017",
@@ -132,26 +152,6 @@
       "title": "\"부산북항 재개발 부지 취득 돕겠다\" 알선수재 공무원 실형 확정(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260316123951063",
       "pubDate": "Mon, 16 Mar 2026 17:56:39 +0900"
-    },
-    {
-      "title": "고유가에 4월 유류할증료 폭등…대한항공 뉴욕 왕복 40만원↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316060501003",
-      "pubDate": "Mon, 16 Mar 2026 17:54:10 +0900"
-    },
-    {
-      "title": "석유 최고가제 나흘째…전국 주유소 10곳 중 8곳 기름값 내렸다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316083051003",
-      "pubDate": "Mon, 16 Mar 2026 17:52:44 +0900"
-    },
-    {
-      "title": "[인사] 동양생명",
-      "link": "https://www.yna.co.kr/view/AKR20260316144900002",
-      "pubDate": "Mon, 16 Mar 2026 17:40:53 +0900"
-    },
-    {
-      "title": "동아대, 의대 정원 확대 맞춰 150억원 인프라 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260316140500051",
-      "pubDate": "Mon, 16 Mar 2026 17:21:07 +0900"
     }
   ]
 }
