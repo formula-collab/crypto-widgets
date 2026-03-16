@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773692753,
+  "updated_at_unix": 1773694940,
   "items": [
+    {
+      "title": "\"이란사태 1년 이어지면 한국 성장률 0%대·기준금리 인하\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316155800002",
+      "pubDate": "Tue, 17 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "원화, 강달러와 동조 세졌다…중동전쟁 후 상관계수 4배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260316147400002",
+      "pubDate": "Tue, 17 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 일부 선박 호르무즈 통과 소식에 하락…WTI 5%↓",
       "link": "https://www.yna.co.kr/view/AKR20260317006300072",
@@ -142,16 +152,6 @@
       "title": "이란 사태발 유가 급등에 원유 베팅 ETF '빚투' 제동(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260316065551008",
       "pubDate": "Mon, 16 Mar 2026 16:33:36 +0900"
-    },
-    {
-      "title": "이달 들어 봄바람 부는 IPO 시장…새내기주 '따따블' 행진",
-      "link": "https://www.yna.co.kr/view/AKR20260316123200008",
-      "pubDate": "Mon, 16 Mar 2026 16:31:15 +0900"
-    },
-    {
-      "title": "유가 고공행진에도…'K공포지수' 전쟁 직전 수준으로 복귀(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316081851008",
-      "pubDate": "Mon, 16 Mar 2026 16:20:27 +0900"
     }
   ]
 }
