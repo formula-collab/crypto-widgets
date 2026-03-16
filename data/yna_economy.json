@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773703242,
+  "updated_at_unix": 1773704884,
   "items": [
+    {
+      "title": "중고나라, 유진자산운용서 추가 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260317029800017",
+      "pubDate": "Tue, 17 Mar 2026 08:36:49 +0900"
+    },
+    {
+      "title": "하나證 \"KMW, 美 투자상향에 내년 이익 급증 가능성…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317029400008",
+      "pubDate": "Tue, 17 Mar 2026 08:34:12 +0900"
+    },
+    {
+      "title": "한투증권 \"리가켐바이오, 밸류에이션 좋은 바이오텍\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317027900008",
+      "pubDate": "Tue, 17 Mar 2026 08:33:31 +0900"
+    },
+    {
+      "title": "유진證 \"성일하이텍, 실적 턴어라운드 시작…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317028500008",
+      "pubDate": "Tue, 17 Mar 2026 08:32:54 +0900"
+    },
+    {
+      "title": "무신사, 26일까지 '봄·여름 신상 캠페인'…\"무료·당일배송\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317024200030",
+      "pubDate": "Tue, 17 Mar 2026 08:30:29 +0900"
+    },
+    {
+      "title": "동원F&B-서울대, '건강 식문화 조성' 위해 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260317027000030",
+      "pubDate": "Tue, 17 Mar 2026 08:26:24 +0900"
+    },
+    {
+      "title": "SK증권 \"에프엔에스테크, 수익성 개선 본격화…목표가 3만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317027800008",
+      "pubDate": "Tue, 17 Mar 2026 08:24:06 +0900"
+    },
     {
       "title": "IBK투자, 코오롱인더 목표가↑…\"1분기 큰 폭 실적개선 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20260317025000008",
@@ -117,41 +152,6 @@
       "title": "원화, 강달러와 동조 세졌다…중동전쟁 후 상관계수 4배로↑",
       "link": "https://www.yna.co.kr/view/AKR20260316147400002",
       "pubDate": "Tue, 17 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "국제유가, 일부 선박 호르무즈 통과 소식에 하락…WTI 5%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260317006300072",
-      "pubDate": "Tue, 17 Mar 2026 04:41:06 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 호르무즈 해협 개방 기대…WTI 5.3% 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260317005700009",
-      "pubDate": "Tue, 17 Mar 2026 03:46:33 +0900"
-    },
-    {
-      "title": "달러-원, 모처럼 유가 급락에 뒷걸음질…1,491.90원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260317004300002",
-      "pubDate": "Tue, 17 Mar 2026 02:42:16 +0900"
-    },
-    {
-      "title": "美루비오, 조현에 \"호르무즈 안전확보에 여러국가 협력 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316162400504",
-      "pubDate": "Mon, 16 Mar 2026 22:46:12 +0900"
-    },
-    {
-      "title": "백악관 \"트럼프 방중일정 조정 가능…최우선은 이란전 성공\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316161700071",
-      "pubDate": "Mon, 16 Mar 2026 22:40:30 +0900"
-    },
-    {
-      "title": "'2023년 분양가 줍줍' 영등포자이디그니티 2가구에 20만명 몰려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316080351003",
-      "pubDate": "Mon, 16 Mar 2026 20:58:36 +0900"
-    },
-    {
-      "title": "러 \"유가 상승으로 국가·기업 수입 더 많아질 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316157600109",
-      "pubDate": "Mon, 16 Mar 2026 20:14:30 +0900"
     }
   ]
 }
