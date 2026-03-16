@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773654756,
+  "updated_at_unix": 1773657784,
   "items": [
+    {
+      "title": "농식품부 방역망 뚫려…소·돼지·닭 전염병 2년 연속 동시확산(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260314051652030",
+      "pubDate": "Mon, 16 Mar 2026 19:28:47 +0900"
+    },
+    {
+      "title": "한기평, 키움證 기업신용등급·무보증사채 등 '안정적'으로 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260316155400008",
+      "pubDate": "Mon, 16 Mar 2026 19:22:33 +0900"
+    },
+    {
+      "title": "'특금법 위반' 빗썸 일부영업정지 6개월 중징계…과태료 368억원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260316150151002",
+      "pubDate": "Mon, 16 Mar 2026 19:17:18 +0900"
+    },
+    {
+      "title": "쿠팡, 무료 로켓배송 산정 기준 판매액에서 실결제액으로 변경",
+      "link": "https://www.yna.co.kr/view/AKR20260316153200030",
+      "pubDate": "Mon, 16 Mar 2026 18:56:26 +0900"
+    },
     {
       "title": "'특금법 위반' 빗썸 영업정지 6개월 중징계…과태료 368억원도",
       "link": "https://www.yna.co.kr/view/AKR20260316150100002",
@@ -132,26 +152,6 @@
       "title": "영세소상공인 기준 소득·자산 반영…정책자금 선착순 논란 개선(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260316054151030",
       "pubDate": "Mon, 16 Mar 2026 15:56:44 +0900"
-    },
-    {
-      "title": "[특징주] CJ, 6% 상승 마감…올리브영 합병 기대감?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316044351008",
-      "pubDate": "Mon, 16 Mar 2026 15:54:42 +0900"
-    },
-    {
-      "title": "[동포의 창] 동포 기업가들, 中 쿤밍서 한중 경제교류 확대 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260316117100371",
-      "pubDate": "Mon, 16 Mar 2026 15:45:04 +0900"
-    },
-    {
-      "title": "[특징주] 한국항공우주, 한화 협력 기대속 4%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316036051008",
-      "pubDate": "Mon, 16 Mar 2026 15:42:54 +0900"
-    },
-    {
-      "title": "하남시, '미사에 5성급 호텔 건립' 민간사업자와 협상 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260316114100061",
-      "pubDate": "Mon, 16 Mar 2026 15:41:38 +0900"
     }
   ]
 }
