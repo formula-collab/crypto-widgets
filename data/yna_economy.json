@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773700253,
+  "updated_at_unix": 1773703242,
   "items": [
+    {
+      "title": "IBK투자, 코오롱인더 목표가↑…\"1분기 큰 폭 실적개선 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317025000008",
+      "pubDate": "Tue, 17 Mar 2026 08:15:09 +0900"
+    },
+    {
+      "title": "[마켓뷰] 유가하락에 반등한 美증시…코스피 상승흐름 이어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260317023600008",
+      "pubDate": "Tue, 17 Mar 2026 08:07:17 +0900"
+    },
+    {
+      "title": "'세운4구역 시추' 고발된 SH \"발굴조사·복토승인받아 문제없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317019500004",
+      "pubDate": "Tue, 17 Mar 2026 07:59:52 +0900"
+    },
+    {
+      "title": "[부산소식] 신혼부부 주택융자·대출이자 지원사업 대상자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260317021300051",
+      "pubDate": "Tue, 17 Mar 2026 07:54:08 +0900"
+    },
+    {
+      "title": "해설사와 부산 건축물 우수성 발견하는 '뚜벅뚜벅 건축투어'",
+      "link": "https://www.yna.co.kr/view/AKR20260317021200051",
+      "pubDate": "Tue, 17 Mar 2026 07:53:55 +0900"
+    },
+    {
+      "title": "부산시, 50억원 들여 지역특화 일자리 사업…820명 신규 고용",
+      "link": "https://www.yna.co.kr/view/AKR20260317021000051",
+      "pubDate": "Tue, 17 Mar 2026 07:52:43 +0900"
+    },
+    {
+      "title": "부산시 총괄계획가에 최열 부산대 명예교수",
+      "link": "https://www.yna.co.kr/view/AKR20260317020900051",
+      "pubDate": "Tue, 17 Mar 2026 07:52:18 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260317017200011",
+      "pubDate": "Tue, 17 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "부장이 CEO의 3배…작년 불장에 증권사 '연봉킹' 임직원 속출",
       "link": "https://www.yna.co.kr/view/AKR20260316150600008",
@@ -112,46 +152,6 @@
       "title": "러 \"유가 상승으로 국가·기업 수입 더 많아질 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260316157600109",
       "pubDate": "Mon, 16 Mar 2026 20:14:30 +0900"
-    },
-    {
-      "title": "농식품부 방역망 뚫려…소·돼지·닭 전염병 2년 연속 동시확산(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260314051652030",
-      "pubDate": "Mon, 16 Mar 2026 19:28:47 +0900"
-    },
-    {
-      "title": "한기평, 키움證 기업신용등급·무보증사채 등 '안정적'으로 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260316155400008",
-      "pubDate": "Mon, 16 Mar 2026 19:22:33 +0900"
-    },
-    {
-      "title": "'특금법 위반' 빗썸 일부영업정지 6개월 중징계…과태료 368억원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316150151002",
-      "pubDate": "Mon, 16 Mar 2026 19:17:18 +0900"
-    },
-    {
-      "title": "쿠팡, 무료 로켓배송 산정 기준 판매액에서 실결제액으로 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260316153200030",
-      "pubDate": "Mon, 16 Mar 2026 18:56:26 +0900"
-    },
-    {
-      "title": "'특금법 위반' 빗썸 영업정지 6개월 중징계…과태료 368억원도",
-      "link": "https://www.yna.co.kr/view/AKR20260316150100002",
-      "pubDate": "Mon, 16 Mar 2026 18:24:34 +0900"
-    },
-    {
-      "title": "공정위 '커피믹스 가격 부당 인상 의혹' 동서식품 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260316148900002",
-      "pubDate": "Mon, 16 Mar 2026 18:13:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260316142300011",
-      "pubDate": "Mon, 16 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "\"부산북항 재개발 부지 취득 돕겠다\" 알선수재 공무원 실형 확정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316123951063",
-      "pubDate": "Mon, 16 Mar 2026 17:56:39 +0900"
     }
   ]
 }
