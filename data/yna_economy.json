@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773686707,
+  "updated_at_unix": 1773690350,
   "items": [
+    {
+      "title": "국제유가, 일부 선박 호르무즈 통과 소식에 하락…WTI 5%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260317006300072",
+      "pubDate": "Tue, 17 Mar 2026 04:41:06 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 호르무즈 해협 개방 기대…WTI 5.3% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260317005700009",
+      "pubDate": "Tue, 17 Mar 2026 03:46:33 +0900"
+    },
     {
       "title": "달러-원, 모처럼 유가 급락에 뒷걸음질…1,491.90원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260317004300002",
@@ -142,16 +152,6 @@
       "title": "유가 고공행진에도…'K공포지수' 전쟁 직전 수준으로 복귀(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260316081851008",
       "pubDate": "Mon, 16 Mar 2026 16:20:27 +0900"
-    },
-    {
-      "title": "국제유가 1%대 오름세…WTI 한때 100달러 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316029951009",
-      "pubDate": "Mon, 16 Mar 2026 16:18:05 +0900"
-    },
-    {
-      "title": "안산시-중진공, 경제자유구역 첨단산업 육성 협력 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260316125900061",
-      "pubDate": "Mon, 16 Mar 2026 16:16:54 +0900"
     }
   ]
 }
