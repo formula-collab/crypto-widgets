@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773650131,
+  "updated_at_unix": 1773654756,
   "items": [
+    {
+      "title": "'특금법 위반' 빗썸 영업정지 6개월 중징계…과태료 368억원도",
+      "link": "https://www.yna.co.kr/view/AKR20260316150100002",
+      "pubDate": "Mon, 16 Mar 2026 18:24:34 +0900"
+    },
+    {
+      "title": "공정위 '커피믹스 가격 부당 인상 의혹' 동서식품 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260316148900002",
+      "pubDate": "Mon, 16 Mar 2026 18:13:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260316142300011",
+      "pubDate": "Mon, 16 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "\"부산북항 재개발 부지 취득 돕겠다\" 알선수재 공무원 실형 확정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260316123951063",
+      "pubDate": "Mon, 16 Mar 2026 17:56:39 +0900"
+    },
+    {
+      "title": "고유가에 4월 유류할증료 폭등…대한항공 뉴욕 왕복 40만원↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260316060501003",
+      "pubDate": "Mon, 16 Mar 2026 17:54:10 +0900"
+    },
+    {
+      "title": "석유 최고가제 나흘째…전국 주유소 10곳 중 8곳 기름값 내렸다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260316083051003",
+      "pubDate": "Mon, 16 Mar 2026 17:52:44 +0900"
+    },
+    {
+      "title": "[인사] 동양생명",
+      "link": "https://www.yna.co.kr/view/AKR20260316144900002",
+      "pubDate": "Mon, 16 Mar 2026 17:40:53 +0900"
+    },
     {
       "title": "동아대, 의대 정원 확대 맞춰 150억원 인프라 투자",
       "link": "https://www.yna.co.kr/view/AKR20260316140500051",
@@ -117,41 +152,6 @@
       "title": "하남시, '미사에 5성급 호텔 건립' 민간사업자와 협상 착수",
       "link": "https://www.yna.co.kr/view/AKR20260316114100061",
       "pubDate": "Mon, 16 Mar 2026 15:41:38 +0900"
-    },
-    {
-      "title": "주담대 변동금리 또 오른다…2월 코픽스 0.05%p↑",
-      "link": "https://www.yna.co.kr/view/AKR20260316117000002",
-      "pubDate": "Mon, 16 Mar 2026 15:41:34 +0900"
-    },
-    {
-      "title": "유일에너테크, 55억원 유상증자…대광에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260316119200008",
-      "pubDate": "Mon, 16 Mar 2026 15:41:24 +0900"
-    },
-    {
-      "title": "에쓰오일, 햇살나눔 자원봉사 활동지원금 1억원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260316118200057",
-      "pubDate": "Mon, 16 Mar 2026 15:38:20 +0900"
-    },
-    {
-      "title": "진주시-농협·경남은행, 우주항공 국가산단 분양 활성화 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260316117500052",
-      "pubDate": "Mon, 16 Mar 2026 15:38:07 +0900"
-    },
-    {
-      "title": "외국환시세(3월16일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260316118500002",
-      "pubDate": "Mon, 16 Mar 2026 15:36:06 +0900"
-    },
-    {
-      "title": "해법 못 찾는 '종묘 앞 재개발' 갈등…SH 고발에, 유네스코 경고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316052351005",
-      "pubDate": "Mon, 16 Mar 2026 15:32:59 +0900"
-    },
-    {
-      "title": "글로벌세아그룹, 제지사업 매각 검토…투자안내서 배포하기로",
-      "link": "https://www.yna.co.kr/view/AKR20260316116100030",
-      "pubDate": "Mon, 16 Mar 2026 15:31:57 +0900"
     }
   ]
 }
