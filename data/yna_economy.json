@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773661089,
+  "updated_at_unix": 1773664996,
   "items": [
+    {
+      "title": "'2023년 분양가 줍줍' 영등포자이디그니티 2가구에 20만명 몰려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260316080351003",
+      "pubDate": "Mon, 16 Mar 2026 20:58:36 +0900"
+    },
     {
       "title": "러 \"유가 상승으로 국가·기업 수입 더 많아질 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260316157600109",
@@ -147,11 +152,6 @@
       "title": "\"부산북항 재개발 부지 취득 돕겠다\" 알선수재 공무원 실형 확정",
       "link": "https://www.yna.co.kr/view/AKR20260316123900063",
       "pubDate": "Mon, 16 Mar 2026 16:03:33 +0900"
-    },
-    {
-      "title": "법무부 \"쉰들러, 구체적 증거없이 민원제기…韓 합법규제 판정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260316115200004",
-      "pubDate": "Mon, 16 Mar 2026 16:01:20 +0900"
     }
   ]
 }
