@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773657784,
+  "updated_at_unix": 1773661089,
   "items": [
+    {
+      "title": "러 \"유가 상승으로 국가·기업 수입 더 많아질 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260316157600109",
+      "pubDate": "Mon, 16 Mar 2026 20:14:30 +0900"
+    },
     {
       "title": "농식품부 방역망 뚫려…소·돼지·닭 전염병 2년 연속 동시확산(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260314051652030",
@@ -147,11 +152,6 @@
       "title": "법무부 \"쉰들러, 구체적 증거없이 민원제기…韓 합법규제 판정\"",
       "link": "https://www.yna.co.kr/view/AKR20260316115200004",
       "pubDate": "Mon, 16 Mar 2026 16:01:20 +0900"
-    },
-    {
-      "title": "영세소상공인 기준 소득·자산 반영…정책자금 선착순 논란 개선(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260316054151030",
-      "pubDate": "Mon, 16 Mar 2026 15:56:44 +0900"
     }
   ]
 }
