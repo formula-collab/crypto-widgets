@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773766428,
+  "updated_at_unix": 1773769976,
   "items": [
+    {
+      "title": "달러-원, 이틀째 달러 약세에 낙폭 확대…1,488.40원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260318003500002",
+      "pubDate": "Wed, 18 Mar 2026 02:41:51 +0900"
+    },
     {
       "title": "영등포자이디그니티 전용 84㎡ 1가구 '줍줍'에 7만명 신청",
       "link": "https://www.yna.co.kr/view/AKR20260317181800003",
@@ -147,11 +152,6 @@
       "title": "카카오뱅크 모바일 앱 한때 접속 안 돼…현재 정상화",
       "link": "https://www.yna.co.kr/view/AKR20260317148400002",
       "pubDate": "Tue, 17 Mar 2026 16:20:22 +0900"
-    },
-    {
-      "title": "[강원소식] 정준호 강원대 부동산학 교수, 국민경제자문회의 자문위원 위촉",
-      "link": "https://www.yna.co.kr/view/AKR20260317149800062",
-      "pubDate": "Tue, 17 Mar 2026 16:18:57 +0900"
     }
   ]
 }
