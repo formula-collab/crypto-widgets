@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773781382,
+  "updated_at_unix": 1773784738,
   "items": [
+    {
+      "title": "중동 경유 유럽행 여행상품 '줄취소'…유류할증료 급등까지 겹쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260317167400030",
+      "pubDate": "Wed, 18 Mar 2026 06:31:01 +0900"
+    },
+    {
+      "title": "[팩트체크] 중고거래 때 환불은 절대 안 된다?…분쟁 해결 기준은",
+      "link": "https://www.yna.co.kr/view/AKR20260317138900518",
+      "pubDate": "Wed, 18 Mar 2026 06:30:01 +0900"
+    },
+    {
+      "title": "중기부, 글로벌쇼핑몰 활용 판매사업 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260317139300030",
+      "pubDate": "Wed, 18 Mar 2026 06:00:08 +0900"
+    },
+    {
+      "title": "어뮤즈, 프랑스 파리에서 팝업행사…연내 정규매장 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260317161200030",
+      "pubDate": "Wed, 18 Mar 2026 06:00:07 +0900"
+    },
+    {
+      "title": "서울 '중장년취업사관학교' 취업훈련…훈련생 800여명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260317175700004",
+      "pubDate": "Wed, 18 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "강남3구·용산구·한강벨트 2월 '토허 신청가격' 하락 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260317180900004",
+      "pubDate": "Wed, 18 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "전략인프라 등 자산 73조 이지스운용, 외국 PEF로 매각 막바지",
+      "link": "https://www.yna.co.kr/view/AKR20260317173200002",
+      "pubDate": "Wed, 18 Mar 2026 05:55:00 +0900"
+    },
     {
       "title": "한은 총재 임기 만료 한달 앞…'지명 데드라인' 임박",
       "link": "https://www.yna.co.kr/view/AKR20260317172700002",
@@ -117,41 +152,6 @@
       "title": "대전경찰청·대전상의, 노쇼사기 등 피싱범죄 근절 간담회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260317153000063",
       "pubDate": "Tue, 17 Mar 2026 16:44:32 +0900"
-    },
-    {
-      "title": "강원도 제2청사, 동해안 미래 전략 논의 대토론회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260317153700062",
-      "pubDate": "Tue, 17 Mar 2026 16:44:31 +0900"
-    },
-    {
-      "title": "시도지사협의회 \"지방정부 실질적 자치재정권 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260317154700065",
-      "pubDate": "Tue, 17 Mar 2026 16:43:59 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.324%",
-      "link": "https://www.yna.co.kr/view/AKR20260317154900008",
-      "pubDate": "Tue, 17 Mar 2026 16:42:57 +0900"
-    },
-    {
-      "title": "'6연속 금리동결' 금통위원들 \"환율·부동산 안정 우선 고려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260317153100002",
-      "pubDate": "Tue, 17 Mar 2026 16:36:56 +0900"
-    },
-    {
-      "title": "영암군, 농업근로자 기숙사 준공…최대 46명 거주",
-      "link": "https://www.yna.co.kr/view/AKR20260317153400054",
-      "pubDate": "Tue, 17 Mar 2026 16:34:43 +0900"
-    },
-    {
-      "title": "노동장관, 청년 건설노동자와 타운홀 미팅…\"안전·정당한 대우\"",
-      "link": "https://www.yna.co.kr/view/AKR20260317062200530",
-      "pubDate": "Tue, 17 Mar 2026 16:30:01 +0900"
-    },
-    {
-      "title": "[게시판] 신한투자, '자본 재배치의 시대' 블루북 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260317148600008",
-      "pubDate": "Tue, 17 Mar 2026 16:26:47 +0900"
     }
   ]
 }
