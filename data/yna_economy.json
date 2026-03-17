@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773786736,
+  "updated_at_unix": 1773789675,
   "items": [
+    {
+      "title": "[마켓뷰] 코스피, 유가 불안에도 반도체 투심에 상승 흐름 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260318021700008",
+      "pubDate": "Wed, 18 Mar 2026 08:07:26 +0900"
+    },
+    {
+      "title": "[2보] 2월 취업자 증가 석달 만에 20만명대…청년 실업률 5년만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260318021500002",
+      "pubDate": "Wed, 18 Mar 2026 08:05:19 +0900"
+    },
+    {
+      "title": "정부, 'AX 전력질주' 2년간 7천500억 투입…AI 상용화 '물꼬'",
+      "link": "https://www.yna.co.kr/view/AKR20260317149000002",
+      "pubDate": "Wed, 18 Mar 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[1보] 2월 취업자수 23만4천명↑…5개월만에 최대폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260318017900002",
+      "pubDate": "Wed, 18 Mar 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[부산소식] 부산공간대포럼 개최…부산형 공동주거 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260318019600051",
+      "pubDate": "Wed, 18 Mar 2026 07:54:53 +0900"
+    },
+    {
+      "title": "부산시, 비관세 장벽에 대응 중소기업 지식재산권 확보 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260318019400051",
+      "pubDate": "Wed, 18 Mar 2026 07:54:25 +0900"
+    },
+    {
+      "title": "부산시, 조선산업 AI 전환 모색…혁신 얼라이언스 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260318019100051",
+      "pubDate": "Wed, 18 Mar 2026 07:53:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260318014200011",
+      "pubDate": "Wed, 18 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "중동쇼크 벗어나 관망?…코스피 거래대금 전쟁 직후 대비 55%↓",
       "link": "https://www.yna.co.kr/view/AKR20260317177700008",
@@ -112,46 +152,6 @@
       "title": "BTS공연에 광화문·명동 손님맞이…할인하고 냉면 무료나눔도(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260317126251030",
       "pubDate": "Tue, 17 Mar 2026 17:37:40 +0900"
-    },
-    {
-      "title": "경기도, 정부 '전쟁추경' 맞춰 4월추경 편성…민생·에너지 중점",
-      "link": "https://www.yna.co.kr/view/AKR20260317166700061",
-      "pubDate": "Tue, 17 Mar 2026 17:36:02 +0900"
-    },
-    {
-      "title": "'K-엔비디아'에 50조 투입…AI 반도체 유니콘 5곳 육성(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260317113552017",
-      "pubDate": "Tue, 17 Mar 2026 17:34:01 +0900"
-    },
-    {
-      "title": "강원도립대 창업보육센터, 입주기업 소통행사 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260317165000062",
-      "pubDate": "Tue, 17 Mar 2026 17:28:18 +0900"
-    },
-    {
-      "title": "LH제주본부, 동부공원지구 주택용지 9월 공모 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260317164600056",
-      "pubDate": "Tue, 17 Mar 2026 17:27:39 +0900"
-    },
-    {
-      "title": "카카오뱅크 모바일 앱 한때 접속 안 돼…현재 정상화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317148451002",
-      "pubDate": "Tue, 17 Mar 2026 17:21:18 +0900"
-    },
-    {
-      "title": "'K-엔비디아'에 50조 투입…AI 반도체 유니콘 5곳 육성(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317113551017",
-      "pubDate": "Tue, 17 Mar 2026 17:19:52 +0900"
-    },
-    {
-      "title": "유가 재상승·금통위원 발언에 국고채 금리 대체로 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317154951008",
-      "pubDate": "Tue, 17 Mar 2026 17:13:14 +0900"
-    },
-    {
-      "title": "함안 말산지구 도시재생 거점 '아라별' 준공…일자리 창출 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260317157800052",
-      "pubDate": "Tue, 17 Mar 2026 17:05:47 +0900"
     }
   ]
 }
