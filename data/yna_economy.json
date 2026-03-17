@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773719056,
+  "updated_at_unix": 1773724596,
   "items": [
+    {
+      "title": "나프타 수급 차질에 여수산단 위기 확산…\"정부 정책지원 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260317111900054",
+      "pubDate": "Tue, 17 Mar 2026 14:08:36 +0900"
+    },
+    {
+      "title": "한투증권, JP모간자산운용과 투자 설루션 제공 위한 전략적 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260317112900008",
+      "pubDate": "Tue, 17 Mar 2026 14:08:12 +0900"
+    },
+    {
+      "title": "안양산업진흥원, '중동사태 대응 기업애로 상담창구' 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260317111200061",
+      "pubDate": "Tue, 17 Mar 2026 14:01:18 +0900"
+    },
+    {
+      "title": "노동부, 건설사와 노란봉투법 간담회…\"책임있는 교섭\" 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260317054600530",
+      "pubDate": "Tue, 17 Mar 2026 14:00:08 +0900"
+    },
+    {
+      "title": "고랭지 배추 방제에 '토양훈증제·미생물 퇴비' 효과 톡톡",
+      "link": "https://www.yna.co.kr/view/AKR20260317105400055",
+      "pubDate": "Tue, 17 Mar 2026 13:48:38 +0900"
+    },
+    {
+      "title": "영암 대불산단, 어선 건조·개조업 진흥단지 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260317103900054",
+      "pubDate": "Tue, 17 Mar 2026 13:46:01 +0900"
+    },
+    {
+      "title": "교통운용·선박운용, 글로벌 항공금융 콘퍼런스 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260317105600008",
+      "pubDate": "Tue, 17 Mar 2026 13:45:13 +0900"
+    },
+    {
+      "title": "고양시, 지방세 체납 압류자동차 1천639건 인도명령서 발송",
+      "link": "https://www.yna.co.kr/view/AKR20260317100000060",
+      "pubDate": "Tue, 17 Mar 2026 13:23:50 +0900"
+    },
     {
       "title": "트럼프 발등에 기름값…'디젤 5달러' 육박",
       "link": "https://www.yna.co.kr/view/AKR20260317068300009",
@@ -14,7 +54,7 @@
       "pubDate": "Tue, 17 Mar 2026 12:35:11 +0900"
     },
     {
-      "title": "거래소, 업계 반발에 프리·애프터마켓 개장일 9월 14일로 연기(종합)",
+      "title": "거래소, 업계 우려에 프리·애프터마켓 개장일 9월 14일로 연기(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260317088651008",
       "pubDate": "Tue, 17 Mar 2026 12:08:34 +0900"
     },
@@ -112,46 +152,6 @@
       "title": "현대카드, 2030 세대 맞춤 프리미엄 카드 '더오렌지' 출시",
       "link": "https://www.yna.co.kr/view/AKR20260317066600002",
       "pubDate": "Tue, 17 Mar 2026 11:14:23 +0900"
-    },
-    {
-      "title": "김이탁 국토차관 \"전세의 월세화 많은 논쟁…월세 선호 의견도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260317079700003",
-      "pubDate": "Tue, 17 Mar 2026 11:11:18 +0900"
-    },
-    {
-      "title": "韓 메모리·변압기·마스크팩 수출 '세계 1위' 등극",
-      "link": "https://www.yna.co.kr/view/AKR20260317078400003",
-      "pubDate": "Tue, 17 Mar 2026 11:08:26 +0900"
-    },
-    {
-      "title": "[게시판] NH농협카드, 개인사업자 맞춤 高적립 '소호애드카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260317077800002",
-      "pubDate": "Tue, 17 Mar 2026 11:06:35 +0900"
-    },
-    {
-      "title": "전주시, 상생 경제 모델 '전주함께장터' 운영 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260317074500055",
-      "pubDate": "Tue, 17 Mar 2026 11:00:09 +0900"
-    },
-    {
-      "title": "부산상의, 중동사태 장기화 우려에 기업현장 점검 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260317063100051",
-      "pubDate": "Tue, 17 Mar 2026 11:00:09 +0900"
-    },
-    {
-      "title": "2월 전국 주택매매소비심리 '뚝'…상승→보합 국면 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260316131400003",
-      "pubDate": "Tue, 17 Mar 2026 11:00:08 +0900"
-    },
-    {
-      "title": "수도권 주택사업 경기전망 하락…강남 등 매수 관망세 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260317012300003",
-      "pubDate": "Tue, 17 Mar 2026 11:00:06 +0900"
-    },
-    {
-      "title": "유명 K-아이웨어 제품 모방 상품 수입·판매 30대 구속기소",
-      "link": "https://www.yna.co.kr/view/AKR20260317046600063",
-      "pubDate": "Tue, 17 Mar 2026 11:00:05 +0900"
     }
   ]
 }
