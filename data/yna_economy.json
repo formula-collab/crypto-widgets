@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773743942,
+  "updated_at_unix": 1773747307,
   "items": [
+    {
+      "title": "서학개미 5월까지 복귀하면 양도세 100% 면제…RIA 상임위 통과(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260317173151001",
+      "pubDate": "Tue, 17 Mar 2026 20:15:19 +0900"
+    },
     {
       "title": "정부, 주유소 기름값 모니터링 강화…시민단체와 협력",
       "link": "https://www.yna.co.kr/view/AKR20260317174400003",
@@ -147,11 +152,6 @@
       "title": "[특징주] 증권주, 국제유가 장중 재상승에 '전강후약' 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260317053551008",
       "pubDate": "Tue, 17 Mar 2026 16:15:30 +0900"
-    },
-    {
-      "title": "울산화력발전소 붕괴 사고 조사 기간 3개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260317148200003",
-      "pubDate": "Tue, 17 Mar 2026 16:14:15 +0900"
     }
   ]
 }
