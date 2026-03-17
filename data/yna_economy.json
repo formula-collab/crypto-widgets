@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773740603,
+  "updated_at_unix": 1773743942,
   "items": [
+    {
+      "title": "정부, 주유소 기름값 모니터링 강화…시민단체와 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260317174400003",
+      "pubDate": "Tue, 17 Mar 2026 18:38:38 +0900"
+    },
     {
       "title": "포천양수발전소 1·2호기 토건공사 시공사에 '현대건설'",
       "link": "https://www.yna.co.kr/view/AKR20260317172200003",
@@ -147,11 +152,6 @@
       "title": "울산화력발전소 붕괴 사고 조사 기간 3개월 연장",
       "link": "https://www.yna.co.kr/view/AKR20260317148200003",
       "pubDate": "Tue, 17 Mar 2026 16:14:15 +0900"
-    },
-    {
-      "title": "경산에 정밀 플라스틱 제품 제조시설 신설…750억 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260317144200053",
-      "pubDate": "Tue, 17 Mar 2026 16:08:04 +0900"
     }
   ]
 }
