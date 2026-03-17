@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773736701,
+  "updated_at_unix": 1773740603,
   "items": [
+    {
+      "title": "포천양수발전소 1·2호기 토건공사 시공사에 '현대건설'",
+      "link": "https://www.yna.co.kr/view/AKR20260317172200003",
+      "pubDate": "Tue, 17 Mar 2026 18:10:21 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260317166800011",
+      "pubDate": "Tue, 17 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "정부, 차량 부제 검토 착수…전국 민간 강제시 걸프전 후 처음(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260317148851530",
+      "pubDate": "Tue, 17 Mar 2026 17:51:14 +0900"
+    },
+    {
+      "title": "BTS공연에 광화문·명동 손님맞이…할인하고 냉면 무료나눔도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260317126251030",
+      "pubDate": "Tue, 17 Mar 2026 17:37:40 +0900"
+    },
+    {
+      "title": "경기도, 정부 '전쟁추경' 맞춰 4월추경 편성…민생·에너지 중점",
+      "link": "https://www.yna.co.kr/view/AKR20260317166700061",
+      "pubDate": "Tue, 17 Mar 2026 17:36:02 +0900"
+    },
+    {
+      "title": "'K-엔비디아'에 50조 투입…AI 반도체 유니콘 5곳 육성(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260317113552017",
+      "pubDate": "Tue, 17 Mar 2026 17:34:01 +0900"
+    },
     {
       "title": "강원도립대 창업보육센터, 입주기업 소통행사 개최",
       "link": "https://www.yna.co.kr/view/AKR20260317165000062",
@@ -122,36 +152,6 @@
       "title": "경산에 정밀 플라스틱 제품 제조시설 신설…750억 투자",
       "link": "https://www.yna.co.kr/view/AKR20260317144200053",
       "pubDate": "Tue, 17 Mar 2026 16:08:04 +0900"
-    },
-    {
-      "title": "올해 서울 아파트 공시가격 18.67%↑…5년 만에 최고 상승률(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317048351003",
-      "pubDate": "Tue, 17 Mar 2026 16:05:46 +0900"
-    },
-    {
-      "title": "부산외대, 해외취업연수 5개 과정 선정…독일·대만 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260317146100051",
-      "pubDate": "Tue, 17 Mar 2026 16:05:19 +0900"
-    },
-    {
-      "title": "해외서 카드 통한 자금세탁 차단…관세청·금감원 업무 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260317066200002",
-      "pubDate": "Tue, 17 Mar 2026 16:00:01 +0900"
-    },
-    {
-      "title": "환율, 강달러 재개에 소폭 하락 그쳐…3.9원 내린 1,493.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260317139900002",
-      "pubDate": "Tue, 17 Mar 2026 16:00:00 +0900"
-    },
-    {
-      "title": "대신자산신탁, 수원 파장송죽가구역 추진위와 재개발 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260317142800008",
-      "pubDate": "Tue, 17 Mar 2026 15:59:27 +0900"
-    },
-    {
-      "title": "익산시, 중동발 위기에 '비상경제대응 TF' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260317142300055",
-      "pubDate": "Tue, 17 Mar 2026 15:58:26 +0900"
     }
   ]
 }
