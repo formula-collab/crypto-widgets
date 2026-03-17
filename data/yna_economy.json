@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773789675,
+  "updated_at_unix": 1773791488,
   "items": [
+    {
+      "title": "한투증권 \"4월 금통위 금리 동결…전쟁에 하반기 인상 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318024100008",
+      "pubDate": "Wed, 18 Mar 2026 08:32:48 +0900"
+    },
+    {
+      "title": "美 \"호르무즈 통행 선박 위협하던 이란 미사일기지들 타격\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318025600071",
+      "pubDate": "Wed, 18 Mar 2026 08:31:27 +0900"
+    },
+    {
+      "title": "NH투자 \"모트렉스, 전장 플랫폼으로 확장…저평가 매력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318024500008",
+      "pubDate": "Wed, 18 Mar 2026 08:22:18 +0900"
+    },
+    {
+      "title": "IBK투자, 에쓰오일 목표가↑…\"차별화된 원유조달 방어력 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318024400008",
+      "pubDate": "Wed, 18 Mar 2026 08:21:53 +0900"
+    },
+    {
+      "title": "KB증권 \"더블유씨피, ESS 실적 개선 기대…투자의견·목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318023300008",
+      "pubDate": "Wed, 18 Mar 2026 08:16:31 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 유가 불안에도 반도체 투심에 상승 흐름 이어갈까",
       "link": "https://www.yna.co.kr/view/AKR20260318021700008",
@@ -127,31 +152,6 @@
       "title": "서학개미 5월까지 복귀하면 양도세 100% 면제…RIA 상임위 통과(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260317173151001",
       "pubDate": "Tue, 17 Mar 2026 20:15:19 +0900"
-    },
-    {
-      "title": "정부, 주유소 기름값 모니터링 강화…시민단체와 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260317174400003",
-      "pubDate": "Tue, 17 Mar 2026 18:38:38 +0900"
-    },
-    {
-      "title": "포천양수발전소 1·2호기 토건공사 시공사에 '현대건설'",
-      "link": "https://www.yna.co.kr/view/AKR20260317172200003",
-      "pubDate": "Tue, 17 Mar 2026 18:10:21 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260317166800011",
-      "pubDate": "Tue, 17 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "정부, 차량 부제 검토 착수…전국 민간 강제시 걸프전 후 처음(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317148851530",
-      "pubDate": "Tue, 17 Mar 2026 17:51:14 +0900"
-    },
-    {
-      "title": "BTS공연에 광화문·명동 손님맞이…할인하고 냉면 무료나눔도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317126251030",
-      "pubDate": "Tue, 17 Mar 2026 17:37:40 +0900"
     }
   ]
 }
