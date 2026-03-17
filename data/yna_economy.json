@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773784738,
+  "updated_at_unix": 1773786736,
   "items": [
+    {
+      "title": "중동쇼크 벗어나 관망?…코스피 거래대금 전쟁 직후 대비 55%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260317177700008",
+      "pubDate": "Wed, 18 Mar 2026 07:20:00 +0900"
+    },
+    {
+      "title": "\"댕댕이 고객 모셔라\"…식품업계, '국제 강아지의 날' 행사 풍성",
+      "link": "https://www.yna.co.kr/view/AKR20260317149200030",
+      "pubDate": "Wed, 18 Mar 2026 07:01:01 +0900"
+    },
     {
       "title": "중동 경유 유럽행 여행상품 '줄취소'…유류할증료 급등까지 겹쳐",
       "link": "https://www.yna.co.kr/view/AKR20260317167400030",
@@ -142,16 +152,6 @@
       "title": "함안 말산지구 도시재생 거점 '아라별' 준공…일자리 창출 기대",
       "link": "https://www.yna.co.kr/view/AKR20260317157800052",
       "pubDate": "Tue, 17 Mar 2026 17:05:47 +0900"
-    },
-    {
-      "title": "코스맥스엔비티 \"코스맥스엔에스 주식 38억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260317157900008",
-      "pubDate": "Tue, 17 Mar 2026 16:57:50 +0900"
-    },
-    {
-      "title": "대전경찰청·대전상의, 노쇼사기 등 피싱범죄 근절 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260317153000063",
-      "pubDate": "Tue, 17 Mar 2026 16:44:32 +0900"
     }
   ]
 }
