@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773773081,
+  "updated_at_unix": 1773776851,
   "items": [
+    {
+      "title": "마스터카드, 스테이블코인 인프라 업체 2조7천억원에 인수",
+      "link": "https://www.yna.co.kr/view/AKR20260318004900072",
+      "pubDate": "Wed, 18 Mar 2026 04:13:47 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 호르무즈 우회로 때리는 이란…WTI 3% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260318004500009",
+      "pubDate": "Wed, 18 Mar 2026 03:51:04 +0900"
+    },
     {
       "title": "달러-원, 이틀째 달러 약세에 낙폭 확대…1,488.40원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260318003500002",
@@ -142,16 +152,6 @@
       "title": "농협, 판매가격 오른 주유소 지원…\"즉시 가격 인하 조치\"",
       "link": "https://www.yna.co.kr/view/AKR20260317149300030",
       "pubDate": "Tue, 17 Mar 2026 16:21:56 +0900"
-    },
-    {
-      "title": "이란발 유가쇼크에 껑충 뛰었던 금값, 전쟁 전 수준 복귀(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317076851008",
-      "pubDate": "Tue, 17 Mar 2026 16:21:51 +0900"
-    },
-    {
-      "title": "카카오뱅크 모바일 앱 한때 접속 안 돼…현재 정상화",
-      "link": "https://www.yna.co.kr/view/AKR20260317148400002",
-      "pubDate": "Tue, 17 Mar 2026 16:20:22 +0900"
     }
   ]
 }
