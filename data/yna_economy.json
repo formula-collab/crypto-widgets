@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773865466,
+  "updated_at_unix": 1773867610,
   "items": [
+    {
+      "title": "정책금융 녹색금융 69조 중 46%만 정부기준 부합…그린워싱 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260318176900002",
+      "pubDate": "Thu, 19 Mar 2026 05:55:00 +0900"
+    },
+    {
+      "title": "신고 포상금 절반도 못 쓴 공정위…총수 사익편취 포상은 0건",
+      "link": "https://www.yna.co.kr/view/AKR20260318135700002",
+      "pubDate": "Thu, 19 Mar 2026 05:53:03 +0900"
+    },
+    {
+      "title": "여천NCC 등 4개사, 사업재편 이번주 확정…금융지원 논의 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260318173200002",
+      "pubDate": "Thu, 19 Mar 2026 05:51:01 +0900"
+    },
     {
       "title": "뉴욕증시, 유가급등·금리동결에 하락…다우 1.6%↓",
       "link": "https://www.yna.co.kr/view/AKR20260319011400072",
@@ -137,21 +152,6 @@
       "title": "이란, 미국 석유 패권 '페트로달러' 흔드나",
       "link": "https://www.yna.co.kr/view/AKR20260318133700009",
       "pubDate": "Wed, 18 Mar 2026 17:33:50 +0900"
-    },
-    {
-      "title": "유가 하락에 국고채 금리 일제히↓…3년물 연 3.261%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318147251008",
-      "pubDate": "Wed, 18 Mar 2026 17:13:16 +0900"
-    },
-    {
-      "title": "교보생명, SBI저축은행 인수 확정…금융위 대주주 변경 승인",
-      "link": "https://www.yna.co.kr/view/AKR20260318154500002",
-      "pubDate": "Wed, 18 Mar 2026 17:09:47 +0900"
-    },
-    {
-      "title": "중동 긴장 고조에 컨테이너 운송 차질…수출입 기업 부담 가중",
-      "link": "https://www.yna.co.kr/view/AKR20260318153500051",
-      "pubDate": "Wed, 18 Mar 2026 17:07:41 +0900"
     }
   ]
 }
