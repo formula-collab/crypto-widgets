@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773867610,
+  "updated_at_unix": 1773870867,
   "items": [
+    {
+      "title": "국제유가, 중동 가스시설 피격에 급등…브렌트 110달러 돌파(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260319001152072",
+      "pubDate": "Thu, 19 Mar 2026 06:33:00 +0900"
+    },
+    {
+      "title": "KISTI, 엔비디아·아이온큐·HPE와 슈퍼컴·양자컴 협력 가속",
+      "link": "https://www.yna.co.kr/view/AKR20260318165500017",
+      "pubDate": "Thu, 19 Mar 2026 06:30:01 +0900"
+    },
+    {
+      "title": "연준 덮친 중동發 불확실성의 그림자…美금리인하 멀어졌다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319007051072",
+      "pubDate": "Thu, 19 Mar 2026 06:21:13 +0900"
+    },
+    {
+      "title": "쌀값, 최대 26% 치솟아…\"송미령 장관 쌀정책 오락가락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318184800030",
+      "pubDate": "Thu, 19 Mar 2026 06:15:00 +0900"
+    },
+    {
+      "title": "뉴욕증시, 유가급등·금리동결에 하락…다우 1.6%↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319011451072",
+      "pubDate": "Thu, 19 Mar 2026 06:07:03 +0900"
+    },
+    {
+      "title": "울산시·문화관광재단, 라한호텔과 관광기념품 전시·판매 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260318177400057",
+      "pubDate": "Thu, 19 Mar 2026 06:05:03 +0900"
+    },
+    {
+      "title": "울산경제자유구역 발전계획 수립…\"AI 첨단 혁신도시 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318177300057",
+      "pubDate": "Thu, 19 Mar 2026 06:03:06 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] 공시가격 후폭풍…한강변 재개발 연립 최대 2배 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260318169700003",
+      "pubDate": "Thu, 19 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "한경협, 4월 28∼29일 상생협력 채용박람회…700여 기업 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260318124300003",
+      "pubDate": "Thu, 19 Mar 2026 06:00:09 +0900"
+    },
+    {
+      "title": "산업부, 첨단산업 현안 간담회…정부지원 등 업계 민원 청취",
+      "link": "https://www.yna.co.kr/view/AKR20260318164700003",
+      "pubDate": "Thu, 19 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "기업 원하는 국가·의제로…정상 경제·통상외교 성과 높인다",
+      "link": "https://www.yna.co.kr/view/AKR20260318166700003",
+      "pubDate": "Thu, 19 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "작년 은행 순이익 24.1조 또 '역대 최대'…이자이익 60조 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260318177000002",
+      "pubDate": "Thu, 19 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "연말정산 과다공제 4년 새 60%↑…주택자금 유형 6.4배로 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260318150700002",
+      "pubDate": "Thu, 19 Mar 2026 05:57:00 +0900"
+    },
     {
       "title": "정책금융 녹색금융 69조 중 46%만 정부기준 부합…그린워싱 우려",
       "link": "https://www.yna.co.kr/view/AKR20260318176900002",
@@ -87,71 +152,6 @@
       "title": "CJ올리브영, 작년 매출 5조8천335억원…전년보다 22% 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260318176000030",
       "pubDate": "Wed, 18 Mar 2026 19:46:19 +0900"
-    },
-    {
-      "title": "유통오너 신동빈 작년보수 16% 줄고 정용진 62%나 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260318171200030",
-      "pubDate": "Wed, 18 Mar 2026 19:14:11 +0900"
-    },
-    {
-      "title": "김정관, 中 상무·산업장관회의…상반기 내 FTA 공동위 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260318172500003",
-      "pubDate": "Wed, 18 Mar 2026 19:09:52 +0900"
-    },
-    {
-      "title": "금융지주 회장 연봉 1위 함영주 22억원…은행장은 신한 15억원",
-      "link": "https://www.yna.co.kr/view/AKR20260318159500002",
-      "pubDate": "Wed, 18 Mar 2026 18:55:02 +0900"
-    },
-    {
-      "title": "이재현 CJ 회장 작년 보수 177억원…전년보다 8.4% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260318165600030",
-      "pubDate": "Wed, 18 Mar 2026 18:20:31 +0900"
-    },
-    {
-      "title": "세운지구 주민 법제처 진정…\"유산청 시행령 개정, 재산권 침해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318163800004",
-      "pubDate": "Wed, 18 Mar 2026 18:14:09 +0900"
-    },
-    {
-      "title": "중복상장 막고 저PBR株 공개…코스닥은 1·2부로 나눠(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260318119352002",
-      "pubDate": "Wed, 18 Mar 2026 18:12:58 +0900"
-    },
-    {
-      "title": "한국투자신탁운용 WGBI ETF, 내달 자진 상장폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260318164100008",
-      "pubDate": "Wed, 18 Mar 2026 18:03:46 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260318159800011",
-      "pubDate": "Wed, 18 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "환경단체 \"특혜성 포항 코스타밸리 조성사업 철회해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318162100053",
-      "pubDate": "Wed, 18 Mar 2026 17:50:59 +0900"
-    },
-    {
-      "title": "정부, 축산물 공판장 현장방문…유통비용 적정 여부 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260318162800002",
-      "pubDate": "Wed, 18 Mar 2026 17:46:36 +0900"
-    },
-    {
-      "title": "한전, 파라과이 송·변전 마스터플랜 수립 컨설팅 계약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260318161800003",
-      "pubDate": "Wed, 18 Mar 2026 17:43:46 +0900"
-    },
-    {
-      "title": "경기도, 640억 '생활SOC 오디션' 파주·연천·양평·가평 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260318160600061",
-      "pubDate": "Wed, 18 Mar 2026 17:42:20 +0900"
-    },
-    {
-      "title": "이란, 미국 석유 패권 '페트로달러' 흔드나",
-      "link": "https://www.yna.co.kr/view/AKR20260318133700009",
-      "pubDate": "Wed, 18 Mar 2026 17:33:50 +0900"
     }
   ]
 }
