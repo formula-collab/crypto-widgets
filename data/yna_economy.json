@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773872504,
+  "updated_at_unix": 1773874407,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260319020700011",
+      "pubDate": "Thu, 19 Mar 2026 07:30:01 +0900"
+    },
+    {
+      "title": "강남구, '삼성동 일대 대규모 개발사업' 주민설명회 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260319022400004",
+      "pubDate": "Thu, 19 Mar 2026 07:26:22 +0900"
+    },
     {
       "title": "한은도 4월 금리 동결 가능성…이란사태로 물가·환율 불안",
       "link": "https://www.yna.co.kr/view/AKR20260319020200002",
@@ -142,16 +152,6 @@
       "title": "달러-원, 이란 가스전 피격·美 PPI에 1,500원 돌파…1,500.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260319002900002",
       "pubDate": "Thu, 19 Mar 2026 02:23:03 +0900"
-    },
-    {
-      "title": "유가 다시 치솟자 美부통령 \"24~48시간내 두어개 조치 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319002500071",
-      "pubDate": "Thu, 19 Mar 2026 02:10:45 +0900"
-    },
-    {
-      "title": "캐나다, 기준금리 2.25%로 동결…\"전쟁으로 경제위험 고조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318187300072",
-      "pubDate": "Wed, 18 Mar 2026 23:04:33 +0900"
     }
   ]
 }
