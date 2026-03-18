@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773811486,
+  "updated_at_unix": 1773815803,
   "items": [
+    {
+      "title": "\"부동산 위기 반복 막으려면 주택 시장 게임의 룰 재설계 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318127800003",
+      "pubDate": "Wed, 18 Mar 2026 15:27:38 +0900"
+    },
+    {
+      "title": "전주시의원 \"에코시티 부지 매각대금, 지역 현안에 우선 써야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318127200055",
+      "pubDate": "Wed, 18 Mar 2026 15:26:52 +0900"
+    },
+    {
+      "title": "[부고] 안태석(KB증권 M&A본부장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260318128000008",
+      "pubDate": "Wed, 18 Mar 2026 15:26:06 +0900"
+    },
+    {
+      "title": "BTS 공연에 연차 강요하는 광화문 회사들…직장인들 뿔났다",
+      "link": "https://www.yna.co.kr/view/AKR20260318122500004",
+      "pubDate": "Wed, 18 Mar 2026 15:18:07 +0900"
+    },
+    {
+      "title": "창원 부동산 중개사무소 110여곳, 청년 대상 중개보수 20% 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260318123900052",
+      "pubDate": "Wed, 18 Mar 2026 15:17:15 +0900"
+    },
+    {
+      "title": "울산 동구, 주택 취득세 감면 대상자에 감면요건 정기 안내",
+      "link": "https://www.yna.co.kr/view/AKR20260318125000057",
+      "pubDate": "Wed, 18 Mar 2026 15:15:53 +0900"
+    },
+    {
+      "title": "금융위, 재고자산 가치 부풀린 볼빅에 과징금 21억원",
+      "link": "https://www.yna.co.kr/view/AKR20260318123200002",
+      "pubDate": "Wed, 18 Mar 2026 15:15:20 +0900"
+    },
+    {
+      "title": "안양시 고용지표 전반 개선…고용률은 상승·실업률은 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260318123100061",
+      "pubDate": "Wed, 18 Mar 2026 15:12:35 +0900"
+    },
+    {
+      "title": "거창군, 유가 변동에 주유소 28곳 대상 가격표시제 집중 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260318117000052",
+      "pubDate": "Wed, 18 Mar 2026 15:11:22 +0900"
+    },
+    {
+      "title": "[안성소식] 20~29일 '경기살리기 통큰 세일' 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260318122900061",
+      "pubDate": "Wed, 18 Mar 2026 15:09:59 +0900"
+    },
+    {
+      "title": "창원시 전 감사관, 대형 로펌행 두고 재직 중 업무 관련성 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260318115300052",
+      "pubDate": "Wed, 18 Mar 2026 15:08:14 +0900"
+    },
+    {
+      "title": "무자본으로 지은 빌라로 11억원 전세사기 50대 징역 5년",
+      "link": "https://www.yna.co.kr/view/AKR20260318108900051",
+      "pubDate": "Wed, 18 Mar 2026 15:06:01 +0900"
+    },
+    {
+      "title": "금융위, NH투자증권 IMA영업 가능 종투사로 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260318122100002",
+      "pubDate": "Wed, 18 Mar 2026 15:04:42 +0900"
+    },
+    {
+      "title": "LH, 신축매입임대 매입가 '감정평가'로 일원화…'고가 매입' 논란 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260318069100003",
+      "pubDate": "Wed, 18 Mar 2026 15:00:00 +0900"
+    },
+    {
+      "title": "이억원 \"저PBR 기업 리스트 공개…코스닥 2부리그 도입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260318119300002",
+      "pubDate": "Wed, 18 Mar 2026 14:56:43 +0900"
+    },
+    {
+      "title": "시흥시, 중동 정세 대응 '비상 전담팀' 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260318119000061",
+      "pubDate": "Wed, 18 Mar 2026 14:54:14 +0900"
+    },
+    {
+      "title": "진안홍삼, 유럽에 30만 달러 수출 계약…현지 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260318115100055",
+      "pubDate": "Wed, 18 Mar 2026 14:53:01 +0900"
+    },
+    {
+      "title": "쿠팡 '개인정보 유출' 부산지역 손배소 참여인원 700명 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260318114800051",
+      "pubDate": "Wed, 18 Mar 2026 14:38:58 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260318107800011",
+      "pubDate": "Wed, 18 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "제주시, 화북상업지역 주상복합용지 재매각",
+      "link": "https://www.yna.co.kr/view/AKR20260318109600056",
+      "pubDate": "Wed, 18 Mar 2026 14:26:12 +0900"
+    },
+    {
+      "title": "파주시, 'DMZ 생태·평화 세미나' 25일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260318108100060",
+      "pubDate": "Wed, 18 Mar 2026 14:18:35 +0900"
+    },
     {
       "title": "철원군, 노인역량 활용 선도모델사업 통해 일자리 창출 성과",
       "link": "https://www.yna.co.kr/view/AKR20260318109100062",
@@ -47,111 +152,6 @@
       "title": "LH 충북, 올해 토지 11만9천㎡·공공분양주택 998가구 공급",
       "link": "https://www.yna.co.kr/view/AKR20260318096500064",
       "pubDate": "Wed, 18 Mar 2026 13:40:55 +0900"
-    },
-    {
-      "title": "인천 개별공시지가 1.4% 상승…전체 땅값 381조원",
-      "link": "https://www.yna.co.kr/view/AKR20260318097000065",
-      "pubDate": "Wed, 18 Mar 2026 13:33:05 +0900"
-    },
-    {
-      "title": "\"급가속 급감속 안 해도 연비 향상\"…시민들 고유가에 절약모드",
-      "link": "https://www.yna.co.kr/view/AKR20260318059800064",
-      "pubDate": "Wed, 18 Mar 2026 13:30:02 +0900"
-    },
-    {
-      "title": "강훈식 \"UAE, 최우선 원유공급 약속…총 2천400만배럴 긴급도입\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318085251001",
-      "pubDate": "Wed, 18 Mar 2026 12:31:27 +0900"
-    },
-    {
-      "title": "'경사노위 1기' 출범 맞아 내일 靑서 토론회…李대통령도 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260318088700001",
-      "pubDate": "Wed, 18 Mar 2026 12:27:22 +0900"
-    },
-    {
-      "title": "당정 \"부동산 시장 안정, 공급 뒷받침돼야 가능\"…입법 속도전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318067751001",
-      "pubDate": "Wed, 18 Mar 2026 12:04:57 +0900"
-    },
-    {
-      "title": "\"픽시 자전거 두대 중 한대는 브레이크 없어\"…안전수칙 위반도",
-      "link": "https://www.yna.co.kr/view/AKR20260317153200030",
-      "pubDate": "Wed, 18 Mar 2026 12:00:10 +0900"
-    },
-    {
-      "title": "공정위 '교복 담합' 광주 27개 사업자에 과징금 3억여원",
-      "link": "https://www.yna.co.kr/view/AKR20260318039400002",
-      "pubDate": "Wed, 18 Mar 2026 12:00:08 +0900"
-    },
-    {
-      "title": "레버리지·인버스 거래 3.5배로 급증…금감원 '각별주의' 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260318053600002",
-      "pubDate": "Wed, 18 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "예금토큰으로 개인송금·보조금지급…한은 디지털화폐 2차실험",
-      "link": "https://www.yna.co.kr/view/AKR20260318074000002",
-      "pubDate": "Wed, 18 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.284%",
-      "link": "https://www.yna.co.kr/view/AKR20260318084700008",
-      "pubDate": "Wed, 18 Mar 2026 11:49:15 +0900"
-    },
-    {
-      "title": "강훈식 \"UAE, 최우선 원유공급 약속…총 2천400만배럴 긴급도입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318085200001",
-      "pubDate": "Wed, 18 Mar 2026 11:47:08 +0900"
-    },
-    {
-      "title": "KB국민은행, 상반기 110여명 신입행원 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260318081800002",
-      "pubDate": "Wed, 18 Mar 2026 11:32:12 +0900"
-    },
-    {
-      "title": "[인터뷰] 주병기 \"담합 반복시 매각명령…리니언시 제한 5→10년 확대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260317169151002",
-      "pubDate": "Wed, 18 Mar 2026 11:29:51 +0900"
-    },
-    {
-      "title": "KMI '호르무즈 위기 대응팀' 신설…물류 불확실성 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260318079900051",
-      "pubDate": "Wed, 18 Mar 2026 11:22:29 +0900"
-    },
-    {
-      "title": "신한투자, 수양켐텍 M&A딜 마무리…\"IB종합금융부 첫 성과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318078300008",
-      "pubDate": "Wed, 18 Mar 2026 11:20:16 +0900"
-    },
-    {
-      "title": "중기중앙회, 美 ASD 전시회 참가…중소기업 북미 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260318076700030",
-      "pubDate": "Wed, 18 Mar 2026 11:14:54 +0900"
-    },
-    {
-      "title": "당정 \"부동산 시장 안정, 공급 뒷받침돼야 가능\"…입법 속도전",
-      "link": "https://www.yna.co.kr/view/AKR20260318067700001",
-      "pubDate": "Wed, 18 Mar 2026 11:13:33 +0900"
-    },
-    {
-      "title": "식지 않는 반도체 투심…ETF가 가장 많이 담은 종목은 삼성전자",
-      "link": "https://www.yna.co.kr/view/AKR20260318075800008",
-      "pubDate": "Wed, 18 Mar 2026 11:13:29 +0900"
-    },
-    {
-      "title": "군포시, 주거취약계층 '주거상향 지원사업' 본격 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260318069400061",
-      "pubDate": "Wed, 18 Mar 2026 11:12:34 +0900"
-    },
-    {
-      "title": "지식재산처, BTS 공연 앞서 불법 굿즈 척결 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260318075500063",
-      "pubDate": "Wed, 18 Mar 2026 11:10:01 +0900"
-    },
-    {
-      "title": "대신증권, 고배당·고금리 중심으로 리테일 전략 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260318074800008",
-      "pubDate": "Wed, 18 Mar 2026 11:09:07 +0900"
     }
   ]
 }
