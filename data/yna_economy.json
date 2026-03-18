@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773874407,
+  "updated_at_unix": 1773876079,
   "items": [
+    {
+      "title": "[마켓뷰] 이란 전쟁 격화·'매파' 파월에 암운 드리워진 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20260319029100008",
+      "pubDate": "Thu, 19 Mar 2026 08:08:54 +0900"
+    },
+    {
+      "title": "부산 고용률 상승·실업률 최저…\"고용지표 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319025700051",
+      "pubDate": "Thu, 19 Mar 2026 08:03:26 +0900"
+    },
+    {
+      "title": "KB국민은행, 부산시 장애인복지사업에 후원금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260319025600051",
+      "pubDate": "Thu, 19 Mar 2026 08:02:42 +0900"
+    },
+    {
+      "title": "차백신연구소, 50억원 유상증자…드림하이홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260319025500008",
+      "pubDate": "Thu, 19 Mar 2026 07:50:50 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260319020700011",
@@ -132,26 +152,6 @@
       "title": "중동 전쟁發 유가급등에 '금리 인하' 멀어진 美 연준",
       "link": "https://www.yna.co.kr/view/AKR20260319007000072",
       "pubDate": "Thu, 19 Mar 2026 03:49:00 +0900"
-    },
-    {
-      "title": "[3보] 美연준, 두차례 연속 금리 동결…\"중동상황 함의 불확실\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319000252071",
-      "pubDate": "Thu, 19 Mar 2026 03:30:25 +0900"
-    },
-    {
-      "title": "[2보] 美연준, 이란전쟁 불확실성 속 두차례 연속 금리 동결",
-      "link": "https://www.yna.co.kr/view/AKR20260319000251071",
-      "pubDate": "Thu, 19 Mar 2026 03:02:34 +0900"
-    },
-    {
-      "title": "[1보] 美금리 두차례 연속 동결…3.50∼3.75% 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260319000200071",
-      "pubDate": "Thu, 19 Mar 2026 03:00:49 +0900"
-    },
-    {
-      "title": "달러-원, 이란 가스전 피격·美 PPI에 1,500원 돌파…1,500.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260319002900002",
-      "pubDate": "Thu, 19 Mar 2026 02:23:03 +0900"
     }
   ]
 }
