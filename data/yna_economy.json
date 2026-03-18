@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773856305,
+  "updated_at_unix": 1773859310,
   "items": [
+    {
+      "title": "[3보] 美연준, 두차례 연속 금리 동결…\"중동상황 함의 불확실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319000252071",
+      "pubDate": "Thu, 19 Mar 2026 03:30:25 +0900"
+    },
+    {
+      "title": "[2보] 美연준, 이란전쟁 불확실성 속 두차례 연속 금리 동결",
+      "link": "https://www.yna.co.kr/view/AKR20260319000251071",
+      "pubDate": "Thu, 19 Mar 2026 03:02:34 +0900"
+    },
+    {
+      "title": "[1보] 美금리 두차례 연속 동결…3.50∼3.75% 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260319000200071",
+      "pubDate": "Thu, 19 Mar 2026 03:00:49 +0900"
+    },
     {
       "title": "달러-원, 이란 가스전 피격·美 PPI에 1,500원 돌파…1,500.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260319002900002",
@@ -137,21 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.261%",
       "link": "https://www.yna.co.kr/view/AKR20260318147200008",
       "pubDate": "Wed, 18 Mar 2026 16:40:47 +0900"
-    },
-    {
-      "title": "李대통령 \"자본시장 큰돌 집어내…이제 자갈골라 옥토 만들어야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318142200001",
-      "pubDate": "Wed, 18 Mar 2026 16:34:08 +0900"
-    },
-    {
-      "title": "오리온홀딩스, 자사주 249만주 소각…615억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260318145600030",
-      "pubDate": "Wed, 18 Mar 2026 16:33:22 +0900"
-    },
-    {
-      "title": "저PBR 기업 공개·중복상장 제한…코스닥 2부리그 도입(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318119351002",
-      "pubDate": "Wed, 18 Mar 2026 16:30:34 +0900"
     }
   ]
 }
