@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773862848,
+  "updated_at_unix": 1773865466,
   "items": [
+    {
+      "title": "뉴욕증시, 유가급등·금리동결에 하락…다우 1.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260319011400072",
+      "pubDate": "Thu, 19 Mar 2026 05:12:46 +0900"
+    },
+    {
+      "title": "국제유가, 중동 가스시설 피격에 상승…브렌트 4%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319001151072",
+      "pubDate": "Thu, 19 Mar 2026 04:54:18 +0900"
+    },
     {
       "title": "[뉴욕유가] 美, 결국 이란 에너지 생산 시설 때렸다…WTI 강보합 마감",
       "link": "https://www.yna.co.kr/view/AKR20260319010500009",
@@ -142,16 +152,6 @@
       "title": "중동 긴장 고조에 컨테이너 운송 차질…수출입 기업 부담 가중",
       "link": "https://www.yna.co.kr/view/AKR20260318153500051",
       "pubDate": "Wed, 18 Mar 2026 17:07:41 +0900"
-    },
-    {
-      "title": "금감원, 올해 검사 소비자보호 방점…검사횟수 707회로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260318152900002",
-      "pubDate": "Wed, 18 Mar 2026 17:06:35 +0900"
-    },
-    {
-      "title": "춘천시, 중동발 경제 불안 대응 '민생경제상황실' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260318153000062",
-      "pubDate": "Wed, 18 Mar 2026 17:05:17 +0900"
     }
   ]
 }
