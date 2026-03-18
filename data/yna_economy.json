@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773852504,
+  "updated_at_unix": 1773856305,
   "items": [
+    {
+      "title": "달러-원, 이란 가스전 피격·美 PPI에 1,500원 돌파…1,500.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260319002900002",
+      "pubDate": "Thu, 19 Mar 2026 02:23:03 +0900"
+    },
+    {
+      "title": "유가 다시 치솟자 美부통령 \"24~48시간내 두어개 조치 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319002500071",
+      "pubDate": "Thu, 19 Mar 2026 02:10:45 +0900"
+    },
     {
       "title": "캐나다, 기준금리 2.25%로 동결…\"전쟁으로 경제위험 고조\"",
       "link": "https://www.yna.co.kr/view/AKR20260318187300072",
@@ -142,16 +152,6 @@
       "title": "저PBR 기업 공개·중복상장 제한…코스닥 2부리그 도입(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260318119351002",
       "pubDate": "Wed, 18 Mar 2026 16:30:34 +0900"
-    },
-    {
-      "title": "농식품부, K푸드 수출기업 간담회 개최…중동 사태 영향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260318068600030",
-      "pubDate": "Wed, 18 Mar 2026 16:30:05 +0900"
-    },
-    {
-      "title": "미국 유가 50% 급등…\"배럴당 100달러 지속시 성장률 타격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260318127100009",
-      "pubDate": "Wed, 18 Mar 2026 16:28:05 +0900"
     }
   ]
 }
