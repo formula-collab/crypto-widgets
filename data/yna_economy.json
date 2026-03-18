@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773826849,
+  "updated_at_unix": 1773830394,
   "items": [
+    {
+      "title": "유통오너 신동빈 작년보수 16% 줄고 정용진 62%나 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260318171200030",
+      "pubDate": "Wed, 18 Mar 2026 19:14:11 +0900"
+    },
+    {
+      "title": "김정관, 中 상무·산업장관회의…상반기 내 FTA 공동위 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260318172500003",
+      "pubDate": "Wed, 18 Mar 2026 19:09:52 +0900"
+    },
+    {
+      "title": "금융지주 회장 연봉 1위 함영주 22억원…은행장은 신한 15억원",
+      "link": "https://www.yna.co.kr/view/AKR20260318159500002",
+      "pubDate": "Wed, 18 Mar 2026 18:55:02 +0900"
+    },
     {
       "title": "이재현 CJ 회장 작년 보수 177억원…전년보다 8.4% 감소",
       "link": "https://www.yna.co.kr/view/AKR20260318165600030",
@@ -137,21 +152,6 @@
       "title": "삼성바이오에피스·산도스, 장 질환 바이오시밀러 개발 협력",
       "link": "https://www.yna.co.kr/view/AKR20260318141700017",
       "pubDate": "Wed, 18 Mar 2026 16:19:00 +0900"
-    },
-    {
-      "title": "[특징주] 대한항공, 유가 불안에도 先발권 수요 전망에 2.62% 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318038951008",
-      "pubDate": "Wed, 18 Mar 2026 16:12:11 +0900"
-    },
-    {
-      "title": "공공기관 가압류집행 관행 제동걸리나…HUG 임직원 3명 검찰조사",
-      "link": "https://www.yna.co.kr/view/AKR20260318138100051",
-      "pubDate": "Wed, 18 Mar 2026 16:09:38 +0900"
-    },
-    {
-      "title": "BTS 컴백에 하이브 주가 연일 상승…잠잠하던 엔터주 기지개(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318058151008",
-      "pubDate": "Wed, 18 Mar 2026 16:08:21 +0900"
     }
   ]
 }
