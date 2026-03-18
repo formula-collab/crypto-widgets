@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773876079,
+  "updated_at_unix": 1773877705,
   "items": [
+    {
+      "title": "SK증권 \"CJ, 상장 자회사 실적 개선 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319034700008",
+      "pubDate": "Thu, 19 Mar 2026 08:36:39 +0900"
+    },
+    {
+      "title": "나이키, 2026 축구 국가대표팀 유니폼 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260319032900030",
+      "pubDate": "Thu, 19 Mar 2026 08:28:43 +0900"
+    },
+    {
+      "title": "삼성전자, AI 식재료 관리 강화 '비스포크 AI 패밀리허브' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260319032500003",
+      "pubDate": "Thu, 19 Mar 2026 08:25:20 +0900"
+    },
+    {
+      "title": "관광공사, 해외지사장회의 열어 'K관광 세일즈' 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260319030200030",
+      "pubDate": "Thu, 19 Mar 2026 08:22:06 +0900"
+    },
+    {
+      "title": "유안타證 \"S-OIL, 美-이란전쟁으로 깜짝 실적 예상…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319031400008",
+      "pubDate": "Thu, 19 Mar 2026 08:20:58 +0900"
+    },
     {
       "title": "[마켓뷰] 이란 전쟁 격화·'매파' 파월에 암운 드리워진 코스피",
       "link": "https://www.yna.co.kr/view/AKR20260319029100008",
@@ -127,31 +152,6 @@
       "title": "뉴욕증시, 유가급등·금리동결에 하락…다우 1.6%↓",
       "link": "https://www.yna.co.kr/view/AKR20260319011400072",
       "pubDate": "Thu, 19 Mar 2026 05:12:46 +0900"
-    },
-    {
-      "title": "국제유가, 중동 가스시설 피격에 상승…브렌트 4%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260319001151072",
-      "pubDate": "Thu, 19 Mar 2026 04:54:18 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美, 결국 이란 에너지 생산 시설 때렸다…WTI 강보합 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260319010500009",
-      "pubDate": "Thu, 19 Mar 2026 04:18:24 +0900"
-    },
-    {
-      "title": "美연준, 두차례 연속 금리 동결…\"중동상황 영향 불확실\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260319000253071",
-      "pubDate": "Thu, 19 Mar 2026 04:06:40 +0900"
-    },
-    {
-      "title": "[속보] 파월 \"美석유기업들, 고유가 지속 확신 서야 생산 늘릴 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319008300072",
-      "pubDate": "Thu, 19 Mar 2026 03:50:49 +0900"
-    },
-    {
-      "title": "중동 전쟁發 유가급등에 '금리 인하' 멀어진 美 연준",
-      "link": "https://www.yna.co.kr/view/AKR20260319007000072",
-      "pubDate": "Thu, 19 Mar 2026 03:49:00 +0900"
     }
   ]
 }
