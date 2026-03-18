@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773830394,
+  "updated_at_unix": 1773833795,
   "items": [
+    {
+      "title": "CJ올리브영, 작년 매출 5조8천335억원…전년보다 22% 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260318176000030",
+      "pubDate": "Wed, 18 Mar 2026 19:46:19 +0900"
+    },
     {
       "title": "유통오너 신동빈 작년보수 16% 줄고 정용진 62%나 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260318171200030",
@@ -147,11 +152,6 @@
       "title": "정부, 수익률 낮은 퇴직연금 상품 퇴출 추진…성과평가 첫 도입",
       "link": "https://www.yna.co.kr/view/AKR20260318140000530",
       "pubDate": "Wed, 18 Mar 2026 16:20:08 +0900"
-    },
-    {
-      "title": "삼성바이오에피스·산도스, 장 질환 바이오시밀러 개발 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260318141700017",
-      "pubDate": "Wed, 18 Mar 2026 16:19:00 +0900"
     }
   ]
 }
