@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773819847,
+  "updated_at_unix": 1773822906,
   "items": [
+    {
+      "title": "유가 하락에 국고채 금리 일제히↓…3년물 연 3.261%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260318147251008",
+      "pubDate": "Wed, 18 Mar 2026 17:13:16 +0900"
+    },
+    {
+      "title": "교보생명, SBI저축은행 인수 확정…금융위 대주주 변경 승인",
+      "link": "https://www.yna.co.kr/view/AKR20260318154500002",
+      "pubDate": "Wed, 18 Mar 2026 17:09:47 +0900"
+    },
+    {
+      "title": "중동 긴장 고조에 컨테이너 운송 차질…수출입 기업 부담 가중",
+      "link": "https://www.yna.co.kr/view/AKR20260318153500051",
+      "pubDate": "Wed, 18 Mar 2026 17:07:41 +0900"
+    },
+    {
+      "title": "금감원, 올해 검사 소비자보호 방점…검사횟수 707회로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260318152900002",
+      "pubDate": "Wed, 18 Mar 2026 17:06:35 +0900"
+    },
+    {
+      "title": "춘천시, 중동발 경제 불안 대응 '민생경제상황실' 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260318153000062",
+      "pubDate": "Wed, 18 Mar 2026 17:05:17 +0900"
+    },
+    {
+      "title": "충남도, 2035년까지 AI 대전환에 5조8천900억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260318150300063",
+      "pubDate": "Wed, 18 Mar 2026 16:51:17 +0900"
+    },
+    {
+      "title": "박효진 \"학교 내 노동 차별 해소…비정규직 제로\" 공약",
+      "link": "https://www.yna.co.kr/view/AKR20260318150000061",
+      "pubDate": "Wed, 18 Mar 2026 16:51:00 +0900"
+    },
+    {
+      "title": "[안동소식] 안동병원, 신규 간호사 98명 입사",
+      "link": "https://www.yna.co.kr/view/AKR20260318149500053",
+      "pubDate": "Wed, 18 Mar 2026 16:48:32 +0900"
+    },
     {
       "title": "국고채 금리 일제히 하락…3년물 연 3.261%",
       "link": "https://www.yna.co.kr/view/AKR20260318147200008",
@@ -19,7 +59,7 @@
       "pubDate": "Wed, 18 Mar 2026 16:33:22 +0900"
     },
     {
-      "title": "저PRR 기업 공개·중복상장 제한…코스닥 2부리그 도입(종합)",
+      "title": "저PBR 기업 공개·중복상장 제한…코스닥 2부리그 도입(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260318119351002",
       "pubDate": "Wed, 18 Mar 2026 16:30:34 +0900"
     },
@@ -112,46 +152,6 @@
       "title": "[특징주] 더블유씨피, 실적 개선 기대에 18% 급등…52주 신고가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260318042751008",
       "pubDate": "Wed, 18 Mar 2026 15:46:57 +0900"
-    },
-    {
-      "title": "윤창현 코스콤 사장, 청소년 불법도박 근절 릴레이 캠페인 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260318130300008",
-      "pubDate": "Wed, 18 Mar 2026 15:46:03 +0900"
-    },
-    {
-      "title": "삼성전자·SK하이닉스, 코스피 내 시총 비중 사상 첫 40% 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260318133500008",
-      "pubDate": "Wed, 18 Mar 2026 15:45:34 +0900"
-    },
-    {
-      "title": "제주, 농·어업·운송업 유가보조금 늘리고 공공기관 차량 5부제",
-      "link": "https://www.yna.co.kr/view/AKR20260318127900056",
-      "pubDate": "Wed, 18 Mar 2026 15:44:39 +0900"
-    },
-    {
-      "title": "속초시, 소상공인 홍보 지원 강화…영상 제작부터 장비 대여까지",
-      "link": "https://www.yna.co.kr/view/AKR20260318131700062",
-      "pubDate": "Wed, 18 Mar 2026 15:42:09 +0900"
-    },
-    {
-      "title": "외국환시세(3월18일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260318132000002",
-      "pubDate": "Wed, 18 Mar 2026 15:41:53 +0900"
-    },
-    {
-      "title": "울주군, 개별주택가격안 열람·의견 접수…4월 30일 공시",
-      "link": "https://www.yna.co.kr/view/AKR20260318131000057",
-      "pubDate": "Wed, 18 Mar 2026 15:40:56 +0900"
-    },
-    {
-      "title": "안산글로벌청소년센터, 이주배경 청소년 자립지원 공모 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260318129700061",
-      "pubDate": "Wed, 18 Mar 2026 15:39:47 +0900"
-    },
-    {
-      "title": "울주 중부노인복지관-세계태권도격파회, 어르신 건강증진 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260318130700057",
-      "pubDate": "Wed, 18 Mar 2026 15:39:32 +0900"
     }
   ]
 }
