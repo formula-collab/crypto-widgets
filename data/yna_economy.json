@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773833795,
+  "updated_at_unix": 1773837735,
   "items": [
+    {
+      "title": "李대통령 \"자본시장 옥토 만들어야…'코리아 프리미엄' 가능\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260318142251001",
+      "pubDate": "Wed, 18 Mar 2026 21:05:36 +0900"
+    },
     {
       "title": "CJ올리브영, 작년 매출 5조8천335억원…전년보다 22% 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260318176000030",
@@ -147,11 +152,6 @@
       "title": "[게시판] 소방청·화재보험협회, 자동확산소화기 무상보급 캠페인",
       "link": "https://www.yna.co.kr/view/AKR20260318142800530",
       "pubDate": "Wed, 18 Mar 2026 16:22:02 +0900"
-    },
-    {
-      "title": "정부, 수익률 낮은 퇴직연금 상품 퇴출 추진…성과평가 첫 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260318140000530",
-      "pubDate": "Wed, 18 Mar 2026 16:20:08 +0900"
     }
   ]
 }
