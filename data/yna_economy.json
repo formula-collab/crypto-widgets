@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773870867,
+  "updated_at_unix": 1773872504,
   "items": [
+    {
+      "title": "한은도 4월 금리 동결 가능성…이란사태로 물가·환율 불안",
+      "link": "https://www.yna.co.kr/view/AKR20260319020200002",
+      "pubDate": "Thu, 19 Mar 2026 07:13:18 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '서아프리카의 진주' 코트디부아르…7% 성장 '최적 투자처'",
+      "link": "https://www.yna.co.kr/view/AKR20260305047000898",
+      "pubDate": "Thu, 19 Mar 2026 07:00:09 +0900"
+    },
     {
       "title": "국제유가, 중동 가스시설 피격에 급등…브렌트 110달러 돌파(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260319001152072",
@@ -142,16 +152,6 @@
       "title": "캐나다, 기준금리 2.25%로 동결…\"전쟁으로 경제위험 고조\"",
       "link": "https://www.yna.co.kr/view/AKR20260318187300072",
       "pubDate": "Wed, 18 Mar 2026 23:04:33 +0900"
-    },
-    {
-      "title": "李대통령 \"자본시장 옥토 만들어야…'코리아 프리미엄' 가능\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260318142251001",
-      "pubDate": "Wed, 18 Mar 2026 21:05:36 +0900"
-    },
-    {
-      "title": "CJ올리브영, 작년 매출 5조8천335억원…전년보다 22% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260318176000030",
-      "pubDate": "Wed, 18 Mar 2026 19:46:19 +0900"
     }
   ]
 }
