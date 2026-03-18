@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773859310,
+  "updated_at_unix": 1773862848,
   "items": [
+    {
+      "title": "[뉴욕유가] 美, 결국 이란 에너지 생산 시설 때렸다…WTI 강보합 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260319010500009",
+      "pubDate": "Thu, 19 Mar 2026 04:18:24 +0900"
+    },
+    {
+      "title": "美연준, 두차례 연속 금리 동결…\"중동상황 영향 불확실\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319000253071",
+      "pubDate": "Thu, 19 Mar 2026 04:06:40 +0900"
+    },
+    {
+      "title": "[속보] 파월 \"美석유기업들, 고유가 지속 확신 서야 생산 늘릴 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319008300072",
+      "pubDate": "Thu, 19 Mar 2026 03:50:49 +0900"
+    },
+    {
+      "title": "중동 전쟁發 유가급등에 '금리 인하' 멀어진 美 연준",
+      "link": "https://www.yna.co.kr/view/AKR20260319007000072",
+      "pubDate": "Thu, 19 Mar 2026 03:49:00 +0900"
+    },
     {
       "title": "[3보] 美연준, 두차례 연속 금리 동결…\"중동상황 함의 불확실\"",
       "link": "https://www.yna.co.kr/view/AKR20260319000252071",
@@ -132,26 +152,6 @@
       "title": "춘천시, 중동발 경제 불안 대응 '민생경제상황실' 가동",
       "link": "https://www.yna.co.kr/view/AKR20260318153000062",
       "pubDate": "Wed, 18 Mar 2026 17:05:17 +0900"
-    },
-    {
-      "title": "충남도, 2035년까지 AI 대전환에 5조8천900억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260318150300063",
-      "pubDate": "Wed, 18 Mar 2026 16:51:17 +0900"
-    },
-    {
-      "title": "박효진 \"학교 내 노동 차별 해소…비정규직 제로\" 공약",
-      "link": "https://www.yna.co.kr/view/AKR20260318150000061",
-      "pubDate": "Wed, 18 Mar 2026 16:51:00 +0900"
-    },
-    {
-      "title": "[안동소식] 안동병원, 신규 간호사 98명 입사",
-      "link": "https://www.yna.co.kr/view/AKR20260318149500053",
-      "pubDate": "Wed, 18 Mar 2026 16:48:32 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.261%",
-      "link": "https://www.yna.co.kr/view/AKR20260318147200008",
-      "pubDate": "Wed, 18 Mar 2026 16:40:47 +0900"
     }
   ]
 }
