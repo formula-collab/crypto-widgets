@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773921284,
+  "updated_at_unix": 1773923767,
   "items": [
+    {
+      "title": "중동 에너지시설 난타에 브렌트 119달러까지…유럽가스 35%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319183351009",
+      "pubDate": "Thu, 19 Mar 2026 21:09:17 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260319184700002",
+      "pubDate": "Thu, 19 Mar 2026 21:04:28 +0900"
+    },
+    {
+      "title": "[1보] 영국 기준금리 3.75%로 동결",
+      "link": "https://www.yna.co.kr/view/AKR20260319185100085",
+      "pubDate": "Thu, 19 Mar 2026 21:02:28 +0900"
+    },
     {
       "title": "당정 \"추경서 中企·소상공인 유가부담 완화 위한 지원 필요\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260319036252001",
@@ -137,21 +152,6 @@
       "title": "김정관 \"지금 위기는 구조적 리스크, 중장기 대응체계 구축해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260319156000003",
       "pubDate": "Thu, 19 Mar 2026 16:44:32 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.329%",
-      "link": "https://www.yna.co.kr/view/AKR20260319155700008",
-      "pubDate": "Thu, 19 Mar 2026 16:42:05 +0900"
-    },
-    {
-      "title": "제주항공, 4월 유류할증료 최대 68달러 부과…한달새 3배 올려",
-      "link": "https://www.yna.co.kr/view/AKR20260319154900003",
-      "pubDate": "Thu, 19 Mar 2026 16:40:21 +0900"
-    },
-    {
-      "title": "[동정] 이명구 관세청장, 베이징서 삼성·SK 등 기업들과 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260319154700002",
-      "pubDate": "Thu, 19 Mar 2026 16:38:06 +0900"
     }
   ]
 }
