@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773950233,
+  "updated_at_unix": 1773952250,
   "items": [
+    {
+      "title": "국제유가, 롤러코스터 장세…브렌트유 120달러 육박 후 반락",
+      "link": "https://www.yna.co.kr/view/AKR20260320009100072",
+      "pubDate": "Fri, 20 Mar 2026 05:13:44 +0900"
+    },
     {
       "title": "美 재무부, 이달 12일 전 선적된 러시아산 원유 판매 한시 승인(상보)",
       "link": "https://www.yna.co.kr/view/AKR20260320008500002",
@@ -147,11 +152,6 @@
       "title": "재경부, 한-영 경제금융대화 개최…시장 변동성·중동상황 논의",
       "link": "https://www.yna.co.kr/view/AKR20260319156300002",
       "pubDate": "Thu, 19 Mar 2026 17:30:00 +0900"
-    },
-    {
-      "title": "유가 비상에…\"미국, 베네수엘라 국영 석유회사 제재도 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319132800009",
-      "pubDate": "Thu, 19 Mar 2026 17:27:46 +0900"
     }
   ]
 }
