@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773962367,
+  "updated_at_unix": 1773964177,
   "items": [
+    {
+      "title": "한투증권 \"삼천당제약, 경구 인슐린 임상 성공 시 게임 체인저\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320027100008",
+      "pubDate": "Fri, 20 Mar 2026 08:34:16 +0900"
+    },
+    {
+      "title": "부산시의회 예결특위, 추가경정예산안 심사…민생지원 초점",
+      "link": "https://www.yna.co.kr/view/AKR20260320029400051",
+      "pubDate": "Fri, 20 Mar 2026 08:33:50 +0900"
+    },
+    {
+      "title": "지그재그, '소상공인 육성사업' 수행…\"소상공인 200곳 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320025500030",
+      "pubDate": "Fri, 20 Mar 2026 08:30:22 +0900"
+    },
+    {
+      "title": "IBK투자 \"첫 폴더블 아이폰 가시화…소부장 밸류체인 주목해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320028500008",
+      "pubDate": "Fri, 20 Mar 2026 08:27:38 +0900"
+    },
+    {
+      "title": "에이피알, 세포라에 입점…\"유럽 시장 공략\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320026300030",
+      "pubDate": "Fri, 20 Mar 2026 08:17:50 +0900"
+    },
     {
       "title": "[마켓뷰] 코스피, 조기 종전 기대·유가 하락에 전날 낙폭 만회할까",
       "link": "https://www.yna.co.kr/view/AKR20260320024900008",
@@ -127,31 +152,6 @@
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260319184700002",
       "pubDate": "Thu, 19 Mar 2026 21:04:28 +0900"
-    },
-    {
-      "title": "[1보] 영국 기준금리 3.75%로 동결",
-      "link": "https://www.yna.co.kr/view/AKR20260319185100085",
-      "pubDate": "Thu, 19 Mar 2026 21:02:28 +0900"
-    },
-    {
-      "title": "당정 \"추경서 中企·소상공인 유가부담 완화 위한 지원 필요\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260319036252001",
-      "pubDate": "Thu, 19 Mar 2026 19:09:59 +0900"
-    },
-    {
-      "title": "\"한은, 유가 108달러·환율 1천500원 진입시 금리 인상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319175400008",
-      "pubDate": "Thu, 19 Mar 2026 18:57:13 +0900"
-    },
-    {
-      "title": "삼생·삼화, 삼전 지분 약 1조5천억원 매각…\"금산법 위반 방지\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260319169952002",
-      "pubDate": "Thu, 19 Mar 2026 18:52:16 +0900"
-    },
-    {
-      "title": "씨티 \"韓 성장률 전망 0.1%p 하향…한은 7월부터 금리인상 예상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319174700002",
-      "pubDate": "Thu, 19 Mar 2026 18:49:41 +0900"
     }
   ]
 }
