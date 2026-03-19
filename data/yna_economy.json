@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773948306,
+  "updated_at_unix": 1773950233,
   "items": [
+    {
+      "title": "美 재무부, 이달 12일 전 선적된 러시아산 원유 판매 한시 승인(상보)",
+      "link": "https://www.yna.co.kr/view/AKR20260320008500002",
+      "pubDate": "Fri, 20 Mar 2026 04:32:59 +0900"
+    },
     {
       "title": "[뉴욕유가] 유가 진정에 '올인'한 트럼프…WTI 3일만에 하락",
       "link": "https://www.yna.co.kr/view/AKR20260320005800009",
@@ -147,11 +152,6 @@
       "title": "유가 비상에…\"미국, 베네수엘라 국영 석유회사 제재도 완화\"",
       "link": "https://www.yna.co.kr/view/AKR20260319132800009",
       "pubDate": "Thu, 19 Mar 2026 17:27:46 +0900"
-    },
-    {
-      "title": "화성시, 한국부동산원과 데이터 기반 도시개발 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260319160700061",
-      "pubDate": "Thu, 19 Mar 2026 17:14:11 +0900"
     }
   ]
 }
