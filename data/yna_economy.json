@@ -1,10 +1,60 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773892668,
+  "updated_at_unix": 1773897627,
   "items": [
     {
-      "title": "불타는 중동…세계 경제 인플레 검은 먹구름",
+      "title": "이달 지나면 유조선 운항 뚝…韓 원유 수급 문제 없나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319095051003",
+      "pubDate": "Thu, 19 Mar 2026 14:16:46 +0900"
+    },
+    {
+      "title": "안전자산 금값, 중동전쟁 장기화에도 금리 변수에 '주춤'",
+      "link": "https://www.yna.co.kr/view/AKR20260319106200008",
+      "pubDate": "Thu, 19 Mar 2026 14:02:20 +0900"
+    },
+    {
+      "title": "인천 청라에 '커넥티드카 인증평가센터' 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260319044600065",
+      "pubDate": "Thu, 19 Mar 2026 14:00:07 +0900"
+    },
+    {
+      "title": "강남발 아파트값 약세 한강벨트로 확산…성동·동작도 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260319087700003",
+      "pubDate": "Thu, 19 Mar 2026 14:00:02 +0900"
+    },
+    {
+      "title": "범부처 점검단, 가격인상 주유소 불시 점검…불법 의심행위 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260319114300003",
+      "pubDate": "Thu, 19 Mar 2026 13:54:09 +0900"
+    },
+    {
+      "title": "주한미국상공회의소, 한국은행 초청 간담회…\"韓성장률 2% 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319099800003",
+      "pubDate": "Thu, 19 Mar 2026 13:52:54 +0900"
+    },
+    {
+      "title": "울주군 \"소상공인 직원 신규 채용 인건비 지원 신청하세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319109400057",
+      "pubDate": "Thu, 19 Mar 2026 13:44:26 +0900"
+    },
+    {
+      "title": "해남군, 청년 창업 거점 플랫폼 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260319108800054",
+      "pubDate": "Thu, 19 Mar 2026 13:39:02 +0900"
+    },
+    {
+      "title": "과기정통부, 초기 창업자에 '성공 DNA' 수혈…전담 멘토링 매칭",
+      "link": "https://www.yna.co.kr/view/AKR20260319066000017",
+      "pubDate": "Thu, 19 Mar 2026 13:30:01 +0900"
+    },
+    {
+      "title": "전국 닭요리와 지역 명소 잇는 'K치킨벨트' 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260319099200030",
+      "pubDate": "Thu, 19 Mar 2026 13:30:01 +0900"
+    },
+    {
+      "title": "불타는 중동 에너지 인프라…숨 막히는 세계 경제",
       "link": "https://www.yna.co.kr/view/AKR20260319098200009",
       "pubDate": "Thu, 19 Mar 2026 12:34:21 +0900"
     },
@@ -102,56 +152,6 @@
       "title": "\"쿠팡 무료배송 인상은 가격갑질…탈팡손실 소비자에 떠넘기기\"",
       "link": "https://www.yna.co.kr/view/AKR20260319047300030",
       "pubDate": "Thu, 19 Mar 2026 11:43:08 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.328%",
-      "link": "https://www.yna.co.kr/view/AKR20260319095600008",
-      "pubDate": "Thu, 19 Mar 2026 11:40:16 +0900"
-    },
-    {
-      "title": "쿠팡, 현장물류사원 및 물류관리자 모집…채용박람회 진행",
-      "link": "https://www.yna.co.kr/view/AKR20260319090000030",
-      "pubDate": "Thu, 19 Mar 2026 11:38:40 +0900"
-    },
-    {
-      "title": "시민단체 \"외국인 계절근로자 제도, 인신매매·노동착취 온상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319056700004",
-      "pubDate": "Thu, 19 Mar 2026 11:30:00 +0900"
-    },
-    {
-      "title": "현대건설, HBA와 압구정3구역 재건축 수주전 디자인 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260319091300003",
-      "pubDate": "Thu, 19 Mar 2026 11:29:27 +0900"
-    },
-    {
-      "title": "'친트럼프' 경제학자도 \"유가 100달러 감당 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319075700009",
-      "pubDate": "Thu, 19 Mar 2026 11:24:57 +0900"
-    },
-    {
-      "title": "'2조달러 해외조달시장 잡는다'…조달청·지식재산처 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260319083600063",
-      "pubDate": "Thu, 19 Mar 2026 11:22:49 +0900"
-    },
-    {
-      "title": "경총, 李정부 첫 경사노위 출범에 \"지속가능 성장안 도출 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319086800003",
-      "pubDate": "Thu, 19 Mar 2026 11:17:49 +0900"
-    },
-    {
-      "title": "'납사절벽' 석화업계 한 달 못 넘긴다…산업계 연쇄 충격 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260319086100003",
-      "pubDate": "Thu, 19 Mar 2026 11:17:06 +0900"
-    },
-    {
-      "title": "미아동 75번지 일대, 최고 45층 1천600세대 대단지로 탈바꿈",
-      "link": "https://www.yna.co.kr/view/AKR20260319044200004",
-      "pubDate": "Thu, 19 Mar 2026 11:15:03 +0900"
-    },
-    {
-      "title": "경남경제계, 김경수에 \"비수도권 법인세 차등\"…공약 과제 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260319081500052",
-      "pubDate": "Thu, 19 Mar 2026 11:10:39 +0900"
     }
   ]
 }
