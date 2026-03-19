@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773952250,
+  "updated_at_unix": 1773955453,
   "items": [
+    {
+      "title": "[이코노워치] 韓美중앙은행 교체기, '물가와의 전쟁'이 불안하다",
+      "link": "https://www.yna.co.kr/view/AKR20260319142700546",
+      "pubDate": "Fri, 20 Mar 2026 06:00:09 +0900"
+    },
+    {
+      "title": "정부, 美 '무역법 301조' 조사 대응 '민관 합동 TF' 발족",
+      "link": "https://www.yna.co.kr/view/AKR20260319148500003",
+      "pubDate": "Fri, 20 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "1월 은행 연체율 0.56%로 소폭 상승…\"연체채권 정리규모 급감\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319167600002",
+      "pubDate": "Fri, 20 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "통상본부장 \"다자무역체제 흔들리면 韓 누려온 기회도 위협\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319180500003",
+      "pubDate": "Fri, 20 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "'부실정리 속도' 저축은행, 작년 연체율 6%대로↓…흑자 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260319177900002",
+      "pubDate": "Fri, 20 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "인터넷은행 전산사고 5년간 163건…수년 뒤 알아채기도",
+      "link": "https://www.yna.co.kr/view/AKR20260319188700002",
+      "pubDate": "Fri, 20 Mar 2026 05:51:04 +0900"
+    },
+    {
+      "title": "카뱅, 사고 원인 2시간 뒤에야 제대로 파악…복구하다 또 '먹통'",
+      "link": "https://www.yna.co.kr/view/AKR20260319168800002",
+      "pubDate": "Fri, 20 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "박홍근 \"기본소득 길게 보고 준비…청년 취약층 자산 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319188200002",
+      "pubDate": "Fri, 20 Mar 2026 05:30:00 +0900"
+    },
     {
       "title": "국제유가, 롤러코스터 장세…브렌트유 120달러 육박 후 반락",
       "link": "https://www.yna.co.kr/view/AKR20260320009100072",
@@ -112,46 +152,6 @@
       "title": "근로감독·산업안전 7급 공채 515명 합격…평균연령 29세",
       "link": "https://www.yna.co.kr/view/AKR20260319040300001",
       "pubDate": "Thu, 19 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260319165800011",
-      "pubDate": "Thu, 19 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "전남도, 통합특별시 기업유치 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260319171800054",
-      "pubDate": "Thu, 19 Mar 2026 17:57:42 +0900"
-    },
-    {
-      "title": "금감원 \"유령코인, 2단계법에 영업정지 근거로 명시해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319170700002",
-      "pubDate": "Thu, 19 Mar 2026 17:51:53 +0900"
-    },
-    {
-      "title": "정지선 현대百회장, 작년 보수 68억원…전년보다 6% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260319167200030",
-      "pubDate": "Thu, 19 Mar 2026 17:50:57 +0900"
-    },
-    {
-      "title": "빌리언스 100억원 유증…수피밸류업신기술투자조합 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260319170200008",
-      "pubDate": "Thu, 19 Mar 2026 17:49:29 +0900"
-    },
-    {
-      "title": "삼성생명, 삼성전자 지분 1조3천억원어치 매각",
-      "link": "https://www.yna.co.kr/view/AKR20260319169900002",
-      "pubDate": "Thu, 19 Mar 2026 17:46:22 +0900"
-    },
-    {
-      "title": "한화오션 \"미국 계열사 주식 1천645억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319167900008",
-      "pubDate": "Thu, 19 Mar 2026 17:45:43 +0900"
-    },
-    {
-      "title": "재경부, 한-영 경제금융대화 개최…시장 변동성·중동상황 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260319156300002",
-      "pubDate": "Thu, 19 Mar 2026 17:30:00 +0900"
     }
   ]
 }
