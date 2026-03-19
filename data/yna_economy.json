@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773914650,
+  "updated_at_unix": 1773918327,
   "items": [
+    {
+      "title": "당정 \"추경서 中企·소상공인 유가부담 완화 위한 지원 필요\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260319036252001",
+      "pubDate": "Thu, 19 Mar 2026 19:09:59 +0900"
+    },
     {
       "title": "\"한은, 유가 108달러·환율 1천500원 진입시 금리 인상\"",
       "link": "https://www.yna.co.kr/view/AKR20260319175400008",
@@ -19,7 +24,7 @@
       "pubDate": "Thu, 19 Mar 2026 18:49:41 +0900"
     },
     {
-      "title": "갤럭시S22 소비자 공동소송 항소심서 강제조정…삼성 1억 배상",
+      "title": "갤럭시S22 소비자 공동소송 항소심서 강제조정…4년 만에 종결",
       "link": "https://www.yna.co.kr/view/AKR20260319174000004",
       "pubDate": "Thu, 19 Mar 2026 18:43:38 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "[동정] 이명구 관세청장, 베이징서 삼성·SK 등 기업들과 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260319154700002",
       "pubDate": "Thu, 19 Mar 2026 16:38:06 +0900"
-    },
-    {
-      "title": "수원 탑동 이노베이션밸리 착공…2029년까지 첨단업무단지 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260319152600061",
-      "pubDate": "Thu, 19 Mar 2026 16:34:53 +0900"
     }
   ]
 }
