@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773923767,
+  "updated_at_unix": 1773928873,
   "items": [
+    {
+      "title": "美연준 연내 금리인하 기대감 소멸…英 매파적 금리동결 파장",
+      "link": "https://www.yna.co.kr/view/AKR20260319190700072",
+      "pubDate": "Thu, 19 Mar 2026 22:49:22 +0900"
+    },
+    {
+      "title": "英, 기준금리 만장일치 동결…\"물가상승시 대응할 준비\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319185151085",
+      "pubDate": "Thu, 19 Mar 2026 21:37:05 +0900"
+    },
     {
       "title": "중동 에너지시설 난타에 브렌트 119달러까지…유럽가스 35%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260319183351009",
@@ -142,16 +152,6 @@
       "title": "한국아태경제협회-라라스테이션, APEC 연계 국제협력 강화 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260319156900371",
       "pubDate": "Thu, 19 Mar 2026 16:51:15 +0900"
-    },
-    {
-      "title": "[부고] 양병수(교보증권 정보보호본부 본부장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260319156400008",
-      "pubDate": "Thu, 19 Mar 2026 16:46:42 +0900"
-    },
-    {
-      "title": "김정관 \"지금 위기는 구조적 리스크, 중장기 대응체계 구축해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319156000003",
-      "pubDate": "Thu, 19 Mar 2026 16:44:32 +0900"
     }
   ]
 }
