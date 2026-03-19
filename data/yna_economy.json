@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773897627,
+  "updated_at_unix": 1773900886,
   "items": [
+    {
+      "title": "국제유가 또 110달러…아시아 증시 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260319130900009",
+      "pubDate": "Thu, 19 Mar 2026 15:09:48 +0900"
+    },
+    {
+      "title": "강릉시, AI 데이터 특화단지·시범도시 추진…디지털 중심지로",
+      "link": "https://www.yna.co.kr/view/AKR20260319128500062",
+      "pubDate": "Thu, 19 Mar 2026 15:08:50 +0900"
+    },
+    {
+      "title": "포항서 만든 발효차 멕시코로 수출…작년 수출상담회 성과",
+      "link": "https://www.yna.co.kr/view/AKR20260319128900053",
+      "pubDate": "Thu, 19 Mar 2026 15:05:03 +0900"
+    },
+    {
+      "title": "K콘텐츠로 벌어도 AI·OTT 지출↑…지식서비스 적자 12년만 최대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319095551002",
+      "pubDate": "Thu, 19 Mar 2026 15:04:26 +0900"
+    },
+    {
+      "title": "창원∼부산 민자도로 대형차 통행료, 7월 1일부터 100원 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260319127700052",
+      "pubDate": "Thu, 19 Mar 2026 15:00:58 +0900"
+    },
+    {
+      "title": "소상공인들 \"BTS 공연 요금인상·예약취소 등 부당행위 근절\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319119800030",
+      "pubDate": "Thu, 19 Mar 2026 15:00:33 +0900"
+    },
+    {
+      "title": "7월부터 신탁사에도 책무구조도…\"사익추구 즉각 개선 요구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319123900002",
+      "pubDate": "Thu, 19 Mar 2026 15:00:01 +0900"
+    },
+    {
+      "title": "부산 아파트값, 5개월만에 상승 멈춰…전셋값은 오름세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260319128200051",
+      "pubDate": "Thu, 19 Mar 2026 14:57:41 +0900"
+    },
+    {
+      "title": "한은 포항본부 등 \"美 철강관세 50% 유지 시 한국 3.2조 손실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319127200053",
+      "pubDate": "Thu, 19 Mar 2026 14:56:35 +0900"
+    },
+    {
+      "title": "관광공사, 지역 전담조직 8곳과 '국제회의 유치협약'",
+      "link": "https://www.yna.co.kr/view/AKR20260319127000030",
+      "pubDate": "Thu, 19 Mar 2026 14:54:55 +0900"
+    },
+    {
+      "title": "[게시판] 부산항만공사, 상하이서 국적선사 초청 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260319113700051",
+      "pubDate": "Thu, 19 Mar 2026 14:49:36 +0900"
+    },
+    {
+      "title": "'중동 리스크'에 제주 소상공인 225억원 특별보증 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260319081200056",
+      "pubDate": "Thu, 19 Mar 2026 14:40:02 +0900"
+    },
+    {
+      "title": "은행권 주 4.9일제 도입 확산…농협은행도 내주부터",
+      "link": "https://www.yna.co.kr/view/AKR20260319121800002",
+      "pubDate": "Thu, 19 Mar 2026 14:32:30 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260319121000011",
+      "pubDate": "Thu, 19 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "산업·고용위기 서산과 인접한 태안 실업급여 신청자 45% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260319121300063",
+      "pubDate": "Thu, 19 Mar 2026 14:27:40 +0900"
+    },
+    {
+      "title": "안민석 \"창업활동 수업시수 인정 특기생 제도 도입\" 공약",
+      "link": "https://www.yna.co.kr/view/AKR20260319122900061",
+      "pubDate": "Thu, 19 Mar 2026 14:27:39 +0900"
+    },
+    {
+      "title": "李대통령 \"고용유연성, 노동자 수용할지가 중요…희생강요 안돼\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319090251001",
+      "pubDate": "Thu, 19 Mar 2026 14:26:18 +0900"
+    },
+    {
+      "title": "직원 복지기금 전세금에 충당한 공기업 대표…노동부 \"엄중조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319121400530",
+      "pubDate": "Thu, 19 Mar 2026 14:25:29 +0900"
+    },
+    {
+      "title": "안양시, 5월까지 지방세·세외수입 체납액 특별정리기간 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260319100500061",
+      "pubDate": "Thu, 19 Mar 2026 14:24:01 +0900"
+    },
+    {
+      "title": "[평택소식] 청년 우수 초기 창업기업 지원사업 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260319115700061",
+      "pubDate": "Thu, 19 Mar 2026 14:19:43 +0900"
+    },
+    {
+      "title": "제이앤티씨 \"베트남 종속회사에 223억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319119900008",
+      "pubDate": "Thu, 19 Mar 2026 14:19:00 +0900"
+    },
     {
       "title": "이달 지나면 유조선 운항 뚝…韓 원유 수급 문제 없나(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260319095051003",
@@ -47,111 +152,6 @@
       "title": "과기정통부, 초기 창업자에 '성공 DNA' 수혈…전담 멘토링 매칭",
       "link": "https://www.yna.co.kr/view/AKR20260319066000017",
       "pubDate": "Thu, 19 Mar 2026 13:30:01 +0900"
-    },
-    {
-      "title": "전국 닭요리와 지역 명소 잇는 'K치킨벨트' 만든다",
-      "link": "https://www.yna.co.kr/view/AKR20260319099200030",
-      "pubDate": "Thu, 19 Mar 2026 13:30:01 +0900"
-    },
-    {
-      "title": "불타는 중동 에너지 인프라…숨 막히는 세계 경제",
-      "link": "https://www.yna.co.kr/view/AKR20260319098200009",
-      "pubDate": "Thu, 19 Mar 2026 12:34:21 +0900"
-    },
-    {
-      "title": "노동장관 \"채용 공고서 산업별 임금정보 공개 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319101300530",
-      "pubDate": "Thu, 19 Mar 2026 12:29:57 +0900"
-    },
-    {
-      "title": "고유가에 기업 물류비 상승 등 악재…공급망 전략 재검토도",
-      "link": "https://www.yna.co.kr/view/AKR20260319094000003",
-      "pubDate": "Thu, 19 Mar 2026 12:10:13 +0900"
-    },
-    {
-      "title": "박윤기 롯데칠성 대표 \"경영 효율화·해외 사업 강화 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319097200030",
-      "pubDate": "Thu, 19 Mar 2026 12:03:34 +0900"
-    },
-    {
-      "title": "[게시판] 한미반도체, 인천시 지역경제 활성화 기업 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260319098500003",
-      "pubDate": "Thu, 19 Mar 2026 12:01:23 +0900"
-    },
-    {
-      "title": "공무원만 쓰고 공무직은 못 쓰는 시차출퇴근제…인권위 \"차별\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319057400004",
-      "pubDate": "Thu, 19 Mar 2026 12:00:13 +0900"
-    },
-    {
-      "title": "중기부, 스타트업-소공인 협업으로 제조혁신…42억원 바우처지원",
-      "link": "https://www.yna.co.kr/view/AKR20260319056400030",
-      "pubDate": "Thu, 19 Mar 2026 12:00:13 +0900"
-    },
-    {
-      "title": "인권위 \"공적개발원조 지원 과정서 인권보호 기준 강화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319068200004",
-      "pubDate": "Thu, 19 Mar 2026 12:00:11 +0900"
-    },
-    {
-      "title": "안전교육 2시간 받으면 이륜차 배달 보험료 5% 추가 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260319059000530",
-      "pubDate": "Thu, 19 Mar 2026 12:00:11 +0900"
-    },
-    {
-      "title": "작년 지식서비스 15조 적자, 12년만에 최대…AI·OTT 구독 등에",
-      "link": "https://www.yna.co.kr/view/AKR20260319095500002",
-      "pubDate": "Thu, 19 Mar 2026 12:00:09 +0900"
-    },
-    {
-      "title": "공정위 '하도급 거래 불공정행위' NVH코리아에 과징금 5천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260319080000002",
-      "pubDate": "Thu, 19 Mar 2026 12:00:05 +0900"
-    },
-    {
-      "title": "'가짜 3.3'으로 사업장 쪼개 수당 미지급…노동부, 72곳 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260319076000530",
-      "pubDate": "Thu, 19 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 행안차관, 강릉서 '석유 제품 최고가격제' 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260319089500530",
-      "pubDate": "Thu, 19 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "경력·재직여성 역량강화…159개 새일센터서 744개 직업훈련과정",
-      "link": "https://www.yna.co.kr/view/AKR20260319095700530",
-      "pubDate": "Thu, 19 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "작년 결혼 24만건, 7년 만에 최다…'연상연하' 초혼 20% 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260319092200002",
-      "pubDate": "Thu, 19 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "李대통령 \"고용유연성, 노동자 수용할지가 중요…희생강요 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319090200001",
-      "pubDate": "Thu, 19 Mar 2026 11:51:03 +0900"
-    },
-    {
-      "title": "[현장] 일반 마트보다 싸다…창원시민, 고물가에 군 마트 '오픈런'",
-      "link": "https://www.yna.co.kr/view/AKR20260319095200052",
-      "pubDate": "Thu, 19 Mar 2026 11:49:40 +0900"
-    },
-    {
-      "title": "이달 지나면 유조선 끊기는데…韓 원유 수급 문제 없나",
-      "link": "https://www.yna.co.kr/view/AKR20260319095000003",
-      "pubDate": "Thu, 19 Mar 2026 11:46:43 +0900"
-    },
-    {
-      "title": "키움증권, e스포츠 후원 첫발…구단 DRX와 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260319096400008",
-      "pubDate": "Thu, 19 Mar 2026 11:46:07 +0900"
-    },
-    {
-      "title": "\"쿠팡 무료배송 인상은 가격갑질…탈팡손실 소비자에 떠넘기기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319047300030",
-      "pubDate": "Thu, 19 Mar 2026 11:43:08 +0900"
     }
   ]
 }
