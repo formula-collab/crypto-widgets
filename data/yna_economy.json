@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773907351,
+  "updated_at_unix": 1773911152,
   "items": [
+    {
+      "title": "근로감독·산업안전 7급 공채 515명 합격…평균연령 29세",
+      "link": "https://www.yna.co.kr/view/AKR20260319040300001",
+      "pubDate": "Thu, 19 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260319165800011",
+      "pubDate": "Thu, 19 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "전남도, 통합특별시 기업유치 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260319171800054",
+      "pubDate": "Thu, 19 Mar 2026 17:57:42 +0900"
+    },
+    {
+      "title": "금감원 \"유령코인, 2단계법에 영업정지 근거로 명시해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319170700002",
+      "pubDate": "Thu, 19 Mar 2026 17:51:53 +0900"
+    },
+    {
+      "title": "정지선 현대百회장, 작년 보수 68억원…전년보다 6% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260319167200030",
+      "pubDate": "Thu, 19 Mar 2026 17:50:57 +0900"
+    },
+    {
+      "title": "빌리언스 100억원 유증…수피밸류업신기술투자조합 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260319170200008",
+      "pubDate": "Thu, 19 Mar 2026 17:49:29 +0900"
+    },
+    {
+      "title": "삼성생명, 삼성전자 지분 1조3천억원어치 매각",
+      "link": "https://www.yna.co.kr/view/AKR20260319169900002",
+      "pubDate": "Thu, 19 Mar 2026 17:46:22 +0900"
+    },
+    {
+      "title": "한화오션 \"미국 계열사 주식 1천645억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319167900008",
+      "pubDate": "Thu, 19 Mar 2026 17:45:43 +0900"
+    },
+    {
+      "title": "재경부, 한-영 경제금융대화 개최…시장 변동성·중동상황 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260319156300002",
+      "pubDate": "Thu, 19 Mar 2026 17:30:00 +0900"
+    },
+    {
+      "title": "유가 비상에…\"미국, 베네수엘라 국영 석유회사 제재도 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319132800009",
+      "pubDate": "Thu, 19 Mar 2026 17:27:46 +0900"
+    },
+    {
+      "title": "화성시, 한국부동산원과 데이터 기반 도시개발 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260319160700061",
+      "pubDate": "Thu, 19 Mar 2026 17:14:11 +0900"
+    },
+    {
+      "title": "광주은행, 지방은행 부문 브랜드파워 9년 연속 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260319161200054",
+      "pubDate": "Thu, 19 Mar 2026 17:06:36 +0900"
+    },
+    {
+      "title": "고유가·고환율·'매파' FOMC에 국고채 금리 일제히 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260319155751008",
+      "pubDate": "Thu, 19 Mar 2026 16:59:09 +0900"
+    },
     {
       "title": "국주영은 전주시장 예비후보 \"청년정책 100선, 시정 동력으로\"",
       "link": "https://www.yna.co.kr/view/AKR20260319155100055",
@@ -87,71 +152,6 @@
       "title": "원스톱 수출지원단, 차부품·로봇 수출 기업 만나 애로 청취",
       "link": "https://www.yna.co.kr/view/AKR20260319128700002",
       "pubDate": "Thu, 19 Mar 2026 16:00:23 +0900"
-    },
-    {
-      "title": "환율, 금융위기 후 첫 1,500원대 마감…유가급등에 17.9원↑",
-      "link": "https://www.yna.co.kr/view/AKR20260319042651002",
-      "pubDate": "Thu, 19 Mar 2026 15:52:34 +0900"
-    },
-    {
-      "title": "\"개항 150년 부산항…신산업 중심으로 향후 30년 설계해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260319144000051",
-      "pubDate": "Thu, 19 Mar 2026 15:49:16 +0900"
-    },
-    {
-      "title": "안전자산 금값, 중동전쟁 장기화에도 금리 변수에 5일째 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260319106251008",
-      "pubDate": "Thu, 19 Mar 2026 15:48:21 +0900"
-    },
-    {
-      "title": "태백시 관문 태백역 일대 삼수·황연권역 전면 개편 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260319141900062",
-      "pubDate": "Thu, 19 Mar 2026 15:43:33 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 미국발 삭풍에 동반 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260319046651008",
-      "pubDate": "Thu, 19 Mar 2026 15:43:16 +0900"
-    },
-    {
-      "title": "외국환시세(3월19일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260319140100002",
-      "pubDate": "Thu, 19 Mar 2026 15:37:24 +0900"
-    },
-    {
-      "title": "노란봉투법 시행 9일간 하청 683곳 교섭요구…원청 공고 13곳뿐",
-      "link": "https://www.yna.co.kr/view/AKR20260319137700530",
-      "pubDate": "Thu, 19 Mar 2026 15:35:27 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 17.9원 오른 1,501.0원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260319138500002",
-      "pubDate": "Thu, 19 Mar 2026 15:30:37 +0900"
-    },
-    {
-      "title": "[AI픽] 국가AI전략위, AI 시대 '지속 가능한 고용' 제도 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260319070500017",
-      "pubDate": "Thu, 19 Mar 2026 15:30:01 +0900"
-    },
-    {
-      "title": "[게시판] KB국민은행, 장병적금 최고금리 연 10.5%로 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260319136800002",
-      "pubDate": "Thu, 19 Mar 2026 15:26:17 +0900"
-    },
-    {
-      "title": "부산지검, 165억원 불법 대부업에 이용된 법인 3곳 해산",
-      "link": "https://www.yna.co.kr/view/AKR20260319135600051",
-      "pubDate": "Thu, 19 Mar 2026 15:19:15 +0900"
-    },
-    {
-      "title": "국토장관, 근로자 작업중지권 행사 장려한 건설사 4곳에 감사패",
-      "link": "https://www.yna.co.kr/view/AKR20260319134500003",
-      "pubDate": "Thu, 19 Mar 2026 15:18:33 +0900"
-    },
-    {
-      "title": "대전시의회, 관급공사 임금 체불 방지 조례 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260319133400063",
-      "pubDate": "Thu, 19 Mar 2026 15:16:40 +0900"
     }
   ]
 }
