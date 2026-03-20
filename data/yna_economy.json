@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773978020,
+  "updated_at_unix": 1773983440,
   "items": [
+    {
+      "title": "신한은행, 신임 사외이사 후보로 윤준·채은미 추천",
+      "link": "https://www.yna.co.kr/view/AKR20260320099900002",
+      "pubDate": "Fri, 20 Mar 2026 13:58:16 +0900"
+    },
+    {
+      "title": "DB캐피탈, 박재범 신임 대표이사 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260320099000008",
+      "pubDate": "Fri, 20 Mar 2026 13:52:13 +0900"
+    },
+    {
+      "title": "거래시간 연장에 증권업계 \"9월 시행도 촉박…투자자 혼란 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320089900008",
+      "pubDate": "Fri, 20 Mar 2026 13:42:56 +0900"
+    },
+    {
+      "title": "KB증권, 상생결제 서비스 도입…\"증권사 최초\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320095700008",
+      "pubDate": "Fri, 20 Mar 2026 13:39:03 +0900"
+    },
+    {
+      "title": "지식재산처 \"첨단기술 분야 모든 창업기업 특허 1개월내 심사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320089000063",
+      "pubDate": "Fri, 20 Mar 2026 13:36:25 +0900"
+    },
+    {
+      "title": "배민, BTS 컴백 맞춰 서울 소규모 카페 상생 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260320092500030",
+      "pubDate": "Fri, 20 Mar 2026 13:36:25 +0900"
+    },
     {
       "title": "정부, 'K-컬처' 지적재산 침해 공동방어…단계적 남북 교류 모색(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260320071851001",
@@ -122,36 +152,6 @@
       "title": "경남경찰청, 금감원·BNK경남은행과 피싱 범죄 예방 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260320073700052",
       "pubDate": "Fri, 20 Mar 2026 10:59:28 +0900"
-    },
-    {
-      "title": "김성환 기후장관 \"전기요금 차등제, 산업용 우선 적용 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320073800051",
-      "pubDate": "Fri, 20 Mar 2026 10:58:28 +0900"
-    },
-    {
-      "title": "신동원 농심 회장 \"올해 러시아 현지법인 설립 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320072000030",
-      "pubDate": "Fri, 20 Mar 2026 10:58:13 +0900"
-    },
-    {
-      "title": "[게시판] 부산해수청, 78개 외항선사 정기 근로감독",
-      "link": "https://www.yna.co.kr/view/AKR20260320072500051",
-      "pubDate": "Fri, 20 Mar 2026 10:57:04 +0900"
-    },
-    {
-      "title": "\"사우디, '4월말까지 공급지장 지속시 유가 180불 돌파' 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320069600009",
-      "pubDate": "Fri, 20 Mar 2026 10:53:00 +0900"
-    },
-    {
-      "title": "강원도 농수특산물 인증제, 지역경제 활성화에 효자 역할",
-      "link": "https://www.yna.co.kr/view/AKR20260320069800062",
-      "pubDate": "Fri, 20 Mar 2026 10:52:12 +0900"
-    },
-    {
-      "title": "\"구리 토평2지구, 직·주·락 지능형 환경 도시로 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320070300060",
-      "pubDate": "Fri, 20 Mar 2026 10:50:27 +0900"
     }
   ]
 }
