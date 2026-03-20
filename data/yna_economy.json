@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774047120,
+  "updated_at_unix": 1774048692,
   "items": [
+    {
+      "title": "[머니플로우] 전쟁 불확실성에 공매도 자금·인버스 매집 ↑",
+      "link": "https://www.yna.co.kr/view/AKR20260320151300008",
+      "pubDate": "Sat, 21 Mar 2026 08:00:03 +0900"
+    },
     {
       "title": "[신상잇슈] 풀무원다논 '더블제로 액티비아'·롯데웰푸드 '제주말차라떼'",
       "link": "https://www.yna.co.kr/view/AKR20260320087100030",
@@ -147,11 +152,6 @@
       "title": "스틱인베스트먼트 \"스틱한투인프라 사모투자합자회사株 400억 취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260320151000008",
       "pubDate": "Fri, 20 Mar 2026 17:24:00 +0900"
-    },
-    {
-      "title": "김남구 한국금융지주 회장, 작년 보수로 63억원 수령",
-      "link": "https://www.yna.co.kr/view/AKR20260320152000008",
-      "pubDate": "Fri, 20 Mar 2026 17:22:20 +0900"
     }
   ]
 }
