@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774017331,
+  "updated_at_unix": 1774020755,
   "items": [
+    {
+      "title": "美연준 월러 \"유가發 인플레 우려해 금리동결로 입장전환\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320185900072",
+      "pubDate": "Sat, 21 Mar 2026 00:01:27 +0900"
+    },
     {
       "title": "물가 우려에 영국 국채 금리 2008년 금융위기후 최고",
       "link": "https://www.yna.co.kr/view/AKR20260320179800085",
@@ -147,11 +152,6 @@
       "title": "고양 덕이동 '대우엘크루 일산'…1천508가구 회원 모집",
       "link": "https://www.yna.co.kr/view/AKR20260320146200060",
       "pubDate": "Fri, 20 Mar 2026 17:01:46 +0900"
-    },
-    {
-      "title": "익산시, 청년창업 키운다…맞춤형 지원사업 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260320146000055",
-      "pubDate": "Fri, 20 Mar 2026 17:01:28 +0900"
     }
   ]
 }
