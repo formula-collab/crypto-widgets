@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773996173,
+  "updated_at_unix": 1773998971,
   "items": [
+    {
+      "title": "기업은행 \"올해 첫 분기배당 도입…7월31일 기준 연 1회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320162400002",
+      "pubDate": "Fri, 20 Mar 2026 18:20:05 +0900"
+    },
+    {
+      "title": "외교부, 美사우스다코타 부지사와 경제협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260320157000504",
+      "pubDate": "Fri, 20 Mar 2026 18:17:12 +0900"
+    },
+    {
+      "title": "삼성물산, 이정식 전 노동장관 사외이사로 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260320161900003",
+      "pubDate": "Fri, 20 Mar 2026 18:14:59 +0900"
+    },
+    {
+      "title": "고유가 직격탄…에어부산·에어로케이 4월부터 일부 운항 축소(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320150201051",
+      "pubDate": "Fri, 20 Mar 2026 18:01:34 +0900"
+    },
+    {
+      "title": "김남구 한국금융지주 회장, 작년 보수로 63억원 수령(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320152051008",
+      "pubDate": "Fri, 20 Mar 2026 18:01:34 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260320152500011",
+      "pubDate": "Fri, 20 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "한국 기업 미국 진출 돕는 '한-텍사스 경제포럼' 공식 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260320158500371",
+      "pubDate": "Fri, 20 Mar 2026 17:59:32 +0900"
+    },
+    {
+      "title": "파주시 단수 사고 4개월 지났는데…보상은 '하세월'",
+      "link": "https://www.yna.co.kr/view/AKR20260320158100060",
+      "pubDate": "Fri, 20 Mar 2026 17:56:21 +0900"
+    },
+    {
+      "title": "[인사] 대한상공회의소",
+      "link": "https://www.yna.co.kr/view/AKR20260320158300003",
+      "pubDate": "Fri, 20 Mar 2026 17:54:00 +0900"
+    },
+    {
+      "title": "삼성증권 \"중장기적으로 주주환원율 50% 수준까지 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320156200008",
+      "pubDate": "Fri, 20 Mar 2026 17:45:41 +0900"
+    },
+    {
+      "title": "용인시, 금리 우대 '용인형 청년예금' 출시 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260320155600061",
+      "pubDate": "Fri, 20 Mar 2026 17:45:02 +0900"
+    },
     {
       "title": "정부, 중소기업 성장 지원…R&D·스마트공장 확대",
       "link": "https://www.yna.co.kr/view/AKR20260320152300030",
@@ -97,61 +152,6 @@
       "title": "농식품부 \"중동 장기화 시 비료 수급불안 우려…선제대응 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260320063600030",
       "pubDate": "Fri, 20 Mar 2026 16:30:01 +0900"
-    },
-    {
-      "title": "서삼석 \"어업·면세유, 유류비 억제정책 제외…직격탄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320135700054",
-      "pubDate": "Fri, 20 Mar 2026 16:18:30 +0900"
-    },
-    {
-      "title": "[목포소식] 상의, 전남 서남권 미래성장 비전 포럼",
-      "link": "https://www.yna.co.kr/view/AKR20260320135200054",
-      "pubDate": "Fri, 20 Mar 2026 16:14:27 +0900"
-    },
-    {
-      "title": "광주상의, 영농형 태양광 입지·사용기간 규제 완화 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260320133100054",
-      "pubDate": "Fri, 20 Mar 2026 16:06:14 +0900"
-    },
-    {
-      "title": "DB손보, 감사위원에 얼라인 측 민수아·DB측 이현승 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260320128000002",
-      "pubDate": "Fri, 20 Mar 2026 15:59:11 +0900"
-    },
-    {
-      "title": "[특징주] 알루미늄 가격 급락…관련주 줄줄이 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320058851008",
-      "pubDate": "Fri, 20 Mar 2026 15:57:08 +0900"
-    },
-    {
-      "title": "원/달러 환율, 이틀 연속 1,500원대 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260320036751002",
-      "pubDate": "Fri, 20 Mar 2026 15:48:49 +0900"
-    },
-    {
-      "title": "[특징주] 아이엠바이오로직스, 코스닥 상장 첫날 '따따블' 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320041851008",
-      "pubDate": "Fri, 20 Mar 2026 15:45:06 +0900"
-    },
-    {
-      "title": "전주시·체인스토어협회·대형마트, '상생협력'에 한뜻",
-      "link": "https://www.yna.co.kr/view/AKR20260320125200055",
-      "pubDate": "Fri, 20 Mar 2026 15:44:43 +0900"
-    },
-    {
-      "title": "[특징주] 중동 에너지 인프라 잇단 피격에 신재생주 동반 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320047851008",
-      "pubDate": "Fri, 20 Mar 2026 15:44:35 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260320123400002",
-      "pubDate": "Fri, 20 Mar 2026 15:41:16 +0900"
-    },
-    {
-      "title": "與을지로위, 내주 정유·주유업계 사회적대화 시작…상생 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260320117000001",
-      "pubDate": "Fri, 20 Mar 2026 15:38:37 +0900"
     }
   ]
 }
