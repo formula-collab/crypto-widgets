@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773986977,
+  "updated_at_unix": 1773991617,
   "items": [
+    {
+      "title": "[목포소식] 상의, 전남 서남권 미래성장 비전 포럼",
+      "link": "https://www.yna.co.kr/view/AKR20260320135200054",
+      "pubDate": "Fri, 20 Mar 2026 16:14:27 +0900"
+    },
+    {
+      "title": "광주상의, 영농형 태양광 입지·사용기간 규제 완화 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260320133100054",
+      "pubDate": "Fri, 20 Mar 2026 16:06:14 +0900"
+    },
+    {
+      "title": "DB손보, 감사위원에 얼라인 측 민수아·DB측 이현승 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260320128000002",
+      "pubDate": "Fri, 20 Mar 2026 15:59:11 +0900"
+    },
+    {
+      "title": "[특징주] 알루미늄 가격 급락…관련주 줄줄이 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320058851008",
+      "pubDate": "Fri, 20 Mar 2026 15:57:08 +0900"
+    },
+    {
+      "title": "원/달러 환율, 이틀 연속 1,500원대 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260320036751002",
+      "pubDate": "Fri, 20 Mar 2026 15:48:49 +0900"
+    },
+    {
+      "title": "[특징주] 아이엠바이오로직스, 코스닥 상장 첫날 '따따블' 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320041851008",
+      "pubDate": "Fri, 20 Mar 2026 15:45:06 +0900"
+    },
+    {
+      "title": "전주시·체인스토어협회·대형마트, '상생협력'에 한뜻",
+      "link": "https://www.yna.co.kr/view/AKR20260320125200055",
+      "pubDate": "Fri, 20 Mar 2026 15:44:43 +0900"
+    },
+    {
+      "title": "[특징주] 중동 에너지 인프라 잇단 피격에 신재생주 동반 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320047851008",
+      "pubDate": "Fri, 20 Mar 2026 15:44:35 +0900"
+    },
+    {
+      "title": "[인사] 공정거래위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260320123400002",
+      "pubDate": "Fri, 20 Mar 2026 15:41:16 +0900"
+    },
+    {
+      "title": "與을지로위, 내주 정유·주유업계 사회적대화 시작…상생 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260320117000001",
+      "pubDate": "Fri, 20 Mar 2026 15:38:37 +0900"
+    },
+    {
+      "title": "외국환시세(3월20일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260320122700002",
+      "pubDate": "Fri, 20 Mar 2026 15:35:52 +0900"
+    },
+    {
+      "title": "원주시의회 산업경제위, 농업인단체연합회 간담회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260320121600062",
+      "pubDate": "Fri, 20 Mar 2026 15:33:10 +0900"
+    },
+    {
+      "title": "상지대 RISE사업단, 원주권 창업 생태계 이끈다",
+      "link": "https://www.yna.co.kr/view/AKR20260320120700062",
+      "pubDate": "Fri, 20 Mar 2026 15:31:50 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 0.4원 내린 1,500.6원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260320121200002",
+      "pubDate": "Fri, 20 Mar 2026 15:30:40 +0900"
+    },
+    {
+      "title": "산업차관 \"27일 2차 최고가격 발표…기름값 오를수밖에 없어\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320040651003",
+      "pubDate": "Fri, 20 Mar 2026 15:27:29 +0900"
+    },
+    {
+      "title": "대한상의 '보도자료 논란' 전무·본부장 해임…\"정부 감사결과 수용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320118600003",
+      "pubDate": "Fri, 20 Mar 2026 15:21:16 +0900"
+    },
     {
       "title": "강원 고성, 화진포·해솔리아 개발 본격화…체류 관광거점 조성",
       "link": "https://www.yna.co.kr/view/AKR20260320113100062",
@@ -72,86 +152,6 @@
       "title": "DB캐피탈, 박재범 신임 대표이사 선임",
       "link": "https://www.yna.co.kr/view/AKR20260320099000008",
       "pubDate": "Fri, 20 Mar 2026 13:52:13 +0900"
-    },
-    {
-      "title": "거래시간 연장에 증권업계 \"9월 시행도 촉박…투자자 혼란 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320089900008",
-      "pubDate": "Fri, 20 Mar 2026 13:42:56 +0900"
-    },
-    {
-      "title": "KB증권, 상생결제 서비스 도입…\"증권사 최초\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320095700008",
-      "pubDate": "Fri, 20 Mar 2026 13:39:03 +0900"
-    },
-    {
-      "title": "지식재산처 \"첨단기술 분야 모든 창업기업 특허 1개월내 심사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320089000063",
-      "pubDate": "Fri, 20 Mar 2026 13:36:25 +0900"
-    },
-    {
-      "title": "배민, BTS 컴백 맞춰 서울 소규모 카페 상생 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260320092500030",
-      "pubDate": "Fri, 20 Mar 2026 13:36:25 +0900"
-    },
-    {
-      "title": "정부, 'K-컬처' 지적재산 침해 공동방어…단계적 남북 교류 모색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320071851001",
-      "pubDate": "Fri, 20 Mar 2026 12:19:03 +0900"
-    },
-    {
-      "title": "롯데쇼핑, 사내외 이사 5명 신규 선임…\"책임 경영 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320085200030",
-      "pubDate": "Fri, 20 Mar 2026 12:13:24 +0900"
-    },
-    {
-      "title": "작년 어류양식 생산량 1.1%↑…휴·폐업 늘며 경영체는 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260320059300002",
-      "pubDate": "Fri, 20 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "'○○페이' 대중화…작년 간편지급 일평균 1.1조원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260320060300002",
-      "pubDate": "Fri, 20 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "6월 글로벌 최저한세 시행 앞두고 국세청 사전신고 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260320068700002",
-      "pubDate": "Fri, 20 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "정부 \"카타르LNG 수입 '0' 가정한 대응계획 마련…수급관리가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320085500003",
-      "pubDate": "Fri, 20 Mar 2026 11:55:37 +0900"
-    },
-    {
-      "title": "여성과기인 R&D 경력복귀 지원사업 모집…연구지원직 유형 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260320085800017",
-      "pubDate": "Fri, 20 Mar 2026 11:51:53 +0900"
-    },
-    {
-      "title": "[BTS 컴백] 구윤철 \"수조원 경제가치…보이지않은 효과는 몇십배\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320082900002",
-      "pubDate": "Fri, 20 Mar 2026 11:46:41 +0900"
-    },
-    {
-      "title": "日엔화 약세에…\"국제 유가, 엔화 기준으로 역대 최고치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320083000073",
-      "pubDate": "Fri, 20 Mar 2026 11:45:27 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.346%",
-      "link": "https://www.yna.co.kr/view/AKR20260320084300008",
-      "pubDate": "Fri, 20 Mar 2026 11:43:31 +0900"
-    },
-    {
-      "title": "롯데웰푸드, 신임 대표에 서정호 선임…\"글로벌 사업 확대 박차\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320081700030",
-      "pubDate": "Fri, 20 Mar 2026 11:32:51 +0900"
-    },
-    {
-      "title": "성동구 '청년내일브릿지' 운영…\"일상 회복과 성장 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320082400004",
-      "pubDate": "Fri, 20 Mar 2026 11:32:42 +0900"
     }
   ]
 }
