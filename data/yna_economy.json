@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774007378,
+  "updated_at_unix": 1774009926,
   "items": [
+    {
+      "title": "물가 우려에 영국 국채 금리 2008년 금융위기후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260320179800085",
+      "pubDate": "Fri, 20 Mar 2026 21:26:44 +0900"
+    },
+    {
+      "title": "러, 중동 전쟁에도 7회 연속 기준금리 인하",
+      "link": "https://www.yna.co.kr/view/AKR20260320178600099",
+      "pubDate": "Fri, 20 Mar 2026 21:08:50 +0900"
+    },
     {
       "title": "지역서 AI·반도체 인재 키운다…3년 넘게 근무하면 석사 지원",
       "link": "https://www.yna.co.kr/view/AKR20260320152600530",
@@ -142,16 +152,6 @@
       "title": "익산시, 청년창업 키운다…맞춤형 지원사업 추진",
       "link": "https://www.yna.co.kr/view/AKR20260320146000055",
       "pubDate": "Fri, 20 Mar 2026 17:01:28 +0900"
-    },
-    {
-      "title": "전주 팔복동에 '전북 AI 데이터센터' 들어선다…2027년 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260320067100055",
-      "pubDate": "Fri, 20 Mar 2026 17:00:02 +0900"
-    },
-    {
-      "title": "정부, 공공기관 AI활용 촉진…구윤철 \"손에 잡히는 성과 나와야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320135900002",
-      "pubDate": "Fri, 20 Mar 2026 17:00:01 +0900"
     }
   ]
 }
