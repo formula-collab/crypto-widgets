@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773998971,
+  "updated_at_unix": 1774001093,
   "items": [
+    {
+      "title": "지역서 AI·반도체 인재 키운다…3년 넘게 근무하면 석사 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260320152600530",
+      "pubDate": "Fri, 20 Mar 2026 18:57:17 +0900"
+    },
+    {
+      "title": "미래에셋, 코빗 이사회에 합류…FIU, 임원변경 신고수리",
+      "link": "https://www.yna.co.kr/view/AKR20260320165300002",
+      "pubDate": "Fri, 20 Mar 2026 18:48:17 +0900"
+    },
+    {
+      "title": "노동장관, 대전 공장 화재에 \"철저한 사고 대응\"…중수본 구성",
+      "link": "https://www.yna.co.kr/view/AKR20260320165600530",
+      "pubDate": "Fri, 20 Mar 2026 18:43:51 +0900"
+    },
+    {
+      "title": "우리은행원 체험한 '충주맨' 김선태…첫 광고 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260320147300002",
+      "pubDate": "Fri, 20 Mar 2026 18:26:35 +0900"
+    },
+    {
+      "title": "삼성바이오로직스 \"미국 계열사 주식 5천249억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320162700008",
+      "pubDate": "Fri, 20 Mar 2026 18:25:34 +0900"
+    },
     {
       "title": "기업은행 \"올해 첫 분기배당 도입…7월31일 기준 연 1회\"",
       "link": "https://www.yna.co.kr/view/AKR20260320162400002",
@@ -127,31 +152,6 @@
       "title": "정부, 공공기관 AI활용 촉진…구윤철 \"손에 잡히는 성과 나와야\"",
       "link": "https://www.yna.co.kr/view/AKR20260320135900002",
       "pubDate": "Fri, 20 Mar 2026 17:00:01 +0900"
-    },
-    {
-      "title": "[동정] 이명구 관세청장, BTS 공연 앞두고 인천공항 긴급점검",
-      "link": "https://www.yna.co.kr/view/AKR20260320144400002",
-      "pubDate": "Fri, 20 Mar 2026 16:57:30 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.410%",
-      "link": "https://www.yna.co.kr/view/AKR20260320142000008",
-      "pubDate": "Fri, 20 Mar 2026 16:46:50 +0900"
-    },
-    {
-      "title": "김이탁 국토차관, 산하기관 14곳에 중동발 위기 비상 대응 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260320140400003",
-      "pubDate": "Fri, 20 Mar 2026 16:37:06 +0900"
-    },
-    {
-      "title": "HUG, 부동산 개발업계와 간담회…저금리 유동성 지원 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260320138700003",
-      "pubDate": "Fri, 20 Mar 2026 16:33:10 +0900"
-    },
-    {
-      "title": "농식품부 \"중동 장기화 시 비료 수급불안 우려…선제대응 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320063600030",
-      "pubDate": "Fri, 20 Mar 2026 16:30:01 +0900"
     }
   ]
 }
