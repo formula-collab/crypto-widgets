@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774036561,
+  "updated_at_unix": 1774038122,
   "items": [
+    {
+      "title": "美연준 금리전망 인하→인상 뒤집혀…단기채금리 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260321006100072",
+      "pubDate": "Sat, 21 Mar 2026 04:52:27 +0900"
+    },
     {
       "title": "[뉴욕유가] 美 추가 파병에 긴장감 더욱 고조…WTI 2.3%↑",
       "link": "https://www.yna.co.kr/view/AKR20260321005200009",
@@ -147,11 +152,6 @@
       "title": "기준금리 인상우려에 국고채 금리 상승…3년물 연 3.410%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260320142051008",
       "pubDate": "Fri, 20 Mar 2026 17:08:28 +0900"
-    },
-    {
-      "title": "환율3법 무산됐지만…'서학개미 유턴' RIA 23일 예정대로 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260320147800008",
-      "pubDate": "Fri, 20 Mar 2026 17:05:36 +0900"
     }
   ]
 }
