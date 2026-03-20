@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773991617,
+  "updated_at_unix": 1773993591,
   "items": [
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.410%",
+      "link": "https://www.yna.co.kr/view/AKR20260320142000008",
+      "pubDate": "Fri, 20 Mar 2026 16:46:50 +0900"
+    },
+    {
+      "title": "김이탁 국토차관, 산하기관 14곳에 중동발 위기 비상 대응 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260320140400003",
+      "pubDate": "Fri, 20 Mar 2026 16:37:06 +0900"
+    },
+    {
+      "title": "HUG, 부동산 개발업계와 간담회…저금리 유동성 지원 등 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260320138700003",
+      "pubDate": "Fri, 20 Mar 2026 16:33:10 +0900"
+    },
+    {
+      "title": "농식품부 \"중동 장기화 시 비료 수급불안 우려…선제대응 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320063600030",
+      "pubDate": "Fri, 20 Mar 2026 16:30:01 +0900"
+    },
+    {
+      "title": "서삼석 \"어업·면세유, 유류비 억제정책 제외…직격탄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320135700054",
+      "pubDate": "Fri, 20 Mar 2026 16:18:30 +0900"
+    },
     {
       "title": "[목포소식] 상의, 전남 서남권 미래성장 비전 포럼",
       "link": "https://www.yna.co.kr/view/AKR20260320135200054",
@@ -127,31 +152,6 @@
       "title": "삼성전자, '소비자가 뽑은 좋은 광고상' 4관왕…제일기획 협업",
       "link": "https://www.yna.co.kr/view/AKR20260320104600003",
       "pubDate": "Fri, 20 Mar 2026 14:28:51 +0900"
-    },
-    {
-      "title": "홍천군, 외국인 계절근로자 1천820명 배치…강원 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260320103600062",
-      "pubDate": "Fri, 20 Mar 2026 14:16:46 +0900"
-    },
-    {
-      "title": "[게시판] 부산은행, 부산과학관 '해피 BUS 데이' 사업 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260320105200051",
-      "pubDate": "Fri, 20 Mar 2026 14:16:24 +0900"
-    },
-    {
-      "title": "홍지선 국토차관, 대우건설 대표 면담…\"가덕도신공항 차질없게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320100000003",
-      "pubDate": "Fri, 20 Mar 2026 14:13:21 +0900"
-    },
-    {
-      "title": "신한은행, 신임 사외이사 후보로 윤준·채은미 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260320099900002",
-      "pubDate": "Fri, 20 Mar 2026 13:58:16 +0900"
-    },
-    {
-      "title": "DB캐피탈, 박재범 신임 대표이사 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260320099000008",
-      "pubDate": "Fri, 20 Mar 2026 13:52:13 +0900"
     }
   ]
 }
