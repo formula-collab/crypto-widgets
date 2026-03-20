@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1773993591,
+  "updated_at_unix": 1773996173,
   "items": [
+    {
+      "title": "정부, 중소기업 성장 지원…R&D·스마트공장 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260320152300030",
+      "pubDate": "Fri, 20 Mar 2026 17:36:45 +0900"
+    },
+    {
+      "title": "스틱인베스트먼트 \"스틱한투인프라 사모투자합자회사株 400억 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320151000008",
+      "pubDate": "Fri, 20 Mar 2026 17:24:00 +0900"
+    },
+    {
+      "title": "김남구 한국금융지주 회장, 작년 보수로 63억원 수령",
+      "link": "https://www.yna.co.kr/view/AKR20260320152000008",
+      "pubDate": "Fri, 20 Mar 2026 17:22:20 +0900"
+    },
+    {
+      "title": "'대산 1호' 금융지원 확정…여천NCC 자율협의회도 곧 소집",
+      "link": "https://www.yna.co.kr/view/AKR20260320142500002",
+      "pubDate": "Fri, 20 Mar 2026 17:17:10 +0900"
+    },
+    {
+      "title": "농협, 김주양 농업경제대표이사 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260320141900030",
+      "pubDate": "Fri, 20 Mar 2026 17:14:45 +0900"
+    },
+    {
+      "title": "고유가 직격탄… 에어부산 4월부터 일부 노선 운항 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260320150200051",
+      "pubDate": "Fri, 20 Mar 2026 17:14:01 +0900"
+    },
+    {
+      "title": "기준금리 인상우려에 국고채 금리 상승…3년물 연 3.410%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260320142051008",
+      "pubDate": "Fri, 20 Mar 2026 17:08:28 +0900"
+    },
+    {
+      "title": "환율3법 무산됐지만…'서학개미 유턴' RIA 23일 예정대로 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260320147800008",
+      "pubDate": "Fri, 20 Mar 2026 17:05:36 +0900"
+    },
+    {
+      "title": "'지역 상권 살린다'…경기도, 29일까지 10일간 통큰세일",
+      "link": "https://www.yna.co.kr/view/AKR20260320147600060",
+      "pubDate": "Fri, 20 Mar 2026 17:04:56 +0900"
+    },
+    {
+      "title": "서울양평고속도로 사업 재개에 양평군 지역사회 \"환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320137600061",
+      "pubDate": "Fri, 20 Mar 2026 17:02:14 +0900"
+    },
+    {
+      "title": "고양 덕이동 '대우엘크루 일산'…1천508가구 회원 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260320146200060",
+      "pubDate": "Fri, 20 Mar 2026 17:01:46 +0900"
+    },
+    {
+      "title": "익산시, 청년창업 키운다…맞춤형 지원사업 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260320146000055",
+      "pubDate": "Fri, 20 Mar 2026 17:01:28 +0900"
+    },
+    {
+      "title": "전주 팔복동에 '전북 AI 데이터센터' 들어선다…2027년 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260320067100055",
+      "pubDate": "Fri, 20 Mar 2026 17:00:02 +0900"
+    },
+    {
+      "title": "정부, 공공기관 AI활용 촉진…구윤철 \"손에 잡히는 성과 나와야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320135900002",
+      "pubDate": "Fri, 20 Mar 2026 17:00:01 +0900"
+    },
+    {
+      "title": "[동정] 이명구 관세청장, BTS 공연 앞두고 인천공항 긴급점검",
+      "link": "https://www.yna.co.kr/view/AKR20260320144400002",
+      "pubDate": "Fri, 20 Mar 2026 16:57:30 +0900"
+    },
     {
       "title": "국고채 금리 일제히 상승…3년물 연 3.410%",
       "link": "https://www.yna.co.kr/view/AKR20260320142000008",
@@ -77,81 +152,6 @@
       "title": "與을지로위, 내주 정유·주유업계 사회적대화 시작…상생 논의",
       "link": "https://www.yna.co.kr/view/AKR20260320117000001",
       "pubDate": "Fri, 20 Mar 2026 15:38:37 +0900"
-    },
-    {
-      "title": "외국환시세(3월20일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260320122700002",
-      "pubDate": "Fri, 20 Mar 2026 15:35:52 +0900"
-    },
-    {
-      "title": "원주시의회 산업경제위, 농업인단체연합회 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260320121600062",
-      "pubDate": "Fri, 20 Mar 2026 15:33:10 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, 원주권 창업 생태계 이끈다",
-      "link": "https://www.yna.co.kr/view/AKR20260320120700062",
-      "pubDate": "Fri, 20 Mar 2026 15:31:50 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.4원 내린 1,500.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260320121200002",
-      "pubDate": "Fri, 20 Mar 2026 15:30:40 +0900"
-    },
-    {
-      "title": "산업차관 \"27일 2차 최고가격 발표…기름값 오를수밖에 없어\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320040651003",
-      "pubDate": "Fri, 20 Mar 2026 15:27:29 +0900"
-    },
-    {
-      "title": "대한상의 '보도자료 논란' 전무·본부장 해임…\"정부 감사결과 수용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320118600003",
-      "pubDate": "Fri, 20 Mar 2026 15:21:16 +0900"
-    },
-    {
-      "title": "강원 고성, 화진포·해솔리아 개발 본격화…체류 관광거점 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260320113100062",
-      "pubDate": "Fri, 20 Mar 2026 15:00:30 +0900"
-    },
-    {
-      "title": "4대 은행, 공정위 'LTV 담합' 과징금에 불복 소송",
-      "link": "https://www.yna.co.kr/view/AKR20260320111500002",
-      "pubDate": "Fri, 20 Mar 2026 14:56:10 +0900"
-    },
-    {
-      "title": "서대문구, 홍은15구역 재개발사업 조합설립 인가",
-      "link": "https://www.yna.co.kr/view/AKR20260320110300004",
-      "pubDate": "Fri, 20 Mar 2026 14:47:11 +0900"
-    },
-    {
-      "title": "김영록 \"소상공인 '1%대 초저금리 대출' 1조원 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320110900054",
-      "pubDate": "Fri, 20 Mar 2026 14:44:30 +0900"
-    },
-    {
-      "title": "익산시, 소상공인 카드수수료 '최대 120만원' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260320104900055",
-      "pubDate": "Fri, 20 Mar 2026 14:39:36 +0900"
-    },
-    {
-      "title": "전북중장년내일센터, '돌봄 경력' 여성 재취업 프로그램 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260320105100055",
-      "pubDate": "Fri, 20 Mar 2026 14:31:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260320103500011",
-      "pubDate": "Fri, 20 Mar 2026 14:30:01 +0900"
-    },
-    {
-      "title": "중장기위 거버넌스개혁 분과회의…성과기반 인사제도 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260320106700002",
-      "pubDate": "Fri, 20 Mar 2026 14:29:59 +0900"
-    },
-    {
-      "title": "삼성전자, '소비자가 뽑은 좋은 광고상' 4관왕…제일기획 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260320104600003",
-      "pubDate": "Fri, 20 Mar 2026 14:28:51 +0900"
     }
   ]
 }
