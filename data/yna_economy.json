@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774040043,
+  "updated_at_unix": 1774041601,
   "items": [
+    {
+      "title": "[부동산캘린더] 온기 더해가는 분양 시장…내주도 서울서 청약 나들이",
+      "link": "https://www.yna.co.kr/view/AKR20260320154600003",
+      "pubDate": "Sat, 21 Mar 2026 06:00:03 +0900"
+    },
     {
       "title": "美연준 금리전망 인하→인상 뒤집혀…단기채금리 급등",
       "link": "https://www.yna.co.kr/view/AKR20260321006100072",
@@ -147,11 +152,6 @@
       "title": "고유가 직격탄… 에어부산 4월부터 일부 노선 운항 축소",
       "link": "https://www.yna.co.kr/view/AKR20260320150200051",
       "pubDate": "Fri, 20 Mar 2026 17:14:01 +0900"
-    },
-    {
-      "title": "기준금리 인상우려에 국고채 금리 상승…3년물 연 3.410%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320142051008",
-      "pubDate": "Fri, 20 Mar 2026 17:08:28 +0900"
     }
   ]
 }
