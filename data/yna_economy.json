@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774031868,
+  "updated_at_unix": 1774035008,
   "items": [
+    {
+      "title": "[뉴욕유가] 美 추가 파병에 긴장감 더욱 고조…WTI 2.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260321005200009",
+      "pubDate": "Sat, 21 Mar 2026 03:56:59 +0900"
+    },
     {
       "title": "달러-원, 美 금리인하 기대 소멸에 1,500원 다시 상회…1,504.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260321004200002",
@@ -147,11 +152,6 @@
       "title": "환율3법 무산됐지만…'서학개미 유턴' RIA 23일 예정대로 출시",
       "link": "https://www.yna.co.kr/view/AKR20260320147800008",
       "pubDate": "Fri, 20 Mar 2026 17:05:36 +0900"
-    },
-    {
-      "title": "'지역 상권 살린다'…경기도, 29일까지 10일간 통큰세일",
-      "link": "https://www.yna.co.kr/view/AKR20260320147600060",
-      "pubDate": "Fri, 20 Mar 2026 17:04:56 +0900"
     }
   ]
 }
