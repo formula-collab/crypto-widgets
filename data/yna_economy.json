@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774043431,
+  "updated_at_unix": 1774044975,
   "items": [
+    {
+      "title": "[신상잇슈] 풀무원다논 '더블제로 액티비아'·롯데웰푸드 '제주말차라떼'",
+      "link": "https://www.yna.co.kr/view/AKR20260320087100030",
+      "pubDate": "Sat, 21 Mar 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[금주핫템] LF 리복 '클럽C 로퍼'·신라호텔 팔선 '에디션 8'",
+      "link": "https://www.yna.co.kr/view/AKR20260320025000030",
+      "pubDate": "Sat, 21 Mar 2026 07:00:02 +0900"
+    },
     {
       "title": "석유 최고가제 시행 첫째주, 주유소 기름값 하락 전환",
       "link": "https://www.yna.co.kr/view/AKR20260320137100003",
@@ -142,16 +152,6 @@
       "title": "김남구 한국금융지주 회장, 작년 보수로 63억원 수령",
       "link": "https://www.yna.co.kr/view/AKR20260320152000008",
       "pubDate": "Fri, 20 Mar 2026 17:22:20 +0900"
-    },
-    {
-      "title": "'대산 1호' 금융지원 확정…여천NCC 자율협의회도 곧 소집",
-      "link": "https://www.yna.co.kr/view/AKR20260320142500002",
-      "pubDate": "Fri, 20 Mar 2026 17:17:10 +0900"
-    },
-    {
-      "title": "농협, 김주양 농업경제대표이사 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260320141900030",
-      "pubDate": "Fri, 20 Mar 2026 17:14:45 +0900"
     }
   ]
 }
