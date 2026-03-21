@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774069231,
+  "updated_at_unix": 1774072707,
   "items": [
+    {
+      "title": "우상호 강원지사 후보 \"폐광지역, 복합 개발로 활로 찾을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321037800062",
+      "pubDate": "Sat, 21 Mar 2026 14:48:56 +0900"
+    },
     {
       "title": "[부고] 최승재(중소기업 옴부즈만)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260321034200030",
@@ -147,11 +152,6 @@
       "title": "외교부, 美사우스다코타 부지사와 경제협력 논의",
       "link": "https://www.yna.co.kr/view/AKR20260320157000504",
       "pubDate": "Fri, 20 Mar 2026 18:17:12 +0900"
-    },
-    {
-      "title": "삼성물산, 이정식 전 노동장관 사외이사로 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260320161900003",
-      "pubDate": "Fri, 20 Mar 2026 18:14:59 +0900"
     }
   ]
 }
