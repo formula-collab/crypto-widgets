@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774129421,
+  "updated_at_unix": 1774131136,
   "items": [
+    {
+      "title": "충남도, 글로벌 강소기업 7곳 해외시장 개척 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260322005600063",
+      "pubDate": "Sun, 22 Mar 2026 07:05:34 +0900"
+    },
+    {
+      "title": "소외됐던 ETN, 전쟁으로 원유·가스 관심 커지자 거래량 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260320148600008",
+      "pubDate": "Sun, 22 Mar 2026 07:05:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 트럼프, 결국 확전 택할까…또다시 치솟는 변동성",
+      "link": "https://www.yna.co.kr/view/AKR20260320176300008",
+      "pubDate": "Sun, 22 Mar 2026 07:00:27 +0900"
+    },
+    {
+      "title": "경기도, 중동 수출기업 물류비 지원…50개사에 최대 500만원",
+      "link": "https://www.yna.co.kr/view/AKR20260320111600061",
+      "pubDate": "Sun, 22 Mar 2026 07:00:03 +0900"
+    },
+    {
+      "title": "\"물류대란에 바이어 연락 두절\"…중동 사태 신음하는 수출기업",
+      "link": "https://www.yna.co.kr/view/AKR20260321033200003",
+      "pubDate": "Sun, 22 Mar 2026 06:45:00 +0900"
+    },
     {
       "title": "한국 AI 약진…에이닷·파파고 글로벌 톱50 안착",
       "link": "https://www.yna.co.kr/view/AKR20260320168000017",
@@ -127,31 +152,6 @@
       "title": "미, 한 달간 이란산 석유 판매 허용…이란 \"더 팔 것 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260321022800009",
       "pubDate": "Sat, 21 Mar 2026 09:38:31 +0900"
-    },
-    {
-      "title": "울주군, 해빙기 대비 건축공사장 안전점검…\"신속한 후속조치도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320075800057",
-      "pubDate": "Sat, 21 Mar 2026 09:10:00 +0900"
-    },
-    {
-      "title": "횡성군, 이모빌리티 혁신거점 조성을 위한 주민 의견 듣는다",
-      "link": "https://www.yna.co.kr/view/AKR20260320072100062",
-      "pubDate": "Sat, 21 Mar 2026 09:00:06 +0900"
-    },
-    {
-      "title": "[다음주 경제] 이란사태로 소비심리 나빠졌나…추경안도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260321020500002",
-      "pubDate": "Sat, 21 Mar 2026 08:54:08 +0900"
-    },
-    {
-      "title": "[머니플로우] 전쟁 불확실성에 공매도 자금·인버스 매집 ↑",
-      "link": "https://www.yna.co.kr/view/AKR20260320151300008",
-      "pubDate": "Sat, 21 Mar 2026 08:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 풀무원다논 '더블제로 액티비아'·롯데웰푸드 '제주말차라떼'",
-      "link": "https://www.yna.co.kr/view/AKR20260320087100030",
-      "pubDate": "Sat, 21 Mar 2026 07:00:03 +0900"
     }
   ]
 }
