@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774134840,
+  "updated_at_unix": 1774136646,
   "items": [
+    {
+      "title": "울산시, 기업 맞춤 '지방세 실무 책자' 발간…\"성실납세 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320124100057",
+      "pubDate": "Sun, 22 Mar 2026 08:33:00 +0900"
+    },
+    {
+      "title": "인천 올해 '천원주택' 경쟁률 4.8대 1…3천419가구 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260322009600065",
+      "pubDate": "Sun, 22 Mar 2026 08:31:00 +0900"
+    },
+    {
+      "title": "한경협, 하나금융·한청원·EBS와 학교 밖 청소년 지원 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260320164000003",
+      "pubDate": "Sun, 22 Mar 2026 08:30:01 +0900"
+    },
+    {
+      "title": "하나금융, 학교 밖 청소년 자립 지원 '청년 유스 브릿지' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260321026100002",
+      "pubDate": "Sun, 22 Mar 2026 08:30:00 +0900"
+    },
     {
       "title": "\"댕댕이와 벚꽃구경 가요\"…여행·숙박, '펫팸족' 유치경쟁 치열",
       "link": "https://www.yna.co.kr/view/AKR20260321002600030",
@@ -132,26 +152,6 @@
       "title": "박홍근 \"추경, 상시적 재정운용 수단 바람직 않다\"",
       "link": "https://www.yna.co.kr/view/AKR20260321038600002",
       "pubDate": "Sun, 22 Mar 2026 05:31:01 +0900"
-    },
-    {
-      "title": "박홍근 \"부동산 세제, 장기적 시계의 심층연구 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321039900002",
-      "pubDate": "Sun, 22 Mar 2026 05:31:00 +0900"
-    },
-    {
-      "title": "美경제석학 \"4∼5년내 장기금리 급등 동반한 금융 충격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321046000073",
-      "pubDate": "Sat, 21 Mar 2026 17:28:04 +0900"
-    },
-    {
-      "title": "[인천소식] 연수구-싸토리우스, 바이오 일자리 설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260321043900065",
-      "pubDate": "Sat, 21 Mar 2026 16:46:41 +0900"
-    },
-    {
-      "title": "우상호 강원지사 후보 \"폐광지역, 복합 개발로 활로 찾을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321037800062",
-      "pubDate": "Sat, 21 Mar 2026 14:48:56 +0900"
     }
   ]
 }
