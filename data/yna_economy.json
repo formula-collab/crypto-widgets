@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774133201,
+  "updated_at_unix": 1774134840,
   "items": [
+    {
+      "title": "\"댕댕이와 벚꽃구경 가요\"…여행·숙박, '펫팸족' 유치경쟁 치열",
+      "link": "https://www.yna.co.kr/view/AKR20260321002600030",
+      "pubDate": "Sun, 22 Mar 2026 08:01:00 +0900"
+    },
+    {
+      "title": "단양군, 9급 시설직 공무원 자체 경력경쟁채용 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260321028200064",
+      "pubDate": "Sun, 22 Mar 2026 08:00:04 +0900"
+    },
+    {
+      "title": "수은 \"5년간 28조원 투입해 K컬처 확산 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20260320142400002",
+      "pubDate": "Sun, 22 Mar 2026 08:00:01 +0900"
+    },
     {
       "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
       "link": "https://www.yna.co.kr/view/AKR20260321001200008",
@@ -137,21 +152,6 @@
       "title": "우상호 강원지사 후보 \"폐광지역, 복합 개발로 활로 찾을 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260321037800062",
       "pubDate": "Sat, 21 Mar 2026 14:48:56 +0900"
-    },
-    {
-      "title": "[부고] 최승재(중소기업 옴부즈만)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260321034200030",
-      "pubDate": "Sat, 21 Mar 2026 13:46:31 +0900"
-    },
-    {
-      "title": "李대통령 \"선제적 자발 상환하라\"…'사업대출 집구매' 거듭 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260321032500001",
-      "pubDate": "Sat, 21 Mar 2026 12:55:12 +0900"
-    },
-    {
-      "title": "미, 한 달간 이란산 석유 판매 허용…이란 \"더 팔 것 없어\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260321022851009",
-      "pubDate": "Sat, 21 Mar 2026 11:57:30 +0900"
     }
   ]
 }
