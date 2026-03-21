@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774126013,
+  "updated_at_unix": 1774127676,
   "items": [
+    {
+      "title": "최고가격제에도 농업용 난방유 '나 홀로 상승'…보름 넘게 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260320161200030",
+      "pubDate": "Sun, 22 Mar 2026 06:11:01 +0900"
+    },
+    {
+      "title": "노동부, '38도' 폭염에 옥외작업 전면중지 검토…공사기간 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260320146400530",
+      "pubDate": "Sun, 22 Mar 2026 06:10:01 +0900"
+    },
+    {
+      "title": "고가주택 전담반까지…아파트 공시가격 이렇게 만들어진다",
+      "link": "https://www.yna.co.kr/view/AKR20260322003000003",
+      "pubDate": "Sun, 22 Mar 2026 06:08:59 +0900"
+    },
+    {
+      "title": "이달 초 20대 소액 '빚투' 손실률, 일반 투자자의 3.2배",
+      "link": "https://www.yna.co.kr/view/AKR20260321049300002",
+      "pubDate": "Sun, 22 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "사회 첫걸음 '20대 후반' 취업자 9년 만에 최소…고용률도 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260321048800002",
+      "pubDate": "Sun, 22 Mar 2026 05:55:01 +0900"
+    },
+    {
+      "title": "단일종목 2배 ETF 이르면 5월 출시…코스닥 프리미엄 ETF도 가세",
+      "link": "https://www.yna.co.kr/view/AKR20260321047200002",
+      "pubDate": "Sun, 22 Mar 2026 05:53:01 +0900"
+    },
+    {
+      "title": "금감원 특사경 '1호 인지수사' 시동…합동대응단 통신조회 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260321054600002",
+      "pubDate": "Sun, 22 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "고유가·외국인 5주 순매도…은행 창구 환율은 1,530원대",
+      "link": "https://www.yna.co.kr/view/AKR20260321047900002",
+      "pubDate": "Sun, 22 Mar 2026 05:51:01 +0900"
+    },
+    {
+      "title": "중동발 인플레 파고에 고금리 리스크…경기회복 제동 걸리나",
+      "link": "https://www.yna.co.kr/view/AKR20260321035900002",
+      "pubDate": "Sun, 22 Mar 2026 05:49:00 +0900"
+    },
+    {
+      "title": "금리뛰자 은행건전성 휘청…11년내 최고연체율 등 부실징후 속출",
+      "link": "https://www.yna.co.kr/view/AKR20260321056300002",
+      "pubDate": "Sun, 22 Mar 2026 05:47:01 +0900"
+    },
+    {
+      "title": "기획처 석달만에 수장 맞나…박홍근號, 추경·미래전략 방향타",
+      "link": "https://www.yna.co.kr/view/AKR20260321044500002",
+      "pubDate": "Sun, 22 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "박홍근 \"적극 재정 필요…지방이 성장 거점 되게 우대 원칙\"",
       "link": "https://www.yna.co.kr/view/AKR20260321041100002",
@@ -97,61 +152,6 @@
       "title": "[금주핫템] LF 리복 '클럽C 로퍼'·신라호텔 팔선 '에디션 8'",
       "link": "https://www.yna.co.kr/view/AKR20260320025000030",
       "pubDate": "Sat, 21 Mar 2026 07:00:02 +0900"
-    },
-    {
-      "title": "석유 최고가제 시행 첫째주, 주유소 기름값 하락 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260320137100003",
-      "pubDate": "Sat, 21 Mar 2026 06:31:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 온기 더해가는 분양 시장…내주도 서울서 청약 나들이",
-      "link": "https://www.yna.co.kr/view/AKR20260320154600003",
-      "pubDate": "Sat, 21 Mar 2026 06:00:03 +0900"
-    },
-    {
-      "title": "美연준 금리전망 인하→인상 뒤집혀…단기채금리 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260321006100072",
-      "pubDate": "Sat, 21 Mar 2026 04:52:27 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美 추가 파병에 긴장감 더욱 고조…WTI 2.3%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260321005200009",
-      "pubDate": "Sat, 21 Mar 2026 03:56:59 +0900"
-    },
-    {
-      "title": "달러-원, 美 금리인하 기대 소멸에 1,500원 다시 상회…1,504.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260321004200002",
-      "pubDate": "Sat, 21 Mar 2026 02:47:03 +0900"
-    },
-    {
-      "title": "미국인 65% \"트럼프, 결국 이란과 대규모 지상전 벌일것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320183451071",
-      "pubDate": "Sat, 21 Mar 2026 01:19:00 +0900"
-    },
-    {
-      "title": "美연준 월러 \"유가發 인플레 우려해 금리동결로 입장전환\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320185900072",
-      "pubDate": "Sat, 21 Mar 2026 00:01:27 +0900"
-    },
-    {
-      "title": "물가 우려에 영국 국채 금리 2008년 금융위기후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260320179800085",
-      "pubDate": "Fri, 20 Mar 2026 21:26:44 +0900"
-    },
-    {
-      "title": "러, 중동 전쟁에도 7회 연속 기준금리 인하",
-      "link": "https://www.yna.co.kr/view/AKR20260320178600099",
-      "pubDate": "Fri, 20 Mar 2026 21:08:50 +0900"
-    },
-    {
-      "title": "지역서 AI·반도체 인재 키운다…3년 넘게 근무하면 석사 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260320152600530",
-      "pubDate": "Fri, 20 Mar 2026 18:57:17 +0900"
-    },
-    {
-      "title": "미래에셋, 코빗 이사회에 합류…FIU, 임원변경 신고수리",
-      "link": "https://www.yna.co.kr/view/AKR20260320165300002",
-      "pubDate": "Fri, 20 Mar 2026 18:48:17 +0900"
     }
   ]
 }
