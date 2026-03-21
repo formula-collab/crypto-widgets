@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774124019,
+  "updated_at_unix": 1774126013,
   "items": [
+    {
+      "title": "박홍근 \"적극 재정 필요…지방이 성장 거점 되게 우대 원칙\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321041100002",
+      "pubDate": "Sun, 22 Mar 2026 05:31:01 +0900"
+    },
+    {
+      "title": "박홍근 \"추경, 상시적 재정운용 수단 바람직 않다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321038600002",
+      "pubDate": "Sun, 22 Mar 2026 05:31:01 +0900"
+    },
+    {
+      "title": "박홍근 \"부동산 세제, 장기적 시계의 심층연구 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321039900002",
+      "pubDate": "Sun, 22 Mar 2026 05:31:00 +0900"
+    },
     {
       "title": "美경제석학 \"4∼5년내 장기금리 급등 동반한 금융 충격\"",
       "link": "https://www.yna.co.kr/view/AKR20260321046000073",
@@ -137,21 +152,6 @@
       "title": "미래에셋, 코빗 이사회에 합류…FIU, 임원변경 신고수리",
       "link": "https://www.yna.co.kr/view/AKR20260320165300002",
       "pubDate": "Fri, 20 Mar 2026 18:48:17 +0900"
-    },
-    {
-      "title": "노동장관, 대전 공장 화재에 \"철저한 사고 대응\"…중수본 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260320165600530",
-      "pubDate": "Fri, 20 Mar 2026 18:43:51 +0900"
-    },
-    {
-      "title": "우리은행원 체험한 '충주맨' 김선태…첫 광고 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260320147300002",
-      "pubDate": "Fri, 20 Mar 2026 18:26:35 +0900"
-    },
-    {
-      "title": "삼성바이오로직스 \"미국 계열사 주식 5천249억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320162700008",
-      "pubDate": "Fri, 20 Mar 2026 18:25:34 +0900"
     }
   ]
 }
