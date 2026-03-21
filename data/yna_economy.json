@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774063917,
+  "updated_at_unix": 1774069231,
   "items": [
+    {
+      "title": "[부고] 최승재(중소기업 옴부즈만)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260321034200030",
+      "pubDate": "Sat, 21 Mar 2026 13:46:31 +0900"
+    },
+    {
+      "title": "李대통령 \"선제적 자발 상환하라\"…'사업대출 집구매' 거듭 경고",
+      "link": "https://www.yna.co.kr/view/AKR20260321032500001",
+      "pubDate": "Sat, 21 Mar 2026 12:55:12 +0900"
+    },
     {
       "title": "미, 한 달간 이란산 석유 판매 허용…이란 \"더 팔 것 없어\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260321022851009",
@@ -142,16 +152,6 @@
       "title": "삼성물산, 이정식 전 노동장관 사외이사로 선임",
       "link": "https://www.yna.co.kr/view/AKR20260320161900003",
       "pubDate": "Fri, 20 Mar 2026 18:14:59 +0900"
-    },
-    {
-      "title": "고유가 직격탄…에어부산·에어로케이 4월부터 일부 운항 축소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320150201051",
-      "pubDate": "Fri, 20 Mar 2026 18:01:34 +0900"
-    },
-    {
-      "title": "김남구 한국금융지주 회장, 작년 보수로 63억원 수령(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320152051008",
-      "pubDate": "Fri, 20 Mar 2026 18:01:34 +0900"
     }
   ]
 }
