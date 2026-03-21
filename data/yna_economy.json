@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774081123,
+  "updated_at_unix": 1774083230,
   "items": [
+    {
+      "title": "美경제석학 \"4∼5년내 장기금리 급등 동반한 금융 충격\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321046000073",
+      "pubDate": "Sat, 21 Mar 2026 17:28:04 +0900"
+    },
     {
       "title": "[인천소식] 연수구-싸토리우스, 바이오 일자리 설명회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260321043900065",
@@ -147,11 +152,6 @@
       "title": "삼성바이오로직스 \"미국 계열사 주식 5천249억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260320162700008",
       "pubDate": "Fri, 20 Mar 2026 18:25:34 +0900"
-    },
-    {
-      "title": "기업은행 \"올해 첫 분기배당 도입…7월31일 기준 연 1회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320162400002",
-      "pubDate": "Fri, 20 Mar 2026 18:20:05 +0900"
     }
   ]
 }
