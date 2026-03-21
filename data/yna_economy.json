@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774127676,
+  "updated_at_unix": 1774129421,
   "items": [
+    {
+      "title": "한국 AI 약진…에이닷·파파고 글로벌 톱50 안착",
+      "link": "https://www.yna.co.kr/view/AKR20260320168000017",
+      "pubDate": "Sun, 22 Mar 2026 06:33:00 +0900"
+    },
     {
       "title": "최고가격제에도 농업용 난방유 '나 홀로 상승'…보름 넘게 올라",
       "link": "https://www.yna.co.kr/view/AKR20260320161200030",
@@ -147,11 +152,6 @@
       "title": "[신상잇슈] 풀무원다논 '더블제로 액티비아'·롯데웰푸드 '제주말차라떼'",
       "link": "https://www.yna.co.kr/view/AKR20260320087100030",
       "pubDate": "Sat, 21 Mar 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[금주핫템] LF 리복 '클럽C 로퍼'·신라호텔 팔선 '에디션 8'",
-      "link": "https://www.yna.co.kr/view/AKR20260320025000030",
-      "pubDate": "Sat, 21 Mar 2026 07:00:02 +0900"
     }
   ]
 }
