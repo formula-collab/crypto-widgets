@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774178066,
+  "updated_at_unix": 1774179765,
   "items": [
+    {
+      "title": "신현송 한은총재 후보자 \"엄중한 시기…균형있는 통화정책\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322060700002",
+      "pubDate": "Sun, 22 Mar 2026 20:21:58 +0900"
+    },
+    {
+      "title": "'중동대응' 추경 25조원 규모…당정 \"취약계층 차등지원 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260322056251001",
+      "pubDate": "Sun, 22 Mar 2026 20:10:23 +0900"
+    },
     {
       "title": "[프로필] 신현송 한은 총재 후보…실무 겸비한 국제금융·거시경제 석학(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322041051002",
@@ -142,16 +152,6 @@
       "title": "'BTS 경제효과'는…K뷰티패션 매출 '껑충'·호텔도 만실(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322009951030",
       "pubDate": "Sun, 22 Mar 2026 11:43:58 +0900"
-    },
-    {
-      "title": "\"생수 9배·앨범 215배\"…BTS 공연에 광화문 편의점 매출 폭증",
-      "link": "https://www.yna.co.kr/view/AKR20260322023800030",
-      "pubDate": "Sun, 22 Mar 2026 11:24:44 +0900"
-    },
-    {
-      "title": "[게시판] 코트라 '의료기기 수출상담회'…4천만달러 수출 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260322023700003",
-      "pubDate": "Sun, 22 Mar 2026 11:16:39 +0900"
     }
   ]
 }
