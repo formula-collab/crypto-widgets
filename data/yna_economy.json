@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774136646,
+  "updated_at_unix": 1774141797,
   "items": [
+    {
+      "title": "우리은행, 신규 개인 신용대출에 연 7% 금리 상한",
+      "link": "https://www.yna.co.kr/view/AKR20260320137400002",
+      "pubDate": "Sun, 22 Mar 2026 10:00:03 +0900"
+    },
+    {
+      "title": "삼성물산, 美설계사 SMDP와 신반포 19·25차 재건축 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260322015100003",
+      "pubDate": "Sun, 22 Mar 2026 09:33:41 +0900"
+    },
+    {
+      "title": "현대百, 프랑스 봉마르쉐 식품관과 협업…\"미식 콘텐츠 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322015400030",
+      "pubDate": "Sun, 22 Mar 2026 09:26:57 +0900"
+    },
+    {
+      "title": "LG생활건강, 미국 얼타 뷰티서 '빌리프 프로즌 크림' 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260322014600030",
+      "pubDate": "Sun, 22 Mar 2026 09:16:08 +0900"
+    },
+    {
+      "title": "트럼프, 이란에 \"48시간내 호르무즈 미개방시 발전소 초토화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322014200071",
+      "pubDate": "Sun, 22 Mar 2026 09:11:14 +0900"
+    },
+    {
+      "title": "울주군, 에너지융합 일반산업단지 복합용지 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260320125900057",
+      "pubDate": "Sun, 22 Mar 2026 09:10:01 +0900"
+    },
+    {
+      "title": "평창군, 2026년 전세보증금반환보증 보증료 지원 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260320080700062",
+      "pubDate": "Sun, 22 Mar 2026 09:00:08 +0900"
+    },
+    {
+      "title": "KB국민은행 소비자보호위원회 신설…성과보상체계도 손질",
+      "link": "https://www.yna.co.kr/view/AKR20260321056800002",
+      "pubDate": "Sun, 22 Mar 2026 09:00:01 +0900"
+    },
+    {
+      "title": "수입차 임시번호판 거부에 피해 속출…결함 발견해도 인도거부 안돼",
+      "link": "https://www.yna.co.kr/view/AKR20260322009700003",
+      "pubDate": "Sun, 22 Mar 2026 08:56:56 +0900"
+    },
+    {
+      "title": "인천시, 중동발 위기에 수출기업 경영안정자금 500억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260322011800065",
+      "pubDate": "Sun, 22 Mar 2026 08:55:52 +0900"
+    },
     {
       "title": "울산시, 기업 맞춤 '지방세 실무 책자' 발간…\"성실납세 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260320124100057",
@@ -102,56 +152,6 @@
       "title": "고가주택 전담반까지…아파트 공시가격 이렇게 만들어진다",
       "link": "https://www.yna.co.kr/view/AKR20260322003000003",
       "pubDate": "Sun, 22 Mar 2026 06:08:59 +0900"
-    },
-    {
-      "title": "이달 초 20대 소액 '빚투' 손실률, 일반 투자자의 3.2배",
-      "link": "https://www.yna.co.kr/view/AKR20260321049300002",
-      "pubDate": "Sun, 22 Mar 2026 05:57:00 +0900"
-    },
-    {
-      "title": "사회 첫걸음 '20대 후반' 취업자 9년 만에 최소…고용률도 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260321048800002",
-      "pubDate": "Sun, 22 Mar 2026 05:55:01 +0900"
-    },
-    {
-      "title": "단일종목 2배 ETF 이르면 5월 출시…코스닥 프리미엄 ETF도 가세",
-      "link": "https://www.yna.co.kr/view/AKR20260321047200002",
-      "pubDate": "Sun, 22 Mar 2026 05:53:01 +0900"
-    },
-    {
-      "title": "금감원 특사경 '1호 인지수사' 시동…합동대응단 통신조회 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260321054600002",
-      "pubDate": "Sun, 22 Mar 2026 05:53:00 +0900"
-    },
-    {
-      "title": "고유가·외국인 5주 순매도…은행 창구 환율은 1,530원대",
-      "link": "https://www.yna.co.kr/view/AKR20260321047900002",
-      "pubDate": "Sun, 22 Mar 2026 05:51:01 +0900"
-    },
-    {
-      "title": "중동발 인플레 파고에 고금리 리스크…경기회복 제동 걸리나",
-      "link": "https://www.yna.co.kr/view/AKR20260321035900002",
-      "pubDate": "Sun, 22 Mar 2026 05:49:00 +0900"
-    },
-    {
-      "title": "금리뛰자 은행건전성 휘청…11년내 최고연체율 등 부실징후 속출",
-      "link": "https://www.yna.co.kr/view/AKR20260321056300002",
-      "pubDate": "Sun, 22 Mar 2026 05:47:01 +0900"
-    },
-    {
-      "title": "기획처 석달만에 수장 맞나…박홍근號, 추경·미래전략 방향타",
-      "link": "https://www.yna.co.kr/view/AKR20260321044500002",
-      "pubDate": "Sun, 22 Mar 2026 05:45:00 +0900"
-    },
-    {
-      "title": "박홍근 \"적극 재정 필요…지방이 성장 거점 되게 우대 원칙\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321041100002",
-      "pubDate": "Sun, 22 Mar 2026 05:31:01 +0900"
-    },
-    {
-      "title": "박홍근 \"추경, 상시적 재정운용 수단 바람직 않다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321038600002",
-      "pubDate": "Sun, 22 Mar 2026 05:31:01 +0900"
     }
   ]
 }
