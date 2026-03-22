@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774167657,
+  "updated_at_unix": 1774169715,
   "items": [
+    {
+      "title": "국제금융 전문가 신현송, 중동사태 속 물가·성장 다 잡아야",
+      "link": "https://www.yna.co.kr/view/AKR20260322045400002",
+      "pubDate": "Sun, 22 Mar 2026 17:45:19 +0900"
+    },
+    {
+      "title": "구윤철 \"중동상황 장기화 대비…금융·세제정책도 적극 발굴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322048700002",
+      "pubDate": "Sun, 22 Mar 2026 17:36:49 +0900"
+    },
     {
       "title": "공직사회 고강도 압박…李대통령 '부동산 투기와 전쟁' 다시 고삐(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322027951001",
@@ -142,16 +152,6 @@
       "title": "해수부, 중동 상황 관련 원양업계 간담회…연료 수급 점검",
       "link": "https://www.yna.co.kr/view/AKR20260320131100030",
       "pubDate": "Sun, 22 Mar 2026 11:00:06 +0900"
-    },
-    {
-      "title": "\"함부로 옮기지 마세요\"…'길고양이 돌봄 가이드라인' 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260321001800030",
-      "pubDate": "Sun, 22 Mar 2026 11:00:05 +0900"
-    },
-    {
-      "title": "마을 이장 투표권 여성도 갖는다…'가구당 1표'에서 '1인 1표로'",
-      "link": "https://www.yna.co.kr/view/AKR20260320140200030",
-      "pubDate": "Sun, 22 Mar 2026 11:00:05 +0900"
     }
   ]
 }
