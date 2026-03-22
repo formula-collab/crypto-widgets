@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774151750,
+  "updated_at_unix": 1774156510,
   "items": [
+    {
+      "title": "\"아미노믹스 현실로\"…BTS 광화문 공연에 유통가 '잭팟'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260322023851030",
+      "pubDate": "Sun, 22 Mar 2026 13:16:35 +0900"
+    },
     {
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260322028500002",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260322019000011",
       "pubDate": "Sun, 22 Mar 2026 10:30:01 +0900"
-    },
-    {
-      "title": "내일은 국제강아지의날…\"반려견, 동반자나 가족 같은 존재\"",
-      "link": "https://www.yna.co.kr/view/AKR20260321026900030",
-      "pubDate": "Sun, 22 Mar 2026 10:29:22 +0900"
     }
   ]
 }
