@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774176635,
+  "updated_at_unix": 1774178066,
   "items": [
+    {
+      "title": "[프로필] 신현송 한은 총재 후보…실무 겸비한 국제금융·거시경제 석학(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260322041051002",
+      "pubDate": "Sun, 22 Mar 2026 20:02:28 +0900"
+    },
     {
       "title": "당정청 \"추경 25조원…초과세수 활용해 외환시장 영향 최소화\"",
       "link": "https://www.yna.co.kr/view/AKR20260322056200001",
@@ -147,11 +152,6 @@
       "title": "[게시판] 코트라 '의료기기 수출상담회'…4천만달러 수출 계약",
       "link": "https://www.yna.co.kr/view/AKR20260322023700003",
       "pubDate": "Sun, 22 Mar 2026 11:16:39 +0900"
-    },
-    {
-      "title": "서울시, 외투기업 6명 이상 신규 채용시 보조금…총 4억",
-      "link": "https://www.yna.co.kr/view/AKR20260320153300004",
-      "pubDate": "Sun, 22 Mar 2026 11:15:02 +0900"
     }
   ]
 }
