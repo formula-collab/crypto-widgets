@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774156510,
+  "updated_at_unix": 1774159770,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260322033700011",
+      "pubDate": "Sun, 22 Mar 2026 15:00:00 +0900"
+    },
+    {
+      "title": "[인사] 중소벤처기업부",
+      "link": "https://www.yna.co.kr/view/AKR20260322032500030",
+      "pubDate": "Sun, 22 Mar 2026 14:31:02 +0900"
+    },
+    {
+      "title": "공직사회 고강도 압박…李대통령 '부동산 투기와 전쟁' 다시 고삐",
+      "link": "https://www.yna.co.kr/view/AKR20260322027900001",
+      "pubDate": "Sun, 22 Mar 2026 14:15:12 +0900"
+    },
     {
       "title": "\"아미노믹스 현실로\"…BTS 광화문 공연에 유통가 '잭팟'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322023851030",
@@ -137,21 +152,6 @@
       "title": "[게시판] 코트라, '도쿄 해외취업 잡페어'…日 기업 31곳 채용면접",
       "link": "https://www.yna.co.kr/view/AKR20260322022600003",
       "pubDate": "Sun, 22 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "스타벅스, 20대 전용 서비스 '디어 트웬티' 시범운영",
-      "link": "https://www.yna.co.kr/view/AKR20260322019600030",
-      "pubDate": "Sun, 22 Mar 2026 10:32:21 +0900"
-    },
-    {
-      "title": "최고가격제에도 농업용 난방유 18일째 올라…농산물 상승 압박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260320161251030",
-      "pubDate": "Sun, 22 Mar 2026 10:31:38 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260322019000011",
-      "pubDate": "Sun, 22 Mar 2026 10:30:01 +0900"
     }
   ]
 }
