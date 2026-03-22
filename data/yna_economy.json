@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774212506,
+  "updated_at_unix": 1774214177,
   "items": [
+    {
+      "title": "국내 1인당 흰우유 소비량 작년 22.9㎏…80년대 후반 이후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260321027900030",
+      "pubDate": "Mon, 23 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "올해 서울 아파트 전월세 48%가 갱신계약…3월은 절반 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260322056000003",
+      "pubDate": "Mon, 23 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "서울시, 청소년 노리는 불법 사금융 '대리입금' 방지 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260320159500004",
+      "pubDate": "Mon, 23 Mar 2026 06:00:10 +0900"
+    },
+    {
+      "title": "810억원 규모 2026 미래환경산업투자펀드 운용사 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260322000300530",
+      "pubDate": "Mon, 23 Mar 2026 06:00:07 +0900"
+    },
+    {
+      "title": "중기부, 글로벌 협력형 연구개발 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260322013700030",
+      "pubDate": "Mon, 23 Mar 2026 06:00:06 +0900"
+    },
+    {
+      "title": "[게시판] 국토부·건설연, 건설공사 표준품셈·표준시장단가 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260322040700003",
+      "pubDate": "Mon, 23 Mar 2026 06:00:06 +0900"
+    },
+    {
+      "title": "신세계그룹, 내달 쇼핑축제 '랜더스 쇼핑페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260322040900030",
+      "pubDate": "Mon, 23 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "신세계백화점, 29일까지 '골프페어'…\"체험형 콘텐츠 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322044000030",
+      "pubDate": "Mon, 23 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "대법 \"보험사 치료비, 공단 급여와 다르면 책임보험금서 공제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322053600004",
+      "pubDate": "Mon, 23 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"EU 규제로 2031년부터 수출가 1% 상승시 수출량 최대 18% 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322048900003",
+      "pubDate": "Mon, 23 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "은행권 작년 새희망홀씨 4조원 공급…올해 5.1조 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260322022200002",
+      "pubDate": "Mon, 23 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "저신용자 대출위축 속 고금리 쏠림…카드론·대부업 비중 60%",
+      "link": "https://www.yna.co.kr/view/AKR20260321045400002",
+      "pubDate": "Mon, 23 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "국가총부채 6천500조원 넘어…정부부채 비율 역대 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260321046100002",
+      "pubDate": "Mon, 23 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[샷!] \"억울해서 신혼여행 무기한 연기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260319058100505",
+      "pubDate": "Mon, 23 Mar 2026 05:50:00 +0900"
+    },
     {
       "title": "신현송 한은총재 후보자 \"엄중한 시기…균형있는 통화정책\"",
       "link": "https://www.yna.co.kr/view/AKR20260322060700002",
@@ -82,76 +152,6 @@
       "title": "[인사] 중소벤처기업부",
       "link": "https://www.yna.co.kr/view/AKR20260322032500030",
       "pubDate": "Sun, 22 Mar 2026 14:31:02 +0900"
-    },
-    {
-      "title": "공직사회 고강도 압박…李대통령 '부동산 투기와 전쟁' 다시 고삐",
-      "link": "https://www.yna.co.kr/view/AKR20260322027900001",
-      "pubDate": "Sun, 22 Mar 2026 14:15:12 +0900"
-    },
-    {
-      "title": "\"아미노믹스 현실로\"…BTS 광화문 공연에 유통가 '잭팟'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260322023851030",
-      "pubDate": "Sun, 22 Mar 2026 13:16:35 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260322028500002",
-      "pubDate": "Sun, 22 Mar 2026 12:51:15 +0900"
-    },
-    {
-      "title": "구윤철 \"국제기구와 더 긴밀 협력…국익과 연결\"",
-      "link": "https://www.yna.co.kr/view/AKR20260322028100002",
-      "pubDate": "Sun, 22 Mar 2026 12:44:25 +0900"
-    },
-    {
-      "title": "BTS공연에 백화·면세점 '특수'…\"외국인 대거 몰려 K제품 품절\"",
-      "link": "https://www.yna.co.kr/view/AKR20260322027500030",
-      "pubDate": "Sun, 22 Mar 2026 12:27:59 +0900"
-    },
-    {
-      "title": "\"소상공인 전용카드 신청하세요\"…지원대상·사용처 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260320163400030",
-      "pubDate": "Sun, 22 Mar 2026 12:00:07 +0900"
-    },
-    {
-      "title": "중기부, '도약 프로그램' 지원 중소기업 100곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260320164700030",
-      "pubDate": "Sun, 22 Mar 2026 12:00:06 +0900"
-    },
-    {
-      "title": "자랑스러운 중기인에 이상우 아이엔아이 대표·윤상용 쟈뎅 대표",
-      "link": "https://www.yna.co.kr/view/AKR20260320160100030",
-      "pubDate": "Sun, 22 Mar 2026 12:00:06 +0900"
-    },
-    {
-      "title": "금감원, 주가연계상품 피해 주시…\"홍콩 ELS사태 준한 엄벌\"",
-      "link": "https://www.yna.co.kr/view/AKR20260320170000002",
-      "pubDate": "Sun, 22 Mar 2026 12:00:05 +0900"
-    },
-    {
-      "title": "\"방송·텔래그램서 종목 추천하고 선행매매\"…핀플루언서 檢고발",
-      "link": "https://www.yna.co.kr/view/AKR20260321049800002",
-      "pubDate": "Sun, 22 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "신전떡볶이, 포장용기 등 65억원어치 강매해 과징금 9억7천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260321049900002",
-      "pubDate": "Sun, 22 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "스팩 합병 성공률 '반토막'인데…상장일 공모가 투기적 급등락",
-      "link": "https://www.yna.co.kr/view/AKR20260321055500002",
-      "pubDate": "Sun, 22 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "상용근로자 연 임금총액 처음 5천만원 넘어…1위 '금융·보험업'",
-      "link": "https://www.yna.co.kr/view/AKR20260322016100003",
-      "pubDate": "Sun, 22 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "'BTS 경제효과'는…K뷰티패션 매출 '껑충'·호텔도 만실(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260322009951030",
-      "pubDate": "Sun, 22 Mar 2026 11:43:58 +0900"
     }
   ]
 }
