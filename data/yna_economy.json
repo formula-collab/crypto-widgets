@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774217646,
+  "updated_at_unix": 1774219698,
   "items": [
+    {
+      "title": "대한상의, 금감원장 초청 강연…올해 금융감독 정책 방향 제시",
+      "link": "https://www.yna.co.kr/view/AKR20260322032100003",
+      "pubDate": "Mon, 23 Mar 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260323009900011",
+      "pubDate": "Mon, 23 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "[이코노워치] 금리인상 앞당길까…위기속 구원투수의 등판",
       "link": "https://www.yna.co.kr/view/AKR20260322061700546",
@@ -142,16 +152,6 @@
       "title": "한국은행 총재 후보에 신현송 국제결제은행 통화경제국장 지명",
       "link": "https://www.yna.co.kr/view/AKR20260322038400001",
       "pubDate": "Sun, 22 Mar 2026 15:52:06 +0900"
-    },
-    {
-      "title": "[속보] 李대통령, 한국은행 총재 후보자에 신현송 국제결제은행 국장 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20260322037400001",
-      "pubDate": "Sun, 22 Mar 2026 15:45:50 +0900"
-    },
-    {
-      "title": "국힘 \"李대통령 '다주택 공직자 정책배제', 보여주기 행정 전형\"",
-      "link": "https://www.yna.co.kr/view/AKR20260322034400001",
-      "pubDate": "Sun, 22 Mar 2026 15:14:48 +0900"
     }
   ]
 }
