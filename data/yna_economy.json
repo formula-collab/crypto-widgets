@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774174560,
+  "updated_at_unix": 1774176635,
   "items": [
+    {
+      "title": "당정청 \"추경 25조원…초과세수 활용해 외환시장 영향 최소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322056200001",
+      "pubDate": "Sun, 22 Mar 2026 19:26:29 +0900"
+    },
     {
       "title": "신현송 한은총재 후보자 앞엔 물가·성장·환율 난제(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322045451002",
@@ -147,11 +152,6 @@
       "title": "서울시, 외투기업 6명 이상 신규 채용시 보조금…총 4억",
       "link": "https://www.yna.co.kr/view/AKR20260320153300004",
       "pubDate": "Sun, 22 Mar 2026 11:15:02 +0900"
-    },
-    {
-      "title": "'BTS 경제효과'는…K뷰티패션푸드 매장매출 두배·호텔도 만실",
-      "link": "https://www.yna.co.kr/view/AKR20260322009900030",
-      "pubDate": "Sun, 22 Mar 2026 11:14:31 +0900"
     }
   ]
 }
