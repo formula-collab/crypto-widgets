@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774221409,
+  "updated_at_unix": 1774223260,
   "items": [
+    {
+      "title": "2분기 전기요금 동결…연료비조정단가 '+5'원 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260323022700003",
+      "pubDate": "Mon, 23 Mar 2026 08:34:42 +0900"
+    },
+    {
+      "title": "삼성증권 \"펄어비스, 붉은사막 흥행…차기작 공백 유의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323020200008",
+      "pubDate": "Mon, 23 Mar 2026 08:30:27 +0900"
+    },
+    {
+      "title": "인천 화수부두 일대에 '뿌리산업 특화단지' 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260323018700065",
+      "pubDate": "Mon, 23 Mar 2026 08:30:07 +0900"
+    },
+    {
+      "title": "DS투자 \"이란 사태 조만간 돌파구…증시, AI 사이클 복귀 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323020500008",
+      "pubDate": "Mon, 23 Mar 2026 08:26:07 +0900"
+    },
+    {
+      "title": "KB증권 \"포스코인터내셔널, 유가 상승 수혜 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323020300008",
+      "pubDate": "Mon, 23 Mar 2026 08:24:21 +0900"
+    },
+    {
+      "title": "한투증권, 코스맥스 목표가↓…\"화장품 섹터 수급·원가 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323019000008",
+      "pubDate": "Mon, 23 Mar 2026 08:19:52 +0900"
+    },
+    {
+      "title": "애경산업 포인트, 이천 쌀 추출물 함유 '라이스 라인' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260323019700030",
+      "pubDate": "Mon, 23 Mar 2026 08:17:17 +0900"
+    },
     {
       "title": "부산시, 고성장 창업기업 '부니콘' 10개사 선정해 지원",
       "link": "https://www.yna.co.kr/view/AKR20260323015900051",
@@ -117,41 +152,6 @@
       "title": "'중동대응' 추경 25조원 규모…당정 \"취약계층 차등지원 필요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260322056251001",
       "pubDate": "Sun, 22 Mar 2026 20:10:23 +0900"
-    },
-    {
-      "title": "[프로필] 신현송 한은 총재 후보…실무 겸비한 국제금융·거시경제 석학(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260322041051002",
-      "pubDate": "Sun, 22 Mar 2026 20:02:28 +0900"
-    },
-    {
-      "title": "당정청 \"추경 25조원…초과세수 활용해 외환시장 영향 최소화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260322056200001",
-      "pubDate": "Sun, 22 Mar 2026 19:26:29 +0900"
-    },
-    {
-      "title": "신현송 한은총재 후보자 앞엔 물가·성장·환율 난제(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260322045451002",
-      "pubDate": "Sun, 22 Mar 2026 18:59:17 +0900"
-    },
-    {
-      "title": "\"아미노믹스 현실로\"…BTS 광화문 공연에 유통가 '잭팟'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260322023852030",
-      "pubDate": "Sun, 22 Mar 2026 18:04:58 +0900"
-    },
-    {
-      "title": "국제금융 전문가 신현송, 중동사태 속 물가·성장 다 잡아야",
-      "link": "https://www.yna.co.kr/view/AKR20260322045400002",
-      "pubDate": "Sun, 22 Mar 2026 17:45:19 +0900"
-    },
-    {
-      "title": "구윤철 \"중동상황 장기화 대비…금융·세제정책도 적극 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260322048700002",
-      "pubDate": "Sun, 22 Mar 2026 17:36:49 +0900"
-    },
-    {
-      "title": "공직사회 고강도 압박…李대통령 '부동산 투기와 전쟁' 다시 고삐(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260322027951001",
-      "pubDate": "Sun, 22 Mar 2026 16:44:21 +0900"
     }
   ]
 }
