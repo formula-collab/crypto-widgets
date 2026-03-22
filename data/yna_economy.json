@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774214177,
+  "updated_at_unix": 1774215944,
   "items": [
+    {
+      "title": "[팩트체크] 중동전쟁으로 제2요소수 대란?…\"차량용은 괜찮아·비료가 문제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260321037100518",
+      "pubDate": "Mon, 23 Mar 2026 06:30:02 +0900"
+    },
     {
       "title": "국내 1인당 흰우유 소비량 작년 22.9㎏…80년대 후반 이후 최저",
       "link": "https://www.yna.co.kr/view/AKR20260321027900030",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260322033700011",
       "pubDate": "Sun, 22 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "[인사] 중소벤처기업부",
-      "link": "https://www.yna.co.kr/view/AKR20260322032500030",
-      "pubDate": "Sun, 22 Mar 2026 14:31:02 +0900"
     }
   ]
 }
