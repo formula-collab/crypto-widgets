@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774159770,
+  "updated_at_unix": 1774163476,
   "items": [
+    {
+      "title": "한국은행 총재 후보에 신현송 국제결제은행 통화경제국장 지명",
+      "link": "https://www.yna.co.kr/view/AKR20260322038400001",
+      "pubDate": "Sun, 22 Mar 2026 15:52:06 +0900"
+    },
+    {
+      "title": "[속보] 李대통령, 한국은행 총재 후보자에 신현송 국제결제은행 국장 발탁",
+      "link": "https://www.yna.co.kr/view/AKR20260322037400001",
+      "pubDate": "Sun, 22 Mar 2026 15:45:50 +0900"
+    },
+    {
+      "title": "국힘 \"李대통령 '다주택 공직자 정책배제', 보여주기 행정 전형\"",
+      "link": "https://www.yna.co.kr/view/AKR20260322034400001",
+      "pubDate": "Sun, 22 Mar 2026 15:14:48 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260322033700011",
@@ -137,21 +152,6 @@
       "title": "중동 전쟁에 4월 제조업 전망 '흐림'…10개월 만에 기준치 하회",
       "link": "https://www.yna.co.kr/view/AKR20260322020000003",
       "pubDate": "Sun, 22 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "\"정상외교를 기업활동 기회로\"…산업부 '기업 헬프 데스크' 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260322021200003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "\"지방을 소부장 거점으로\"…산업부 3차 소부장 특화단지 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260322022100003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, '도쿄 해외취업 잡페어'…日 기업 31곳 채용면접",
-      "link": "https://www.yna.co.kr/view/AKR20260322022600003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:00 +0900"
     }
   ]
 }
