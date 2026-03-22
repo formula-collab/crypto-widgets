@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774163476,
+  "updated_at_unix": 1774165985,
   "items": [
+    {
+      "title": "공직사회 고강도 압박…李대통령 '부동산 투기와 전쟁' 다시 고삐(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260322027951001",
+      "pubDate": "Sun, 22 Mar 2026 16:44:21 +0900"
+    },
+    {
+      "title": "[프로필] 신현송 한은 총재 후보…실무 겸비한 국제금융·거시경제 석학",
+      "link": "https://www.yna.co.kr/view/AKR20260322041000002",
+      "pubDate": "Sun, 22 Mar 2026 16:44:15 +0900"
+    },
+    {
+      "title": "한국은행 총재 후보에 신현송 국제결제은행 통화경제국장 지명(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260322038451001",
+      "pubDate": "Sun, 22 Mar 2026 16:23:52 +0900"
+    },
     {
       "title": "한국은행 총재 후보에 신현송 국제결제은행 통화경제국장 지명",
       "link": "https://www.yna.co.kr/view/AKR20260322038400001",
@@ -137,21 +152,6 @@
       "title": "마을 이장 투표권 여성도 갖는다…'가구당 1표'에서 '1인 1표로'",
       "link": "https://www.yna.co.kr/view/AKR20260320140200030",
       "pubDate": "Sun, 22 Mar 2026 11:00:05 +0900"
-    },
-    {
-      "title": "청년·고령자·양육가구 등 맞춤형 공공임대 공급 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260322007400003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "삼성전자, 암참 행사서 퀄컴 칩 탑재 '비스포크 AI 스팀' 전시",
-      "link": "https://www.yna.co.kr/view/AKR20260322017500003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "중동 전쟁에 4월 제조업 전망 '흐림'…10개월 만에 기준치 하회",
-      "link": "https://www.yna.co.kr/view/AKR20260322020000003",
-      "pubDate": "Sun, 22 Mar 2026 11:00:01 +0900"
     }
   ]
 }
