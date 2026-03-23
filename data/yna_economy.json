@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774302781,
+  "updated_at_unix": 1774304405,
   "items": [
+    {
+      "title": "[우분투칼럼] 중동의 불길, 아프리카 시험대…한국도 '상생 건축'",
+      "link": "https://www.yna.co.kr/view/AKR20260312157900898",
+      "pubDate": "Tue, 24 Mar 2026 07:00:03 +0900"
+    },
     {
       "title": "패션은 카페로, 뷰티는 의료기기로…사업 경계 허무는 기업들",
       "link": "https://www.yna.co.kr/view/AKR20260323146300030",
@@ -147,11 +152,6 @@
       "title": "K-우주산업 선도기업 키운다…우주청, 2천억원 펀드 조성",
       "link": "https://www.yna.co.kr/view/AKR20260323061900017",
       "pubDate": "Mon, 23 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260323148900011",
-      "pubDate": "Mon, 23 Mar 2026 18:00:00 +0900"
     }
   ]
 }
