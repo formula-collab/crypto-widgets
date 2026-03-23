@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774291042,
+  "updated_at_unix": 1774294781,
   "items": [
+    {
+      "title": "[뉴욕유가] 이란 공격 보류한 트럼프…WTI 10% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260324005200009",
+      "pubDate": "Tue, 24 Mar 2026 03:54:44 +0900"
+    },
     {
       "title": "달러-원, 트럼프 이란 공격 연기에 30원 급락…1,486.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260324003800002",
@@ -147,11 +152,6 @@
       "title": "환율 1,500원대 뉴노멀 되나…국내 산업계 빨간불 켜졌다",
       "link": "https://www.yna.co.kr/view/AKR20260323143000003",
       "pubDate": "Mon, 23 Mar 2026 17:06:40 +0900"
-    },
-    {
-      "title": "카카오페이 신원근 대표 연임…'넥스트 파이낸스' 가속",
-      "link": "https://www.yna.co.kr/view/AKR20260323141000017",
-      "pubDate": "Mon, 23 Mar 2026 17:04:58 +0900"
     }
   ]
 }
