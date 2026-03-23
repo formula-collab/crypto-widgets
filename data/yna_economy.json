@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774304405,
+  "updated_at_unix": 1774306557,
   "items": [
+    {
+      "title": "李대통령, 한국·외국 '보유세' 비교 보도에 \"저도 궁금했다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324020000001",
+      "pubDate": "Tue, 24 Mar 2026 07:51:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260324015300011",
+      "pubDate": "Tue, 24 Mar 2026 07:39:10 +0900"
+    },
     {
       "title": "[우분투칼럼] 중동의 불길, 아프리카 시험대…한국도 '상생 건축'",
       "link": "https://www.yna.co.kr/view/AKR20260312157900898",
@@ -142,16 +152,6 @@
       "title": "박홍근 \"추경에 에너지 안정·청년 '쉬었음' 대책 포함해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260323078351002",
       "pubDate": "Mon, 23 Mar 2026 18:02:13 +0900"
-    },
-    {
-      "title": "과기정통부, 300억 가상융합 펀드…AX 중소기업 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260323126600017",
-      "pubDate": "Mon, 23 Mar 2026 18:00:02 +0900"
-    },
-    {
-      "title": "K-우주산업 선도기업 키운다…우주청, 2천억원 펀드 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260323061900017",
-      "pubDate": "Mon, 23 Mar 2026 18:00:01 +0900"
     }
   ]
 }
