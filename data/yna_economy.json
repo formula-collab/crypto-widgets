@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774265760,
+  "updated_at_unix": 1774269531,
   "items": [
+    {
+      "title": "유가 상승에 웃는 러시아 \"유럽 순서는 맨 마지막\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323167700108",
+      "pubDate": "Mon, 23 Mar 2026 21:21:02 +0900"
+    },
+    {
+      "title": "트럼프 한마디에 환율 1,500원 하회…널뛰는 금융시장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323134651002",
+      "pubDate": "Mon, 23 Mar 2026 21:10:30 +0900"
+    },
+    {
+      "title": "이창용 한은총재 \"신현송, 나보다 능력 있는 분\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323166300002",
+      "pubDate": "Mon, 23 Mar 2026 20:51:43 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260323165400002",
+      "pubDate": "Mon, 23 Mar 2026 20:36:38 +0900"
+    },
     {
       "title": "면세업계, 기준환율 1천450원으로 상향…\"가격 경쟁력 확보\"",
       "link": "https://www.yna.co.kr/view/AKR20260323160700030",
@@ -132,26 +152,6 @@
       "title": "부산연구원 \"부산의 새 성장동력은 야간경제 정책 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260323137100051",
       "pubDate": "Mon, 23 Mar 2026 16:44:55 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.617%",
-      "link": "https://www.yna.co.kr/view/AKR20260323136700008",
-      "pubDate": "Mon, 23 Mar 2026 16:40:29 +0900"
-    },
-    {
-      "title": "원/달러 환율 1,520원선 접근…금융위기 후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260323129700002",
-      "pubDate": "Mon, 23 Mar 2026 16:24:04 +0900"
-    },
-    {
-      "title": "박홍근 \"北 통일전선전술 결코 동의할 수 없어…걱정 마시라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323129300002",
-      "pubDate": "Mon, 23 Mar 2026 16:17:55 +0900"
-    },
-    {
-      "title": "한패스, 코스닥 신규 상장…25일 거래 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260323131700008",
-      "pubDate": "Mon, 23 Mar 2026 16:17:03 +0900"
     }
   ]
 }
