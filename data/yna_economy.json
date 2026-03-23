@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774306557,
+  "updated_at_unix": 1774308215,
   "items": [
+    {
+      "title": "셀트리온, 송도내 신규 원료의약품 생산시설 증설…1.2조 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260324024300017",
+      "pubDate": "Tue, 24 Mar 2026 08:15:40 +0900"
+    },
+    {
+      "title": "[마켓뷰] 트럼프 이란 폭격 보류에 美증시 훈풍…코스피도 반등할까",
+      "link": "https://www.yna.co.kr/view/AKR20260324021800008",
+      "pubDate": "Tue, 24 Mar 2026 08:08:07 +0900"
+    },
+    {
+      "title": "부산시, 병원회와 퇴원환자 돌봄 협약…\"가족간병 부담 낮춰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324021200051",
+      "pubDate": "Tue, 24 Mar 2026 08:02:20 +0900"
+    },
     {
       "title": "李대통령, 한국·외국 '보유세' 비교 보도에 \"저도 궁금했다\"",
       "link": "https://www.yna.co.kr/view/AKR20260324020000001",
@@ -137,21 +152,6 @@
       "title": "[인사] 한국산업은행",
       "link": "https://www.yna.co.kr/view/AKR20260323155500002",
       "pubDate": "Mon, 23 Mar 2026 18:19:55 +0900"
-    },
-    {
-      "title": "金총리 \"경제상황 참으로 비상…내일 대통령 메시지 낼 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323150300001",
-      "pubDate": "Mon, 23 Mar 2026 18:15:09 +0900"
-    },
-    {
-      "title": "'국장 복귀' RIA 출시 첫날…8개 대형 증권사 9천개 계좌 오픈(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323054951008",
-      "pubDate": "Mon, 23 Mar 2026 18:10:48 +0900"
-    },
-    {
-      "title": "박홍근 \"추경에 에너지 안정·청년 '쉬었음' 대책 포함해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323078351002",
-      "pubDate": "Mon, 23 Mar 2026 18:02:13 +0900"
     }
   ]
 }
