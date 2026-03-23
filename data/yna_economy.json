@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774259521,
+  "updated_at_unix": 1774262518,
   "items": [
+    {
+      "title": "면세업계, 기준환율 1천450원으로 상향…\"가격 경쟁력 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323160700030",
+      "pubDate": "Mon, 23 Mar 2026 19:31:47 +0900"
+    },
+    {
+      "title": "한국16호스팩, 코스닥 상장예비심사 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260323157600008",
+      "pubDate": "Mon, 23 Mar 2026 18:48:02 +0900"
+    },
     {
       "title": "케이뱅크, 지난해 순이익 1천126억…12% 줄어",
       "link": "https://www.yna.co.kr/view/AKR20260323156300002",
@@ -142,16 +152,6 @@
       "title": "한패스, 코스닥 신규 상장…25일 거래 개시",
       "link": "https://www.yna.co.kr/view/AKR20260323131700008",
       "pubDate": "Mon, 23 Mar 2026 16:17:03 +0900"
-    },
-    {
-      "title": "중동 전쟁 격화에 '검은 월요일'…코스피 6% 급락 5,400대 후퇴(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323065751008",
-      "pubDate": "Mon, 23 Mar 2026 16:16:00 +0900"
-    },
-    {
-      "title": "근로자 불법 파견받은 혐의 현대제철 \"적법한 도급계약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323130000063",
-      "pubDate": "Mon, 23 Mar 2026 16:15:44 +0900"
     }
   ]
 }
