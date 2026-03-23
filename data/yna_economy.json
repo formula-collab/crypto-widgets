@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774279926,
+  "updated_at_unix": 1774284210,
   "items": [
+    {
+      "title": "美에너지장관 \"전략비축유 추가방출 가능성 있지만 매우 작아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324002300071",
+      "pubDate": "Tue, 24 Mar 2026 01:15:16 +0900"
+    },
     {
       "title": "美시카고 연은총재 \"인플레 통제불능이면 금리 올려야 할수도\"",
       "link": "https://www.yna.co.kr/view/AKR20260323174400072",
@@ -147,11 +152,6 @@
       "title": "황종우 \"중동 정세·엘니뇨 영향에 수산물 물가 관리 노력\"",
       "link": "https://www.yna.co.kr/view/AKR20260323139500051",
       "pubDate": "Mon, 23 Mar 2026 16:58:38 +0900"
-    },
-    {
-      "title": "경인여대, 신입생 충원율 100% 달성…보건·의료 등 특화",
-      "link": "https://www.yna.co.kr/view/AKR20260323138300065",
-      "pubDate": "Mon, 23 Mar 2026 16:50:07 +0900"
     }
   ]
 }
