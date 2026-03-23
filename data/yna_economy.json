@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774269531,
+  "updated_at_unix": 1774274781,
   "items": [
+    {
+      "title": "국제유가, 美 이란 발전소 공격 보류에 장중 10% 급락세",
+      "link": "https://www.yna.co.kr/view/AKR20260323170800072",
+      "pubDate": "Mon, 23 Mar 2026 22:24:13 +0900"
+    },
+    {
+      "title": "노동 당국, '70여명 사상' 안전공업 대표이사 중처법 위반 입건",
+      "link": "https://www.yna.co.kr/view/AKR20260323170600063",
+      "pubDate": "Mon, 23 Mar 2026 22:17:15 +0900"
+    },
     {
       "title": "유가 상승에 웃는 러시아 \"유럽 순서는 맨 마지막\"",
       "link": "https://www.yna.co.kr/view/AKR20260323167700108",
@@ -142,16 +152,6 @@
       "title": "SNT모티브 \"스맥 주식 460억원어치 취득…지분율 13.6%\"",
       "link": "https://www.yna.co.kr/view/AKR20260323137900008",
       "pubDate": "Mon, 23 Mar 2026 16:46:35 +0900"
-    },
-    {
-      "title": "중동발 공포에 환율·금리 치솟고 주가 급락…한국경제 먹구름",
-      "link": "https://www.yna.co.kr/view/AKR20260323134600002",
-      "pubDate": "Mon, 23 Mar 2026 16:46:25 +0900"
-    },
-    {
-      "title": "부산연구원 \"부산의 새 성장동력은 야간경제 정책 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323137100051",
-      "pubDate": "Mon, 23 Mar 2026 16:44:55 +0900"
     }
   ]
 }
