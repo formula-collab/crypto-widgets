@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774248977,
+  "updated_at_unix": 1774252628,
   "items": [
+    {
+      "title": "경인여대, 신입생 충원율 100% 달성…보건·의료 등 특화",
+      "link": "https://www.yna.co.kr/view/AKR20260323138300065",
+      "pubDate": "Mon, 23 Mar 2026 16:50:07 +0900"
+    },
+    {
+      "title": "SNT모티브 \"스맥 주식 460억원어치 취득…지분율 13.6%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323137900008",
+      "pubDate": "Mon, 23 Mar 2026 16:46:35 +0900"
+    },
+    {
+      "title": "중동발 공포에 환율·금리 치솟고 주가 급락…한국경제 먹구름",
+      "link": "https://www.yna.co.kr/view/AKR20260323134600002",
+      "pubDate": "Mon, 23 Mar 2026 16:46:25 +0900"
+    },
+    {
+      "title": "부산연구원 \"부산의 새 성장동력은 야간경제 정책 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323137100051",
+      "pubDate": "Mon, 23 Mar 2026 16:44:55 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.617%",
+      "link": "https://www.yna.co.kr/view/AKR20260323136700008",
+      "pubDate": "Mon, 23 Mar 2026 16:40:29 +0900"
+    },
+    {
+      "title": "원/달러 환율 1,520원선 접근…금융위기 후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260323129700002",
+      "pubDate": "Mon, 23 Mar 2026 16:24:04 +0900"
+    },
+    {
+      "title": "박홍근 \"北 통일전선전술 결코 동의할 수 없어…걱정 마시라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323129300002",
+      "pubDate": "Mon, 23 Mar 2026 16:17:55 +0900"
+    },
+    {
+      "title": "한패스, 코스닥 신규 상장…25일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260323131700008",
+      "pubDate": "Mon, 23 Mar 2026 16:17:03 +0900"
+    },
+    {
+      "title": "중동 전쟁 격화에 '검은 월요일'…코스피 6% 급락 5,400대 후퇴(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323065751008",
+      "pubDate": "Mon, 23 Mar 2026 16:16:00 +0900"
+    },
+    {
+      "title": "근로자 불법 파견받은 혐의 현대제철 \"적법한 도급계약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323130000063",
+      "pubDate": "Mon, 23 Mar 2026 16:15:44 +0900"
+    },
+    {
+      "title": "성남시, 금토2·여수2지구 추진에 \"기반시설 먼저 갖춰야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323122500061",
+      "pubDate": "Mon, 23 Mar 2026 16:08:02 +0900"
+    },
+    {
+      "title": "국내 금값, 7.9% 폭락…\"이란사태 격화에 금리인하 기대 후퇴\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323104851008",
+      "pubDate": "Mon, 23 Mar 2026 16:06:10 +0900"
+    },
+    {
+      "title": "WSJ \"글로벌 석유기업들 수십억달러 손실 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323126400009",
+      "pubDate": "Mon, 23 Mar 2026 16:05:45 +0900"
+    },
+    {
+      "title": "[특징주] 코스닥 상장 첫날 '따따블' 종목들, 두자릿수 폭락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323100951008",
+      "pubDate": "Mon, 23 Mar 2026 16:00:26 +0900"
+    },
+    {
+      "title": "[특징주] BTS 컴백공연 마친 하이브, 15%대 급락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323033051008",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0900"
+    },
+    {
+      "title": "사업자대출 유용 127건에…이찬진 \"강남3구 점검해 엄중 제재\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323118700002",
+      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0900"
+    },
+    {
+      "title": "[특징주] 코스맥스, 올해 실적 호조 기대에 1% 가까이 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323069951008",
+      "pubDate": "Mon, 23 Mar 2026 15:52:12 +0900"
+    },
     {
       "title": "박홍근 \"朴시장 피해자에 '피해 호소인', 적절하지 않은 표현\"",
       "link": "https://www.yna.co.kr/view/AKR20260323125600002",
@@ -67,91 +152,6 @@
       "title": "동아오츠카, '포카리스웨트 상주오픈 테니스 대회' 개최",
       "link": "https://www.yna.co.kr/view/AKR20260323117600030",
       "pubDate": "Mon, 23 Mar 2026 15:22:36 +0900"
-    },
-    {
-      "title": "마포구 '비상경제 대책TF' 가동…\"중동발 불안에 민생안정 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323117300004",
-      "pubDate": "Mon, 23 Mar 2026 15:17:40 +0900"
-    },
-    {
-      "title": "킨텍스·고양국제박람회재단, MICE 산업 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260323117100060",
-      "pubDate": "Mon, 23 Mar 2026 15:16:18 +0900"
-    },
-    {
-      "title": "횡성군, 외국인 계절근로자 인권 보호 '현장 밀착점검' 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260323112400062",
-      "pubDate": "Mon, 23 Mar 2026 15:14:47 +0900"
-    },
-    {
-      "title": "원주시, 중동상황 대응 비상경제 TF 운영…물가 안정 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260323108800062",
-      "pubDate": "Mon, 23 Mar 2026 15:08:22 +0900"
-    },
-    {
-      "title": "시흥 아파트 공사장 사망사고 관련 대우건설 2명 입건",
-      "link": "https://www.yna.co.kr/view/AKR20260323110000061",
-      "pubDate": "Mon, 23 Mar 2026 14:57:11 +0900"
-    },
-    {
-      "title": "신한은행, 상반기 150여명 신입행원 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260323108700002",
-      "pubDate": "Mon, 23 Mar 2026 14:52:18 +0900"
-    },
-    {
-      "title": "[동정] 김성주 부산은행장, 청소년 도박근절 캠페인 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260323109300051",
-      "pubDate": "Mon, 23 Mar 2026 14:52:01 +0900"
-    },
-    {
-      "title": "\"제주 '탐나는전' 앱 가입자 5명 중 1명은 관광객\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323106700056",
-      "pubDate": "Mon, 23 Mar 2026 14:42:57 +0900"
-    },
-    {
-      "title": "LH, '책임경영' 서약식…\"수도권 부동산시장 안정화 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323107500003",
-      "pubDate": "Mon, 23 Mar 2026 14:42:33 +0900"
-    },
-    {
-      "title": "국내 금시세, 6%대 급락…\"이란사태 격화에 금리인하 기대 후퇴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323104800008",
-      "pubDate": "Mon, 23 Mar 2026 14:40:13 +0900"
-    },
-    {
-      "title": "울산시 \"태화강∼학성공원 물길로 이어 원도심 재생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323105600057",
-      "pubDate": "Mon, 23 Mar 2026 14:39:27 +0900"
-    },
-    {
-      "title": "국민연금, 2경원 운용 블랙록과 전략적 제휴…\"투자노하우 공유\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323102600530",
-      "pubDate": "Mon, 23 Mar 2026 14:31:35 +0900"
-    },
-    {
-      "title": "유니클로, '느린학습 아동' 교육지원 사업 이어간다",
-      "link": "https://www.yna.co.kr/view/AKR20260323100100030",
-      "pubDate": "Mon, 23 Mar 2026 14:30:37 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260323097900011",
-      "pubDate": "Mon, 23 Mar 2026 14:30:01 +0900"
-    },
-    {
-      "title": "[특징주] 코스닥 상장 첫날 '따따블' 종목들, 장중 두자릿수 폭락",
-      "link": "https://www.yna.co.kr/view/AKR20260323100900008",
-      "pubDate": "Mon, 23 Mar 2026 14:23:40 +0900"
-    },
-    {
-      "title": "박완수 지사 \"김해 화목지구, 동남권 국제전시컨벤션 최적지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323096500052",
-      "pubDate": "Mon, 23 Mar 2026 14:04:57 +0900"
-    },
-    {
-      "title": "FIU \"한국, 사기·마약·조세포털 위험 특히 높아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323075900002",
-      "pubDate": "Mon, 23 Mar 2026 14:00:01 +0900"
     }
   ]
 }
