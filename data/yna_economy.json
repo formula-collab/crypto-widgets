@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774255707,
+  "updated_at_unix": 1774259521,
   "items": [
+    {
+      "title": "케이뱅크, 지난해 순이익 1천126억…12% 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260323156300002",
+      "pubDate": "Mon, 23 Mar 2026 18:36:20 +0900"
+    },
+    {
+      "title": "산은, 신임 수석부행장에 이봉희 기업금융부문장 임명",
+      "link": "https://www.yna.co.kr/view/AKR20260323155300002",
+      "pubDate": "Mon, 23 Mar 2026 18:26:34 +0900"
+    },
+    {
+      "title": "[인사] 한국산업은행",
+      "link": "https://www.yna.co.kr/view/AKR20260323155500002",
+      "pubDate": "Mon, 23 Mar 2026 18:19:55 +0900"
+    },
+    {
+      "title": "金총리 \"경제상황 참으로 비상…내일 대통령 메시지 낼 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323150300001",
+      "pubDate": "Mon, 23 Mar 2026 18:15:09 +0900"
+    },
+    {
+      "title": "'국장 복귀' RIA 출시 첫날…8개 대형 증권사 9천개 계좌 오픈(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323054951008",
+      "pubDate": "Mon, 23 Mar 2026 18:10:48 +0900"
+    },
+    {
+      "title": "박홍근 \"추경에 에너지 안정·청년 '쉬었음' 대책 포함해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323078351002",
+      "pubDate": "Mon, 23 Mar 2026 18:02:13 +0900"
+    },
+    {
+      "title": "과기정통부, 300억 가상융합 펀드…AX 중소기업 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260323126600017",
+      "pubDate": "Mon, 23 Mar 2026 18:00:02 +0900"
+    },
+    {
+      "title": "K-우주산업 선도기업 키운다…우주청, 2천억원 펀드 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260323061900017",
+      "pubDate": "Mon, 23 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260323148900011",
+      "pubDate": "Mon, 23 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "SNT모티브 \"계열사 에스앤티로보틱스 주식 300억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323152100008",
+      "pubDate": "Mon, 23 Mar 2026 17:51:21 +0900"
+    },
+    {
+      "title": "폭염에 생수 50만병 푼다…노동부·제주, 이동노동자 안전 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260323151200530",
+      "pubDate": "Mon, 23 Mar 2026 17:46:31 +0900"
+    },
     {
       "title": "서울 영등포구 더샵신길센트럴시티 477가구 일반분양",
       "link": "https://www.yna.co.kr/view/AKR20260323145700003",
@@ -97,61 +152,6 @@
       "title": "근로자 불법 파견받은 혐의 현대제철 \"적법한 도급계약\"",
       "link": "https://www.yna.co.kr/view/AKR20260323130000063",
       "pubDate": "Mon, 23 Mar 2026 16:15:44 +0900"
-    },
-    {
-      "title": "성남시, 금토2·여수2지구 추진에 \"기반시설 먼저 갖춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323122500061",
-      "pubDate": "Mon, 23 Mar 2026 16:08:02 +0900"
-    },
-    {
-      "title": "국내 금값, 7.9% 폭락…\"이란사태 격화에 금리인하 기대 후퇴\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323104851008",
-      "pubDate": "Mon, 23 Mar 2026 16:06:10 +0900"
-    },
-    {
-      "title": "WSJ \"글로벌 석유기업들 수십억달러 손실 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323126400009",
-      "pubDate": "Mon, 23 Mar 2026 16:05:45 +0900"
-    },
-    {
-      "title": "[특징주] 코스닥 상장 첫날 '따따블' 종목들, 두자릿수 폭락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323100951008",
-      "pubDate": "Mon, 23 Mar 2026 16:00:26 +0900"
-    },
-    {
-      "title": "[특징주] BTS 컴백공연 마친 하이브, 15%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323033051008",
-      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0900"
-    },
-    {
-      "title": "사업자대출 유용 127건에…이찬진 \"강남3구 점검해 엄중 제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323118700002",
-      "pubDate": "Mon, 23 Mar 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 코스맥스, 올해 실적 호조 기대에 1% 가까이 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323069951008",
-      "pubDate": "Mon, 23 Mar 2026 15:52:12 +0900"
-    },
-    {
-      "title": "박홍근 \"朴시장 피해자에 '피해 호소인', 적절하지 않은 표현\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323125600002",
-      "pubDate": "Mon, 23 Mar 2026 15:49:51 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 6%대 급락 마감…SK하이닉스도 7.4%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323035451008",
-      "pubDate": "Mon, 23 Mar 2026 15:46:00 +0900"
-    },
-    {
-      "title": "박홍근 \"서울시 5천억 손실\"…노인 무임수송 개선 필요성 언급",
-      "link": "https://www.yna.co.kr/view/AKR20260323123900002",
-      "pubDate": "Mon, 23 Mar 2026 15:44:53 +0900"
-    },
-    {
-      "title": "[특징주] 펄어비스, '붉은사막' 판매 호조에 급락세 딛고 소폭 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323039951008",
-      "pubDate": "Mon, 23 Mar 2026 15:42:31 +0900"
     }
   ]
 }
