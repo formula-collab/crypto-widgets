@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774252628,
+  "updated_at_unix": 1774255707,
   "items": [
+    {
+      "title": "서울 영등포구 더샵신길센트럴시티 477가구 일반분양",
+      "link": "https://www.yna.co.kr/view/AKR20260323145700003",
+      "pubDate": "Mon, 23 Mar 2026 17:35:19 +0900"
+    },
+    {
+      "title": "박홍근 \"재정준칙보다 중기재정 관리가 중요…글로벌 추세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323148800002",
+      "pubDate": "Mon, 23 Mar 2026 17:31:45 +0900"
+    },
+    {
+      "title": "지난달 서울서 외식값 오름세 지속…세탁비, 1년새 12% 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260323139800030",
+      "pubDate": "Mon, 23 Mar 2026 17:31:40 +0900"
+    },
+    {
+      "title": "춘천시, 중동발 유가 상승에 공공부문 차량 5부제 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260323147900062",
+      "pubDate": "Mon, 23 Mar 2026 17:27:43 +0900"
+    },
+    {
+      "title": "'일본 주택담보대출 초저금리 옛말'…15년 만에 1%대로 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260323143300009",
+      "pubDate": "Mon, 23 Mar 2026 17:21:50 +0900"
+    },
+    {
+      "title": "중동전쟁 격화·신현송 지명에 국고채 금리 일제히 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260323136751008",
+      "pubDate": "Mon, 23 Mar 2026 17:16:35 +0900"
+    },
+    {
+      "title": "환율 1,500원대 뉴노멀 되나…국내 산업계 빨간불 켜졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260323143000003",
+      "pubDate": "Mon, 23 Mar 2026 17:06:40 +0900"
+    },
+    {
+      "title": "카카오페이 신원근 대표 연임…'넥스트 파이낸스' 가속",
+      "link": "https://www.yna.co.kr/view/AKR20260323141000017",
+      "pubDate": "Mon, 23 Mar 2026 17:04:58 +0900"
+    },
+    {
+      "title": "황종우 \"중동 정세·엘니뇨 영향에 수산물 물가 관리 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260323139500051",
+      "pubDate": "Mon, 23 Mar 2026 16:58:38 +0900"
+    },
     {
       "title": "경인여대, 신입생 충원율 100% 달성…보건·의료 등 특화",
       "link": "https://www.yna.co.kr/view/AKR20260323138300065",
@@ -107,51 +152,6 @@
       "title": "[특징주] 펄어비스, '붉은사막' 판매 호조에 급락세 딛고 소폭 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260323039951008",
       "pubDate": "Mon, 23 Mar 2026 15:42:31 +0900"
-    },
-    {
-      "title": "외국환시세(3월23일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260323122400002",
-      "pubDate": "Mon, 23 Mar 2026 15:35:15 +0900"
-    },
-    {
-      "title": "[울산소식] 울주군, 2026년도 개별공시지가 열람·의견 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260323116000057",
-      "pubDate": "Mon, 23 Mar 2026 15:33:04 +0900"
-    },
-    {
-      "title": "[동정] 김이탁 국토차관, 중앙건설기술심의위 청렴 워크숍 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260323121500003",
-      "pubDate": "Mon, 23 Mar 2026 15:31:50 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 16.7원 오른 1,517.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260323120900002",
-      "pubDate": "Mon, 23 Mar 2026 15:30:42 +0900"
-    },
-    {
-      "title": "지난달 카드론 잔액 43조로 전월비 0.7%↑…두 달 연속 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260323109100002",
-      "pubDate": "Mon, 23 Mar 2026 15:29:47 +0900"
-    },
-    {
-      "title": "중동 난타전…국제유가 출렁·금값 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323042851009",
-      "pubDate": "Mon, 23 Mar 2026 15:28:22 +0900"
-    },
-    {
-      "title": "연임 확정한 임종룡 \"선도 금융그룹 향해 나아가자\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323066651002",
-      "pubDate": "Mon, 23 Mar 2026 15:28:16 +0900"
-    },
-    {
-      "title": "춘천시, 중소기업 청년 디딤돌 2배 적금 지원…3년 뒤 2배",
-      "link": "https://www.yna.co.kr/view/AKR20260323117800062",
-      "pubDate": "Mon, 23 Mar 2026 15:23:55 +0900"
-    },
-    {
-      "title": "동아오츠카, '포카리스웨트 상주오픈 테니스 대회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260323117600030",
-      "pubDate": "Mon, 23 Mar 2026 15:22:36 +0900"
     }
   ]
 }
