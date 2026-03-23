@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774287745,
+  "updated_at_unix": 1774291042,
   "items": [
+    {
+      "title": "달러-원, 트럼프 이란 공격 연기에 30원 급락…1,486.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260324003800002",
+      "pubDate": "Tue, 24 Mar 2026 02:56:51 +0900"
+    },
     {
       "title": "美에너지장관 \"전략비축유 추가방출 가능성 있지만 매우 작아\"",
       "link": "https://www.yna.co.kr/view/AKR20260324002300071",
@@ -147,11 +152,6 @@
       "title": "카카오페이 신원근 대표 연임…'넥스트 파이낸스' 가속",
       "link": "https://www.yna.co.kr/view/AKR20260323141000017",
       "pubDate": "Mon, 23 Mar 2026 17:04:58 +0900"
-    },
-    {
-      "title": "황종우 \"중동 정세·엘니뇨 영향에 수산물 물가 관리 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323139500051",
-      "pubDate": "Mon, 23 Mar 2026 16:58:38 +0900"
     }
   ]
 }
