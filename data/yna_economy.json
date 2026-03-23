@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774299613,
+  "updated_at_unix": 1774302781,
   "items": [
+    {
+      "title": "패션은 카페로, 뷰티는 의료기기로…사업 경계 허무는 기업들",
+      "link": "https://www.yna.co.kr/view/AKR20260323146300030",
+      "pubDate": "Tue, 24 Mar 2026 06:31:00 +0900"
+    },
+    {
+      "title": "국제유가, 이란발전소 공격보류에 11%↓…브렌트 100달러 하회",
+      "link": "https://www.yna.co.kr/view/AKR20260324010200072",
+      "pubDate": "Tue, 24 Mar 2026 06:14:15 +0900"
+    },
+    {
+      "title": "상조-가전렌탈 선불식 결합상품?…계약내용 안다는 소비자 53%뿐",
+      "link": "https://www.yna.co.kr/view/AKR20260323139400004",
+      "pubDate": "Tue, 24 Mar 2026 06:00:08 +0900"
+    },
+    {
+      "title": "현대차 팰리세이드 5만7천987대 국내 리콜…전동시트 안전 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260323128600003",
+      "pubDate": "Tue, 24 Mar 2026 06:00:07 +0900"
+    },
+    {
+      "title": "경유 7%·나프타 9%…유가 상승에 생산자물가 여섯달째 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260323148400002",
+      "pubDate": "Tue, 24 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "츄고쿠삼화페인트, 울산에 1천200억원 들여 공장 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260323162600057",
+      "pubDate": "Tue, 24 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "금감원, 변액보험 미스터리쇼핑 점검…신한라이프 등 2곳 '미흡'",
+      "link": "https://www.yna.co.kr/view/AKR20260323163500002",
+      "pubDate": "Tue, 24 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "작년 외국은행 국내지점 순이익 5.8%↓…4년 만에 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260323158300002",
+      "pubDate": "Tue, 24 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "무협 '한-인도 교류위원회' 발족…인도 진출 기업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260323150900003",
+      "pubDate": "Tue, 24 Mar 2026 06:00:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 이란 공격 보류한 트럼프…WTI 10% 급락",
       "link": "https://www.yna.co.kr/view/AKR20260324005200009",
@@ -107,51 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260323148900011",
       "pubDate": "Mon, 23 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "SNT모티브 \"계열사 에스앤티로보틱스 주식 300억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323152100008",
-      "pubDate": "Mon, 23 Mar 2026 17:51:21 +0900"
-    },
-    {
-      "title": "폭염에 생수 50만병 푼다…노동부·제주, 이동노동자 안전 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260323151200530",
-      "pubDate": "Mon, 23 Mar 2026 17:46:31 +0900"
-    },
-    {
-      "title": "서울 영등포구 더샵신길센트럴시티 477가구 일반분양",
-      "link": "https://www.yna.co.kr/view/AKR20260323145700003",
-      "pubDate": "Mon, 23 Mar 2026 17:35:19 +0900"
-    },
-    {
-      "title": "박홍근 \"재정준칙보다 중기재정 관리가 중요…글로벌 추세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260323148800002",
-      "pubDate": "Mon, 23 Mar 2026 17:31:45 +0900"
-    },
-    {
-      "title": "지난달 서울서 외식값 오름세 지속…세탁비, 1년새 12% 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260323139800030",
-      "pubDate": "Mon, 23 Mar 2026 17:31:40 +0900"
-    },
-    {
-      "title": "춘천시, 중동발 유가 상승에 공공부문 차량 5부제 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260323147900062",
-      "pubDate": "Mon, 23 Mar 2026 17:27:43 +0900"
-    },
-    {
-      "title": "'일본 주택담보대출 초저금리 옛말'…15년 만에 1%대로 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260323143300009",
-      "pubDate": "Mon, 23 Mar 2026 17:21:50 +0900"
-    },
-    {
-      "title": "중동전쟁 격화·신현송 지명에 국고채 금리 일제히 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323136751008",
-      "pubDate": "Mon, 23 Mar 2026 17:16:35 +0900"
-    },
-    {
-      "title": "환율 1,500원대 뉴노멀 되나…국내 산업계 빨간불 켜졌다",
-      "link": "https://www.yna.co.kr/view/AKR20260323143000003",
-      "pubDate": "Mon, 23 Mar 2026 17:06:40 +0900"
     }
   ]
 }
