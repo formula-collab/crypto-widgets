@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774345422,
+  "updated_at_unix": 1774348778,
   "items": [
+    {
+      "title": "아이즈비전 \"관계사 지티에프홀딩스 주식 261억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324174900008",
+      "pubDate": "Tue, 24 Mar 2026 19:03:31 +0900"
+    },
     {
       "title": "에너지 절감에 금융권도 동참…車 5부제 어기면 벌금도",
       "link": "https://www.yna.co.kr/view/AKR20260324174200002",
@@ -147,11 +152,6 @@
       "title": "경남 거제 공항배후도시 경제자유구역 조성 추진",
       "link": "https://www.yna.co.kr/view/AKR20260324150700051",
       "pubDate": "Tue, 24 Mar 2026 16:20:25 +0900"
-    },
-    {
-      "title": "연 10억달러 블록버스터 신약기업 육성…'기술수출 30조 달성'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324081451530",
-      "pubDate": "Tue, 24 Mar 2026 16:20:22 +0900"
     }
   ]
 }
