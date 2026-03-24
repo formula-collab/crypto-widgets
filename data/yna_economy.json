@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774386280,
+  "updated_at_unix": 1774389444,
   "items": [
+    {
+      "title": "이제는 K-펫시대…K-반려동물 기업들, 미국·유럽 공략 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260324142900030",
+      "pubDate": "Wed, 25 Mar 2026 06:15:00 +0900"
+    },
     {
       "title": "[ISA 도입 10년] ②\"전 국민적 상품 위한 업그레이드 전환점\"",
       "link": "https://www.yna.co.kr/view/AKR20260324144100008",
@@ -147,11 +152,6 @@
       "title": "메쥬, 코스닥 신규 상장…26일 거래 개시",
       "link": "https://www.yna.co.kr/view/AKR20260324169000008",
       "pubDate": "Tue, 24 Mar 2026 17:43:02 +0900"
-    },
-    {
-      "title": "[게시판] 법무부, '계절근로 프로그램' 우수 지방정부 44곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260324168400004",
-      "pubDate": "Tue, 24 Mar 2026 17:39:29 +0900"
     }
   ]
 }
