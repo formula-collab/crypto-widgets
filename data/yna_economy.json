@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774352219,
+  "updated_at_unix": 1774356161,
   "items": [
+    {
+      "title": "서울 영등포구 문래동 더샵프리엘라 1순위 청약 89대 1(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324032051003",
+      "pubDate": "Tue, 24 Mar 2026 21:11:54 +0900"
+    },
+    {
+      "title": "재경부 신임 국제경제관리관에 문지성 개발금융국장",
+      "link": "https://www.yna.co.kr/view/AKR20260324185900002",
+      "pubDate": "Tue, 24 Mar 2026 21:06:37 +0900"
+    },
+    {
+      "title": "외국인 이달 코스피 시장서 22조 투매…역대 최대 순매도 눈앞",
+      "link": "https://www.yna.co.kr/view/AKR20260324149800008",
+      "pubDate": "Tue, 24 Mar 2026 20:35:33 +0900"
+    },
     {
       "title": "고려아연 주총서 최윤범 회장 경영권 수성…MBK는 영향력 확대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260324168551003",
@@ -137,21 +152,6 @@
       "title": "李대통령 \"노동자는 본질적 약자…단결권 등 노동3권 보장 중요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260324131651001",
       "pubDate": "Tue, 24 Mar 2026 16:38:28 +0900"
-    },
-    {
-      "title": "李대통령, 한국·외국 '보유세' 비교 보도에 \"저도 궁금했다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324020051001",
-      "pubDate": "Tue, 24 Mar 2026 16:37:02 +0900"
-    },
-    {
-      "title": "트럼프 공격 유예 발언에…환율 나흘 만에 1,500원 밑으로",
-      "link": "https://www.yna.co.kr/view/AKR20260324146300002",
-      "pubDate": "Tue, 24 Mar 2026 16:28:17 +0900"
-    },
-    {
-      "title": "건설노조 전북지부, 중대재해·체불 등 '4대 악 척결' 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260324149500055",
-      "pubDate": "Tue, 24 Mar 2026 16:28:09 +0900"
     }
   ]
 }
