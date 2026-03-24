@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774394455,
+  "updated_at_unix": 1774396293,
   "items": [
+    {
+      "title": "CJ제일제당, 김밥 생산시설 구축…글로벌 냉동김밥 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260325029200030",
+      "pubDate": "Wed, 25 Mar 2026 08:47:43 +0900"
+    },
+    {
+      "title": "유안타證 \"대한유화, 호르무즈 봉쇄 복병 만나…목표주가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325028700008",
+      "pubDate": "Wed, 25 Mar 2026 08:37:53 +0900"
+    },
+    {
+      "title": "코스맥스그룹, 상반기 신입사원 공채…\"AI 역량 우대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325028200030",
+      "pubDate": "Wed, 25 Mar 2026 08:35:33 +0900"
+    },
+    {
+      "title": "LG전자 데이터센터 공조 수출 수출입은행이 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20260325028000002",
+      "pubDate": "Wed, 25 Mar 2026 08:29:18 +0900"
+    },
+    {
+      "title": "IBK투자 \"카타르 LNG 계약 불가항력 선언…헬륨 공급도 차질\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325027200008",
+      "pubDate": "Wed, 25 Mar 2026 08:25:59 +0900"
+    },
+    {
+      "title": "구로다 일본은행 전 총재 \"디플레 끝나…정책 금리 인상해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325025600073",
+      "pubDate": "Wed, 25 Mar 2026 08:24:04 +0900"
+    },
+    {
+      "title": "KB證 \"삼성SDS, 1분기 실적 기대치 웃돌 것…목표가 23만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325026500008",
+      "pubDate": "Wed, 25 Mar 2026 08:24:02 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 장마감 후 전해진 1개월 휴전 가능성…코스피 상승할까",
+      "link": "https://www.yna.co.kr/view/AKR20260325023800008",
+      "pubDate": "Wed, 25 Mar 2026 08:16:27 +0900"
+    },
     {
       "title": "한투증권 \"호텔신라, 1분기 영업익 기대치 밑돌 듯…중립 유지\"",
       "link": "https://www.yna.co.kr/view/AKR20260325024200008",
@@ -112,46 +152,6 @@
       "title": "우리금융硏 \"고유가 현 수준이면 경제성장률 0.55%p↓\"",
       "link": "https://www.yna.co.kr/view/AKR20260324170100002",
       "pubDate": "Wed, 25 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "JP모건 다이먼 \"이란전쟁, 단기론 위험…장기론 더 나은 기회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325007900072",
-      "pubDate": "Wed, 25 Mar 2026 05:27:36 +0900"
-    },
-    {
-      "title": "국제유가, 중동협상 낙관론 후퇴에 반등…브렌트 다시 100달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260325006700072",
-      "pubDate": "Wed, 25 Mar 2026 04:45:43 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 공수부대까지 파병하는 미국…WTI 4.8%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260325004500009",
-      "pubDate": "Wed, 25 Mar 2026 03:47:03 +0900"
-    },
-    {
-      "title": "달러-원, 美·이란 협상 불확실성 속 소폭 상승…1,499.90원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260325003500002",
-      "pubDate": "Wed, 25 Mar 2026 02:46:53 +0900"
-    },
-    {
-      "title": "\"러, 올해 들어 금 15t 매각…2002년 이후 최대 규모\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325002300108",
-      "pubDate": "Wed, 25 Mar 2026 02:26:14 +0900"
-    },
-    {
-      "title": "서울 영등포구 문래동 더샵프리엘라 1순위 청약 89대 1(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324032051003",
-      "pubDate": "Tue, 24 Mar 2026 21:11:54 +0900"
-    },
-    {
-      "title": "재경부 신임 국제경제관리관에 문지성 개발금융국장",
-      "link": "https://www.yna.co.kr/view/AKR20260324185900002",
-      "pubDate": "Tue, 24 Mar 2026 21:06:37 +0900"
-    },
-    {
-      "title": "외국인 이달 코스피 시장서 22조 투매…역대 최대 순매도 눈앞",
-      "link": "https://www.yna.co.kr/view/AKR20260324149800008",
-      "pubDate": "Tue, 24 Mar 2026 20:35:33 +0900"
     }
   ]
 }
