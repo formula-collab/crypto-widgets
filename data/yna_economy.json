@@ -1,8 +1,138 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774334153,
+  "updated_at_unix": 1774338357,
   "items": [
+    {
+      "title": "트럼프 말에…국제 유가·증시 또 롤러코스터",
+      "link": "https://www.yna.co.kr/view/AKR20260324147900009",
+      "pubDate": "Tue, 24 Mar 2026 16:41:50 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.523%",
+      "link": "https://www.yna.co.kr/view/AKR20260324155600008",
+      "pubDate": "Tue, 24 Mar 2026 16:40:15 +0900"
+    },
+    {
+      "title": "대신증권, 정기 주주총회서 1천535만주 자사주 소각 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260324154700008",
+      "pubDate": "Tue, 24 Mar 2026 16:39:25 +0900"
+    },
+    {
+      "title": "[동정] 오세훈, 서울디자인창업센터 동대문캠퍼스 개소식 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260324155000004",
+      "pubDate": "Tue, 24 Mar 2026 16:38:43 +0900"
+    },
+    {
+      "title": "李대통령 \"노동자는 본질적 약자…단결권 등 노동3권 보장 중요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324131651001",
+      "pubDate": "Tue, 24 Mar 2026 16:38:28 +0900"
+    },
+    {
+      "title": "李대통령, 한국·외국 '보유세' 비교 보도에 \"저도 궁금했다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324020051001",
+      "pubDate": "Tue, 24 Mar 2026 16:37:02 +0900"
+    },
+    {
+      "title": "트럼프 공격 유예 발언에…환율 나흘 만에 1,500원 밑으로",
+      "link": "https://www.yna.co.kr/view/AKR20260324146300002",
+      "pubDate": "Tue, 24 Mar 2026 16:28:17 +0900"
+    },
+    {
+      "title": "건설노조 전북지부, 중대재해·체불 등 '4대 악 척결' 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260324149500055",
+      "pubDate": "Tue, 24 Mar 2026 16:28:09 +0900"
+    },
+    {
+      "title": "경남 거제 공항배후도시 경제자유구역 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260324150700051",
+      "pubDate": "Tue, 24 Mar 2026 16:20:25 +0900"
+    },
+    {
+      "title": "연 10억달러 블록버스터 신약기업 육성…'기술수출 30조 달성'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324081451530",
+      "pubDate": "Tue, 24 Mar 2026 16:20:22 +0900"
+    },
+    {
+      "title": "李대통령, 대형 베이커리카페 거론, \"10년이 가업? 꼼수 감세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324141100001",
+      "pubDate": "Tue, 24 Mar 2026 16:09:20 +0900"
+    },
+    {
+      "title": "양평군수 \"서울~양평고속도로 성공적 추진 위해 총력 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324143600061",
+      "pubDate": "Tue, 24 Mar 2026 16:04:12 +0900"
+    },
+    {
+      "title": "광주국세청·광주시, 생계 곤란 체납자 지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260324146200054",
+      "pubDate": "Tue, 24 Mar 2026 16:02:20 +0900"
+    },
+    {
+      "title": "[특징주] 우리로, 젠슨황 '광반도체' 언급에 나흘째 상한가 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324046051008",
+      "pubDate": "Tue, 24 Mar 2026 15:58:02 +0900"
+    },
+    {
+      "title": "[특징주] 미국발 훈풍에 SK하이닉스 5.7% 급반등…삼전은 1.8%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324041451008",
+      "pubDate": "Tue, 24 Mar 2026 15:55:14 +0900"
+    },
+    {
+      "title": "\"골드만삭스도 '4·6월 ECB 금리인상' 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324140800009",
+      "pubDate": "Tue, 24 Mar 2026 15:54:03 +0900"
+    },
+    {
+      "title": "서울 공공기여 통합관리 10년…\"개발 이익으로 미래 대비\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324084651004",
+      "pubDate": "Tue, 24 Mar 2026 15:50:39 +0900"
+    },
+    {
+      "title": "강원소방, 건축 심의 체계 손질…화재 예방·인명 보호 초점",
+      "link": "https://www.yna.co.kr/view/AKR20260324140100062",
+      "pubDate": "Tue, 24 Mar 2026 15:47:54 +0900"
+    },
+    {
+      "title": "트럼프발 '널뛰기' 언제까지…亞증시, 급등 출발후 상승폭 축소(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324083951008",
+      "pubDate": "Tue, 24 Mar 2026 15:46:35 +0900"
+    },
+    {
+      "title": "속초시, 여성 일자리·안전 정책 점검…여성친화도시 조성 박차",
+      "link": "https://www.yna.co.kr/view/AKR20260324139700062",
+      "pubDate": "Tue, 24 Mar 2026 15:45:20 +0900"
+    },
+    {
+      "title": "[특징주] 엔켐, 감사보고서 지연 공시에 하한가 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324051051008",
+      "pubDate": "Tue, 24 Mar 2026 15:43:51 +0900"
+    },
+    {
+      "title": "[특징주] 삼천당제약, 장중 '황제주' 등극 후 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324058251008",
+      "pubDate": "Tue, 24 Mar 2026 15:40:19 +0900"
+    },
+    {
+      "title": "'국힘 부동산특위' 심교언, 지선연설…\"李정부 부동산정책 해괴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324130600001",
+      "pubDate": "Tue, 24 Mar 2026 15:40:01 +0900"
+    },
+    {
+      "title": "외국환시세(3월24일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260324138300002",
+      "pubDate": "Tue, 24 Mar 2026 15:40:00 +0900"
+    },
+    {
+      "title": "[특징주] 엘앤에프, 1분기 호실적 전망에 11%대 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324041551008",
+      "pubDate": "Tue, 24 Mar 2026 15:35:36 +0900"
+    },
+    {
+      "title": "크래프톤 김창한 대표 재선임…\"프랜차이즈 IP 기업 될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324135100017",
+      "pubDate": "Tue, 24 Mar 2026 15:32:22 +0900"
+    },
     {
       "title": "[외환] 원/달러 환율 22.1원 내린 1,495.2원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260324136900002",
@@ -22,136 +152,6 @@
       "title": "경남도, 여성 경제활동 활성화 소통…박완수 \"창업 공간 확충\"",
       "link": "https://www.yna.co.kr/view/AKR20260324133100052",
       "pubDate": "Tue, 24 Mar 2026 15:24:27 +0900"
-    },
-    {
-      "title": "李대통령 \"노동자는 본질적 약자…단결권 등 노동3권 보장 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324131600001",
-      "pubDate": "Tue, 24 Mar 2026 15:13:57 +0900"
-    },
-    {
-      "title": "육동한 춘천시장 \"협의 없이 발표 유감\"…강원도청사 활용 반박",
-      "link": "https://www.yna.co.kr/view/AKR20260324124000062",
-      "pubDate": "Tue, 24 Mar 2026 15:02:01 +0900"
-    },
-    {
-      "title": "인천상의, 수출기업 물류비 지원…\"중동사태 피해 기업 우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324118100065",
-      "pubDate": "Tue, 24 Mar 2026 15:00:01 +0900"
-    },
-    {
-      "title": "정부 \"추경 마련 전까지 예산 신속 집행…중동 영향 최소화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324123400002",
-      "pubDate": "Tue, 24 Mar 2026 15:00:01 +0900"
-    },
-    {
-      "title": "BNK경남은행, 이사회 의장에 권희경 사외이사…첫 여성 의장",
-      "link": "https://www.yna.co.kr/view/AKR20260324123700052",
-      "pubDate": "Tue, 24 Mar 2026 14:58:41 +0900"
-    },
-    {
-      "title": "\"인구감소로 전세시장 축소 불가피…주거정책 전환 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324120300002",
-      "pubDate": "Tue, 24 Mar 2026 14:54:10 +0900"
-    },
-    {
-      "title": "스코넥, 30억원 유상증자…글로메타에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260324125800008",
-      "pubDate": "Tue, 24 Mar 2026 14:51:59 +0900"
-    },
-    {
-      "title": "코넥스협, 한국M&A거래소와 MOU 체결…회원사 M&A 연계 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260324123800008",
-      "pubDate": "Tue, 24 Mar 2026 14:44:39 +0900"
-    },
-    {
-      "title": "바이셀스탠다드 대표, 방한 NYSE 부회장과 만나 토큰증권 논의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260323119151008",
-      "pubDate": "Tue, 24 Mar 2026 14:42:38 +0900"
-    },
-    {
-      "title": "미래에셋, IMA 2호 상품 출시…기업금융·모험자본 투자 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260324117200008",
-      "pubDate": "Tue, 24 Mar 2026 14:41:44 +0900"
-    },
-    {
-      "title": "[인사] IBK투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20260324118700008",
-      "pubDate": "Tue, 24 Mar 2026 14:40:18 +0900"
-    },
-    {
-      "title": "대신증권, 진승욱 대표이사 선임…30년 '원클럽맨'",
-      "link": "https://www.yna.co.kr/view/AKR20260324119300008",
-      "pubDate": "Tue, 24 Mar 2026 14:39:21 +0900"
-    },
-    {
-      "title": "올해 코스피 사이드카 발동 10회…글로벌 금융위기 이후 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260324114100008",
-      "pubDate": "Tue, 24 Mar 2026 14:37:57 +0900"
-    },
-    {
-      "title": "부산형 개방혁신 전략기업 선정…중견기업·스타트업 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260324122200051",
-      "pubDate": "Tue, 24 Mar 2026 14:35:36 +0900"
-    },
-    {
-      "title": "서울 강서구 31일 '글로벌 취업 지원 설명회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260324120900004",
-      "pubDate": "Tue, 24 Mar 2026 14:32:49 +0900"
-    },
-    {
-      "title": "사회적 기업에 최대 1억 지급…노동부·사회적가치연구원 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260324089000530",
-      "pubDate": "Tue, 24 Mar 2026 14:30:40 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260324116600011",
-      "pubDate": "Tue, 24 Mar 2026 14:30:00 +0900"
-    },
-    {
-      "title": "울산 동구, 자활센터 등 5곳과 통합돌봄 제공 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260324120100057",
-      "pubDate": "Tue, 24 Mar 2026 14:29:56 +0900"
-    },
-    {
-      "title": "李대통령 \"중동전쟁 비상대응체계…추경, 지역화폐로 직접 지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324066851001",
-      "pubDate": "Tue, 24 Mar 2026 14:24:20 +0900"
-    },
-    {
-      "title": "[게시판] 부산은행, 수출입 기업 대상 환율전망 세미나 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260324118600051",
-      "pubDate": "Tue, 24 Mar 2026 14:23:41 +0900"
-    },
-    {
-      "title": "임기근 \"내년 예산, 적극 재정으로 국정 성과 본격 증명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324118400002",
-      "pubDate": "Tue, 24 Mar 2026 14:22:46 +0900"
-    },
-    {
-      "title": "기업은행 \"지방 중소기업에 2조원 금융 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324116800002",
-      "pubDate": "Tue, 24 Mar 2026 14:18:30 +0900"
-    },
-    {
-      "title": "평창군학교밖청소년지원센터-평창시네마, 청소년 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260324114700062",
-      "pubDate": "Tue, 24 Mar 2026 14:15:13 +0900"
-    },
-    {
-      "title": "김기문 중기중앙회장 \"이번 임기 끝으로 회장직 마무리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324113500030",
-      "pubDate": "Tue, 24 Mar 2026 14:13:53 +0900"
-    },
-    {
-      "title": "제주 공직자에 난임치료 동행휴가 부여…출산축하비도 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260324111900056",
-      "pubDate": "Tue, 24 Mar 2026 14:03:58 +0900"
-    },
-    {
-      "title": "현대차 노사, 고용안정 자문위원 위촉…\"생존 위해 변화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324081800057",
-      "pubDate": "Tue, 24 Mar 2026 14:00:24 +0900"
     }
   ]
 }
