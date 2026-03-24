@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774391134,
+  "updated_at_unix": 1774392914,
   "items": [
+    {
+      "title": "카카오게임즈, 2천400억원 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260325020200008",
+      "pubDate": "Wed, 25 Mar 2026 07:46:00 +0900"
+    },
+    {
+      "title": "[시간들] 대통령의 다주택자 배제 논란 \"문제는 합리적 의심이야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324167500546",
+      "pubDate": "Wed, 25 Mar 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260325016000011",
+      "pubDate": "Wed, 25 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "중동사태에 ETN 수익률 상위권 하루만에 銀 인버스→레버리지",
       "link": "https://www.yna.co.kr/view/AKR20260324178600008",
@@ -137,21 +152,6 @@
       "title": "고려아연 주총 최윤범 회장 경영권 수성…이사회 11:4→9:5 재편",
       "link": "https://www.yna.co.kr/view/AKR20260324168500003",
       "pubDate": "Tue, 24 Mar 2026 18:08:37 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260324165400011",
-      "pubDate": "Tue, 24 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "관세청, 작년 탈세·법규위반 2.7조원 적발…\"엄정 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324167700002",
-      "pubDate": "Tue, 24 Mar 2026 17:51:52 +0900"
-    },
-    {
-      "title": "'청년이 머무는 강원을 위해' 강원도-삼성 손잡아",
-      "link": "https://www.yna.co.kr/view/AKR20260324168700062",
-      "pubDate": "Tue, 24 Mar 2026 17:44:35 +0900"
     }
   ]
 }
