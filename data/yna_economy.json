@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774377930,
+  "updated_at_unix": 1774381519,
   "items": [
+    {
+      "title": "[뉴욕유가] 공수부대까지 파병하는 미국…WTI 4.8%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260325004500009",
+      "pubDate": "Wed, 25 Mar 2026 03:47:03 +0900"
+    },
     {
       "title": "달러-원, 美·이란 협상 불확실성 속 소폭 상승…1,499.90원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260325003500002",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.523%",
       "link": "https://www.yna.co.kr/view/AKR20260324155600008",
       "pubDate": "Tue, 24 Mar 2026 16:40:15 +0900"
-    },
-    {
-      "title": "대신증권, 정기 주주총회서 1천535만주 자사주 소각 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260324154700008",
-      "pubDate": "Tue, 24 Mar 2026 16:39:25 +0900"
     }
   ]
 }
