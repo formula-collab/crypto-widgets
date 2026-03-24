@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774341471,
+  "updated_at_unix": 1774345422,
   "items": [
+    {
+      "title": "에너지 절감에 금융권도 동참…車 5부제 어기면 벌금도",
+      "link": "https://www.yna.co.kr/view/AKR20260324174200002",
+      "pubDate": "Tue, 24 Mar 2026 18:30:25 +0900"
+    },
+    {
+      "title": "고려아연 주총 최윤범 회장 경영권 수성…이사회 11:4→9:5 재편",
+      "link": "https://www.yna.co.kr/view/AKR20260324168500003",
+      "pubDate": "Tue, 24 Mar 2026 18:08:37 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260324165400011",
+      "pubDate": "Tue, 24 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "관세청, 작년 탈세·법규위반 2.7조원 적발…\"엄정 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324167700002",
+      "pubDate": "Tue, 24 Mar 2026 17:51:52 +0900"
+    },
+    {
+      "title": "'청년이 머무는 강원을 위해' 강원도-삼성 손잡아",
+      "link": "https://www.yna.co.kr/view/AKR20260324168700062",
+      "pubDate": "Tue, 24 Mar 2026 17:44:35 +0900"
+    },
+    {
+      "title": "메쥬, 코스닥 신규 상장…26일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260324169000008",
+      "pubDate": "Tue, 24 Mar 2026 17:43:02 +0900"
+    },
+    {
+      "title": "[게시판] 법무부, '계절근로 프로그램' 우수 지방정부 44곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260324168400004",
+      "pubDate": "Tue, 24 Mar 2026 17:39:29 +0900"
+    },
     {
       "title": "빗썸, FIU 영업 일부정지 제재 불복…행정소송 제기",
       "link": "https://www.yna.co.kr/view/AKR20260324167100002",
@@ -117,41 +152,6 @@
       "title": "연 10억달러 블록버스터 신약기업 육성…'기술수출 30조 달성'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260324081451530",
       "pubDate": "Tue, 24 Mar 2026 16:20:22 +0900"
-    },
-    {
-      "title": "李대통령, 대형 베이커리카페 거론, \"10년이 가업? 꼼수 감세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324141100001",
-      "pubDate": "Tue, 24 Mar 2026 16:09:20 +0900"
-    },
-    {
-      "title": "양평군수 \"서울~양평고속도로 성공적 추진 위해 총력 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324143600061",
-      "pubDate": "Tue, 24 Mar 2026 16:04:12 +0900"
-    },
-    {
-      "title": "광주국세청·광주시, 생계 곤란 체납자 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260324146200054",
-      "pubDate": "Tue, 24 Mar 2026 16:02:20 +0900"
-    },
-    {
-      "title": "[특징주] 우리로, 젠슨황 '광반도체' 언급에 나흘째 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324046051008",
-      "pubDate": "Tue, 24 Mar 2026 15:58:02 +0900"
-    },
-    {
-      "title": "[특징주] 미국발 훈풍에 SK하이닉스 5.7% 급반등…삼전은 1.8%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324041451008",
-      "pubDate": "Tue, 24 Mar 2026 15:55:14 +0900"
-    },
-    {
-      "title": "\"골드만삭스도 '4·6월 ECB 금리인상' 예상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324140800009",
-      "pubDate": "Tue, 24 Mar 2026 15:54:03 +0900"
-    },
-    {
-      "title": "서울 공공기여 통합관리 10년…\"개발 이익으로 미래 대비\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324084651004",
-      "pubDate": "Tue, 24 Mar 2026 15:50:39 +0900"
     }
   ]
 }
