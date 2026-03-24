@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774323851,
+  "updated_at_unix": 1774329495,
   "items": [
+    {
+      "title": "평창군학교밖청소년지원센터-평창시네마, 청소년 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260324114700062",
+      "pubDate": "Tue, 24 Mar 2026 14:15:13 +0900"
+    },
+    {
+      "title": "김기문 중기중앙회장 \"이번 임기 끝으로 회장직 마무리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324113500030",
+      "pubDate": "Tue, 24 Mar 2026 14:13:53 +0900"
+    },
+    {
+      "title": "제주 공직자에 난임치료 동행휴가 부여…출산축하비도 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260324111900056",
+      "pubDate": "Tue, 24 Mar 2026 14:03:58 +0900"
+    },
+    {
+      "title": "현대차 노사, 고용안정 자문위원 위촉…\"생존 위해 변화 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324081800057",
+      "pubDate": "Tue, 24 Mar 2026 14:00:24 +0900"
+    },
+    {
+      "title": "바이셀스탠다드 대표, 방한 NYSE 부회장과 만나 토큰증권 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260323119100008",
+      "pubDate": "Tue, 24 Mar 2026 14:00:23 +0900"
+    },
+    {
+      "title": "서울 공공기여 통합관리 10년…\"미래가치 심는 핵심 수단\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324084600004",
+      "pubDate": "Tue, 24 Mar 2026 14:00:20 +0900"
+    },
+    {
+      "title": "이찬진, 시민·소비자단체 만나 \"소비자보호 강화 최우선 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260324105600002",
+      "pubDate": "Tue, 24 Mar 2026 14:00:01 +0900"
+    },
+    {
+      "title": "양재생 회장, 동아대 개교 80주년 릴레이 발전기금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260324111500051",
+      "pubDate": "Tue, 24 Mar 2026 13:57:09 +0900"
+    },
+    {
+      "title": "창원상의, 부산국세청장 초청 간담회…기업인 애로사항 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260324108500052",
+      "pubDate": "Tue, 24 Mar 2026 13:51:46 +0900"
+    },
+    {
+      "title": "한투증권, 주식투자 공백 고객 대상 '투자성장 챌린지' 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260324106200008",
+      "pubDate": "Tue, 24 Mar 2026 13:41:30 +0900"
+    },
+    {
+      "title": "정부, 나프타 수급 비상에 '수출 제한' 강수…이번주 시행(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324087451003",
+      "pubDate": "Tue, 24 Mar 2026 13:37:26 +0900"
+    },
+    {
+      "title": "통신사 요금제 추천 의무화…가계 통신비 낮춘다",
+      "link": "https://www.yna.co.kr/view/AKR20260324101700017",
+      "pubDate": "Tue, 24 Mar 2026 13:21:55 +0900"
+    },
     {
       "title": "롯데홈쇼핑, 김재겸 대표 재선임…태광 \"계열사 밀어주기 의도\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260324067751030",
@@ -92,66 +152,6 @@
       "title": "국토차관, 교통·물류업계 간담회…고유가 위기 지원 논의",
       "link": "https://www.yna.co.kr/view/AKR20260324089800003",
       "pubDate": "Tue, 24 Mar 2026 11:34:17 +0900"
-    },
-    {
-      "title": "롯데리아, 매장 리뉴얼로 수익성 강화…지방 거점 투자 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260324090000030",
-      "pubDate": "Tue, 24 Mar 2026 11:33:31 +0900"
-    },
-    {
-      "title": "나프타, 수출물량 내수로 돌린다…정부 \"수출제한조치 준비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324087400003",
-      "pubDate": "Tue, 24 Mar 2026 11:30:00 +0900"
-    },
-    {
-      "title": "석유회사 CEO들, 전쟁발 '장기 충격' 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260324077700009",
-      "pubDate": "Tue, 24 Mar 2026 11:28:26 +0900"
-    },
-    {
-      "title": "\"공공기관 비정규직, 정규직 전환됐어도 75%는 처우 차별\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324084300004",
-      "pubDate": "Tue, 24 Mar 2026 11:28:17 +0900"
-    },
-    {
-      "title": "LG생활건강, 전자주총제도 도입…\"10대 브랜드 육성해 성장전환\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324088500030",
-      "pubDate": "Tue, 24 Mar 2026 11:26:35 +0900"
-    },
-    {
-      "title": "동원그룹, 글로벌 해운사 ONE과 전략적 협력…물동량 확대 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260324087200030",
-      "pubDate": "Tue, 24 Mar 2026 11:23:13 +0900"
-    },
-    {
-      "title": "\"아메리카노 7잔 중 1잔은 디카페인\"…스타벅스, 2억잔 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260324086400030",
-      "pubDate": "Tue, 24 Mar 2026 11:22:13 +0900"
-    },
-    {
-      "title": "울주군, 코딩·AI·영상편집 교육으로 여성 전문인력 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260324086100057",
-      "pubDate": "Tue, 24 Mar 2026 11:21:10 +0900"
-    },
-    {
-      "title": "회계사들 \"2분기, AI 기술로 생산성 향상…체감경기 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324076000002",
-      "pubDate": "Tue, 24 Mar 2026 11:19:15 +0900"
-    },
-    {
-      "title": "DN솔루션즈, 상반기 신입사원 공채…사무직·기술전문직 등 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260324084100003",
-      "pubDate": "Tue, 24 Mar 2026 11:15:43 +0900"
-    },
-    {
-      "title": "서울시, 청년층에 AI '전세사기 위험분석 보고서' 제공 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260324040500004",
-      "pubDate": "Tue, 24 Mar 2026 11:15:03 +0900"
-    },
-    {
-      "title": "용산국제업무지구 글로벌기업 지역본부 유치 전략포럼 27일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260324043300004",
-      "pubDate": "Tue, 24 Mar 2026 11:15:02 +0900"
     }
   ]
 }
