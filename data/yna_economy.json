@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774381519,
+  "updated_at_unix": 1774384199,
   "items": [
+    {
+      "title": "국제유가, 중동협상 낙관론 후퇴에 반등…브렌트 다시 100달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260325006700072",
+      "pubDate": "Wed, 25 Mar 2026 04:45:43 +0900"
+    },
     {
       "title": "[뉴욕유가] 공수부대까지 파병하는 미국…WTI 4.8%↑",
       "link": "https://www.yna.co.kr/view/AKR20260325004500009",
@@ -147,11 +152,6 @@
       "title": "트럼프 말에…국제 유가·증시 또 롤러코스터",
       "link": "https://www.yna.co.kr/view/AKR20260324147900009",
       "pubDate": "Tue, 24 Mar 2026 16:41:50 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.523%",
-      "link": "https://www.yna.co.kr/view/AKR20260324155600008",
-      "pubDate": "Tue, 24 Mar 2026 16:40:15 +0900"
     }
   ]
 }
