@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774392914,
+  "updated_at_unix": 1774394455,
   "items": [
+    {
+      "title": "한투증권 \"호텔신라, 1분기 영업익 기대치 밑돌 듯…중립 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325024200008",
+      "pubDate": "Wed, 25 Mar 2026 08:09:03 +0900"
+    },
+    {
+      "title": "부산시, 국민성장펀드 대응해 13조 규모 부산형 프로젝트 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260325021900051",
+      "pubDate": "Wed, 25 Mar 2026 08:02:25 +0900"
+    },
+    {
+      "title": "부산시·교육청, 협약형 특성화고 육성…경남공고·금샘고 도전",
+      "link": "https://www.yna.co.kr/view/AKR20260325021800051",
+      "pubDate": "Wed, 25 Mar 2026 08:02:01 +0900"
+    },
+    {
+      "title": "올해는 잔여 용지 매각하나…충주기업도시 15년째 사업 중",
+      "link": "https://www.yna.co.kr/view/AKR20260324142000064",
+      "pubDate": "Wed, 25 Mar 2026 08:00:04 +0900"
+    },
     {
       "title": "카카오게임즈, 2천400억원 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260325020200008",
@@ -132,26 +152,6 @@
       "title": "외국인 이달 코스피 시장서 22조 투매…역대 최대 순매도 눈앞",
       "link": "https://www.yna.co.kr/view/AKR20260324149800008",
       "pubDate": "Tue, 24 Mar 2026 20:35:33 +0900"
-    },
-    {
-      "title": "고려아연 주총서 최윤범 회장 경영권 수성…MBK는 영향력 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324168551003",
-      "pubDate": "Tue, 24 Mar 2026 19:36:40 +0900"
-    },
-    {
-      "title": "아이즈비전 \"관계사 지티에프홀딩스 주식 261억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260324174900008",
-      "pubDate": "Tue, 24 Mar 2026 19:03:31 +0900"
-    },
-    {
-      "title": "에너지 절감에 금융권도 동참…車 5부제 어기면 벌금도",
-      "link": "https://www.yna.co.kr/view/AKR20260324174200002",
-      "pubDate": "Tue, 24 Mar 2026 18:30:25 +0900"
-    },
-    {
-      "title": "고려아연 주총 최윤범 회장 경영권 수성…이사회 11:4→9:5 재편",
-      "link": "https://www.yna.co.kr/view/AKR20260324168500003",
-      "pubDate": "Tue, 24 Mar 2026 18:08:37 +0900"
     }
   ]
 }
