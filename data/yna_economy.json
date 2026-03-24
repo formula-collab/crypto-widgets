@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774389444,
+  "updated_at_unix": 1774391134,
   "items": [
+    {
+      "title": "중동사태에 ETN 수익률 상위권 하루만에 銀 인버스→레버리지",
+      "link": "https://www.yna.co.kr/view/AKR20260324178600008",
+      "pubDate": "Wed, 25 Mar 2026 07:03:00 +0900"
+    },
     {
       "title": "이제는 K-펫시대…K-반려동물 기업들, 미국·유럽 공략 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260324142900030",
@@ -147,11 +152,6 @@
       "title": "'청년이 머무는 강원을 위해' 강원도-삼성 손잡아",
       "link": "https://www.yna.co.kr/view/AKR20260324168700062",
       "pubDate": "Tue, 24 Mar 2026 17:44:35 +0900"
-    },
-    {
-      "title": "메쥬, 코스닥 신규 상장…26일 거래 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260324169000008",
-      "pubDate": "Tue, 24 Mar 2026 17:43:02 +0900"
     }
   ]
 }
