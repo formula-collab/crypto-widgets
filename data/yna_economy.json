@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774431699,
+  "updated_at_unix": 1774435044,
   "items": [
+    {
+      "title": "靑 상황실·범정부 본부 '비상경제 대응'…\"중동상황 엄중관리\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325082451001",
+      "pubDate": "Wed, 25 Mar 2026 19:27:17 +0900"
+    },
+    {
+      "title": "다카이치, IEA 사무총장 면담…\"비축유 추가 방출 준비 요청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325165900073",
+      "pubDate": "Wed, 25 Mar 2026 18:41:34 +0900"
+    },
     {
       "title": "CSA 코스믹 \"블루원 주식 35억원어치 취득…지분율 64%\"",
       "link": "https://www.yna.co.kr/view/AKR20260325163300008",
@@ -142,16 +152,6 @@
       "title": "[특징주] 펄어비스, '붉은사막' 판매 흥행 소식에 23% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325042551008",
       "pubDate": "Wed, 25 Mar 2026 16:14:40 +0900"
-    },
-    {
-      "title": "[특징주] 한패스, 상장 첫날 '따블' 기록 후 상승폭 축소 43%↑ 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325041951008",
-      "pubDate": "Wed, 25 Mar 2026 16:13:53 +0900"
-    },
-    {
-      "title": "내리기만 하던 금값, 전쟁 끝나면 오를까…\"회복력 더딜 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325071851008",
-      "pubDate": "Wed, 25 Mar 2026 16:09:25 +0900"
     }
   ]
 }
