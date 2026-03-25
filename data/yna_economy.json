@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774477451,
+  "updated_at_unix": 1774479613,
   "items": [
+    {
+      "title": "부산 청년이 뽑은 '청끌기업' 120개사 선정…\"근속률 81%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326022100051",
+      "pubDate": "Thu, 26 Mar 2026 07:56:12 +0900"
+    },
+    {
+      "title": "부산시, 종량제 봉투 16개월치 물량 확보…비상관리체계 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260326021800051",
+      "pubDate": "Thu, 26 Mar 2026 07:55:24 +0900"
+    },
+    {
+      "title": "'구동화'·'스니커리나'…패션업계, 하이브리드 신발 잇단 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260325067800030",
+      "pubDate": "Thu, 26 Mar 2026 07:31:01 +0900"
+    },
+    {
+      "title": "李정부 첫 '노사정 대표 만남'…\"사회적 연대의 새로운 출발점\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325144700530",
+      "pubDate": "Thu, 26 Mar 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260326017100011",
+      "pubDate": "Thu, 26 Mar 2026 07:30:01 +0900"
+    },
+    {
+      "title": "국내기업 경기전망 4년만 회복서 한달만에 다시 뚝…'중동 영향'",
+      "link": "https://www.yna.co.kr/view/AKR20260325153300003",
+      "pubDate": "Thu, 26 Mar 2026 07:26:12 +0900"
+    },
     {
       "title": "[미·이란 전쟁 한달] 3高 장기화 경로 밟나…복합 경제대응에도 'S의 공포' 고개",
       "link": "https://www.yna.co.kr/view/AKR20260325095800002",
@@ -122,36 +152,6 @@
       "title": "靑 상황실·범정부 본부 '비상경제 대응'…\"중동상황 엄중관리\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325082451001",
       "pubDate": "Wed, 25 Mar 2026 19:27:17 +0900"
-    },
-    {
-      "title": "다카이치, IEA 사무총장 면담…\"비축유 추가 방출 준비 요청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325165900073",
-      "pubDate": "Wed, 25 Mar 2026 18:41:34 +0900"
-    },
-    {
-      "title": "CSA 코스믹 \"블루원 주식 35억원어치 취득…지분율 64%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325163300008",
-      "pubDate": "Wed, 25 Mar 2026 18:24:51 +0900"
-    },
-    {
-      "title": "에이전트AI, 187억4천만원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260325164300008",
-      "pubDate": "Wed, 25 Mar 2026 18:24:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260325155500011",
-      "pubDate": "Wed, 25 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "경제·금융계, 에너지 절감 동참…대중교통 이용·불끄기(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260325145952003",
-      "pubDate": "Wed, 25 Mar 2026 17:52:06 +0900"
-    },
-    {
-      "title": "CJ그룹, 에너지 절약 동참…승용차 5부제 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260325159000030",
-      "pubDate": "Wed, 25 Mar 2026 17:44:07 +0900"
     }
   ]
 }
