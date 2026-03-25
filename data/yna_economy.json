@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774420554,
+  "updated_at_unix": 1774424676,
   "items": [
+    {
+      "title": "삼척시-삼척블루파워, 데이터센터 투자유치 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260325140700062",
+      "pubDate": "Wed, 25 Mar 2026 16:34:15 +0900"
+    },
+    {
+      "title": "재생학회·LH토지주택硏, 소규모 주택정비 관리지역 발전 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260325140300003",
+      "pubDate": "Wed, 25 Mar 2026 16:32:34 +0900"
+    },
+    {
+      "title": "전주시, 지역업체 참여시 '공동주택 용적률 최대 20%' 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20260325068600055",
+      "pubDate": "Wed, 25 Mar 2026 16:30:02 +0900"
+    },
+    {
+      "title": "\"주문취소에 휴업까지\"…중동전쟁에 中企피해 '눈덩이'",
+      "link": "https://www.yna.co.kr/view/AKR20260325140100030",
+      "pubDate": "Wed, 25 Mar 2026 16:28:25 +0900"
+    },
+    {
+      "title": "내부정보로 차명거래해 5.5억 챙겨…코스닥 IR 前임원 검찰 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260325139000002",
+      "pubDate": "Wed, 25 Mar 2026 16:25:50 +0900"
+    },
+    {
+      "title": "안갯속 중동정세에 원/달러 환율 이틀 만에 상승…1,499.7원",
+      "link": "https://www.yna.co.kr/view/AKR20260325136400002",
+      "pubDate": "Wed, 25 Mar 2026 16:21:39 +0900"
+    },
+    {
+      "title": "\"유럽 에너지 부족 다음달 닥칠 수도\"…셸 CEO 경고",
+      "link": "https://www.yna.co.kr/view/AKR20260325120800009",
+      "pubDate": "Wed, 25 Mar 2026 16:16:26 +0900"
+    },
+    {
+      "title": "[특징주] 펄어비스, '붉은사막' 판매 흥행 소식에 23% 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325042551008",
+      "pubDate": "Wed, 25 Mar 2026 16:14:40 +0900"
+    },
+    {
+      "title": "[특징주] 한패스, 상장 첫날 '따블' 기록 후 상승폭 축소 43%↑ 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325041951008",
+      "pubDate": "Wed, 25 Mar 2026 16:13:53 +0900"
+    },
+    {
+      "title": "내리기만 하던 금값, 전쟁 끝나면 오를까…\"회복력 더딜 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325071851008",
+      "pubDate": "Wed, 25 Mar 2026 16:09:25 +0900"
+    },
+    {
+      "title": "공인중개사協 법정단체위 첫 개최…5월까지 정관·윤리규정 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260325134700003",
+      "pubDate": "Wed, 25 Mar 2026 16:08:22 +0900"
+    },
+    {
+      "title": "\"공급망 위기 속 반도체·조선 등 '대체 불가능' 위치 선점해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325118700504",
+      "pubDate": "Wed, 25 Mar 2026 16:00:07 +0900"
+    },
+    {
+      "title": "제이에스링크 \"말레이시아 자회사에 500억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325132300008",
+      "pubDate": "Wed, 25 Mar 2026 15:58:25 +0900"
+    },
+    {
+      "title": "부산 첫 부동산 중개 카르텔 적발…공인중개사 등 54명 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260325129500051",
+      "pubDate": "Wed, 25 Mar 2026 15:57:59 +0900"
+    },
+    {
+      "title": "올해 경남 직업계고 신입생 충원율 94.5％…집계 이후 최고치",
+      "link": "https://www.yna.co.kr/view/AKR20260325128200052",
+      "pubDate": "Wed, 25 Mar 2026 15:56:47 +0900"
+    },
+    {
+      "title": "[특징주] '라인야후에 인수' 카카오게임즈, 급등 후 상승폭 줄인 채 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325039951008",
+      "pubDate": "Wed, 25 Mar 2026 15:56:45 +0900"
+    },
+    {
+      "title": "2년 7개월 만에 코스닥 '황제주' 등장…삼천당제약 100만원 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325108551008",
+      "pubDate": "Wed, 25 Mar 2026 15:54:12 +0900"
+    },
+    {
+      "title": "대한상의, 전국 74개 상의와 에너지절약 동참…차량 5부제 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260325130200003",
+      "pubDate": "Wed, 25 Mar 2026 15:49:58 +0900"
+    },
+    {
+      "title": "외국환시세(3월25일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260325126900002",
+      "pubDate": "Wed, 25 Mar 2026 15:35:20 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 4.5원 오른 1,499.7원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260325125300002",
+      "pubDate": "Wed, 25 Mar 2026 15:30:35 +0900"
+    },
     {
       "title": "\"남양주는 기업이 크는 도시\"…첫 투자유치설명회",
       "link": "https://www.yna.co.kr/view/AKR20260325122200060",
@@ -52,106 +152,6 @@
       "title": "오비맥주·하이트진로 \"재활용센터 건립 시 청주공장 이전 검토\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325107451030",
       "pubDate": "Wed, 25 Mar 2026 15:04:10 +0900"
-    },
-    {
-      "title": "토스뱅크 \"엔화 반값환전 총 276억원…예상 손실 12.5억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325112000002",
-      "pubDate": "Wed, 25 Mar 2026 15:02:19 +0900"
-    },
-    {
-      "title": "코트라, AI 전환 '박차'…사장 주재 'AI 위원회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260325066000003",
-      "pubDate": "Wed, 25 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "식품업계 \"중동사태에 포장재 1∼2개월 고비…대안검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325109700030",
-      "pubDate": "Wed, 25 Mar 2026 14:52:39 +0900"
-    },
-    {
-      "title": "주택금융공사, 4월 보금자리론 금리 0.30%p 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260325109800002",
-      "pubDate": "Wed, 25 Mar 2026 14:47:46 +0900"
-    },
-    {
-      "title": "HUG, 임대인 사망 후 신속 보증이행 지원…임차인 보호 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260325111800003",
-      "pubDate": "Wed, 25 Mar 2026 14:41:38 +0900"
-    },
-    {
-      "title": "해남군, 첨단산업 육성·지원 조례 제정 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260325111600054",
-      "pubDate": "Wed, 25 Mar 2026 14:41:05 +0900"
-    },
-    {
-      "title": "[부고] 이효택(여신금융협회 금융본부장)씨 빙부상",
-      "link": "https://www.yna.co.kr/view/AKR20260325110700002",
-      "pubDate": "Wed, 25 Mar 2026 14:40:20 +0900"
-    },
-    {
-      "title": "[특징주] 삼천당제약, 19% 급등해 장중 재차 100만원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260325108500008",
-      "pubDate": "Wed, 25 Mar 2026 14:33:54 +0900"
-    },
-    {
-      "title": "데이터처, 6월 경제총조사 시작… 'AI·로봇 활용' 항목 추가",
-      "link": "https://www.yna.co.kr/view/AKR20260325105700002",
-      "pubDate": "Wed, 25 Mar 2026 14:33:29 +0900"
-    },
-    {
-      "title": "BNK금융그룹, 차량 5부제 등 에너지 절약 운동",
-      "link": "https://www.yna.co.kr/view/AKR20260325108400051",
-      "pubDate": "Wed, 25 Mar 2026 14:30:37 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260325103200011",
-      "pubDate": "Wed, 25 Mar 2026 14:30:00 +0900"
-    },
-    {
-      "title": "오비맥주·하이트진로 \"청주 산단 폐기물 선별장 공사 중단하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325107400030",
-      "pubDate": "Wed, 25 Mar 2026 14:28:52 +0900"
-    },
-    {
-      "title": "농협, 승용차 5부제 시행…에너지 절감 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260325103300030",
-      "pubDate": "Wed, 25 Mar 2026 14:22:00 +0900"
-    },
-    {
-      "title": "NH투자도 '국내시장 복귀계좌' 출시…\"업계 최고 수준 혜택\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325104800008",
-      "pubDate": "Wed, 25 Mar 2026 14:18:54 +0900"
-    },
-    {
-      "title": "금감원 \"채권추심사 내부통제 사고 8건\"…불건전관행 근절 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260325092600002",
-      "pubDate": "Wed, 25 Mar 2026 14:08:25 +0900"
-    },
-    {
-      "title": "대국민 창업오디션 열린다…정부, '모두의 창업' 막 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260324189051030",
-      "pubDate": "Wed, 25 Mar 2026 14:07:11 +0900"
-    },
-    {
-      "title": "한은, 차세대 외화자산 운용관리시스템 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260325054700002",
-      "pubDate": "Wed, 25 Mar 2026 14:00:06 +0900"
-    },
-    {
-      "title": "\"대기업엔 고수익 퇴직연금 권해…영세기업보다 1%p 높기도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325061500002",
-      "pubDate": "Wed, 25 Mar 2026 14:00:03 +0900"
-    },
-    {
-      "title": "삼성물산, 김천에 국내 첫 '오프-그리드 그린수소 시설' 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260325082600003",
-      "pubDate": "Wed, 25 Mar 2026 14:00:02 +0900"
-    },
-    {
-      "title": "한국해양진흥공사, 지역사회 자립기반 사회공헌 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260325098500051",
-      "pubDate": "Wed, 25 Mar 2026 13:53:42 +0900"
     }
   ]
 }
