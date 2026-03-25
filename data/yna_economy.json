@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774470423,
+  "updated_at_unix": 1774472404,
   "items": [
+    {
+      "title": "여천NCC 구조조정 속도…채권단, 내주 1.5조 만기연장 등 결의",
+      "link": "https://www.yna.co.kr/view/AKR20260325166700002",
+      "pubDate": "Thu, 26 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "자연 감소 4년만에 최소폭…출생아 증가에 '골든크로스' 기대감",
+      "link": "https://www.yna.co.kr/view/AKR20260325165700002",
+      "pubDate": "Thu, 26 Mar 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상 기대감 지속에 2% 하락",
       "link": "https://www.yna.co.kr/view/AKR20260326008300072",
@@ -142,16 +152,6 @@
       "title": "MDS테크 \"관계사 지티에프홀딩스 주식 376억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260325147800008",
       "pubDate": "Wed, 25 Mar 2026 16:56:40 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260325146800002",
-      "pubDate": "Wed, 25 Mar 2026 16:50:54 +0900"
-    },
-    {
-      "title": "마산자유무역지역 스마트그린산단으로 도약한다…사업단 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260325144500052",
-      "pubDate": "Wed, 25 Mar 2026 16:49:27 +0900"
     }
   ]
 }
