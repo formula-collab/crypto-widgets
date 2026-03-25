@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774427785,
+  "updated_at_unix": 1774431699,
   "items": [
+    {
+      "title": "CSA 코스믹 \"블루원 주식 35억원어치 취득…지분율 64%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325163300008",
+      "pubDate": "Wed, 25 Mar 2026 18:24:51 +0900"
+    },
+    {
+      "title": "에이전트AI, 187억4천만원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260325164300008",
+      "pubDate": "Wed, 25 Mar 2026 18:24:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260325155500011",
+      "pubDate": "Wed, 25 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "경제·금융계, 에너지 절감 동참…대중교통 이용·불끄기(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260325145952003",
+      "pubDate": "Wed, 25 Mar 2026 17:52:06 +0900"
+    },
+    {
+      "title": "CJ그룹, 에너지 절약 동참…승용차 5부제 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260325159000030",
+      "pubDate": "Wed, 25 Mar 2026 17:44:07 +0900"
+    },
+    {
+      "title": "삼성페이 점심 시간 일부 결제 오류…\"일시적 트래픽 증가\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260325120501017",
+      "pubDate": "Wed, 25 Mar 2026 17:33:55 +0900"
+    },
     {
       "title": "취임 첫날 '컨트롤타워' 내세운 박홍근…\"韓 설계하고 운명개척\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325076551002",
@@ -122,36 +152,6 @@
       "title": "내리기만 하던 금값, 전쟁 끝나면 오를까…\"회복력 더딜 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325071851008",
       "pubDate": "Wed, 25 Mar 2026 16:09:25 +0900"
-    },
-    {
-      "title": "공인중개사協 법정단체위 첫 개최…5월까지 정관·윤리규정 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260325134700003",
-      "pubDate": "Wed, 25 Mar 2026 16:08:22 +0900"
-    },
-    {
-      "title": "\"공급망 위기 속 반도체·조선 등 '대체 불가능' 위치 선점해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325118700504",
-      "pubDate": "Wed, 25 Mar 2026 16:00:07 +0900"
-    },
-    {
-      "title": "제이에스링크 \"말레이시아 자회사에 500억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325132300008",
-      "pubDate": "Wed, 25 Mar 2026 15:58:25 +0900"
-    },
-    {
-      "title": "부산 첫 부동산 중개 카르텔 적발…공인중개사 등 54명 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260325129500051",
-      "pubDate": "Wed, 25 Mar 2026 15:57:59 +0900"
-    },
-    {
-      "title": "올해 경남 직업계고 신입생 충원율 94.5％…집계 이후 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260325128200052",
-      "pubDate": "Wed, 25 Mar 2026 15:56:47 +0900"
-    },
-    {
-      "title": "[특징주] '라인야후에 인수' 카카오게임즈, 급등 후 상승폭 줄인 채 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325039951008",
-      "pubDate": "Wed, 25 Mar 2026 15:56:45 +0900"
     }
   ]
 }
