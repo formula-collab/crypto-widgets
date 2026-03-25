@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774460923,
+  "updated_at_unix": 1774464061,
   "items": [
+    {
+      "title": "달러-원, 이란 휴전안 거부에 1,500원 다시 상회…1,501.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260326004800002",
+      "pubDate": "Thu, 26 Mar 2026 02:54:24 +0900"
+    },
     {
       "title": "[재산공개] 금감원장 407억원, 22억여원 증가…금융위원장 20억원",
       "link": "https://www.yna.co.kr/view/AKR20260325132400002",
@@ -147,11 +152,6 @@
       "title": "한국GM, 국내투자 2배 늘려 철수설 진화…5년 연속 흑자도 조준",
       "link": "https://www.yna.co.kr/view/AKR20260325142600003",
       "pubDate": "Wed, 25 Mar 2026 16:43:16 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.558%",
-      "link": "https://www.yna.co.kr/view/AKR20260325143700008",
-      "pubDate": "Wed, 25 Mar 2026 16:41:50 +0900"
     }
   ]
 }
