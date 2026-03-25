@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774467498,
+  "updated_at_unix": 1774470423,
   "items": [
+    {
+      "title": "국제유가, 미·이란 협상 기대감 지속에 2% 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260326008300072",
+      "pubDate": "Thu, 26 Mar 2026 05:14:36 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 종전 기대감에 WTI 2.2% 하락",
       "link": "https://www.yna.co.kr/view/AKR20260326006000009",
@@ -147,11 +152,6 @@
       "title": "마산자유무역지역 스마트그린산단으로 도약한다…사업단 출범",
       "link": "https://www.yna.co.kr/view/AKR20260325144500052",
       "pubDate": "Wed, 25 Mar 2026 16:49:27 +0900"
-    },
-    {
-      "title": "제주 호텔 폐침구 재활용해 장바구니로…노인 일자리 창출도",
-      "link": "https://www.yna.co.kr/view/AKR20260325144900056",
-      "pubDate": "Wed, 25 Mar 2026 16:45:47 +0900"
     }
   ]
 }
