@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774474895,
+  "updated_at_unix": 1774477451,
   "items": [
+    {
+      "title": "[미·이란 전쟁 한달] 3高 장기화 경로 밟나…복합 경제대응에도 'S의 공포' 고개",
+      "link": "https://www.yna.co.kr/view/AKR20260325095800002",
+      "pubDate": "Thu, 26 Mar 2026 07:01:18 +0900"
+    },
+    {
+      "title": "[미·이란 전쟁 한달] 고유가 지속에 스태그플레이션 공포 부상",
+      "link": "https://www.yna.co.kr/view/AKR20260325091000072",
+      "pubDate": "Thu, 26 Mar 2026 07:01:12 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⑾:",
+      "link": "https://www.yna.co.kr/view/AKR20260319068000898",
+      "pubDate": "Thu, 26 Mar 2026 07:00:03 +0900"
+    },
     {
       "title": "고병원성 AI에 백신 필요성 제기…'무증상 확산' 부작용 우려도",
       "link": "https://www.yna.co.kr/view/AKR20260325162900030",
@@ -137,21 +152,6 @@
       "title": "CJ그룹, 에너지 절약 동참…승용차 5부제 시행",
       "link": "https://www.yna.co.kr/view/AKR20260325159000030",
       "pubDate": "Wed, 25 Mar 2026 17:44:07 +0900"
-    },
-    {
-      "title": "삼성페이 점심 시간 일부 결제 오류…\"일시적 트래픽 증가\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325120501017",
-      "pubDate": "Wed, 25 Mar 2026 17:33:55 +0900"
-    },
-    {
-      "title": "취임 첫날 '컨트롤타워' 내세운 박홍근…\"韓 설계하고 운명개척\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325076551002",
-      "pubDate": "Wed, 25 Mar 2026 17:28:43 +0900"
-    },
-    {
-      "title": "李대통령 \"재활용 원료 쓰레기봉투 제작…중동상황 장기화 대비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325153700001",
-      "pubDate": "Wed, 25 Mar 2026 17:27:12 +0900"
     }
   ]
 }
