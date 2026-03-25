@@ -1,21 +1,76 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774410920,
+  "updated_at_unix": 1774415920,
   "items": [
+    {
+      "title": "금감원 \"채권추심사 내부통제 사고 8건\"…불건전관행 근절 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260325092600002",
+      "pubDate": "Wed, 25 Mar 2026 14:08:25 +0900"
+    },
+    {
+      "title": "대국민 창업오디션 열린다…정부, '모두의 창업' 막 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260324189051030",
+      "pubDate": "Wed, 25 Mar 2026 14:07:11 +0900"
+    },
+    {
+      "title": "한은, 차세대 외화자산 운용관리시스템 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260325054700002",
+      "pubDate": "Wed, 25 Mar 2026 14:00:06 +0900"
+    },
+    {
+      "title": "\"대기업엔 고수익 퇴직연금 권해…영세기업보다 1%p 높기도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325061500002",
+      "pubDate": "Wed, 25 Mar 2026 14:00:03 +0900"
+    },
+    {
+      "title": "삼성물산, 김천에 국내 첫 '오프-그리드 그린수소 시설' 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260325082600003",
+      "pubDate": "Wed, 25 Mar 2026 14:00:02 +0900"
+    },
+    {
+      "title": "한국해양진흥공사, 지역사회 자립기반 사회공헌 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260325098500051",
+      "pubDate": "Wed, 25 Mar 2026 13:53:42 +0900"
+    },
+    {
+      "title": "포스코경영연구원장에 임지원 전 한은 금융통화위원 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260325098000003",
+      "pubDate": "Wed, 25 Mar 2026 13:49:47 +0900"
+    },
+    {
+      "title": "LS증권, RIA 개설 시 주식 상품권 지급·거래 수수료 우대",
+      "link": "https://www.yna.co.kr/view/AKR20260325096100008",
+      "pubDate": "Wed, 25 Mar 2026 13:42:18 +0900"
+    },
+    {
+      "title": "박홍근 초대 기획처 장관 취임…\"韓 운명 개척하는 장관 되겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325076500002",
+      "pubDate": "Wed, 25 Mar 2026 13:40:01 +0900"
+    },
+    {
+      "title": "iM증권, 박태동 대표 선임…\"지속가능한 성장 도모 적임자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325067100008",
+      "pubDate": "Wed, 25 Mar 2026 13:31:44 +0900"
+    },
+    {
+      "title": "부울경 화주 75% \"수출기업이 운송계약 주도하는 C조건 희망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260325071600051",
+      "pubDate": "Wed, 25 Mar 2026 13:00:02 +0900"
+    },
     {
       "title": "청소년 인기 '코 흡입 에너지바', 폐 손상 유발 성분 검출",
       "link": "https://www.yna.co.kr/view/AKR20260324156300030",
       "pubDate": "Wed, 25 Mar 2026 12:00:13 +0900"
     },
     {
-      "title": "'지역 정보보호 클러스터' 구축…5년간 100억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260325057500017",
+      "title": "2월 인구이동 61만5천명, 11.5%↓…준공 감소에 32년래 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260325049800002",
       "pubDate": "Wed, 25 Mar 2026 12:00:09 +0900"
     },
     {
-      "title": "2월 인구이동 61만5천명, 11.5%↓…준공 감소에 32년래 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260325049800002",
+      "title": "'지역 정보보호 클러스터' 구축…5년간 100억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260325057500017",
       "pubDate": "Wed, 25 Mar 2026 12:00:09 +0900"
     },
     {
@@ -97,61 +152,6 @@
       "title": "신한투자, 세무법인 디엘지와 MOU…\"상속 등 신탁서비스 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260325077500008",
       "pubDate": "Wed, 25 Mar 2026 11:24:14 +0900"
-    },
-    {
-      "title": "조지훈, 우범기에 직격탄 \"공천 하위 20% 해명은 시민 알권리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325075400055",
-      "pubDate": "Wed, 25 Mar 2026 11:21:13 +0900"
-    },
-    {
-      "title": "이란전쟁 따른 나프타 부족에 국내 페인트업체 줄줄이 가격 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260325075500003",
-      "pubDate": "Wed, 25 Mar 2026 11:16:06 +0900"
-    },
-    {
-      "title": "[바이오스냅] 메디톡스, 체지방 감소 유산균 '락티플랜' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260325073500017",
-      "pubDate": "Wed, 25 Mar 2026 11:15:28 +0900"
-    },
-    {
-      "title": "광진구 중곡동 254-15 일대 신통기획 개발…35층 2천200세대",
-      "link": "https://www.yna.co.kr/view/AKR20260325040900004",
-      "pubDate": "Wed, 25 Mar 2026 11:15:04 +0900"
-    },
-    {
-      "title": "DL이앤씨 \"SMR 등 유망분야 적극 공략…해외시장 개척 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325074700003",
-      "pubDate": "Wed, 25 Mar 2026 11:14:15 +0900"
-    },
-    {
-      "title": "인도 영화도 이탈리아 와인도…\"세계 경제, 전쟁 충격파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325064100009",
-      "pubDate": "Wed, 25 Mar 2026 11:11:34 +0900"
-    },
-    {
-      "title": "내리기만 하는 금값, 전쟁 끝나면 오를까…\"회복력 더딜 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260325071800008",
-      "pubDate": "Wed, 25 Mar 2026 11:09:00 +0900"
-    },
-    {
-      "title": "농식품부-농어촌공사, 중국서 189만달러 수출 협약·계약",
-      "link": "https://www.yna.co.kr/view/AKR20260325073400054",
-      "pubDate": "Wed, 25 Mar 2026 11:07:35 +0900"
-    },
-    {
-      "title": "산업부, '지속가능경영 종합시책' 발표…기업 ESG 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260325029800003",
-      "pubDate": "Wed, 25 Mar 2026 11:00:11 +0900"
-    },
-    {
-      "title": "[게시판] 코트라-한국의약품수출입협회, 바이오헬스 글로벌화 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260325034500003",
-      "pubDate": "Wed, 25 Mar 2026 11:00:10 +0900"
-    },
-    {
-      "title": "기술로 고유가 극복…농진청, 농업현장에 에너지 절감 기술 보급",
-      "link": "https://www.yna.co.kr/view/AKR20260325049000055",
-      "pubDate": "Wed, 25 Mar 2026 11:00:09 +0900"
     }
   ]
 }
