@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774479613,
+  "updated_at_unix": 1774482872,
   "items": [
+    {
+      "title": "보령신항 41만9천㎡ 준설토 투기장과 관리부두 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260326033100063",
+      "pubDate": "Thu, 26 Mar 2026 08:50:39 +0900"
+    },
+    {
+      "title": "방산 중소기업, 절충교역으로 독일에 1천만달러 규모 수출",
+      "link": "https://www.yna.co.kr/view/AKR20260326032300504",
+      "pubDate": "Thu, 26 Mar 2026 08:49:43 +0900"
+    },
+    {
+      "title": "부천시, 주요 상권 야간 주정차 단속 유예…지역경제 활성화",
+      "link": "https://www.yna.co.kr/view/AKR20260326032800065",
+      "pubDate": "Thu, 26 Mar 2026 08:49:22 +0900"
+    },
+    {
+      "title": "삼성웰스토리, 맞춤형 공간 컨설팅으로 외식 가맹사업 지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260326031700030",
+      "pubDate": "Thu, 26 Mar 2026 08:46:47 +0900"
+    },
+    {
+      "title": "키움證 \"보험업, 주주환원 상대적 어려워…개별주 모멘텀 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326030100008",
+      "pubDate": "Thu, 26 Mar 2026 08:44:03 +0900"
+    },
+    {
+      "title": "신영증권 \"HD현대엔솔, 올해 실적 가이던스 상향 여지 커\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326028300008",
+      "pubDate": "Thu, 26 Mar 2026 08:36:29 +0900"
+    },
+    {
+      "title": "조우진-서경덕, '안중근 순국일' 기념해 다국어 영상 제작",
+      "link": "https://www.yna.co.kr/view/AKR20260326018700371",
+      "pubDate": "Thu, 26 Mar 2026 08:27:10 +0900"
+    },
+    {
+      "title": "SK증권 \"SK스퀘어, 하이닉스 美 ADR 상장 수혜 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326027300008",
+      "pubDate": "Thu, 26 Mar 2026 08:23:14 +0900"
+    },
+    {
+      "title": "한투증권, 올해 연평균 환율 전망치 1,445→1,460원 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260326025100008",
+      "pubDate": "Thu, 26 Mar 2026 08:16:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 이란 협상 기대감·경계심 혼재 속 코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260326023900008",
+      "pubDate": "Thu, 26 Mar 2026 08:12:24 +0900"
+    },
+    {
+      "title": "중동전쟁 장기화에 中企부담 커진다…중동산 나프타 80% 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260325128100030",
+      "pubDate": "Thu, 26 Mar 2026 08:00:04 +0900"
+    },
     {
       "title": "부산 청년이 뽑은 '청끌기업' 120개사 선정…\"근속률 81%\"",
       "link": "https://www.yna.co.kr/view/AKR20260326022100051",
@@ -97,61 +152,6 @@
       "title": "[뉴욕유가] 美·이란 종전 기대감에 WTI 2.2% 하락",
       "link": "https://www.yna.co.kr/view/AKR20260326006000009",
       "pubDate": "Thu, 26 Mar 2026 04:10:39 +0900"
-    },
-    {
-      "title": "달러-원, 이란 휴전안 거부에 1,500원 다시 상회…1,501.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260326004800002",
-      "pubDate": "Thu, 26 Mar 2026 02:54:24 +0900"
-    },
-    {
-      "title": "[재산공개] 李대통령, 49억7천만원 신고…1년 前보다 18억8천만원 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260325121400001",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 금감원장 407억원, 22억여원 증가…금융위원장 20억원",
-      "link": "https://www.yna.co.kr/view/AKR20260325132400002",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 김윤덕 국토장관 17억2천만원 신고…1년새 2억6천만원↑",
-      "link": "https://www.yna.co.kr/view/AKR20260325139500003",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 김정관 산업장관 78억1천만원 신고…퇴직금·급여 등 12.3억↑",
-      "link": "https://www.yna.co.kr/view/AKR20260325157700003",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 靑 비서관급 이상 '다주택자' 10명…5명 중 1명꼴",
-      "link": "https://www.yna.co.kr/view/AKR20260325131700001",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 국회의원 52명 다주택…'강남 3구' 보유자 47명",
-      "link": "https://www.yna.co.kr/view/AKR20260325176900001",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 최민호 세종시장 19억8천만원…서울·세종에 주택 소유",
-      "link": "https://www.yna.co.kr/view/AKR20260325126400063",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 구윤철 부총리 51억8천만원…주병기 공정위원장 26억3천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260325128700002",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "[재산공개] 이창용 한은 총재 55억원…장용성 금통위원 124억원",
-      "link": "https://www.yna.co.kr/view/AKR20260325121500002",
-      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
-    },
-    {
-      "title": "靑 상황실·범정부 본부 '비상경제 대응'…\"중동상황 엄중관리\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325082451001",
-      "pubDate": "Wed, 25 Mar 2026 19:27:17 +0900"
     }
   ]
 }
