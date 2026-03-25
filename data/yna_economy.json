@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774447795,
+  "updated_at_unix": 1774453201,
   "items": [
+    {
+      "title": "[재산공개] 금감원장 407억원, 22억여원 증가…금융위원장 20억원",
+      "link": "https://www.yna.co.kr/view/AKR20260325132400002",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 김윤덕 국토장관 17억2천만원 신고…1년새 2억6천만원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260325139500003",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 김정관 산업장관 78억1천만원 신고…퇴직금·급여 등 12.3억↑",
+      "link": "https://www.yna.co.kr/view/AKR20260325157700003",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 靑 비서관급 이상 '다주택자' 10명…5명 중 1명꼴",
+      "link": "https://www.yna.co.kr/view/AKR20260325131700001",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 국회의원 52명 다주택…'강남 3구' 보유자 47명",
+      "link": "https://www.yna.co.kr/view/AKR20260325176900001",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 최민호 세종시장 19억8천만원…서울·세종에 주택 소유",
+      "link": "https://www.yna.co.kr/view/AKR20260325126400063",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 구윤철 부총리 51억8천만원…주병기 공정위원장 26억3천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260325128700002",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 이창용 한은 총재 55억원…장용성 금통위원 124억원",
+      "link": "https://www.yna.co.kr/view/AKR20260325121500002",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
+    {
+      "title": "[재산공개] 李대통령, 49억7천만원 신고…1년 前보다 18억8천만원 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260325121400001",
+      "pubDate": "Thu, 26 Mar 2026 00:00:00 +0900"
+    },
     {
       "title": "靑 상황실·범정부 본부 '비상경제 대응'…\"중동상황 엄중관리\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260325082451001",
@@ -107,51 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.558%",
       "link": "https://www.yna.co.kr/view/AKR20260325143700008",
       "pubDate": "Wed, 25 Mar 2026 16:41:50 +0900"
-    },
-    {
-      "title": "이노스페이스, 820억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260325143300008",
-      "pubDate": "Wed, 25 Mar 2026 16:41:41 +0900"
-    },
-    {
-      "title": "삼척시-삼척블루파워, 데이터센터 투자유치 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260325140700062",
-      "pubDate": "Wed, 25 Mar 2026 16:34:15 +0900"
-    },
-    {
-      "title": "재생학회·LH토지주택硏, 소규모 주택정비 관리지역 발전 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260325140300003",
-      "pubDate": "Wed, 25 Mar 2026 16:32:34 +0900"
-    },
-    {
-      "title": "전주시, 지역업체 참여시 '공동주택 용적률 최대 20%' 인센티브",
-      "link": "https://www.yna.co.kr/view/AKR20260325068600055",
-      "pubDate": "Wed, 25 Mar 2026 16:30:02 +0900"
-    },
-    {
-      "title": "\"주문취소에 휴업까지\"…중동전쟁에 中企피해 '눈덩이'",
-      "link": "https://www.yna.co.kr/view/AKR20260325140100030",
-      "pubDate": "Wed, 25 Mar 2026 16:28:25 +0900"
-    },
-    {
-      "title": "내부정보로 차명거래해 5.5억 챙겨…코스닥 IR 前임원 검찰 고발",
-      "link": "https://www.yna.co.kr/view/AKR20260325139000002",
-      "pubDate": "Wed, 25 Mar 2026 16:25:50 +0900"
-    },
-    {
-      "title": "안갯속 중동정세에 원/달러 환율 이틀 만에 상승…1,499.7원",
-      "link": "https://www.yna.co.kr/view/AKR20260325136400002",
-      "pubDate": "Wed, 25 Mar 2026 16:21:39 +0900"
-    },
-    {
-      "title": "\"유럽 에너지 부족 다음달 닥칠 수도\"…셸 CEO 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260325120800009",
-      "pubDate": "Wed, 25 Mar 2026 16:16:26 +0900"
-    },
-    {
-      "title": "[특징주] 펄어비스, '붉은사막' 판매 흥행 소식에 23% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260325042551008",
-      "pubDate": "Wed, 25 Mar 2026 16:14:40 +0900"
     }
   ]
 }
