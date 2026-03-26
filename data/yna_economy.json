@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774560102,
+  "updated_at_unix": 1774561824,
   "items": [
+    {
+      "title": "'고유가 여파'…대구 대중교통 이용 증가세",
+      "link": "https://www.yna.co.kr/view/AKR20260326168500053",
+      "pubDate": "Fri, 27 Mar 2026 06:35:00 +0900"
+    },
     {
       "title": "[이코노워치] 고령화로 시장 커지는데…허점투성이 유언대용신탁",
       "link": "https://www.yna.co.kr/view/AKR20260326092400546",
@@ -147,11 +152,6 @@
       "title": "국민성장펀드, 리벨리온에 2천500억 직접 투자",
       "link": "https://www.yna.co.kr/view/AKR20260326178500017",
       "pubDate": "Thu, 26 Mar 2026 18:09:58 +0900"
-    },
-    {
-      "title": "이찬진 \"해외사모대출 익스포저 수십조…2030 '빚투' 피해 커\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260326132351002",
-      "pubDate": "Thu, 26 Mar 2026 18:00:12 +0900"
     }
   ]
 }
