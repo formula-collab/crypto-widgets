@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774540018,
+  "updated_at_unix": 1774543889,
   "items": [
+    {
+      "title": "美주택담보대출 금리, 이란전쟁 영향 속 6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260327002500072",
+      "pubDate": "Fri, 27 Mar 2026 01:32:22 +0900"
+    },
     {
       "title": "'산업의 쌀' 나프타 수출 전면금지…전량 내수 전환",
       "link": "https://www.yna.co.kr/view/AKR20260326177400003",
@@ -147,11 +152,6 @@
       "title": "농협금융, 1조원 규모 상생성장펀드 조성…첨단전략산업 투자",
       "link": "https://www.yna.co.kr/view/AKR20260326169000002",
       "pubDate": "Thu, 26 Mar 2026 17:20:32 +0900"
-    },
-    {
-      "title": "한은, 4월 최대 6조원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260326166300002",
-      "pubDate": "Thu, 26 Mar 2026 17:12:16 +0900"
     }
   ]
 }
