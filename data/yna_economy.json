@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774563415,
+  "updated_at_unix": 1774565591,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260327016000011",
+      "pubDate": "Fri, 27 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "[K-People] 존리 \"사교육 시킬 돈으로 주식 사주는 게 부자 만드는 비결\"",
       "link": "https://www.yna.co.kr/view/AKR20260326167900371",
@@ -147,11 +152,6 @@
       "title": "금호건설, 유상증자…산은캐피탈 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260326179400008",
       "pubDate": "Thu, 26 Mar 2026 18:22:32 +0900"
-    },
-    {
-      "title": "콘텐트리중앙 \"에스엘엘중앙 주식 1천700억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260326177900008",
-      "pubDate": "Thu, 26 Mar 2026 18:22:09 +0900"
     }
   ]
 }
