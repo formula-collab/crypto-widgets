@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774529189,
+  "updated_at_unix": 1774534731,
   "items": [
+    {
+      "title": "가정용 기기 제조업 폴레드 등 3개사, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260326195800008",
+      "pubDate": "Thu, 26 Mar 2026 22:27:02 +0900"
+    },
+    {
+      "title": "오성첨단소재 \"오성하이테크놀로지 주식 445억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326189300008",
+      "pubDate": "Thu, 26 Mar 2026 22:25:34 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260326195400002",
+      "pubDate": "Thu, 26 Mar 2026 22:23:30 +0900"
+    },
     {
       "title": "2030년까지 계란 생산량 10% 늘려…계란·돼지고기 담합 땐 철퇴",
       "link": "https://www.yna.co.kr/view/AKR20260326162300030",
@@ -137,21 +152,6 @@
       "title": "행복청 \"제2금강교 내년 상반기 개통 목표 정상 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260326165900063",
       "pubDate": "Thu, 26 Mar 2026 17:10:17 +0900"
-    },
-    {
-      "title": "BNK금융지주 이사회 의장에 오명숙 이사 선출…첫 여성 의장",
-      "link": "https://www.yna.co.kr/view/AKR20260326165800051",
-      "pubDate": "Thu, 26 Mar 2026 17:10:06 +0900"
-    },
-    {
-      "title": "국세청, 유류세 추가 인하 발맞춰 정유사에 공급가격 인하 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260326166100002",
-      "pubDate": "Thu, 26 Mar 2026 17:08:12 +0900"
-    },
-    {
-      "title": "현산, IPARK현대산업개발로 사명 변경…정경구 단독 대표 체제로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260326081651003",
-      "pubDate": "Thu, 26 Mar 2026 17:00:21 +0900"
     }
   ]
 }
