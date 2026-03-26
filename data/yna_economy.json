@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774565591,
+  "updated_at_unix": 1774567214,
   "items": [
+    {
+      "title": "[마켓뷰] 전쟁 불안 재점화 속 美증시 삭풍에 부담 커진 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20260327021000008",
+      "pubDate": "Fri, 27 Mar 2026 08:08:06 +0900"
+    },
+    {
+      "title": "[부산소식] BNK부산은행, 부산형 해비타트 챌린지 기부금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260327020100051",
+      "pubDate": "Fri, 27 Mar 2026 07:55:58 +0900"
+    },
+    {
+      "title": "부산시, 국제금융센터지수 23위로 역대 최고 순위",
+      "link": "https://www.yna.co.kr/view/AKR20260327019900051",
+      "pubDate": "Fri, 27 Mar 2026 07:55:19 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260327016000011",
@@ -137,21 +152,6 @@
       "title": "출범 5주년 맞이하는 한화생명금융서비스…매출 2조원 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260326173400002",
       "pubDate": "Thu, 26 Mar 2026 18:34:09 +0900"
-    },
-    {
-      "title": "이찬진 금감원장 \"사업자대출 유용 점검 곧 착수…형사처벌도\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260326131852002",
-      "pubDate": "Thu, 26 Mar 2026 18:27:22 +0900"
-    },
-    {
-      "title": "\"中, 은행 대주주 지분 규제 완화 검토…자본확충 지원 나서\"",
-      "link": "https://www.yna.co.kr/view/AKR20260326180300083",
-      "pubDate": "Thu, 26 Mar 2026 18:24:10 +0900"
-    },
-    {
-      "title": "금호건설, 유상증자…산은캐피탈 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260326179400008",
-      "pubDate": "Thu, 26 Mar 2026 18:22:32 +0900"
     }
   ]
 }
