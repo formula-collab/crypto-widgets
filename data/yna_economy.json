@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774521693,
+  "updated_at_unix": 1774525230,
   "items": [
+    {
+      "title": "2030년까지 계란 생산량 10% 늘려…계란·돼지고기 담합 땐 철퇴",
+      "link": "https://www.yna.co.kr/view/AKR20260326162300030",
+      "pubDate": "Thu, 26 Mar 2026 20:00:02 +0900"
+    },
+    {
+      "title": "석유 최고가 2차 고시…휘발유·경유 210원↑·기름값 2천원시대",
+      "link": "https://www.yna.co.kr/view/AKR20260326178300003",
+      "pubDate": "Thu, 26 Mar 2026 20:00:01 +0900"
+    },
+    {
+      "title": "\"중동사태 3차 물가파급, 5~6개월 시차\"…정부, 43종 집중관리",
+      "link": "https://www.yna.co.kr/view/AKR20260326173200002",
+      "pubDate": "Thu, 26 Mar 2026 20:00:01 +0900"
+    },
     {
       "title": "유바이오로직스 \"유팝라이프사이언스 주식 149억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260326185300008",
@@ -137,21 +152,6 @@
       "title": "현산, IPARK현대산업개발로 사명 변경…정경구 단독 대표 체제로(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260326081651003",
       "pubDate": "Thu, 26 Mar 2026 17:00:21 +0900"
-    },
-    {
-      "title": "'채권시장 안정화 방안'에도 국고채 금리↑…3년물 연 3.552%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260326159351008",
-      "pubDate": "Thu, 26 Mar 2026 16:59:22 +0900"
-    },
-    {
-      "title": "대동금속, 주당 1.0주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260326163100008",
-      "pubDate": "Thu, 26 Mar 2026 16:58:24 +0900"
-    },
-    {
-      "title": "법원, 피자헛 '영업양도' 허가…신설 법인 중심 정상화 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260326163500030",
-      "pubDate": "Thu, 26 Mar 2026 16:57:15 +0900"
     }
   ]
 }
