@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774567214,
+  "updated_at_unix": 1774569204,
   "items": [
+    {
+      "title": "파주시, 캠프스탠턴 산업단지 군 협의 타결…조성사업 본궤도",
+      "link": "https://www.yna.co.kr/view/AKR20260327027400060",
+      "pubDate": "Fri, 27 Mar 2026 08:48:03 +0900"
+    },
+    {
+      "title": "유안타證 \"중동발 리스크에 항공업종 단기 투자 매력 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327026800008",
+      "pubDate": "Fri, 27 Mar 2026 08:45:14 +0900"
+    },
+    {
+      "title": "롯데칠성, 재생 플라스틱 100% 사용 제품 확대…소주까지 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260327027100030",
+      "pubDate": "Fri, 27 Mar 2026 08:44:01 +0900"
+    },
+    {
+      "title": "SK證 \"산일전기, 데이터센터 수혜주로 재평가…목표가 22만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327026600008",
+      "pubDate": "Fri, 27 Mar 2026 08:39:53 +0900"
+    },
+    {
+      "title": "무보, 중형 조선 3사에 5천400억원 규모 RG 발급 지원…수출지원",
+      "link": "https://www.yna.co.kr/view/AKR20260327025100003",
+      "pubDate": "Fri, 27 Mar 2026 08:28:56 +0900"
+    },
+    {
+      "title": "삼성증권 \"한화솔루션, 유상증자 시점·규모 아쉬워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327023700008",
+      "pubDate": "Fri, 27 Mar 2026 08:27:36 +0900"
+    },
     {
       "title": "[마켓뷰] 전쟁 불안 재점화 속 美증시 삭풍에 부담 커진 코스피",
       "link": "https://www.yna.co.kr/view/AKR20260327021000008",
@@ -122,36 +152,6 @@
       "title": "유바이오로직스 \"유팝라이프사이언스 주식 149억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260326185300008",
       "pubDate": "Thu, 26 Mar 2026 19:27:31 +0900"
-    },
-    {
-      "title": "태영건설, 이강석 단독 대표이사 체제로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260326186600003",
-      "pubDate": "Thu, 26 Mar 2026 19:23:20 +0900"
-    },
-    {
-      "title": "칠레서 고병원성 AI 발생…정부, 칠레산 가금육 수입 금지",
-      "link": "https://www.yna.co.kr/view/AKR20260326186200030",
-      "pubDate": "Thu, 26 Mar 2026 19:19:52 +0900"
-    },
-    {
-      "title": "두산로보틱스 \"미국 계열사 주식 239억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260326183600008",
-      "pubDate": "Thu, 26 Mar 2026 19:01:58 +0900"
-    },
-    {
-      "title": "OECD, 올해 韓 성장률 2.1%→1.7%로 낮춰…물가 전망 0.9%p 올려",
-      "link": "https://www.yna.co.kr/view/AKR20260326173100002",
-      "pubDate": "Thu, 26 Mar 2026 19:00:01 +0900"
-    },
-    {
-      "title": "靑 참모들 다주택해소 가속도…조성주·김현지·이성훈 매물내놔",
-      "link": "https://www.yna.co.kr/view/AKR20260326182300001",
-      "pubDate": "Thu, 26 Mar 2026 18:44:42 +0900"
-    },
-    {
-      "title": "출범 5주년 맞이하는 한화생명금융서비스…매출 2조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260326173400002",
-      "pubDate": "Thu, 26 Mar 2026 18:34:09 +0900"
     }
   ]
 }
