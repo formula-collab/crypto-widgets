@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774558515,
+  "updated_at_unix": 1774560102,
   "items": [
+    {
+      "title": "[이코노워치] 고령화로 시장 커지는데…허점투성이 유언대용신탁",
+      "link": "https://www.yna.co.kr/view/AKR20260326092400546",
+      "pubDate": "Fri, 27 Mar 2026 06:00:11 +0900"
+    },
+    {
+      "title": "[게시판] 제15회 새일센터 우수기관·유공자 포상식 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260326151200530",
+      "pubDate": "Fri, 27 Mar 2026 06:00:08 +0900"
+    },
+    {
+      "title": "이란 전쟁에…4월 기업경기 전망 계엄 후 최대 폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260326159100002",
+      "pubDate": "Fri, 27 Mar 2026 06:00:04 +0900"
+    },
+    {
+      "title": "작년 말 보험사 대출채권 3.8조 증가…연체율 소폭 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260326181100002",
+      "pubDate": "Fri, 27 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "외국인 2월 국내주식 19.6조원 순매도…두달 연속 '팔자'",
+      "link": "https://www.yna.co.kr/view/AKR20260326195500002",
+      "pubDate": "Fri, 27 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "종전 기대감 후퇴에 美주식·채권 동반급락…유가는 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327006252072",
+      "pubDate": "Fri, 27 Mar 2026 05:57:01 +0900"
+    },
     {
       "title": "국제유가, 트럼프 협상수용 압박에 반등…브렌트 6%↑",
       "link": "https://www.yna.co.kr/view/AKR20260327005600072",
@@ -122,36 +152,6 @@
       "title": "이찬진 \"해외사모대출 익스포저 수십조…2030 '빚투' 피해 커\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260326132351002",
       "pubDate": "Thu, 26 Mar 2026 18:00:12 +0900"
-    },
-    {
-      "title": "산업연구원 개원 50주년…권남훈 원장 \"산업혁신 선도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260326150600003",
-      "pubDate": "Thu, 26 Mar 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260326170700011",
-      "pubDate": "Thu, 26 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "재경부, 수출 대기업에 \"일관된 환리스크 관리해달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260326173900002",
-      "pubDate": "Thu, 26 Mar 2026 17:51:47 +0900"
-    },
-    {
-      "title": "리터당 경유 87원·휘발유 65원 유류세 추가↓…최고가는 오른다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260326105351002",
-      "pubDate": "Thu, 26 Mar 2026 17:47:45 +0900"
-    },
-    {
-      "title": "법원, 피자헛 '영업양도' 허가…신설법인 중심 정상화 추진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260326163551030",
-      "pubDate": "Thu, 26 Mar 2026 17:46:17 +0900"
-    },
-    {
-      "title": "성북구 성매매 집결지 '미아리텍사스' 70년만에 완전 폐쇄",
-      "link": "https://www.yna.co.kr/view/AKR20260326167500004",
-      "pubDate": "Thu, 26 Mar 2026 17:28:30 +0900"
     }
   ]
 }
