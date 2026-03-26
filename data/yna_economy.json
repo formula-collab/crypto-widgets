@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774561824,
+  "updated_at_unix": 1774563415,
   "items": [
+    {
+      "title": "[K-People] 존리 \"사교육 시킬 돈으로 주식 사주는 게 부자 만드는 비결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260326167900371",
+      "pubDate": "Fri, 27 Mar 2026 07:00:02 +0900"
+    },
     {
       "title": "'고유가 여파'…대구 대중교통 이용 증가세",
       "link": "https://www.yna.co.kr/view/AKR20260326168500053",
@@ -147,11 +152,6 @@
       "title": "콘텐트리중앙 \"에스엘엘중앙 주식 1천700억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260326177900008",
       "pubDate": "Thu, 26 Mar 2026 18:22:09 +0900"
-    },
-    {
-      "title": "국민성장펀드, 리벨리온에 2천500억 직접 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260326178500017",
-      "pubDate": "Thu, 26 Mar 2026 18:09:58 +0900"
     }
   ]
 }
