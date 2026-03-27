@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774652214,
+  "updated_at_unix": 1774653953,
   "items": [
+    {
+      "title": "진주시, 농기계 임대료 50% 감면…고물가 속 농가 지원 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260327127600052",
+      "pubDate": "Sat, 28 Mar 2026 08:15:00 +0900"
+    },
+    {
+      "title": "부산 아파트값 보합세 지속…수영구 하락 반전",
+      "link": "https://www.yna.co.kr/view/AKR20260327111500051",
+      "pubDate": "Sat, 28 Mar 2026 08:00:08 +0900"
+    },
     {
       "title": "[율곡로] 일촉즉발 하르그섬",
       "link": "https://www.yna.co.kr/view/AKR20260327084500546",
@@ -142,16 +152,6 @@
       "title": "2차 석유 최고가제 시행 첫날 '기름값' 20원 가까이 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260327040351003",
       "pubDate": "Fri, 27 Mar 2026 16:33:00 +0900"
-    },
-    {
-      "title": "중동사태 영향 점검한 농식품부…비료·포장재 수급 대응 논의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327080751030",
-      "pubDate": "Fri, 27 Mar 2026 16:27:01 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260327129400030",
-      "pubDate": "Fri, 27 Mar 2026 16:11:13 +0900"
     }
   ]
 }
