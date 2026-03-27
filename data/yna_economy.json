@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774648476,
+  "updated_at_unix": 1774649980,
   "items": [
+    {
+      "title": "[율곡로] 일촉즉발 하르그섬",
+      "link": "https://www.yna.co.kr/view/AKR20260327084500546",
+      "pubDate": "Sat, 28 Mar 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[금주핫템] 아모레퍼시픽 '립 세럼'·K2 '써라운드 2L 재킷'",
+      "link": "https://www.yna.co.kr/view/AKR20260327103100030",
+      "pubDate": "Sat, 28 Mar 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[신상잇슈] 배스킨라빈스 '바 베 바'·뚜레쥬르 '슬로 TLJ 4종'",
+      "link": "https://www.yna.co.kr/view/AKR20260327043800030",
+      "pubDate": "Sat, 28 Mar 2026 07:00:03 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 서울 '더샵신길센트럴시티'·'아크로드서초' 청약",
       "link": "https://www.yna.co.kr/view/AKR20260327153300003",
@@ -137,21 +152,6 @@
       "title": "[인사] 농림축산식품부",
       "link": "https://www.yna.co.kr/view/AKR20260327129400030",
       "pubDate": "Fri, 27 Mar 2026 16:11:13 +0900"
-    },
-    {
-      "title": "중동 교착·外人 주식 대규모 매도에 환율 사흘째↑…1,508.9원",
-      "link": "https://www.yna.co.kr/view/AKR20260327126300002",
-      "pubDate": "Fri, 27 Mar 2026 16:08:17 +0900"
-    },
-    {
-      "title": "[특징주] '업계 최초 고배당기업' 코스맥스, 8%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327063351008",
-      "pubDate": "Fri, 27 Mar 2026 16:03:52 +0900"
-    },
-    {
-      "title": "[특징주] '대규모 유상증자 결정' 한화솔루션, 급락세 일부 만회 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327037551008",
-      "pubDate": "Fri, 27 Mar 2026 15:59:36 +0900"
     }
   ]
 }
