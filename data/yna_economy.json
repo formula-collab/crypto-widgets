@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774624358,
+  "updated_at_unix": 1774627796,
   "items": [
+    {
+      "title": "유가 급등에 美연준 금리인상 기대 강화…美채권금리 급등세",
+      "link": "https://www.yna.co.kr/view/AKR20260328000400072",
+      "pubDate": "Sat, 28 Mar 2026 00:15:04 +0900"
+    },
     {
       "title": "검찰, '전분당 담합 의혹' 대상·사조 대표 등 3명 구속영장",
       "link": "https://www.yna.co.kr/view/AKR20260327168700004",
@@ -147,11 +152,6 @@
       "title": "강릉시, 라오스 외국인 계절근로자 56명 입국",
       "link": "https://www.yna.co.kr/view/AKR20260327123100062",
       "pubDate": "Fri, 27 Mar 2026 15:38:15 +0900"
-    },
-    {
-      "title": "공인중개사협회, 일부 담합 행위에 \"유감…강력한 자정 노력 전개\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327118000003",
-      "pubDate": "Fri, 27 Mar 2026 15:35:25 +0900"
     }
   ]
 }
