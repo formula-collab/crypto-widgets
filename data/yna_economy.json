@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774590846,
+  "updated_at_unix": 1774594483,
   "items": [
+    {
+      "title": "[특징주] '국내 최초 TPC 국산화' 애경케미칼, 22%대 폭등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327044251008",
+      "pubDate": "Fri, 27 Mar 2026 15:39:49 +0900"
+    },
+    {
+      "title": "강릉시, 라오스 외국인 계절근로자 56명 입국",
+      "link": "https://www.yna.co.kr/view/AKR20260327123100062",
+      "pubDate": "Fri, 27 Mar 2026 15:38:15 +0900"
+    },
+    {
+      "title": "공인중개사협회, 일부 담합 행위에 \"유감…강력한 자정 노력 전개\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327118000003",
+      "pubDate": "Fri, 27 Mar 2026 15:35:25 +0900"
+    },
+    {
+      "title": "외국환시세(3월27일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260327122800002",
+      "pubDate": "Fri, 27 Mar 2026 15:35:23 +0900"
+    },
+    {
+      "title": "관세청·법무부, 마약범죄 근절 협력…정보공유·단속 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260327121500002",
+      "pubDate": "Fri, 27 Mar 2026 15:33:19 +0900"
+    },
+    {
+      "title": "'농민 부담 던다' 익산시, 최대 3억원 융자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260327120400055",
+      "pubDate": "Fri, 27 Mar 2026 15:33:09 +0900"
+    },
+    {
+      "title": "동해해경청, 경비함정 유류 절감 대응…전기 추진 장비 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260327120300062",
+      "pubDate": "Fri, 27 Mar 2026 15:31:54 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 1.9원 오른 1,508.9원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260327120700002",
+      "pubDate": "Fri, 27 Mar 2026 15:30:32 +0900"
+    },
+    {
+      "title": "\"영국항공, '연료 절감' 조종사에 인센티브 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327115700009",
+      "pubDate": "Fri, 27 Mar 2026 15:22:26 +0900"
+    },
+    {
+      "title": "중동전쟁 中企피해 422건 접수…이틀만에 43건 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260327117400030",
+      "pubDate": "Fri, 27 Mar 2026 15:18:45 +0900"
+    },
+    {
+      "title": "부산은행, HJ중공업 대상 1억7천600만달러 RG 발급",
+      "link": "https://www.yna.co.kr/view/AKR20260327116600051",
+      "pubDate": "Fri, 27 Mar 2026 15:11:50 +0900"
+    },
+    {
+      "title": "소액으로 헤지펀드 투자…SK증권, 혼합자산투자신탁 단독 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260327115900008",
+      "pubDate": "Fri, 27 Mar 2026 15:10:39 +0900"
+    },
+    {
+      "title": "익산시, 종량제봉투 사재기 차단…1인당 5매 구매 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260327112000055",
+      "pubDate": "Fri, 27 Mar 2026 15:07:43 +0900"
+    },
+    {
+      "title": "[전남소식] 농협, 닭·파프리카 연계 '동심달닭' 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260327113200054",
+      "pubDate": "Fri, 27 Mar 2026 15:05:07 +0900"
+    },
+    {
+      "title": "윤호중 행안장관, 착한가격업소 방문…\"서민 부담 덜어줘 감사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327105200530",
+      "pubDate": "Fri, 27 Mar 2026 15:00:01 +0900"
+    },
+    {
+      "title": "금융위, 경영위기 소상공인 원스톱 지원…'기관 칸막이' 없앤다",
+      "link": "https://www.yna.co.kr/view/AKR20260327102400002",
+      "pubDate": "Fri, 27 Mar 2026 15:00:00 +0900"
+    },
     {
       "title": "항공유 가격 급등에…진에어, 내달 인천∼괌 등 45편 비운항",
       "link": "https://www.yna.co.kr/view/AKR20260327108100003",
@@ -72,86 +152,6 @@
       "title": "AI전환기 '일자리 징검다리' 놓는다…정부, 6월 기본계획 발표",
       "link": "https://www.yna.co.kr/view/AKR20260327076300530",
       "pubDate": "Fri, 27 Mar 2026 14:00:15 +0900"
-    },
-    {
-      "title": "도봉구, 중동사태에 '비상경제대책' 가동…특별신용보증 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260327090500004",
-      "pubDate": "Fri, 27 Mar 2026 13:36:23 +0900"
-    },
-    {
-      "title": "파라다이스 \"브랜드가치 제고·AI고도화\"…각자대표 체제로",
-      "link": "https://www.yna.co.kr/view/AKR20260327083200030",
-      "pubDate": "Fri, 27 Mar 2026 13:18:28 +0900"
-    },
-    {
-      "title": "NH투자증권, 4천억원 규모 종합투자계좌 1호 상품 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260327085400008",
-      "pubDate": "Fri, 27 Mar 2026 13:05:52 +0900"
-    },
-    {
-      "title": "\"바이오시밀러 가이드라인, 수출 생태계 촉진제 될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327065100017",
-      "pubDate": "Fri, 27 Mar 2026 13:00:00 +0900"
-    },
-    {
-      "title": "농식품부, 중동사태 대응 회의…비료·포장재 수급 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260327080700030",
-      "pubDate": "Fri, 27 Mar 2026 12:04:36 +0900"
-    },
-    {
-      "title": "\"올해 K-스타트업 찾는다\"…상금 5억원·AI 리그까지 판 키웠다",
-      "link": "https://www.yna.co.kr/view/AKR20260327044300030",
-      "pubDate": "Fri, 27 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "작년 한은 순이익 2배로 불어난 15조3천275억원…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260327065600002",
-      "pubDate": "Fri, 27 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "산지 쌀값 5만8천원, 역대 최고…벼농사 순수익 1년 새 58%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260327049400002",
-      "pubDate": "Fri, 27 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "2월 은행 주담대 금리 4.32%, 0.03%p↑…2년3개월 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260327077400002",
-      "pubDate": "Fri, 27 Mar 2026 12:00:00 +0900"
-    },
-    {
-      "title": "與 \"내달 9일 처리\"·국힘 \"대정부질문 먼저\"…'추경 심사' 대립",
-      "link": "https://www.yna.co.kr/view/AKR20260327075700001",
-      "pubDate": "Fri, 27 Mar 2026 11:59:21 +0900"
-    },
-    {
-      "title": "정부, 태국산 계란 224만개 수입 추진…내달 판매 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260327079300030",
-      "pubDate": "Fri, 27 Mar 2026 11:53:36 +0900"
-    },
-    {
-      "title": "HS화성, 지난해 매출액 6천595억…전년 대비 7.6％ 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260327078800053",
-      "pubDate": "Fri, 27 Mar 2026 11:45:17 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.575%",
-      "link": "https://www.yna.co.kr/view/AKR20260327076900008",
-      "pubDate": "Fri, 27 Mar 2026 11:44:07 +0900"
-    },
-    {
-      "title": "농협은행 전남본부, 전남교육 장학기금 14억 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260327073300054",
-      "pubDate": "Fri, 27 Mar 2026 11:29:15 +0900"
-    },
-    {
-      "title": "[게시판] 삼성카드, '한화이글스 삼성카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260327068700002",
-      "pubDate": "Fri, 27 Mar 2026 11:25:52 +0900"
-    },
-    {
-      "title": "완주군, 수소국가산단 용역·행정절차 '속도'…내년 착공 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260327071500055",
-      "pubDate": "Fri, 27 Mar 2026 11:25:41 +0900"
     }
   ]
 }
