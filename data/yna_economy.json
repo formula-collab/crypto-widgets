@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774597936,
+  "updated_at_unix": 1774600691,
   "items": [
+    {
+      "title": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327133900002",
+      "pubDate": "Fri, 27 Mar 2026 17:30:00 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260327145900002",
+      "pubDate": "Fri, 27 Mar 2026 17:19:55 +0900"
+    },
+    {
+      "title": "육동한 춘천시장, 물가 현장·관광지 잇달아 방문…'민생 행보'",
+      "link": "https://www.yna.co.kr/view/AKR20260327141100062",
+      "pubDate": "Fri, 27 Mar 2026 17:04:11 +0900"
+    },
+    {
+      "title": "[동포의 창] 동포청, 워킹홀리데이 멘토단 '워홀프렌즈' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260327141200371",
+      "pubDate": "Fri, 27 Mar 2026 17:02:01 +0900"
+    },
+    {
+      "title": "중동정세 불안속 국고채 금리 일제히 상승…3년물 연 3.582%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327136851008",
+      "pubDate": "Fri, 27 Mar 2026 16:51:09 +0900"
+    },
     {
       "title": "'美 광통신주 투자' 등 ETF 7종, 31일 신규상장",
       "link": "https://www.yna.co.kr/view/AKR20260327138300008",
@@ -127,31 +152,6 @@
       "title": "익산시, 종량제봉투 사재기 차단…1인당 5매 구매 제한",
       "link": "https://www.yna.co.kr/view/AKR20260327112000055",
       "pubDate": "Fri, 27 Mar 2026 15:07:43 +0900"
-    },
-    {
-      "title": "[전남소식] 농협, 닭·파프리카 연계 '동심달닭' 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260327113200054",
-      "pubDate": "Fri, 27 Mar 2026 15:05:07 +0900"
-    },
-    {
-      "title": "윤호중 행안장관, 착한가격업소 방문…\"서민 부담 덜어줘 감사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327105200530",
-      "pubDate": "Fri, 27 Mar 2026 15:00:01 +0900"
-    },
-    {
-      "title": "금융위, 경영위기 소상공인 원스톱 지원…'기관 칸막이' 없앤다",
-      "link": "https://www.yna.co.kr/view/AKR20260327102400002",
-      "pubDate": "Fri, 27 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "항공유 가격 급등에…진에어, 내달 인천∼괌 등 45편 비운항",
-      "link": "https://www.yna.co.kr/view/AKR20260327108100003",
-      "pubDate": "Fri, 27 Mar 2026 14:47:16 +0900"
-    },
-    {
-      "title": "롯데케미칼도 여수공장 가동 중단…'나프타 쇼크' 확산",
-      "link": "https://www.yna.co.kr/view/AKR20260327108300003",
-      "pubDate": "Fri, 27 Mar 2026 14:39:01 +0900"
     }
   ]
 }
