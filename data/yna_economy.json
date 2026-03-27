@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774584481,
+  "updated_at_unix": 1774590846,
   "items": [
+    {
+      "title": "항공유 가격 급등에…진에어, 내달 인천∼괌 등 45편 비운항",
+      "link": "https://www.yna.co.kr/view/AKR20260327108100003",
+      "pubDate": "Fri, 27 Mar 2026 14:47:16 +0900"
+    },
+    {
+      "title": "롯데케미칼도 여수공장 가동 중단…'나프타 쇼크' 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260327108300003",
+      "pubDate": "Fri, 27 Mar 2026 14:39:01 +0900"
+    },
+    {
+      "title": "해양진흥공사, 서울서 해운기업 긴급 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260327108700051",
+      "pubDate": "Fri, 27 Mar 2026 14:38:41 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260327097600011",
+      "pubDate": "Fri, 27 Mar 2026 14:30:00 +0900"
+    },
+    {
+      "title": "거래소, 우수기업 평가 시 배당절차 선진화 기업에 가점 부여",
+      "link": "https://www.yna.co.kr/view/AKR20260327105300008",
+      "pubDate": "Fri, 27 Mar 2026 14:29:18 +0900"
+    },
+    {
+      "title": "군립 의료기관 울주병원, 채용 열기…최고 3대 1 경쟁률",
+      "link": "https://www.yna.co.kr/view/AKR20260327101500057",
+      "pubDate": "Fri, 27 Mar 2026 14:23:46 +0900"
+    },
+    {
+      "title": "부국증권 정기주총 개최…보통주 2천400원 배당 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260327102900008",
+      "pubDate": "Fri, 27 Mar 2026 14:18:24 +0900"
+    },
+    {
+      "title": "집 6채중 4채 정리한 장동혁 \"지선, 부동산 정책 바로잡는 선거\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327102000001",
+      "pubDate": "Fri, 27 Mar 2026 14:13:18 +0900"
+    },
+    {
+      "title": "우범기 예비후보 \"전주 모든 경로당에 환경·복지 매니저 배치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327100500055",
+      "pubDate": "Fri, 27 Mar 2026 14:10:14 +0900"
+    },
+    {
+      "title": "코로나 위기대응 기간산업안정기금 청산…5년간 8천억 이상 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260327100800002",
+      "pubDate": "Fri, 27 Mar 2026 14:08:59 +0900"
+    },
+    {
+      "title": "동성제약, 700억원 유상증자…태광산업 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260327098100008",
+      "pubDate": "Fri, 27 Mar 2026 14:04:37 +0900"
+    },
+    {
+      "title": "[인사] 기획예산처",
+      "link": "https://www.yna.co.kr/view/AKR20260327098600002",
+      "pubDate": "Fri, 27 Mar 2026 14:03:40 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260327095600002",
+      "pubDate": "Fri, 27 Mar 2026 14:03:28 +0900"
+    },
+    {
+      "title": "AI전환기 '일자리 징검다리' 놓는다…정부, 6월 기본계획 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260327076300530",
+      "pubDate": "Fri, 27 Mar 2026 14:00:15 +0900"
+    },
+    {
+      "title": "도봉구, 중동사태에 '비상경제대책' 가동…특별신용보증 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260327090500004",
+      "pubDate": "Fri, 27 Mar 2026 13:36:23 +0900"
+    },
+    {
+      "title": "파라다이스 \"브랜드가치 제고·AI고도화\"…각자대표 체제로",
+      "link": "https://www.yna.co.kr/view/AKR20260327083200030",
+      "pubDate": "Fri, 27 Mar 2026 13:18:28 +0900"
+    },
+    {
+      "title": "NH투자증권, 4천억원 규모 종합투자계좌 1호 상품 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260327085400008",
+      "pubDate": "Fri, 27 Mar 2026 13:05:52 +0900"
+    },
     {
       "title": "\"바이오시밀러 가이드라인, 수출 생태계 촉진제 될 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260327065100017",
@@ -67,91 +152,6 @@
       "title": "완주군, 수소국가산단 용역·행정절차 '속도'…내년 착공 예정",
       "link": "https://www.yna.co.kr/view/AKR20260327071500055",
       "pubDate": "Fri, 27 Mar 2026 11:25:41 +0900"
-    },
-    {
-      "title": "서울시, 모아타운·모아주택 보정계수 일괄적용해 사업성 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260327045900004",
-      "pubDate": "Fri, 27 Mar 2026 11:15:01 +0900"
-    },
-    {
-      "title": "작년 증시 호황에 시장경보 11% 증가…정치테마株 무더기 경보",
-      "link": "https://www.yna.co.kr/view/AKR20260327067700008",
-      "pubDate": "Fri, 27 Mar 2026 11:08:03 +0900"
-    },
-    {
-      "title": "전북은행, 김제사랑장학재단에 장학금 1억원 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20260327067600055",
-      "pubDate": "Fri, 27 Mar 2026 11:06:56 +0900"
-    },
-    {
-      "title": "\"미국 에너지 콘퍼런스서도 이란 공격 비판 나와\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327058700009",
-      "pubDate": "Fri, 27 Mar 2026 11:00:10 +0900"
-    },
-    {
-      "title": "작년 해외직접투자 718억8천만달러…대미투자 12.9%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260327042600002",
-      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0900"
-    },
-    {
-      "title": "전주시, 청년 지역정착·활력수당 지원 대상자 추가 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260327065700055",
-      "pubDate": "Fri, 27 Mar 2026 10:56:07 +0900"
-    },
-    {
-      "title": "[게시판] 저축은행 차량5부제 등 에너지 절약 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260327063700002",
-      "pubDate": "Fri, 27 Mar 2026 10:48:58 +0900"
-    },
-    {
-      "title": "제주도, 도시지역 60.7% 건축물 증개축 규제완화 지정 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260327062600056",
-      "pubDate": "Fri, 27 Mar 2026 10:45:55 +0900"
-    },
-    {
-      "title": "[특징주] '업계 최초 고배당기업' 코스맥스, 장초반 5%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260327063300008",
-      "pubDate": "Fri, 27 Mar 2026 10:44:29 +0900"
-    },
-    {
-      "title": "김정관 산업장관 \"위기 틈탄 담합·매점매석 행위 엄정대응\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327056451003",
-      "pubDate": "Fri, 27 Mar 2026 10:44:10 +0900"
-    },
-    {
-      "title": "HJ중공업, 건설부문 대표에 송경한 전 동부엔지니어링 대표 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260327061200051",
-      "pubDate": "Fri, 27 Mar 2026 10:40:25 +0900"
-    },
-    {
-      "title": "안산시, 에어돔 형태 '생존누리수영장' 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260327061700061",
-      "pubDate": "Fri, 27 Mar 2026 10:39:14 +0900"
-    },
-    {
-      "title": "[게시판] 현대GBFMS, 현대프라퍼티로 사명변경…부동산 자산관리 회사로",
-      "link": "https://www.yna.co.kr/view/AKR20260327061400003",
-      "pubDate": "Fri, 27 Mar 2026 10:36:17 +0900"
-    },
-    {
-      "title": "타타대우모빌리티, 상반기 신형 중형트럭 '하이쎈' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260327061300003",
-      "pubDate": "Fri, 27 Mar 2026 10:36:04 +0900"
-    },
-    {
-      "title": "전주시, 대학생 '천원의 아침밥 사업' 확대…전주대도 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260327059800055",
-      "pubDate": "Fri, 27 Mar 2026 10:33:45 +0900"
-    },
-    {
-      "title": "관세청 \"나프타, 수출신고 대상…수입신고 지연땐 가산세 부과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327057800002",
-      "pubDate": "Fri, 27 Mar 2026 10:30:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260327052700011",
-      "pubDate": "Fri, 27 Mar 2026 10:30:00 +0900"
     }
   ]
 }
