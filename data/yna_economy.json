@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774611211,
+  "updated_at_unix": 1774615028,
   "items": [
+    {
+      "title": "검찰, '전분당 담합 의혹' 대상·사조 대표 등 3명 구속영장",
+      "link": "https://www.yna.co.kr/view/AKR20260327168700004",
+      "pubDate": "Fri, 27 Mar 2026 21:02:54 +0900"
+    },
     {
       "title": "정부 \"2차 최고가 틈타 '재고 폭리' 주유소 무관용 엄단\"",
       "link": "https://www.yna.co.kr/view/AKR20260327165900003",
@@ -147,11 +152,6 @@
       "title": "공인중개사협회, 일부 담합 행위에 \"유감…강력한 자정 노력 전개\"",
       "link": "https://www.yna.co.kr/view/AKR20260327118000003",
       "pubDate": "Fri, 27 Mar 2026 15:35:25 +0900"
-    },
-    {
-      "title": "외국환시세(3월27일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260327122800002",
-      "pubDate": "Fri, 27 Mar 2026 15:35:23 +0900"
     }
   ]
 }
