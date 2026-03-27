@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774631631,
+  "updated_at_unix": 1774634851,
   "items": [
+    {
+      "title": "달러-원, 엔화 약세 심화 속 상승폭 확대…1,511.40원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260328004000002",
+      "pubDate": "Sat, 28 Mar 2026 02:42:11 +0900"
+    },
     {
       "title": "유가 급등에 美연준 금리인상 기대 강화…美채권금리 급등세",
       "link": "https://www.yna.co.kr/view/AKR20260328000400072",
@@ -147,11 +152,6 @@
       "title": "[특징주] '국내 최초 TPC 국산화' 애경케미칼, 22%대 폭등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260327044251008",
       "pubDate": "Fri, 27 Mar 2026 15:39:49 +0900"
-    },
-    {
-      "title": "강릉시, 라오스 외국인 계절근로자 56명 입국",
-      "link": "https://www.yna.co.kr/view/AKR20260327123100062",
-      "pubDate": "Fri, 27 Mar 2026 15:38:15 +0900"
     }
   ]
 }
