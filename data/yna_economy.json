@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774645276,
+  "updated_at_unix": 1774648476,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 서울 '더샵신길센트럴시티'·'아크로드서초' 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260327153300003",
+      "pubDate": "Sat, 28 Mar 2026 06:00:01 +0900"
+    },
     {
       "title": "국제유가, 분쟁 장기화 우려에 상승…브렌트 110달러대",
       "link": "https://www.yna.co.kr/view/AKR20260328008200072",
@@ -147,11 +152,6 @@
       "title": "[특징주] '대규모 유상증자 결정' 한화솔루션, 급락세 일부 만회 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260327037551008",
       "pubDate": "Fri, 27 Mar 2026 15:59:36 +0900"
-    },
-    {
-      "title": "한전·한수원, 정부 권고안 수용…1.4조 '국제 중재' 국내 이관",
-      "link": "https://www.yna.co.kr/view/AKR20260327127000003",
-      "pubDate": "Fri, 27 Mar 2026 15:57:51 +0900"
     }
   ]
 }
