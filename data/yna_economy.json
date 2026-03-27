@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774600691,
+  "updated_at_unix": 1774604561,
   "items": [
+    {
+      "title": "알에프텍, 70억원 유상증자…나디아 신기술조합 제68호에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260327158900008",
+      "pubDate": "Fri, 27 Mar 2026 18:29:57 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260327145700011",
+      "pubDate": "Fri, 27 Mar 2026 18:00:00 +0900"
+    },
+    {
+      "title": "[게시판] 무협, 지역특화 청년무역전문가 양성과정 19기 수료식",
+      "link": "https://www.yna.co.kr/view/AKR20260327152200003",
+      "pubDate": "Fri, 27 Mar 2026 17:49:38 +0900"
+    },
+    {
+      "title": "與 전남광주특별시장 첫 정책배심원 토론회…후보들 신경전",
+      "link": "https://www.yna.co.kr/view/AKR20260327146600054",
+      "pubDate": "Fri, 27 Mar 2026 17:39:56 +0900"
+    },
+    {
+      "title": "롯데손보, 이은호 대표이사 재선임…강민균 JKL대표 이사회 합류",
+      "link": "https://www.yna.co.kr/view/AKR20260327150600002",
+      "pubDate": "Fri, 27 Mar 2026 17:39:03 +0900"
+    },
+    {
+      "title": "미래에셋증권 \"RIA 입고금액 약 760억원…국내시장 유턴 가속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327150000008",
+      "pubDate": "Fri, 27 Mar 2026 17:37:24 +0900"
+    },
     {
       "title": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\"",
       "link": "https://www.yna.co.kr/view/AKR20260327133900002",
@@ -122,36 +152,6 @@
       "title": "동해해경청, 경비함정 유류 절감 대응…전기 추진 장비 활용",
       "link": "https://www.yna.co.kr/view/AKR20260327120300062",
       "pubDate": "Fri, 27 Mar 2026 15:31:54 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.9원 오른 1,508.9원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260327120700002",
-      "pubDate": "Fri, 27 Mar 2026 15:30:32 +0900"
-    },
-    {
-      "title": "\"영국항공, '연료 절감' 조종사에 인센티브 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327115700009",
-      "pubDate": "Fri, 27 Mar 2026 15:22:26 +0900"
-    },
-    {
-      "title": "중동전쟁 中企피해 422건 접수…이틀만에 43건 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260327117400030",
-      "pubDate": "Fri, 27 Mar 2026 15:18:45 +0900"
-    },
-    {
-      "title": "부산은행, HJ중공업 대상 1억7천600만달러 RG 발급",
-      "link": "https://www.yna.co.kr/view/AKR20260327116600051",
-      "pubDate": "Fri, 27 Mar 2026 15:11:50 +0900"
-    },
-    {
-      "title": "소액으로 헤지펀드 투자…SK증권, 혼합자산투자신탁 단독 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260327115900008",
-      "pubDate": "Fri, 27 Mar 2026 15:10:39 +0900"
-    },
-    {
-      "title": "익산시, 종량제봉투 사재기 차단…1인당 5매 구매 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260327112000055",
-      "pubDate": "Fri, 27 Mar 2026 15:07:43 +0900"
     }
   ]
 }
