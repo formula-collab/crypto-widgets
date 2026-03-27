@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774634851,
+  "updated_at_unix": 1774638817,
   "items": [
+    {
+      "title": "[뉴욕유가] 中선박까지 막혔다…호르무즈 봉쇄에 WTI 100달러 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260328005700009",
+      "pubDate": "Sat, 28 Mar 2026 03:58:03 +0900"
+    },
     {
       "title": "달러-원, 엔화 약세 심화 속 상승폭 확대…1,511.40원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260328004000002",
@@ -147,11 +152,6 @@
       "title": "엠아이큐브솔루션 \"강소열달애사보지능시스템에 8억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260327125900008",
       "pubDate": "Fri, 27 Mar 2026 15:53:10 +0900"
-    },
-    {
-      "title": "[특징주] '국내 최초 TPC 국산화' 애경케미칼, 22%대 폭등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327044251008",
-      "pubDate": "Fri, 27 Mar 2026 15:39:49 +0900"
     }
   ]
 }
