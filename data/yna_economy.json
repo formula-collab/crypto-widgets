@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774604561,
+  "updated_at_unix": 1774607812,
   "items": [
+    {
+      "title": "[BlaccTV] 유조트럭에 90도로 끌려간 승용차…설상가상 날아간 재판권",
+      "link": "https://www.yna.co.kr/view/AKR20260327160700797",
+      "pubDate": "Fri, 27 Mar 2026 18:46:27 +0900"
+    },
     {
       "title": "알에프텍, 70억원 유상증자…나디아 신기술조합 제68호에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260327158900008",
@@ -147,11 +152,6 @@
       "title": "'농민 부담 던다' 익산시, 최대 3억원 융자 지원",
       "link": "https://www.yna.co.kr/view/AKR20260327120400055",
       "pubDate": "Fri, 27 Mar 2026 15:33:09 +0900"
-    },
-    {
-      "title": "동해해경청, 경비함정 유류 절감 대응…전기 추진 장비 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260327120300062",
-      "pubDate": "Fri, 27 Mar 2026 15:31:54 +0900"
     }
   ]
 }
