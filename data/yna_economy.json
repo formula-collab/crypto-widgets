@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774607812,
+  "updated_at_unix": 1774611211,
   "items": [
+    {
+      "title": "정부 \"2차 최고가 틈타 '재고 폭리' 주유소 무관용 엄단\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327165900003",
+      "pubDate": "Fri, 27 Mar 2026 19:45:26 +0900"
+    },
+    {
+      "title": "거래소, '관리종목 해제 실수'에 손해배상 심의위원회 설치 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260327164300008",
+      "pubDate": "Fri, 27 Mar 2026 19:36:24 +0900"
+    },
     {
       "title": "[BlaccTV] 유조트럭에 90도로 끌려간 승용차…설상가상 날아간 재판권",
       "link": "https://www.yna.co.kr/view/AKR20260327160700797",
@@ -142,16 +152,6 @@
       "title": "외국환시세(3월27일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260327122800002",
       "pubDate": "Fri, 27 Mar 2026 15:35:23 +0900"
-    },
-    {
-      "title": "관세청·법무부, 마약범죄 근절 협력…정보공유·단속 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260327121500002",
-      "pubDate": "Fri, 27 Mar 2026 15:33:19 +0900"
-    },
-    {
-      "title": "'농민 부담 던다' 익산시, 최대 3억원 융자 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260327120400055",
-      "pubDate": "Fri, 27 Mar 2026 15:33:09 +0900"
     }
   ]
 }
