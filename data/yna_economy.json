@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774594483,
+  "updated_at_unix": 1774597936,
   "items": [
+    {
+      "title": "'美 광통신주 투자' 등 ETF 7종, 31일 신규상장",
+      "link": "https://www.yna.co.kr/view/AKR20260327138300008",
+      "pubDate": "Fri, 27 Mar 2026 16:44:20 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.582%",
+      "link": "https://www.yna.co.kr/view/AKR20260327136800008",
+      "pubDate": "Fri, 27 Mar 2026 16:40:59 +0900"
+    },
+    {
+      "title": "선원노련 신임 위원장에 김두영 후보 당선",
+      "link": "https://www.yna.co.kr/view/AKR20260327135400051",
+      "pubDate": "Fri, 27 Mar 2026 16:35:02 +0900"
+    },
+    {
+      "title": "상지대 RISE사업단, K-MEDI 네트워킹 세미나로 연구·창업 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260327132800062",
+      "pubDate": "Fri, 27 Mar 2026 16:33:52 +0900"
+    },
+    {
+      "title": "2차 석유 최고가제 시행 첫날 '기름값' 20원 가까이 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327040351003",
+      "pubDate": "Fri, 27 Mar 2026 16:33:00 +0900"
+    },
+    {
+      "title": "중동사태 영향 점검한 농식품부…비료·포장재 수급 대응 논의(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327080751030",
+      "pubDate": "Fri, 27 Mar 2026 16:27:01 +0900"
+    },
+    {
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.yna.co.kr/view/AKR20260327129400030",
+      "pubDate": "Fri, 27 Mar 2026 16:11:13 +0900"
+    },
+    {
+      "title": "중동 교착·外人 주식 대규모 매도에 환율 사흘째↑…1,508.9원",
+      "link": "https://www.yna.co.kr/view/AKR20260327126300002",
+      "pubDate": "Fri, 27 Mar 2026 16:08:17 +0900"
+    },
+    {
+      "title": "[특징주] '업계 최초 고배당기업' 코스맥스, 8%대 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327063351008",
+      "pubDate": "Fri, 27 Mar 2026 16:03:52 +0900"
+    },
+    {
+      "title": "[특징주] '대규모 유상증자 결정' 한화솔루션, 급락세 일부 만회 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260327037551008",
+      "pubDate": "Fri, 27 Mar 2026 15:59:36 +0900"
+    },
+    {
+      "title": "한전·한수원, 정부 권고안 수용…1.4조 '국제 중재' 국내 이관",
+      "link": "https://www.yna.co.kr/view/AKR20260327127000003",
+      "pubDate": "Fri, 27 Mar 2026 15:57:51 +0900"
+    },
+    {
+      "title": "엠아이큐브솔루션 \"강소열달애사보지능시스템에 8억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327125900008",
+      "pubDate": "Fri, 27 Mar 2026 15:53:10 +0900"
+    },
     {
       "title": "[특징주] '국내 최초 TPC 국산화' 애경케미칼, 22%대 폭등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260327044251008",
@@ -92,66 +152,6 @@
       "title": "롯데케미칼도 여수공장 가동 중단…'나프타 쇼크' 확산",
       "link": "https://www.yna.co.kr/view/AKR20260327108300003",
       "pubDate": "Fri, 27 Mar 2026 14:39:01 +0900"
-    },
-    {
-      "title": "해양진흥공사, 서울서 해운기업 긴급 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260327108700051",
-      "pubDate": "Fri, 27 Mar 2026 14:38:41 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260327097600011",
-      "pubDate": "Fri, 27 Mar 2026 14:30:00 +0900"
-    },
-    {
-      "title": "거래소, 우수기업 평가 시 배당절차 선진화 기업에 가점 부여",
-      "link": "https://www.yna.co.kr/view/AKR20260327105300008",
-      "pubDate": "Fri, 27 Mar 2026 14:29:18 +0900"
-    },
-    {
-      "title": "군립 의료기관 울주병원, 채용 열기…최고 3대 1 경쟁률",
-      "link": "https://www.yna.co.kr/view/AKR20260327101500057",
-      "pubDate": "Fri, 27 Mar 2026 14:23:46 +0900"
-    },
-    {
-      "title": "부국증권 정기주총 개최…보통주 2천400원 배당 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260327102900008",
-      "pubDate": "Fri, 27 Mar 2026 14:18:24 +0900"
-    },
-    {
-      "title": "집 6채중 4채 정리한 장동혁 \"지선, 부동산 정책 바로잡는 선거\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327102000001",
-      "pubDate": "Fri, 27 Mar 2026 14:13:18 +0900"
-    },
-    {
-      "title": "우범기 예비후보 \"전주 모든 경로당에 환경·복지 매니저 배치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327100500055",
-      "pubDate": "Fri, 27 Mar 2026 14:10:14 +0900"
-    },
-    {
-      "title": "코로나 위기대응 기간산업안정기금 청산…5년간 8천억 이상 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260327100800002",
-      "pubDate": "Fri, 27 Mar 2026 14:08:59 +0900"
-    },
-    {
-      "title": "동성제약, 700억원 유상증자…태광산업 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260327098100008",
-      "pubDate": "Fri, 27 Mar 2026 14:04:37 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260327098600002",
-      "pubDate": "Fri, 27 Mar 2026 14:03:40 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260327095600002",
-      "pubDate": "Fri, 27 Mar 2026 14:03:28 +0900"
-    },
-    {
-      "title": "AI전환기 '일자리 징검다리' 놓는다…정부, 6월 기본계획 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260327076300530",
-      "pubDate": "Fri, 27 Mar 2026 14:00:15 +0900"
     }
   ]
 }
