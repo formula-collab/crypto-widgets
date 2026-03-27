@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774643112,
+  "updated_at_unix": 1774645276,
   "items": [
+    {
+      "title": "국제유가, 분쟁 장기화 우려에 상승…브렌트 110달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260328008200072",
+      "pubDate": "Sat, 28 Mar 2026 05:23:20 +0900"
+    },
     {
       "title": "[뉴욕유가] 中선박까지 막혔다…호르무즈 봉쇄에 WTI 100달러 육박",
       "link": "https://www.yna.co.kr/view/AKR20260328005700009",
@@ -147,11 +152,6 @@
       "title": "한전·한수원, 정부 권고안 수용…1.4조 '국제 중재' 국내 이관",
       "link": "https://www.yna.co.kr/view/AKR20260327127000003",
       "pubDate": "Fri, 27 Mar 2026 15:57:51 +0900"
-    },
-    {
-      "title": "엠아이큐브솔루션 \"강소열달애사보지능시스템에 8억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327125900008",
-      "pubDate": "Fri, 27 Mar 2026 15:53:10 +0900"
     }
   ]
 }
