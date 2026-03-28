@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774660081,
+  "updated_at_unix": 1774670056,
   "items": [
+    {
+      "title": "전남도, 유가 상승 대비 섬 지역 생활안정에 276억 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260327155300054",
+      "pubDate": "Sat, 28 Mar 2026 11:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260328027100011",
+      "pubDate": "Sat, 28 Mar 2026 10:30:00 +0900"
+    },
+    {
+      "title": "울주 온산 도시재생사업 '온산콘서트' 개최…\"상권 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327099000057",
+      "pubDate": "Sat, 28 Mar 2026 10:10:01 +0900"
+    },
     {
       "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 근접",
       "link": "https://www.yna.co.kr/view/AKR20260328023100003",
@@ -137,21 +152,6 @@
       "title": "중동정세 불안속 국고채 금리 일제히 상승…3년물 연 3.582%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260327136851008",
       "pubDate": "Fri, 27 Mar 2026 16:51:09 +0900"
-    },
-    {
-      "title": "'美 광통신주 투자' 등 ETF 7종, 31일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260327138300008",
-      "pubDate": "Fri, 27 Mar 2026 16:44:20 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.582%",
-      "link": "https://www.yna.co.kr/view/AKR20260327136800008",
-      "pubDate": "Fri, 27 Mar 2026 16:40:59 +0900"
-    },
-    {
-      "title": "선원노련 신임 위원장에 김두영 후보 당선",
-      "link": "https://www.yna.co.kr/view/AKR20260327135400051",
-      "pubDate": "Fri, 27 Mar 2026 16:35:02 +0900"
     }
   ]
 }
