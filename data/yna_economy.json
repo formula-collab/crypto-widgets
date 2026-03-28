@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774729019,
+  "updated_at_unix": 1774731163,
   "items": [
+    {
+      "title": "OECD가 쏜 신호탄…'중동발 취약' 한국 성장전망 줄하향 조짐",
+      "link": "https://www.yna.co.kr/view/AKR20260328051800002",
+      "pubDate": "Sun, 29 Mar 2026 05:47:01 +0900"
+    },
+    {
+      "title": "벼랑 끝 자영업자…대출금리 0.25%p 오르면 이자 1조8천억↑",
+      "link": "https://www.yna.co.kr/view/AKR20260328043600002",
+      "pubDate": "Sun, 29 Mar 2026 05:45:03 +0900"
+    },
+    {
+      "title": "은행 주담대 고정금리 7% 넘어…중동불안 등에 3년5개월내 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260328055300002",
+      "pubDate": "Sun, 29 Mar 2026 05:45:00 +0900"
+    },
     {
       "title": "[부고] 이태훈(은행연합회 전무이사)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260328056500002",
@@ -137,21 +152,6 @@
       "title": "與 전남광주특별시장 첫 정책배심원 토론회…후보들 신경전",
       "link": "https://www.yna.co.kr/view/AKR20260327146600054",
       "pubDate": "Fri, 27 Mar 2026 17:39:56 +0900"
-    },
-    {
-      "title": "롯데손보, 이은호 대표이사 재선임…강민균 JKL대표 이사회 합류",
-      "link": "https://www.yna.co.kr/view/AKR20260327150600002",
-      "pubDate": "Fri, 27 Mar 2026 17:39:03 +0900"
-    },
-    {
-      "title": "미래에셋증권 \"RIA 입고금액 약 760억원…국내시장 유턴 가속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327150000008",
-      "pubDate": "Fri, 27 Mar 2026 17:37:24 +0900"
-    },
-    {
-      "title": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327133900002",
-      "pubDate": "Fri, 27 Mar 2026 17:30:00 +0900"
     }
   ]
 }
