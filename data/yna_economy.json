@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774734599,
+  "updated_at_unix": 1774736192,
   "items": [
+    {
+      "title": "중동전쟁 한 달…코스피·코스닥 시가총액 상위권 변화는",
+      "link": "https://www.yna.co.kr/view/AKR20260328026300008",
+      "pubDate": "Sun, 29 Mar 2026 07:07:00 +0900"
+    },
+    {
+      "title": "[마켓스토리] '주린이' 기자가 RIA 개설해보니…투자자 이해도 거듭 확인",
+      "link": "https://www.yna.co.kr/view/AKR20260327175700008",
+      "pubDate": "Sun, 29 Mar 2026 07:03:00 +0900"
+    },
+    {
+      "title": "중기부, 몽골에 스타트업 타운 조성…\"창업지원 경험 전한다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260327125100030",
+      "pubDate": "Sun, 29 Mar 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 이란 전쟁, '장기전' 기로…주름 깊어지는 증시",
+      "link": "https://www.yna.co.kr/view/AKR20260328027900008",
+      "pubDate": "Sun, 29 Mar 2026 07:00:16 +0900"
+    },
+    {
+      "title": "광주 전방·일방 주상복합 개발 협상 장기화…5월 분양 난항",
+      "link": "https://www.yna.co.kr/view/AKR20260327139700054",
+      "pubDate": "Sun, 29 Mar 2026 07:00:04 +0900"
+    },
     {
       "title": "LG 세탁기, 美 보급형 시장도 석권…컨슈머리포트 '가성비' 1위",
       "link": "https://www.yna.co.kr/view/AKR20260327069600003",
@@ -127,31 +152,6 @@
       "title": "전남도, 유가 상승 대비 섬 지역 생활안정에 276억 투입",
       "link": "https://www.yna.co.kr/view/AKR20260327155300054",
       "pubDate": "Sat, 28 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260328027100011",
-      "pubDate": "Sat, 28 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "울주 온산 도시재생사업 '온산콘서트' 개최…\"상권 활성화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327099000057",
-      "pubDate": "Sat, 28 Mar 2026 10:10:01 +0900"
-    },
-    {
-      "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 근접",
-      "link": "https://www.yna.co.kr/view/AKR20260328023100003",
-      "pubDate": "Sat, 28 Mar 2026 09:38:13 +0900"
-    },
-    {
-      "title": "[다음주 경제] 이란사태에 3월 물가 올랐나…다주택자 규제도 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260328021100002",
-      "pubDate": "Sat, 28 Mar 2026 08:48:41 +0900"
-    },
-    {
-      "title": "진주시, 농기계 임대료 50% 감면…고물가 속 농가 지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260327127600052",
-      "pubDate": "Sat, 28 Mar 2026 08:15:00 +0900"
     }
   ]
 }
