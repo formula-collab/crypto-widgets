@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774704729,
+  "updated_at_unix": 1774707742,
   "items": [
+    {
+      "title": "[부고] 이태훈(은행연합회 전무이사)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260328056500002",
+      "pubDate": "Sat, 28 Mar 2026 22:45:57 +0900"
+    },
     {
       "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 임박(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260328023151003",
@@ -147,11 +152,6 @@
       "title": "기획처, '아미 타이거' 부대 점검…\"첨단 전력에 예산 재배분\"",
       "link": "https://www.yna.co.kr/view/AKR20260327133900002",
       "pubDate": "Fri, 27 Mar 2026 17:30:00 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260327145900002",
-      "pubDate": "Fri, 27 Mar 2026 17:19:55 +0900"
     }
   ]
 }
