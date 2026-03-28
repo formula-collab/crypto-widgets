@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774738347,
+  "updated_at_unix": 1774739989,
   "items": [
+    {
+      "title": "강원도, '중동사태' 농가피해 최소화 농업용 면세유 구입비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260328040000062",
+      "pubDate": "Sun, 29 Mar 2026 08:15:00 +0900"
+    },
+    {
+      "title": "유가·환율 뛰고 연료 공급도 불안…원양업계 '삼중고'",
+      "link": "https://www.yna.co.kr/view/AKR20260327070500051",
+      "pubDate": "Sun, 29 Mar 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 수은, 다문화가족 지원기관들에 차량 18대 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260328045400002",
+      "pubDate": "Sun, 29 Mar 2026 08:00:01 +0900"
+    },
     {
       "title": "인체조직 스킨부스터 관리 강화 수순…광고 규제 추진",
       "link": "https://www.yna.co.kr/view/AKR20260327140400017",
@@ -137,21 +152,6 @@
       "title": "이번 주 WGBI 편입 시작…금리·환율 안정 효과 낼까",
       "link": "https://www.yna.co.kr/view/AKR20260328043300002",
       "pubDate": "Sun, 29 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "이달 환율 1,490원 육박, 역대 4위…원화 하락폭 주요국 최상위",
-      "link": "https://www.yna.co.kr/view/AKR20260328047000002",
-      "pubDate": "Sun, 29 Mar 2026 05:49:01 +0900"
-    },
-    {
-      "title": "OECD가 쏜 신호탄…'중동발 취약' 한국 성장전망 줄하향 조짐",
-      "link": "https://www.yna.co.kr/view/AKR20260328051800002",
-      "pubDate": "Sun, 29 Mar 2026 05:47:01 +0900"
-    },
-    {
-      "title": "벼랑 끝 자영업자…대출금리 0.25%p 오르면 이자 1조8천억↑",
-      "link": "https://www.yna.co.kr/view/AKR20260328043600002",
-      "pubDate": "Sun, 29 Mar 2026 05:45:03 +0900"
     }
   ]
 }
