@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774731163,
+  "updated_at_unix": 1774732779,
   "items": [
+    {
+      "title": "폭염 고위험사업장 6곳중 1곳 안전규칙위반…규모별 편차↑",
+      "link": "https://www.yna.co.kr/view/AKR20260327130900530",
+      "pubDate": "Sun, 29 Mar 2026 06:05:00 +0900"
+    },
+    {
+      "title": "[일문일답] '출범 6개월' 데이터처 처장 \"AI생태계 이끌 기본법 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260328048100002",
+      "pubDate": "Sun, 29 Mar 2026 06:01:14 +0900"
+    },
+    {
+      "title": "[인터뷰] 안형준 데이터처장 \"새 인구추계, 2022년 낙관전망 웃돌 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260328044100002",
+      "pubDate": "Sun, 29 Mar 2026 06:01:14 +0900"
+    },
+    {
+      "title": "보험금 노리고 상가에 불 지른 임차인 징역 2년 6개월 선고",
+      "link": "https://www.yna.co.kr/view/AKR20260327105600053",
+      "pubDate": "Sun, 29 Mar 2026 06:01:13 +0900"
+    },
+    {
+      "title": "하림·마니커, 닭고기 공급가 줄인상…소매가격 16% 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20260327171100030",
+      "pubDate": "Sun, 29 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "중동 악재에 항공사 '수익 사수' 안간힘…운항 줄이고 요금 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260327167500003",
+      "pubDate": "Sun, 29 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "한화오션, 加잠수함 현지협력 확대…운항·탐지·유지보수 망라",
+      "link": "https://www.yna.co.kr/view/AKR20260328052500003",
+      "pubDate": "Sun, 29 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "호르무즈 긴장에 선박보험료 10배로 뛰어…선주·수출기업 타격",
+      "link": "https://www.yna.co.kr/view/AKR20260328051400002",
+      "pubDate": "Sun, 29 Mar 2026 05:59:00 +0900"
+    },
+    {
+      "title": "고유가 대응…금융위, 5부제 연계 車보험료·주유카드 할인 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260328053400002",
+      "pubDate": "Sun, 29 Mar 2026 05:57:00 +0900"
+    },
+    {
+      "title": "금감원, 사업자대출 유용 현장점검 착수…하나·농협銀 첫타자",
+      "link": "https://www.yna.co.kr/view/AKR20260328046400002",
+      "pubDate": "Sun, 29 Mar 2026 05:55:01 +0900"
+    },
+    {
+      "title": "AI에 청년일자리 흔들?…전문직·IT 감소 대부분이 2030",
+      "link": "https://www.yna.co.kr/view/AKR20260328045500002",
+      "pubDate": "Sun, 29 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "이번 주 WGBI 편입 시작…금리·환율 안정 효과 낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260328043300002",
+      "pubDate": "Sun, 29 Mar 2026 05:51:00 +0900"
+    },
+    {
+      "title": "이달 환율 1,490원 육박, 역대 4위…원화 하락폭 주요국 최상위",
+      "link": "https://www.yna.co.kr/view/AKR20260328047000002",
+      "pubDate": "Sun, 29 Mar 2026 05:49:01 +0900"
+    },
     {
       "title": "OECD가 쏜 신호탄…'중동발 취약' 한국 성장전망 줄하향 조짐",
       "link": "https://www.yna.co.kr/view/AKR20260328051800002",
@@ -87,71 +152,6 @@
       "title": "[신상잇슈] 배스킨라빈스 '바 베 바'·뚜레쥬르 '슬로 TLJ 4종'",
       "link": "https://www.yna.co.kr/view/AKR20260327043800030",
       "pubDate": "Sat, 28 Mar 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 서울 '더샵신길센트럴시티'·'아크로드서초' 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260327153300003",
-      "pubDate": "Sat, 28 Mar 2026 06:00:01 +0900"
-    },
-    {
-      "title": "국제유가, 분쟁 장기화 우려에 상승…브렌트 110달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260328008200072",
-      "pubDate": "Sat, 28 Mar 2026 05:23:20 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 中선박까지 막혔다…호르무즈 봉쇄에 WTI 100달러 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260328005700009",
-      "pubDate": "Sat, 28 Mar 2026 03:58:03 +0900"
-    },
-    {
-      "title": "달러-원, 엔화 약세 심화 속 상승폭 확대…1,511.40원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260328004000002",
-      "pubDate": "Sat, 28 Mar 2026 02:42:11 +0900"
-    },
-    {
-      "title": "유가 급등에 美연준 금리인상 기대 강화…美채권금리 급등세",
-      "link": "https://www.yna.co.kr/view/AKR20260328000400072",
-      "pubDate": "Sat, 28 Mar 2026 00:15:04 +0900"
-    },
-    {
-      "title": "검찰, '전분당 담합 의혹' 대상·사조 대표 등 3명 구속영장",
-      "link": "https://www.yna.co.kr/view/AKR20260327168700004",
-      "pubDate": "Fri, 27 Mar 2026 21:02:54 +0900"
-    },
-    {
-      "title": "정부 \"2차 최고가 틈타 '재고 폭리' 주유소 무관용 엄단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260327165900003",
-      "pubDate": "Fri, 27 Mar 2026 19:45:26 +0900"
-    },
-    {
-      "title": "거래소, '관리종목 해제 실수'에 손해배상 심의위원회 설치 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260327164300008",
-      "pubDate": "Fri, 27 Mar 2026 19:36:24 +0900"
-    },
-    {
-      "title": "[BlaccTV] 유조트럭에 90도로 끌려간 승용차…설상가상 날아간 재판권",
-      "link": "https://www.yna.co.kr/view/AKR20260327160700797",
-      "pubDate": "Fri, 27 Mar 2026 18:46:27 +0900"
-    },
-    {
-      "title": "알에프텍, 70억원 유상증자…나디아 신기술조합 제68호에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260327158900008",
-      "pubDate": "Fri, 27 Mar 2026 18:29:57 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260327145700011",
-      "pubDate": "Fri, 27 Mar 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 무협, 지역특화 청년무역전문가 양성과정 19기 수료식",
-      "link": "https://www.yna.co.kr/view/AKR20260327152200003",
-      "pubDate": "Fri, 27 Mar 2026 17:49:38 +0900"
-    },
-    {
-      "title": "與 전남광주특별시장 첫 정책배심원 토론회…후보들 신경전",
-      "link": "https://www.yna.co.kr/view/AKR20260327146600054",
-      "pubDate": "Fri, 27 Mar 2026 17:39:56 +0900"
     }
   ]
 }
