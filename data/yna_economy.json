@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774655441,
+  "updated_at_unix": 1774660081,
   "items": [
+    {
+      "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 근접",
+      "link": "https://www.yna.co.kr/view/AKR20260328023100003",
+      "pubDate": "Sat, 28 Mar 2026 09:38:13 +0900"
+    },
+    {
+      "title": "[다음주 경제] 이란사태에 3월 물가 올랐나…다주택자 규제도 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260328021100002",
+      "pubDate": "Sat, 28 Mar 2026 08:48:41 +0900"
+    },
     {
       "title": "진주시, 농기계 임대료 50% 감면…고물가 속 농가 지원 강화",
       "link": "https://www.yna.co.kr/view/AKR20260327127600052",
@@ -142,16 +152,6 @@
       "title": "선원노련 신임 위원장에 김두영 후보 당선",
       "link": "https://www.yna.co.kr/view/AKR20260327135400051",
       "pubDate": "Fri, 27 Mar 2026 16:35:02 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, K-MEDI 네트워킹 세미나로 연구·창업 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260327132800062",
-      "pubDate": "Fri, 27 Mar 2026 16:33:52 +0900"
-    },
-    {
-      "title": "2차 석유 최고가제 시행 첫날 '기름값' 20원 가까이 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260327040351003",
-      "pubDate": "Fri, 27 Mar 2026 16:33:00 +0900"
     }
   ]
 }
