@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774693646,
+  "updated_at_unix": 1774695426,
   "items": [
+    {
+      "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 임박(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260328023151003",
+      "pubDate": "Sat, 28 Mar 2026 19:26:17 +0900"
+    },
     {
       "title": "강원도, 중동사태 대응 민생대책 가동…\"물가 잡고 자금은 푼다\"",
       "link": "https://www.yna.co.kr/view/AKR20260328034500062",
@@ -147,11 +152,6 @@
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260327145900002",
       "pubDate": "Fri, 27 Mar 2026 17:19:55 +0900"
-    },
-    {
-      "title": "육동한 춘천시장, 물가 현장·관광지 잇달아 방문…'민생 행보'",
-      "link": "https://www.yna.co.kr/view/AKR20260327141100062",
-      "pubDate": "Fri, 27 Mar 2026 17:04:11 +0900"
     }
   ]
 }
