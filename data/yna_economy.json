@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774739989,
+  "updated_at_unix": 1774741889,
   "items": [
+    {
+      "title": "인천시, 고액·상습체납 1천147명 명단공개 전 납부 유도",
+      "link": "https://www.yna.co.kr/view/AKR20260329007300065",
+      "pubDate": "Sun, 29 Mar 2026 08:30:07 +0900"
+    },
+    {
+      "title": "[게시판] 하나금융, 경기 고양시에 첫 프리미엄 노인요양시설 건립",
+      "link": "https://www.yna.co.kr/view/AKR20260327175800002",
+      "pubDate": "Sun, 29 Mar 2026 08:30:00 +0900"
+    },
+    {
+      "title": "'강남이 가격 선도' 공식 벗어난 서울 주택시장…탈동조화?",
+      "link": "https://www.yna.co.kr/view/AKR20260329009200003",
+      "pubDate": "Sun, 29 Mar 2026 08:17:52 +0900"
+    },
     {
       "title": "강원도, '중동사태' 농가피해 최소화 농업용 면세유 구입비 지원",
       "link": "https://www.yna.co.kr/view/AKR20260328040000062",
@@ -137,21 +152,6 @@
       "title": "고유가 대응…금융위, 5부제 연계 車보험료·주유카드 할인 추진",
       "link": "https://www.yna.co.kr/view/AKR20260328053400002",
       "pubDate": "Sun, 29 Mar 2026 05:57:00 +0900"
-    },
-    {
-      "title": "금감원, 사업자대출 유용 현장점검 착수…하나·농협銀 첫타자",
-      "link": "https://www.yna.co.kr/view/AKR20260328046400002",
-      "pubDate": "Sun, 29 Mar 2026 05:55:01 +0900"
-    },
-    {
-      "title": "AI에 청년일자리 흔들?…전문직·IT 감소 대부분이 2030",
-      "link": "https://www.yna.co.kr/view/AKR20260328045500002",
-      "pubDate": "Sun, 29 Mar 2026 05:53:00 +0900"
-    },
-    {
-      "title": "이번 주 WGBI 편입 시작…금리·환율 안정 효과 낼까",
-      "link": "https://www.yna.co.kr/view/AKR20260328043300002",
-      "pubDate": "Sun, 29 Mar 2026 05:51:00 +0900"
     }
   ]
 }
