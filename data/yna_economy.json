@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774736192,
+  "updated_at_unix": 1774738347,
   "items": [
+    {
+      "title": "인체조직 스킨부스터 관리 강화 수순…광고 규제 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260327140400017",
+      "pubDate": "Sun, 29 Mar 2026 07:33:01 +0900"
+    },
+    {
+      "title": "K-펫푸드, 프리미엄 앞세워 해외시장 공략…'수출효자 품목'으로",
+      "link": "https://www.yna.co.kr/view/AKR20260325157900030",
+      "pubDate": "Sun, 29 Mar 2026 07:31:00 +0900"
+    },
+    {
+      "title": "내달 세계국채지수 편입 시작…흔들리는 채권시장 구원투수될까",
+      "link": "https://www.yna.co.kr/view/AKR20260327125500008",
+      "pubDate": "Sun, 29 Mar 2026 07:20:01 +0900"
+    },
+    {
+      "title": "경기도, '청년 해외 취업·창업' 지원…참여자 100명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260327099500061",
+      "pubDate": "Sun, 29 Mar 2026 07:15:01 +0900"
+    },
+    {
+      "title": "결산시즌 '증시 퇴출 위기' 기업 속출…34개사 보고서 지각 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260327146300008",
+      "pubDate": "Sun, 29 Mar 2026 07:15:01 +0900"
+    },
+    {
+      "title": "백화점들, '쇼핑' 넘어 '미식 플랫폼'으로…F&B 경쟁 달아올랐다",
+      "link": "https://www.yna.co.kr/view/AKR20260327154900030",
+      "pubDate": "Sun, 29 Mar 2026 07:15:00 +0900"
+    },
     {
       "title": "중동전쟁 한 달…코스피·코스닥 시가총액 상위권 변화는",
       "link": "https://www.yna.co.kr/view/AKR20260328026300008",
@@ -122,36 +152,6 @@
       "title": "벼랑 끝 자영업자…대출금리 0.25%p 오르면 이자 1조8천억↑",
       "link": "https://www.yna.co.kr/view/AKR20260328043600002",
       "pubDate": "Sun, 29 Mar 2026 05:45:03 +0900"
-    },
-    {
-      "title": "은행 주담대 고정금리 7% 넘어…중동불안 등에 3년5개월내 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260328055300002",
-      "pubDate": "Sun, 29 Mar 2026 05:45:00 +0900"
-    },
-    {
-      "title": "[부고] 이태훈(은행연합회 전무이사)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260328056500002",
-      "pubDate": "Sat, 28 Mar 2026 22:45:57 +0900"
-    },
-    {
-      "title": "2차 석유 최고가제 둘째날, 서울 휘발윳값 1천900원 임박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260328023151003",
-      "pubDate": "Sat, 28 Mar 2026 19:26:17 +0900"
-    },
-    {
-      "title": "강원도, 중동사태 대응 민생대책 가동…\"물가 잡고 자금은 푼다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260328034500062",
-      "pubDate": "Sat, 28 Mar 2026 14:27:38 +0900"
-    },
-    {
-      "title": "[게시판] 서비스마케팅학회, 2026 춘계학술대회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260328034300065",
-      "pubDate": "Sat, 28 Mar 2026 14:11:08 +0900"
-    },
-    {
-      "title": "전남도, 유가 상승 대비 섬 지역 생활안정에 276억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260327155300054",
-      "pubDate": "Sat, 28 Mar 2026 11:00:02 +0900"
     }
   ]
 }
