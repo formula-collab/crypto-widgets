@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774824896,
+  "updated_at_unix": 1774826496,
   "items": [
+    {
+      "title": "KB증권 \"제일기획, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330017800008",
+      "pubDate": "Mon, 30 Mar 2026 08:16:32 +0900"
+    },
+    {
+      "title": "작년 외투기업 10곳 중 6곳은 채용 안해…\"韓 내수경기 침체 탓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330017200003",
+      "pubDate": "Mon, 30 Mar 2026 08:13:32 +0900"
+    },
+    {
+      "title": "서산시, 청년 월세 지원…최장 2년간 월 20만원",
+      "link": "https://www.yna.co.kr/view/AKR20260330016500063",
+      "pubDate": "Mon, 30 Mar 2026 08:09:50 +0900"
+    },
+    {
+      "title": "한투증권, LG생건 투자의견 '중립'…\"주가 회복까지 시간 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330016400008",
+      "pubDate": "Mon, 30 Mar 2026 08:07:19 +0900"
+    },
+    {
+      "title": "[마켓뷰] 이란 전쟁 격화에 후티 참전까지…변동성 커지는 증시",
+      "link": "https://www.yna.co.kr/view/AKR20260330014800008",
+      "pubDate": "Mon, 30 Mar 2026 08:04:53 +0900"
+    },
+    {
+      "title": "[게시판] 삼성물산 패션부문 샌드사운드, 성수동에 팝업스토어",
+      "link": "https://www.yna.co.kr/view/AKR20260330016200030",
+      "pubDate": "Mon, 30 Mar 2026 08:04:18 +0900"
+    },
+    {
+      "title": "부산시 제2차 인구정책 기본계획 추진…\"청년 유출 막는다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330013800051",
+      "pubDate": "Mon, 30 Mar 2026 07:57:57 +0900"
+    },
+    {
+      "title": "부산 BIFC 63층에 DB증권·클락슨코리아 등 5개 혁신기업 입주",
+      "link": "https://www.yna.co.kr/view/AKR20260330013700051",
+      "pubDate": "Mon, 30 Mar 2026 07:57:09 +0900"
+    },
+    {
+      "title": "대한항공, 부산테크센터에 2천억 규모 신규공장…무인기 제조",
+      "link": "https://www.yna.co.kr/view/AKR20260330013300051",
+      "pubDate": "Mon, 30 Mar 2026 07:54:15 +0900"
+    },
     {
       "title": "[ODA 35년] ③ 쪼개진 원조에 통합 과제…정책 '컨트롤타워' 논쟁",
       "link": "https://www.yna.co.kr/view/AKR20260329047700371",
@@ -107,51 +152,6 @@
       "title": "대법 \"본공사 부지 밖 임시시설은 개발제한구역 부담금 대상\"",
       "link": "https://www.yna.co.kr/view/AKR20260329043800004",
       "pubDate": "Mon, 30 Mar 2026 06:00:02 +0900"
-    },
-    {
-      "title": "BTS 컴백주말, 광화문 카드사용 0.5%↓…외국인 결제는 74% 뛰어",
-      "link": "https://www.yna.co.kr/view/AKR20260328053200002",
-      "pubDate": "Mon, 30 Mar 2026 05:55:01 +0900"
-    },
-    {
-      "title": "애플페이 2차 도입 초읽기?…토스뱅크, 당국 약관심사 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260329011100002",
-      "pubDate": "Mon, 30 Mar 2026 05:53:00 +0900"
-    },
-    {
-      "title": "\"8주 이상 치료 87.8% 한방\"…'8주룰' 지연에 보험료 논쟁 확산",
-      "link": "https://www.yna.co.kr/view/AKR20260329006900002",
-      "pubDate": "Mon, 30 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "金총리 \"마스크·요소수 기억 생생…생필품 수급 차질 선제대처\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260329028051001",
-      "pubDate": "Sun, 29 Mar 2026 17:08:58 +0900"
-    },
-    {
-      "title": "KB \"서울 오피스텔 매매가 14개월째 상승…오름폭 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329031800003",
-      "pubDate": "Sun, 29 Mar 2026 15:45:43 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260329028500011",
-      "pubDate": "Sun, 29 Mar 2026 15:00:00 +0900"
-    },
-    {
-      "title": "\"벤처 수 늘리기에 치우친 정책, 이제 전주기 지원으로 바꿔야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329027600003",
-      "pubDate": "Sun, 29 Mar 2026 14:58:37 +0900"
-    },
-    {
-      "title": "[동정] 한국인문사회총연합회 이사장에 김정식 연세대 명예교수",
-      "link": "https://www.yna.co.kr/view/AKR20260329024700002",
-      "pubDate": "Sun, 29 Mar 2026 13:47:16 +0900"
-    },
-    {
-      "title": "태백시, 통합공공임대주택 건립 본격화…2027년 준공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260327147300062",
-      "pubDate": "Sun, 29 Mar 2026 13:10:01 +0900"
     }
   ]
 }
