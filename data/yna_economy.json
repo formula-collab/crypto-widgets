@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774826496,
+  "updated_at_unix": 1774828413,
   "items": [
+    {
+      "title": "경기도 '건설업 페이퍼컴퍼니 근절 정책' 전국 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260330023400060",
+      "pubDate": "Mon, 30 Mar 2026 08:44:08 +0900"
+    },
+    {
+      "title": "한투운용, 수출 경쟁력 갖춘 국내 대표기업 투자 ETF 31일 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260330023700008",
+      "pubDate": "Mon, 30 Mar 2026 08:44:01 +0900"
+    },
+    {
+      "title": "IBK투자 \"日도레이 원료비 전가…HS효성첨단소재에 긍정적 환경\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330021400008",
+      "pubDate": "Mon, 30 Mar 2026 08:37:56 +0900"
+    },
+    {
+      "title": "iM증권 \"ISC, AI 반도체 수혜지속·매출 안정성 강화…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330021600008",
+      "pubDate": "Mon, 30 Mar 2026 08:36:56 +0900"
+    },
+    {
+      "title": "인천시, 19∼39세 무주택 청년에 2년간 월세 480만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260330020100065",
+      "pubDate": "Mon, 30 Mar 2026 08:32:00 +0900"
+    },
+    {
+      "title": "풀무원-건국대 동물병원, 반려견 헌혈 문화 확산 위해 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260330020300030",
+      "pubDate": "Mon, 30 Mar 2026 08:31:52 +0900"
+    },
+    {
+      "title": "삼성증권 \"美 안보 로보틱스 법안 발의…韓 로봇 부품사 기회↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330018700008",
+      "pubDate": "Mon, 30 Mar 2026 08:19:07 +0900"
+    },
     {
       "title": "KB증권 \"제일기획, 1분기 실적 기대치 밑돌 것…목표가↓\"",
       "link": "https://www.yna.co.kr/view/AKR20260330017800008",
@@ -117,41 +152,6 @@
       "title": "전문가와 함께 현장훈련으로 고민 해결…올해 47억원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260327144200530",
       "pubDate": "Mon, 30 Mar 2026 06:00:11 +0900"
-    },
-    {
-      "title": "작년 자산운용사 순익 67% 늘어 3조 돌파…ETF 열풍에 사상최대",
-      "link": "https://www.yna.co.kr/view/AKR20260328052800002",
-      "pubDate": "Mon, 30 Mar 2026 06:00:09 +0900"
-    },
-    {
-      "title": "작년 보험사 순이익 12조, 15% 줄어…자기자본은 19%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260328051700002",
-      "pubDate": "Mon, 30 Mar 2026 06:00:08 +0900"
-    },
-    {
-      "title": "'스타트업 지원' 서울창업허브M+ 입주기업 내달 15일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260329026300004",
-      "pubDate": "Mon, 30 Mar 2026 06:00:06 +0900"
-    },
-    {
-      "title": "롯데마트, '메가통큰' 2주 차 행사…삼겹살 990원·생필품 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260329034300030",
-      "pubDate": "Mon, 30 Mar 2026 06:00:05 +0900"
-    },
-    {
-      "title": "롯데백화점, '앰배서더 1기' 모집…인플루언서 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260329035500030",
-      "pubDate": "Mon, 30 Mar 2026 06:00:05 +0900"
-    },
-    {
-      "title": "\"4대 과기원생 절반은 대기업·전문직으로…11％만 창업 도전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329035700003",
-      "pubDate": "Mon, 30 Mar 2026 06:00:03 +0900"
-    },
-    {
-      "title": "대법 \"본공사 부지 밖 임시시설은 개발제한구역 부담금 대상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329043800004",
-      "pubDate": "Mon, 30 Mar 2026 06:00:02 +0900"
     }
   ]
 }
