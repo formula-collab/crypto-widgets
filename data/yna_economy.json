@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774822687,
+  "updated_at_unix": 1774824896,
   "items": [
+    {
+      "title": "[ODA 35년] ③ 쪼개진 원조에 통합 과제…정책 '컨트롤타워' 논쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260329047700371",
+      "pubDate": "Mon, 30 Mar 2026 07:30:04 +0900"
+    },
+    {
+      "title": "[ODA 35년] ② 일본은 맡겼고 한국은 관리…자이카-코이카 간극",
+      "link": "https://www.yna.co.kr/view/AKR20260329047600371",
+      "pubDate": "Mon, 30 Mar 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260330008600011",
+      "pubDate": "Mon, 30 Mar 2026 07:30:00 +0900"
+    },
     {
       "title": "\"우리 강아지, AI로 견생샷 남겨요\"…반려동물 콘텐츠 '열풍'",
       "link": "https://www.yna.co.kr/view/AKR20260327169700030",
@@ -137,21 +152,6 @@
       "title": "태백시, 통합공공임대주택 건립 본격화…2027년 준공 목표",
       "link": "https://www.yna.co.kr/view/AKR20260327147300062",
       "pubDate": "Sun, 29 Mar 2026 13:10:01 +0900"
-    },
-    {
-      "title": "롯데, 파트너사 임직원 초청 '동행 콘서트' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260329023900030",
-      "pubDate": "Sun, 29 Mar 2026 13:03:13 +0900"
-    },
-    {
-      "title": "중기 기술분쟁 소송보험 보장 확대…상표권 포함·최대 5건 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260329024300030",
-      "pubDate": "Sun, 29 Mar 2026 13:02:53 +0900"
-    },
-    {
-      "title": "KB시세로 3월 서울 강남구 아파트값 2년 만에 하락 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260329024400003",
-      "pubDate": "Sun, 29 Mar 2026 13:02:33 +0900"
     }
   ]
 }
