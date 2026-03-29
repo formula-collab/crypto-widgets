@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774819275,
+  "updated_at_unix": 1774821097,
   "items": [
+    {
+      "title": "[AI돋보기] 인간 상담원은 어디로…AI 콜센터 혁신일까",
+      "link": "https://www.yna.co.kr/view/AKR20260329035600017",
+      "pubDate": "Mon, 30 Mar 2026 06:33:00 +0900"
+    },
     {
       "title": "'4월 과학의달'…과학자 지원에 '진심'인 뷰티·식품기업은",
       "link": "https://www.yna.co.kr/view/AKR20260328014800030",
@@ -147,11 +152,6 @@
       "title": "AI가 중소기업 2만5천곳에 맞춤형 훈련지원…30개 센터 선정",
       "link": "https://www.yna.co.kr/view/AKR20260328023900530",
       "pubDate": "Sun, 29 Mar 2026 12:00:08 +0900"
-    },
-    {
-      "title": "[게시판] EU 탄소국경조정제 적용 기업 1대1 상담 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260328037800530",
-      "pubDate": "Sun, 29 Mar 2026 12:00:07 +0900"
     }
   ]
 }
