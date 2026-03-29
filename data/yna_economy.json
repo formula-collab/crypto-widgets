@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774770232,
+  "updated_at_unix": 1774772852,
   "items": [
+    {
+      "title": "金총리 \"마스크·요소수 기억 생생…생필품 수급 차질 선제대처\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260329028051001",
+      "pubDate": "Sun, 29 Mar 2026 17:08:58 +0900"
+    },
     {
       "title": "KB \"서울 오피스텔 매매가 14개월째 상승…오름폭 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260329031800003",
@@ -147,11 +152,6 @@
       "title": "쿠팡풀필먼트서비스, 대구서 채용박람회…330여명 지원",
       "link": "https://www.yna.co.kr/view/AKR20260329017800030",
       "pubDate": "Sun, 29 Mar 2026 10:37:44 +0900"
-    },
-    {
-      "title": "[게시판] 포스코이앤씨, 모든 구성원이 참여하는 AI 경진대회",
-      "link": "https://www.yna.co.kr/view/AKR20260329017400003",
-      "pubDate": "Sun, 29 Mar 2026 10:36:51 +0900"
     }
   ]
 }
