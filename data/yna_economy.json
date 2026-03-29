@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774763705,
+  "updated_at_unix": 1774767087,
   "items": [
+    {
+      "title": "KB \"서울 오피스텔 매매가 14개월째 상승…오름폭 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260329031800003",
+      "pubDate": "Sun, 29 Mar 2026 15:45:43 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260329028500011",
+      "pubDate": "Sun, 29 Mar 2026 15:00:00 +0900"
+    },
+    {
+      "title": "\"벤처 수 늘리기에 치우친 정책, 이제 전주기 지원으로 바꿔야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260329027600003",
+      "pubDate": "Sun, 29 Mar 2026 14:58:37 +0900"
+    },
     {
       "title": "[동정] 한국인문사회총연합회 이사장에 김정식 연세대 명예교수",
       "link": "https://www.yna.co.kr/view/AKR20260329024700002",
@@ -137,21 +152,6 @@
       "title": "[게시판] 포스코이앤씨, 모든 구성원이 참여하는 AI 경진대회",
       "link": "https://www.yna.co.kr/view/AKR20260329017400003",
       "pubDate": "Sun, 29 Mar 2026 10:36:51 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260329016100011",
-      "pubDate": "Sun, 29 Mar 2026 10:30:00 +0900"
-    },
-    {
-      "title": "정부, WTO 전자상거래협정 임시 이행 추진…66개국 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260329017200003",
-      "pubDate": "Sun, 29 Mar 2026 10:29:46 +0900"
-    },
-    {
-      "title": "GS건설, 중동 현장 임직원 해외수당 상향 등 특급 대우",
-      "link": "https://www.yna.co.kr/view/AKR20260329016500003",
-      "pubDate": "Sun, 29 Mar 2026 10:28:23 +0900"
     }
   ]
 }
