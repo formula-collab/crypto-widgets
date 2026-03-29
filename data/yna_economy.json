@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774817639,
+  "updated_at_unix": 1774819275,
   "items": [
+    {
+      "title": "'4월 과학의달'…과학자 지원에 '진심'인 뷰티·식품기업은",
+      "link": "https://www.yna.co.kr/view/AKR20260328014800030",
+      "pubDate": "Mon, 30 Mar 2026 06:15:00 +0900"
+    },
+    {
+      "title": "비싸도 '착한 계란'…동물복지란 점유율 4년새 '세 배'로 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20260328021400030",
+      "pubDate": "Mon, 30 Mar 2026 06:03:00 +0900"
+    },
+    {
+      "title": "울산 산학연관 협력해 소버린 AI 집적기반 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260328049400057",
+      "pubDate": "Mon, 30 Mar 2026 06:01:02 +0900"
+    },
+    {
+      "title": "서울 아파트 청약 시장, 4년째 '국평' 이하가 대세",
+      "link": "https://www.yna.co.kr/view/AKR20260329038200003",
+      "pubDate": "Mon, 30 Mar 2026 06:01:01 +0900"
+    },
+    {
+      "title": "'위상 커진' 개인정보위, 퇴직자 로펌행 지속…이해충돌 우려도",
+      "link": "https://www.yna.co.kr/view/AKR20260329029100530",
+      "pubDate": "Mon, 30 Mar 2026 06:01:00 +0900"
+    },
+    {
+      "title": "건설일용직 퇴직공제부금 6천500→8천700원 인상…노사정 합의",
+      "link": "https://www.yna.co.kr/view/AKR20260328022700530",
+      "pubDate": "Mon, 30 Mar 2026 06:00:11 +0900"
+    },
+    {
+      "title": "전문가와 함께 현장훈련으로 고민 해결…올해 47억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260327144200530",
+      "pubDate": "Mon, 30 Mar 2026 06:00:11 +0900"
+    },
+    {
+      "title": "작년 자산운용사 순익 67% 늘어 3조 돌파…ETF 열풍에 사상최대",
+      "link": "https://www.yna.co.kr/view/AKR20260328052800002",
+      "pubDate": "Mon, 30 Mar 2026 06:00:09 +0900"
+    },
+    {
+      "title": "작년 보험사 순이익 12조, 15% 줄어…자기자본은 19%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260328051700002",
+      "pubDate": "Mon, 30 Mar 2026 06:00:08 +0900"
+    },
+    {
+      "title": "'스타트업 지원' 서울창업허브M+ 입주기업 내달 15일까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260329026300004",
+      "pubDate": "Mon, 30 Mar 2026 06:00:06 +0900"
+    },
+    {
+      "title": "롯데마트, '메가통큰' 2주 차 행사…삼겹살 990원·생필품 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260329034300030",
+      "pubDate": "Mon, 30 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데백화점, '앰배서더 1기' 모집…인플루언서 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260329035500030",
+      "pubDate": "Mon, 30 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"4대 과기원생 절반은 대기업·전문직으로…11％만 창업 도전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260329035700003",
+      "pubDate": "Mon, 30 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "대법 \"본공사 부지 밖 임시시설은 개발제한구역 부담금 대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260329043800004",
+      "pubDate": "Mon, 30 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "BTS 컴백주말, 광화문 카드사용 0.5%↓…외국인 결제는 74% 뛰어",
+      "link": "https://www.yna.co.kr/view/AKR20260328053200002",
+      "pubDate": "Mon, 30 Mar 2026 05:55:01 +0900"
+    },
+    {
+      "title": "애플페이 2차 도입 초읽기?…토스뱅크, 당국 약관심사 마무리",
+      "link": "https://www.yna.co.kr/view/AKR20260329011100002",
+      "pubDate": "Mon, 30 Mar 2026 05:53:00 +0900"
+    },
+    {
+      "title": "\"8주 이상 치료 87.8% 한방\"…'8주룰' 지연에 보험료 논쟁 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260329006900002",
+      "pubDate": "Mon, 30 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "金총리 \"마스크·요소수 기억 생생…생필품 수급 차질 선제대처\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260329028051001",
@@ -67,91 +152,6 @@
       "title": "[게시판] EU 탄소국경조정제 적용 기업 1대1 상담 지원",
       "link": "https://www.yna.co.kr/view/AKR20260328037800530",
       "pubDate": "Sun, 29 Mar 2026 12:00:07 +0900"
-    },
-    {
-      "title": "중기중앙회·삼성, '대·중소 상생 스마트공장' 참여기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260327167300030",
-      "pubDate": "Sun, 29 Mar 2026 12:00:05 +0900"
-    },
-    {
-      "title": "산은·수은, 에너지 위기대응 긴급 간담회…석유공사 지원 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260328047200002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:04 +0900"
-    },
-    {
-      "title": "금감원, 코스닥 부실기업 엄정 감리…주기도 10년으로 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260328048200002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "공정위 '수급업자 영업비밀 무단' 요구 한세모빌리티에 과징금",
-      "link": "https://www.yna.co.kr/view/AKR20260328049000002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:03 +0900"
-    },
-    {
-      "title": "한은 금융결제망 오후 8시까지 운영…2.5시간 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260328055500002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"美 관세로 수입시장 韓 점유율 0.4%p↓…단가 하락은 부담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260328047100002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:02 +0900"
-    },
-    {
-      "title": "2030 노린 '연 6,800%' 불법사채업자 '이실장'…소비자경보 발령",
-      "link": "https://www.yna.co.kr/view/AKR20260329005100002",
-      "pubDate": "Sun, 29 Mar 2026 12:00:01 +0900"
-    },
-    {
-      "title": "롯데百, 만우절·식목일 맞아 이색 캠페인 '만식이 위크' 진행",
-      "link": "https://www.yna.co.kr/view/AKR20260329019100030",
-      "pubDate": "Sun, 29 Mar 2026 11:04:53 +0900"
-    },
-    {
-      "title": "유럽 홀린 K-뷰티…이탈리아 뷰티 전시회서 300억 현장계약",
-      "link": "https://www.yna.co.kr/view/AKR20260329018900003",
-      "pubDate": "Sun, 29 Mar 2026 11:04:44 +0900"
-    },
-    {
-      "title": "이재현 CJ회장, 명동올리브영 찾아 \"美서도 K뷰티 생태계 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329018800030",
-      "pubDate": "Sun, 29 Mar 2026 11:04:23 +0900"
-    },
-    {
-      "title": "농업경영주 배우자, 취업해도 농업인 자격 유지…30일부터 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260327155600030",
-      "pubDate": "Sun, 29 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "한우 씨수소, 유전체 분석으로 조기 선발…기간 5→1년 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260327153400030",
-      "pubDate": "Sun, 29 Mar 2026 11:00:03 +0900"
-    },
-    {
-      "title": "외식업체 매출 늘어도 수익 악화…2024년 영업이익률 8.7% 그쳐",
-      "link": "https://www.yna.co.kr/view/AKR20260328045100030",
-      "pubDate": "Sun, 29 Mar 2026 11:00:02 +0900"
-    },
-    {
-      "title": "지난 6개월간 공동주택 하자 판정 최다 건설사는 순영종합건설",
-      "link": "https://www.yna.co.kr/view/AKR20260329012300003",
-      "pubDate": "Sun, 29 Mar 2026 11:00:01 +0900"
-    },
-    {
-      "title": "구윤철 \"유가 120∼130달러되면 위기3단계…차량부제 민간에도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260329016300002",
-      "pubDate": "Sun, 29 Mar 2026 10:41:50 +0900"
-    },
-    {
-      "title": "다주택 저가 급매 팔린 뒤 거래 주춤…양도세 막판 매물 나올까",
-      "link": "https://www.yna.co.kr/view/AKR20260329017600003",
-      "pubDate": "Sun, 29 Mar 2026 10:40:02 +0900"
-    },
-    {
-      "title": "쿠팡풀필먼트서비스, 대구서 채용박람회…330여명 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260329017800030",
-      "pubDate": "Sun, 29 Mar 2026 10:37:44 +0900"
     }
   ]
 }
