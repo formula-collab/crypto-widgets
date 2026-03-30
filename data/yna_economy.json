@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774896222,
+  "updated_at_unix": 1774899982,
   "items": [
+    {
+      "title": "국제유가, 후티 참전에 상승세 지속…WTI 100달러 돌파 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260331005500072",
+      "pubDate": "Tue, 31 Mar 2026 04:30:33 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 후티 참전에 트럼프 위협까지…WTI 결국 100달러 넘겨 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260331005200009",
+      "pubDate": "Tue, 31 Mar 2026 04:00:54 +0900"
+    },
     {
       "title": "美연준 파월 \"현 통화정책, 이란전쟁 영향 지켜보기 좋은 위치\"",
       "link": "https://www.yna.co.kr/view/AKR20260331004000072",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.542%",
       "link": "https://www.yna.co.kr/view/AKR20260330142100008",
       "pubDate": "Mon, 30 Mar 2026 16:40:40 +0900"
-    },
-    {
-      "title": "경남도, 산업인력조정협의체 신설…맞춤형 인재 양성 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260330141800052",
-      "pubDate": "Mon, 30 Mar 2026 16:39:18 +0900"
-    },
-    {
-      "title": "오세훈, 국가유산청장과 회동…세운4구역 관련 TF 곧 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260330138900004",
-      "pubDate": "Mon, 30 Mar 2026 16:35:33 +0900"
     }
   ]
 }
