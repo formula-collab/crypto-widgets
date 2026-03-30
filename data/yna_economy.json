@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774892572,
+  "updated_at_unix": 1774896222,
   "items": [
+    {
+      "title": "美연준 파월 \"현 통화정책, 이란전쟁 영향 지켜보기 좋은 위치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331004000072",
+      "pubDate": "Tue, 31 Mar 2026 03:33:48 +0900"
+    },
+    {
+      "title": "달러-원, 글로벌 성장 우려 부상 속 상승폭 확대…1,518.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260331003700002",
+      "pubDate": "Tue, 31 Mar 2026 02:56:15 +0900"
+    },
     {
       "title": "성일하이텍 \"미국 종속회사 주식 181억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260330170000008",
@@ -142,16 +152,6 @@
       "title": "오세훈, 국가유산청장과 회동…세운4구역 관련 TF 곧 구성",
       "link": "https://www.yna.co.kr/view/AKR20260330138900004",
       "pubDate": "Mon, 30 Mar 2026 16:35:33 +0900"
-    },
-    {
-      "title": "[속보] 원/달러 환율, 1,520원 넘어…금융위기 이후 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260330141100002",
-      "pubDate": "Mon, 30 Mar 2026 16:34:06 +0900"
-    },
-    {
-      "title": "제주삼다수 이벤트 경품으로 지역화폐 '탐나는전' 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260330067000056",
-      "pubDate": "Mon, 30 Mar 2026 16:30:01 +0900"
     }
   ]
 }
