@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774864302,
+  "updated_at_unix": 1774867987,
   "items": [
+    {
+      "title": "HUG, 작년 당기순이익 1.6조원…4년 만에 흑자 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260330169100003",
+      "pubDate": "Mon, 30 Mar 2026 19:46:23 +0900"
+    },
+    {
+      "title": "오픈엣지테크놀로지, 200억원 유상증자…에이티넘성장투자조합2023에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260330164800008",
+      "pubDate": "Mon, 30 Mar 2026 18:58:39 +0900"
+    },
     {
       "title": "금융지주, 중동사태 대응에 53조 공급…車보험료·주유카드 할인",
       "link": "https://www.yna.co.kr/view/AKR20260330106600002",
@@ -142,16 +152,6 @@
       "title": "대구시, 2025년 소비자상담 2만7천여건…전년 대비 12.9%↑",
       "link": "https://www.yna.co.kr/view/AKR20260330136900053",
       "pubDate": "Mon, 30 Mar 2026 16:24:39 +0900"
-    },
-    {
-      "title": "삼천당제약, 미국서 경구용 세마글루타이드 독점 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260330137100017",
-      "pubDate": "Mon, 30 Mar 2026 16:22:30 +0900"
-    },
-    {
-      "title": "고액 주담대 가산금리 오른다…4월부터 최대 0.25%p↑",
-      "link": "https://www.yna.co.kr/view/AKR20260330124200002",
-      "pubDate": "Mon, 30 Mar 2026 16:18:52 +0900"
     }
   ]
 }
