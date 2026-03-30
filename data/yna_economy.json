@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774911658,
+  "updated_at_unix": 1774914957,
   "items": [
+    {
+      "title": "DS투자 \"미국발 LNG선 수요 급증에 보냉제 기업 실적개선 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331027200008",
+      "pubDate": "Tue, 31 Mar 2026 08:47:27 +0900"
+    },
+    {
+      "title": "키움證 \"삼양식품, 고유가발 원가상승에도 판매가로 전가 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331029500008",
+      "pubDate": "Tue, 31 Mar 2026 08:47:10 +0900"
+    },
+    {
+      "title": "하나은행, 신보·콘진원과 K콘텐츠 지원 협약…10억원 출연",
+      "link": "https://www.yna.co.kr/view/AKR20260331030000002",
+      "pubDate": "Tue, 31 Mar 2026 08:47:00 +0900"
+    },
+    {
+      "title": "유안타증권 \"종근당, 심방세동 신약 기대…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331025600008",
+      "pubDate": "Tue, 31 Mar 2026 08:40:50 +0900"
+    },
+    {
+      "title": "부산 2월 광공업 생산, 작년보다 17.1% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260331029000051",
+      "pubDate": "Tue, 31 Mar 2026 08:40:17 +0900"
+    },
+    {
+      "title": "KGC인삼공사, CI서 '인삼공사' 뗐다…\"종합건강식품기업 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331026500030",
+      "pubDate": "Tue, 31 Mar 2026 08:36:29 +0900"
+    },
+    {
+      "title": "삼성증권 \"OCI, 전 사업부 실적 동반 회복 기대…목표가 13만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331025000008",
+      "pubDate": "Tue, 31 Mar 2026 08:33:55 +0900"
+    },
+    {
+      "title": "KB증권 \"비에이치, 폴더블 아이폰 출시 수혜…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331024900008",
+      "pubDate": "Tue, 31 Mar 2026 08:32:30 +0900"
+    },
+    {
+      "title": "GTX-B 본사, 인천 송도에 둥지…열차 운행 총괄",
+      "link": "https://www.yna.co.kr/view/AKR20260331019500065",
+      "pubDate": "Tue, 31 Mar 2026 08:30:07 +0900"
+    },
+    {
+      "title": "오리온그룹, 월드비전 '학교폭력 예방 캠페인'에 1억원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260331025700030",
+      "pubDate": "Tue, 31 Mar 2026 08:27:06 +0900"
+    },
+    {
+      "title": "중진공, 윤리·인권경영 기반 마련…\"존중 문화 내실화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331024500030",
+      "pubDate": "Tue, 31 Mar 2026 08:16:52 +0900"
+    },
+    {
+      "title": "한투증권, 롯데쇼핑 목표가↑…\"소비 반등·홈플러스 폐점 수혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331023200008",
+      "pubDate": "Tue, 31 Mar 2026 08:13:04 +0900"
+    },
+    {
+      "title": "'삼일절' 날짜 바로 위 日후지산·오사카성…금융기관 달력 눈살",
+      "link": "https://www.yna.co.kr/view/AKR20260330173800371",
+      "pubDate": "Tue, 31 Mar 2026 08:10:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] 이란발 위기 속 반도체까지 흔들…'사면초가' 韓증시",
+      "link": "https://www.yna.co.kr/view/AKR20260331023000008",
+      "pubDate": "Tue, 31 Mar 2026 08:09:30 +0900"
+    },
+    {
+      "title": "부산시, 서부산행정복합타운 시공사로 태영건설 컨소시엄 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260331020600051",
+      "pubDate": "Tue, 31 Mar 2026 08:04:23 +0900"
+    },
+    {
+      "title": "부산시, 사상공업지역 입주기업과 중동사태 피해 최소화 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260331020300051",
+      "pubDate": "Tue, 31 Mar 2026 08:02:09 +0900"
+    },
+    {
+      "title": "[2보] 2월 산업생산 2.5%↑, 5년8개월만에 최대폭…중동사태 미반영",
+      "link": "https://www.yna.co.kr/view/AKR20260331017651002",
+      "pubDate": "Tue, 31 Mar 2026 08:00:09 +0900"
+    },
+    {
+      "title": "9월 '공무직위원회' 재출범 준비…'노정전 협의체' 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260330142700530",
+      "pubDate": "Tue, 31 Mar 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[1보] 2월 산업생산 2.5% 증가…소비 '보합', 투자 13.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260331017600002",
+      "pubDate": "Tue, 31 Mar 2026 08:00:03 +0900"
+    },
+    {
+      "title": "울산 석유화학업에 취업하면 최대 200만원 장려금",
+      "link": "https://www.yna.co.kr/view/AKR20260330176600057",
+      "pubDate": "Tue, 31 Mar 2026 07:58:56 +0900"
+    },
     {
       "title": "SK네트웍스 \"업스테이지 주식 500억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260331019400008",
@@ -52,106 +152,6 @@
       "title": "새만금 농생명용지에 106㏊ 규모 조사료 종자 생산단지",
       "link": "https://www.yna.co.kr/view/AKR20260330120400030",
       "pubDate": "Tue, 31 Mar 2026 06:00:10 +0900"
-    },
-    {
-      "title": "작년 말 국내은행 자본비율 0.09%p↓…\"배당 확대·고환율\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330123900002",
-      "pubDate": "Tue, 31 Mar 2026 06:00:09 +0900"
-    },
-    {
-      "title": "'악성 미분양' 14년만에 3만가구 넘어…86.3%가 지방",
-      "link": "https://www.yna.co.kr/view/AKR20260330150200003",
-      "pubDate": "Tue, 31 Mar 2026 06:00:05 +0900"
-    },
-    {
-      "title": "신규화학물질 86종 공표…사업주에 국소배기장치 설치 등 통보",
-      "link": "https://www.yna.co.kr/view/AKR20260330151900530",
-      "pubDate": "Tue, 31 Mar 2026 06:00:05 +0900"
-    },
-    {
-      "title": "지난달 케이뱅크 IPO에 주식발행 3배로↑…회사채 두달째 순상환",
-      "link": "https://www.yna.co.kr/view/AKR20260330157600002",
-      "pubDate": "Tue, 31 Mar 2026 06:00:03 +0900"
-    },
-    {
-      "title": "산업부·코트라, 외투기업 채용설명회 10회로 대폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260330169900003",
-      "pubDate": "Tue, 31 Mar 2026 06:00:02 +0900"
-    },
-    {
-      "title": "중견기업 일자리 박람회…\"올해 2천여명 신규채용 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330169400003",
-      "pubDate": "Tue, 31 Mar 2026 06:00:01 +0900"
-    },
-    {
-      "title": "산업부, 작년 전국 순회 카라반으로 외국인투자 16.8억달러 발굴",
-      "link": "https://www.yna.co.kr/view/AKR20260330169300003",
-      "pubDate": "Tue, 31 Mar 2026 06:00:00 +0900"
-    },
-    {
-      "title": "수은 \"중동발 충격에 주력 제조업 전반 조업 차질 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330150700002",
-      "pubDate": "Tue, 31 Mar 2026 05:51:00 +0900"
-    },
-    {
-      "title": "與, 서울시장 본경선 첫 토론회…부동산·교통 놓고 격돌",
-      "link": "https://www.yna.co.kr/view/AKR20260330159100001",
-      "pubDate": "Tue, 31 Mar 2026 05:00:06 +0900"
-    },
-    {
-      "title": "국제유가, 후티 참전에 상승세 지속…WTI 100달러 돌파 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260331005500072",
-      "pubDate": "Tue, 31 Mar 2026 04:30:33 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 후티 참전에 트럼프 위협까지…WTI 결국 100달러 넘겨 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260331005200009",
-      "pubDate": "Tue, 31 Mar 2026 04:00:54 +0900"
-    },
-    {
-      "title": "美연준 파월 \"현 통화정책, 이란전쟁 영향 지켜보기 좋은 위치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331004000072",
-      "pubDate": "Tue, 31 Mar 2026 03:33:48 +0900"
-    },
-    {
-      "title": "달러-원, 글로벌 성장 우려 부상 속 상승폭 확대…1,518.20원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260331003700002",
-      "pubDate": "Tue, 31 Mar 2026 02:56:15 +0900"
-    },
-    {
-      "title": "성일하이텍 \"미국 종속회사 주식 181억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330170000008",
-      "pubDate": "Mon, 30 Mar 2026 22:53:39 +0900"
-    },
-    {
-      "title": "한인 경제인 한자리에…월드옥타 세계대표자대회 서울서 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260330173700371",
-      "pubDate": "Mon, 30 Mar 2026 21:21:05 +0900"
-    },
-    {
-      "title": "배민, 위장취업자 정보악용에 사과…개인정보위 조사착수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260330127251030",
-      "pubDate": "Mon, 30 Mar 2026 21:19:16 +0900"
-    },
-    {
-      "title": "사우디 경질유 5월 가격 역대급 폭등할듯…아시아 정유사 '비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260330172300009",
-      "pubDate": "Mon, 30 Mar 2026 21:03:29 +0900"
-    },
-    {
-      "title": "HUG, 작년 당기순이익 1.6조원…4년 만에 흑자 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260330169100003",
-      "pubDate": "Mon, 30 Mar 2026 19:46:23 +0900"
-    },
-    {
-      "title": "오픈엣지테크놀로지, 200억원 유상증자…에이티넘성장투자조합2023에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260330164800008",
-      "pubDate": "Mon, 30 Mar 2026 18:58:39 +0900"
-    },
-    {
-      "title": "금융지주, 중동사태 대응에 53조 공급…車보험료·주유카드 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260330106600002",
-      "pubDate": "Mon, 30 Mar 2026 18:44:16 +0900"
     }
   ]
 }
