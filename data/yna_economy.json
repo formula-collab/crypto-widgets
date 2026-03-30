@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774902823,
+  "updated_at_unix": 1774906314,
   "items": [
+    {
+      "title": "포장재 대란에 소상공인 '시름'…\"4월이 더 문제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330156100030",
+      "pubDate": "Tue, 31 Mar 2026 06:15:01 +0900"
+    },
+    {
+      "title": "'고용평등 임금공시제' 도입 어떻게…고용평등정책 포럼 첫 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260330131700530",
+      "pubDate": "Tue, 31 Mar 2026 06:00:48 +0900"
+    },
+    {
+      "title": "중기부, '위기징후' 소상공인에게 정책지원 '알림톡' 발송",
+      "link": "https://www.yna.co.kr/view/AKR20260330122200030",
+      "pubDate": "Tue, 31 Mar 2026 06:00:28 +0900"
+    },
+    {
+      "title": "새만금 농생명용지에 106㏊ 규모 조사료 종자 생산단지",
+      "link": "https://www.yna.co.kr/view/AKR20260330120400030",
+      "pubDate": "Tue, 31 Mar 2026 06:00:10 +0900"
+    },
+    {
+      "title": "작년 말 국내은행 자본비율 0.09%p↓…\"배당 확대·고환율\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330123900002",
+      "pubDate": "Tue, 31 Mar 2026 06:00:09 +0900"
+    },
+    {
+      "title": "'악성 미분양' 14년만에 3만가구 넘어…86.3%가 지방",
+      "link": "https://www.yna.co.kr/view/AKR20260330150200003",
+      "pubDate": "Tue, 31 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "신규화학물질 86종 공표…사업주에 국소배기장치 설치 등 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260330151900530",
+      "pubDate": "Tue, 31 Mar 2026 06:00:05 +0900"
+    },
+    {
+      "title": "지난달 케이뱅크 IPO에 주식발행 3배로↑…회사채 두달째 순상환",
+      "link": "https://www.yna.co.kr/view/AKR20260330157600002",
+      "pubDate": "Tue, 31 Mar 2026 06:00:03 +0900"
+    },
+    {
+      "title": "산업부·코트라, 외투기업 채용설명회 10회로 대폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260330169900003",
+      "pubDate": "Tue, 31 Mar 2026 06:00:02 +0900"
+    },
+    {
+      "title": "중견기업 일자리 박람회…\"올해 2천여명 신규채용 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330169400003",
+      "pubDate": "Tue, 31 Mar 2026 06:00:01 +0900"
+    },
+    {
+      "title": "산업부, 작년 전국 순회 카라반으로 외국인투자 16.8억달러 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260330169300003",
+      "pubDate": "Tue, 31 Mar 2026 06:00:00 +0900"
+    },
+    {
+      "title": "수은 \"중동발 충격에 주력 제조업 전반 조업 차질 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330150700002",
+      "pubDate": "Tue, 31 Mar 2026 05:51:00 +0900"
+    },
     {
       "title": "與, 서울시장 본경선 첫 토론회…부동산·교통 놓고 격돌",
       "link": "https://www.yna.co.kr/view/AKR20260330159100001",
@@ -92,66 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260330150900011",
       "pubDate": "Mon, 30 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "한국씨티은행 작년 순익 3천74억원, 1.5%↓…이자 수익 35% 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260330154700002",
-      "pubDate": "Mon, 30 Mar 2026 17:55:15 +0900"
-    },
-    {
-      "title": "가상자산사업자 진입규제 강화…'트래블룰'도 100만원 미만 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260330154500002",
-      "pubDate": "Mon, 30 Mar 2026 17:53:49 +0900"
-    },
-    {
-      "title": "끝 안 보이는 중동전쟁…환율 1,520원 넘고 코스피 5,300 아래로",
-      "link": "https://www.yna.co.kr/view/AKR20260330151600002",
-      "pubDate": "Mon, 30 Mar 2026 17:47:06 +0900"
-    },
-    {
-      "title": "네이버파이낸셜·두나무, 포괄적 주식교환 일정 3개월 연기",
-      "link": "https://www.yna.co.kr/view/AKR20260330152100017",
-      "pubDate": "Mon, 30 Mar 2026 17:30:15 +0900"
-    },
-    {
-      "title": "선진 \"자회사 하림푸드 주식 600억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330151300008",
-      "pubDate": "Mon, 30 Mar 2026 17:26:24 +0900"
-    },
-    {
-      "title": "포항 대표 농산물 시금치 캐나다 첫 수출…\"향·식감 뛰어나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330149800053",
-      "pubDate": "Mon, 30 Mar 2026 17:25:01 +0900"
-    },
-    {
-      "title": "건양대, 논산딸기축제서 학생 창업 기업 우수 제품 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260330145500063",
-      "pubDate": "Mon, 30 Mar 2026 16:59:25 +0900"
-    },
-    {
-      "title": "[테크스냅] NIA·사학진흥재단, 교육 행정 AI 혁신 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260330144200017",
-      "pubDate": "Mon, 30 Mar 2026 16:59:23 +0900"
-    },
-    {
-      "title": "에이비엘바이오 \"종속회사 네옥바이오 주식 377억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260330146000008",
-      "pubDate": "Mon, 30 Mar 2026 16:59:04 +0900"
-    },
-    {
-      "title": "'너무 올랐나' 국고채 금리 일제히↓…3년물 연 3.542%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260330142151008",
-      "pubDate": "Mon, 30 Mar 2026 16:56:37 +0900"
-    },
-    {
-      "title": "환율, 중동발 불안에 1,520원 넘어…금융위기 이후 처음(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260330032052002",
-      "pubDate": "Mon, 30 Mar 2026 16:46:09 +0900"
-    },
-    {
-      "title": "[과학스냅] 과학기자협회, 공업화학회와 대국민 인식 제고 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260330142800017",
-      "pubDate": "Mon, 30 Mar 2026 16:44:06 +0900"
     }
   ]
 }
