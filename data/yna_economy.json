@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774899982,
+  "updated_at_unix": 1774902823,
   "items": [
+    {
+      "title": "與, 서울시장 본경선 첫 토론회…부동산·교통 놓고 격돌",
+      "link": "https://www.yna.co.kr/view/AKR20260330159100001",
+      "pubDate": "Tue, 31 Mar 2026 05:00:06 +0900"
+    },
     {
       "title": "국제유가, 후티 참전에 상승세 지속…WTI 100달러 돌파 마감",
       "link": "https://www.yna.co.kr/view/AKR20260331005500072",
@@ -147,11 +152,6 @@
       "title": "[과학스냅] 과학기자협회, 공업화학회와 대국민 인식 제고 협약",
       "link": "https://www.yna.co.kr/view/AKR20260330142800017",
       "pubDate": "Mon, 30 Mar 2026 16:44:06 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.542%",
-      "link": "https://www.yna.co.kr/view/AKR20260330142100008",
-      "pubDate": "Mon, 30 Mar 2026 16:40:40 +0900"
     }
   ]
 }
