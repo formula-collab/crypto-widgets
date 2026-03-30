@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774909370,
+  "updated_at_unix": 1774911658,
   "items": [
+    {
+      "title": "SK네트웍스 \"업스테이지 주식 500억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331019400008",
+      "pubDate": "Tue, 31 Mar 2026 07:41:29 +0900"
+    },
+    {
+      "title": "한국, 요르단과 경제무역협력협정 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260331017100504",
+      "pubDate": "Tue, 31 Mar 2026 07:34:50 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260331015400011",
+      "pubDate": "Tue, 31 Mar 2026 07:30:01 +0900"
+    },
+    {
+      "title": "'삼전닉스' 고점서 20% 하락에도…증권가 실적전망 상향 이유는",
+      "link": "https://www.yna.co.kr/view/AKR20260330166800008",
+      "pubDate": "Tue, 31 Mar 2026 07:20:01 +0900"
+    },
     {
       "title": "중동전쟁 한달 만에 시총 840조원 증발…'삼전닉스'만 372조원↓",
       "link": "https://www.yna.co.kr/view/AKR20260330139900008",
@@ -132,26 +152,6 @@
       "title": "금융지주, 중동사태 대응에 53조 공급…車보험료·주유카드 할인",
       "link": "https://www.yna.co.kr/view/AKR20260330106600002",
       "pubDate": "Mon, 30 Mar 2026 18:44:16 +0900"
-    },
-    {
-      "title": "유료화 가까워진 '국중박'…정부, 국립시설 이용료 현실화 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260330150600002",
-      "pubDate": "Mon, 30 Mar 2026 18:37:07 +0900"
-    },
-    {
-      "title": "니어스랩 등 4개사, 코스닥 상장예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260330161300008",
-      "pubDate": "Mon, 30 Mar 2026 18:28:31 +0900"
-    },
-    {
-      "title": "[속보] 여야, 내달 10일까지 '중동 사태' 추경 합의 처리키로",
-      "link": "https://www.yna.co.kr/view/AKR20260330159700001",
-      "pubDate": "Mon, 30 Mar 2026 18:15:24 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260330159400002",
-      "pubDate": "Mon, 30 Mar 2026 18:12:49 +0900"
     }
   ]
 }
