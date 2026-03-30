@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774875043,
+  "updated_at_unix": 1774880381,
   "items": [
+    {
+      "title": "성일하이텍 \"미국 종속회사 주식 181억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260330170000008",
+      "pubDate": "Mon, 30 Mar 2026 22:53:39 +0900"
+    },
     {
       "title": "한인 경제인 한자리에…월드옥타 세계대표자대회 서울서 개막",
       "link": "https://www.yna.co.kr/view/AKR20260330173700371",
@@ -147,11 +152,6 @@
       "title": "제주삼다수 이벤트 경품으로 지역화폐 '탐나는전' 지급",
       "link": "https://www.yna.co.kr/view/AKR20260330067000056",
       "pubDate": "Mon, 30 Mar 2026 16:30:01 +0900"
-    },
-    {
-      "title": "충남도, 중동발 위기 대응 점검…도·시군 공동 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260330118600063",
-      "pubDate": "Mon, 30 Mar 2026 16:30:00 +0900"
     }
   ]
 }
