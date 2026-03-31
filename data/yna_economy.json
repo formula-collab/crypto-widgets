@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774967071,
+  "updated_at_unix": 1774971769,
   "items": [
+    {
+      "title": "鄭 \"필승카드\"…朴 \"吳에 감사?\"·全 \"공약 속빈강정\" 견제구(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260331204151001",
+      "pubDate": "Wed, 1 Apr 2026 00:02:03 +0900"
+    },
     {
       "title": "공정위 전속고발권 폐지 기로…李대통령 \"지자체 고발권 검토\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260331095452002",
@@ -147,11 +152,6 @@
       "title": "'3대 패키지' 10조원 국비·지방비 분담 8대 2…지자체 반발",
       "link": "https://www.yna.co.kr/view/AKR20260331169400063",
       "pubDate": "Tue, 31 Mar 2026 17:39:50 +0900"
-    },
-    {
-      "title": "교보생명, 작년 당기순이익 7천523억원…전년 대비 12.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260331179700002",
-      "pubDate": "Tue, 31 Mar 2026 17:37:59 +0900"
     }
   ]
 }
