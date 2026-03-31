@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774953772,
+  "updated_at_unix": 1774957157,
   "items": [
+    {
+      "title": "'아크로 드 서초' 특공에 1만9천여명 몰려…경쟁률 751대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260331198900003",
+      "pubDate": "Tue, 31 Mar 2026 20:20:16 +0900"
+    },
+    {
+      "title": "대한항공, 중동발 위기에 비상경영…한진그룹 항공사 모두 동참(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260331075502003",
+      "pubDate": "Tue, 31 Mar 2026 20:14:11 +0900"
+    },
+    {
+      "title": "'더샵신길센트럴시티' 1순위 청약 경쟁률 31.9대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260331198400003",
+      "pubDate": "Tue, 31 Mar 2026 20:05:48 +0900"
+    },
+    {
+      "title": "외국계 금융기관 \"WGBI편입, 500억∼600억달러 신규자금 유입할듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331196800002",
+      "pubDate": "Tue, 31 Mar 2026 20:05:18 +0900"
+    },
     {
       "title": "유투바이오, 59억원 유상증자…이수지에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260331190700008",
@@ -132,26 +152,6 @@
       "title": "어항에 쇼핑센터·음식점 설치 허용 \"어촌 경제 활성화 기대\"",
       "link": "https://www.yna.co.kr/view/AKR20260331176700051",
       "pubDate": "Tue, 31 Mar 2026 17:24:25 +0900"
-    },
-    {
-      "title": "홍익표 \"7월 보유세 인상? 전혀 논의 없어…최후수단이 정부입장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331172000001",
-      "pubDate": "Tue, 31 Mar 2026 17:21:47 +0900"
-    },
-    {
-      "title": "롯데물산, 양평동 롯데칠성 부동산 2천800억원에 매입(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331124751030",
-      "pubDate": "Tue, 31 Mar 2026 17:11:48 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.552%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331167951008",
-      "pubDate": "Tue, 31 Mar 2026 17:09:47 +0900"
-    },
-    {
-      "title": "부천 아파트서 리콜 대상 김치냉장고에 불…339만원 피해",
-      "link": "https://www.yna.co.kr/view/AKR20260331173800065",
-      "pubDate": "Tue, 31 Mar 2026 17:09:09 +0900"
     }
   ]
 }
