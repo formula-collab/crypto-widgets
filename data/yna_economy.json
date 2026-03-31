@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774997695,
+  "updated_at_unix": 1774999403,
   "items": [
+    {
+      "title": "[마켓뷰] 하루 만에 뒤집힌 분위기…되살아난 조기종전 기대감",
+      "link": "https://www.yna.co.kr/view/AKR20260401021800008",
+      "pubDate": "Wed, 1 Apr 2026 07:59:01 +0900"
+    },
+    {
+      "title": "부산 해운대·기장에 교통카드 접촉없는 태그리스 결제 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260401022000051",
+      "pubDate": "Wed, 1 Apr 2026 07:54:40 +0900"
+    },
+    {
+      "title": "SK에어코어, 울산에 산업용 가스 생산시설 구축…1천200억 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260331195200057",
+      "pubDate": "Wed, 1 Apr 2026 07:54:04 +0900"
+    },
     {
       "title": "강남구, 중소기업·소상공인에 250억원 융자지원",
       "link": "https://www.yna.co.kr/view/AKR20260401020900004",
@@ -137,21 +152,6 @@
       "title": "유투바이오, 59억원 유상증자…이수지에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260331190700008",
       "pubDate": "Tue, 31 Mar 2026 18:52:46 +0900"
-    },
-    {
-      "title": "삼익악기 \"미국 계열사 주식 151억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331189200008",
-      "pubDate": "Tue, 31 Mar 2026 18:34:47 +0900"
-    },
-    {
-      "title": "현대차, 58년 만에 노후 울산공장 일부 재건축 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260331188500057",
-      "pubDate": "Tue, 31 Mar 2026 18:33:44 +0900"
-    },
-    {
-      "title": "HS효성첨단소재 \"벨기에 계열사 주식 1천40억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331188000008",
-      "pubDate": "Tue, 31 Mar 2026 18:24:21 +0900"
     }
   ]
 }
