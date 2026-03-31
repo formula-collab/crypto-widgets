@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774950780,
+  "updated_at_unix": 1774953772,
   "items": [
+    {
+      "title": "유투바이오, 59억원 유상증자…이수지에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260331190700008",
+      "pubDate": "Tue, 31 Mar 2026 18:52:46 +0900"
+    },
     {
       "title": "삼익악기 \"미국 계열사 주식 151억원에 추가취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260331189200008",
@@ -147,11 +152,6 @@
       "title": "부천 아파트서 리콜 대상 김치냉장고에 불…339만원 피해",
       "link": "https://www.yna.co.kr/view/AKR20260331173800065",
       "pubDate": "Tue, 31 Mar 2026 17:09:09 +0900"
-    },
-    {
-      "title": "전주시 \"종량제봉투 수급 문제없어\"…내달 300만장 공급(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331083851055",
-      "pubDate": "Tue, 31 Mar 2026 17:04:21 +0900"
     }
   ]
 }
