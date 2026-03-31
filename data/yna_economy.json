@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774994463,
+  "updated_at_unix": 1774997695,
   "items": [
+    {
+      "title": "강남구, 중소기업·소상공인에 250억원 융자지원",
+      "link": "https://www.yna.co.kr/view/AKR20260401020900004",
+      "pubDate": "Wed, 1 Apr 2026 07:51:05 +0900"
+    },
+    {
+      "title": "셀레믹스 116억원 유증…수피이머징신기술투자조합 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260401019300008",
+      "pubDate": "Wed, 1 Apr 2026 07:33:00 +0900"
+    },
+    {
+      "title": "콜롬비아 중앙은행, 두달새 금리 2% 포인트 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260401018400087",
+      "pubDate": "Wed, 1 Apr 2026 07:31:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260401015900011",
+      "pubDate": "Wed, 1 Apr 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[현장in] 빛바랜 2조원대 카지노리조트의 꿈…영종도 흉물 전락",
+      "link": "https://www.yna.co.kr/view/AKR20260331051500065",
+      "pubDate": "Wed, 1 Apr 2026 07:17:00 +0900"
+    },
     {
       "title": "[게시판] '안전한 일터 조성' 현장 노하우 담은 숏폼 영상 공모",
       "link": "https://www.yna.co.kr/view/AKR20260331143200530",
@@ -127,31 +152,6 @@
       "title": "HS효성첨단소재 \"벨기에 계열사 주식 1천40억원에 취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260331188000008",
       "pubDate": "Tue, 31 Mar 2026 18:24:21 +0900"
-    },
-    {
-      "title": "한-UAE CEPA 비준동의안, 국회 통과…국내 절차 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260331187100003",
-      "pubDate": "Tue, 31 Mar 2026 18:20:45 +0900"
-    },
-    {
-      "title": "KS인더스트리 \"인스코비 주식 100억원어치 취득…지분율 13.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331185000008",
-      "pubDate": "Tue, 31 Mar 2026 18:17:20 +0900"
-    },
-    {
-      "title": "[인사] 지식재산처",
-      "link": "https://www.yna.co.kr/view/AKR20260331186400063",
-      "pubDate": "Tue, 31 Mar 2026 18:14:25 +0900"
-    },
-    {
-      "title": "호텔롯데, 작년 영업이익 2천294억원…흑자 전환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331168100030",
-      "pubDate": "Tue, 31 Mar 2026 18:03:45 +0900"
-    },
-    {
-      "title": "녹십자홀딩스 \"계열사 녹십자웰빙 주식 505억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331183600008",
-      "pubDate": "Tue, 31 Mar 2026 18:03:42 +0900"
     }
   ]
 }
