@@ -1,8 +1,118 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774946129,
+  "updated_at_unix": 1774950780,
   "items": [
+    {
+      "title": "삼익악기 \"미국 계열사 주식 151억원에 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331189200008",
+      "pubDate": "Tue, 31 Mar 2026 18:34:47 +0900"
+    },
+    {
+      "title": "현대차, 58년 만에 노후 울산공장 일부 재건축 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260331188500057",
+      "pubDate": "Tue, 31 Mar 2026 18:33:44 +0900"
+    },
+    {
+      "title": "HS효성첨단소재 \"벨기에 계열사 주식 1천40억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331188000008",
+      "pubDate": "Tue, 31 Mar 2026 18:24:21 +0900"
+    },
+    {
+      "title": "한-UAE CEPA 비준동의안, 국회 통과…국내 절차 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260331187100003",
+      "pubDate": "Tue, 31 Mar 2026 18:20:45 +0900"
+    },
+    {
+      "title": "KS인더스트리 \"인스코비 주식 100억원어치 취득…지분율 13.7%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331185000008",
+      "pubDate": "Tue, 31 Mar 2026 18:17:20 +0900"
+    },
+    {
+      "title": "[인사] 지식재산처",
+      "link": "https://www.yna.co.kr/view/AKR20260331186400063",
+      "pubDate": "Tue, 31 Mar 2026 18:14:25 +0900"
+    },
+    {
+      "title": "호텔롯데, 작년 영업이익 2천294억원…흑자 전환(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260331168100030",
+      "pubDate": "Tue, 31 Mar 2026 18:03:45 +0900"
+    },
+    {
+      "title": "녹십자홀딩스 \"계열사 녹십자웰빙 주식 505억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331183600008",
+      "pubDate": "Tue, 31 Mar 2026 18:03:42 +0900"
+    },
+    {
+      "title": "롯데물산, 양평동 롯데칠성 땅 사들여 '한강뷰 아파트' 개발(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260331124752030",
+      "pubDate": "Tue, 31 Mar 2026 18:02:18 +0900"
+    },
+    {
+      "title": "하이브 \"미국 자회사 주식 1천508억원에 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331183700008",
+      "pubDate": "Tue, 31 Mar 2026 18:02:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260331179400011",
+      "pubDate": "Tue, 31 Mar 2026 18:00:01 +0900"
+    },
+    {
+      "title": "인스코비, 100억원 유상증자…케이에스인더스트리에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260331182200008",
+      "pubDate": "Tue, 31 Mar 2026 17:55:28 +0900"
+    },
+    {
+      "title": "롯데건설, 작년 원가율·부채비율 하락…우발채무도 감축",
+      "link": "https://www.yna.co.kr/view/AKR20260331181800003",
+      "pubDate": "Tue, 31 Mar 2026 17:51:47 +0900"
+    },
+    {
+      "title": "KAIST 개발 '개인 맞춤형 응답·학습 AI 반도체' 놓고 신경전",
+      "link": "https://www.yna.co.kr/view/AKR20260331178100063",
+      "pubDate": "Tue, 31 Mar 2026 17:48:28 +0900"
+    },
+    {
+      "title": "서학개미 복귀시 양도세 최대 100% 면제…노동절도 법정공휴일(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260331144851001",
+      "pubDate": "Tue, 31 Mar 2026 17:46:17 +0900"
+    },
+    {
+      "title": "FTA 피해보전직불제 연장법안 국회 통과…\"농가소득안정 기여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331181000030",
+      "pubDate": "Tue, 31 Mar 2026 17:45:17 +0900"
+    },
+    {
+      "title": "토스뱅크 작년 순이익 968억원, 112%↑…2년 연속 흑자",
+      "link": "https://www.yna.co.kr/view/AKR20260331181300002",
+      "pubDate": "Tue, 31 Mar 2026 17:44:40 +0900"
+    },
+    {
+      "title": "'3대 패키지' 10조원 국비·지방비 분담 8대 2…지자체 반발",
+      "link": "https://www.yna.co.kr/view/AKR20260331169400063",
+      "pubDate": "Tue, 31 Mar 2026 17:39:50 +0900"
+    },
+    {
+      "title": "교보생명, 작년 당기순이익 7천523억원…전년 대비 12.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260331179700002",
+      "pubDate": "Tue, 31 Mar 2026 17:37:59 +0900"
+    },
+    {
+      "title": "조광페인트 \"자회사 씨케이이엠솔루션 주식 216억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331179100008",
+      "pubDate": "Tue, 31 Mar 2026 17:32:32 +0900"
+    },
+    {
+      "title": "신안산선 사고 구간 '재시공' 보강…광명시·포스코이앤씨 합의",
+      "link": "https://www.yna.co.kr/view/AKR20260331178500061",
+      "pubDate": "Tue, 31 Mar 2026 17:32:00 +0900"
+    },
+    {
+      "title": "태백시, 사회적경제기업 택배비 지원…판로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260331178600062",
+      "pubDate": "Tue, 31 Mar 2026 17:29:05 +0900"
+    },
     {
       "title": "포항 환경단체, 포스코 확장 위한 바다 매립 승인 반발",
       "link": "https://www.yna.co.kr/view/AKR20260331178300053",
@@ -42,116 +152,6 @@
       "title": "전주시 \"종량제봉투 수급 문제없어\"…내달 300만장 공급(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260331083851055",
       "pubDate": "Tue, 31 Mar 2026 17:04:21 +0900"
-    },
-    {
-      "title": "[과학스냅] 중앙과학관, 4월 4~5일 '2026 꽃핀트랙' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260331164000017",
-      "pubDate": "Tue, 31 Mar 2026 17:00:02 +0900"
-    },
-    {
-      "title": "재경부, 신규 국고채 전문딜러에 신한·우리은행 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260331168000002",
-      "pubDate": "Tue, 31 Mar 2026 17:00:01 +0900"
-    },
-    {
-      "title": "웅동1지구 민간사업자, 경남개발공사·창원시에 확정투자비 소송",
-      "link": "https://www.yna.co.kr/view/AKR20260331170400052",
-      "pubDate": "Tue, 31 Mar 2026 16:56:25 +0900"
-    },
-    {
-      "title": "중동 전쟁에 3월 코스피 하락률, 금융위기 이후 최대…역대 4위",
-      "link": "https://www.yna.co.kr/view/AKR20260331168300008",
-      "pubDate": "Tue, 31 Mar 2026 16:53:14 +0900"
-    },
-    {
-      "title": "강원도, 중동 정세 대응 수출기업 긴급 지원 합동 상담회",
-      "link": "https://www.yna.co.kr/view/AKR20260331169000062",
-      "pubDate": "Tue, 31 Mar 2026 16:50:21 +0900"
-    },
-    {
-      "title": "장원삼 코이카 이사장 \"개발협력은 경제안보·외교 전략적 수단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331169100371",
-      "pubDate": "Tue, 31 Mar 2026 16:49:43 +0900"
-    },
-    {
-      "title": "33년만에 거론된 긴급재정명령 카드…헌법 근거 대통령 직권",
-      "link": "https://www.yna.co.kr/view/AKR20260331159800002",
-      "pubDate": "Tue, 31 Mar 2026 16:45:01 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.552%",
-      "link": "https://www.yna.co.kr/view/AKR20260331167900008",
-      "pubDate": "Tue, 31 Mar 2026 16:42:00 +0900"
-    },
-    {
-      "title": "'1,530원 넘었다' 환율 상승 부추기는 외국인…이달 36조원 투매(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331124551008",
-      "pubDate": "Tue, 31 Mar 2026 16:41:51 +0900"
-    },
-    {
-      "title": "전문건설공제조합 작년 순익 1천465억원…역대 두번째",
-      "link": "https://www.yna.co.kr/view/AKR20260331166000003",
-      "pubDate": "Tue, 31 Mar 2026 16:40:15 +0900"
-    },
-    {
-      "title": "[광주소식] 농협, 수해지역 농업인 자녀에 태블릿PC 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260331167100054",
-      "pubDate": "Tue, 31 Mar 2026 16:38:19 +0900"
-    },
-    {
-      "title": "섬 주민 '생명선' 연안해운, 유가 급등에 흔들…운항 부담 가중",
-      "link": "https://www.yna.co.kr/view/AKR20260331162600051",
-      "pubDate": "Tue, 31 Mar 2026 16:31:11 +0900"
-    },
-    {
-      "title": "야놀자, 작년 매출 1조원 넘어…\"창립 이후 처음\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331161400030",
-      "pubDate": "Tue, 31 Mar 2026 16:23:56 +0900"
-    },
-    {
-      "title": "[특징주] 대한조선, 1분기만 연간 수주 목표 달성에 5%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331078251008",
-      "pubDate": "Tue, 31 Mar 2026 16:23:46 +0900"
-    },
-    {
-      "title": "전쟁 한달만 국내증시 시총 1천조원 증발…'삼전닉스' 473조원↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260330139951008",
-      "pubDate": "Tue, 31 Mar 2026 16:22:19 +0900"
-    },
-    {
-      "title": "한은 \"원화절하 속도 빨라…외환시장 쏠림 뚜렷하면 대응할것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331154351002",
-      "pubDate": "Tue, 31 Mar 2026 16:21:56 +0900"
-    },
-    {
-      "title": "[인사] 현대해상",
-      "link": "https://www.yna.co.kr/view/AKR20260331159400002",
-      "pubDate": "Tue, 31 Mar 2026 16:20:13 +0900"
-    },
-    {
-      "title": "공정위, 전속고발 개편 제안했다가 이견·우려에 다시 검토(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331095451002",
-      "pubDate": "Tue, 31 Mar 2026 16:20:00 +0900"
-    },
-    {
-      "title": "[특징주] 삼양식품, 호실적 기대감에 급락장에도 2% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331055551008",
-      "pubDate": "Tue, 31 Mar 2026 16:16:33 +0900"
-    },
-    {
-      "title": "사면초가 위기 속 5,000선 위협받은 코스피…고개 드는 신중론(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331081951008",
-      "pubDate": "Tue, 31 Mar 2026 16:15:08 +0900"
-    },
-    {
-      "title": "코스피, 중동발 충격에 4% 급락 5,050대…코스닥도 5% 폭락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331155300008",
-      "pubDate": "Tue, 31 Mar 2026 16:12:01 +0900"
-    },
-    {
-      "title": "중진공 \"AI로 업무 환경 데이터 분석해 위험요소 선제 발굴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331157500030",
-      "pubDate": "Tue, 31 Mar 2026 16:10:01 +0900"
     }
   ]
 }
