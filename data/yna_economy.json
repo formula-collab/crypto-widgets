@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774982650,
+  "updated_at_unix": 1774986356,
   "items": [
+    {
+      "title": "[뉴욕유가] 이란 대통령 \"종전 준비돼\"…WTI, 4일만에 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260401004800009",
+      "pubDate": "Wed, 1 Apr 2026 03:44:55 +0900"
+    },
     {
       "title": "달러-원, 이란 전쟁 종전 기대감에 급락…1,517.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260401003700002",
@@ -147,11 +152,6 @@
       "title": "FTA 피해보전직불제 연장법안 국회 통과…\"농가소득안정 기여\"",
       "link": "https://www.yna.co.kr/view/AKR20260331181000030",
       "pubDate": "Tue, 31 Mar 2026 17:45:17 +0900"
-    },
-    {
-      "title": "토스뱅크 작년 순이익 968억원, 112%↑…2년 연속 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260331181300002",
-      "pubDate": "Tue, 31 Mar 2026 17:44:40 +0900"
     }
   ]
 }
