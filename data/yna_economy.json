@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774957157,
+  "updated_at_unix": 1774961307,
   "items": [
+    {
+      "title": "카카오페이證 신호철 대표 연임 확정…\"AI·사용자 경험이 핵심\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331200700008",
+      "pubDate": "Tue, 31 Mar 2026 21:05:04 +0900"
+    },
+    {
+      "title": "핫해진 金시장에…거래소 해외 공급업체 참여 허용 두고 '시끌'",
+      "link": "https://www.yna.co.kr/view/AKR20260331199600008",
+      "pubDate": "Tue, 31 Mar 2026 20:58:24 +0900"
+    },
+    {
+      "title": "박홍근 \"추경 지원금 월소득 기준, 1인 가구 385만원·2인 630만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331199900002",
+      "pubDate": "Tue, 31 Mar 2026 20:54:48 +0900"
+    },
     {
       "title": "'아크로 드 서초' 특공에 1만9천여명 몰려…경쟁률 751대 1",
       "link": "https://www.yna.co.kr/view/AKR20260331198900003",
@@ -137,21 +152,6 @@
       "title": "태백시, 사회적경제기업 택배비 지원…판로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260331178600062",
       "pubDate": "Tue, 31 Mar 2026 17:29:05 +0900"
-    },
-    {
-      "title": "포항 환경단체, 포스코 확장 위한 바다 매립 승인 반발",
-      "link": "https://www.yna.co.kr/view/AKR20260331178300053",
-      "pubDate": "Tue, 31 Mar 2026 17:28:19 +0900"
-    },
-    {
-      "title": "중동 불안에 금융시장 대혼돈…환율 1,530원 넘고 '오천피' 위협",
-      "link": "https://www.yna.co.kr/view/AKR20260331152600002",
-      "pubDate": "Tue, 31 Mar 2026 17:24:57 +0900"
-    },
-    {
-      "title": "어항에 쇼핑센터·음식점 설치 허용 \"어촌 경제 활성화 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331176700051",
-      "pubDate": "Tue, 31 Mar 2026 17:24:25 +0900"
     }
   ]
 }
