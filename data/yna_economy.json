@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774979131,
+  "updated_at_unix": 1774982650,
   "items": [
+    {
+      "title": "달러-원, 이란 전쟁 종전 기대감에 급락…1,517.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260401003700002",
+      "pubDate": "Wed, 1 Apr 2026 02:49:46 +0900"
+    },
     {
       "title": "鄭 \"필승카드\"…朴 \"吳에 감사?\"·全 \"공약 속빈강정\" 견제구(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260331204151001",
@@ -147,11 +152,6 @@
       "title": "토스뱅크 작년 순이익 968억원, 112%↑…2년 연속 흑자",
       "link": "https://www.yna.co.kr/view/AKR20260331181300002",
       "pubDate": "Tue, 31 Mar 2026 17:44:40 +0900"
-    },
-    {
-      "title": "'3대 패키지' 10조원 국비·지방비 분담 8대 2…지자체 반발",
-      "link": "https://www.yna.co.kr/view/AKR20260331169400063",
-      "pubDate": "Tue, 31 Mar 2026 17:39:50 +0900"
     }
   ]
 }
