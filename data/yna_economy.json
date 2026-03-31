@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774961307,
+  "updated_at_unix": 1774967071,
   "items": [
+    {
+      "title": "공정위 전속고발권 폐지 기로…李대통령 \"지자체 고발권 검토\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260331095452002",
+      "pubDate": "Tue, 31 Mar 2026 23:07:15 +0900"
+    },
+    {
+      "title": "핫해진 金시장에…거래소 해외 공급업체 참여 허용 두고 '시끌'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260331199651008",
+      "pubDate": "Tue, 31 Mar 2026 22:58:02 +0900"
+    },
+    {
+      "title": "與서울시장 후보들 부동산 정책 공방…\"내가 적임\" 경쟁력 부각",
+      "link": "https://www.yna.co.kr/view/AKR20260331204100001",
+      "pubDate": "Tue, 31 Mar 2026 22:51:04 +0900"
+    },
     {
       "title": "카카오페이證 신호철 대표 연임 확정…\"AI·사용자 경험이 핵심\"",
       "link": "https://www.yna.co.kr/view/AKR20260331200700008",
@@ -137,21 +152,6 @@
       "title": "교보생명, 작년 당기순이익 7천523억원…전년 대비 12.4%↑",
       "link": "https://www.yna.co.kr/view/AKR20260331179700002",
       "pubDate": "Tue, 31 Mar 2026 17:37:59 +0900"
-    },
-    {
-      "title": "조광페인트 \"자회사 씨케이이엠솔루션 주식 216억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331179100008",
-      "pubDate": "Tue, 31 Mar 2026 17:32:32 +0900"
-    },
-    {
-      "title": "신안산선 사고 구간 '재시공' 보강…광명시·포스코이앤씨 합의",
-      "link": "https://www.yna.co.kr/view/AKR20260331178500061",
-      "pubDate": "Tue, 31 Mar 2026 17:32:00 +0900"
-    },
-    {
-      "title": "태백시, 사회적경제기업 택배비 지원…판로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260331178600062",
-      "pubDate": "Tue, 31 Mar 2026 17:29:05 +0900"
     }
   ]
 }
