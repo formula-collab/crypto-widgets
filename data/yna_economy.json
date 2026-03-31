@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774989127,
+  "updated_at_unix": 1774992439,
   "items": [
+    {
+      "title": "[게시판] '안전한 일터 조성' 현장 노하우 담은 숏폼 영상 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260331143200530",
+      "pubDate": "Wed, 1 Apr 2026 06:00:13 +0900"
+    },
+    {
+      "title": "중기부, 글로컬·테마상권 선정…\"지역상권 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331173500030",
+      "pubDate": "Wed, 1 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "은퇴 국가봉사견에 '제2의 견생'…입양 시 최대 100만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260331174100030",
+      "pubDate": "Wed, 1 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "서울시, 청년 부동산 중개보수·이사비 지원 대상 4천명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260331190400004",
+      "pubDate": "Wed, 1 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "여한구 \"印·UAE에 원유·납사 협조 요청…기업 애로 적극해소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260331171800003",
+      "pubDate": "Wed, 1 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "번 돈보다 빚이 29배…한화솔루션, 3천700억 외화대출 재무약정 위반",
+      "link": "https://www.yna.co.kr/view/AKR20260331183200003",
+      "pubDate": "Wed, 1 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "또 고개든 대부업체 사이버보안 우려…금감원, 자체점검 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260331189100002",
+      "pubDate": "Wed, 1 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "달러예금 '썰물'…\"환율 너무 올라\" 이란 전쟁 후 60억달러↓",
+      "link": "https://www.yna.co.kr/view/AKR20260331184500002",
+      "pubDate": "Wed, 1 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 이란 대통령 \"종전 준비돼\"…WTI, 4일만에 하락",
       "link": "https://www.yna.co.kr/view/AKR20260401004800009",
@@ -112,46 +152,6 @@
       "title": "녹십자홀딩스 \"계열사 녹십자웰빙 주식 505억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260331183600008",
       "pubDate": "Tue, 31 Mar 2026 18:03:42 +0900"
-    },
-    {
-      "title": "롯데물산, 양평동 롯데칠성 땅 사들여 '한강뷰 아파트' 개발(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260331124752030",
-      "pubDate": "Tue, 31 Mar 2026 18:02:18 +0900"
-    },
-    {
-      "title": "하이브 \"미국 자회사 주식 1천508억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331183700008",
-      "pubDate": "Tue, 31 Mar 2026 18:02:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260331179400011",
-      "pubDate": "Tue, 31 Mar 2026 18:00:01 +0900"
-    },
-    {
-      "title": "인스코비, 100억원 유상증자…케이에스인더스트리에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260331182200008",
-      "pubDate": "Tue, 31 Mar 2026 17:55:28 +0900"
-    },
-    {
-      "title": "롯데건설, 작년 원가율·부채비율 하락…우발채무도 감축",
-      "link": "https://www.yna.co.kr/view/AKR20260331181800003",
-      "pubDate": "Tue, 31 Mar 2026 17:51:47 +0900"
-    },
-    {
-      "title": "KAIST 개발 '개인 맞춤형 응답·학습 AI 반도체' 놓고 신경전",
-      "link": "https://www.yna.co.kr/view/AKR20260331178100063",
-      "pubDate": "Tue, 31 Mar 2026 17:48:28 +0900"
-    },
-    {
-      "title": "서학개미 복귀시 양도세 최대 100% 면제…노동절도 법정공휴일(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331144851001",
-      "pubDate": "Tue, 31 Mar 2026 17:46:17 +0900"
-    },
-    {
-      "title": "FTA 피해보전직불제 연장법안 국회 통과…\"농가소득안정 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331181000030",
-      "pubDate": "Tue, 31 Mar 2026 17:45:17 +0900"
     }
   ]
 }
