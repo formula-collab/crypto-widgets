@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1774999403,
+  "updated_at_unix": 1775001245,
   "items": [
+    {
+      "title": "사상 첫 '농지 전수조사', 경기도·토지거래허가구역 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260401024100030",
+      "pubDate": "Wed, 1 Apr 2026 08:48:05 +0900"
+    },
+    {
+      "title": "키움證 \"CJ제일제당, 차별화된 바이오 생산에 전쟁 수혜 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401032900008",
+      "pubDate": "Wed, 1 Apr 2026 08:46:38 +0900"
+    },
+    {
+      "title": "더본코리아, 해외 파트너 협력 강화…글로벌 사업 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260401029400030",
+      "pubDate": "Wed, 1 Apr 2026 08:45:36 +0900"
+    },
+    {
+      "title": "\"우대저축공제, 재직자가 직접 신청\"…중진공, 신청 절차 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260401031300030",
+      "pubDate": "Wed, 1 Apr 2026 08:39:44 +0900"
+    },
+    {
+      "title": "동네슈퍼 살리기 '990원 소주'…공공·민간 손잡고 990만병 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260401028300030",
+      "pubDate": "Wed, 1 Apr 2026 08:37:40 +0900"
+    },
+    {
+      "title": "용산구, 비상경제 특별전담조직 가동…\"중동발 충격 최소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401031000004",
+      "pubDate": "Wed, 1 Apr 2026 08:33:19 +0900"
+    },
+    {
+      "title": "하나증권 \"LX인터내셔널, 석탄 가격 강세·물류 운임 상승 수혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401030000008",
+      "pubDate": "Wed, 1 Apr 2026 08:31:29 +0900"
+    },
+    {
+      "title": "NH투자, 콘텐트리중앙 목표가↓…\"월드컵 중계권료 우려 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401029000008",
+      "pubDate": "Wed, 1 Apr 2026 08:29:21 +0900"
+    },
+    {
+      "title": "NH투자 \"GS건설, 신사업 중심 체질 개선 주목…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401028100008",
+      "pubDate": "Wed, 1 Apr 2026 08:27:38 +0900"
+    },
+    {
+      "title": "서울 아파트 경매 낙찰가율 6개월 만에 100% 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260401024200003",
+      "pubDate": "Wed, 1 Apr 2026 08:26:49 +0900"
+    },
+    {
+      "title": "\"원유·나프타 확보 총력전\"…통상본부장, 상무관 회의 긴급소집",
+      "link": "https://www.yna.co.kr/view/AKR20260401028500003",
+      "pubDate": "Wed, 1 Apr 2026 08:26:28 +0900"
+    },
+    {
+      "title": "[게시판] 관광공사, '빅데이터 기반 컨설팅사업' 참여기관 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260401028900030",
+      "pubDate": "Wed, 1 Apr 2026 08:25:54 +0900"
+    },
+    {
+      "title": "다올증권 \"엘앤에프, 올해 흑자 전환 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401027200008",
+      "pubDate": "Wed, 1 Apr 2026 08:19:52 +0900"
+    },
+    {
+      "title": "무신사, '글로벌 패션 전문가' 박창근 사외이사 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260401027000030",
+      "pubDate": "Wed, 1 Apr 2026 08:19:11 +0900"
+    },
+    {
+      "title": "대신증권 \"LG이노텍, 반도체 기판 성장 진입…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401026400008",
+      "pubDate": "Wed, 1 Apr 2026 08:18:28 +0900"
+    },
+    {
+      "title": "[게시판] 롯데호텔, 서울 중구청 우수기부자로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260401025900030",
+      "pubDate": "Wed, 1 Apr 2026 08:17:44 +0900"
+    },
     {
       "title": "[마켓뷰] 하루 만에 뒤집힌 분위기…되살아난 조기종전 기대감",
       "link": "https://www.yna.co.kr/view/AKR20260401021800008",
@@ -72,86 +152,6 @@
       "title": "번 돈보다 빚이 29배…한화솔루션, 3천700억 외화대출 재무약정 위반",
       "link": "https://www.yna.co.kr/view/AKR20260331183200003",
       "pubDate": "Wed, 1 Apr 2026 06:00:00 +0900"
-    },
-    {
-      "title": "또 고개든 대부업체 사이버보안 우려…금감원, 자체점검 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260331189100002",
-      "pubDate": "Wed, 1 Apr 2026 05:53:00 +0900"
-    },
-    {
-      "title": "달러예금 '썰물'…\"환율 너무 올라\" 이란 전쟁 후 60억달러↓",
-      "link": "https://www.yna.co.kr/view/AKR20260331184500002",
-      "pubDate": "Wed, 1 Apr 2026 05:51:01 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 이란 대통령 \"종전 준비돼\"…WTI, 4일만에 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260401004800009",
-      "pubDate": "Wed, 1 Apr 2026 03:44:55 +0900"
-    },
-    {
-      "title": "달러-원, 이란 전쟁 종전 기대감에 급락…1,517.00원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260401003700002",
-      "pubDate": "Wed, 1 Apr 2026 02:49:46 +0900"
-    },
-    {
-      "title": "鄭 \"필승카드\"…朴 \"吳에 감사?\"·全 \"공약 속빈강정\" 견제구(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331204151001",
-      "pubDate": "Wed, 1 Apr 2026 00:02:03 +0900"
-    },
-    {
-      "title": "공정위 전속고발권 폐지 기로…李대통령 \"지자체 고발권 검토\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260331095452002",
-      "pubDate": "Tue, 31 Mar 2026 23:07:15 +0900"
-    },
-    {
-      "title": "핫해진 金시장에…거래소 해외 공급업체 참여 허용 두고 '시끌'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260331199651008",
-      "pubDate": "Tue, 31 Mar 2026 22:58:02 +0900"
-    },
-    {
-      "title": "與서울시장 후보들 부동산 정책 공방…\"내가 적임\" 경쟁력 부각",
-      "link": "https://www.yna.co.kr/view/AKR20260331204100001",
-      "pubDate": "Tue, 31 Mar 2026 22:51:04 +0900"
-    },
-    {
-      "title": "카카오페이證 신호철 대표 연임 확정…\"AI·사용자 경험이 핵심\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331200700008",
-      "pubDate": "Tue, 31 Mar 2026 21:05:04 +0900"
-    },
-    {
-      "title": "핫해진 金시장에…거래소 해외 공급업체 참여 허용 두고 '시끌'",
-      "link": "https://www.yna.co.kr/view/AKR20260331199600008",
-      "pubDate": "Tue, 31 Mar 2026 20:58:24 +0900"
-    },
-    {
-      "title": "박홍근 \"추경 지원금 월소득 기준, 1인 가구 385만원·2인 630만원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331199900002",
-      "pubDate": "Tue, 31 Mar 2026 20:54:48 +0900"
-    },
-    {
-      "title": "'아크로 드 서초' 특공에 1만9천여명 몰려…경쟁률 751대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260331198900003",
-      "pubDate": "Tue, 31 Mar 2026 20:20:16 +0900"
-    },
-    {
-      "title": "대한항공, 중동발 위기에 비상경영…한진그룹 항공사 모두 동참(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260331075502003",
-      "pubDate": "Tue, 31 Mar 2026 20:14:11 +0900"
-    },
-    {
-      "title": "'더샵신길센트럴시티' 1순위 청약 경쟁률 31.9대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260331198400003",
-      "pubDate": "Tue, 31 Mar 2026 20:05:48 +0900"
-    },
-    {
-      "title": "외국계 금융기관 \"WGBI편입, 500억∼600억달러 신규자금 유입할듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260331196800002",
-      "pubDate": "Tue, 31 Mar 2026 20:05:18 +0900"
-    },
-    {
-      "title": "유투바이오, 59억원 유상증자…이수지에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260331190700008",
-      "pubDate": "Tue, 31 Mar 2026 18:52:46 +0900"
     }
   ]
 }
