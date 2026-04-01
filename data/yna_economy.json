@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775079130,
+  "updated_at_unix": 1775082330,
   "items": [
+    {
+      "title": "[표] 10대 증권사 2025년 급여·자산총계 및 당기순이익 증감",
+      "link": "https://www.yna.co.kr/view/AKR20260401182200008",
+      "pubDate": "Thu, 2 Apr 2026 07:20:01 +0900"
+    },
+    {
+      "title": "작년 불장에 10대 증권사 자산총계 24% 쑥…은행권 넘는 순익도",
+      "link": "https://www.yna.co.kr/view/AKR20260401180000008",
+      "pubDate": "Thu, 2 Apr 2026 07:20:01 +0900"
+    },
+    {
+      "title": "송파구, 미취업청년에 어학·자격시험 응시료 지원한다",
+      "link": "https://www.yna.co.kr/view/AKR20260402015800004",
+      "pubDate": "Thu, 2 Apr 2026 07:08:49 +0900"
+    },
+    {
+      "title": "종전 기대감 속 WGBI 편입까지…채권시장 다시 웃을까",
+      "link": "https://www.yna.co.kr/view/AKR20260401160900008",
+      "pubDate": "Thu, 2 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '시혜' 넘어 '동행'으로…아프리카를 겸허히 보자",
+      "link": "https://www.yna.co.kr/view/AKR20260327139100898",
+      "pubDate": "Thu, 2 Apr 2026 07:00:02 +0900"
+    },
     {
       "title": "서울시, 불공정거래 피해 대응 강화…'민생경제안심센터' 출범",
       "link": "https://www.yna.co.kr/view/AKR20260401152100004",
@@ -127,31 +152,6 @@
       "title": "정부, 원유 위기경보 3단계 '경계'로 격상…가스도 '주의' 상향",
       "link": "https://www.yna.co.kr/view/AKR20260401168000003",
       "pubDate": "Wed, 1 Apr 2026 17:51:01 +0900"
-    },
-    {
-      "title": "6~7월 경제총조사…홍보모델에 배우 이준혁·아나운서 박선영",
-      "link": "https://www.yna.co.kr/view/AKR20260401166900002",
-      "pubDate": "Wed, 1 Apr 2026 17:47:47 +0900"
-    },
-    {
-      "title": "6조원 육박 밀가루 담합…6개 제분사 대표들 내달 첫 재판",
-      "link": "https://www.yna.co.kr/view/AKR20260401171600030",
-      "pubDate": "Wed, 1 Apr 2026 17:45:11 +0900"
-    },
-    {
-      "title": "기아, 3월 28만5천854대 판매, 2.7%↑…1분기 판매량 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260401169400003",
-      "pubDate": "Wed, 1 Apr 2026 17:33:44 +0900"
-    },
-    {
-      "title": "[일문일답] 금융위 \"대출규제 완화 필요성 없어…엄격기조 유지\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401097751002",
-      "pubDate": "Wed, 1 Apr 2026 17:28:36 +0900"
-    },
-    {
-      "title": "李대통령 \"가짜뉴스로 선동하는 사람들 있어…정보 투명 공개\"",
-      "link": "https://www.yna.co.kr/view/AKR20260401163100001",
-      "pubDate": "Wed, 1 Apr 2026 17:14:51 +0900"
     }
   ]
 }
