@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775075587,
+  "updated_at_unix": 1775079130,
   "items": [
+    {
+      "title": "서울시, 불공정거래 피해 대응 강화…'민생경제안심센터' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260401152100004",
+      "pubDate": "Thu, 2 Apr 2026 06:00:06 +0900"
+    },
+    {
+      "title": "\"대형 비상장사, 주총 2주내 소유주식 현황 제출해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401140500002",
+      "pubDate": "Thu, 2 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "중기부, 플라스틱용기 납품대금 연동제 직권조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260401169800030",
+      "pubDate": "Thu, 2 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "통상본부장, 서울서 美 하원 코리아스터디그룹 대표단 면담",
+      "link": "https://www.yna.co.kr/view/AKR20260401179600003",
+      "pubDate": "Thu, 2 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "코로나 전 회복한 레저시설…스파·수영장 뜨고 골프장은↓",
+      "link": "https://www.yna.co.kr/view/AKR20260401165900002",
+      "pubDate": "Thu, 2 Apr 2026 05:55:02 +0900"
+    },
+    {
+      "title": "30대 1인당 은행 대출 1억원 처음 넘어…40대 3년째 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260401178100002",
+      "pubDate": "Thu, 2 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 휴전협상 진전 기대감에 하락…브렌트 3%↓",
       "link": "https://www.yna.co.kr/view/AKR20260402006100072",
@@ -122,36 +152,6 @@
       "title": "李대통령 \"가짜뉴스로 선동하는 사람들 있어…정보 투명 공개\"",
       "link": "https://www.yna.co.kr/view/AKR20260401163100001",
       "pubDate": "Wed, 1 Apr 2026 17:14:51 +0900"
-    },
-    {
-      "title": "韓, 세계국채지수 편입 시작…3년물 18.2bp 내린 연 3.370%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401084451008",
-      "pubDate": "Wed, 1 Apr 2026 17:14:24 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 中企 피해 확산…휴업·생산중단 속출",
-      "link": "https://www.yna.co.kr/view/AKR20260401157000030",
-      "pubDate": "Wed, 1 Apr 2026 17:04:52 +0900"
-    },
-    {
-      "title": "'수소 계량 신뢰성 평가센터' 상반기 착공…거래 신뢰 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260401133600062",
-      "pubDate": "Wed, 1 Apr 2026 16:59:39 +0900"
-    },
-    {
-      "title": "[음성소식] 그린에너지 스마트농업타운 조성 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260401161900064",
-      "pubDate": "Wed, 1 Apr 2026 16:56:17 +0900"
-    },
-    {
-      "title": "카카오, '공정거래의 날' 대통령 표창 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260401160400017",
-      "pubDate": "Wed, 1 Apr 2026 16:48:54 +0900"
-    },
-    {
-      "title": "춘천소방, 봄철 농번기 맞아 외국인 계절근로자 소방안전교육",
-      "link": "https://www.yna.co.kr/view/AKR20260401158900062",
-      "pubDate": "Wed, 1 Apr 2026 16:41:54 +0900"
     }
   ]
 }
