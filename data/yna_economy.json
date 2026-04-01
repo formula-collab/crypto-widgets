@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775043716,
+  "updated_at_unix": 1775047892,
   "items": [
+    {
+      "title": "신한카드 대표 \"실적부진 등 경영진 과오\"…성과급 반납 각오도",
+      "link": "https://www.yna.co.kr/view/AKR20260401179200002",
+      "pubDate": "Wed, 1 Apr 2026 21:27:33 +0900"
+    },
+    {
+      "title": "아크로 드 서초 1순위 청약 1천99대 1…서울 민간분양 역대 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260401190300003",
+      "pubDate": "Wed, 1 Apr 2026 21:18:51 +0900"
+    },
     {
       "title": "'한-인니 비즈니스 포럼' 개최…양국 공급망 협력 가속(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260401179751003",
@@ -142,16 +152,6 @@
       "title": "USTR \"한국등 강제노동제품 수입금지안해\" 新관세부과 명분삼나(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260401123852071",
       "pubDate": "Wed, 1 Apr 2026 16:37:42 +0900"
-    },
-    {
-      "title": "한국GM, 3월 5만1천215대 판매…작년 같은 달보다 24.2% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260401156500003",
-      "pubDate": "Wed, 1 Apr 2026 16:28:15 +0900"
-    },
-    {
-      "title": "[특징주] 광통신 관련주, 전날 급락 딛고 줄줄이 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401066551008",
-      "pubDate": "Wed, 1 Apr 2026 16:27:33 +0900"
     }
   ]
 }
