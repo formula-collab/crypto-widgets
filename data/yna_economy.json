@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775030279,
+  "updated_at_unix": 1775034010,
   "items": [
+    {
+      "title": "보험연구원 \"車보험 자기부담금 제도 개선 방안 제시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401173100002",
+      "pubDate": "Wed, 1 Apr 2026 17:52:19 +0900"
+    },
+    {
+      "title": "정부, 원유 위기경보 3단계 '경계'로 격상…가스도 '주의' 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260401168000003",
+      "pubDate": "Wed, 1 Apr 2026 17:51:01 +0900"
+    },
+    {
+      "title": "6~7월 경제총조사…홍보모델에 배우 이준혁·아나운서 박선영",
+      "link": "https://www.yna.co.kr/view/AKR20260401166900002",
+      "pubDate": "Wed, 1 Apr 2026 17:47:47 +0900"
+    },
+    {
+      "title": "6조원 육박 밀가루 담합…6개 제분사 대표들 내달 첫 재판",
+      "link": "https://www.yna.co.kr/view/AKR20260401171600030",
+      "pubDate": "Wed, 1 Apr 2026 17:45:11 +0900"
+    },
+    {
+      "title": "기아, 3월 28만5천854대 판매, 2.7%↑…1분기 판매량 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260401169400003",
+      "pubDate": "Wed, 1 Apr 2026 17:33:44 +0900"
+    },
+    {
+      "title": "[일문일답] 금융위 \"대출규제 완화 필요성 없어…엄격기조 유지\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260401097751002",
+      "pubDate": "Wed, 1 Apr 2026 17:28:36 +0900"
+    },
+    {
+      "title": "李대통령 \"가짜뉴스로 선동하는 사람들 있어…정보 투명 공개\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401163100001",
+      "pubDate": "Wed, 1 Apr 2026 17:14:51 +0900"
+    },
+    {
+      "title": "韓, 세계국채지수 편입 시작…3년물 18.2bp 내린 연 3.370%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260401084451008",
+      "pubDate": "Wed, 1 Apr 2026 17:14:24 +0900"
+    },
+    {
+      "title": "중동전쟁 장기화에 中企 피해 확산…휴업·생산중단 속출",
+      "link": "https://www.yna.co.kr/view/AKR20260401157000030",
+      "pubDate": "Wed, 1 Apr 2026 17:04:52 +0900"
+    },
+    {
+      "title": "'수소 계량 신뢰성 평가센터' 상반기 착공…거래 신뢰 확보",
+      "link": "https://www.yna.co.kr/view/AKR20260401133600062",
+      "pubDate": "Wed, 1 Apr 2026 16:59:39 +0900"
+    },
+    {
+      "title": "[음성소식] 그린에너지 스마트농업타운 조성 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260401161900064",
+      "pubDate": "Wed, 1 Apr 2026 16:56:17 +0900"
+    },
     {
       "title": "카카오, '공정거래의 날' 대통령 표창 받아",
       "link": "https://www.yna.co.kr/view/AKR20260401160400017",
@@ -97,61 +152,6 @@
       "title": "트럼프 종전발언에 시큰둥하던 시장, 이란 대통령 가세에 급반등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260401085451008",
       "pubDate": "Wed, 1 Apr 2026 15:59:11 +0900"
-    },
-    {
-      "title": "17일부터 다주택자 대출연장 불허…무주택자 갭투자 한시 허용(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401052651002",
-      "pubDate": "Wed, 1 Apr 2026 15:56:04 +0900"
-    },
-    {
-      "title": "[특징주] 증권株, 코스피·코스닥 반등에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401046651008",
-      "pubDate": "Wed, 1 Apr 2026 15:46:43 +0900"
-    },
-    {
-      "title": "코스피, 8% 급등 5,400대 회복…상승폭 역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260401143600008",
-      "pubDate": "Wed, 1 Apr 2026 15:37:06 +0900"
-    },
-    {
-      "title": "전남도, 중동위기 대응 500억 규모 민생경제대책 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260401144100054",
-      "pubDate": "Wed, 1 Apr 2026 15:36:09 +0900"
-    },
-    {
-      "title": "외국환시세(4월1일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260401143900002",
-      "pubDate": "Wed, 1 Apr 2026 15:35:19 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 28.8원 내린 1,501.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260401143800002",
-      "pubDate": "Wed, 1 Apr 2026 15:34:56 +0900"
-    },
-    {
-      "title": "[르포] \"평생 이런 기름값 처음\" 면세유 급등 첫날, 어민들 '한숨'",
-      "link": "https://www.yna.co.kr/view/AKR20260401138800051",
-      "pubDate": "Wed, 1 Apr 2026 15:24:29 +0900"
-    },
-    {
-      "title": "금융위, '회계처리 기준 위반' 국보에 과징금 5천420만원",
-      "link": "https://www.yna.co.kr/view/AKR20260401139400002",
-      "pubDate": "Wed, 1 Apr 2026 15:21:45 +0900"
-    },
-    {
-      "title": "IPARK현산, 스마트 계근 시스템 도입키로…\"품질 경쟁력 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260401136900003",
-      "pubDate": "Wed, 1 Apr 2026 15:16:58 +0900"
-    },
-    {
-      "title": "태백시 탄탄페이 캐시백 20% 확대…소비 위축 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260401138200062",
-      "pubDate": "Wed, 1 Apr 2026 15:15:39 +0900"
-    },
-    {
-      "title": "한·인도네시아, 에너지·핵심광물·산업 협력 고도화",
-      "link": "https://www.yna.co.kr/view/AKR20260401136700003",
-      "pubDate": "Wed, 1 Apr 2026 15:13:28 +0900"
     }
   ]
 }
