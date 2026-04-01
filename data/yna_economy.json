@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775039489,
+  "updated_at_unix": 1775043716,
   "items": [
+    {
+      "title": "'한-인니 비즈니스 포럼' 개최…양국 공급망 협력 가속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260401179751003",
+      "pubDate": "Wed, 1 Apr 2026 19:50:54 +0900"
+    },
+    {
+      "title": "'공정위 위원 9명서 11명으로 확대' 법안, 정무위 소위 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260401183300001",
+      "pubDate": "Wed, 1 Apr 2026 19:49:40 +0900"
+    },
+    {
+      "title": "靑 \"종량제봉투 구매 제한 없다…李대통령, '제한 말라' 지시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401182600001",
+      "pubDate": "Wed, 1 Apr 2026 19:47:07 +0900"
+    },
+    {
+      "title": "LCK, 룰러 탈세 논란 조사 착수…\"조사위원회 구성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260401185000017",
+      "pubDate": "Wed, 1 Apr 2026 19:40:49 +0900"
+    },
     {
       "title": "미국 \"한국, 대두 수입 제한해 미국산 물량 감소\"",
       "link": "https://www.yna.co.kr/view/AKR20260401180700030",
@@ -132,26 +152,6 @@
       "title": "[특징주] 광통신 관련주, 전날 급락 딛고 줄줄이 상한가 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260401066551008",
       "pubDate": "Wed, 1 Apr 2026 16:27:33 +0900"
-    },
-    {
-      "title": "국내 휘발유·경유 가격 1천900원 돌파…서울 1천950원대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401053101003",
-      "pubDate": "Wed, 1 Apr 2026 16:25:20 +0900"
-    },
-    {
-      "title": "한국투자증권, 싱가포르 계열사 펀드에 4천540억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260401153200008",
-      "pubDate": "Wed, 1 Apr 2026 16:20:10 +0900"
-    },
-    {
-      "title": "골판지포장업계 \"수급불안·가격상승 이중고…상생협력 요청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260401152700030",
-      "pubDate": "Wed, 1 Apr 2026 16:15:34 +0900"
-    },
-    {
-      "title": "[특징주] 미-이란 전쟁 종전 기대감에 건설주 '불기둥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260401067751008",
-      "pubDate": "Wed, 1 Apr 2026 16:14:20 +0900"
     }
   ]
 }
