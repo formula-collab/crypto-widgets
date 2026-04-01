@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775069018,
+  "updated_at_unix": 1775073041,
   "items": [
+    {
+      "title": "국제유가, 휴전협상 진전 기대감에 하락…브렌트 3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260402006100072",
+      "pubDate": "Thu, 2 Apr 2026 04:41:37 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프 \"이란이 휴전 요청\"…WTI 이틀째 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260402004500009",
+      "pubDate": "Thu, 2 Apr 2026 03:43:48 +0900"
+    },
     {
       "title": "달러-원, 트럼프·이란 '호르무즈 신경전'에 반등…1,513.30원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260402004000002",
@@ -142,16 +152,6 @@
       "title": "춘천소방, 봄철 농번기 맞아 외국인 계절근로자 소방안전교육",
       "link": "https://www.yna.co.kr/view/AKR20260401158900062",
       "pubDate": "Wed, 1 Apr 2026 16:41:54 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.370%",
-      "link": "https://www.yna.co.kr/view/AKR20260401159000008",
-      "pubDate": "Wed, 1 Apr 2026 16:40:22 +0900"
-    },
-    {
-      "title": "'UAE 긴급 도입 원유' 2천400만배럴 도입 순조…600만배럴 입고",
-      "link": "https://www.yna.co.kr/view/AKR20260401158800003",
-      "pubDate": "Wed, 1 Apr 2026 16:40:15 +0900"
     }
   ]
 }
