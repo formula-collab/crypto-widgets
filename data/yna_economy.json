@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775065227,
+  "updated_at_unix": 1775069018,
   "items": [
+    {
+      "title": "달러-원, 트럼프·이란 '호르무즈 신경전'에 반등…1,513.30원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260402004000002",
+      "pubDate": "Thu, 2 Apr 2026 03:27:49 +0900"
+    },
     {
       "title": "신한카드 대표 \"실적부진 등 경영진 과오\"…성과급 반납 각오도",
       "link": "https://www.yna.co.kr/view/AKR20260401179200002",
@@ -147,11 +152,6 @@
       "title": "'UAE 긴급 도입 원유' 2천400만배럴 도입 순조…600만배럴 입고",
       "link": "https://www.yna.co.kr/view/AKR20260401158800003",
       "pubDate": "Wed, 1 Apr 2026 16:40:15 +0900"
-    },
-    {
-      "title": "USTR \"한국등 강제노동제품 수입금지안해\" 新관세부과 명분삼나(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260401123852071",
-      "pubDate": "Wed, 1 Apr 2026 16:37:42 +0900"
     }
   ]
 }
