@@ -1,8 +1,143 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775109252,
+  "updated_at_unix": 1775113130,
   "items": [
+    {
+      "title": "종전 기대 깬 트럼프 연설…\"당분간 약세장 나타날 수도\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260402091151008",
+      "pubDate": "Thu, 2 Apr 2026 15:43:37 +0900"
+    },
+    {
+      "title": "李대통령 \"이번 위기는 소나기 아닌 폭풍우…비상한 대책 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260402134800001",
+      "pubDate": "Thu, 2 Apr 2026 15:42:06 +0900"
+    },
+    {
+      "title": "제주지역 MICE 산업 경쟁력 강화 위한 협의체 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260402137200056",
+      "pubDate": "Thu, 2 Apr 2026 15:41:42 +0900"
+    },
+    {
+      "title": "경찰, '신안산선 터널 붕괴' 수사 마무리 수순…\"곧 송치 방침\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402135600061",
+      "pubDate": "Thu, 2 Apr 2026 15:40:09 +0900"
+    },
+    {
+      "title": "울산·경남 지역인재 합동 채용설명회…27개 기관·기업 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260402133500057",
+      "pubDate": "Thu, 2 Apr 2026 15:38:23 +0900"
+    },
+    {
+      "title": "강원도, 지역필수의료체계 구축 본격화…인력 양성·정주 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260402135000062",
+      "pubDate": "Thu, 2 Apr 2026 15:37:31 +0900"
+    },
+    {
+      "title": "코스피, 4%대 급락 5,200대 마감…코스닥도 5% 폭락",
+      "link": "https://www.yna.co.kr/view/AKR20260402137100008",
+      "pubDate": "Thu, 2 Apr 2026 15:37:07 +0900"
+    },
+    {
+      "title": "외국환시세(4월2일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260402136700002",
+      "pubDate": "Thu, 2 Apr 2026 15:35:12 +0900"
+    },
+    {
+      "title": "원주시, 지역주도형 AI대전환 공모선정…의료첨단산업 성장 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260402132000062",
+      "pubDate": "Thu, 2 Apr 2026 15:34:19 +0900"
+    },
+    {
+      "title": "기획처·중장기위 미래사회전략반 회의 개최…청년 일자리 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260402134900002",
+      "pubDate": "Thu, 2 Apr 2026 15:31:15 +0900"
+    },
+    {
+      "title": "울산 에너지 취약층에 5만원씩 추가 지원…종량제봉투 일일점검",
+      "link": "https://www.yna.co.kr/view/AKR20260402131000057",
+      "pubDate": "Thu, 2 Apr 2026 15:31:11 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 18.4원 오른 1,519.7원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260402135100002",
+      "pubDate": "Thu, 2 Apr 2026 15:30:51 +0900"
+    },
+    {
+      "title": "임실군, 외국인 농업근로자 기숙사 준공…최대 87명 거주",
+      "link": "https://www.yna.co.kr/view/AKR20260402132300055",
+      "pubDate": "Thu, 2 Apr 2026 15:30:25 +0900"
+    },
+    {
+      "title": "원강수 원주시장 \"연말 인구 37만명 예상…증가 해법은 일자리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402130800062",
+      "pubDate": "Thu, 2 Apr 2026 15:28:43 +0900"
+    },
+    {
+      "title": "신한투자, 국내주식 온라인 거래수수료 면제 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260402130500008",
+      "pubDate": "Thu, 2 Apr 2026 15:23:44 +0900"
+    },
+    {
+      "title": "[게시판] 지지옥션, 서울시 유공납세자 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260402122700003",
+      "pubDate": "Thu, 2 Apr 2026 15:17:31 +0900"
+    },
+    {
+      "title": "괴산군, 2035년까지 청안일반산단 조성…97만6천㎡ 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260402125300064",
+      "pubDate": "Thu, 2 Apr 2026 15:09:26 +0900"
+    },
+    {
+      "title": "아이유 '명예금융인' 됐다…우리금융 창립 25주년 기념식",
+      "link": "https://www.yna.co.kr/view/AKR20260402125100002",
+      "pubDate": "Thu, 2 Apr 2026 15:08:21 +0900"
+    },
+    {
+      "title": "산업부, 멕시코·메르코수르와 무역협정 추진…업계 의견수렴",
+      "link": "https://www.yna.co.kr/view/AKR20260402127700003",
+      "pubDate": "Thu, 2 Apr 2026 15:08:09 +0900"
+    },
+    {
+      "title": "[특징주] '호르무즈 우회' 파이프라인 검토설에 관련주 강세",
+      "link": "https://www.yna.co.kr/view/AKR20260402127900008",
+      "pubDate": "Thu, 2 Apr 2026 15:05:28 +0900"
+    },
+    {
+      "title": "트럼프 강경 발언에…코스닥 이어 코스피도 매도 사이드카 발동(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260402120451008",
+      "pubDate": "Thu, 2 Apr 2026 15:03:45 +0900"
+    },
+    {
+      "title": "울주군, 6월까지 지방세 체납액 정리 기간…59억원 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260402124300057",
+      "pubDate": "Thu, 2 Apr 2026 15:02:29 +0900"
+    },
+    {
+      "title": "광주시, 중소기업 육아휴직 대체 근로자 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260402126600054",
+      "pubDate": "Thu, 2 Apr 2026 15:02:25 +0900"
+    },
+    {
+      "title": "재경차관 \"원화 변동성, 펀더멘털 괴리된 투기거래 예의주시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402114200002",
+      "pubDate": "Thu, 2 Apr 2026 15:00:00 +0900"
+    },
+    {
+      "title": "해운협회 \"호르무즈 톨게이트화 시작…유가 상승 불가피\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402121400003",
+      "pubDate": "Thu, 2 Apr 2026 14:59:59 +0900"
+    },
+    {
+      "title": "속초시, 비상 경제 점검 회의 개최…민생경제 안정 총력",
+      "link": "https://www.yna.co.kr/view/AKR20260402122300062",
+      "pubDate": "Thu, 2 Apr 2026 14:51:39 +0900"
+    },
+    {
+      "title": "[속보] 코스닥 이어 코스피도 매도 사이드카 발동",
+      "link": "https://www.yna.co.kr/view/AKR20260402121500008",
+      "pubDate": "Thu, 2 Apr 2026 14:47:11 +0900"
+    },
     {
       "title": "익산시, 매주 금요일 '로컬푸드 상생 직거래 장터' 운영",
       "link": "https://www.yna.co.kr/view/AKR20260402120700055",
@@ -17,141 +152,6 @@
       "title": "LH·건보공단, 임대주택 입주자 건보료 부담 줄인다",
       "link": "https://www.yna.co.kr/view/AKR20260402119900003",
       "pubDate": "Thu, 2 Apr 2026 14:42:39 +0900"
-    },
-    {
-      "title": "금융당국, DB손보 미국 보험사 포테그라 자회사 소유 승인",
-      "link": "https://www.yna.co.kr/view/AKR20260402118200002",
-      "pubDate": "Thu, 2 Apr 2026 14:36:07 +0900"
-    },
-    {
-      "title": "[속보] 급락장에 코스닥 매도 사이드카 발동",
-      "link": "https://www.yna.co.kr/view/AKR20260402119200008",
-      "pubDate": "Thu, 2 Apr 2026 14:35:32 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260402114100011",
-      "pubDate": "Thu, 2 Apr 2026 14:30:00 +0900"
-    },
-    {
-      "title": "전북상공협, 정당·후보들에 '경제 살리기 22개 과제' 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260402111100055",
-      "pubDate": "Thu, 2 Apr 2026 14:20:14 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"세금 적기사용, 정부 책무…골든타임 놓치지 말아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402103800001",
-      "pubDate": "Thu, 2 Apr 2026 14:17:35 +0900"
-    },
-    {
-      "title": "구윤철 \"달러 강제매각 가짜뉴스\"…'개인 명의' 경기남부청에 고발(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402017451002",
-      "pubDate": "Thu, 2 Apr 2026 14:17:06 +0900"
-    },
-    {
-      "title": "강릉시, 비상경제 대응체계 점검…\"속도감과 책임감 있게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402111500062",
-      "pubDate": "Thu, 2 Apr 2026 14:16:41 +0900"
-    },
-    {
-      "title": "[속보] 李대통령 \"민생경제 전시상황…비상상황에 비상한 대책 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402103500001",
-      "pubDate": "Thu, 2 Apr 2026 14:15:43 +0900"
-    },
-    {
-      "title": "\"부산에 투자하세요\"…서울서 7일 금융기업 투자유치 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260402113700051",
-      "pubDate": "Thu, 2 Apr 2026 14:14:21 +0900"
-    },
-    {
-      "title": "한국도로교통공단, 상반기 체험형 청년인턴 공개 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260402110200062",
-      "pubDate": "Thu, 2 Apr 2026 14:12:55 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화 조짐에 중소기업 '한숨'…재룟값 인상에 휴업도",
-      "link": "https://www.yna.co.kr/view/AKR20260402111600030",
-      "pubDate": "Thu, 2 Apr 2026 14:12:44 +0900"
-    },
-    {
-      "title": "올해 군무원 2천646명 선발…23일부터 원서접수",
-      "link": "https://www.yna.co.kr/view/AKR20260402113000504",
-      "pubDate": "Thu, 2 Apr 2026 14:12:19 +0900"
-    },
-    {
-      "title": "코이카 '중앙아 ODA 홍보영상', 대한민국 국가브랜드대상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260402085800371",
-      "pubDate": "Thu, 2 Apr 2026 14:03:00 +0900"
-    },
-    {
-      "title": "'강남과 따로 간다'…중하위권이 견인하는 서울 아파트값",
-      "link": "https://www.yna.co.kr/view/AKR20260402108200003",
-      "pubDate": "Thu, 2 Apr 2026 14:01:39 +0900"
-    },
-    {
-      "title": "수협, 어업용 유가 안정 대응 총력…유류비 100억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260402109300030",
-      "pubDate": "Thu, 2 Apr 2026 14:01:35 +0900"
-    },
-    {
-      "title": "부산 아파트값 강보합…전셋값 상승세는 둔화",
-      "link": "https://www.yna.co.kr/view/AKR20260402073100051",
-      "pubDate": "Thu, 2 Apr 2026 14:00:39 +0900"
-    },
-    {
-      "title": "유튜버, 계좌로 받은 후원금도 현금매출명세서 내야",
-      "link": "https://www.yna.co.kr/view/AKR20260402070600002",
-      "pubDate": "Thu, 2 Apr 2026 14:00:38 +0900"
-    },
-    {
-      "title": "\"소비자보호 위해 파생상품 발행구조·운용 지침 명확히 해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402080300008",
-      "pubDate": "Thu, 2 Apr 2026 14:00:36 +0900"
-    },
-    {
-      "title": "서울 아파트값 상승폭 2주 연속 확대…중하위권이 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260402091600003",
-      "pubDate": "Thu, 2 Apr 2026 14:00:04 +0900"
-    },
-    {
-      "title": "출입국사무소, 고흥 계절근로자 착취 사건 '브로커' 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260402109400054",
-      "pubDate": "Thu, 2 Apr 2026 13:59:46 +0900"
-    },
-    {
-      "title": "'AI가 매장 실시간 점검'…딥핑소스, 공간형 에이전틱 AI 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260402093800017",
-      "pubDate": "Thu, 2 Apr 2026 13:31:36 +0900"
-    },
-    {
-      "title": "\"붕괴한 광명 신안산선 터널, 기둥 하중 2.5배 과소 설계\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402077351003",
-      "pubDate": "Thu, 2 Apr 2026 12:17:31 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄에…韓, 중동산 대신 美 원유 도입 늘린다",
-      "link": "https://www.yna.co.kr/view/AKR20260402093500003",
-      "pubDate": "Thu, 2 Apr 2026 12:08:49 +0900"
-    },
-    {
-      "title": "[표] 코스닥시장 연결기준 2025년 순이익 상·하위 20개사",
-      "link": "https://www.yna.co.kr/view/AKR20260402089300008",
-      "pubDate": "Thu, 2 Apr 2026 12:01:02 +0900"
-    },
-    {
-      "title": "공정위, 공사 위탁하고 부실계약서 준 LS계열사 선우에 시정명령",
-      "link": "https://www.yna.co.kr/view/AKR20260402057000002",
-      "pubDate": "Thu, 2 Apr 2026 12:00:10 +0900"
-    },
-    {
-      "title": "국립환경과학원, 생태독성 시험장치 특허 출원·기술 이전 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260402058100530",
-      "pubDate": "Thu, 2 Apr 2026 12:00:10 +0900"
-    },
-    {
-      "title": "임광현 국세청장 \"세무조사 시기 선택 시작…기업부담 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402057100002",
-      "pubDate": "Thu, 2 Apr 2026 12:00:09 +0900"
     }
   ]
 }
