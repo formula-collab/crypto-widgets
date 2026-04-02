@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775155187,
+  "updated_at_unix": 1775158840,
   "items": [
+    {
+      "title": "국제유가, 이란 종전 기대감 후퇴에 급반등…WTI 11%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260403005300072",
+      "pubDate": "Fri, 3 Apr 2026 04:32:14 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 트럼프 \"이란에 극도로 강력 타격\"…WTI 110달러 돌파 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260403004400009",
+      "pubDate": "Fri, 3 Apr 2026 03:48:52 +0900"
+    },
     {
       "title": "달러-원, 호르무즈 항행 제한 완화 기대에 반락…1,510.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260403002800002",
@@ -142,16 +152,6 @@
       "title": "트럼프 '이란 강력 타격'…국제유가 다시 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260402081351009",
       "pubDate": "Thu, 2 Apr 2026 16:12:58 +0900"
-    },
-    {
-      "title": "코스피, 트럼프 연설에 4%대 급락 5,200대 후퇴…사이드카 발동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402145100008",
-      "pubDate": "Thu, 2 Apr 2026 16:11:29 +0900"
-    },
-    {
-      "title": "서울·경기 비주택→준주택 탈바꿈 시동…공공임대 2천가구 공급 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260402137500003",
-      "pubDate": "Thu, 2 Apr 2026 16:00:01 +0900"
     }
   ]
 }
