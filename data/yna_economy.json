@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775172249,
+  "updated_at_unix": 1775174077,
   "items": [
+    {
+      "title": "하나증권 \"카지노 업종, 2분기부터 실적 모멘텀\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403026200008",
+      "pubDate": "Fri, 3 Apr 2026 08:50:17 +0900"
+    },
+    {
+      "title": "유진투자 \"삼성전기, 패키지솔루션 마진 개선 예상…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403025300008",
+      "pubDate": "Fri, 3 Apr 2026 08:47:41 +0900"
+    },
+    {
+      "title": "IBK투자 \"美재정적자, 전쟁 등 영향에 GDP 6%선 넘어설 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403024000008",
+      "pubDate": "Fri, 3 Apr 2026 08:44:52 +0900"
+    },
+    {
+      "title": "소진공, 소상공인 협력단체 정책협의체 '소통마루' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260403021900030",
+      "pubDate": "Fri, 3 Apr 2026 08:30:12 +0900"
+    },
+    {
+      "title": "한화증권 \"네이버, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403021700008",
+      "pubDate": "Fri, 3 Apr 2026 08:26:48 +0900"
+    },
+    {
+      "title": "한투증권 \"4월 소비자물가, 원유·가스 부담에 2.6∼2.8% 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403021500008",
+      "pubDate": "Fri, 3 Apr 2026 08:24:37 +0900"
+    },
     {
       "title": "롯데百 시시호시 첫 대규모 세일…열흘간 최대 65% 할인",
       "link": "https://www.yna.co.kr/view/AKR20260403021000030",
@@ -49,13 +79,13 @@
       "pubDate": "Fri, 3 Apr 2026 06:00:05 +0900"
     },
     {
-      "title": "\"용산서울코어를 글로벌 비즈니스 플랫폼으로\"…전략포럼 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260402161400004",
+      "title": "1분기 농식품 수출 4% 늘어…라면·과자가 이끌어",
+      "link": "https://www.yna.co.kr/view/AKR20260402160400030",
       "pubDate": "Fri, 3 Apr 2026 06:00:03 +0900"
     },
     {
-      "title": "1분기 농식품 수출 4% 늘어…라면·과자가 이끌어",
-      "link": "https://www.yna.co.kr/view/AKR20260402160400030",
+      "title": "\"용산서울코어를 글로벌 비즈니스 플랫폼으로\"…전략포럼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260402161400004",
       "pubDate": "Fri, 3 Apr 2026 06:00:03 +0900"
     },
     {
@@ -122,36 +152,6 @@
       "title": "[게시판] 신한금융 계열 제주은행, ERP뱅킹 사업 개시",
       "link": "https://www.yna.co.kr/view/AKR20260402170500002",
       "pubDate": "Thu, 2 Apr 2026 18:46:21 +0900"
-    },
-    {
-      "title": "한투증권, 코인원 지분 인수 검토…\"확정된 사안은 없다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402170300008",
-      "pubDate": "Thu, 2 Apr 2026 18:43:20 +0900"
-    },
-    {
-      "title": "에이프로젠, 20억원 유상증자…(주)지베이스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260402169600008",
-      "pubDate": "Thu, 2 Apr 2026 18:42:31 +0900"
-    },
-    {
-      "title": "최태원, 상의 보도자료 논란에 내부 타운홀…\"하나로 뭉쳐야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402167000003",
-      "pubDate": "Thu, 2 Apr 2026 18:10:55 +0900"
-    },
-    {
-      "title": "강원도, 비상경제대응체제 전면 전환…중동 정세 장기화 대비",
-      "link": "https://www.yna.co.kr/view/AKR20260402166500062",
-      "pubDate": "Thu, 2 Apr 2026 18:08:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260402163900011",
-      "pubDate": "Thu, 2 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "BF랩스, 38억원 유상증자…리셀몬코리아에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260402164800008",
-      "pubDate": "Thu, 2 Apr 2026 17:48:50 +0900"
     }
   ]
 }
