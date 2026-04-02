@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775122337,
+  "updated_at_unix": 1775126467,
   "items": [
+    {
+      "title": "\"유통 대기업, '석화 재료 상승가격' 납품가에 최대한 반영키로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402166100001",
+      "pubDate": "Thu, 2 Apr 2026 18:55:05 +0900"
+    },
+    {
+      "title": "스트라드비젼·져스텍, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260402172800008",
+      "pubDate": "Thu, 2 Apr 2026 18:54:48 +0900"
+    },
+    {
+      "title": "구윤철 \"李대통령, 긴급재정명령하라는 뜻 아니었다…논의 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402171000002",
+      "pubDate": "Thu, 2 Apr 2026 18:47:06 +0900"
+    },
+    {
+      "title": "[게시판] 신한금융 계열 제주은행, ERP뱅킹 사업 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260402170500002",
+      "pubDate": "Thu, 2 Apr 2026 18:46:21 +0900"
+    },
+    {
+      "title": "한투증권, 코인원 지분 인수 검토…\"확정된 사안은 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402170300008",
+      "pubDate": "Thu, 2 Apr 2026 18:43:20 +0900"
+    },
+    {
+      "title": "에이프로젠, 20억원 유상증자…(주)지베이스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260402169600008",
+      "pubDate": "Thu, 2 Apr 2026 18:42:31 +0900"
+    },
     {
       "title": "최태원, 상의 보도자료 논란에 내부 타운홀…\"하나로 뭉쳐야\"",
       "link": "https://www.yna.co.kr/view/AKR20260402167000003",
@@ -122,36 +152,6 @@
       "title": "트럼프 강경 발언에 환율 20원 가까이 반등…1,519.7원",
       "link": "https://www.yna.co.kr/view/AKR20260402138200002",
       "pubDate": "Thu, 2 Apr 2026 15:47:24 +0900"
-    },
-    {
-      "title": "종전 기대 깬 트럼프 연설…\"당분간 약세장 나타날 수도\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402091151008",
-      "pubDate": "Thu, 2 Apr 2026 15:43:37 +0900"
-    },
-    {
-      "title": "李대통령 \"이번 위기는 소나기 아닌 폭풍우…비상한 대책 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402134800001",
-      "pubDate": "Thu, 2 Apr 2026 15:42:06 +0900"
-    },
-    {
-      "title": "제주지역 MICE 산업 경쟁력 강화 위한 협의체 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260402137200056",
-      "pubDate": "Thu, 2 Apr 2026 15:41:42 +0900"
-    },
-    {
-      "title": "경찰, '신안산선 터널 붕괴' 수사 마무리 수순…\"곧 송치 방침\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402135600061",
-      "pubDate": "Thu, 2 Apr 2026 15:40:09 +0900"
-    },
-    {
-      "title": "울산·경남 지역인재 합동 채용설명회…27개 기관·기업 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260402133500057",
-      "pubDate": "Thu, 2 Apr 2026 15:38:23 +0900"
-    },
-    {
-      "title": "강원도, 지역필수의료체계 구축 본격화…인력 양성·정주 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260402135000062",
-      "pubDate": "Thu, 2 Apr 2026 15:37:31 +0900"
     }
   ]
 }
