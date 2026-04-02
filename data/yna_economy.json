@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775163540,
+  "updated_at_unix": 1775165827,
   "items": [
+    {
+      "title": "플라스틱 제품 생산차질 현실화할까 조마조마…대체재 확보 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260402149500030",
+      "pubDate": "Fri, 3 Apr 2026 06:01:00 +0900"
+    },
+    {
+      "title": "환율방어 등에 3월 외환보유액 40억달러↓…11개월만에 최대폭",
+      "link": "https://www.yna.co.kr/view/AKR20260402154400002",
+      "pubDate": "Fri, 3 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "건축물 분양계약 해약기준 정비…\"분쟁 줄이고 수분양자 보호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402144100003",
+      "pubDate": "Fri, 3 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"용산서울코어를 글로벌 비즈니스 플랫폼으로\"…전략포럼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260402161400004",
+      "pubDate": "Fri, 3 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "1분기 농식품 수출 4% 늘어…라면·과자가 이끌어",
+      "link": "https://www.yna.co.kr/view/AKR20260402160400030",
+      "pubDate": "Fri, 3 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "중동 전쟁에 '수출길' 막힌 車…정부, 평택당진항 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260402174100003",
+      "pubDate": "Fri, 3 Apr 2026 06:00:01 +0900"
+    },
     {
       "title": "국제유가, 이란 종전 기대감 후퇴에 급반등…WTI 11%↑",
       "link": "https://www.yna.co.kr/view/AKR20260403005300072",
@@ -122,36 +152,6 @@
       "title": "관광객 수보다 체류시간 늘린다…경기관광공사 2030 비전 선포",
       "link": "https://www.yna.co.kr/view/AKR20260402150700061",
       "pubDate": "Thu, 2 Apr 2026 16:35:52 +0900"
-    },
-    {
-      "title": "대한건설협회 신임 상근부회장에 권혁진 전 국토부 실장",
-      "link": "https://www.yna.co.kr/view/AKR20260402143500003",
-      "pubDate": "Thu, 2 Apr 2026 16:31:14 +0900"
-    },
-    {
-      "title": "메가터치, 114억원 유상증자…휘스턴재료과학에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260402148600008",
-      "pubDate": "Thu, 2 Apr 2026 16:29:00 +0900"
-    },
-    {
-      "title": "SH, 마곡17단지 토지임대부 분양주택 본청약 당첨자 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260402148100004",
-      "pubDate": "Thu, 2 Apr 2026 16:26:45 +0900"
-    },
-    {
-      "title": "갈렙앤컴퍼니 등 3개사 'AI 의료 혁신' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260402147300060",
-      "pubDate": "Thu, 2 Apr 2026 16:21:49 +0900"
-    },
-    {
-      "title": "[특징주] 항공주, 트럼프 연설 후 유가 폭등에 줄줄이 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402052651008",
-      "pubDate": "Thu, 2 Apr 2026 16:13:46 +0900"
-    },
-    {
-      "title": "트럼프 '이란 강력 타격'…국제유가 다시 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402081351009",
-      "pubDate": "Thu, 2 Apr 2026 16:12:58 +0900"
     }
   ]
 }
