@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775129819,
+  "updated_at_unix": 1775133859,
   "items": [
+    {
+      "title": "노란봉투법후 첫 원청 '사용자성' 인정 판정…\"대화하란 의미\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402147500530",
+      "pubDate": "Thu, 2 Apr 2026 20:38:11 +0900"
+    },
     {
       "title": "조현, 美상원대표단 면담…안보 합의 이행·비자 개선 협조 당부",
       "link": "https://www.yna.co.kr/view/AKR20260402177400504",
@@ -147,11 +152,6 @@
       "title": "경기 광주시, 삼동역 일원 지구단위계획 개발 추진",
       "link": "https://www.yna.co.kr/view/AKR20260402141800061",
       "pubDate": "Thu, 2 Apr 2026 15:53:47 +0900"
-    },
-    {
-      "title": "[특징주] '호르무즈 우회' 파이프라인 검토설에 관련주 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402127951008",
-      "pubDate": "Thu, 2 Apr 2026 15:50:51 +0900"
     }
   ]
 }
