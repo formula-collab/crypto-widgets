@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775170536,
+  "updated_at_unix": 1775172249,
   "items": [
+    {
+      "title": "롯데百 시시호시 첫 대규모 세일…열흘간 최대 65% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260403021000030",
+      "pubDate": "Fri, 3 Apr 2026 08:18:20 +0900"
+    },
+    {
+      "title": "[마켓뷰] 뉴욕증시 급락출발 후 낙폭회복…韓도 반등 나설까",
+      "link": "https://www.yna.co.kr/view/AKR20260403018700008",
+      "pubDate": "Fri, 3 Apr 2026 08:03:17 +0900"
+    },
+    {
+      "title": "공영홈쇼핑 입점社 대금 지급기간 단축…규제 251건 완화 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260402157500002",
+      "pubDate": "Fri, 3 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "부울경 초광역 협력사업 첫 회의…5극 3특 전략 대응방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260403018100051",
+      "pubDate": "Fri, 3 Apr 2026 07:59:31 +0900"
+    },
+    {
+      "title": "장애인에게 좋은 일자리 제공…부산시, B-일사천리 프로젝트",
+      "link": "https://www.yna.co.kr/view/AKR20260403018000051",
+      "pubDate": "Fri, 3 Apr 2026 07:59:02 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260403014500011",
@@ -127,31 +152,6 @@
       "title": "BF랩스, 38억원 유상증자…리셀몬코리아에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260402164800008",
       "pubDate": "Thu, 2 Apr 2026 17:48:50 +0900"
-    },
-    {
-      "title": "중동전쟁에 일자리 충격 우려…'고용·체불상황판' 실시간 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260402161500530",
-      "pubDate": "Thu, 2 Apr 2026 17:31:24 +0900"
-    },
-    {
-      "title": "[게시판] 한남대·한컴인스페이스, 산학협력 모델 구축 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260402158400063",
-      "pubDate": "Thu, 2 Apr 2026 17:13:45 +0900"
-    },
-    {
-      "title": "국고채 금리 하루 만에 일제히 상승…3년물 연 3.477%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260402152451008",
-      "pubDate": "Thu, 2 Apr 2026 16:57:55 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.477%",
-      "link": "https://www.yna.co.kr/view/AKR20260402152400008",
-      "pubDate": "Thu, 2 Apr 2026 16:40:17 +0900"
-    },
-    {
-      "title": "[게시판] 신한카드 \"5월 말까지 주유 카드 혜택 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260402142900002",
-      "pubDate": "Thu, 2 Apr 2026 16:36:00 +0900"
     }
   ]
 }
