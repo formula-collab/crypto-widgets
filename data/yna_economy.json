@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775168501,
+  "updated_at_unix": 1775170536,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260403014500011",
+      "pubDate": "Fri, 3 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "플라스틱 제품 생산차질 현실화할까 조마조마…대체재 확보 나서",
       "link": "https://www.yna.co.kr/view/AKR20260402149500030",
@@ -147,11 +152,6 @@
       "title": "[게시판] 신한카드 \"5월 말까지 주유 카드 혜택 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260402142900002",
       "pubDate": "Thu, 2 Apr 2026 16:36:00 +0900"
-    },
-    {
-      "title": "관광객 수보다 체류시간 늘린다…경기관광공사 2030 비전 선포",
-      "link": "https://www.yna.co.kr/view/AKR20260402150700061",
-      "pubDate": "Thu, 2 Apr 2026 16:35:52 +0900"
     }
   ]
 }
