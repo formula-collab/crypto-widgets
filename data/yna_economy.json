@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775202963,
+  "updated_at_unix": 1775205758,
   "items": [
+    {
+      "title": "환율 급락·외인 매수세 속 국고채 금리 일제히 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260403130251008",
+      "pubDate": "Fri, 3 Apr 2026 17:00:55 +0900"
+    },
+    {
+      "title": "美 AI전력 인프라 액티브 등 ETF 4종, 7일 신규상장",
+      "link": "https://www.yna.co.kr/view/AKR20260403132100008",
+      "pubDate": "Fri, 3 Apr 2026 16:50:21 +0900"
+    },
     {
       "title": "국고채 금리 일제히 하락…3년물 연 3.448%",
       "link": "https://www.yna.co.kr/view/AKR20260403130200008",
@@ -142,16 +152,6 @@
       "title": "순창군, 청년·신혼부부용 '반값 주택' 100호 공급",
       "link": "https://www.yna.co.kr/view/AKR20260403106000055",
       "pubDate": "Fri, 3 Apr 2026 15:13:04 +0900"
-    },
-    {
-      "title": "[게시판] NH농협카드, 전국 모든 주유소 캐시백 혜택 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260403103100002",
-      "pubDate": "Fri, 3 Apr 2026 15:09:18 +0900"
-    },
-    {
-      "title": "\"이란산 원유 실은 유조선 항로 변경…인도→중국행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403100000009",
-      "pubDate": "Fri, 3 Apr 2026 15:05:09 +0900"
     }
   ]
 }
