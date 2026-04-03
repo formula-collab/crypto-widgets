@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775205758,
+  "updated_at_unix": 1775209349,
   "items": [
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260403143600002",
+      "pubDate": "Fri, 3 Apr 2026 18:36:11 +0900"
+    },
+    {
+      "title": "에어차이나, 베이징-평양 운항 일시 중단…4월 노선 취소",
+      "link": "https://www.yna.co.kr/view/AKR20260403152700083",
+      "pubDate": "Fri, 3 Apr 2026 18:31:49 +0900"
+    },
+    {
+      "title": "박홍근 \"추경 정책 효과는 속도에 좌우…즉시집행 철저 준비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403153000002",
+      "pubDate": "Fri, 3 Apr 2026 18:27:28 +0900"
+    },
+    {
+      "title": "한·프랑스, 핵심광물·반도체·원전 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260403153600003",
+      "pubDate": "Fri, 3 Apr 2026 18:23:27 +0900"
+    },
+    {
+      "title": "레이저쎌, 70억원 유증…NH투자증권에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260403148300008",
+      "pubDate": "Fri, 3 Apr 2026 18:11:31 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260403137800011",
+      "pubDate": "Fri, 3 Apr 2026 18:00:15 +0900"
+    },
+    {
+      "title": "李대통령, 한국노총 이어 10일 민주노총 만나…노동정책 의견수렴",
+      "link": "https://www.yna.co.kr/view/AKR20260403144900001",
+      "pubDate": "Fri, 3 Apr 2026 17:59:46 +0900"
+    },
+    {
+      "title": "검찰, '계열사 자료 허위제출' 김준기 DB 창업회장 약식기소",
+      "link": "https://www.yna.co.kr/view/AKR20260403145800004",
+      "pubDate": "Fri, 3 Apr 2026 17:52:25 +0900"
+    },
     {
       "title": "환율 급락·외인 매수세 속 국고채 금리 일제히 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260403130251008",
@@ -112,46 +152,6 @@
       "title": "\"美 새 관세 조치 발표…변압기는 부담 완화·가전은 가중\"",
       "link": "https://www.yna.co.kr/view/AKR20260403111900003",
       "pubDate": "Fri, 3 Apr 2026 15:42:54 +0900"
-    },
-    {
-      "title": "외국환시세(4월3일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260403113200002",
-      "pubDate": "Fri, 3 Apr 2026 15:38:00 +0900"
-    },
-    {
-      "title": "[부고] 김진섭(한국수출입은행 중소중견기업금융본부장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260403113900002",
-      "pubDate": "Fri, 3 Apr 2026 15:37:52 +0900"
-    },
-    {
-      "title": "코스피, 2.7% 상승 5,370대 회복…코스닥도 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260403112700008",
-      "pubDate": "Fri, 3 Apr 2026 15:35:11 +0900"
-    },
-    {
-      "title": "[게시판] BNK자산운용, 'BNK코스닥벤처펀드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260403111500051",
-      "pubDate": "Fri, 3 Apr 2026 15:33:48 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260403109500030",
-      "pubDate": "Fri, 3 Apr 2026 15:33:33 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 14.5원 내린 1,505.2원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260403111000002",
-      "pubDate": "Fri, 3 Apr 2026 15:30:37 +0900"
-    },
-    {
-      "title": "양천구, 청년 취업교육 프로그램 4개 과정 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260403107600004",
-      "pubDate": "Fri, 3 Apr 2026 15:17:00 +0900"
-    },
-    {
-      "title": "순창군, 청년·신혼부부용 '반값 주택' 100호 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260403106000055",
-      "pubDate": "Fri, 3 Apr 2026 15:13:04 +0900"
     }
   ]
 }
