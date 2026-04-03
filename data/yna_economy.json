@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775212388,
+  "updated_at_unix": 1775215775,
   "items": [
+    {
+      "title": "코이카-프랑스개발청 그룹, '한불 수교 140주년' 파트너십 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260403162300371",
+      "pubDate": "Fri, 3 Apr 2026 20:08:23 +0900"
+    },
+    {
+      "title": "마크롱 \"140년간 쌓아온 신뢰로 한-프랑스 경제협력 강화해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260403164100003",
+      "pubDate": "Fri, 3 Apr 2026 20:07:21 +0900"
+    },
     {
       "title": "경제계 \"에너지 위기 극복 동참…유연 근무제·공정 효율화 등\"",
       "link": "https://www.yna.co.kr/view/AKR20260403161400003",
@@ -142,16 +152,6 @@
       "title": "강원도·금융위, 춘천서 찾아가는 국민성장펀드 간담회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260403117700062",
       "pubDate": "Fri, 3 Apr 2026 15:55:52 +0900"
-    },
-    {
-      "title": "국가AI컴퓨팅센터 건립 '속도'…해남군, 3일 건축허가 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260403117600054",
-      "pubDate": "Fri, 3 Apr 2026 15:52:14 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 4.4% 급등 마감…SK하이닉스도 5.5%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260403035051008",
-      "pubDate": "Fri, 3 Apr 2026 15:48:27 +0900"
     }
   ]
 }
