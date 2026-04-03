@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775252017,
+  "updated_at_unix": 1775254869,
   "items": [
+    {
+      "title": "[금주핫템] 에이피 뷰티 '톤업 선세럼'·에블린 '쿨 컬렉션'",
+      "link": "https://www.yna.co.kr/view/AKR20260331076100030",
+      "pubDate": "Sat, 4 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[신상잇슈] 롯데칠성 '순하리유자진'·hy '헬리코박터 프로젝트윌 제주말차'",
+      "link": "https://www.yna.co.kr/view/AKR20260403041400030",
+      "pubDate": "Sat, 4 Apr 2026 07:00:01 +0900"
+    },
+    {
+      "title": "[AI돋보기] 호르무즈 긴장에 공급망 흔들…AI 위기 대응 '시험대'",
+      "link": "https://www.yna.co.kr/view/AKR20260403018500017",
+      "pubDate": "Sat, 4 Apr 2026 06:33:00 +0900"
+    },
     {
       "title": "청년 채무조정 효과 입증…빚 19% 줄고 우울감도 뚝",
       "link": "https://www.yna.co.kr/view/AKR20260403123800530",
@@ -137,21 +152,6 @@
       "title": "울주문화재단-부산 청년작당소, 청년문화 교류 확대 '맞손'",
       "link": "https://www.yna.co.kr/view/AKR20260403056700057",
       "pubDate": "Fri, 3 Apr 2026 16:30:00 +0900"
-    },
-    {
-      "title": "한·UAE CEPA 내달 1일 조기 발효…중동 산유국과 첫 FTA",
-      "link": "https://www.yna.co.kr/view/AKR20260403125300003",
-      "pubDate": "Fri, 3 Apr 2026 16:27:43 +0900"
-    },
-    {
-      "title": "호르무즈 해협 개방 기대에…환율 14.5원 내린 1,505.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260403124400002",
-      "pubDate": "Fri, 3 Apr 2026 16:25:31 +0900"
-    },
-    {
-      "title": "경남은행, 디지털 화폐 실증 '프로젝트 한강' 2단계 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260403118100052",
-      "pubDate": "Fri, 3 Apr 2026 16:04:13 +0900"
     }
   ]
 }
