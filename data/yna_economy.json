@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775238989,
+  "updated_at_unix": 1775241406,
   "items": [
+    {
+      "title": "달러-원, 美 고용 '깜짝 증가'에 반등…1,511.40원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260404003700002",
+      "pubDate": "Sat, 4 Apr 2026 02:57:33 +0900"
+    },
     {
       "title": "與 \"추경으로 나프타 수급 지원…합성수지 가격인상 폭 축소 유도\"",
       "link": "https://www.yna.co.kr/view/AKR20260403162900001",
@@ -147,11 +152,6 @@
       "title": "유가 상승 압력에 윤활유값도 올라…정유업계 줄줄이 인상",
       "link": "https://www.yna.co.kr/view/AKR20260403120100003",
       "pubDate": "Fri, 3 Apr 2026 16:02:34 +0900"
-    },
-    {
-      "title": "[특징주] 증권주, 투자 심리 회복에 대다수 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260403056551008",
-      "pubDate": "Fri, 3 Apr 2026 15:59:18 +0900"
     }
   ]
 }
