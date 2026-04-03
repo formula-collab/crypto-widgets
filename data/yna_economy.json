@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775215775,
+  "updated_at_unix": 1775217598,
   "items": [
+    {
+      "title": "與 \"추경으로 나프타 수급 지원…합성수지 가격인상 폭 축소 유도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403162900001",
+      "pubDate": "Fri, 3 Apr 2026 20:32:23 +0900"
+    },
     {
       "title": "코이카-프랑스개발청 그룹, '한불 수교 140주년' 파트너십 강화",
       "link": "https://www.yna.co.kr/view/AKR20260403162300371",
@@ -147,11 +152,6 @@
       "title": "[특징주] 증권주, 투자 심리 회복에 대다수 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260403056551008",
       "pubDate": "Fri, 3 Apr 2026 15:59:18 +0900"
-    },
-    {
-      "title": "강원도·금융위, 춘천서 찾아가는 국민성장펀드 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260403117700062",
-      "pubDate": "Fri, 3 Apr 2026 15:55:52 +0900"
     }
   ]
 }
