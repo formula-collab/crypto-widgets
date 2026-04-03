@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775189053,
+  "updated_at_unix": 1775195633,
   "items": [
+    {
+      "title": "\"기다리지 않고 찾아간다\"…익산시, 월 2회 기업 현장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260403099800055",
+      "pubDate": "Fri, 3 Apr 2026 14:44:00 +0900"
+    },
+    {
+      "title": "원미희 강원도의원, 평화경제특구 공모 적극 대응 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260403097900062",
+      "pubDate": "Fri, 3 Apr 2026 14:42:42 +0900"
+    },
+    {
+      "title": "[게시판] 우리카드, 액티브 시니어 특화 신용·체크카드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260403089300002",
+      "pubDate": "Fri, 3 Apr 2026 14:34:44 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260403092800011",
+      "pubDate": "Fri, 3 Apr 2026 14:30:00 +0900"
+    },
+    {
+      "title": "코웨이, 롯데백화점 잠실점서 팝업스토어 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260403095100030",
+      "pubDate": "Fri, 3 Apr 2026 14:27:28 +0900"
+    },
+    {
+      "title": "정부, 美 철강 관세 부과 방식 개편에 업계와 긴급 화상회의",
+      "link": "https://www.yna.co.kr/view/AKR20260403092400003",
+      "pubDate": "Fri, 3 Apr 2026 14:26:26 +0900"
+    },
+    {
+      "title": "한투증권, 신한카드와 제휴해 발행어음 투자 서비스 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260403094200008",
+      "pubDate": "Fri, 3 Apr 2026 14:24:59 +0900"
+    },
+    {
+      "title": "하루 석유 소비 281만배럴인데…기업들 연간 96만배럴 절감 계획",
+      "link": "https://www.yna.co.kr/view/AKR20260403092300530",
+      "pubDate": "Fri, 3 Apr 2026 14:20:45 +0900"
+    },
+    {
+      "title": "[광주소식] 광주은행, 생계비계좌 개설 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260403089400054",
+      "pubDate": "Fri, 3 Apr 2026 14:07:34 +0900"
+    },
+    {
+      "title": "'일하는 모든 외국인' 보호…\"비자 체계·노동 정책 통합 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403052100530",
+      "pubDate": "Fri, 3 Apr 2026 14:00:02 +0900"
+    },
+    {
+      "title": "유니드, 이차전지 기업 '리베스트'에 100억원 추가 투자(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260403080851008",
+      "pubDate": "Fri, 3 Apr 2026 13:51:46 +0900"
+    },
+    {
+      "title": "한국 방문 크루즈 관광객, 6일부터 시내서 내국세 바로 환급",
+      "link": "https://www.yna.co.kr/view/AKR20260403076700002",
+      "pubDate": "Fri, 3 Apr 2026 13:49:41 +0900"
+    },
+    {
+      "title": "인천 남동구, 올해 '지속가능 일자리' 1만6천여개 창출",
+      "link": "https://www.yna.co.kr/view/AKR20260403084900065",
+      "pubDate": "Fri, 3 Apr 2026 13:42:53 +0900"
+    },
+    {
+      "title": "춘천시 공공부문 에너지 절감 강화…차량 홀짝제 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260403082200062",
+      "pubDate": "Fri, 3 Apr 2026 13:30:59 +0900"
+    },
+    {
+      "title": "유니드 \"리베스트 주식 100억원어치 추가취득…지분율 17.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403080800008",
+      "pubDate": "Fri, 3 Apr 2026 13:26:58 +0900"
+    },
+    {
+      "title": "LG전자, 인도 에어컨 '분기 100만대' 돌파…현지화 전략 통했다",
+      "link": "https://www.yna.co.kr/view/AKR20260403074600003",
+      "pubDate": "Fri, 3 Apr 2026 13:21:06 +0900"
+    },
+    {
+      "title": "李대통령 \"韓·佛, 호르무즈 해협 안전 수송로 확보 협력하기로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403060500001",
+      "pubDate": "Fri, 3 Apr 2026 13:03:38 +0900"
+    },
     {
       "title": "대법 \"리얼돌, 외관만으로 수입 통관 일률적 보류는 위법\"",
       "link": "https://www.yna.co.kr/view/AKR20260403051700004",
@@ -67,91 +152,6 @@
       "title": "[게시판] 금융위, 강원도서 국민성장펀드·지방우대금융 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260403054600002",
       "pubDate": "Fri, 3 Apr 2026 10:34:38 +0900"
-    },
-    {
-      "title": "울주군, 중동전쟁 장기화에 민생·경제 비상 대응체계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260403055500057",
-      "pubDate": "Fri, 3 Apr 2026 10:33:32 +0900"
-    },
-    {
-      "title": "[특징주] 증권주, 호르무즈 해협 개방 기대감 속 장초반 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260403056500008",
-      "pubDate": "Fri, 3 Apr 2026 10:31:20 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260403053100011",
-      "pubDate": "Fri, 3 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "홍천 항체클러스터 입주기업, 초격차 스타트업 프로젝트 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260403054000062",
-      "pubDate": "Fri, 3 Apr 2026 10:25:59 +0900"
-    },
-    {
-      "title": "오세훈 \"전월세 재앙 몰려와…등록임대 활성화가 현실적 해법\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403046100004",
-      "pubDate": "Fri, 3 Apr 2026 10:20:08 +0900"
-    },
-    {
-      "title": "의왕시, 기업지원·물가관리 등 중동전쟁 대응 TF 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260403053800061",
-      "pubDate": "Fri, 3 Apr 2026 10:19:35 +0900"
-    },
-    {
-      "title": "대우건설, '글로벌인프라본부' 신설…원전시장 확대 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260403054100003",
-      "pubDate": "Fri, 3 Apr 2026 10:19:07 +0900"
-    },
-    {
-      "title": "제주도, 프리랜서·1인사업 워킹맘도 출산급여 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260403052000056",
-      "pubDate": "Fri, 3 Apr 2026 10:16:25 +0900"
-    },
-    {
-      "title": "전주역세권 개발 8년 만에 '급물살'…2034년 완공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260403051600055",
-      "pubDate": "Fri, 3 Apr 2026 10:14:28 +0900"
-    },
-    {
-      "title": "강태영 NH농협은행장, 직원들과 인공지능 전환 소통",
-      "link": "https://www.yna.co.kr/view/AKR20260403052300002",
-      "pubDate": "Fri, 3 Apr 2026 10:13:56 +0900"
-    },
-    {
-      "title": "[인사] 대한상공회의소",
-      "link": "https://www.yna.co.kr/view/AKR20260403051000003",
-      "pubDate": "Fri, 3 Apr 2026 10:11:00 +0900"
-    },
-    {
-      "title": "국토부, '건설현장 비상경제 TF' 운영…단장에 김이탁 1차관",
-      "link": "https://www.yna.co.kr/view/AKR20260403050700003",
-      "pubDate": "Fri, 3 Apr 2026 10:08:00 +0900"
-    },
-    {
-      "title": "서삼석 \"유가 급등, 농어민 보탬 되는 추경 편성해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403049800054",
-      "pubDate": "Fri, 3 Apr 2026 10:05:33 +0900"
-    },
-    {
-      "title": "정부, '적정시비'로 과다사용 줄인다…가축분뇨 퇴액비 지원확대",
-      "link": "https://www.yna.co.kr/view/AKR20260402134000030",
-      "pubDate": "Fri, 3 Apr 2026 10:00:02 +0900"
-    },
-    {
-      "title": "서울시, 차기 시금고 지정계획 공고…5월 중 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260403048200004",
-      "pubDate": "Fri, 3 Apr 2026 09:56:31 +0900"
-    },
-    {
-      "title": "우리은행 \"영업점 남는 공간에 굿윌스토어 입점…지역 상생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403047800002",
-      "pubDate": "Fri, 3 Apr 2026 09:56:28 +0900"
-    },
-    {
-      "title": "보증부대출 금리에 출연금 50% 이상 반영 제한…금리 부담 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260403043500002",
-      "pubDate": "Fri, 3 Apr 2026 09:55:51 +0900"
     }
   ]
 }
