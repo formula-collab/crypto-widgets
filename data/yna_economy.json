@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775249951,
+  "updated_at_unix": 1775252017,
   "items": [
+    {
+      "title": "청년 채무조정 효과 입증…빚 19% 줄고 우울감도 뚝",
+      "link": "https://www.yna.co.kr/view/AKR20260403123800530",
+      "pubDate": "Sat, 4 Apr 2026 06:11:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 서울 이촌르엘 청약…분상제에 '로또 분양' 되나",
+      "link": "https://www.yna.co.kr/view/AKR20260403144400003",
+      "pubDate": "Sat, 4 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "신현송, 다주택 82억 자산가…강남 아파트·도심 오피스텔 보유",
+      "link": "https://www.yna.co.kr/view/AKR20260403172100002",
+      "pubDate": "Sat, 4 Apr 2026 05:55:01 +0900"
+    },
     {
       "title": "달러-원, 美 고용 '깜짝 증가'에 반등…1,511.40원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260404003700002",
@@ -137,21 +152,6 @@
       "title": "경남은행, 디지털 화폐 실증 '프로젝트 한강' 2단계 참여",
       "link": "https://www.yna.co.kr/view/AKR20260403118100052",
       "pubDate": "Fri, 3 Apr 2026 16:04:13 +0900"
-    },
-    {
-      "title": "70억원대 부당 대출 일으킨 축협 직원 등 3명 사전구속영장",
-      "link": "https://www.yna.co.kr/view/AKR20260403119000061",
-      "pubDate": "Fri, 3 Apr 2026 16:03:24 +0900"
-    },
-    {
-      "title": "코스피, 외국인 복귀에 2.7% 상승 5,370대 마감…코스닥도 올라(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260403118300008",
-      "pubDate": "Fri, 3 Apr 2026 16:03:14 +0900"
-    },
-    {
-      "title": "유가 상승 압력에 윤활유값도 올라…정유업계 줄줄이 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260403120100003",
-      "pubDate": "Fri, 3 Apr 2026 16:02:34 +0900"
     }
   ]
 }
