@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775257083,
+  "updated_at_unix": 1775259048,
   "items": [
+    {
+      "title": "부산 2월 '악성 미분양' 소폭 감소…매매 줄고 전월세 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260402127400051",
+      "pubDate": "Sat, 4 Apr 2026 08:00:06 +0900"
+    },
     {
       "title": "[금주핫템] 에이피 뷰티 '톤업 선세럼'·에블린 '쿨 컬렉션'",
       "link": "https://www.yna.co.kr/view/AKR20260331076100030",
@@ -147,11 +152,6 @@
       "title": "고양시 \"아이에스동서, 고양 덕은지구에 둥지\"",
       "link": "https://www.yna.co.kr/view/AKR20260403126200060",
       "pubDate": "Fri, 3 Apr 2026 16:32:20 +0900"
-    },
-    {
-      "title": "울주문화재단-부산 청년작당소, 청년문화 교류 확대 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260403056700057",
-      "pubDate": "Fri, 3 Apr 2026 16:30:00 +0900"
     }
   ]
 }
