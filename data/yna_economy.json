@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775209349,
+  "updated_at_unix": 1775212388,
   "items": [
+    {
+      "title": "경제계 \"에너지 위기 극복 동참…유연 근무제·공정 효율화 등\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403161400003",
+      "pubDate": "Fri, 3 Apr 2026 19:26:27 +0900"
+    },
+    {
+      "title": "금융결제원, 신임 원장에 채병득 전 한은 부총재보",
+      "link": "https://www.yna.co.kr/view/AKR20260403157800002",
+      "pubDate": "Fri, 3 Apr 2026 19:07:57 +0900"
+    },
+    {
+      "title": "김정관 장관, 민주노총에 \"제조업 AI 전환, 일자리 위한 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403155500003",
+      "pubDate": "Fri, 3 Apr 2026 18:43:58 +0900"
+    },
     {
       "title": "[인사] 금융위원회",
       "link": "https://www.yna.co.kr/view/AKR20260403143600002",
@@ -137,21 +152,6 @@
       "title": "[특징주] 삼성전자, 4.4% 급등 마감…SK하이닉스도 5.5%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260403035051008",
       "pubDate": "Fri, 3 Apr 2026 15:48:27 +0900"
-    },
-    {
-      "title": "'시민 미디어 역량 강화하자'…속초시, 지역 기관과 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260403114900062",
-      "pubDate": "Fri, 3 Apr 2026 15:44:57 +0900"
-    },
-    {
-      "title": "중기부, 이달 정책자금·R&D 지원사업 심사 개선방안 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260403114200030",
-      "pubDate": "Fri, 3 Apr 2026 15:43:32 +0900"
-    },
-    {
-      "title": "\"美 새 관세 조치 발표…변압기는 부담 완화·가전은 가중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403111900003",
-      "pubDate": "Fri, 3 Apr 2026 15:42:54 +0900"
     }
   ]
 }
