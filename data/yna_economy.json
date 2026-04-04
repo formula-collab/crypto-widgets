@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775341047,
+  "updated_at_unix": 1775343211,
   "items": [
+    {
+      "title": "韓, 캐나다 잠수함 넘어 군함·쇄빙선·MRO 수주 기회 엿본다",
+      "link": "https://www.yna.co.kr/view/AKR20260405005800003",
+      "pubDate": "Sun, 5 Apr 2026 07:44:21 +0900"
+    },
+    {
+      "title": "전쟁 리스크 뚫은 한국 바이오…수출 6조 넘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260403128900017",
+      "pubDate": "Sun, 5 Apr 2026 07:33:00 +0900"
+    },
+    {
+      "title": "체구는 10분의 1인데…토스증권, 작년 업계 9위 '깜짝' 순익",
+      "link": "https://www.yna.co.kr/view/AKR20260404019600008",
+      "pubDate": "Sun, 5 Apr 2026 07:20:01 +0900"
+    },
+    {
+      "title": "하나금융 헤드쿼터, 인천 청라로…하나드림타운 3단계 6월 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260403046300065",
+      "pubDate": "Sun, 5 Apr 2026 07:17:00 +0900"
+    },
+    {
+      "title": "이란전쟁 후 실적눈높이 최대 하향 종목은 제주항공…정유주는↑",
+      "link": "https://www.yna.co.kr/view/AKR20260403172300008",
+      "pubDate": "Sun, 5 Apr 2026 07:15:01 +0900"
+    },
     {
       "title": "[현장in] 면세유 오르고 소비는 뚝…고양 화훼농가의 한숨",
       "link": "https://www.yna.co.kr/view/AKR20260403086100060",
@@ -127,31 +152,6 @@
       "title": "'방파제' 쌓았다지만 '인플레 스톰'…해외IB \"물가 3% 웃돌 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260404050800002",
       "pubDate": "Sun, 5 Apr 2026 05:47:00 +0900"
-    },
-    {
-      "title": "기준금리 동결될 듯…\"전쟁에 물가·환율 우려, 연내 올릴 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260404051500002",
-      "pubDate": "Sun, 5 Apr 2026 05:45:00 +0900"
-    },
-    {
-      "title": "세계 식량가격지수 2.4% 올라…곡물·유지류·육류 모두 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260404034300030",
-      "pubDate": "Sat, 4 Apr 2026 14:47:12 +0900"
-    },
-    {
-      "title": "올해 9급 국가공무원 공채 필기 응시율 75%…작년보다 소폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260404031100001",
-      "pubDate": "Sat, 4 Apr 2026 13:03:01 +0900"
-    },
-    {
-      "title": "에너지 수급 위기 속 고리2호기 3년 만에 재가동",
-      "link": "https://www.yna.co.kr/view/AKR20260404030300051",
-      "pubDate": "Sat, 4 Apr 2026 12:24:20 +0900"
-    },
-    {
-      "title": "[마이더스] 진정한 재테크… 세금 내면 얼마 남나",
-      "link": "https://www.yna.co.kr/view/AKR20260401070100980",
-      "pubDate": "Sat, 4 Apr 2026 10:30:02 +0900"
     }
   ]
 }
