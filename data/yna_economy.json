@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775264941,
+  "updated_at_unix": 1775274261,
   "items": [
+    {
+      "title": "에너지 수급 위기 속 고리2호기 3년 만에 재가동",
+      "link": "https://www.yna.co.kr/view/AKR20260404030300051",
+      "pubDate": "Sat, 4 Apr 2026 12:24:20 +0900"
+    },
+    {
+      "title": "[마이더스] 진정한 재테크… 세금 내면 얼마 남나",
+      "link": "https://www.yna.co.kr/view/AKR20260401070100980",
+      "pubDate": "Sat, 4 Apr 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260404025300011",
+      "pubDate": "Sat, 4 Apr 2026 10:30:00 +0900"
+    },
     {
       "title": "휘발유 1천930원대·경유 1천920원대…기름값 상승세 지속",
       "link": "https://www.yna.co.kr/view/AKR20260404020500003",
@@ -137,21 +152,6 @@
       "title": "美 AI전력 인프라 액티브 등 ETF 4종, 7일 신규상장",
       "link": "https://www.yna.co.kr/view/AKR20260403132100008",
       "pubDate": "Fri, 3 Apr 2026 16:50:21 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.448%",
-      "link": "https://www.yna.co.kr/view/AKR20260403130200008",
-      "pubDate": "Fri, 3 Apr 2026 16:40:15 +0900"
-    },
-    {
-      "title": "지놈앤컴퍼니 70억 유증…케이웨이브글로벌밸류업제1호투자조합에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260403128200008",
-      "pubDate": "Fri, 3 Apr 2026 16:35:28 +0900"
-    },
-    {
-      "title": "[동정] 김이탁 국토차관, 수도권 공공택지 점검 회의 주재",
-      "link": "https://www.yna.co.kr/view/AKR20260403128300003",
-      "pubDate": "Fri, 3 Apr 2026 16:34:09 +0900"
     }
   ]
 }
