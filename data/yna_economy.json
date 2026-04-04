@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775344825,
+  "updated_at_unix": 1775346698,
   "items": [
+    {
+      "title": "[게시판] 하나금융, 발달장애 예술가 협업 굿즈 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260404046000002",
+      "pubDate": "Sun, 5 Apr 2026 08:30:00 +0900"
+    },
     {
       "title": "울주군, 토지구획정리사업 불일치 지번 직권 정정",
       "link": "https://www.yna.co.kr/view/AKR20260403057300057",
@@ -147,11 +152,6 @@
       "title": "신현송 82억 중 외화자산이 절반 이상…청문회 쟁점되나",
       "link": "https://www.yna.co.kr/view/AKR20260404042800002",
       "pubDate": "Sun, 5 Apr 2026 05:51:00 +0900"
-    },
-    {
-      "title": "규제지역 다주택자 매물 7천500호…'투기1주택' 대출제한도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260404044500002",
-      "pubDate": "Sun, 5 Apr 2026 05:49:01 +0900"
     }
   ]
 }
