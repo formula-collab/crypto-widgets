@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775337650,
+  "updated_at_unix": 1775339478,
   "items": [
+    {
+      "title": "LG엔솔, 볼보 상대로 특허 소송…中 배터리 겨냥 공세 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260403124600003",
+      "pubDate": "Sun, 5 Apr 2026 06:30:00 +0900"
+    },
+    {
+      "title": "홈플러스, 회생의 터널 속 1년…익스프레스 매각이 분수령",
+      "link": "https://www.yna.co.kr/view/AKR20260403154100030",
+      "pubDate": "Sun, 5 Apr 2026 06:15:01 +0900"
+    },
     {
       "title": "한국, 2030년 달 간다…민간 착륙선 추진",
       "link": "https://www.yna.co.kr/view/AKR20260403122200017",
@@ -142,16 +152,6 @@
       "title": "청년 채무조정 효과 입증…빚 19% 줄고 우울감도 뚝",
       "link": "https://www.yna.co.kr/view/AKR20260403123800530",
       "pubDate": "Sat, 4 Apr 2026 06:11:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 서울 이촌르엘 청약…분상제에 '로또 분양' 되나",
-      "link": "https://www.yna.co.kr/view/AKR20260403144400003",
-      "pubDate": "Sat, 4 Apr 2026 06:00:00 +0900"
-    },
-    {
-      "title": "신현송, 다주택 82억 자산가…강남 아파트·도심 오피스텔 보유",
-      "link": "https://www.yna.co.kr/view/AKR20260403172100002",
-      "pubDate": "Sat, 4 Apr 2026 05:55:01 +0900"
     }
   ]
 }
