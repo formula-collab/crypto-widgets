@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775333858,
+  "updated_at_unix": 1775336009,
   "items": [
+    {
+      "title": "기준금리 동결될 듯…\"전쟁에 물가·환율 우려, 연내 올릴 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260404051500002",
+      "pubDate": "Sun, 5 Apr 2026 05:45:00 +0900"
+    },
     {
       "title": "세계 식량가격지수 2.4% 올라…곡물·유지류·육류 모두 상승",
       "link": "https://www.yna.co.kr/view/AKR20260404034300030",
@@ -147,11 +152,6 @@
       "title": "李대통령, 한국노총 이어 10일 민주노총 만나…노동정책 의견수렴",
       "link": "https://www.yna.co.kr/view/AKR20260403144900001",
       "pubDate": "Fri, 3 Apr 2026 17:59:46 +0900"
-    },
-    {
-      "title": "검찰, '계열사 자료 허위제출' 김준기 DB 창업회장 약식기소",
-      "link": "https://www.yna.co.kr/view/AKR20260403145800004",
-      "pubDate": "Fri, 3 Apr 2026 17:52:25 +0900"
     }
   ]
 }
