@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775274261,
+  "updated_at_unix": 1775279808,
   "items": [
+    {
+      "title": "올해 9급 국가공무원 공채 필기 응시율 75%…작년보다 소폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260404031100001",
+      "pubDate": "Sat, 4 Apr 2026 13:03:01 +0900"
+    },
     {
       "title": "에너지 수급 위기 속 고리2호기 3년 만에 재가동",
       "link": "https://www.yna.co.kr/view/AKR20260404030300051",
@@ -147,11 +152,6 @@
       "title": "환율 급락·외인 매수세 속 국고채 금리 일제히 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260403130251008",
       "pubDate": "Fri, 3 Apr 2026 17:00:55 +0900"
-    },
-    {
-      "title": "美 AI전력 인프라 액티브 등 ETF 4종, 7일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260403132100008",
-      "pubDate": "Fri, 3 Apr 2026 16:50:21 +0900"
     }
   ]
 }
