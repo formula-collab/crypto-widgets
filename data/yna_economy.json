@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775339478,
+  "updated_at_unix": 1775341047,
   "items": [
+    {
+      "title": "[현장in] 면세유 오르고 소비는 뚝…고양 화훼농가의 한숨",
+      "link": "https://www.yna.co.kr/view/AKR20260403086100060",
+      "pubDate": "Sun, 5 Apr 2026 07:03:08 +0900"
+    },
+    {
+      "title": "전쟁 한달 원유 ETN 상승률 상위권 석권…최고 2배 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260404034500008",
+      "pubDate": "Sun, 5 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "GH, 신축약정형 매입임대주택 600호 매입…청년 등에 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260403102900061",
+      "pubDate": "Sun, 5 Apr 2026 07:02:01 +0900"
+    },
+    {
+      "title": "[반려동물] 함께 살 준비 되셨나요?…\"유기·사고 줄일 공존방법 찾아야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403120600030",
+      "pubDate": "Sun, 5 Apr 2026 07:01:03 +0900"
+    },
+    {
+      "title": "[반려동물] '세 집 중 한 집 막내로 산다'…1천500만 가족이 달라졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260403087700030",
+      "pubDate": "Sun, 5 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "증권 전자등록업 경쟁체제 가나…민간사업자 내년 서비스 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260403168700008",
+      "pubDate": "Sun, 5 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 다가오는 최후통첩 시한…기로에 선 이란 사태",
+      "link": "https://www.yna.co.kr/view/AKR20260404000100008",
+      "pubDate": "Sun, 5 Apr 2026 07:00:17 +0900"
+    },
+    {
+      "title": "[전국레이더] 국제유가 급등에 깊어지는 농어민 시름",
+      "link": "https://www.yna.co.kr/view/AKR20260403114300060",
+      "pubDate": "Sun, 5 Apr 2026 07:00:05 +0900"
+    },
+    {
+      "title": "지난해 日 턱밑 추격한 한국 수출, 올해 사상 첫 역전 가시권",
+      "link": "https://www.yna.co.kr/view/AKR20260404049700003",
+      "pubDate": "Sun, 5 Apr 2026 07:00:02 +0900"
+    },
     {
       "title": "LG엔솔, 볼보 상대로 특허 소송…中 배터리 겨냥 공세 확대",
       "link": "https://www.yna.co.kr/view/AKR20260403124600003",
@@ -107,51 +152,6 @@
       "title": "[마이더스] 진정한 재테크… 세금 내면 얼마 남나",
       "link": "https://www.yna.co.kr/view/AKR20260401070100980",
       "pubDate": "Sat, 4 Apr 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260404025300011",
-      "pubDate": "Sat, 4 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "휘발유 1천930원대·경유 1천920원대…기름값 상승세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260404020500003",
-      "pubDate": "Sat, 4 Apr 2026 09:25:01 +0900"
-    },
-    {
-      "title": "[다음주 경제] 한은 기준금리 결정…작년말 국가부채도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260404019700002",
-      "pubDate": "Sat, 4 Apr 2026 09:06:41 +0900"
-    },
-    {
-      "title": "동아대, 외국인 유학생 취업·정주 맞춤형 관리 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260403064100051",
-      "pubDate": "Sat, 4 Apr 2026 09:01:00 +0900"
-    },
-    {
-      "title": "부산 2월 '악성 미분양' 소폭 감소…매매 줄고 전월세 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260402127400051",
-      "pubDate": "Sat, 4 Apr 2026 08:00:06 +0900"
-    },
-    {
-      "title": "[금주핫템] 에이피 뷰티 '톤업 선세럼'·에블린 '쿨 컬렉션'",
-      "link": "https://www.yna.co.kr/view/AKR20260331076100030",
-      "pubDate": "Sat, 4 Apr 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 롯데칠성 '순하리유자진'·hy '헬리코박터 프로젝트윌 제주말차'",
-      "link": "https://www.yna.co.kr/view/AKR20260403041400030",
-      "pubDate": "Sat, 4 Apr 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[AI돋보기] 호르무즈 긴장에 공급망 흔들…AI 위기 대응 '시험대'",
-      "link": "https://www.yna.co.kr/view/AKR20260403018500017",
-      "pubDate": "Sat, 4 Apr 2026 06:33:00 +0900"
-    },
-    {
-      "title": "청년 채무조정 효과 입증…빚 19% 줄고 우울감도 뚝",
-      "link": "https://www.yna.co.kr/view/AKR20260403123800530",
-      "pubDate": "Sat, 4 Apr 2026 06:11:01 +0900"
     }
   ]
 }
