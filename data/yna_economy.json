@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775343211,
+  "updated_at_unix": 1775344825,
   "items": [
+    {
+      "title": "울주군, 토지구획정리사업 불일치 지번 직권 정정",
+      "link": "https://www.yna.co.kr/view/AKR20260403057300057",
+      "pubDate": "Sun, 5 Apr 2026 08:10:02 +0900"
+    },
+    {
+      "title": "하원선 주택관리사협회장 \"관리 사무도 '필수 업무'로 지정해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260404054400003",
+      "pubDate": "Sun, 5 Apr 2026 08:01:00 +0900"
+    },
+    {
+      "title": "성남시, 중동정세 대응 지역화폐 사용가능 주유·충전소 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260405006500061",
+      "pubDate": "Sun, 5 Apr 2026 07:55:33 +0900"
+    },
+    {
+      "title": "소버린 AI 한계론 확산…한국 'AI 바우처' 재조명",
+      "link": "https://www.yna.co.kr/view/AKR20260403158100017",
+      "pubDate": "Sun, 5 Apr 2026 07:55:02 +0900"
+    },
     {
       "title": "韓, 캐나다 잠수함 넘어 군함·쇄빙선·MRO 수주 기회 엿본다",
       "link": "https://www.yna.co.kr/view/AKR20260405005800003",
@@ -132,26 +152,6 @@
       "title": "규제지역 다주택자 매물 7천500호…'투기1주택' 대출제한도 검토",
       "link": "https://www.yna.co.kr/view/AKR20260404044500002",
       "pubDate": "Sun, 5 Apr 2026 05:49:01 +0900"
-    },
-    {
-      "title": "대출규제 추가 예고…비거주 1주택·DSR·RWA 작업반 내주 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260404051400002",
-      "pubDate": "Sun, 5 Apr 2026 05:49:01 +0900"
-    },
-    {
-      "title": "유류할증료 인상 전인데…서비스 물가 상승률 3분기 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260404039000002",
-      "pubDate": "Sun, 5 Apr 2026 05:47:02 +0900"
-    },
-    {
-      "title": "중동전쟁 에너지발 물가 도미노 시작…공업제품 지수 역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260404047600002",
-      "pubDate": "Sun, 5 Apr 2026 05:47:01 +0900"
-    },
-    {
-      "title": "'방파제' 쌓았다지만 '인플레 스톰'…해외IB \"물가 3% 웃돌 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260404050800002",
-      "pubDate": "Sun, 5 Apr 2026 05:47:00 +0900"
     }
   ]
 }
