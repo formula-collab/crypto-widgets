@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775372239,
+  "updated_at_unix": 1775375548,
   "items": [
+    {
+      "title": "중동전쟁에 글로벌 곡물가격 뛰어…국내서 사룟값 인상 움직임(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260404029751030",
+      "pubDate": "Sun, 5 Apr 2026 16:03:00 +0900"
+    },
+    {
+      "title": "송미령 농식품부 장관, 비료원료 수급점검…\"7월까지 안정공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405018500030",
+      "pubDate": "Sun, 5 Apr 2026 16:00:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260405031100011",
@@ -142,16 +152,6 @@
       "title": "용인시, 취약계층·경력단절여성 '찾아가는 취업 컨설팅'",
       "link": "https://www.yna.co.kr/view/AKR20260403102300061",
       "pubDate": "Sun, 5 Apr 2026 09:33:01 +0900"
-    },
-    {
-      "title": "HD건설기계, 국제기능올림픽 중장비 정비 베트남 국가대표 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260405011700003",
-      "pubDate": "Sun, 5 Apr 2026 09:12:56 +0900"
-    },
-    {
-      "title": "평창군, 소상공인 카드수수료 지원…지역 상권 활성화",
-      "link": "https://www.yna.co.kr/view/AKR20260403080700062",
-      "pubDate": "Sun, 5 Apr 2026 09:01:02 +0900"
     }
   ]
 }
