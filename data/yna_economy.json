@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775431435,
+  "updated_at_unix": 1775433274,
   "items": [
+    {
+      "title": "삼성證 \"CJCGV, '왕사남' 흥행에도 구조적 부진 여전…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406025100008",
+      "pubDate": "Mon, 6 Apr 2026 08:50:33 +0900"
+    },
+    {
+      "title": "하나증권 \"삼성SDS 클라우드 부문 성장 유효…상저하고 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406023900008",
+      "pubDate": "Mon, 6 Apr 2026 08:47:36 +0900"
+    },
+    {
+      "title": "대전 노후계획도시정비 선도지구 공모 마감…둔산 동의율 89%",
+      "link": "https://www.yna.co.kr/view/AKR20260406022400063",
+      "pubDate": "Mon, 6 Apr 2026 08:43:27 +0900"
+    },
+    {
+      "title": "트럼프, 협상 시한 하루 연장…유가↑·미국 지수선물↓",
+      "link": "https://www.yna.co.kr/view/AKR20260406022700009",
+      "pubDate": "Mon, 6 Apr 2026 08:43:01 +0900"
+    },
+    {
+      "title": "DS투자 \"연료전지 주가 하락 일시적…투자포인트 변화 없다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406022300008",
+      "pubDate": "Mon, 6 Apr 2026 08:42:20 +0900"
+    },
+    {
+      "title": "마녀공장, 브랜드 새단장…\"디자인 개편·성분 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406023100030",
+      "pubDate": "Mon, 6 Apr 2026 08:41:36 +0900"
+    },
+    {
+      "title": "NH투자 \"美 3월 고용 반등했으나 4월부터 전쟁 영향 둔화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406019900008",
+      "pubDate": "Mon, 6 Apr 2026 08:37:18 +0900"
+    },
+    {
+      "title": "크라운해태, '영재한음회' 300회 개최…11년째 국악 꿈나무 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260406022200030",
+      "pubDate": "Mon, 6 Apr 2026 08:36:06 +0900"
+    },
+    {
+      "title": "[게시판] 무신사, 국제표준 정보보호 인증 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260406021200030",
+      "pubDate": "Mon, 6 Apr 2026 08:33:20 +0900"
+    },
+    {
+      "title": "동원F&B, 플라스틱 줄인 액상 용기 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260406021500030",
+      "pubDate": "Mon, 6 Apr 2026 08:32:51 +0900"
+    },
+    {
+      "title": "셀트리온 \"미 의약품 관세 영향 해소…현지 수요 증가 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406019500017",
+      "pubDate": "Mon, 6 Apr 2026 08:32:45 +0900"
+    },
+    {
+      "title": "파라다이스, 수협중앙회와 '수산물 소비 확산' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260406020300030",
+      "pubDate": "Mon, 6 Apr 2026 08:30:21 +0900"
+    },
+    {
+      "title": "인천시, 어업용 면세유 지원 확대…최대 700만원 2회 분할 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260406013700065",
+      "pubDate": "Mon, 6 Apr 2026 08:30:07 +0900"
+    },
+    {
+      "title": "신한투자, '삼전닉스' 1분기 '깜짝' 실적 전망 속 목표가 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260406018800008",
+      "pubDate": "Mon, 6 Apr 2026 08:26:43 +0900"
+    },
+    {
+      "title": "'올리브섬 조성 나선다'…관광공사, 비양도 식수 행사 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260406019100030",
+      "pubDate": "Mon, 6 Apr 2026 08:23:55 +0900"
+    },
+    {
+      "title": "한화증권 \"호텔신라, 1분기 실적 기대치 웃돌 것…목표가 7만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406017900008",
+      "pubDate": "Mon, 6 Apr 2026 08:23:27 +0900"
+    },
+    {
+      "title": "중기부, 지방소멸 대응 '범부처 지역혁신프로젝트' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260406017100030",
+      "pubDate": "Mon, 6 Apr 2026 08:17:55 +0900"
+    },
     {
       "title": "중진공, 제조AI·스마트공장 재직자 교육생 모집",
       "link": "https://www.yna.co.kr/view/AKR20260406016900030",
@@ -67,91 +152,6 @@
       "title": "책임한정특약 설명 안 한 신탁사…대법 \"중요 설명의무 위반\"",
       "link": "https://www.yna.co.kr/view/AKR20260405023200004",
       "pubDate": "Mon, 6 Apr 2026 06:00:03 +0900"
-    },
-    {
-      "title": "여한구 \"美 의약품 관세, 단기 영향 제한적…긴장 놓쳐선 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405016000003",
-      "pubDate": "Mon, 6 Apr 2026 06:00:02 +0900"
-    },
-    {
-      "title": "\"AI 시대 고용정책 '고용 보호'서 '고용능력 유지'로 전환해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405033200003",
-      "pubDate": "Mon, 6 Apr 2026 06:00:01 +0900"
-    },
-    {
-      "title": "상위 저축은행 작년 연체율 5%대로 개선…순익도 약 50배로 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260405039600002",
-      "pubDate": "Mon, 6 Apr 2026 05:55:00 +0900"
-    },
-    {
-      "title": "금리 상승에…서울 주담대 상환 부담 2년 6개월 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260404053600002",
-      "pubDate": "Mon, 6 Apr 2026 05:51:00 +0900"
-    },
-    {
-      "title": "석유유통협회 \"유통망 위기…최고가보다 도매 공급가 낮아져야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260405032351003",
-      "pubDate": "Mon, 6 Apr 2026 00:05:00 +0900"
-    },
-    {
-      "title": "석유유통협회 \"도매 대리점 공급가, 최고가격보다 낮아져야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405032300003",
-      "pubDate": "Mon, 6 Apr 2026 00:00:00 +0900"
-    },
-    {
-      "title": "李대통령 \"더 큰 위기 번지지 않게 모든 수단 대응…연대·협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405033400001",
-      "pubDate": "Sun, 5 Apr 2026 17:00:38 +0900"
-    },
-    {
-      "title": "중동전쟁에 글로벌 곡물가격 뛰어…국내서 사룟값 인상 움직임(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260404029751030",
-      "pubDate": "Sun, 5 Apr 2026 16:03:00 +0900"
-    },
-    {
-      "title": "송미령 농식품부 장관, 비료원료 수급점검…\"7월까지 안정공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405018500030",
-      "pubDate": "Sun, 5 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260405031100011",
-      "pubDate": "Sun, 5 Apr 2026 15:00:00 +0900"
-    },
-    {
-      "title": "국토장관, 건설부문 8개 협회 긴급 회동…중동상황 영향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260405030700003",
-      "pubDate": "Sun, 5 Apr 2026 14:48:14 +0900"
-    },
-    {
-      "title": "서울시, 기후동행카드 이용자에 석달간 월3만원…중동사태 대책(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260405021451004",
-      "pubDate": "Sun, 5 Apr 2026 14:00:00 +0900"
-    },
-    {
-      "title": "GS칼텍스, 세계 1위 환경설루션기업 베올리아와 운영 혁신 제휴",
-      "link": "https://www.yna.co.kr/view/AKR20260405024500003",
-      "pubDate": "Sun, 5 Apr 2026 12:15:58 +0900"
-    },
-    {
-      "title": "[부고] 강민구(밍글스 대표)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260405023700034",
-      "pubDate": "Sun, 5 Apr 2026 12:07:34 +0900"
-    },
-    {
-      "title": "공공부문 부당 고용관행 개선…노동부, 익명 상담센터 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260404025100530",
-      "pubDate": "Sun, 5 Apr 2026 12:00:09 +0900"
-    },
-    {
-      "title": "EU 탄소장벽 본격화…중기부, 수출 中企 '배출량 관리' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260404027000030",
-      "pubDate": "Sun, 5 Apr 2026 12:00:08 +0900"
-    },
-    {
-      "title": "\"모두의 창업 알린다\"…중기부, 캠퍼스투어 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260403123400030",
-      "pubDate": "Sun, 5 Apr 2026 12:00:06 +0900"
     }
   ]
 }
