@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775425939,
+  "updated_at_unix": 1775427507,
   "items": [
+    {
+      "title": "농촌 인구 감소…외국인 계절근로자는 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260403100400053",
+      "pubDate": "Mon, 6 Apr 2026 07:11:12 +0900"
+    },
+    {
+      "title": "'베트남에 K스마트공장을'…중기부, 제조혁신 모델 지원한다",
+      "link": "https://www.yna.co.kr/view/AKR20260404021100030",
+      "pubDate": "Mon, 6 Apr 2026 07:01:00 +0900"
+    },
     {
       "title": "중하위권 약진 속 서울 생애최초 아파트 구매 1위 '강서구'",
       "link": "https://www.yna.co.kr/view/AKR20260406005300003",
@@ -142,16 +152,6 @@
       "title": "서울시, 기후동행카드 이용자에 3개월간 현금 월3만원 지급",
       "link": "https://www.yna.co.kr/view/AKR20260405021400004",
       "pubDate": "Sun, 5 Apr 2026 11:41:54 +0900"
-    },
-    {
-      "title": "'갭투자 막히자'…서울 아파트 원정 매입 비중 약 9년 만 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260405019400003",
-      "pubDate": "Sun, 5 Apr 2026 11:08:32 +0900"
-    },
-    {
-      "title": "해수부, K-친환경·안전설비 수출 지원사업 참여 기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260403110400051",
-      "pubDate": "Sun, 5 Apr 2026 11:00:05 +0900"
     }
   ]
 }
