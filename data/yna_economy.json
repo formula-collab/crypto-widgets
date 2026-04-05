@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775368606,
+  "updated_at_unix": 1775372239,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260405031100011",
+      "pubDate": "Sun, 5 Apr 2026 15:00:00 +0900"
+    },
     {
       "title": "국토장관, 건설부문 8개 협회 긴급 회동…중동상황 영향 점검",
       "link": "https://www.yna.co.kr/view/AKR20260405030700003",
@@ -147,11 +152,6 @@
       "title": "평창군, 소상공인 카드수수료 지원…지역 상권 활성화",
       "link": "https://www.yna.co.kr/view/AKR20260403080700062",
       "pubDate": "Sun, 5 Apr 2026 09:01:02 +0900"
-    },
-    {
-      "title": "'계열사 사장 딸 부정채용' 前 신한카드 부사장 1심 징역형 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260404031300004",
-      "pubDate": "Sun, 5 Apr 2026 09:00:04 +0900"
     }
   ]
 }
