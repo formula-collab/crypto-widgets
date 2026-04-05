@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775424058,
+  "updated_at_unix": 1775425939,
   "items": [
+    {
+      "title": "중하위권 약진 속 서울 생애최초 아파트 구매 1위 '강서구'",
+      "link": "https://www.yna.co.kr/view/AKR20260406005300003",
+      "pubDate": "Mon, 6 Apr 2026 06:31:36 +0900"
+    },
+    {
+      "title": "\"저가 생리대 불티\"…유통업계, 할인 지속·품목 늘린다",
+      "link": "https://www.yna.co.kr/view/AKR20260403150800030",
+      "pubDate": "Mon, 6 Apr 2026 06:31:01 +0900"
+    },
     {
       "title": "건설근로자, '쉼터'에서 건강·세금 등 상담…요일별 무료 진행",
       "link": "https://www.yna.co.kr/view/AKR20260403139300530",
@@ -142,16 +152,6 @@
       "title": "해수부, K-친환경·안전설비 수출 지원사업 참여 기업 모집",
       "link": "https://www.yna.co.kr/view/AKR20260403110400051",
       "pubDate": "Sun, 5 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "어선원·어선 보험료 납부기한 3개월 연장…어민 부담 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260404031900030",
-      "pubDate": "Sun, 5 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "식품융합클러스터 2곳 선정…경북·전남 '지역 거점' 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260403139600030",
-      "pubDate": "Sun, 5 Apr 2026 11:00:04 +0900"
     }
   ]
 }
