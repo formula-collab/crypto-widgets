@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775422502,
+  "updated_at_unix": 1775424058,
   "items": [
+    {
+      "title": "건설근로자, '쉼터'에서 건강·세금 등 상담…요일별 무료 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260403139300530",
+      "pubDate": "Mon, 6 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "중기부, AI 인재양성 교육 300명으로 확대…전국 5개 권역 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260404027800030",
+      "pubDate": "Mon, 6 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "책임한정특약 설명 안 한 신탁사…대법 \"중요 설명의무 위반\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405023200004",
+      "pubDate": "Mon, 6 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "여한구 \"美 의약품 관세, 단기 영향 제한적…긴장 놓쳐선 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405016000003",
+      "pubDate": "Mon, 6 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"AI 시대 고용정책 '고용 보호'서 '고용능력 유지'로 전환해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405033200003",
+      "pubDate": "Mon, 6 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "상위 저축은행 작년 연체율 5%대로 개선…순익도 약 50배로 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260405039600002",
+      "pubDate": "Mon, 6 Apr 2026 05:55:00 +0900"
+    },
     {
       "title": "금리 상승에…서울 주담대 상환 부담 2년 6개월 만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260404053600002",
@@ -122,36 +152,6 @@
       "title": "식품융합클러스터 2곳 선정…경북·전남 '지역 거점' 육성",
       "link": "https://www.yna.co.kr/view/AKR20260403139600030",
       "pubDate": "Sun, 5 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "올해 볍씨, 작년보다 싹 늦게 터…\"충분히 틔워 파종해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403140000030",
-      "pubDate": "Sun, 5 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "기초과학 저력에 든든한 정부지원까지…호주 딥테크 창업 '활기'",
-      "link": "https://www.yna.co.kr/view/AKR20260401149700530",
-      "pubDate": "Sun, 5 Apr 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
-      "link": "https://www.yna.co.kr/view/AKR20260405010400003",
-      "pubDate": "Sun, 5 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, '2026 글로벌 탤런트 페어' 홍보 서포터즈 발대식",
-      "link": "https://www.yna.co.kr/view/AKR20260405010900003",
-      "pubDate": "Sun, 5 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "\"중견기업, 월드클래스 기업으로 육성\"…산업부 올해 10곳 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260405014400003",
-      "pubDate": "Sun, 5 Apr 2026 11:00:00 +0900"
-    },
-    {
-      "title": "2026 대구국제안경전 폐막…수출 상담실적, 작년보다 46％ 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260405018100053",
-      "pubDate": "Sun, 5 Apr 2026 10:43:25 +0900"
     }
   ]
 }
