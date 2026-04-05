@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775351911,
+  "updated_at_unix": 1775362366,
   "items": [
+    {
+      "title": "GS칼텍스, 세계 1위 환경설루션기업 베올리아와 운영 혁신 제휴",
+      "link": "https://www.yna.co.kr/view/AKR20260405024500003",
+      "pubDate": "Sun, 5 Apr 2026 12:15:58 +0900"
+    },
+    {
+      "title": "[부고] 강민구(밍글스 대표)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260405023700034",
+      "pubDate": "Sun, 5 Apr 2026 12:07:34 +0900"
+    },
+    {
+      "title": "공공부문 부당 고용관행 개선…노동부, 익명 상담센터 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260404025100530",
+      "pubDate": "Sun, 5 Apr 2026 12:00:09 +0900"
+    },
+    {
+      "title": "EU 탄소장벽 본격화…중기부, 수출 中企 '배출량 관리' 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260404027000030",
+      "pubDate": "Sun, 5 Apr 2026 12:00:08 +0900"
+    },
+    {
+      "title": "\"모두의 창업 알린다\"…중기부, 캠퍼스투어 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260403123400030",
+      "pubDate": "Sun, 5 Apr 2026 12:00:06 +0900"
+    },
+    {
+      "title": "ADT '수급업자 지식재산 내 맘대로' 특약했다가 공정위 제재",
+      "link": "https://www.yna.co.kr/view/AKR20260404045100002",
+      "pubDate": "Sun, 5 Apr 2026 12:00:05 +0900"
+    },
+    {
+      "title": "부실 PF 18.5조 정리…연체율 3%대 하락에도 중동 변수 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260404052600002",
+      "pubDate": "Sun, 5 Apr 2026 12:00:04 +0900"
+    },
+    {
+      "title": "중소기업계 \"소량 화학물질 등록부담 완화 지원 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403131200030",
+      "pubDate": "Sun, 5 Apr 2026 12:00:04 +0900"
+    },
+    {
+      "title": "\"직장인 80％, 5인 미만 사업장까지 노동법 확대 찬성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405004700004",
+      "pubDate": "Sun, 5 Apr 2026 12:00:03 +0900"
+    },
+    {
+      "title": "구윤철, 걸프 6개국 주한대사들에 \"안정적 에너지 공급\" 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260405017600002",
+      "pubDate": "Sun, 5 Apr 2026 12:00:01 +0900"
+    },
+    {
+      "title": "서울시, 기후동행카드 이용자에 3개월간 현금 월3만원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260405021400004",
+      "pubDate": "Sun, 5 Apr 2026 11:41:54 +0900"
+    },
+    {
+      "title": "'갭투자 막히자'…서울 아파트 원정 매입 비중 약 9년 만 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260405019400003",
+      "pubDate": "Sun, 5 Apr 2026 11:08:32 +0900"
+    },
+    {
+      "title": "해수부, K-친환경·안전설비 수출 지원사업 참여 기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260403110400051",
+      "pubDate": "Sun, 5 Apr 2026 11:00:05 +0900"
+    },
+    {
+      "title": "어선원·어선 보험료 납부기한 3개월 연장…어민 부담 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260404031900030",
+      "pubDate": "Sun, 5 Apr 2026 11:00:05 +0900"
+    },
+    {
+      "title": "식품융합클러스터 2곳 선정…경북·전남 '지역 거점' 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260403139600030",
+      "pubDate": "Sun, 5 Apr 2026 11:00:04 +0900"
+    },
+    {
+      "title": "올해 볍씨, 작년보다 싹 늦게 터…\"충분히 틔워 파종해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403140000030",
+      "pubDate": "Sun, 5 Apr 2026 11:00:04 +0900"
+    },
+    {
+      "title": "기초과학 저력에 든든한 정부지원까지…호주 딥테크 창업 '활기'",
+      "link": "https://www.yna.co.kr/view/AKR20260401149700530",
+      "pubDate": "Sun, 5 Apr 2026 11:00:03 +0900"
+    },
+    {
+      "title": "농식품부·코트라, 우즈벡 식품전시회에 한국관…K푸드 수출지원",
+      "link": "https://www.yna.co.kr/view/AKR20260405010400003",
+      "pubDate": "Sun, 5 Apr 2026 11:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 코트라, '2026 글로벌 탤런트 페어' 홍보 서포터즈 발대식",
+      "link": "https://www.yna.co.kr/view/AKR20260405010900003",
+      "pubDate": "Sun, 5 Apr 2026 11:00:01 +0900"
+    },
+    {
+      "title": "\"중견기업, 월드클래스 기업으로 육성\"…산업부 올해 10곳 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260405014400003",
+      "pubDate": "Sun, 5 Apr 2026 11:00:00 +0900"
+    },
+    {
+      "title": "2026 대구국제안경전 폐막…수출 상담실적, 작년보다 46％ 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260405018100053",
+      "pubDate": "Sun, 5 Apr 2026 10:43:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260405017100011",
+      "pubDate": "Sun, 5 Apr 2026 10:30:00 +0900"
+    },
+    {
+      "title": "세종시, 4천억원 투자유치 성과 등 1분기 적극행정 6건 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260405017000063",
+      "pubDate": "Sun, 5 Apr 2026 10:24:11 +0900"
+    },
     {
       "title": "[인사] 지식재산처",
       "link": "https://www.yna.co.kr/view/AKR20260405016500063",
@@ -37,121 +152,6 @@
       "title": "KB금융 '상권활성화지수' 개발…\"소상공인 지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260404052500002",
       "pubDate": "Sun, 5 Apr 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, 발달장애 예술가 협업 굿즈 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260404046000002",
-      "pubDate": "Sun, 5 Apr 2026 08:30:00 +0900"
-    },
-    {
-      "title": "울주군, 토지구획정리사업 불일치 지번 직권 정정",
-      "link": "https://www.yna.co.kr/view/AKR20260403057300057",
-      "pubDate": "Sun, 5 Apr 2026 08:10:02 +0900"
-    },
-    {
-      "title": "하원선 주택관리사협회장 \"관리 사무도 '필수 업무'로 지정해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260404054400003",
-      "pubDate": "Sun, 5 Apr 2026 08:01:00 +0900"
-    },
-    {
-      "title": "성남시, 중동정세 대응 지역화폐 사용가능 주유·충전소 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260405006500061",
-      "pubDate": "Sun, 5 Apr 2026 07:55:33 +0900"
-    },
-    {
-      "title": "소버린 AI 한계론 확산…한국 'AI 바우처' 재조명",
-      "link": "https://www.yna.co.kr/view/AKR20260403158100017",
-      "pubDate": "Sun, 5 Apr 2026 07:55:02 +0900"
-    },
-    {
-      "title": "韓, 캐나다 잠수함 넘어 군함·쇄빙선·MRO 수주 기회 엿본다",
-      "link": "https://www.yna.co.kr/view/AKR20260405005800003",
-      "pubDate": "Sun, 5 Apr 2026 07:44:21 +0900"
-    },
-    {
-      "title": "전쟁 리스크 뚫은 한국 바이오…수출 6조 넘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260403128900017",
-      "pubDate": "Sun, 5 Apr 2026 07:33:00 +0900"
-    },
-    {
-      "title": "체구는 10분의 1인데…토스증권, 작년 업계 9위 '깜짝' 순익",
-      "link": "https://www.yna.co.kr/view/AKR20260404019600008",
-      "pubDate": "Sun, 5 Apr 2026 07:20:01 +0900"
-    },
-    {
-      "title": "하나금융 헤드쿼터, 인천 청라로…하나드림타운 3단계 6월 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260403046300065",
-      "pubDate": "Sun, 5 Apr 2026 07:17:00 +0900"
-    },
-    {
-      "title": "이란전쟁 후 실적눈높이 최대 하향 종목은 제주항공…정유주는↑",
-      "link": "https://www.yna.co.kr/view/AKR20260403172300008",
-      "pubDate": "Sun, 5 Apr 2026 07:15:01 +0900"
-    },
-    {
-      "title": "[현장in] 면세유 오르고 소비는 뚝…고양 화훼농가의 한숨",
-      "link": "https://www.yna.co.kr/view/AKR20260403086100060",
-      "pubDate": "Sun, 5 Apr 2026 07:03:08 +0900"
-    },
-    {
-      "title": "전쟁 한달 원유 ETN 상승률 상위권 석권…최고 2배 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260404034500008",
-      "pubDate": "Sun, 5 Apr 2026 07:03:00 +0900"
-    },
-    {
-      "title": "GH, 신축약정형 매입임대주택 600호 매입…청년 등에 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260403102900061",
-      "pubDate": "Sun, 5 Apr 2026 07:02:01 +0900"
-    },
-    {
-      "title": "[반려동물] 함께 살 준비 되셨나요?…\"유기·사고 줄일 공존방법 찾아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403120600030",
-      "pubDate": "Sun, 5 Apr 2026 07:01:03 +0900"
-    },
-    {
-      "title": "[반려동물] '세 집 중 한 집 막내로 산다'…1천500만 가족이 달라졌다",
-      "link": "https://www.yna.co.kr/view/AKR20260403087700030",
-      "pubDate": "Sun, 5 Apr 2026 07:01:01 +0900"
-    },
-    {
-      "title": "증권 전자등록업 경쟁체제 가나…민간사업자 내년 서비스 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260403168700008",
-      "pubDate": "Sun, 5 Apr 2026 07:01:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 다가오는 최후통첩 시한…기로에 선 이란 사태",
-      "link": "https://www.yna.co.kr/view/AKR20260404000100008",
-      "pubDate": "Sun, 5 Apr 2026 07:00:17 +0900"
-    },
-    {
-      "title": "[전국레이더] 국제유가 급등에 깊어지는 농어민 시름",
-      "link": "https://www.yna.co.kr/view/AKR20260403114300060",
-      "pubDate": "Sun, 5 Apr 2026 07:00:05 +0900"
-    },
-    {
-      "title": "지난해 日 턱밑 추격한 한국 수출, 올해 사상 첫 역전 가시권",
-      "link": "https://www.yna.co.kr/view/AKR20260404049700003",
-      "pubDate": "Sun, 5 Apr 2026 07:00:02 +0900"
-    },
-    {
-      "title": "LG엔솔, 볼보 상대로 특허 소송…中 배터리 겨냥 공세 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260403124600003",
-      "pubDate": "Sun, 5 Apr 2026 06:30:00 +0900"
-    },
-    {
-      "title": "홈플러스, 회생의 터널 속 1년…익스프레스 매각이 분수령",
-      "link": "https://www.yna.co.kr/view/AKR20260403154100030",
-      "pubDate": "Sun, 5 Apr 2026 06:15:01 +0900"
-    },
-    {
-      "title": "한국, 2030년 달 간다…민간 착륙선 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260403122200017",
-      "pubDate": "Sun, 5 Apr 2026 06:13:00 +0900"
-    },
-    {
-      "title": "\"냉장 대신 냉동\"…유통가, 중동발 이중고에 '공급망 대수술'",
-      "link": "https://www.yna.co.kr/view/AKR20260404038100030",
-      "pubDate": "Sun, 5 Apr 2026 06:09:01 +0900"
     }
   ]
 }
