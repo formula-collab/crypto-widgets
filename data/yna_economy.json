@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775427507,
+  "updated_at_unix": 1775429739,
   "items": [
+    {
+      "title": "울산국제정원박람회 조직위, 경남은행과 주거래은행 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260405047900057",
+      "pubDate": "Mon, 6 Apr 2026 07:44:17 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260406010500011",
+      "pubDate": "Mon, 6 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "농촌 인구 감소…외국인 계절근로자는 급증",
       "link": "https://www.yna.co.kr/view/AKR20260403100400053",
@@ -142,16 +152,6 @@
       "title": "\"직장인 80％, 5인 미만 사업장까지 노동법 확대 찬성\"",
       "link": "https://www.yna.co.kr/view/AKR20260405004700004",
       "pubDate": "Sun, 5 Apr 2026 12:00:03 +0900"
-    },
-    {
-      "title": "구윤철, 걸프 6개국 주한대사들에 \"안정적 에너지 공급\" 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260405017600002",
-      "pubDate": "Sun, 5 Apr 2026 12:00:01 +0900"
-    },
-    {
-      "title": "서울시, 기후동행카드 이용자에 3개월간 현금 월3만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260405021400004",
-      "pubDate": "Sun, 5 Apr 2026 11:41:54 +0900"
     }
   ]
 }
