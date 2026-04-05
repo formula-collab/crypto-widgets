@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775429739,
+  "updated_at_unix": 1775431435,
   "items": [
+    {
+      "title": "중진공, 제조AI·스마트공장 재직자 교육생 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260406016900030",
+      "pubDate": "Mon, 6 Apr 2026 08:11:45 +0900"
+    },
+    {
+      "title": "한투증권 \"4월 코스피 4,900∼5,700…비용 부담 견딜 산업 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406016700008",
+      "pubDate": "Mon, 6 Apr 2026 08:08:53 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 트럼프 '최후통첩' 시한 앞두고 방향성 탐색 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260406014000008",
+      "pubDate": "Mon, 6 Apr 2026 08:04:10 +0900"
+    },
+    {
+      "title": "부산시·HUG·국제건축제조직위, 노후 공공시설 개선 프로젝트",
+      "link": "https://www.yna.co.kr/view/AKR20260406014900051",
+      "pubDate": "Mon, 6 Apr 2026 08:02:54 +0900"
+    },
     {
       "title": "울산국제정원박람회 조직위, 경남은행과 주거래은행 협약",
       "link": "https://www.yna.co.kr/view/AKR20260405047900057",
@@ -132,26 +152,6 @@
       "title": "\"모두의 창업 알린다\"…중기부, 캠퍼스투어 이벤트",
       "link": "https://www.yna.co.kr/view/AKR20260403123400030",
       "pubDate": "Sun, 5 Apr 2026 12:00:06 +0900"
-    },
-    {
-      "title": "ADT '수급업자 지식재산 내 맘대로' 특약했다가 공정위 제재",
-      "link": "https://www.yna.co.kr/view/AKR20260404045100002",
-      "pubDate": "Sun, 5 Apr 2026 12:00:05 +0900"
-    },
-    {
-      "title": "부실 PF 18.5조 정리…연체율 3%대 하락에도 중동 변수 주시",
-      "link": "https://www.yna.co.kr/view/AKR20260404052600002",
-      "pubDate": "Sun, 5 Apr 2026 12:00:04 +0900"
-    },
-    {
-      "title": "중소기업계 \"소량 화학물질 등록부담 완화 지원 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260403131200030",
-      "pubDate": "Sun, 5 Apr 2026 12:00:04 +0900"
-    },
-    {
-      "title": "\"직장인 80％, 5인 미만 사업장까지 노동법 확대 찬성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260405004700004",
-      "pubDate": "Sun, 5 Apr 2026 12:00:03 +0900"
     }
   ]
 }
