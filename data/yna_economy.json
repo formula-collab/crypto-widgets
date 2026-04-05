@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775401139,
+  "updated_at_unix": 1775403112,
   "items": [
+    {
+      "title": "석유유통협회 \"유통망 위기…최고가보다 도매 공급가 낮아져야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260405032351003",
+      "pubDate": "Mon, 6 Apr 2026 00:05:00 +0900"
+    },
+    {
+      "title": "석유유통협회 \"도매 대리점 공급가, 최고가격보다 낮아져야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405032300003",
+      "pubDate": "Mon, 6 Apr 2026 00:00:00 +0900"
+    },
     {
       "title": "李대통령 \"더 큰 위기 번지지 않게 모든 수단 대응…연대·협력\"",
       "link": "https://www.yna.co.kr/view/AKR20260405033400001",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260405017100011",
       "pubDate": "Sun, 5 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "세종시, 4천억원 투자유치 성과 등 1분기 적극행정 6건 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260405017000063",
-      "pubDate": "Sun, 5 Apr 2026 10:24:11 +0900"
-    },
-    {
-      "title": "[인사] 지식재산처",
-      "link": "https://www.yna.co.kr/view/AKR20260405016500063",
-      "pubDate": "Sun, 5 Apr 2026 10:15:09 +0900"
     }
   ]
 }
