@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775362366,
+  "updated_at_unix": 1775368606,
   "items": [
+    {
+      "title": "국토장관, 건설부문 8개 협회 긴급 회동…중동상황 영향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260405030700003",
+      "pubDate": "Sun, 5 Apr 2026 14:48:14 +0900"
+    },
+    {
+      "title": "서울시, 기후동행카드 이용자에 석달간 월3만원…중동사태 대책(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260405021451004",
+      "pubDate": "Sun, 5 Apr 2026 14:00:00 +0900"
+    },
     {
       "title": "GS칼텍스, 세계 1위 환경설루션기업 베올리아와 운영 혁신 제휴",
       "link": "https://www.yna.co.kr/view/AKR20260405024500003",
@@ -142,16 +152,6 @@
       "title": "'계열사 사장 딸 부정채용' 前 신한카드 부사장 1심 징역형 집유",
       "link": "https://www.yna.co.kr/view/AKR20260404031300004",
       "pubDate": "Sun, 5 Apr 2026 09:00:04 +0900"
-    },
-    {
-      "title": "우리은행, 두산그룹 미래전략산업에 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20260404052000002",
-      "pubDate": "Sun, 5 Apr 2026 09:00:02 +0900"
-    },
-    {
-      "title": "KB금융 '상권활성화지수' 개발…\"소상공인 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260404052500002",
-      "pubDate": "Sun, 5 Apr 2026 09:00:01 +0900"
     }
   ]
 }
