@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775346698,
+  "updated_at_unix": 1775351911,
   "items": [
+    {
+      "title": "[인사] 지식재산처",
+      "link": "https://www.yna.co.kr/view/AKR20260405016500063",
+      "pubDate": "Sun, 5 Apr 2026 10:15:09 +0900"
+    },
+    {
+      "title": "용인시, 취약계층·경력단절여성 '찾아가는 취업 컨설팅'",
+      "link": "https://www.yna.co.kr/view/AKR20260403102300061",
+      "pubDate": "Sun, 5 Apr 2026 09:33:01 +0900"
+    },
+    {
+      "title": "HD건설기계, 국제기능올림픽 중장비 정비 베트남 국가대표 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260405011700003",
+      "pubDate": "Sun, 5 Apr 2026 09:12:56 +0900"
+    },
+    {
+      "title": "평창군, 소상공인 카드수수료 지원…지역 상권 활성화",
+      "link": "https://www.yna.co.kr/view/AKR20260403080700062",
+      "pubDate": "Sun, 5 Apr 2026 09:01:02 +0900"
+    },
+    {
+      "title": "'계열사 사장 딸 부정채용' 前 신한카드 부사장 1심 징역형 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260404031300004",
+      "pubDate": "Sun, 5 Apr 2026 09:00:04 +0900"
+    },
+    {
+      "title": "우리은행, 두산그룹 미래전략산업에 금융지원",
+      "link": "https://www.yna.co.kr/view/AKR20260404052000002",
+      "pubDate": "Sun, 5 Apr 2026 09:00:02 +0900"
+    },
+    {
+      "title": "KB금융 '상권활성화지수' 개발…\"소상공인 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260404052500002",
+      "pubDate": "Sun, 5 Apr 2026 09:00:01 +0900"
+    },
     {
       "title": "[게시판] 하나금융, 발달장애 예술가 협업 굿즈 출시",
       "link": "https://www.yna.co.kr/view/AKR20260404046000002",
@@ -117,41 +152,6 @@
       "title": "\"냉장 대신 냉동\"…유통가, 중동발 이중고에 '공급망 대수술'",
       "link": "https://www.yna.co.kr/view/AKR20260404038100030",
       "pubDate": "Sun, 5 Apr 2026 06:09:01 +0900"
-    },
-    {
-      "title": "중동전쟁에 글로벌 곡물가격 뛰어…국내서 사룟값 인상 움직임",
-      "link": "https://www.yna.co.kr/view/AKR20260404029700030",
-      "pubDate": "Sun, 5 Apr 2026 06:01:02 +0900"
-    },
-    {
-      "title": "트럼프 중동전쟁 장기화에 글로벌 '먹거리 쇼크' 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260404030900030",
-      "pubDate": "Sun, 5 Apr 2026 06:01:00 +0900"
-    },
-    {
-      "title": "초과 세수에도 한은에 돈 빌려 쓴 정부…지난달 17조원",
-      "link": "https://www.yna.co.kr/view/AKR20260404040600002",
-      "pubDate": "Sun, 5 Apr 2026 05:59:01 +0900"
-    },
-    {
-      "title": "'LS 통행세' 과징금 253억원…6년 소송 끝에 6억원 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260404044700002",
-      "pubDate": "Sun, 5 Apr 2026 05:57:04 +0900"
-    },
-    {
-      "title": "'비상경영' 온투업 \"대출규제로 취급액 반토막\"…당국 면담요청",
-      "link": "https://www.yna.co.kr/view/AKR20260404040000002",
-      "pubDate": "Sun, 5 Apr 2026 05:55:00 +0900"
-    },
-    {
-      "title": "지난달 외환거래 역대 최대…중동사태에 환율 하루 11원 출렁",
-      "link": "https://www.yna.co.kr/view/AKR20260404045900002",
-      "pubDate": "Sun, 5 Apr 2026 05:53:01 +0900"
-    },
-    {
-      "title": "신현송 82억 중 외화자산이 절반 이상…청문회 쟁점되나",
-      "link": "https://www.yna.co.kr/view/AKR20260404042800002",
-      "pubDate": "Sun, 5 Apr 2026 05:51:00 +0900"
     }
   ]
 }
