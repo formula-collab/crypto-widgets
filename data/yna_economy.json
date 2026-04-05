@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775375548,
+  "updated_at_unix": 1775377878,
   "items": [
+    {
+      "title": "李대통령 \"더 큰 위기 번지지 않게 모든 수단 대응…연대·협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260405033400001",
+      "pubDate": "Sun, 5 Apr 2026 17:00:38 +0900"
+    },
     {
       "title": "중동전쟁에 글로벌 곡물가격 뛰어…국내서 사룟값 인상 움직임(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260404029751030",
@@ -147,11 +152,6 @@
       "title": "[인사] 지식재산처",
       "link": "https://www.yna.co.kr/view/AKR20260405016500063",
       "pubDate": "Sun, 5 Apr 2026 10:15:09 +0900"
-    },
-    {
-      "title": "용인시, 취약계층·경력단절여성 '찾아가는 취업 컨설팅'",
-      "link": "https://www.yna.co.kr/view/AKR20260403102300061",
-      "pubDate": "Sun, 5 Apr 2026 09:33:01 +0900"
     }
   ]
 }
