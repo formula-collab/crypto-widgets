@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775516436,
+  "updated_at_unix": 1775519720,
   "items": [
+    {
+      "title": "대상 정원e샵, 저당·저칼로리 소스 최대 49% 할인 기획전",
+      "link": "https://www.yna.co.kr/view/AKR20260407030100030",
+      "pubDate": "Tue, 7 Apr 2026 08:49:09 +0900"
+    },
+    {
+      "title": "전국 농업협동조합장, 정부·국회에 농업 지원 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260407029300030",
+      "pubDate": "Tue, 7 Apr 2026 08:46:27 +0900"
+    },
+    {
+      "title": "[인사] 중소기업중앙회",
+      "link": "https://www.yna.co.kr/view/AKR20260407029000030",
+      "pubDate": "Tue, 7 Apr 2026 08:45:46 +0900"
+    },
+    {
+      "title": "모나미 대표에 송하윤 부회장…'오너 3세' 송재화 사장 승진",
+      "link": "https://www.yna.co.kr/view/AKR20260407028400030",
+      "pubDate": "Tue, 7 Apr 2026 08:45:32 +0900"
+    },
+    {
+      "title": "삼성증권, 국내시장 복귀계좌 2주 만에 잔고 1천억 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260407027600008",
+      "pubDate": "Tue, 7 Apr 2026 08:41:38 +0900"
+    },
+    {
+      "title": "생활맥주, 캄보디아 HSC그룹과 합작회사…동남아 공략 가속",
+      "link": "https://www.yna.co.kr/view/AKR20260407026600030",
+      "pubDate": "Tue, 7 Apr 2026 08:33:33 +0900"
+    },
+    {
+      "title": "신한투자 \"하이브, BTS 효과로 선방하겠지만…목표주가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407024400008",
+      "pubDate": "Tue, 7 Apr 2026 08:26:24 +0900"
+    },
+    {
+      "title": "IBK투자, LG이노텍 목표주가↑…\"전 사업부 경쟁력 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407021700008",
+      "pubDate": "Tue, 7 Apr 2026 08:11:34 +0900"
+    },
+    {
+      "title": "지그재그, '직잭뷰티 페스타' 열어…\"최대 91% 할인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407021900030",
+      "pubDate": "Tue, 7 Apr 2026 08:11:02 +0900"
+    },
+    {
+      "title": "LF, 마에스트로 베트남 3호점 열어…\"현지 공략 가속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260403127600030",
+      "pubDate": "Tue, 7 Apr 2026 08:06:22 +0900"
+    },
+    {
+      "title": "LS일렉, '베테랑' 앞세워 북미·동남아 공략…\"K-전력 DNA 이식\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407019700003",
+      "pubDate": "Tue, 7 Apr 2026 08:04:51 +0900"
+    },
+    {
+      "title": "1분기 서울아파트 1순위 청약경쟁률 38대 1…13개 분기 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260407018300003",
+      "pubDate": "Tue, 7 Apr 2026 08:03:41 +0900"
+    },
+    {
+      "title": "삼성SDS, 우리은행 'AI 에이전트 뱅킹' 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260406141400017",
+      "pubDate": "Tue, 7 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 美-이란 협상 기대·삼성전자 최대실적에 상승 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260407019600008",
+      "pubDate": "Tue, 7 Apr 2026 07:59:57 +0900"
+    },
+    {
+      "title": "중동발 물가 불안에…울산 상반기 버스·택시 요금 동결",
+      "link": "https://www.yna.co.kr/view/AKR20260406167000057",
+      "pubDate": "Tue, 7 Apr 2026 07:57:48 +0900"
+    },
     {
       "title": "부산시, 서울서 투자유치 설명회…해양·디지털금융 특화",
       "link": "https://www.yna.co.kr/view/AKR20260407018700051",
@@ -77,81 +152,6 @@
       "title": "석화·정유·시멘트 50개사, '원전 한달 발전량' 석유 절약키로",
       "link": "https://www.yna.co.kr/view/AKR20260406161900530",
       "pubDate": "Tue, 7 Apr 2026 06:00:00 +0900"
-    },
-    {
-      "title": "국제유가, 미·이란 협상 진행상황에 촉각…브렌트 1%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260407005300072",
-      "pubDate": "Tue, 7 Apr 2026 04:25:59 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 이란 재차 압박하는 트럼프…WTI 0.8% 상승 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260407005100009",
-      "pubDate": "Tue, 7 Apr 2026 04:15:38 +0900"
-    },
-    {
-      "title": "달러-원, 이란 '일시적 휴전' 거부에 반등…1,509.80원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260407003200002",
-      "pubDate": "Tue, 7 Apr 2026 02:50:07 +0900"
-    },
-    {
-      "title": "국회, 신현송 한은 총재 후보자 인사청문회 15일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260406165300001",
-      "pubDate": "Mon, 6 Apr 2026 22:04:24 +0900"
-    },
-    {
-      "title": "금융투자업계, 2조원 규모 벤처시장 세컨더리 펀드 조성 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260406161500008",
-      "pubDate": "Mon, 6 Apr 2026 20:04:15 +0900"
-    },
-    {
-      "title": "또 점포 줄이는 우리은행…영업점·출장소 37곳 통폐합",
-      "link": "https://www.yna.co.kr/view/AKR20260406155700002",
-      "pubDate": "Mon, 6 Apr 2026 18:46:34 +0900"
-    },
-    {
-      "title": "김윤덕 \"공시가격 산정, 큰 무리 없어…더 정교하도록 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406148100001",
-      "pubDate": "Mon, 6 Apr 2026 18:16:21 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260406145500011",
-      "pubDate": "Mon, 6 Apr 2026 18:00:01 +0900"
-    },
-    {
-      "title": "'원료의약품 제조업' 에이치엘지노믹스, 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260406147800008",
-      "pubDate": "Mon, 6 Apr 2026 17:37:36 +0900"
-    },
-    {
-      "title": "삼천당제약 대표 \"자사 비만약, FDA서 위고비 제네릭 인정\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406129051017",
-      "pubDate": "Mon, 6 Apr 2026 17:18:58 +0900"
-    },
-    {
-      "title": "1분기 국경단계 마약 424만명분 적발…여행자 밀수 다시 기승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406109851002",
-      "pubDate": "Mon, 6 Apr 2026 17:13:43 +0900"
-    },
-    {
-      "title": "[인사] 동양생명",
-      "link": "https://www.yna.co.kr/view/AKR20260406140700002",
-      "pubDate": "Mon, 6 Apr 2026 17:12:30 +0900"
-    },
-    {
-      "title": "호르무즈 각자도생…세계 무역 미국 위상 흔들리나",
-      "link": "https://www.yna.co.kr/view/AKR20260406124600009",
-      "pubDate": "Mon, 6 Apr 2026 17:07:38 +0900"
-    },
-    {
-      "title": "광주회생법원, 회생·파산 무료 상담센터 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260406140800054",
-      "pubDate": "Mon, 6 Apr 2026 17:01:55 +0900"
-    },
-    {
-      "title": "넷마블, 내년까지 코웨이 주식 1천500억어치 매수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406129851008",
-      "pubDate": "Mon, 6 Apr 2026 17:01:31 +0900"
     }
   ]
 }
