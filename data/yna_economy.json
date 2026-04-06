@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775495426,
+  "updated_at_unix": 1775498923,
   "items": [
+    {
+      "title": "달러-원, 이란 '일시적 휴전' 거부에 반등…1,509.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260407003200002",
+      "pubDate": "Tue, 7 Apr 2026 02:50:07 +0900"
+    },
     {
       "title": "국회, 신현송 한은 총재 후보자 인사청문회 15일 개최",
       "link": "https://www.yna.co.kr/view/AKR20260406165300001",
@@ -147,11 +152,6 @@
       "title": "카드·캐피탈사, 두 달간 주유·교통비 추가할인…혜택 소급적용",
       "link": "https://www.yna.co.kr/view/AKR20260406124700002",
       "pubDate": "Mon, 6 Apr 2026 15:58:06 +0900"
-    },
-    {
-      "title": "인천∼서울 제4경인고속도, 민자적격성조사서 사업타당성 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260406126200065",
-      "pubDate": "Mon, 6 Apr 2026 15:56:59 +0900"
     }
   ]
 }
