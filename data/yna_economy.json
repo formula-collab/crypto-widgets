@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775472299,
+  "updated_at_unix": 1775475599,
   "items": [
+    {
+      "title": "금융투자업계, 2조원 규모 벤처시장 세컨더리 펀드 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260406161500008",
+      "pubDate": "Mon, 6 Apr 2026 20:04:15 +0900"
+    },
     {
       "title": "또 점포 줄이는 우리은행…영업점·출장소 37곳 통폐합",
       "link": "https://www.yna.co.kr/view/AKR20260406155700002",
@@ -147,11 +152,6 @@
       "title": "국민연금·서금원·신복위 '금융―노후 복합지원 업무협약' 체결",
       "link": "https://www.yna.co.kr/view/AKR20260406120200002",
       "pubDate": "Mon, 6 Apr 2026 15:51:03 +0900"
-    },
-    {
-      "title": "화장품 수출 31억달러…1분기 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260406123000017",
-      "pubDate": "Mon, 6 Apr 2026 15:44:54 +0900"
     }
   ]
 }
