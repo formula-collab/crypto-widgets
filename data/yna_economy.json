@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775462838,
+  "updated_at_unix": 1775468706,
   "items": [
+    {
+      "title": "김윤덕 \"공시가격 산정, 큰 무리 없어…더 정교하도록 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406148100001",
+      "pubDate": "Mon, 6 Apr 2026 18:16:21 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260406145500011",
+      "pubDate": "Mon, 6 Apr 2026 18:00:01 +0900"
+    },
+    {
+      "title": "'원료의약품 제조업' 에이치엘지노믹스, 코스닥 상장예심 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260406147800008",
+      "pubDate": "Mon, 6 Apr 2026 17:37:36 +0900"
+    },
+    {
+      "title": "삼천당제약 대표 \"자사 비만약, FDA서 위고비 제네릭 인정\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260406129051017",
+      "pubDate": "Mon, 6 Apr 2026 17:18:58 +0900"
+    },
+    {
+      "title": "1분기 국경단계 마약 424만명분 적발…여행자 밀수 다시 기승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260406109851002",
+      "pubDate": "Mon, 6 Apr 2026 17:13:43 +0900"
+    },
+    {
+      "title": "[인사] 동양생명",
+      "link": "https://www.yna.co.kr/view/AKR20260406140700002",
+      "pubDate": "Mon, 6 Apr 2026 17:12:30 +0900"
+    },
+    {
+      "title": "호르무즈 각자도생…세계 무역 미국 위상 흔들리나",
+      "link": "https://www.yna.co.kr/view/AKR20260406124600009",
+      "pubDate": "Mon, 6 Apr 2026 17:07:38 +0900"
+    },
     {
       "title": "광주회생법원, 회생·파산 무료 상담센터 개소",
       "link": "https://www.yna.co.kr/view/AKR20260406140800054",
@@ -117,41 +152,6 @@
       "title": "[특징주] 실적발표 앞둔 삼전, 3%대 상승해 '19만 전자' 회복(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260406032851008",
       "pubDate": "Mon, 6 Apr 2026 15:43:29 +0900"
-    },
-    {
-      "title": "광주시, 지역 맞춤형 일자리에 59억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260406122600054",
-      "pubDate": "Mon, 6 Apr 2026 15:40:14 +0900"
-    },
-    {
-      "title": "[특징주] 일진전기, 대규모 변압기 공급 계약 체결에 7% 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406039751008",
-      "pubDate": "Mon, 6 Apr 2026 15:37:21 +0900"
-    },
-    {
-      "title": "외국환시세(4월6일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260406121300002",
-      "pubDate": "Mon, 6 Apr 2026 15:37:21 +0900"
-    },
-    {
-      "title": "중동발 위기 넘기자…포항시, 기업 수출 물류비 등 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260406121600053",
-      "pubDate": "Mon, 6 Apr 2026 15:37:08 +0900"
-    },
-    {
-      "title": "'삼전 실적 D-1' 코스피, 1%대 올라 5,450 마감…코스닥은 내려",
-      "link": "https://www.yna.co.kr/view/AKR20260406121100008",
-      "pubDate": "Mon, 6 Apr 2026 15:36:14 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행, 대구·부산서 외국인 전용 '일요 영업'",
-      "link": "https://www.yna.co.kr/view/AKR20260406118100002",
-      "pubDate": "Mon, 6 Apr 2026 15:32:24 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.1원 오른 1,506.3원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260406119700002",
-      "pubDate": "Mon, 6 Apr 2026 15:30:56 +0900"
     }
   ]
 }
