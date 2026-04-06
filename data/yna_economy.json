@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775479418,
+  "updated_at_unix": 1775484233,
   "items": [
+    {
+      "title": "국회, 신현송 한은 총재 후보자 인사청문회 15일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260406165300001",
+      "pubDate": "Mon, 6 Apr 2026 22:04:24 +0900"
+    },
     {
       "title": "금융투자업계, 2조원 규모 벤처시장 세컨더리 펀드 조성 추진",
       "link": "https://www.yna.co.kr/view/AKR20260406161500008",
@@ -147,11 +152,6 @@
       "title": "인천∼서울 제4경인고속도, 민자적격성조사서 사업타당성 확보",
       "link": "https://www.yna.co.kr/view/AKR20260406126200065",
       "pubDate": "Mon, 6 Apr 2026 15:56:59 +0900"
-    },
-    {
-      "title": "국민연금·서금원·신복위 '금융―노후 복합지원 업무협약' 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260406120200002",
-      "pubDate": "Mon, 6 Apr 2026 15:51:03 +0900"
     }
   ]
 }
