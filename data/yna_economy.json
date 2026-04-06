@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775514323,
+  "updated_at_unix": 1775516436,
   "items": [
+    {
+      "title": "부산시, 서울서 투자유치 설명회…해양·디지털금융 특화",
+      "link": "https://www.yna.co.kr/view/AKR20260407018700051",
+      "pubDate": "Tue, 7 Apr 2026 07:52:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260407015400011",
+      "pubDate": "Tue, 7 Apr 2026 07:30:01 +0900"
+    },
+    {
+      "title": "정책대출 축소에 생애최초 디딤돌대출 실적 절반 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260406168600003",
+      "pubDate": "Tue, 7 Apr 2026 07:20:59 +0900"
+    },
+    {
+      "title": "[마켓人] 민동욱 상장협 신임회장 \"전쟁 영향 속 완급 조절 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406167300008",
+      "pubDate": "Tue, 7 Apr 2026 07:20:00 +0900"
+    },
     {
       "title": "금주 금통위 동결 전망 속 매파냐 중립이냐…채권시장 촉각",
       "link": "https://www.yna.co.kr/view/AKR20260406148300008",
@@ -132,26 +152,6 @@
       "title": "넷마블, 내년까지 코웨이 주식 1천500억어치 매수(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260406129851008",
       "pubDate": "Mon, 6 Apr 2026 17:01:31 +0900"
-    },
-    {
-      "title": "NH투자, 4천억 규모 'IMA 1호' 완판…\"생산적 금융 확대 기여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406139800008",
-      "pubDate": "Mon, 6 Apr 2026 16:58:02 +0900"
-    },
-    {
-      "title": "여야 의원들, 소각·매립업계와 사회공헌재단 설립 협약식",
-      "link": "https://www.yna.co.kr/view/AKR20260406136300001",
-      "pubDate": "Mon, 6 Apr 2026 16:56:14 +0900"
-    },
-    {
-      "title": "검찰, 정몽규 회장 벌금 1.5억 약식기소…계열사 자료 허위제출",
-      "link": "https://www.yna.co.kr/view/AKR20260406137500004",
-      "pubDate": "Mon, 6 Apr 2026 16:52:34 +0900"
-    },
-    {
-      "title": "휴전협상 소식에 국고채 금리 일제히 하락…3년물 연 3.432%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406137251008",
-      "pubDate": "Mon, 6 Apr 2026 16:51:43 +0900"
     }
   ]
 }
