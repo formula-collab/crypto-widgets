@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775509293,
+  "updated_at_unix": 1775512528,
   "items": [
+    {
+      "title": "국산 원자력선박 2037년 띄운다…MSR 예타 막차",
+      "link": "https://www.yna.co.kr/view/AKR20260406103000017",
+      "pubDate": "Tue, 7 Apr 2026 06:33:01 +0900"
+    },
+    {
+      "title": "\"설탕부담금, 당 함량 따라 3단계 차등부과…영국 벤치마킹\"",
+      "link": "https://www.yna.co.kr/view/AKR20260406154100030",
+      "pubDate": "Tue, 7 Apr 2026 06:25:01 +0900"
+    },
+    {
+      "title": "[이코노워치] 안전자산이라던 금값의 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260406135700546",
+      "pubDate": "Tue, 7 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "정부, 농자재 수급 점검 나서…필름·비료 가격 동향 집중 관리",
+      "link": "https://www.yna.co.kr/view/AKR20260406126400030",
+      "pubDate": "Tue, 7 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "석화·정유·시멘트 50개사, '원전 한달 발전량' 석유 절약키로",
+      "link": "https://www.yna.co.kr/view/AKR20260406161900530",
+      "pubDate": "Tue, 7 Apr 2026 06:00:00 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상 진행상황에 촉각…브렌트 1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260407005300072",
@@ -127,31 +152,6 @@
       "title": "캠코 사장 \"새도약기금 안정화 등 국민 요구 충실 부응할것\"",
       "link": "https://www.yna.co.kr/view/AKR20260406130100002",
       "pubDate": "Mon, 6 Apr 2026 16:15:39 +0900"
-    },
-    {
-      "title": "환율 1.1원 오른 1,506.3원…美·이란 휴전 논의에 상승폭 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260406127500002",
-      "pubDate": "Mon, 6 Apr 2026 16:15:01 +0900"
-    },
-    {
-      "title": "넷마블 \"계열사 코웨이 주식 1천500억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406129800008",
-      "pubDate": "Mon, 6 Apr 2026 16:12:09 +0900"
-    },
-    {
-      "title": "5월 국내선 유류할증료 3만4천100원 역대 최대…한달 새 4.4배↑",
-      "link": "https://www.yna.co.kr/view/AKR20260406127300003",
-      "pubDate": "Mon, 6 Apr 2026 16:02:50 +0900"
-    },
-    {
-      "title": "자고 나면 순위 바뀐다…코스닥 시가총액 '넘버1' 두고 3파전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406099951008",
-      "pubDate": "Mon, 6 Apr 2026 16:02:43 +0900"
-    },
-    {
-      "title": "1분기 국경단계 마약 180㎏ 적발…여행자 밀수 다시 기승",
-      "link": "https://www.yna.co.kr/view/AKR20260406109800002",
-      "pubDate": "Mon, 6 Apr 2026 16:00:01 +0900"
     }
   ]
 }
