@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775512528,
+  "updated_at_unix": 1775514323,
   "items": [
+    {
+      "title": "금주 금통위 동결 전망 속 매파냐 중립이냐…채권시장 촉각",
+      "link": "https://www.yna.co.kr/view/AKR20260406148300008",
+      "pubDate": "Tue, 7 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "채권단, 여천NCC 이번주부터 실사…중동전쟁에 조사 길어질듯",
+      "link": "https://www.yna.co.kr/view/AKR20260406152000002",
+      "pubDate": "Tue, 7 Apr 2026 07:01:15 +0900"
+    },
+    {
+      "title": "중동 전쟁 속 단고테 정유소 '아프리카 에너지 자립 시동'",
+      "link": "https://www.yna.co.kr/view/AKR20260406103500898",
+      "pubDate": "Tue, 7 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "\"안심거래도 못 믿는다\"…중고거래 플랫폼 피해 3년새 10배로",
+      "link": "https://www.yna.co.kr/view/AKR20260406123400030",
+      "pubDate": "Tue, 7 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "중동전쟁에 뉴스심리지수 11개월 만 최저…우크라전 후 최대폭↓",
+      "link": "https://www.yna.co.kr/view/AKR20260406146000002",
+      "pubDate": "Tue, 7 Apr 2026 07:00:57 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 헤즈볼라의 서아프리카 자금줄…레바논 이주민 네트워크",
+      "link": "https://www.yna.co.kr/view/AKR20260331031200898",
+      "pubDate": "Tue, 7 Apr 2026 07:00:05 +0900"
+    },
     {
       "title": "국산 원자력선박 2037년 띄운다…MSR 예타 막차",
       "link": "https://www.yna.co.kr/view/AKR20260406103000017",
@@ -122,36 +152,6 @@
       "title": "휴전협상 소식에 국고채 금리 일제히 하락…3년물 연 3.432%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260406137251008",
       "pubDate": "Mon, 6 Apr 2026 16:51:43 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.432%",
-      "link": "https://www.yna.co.kr/view/AKR20260406137200008",
-      "pubDate": "Mon, 6 Apr 2026 16:40:15 +0900"
-    },
-    {
-      "title": "에이스테크 \"베트남 종속회사에 75억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406134500008",
-      "pubDate": "Mon, 6 Apr 2026 16:32:27 +0900"
-    },
-    {
-      "title": "삼천당제약 대표 \"자사 비만약, FDA서 위고비 제네릭 인정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406129000017",
-      "pubDate": "Mon, 6 Apr 2026 16:24:42 +0900"
-    },
-    {
-      "title": "김태흠 \"고유가 지원금 등 국가정책, 전액 국비 부담해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406132000063",
-      "pubDate": "Mon, 6 Apr 2026 16:22:35 +0900"
-    },
-    {
-      "title": "'삼전 실적 D-1' 코스피, 1%대 올라 5,450 마감…코스닥은 내려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406121151008",
-      "pubDate": "Mon, 6 Apr 2026 16:19:24 +0900"
-    },
-    {
-      "title": "캠코 사장 \"새도약기금 안정화 등 국민 요구 충실 부응할것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260406130100002",
-      "pubDate": "Mon, 6 Apr 2026 16:15:39 +0900"
     }
   ]
 }
