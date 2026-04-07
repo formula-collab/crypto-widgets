@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775555810,
+  "updated_at_unix": 1775558971,
   "items": [
+    {
+      "title": "솔루스첨단소재 \"룩셈부르크 계열사 주식 784억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407152100008",
+      "pubDate": "Tue, 7 Apr 2026 19:31:55 +0900"
+    },
     {
       "title": "포스코, 협력사 직원 7천명 정규직으로 '직접 고용'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260407144651003",
@@ -147,11 +152,6 @@
       "title": "\"유가 급등에…미국 셰일오일 생산 증가 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20260407115200009",
       "pubDate": "Tue, 7 Apr 2026 15:37:19 +0900"
-    },
-    {
-      "title": "외국환시세(4월7일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260407117400002",
-      "pubDate": "Tue, 7 Apr 2026 15:35:23 +0900"
     }
   ]
 }
