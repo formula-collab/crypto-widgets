@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775594054,
+  "updated_at_unix": 1775597610,
   "items": [
+    {
+      "title": "[노란봉투법 한달] ① 하청노조 985곳, 원청 367곳에 교섭요구…노동위 신청 273건",
+      "link": "https://www.yna.co.kr/view/AKR20260407126400530",
+      "pubDate": "Wed, 8 Apr 2026 06:07:02 +0900"
+    },
+    {
+      "title": "창립 73주년 맞는 SK그룹…창업정신 기리며 '경영 기본기' 다진다",
+      "link": "https://www.yna.co.kr/view/AKR20260407155400003",
+      "pubDate": "Wed, 8 Apr 2026 06:01:00 +0900"
+    },
+    {
+      "title": "파주시, 반환 미군기지 스탠턴·에드워즈 개발 속도 낸다",
+      "link": "https://www.yna.co.kr/view/AKR20260407123500060",
+      "pubDate": "Wed, 8 Apr 2026 06:00:10 +0900"
+    },
+    {
+      "title": "경윳값 유럽 32% 오를 때 韓 8%…최고가격제로 '버티기' 중",
+      "link": "https://www.yna.co.kr/view/AKR20260407121000003",
+      "pubDate": "Wed, 8 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "가상자산 보이스피싱 59% '출금지연' 예외서 발생…기준 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260407137200002",
+      "pubDate": "Wed, 8 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "금융위도 금융소비자보호 자문기구 이르면 내달 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260407156700002",
+      "pubDate": "Wed, 8 Apr 2026 05:55:01 +0900"
+    },
+    {
+      "title": "하나금융, 전 계열사 차량 2부제…시차 출퇴근제도 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260407148600002",
+      "pubDate": "Wed, 8 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "한은총재 후보자, 지명 직전 '바이코리아'…고점에 물렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260407141200002",
+      "pubDate": "Wed, 8 Apr 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[샷!] 화장실 사용 금지…\"돈 내라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260402132200505",
+      "pubDate": "Wed, 8 Apr 2026 05:50:00 +0900"
+    },
     {
       "title": "국회 예결위, 이틀째 대정부 종합정책질의…추경 공방",
       "link": "https://www.yna.co.kr/view/AKR20260407153100001",
@@ -107,51 +152,6 @@
       "title": "국고채 금리 대체로 상승…3년물 연 3.451%",
       "link": "https://www.yna.co.kr/view/AKR20260407129400008",
       "pubDate": "Tue, 7 Apr 2026 16:40:25 +0900"
-    },
-    {
-      "title": "[게시판] 충남대·KAIST·한국국방MICE연구원, 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260407128600063",
-      "pubDate": "Tue, 7 Apr 2026 16:38:53 +0900"
-    },
-    {
-      "title": "진주문화관광재단-한국저작권위, 콘텐츠 저작권 보호 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260407126500052",
-      "pubDate": "Tue, 7 Apr 2026 16:35:43 +0900"
-    },
-    {
-      "title": "[특징주] '깜짝호실적' 삼성전자, 상승 마감…한때 '20만전자' 회복(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260407037751008",
-      "pubDate": "Tue, 7 Apr 2026 16:24:13 +0900"
-    },
-    {
-      "title": "[특징주] 삼성E&A, 중동 재건·반도체 공장 투자 기대에 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260407042251008",
-      "pubDate": "Tue, 7 Apr 2026 16:21:21 +0900"
-    },
-    {
-      "title": "'트럼프 최후통첩 시한 임박' 코스피, 상승폭 줄여 5,490대 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260407124600008",
-      "pubDate": "Tue, 7 Apr 2026 16:20:20 +0900"
-    },
-    {
-      "title": "신비바이오-익산시, 국가식품클러스터에 335억원 투자 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260407122300055",
-      "pubDate": "Tue, 7 Apr 2026 16:14:56 +0900"
-    },
-    {
-      "title": "춘천시, 농업 생산비 급등 대응 지원책 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260407122400062",
-      "pubDate": "Tue, 7 Apr 2026 16:06:05 +0900"
-    },
-    {
-      "title": "태백시, 지방재정 신속집행률 46.2%…목표 달성 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260407121700062",
-      "pubDate": "Tue, 7 Apr 2026 16:02:18 +0900"
-    },
-    {
-      "title": "BNK금융, 중동발 위기 극복 지원단 가동…부울경 기업 자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260407121900051",
-      "pubDate": "Tue, 7 Apr 2026 15:56:15 +0900"
     }
   ]
 }
