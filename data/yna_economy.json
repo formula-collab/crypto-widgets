@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775587470,
+  "updated_at_unix": 1775591314,
   "items": [
+    {
+      "title": "[뉴욕유가] 트럼프 \"오늘밤 한 문명이 사라질 것\"…WTI 3일째↑",
+      "link": "https://www.yna.co.kr/view/AKR20260408005000009",
+      "pubDate": "Wed, 8 Apr 2026 04:22:39 +0900"
+    },
+    {
+      "title": "중견국 연대 모색하는 스위스…\"한국과 FTA 개정, 정치적 상징\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407076700504",
+      "pubDate": "Wed, 8 Apr 2026 04:00:01 +0900"
+    },
     {
       "title": "달러-원, '트럼프 데드라인' 앞두고 낙폭 축소…1,501.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260408003000002",
@@ -142,16 +152,6 @@
       "title": "안산소방서, 신축 '수암119안전센터' 8일부터 가동",
       "link": "https://www.yna.co.kr/view/AKR20260407121500061",
       "pubDate": "Tue, 7 Apr 2026 15:54:19 +0900"
-    },
-    {
-      "title": "키움증권, '왕사남' 배우 유해진과 광고모델 계약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260407121200008",
-      "pubDate": "Tue, 7 Apr 2026 15:52:44 +0900"
-    },
-    {
-      "title": "외환시장, 중동 상황에 촉각…환율 2.1원 내린 1,504.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260407034451002",
-      "pubDate": "Tue, 7 Apr 2026 15:47:25 +0900"
     }
   ]
 }
