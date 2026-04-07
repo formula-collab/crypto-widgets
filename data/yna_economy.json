@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775551263,
+  "updated_at_unix": 1775555810,
   "items": [
+    {
+      "title": "포스코, 협력사 직원 7천명 정규직으로 '직접 고용'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260407144651003",
+      "pubDate": "Tue, 7 Apr 2026 18:18:52 +0900"
+    },
+    {
+      "title": "강원창업보육센터협의회, 경기 위축으로 자금 확보 어려움",
+      "link": "https://www.yna.co.kr/view/AKR20260407144400062",
+      "pubDate": "Tue, 7 Apr 2026 18:04:10 +0900"
+    },
+    {
+      "title": "케이피엠테크, 80억원 유상증자…텔콘알에프제약에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260407145300008",
+      "pubDate": "Tue, 7 Apr 2026 18:03:52 +0900"
+    },
+    {
+      "title": "포스코, 협력사 직원 7천명 '직접 고용' 파격 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260407144600003",
+      "pubDate": "Tue, 7 Apr 2026 18:01:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260407143800011",
+      "pubDate": "Tue, 7 Apr 2026 18:00:01 +0900"
+    },
+    {
+      "title": "강원농업기술원, 2026년산 아스파라거스 일본 첫 수출 선적식",
+      "link": "https://www.yna.co.kr/view/AKR20260407143100062",
+      "pubDate": "Tue, 7 Apr 2026 17:48:14 +0900"
+    },
     {
       "title": "텔콘RF제약, 30억원 유상증자…뉴온에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260407139800008",
@@ -122,36 +152,6 @@
       "title": "외국환시세(4월7일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260407117400002",
       "pubDate": "Tue, 7 Apr 2026 15:35:23 +0900"
-    },
-    {
-      "title": "태국산 신선란 첫 수입…계란 한 판 7천원 고공행진",
-      "link": "https://www.yna.co.kr/view/AKR20260407112000030",
-      "pubDate": "Tue, 7 Apr 2026 15:33:42 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.1원 내린 1,504.2원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260407116200002",
-      "pubDate": "Tue, 7 Apr 2026 15:30:51 +0900"
-    },
-    {
-      "title": "충청권 홈플러스 노동자 \"정상화 약속한 정부·여당 책임져야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260407115100063",
-      "pubDate": "Tue, 7 Apr 2026 15:30:23 +0900"
-    },
-    {
-      "title": "LH·GS건설, 성북1구역 공공재개발 공동사업 시행 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260407114900003",
-      "pubDate": "Tue, 7 Apr 2026 15:24:18 +0900"
-    },
-    {
-      "title": "\"설탕부담금, 당 함량 따라 부과\"…콜라 500㎖ 150원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260406154151030",
-      "pubDate": "Tue, 7 Apr 2026 15:24:14 +0900"
-    },
-    {
-      "title": "정부, 제주도서 대테러 합동훈련…도서지역 대응역량 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260407113800001",
-      "pubDate": "Tue, 7 Apr 2026 15:21:07 +0900"
     }
   ]
 }
