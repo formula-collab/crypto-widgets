@@ -1,15 +1,20 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775597610,
+  "updated_at_unix": 1775600820,
   "items": [
+    {
+      "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
+      "link": "https://www.yna.co.kr/view/AKR20260407130400030",
+      "pubDate": "Wed, 8 Apr 2026 07:01:01 +0900"
+    },
     {
       "title": "[노란봉투법 한달] ① 하청노조 985곳, 원청 367곳에 교섭요구…노동위 신청 273건",
       "link": "https://www.yna.co.kr/view/AKR20260407126400530",
       "pubDate": "Wed, 8 Apr 2026 06:07:02 +0900"
     },
     {
-      "title": "창립 73주년 맞는 SK그룹…창업정신 기리며 '경영 기본기' 다진다",
+      "title": "창립 73주년 맞는 SK…창업정신 기리며 '경영 기본기' 다진다",
       "link": "https://www.yna.co.kr/view/AKR20260407155400003",
       "pubDate": "Wed, 8 Apr 2026 06:01:00 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "'슈퍼 서프라이즈' 삼성전자, 코스피 시총 비중, 6년만 최고치로",
       "link": "https://www.yna.co.kr/view/AKR20260407129600008",
       "pubDate": "Tue, 7 Apr 2026 16:43:20 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.451%",
-      "link": "https://www.yna.co.kr/view/AKR20260407129400008",
-      "pubDate": "Tue, 7 Apr 2026 16:40:25 +0900"
     }
   ]
 }
