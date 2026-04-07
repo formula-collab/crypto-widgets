@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775558971,
+  "updated_at_unix": 1775562216,
   "items": [
+    {
+      "title": "단위 농·축협 10일부터 비조합원 가계대출 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260407154500030",
+      "pubDate": "Tue, 7 Apr 2026 19:54:06 +0900"
+    },
+    {
+      "title": "삼천당제약, '핵심 특허 대만기업 보유설'에 \"100% 자사 소유\"",
+      "link": "https://www.yna.co.kr/view/AKR20260407153800017",
+      "pubDate": "Tue, 7 Apr 2026 19:49:21 +0900"
+    },
     {
       "title": "솔루스첨단소재 \"룩셈부르크 계열사 주식 784억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260407152100008",
@@ -142,16 +152,6 @@
       "title": "부산대, 조기 진로 탐색·미취업 청년 일자리 매칭 맞춤 지원",
       "link": "https://www.yna.co.kr/view/AKR20260407116600051",
       "pubDate": "Tue, 7 Apr 2026 15:40:44 +0900"
-    },
-    {
-      "title": "코스피, 0.8% 올라 5,490대 마감…코스닥은 1% 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260407117700008",
-      "pubDate": "Tue, 7 Apr 2026 15:39:06 +0900"
-    },
-    {
-      "title": "\"유가 급등에…미국 셰일오일 생산 증가 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260407115200009",
-      "pubDate": "Tue, 7 Apr 2026 15:37:19 +0900"
     }
   ]
 }
