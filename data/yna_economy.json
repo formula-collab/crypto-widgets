@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775600820,
+  "updated_at_unix": 1775603069,
   "items": [
+    {
+      "title": "2월 경상흑자 232억달러…반도체 등 수출 호조에 '역대 최대'",
+      "link": "https://www.yna.co.kr/view/AKR20260408021600002",
+      "pubDate": "Wed, 8 Apr 2026 08:00:00 +0900"
+    },
+    {
+      "title": "밀라노 디자인위크처럼…글로벌 부산디자인페어 준비 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260408021800051",
+      "pubDate": "Wed, 8 Apr 2026 07:52:45 +0900"
+    },
+    {
+      "title": "캄보디아 남고 케냐 들어온다…ODA 중점협력국 25개국 재편",
+      "link": "https://www.yna.co.kr/view/AKR20260407111500371",
+      "pubDate": "Wed, 8 Apr 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260408014800011",
+      "pubDate": "Wed, 8 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "\"멍플루언서 잡아라\"…펫푸드업계, SNS 마케팅 사활",
       "link": "https://www.yna.co.kr/view/AKR20260407130400030",
@@ -132,26 +152,6 @@
       "title": "강원 휘발유 평균 1천963원…유가 상승에 현장점검 강화",
       "link": "https://www.yna.co.kr/view/AKR20260407134800062",
       "pubDate": "Tue, 7 Apr 2026 17:15:41 +0900"
-    },
-    {
-      "title": "미·이란 협상 안갯속에 국고채 금리↑…3년물 연 3.451%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260407129451008",
-      "pubDate": "Tue, 7 Apr 2026 17:13:22 +0900"
-    },
-    {
-      "title": "NH농협은행 경남본부, 지역 인재 육성 장학기금 3억 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20260407134100052",
-      "pubDate": "Tue, 7 Apr 2026 17:06:38 +0900"
-    },
-    {
-      "title": "항공협회, 정부에 항공유 관세 면제·운수권 회수 유예 등 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260407133900003",
-      "pubDate": "Tue, 7 Apr 2026 17:03:16 +0900"
-    },
-    {
-      "title": "'슈퍼 서프라이즈' 삼성전자, 코스피 시총 비중, 6년만 최고치로",
-      "link": "https://www.yna.co.kr/view/AKR20260407129600008",
-      "pubDate": "Tue, 7 Apr 2026 16:43:20 +0900"
     }
   ]
 }
