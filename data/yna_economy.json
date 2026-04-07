@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775562216,
+  "updated_at_unix": 1775566426,
   "items": [
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260407157500002",
+      "pubDate": "Tue, 7 Apr 2026 21:05:56 +0900"
+    },
     {
       "title": "단위 농·축협 10일부터 비조합원 가계대출 중단",
       "link": "https://www.yna.co.kr/view/AKR20260407154500030",
@@ -147,11 +152,6 @@
       "title": "[제주소식] 제주창조경제혁신센터 '모두의 창업 프로젝트' 지원자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260407118400056",
       "pubDate": "Tue, 7 Apr 2026 15:47:14 +0900"
-    },
-    {
-      "title": "부산대, 조기 진로 탐색·미취업 청년 일자리 매칭 맞춤 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260407116600051",
-      "pubDate": "Tue, 7 Apr 2026 15:40:44 +0900"
     }
   ]
 }
