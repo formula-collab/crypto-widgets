@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775584005,
+  "updated_at_unix": 1775587470,
   "items": [
+    {
+      "title": "달러-원, '트럼프 데드라인' 앞두고 낙폭 축소…1,501.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260408003000002",
+      "pubDate": "Wed, 8 Apr 2026 03:05:58 +0900"
+    },
     {
       "title": "[인사] 재정경제부",
       "link": "https://www.yna.co.kr/view/AKR20260407157500002",
@@ -147,11 +152,6 @@
       "title": "외환시장, 중동 상황에 촉각…환율 2.1원 내린 1,504.2원",
       "link": "https://www.yna.co.kr/view/AKR20260407034451002",
       "pubDate": "Tue, 7 Apr 2026 15:47:25 +0900"
-    },
-    {
-      "title": "[제주소식] 제주창조경제혁신센터 '모두의 창업 프로젝트' 지원자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260407118400056",
-      "pubDate": "Tue, 7 Apr 2026 15:47:14 +0900"
     }
   ]
 }
