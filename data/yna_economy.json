@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775591314,
+  "updated_at_unix": 1775594054,
   "items": [
+    {
+      "title": "국회 예결위, 이틀째 대정부 종합정책질의…추경 공방",
+      "link": "https://www.yna.co.kr/view/AKR20260407153100001",
+      "pubDate": "Wed, 8 Apr 2026 05:00:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 트럼프 \"오늘밤 한 문명이 사라질 것\"…WTI 3일째↑",
       "link": "https://www.yna.co.kr/view/AKR20260408005000009",
@@ -147,11 +152,6 @@
       "title": "BNK금융, 중동발 위기 극복 지원단 가동…부울경 기업 자금 지원",
       "link": "https://www.yna.co.kr/view/AKR20260407121900051",
       "pubDate": "Tue, 7 Apr 2026 15:56:15 +0900"
-    },
-    {
-      "title": "안산소방서, 신축 '수암119안전센터' 8일부터 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260407121500061",
-      "pubDate": "Tue, 7 Apr 2026 15:54:19 +0900"
     }
   ]
 }
