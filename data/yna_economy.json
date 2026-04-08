@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775685815,
+  "updated_at_unix": 1775689440,
   "items": [
+    {
+      "title": "중국 화통케이블그룹, 부산 3공장 설립 특수캐이블 생산",
+      "link": "https://www.yna.co.kr/view/AKR20260409020900051",
+      "pubDate": "Thu, 9 Apr 2026 07:56:58 +0900"
+    },
+    {
+      "title": "서울 '아크로 드 서초'서 올해 첫 만점 청약통장 나와",
+      "link": "https://www.yna.co.kr/view/AKR20260409015100003",
+      "pubDate": "Thu, 9 Apr 2026 07:33:41 +0900"
+    },
+    {
+      "title": "서울 중구, 주유소 2곳과 협약…\"10일부터 구민에 기름값 할인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409018900004",
+      "pubDate": "Thu, 9 Apr 2026 07:32:33 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260409015900011",
+      "pubDate": "Thu, 9 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 한국 여행객의 '미개척지' 아프리카…첫발은 남아공서",
       "link": "https://www.yna.co.kr/view/AKR20260403058900898",
@@ -132,26 +152,6 @@
       "title": "진주시, 중동 사태 대응 '수출 중기 융자 100억' 긴급 지원",
       "link": "https://www.yna.co.kr/view/AKR20260408145800052",
       "pubDate": "Wed, 8 Apr 2026 17:00:16 +0900"
-    },
-    {
-      "title": "경기도, 스테이블코인 도입 추진…청년기본소득 등 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260408152700061",
-      "pubDate": "Wed, 8 Apr 2026 16:56:00 +0900"
-    },
-    {
-      "title": "휴전합의·외인 매수세 속 국고채 금리 하락…3년물 연 3.315%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408150151008",
-      "pubDate": "Wed, 8 Apr 2026 16:46:42 +0900"
-    },
-    {
-      "title": "서삼석 \"유류대금 정산기준 이견, 알뜰주유소 3사 손실 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408150800054",
-      "pubDate": "Wed, 8 Apr 2026 16:44:15 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.315%",
-      "link": "https://www.yna.co.kr/view/AKR20260408150100008",
-      "pubDate": "Wed, 8 Apr 2026 16:40:22 +0900"
     }
   ]
 }
