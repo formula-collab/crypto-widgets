@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775645482,
+  "updated_at_unix": 1775648655,
   "items": [
+    {
+      "title": "포스코도 하청 대한 사용자성 인정…하청노조간 교섭단위 분리(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260408115752530",
+      "pubDate": "Wed, 8 Apr 2026 20:22:28 +0900"
+    },
     {
       "title": "공정위, 세방그룹 '계열사 일감 몰아주기' 의혹 조사",
       "link": "https://www.yna.co.kr/view/AKR20260408174000002",
@@ -147,11 +152,6 @@
       "title": "관광공사, DMO 시상식 개최…남해·김제 최우수 선정",
       "link": "https://www.yna.co.kr/view/AKR20260408139200030",
       "pubDate": "Wed, 8 Apr 2026 15:58:53 +0900"
-    },
-    {
-      "title": "경북도 \"민선 8기 투자유치 실적 46조원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408133700053",
-      "pubDate": "Wed, 8 Apr 2026 15:55:51 +0900"
     }
   ]
 }
