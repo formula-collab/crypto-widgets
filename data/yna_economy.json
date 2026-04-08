@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775682316,
+  "updated_at_unix": 1775685815,
   "items": [
+    {
+      "title": "[우분투칼럼] 한국 여행객의 '미개척지' 아프리카…첫발은 남아공서",
+      "link": "https://www.yna.co.kr/view/AKR20260403058900898",
+      "pubDate": "Thu, 9 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "여한구 \"미 철강 관세 개편으로 전반적 행정부담 완화 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260408168600003",
+      "pubDate": "Thu, 9 Apr 2026 06:48:54 +0900"
+    },
+    {
+      "title": "정부, 반려동물 사료 영양표준 도입…사료업체들, 제품개편 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260408159900030",
+      "pubDate": "Thu, 9 Apr 2026 06:15:00 +0900"
+    },
+    {
+      "title": "농경연 \"농협 경제사업 적자…구조조정·조합 통합 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260408165300030",
+      "pubDate": "Thu, 9 Apr 2026 06:05:00 +0900"
+    },
+    {
+      "title": "중기부, 美 동남부 민간주도 中企 수출거점 설치…수행기관 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260408145000030",
+      "pubDate": "Thu, 9 Apr 2026 06:00:09 +0900"
+    },
+    {
+      "title": "금융지주 작년 순이익 26.7조원…또 역대 최대치",
+      "link": "https://www.yna.co.kr/view/AKR20260408162300002",
+      "pubDate": "Thu, 9 Apr 2026 06:00:02 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 전격 '2주 휴전' 합의에 급락…WTI 16%↓",
       "link": "https://www.yna.co.kr/view/AKR20260409006200009",
@@ -122,36 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.315%",
       "link": "https://www.yna.co.kr/view/AKR20260408150100008",
       "pubDate": "Wed, 8 Apr 2026 16:40:22 +0900"
-    },
-    {
-      "title": "[미·이란 2주 휴전] 호르무즈 열리나…선사, 통항 계획 자체 수립(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260408066652003",
-      "pubDate": "Wed, 8 Apr 2026 16:39:30 +0900"
-    },
-    {
-      "title": "美-이란 휴전 합의에 돌아온 외국인…반도체 집중 '사자'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408066751008",
-      "pubDate": "Wed, 8 Apr 2026 16:34:47 +0900"
-    },
-    {
-      "title": "포스코 하청 노조 간 교섭단위 분리…노란봉투법 후 첫 결정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408115751530",
-      "pubDate": "Wed, 8 Apr 2026 16:33:00 +0900"
-    },
-    {
-      "title": "[미·이란 2주 휴전]\"파국은 피했다\"…환율 1,500원 아래로·글로벌증시 랠리(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408065151008",
-      "pubDate": "Wed, 8 Apr 2026 16:31:30 +0900"
-    },
-    {
-      "title": "코스피, 이란전 휴전에 7% 올라 6,000선 가시권…코스닥도 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408134351008",
-      "pubDate": "Wed, 8 Apr 2026 16:23:45 +0900"
-    },
-    {
-      "title": "RF머트리얼즈, 280억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260408143400008",
-      "pubDate": "Wed, 8 Apr 2026 16:12:29 +0900"
     }
   ]
 }
