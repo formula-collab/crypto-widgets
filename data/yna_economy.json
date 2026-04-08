@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775638328,
+  "updated_at_unix": 1775642228,
   "items": [
+    {
+      "title": "상암 DMC 롯데몰 개발사업 본궤도…내년 착공·2030년 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260408170900004",
+      "pubDate": "Wed, 8 Apr 2026 18:52:50 +0900"
+    },
+    {
+      "title": "경복궁면세점, 인천공항 1터미널 입국장면세점 5년 더 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260408169600002",
+      "pubDate": "Wed, 8 Apr 2026 18:40:51 +0900"
+    },
+    {
+      "title": "물류업계 만난 李대통령…'고유가 부담 추가대책' 검토 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260408169200001",
+      "pubDate": "Wed, 8 Apr 2026 18:33:57 +0900"
+    },
+    {
+      "title": "구윤철, 이란 호르무즈 통행료 추진에 \"현재는 지급 검토 안 해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260408134051001",
+      "pubDate": "Wed, 8 Apr 2026 18:22:33 +0900"
+    },
+    {
+      "title": "계좌 13개로 시세조종 3천만원 부당이득…개인투자자 검찰 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260408166200002",
+      "pubDate": "Wed, 8 Apr 2026 18:07:55 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260408161800011",
+      "pubDate": "Wed, 8 Apr 2026 18:00:00 +0900"
+    },
     {
       "title": "포스코 협력사 7천명 직접고용 '파격'…노노갈등 해결 '숙제'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260408100451003",
@@ -119,39 +149,9 @@
       "pubDate": "Wed, 8 Apr 2026 15:55:51 +0900"
     },
     {
-      "title": "구윤철, 이란 호르무즈 통행료 추진에 \"현재는 지급 검토 안해\"",
+      "title": "구윤철, 이란 호르무즈 통행료 추진에 \"현재는 지급 검토 안 해\"",
       "link": "https://www.yna.co.kr/view/AKR20260408134000001",
       "pubDate": "Wed, 8 Apr 2026 15:55:20 +0900"
-    },
-    {
-      "title": "[특징주] 미·이란 휴전 합의에도 신재생 관련주 혼조 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408045251008",
-      "pubDate": "Wed, 8 Apr 2026 15:48:34 +0900"
-    },
-    {
-      "title": "울주군, 교통유발부담금 부과 대상에 대중교통 이용 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260408128500057",
-      "pubDate": "Wed, 8 Apr 2026 15:47:11 +0900"
-    },
-    {
-      "title": "환율, 미·이란 휴전에 33.6원 급락…1,470.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260408039951002",
-      "pubDate": "Wed, 8 Apr 2026 15:43:45 +0900"
-    },
-    {
-      "title": "경영계 \"포괄임금 지침, 노사정 합의 무력화…강한 유감·우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408134500003",
-      "pubDate": "Wed, 8 Apr 2026 15:41:29 +0900"
-    },
-    {
-      "title": "[특징주] 국제유가 급락에 정유주 줄줄이 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408041751008",
-      "pubDate": "Wed, 8 Apr 2026 15:40:03 +0900"
-    },
-    {
-      "title": "코스피, '종전 협상 가시권'에 7% 올라 5,870대…코스닥도 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260408134300008",
-      "pubDate": "Wed, 8 Apr 2026 15:38:47 +0900"
     }
   ]
 }
