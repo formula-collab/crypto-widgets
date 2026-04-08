@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775642228,
+  "updated_at_unix": 1775645482,
   "items": [
+    {
+      "title": "공정위, 세방그룹 '계열사 일감 몰아주기' 의혹 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260408174000002",
+      "pubDate": "Wed, 8 Apr 2026 19:31:39 +0900"
+    },
     {
       "title": "상암 DMC 롯데몰 개발사업 본궤도…내년 착공·2030년 준공",
       "link": "https://www.yna.co.kr/view/AKR20260408170900004",
@@ -147,11 +152,6 @@
       "title": "경북도 \"민선 8기 투자유치 실적 46조원\"",
       "link": "https://www.yna.co.kr/view/AKR20260408133700053",
       "pubDate": "Wed, 8 Apr 2026 15:55:51 +0900"
-    },
-    {
-      "title": "구윤철, 이란 호르무즈 통행료 추진에 \"현재는 지급 검토 안 해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408134000001",
-      "pubDate": "Wed, 8 Apr 2026 15:55:20 +0900"
     }
   ]
 }
