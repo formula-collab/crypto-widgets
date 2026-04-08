@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775671014,
+  "updated_at_unix": 1775675217,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 전격 '2주 휴전' 합의에 급락…WTI 16%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260409006200009",
+      "pubDate": "Thu, 9 Apr 2026 03:53:51 +0900"
+    },
     {
       "title": "달러-원, '취약한' 휴전 합의 불안 속 반등…1,479.20원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260409004000002",
@@ -147,11 +152,6 @@
       "title": "RF머트리얼즈, 280억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260408143400008",
       "pubDate": "Wed, 8 Apr 2026 16:12:29 +0900"
-    },
-    {
-      "title": "금융그룹 차량 2부제 확산…에너지 절약 총력(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260407148651002",
-      "pubDate": "Wed, 8 Apr 2026 16:05:36 +0900"
     }
   ]
 }
