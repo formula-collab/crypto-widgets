@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775666997,
+  "updated_at_unix": 1775671014,
   "items": [
+    {
+      "title": "달러-원, '취약한' 휴전 합의 불안 속 반등…1,479.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260409004000002",
+      "pubDate": "Thu, 9 Apr 2026 02:47:54 +0900"
+    },
     {
       "title": "금융위, 삼성證 발행어음 사업 인가안 심의",
       "link": "https://www.yna.co.kr/view/AKR20260408177100002",
@@ -147,11 +152,6 @@
       "title": "금융그룹 차량 2부제 확산…에너지 절약 총력(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260407148651002",
       "pubDate": "Wed, 8 Apr 2026 16:05:36 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, 농지 전수조사 위한 지방정부 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260408065200030",
-      "pubDate": "Wed, 8 Apr 2026 16:00:03 +0900"
     }
   ]
 }
