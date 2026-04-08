@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775689440,
+  "updated_at_unix": 1775692558,
   "items": [
+    {
+      "title": "한화파워, 말레이 최대 조선업체 MHB와 선박 신조·개조 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260409031800003",
+      "pubDate": "Thu, 9 Apr 2026 08:50:27 +0900"
+    },
+    {
+      "title": "홍라희, 삼성전자 주식 3.1조원 매각…상속세 마무리",
+      "link": "https://www.yna.co.kr/view/AKR20260409031300003",
+      "pubDate": "Thu, 9 Apr 2026 08:46:37 +0900"
+    },
+    {
+      "title": "키움證 \"하이닉스 하락사이클 관심 커져 주가 상단 제한될 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409029700008",
+      "pubDate": "Thu, 9 Apr 2026 08:46:36 +0900"
+    },
+    {
+      "title": "버거킹, 유용욱 셰프 협업 '스모크 비프립 와퍼' 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260409029600030",
+      "pubDate": "Thu, 9 Apr 2026 08:42:43 +0900"
+    },
+    {
+      "title": "대상, 임직원 급여 우수리 모금액 7천400만원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260409027500030",
+      "pubDate": "Thu, 9 Apr 2026 08:42:08 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] 비거주 1주택자도 전세 낀 매도 허용…\"양도세 따져봐야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409028500003",
+      "pubDate": "Thu, 9 Apr 2026 08:39:21 +0900"
+    },
+    {
+      "title": "KB자산운용, 안전보건경영시스템 국제표준 'ISO 45001' 인증획득",
+      "link": "https://www.yna.co.kr/view/AKR20260409027900008",
+      "pubDate": "Thu, 9 Apr 2026 08:36:49 +0900"
+    },
+    {
+      "title": "SK증권 \"하이브, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409027000008",
+      "pubDate": "Thu, 9 Apr 2026 08:36:20 +0900"
+    },
+    {
+      "title": "\"한옥서 영감 30ｍ 파빌리온\"…흑석11구역에 갤러리타운 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260409027800004",
+      "pubDate": "Thu, 9 Apr 2026 08:34:28 +0900"
+    },
+    {
+      "title": "삼성증권 \"에이피알, 유럽 정복이 시작된다…목표가 50만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409026200008",
+      "pubDate": "Thu, 9 Apr 2026 08:31:19 +0900"
+    },
+    {
+      "title": "IBK투자, 코오롱인더 목표가↑…\"1분기 깜짝호실적 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409024100008",
+      "pubDate": "Thu, 9 Apr 2026 08:15:17 +0900"
+    },
+    {
+      "title": "\"올해 부산항 크루즈 관광객 80만명\"…'글로벌 모항 도시' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260409021000051",
+      "pubDate": "Thu, 9 Apr 2026 08:07:16 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시 명문 향토기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260409021400051",
+      "pubDate": "Thu, 9 Apr 2026 08:05:05 +0900"
+    },
+    {
+      "title": "[마켓뷰] 미·이란 휴전 합의에 폭등한 코스피, 상승세 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260409021700008",
+      "pubDate": "Thu, 9 Apr 2026 08:03:07 +0900"
+    },
+    {
+      "title": "데이터 다 써도 안 끊긴다…이통3사 QoS 전면 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260408123100017",
+      "pubDate": "Thu, 9 Apr 2026 08:00:08 +0900"
+    },
+    {
+      "title": "'칩플레이션'에…정부, 공공PC 재활용·취약계층 지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260408180900002",
+      "pubDate": "Thu, 9 Apr 2026 08:00:03 +0900"
+    },
     {
       "title": "중국 화통케이블그룹, 부산 3공장 설립 특수캐이블 생산",
       "link": "https://www.yna.co.kr/view/AKR20260409020900051",
@@ -72,86 +152,6 @@
       "title": "포스코도 하청 대한 사용자성 인정…하청노조간 교섭단위 분리(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260408115752530",
       "pubDate": "Wed, 8 Apr 2026 20:22:28 +0900"
-    },
-    {
-      "title": "공정위, 세방그룹 '계열사 일감 몰아주기' 의혹 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260408174000002",
-      "pubDate": "Wed, 8 Apr 2026 19:31:39 +0900"
-    },
-    {
-      "title": "상암 DMC 롯데몰 개발사업 본궤도…내년 착공·2030년 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260408170900004",
-      "pubDate": "Wed, 8 Apr 2026 18:52:50 +0900"
-    },
-    {
-      "title": "경복궁면세점, 인천공항 1터미널 입국장면세점 5년 더 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260408169600002",
-      "pubDate": "Wed, 8 Apr 2026 18:40:51 +0900"
-    },
-    {
-      "title": "물류업계 만난 李대통령…'고유가 부담 추가대책' 검토 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260408169200001",
-      "pubDate": "Wed, 8 Apr 2026 18:33:57 +0900"
-    },
-    {
-      "title": "구윤철, 이란 호르무즈 통행료 추진에 \"현재는 지급 검토 안 해\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408134051001",
-      "pubDate": "Wed, 8 Apr 2026 18:22:33 +0900"
-    },
-    {
-      "title": "계좌 13개로 시세조종 3천만원 부당이득…개인투자자 검찰 통보",
-      "link": "https://www.yna.co.kr/view/AKR20260408166200002",
-      "pubDate": "Wed, 8 Apr 2026 18:07:55 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260408161800011",
-      "pubDate": "Wed, 8 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "포스코 협력사 7천명 직접고용 '파격'…노노갈등 해결 '숙제'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408100451003",
-      "pubDate": "Wed, 8 Apr 2026 17:45:32 +0900"
-    },
-    {
-      "title": "金총리 \"건설업계, 중동상황으로 어려움…정부 적극 대응 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408160700001",
-      "pubDate": "Wed, 8 Apr 2026 17:44:04 +0900"
-    },
-    {
-      "title": "이병권 중기부 차관, 동행축제 사전행사 방문…소비촉진 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260408110600030",
-      "pubDate": "Wed, 8 Apr 2026 17:30:01 +0900"
-    },
-    {
-      "title": "경남교육청 김해 직업교육 혁신지구, 2년 연속 교육부 '우수'",
-      "link": "https://www.yna.co.kr/view/AKR20260408157600052",
-      "pubDate": "Wed, 8 Apr 2026 17:16:45 +0900"
-    },
-    {
-      "title": "강원도, 중동사태 장기화 대비 비상경제대책 확대간부회의 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260408157100062",
-      "pubDate": "Wed, 8 Apr 2026 17:16:23 +0900"
-    },
-    {
-      "title": "경찰, '달러 강제매각 가짜뉴스' 게시된 포털에 자료보존 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260408154000061",
-      "pubDate": "Wed, 8 Apr 2026 17:08:13 +0900"
-    },
-    {
-      "title": "'중동 리스크 선제 대응'…충북도, 긴급 공급망 TF 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260408155400064",
-      "pubDate": "Wed, 8 Apr 2026 17:07:10 +0900"
-    },
-    {
-      "title": "포스코노조, 협력사직원 직고용 발표에 반발…\"회사가 비용내야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408153300053",
-      "pubDate": "Wed, 8 Apr 2026 17:06:27 +0900"
-    },
-    {
-      "title": "진주시, 중동 사태 대응 '수출 중기 융자 100억' 긴급 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260408145800052",
-      "pubDate": "Wed, 8 Apr 2026 17:00:16 +0900"
     }
   ]
 }
