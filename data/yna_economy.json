@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775634955,
+  "updated_at_unix": 1775638328,
   "items": [
+    {
+      "title": "포스코 협력사 7천명 직접고용 '파격'…노노갈등 해결 '숙제'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260408100451003",
+      "pubDate": "Wed, 8 Apr 2026 17:45:32 +0900"
+    },
+    {
+      "title": "金총리 \"건설업계, 중동상황으로 어려움…정부 적극 대응 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260408160700001",
+      "pubDate": "Wed, 8 Apr 2026 17:44:04 +0900"
+    },
+    {
+      "title": "이병권 중기부 차관, 동행축제 사전행사 방문…소비촉진 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260408110600030",
+      "pubDate": "Wed, 8 Apr 2026 17:30:01 +0900"
+    },
+    {
+      "title": "경남교육청 김해 직업교육 혁신지구, 2년 연속 교육부 '우수'",
+      "link": "https://www.yna.co.kr/view/AKR20260408157600052",
+      "pubDate": "Wed, 8 Apr 2026 17:16:45 +0900"
+    },
+    {
+      "title": "강원도, 중동사태 장기화 대비 비상경제대책 확대간부회의 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260408157100062",
+      "pubDate": "Wed, 8 Apr 2026 17:16:23 +0900"
+    },
+    {
+      "title": "경찰, '달러 강제매각 가짜뉴스' 게시된 포털에 자료보존 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260408154000061",
+      "pubDate": "Wed, 8 Apr 2026 17:08:13 +0900"
+    },
+    {
+      "title": "'중동 리스크 선제 대응'…충북도, 긴급 공급망 TF 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260408155400064",
+      "pubDate": "Wed, 8 Apr 2026 17:07:10 +0900"
+    },
+    {
+      "title": "포스코노조, 협력사직원 직고용 발표에 반발…\"회사가 비용내야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260408153300053",
+      "pubDate": "Wed, 8 Apr 2026 17:06:27 +0900"
+    },
+    {
+      "title": "진주시, 중동 사태 대응 '수출 중기 융자 100억' 긴급 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260408145800052",
+      "pubDate": "Wed, 8 Apr 2026 17:00:16 +0900"
+    },
+    {
+      "title": "경기도, 스테이블코인 도입 추진…청년기본소득 등 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260408152700061",
+      "pubDate": "Wed, 8 Apr 2026 16:56:00 +0900"
+    },
     {
       "title": "휴전합의·외인 매수세 속 국고채 금리 하락…3년물 연 3.315%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260408150151008",
@@ -102,56 +152,6 @@
       "title": "코스피, '종전 협상 가시권'에 7% 올라 5,870대…코스닥도 급등",
       "link": "https://www.yna.co.kr/view/AKR20260408134300008",
       "pubDate": "Wed, 8 Apr 2026 15:38:47 +0900"
-    },
-    {
-      "title": "경남 고성군, 70세대 규모 '근로자 주택' 착공…내년 6월 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260408131400052",
-      "pubDate": "Wed, 8 Apr 2026 15:38:39 +0900"
-    },
-    {
-      "title": "외국환시세(4월8일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260408134100002",
-      "pubDate": "Wed, 8 Apr 2026 15:36:08 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 33.6원 내린 1,470.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260408132400002",
-      "pubDate": "Wed, 8 Apr 2026 15:35:51 +0900"
-    },
-    {
-      "title": "포스코 하청 노조 간 교섭단위 분리…노란봉투법 후 첫판정",
-      "link": "https://www.yna.co.kr/view/AKR20260408115700530",
-      "pubDate": "Wed, 8 Apr 2026 15:34:19 +0900"
-    },
-    {
-      "title": "[미·이란 2주 휴전] 발묶인 800여척 호르무즈 통과 시점은",
-      "link": "https://www.yna.co.kr/view/AKR20260408130300009",
-      "pubDate": "Wed, 8 Apr 2026 15:33:43 +0900"
-    },
-    {
-      "title": "예탁원 이윤수 사장 취임…\"선진국 자본시장 인프라 기관 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260408128900008",
-      "pubDate": "Wed, 8 Apr 2026 15:30:48 +0900"
-    },
-    {
-      "title": "농식품부, 정읍에 농축산용 미생물산업 '공유공장' 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260408065400030",
-      "pubDate": "Wed, 8 Apr 2026 15:30:00 +0900"
-    },
-    {
-      "title": "[미·이란 2주 휴전] 호르무즈 열리나…정부·선사 '통항 시나리오' 점검(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260408066651003",
-      "pubDate": "Wed, 8 Apr 2026 15:25:25 +0900"
-    },
-    {
-      "title": "속초해경, 유류 절감책 시행…경제속력 준수·중복 순찰 예방",
-      "link": "https://www.yna.co.kr/view/AKR20260408129200062",
-      "pubDate": "Wed, 8 Apr 2026 15:21:22 +0900"
-    },
-    {
-      "title": "[게시판] 포스코이앤씨·안전보건진흥원, 안전교육전문가 양성 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260408127700003",
-      "pubDate": "Wed, 8 Apr 2026 15:16:54 +0900"
     }
   ]
 }
