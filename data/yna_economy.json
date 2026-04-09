@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775776173,
+  "updated_at_unix": 1775779051,
   "items": [
+    {
+      "title": "메리츠증권 \"삼성전기, 엔비디아 내 위상 강화 전망…목표가 ↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410029300008",
+      "pubDate": "Fri, 10 Apr 2026 08:52:15 +0900"
+    },
+    {
+      "title": "아산시, 임대 농기계 배송비 지원 80%로 상향…유가 상승 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260410029400063",
+      "pubDate": "Fri, 10 Apr 2026 08:49:51 +0900"
+    },
+    {
+      "title": "포천시, 29만㎡ 규모 내촌 도시개발시업 민간 공모 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260410028300060",
+      "pubDate": "Fri, 10 Apr 2026 08:49:12 +0900"
+    },
+    {
+      "title": "소진공, 추경 앞두고 소상공인 피싱 범죄 예방 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260410027200030",
+      "pubDate": "Fri, 10 Apr 2026 08:45:56 +0900"
+    },
+    {
+      "title": "인천시, 검단·강화·옹진 도로망 확충…2조5천억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260410026400065",
+      "pubDate": "Fri, 10 Apr 2026 08:34:36 +0900"
+    },
+    {
+      "title": "신한투자 \"에이피알, 유럽 내 성장 잠재력 폭발…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410025400008",
+      "pubDate": "Fri, 10 Apr 2026 08:25:18 +0900"
+    },
+    {
+      "title": "한투증권, 신세계 목표가 80%↑…\"백화점·면세점 실적 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410024300008",
+      "pubDate": "Fri, 10 Apr 2026 08:17:37 +0900"
+    },
     {
       "title": "건설자재 가격 모니터링 강화…유류·나프타 주단위 관리",
       "link": "https://www.yna.co.kr/view/AKR20260409148900002",
@@ -117,41 +152,6 @@
       "title": "충북도 \"민선8기 투자유치 84조 달성\"…1천440개 기업과 협약",
       "link": "https://www.yna.co.kr/view/AKR20260409157100064",
       "pubDate": "Thu, 9 Apr 2026 17:32:30 +0900"
-    },
-    {
-      "title": "한성숙 장관, 중과유예 종료 앞두고 3주택 매각 지속 의지",
-      "link": "https://www.yna.co.kr/view/AKR20260409154000030",
-      "pubDate": "Thu, 9 Apr 2026 17:14:40 +0900"
-    },
-    {
-      "title": "울산상의, 상공의 날 기념식…상공대상 3명 시상",
-      "link": "https://www.yna.co.kr/view/AKR20260409153800057",
-      "pubDate": "Thu, 9 Apr 2026 17:10:37 +0900"
-    },
-    {
-      "title": "피엠티, 185억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260409153900008",
-      "pubDate": "Thu, 9 Apr 2026 17:07:56 +0900"
-    },
-    {
-      "title": "[부산소식] 동서대, 입학부터 취업까지 전주기 지원 체계 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260409152700051",
-      "pubDate": "Thu, 9 Apr 2026 17:04:04 +0900"
-    },
-    {
-      "title": "이란 전쟁 재개 우려에 국고채 금리↑…3년물 연 3.338%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260409148451008",
-      "pubDate": "Thu, 9 Apr 2026 16:58:55 +0900"
-    },
-    {
-      "title": "'AI 마케팅 기업' 매드업, 코스닥시장 상장 예심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260409151500008",
-      "pubDate": "Thu, 9 Apr 2026 16:54:26 +0900"
-    },
-    {
-      "title": "김윤덕 장관, 휴게소 운영실태 점검…\"불공정 행위 구조적 개혁\"",
-      "link": "https://www.yna.co.kr/view/AKR20260409146500003",
-      "pubDate": "Thu, 9 Apr 2026 16:49:02 +0900"
     }
   ]
 }
