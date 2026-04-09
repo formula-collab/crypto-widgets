@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775725415,
+  "updated_at_unix": 1775731045,
   "items": [
+    {
+      "title": "3차 석유 최고가격 '동결'…중동전쟁 휴전·국제유가 등 고려",
+      "link": "https://www.yna.co.kr/view/AKR20260409142900003",
+      "pubDate": "Thu, 9 Apr 2026 19:00:00 +0900"
+    },
+    {
+      "title": "오성첨단소재 \"오성하이테크놀로지 주식 1천600억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260409162600008",
+      "pubDate": "Thu, 9 Apr 2026 18:11:48 +0900"
+    },
     {
       "title": "5급 국가공무원·외교관 후보자 1차 합격자 2천574명",
       "link": "https://www.yna.co.kr/view/AKR20260409028000001",
@@ -142,16 +152,6 @@
       "title": "금융위, KDB생명 매각 승인…매각절차 시동",
       "link": "https://www.yna.co.kr/view/AKR20260409133600002",
       "pubDate": "Thu, 9 Apr 2026 15:44:25 +0900"
-    },
-    {
-      "title": "외국환시세(4월9일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260409133700002",
-      "pubDate": "Thu, 9 Apr 2026 15:41:31 +0900"
-    },
-    {
-      "title": "코스피, 외국인 '팔자'에 1.6% 하락 마감해 5,800선 내줘",
-      "link": "https://www.yna.co.kr/view/AKR20260409134000008",
-      "pubDate": "Thu, 9 Apr 2026 15:38:03 +0900"
     }
   ]
 }
