@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775767274,
+  "updated_at_unix": 1775770626,
   "items": [
+    {
+      "title": "농식품부, 스마트농업 우수기업 15곳 첫 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260409115300030",
+      "pubDate": "Fri, 10 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "국토부 지방 준공후 미분양 5천가구 매입…지방 노동자 주거지원",
+      "link": "https://www.yna.co.kr/view/AKR20260409132600003",
+      "pubDate": "Fri, 10 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[이코노워치] 이란전쟁으로 우리가 치러야 할 비용",
+      "link": "https://www.yna.co.kr/view/AKR20260409124500546",
+      "pubDate": "Fri, 10 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 첫 외부감사 대상 '감사인 선임제도 설명회'",
+      "link": "https://www.yna.co.kr/view/AKR20260409160600002",
+      "pubDate": "Fri, 10 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "새마을금고도 비회원 주담대 중단…대출문 꽉 닫는 상호금융",
+      "link": "https://www.yna.co.kr/view/AKR20260409172100002",
+      "pubDate": "Fri, 10 Apr 2026 05:51:00 +0900"
+    },
+    {
+      "title": "이창용 마지막 금통위…물가·환율 불안에 7연속 금리동결 유력",
+      "link": "https://www.yna.co.kr/view/AKR20260409137900002",
+      "pubDate": "Fri, 10 Apr 2026 05:45:01 +0900"
+    },
     {
       "title": "[뉴욕유가] 이스라엘 \"레바논과 협상\"에 상승폭 대거 반납…WTI 3.7%↑",
       "link": "https://www.yna.co.kr/view/AKR20260410005400009",
@@ -122,36 +152,6 @@
       "title": "코스피, 1.6% 하락 마감해 5,800선 내줘…외인 이틀만에 변심(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260409134051008",
       "pubDate": "Thu, 9 Apr 2026 16:15:25 +0900"
-    },
-    {
-      "title": "'피트 위스키' 시장 확대…\"조니워커에도 풍미 담겨\"",
-      "link": "https://www.yna.co.kr/view/AKR20260409138100030",
-      "pubDate": "Thu, 9 Apr 2026 16:07:15 +0900"
-    },
-    {
-      "title": "순천시, '뽀로로' 제작사와 애니메이션 협업…내년 배급",
-      "link": "https://www.yna.co.kr/view/AKR20260409140000054",
-      "pubDate": "Thu, 9 Apr 2026 16:02:39 +0900"
-    },
-    {
-      "title": "[동정] 주병기 공정위원장 뿌리업계 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260409088800002",
-      "pubDate": "Thu, 9 Apr 2026 16:00:02 +0900"
-    },
-    {
-      "title": "동남권사업재편 컨설팅 사업에 부산·울산·경남 기업 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260409127500051",
-      "pubDate": "Thu, 9 Apr 2026 16:00:01 +0900"
-    },
-    {
-      "title": "정부 \"호르무즈 통행료 현실화 시 국내 기름값 0.5% 인상 효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260409136600003",
-      "pubDate": "Thu, 9 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "이통3사 \"보안 강화·AI 투자 확대\"…부총리 \"환골탈태해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260409123901017",
-      "pubDate": "Thu, 9 Apr 2026 15:59:33 +0900"
     }
   ]
 }
