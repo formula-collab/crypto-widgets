@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775734998,
+  "updated_at_unix": 1775739521,
   "items": [
+    {
+      "title": "노란봉투법 한달 만에 첫 원청교섭…한동대서 노사 상견례",
+      "link": "https://www.yna.co.kr/view/AKR20260409175300004",
+      "pubDate": "Thu, 9 Apr 2026 21:28:59 +0900"
+    },
+    {
+      "title": "서울 이촌르엘 특별공급에 1천465명 청약…경쟁률 147대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260409174800003",
+      "pubDate": "Thu, 9 Apr 2026 21:11:04 +0900"
+    },
     {
       "title": "한화에어로, 핀란드에 K9 자주포 112문 추가 수출…9천400억규모",
       "link": "https://www.yna.co.kr/view/AKR20260409114400003",
@@ -142,16 +152,6 @@
       "title": "IPARK현산 '루버 태양광 발전 시스템', 녹색기술인증 획득",
       "link": "https://www.yna.co.kr/view/AKR20260409135600003",
       "pubDate": "Thu, 9 Apr 2026 15:53:10 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자·SK하이닉스, 3%대 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260409040851008",
-      "pubDate": "Thu, 9 Apr 2026 15:52:54 +0900"
-    },
-    {
-      "title": "[특징주] 국제유가 반등에 정유주 줄줄이 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260409047251008",
-      "pubDate": "Thu, 9 Apr 2026 15:47:40 +0900"
     }
   ]
 }
