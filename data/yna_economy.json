@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775770626,
+  "updated_at_unix": 1775773797,
   "items": [
+    {
+      "title": "이란전쟁에 국내 주식 10개 중 7개 녹았다…하락률 1위는",
+      "link": "https://www.yna.co.kr/view/AKR20260409156000008",
+      "pubDate": "Fri, 10 Apr 2026 07:10:00 +0900"
+    },
     {
       "title": "농식품부, 스마트농업 우수기업 15곳 첫 선정",
       "link": "https://www.yna.co.kr/view/AKR20260409115300030",
@@ -147,11 +152,6 @@
       "title": "삼성물산 건설부문, 마감재 기술 '넥스트 머티리얼' 공개",
       "link": "https://www.yna.co.kr/view/AKR20260409143000003",
       "pubDate": "Thu, 9 Apr 2026 16:15:56 +0900"
-    },
-    {
-      "title": "코스피, 1.6% 하락 마감해 5,800선 내줘…외인 이틀만에 변심(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260409134051008",
-      "pubDate": "Thu, 9 Apr 2026 16:15:25 +0900"
     }
   ]
 }
