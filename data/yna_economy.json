@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775756059,
+  "updated_at_unix": 1775760297,
   "items": [
+    {
+      "title": "달러-원, 이스라엘발 휴전 유지 기대감에 급락…1,474.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260410003900002",
+      "pubDate": "Fri, 10 Apr 2026 02:56:11 +0900"
+    },
     {
       "title": "노란봉투법 한달 만에 첫 원청교섭…한동대서 노사 상견례",
       "link": "https://www.yna.co.kr/view/AKR20260409175300004",
@@ -147,11 +152,6 @@
       "title": "충북 수출 반도체 쏠림 심화…\"품목 다변화 등 대비 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260409135200064",
       "pubDate": "Thu, 9 Apr 2026 15:57:42 +0900"
-    },
-    {
-      "title": "IPARK현산 '루버 태양광 발전 시스템', 녹색기술인증 획득",
-      "link": "https://www.yna.co.kr/view/AKR20260409135600003",
-      "pubDate": "Thu, 9 Apr 2026 15:53:10 +0900"
     }
   ]
 }
