@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775760297,
+  "updated_at_unix": 1775764586,
   "items": [
+    {
+      "title": "[뉴욕유가] 이스라엘 \"레바논과 협상\"에 상승폭 대거 반납…WTI 3.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260410005400009",
+      "pubDate": "Fri, 10 Apr 2026 03:46:14 +0900"
+    },
     {
       "title": "달러-원, 이스라엘발 휴전 유지 기대감에 급락…1,474.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260410003900002",
@@ -147,11 +152,6 @@
       "title": "이통3사 \"보안 강화·AI 투자 확대\"…부총리 \"환골탈태해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260409123901017",
       "pubDate": "Thu, 9 Apr 2026 15:59:33 +0900"
-    },
-    {
-      "title": "충북 수출 반도체 쏠림 심화…\"품목 다변화 등 대비 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260409135200064",
-      "pubDate": "Thu, 9 Apr 2026 15:57:42 +0900"
     }
   ]
 }
