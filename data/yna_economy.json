@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775804680,
+  "updated_at_unix": 1775811043,
   "items": [
+    {
+      "title": "뉴로핏, 320억원 투자 유치…\"글로벌 사업 확장\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410130651008",
+      "pubDate": "Fri, 10 Apr 2026 17:32:43 +0900"
+    },
+    {
+      "title": "KR산업, 창원 명곡지구에 '엘리프 창원' 349가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260410151800052",
+      "pubDate": "Fri, 10 Apr 2026 17:29:36 +0900"
+    },
+    {
+      "title": "중동 경계심에 국고채 금리 일제히 상승…3년물 연 3.360%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410142951008",
+      "pubDate": "Fri, 10 Apr 2026 17:05:34 +0900"
+    },
+    {
+      "title": "유연성 양보하되 안전망·단결권↑…李대통령 '실용해법' 통할까",
+      "link": "https://www.yna.co.kr/view/AKR20260410144300001",
+      "pubDate": "Fri, 10 Apr 2026 16:57:44 +0900"
+    },
+    {
+      "title": "거래소, 미래에셋운용 '미국우주테크' 등 ETF 5종 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260410145100008",
+      "pubDate": "Fri, 10 Apr 2026 16:54:37 +0900"
+    },
+    {
+      "title": "검찰, '10조원대 전분·당류 담합' 대상 대표 구속영장 재청구",
+      "link": "https://www.yna.co.kr/view/AKR20260410142000004",
+      "pubDate": "Fri, 10 Apr 2026 16:53:36 +0900"
+    },
+    {
+      "title": "인스코비, 10억원 유상증자…(주)어반홀딩스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260410143600008",
+      "pubDate": "Fri, 10 Apr 2026 16:47:41 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.360%",
+      "link": "https://www.yna.co.kr/view/AKR20260410142900008",
+      "pubDate": "Fri, 10 Apr 2026 16:46:56 +0900"
+    },
+    {
+      "title": "[부고] 윤주익(LS증권 디지털영업본부장)씨 징인상",
+      "link": "https://www.yna.co.kr/view/AKR20260410140300008",
+      "pubDate": "Fri, 10 Apr 2026 16:45:47 +0900"
+    },
+    {
+      "title": "코스콤, 신임 전무이사에 김성환 전 거래소 CISO 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260410139600008",
+      "pubDate": "Fri, 10 Apr 2026 16:45:09 +0900"
+    },
+    {
+      "title": "경찰, '금품수수 의혹' 성남 상대원2구역 전 조합장 수사 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260410137200061",
+      "pubDate": "Fri, 10 Apr 2026 16:38:48 +0900"
+    },
+    {
+      "title": "대우건설, 대장홍대 광역 철도 건설 사업 계약 해지",
+      "link": "https://www.yna.co.kr/view/AKR20260410140000003",
+      "pubDate": "Fri, 10 Apr 2026 16:33:08 +0900"
+    },
+    {
+      "title": "익산시 \"카카오톡으로 지방세 환급금 받으세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410137900055",
+      "pubDate": "Fri, 10 Apr 2026 16:26:37 +0900"
+    },
+    {
+      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410097151002",
+      "pubDate": "Fri, 10 Apr 2026 16:24:28 +0900"
+    },
+    {
+      "title": "미·이란 협상 앞두고…환율 1,482.5원 보합 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260410131000002",
+      "pubDate": "Fri, 10 Apr 2026 16:22:03 +0900"
+    },
+    {
+      "title": "압구정3·5구역·목동6단지 시공사 입찰 마감…5구역만 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260410134200003",
+      "pubDate": "Fri, 10 Apr 2026 16:12:25 +0900"
+    },
+    {
+      "title": "썸에이지, 130억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260410135200008",
+      "pubDate": "Fri, 10 Apr 2026 16:11:58 +0900"
+    },
+    {
+      "title": "파주시, 신혼부부 위한 '파인 주택' 전세 임대 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260410133800060",
+      "pubDate": "Fri, 10 Apr 2026 16:10:39 +0900"
+    },
+    {
+      "title": "HLB이노베이션 \"종속회사 VERISMO 주식 415억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410134900008",
+      "pubDate": "Fri, 10 Apr 2026 16:10:31 +0900"
+    },
+    {
+      "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410125351008",
+      "pubDate": "Fri, 10 Apr 2026 16:10:13 +0900"
+    },
+    {
+      "title": "핑거스토리 \"엘솔루 주식 41억 추가취득…지분율 45.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410132000008",
+      "pubDate": "Fri, 10 Apr 2026 16:01:15 +0900"
+    },
+    {
+      "title": "뉴로핏, 제3자 배정 160억원 규모 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260410130600008",
+      "pubDate": "Fri, 10 Apr 2026 15:59:56 +0900"
+    },
+    {
+      "title": "부산항 신항서 자동차운반선 LNG 벙커링 첫 상업 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260410129400051",
+      "pubDate": "Fri, 10 Apr 2026 15:58:44 +0900"
+    },
     {
       "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감",
       "link": "https://www.yna.co.kr/view/AKR20260410125300008",
@@ -37,121 +152,6 @@
       "title": "증권가 \"신중함 보인 금통위\"…금리동결 우세 전망 속 인상론도",
       "link": "https://www.yna.co.kr/view/AKR20260410118600008",
       "pubDate": "Fri, 10 Apr 2026 15:20:39 +0900"
-    },
-    {
-      "title": "공인중개사협회 \"가격 담합 행위 근절할 것…자체 조사 돌입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410121000003",
-      "pubDate": "Fri, 10 Apr 2026 15:20:31 +0900"
-    },
-    {
-      "title": "SGI서울보증, 폴란드 대표사무소 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260410117700002",
-      "pubDate": "Fri, 10 Apr 2026 15:13:43 +0900"
-    },
-    {
-      "title": "강원도, 푸드테크 기업 쏘이마루 춘천 유치…42억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260410117200062",
-      "pubDate": "Fri, 10 Apr 2026 15:10:42 +0900"
-    },
-    {
-      "title": "영장 기각되자 또 범행…최대 연 1만8천％ 사채 일당 재검거",
-      "link": "https://www.yna.co.kr/view/AKR20260410113700004",
-      "pubDate": "Fri, 10 Apr 2026 15:08:48 +0900"
-    },
-    {
-      "title": "제주 원도심에 청년 창업가 제품 매장 '탐나는마켓' 오픈",
-      "link": "https://www.yna.co.kr/view/AKR20260410113300056",
-      "pubDate": "Fri, 10 Apr 2026 15:05:03 +0900"
-    },
-    {
-      "title": "배민, 작년매출 5조원 넘어…모기업 보유주식 매입 후 소각(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410105551030",
-      "pubDate": "Fri, 10 Apr 2026 15:04:11 +0900"
-    },
-    {
-      "title": "익산시, 차량 2부제 대응 통근버스 13일부터 운행",
-      "link": "https://www.yna.co.kr/view/AKR20260410112000055",
-      "pubDate": "Fri, 10 Apr 2026 14:52:07 +0900"
-    },
-    {
-      "title": "[게시판] 우리카드, 스타트래블 사전 이벤트 10만명 기념 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260410108900002",
-      "pubDate": "Fri, 10 Apr 2026 14:47:51 +0900"
-    },
-    {
-      "title": "[일문일답] 한은총재 \"중동 전쟁 없으면 환율 안정 국면…빠르게 내릴 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410095700002",
-      "pubDate": "Fri, 10 Apr 2026 14:47:29 +0900"
-    },
-    {
-      "title": "GS건설·아모지, 암모니아 기반 분산발전사업 합작투자 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260410108300003",
-      "pubDate": "Fri, 10 Apr 2026 14:41:58 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260410105200011",
-      "pubDate": "Fri, 10 Apr 2026 14:30:01 +0900"
-    },
-    {
-      "title": "배민, 작년 매출 5조원 넘어…영업이익은 5천929억원",
-      "link": "https://www.yna.co.kr/view/AKR20260410105500030",
-      "pubDate": "Fri, 10 Apr 2026 14:21:49 +0900"
-    },
-    {
-      "title": "전북 제조업체 78% \"중동 사태로 경영 타격…물류비·원가 상승\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410104600055",
-      "pubDate": "Fri, 10 Apr 2026 14:20:15 +0900"
-    },
-    {
-      "title": "안양시, 제1회 추경안 편성…886억원 증액",
-      "link": "https://www.yna.co.kr/view/AKR20260410103600061",
-      "pubDate": "Fri, 10 Apr 2026 14:08:49 +0900"
-    },
-    {
-      "title": "광주상의 \"국가 기간 전력망 확충 위해 국가 재정 투입해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410102800054",
-      "pubDate": "Fri, 10 Apr 2026 14:02:19 +0900"
-    },
-    {
-      "title": "'산업전환 일자리 대책' 로드맵 6월 발표…2기 전문가포럼 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260410052100530",
-      "pubDate": "Fri, 10 Apr 2026 14:00:05 +0900"
-    },
-    {
-      "title": "판교 정보보호클러스터 시설 개선…정부 원스톱 지원 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260410073600017",
-      "pubDate": "Fri, 10 Apr 2026 14:00:03 +0900"
-    },
-    {
-      "title": "국민연금, 24일까지 주임운용역 10명·경력직 26명 공개모집",
-      "link": "https://www.yna.co.kr/view/AKR20260410084100530",
-      "pubDate": "Fri, 10 Apr 2026 14:00:02 +0900"
-    },
-    {
-      "title": "특허정보 검색, AI 비서로 더 쉽게…KIPRIS에 에이전트 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260410079100017",
-      "pubDate": "Fri, 10 Apr 2026 14:00:01 +0900"
-    },
-    {
-      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410097100002",
-      "pubDate": "Fri, 10 Apr 2026 13:59:26 +0900"
-    },
-    {
-      "title": "李대통령 \"2년 기간제법, 노동보호 아닌 고용금지법…대안 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410084351001",
-      "pubDate": "Fri, 10 Apr 2026 13:54:02 +0900"
-    },
-    {
-      "title": "재경소위, 국민성장펀드 최대 40% 소득공제 적용 법안 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260410090900001",
-      "pubDate": "Fri, 10 Apr 2026 13:51:54 +0900"
-    },
-    {
-      "title": "창원상의, 회원사 임직원 대상 온라인 교육 플랫폼 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260410091900052",
-      "pubDate": "Fri, 10 Apr 2026 13:41:30 +0900"
     }
   ]
 }
