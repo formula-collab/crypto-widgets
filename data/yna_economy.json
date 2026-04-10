@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775811043,
+  "updated_at_unix": 1775815113,
   "items": [
+    {
+      "title": "통상본부장, 카자흐 외교차관 면담…핵심광물 등 경협 확대 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260410159900003",
+      "pubDate": "Fri, 10 Apr 2026 18:19:24 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260410151500011",
+      "pubDate": "Fri, 10 Apr 2026 18:00:01 +0900"
+    },
     {
       "title": "뉴로핏, 320억원 투자 유치…\"글로벌 사업 확장\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260410130651008",
@@ -142,16 +152,6 @@
       "title": "암참, 금융위원장과 면담…글로벌 금융허브 도약 논의",
       "link": "https://www.yna.co.kr/view/AKR20260410121700003",
       "pubDate": "Fri, 10 Apr 2026 15:23:58 +0900"
-    },
-    {
-      "title": "'SG 주가조작' 라덕연, 김익래·키움증권 상대 손배소 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260410119000004",
-      "pubDate": "Fri, 10 Apr 2026 15:23:12 +0900"
-    },
-    {
-      "title": "증권가 \"신중함 보인 금통위\"…금리동결 우세 전망 속 인상론도",
-      "link": "https://www.yna.co.kr/view/AKR20260410118600008",
-      "pubDate": "Fri, 10 Apr 2026 15:20:39 +0900"
     }
   ]
 }
