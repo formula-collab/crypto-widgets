@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775841068,
+  "updated_at_unix": 1775844271,
   "items": [
+    {
+      "title": "달러-원, 미·이란 협상 앞두고 제한적 움직임…1,483.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260411003200002",
+      "pubDate": "Sat, 11 Apr 2026 02:45:01 +0900"
+    },
     {
       "title": "과기정통부 추경 787억원 확정…과기원 청년창업·AX·CCU 투입",
       "link": "https://www.yna.co.kr/view/AKR20260410180100017",
@@ -147,11 +152,6 @@
       "title": "압구정3·5구역·목동6단지 시공사 입찰 마감…5구역만 경쟁",
       "link": "https://www.yna.co.kr/view/AKR20260410134200003",
       "pubDate": "Fri, 10 Apr 2026 16:12:25 +0900"
-    },
-    {
-      "title": "썸에이지, 130억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260410135200008",
-      "pubDate": "Fri, 10 Apr 2026 16:11:58 +0900"
     }
   ]
 }
