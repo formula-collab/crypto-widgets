@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775824925,
+  "updated_at_unix": 1775830155,
   "items": [
+    {
+      "title": "노동부 추경 4천165억 확정…중동전쟁발 일자리 충격 완화 등",
+      "link": "https://www.yna.co.kr/view/AKR20260410178700530",
+      "pubDate": "Fri, 10 Apr 2026 22:52:45 +0900"
+    },
+    {
+      "title": "농식품부, 추경 3천775억원 확정…유류·비료·사료 지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260410178800030",
+      "pubDate": "Fri, 10 Apr 2026 22:48:12 +0900"
+    },
+    {
+      "title": "광주회생법원, 해광건설 파산 선고",
+      "link": "https://www.yna.co.kr/view/AKR20260410177500054",
+      "pubDate": "Fri, 10 Apr 2026 22:28:05 +0900"
+    },
+    {
+      "title": "[속보] 26.2조 '전쟁 추경안' 국회 통과…소득하위 70%에 지원금",
+      "link": "https://www.yna.co.kr/view/AKR20260410177300001",
+      "pubDate": "Fri, 10 Apr 2026 22:26:15 +0900"
+    },
     {
       "title": "서울 용산구 이촌르엘 1순위 청약 경쟁률 135대 1",
       "link": "https://www.yna.co.kr/view/AKR20260410169000003",
@@ -132,26 +152,6 @@
       "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260410125351008",
       "pubDate": "Fri, 10 Apr 2026 16:10:13 +0900"
-    },
-    {
-      "title": "핑거스토리 \"엘솔루 주식 41억 추가취득…지분율 45.1%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410132000008",
-      "pubDate": "Fri, 10 Apr 2026 16:01:15 +0900"
-    },
-    {
-      "title": "뉴로핏, 제3자 배정 160억원 규모 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260410130600008",
-      "pubDate": "Fri, 10 Apr 2026 15:59:56 +0900"
-    },
-    {
-      "title": "부산항 신항서 자동차운반선 LNG 벙커링 첫 상업 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260410129400051",
-      "pubDate": "Fri, 10 Apr 2026 15:58:44 +0900"
-    },
-    {
-      "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260410125300008",
-      "pubDate": "Fri, 10 Apr 2026 15:37:42 +0900"
     }
   ]
 }
