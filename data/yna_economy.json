@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775858359,
+  "updated_at_unix": 1775860676,
   "items": [
+    {
+      "title": "[신상잇슈] 오리온 '초코송이 말차'·롯데칠성음료 '게토레이 런'",
+      "link": "https://www.yna.co.kr/view/AKR20260410038500030",
+      "pubDate": "Sat, 11 Apr 2026 07:00:02 +0900"
+    },
     {
       "title": "[부동산캘린더] '오티에르 반포' 청약서 서울 역대 최고 경쟁률 나올까",
       "link": "https://www.yna.co.kr/view/AKR20260410156100003",
@@ -147,11 +152,6 @@
       "title": "익산시 \"카카오톡으로 지방세 환급금 받으세요\"",
       "link": "https://www.yna.co.kr/view/AKR20260410137900055",
       "pubDate": "Fri, 10 Apr 2026 16:26:37 +0900"
-    },
-    {
-      "title": "퇴임 앞둔 이창용 한은총재 \"금리 결정 잘해왔다고 생각\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410097151002",
-      "pubDate": "Fri, 10 Apr 2026 16:24:28 +0900"
     }
   ]
 }
