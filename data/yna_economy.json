@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775860676,
+  "updated_at_unix": 1775863496,
   "items": [
+    {
+      "title": "울주군, 올해 법인 지방소득세 신고·납부 안내",
+      "link": "https://www.yna.co.kr/view/AKR20260410112300057",
+      "pubDate": "Sat, 11 Apr 2026 08:10:00 +0900"
+    },
+    {
+      "title": "국토부 추경 2.2천억 확정…대중교통비·전세사기피해 지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260411017600003",
+      "pubDate": "Sat, 11 Apr 2026 08:09:08 +0900"
+    },
+    {
+      "title": "부산 아파트값 강보합 지속…수영구 하락세 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260410114800051",
+      "pubDate": "Sat, 11 Apr 2026 08:00:07 +0900"
+    },
+    {
+      "title": "여주시, 가정의달 5월 지역화폐 인센티브 8→10% 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260410071000061",
+      "pubDate": "Sat, 11 Apr 2026 08:00:05 +0900"
+    },
     {
       "title": "[신상잇슈] 오리온 '초코송이 말차'·롯데칠성음료 '게토레이 런'",
       "link": "https://www.yna.co.kr/view/AKR20260410038500030",
@@ -132,26 +152,6 @@
       "title": "[부고] 윤주익(LS증권 디지털영업본부장)씨 징인상",
       "link": "https://www.yna.co.kr/view/AKR20260410140300008",
       "pubDate": "Fri, 10 Apr 2026 16:45:47 +0900"
-    },
-    {
-      "title": "코스콤, 신임 전무이사에 김성환 전 거래소 CISO 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260410139600008",
-      "pubDate": "Fri, 10 Apr 2026 16:45:09 +0900"
-    },
-    {
-      "title": "경찰, '금품수수 의혹' 성남 상대원2구역 전 조합장 수사 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260410137200061",
-      "pubDate": "Fri, 10 Apr 2026 16:38:48 +0900"
-    },
-    {
-      "title": "대우건설, 대장홍대 광역 철도 건설 사업 계약 해지",
-      "link": "https://www.yna.co.kr/view/AKR20260410140000003",
-      "pubDate": "Fri, 10 Apr 2026 16:33:08 +0900"
-    },
-    {
-      "title": "익산시 \"카카오톡으로 지방세 환급금 받으세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410137900055",
-      "pubDate": "Fri, 10 Apr 2026 16:26:37 +0900"
     }
   ]
 }
