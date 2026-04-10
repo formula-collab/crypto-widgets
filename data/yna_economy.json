@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775830155,
+  "updated_at_unix": 1775833848,
   "items": [
+    {
+      "title": "과기정통부 추경 787억원 확정…과기원 청년창업·AX·CCU 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260410180100017",
+      "pubDate": "Fri, 10 Apr 2026 23:42:44 +0900"
+    },
+    {
+      "title": "정성호 법무 \"18개 지검 민생·물가안정 전담수사팀 본격 가동\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410182000004",
+      "pubDate": "Fri, 10 Apr 2026 23:41:26 +0900"
+    },
+    {
+      "title": "민생·고유가대응 추경…재정수지·국가채무비율 원안 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260410181300002",
+      "pubDate": "Fri, 10 Apr 2026 23:28:32 +0900"
+    },
     {
       "title": "노동부 추경 4천165억 확정…중동전쟁발 일자리 충격 완화 등",
       "link": "https://www.yna.co.kr/view/AKR20260410178700530",
@@ -137,21 +152,6 @@
       "title": "썸에이지, 130억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260410135200008",
       "pubDate": "Fri, 10 Apr 2026 16:11:58 +0900"
-    },
-    {
-      "title": "파주시, 신혼부부 위한 '파인 주택' 전세 임대 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260410133800060",
-      "pubDate": "Fri, 10 Apr 2026 16:10:39 +0900"
-    },
-    {
-      "title": "HLB이노베이션 \"종속회사 VERISMO 주식 415억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410134900008",
-      "pubDate": "Fri, 10 Apr 2026 16:10:31 +0900"
-    },
-    {
-      "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410125351008",
-      "pubDate": "Fri, 10 Apr 2026 16:10:13 +0900"
     }
   ]
 }
