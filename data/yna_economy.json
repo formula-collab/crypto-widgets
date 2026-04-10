@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775797803,
+  "updated_at_unix": 1775804680,
   "items": [
+    {
+      "title": "코스피, 주말 美·이란 종전협상 앞두고 1.4% 올라 5,850대 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260410125300008",
+      "pubDate": "Fri, 10 Apr 2026 15:37:42 +0900"
+    },
+    {
+      "title": "외국환시세(4월10일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260410124900002",
+      "pubDate": "Fri, 10 Apr 2026 15:36:45 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 1,482.5원 보합(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260410124300002",
+      "pubDate": "Fri, 10 Apr 2026 15:33:15 +0900"
+    },
+    {
+      "title": "국민참여형 국민성장펀드 5월 출시…서민 우선배정 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260410122800002",
+      "pubDate": "Fri, 10 Apr 2026 15:25:20 +0900"
+    },
+    {
+      "title": "암참, 금융위원장과 면담…글로벌 금융허브 도약 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260410121700003",
+      "pubDate": "Fri, 10 Apr 2026 15:23:58 +0900"
+    },
+    {
+      "title": "'SG 주가조작' 라덕연, 김익래·키움증권 상대 손배소 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260410119000004",
+      "pubDate": "Fri, 10 Apr 2026 15:23:12 +0900"
+    },
+    {
+      "title": "증권가 \"신중함 보인 금통위\"…금리동결 우세 전망 속 인상론도",
+      "link": "https://www.yna.co.kr/view/AKR20260410118600008",
+      "pubDate": "Fri, 10 Apr 2026 15:20:39 +0900"
+    },
+    {
+      "title": "공인중개사협회 \"가격 담합 행위 근절할 것…자체 조사 돌입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410121000003",
+      "pubDate": "Fri, 10 Apr 2026 15:20:31 +0900"
+    },
+    {
+      "title": "SGI서울보증, 폴란드 대표사무소 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260410117700002",
+      "pubDate": "Fri, 10 Apr 2026 15:13:43 +0900"
+    },
+    {
+      "title": "강원도, 푸드테크 기업 쏘이마루 춘천 유치…42억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260410117200062",
+      "pubDate": "Fri, 10 Apr 2026 15:10:42 +0900"
+    },
+    {
+      "title": "영장 기각되자 또 범행…최대 연 1만8천％ 사채 일당 재검거",
+      "link": "https://www.yna.co.kr/view/AKR20260410113700004",
+      "pubDate": "Fri, 10 Apr 2026 15:08:48 +0900"
+    },
+    {
+      "title": "제주 원도심에 청년 창업가 제품 매장 '탐나는마켓' 오픈",
+      "link": "https://www.yna.co.kr/view/AKR20260410113300056",
+      "pubDate": "Fri, 10 Apr 2026 15:05:03 +0900"
+    },
+    {
+      "title": "배민, 작년매출 5조원 넘어…모기업 보유주식 매입 후 소각(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410105551030",
+      "pubDate": "Fri, 10 Apr 2026 15:04:11 +0900"
+    },
+    {
+      "title": "익산시, 차량 2부제 대응 통근버스 13일부터 운행",
+      "link": "https://www.yna.co.kr/view/AKR20260410112000055",
+      "pubDate": "Fri, 10 Apr 2026 14:52:07 +0900"
+    },
+    {
+      "title": "[게시판] 우리카드, 스타트래블 사전 이벤트 10만명 기념 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260410108900002",
+      "pubDate": "Fri, 10 Apr 2026 14:47:51 +0900"
+    },
+    {
+      "title": "[일문일답] 한은총재 \"중동 전쟁 없으면 환율 안정 국면…빠르게 내릴 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410095700002",
+      "pubDate": "Fri, 10 Apr 2026 14:47:29 +0900"
+    },
+    {
+      "title": "GS건설·아모지, 암모니아 기반 분산발전사업 합작투자 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260410108300003",
+      "pubDate": "Fri, 10 Apr 2026 14:41:58 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260410105200011",
+      "pubDate": "Fri, 10 Apr 2026 14:30:01 +0900"
+    },
+    {
+      "title": "배민, 작년 매출 5조원 넘어…영업이익은 5천929억원",
+      "link": "https://www.yna.co.kr/view/AKR20260410105500030",
+      "pubDate": "Fri, 10 Apr 2026 14:21:49 +0900"
+    },
+    {
+      "title": "전북 제조업체 78% \"중동 사태로 경영 타격…물류비·원가 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410104600055",
+      "pubDate": "Fri, 10 Apr 2026 14:20:15 +0900"
+    },
+    {
+      "title": "안양시, 제1회 추경안 편성…886억원 증액",
+      "link": "https://www.yna.co.kr/view/AKR20260410103600061",
+      "pubDate": "Fri, 10 Apr 2026 14:08:49 +0900"
+    },
     {
       "title": "광주상의 \"국가 기간 전력망 확충 위해 국가 재정 투입해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260410102800054",
@@ -47,111 +152,6 @@
       "title": "창원상의, 회원사 임직원 대상 온라인 교육 플랫폼 운영",
       "link": "https://www.yna.co.kr/view/AKR20260410091900052",
       "pubDate": "Fri, 10 Apr 2026 13:41:30 +0900"
-    },
-    {
-      "title": "[속보] 여야, 농어민 고유가 부담 완화 예산 2천억 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260410093400001",
-      "pubDate": "Fri, 10 Apr 2026 13:26:47 +0900"
-    },
-    {
-      "title": "한은총재 \"물가압력 커지면 대응…스태그플레이션 가능성 작아\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410088200002",
-      "pubDate": "Fri, 10 Apr 2026 12:51:16 +0900"
-    },
-    {
-      "title": "건축주·임대인·중개사 다 한 패…초년생 22명 울린 깡통전세",
-      "link": "https://www.yna.co.kr/view/AKR20260410045900004",
-      "pubDate": "Fri, 10 Apr 2026 12:20:37 +0900"
-    },
-    {
-      "title": "'치킨 1위' 다이닝브랜즈그룹, 작년 매출 6천억원 첫 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260410087100030",
-      "pubDate": "Fri, 10 Apr 2026 12:18:37 +0900"
-    },
-    {
-      "title": "李대통령 \"2년 기간제법, 노동자 보호 아닌 고용금지법…대안 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410084300001",
-      "pubDate": "Fri, 10 Apr 2026 12:10:17 +0900"
-    },
-    {
-      "title": "대법 \"개별 새마을금고 징계, 중앙회 요구와 달라도 유효\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410074500004",
-      "pubDate": "Fri, 10 Apr 2026 12:00:01 +0900"
-    },
-    {
-      "title": "노란봉투법 한달, 하청교섭요구 1천건↑…노동부 \"단계적 안착\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410081300530",
-      "pubDate": "Fri, 10 Apr 2026 12:00:01 +0900"
-    },
-    {
-      "title": "한은총재 \"집값 두면 자본비효율 등 문제…부동산정책 이어가야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410083100002",
-      "pubDate": "Fri, 10 Apr 2026 11:49:00 +0900"
-    },
-    {
-      "title": "토스증권, 28일까지 해외주식 양도세 신고 대행 서비스 실시",
-      "link": "https://www.yna.co.kr/view/AKR20260410082900008",
-      "pubDate": "Fri, 10 Apr 2026 11:48:05 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"재임중 금리결정엔 후회 없어…서학개미 발언은 후회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410083200002",
-      "pubDate": "Fri, 10 Apr 2026 11:47:40 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"집값 두면 자본비효율 등 문제…부동산정책 이어가야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410082400002",
-      "pubDate": "Fri, 10 Apr 2026 11:43:43 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 장중 연 3.345%",
-      "link": "https://www.yna.co.kr/view/AKR20260410081400008",
-      "pubDate": "Fri, 10 Apr 2026 11:42:30 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260410078900030",
-      "pubDate": "Fri, 10 Apr 2026 11:41:31 +0900"
-    },
-    {
-      "title": "한은총재 \"신현송 애국심, 해외자산보다 더 크다고 믿어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410080000002",
-      "pubDate": "Fri, 10 Apr 2026 11:36:18 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"초과세수를 경직적으로 교육예산에 쓰는 제도 고쳐야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410080400002",
-      "pubDate": "Fri, 10 Apr 2026 11:36:08 +0900"
-    },
-    {
-      "title": "대전사랑카드 이달치 캐시백, 예산 소진으로 조기 종료",
-      "link": "https://www.yna.co.kr/view/AKR20260410079200063",
-      "pubDate": "Fri, 10 Apr 2026 11:35:10 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"신현송 후보자 애국심, 해외자산보다 더 크다고 믿어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410079400002",
-      "pubDate": "Fri, 10 Apr 2026 11:32:39 +0900"
-    },
-    {
-      "title": "한은총재 \"현시점에선 스태그플레이션 가능성 작아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410079000002",
-      "pubDate": "Fri, 10 Apr 2026 11:32:14 +0900"
-    },
-    {
-      "title": "[쇼츠] 8년 써보고 \"역시 K9\"…핀란드의 선택은 '추가 계약'",
-      "link": "https://www.yna.co.kr/view/AKR20260410077300704",
-      "pubDate": "Fri, 10 Apr 2026 11:32:09 +0900"
-    },
-    {
-      "title": "기획처, 지방 주도 민자사업 추진…'찾아가는 민자카라반' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260410067200002",
-      "pubDate": "Fri, 10 Apr 2026 11:30:00 +0900"
-    },
-    {
-      "title": "[속보] 한은총재 \"현시점에선 스태그플레이션 가능성 작아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410078100002",
-      "pubDate": "Fri, 10 Apr 2026 11:29:39 +0900"
     }
   ]
 }
