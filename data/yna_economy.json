@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775844271,
+  "updated_at_unix": 1775848504,
   "items": [
+    {
+      "title": "[뉴욕유가] 美 '러 원유 구매 허용' 연장하나…WTI 1.3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260411004200009",
+      "pubDate": "Sat, 11 Apr 2026 03:52:05 +0900"
+    },
     {
       "title": "달러-원, 미·이란 협상 앞두고 제한적 움직임…1,483.50원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260411003200002",
@@ -147,11 +152,6 @@
       "title": "미·이란 협상 앞두고…환율 1,482.5원 보합 마감",
       "link": "https://www.yna.co.kr/view/AKR20260410131000002",
       "pubDate": "Fri, 10 Apr 2026 16:22:03 +0900"
-    },
-    {
-      "title": "압구정3·5구역·목동6단지 시공사 입찰 마감…5구역만 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260410134200003",
-      "pubDate": "Fri, 10 Apr 2026 16:12:25 +0900"
     }
   ]
 }
