@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775938787,
+  "updated_at_unix": 1775940930,
   "items": [
+    {
+      "title": "26.2조 막 집행하는데 벌써 2차 추경론 고개…나라 빚 부담 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260411048100002",
+      "pubDate": "Sun, 12 Apr 2026 05:49:05 +0900"
+    },
+    {
+      "title": "정부재정·조세지출 800조 넘어…\"구조개혁 없인 지속 불가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411037600002",
+      "pubDate": "Sun, 12 Apr 2026 05:49:02 +0900"
+    },
+    {
+      "title": "빨라지는 국가채무 시계…2030년엔 GDP 60% 육박한다",
+      "link": "https://www.yna.co.kr/view/AKR20260411050100002",
+      "pubDate": "Sun, 12 Apr 2026 05:49:00 +0900"
+    },
+    {
+      "title": "5대銀 가계대출 조이니…문턱 낮은 인뱅 1분기 5천600억원 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260411044800002",
+      "pubDate": "Sun, 12 Apr 2026 05:47:00 +0900"
+    },
+    {
+      "title": "올해 가계대출 바짝 조인다…5대은행 증가율 1% 안팎서 묶일 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260411054200002",
+      "pubDate": "Sun, 12 Apr 2026 05:45:01 +0900"
+    },
     {
       "title": "\"가치 있는 소비 동참\" 한성숙, 전주서 동행축제 개막 선언",
       "link": "https://www.yna.co.kr/view/AKR20260411028600030",
@@ -127,31 +152,6 @@
       "title": "달러-원, 미·이란 협상 앞두고 제한적 움직임…1,483.50원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260411003200002",
       "pubDate": "Sat, 11 Apr 2026 02:45:01 +0900"
-    },
-    {
-      "title": "과기정통부 추경 787억원 확정…과기원 청년창업·AX·CCU 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260410180100017",
-      "pubDate": "Fri, 10 Apr 2026 23:42:44 +0900"
-    },
-    {
-      "title": "정성호 법무 \"18개 지검 민생·물가안정 전담수사팀 본격 가동\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410182000004",
-      "pubDate": "Fri, 10 Apr 2026 23:41:26 +0900"
-    },
-    {
-      "title": "민생·고유가대응 추경…재정수지·국가채무비율 원안 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260410181300002",
-      "pubDate": "Fri, 10 Apr 2026 23:28:32 +0900"
-    },
-    {
-      "title": "노동부 추경 4천165억 확정…중동전쟁발 일자리 충격 완화 등",
-      "link": "https://www.yna.co.kr/view/AKR20260410178700530",
-      "pubDate": "Fri, 10 Apr 2026 22:52:45 +0900"
-    },
-    {
-      "title": "농식품부, 추경 3천775억원 확정…유류·비료·사료 지원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260410178800030",
-      "pubDate": "Fri, 10 Apr 2026 22:48:12 +0900"
     }
   ]
 }
