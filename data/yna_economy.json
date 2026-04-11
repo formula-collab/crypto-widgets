@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775950078,
+  "updated_at_unix": 1775951851,
   "items": [
+    {
+      "title": "포스코 협력업체 직고용에 포항 각계 환영…현장은 온도 차(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260410135351053",
+      "pubDate": "Sun, 12 Apr 2026 08:46:56 +0900"
+    },
+    {
+      "title": "수박 주산지 함안, 유가 급등에 농자재 조기 확보 등 대책 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260410146700052",
+      "pubDate": "Sun, 12 Apr 2026 08:35:01 +0900"
+    },
+    {
+      "title": "한섬 '타임', 디자이너 보나스트레와 협업 핸드백 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260412012000030",
+      "pubDate": "Sun, 12 Apr 2026 08:31:38 +0900"
+    },
+    {
+      "title": "하나은행 모바일 앱에서 리디 웹툰·웹소설 콘텐츠 본다",
+      "link": "https://www.yna.co.kr/view/AKR20260410156000002",
+      "pubDate": "Sun, 12 Apr 2026 08:30:01 +0900"
+    },
     {
       "title": "1분기 전기차 구매 '큰손'은 20대…보조금·가격인하 통했다",
       "link": "https://www.yna.co.kr/view/AKR20260412010900003",
@@ -132,26 +152,6 @@
       "title": "'기업 비업무용' 보유세 강화되나…'첫 단추' 현황 파악 관건",
       "link": "https://www.yna.co.kr/view/AKR20260411042000002",
       "pubDate": "Sun, 12 Apr 2026 05:53:00 +0900"
-    },
-    {
-      "title": "26.2조 막 집행하는데 벌써 2차 추경론 고개…나라 빚 부담 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260411048100002",
-      "pubDate": "Sun, 12 Apr 2026 05:49:05 +0900"
-    },
-    {
-      "title": "정부재정·조세지출 800조 넘어…\"구조개혁 없인 지속 불가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260411037600002",
-      "pubDate": "Sun, 12 Apr 2026 05:49:02 +0900"
-    },
-    {
-      "title": "빨라지는 국가채무 시계…2030년엔 GDP 60% 육박한다",
-      "link": "https://www.yna.co.kr/view/AKR20260411050100002",
-      "pubDate": "Sun, 12 Apr 2026 05:49:00 +0900"
-    },
-    {
-      "title": "5대銀 가계대출 조이니…문턱 낮은 인뱅 1분기 5천600억원 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260411044800002",
-      "pubDate": "Sun, 12 Apr 2026 05:47:00 +0900"
     }
   ]
 }
