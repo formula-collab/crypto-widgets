@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775865352,
+  "updated_at_unix": 1775870505,
   "items": [
+    {
+      "title": "전북중장년센터·식품산업진흥원, 중장년 취업 원스톱 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260411023600055",
+      "pubDate": "Sat, 11 Apr 2026 09:52:54 +0900"
+    },
+    {
+      "title": "3차 최고가격제 이틀째…서울 휘발윳값 2천20원대 상승세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260411022400003",
+      "pubDate": "Sat, 11 Apr 2026 09:15:07 +0900"
+    },
+    {
+      "title": "[다음주 경제] 3월 일자리 얼마나 늘었나…원유 등 수입물가도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260411021800002",
+      "pubDate": "Sat, 11 Apr 2026 09:09:25 +0900"
+    },
+    {
+      "title": "신혼 임대주택 4억대…김해 부원 도시개발 '공공기여' 실익 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260410121500052",
+      "pubDate": "Sat, 11 Apr 2026 09:05:00 +0900"
+    },
     {
       "title": "울주군, 올해 법인 지방소득세 신고·납부 안내",
       "link": "https://www.yna.co.kr/view/AKR20260410112300057",
@@ -132,26 +152,6 @@
       "title": "거래소, 미래에셋운용 '미국우주테크' 등 ETF 5종 상장",
       "link": "https://www.yna.co.kr/view/AKR20260410145100008",
       "pubDate": "Fri, 10 Apr 2026 16:54:37 +0900"
-    },
-    {
-      "title": "검찰, '10조원대 전분·당류 담합' 대상 대표 구속영장 재청구",
-      "link": "https://www.yna.co.kr/view/AKR20260410142000004",
-      "pubDate": "Fri, 10 Apr 2026 16:53:36 +0900"
-    },
-    {
-      "title": "인스코비, 10억원 유상증자…(주)어반홀딩스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260410143600008",
-      "pubDate": "Fri, 10 Apr 2026 16:47:41 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.360%",
-      "link": "https://www.yna.co.kr/view/AKR20260410142900008",
-      "pubDate": "Fri, 10 Apr 2026 16:46:56 +0900"
-    },
-    {
-      "title": "[부고] 윤주익(LS증권 디지털영업본부장)씨 징인상",
-      "link": "https://www.yna.co.kr/view/AKR20260410140300008",
-      "pubDate": "Fri, 10 Apr 2026 16:45:47 +0900"
     }
   ]
 }
