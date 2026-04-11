@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775948229,
+  "updated_at_unix": 1775950078,
   "items": [
+    {
+      "title": "1분기 전기차 구매 '큰손'은 20대…보조금·가격인하 통했다",
+      "link": "https://www.yna.co.kr/view/AKR20260412010900003",
+      "pubDate": "Sun, 12 Apr 2026 08:24:09 +0900"
+    },
+    {
+      "title": "농협, 농업용 면세유 유가보조금 지원 이달 말까지 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260412011100030",
+      "pubDate": "Sun, 12 Apr 2026 08:20:03 +0900"
+    },
+    {
+      "title": "무난한 금통위 넘긴 채권시장…중동 변수·신현송 청문회 대기",
+      "link": "https://www.yna.co.kr/view/AKR20260411033900008",
+      "pubDate": "Sun, 12 Apr 2026 08:05:00 +0900"
+    },
+    {
+      "title": "[반려동물] '세계 햄스터의 날'…소동물, 인기 속 저가분양 부작용도",
+      "link": "https://www.yna.co.kr/view/AKR20260411001300030",
+      "pubDate": "Sun, 12 Apr 2026 08:01:01 +0900"
+    },
+    {
+      "title": "부산은행, 점심시간 휴무 영업점 점차 확대…\"불편 최소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410128800051",
+      "pubDate": "Sun, 12 Apr 2026 08:00:34 +0900"
+    },
     {
       "title": "프로야구 인기에 편의점 매출도 '홈런'…마케팅 경쟁 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260410171800030",
@@ -49,7 +74,7 @@
       "pubDate": "Sun, 12 Apr 2026 07:00:07 +0900"
     },
     {
-      "title": "원칙 깬 '3차 석유 최고가격 동결'…재정 부담 가중 우려",
+      "title": "민생 내세워 '3차 석유 최고가격 동결'…재정 부담 가중 우려",
       "link": "https://www.yna.co.kr/view/AKR20260411044000003",
       "pubDate": "Sun, 12 Apr 2026 07:00:05 +0900"
     },
@@ -59,7 +84,7 @@
       "pubDate": "Sun, 12 Apr 2026 07:00:04 +0900"
     },
     {
-      "title": "[샷!] \"제일 열심히 한 학생에겐 커피쿠폰\"",
+      "title": "[샷!] \"6년간 과제 제출 안 한 학생 없어\"",
       "link": "https://www.yna.co.kr/view/AKR20260410077400505",
       "pubDate": "Sun, 12 Apr 2026 07:00:02 +0900"
     },
@@ -127,31 +152,6 @@
       "title": "5대銀 가계대출 조이니…문턱 낮은 인뱅 1분기 5천600억원 늘어",
       "link": "https://www.yna.co.kr/view/AKR20260411044800002",
       "pubDate": "Sun, 12 Apr 2026 05:47:00 +0900"
-    },
-    {
-      "title": "올해 가계대출 바짝 조인다…5대은행 증가율 1% 안팎서 묶일 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260411054200002",
-      "pubDate": "Sun, 12 Apr 2026 05:45:01 +0900"
-    },
-    {
-      "title": "\"가치 있는 소비 동참\" 한성숙, 전주서 동행축제 개막 선언",
-      "link": "https://www.yna.co.kr/view/AKR20260411028600030",
-      "pubDate": "Sat, 11 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[동포의 창] 고려인글로벌네트워크-사이버한국외대, 고려인 교육 지원 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260411035400371",
-      "pubDate": "Sat, 11 Apr 2026 17:15:40 +0900"
-    },
-    {
-      "title": "기획예산처 \"추경 신속집행…2주 단위 상황 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260411032200002",
-      "pubDate": "Sat, 11 Apr 2026 13:11:00 +0900"
-    },
-    {
-      "title": "'3주탑 현수교' 천사대교 만든 이해경 다산컨설턴트 회장 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260411031900505",
-      "pubDate": "Sat, 11 Apr 2026 12:56:11 +0900"
     }
   ]
 }
