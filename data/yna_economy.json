@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775893310,
+  "updated_at_unix": 1775896184,
   "items": [
+    {
+      "title": "[동포의 창] 고려인글로벌네트워크-사이버한국외대, 고려인 교육 지원 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260411035400371",
+      "pubDate": "Sat, 11 Apr 2026 17:15:40 +0900"
+    },
     {
       "title": "기획예산처 \"추경 신속집행…2주 단위 상황 점검\"",
       "link": "https://www.yna.co.kr/view/AKR20260411032200002",
@@ -147,11 +152,6 @@
       "title": "광주회생법원, 해광건설 파산 선고",
       "link": "https://www.yna.co.kr/view/AKR20260410177500054",
       "pubDate": "Fri, 10 Apr 2026 22:28:05 +0900"
-    },
-    {
-      "title": "[속보] 26.2조 '전쟁 추경안' 국회 통과…소득하위 70%에 지원금",
-      "link": "https://www.yna.co.kr/view/AKR20260410177300001",
-      "pubDate": "Fri, 10 Apr 2026 22:26:15 +0900"
     }
   ]
 }
