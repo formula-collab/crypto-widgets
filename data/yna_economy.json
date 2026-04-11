@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775944402,
+  "updated_at_unix": 1775945967,
   "items": [
+    {
+      "title": "\"직무·성과급 도입하라고?\"…사업체 10곳중 6곳, 임금체계 '無'",
+      "link": "https://www.yna.co.kr/view/AKR20260411055600530",
+      "pubDate": "Sun, 12 Apr 2026 07:11:01 +0900"
+    },
+    {
+      "title": "[전국레이더] 중동발 고물가에 지자체 초비상…공공요금 억제 등 총력",
+      "link": "https://www.yna.co.kr/view/AKR20260410111400051",
+      "pubDate": "Sun, 12 Apr 2026 07:06:00 +0900"
+    },
+    {
+      "title": "휴전 소식에 고개 든 귀금속…2분기 금 랠리 재개될까",
+      "link": "https://www.yna.co.kr/view/AKR20260411014200008",
+      "pubDate": "Sun, 12 Apr 2026 07:05:01 +0900"
+    },
+    {
+      "title": "고유가시대 자동차 인기 변화…\"카셰어링서 전기차 수요 늘어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411032800030",
+      "pubDate": "Sun, 12 Apr 2026 07:03:02 +0900"
+    },
+    {
+      "title": "전쟁 여파로 봄나들이 대신 '집콕'…캠핑 줄고 게임 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260411007400030",
+      "pubDate": "Sun, 12 Apr 2026 07:03:01 +0900"
+    },
+    {
+      "title": "중동전쟁 후 전세계 하락률 '톱' 국내 증시, 회복도 빠를까",
+      "link": "https://www.yna.co.kr/view/AKR20260411026000008",
+      "pubDate": "Sun, 12 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "\"이사철 훈풍도 없다\" 광주 아파트 거래 절벽 현실화",
+      "link": "https://www.yna.co.kr/view/AKR20260410121800054",
+      "pubDate": "Sun, 12 Apr 2026 07:00:07 +0900"
+    },
+    {
+      "title": "원칙 깬 '3차 석유 최고가격 동결'…재정 부담 가중 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260411044000003",
+      "pubDate": "Sun, 12 Apr 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[동포의 창] \"몽골에 기술만 가져오세요. 나머진 우리가 모두 드려요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411029300371",
+      "pubDate": "Sun, 12 Apr 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[샷!] \"제일 열심히 한 학생에겐 커피쿠폰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260410077400505",
+      "pubDate": "Sun, 12 Apr 2026 07:00:02 +0900"
+    },
     {
       "title": "'동네 도서관'·'식품 저장고'…대형마트 \"공간 바꿔야 산다\"",
       "link": "https://www.yna.co.kr/view/AKR20260411038000030",
@@ -102,56 +152,6 @@
       "title": "오세훈 \"정원오, 李정부 과도한 부동산규제 철회부터 요구해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260411030600004",
       "pubDate": "Sat, 11 Apr 2026 12:25:05 +0900"
-    },
-    {
-      "title": "[일문일답] 고유가 지원금 재원 6조1천억…대상·사용처는 소비쿠폰과 비슷",
-      "link": "https://www.yna.co.kr/view/AKR20260411030500530",
-      "pubDate": "Sat, 11 Apr 2026 12:10:54 +0900"
-    },
-    {
-      "title": "'고유가 피해지원금' 27일부터 지급…1인당 10만∼60만원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260411025651530",
-      "pubDate": "Sat, 11 Apr 2026 11:59:38 +0900"
-    },
-    {
-      "title": "전남도, 어업인 경영부담 완화 213억 조기 집행",
-      "link": "https://www.yna.co.kr/view/AKR20260410147900054",
-      "pubDate": "Sat, 11 Apr 2026 11:00:03 +0900"
-    },
-    {
-      "title": "[Q&A] 외국인·해외체류 국민도 '고유가 지원금' 받나요?",
-      "link": "https://www.yna.co.kr/view/AKR20260411024100530",
-      "pubDate": "Sat, 11 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "고유가 지원금 사용처는…프랜차이즈 직영점·배달앱 결제 불가",
-      "link": "https://www.yna.co.kr/view/AKR20260411025700530",
-      "pubDate": "Sat, 11 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "'고유가 피해지원금' 27일부터 지급…1인당 10만∼60만원",
-      "link": "https://www.yna.co.kr/view/AKR20260411025600530",
-      "pubDate": "Sat, 11 Apr 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260411025500011",
-      "pubDate": "Sat, 11 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "전북중장년센터·식품산업진흥원, 중장년 취업 원스톱 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260411023600055",
-      "pubDate": "Sat, 11 Apr 2026 09:52:54 +0900"
-    },
-    {
-      "title": "3차 최고가격제 이틀째…서울 휘발윳값 2천20원대 상승세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260411022400003",
-      "pubDate": "Sat, 11 Apr 2026 09:15:07 +0900"
-    },
-    {
-      "title": "[다음주 경제] 3월 일자리 얼마나 늘었나…원유 등 수입물가도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260411021800002",
-      "pubDate": "Sat, 11 Apr 2026 09:09:25 +0900"
     }
   ]
 }
