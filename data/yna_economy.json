@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775945967,
+  "updated_at_unix": 1775948229,
   "items": [
+    {
+      "title": "프로야구 인기에 편의점 매출도 '홈런'…마케팅 경쟁 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260410171800030",
+      "pubDate": "Sun, 12 Apr 2026 07:35:00 +0900"
+    },
+    {
+      "title": "초대형 유조선 3척 호르무즈 통해 걸프 빠져나와…휴전 후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260412007800009",
+      "pubDate": "Sun, 12 Apr 2026 07:32:34 +0900"
+    },
     {
       "title": "\"직무·성과급 도입하라고?\"…사업체 10곳중 6곳, 임금체계 '無'",
       "link": "https://www.yna.co.kr/view/AKR20260411055600530",
@@ -142,16 +152,6 @@
       "title": "'3주탑 현수교' 천사대교 만든 이해경 다산컨설턴트 회장 별세",
       "link": "https://www.yna.co.kr/view/AKR20260411031900505",
       "pubDate": "Sat, 11 Apr 2026 12:56:11 +0900"
-    },
-    {
-      "title": "산업부 추경 통해 1.1조원 확보…석유 등 공급망 안정 사업 집중",
-      "link": "https://www.yna.co.kr/view/AKR20260411031800003",
-      "pubDate": "Sat, 11 Apr 2026 12:53:22 +0900"
-    },
-    {
-      "title": "오세훈 \"정원오, 李정부 과도한 부동산규제 철회부터 요구해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260411030600004",
-      "pubDate": "Sat, 11 Apr 2026 12:25:05 +0900"
     }
   ]
 }
