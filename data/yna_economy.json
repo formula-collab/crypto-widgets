@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775896184,
+  "updated_at_unix": 1775898468,
   "items": [
+    {
+      "title": "\"가치 있는 소비 동참\" 한성숙, 전주서 동행축제 개막 선언",
+      "link": "https://www.yna.co.kr/view/AKR20260411028600030",
+      "pubDate": "Sat, 11 Apr 2026 18:00:00 +0900"
+    },
     {
       "title": "[동포의 창] 고려인글로벌네트워크-사이버한국외대, 고려인 교육 지원 협력",
       "link": "https://www.yna.co.kr/view/AKR20260411035400371",
@@ -147,11 +152,6 @@
       "title": "농식품부, 추경 3천775억원 확정…유류·비료·사료 지원 확대",
       "link": "https://www.yna.co.kr/view/AKR20260410178800030",
       "pubDate": "Fri, 10 Apr 2026 22:48:12 +0900"
-    },
-    {
-      "title": "광주회생법원, 해광건설 파산 선고",
-      "link": "https://www.yna.co.kr/view/AKR20260410177500054",
-      "pubDate": "Fri, 10 Apr 2026 22:28:05 +0900"
     }
   ]
 }
