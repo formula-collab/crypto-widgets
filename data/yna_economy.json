@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775879808,
+  "updated_at_unix": 1775884951,
   "items": [
+    {
+      "title": "기획예산처 \"추경 신속집행…2주 단위 상황 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411032200002",
+      "pubDate": "Sat, 11 Apr 2026 13:11:00 +0900"
+    },
+    {
+      "title": "'3주탑 현수교' 천사대교 만든 이해경 다산컨설턴트 회장 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260411031900505",
+      "pubDate": "Sat, 11 Apr 2026 12:56:11 +0900"
+    },
+    {
+      "title": "산업부 추경 통해 1.1조원 확보…석유 등 공급망 안정 사업 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260411031800003",
+      "pubDate": "Sat, 11 Apr 2026 12:53:22 +0900"
+    },
     {
       "title": "오세훈 \"정원오, 李정부 과도한 부동산규제 철회부터 요구해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260411030600004",
@@ -137,21 +152,6 @@
       "title": "[속보] 26.2조 '전쟁 추경안' 국회 통과…소득하위 70%에 지원금",
       "link": "https://www.yna.co.kr/view/AKR20260410177300001",
       "pubDate": "Fri, 10 Apr 2026 22:26:15 +0900"
-    },
-    {
-      "title": "서울 용산구 이촌르엘 1순위 청약 경쟁률 135대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260410169000003",
-      "pubDate": "Fri, 10 Apr 2026 20:12:32 +0900"
-    },
-    {
-      "title": "'음료 3잔' 알바생 550만원 돌려받아…더본 \"가맹점 영업정지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410167800030",
-      "pubDate": "Fri, 10 Apr 2026 19:40:29 +0900"
-    },
-    {
-      "title": "한솔홀딩스 \"자회사 한솔테크닉스 주식 617억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260410164800008",
-      "pubDate": "Fri, 10 Apr 2026 19:18:49 +0900"
     }
   ]
 }
