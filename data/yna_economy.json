@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775942595,
+  "updated_at_unix": 1775944402,
   "items": [
+    {
+      "title": "'동네 도서관'·'식품 저장고'…대형마트 \"공간 바꿔야 산다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411038000030",
+      "pubDate": "Sun, 12 Apr 2026 06:31:02 +0900"
+    },
+    {
+      "title": "포스코 협력업체 직고용에 포항 각계 환영…현장은 온도 차",
+      "link": "https://www.yna.co.kr/view/AKR20260410135300053",
+      "pubDate": "Sun, 12 Apr 2026 06:24:53 +0900"
+    },
     {
       "title": "고용률 상승 핵심 '30대 여성'과 '고령층'…청년층 하락세 뚜렷",
       "link": "https://www.yna.co.kr/view/AKR20260410174400530",
@@ -142,16 +152,6 @@
       "title": "[다음주 경제] 3월 일자리 얼마나 늘었나…원유 등 수입물가도 주목",
       "link": "https://www.yna.co.kr/view/AKR20260411021800002",
       "pubDate": "Sat, 11 Apr 2026 09:09:25 +0900"
-    },
-    {
-      "title": "신혼 임대주택 4억대…김해 부원 도시개발 '공공기여' 실익 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260410121500052",
-      "pubDate": "Sat, 11 Apr 2026 09:05:00 +0900"
-    },
-    {
-      "title": "울주군, 올해 법인 지방소득세 신고·납부 안내",
-      "link": "https://www.yna.co.kr/view/AKR20260410112300057",
-      "pubDate": "Sat, 11 Apr 2026 08:10:00 +0900"
     }
   ]
 }
