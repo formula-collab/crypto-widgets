@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776025355,
+  "updated_at_unix": 1776027550,
   "items": [
+    {
+      "title": "취업해도 못 갚아…학자금 체납액 800억 넘어, 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260412029200002",
+      "pubDate": "Mon, 13 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "프랑스IB 올해 韓 1% 성장 전망…\"스태그플레이션 직면\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411056000002",
+      "pubDate": "Mon, 13 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "트럼프, 호르무즈 열라더니 逆봉쇄 왜?…'이란돈줄 차단' 최대압박",
       "link": "https://www.yna.co.kr/view/AKR20260413003800071",
@@ -142,16 +152,6 @@
       "title": "3차 최고가격제 셋째날 기름값 상승세 둔화…서울 경윳값 보합세",
       "link": "https://www.yna.co.kr/view/AKR20260412015100003",
       "pubDate": "Sun, 12 Apr 2026 09:19:06 +0900"
-    },
-    {
-      "title": "현대그린푸드, 캐치테이블에 브랜드관 개설…18개 매장 입점",
-      "link": "https://www.yna.co.kr/view/AKR20260412014400030",
-      "pubDate": "Sun, 12 Apr 2026 09:05:45 +0900"
-    },
-    {
-      "title": "삼성물산, 서울 강남구 대치쌍용1차 재건축 시공사에 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260412013900003",
-      "pubDate": "Sun, 12 Apr 2026 09:02:54 +0900"
     }
   ]
 }
