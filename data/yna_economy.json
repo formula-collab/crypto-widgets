@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775970530,
+  "updated_at_unix": 1775976653,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260412036000011",
+      "pubDate": "Sun, 12 Apr 2026 15:00:00 +0900"
+    },
     {
       "title": "이창용, G20 재무장관·중앙은행 총재 회의 참석",
       "link": "https://www.yna.co.kr/view/AKR20260410132900002",
@@ -147,11 +152,6 @@
       "title": "포스코 협력업체 직고용에 포항 각계 환영…현장은 온도 차(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260410135351053",
       "pubDate": "Sun, 12 Apr 2026 08:46:56 +0900"
-    },
-    {
-      "title": "수박 주산지 함안, 유가 급등에 농자재 조기 확보 등 대책 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260410146700052",
-      "pubDate": "Sun, 12 Apr 2026 08:35:01 +0900"
     }
   ]
 }
