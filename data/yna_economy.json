@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776034774,
+  "updated_at_unix": 1776036974,
   "items": [
+    {
+      "title": "반도체·약 원료 '브롬' 중동 의존도 98%…\"공급망 대응 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413021800003",
+      "pubDate": "Mon, 13 Apr 2026 08:33:14 +0900"
+    },
+    {
+      "title": "오리온, '비쵸비 딸기' 정식 출시…생산능력 2배 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260413023400030",
+      "pubDate": "Mon, 13 Apr 2026 08:32:33 +0900"
+    },
+    {
+      "title": "한화증권 \"와이지엔터, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413021600008",
+      "pubDate": "Mon, 13 Apr 2026 08:23:10 +0900"
+    },
+    {
+      "title": "DS투자, 엔씨소프트 목표가↑…\"1분기 실적 컨센서스 상회 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413020400008",
+      "pubDate": "Mon, 13 Apr 2026 08:15:49 +0900"
+    },
+    {
+      "title": "한투증권, 리노공업 목표가 28% 상향…\"R&D용 소켓 수요 견조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413020000008",
+      "pubDate": "Mon, 13 Apr 2026 08:12:27 +0900"
+    },
+    {
+      "title": "[마켓뷰] 미·이란 종전 협상 결렬에 먹구름 짙어진 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20260413017700008",
+      "pubDate": "Mon, 13 Apr 2026 08:03:46 +0900"
+    },
     {
       "title": "부산시, 2조원 투입해 일자리 20만개 창출…고용률 1위 목표",
       "link": "https://www.yna.co.kr/view/AKR20260413017200051",
@@ -122,36 +152,6 @@
       "title": "금융위, 첫 '금융위人상' 시상…직원 3명에 총 1천800만원 포상",
       "link": "https://www.yna.co.kr/view/AKR20260411055300002",
       "pubDate": "Sun, 12 Apr 2026 12:00:04 +0900"
-    },
-    {
-      "title": "돈 받고 종목 추천한 유튜버들…당국, 5개 채널 불법 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260412005900002",
-      "pubDate": "Sun, 12 Apr 2026 12:00:03 +0900"
-    },
-    {
-      "title": "커피 가맹점 호황…술집은 늘었지만 매출 줄었다",
-      "link": "https://www.yna.co.kr/view/AKR20260412000400002",
-      "pubDate": "Sun, 12 Apr 2026 12:00:02 +0900"
-    },
-    {
-      "title": "재경부 국제차관보, 홍콩·싱가포르서 韓경제 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260412025400002",
-      "pubDate": "Sun, 12 Apr 2026 12:00:00 +0900"
-    },
-    {
-      "title": "李대통령 \"세제·금융·규제 통한 부동산투기 제로 얼마든 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260412026600001",
-      "pubDate": "Sun, 12 Apr 2026 11:43:45 +0900"
-    },
-    {
-      "title": "현대건설, 핀란드와 원전 이어 에너지 분야 협력도 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260412025100003",
-      "pubDate": "Sun, 12 Apr 2026 11:22:37 +0900"
-    },
-    {
-      "title": "1988년 준공된 송파 올림픽훼밀리타운, 6천787세대 대단지로",
-      "link": "https://www.yna.co.kr/view/AKR20260411034300004",
-      "pubDate": "Sun, 12 Apr 2026 11:15:01 +0900"
     }
   ]
 }
