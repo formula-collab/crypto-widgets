@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776027550,
+  "updated_at_unix": 1776029686,
   "items": [
+    {
+      "title": "\"고령화에 과일 재배면적 1% 줄어…감소규모 여의도의 3.5배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260411001800030",
+      "pubDate": "Mon, 13 Apr 2026 06:11:01 +0900"
+    },
+    {
+      "title": "울산시, 4번째 청년 주택 '유홈 삼산' 준공…31가구 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260412056400057",
+      "pubDate": "Mon, 13 Apr 2026 06:02:00 +0900"
+    },
+    {
+      "title": "올해 청약 당첨자 10명중 6명은 30대 이하…통계 집계 이래 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260412020000003",
+      "pubDate": "Mon, 13 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 군 장병 대상 재무설계 신청자 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260412006600002",
+      "pubDate": "Mon, 13 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "정부, 유통 플랫폼을 '수출 점프대'로…올리브영 등 13개사 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260412022700003",
+      "pubDate": "Mon, 13 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "신현송, 입대 전 고려대 편입 이력 눈길…\"한국 문화 익히려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260412058500002",
+      "pubDate": "Mon, 13 Apr 2026 05:57:00 +0900"
+    },
+    {
+      "title": "중동發 사이버 리스크 확산…금감원, 위험정보 전파 2.5배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260412019200002",
+      "pubDate": "Mon, 13 Apr 2026 05:55:01 +0900"
+    },
     {
       "title": "취업해도 못 갚아…학자금 체납액 800억 넘어, 역대 최대",
       "link": "https://www.yna.co.kr/view/AKR20260412029200002",
@@ -117,41 +152,6 @@
       "title": "[게시판] 코트라, 인도 남부서 'K-라이프스타일' 행사",
       "link": "https://www.yna.co.kr/view/AKR20260412018400003",
       "pubDate": "Sun, 12 Apr 2026 11:00:00 +0900"
-    },
-    {
-      "title": "국세청장 \"법인 고가주택 2천630개 점검…사주일가 살면 탈세\"",
-      "link": "https://www.yna.co.kr/view/AKR20260412021300002",
-      "pubDate": "Sun, 12 Apr 2026 10:49:32 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260412018000011",
-      "pubDate": "Sun, 12 Apr 2026 10:30:01 +0900"
-    },
-    {
-      "title": "양도세 중과 앞두고 비강남 아파트 거래 늘어…15억 이하가 85%",
-      "link": "https://www.yna.co.kr/view/AKR20260412019300003",
-      "pubDate": "Sun, 12 Apr 2026 10:26:54 +0900"
-    },
-    {
-      "title": "靑, 오늘 비상경제 현안점검회의…美-이란 종전협상도 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20260412016700001",
-      "pubDate": "Sun, 12 Apr 2026 09:47:27 +0900"
-    },
-    {
-      "title": "쿠팡 \"지방 물류센터 2030 직원 1만7천명 넘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260412015500030",
-      "pubDate": "Sun, 12 Apr 2026 09:31:01 +0900"
-    },
-    {
-      "title": "[AI위클리] 정부·금융 AX 가속…기업은 여전히 '초기 단계'",
-      "link": "https://www.yna.co.kr/view/AKR20260410136400017",
-      "pubDate": "Sun, 12 Apr 2026 09:30:00 +0900"
-    },
-    {
-      "title": "3차 최고가격제 셋째날 기름값 상승세 둔화…서울 경윳값 보합세",
-      "link": "https://www.yna.co.kr/view/AKR20260412015100003",
-      "pubDate": "Sun, 12 Apr 2026 09:19:06 +0900"
     }
   ]
 }
