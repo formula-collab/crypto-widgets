@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776029686,
+  "updated_at_unix": 1776032486,
   "items": [
+    {
+      "title": "인천권역 마리나 개발 지지부진…덕적마리나 예정구역 해제",
+      "link": "https://www.yna.co.kr/view/AKR20260410104700065",
+      "pubDate": "Mon, 13 Apr 2026 07:17:00 +0900"
+    },
+    {
+      "title": "태광그룹에 고객정보 넘긴 계열 저축은행…법원 \"과징금 취소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260412038700004",
+      "pubDate": "Mon, 13 Apr 2026 07:00:01 +0900"
+    },
     {
       "title": "\"고령화에 과일 재배면적 1% 줄어…감소규모 여의도의 3.5배\"",
       "link": "https://www.yna.co.kr/view/AKR20260411001800030",
@@ -142,16 +152,6 @@
       "title": "현대硏 \"대기업 등 질좋은 일자리 16%뿐…급여는 1.7배\"",
       "link": "https://www.yna.co.kr/view/AKR20260411054800002",
       "pubDate": "Sun, 12 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "한·방글라데시, 서울서 포괄적경제동반자협정 3차 공식협상",
-      "link": "https://www.yna.co.kr/view/AKR20260412011900003",
-      "pubDate": "Sun, 12 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, 인도 남부서 'K-라이프스타일' 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260412018400003",
-      "pubDate": "Sun, 12 Apr 2026 11:00:00 +0900"
     }
   ]
 }
