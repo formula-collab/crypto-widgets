@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1775980549,
+  "updated_at_unix": 1775983026,
   "items": [
+    {
+      "title": "서울 초고가 아파트값 하락에 양극화도 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260412047400003",
+      "pubDate": "Sun, 12 Apr 2026 17:33:06 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260412036000011",
@@ -147,11 +152,6 @@
       "title": "KB국민은행·중진공, 중동 피해기업 등에 6조원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260411055900002",
       "pubDate": "Sun, 12 Apr 2026 09:00:02 +0900"
-    },
-    {
-      "title": "포스코 협력업체 직고용에 포항 각계 환영…현장은 온도 차(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260410135351053",
-      "pubDate": "Sun, 12 Apr 2026 08:46:56 +0900"
     }
   ]
 }
