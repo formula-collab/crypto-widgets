@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776114681,
+  "updated_at_unix": 1776117939,
   "items": [
+    {
+      "title": "[우분투칼럼] 중동발 충격: 희망봉 너머의 불안",
+      "link": "https://www.yna.co.kr/view/AKR20260403126000898",
+      "pubDate": "Tue, 14 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "디지털 약자 보호 부각…중소 게임사 \"천원 팔아도 300원 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413146900017",
+      "pubDate": "Tue, 14 Apr 2026 06:33:01 +0900"
+    },
     {
       "title": "LH 건설공공임대 입주대기 9.3만명…입주물량은 7천600여호",
       "link": "https://www.yna.co.kr/view/AKR20260413143300003",
@@ -142,16 +152,6 @@
       "title": "우리은행, 김앤장·삼일PwC와 손잡고 기업승계 지원",
       "link": "https://www.yna.co.kr/view/AKR20260413139600002",
       "pubDate": "Mon, 13 Apr 2026 17:02:27 +0900"
-    },
-    {
-      "title": "수은, 중기부·식약처·기보와 중소기업 글로벌 진출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260413138300002",
-      "pubDate": "Mon, 13 Apr 2026 17:02:05 +0900"
-    },
-    {
-      "title": "\"중동전쟁, 건설현장에 '불가항력'\"…정부 유권해석으로 인정",
-      "link": "https://www.yna.co.kr/view/AKR20260413138600003",
-      "pubDate": "Mon, 13 Apr 2026 17:00:29 +0900"
     }
   ]
 }
