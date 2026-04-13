@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776102812,
+  "updated_at_unix": 1776106713,
   "items": [
+    {
+      "title": "[뉴욕유가] 물밑 美·이란 협상설에 상승폭 크게 축소…WTI 2.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260414004200009",
+      "pubDate": "Tue, 14 Apr 2026 03:44:38 +0900"
+    },
+    {
+      "title": "달러-원, 美·이란 협상 기대감 부활에 하락…1,482.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260414003400002",
+      "pubDate": "Tue, 14 Apr 2026 02:51:53 +0900"
+    },
     {
       "title": "반도체·약 원료 '브롬' 중동 의존도 98%…\"공급망 대응 필요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260413021851003",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.382%",
       "link": "https://www.yna.co.kr/view/AKR20260413135900008",
       "pubDate": "Mon, 13 Apr 2026 16:41:20 +0900"
-    },
-    {
-      "title": "에이프로젠바이오로직스, 20억 유상증자…에이프로젠에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260413135700008",
-      "pubDate": "Mon, 13 Apr 2026 16:40:32 +0900"
-    },
-    {
-      "title": "[게시판] 노동부, 노동연·직능연과 정책연구 협력 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260413085100530",
-      "pubDate": "Mon, 13 Apr 2026 16:40:00 +0900"
     }
   ]
 }
