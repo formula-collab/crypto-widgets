@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776110628,
+  "updated_at_unix": 1776114681,
   "items": [
+    {
+      "title": "LH 건설공공임대 입주대기 9.3만명…입주물량은 7천600여호",
+      "link": "https://www.yna.co.kr/view/AKR20260413143300003",
+      "pubDate": "Tue, 14 Apr 2026 06:00:10 +0900"
+    },
+    {
+      "title": "[이코노워치] 신현송 한은총재 후보가 답해야할 단 하나의 질문",
+      "link": "https://www.yna.co.kr/view/AKR20260413117400546",
+      "pubDate": "Tue, 14 Apr 2026 06:00:09 +0900"
+    },
+    {
+      "title": "수입국화 유통이력관리 대상 지정…\"화훼류 공정거래 질서 확립\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413112400030",
+      "pubDate": "Tue, 14 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "석유유통협회 \"주유소 도로점용료 감면해달라\"…정부에 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260413108900003",
+      "pubDate": "Tue, 14 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금감원, 일반인 대상 'FSS금융아카데미' 개최…일반·심화 코스",
+      "link": "https://www.yna.co.kr/view/AKR20260413125100002",
+      "pubDate": "Tue, 14 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금감원, 새 회계기준 도입 영향 사전공시 모범사례 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260413122000002",
+      "pubDate": "Tue, 14 Apr 2026 06:00:06 +0900"
+    },
+    {
+      "title": "신현송 '갭투자' 11년 만에 22억↑…모친 '무상거주' 논란도",
+      "link": "https://www.yna.co.kr/view/AKR20260413149900002",
+      "pubDate": "Tue, 14 Apr 2026 05:51:01 +0900"
+    },
+    {
+      "title": "3월 석유류 물가상승률…대구·인천 11%대, 서울 7.9%",
+      "link": "https://www.yna.co.kr/view/AKR20260413132600002",
+      "pubDate": "Tue, 14 Apr 2026 05:51:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 물밑 美·이란 협상설에 상승폭 크게 축소…WTI 2.6%↑",
       "link": "https://www.yna.co.kr/view/AKR20260414004200009",
@@ -112,46 +152,6 @@
       "title": "\"중동전쟁, 건설현장에 '불가항력'\"…정부 유권해석으로 인정",
       "link": "https://www.yna.co.kr/view/AKR20260413138600003",
       "pubDate": "Mon, 13 Apr 2026 17:00:29 +0900"
-    },
-    {
-      "title": "구윤철, 뉴욕서 한국 투자설명회…G20·G7·IMFC 회의 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260413007300002",
-      "pubDate": "Mon, 13 Apr 2026 17:00:04 +0900"
-    },
-    {
-      "title": "구윤철, 폴란드 재무 만나 \"경제 전시상황\"…방산협력도 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260413119100002",
-      "pubDate": "Mon, 13 Apr 2026 17:00:02 +0900"
-    },
-    {
-      "title": "[바이오스냅] 일동제약, 연구개발 자회사 유노비아 흡수합병",
-      "link": "https://www.yna.co.kr/view/AKR20260413138800017",
-      "pubDate": "Mon, 13 Apr 2026 16:59:59 +0900"
-    },
-    {
-      "title": "'에너지 위기' 대응 코레일, 중동발 위기 관리 대책 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260413137400063",
-      "pubDate": "Mon, 13 Apr 2026 16:57:34 +0900"
-    },
-    {
-      "title": "중동 협상 결렬에 국고채 금리 일제히 상승…3년물 연 3.382%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413135951008",
-      "pubDate": "Mon, 13 Apr 2026 16:54:21 +0900"
-    },
-    {
-      "title": "정부, 기간제 개편 논의 착수…노사정 사회적 대화로 해법추진(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260413050052530",
-      "pubDate": "Mon, 13 Apr 2026 16:47:55 +0900"
-    },
-    {
-      "title": "화성시, 정부 '고유가 피해지원금' 지급 위한 TF 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260413136600061",
-      "pubDate": "Mon, 13 Apr 2026 16:46:27 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.382%",
-      "link": "https://www.yna.co.kr/view/AKR20260413135900008",
-      "pubDate": "Mon, 13 Apr 2026 16:41:20 +0900"
     }
   ]
 }
