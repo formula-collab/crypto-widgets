@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776071719,
+  "updated_at_unix": 1776077908,
   "items": [
+    {
+      "title": "아일랜드서 비전파 광우병…아일랜드산 쇠고기 수입검역 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260413159800030",
+      "pubDate": "Mon, 13 Apr 2026 19:38:25 +0900"
+    },
+    {
+      "title": "FIU, 코인원에 영업 일부정지 3개월·과태료 52억 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260413157000002",
+      "pubDate": "Mon, 13 Apr 2026 19:03:47 +0900"
+    },
+    {
+      "title": "중동 불안에 주사기·주사침 '매점매석 금지'…내일부터",
+      "link": "https://www.yna.co.kr/view/AKR20260413141100002",
+      "pubDate": "Mon, 13 Apr 2026 19:00:01 +0900"
+    },
+    {
+      "title": "상대원2구역 재개발 조합, DL이앤씨에 계약 해지 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260413156200003",
+      "pubDate": "Mon, 13 Apr 2026 18:48:57 +0900"
+    },
+    {
+      "title": "'의료용 기기 제조업' 엠비디 등 3개사 코스닥 상장예심 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260413152100008",
+      "pubDate": "Mon, 13 Apr 2026 18:38:41 +0900"
+    },
+    {
+      "title": "전쟁 여파에…편의점들, 매장용 비닐 가격 인상·발주량 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260413153100030",
+      "pubDate": "Mon, 13 Apr 2026 18:17:27 +0900"
+    },
     {
       "title": "전 인민銀 총재 \"달러 신뢰 약화, 위안화 국제화에 절호의 기회\"",
       "link": "https://www.yna.co.kr/view/AKR20260413145800083",
@@ -122,36 +152,6 @@
       "title": "Sh수협자산운용 김윤호 대표이사 선임",
       "link": "https://www.yna.co.kr/view/AKR20260413129300002",
       "pubDate": "Mon, 13 Apr 2026 16:09:30 +0900"
-    },
-    {
-      "title": "美·이란 종전협상 결렬에도 亞증시 혼조마감…TACO 학습효과?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413073851008",
-      "pubDate": "Mon, 13 Apr 2026 16:07:29 +0900"
-    },
-    {
-      "title": "롯데건설, 희망퇴직 시행…기본급 최대 30개월치 위로금 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260413128800003",
-      "pubDate": "Mon, 13 Apr 2026 16:06:56 +0900"
-    },
-    {
-      "title": "원/달러 환율 1,489.3원…미국·이란 협상 결렬에 6.8원 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260413126500002",
-      "pubDate": "Mon, 13 Apr 2026 16:01:05 +0900"
-    },
-    {
-      "title": "농식품부, '클린농촌 만들기' 본격 가동…태안서 발대식",
-      "link": "https://www.yna.co.kr/view/AKR20260413030800030",
-      "pubDate": "Mon, 13 Apr 2026 16:00:06 +0900"
-    },
-    {
-      "title": "中企 화장품 수출 3년간 연평균 23% 성장…'K뷰티 세계화 견인'",
-      "link": "https://www.yna.co.kr/view/AKR20260413102700030",
-      "pubDate": "Mon, 13 Apr 2026 16:00:03 +0900"
-    },
-    {
-      "title": "'현대차그룹 9조원 투자' 새만금에 주거·교통여건 확충",
-      "link": "https://www.yna.co.kr/view/AKR20260413106100003",
-      "pubDate": "Mon, 13 Apr 2026 16:00:02 +0900"
     }
   ]
 }
