@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776077908,
+  "updated_at_unix": 1776081665,
   "items": [
+    {
+      "title": "넥사다이내믹스 \"엘브이넥서스 주식 45억원에 취득…지분율 45%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260413161200008",
+      "pubDate": "Mon, 13 Apr 2026 19:55:50 +0900"
+    },
     {
       "title": "아일랜드서 비전파 광우병…아일랜드산 쇠고기 수입검역 중단",
       "link": "https://www.yna.co.kr/view/AKR20260413159800030",
@@ -147,11 +152,6 @@
       "title": "업비트, USDC 발행사 서클과 가상자산 시장 혁신·교육 협약",
       "link": "https://www.yna.co.kr/view/AKR20260413128500002",
       "pubDate": "Mon, 13 Apr 2026 16:09:59 +0900"
-    },
-    {
-      "title": "Sh수협자산운용 김윤호 대표이사 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260413129300002",
-      "pubDate": "Mon, 13 Apr 2026 16:09:30 +0900"
     }
   ]
 }
