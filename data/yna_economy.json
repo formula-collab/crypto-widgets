@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776117939,
+  "updated_at_unix": 1776121594,
   "items": [
+    {
+      "title": "[마켓뷰] 미·이란 협상 기대 부활에 코스피 반등할까",
+      "link": "https://www.yna.co.kr/view/AKR20260414020600008",
+      "pubDate": "Tue, 14 Apr 2026 07:57:14 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260414016200011",
+      "pubDate": "Tue, 14 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 중동발 충격: 희망봉 너머의 불안",
       "link": "https://www.yna.co.kr/view/AKR20260403126000898",
@@ -14,7 +24,7 @@
       "pubDate": "Tue, 14 Apr 2026 06:33:01 +0900"
     },
     {
-      "title": "LH 건설공공임대 입주대기 9.3만명…입주물량은 7천600여호",
+      "title": "LH 건설공공임대 입주대기 9.3만명…입주물량은 7천700여호",
       "link": "https://www.yna.co.kr/view/AKR20260413143300003",
       "pubDate": "Tue, 14 Apr 2026 06:00:10 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "롯데건설, 희망퇴직 시행…기본급 최대 30개월치 위로금 지급(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260413128851003",
       "pubDate": "Mon, 13 Apr 2026 17:31:11 +0900"
-    },
-    {
-      "title": "\"소비자, 인간 상담원엔 도덕성·AI 챗봇에는 기능성 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260413088600004",
-      "pubDate": "Mon, 13 Apr 2026 17:09:39 +0900"
-    },
-    {
-      "title": "우리은행, 김앤장·삼일PwC와 손잡고 기업승계 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260413139600002",
-      "pubDate": "Mon, 13 Apr 2026 17:02:27 +0900"
     }
   ]
 }
