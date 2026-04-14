@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776204465,
+  "updated_at_unix": 1776208026,
   "items": [
+    {
+      "title": "[2보] 3월 취업자수 20만6천명 증가…두달 연속 20만명대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260415021500002",
+      "pubDate": "Wed, 15 Apr 2026 08:00:06 +0900"
+    },
+    {
+      "title": "[1보] 3월 취업자 수 20만6천명 증가…두 달 연속 20만명대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260415019100002",
+      "pubDate": "Wed, 15 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "더블유게임즈 \"튀르키예 계열사 주식 87억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415019400008",
+      "pubDate": "Wed, 15 Apr 2026 07:38:53 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260415015700011",
+      "pubDate": "Wed, 15 Apr 2026 07:30:00 +0900"
+    },
+    {
+      "title": "ICGN 젠 시슨 대표 \"자본시장 개혁 과제는 시행력·책임성 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414161200008",
+      "pubDate": "Wed, 15 Apr 2026 07:03:02 +0900"
+    },
+    {
+      "title": "방한 ICGN 젠 시슨 대표 \"韓 자본시장 개혁 매우 인상적인 진전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414171200008",
+      "pubDate": "Wed, 15 Apr 2026 07:03:00 +0900"
+    },
     {
       "title": "정부 19개 부 중 17곳, 조직도서 공무원 실명 지웠다",
       "link": "https://www.yna.co.kr/view/AKR20260414116900030",
@@ -122,36 +152,6 @@
       "title": "중동사태에 동물병원 소모품 수급난…정부·지자체 총력 대응(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260414073151030",
       "pubDate": "Tue, 14 Apr 2026 17:23:13 +0900"
-    },
-    {
-      "title": "[현장] \"위험물질 표시도 없어\"…화재 고위험 공장 점검해보니",
-      "link": "https://www.yna.co.kr/view/AKR20260414136800052",
-      "pubDate": "Tue, 14 Apr 2026 17:21:34 +0900"
-    },
-    {
-      "title": "종전 협상 기대감에 국고채 금리↓…3년물 연 3.339%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414138151008",
-      "pubDate": "Tue, 14 Apr 2026 17:07:15 +0900"
-    },
-    {
-      "title": "현대건설, 압구정5구역 '도촬 논란' 경쟁사에 법적대응",
-      "link": "https://www.yna.co.kr/view/AKR20260414142600003",
-      "pubDate": "Tue, 14 Apr 2026 17:04:44 +0900"
-    },
-    {
-      "title": "[인사] 중소벤처기업부",
-      "link": "https://www.yna.co.kr/view/AKR20260414141500030",
-      "pubDate": "Tue, 14 Apr 2026 17:02:08 +0900"
-    },
-    {
-      "title": "엔씨소프트 \"키프로스 계열사 주식 3천190억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414142200008",
-      "pubDate": "Tue, 14 Apr 2026 17:01:56 +0900"
-    },
-    {
-      "title": "소비자원·공정위, 위생용품 용량 축소 사전 고지 협약 맺어",
-      "link": "https://www.yna.co.kr/view/AKR20260414140700030",
-      "pubDate": "Tue, 14 Apr 2026 17:01:52 +0900"
     }
   ]
 }
