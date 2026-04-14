@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776138345,
+  "updated_at_unix": 1776146033,
   "items": [
+    {
+      "title": "3월 건설사 체감경기 소폭 상승…\"회복은 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414112000003",
+      "pubDate": "Tue, 14 Apr 2026 14:48:55 +0900"
+    },
+    {
+      "title": "아성다이소 작년 매출 4조5천억원 넘어…영업이익도 4천억원대",
+      "link": "https://www.yna.co.kr/view/AKR20260414110600030",
+      "pubDate": "Tue, 14 Apr 2026 14:43:20 +0900"
+    },
+    {
+      "title": "울주군 경력단절 여성 취업 지원…가사매니저 마스터 양성교육",
+      "link": "https://www.yna.co.kr/view/AKR20260414107300057",
+      "pubDate": "Tue, 14 Apr 2026 14:43:05 +0900"
+    },
+    {
+      "title": "울주 서부장애인복지관·한국AI에듀센터, AI 활용 역량강화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260414107200057",
+      "pubDate": "Tue, 14 Apr 2026 14:39:45 +0900"
+    },
+    {
+      "title": "대구시, 건축 정책 청사진 마련 나서…AI 기반 도시 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260414110500053",
+      "pubDate": "Tue, 14 Apr 2026 14:36:45 +0900"
+    },
+    {
+      "title": "전북 공공운수노조, 후보자들에 노정·원청 교섭 실현 등 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260414109400055",
+      "pubDate": "Tue, 14 Apr 2026 14:34:35 +0900"
+    },
+    {
+      "title": "'석유가격 담합' 집중신고기간 내달 13일까지 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260414041000001",
+      "pubDate": "Tue, 14 Apr 2026 14:30:02 +0900"
+    },
+    {
+      "title": "콜마, 무역보험공사·우리은행과 1천740억원 K뷰티 금융 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260414067500030",
+      "pubDate": "Tue, 14 Apr 2026 14:30:01 +0900"
+    },
+    {
+      "title": "중동 위기속 '협력사 지킨다'…연내 10조원 무역금융 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260414106100003",
+      "pubDate": "Tue, 14 Apr 2026 14:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260414105400011",
+      "pubDate": "Tue, 14 Apr 2026 14:30:00 +0900"
+    },
+    {
+      "title": "KIST, 해병대와 손잡았다…군 수요형 국방 R&D 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260414106700017",
+      "pubDate": "Tue, 14 Apr 2026 14:28:14 +0900"
+    },
+    {
+      "title": "부산은행, 토스 앱에 전용관 개설…비대면 금융 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260414106200051",
+      "pubDate": "Tue, 14 Apr 2026 14:22:52 +0900"
+    },
+    {
+      "title": "삼성전기, 베트남에 1.8조 투자…고부가기판 생산능력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260414105800003",
+      "pubDate": "Tue, 14 Apr 2026 14:18:37 +0900"
+    },
+    {
+      "title": "\"용산은 100층인데 대덕은 7층도 못올려\"…박용갑 규제완화 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260414103600063",
+      "pubDate": "Tue, 14 Apr 2026 14:07:03 +0900"
+    },
+    {
+      "title": "\"퇴직연금, 2050년 국민연금보다 커져…최대 25% 소득대체 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414053800002",
+      "pubDate": "Tue, 14 Apr 2026 14:00:04 +0900"
+    },
+    {
+      "title": "재경차관, 재경관 영상회의…중동상황 대응 동향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260414094700002",
+      "pubDate": "Tue, 14 Apr 2026 14:00:01 +0900"
+    },
+    {
+      "title": "약가 개편 대응 비대위, '제약바이오 혁신협의체' 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260414097500017",
+      "pubDate": "Tue, 14 Apr 2026 13:49:43 +0900"
+    },
+    {
+      "title": "외국인, 코스피 3개월 만에 '사자' 전환…본격 복귀 신호탄?",
+      "link": "https://www.yna.co.kr/view/AKR20260414096800008",
+      "pubDate": "Tue, 14 Apr 2026 13:40:16 +0900"
+    },
+    {
+      "title": "외국인 관광객, 서울 넘어 지방으로…체류·소비 동반 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260414048000030",
+      "pubDate": "Tue, 14 Apr 2026 13:00:01 +0900"
+    },
+    {
+      "title": "노후계획도시 단독 주택단지도 재건축진단 완화·면제",
+      "link": "https://www.yna.co.kr/view/AKR20260414039500003",
+      "pubDate": "Tue, 14 Apr 2026 12:57:28 +0900"
+    },
+    {
+      "title": "중동전쟁에도…'석유화학산업 체질개선'은 차질없이 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260414028800003",
+      "pubDate": "Tue, 14 Apr 2026 12:42:28 +0900"
+    },
     {
       "title": "'서학개미 복귀시 양도세 면제' 환율안정 3법 국무회의 의결",
       "link": "https://www.yna.co.kr/view/AKR20260414071200001",
@@ -47,111 +152,6 @@
       "title": "중동사태에 동물병원 주사기 수급난…진료 차질·비용 인상 우려",
       "link": "https://www.yna.co.kr/view/AKR20260414073100030",
       "pubDate": "Tue, 14 Apr 2026 11:34:36 +0900"
-    },
-    {
-      "title": "거제시·한화오션·거제대·거제공고, 청년인재 육성·채용 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260414083200052",
-      "pubDate": "Tue, 14 Apr 2026 11:33:42 +0900"
-    },
-    {
-      "title": "화천군, 외국인 계절근로자 527명 배정…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260414081300062",
-      "pubDate": "Tue, 14 Apr 2026 11:28:20 +0900"
-    },
-    {
-      "title": "[게시판] 쌍용건설, '퐁피두센터 한화' 리모델링 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260414071700003",
-      "pubDate": "Tue, 14 Apr 2026 11:24:52 +0900"
-    },
-    {
-      "title": "서해선 '파주 운정역 연장' 다음 달 착공한다",
-      "link": "https://www.yna.co.kr/view/AKR20260414080800060",
-      "pubDate": "Tue, 14 Apr 2026 11:24:28 +0900"
-    },
-    {
-      "title": "서울시, 1조4천570억 추경…\"민생 위해 가용수단 총동원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413166851004",
-      "pubDate": "Tue, 14 Apr 2026 11:23:17 +0900"
-    },
-    {
-      "title": "[특징주] 호르무즈 해협 '역봉쇄'에 알루미늄 관련주 장중 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260414079800008",
-      "pubDate": "Tue, 14 Apr 2026 11:22:33 +0900"
-    },
-    {
-      "title": "이통사 해지 제한 과징금 10억→50억…위법행위 금전제재 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260414079400002",
-      "pubDate": "Tue, 14 Apr 2026 11:20:34 +0900"
-    },
-    {
-      "title": "NH농협금융, 창원에 동남권 해양·항공·방산 종합지원센터 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260414075700052",
-      "pubDate": "Tue, 14 Apr 2026 11:19:49 +0900"
-    },
-    {
-      "title": "성남시 \"재개발·재건축 정비에 2040년까지 2조원 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414075400061",
-      "pubDate": "Tue, 14 Apr 2026 11:16:42 +0900"
-    },
-    {
-      "title": "중동 리스크에 여행 판 바뀐다…국내 여행·방한 수요 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260414077700030",
-      "pubDate": "Tue, 14 Apr 2026 11:15:44 +0900"
-    },
-    {
-      "title": "JDC 신임 상임감사에 강성민 전 제주도의회 의원",
-      "link": "https://www.yna.co.kr/view/AKR20260414077200056",
-      "pubDate": "Tue, 14 Apr 2026 11:14:18 +0900"
-    },
-    {
-      "title": "정부, 정유기업 세금 납부유예…석유공사 여신한도 30억弗 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260414077500002",
-      "pubDate": "Tue, 14 Apr 2026 11:13:02 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, 생산적 금융 아카데미 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260414076900002",
-      "pubDate": "Tue, 14 Apr 2026 11:09:47 +0900"
-    },
-    {
-      "title": "제대군인고용우수기업 '인증'에서 '지정'으로 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260414074200504",
-      "pubDate": "Tue, 14 Apr 2026 11:06:11 +0900"
-    },
-    {
-      "title": "3월 ICT 수출 435억 달러 '역대 최대'…반도체가 이끌었다",
-      "link": "https://www.yna.co.kr/view/AKR20260413149300017",
-      "pubDate": "Tue, 14 Apr 2026 11:00:06 +0900"
-    },
-    {
-      "title": "손흥민·이정후, 'K김' 홍보 나선다…해수부, 美 구단 공식후원",
-      "link": "https://www.yna.co.kr/view/AKR20260414032000030",
-      "pubDate": "Tue, 14 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "정부, 중국어선 불법조업 단속 강화…봄철 한 달간 합동단속",
-      "link": "https://www.yna.co.kr/view/AKR20260414033900030",
-      "pubDate": "Tue, 14 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "기업 64% \"정부 규제합리화 노력 만족\"…최대부담 규제는 중처법",
-      "link": "https://www.yna.co.kr/view/AKR20260413148700003",
-      "pubDate": "Tue, 14 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "지난해 WTO 회원국 무역기술장벽 통보 5천건 돌파…역대 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260414030500003",
-      "pubDate": "Tue, 14 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "중동전쟁 등에 주택사업경기 침체 심화 전망…이달 지수 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260414066900003",
-      "pubDate": "Tue, 14 Apr 2026 11:00:00 +0900"
-    },
-    {
-      "title": "삼척시, 중동 상황 장기화에 따른 비상경제 대응 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260414072900062",
-      "pubDate": "Tue, 14 Apr 2026 10:54:56 +0900"
     }
   ]
 }
