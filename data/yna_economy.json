@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776193010,
+  "updated_at_unix": 1776196852,
   "items": [
+    {
+      "title": "국제유가, 미·이란 협상재개 기대감에 급락…WTI 8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260415005800072",
+      "pubDate": "Wed, 15 Apr 2026 04:29:36 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 2차 협상 임박…WTI 8% 급락하며 3주來 최저",
       "link": "https://www.yna.co.kr/view/AKR20260415004400009",
@@ -147,11 +152,6 @@
       "title": "에스바이오메딕스, 178억원 유증…동국제약 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260414132500008",
       "pubDate": "Tue, 14 Apr 2026 16:20:11 +0900"
-    },
-    {
-      "title": "[특징주] 호르무즈 해협 '역봉쇄'에 알루미늄 관련주 혼조 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414079851008",
-      "pubDate": "Tue, 14 Apr 2026 16:18:43 +0900"
     }
   ]
 }
