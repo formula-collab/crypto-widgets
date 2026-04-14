@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776178033,
+  "updated_at_unix": 1776182412,
   "items": [
+    {
+      "title": "이란전쟁發 롤러코스터 장세에 美대형은행들 1분기 '깜짝실적'",
+      "link": "https://www.yna.co.kr/view/AKR20260414174200072",
+      "pubDate": "Tue, 14 Apr 2026 23:59:12 +0900"
+    },
     {
       "title": "IMF, 韓 물가 전망치 1.8→2.5% 상향…성장전망은 1.9% 유지",
       "link": "https://www.yna.co.kr/view/AKR20260414129000002",
@@ -147,11 +152,6 @@
       "title": "우리은행, 수출기업에 3년간 3조원 생산적 금융",
       "link": "https://www.yna.co.kr/view/AKR20260414131300002",
       "pubDate": "Tue, 14 Apr 2026 16:16:04 +0900"
-    },
-    {
-      "title": "익산시, 청년기업 온라인 판로 연다…우체국쇼핑몰 입점 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260414130400055",
-      "pubDate": "Tue, 14 Apr 2026 16:12:14 +0900"
     }
   ]
 }
