@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776188306,
+  "updated_at_unix": 1776193010,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 2차 협상 임박…WTI 8% 급락하며 3주來 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260415004400009",
+      "pubDate": "Wed, 15 Apr 2026 03:49:05 +0900"
+    },
+    {
+      "title": "달러-원, 美·이란 협상 재개 기대에도 낙폭 제한…1,472.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260415003700002",
+      "pubDate": "Wed, 15 Apr 2026 02:45:35 +0900"
+    },
     {
       "title": "이란전쟁發 롤러코스터 장세에 美대형은행들 1분기 '깜짝실적'",
       "link": "https://www.yna.co.kr/view/AKR20260414174200072",
@@ -142,16 +152,6 @@
       "title": "[특징주] 호르무즈 해협 '역봉쇄'에 알루미늄 관련주 혼조 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260414079851008",
       "pubDate": "Tue, 14 Apr 2026 16:18:43 +0900"
-    },
-    {
-      "title": "복지장관 \"환시변동성 줄지 않아…국민연금 위기관리체계 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414129900530",
-      "pubDate": "Tue, 14 Apr 2026 16:16:17 +0900"
-    },
-    {
-      "title": "우리은행, 수출기업에 3년간 3조원 생산적 금융",
-      "link": "https://www.yna.co.kr/view/AKR20260414131300002",
-      "pubDate": "Tue, 14 Apr 2026 16:16:04 +0900"
     }
   ]
 }
