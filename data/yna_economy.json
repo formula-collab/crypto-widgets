@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776166413,
+  "updated_at_unix": 1776171447,
   "items": [
+    {
+      "title": "노량진 라클라체자이드파인 1순위 청약 경쟁률 26.9대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260414168400003",
+      "pubDate": "Tue, 14 Apr 2026 21:36:31 +0900"
+    },
     {
       "title": "중동 불안에…에틸렌·프로필렌 등 석화제품 '매점매석 금지'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260414158151003",
@@ -146,11 +151,6 @@
     {
       "title": "\"물티슈·생리대 꼼수 가격 인상 안하겠다\"…11개사 약속",
       "link": "https://www.yna.co.kr/view/AKR20260414055500002",
-      "pubDate": "Tue, 14 Apr 2026 16:00:01 +0900"
-    },
-    {
-      "title": "'일가정양립' 산단 중소기업으로 확산…구로·구미 등 4곳 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260414108700530",
       "pubDate": "Tue, 14 Apr 2026 16:00:01 +0900"
     }
   ]
