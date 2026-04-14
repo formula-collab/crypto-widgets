@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776150944,
+  "updated_at_unix": 1776157061,
   "items": [
+    {
+      "title": "이란의 사우디 공습에 현대건설·현대ENG 사무소 일부 파손",
+      "link": "https://www.yna.co.kr/view/AKR20260414147400003",
+      "pubDate": "Tue, 14 Apr 2026 17:27:47 +0900"
+    },
+    {
+      "title": "중동사태에 동물병원 소모품 수급난…정부·지자체 총력 대응(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414073151030",
+      "pubDate": "Tue, 14 Apr 2026 17:23:13 +0900"
+    },
+    {
+      "title": "[현장] \"위험물질 표시도 없어\"…화재 고위험 공장 점검해보니",
+      "link": "https://www.yna.co.kr/view/AKR20260414136800052",
+      "pubDate": "Tue, 14 Apr 2026 17:21:34 +0900"
+    },
+    {
+      "title": "종전 협상 기대감에 국고채 금리↓…3년물 연 3.339%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414138151008",
+      "pubDate": "Tue, 14 Apr 2026 17:07:15 +0900"
+    },
+    {
+      "title": "현대건설, 압구정5구역 '도촬 논란' 경쟁사에 법적대응",
+      "link": "https://www.yna.co.kr/view/AKR20260414142600003",
+      "pubDate": "Tue, 14 Apr 2026 17:04:44 +0900"
+    },
+    {
+      "title": "[인사] 중소벤처기업부",
+      "link": "https://www.yna.co.kr/view/AKR20260414141500030",
+      "pubDate": "Tue, 14 Apr 2026 17:02:08 +0900"
+    },
+    {
+      "title": "엔씨소프트 \"키프로스 계열사 주식 3천190억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414142200008",
+      "pubDate": "Tue, 14 Apr 2026 17:01:56 +0900"
+    },
+    {
+      "title": "소비자원·공정위, 위생용품 용량 축소 사전 고지 협약 맺어",
+      "link": "https://www.yna.co.kr/view/AKR20260414140700030",
+      "pubDate": "Tue, 14 Apr 2026 17:01:52 +0900"
+    },
+    {
+      "title": "세니젠, 100억원 유상증자…지씨파트너스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260414141900008",
+      "pubDate": "Tue, 14 Apr 2026 17:00:08 +0900"
+    },
+    {
+      "title": "송미령 장관 \"동물병원진료비 정보공개 확대…의료비 부담 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414139600030",
+      "pubDate": "Tue, 14 Apr 2026 16:59:09 +0900"
+    },
+    {
+      "title": "진원생명과학 \"계열사 동일인터라이닝에 30억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414139800008",
+      "pubDate": "Tue, 14 Apr 2026 16:52:27 +0900"
+    },
+    {
+      "title": "외국인, 코스피 3개월 만에 '사자' 전환…본격 복귀 신호탄?(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414096851008",
+      "pubDate": "Tue, 14 Apr 2026 16:49:39 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.339%",
+      "link": "https://www.yna.co.kr/view/AKR20260414138100008",
+      "pubDate": "Tue, 14 Apr 2026 16:47:54 +0900"
+    },
+    {
+      "title": "중기중앙회, 국가데이터처와 경제통계 고도화 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260414100300030",
+      "pubDate": "Tue, 14 Apr 2026 16:30:01 +0900"
+    },
+    {
+      "title": "[특징주] LS일렉트릭, 대규모 전력 인프라 수주에 52주 신고가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414050151008",
+      "pubDate": "Tue, 14 Apr 2026 16:28:58 +0900"
+    },
+    {
+      "title": "내달 서울 동작구 아크로리버스카이·써밋더힐 일반분양",
+      "link": "https://www.yna.co.kr/view/AKR20260414132800003",
+      "pubDate": "Tue, 14 Apr 2026 16:24:36 +0900"
+    },
+    {
+      "title": "에스바이오메딕스, 178억원 유증…동국제약 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260414132500008",
+      "pubDate": "Tue, 14 Apr 2026 16:20:11 +0900"
+    },
+    {
+      "title": "[특징주] 호르무즈 해협 '역봉쇄'에 알루미늄 관련주 혼조 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414079851008",
+      "pubDate": "Tue, 14 Apr 2026 16:18:43 +0900"
+    },
+    {
+      "title": "복지장관 \"환시변동성 줄지 않아…국민연금 위기관리체계 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414129900530",
+      "pubDate": "Tue, 14 Apr 2026 16:16:17 +0900"
+    },
+    {
+      "title": "우리은행, 수출기업에 3년간 3조원 생산적 금융",
+      "link": "https://www.yna.co.kr/view/AKR20260414131300002",
+      "pubDate": "Tue, 14 Apr 2026 16:16:04 +0900"
+    },
+    {
+      "title": "익산시, 청년기업 온라인 판로 연다…우체국쇼핑몰 입점 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260414130400055",
+      "pubDate": "Tue, 14 Apr 2026 16:12:14 +0900"
+    },
     {
       "title": "\"물티슈·생리대 꼼수 가격 인상 안하겠다\"…11개사 약속",
       "link": "https://www.yna.co.kr/view/AKR20260414055500002",
@@ -47,111 +152,6 @@
       "title": "외국환시세(4월14일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260414123000002",
       "pubDate": "Tue, 14 Apr 2026 15:35:27 +0900"
-    },
-    {
-      "title": "BBQ, 작년 매출 5천280억원으로 늘고 영업이익은 19% 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260414122100030",
-      "pubDate": "Tue, 14 Apr 2026 15:34:41 +0900"
-    },
-    {
-      "title": "키움證 로보어드바이저 '키움모멘텀', 1년 수익률 최고수준 기록",
-      "link": "https://www.yna.co.kr/view/AKR20260414122300008",
-      "pubDate": "Tue, 14 Apr 2026 15:34:32 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 8.1원 내린 1,481.2원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260414121600002",
-      "pubDate": "Tue, 14 Apr 2026 15:30:51 +0900"
-    },
-    {
-      "title": "NH투자, 자산 300억원 이상 '패밀리오피스' 세미나 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260414120400008",
-      "pubDate": "Tue, 14 Apr 2026 15:24:59 +0900"
-    },
-    {
-      "title": "거래소, 'ICGN 코리아콘퍼런스 2026' 개최…기업지배구조 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260414117800008",
-      "pubDate": "Tue, 14 Apr 2026 15:13:05 +0900"
-    },
-    {
-      "title": "영동군 건설공사 수의계약 논란…\"특정업체 쏠려\" vs \"억지주장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414117200064",
-      "pubDate": "Tue, 14 Apr 2026 15:12:00 +0900"
-    },
-    {
-      "title": "150조 국민성장펀드, 새만금·소버린AI 등 '2차 프로젝트' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260414109100002",
-      "pubDate": "Tue, 14 Apr 2026 15:00:01 +0900"
-    },
-    {
-      "title": "인천 '가족친화인증' 기업 288개사…시, 맞춤형 컨설팅 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260414114800065",
-      "pubDate": "Tue, 14 Apr 2026 14:59:53 +0900"
-    },
-    {
-      "title": "오산시 \"종량제봉투 충분히 확보…내달부터 구매제한 해제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414104900061",
-      "pubDate": "Tue, 14 Apr 2026 14:56:06 +0900"
-    },
-    {
-      "title": "경남경찰, 성폭력 피해 도민에 '시민안전보험' 지원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260414111000052",
-      "pubDate": "Tue, 14 Apr 2026 14:53:37 +0900"
-    },
-    {
-      "title": "코레일, 퇴직자 접촉 통제 등 전관예우 근절 대책 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260414111600063",
-      "pubDate": "Tue, 14 Apr 2026 14:52:42 +0900"
-    },
-    {
-      "title": "3월 건설사 체감경기 소폭 상승…\"회복은 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414112000003",
-      "pubDate": "Tue, 14 Apr 2026 14:48:55 +0900"
-    },
-    {
-      "title": "아성다이소 작년 매출 4조5천억원 넘어…영업이익도 4천억원대",
-      "link": "https://www.yna.co.kr/view/AKR20260414110600030",
-      "pubDate": "Tue, 14 Apr 2026 14:43:20 +0900"
-    },
-    {
-      "title": "울주군 경력단절 여성 취업 지원…가사매니저 마스터 양성교육",
-      "link": "https://www.yna.co.kr/view/AKR20260414107300057",
-      "pubDate": "Tue, 14 Apr 2026 14:43:05 +0900"
-    },
-    {
-      "title": "울주 서부장애인복지관·한국AI에듀센터, AI 활용 역량강화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260414107200057",
-      "pubDate": "Tue, 14 Apr 2026 14:39:45 +0900"
-    },
-    {
-      "title": "대구시, 건축 정책 청사진 마련 나서…AI 기반 도시 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260414110500053",
-      "pubDate": "Tue, 14 Apr 2026 14:36:45 +0900"
-    },
-    {
-      "title": "전북 공공운수노조, 후보자들에 노정·원청 교섭 실현 등 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260414109400055",
-      "pubDate": "Tue, 14 Apr 2026 14:34:35 +0900"
-    },
-    {
-      "title": "'석유가격 담합' 집중신고기간 내달 13일까지 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260414041000001",
-      "pubDate": "Tue, 14 Apr 2026 14:30:02 +0900"
-    },
-    {
-      "title": "콜마, 무역보험공사·우리은행과 1천740억원 K뷰티 금융 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260414067500030",
-      "pubDate": "Tue, 14 Apr 2026 14:30:01 +0900"
-    },
-    {
-      "title": "중동 위기속 '협력사 지킨다'…연내 10조원 무역금융 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260414106100003",
-      "pubDate": "Tue, 14 Apr 2026 14:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260414105400011",
-      "pubDate": "Tue, 14 Apr 2026 14:30:00 +0900"
     }
   ]
 }
