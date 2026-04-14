@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776196852,
+  "updated_at_unix": 1776201036,
   "items": [
+    {
+      "title": "빅테크 지고 '넥스트성장주' 뜬다…나스닥액티브ETF 수익률 20%대",
+      "link": "https://www.yna.co.kr/view/AKR20260414133200008",
+      "pubDate": "Wed, 15 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "중기부, 수출바우처 1천300억원 투입…중동 피해기업 우선 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260414136300030",
+      "pubDate": "Wed, 15 Apr 2026 06:00:14 +0900"
+    },
+    {
+      "title": "[게시판] 코트라·소진공, 소상공인 수출 지원 '맞손'…MOU 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260414140200003",
+      "pubDate": "Wed, 15 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "서울시, '스마트라이프위크' 참가 기업 9월 말까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260414167500004",
+      "pubDate": "Wed, 15 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "유가·환율 뛰자 3월 수입물가 16%↑…28년여만에 최고 상승률",
+      "link": "https://www.yna.co.kr/view/AKR20260414154100002",
+      "pubDate": "Wed, 15 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "작년 신탁재산 1천516조원으로 10%↑…증권사 수탁고 약진",
+      "link": "https://www.yna.co.kr/view/AKR20260414150000002",
+      "pubDate": "Wed, 15 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "신현송, 영국 국적 딸 한국인인 척 '불법 전입신고' 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260414154900002",
+      "pubDate": "Wed, 15 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상재개 기대감에 급락…WTI 8%↓",
       "link": "https://www.yna.co.kr/view/AKR20260415005800072",
@@ -117,41 +152,6 @@
       "title": "송미령 장관 \"동물병원진료비 정보공개 확대…의료비 부담 완화\"",
       "link": "https://www.yna.co.kr/view/AKR20260414139600030",
       "pubDate": "Tue, 14 Apr 2026 16:59:09 +0900"
-    },
-    {
-      "title": "진원생명과학 \"계열사 동일인터라이닝에 30억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260414139800008",
-      "pubDate": "Tue, 14 Apr 2026 16:52:27 +0900"
-    },
-    {
-      "title": "외국인, 코스피 3개월 만에 '사자' 전환…본격 복귀 신호탄?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414096851008",
-      "pubDate": "Tue, 14 Apr 2026 16:49:39 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.339%",
-      "link": "https://www.yna.co.kr/view/AKR20260414138100008",
-      "pubDate": "Tue, 14 Apr 2026 16:47:54 +0900"
-    },
-    {
-      "title": "중기중앙회, 국가데이터처와 경제통계 고도화 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260414100300030",
-      "pubDate": "Tue, 14 Apr 2026 16:30:01 +0900"
-    },
-    {
-      "title": "[특징주] LS일렉트릭, 대규모 전력 인프라 수주에 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414050151008",
-      "pubDate": "Tue, 14 Apr 2026 16:28:58 +0900"
-    },
-    {
-      "title": "내달 서울 동작구 아크로리버스카이·써밋더힐 일반분양",
-      "link": "https://www.yna.co.kr/view/AKR20260414132800003",
-      "pubDate": "Tue, 14 Apr 2026 16:24:36 +0900"
-    },
-    {
-      "title": "에스바이오메딕스, 178억원 유증…동국제약 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260414132500008",
-      "pubDate": "Tue, 14 Apr 2026 16:20:11 +0900"
     }
   ]
 }
