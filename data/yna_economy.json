@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776121594,
+  "updated_at_unix": 1776124990,
   "items": [
+    {
+      "title": "삼성물산, 히타치에너지와 유럽 전력망 사업 협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260414032400003",
+      "pubDate": "Tue, 14 Apr 2026 08:59:27 +0900"
+    },
+    {
+      "title": "KB운용, 배당 안정성·성장가치 추구 '새로운 고배당 펀드' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260414031600008",
+      "pubDate": "Tue, 14 Apr 2026 08:56:42 +0900"
+    },
+    {
+      "title": "[게시판] 스타벅스, 디즈니와 '토이 스토리' 협업 상품 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260414032100030",
+      "pubDate": "Tue, 14 Apr 2026 08:56:04 +0900"
+    },
+    {
+      "title": "키움證 \"종근당, 위고비 매출 외형 성장 이끌 것…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414029200008",
+      "pubDate": "Tue, 14 Apr 2026 08:48:13 +0900"
+    },
+    {
+      "title": "CJ제일제당, 푸드테크 스타트업 발굴 '프론티어랩스 6기' 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260414029100030",
+      "pubDate": "Tue, 14 Apr 2026 08:45:09 +0900"
+    },
+    {
+      "title": "한투운용 '한국투자 한미핵심성장포커스 목표전환 2호' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260414028900008",
+      "pubDate": "Tue, 14 Apr 2026 08:43:42 +0900"
+    },
+    {
+      "title": "안동 바이오산단 예타 통과…8조 경제효과·3만 고용 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260414027700053",
+      "pubDate": "Tue, 14 Apr 2026 08:42:50 +0900"
+    },
+    {
+      "title": "KB증권 \"코스피, 7,500 현실화 구간 진입…대형 우량주 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414027200008",
+      "pubDate": "Tue, 14 Apr 2026 08:37:47 +0900"
+    },
+    {
+      "title": "한투증권, HD현대마린솔루션 목표가↓…\"1분기 실적 전망 하회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414023600008",
+      "pubDate": "Tue, 14 Apr 2026 08:36:17 +0900"
+    },
+    {
+      "title": "와이즈앱 \"올리브영 앱 결제추정금액 역대 최대…19% 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414024800030",
+      "pubDate": "Tue, 14 Apr 2026 08:33:39 +0900"
+    },
+    {
+      "title": "대신證 \"한화시스템, 잠재력 높은 사업 영위…목표가 15만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414025800008",
+      "pubDate": "Tue, 14 Apr 2026 08:27:02 +0900"
+    },
+    {
+      "title": "NH투자 \"대한항공, 실적 추정치 하향…목표가는 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414024700008",
+      "pubDate": "Tue, 14 Apr 2026 08:24:09 +0900"
+    },
+    {
+      "title": "DS투자, 카카오 목표가↓…\"장기적 성장스토리 난도 높다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414024300008",
+      "pubDate": "Tue, 14 Apr 2026 08:20:31 +0900"
+    },
+    {
+      "title": "부산시, 노후계획도시 상담 미래도시지원센터 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260414020100051",
+      "pubDate": "Tue, 14 Apr 2026 08:01:13 +0900"
+    },
     {
       "title": "[마켓뷰] 미·이란 협상 기대 부활에 코스피 반등할까",
       "link": "https://www.yna.co.kr/view/AKR20260414020600008",
@@ -19,7 +89,7 @@
       "pubDate": "Tue, 14 Apr 2026 07:00:03 +0900"
     },
     {
-      "title": "디지털 약자 보호 부각…중소 게임사 \"천원 팔아도 300원 안돼\"",
+      "title": "디지털 약자 보호 시급…중소 게임사 \"천원 팔아도 300원 안돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260413146900017",
       "pubDate": "Tue, 14 Apr 2026 06:33:01 +0900"
     },
@@ -82,76 +152,6 @@
       "title": "\"지자체, 예산 따라 집행\"…노동위, 화성시 사용자성 불인정",
       "link": "https://www.yna.co.kr/view/AKR20260413166000530",
       "pubDate": "Mon, 13 Apr 2026 22:05:00 +0900"
-    },
-    {
-      "title": "서울 강동헤리티지자이 2가구 '줍줍'에 10만6천93명 몰려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413117051003",
-      "pubDate": "Mon, 13 Apr 2026 21:24:32 +0900"
-    },
-    {
-      "title": "서울 서초구 잠원동 '오티에르 반포' 1순위 청약 경쟁률 710대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260413163900003",
-      "pubDate": "Mon, 13 Apr 2026 21:14:30 +0900"
-    },
-    {
-      "title": "넥사다이내믹스 \"엘브이넥서스 주식 45억원에 취득…지분율 45%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260413161200008",
-      "pubDate": "Mon, 13 Apr 2026 19:55:50 +0900"
-    },
-    {
-      "title": "아일랜드서 비전파 광우병…아일랜드산 쇠고기 수입검역 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260413159800030",
-      "pubDate": "Mon, 13 Apr 2026 19:38:25 +0900"
-    },
-    {
-      "title": "FIU, 코인원에 영업 일부정지 3개월·과태료 52억 통보",
-      "link": "https://www.yna.co.kr/view/AKR20260413157000002",
-      "pubDate": "Mon, 13 Apr 2026 19:03:47 +0900"
-    },
-    {
-      "title": "중동 불안에 주사기·주사침 '매점매석 금지'…내일부터",
-      "link": "https://www.yna.co.kr/view/AKR20260413141100002",
-      "pubDate": "Mon, 13 Apr 2026 19:00:01 +0900"
-    },
-    {
-      "title": "상대원2구역 재개발 조합, DL이앤씨에 계약 해지 통보",
-      "link": "https://www.yna.co.kr/view/AKR20260413156200003",
-      "pubDate": "Mon, 13 Apr 2026 18:48:57 +0900"
-    },
-    {
-      "title": "'의료용 기기 제조업' 엠비디 등 3개사 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260413152100008",
-      "pubDate": "Mon, 13 Apr 2026 18:38:41 +0900"
-    },
-    {
-      "title": "전쟁 여파에…편의점들, 매장용 비닐 가격 인상·발주량 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260413153100030",
-      "pubDate": "Mon, 13 Apr 2026 18:17:27 +0900"
-    },
-    {
-      "title": "전 인민銀 총재 \"달러 신뢰 약화, 위안화 국제화에 절호의 기회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260413145800083",
-      "pubDate": "Mon, 13 Apr 2026 17:50:00 +0900"
-    },
-    {
-      "title": "'억대금품수수 의혹' 농협회장 합천 방문에 농민단체 \"사퇴하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260413145400052",
-      "pubDate": "Mon, 13 Apr 2026 17:36:16 +0900"
-    },
-    {
-      "title": "태국산 신선란, 16일부터 판매…한판 5천890원",
-      "link": "https://www.yna.co.kr/view/AKR20260413146100030",
-      "pubDate": "Mon, 13 Apr 2026 17:33:47 +0900"
-    },
-    {
-      "title": "업비트·빗썸, 서클과 업무협약…\"협력 강화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413128551002",
-      "pubDate": "Mon, 13 Apr 2026 17:31:36 +0900"
-    },
-    {
-      "title": "롯데건설, 희망퇴직 시행…기본급 최대 30개월치 위로금 지급(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260413128851003",
-      "pubDate": "Mon, 13 Apr 2026 17:31:11 +0900"
     }
   ]
 }
