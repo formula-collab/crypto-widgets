@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776161541,
+  "updated_at_unix": 1776166413,
   "items": [
+    {
+      "title": "중동 불안에…에틸렌·프로필렌 등 석화제품 '매점매석 금지'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260414158151003",
+      "pubDate": "Tue, 14 Apr 2026 19:36:03 +0900"
+    },
     {
       "title": "중동 불안에 에틸렌·프로필렌 등 석화제품 '매점매석 금지'",
       "link": "https://www.yna.co.kr/view/AKR20260414158100003",
@@ -147,11 +152,6 @@
       "title": "'일가정양립' 산단 중소기업으로 확산…구로·구미 등 4곳 지원",
       "link": "https://www.yna.co.kr/view/AKR20260414108700530",
       "pubDate": "Tue, 14 Apr 2026 16:00:01 +0900"
-    },
-    {
-      "title": "경기도일자리재단, '미래내일 일경험 지원사업' 설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260414127200061",
-      "pubDate": "Tue, 14 Apr 2026 15:59:56 +0900"
     }
   ]
 }
