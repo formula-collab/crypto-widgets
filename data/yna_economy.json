@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776248040,
+  "updated_at_unix": 1776252657,
   "items": [
+    {
+      "title": "아이티센피엔에스 \"코아솔 주식 80억원어치 취득…지분율 21%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415173800008",
+      "pubDate": "Wed, 15 Apr 2026 20:01:22 +0900"
+    },
+    {
+      "title": "신현송 \"최근 환율 상당히 높은 수준…역외 거래 영향 커\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260415082552002",
+      "pubDate": "Wed, 15 Apr 2026 19:29:03 +0900"
+    },
     {
       "title": "ETF 시가총액 '400조원' 넘어…순자산도 돌파 확실시",
       "link": "https://www.yna.co.kr/view/AKR20260415169100008",
@@ -142,16 +152,6 @@
       "title": "파월 압박?…\"미 검찰, 예고없이 연준 찾아\"",
       "link": "https://www.yna.co.kr/view/AKR20260415141800009",
       "pubDate": "Wed, 15 Apr 2026 16:37:33 +0900"
-    },
-    {
-      "title": "셀비온 250억 유증…삼호그린 2026 딥테크 창업벤처전문 사모투자 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260415148700008",
-      "pubDate": "Wed, 15 Apr 2026 16:37:14 +0900"
-    },
-    {
-      "title": "서울 집값 상승세 2개월째 둔화…강남3구 하락 전환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415088151003",
-      "pubDate": "Wed, 15 Apr 2026 16:31:32 +0900"
     }
   ]
 }
