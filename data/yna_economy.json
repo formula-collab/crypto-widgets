@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776271891,
+  "updated_at_unix": 1776275873,
   "items": [
+    {
+      "title": "달러-원, 美·이란 협상 재개 주시 속 횡보…1,475.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260416003800002",
+      "pubDate": "Thu, 16 Apr 2026 02:42:33 +0900"
+    },
     {
       "title": "S&P \"대형은행 헤지펀드 위험노출 증가…취약성 높아져\"",
       "link": "https://www.yna.co.kr/view/AKR20260416000700072",
@@ -147,11 +152,6 @@
       "title": "오늘부터 금감원 특사경에 인지수사권…검찰 고발없이 수사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260415147800002",
       "pubDate": "Wed, 15 Apr 2026 16:55:05 +0900"
-    },
-    {
-      "title": "국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출",
-      "link": "https://www.yna.co.kr/view/AKR20260415151000002",
-      "pubDate": "Wed, 15 Apr 2026 16:49:39 +0900"
     }
   ]
 }
