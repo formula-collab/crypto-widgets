@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776243471,
+  "updated_at_unix": 1776248040,
   "items": [
+    {
+      "title": "ETF 시가총액 '400조원' 넘어…순자산도 돌파 확실시",
+      "link": "https://www.yna.co.kr/view/AKR20260415169100008",
+      "pubDate": "Wed, 15 Apr 2026 18:29:50 +0900"
+    },
+    {
+      "title": "산은, 역대 최대 국민성장 정책성펀드 위탁운용사 1차 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260415166000002",
+      "pubDate": "Wed, 15 Apr 2026 18:26:51 +0900"
+    },
+    {
+      "title": "AI 금융서비스 업데이트 출시 빨라진다…당국, 절차 간소화",
+      "link": "https://www.yna.co.kr/view/AKR20260415145600002",
+      "pubDate": "Wed, 15 Apr 2026 18:05:22 +0900"
+    },
+    {
+      "title": "[동정] 최인호 HUG 사장, 서울 청년안심주택 사업장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260415162100003",
+      "pubDate": "Wed, 15 Apr 2026 18:01:10 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260415159700011",
+      "pubDate": "Wed, 15 Apr 2026 18:00:01 +0900"
+    },
+    {
+      "title": "노동부, '철강업 위기' 인천 동구 고용위기 선제대응 신규 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260415163800530",
+      "pubDate": "Wed, 15 Apr 2026 18:00:00 +0900"
+    },
     {
       "title": "박홍근 \"지출구조조정으로 50조 재원 마련\"",
       "link": "https://www.yna.co.kr/view/AKR20260415163400002",
@@ -122,36 +152,6 @@
       "title": "서울 집값 상승세 2개월째 둔화…강남3구 하락 전환(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260415088151003",
       "pubDate": "Wed, 15 Apr 2026 16:31:32 +0900"
-    },
-    {
-      "title": "\"생산 차질에 신규주문 감소\"…중동전쟁에 中企 피해 618건",
-      "link": "https://www.yna.co.kr/view/AKR20260415145300030",
-      "pubDate": "Wed, 15 Apr 2026 16:23:03 +0900"
-    },
-    {
-      "title": "3월 기준 서울 민간아파트 분양가 평당 5천490만원",
-      "link": "https://www.yna.co.kr/view/AKR20260415142900003",
-      "pubDate": "Wed, 15 Apr 2026 16:09:23 +0900"
-    },
-    {
-      "title": "이전 앞둔 경기신보, 남양주시와 '경기북부 균형발전' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260415142800061",
-      "pubDate": "Wed, 15 Apr 2026 16:07:30 +0900"
-    },
-    {
-      "title": "PFCT, 금융 특화 AI 인프라 '에어팩'으로 해외 진출 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260415141300017",
-      "pubDate": "Wed, 15 Apr 2026 16:06:22 +0900"
-    },
-    {
-      "title": "우리운용 반도체밸류체인액티브 ETF, 변동성 장세 수익률 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260415142600008",
-      "pubDate": "Wed, 15 Apr 2026 16:06:22 +0900"
-    },
-    {
-      "title": "\"전쟁 벌써 끝났나?\"…이란 사태 충격 털어낸 증시, 상승 지속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415078951008",
-      "pubDate": "Wed, 15 Apr 2026 16:01:04 +0900"
     }
   ]
 }
