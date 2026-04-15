@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776283922,
+  "updated_at_unix": 1776287443,
   "items": [
+    {
+      "title": "노동절, '대체휴일' 적용 불가…출근시 임금 최대 2.5배",
+      "link": "https://www.yna.co.kr/view/AKR20260415128800530",
+      "pubDate": "Thu, 16 Apr 2026 06:01:00 +0900"
+    },
+    {
+      "title": "외국인 지난달 주식 43.5조 순매도…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260415174800002",
+      "pubDate": "Thu, 16 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "LG화학, 올레드 소재기술 보호 '강수'…경쟁사 판매금지 청구",
+      "link": "https://www.yna.co.kr/view/AKR20260415167800003",
+      "pubDate": "Thu, 16 Apr 2026 06:00:00 +0900"
+    },
     {
       "title": "국제유가, 보합 머물러…종전협상 낙관론 속 공급 우려",
       "link": "https://www.yna.co.kr/view/AKR20260416007700072",
@@ -137,21 +152,6 @@
       "title": "[게시판] 국립조세박물관, 국세청 60주년 특별전 개관",
       "link": "https://www.yna.co.kr/view/AKR20260415143500002",
       "pubDate": "Wed, 15 Apr 2026 17:00:01 +0900"
-    },
-    {
-      "title": "올해 부자들 희망 투자처 1·2위 ETF·주식…부동산 투자 의사↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415051551002",
-      "pubDate": "Wed, 15 Apr 2026 16:59:04 +0900"
-    },
-    {
-      "title": "농협 \"벼 산업 육성환경 조성해 농가 경영 안정 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260415154100030",
-      "pubDate": "Wed, 15 Apr 2026 16:58:29 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.328%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415150251008",
-      "pubDate": "Wed, 15 Apr 2026 16:56:44 +0900"
     }
   ]
 }
