@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776280220,
+  "updated_at_unix": 1776283922,
   "items": [
+    {
+      "title": "국제유가, 보합 머물러…종전협상 낙관론 속 공급 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260416007700072",
+      "pubDate": "Thu, 16 Apr 2026 04:49:58 +0900"
+    },
     {
       "title": "[뉴욕유가] 종전 협상 낙관론 vs 美 원유재고 예상 밖 감소…WTI 보합",
       "link": "https://www.yna.co.kr/view/AKR20260416006900009",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.328%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260415150251008",
       "pubDate": "Wed, 15 Apr 2026 16:56:44 +0900"
-    },
-    {
-      "title": "투석 공백 막겠다…복지부, 전문의원 주사기 공급 핫라인 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260415152700530",
-      "pubDate": "Wed, 15 Apr 2026 16:55:55 +0900"
     }
   ]
 }
