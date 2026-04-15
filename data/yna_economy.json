@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776263171,
+  "updated_at_unix": 1776267848,
   "items": [
+    {
+      "title": "S&P \"대형은행 헤지펀드 위험노출 증가…취약성 높아져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260416000700072",
+      "pubDate": "Thu, 16 Apr 2026 00:28:00 +0900"
+    },
+    {
+      "title": "트럼프 \"연준 파월, 의장임기후 이사직 사임 안하면 해고할것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415185300071",
+      "pubDate": "Wed, 15 Apr 2026 23:47:06 +0900"
+    },
     {
       "title": "아이티센피엔에스 \"코아솔 주식 80억원어치 취득…지분율 21%\"",
       "link": "https://www.yna.co.kr/view/AKR20260415173800008",
@@ -142,16 +152,6 @@
       "title": "국민성장펀드, 네이버 AI 데이터센터에 4천억 저리대출",
       "link": "https://www.yna.co.kr/view/AKR20260415151000002",
       "pubDate": "Wed, 15 Apr 2026 16:49:39 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.328%",
-      "link": "https://www.yna.co.kr/view/AKR20260415150200008",
-      "pubDate": "Wed, 15 Apr 2026 16:40:13 +0900"
-    },
-    {
-      "title": "파월 압박?…\"미 검찰, 예고없이 연준 찾아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260415141800009",
-      "pubDate": "Wed, 15 Apr 2026 16:37:33 +0900"
     }
   ]
 }
