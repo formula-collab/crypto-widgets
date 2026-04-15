@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776290810,
+  "updated_at_unix": 1776294364,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260416017400011",
+      "pubDate": "Thu, 16 Apr 2026 07:30:01 +0900"
+    },
+    {
+      "title": "전쟁 속 수익률 상위권 휩쓴 '광통신株'…테마 넘어 실속주될까",
+      "link": "https://www.yna.co.kr/view/AKR20260415170900008",
+      "pubDate": "Thu, 16 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 중동 전쟁 속 도시 유가만 신경…아프리카 농업에 '부메랑'",
+      "link": "https://www.yna.co.kr/view/AKR20260409051200898",
+      "pubDate": "Thu, 16 Apr 2026 07:00:03 +0900"
+    },
     {
       "title": "\"서울 아파트 급매 거래 늘었다\"…3월 실거래가 잠정지수 하락",
       "link": "https://www.yna.co.kr/view/AKR20260416009600003",
@@ -137,21 +152,6 @@
       "title": "고흥 외국인 계절근로자 노동착취 적발…사업주·브로커 입건(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260415089451530",
       "pubDate": "Wed, 15 Apr 2026 17:19:23 +0900"
-    },
-    {
-      "title": "금속노조 \"현대차그룹 원청교섭 불응하면 7월 15일 총파업\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415090651004",
-      "pubDate": "Wed, 15 Apr 2026 17:04:19 +0900"
-    },
-    {
-      "title": "춘천시장 선거전 본격화…정책 경쟁 속 검증 공방 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260415154800062",
-      "pubDate": "Wed, 15 Apr 2026 17:03:16 +0900"
-    },
-    {
-      "title": "신현송 \"최근 환율 상당히 높은 수준…역외 거래 영향 커\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260415082551002",
-      "pubDate": "Wed, 15 Apr 2026 17:02:54 +0900"
     }
   ]
 }
