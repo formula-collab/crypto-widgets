@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776287443,
+  "updated_at_unix": 1776290810,
   "items": [
+    {
+      "title": "\"서울 아파트 급매 거래 늘었다\"…3월 실거래가 잠정지수 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260416009600003",
+      "pubDate": "Thu, 16 Apr 2026 06:35:28 +0900"
+    },
+    {
+      "title": "올해 주택 보유세수 1.1조원대 증가 전망…공시가격 급등 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260416013100003",
+      "pubDate": "Thu, 16 Apr 2026 06:32:44 +0900"
+    },
     {
       "title": "노동절, '대체휴일' 적용 불가…출근시 임금 최대 2.5배",
       "link": "https://www.yna.co.kr/view/AKR20260415128800530",
@@ -142,16 +152,6 @@
       "title": "신현송 \"최근 환율 상당히 높은 수준…역외 거래 영향 커\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260415082551002",
       "pubDate": "Wed, 15 Apr 2026 17:02:54 +0900"
-    },
-    {
-      "title": "송미령 농식품장관, 중동발 원자재 리스크 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260415109600030",
-      "pubDate": "Wed, 15 Apr 2026 17:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 국립조세박물관, 국세청 60주년 특별전 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260415143500002",
-      "pubDate": "Wed, 15 Apr 2026 17:00:01 +0900"
     }
   ]
 }
