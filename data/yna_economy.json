@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776208026,
+  "updated_at_unix": 1776211386,
   "items": [
+    {
+      "title": "취업자 두달째 20만명대 늘었지만…청년층 41개월째 '고용한파'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260415021551002",
+      "pubDate": "Wed, 15 Apr 2026 08:58:16 +0900"
+    },
+    {
+      "title": "스타필드 빌리지 운정, 근린시설 개장…\"172개 브랜드 입점\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415034100030",
+      "pubDate": "Wed, 15 Apr 2026 08:57:31 +0900"
+    },
+    {
+      "title": "푸디스트, '사조푸디스트'로 사명 변경…\"사업 경쟁력 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415033800030",
+      "pubDate": "Wed, 15 Apr 2026 08:55:15 +0900"
+    },
+    {
+      "title": "BBQ, 온두라스서 두 달 만에 4호점 열어…\"중남미 확장 가속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415031400030",
+      "pubDate": "Wed, 15 Apr 2026 08:47:07 +0900"
+    },
+    {
+      "title": "11번가, 6월 '징둥닷컴'에 전문관 신설…\"中 역직구 시장 공략\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415027700030",
+      "pubDate": "Wed, 15 Apr 2026 08:41:37 +0900"
+    },
+    {
+      "title": "고물가에 '벌크' 찾는 소비자…\"쓱 트레이더스 매출 38% 늘어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415026000030",
+      "pubDate": "Wed, 15 Apr 2026 08:38:49 +0900"
+    },
+    {
+      "title": "한투증권, 한화에어로 목표가 200만원으로 상향…\"해외 매출↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415025200008",
+      "pubDate": "Wed, 15 Apr 2026 08:38:08 +0900"
+    },
+    {
+      "title": "대신증권 \"한화, 밸류업 집행 의지…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415029000008",
+      "pubDate": "Wed, 15 Apr 2026 08:34:37 +0900"
+    },
+    {
+      "title": "오뚜기, 버터·스프레드 신제품 4종 출시…제품군 새단장",
+      "link": "https://www.yna.co.kr/view/AKR20260415028000030",
+      "pubDate": "Wed, 15 Apr 2026 08:34:19 +0900"
+    },
+    {
+      "title": "키움증권 \"강원랜드, 2년 호텔 공사로 매출 공백…목표가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415028500008",
+      "pubDate": "Wed, 15 Apr 2026 08:33:16 +0900"
+    },
+    {
+      "title": "다올증권 \"시프트업, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415027000008",
+      "pubDate": "Wed, 15 Apr 2026 08:25:44 +0900"
+    },
+    {
+      "title": "현대차 정몽구재단, 유엔개발계획과 임팩트 기업가 육성 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260415026400003",
+      "pubDate": "Wed, 15 Apr 2026 08:23:15 +0900"
+    },
+    {
+      "title": "IBK투자, SK하이닉스 목표가↑…\"1분기 영업익 38조4천억 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260415023900008",
+      "pubDate": "Wed, 15 Apr 2026 08:10:07 +0900"
+    },
+    {
+      "title": "부산시 잡매칭 인턴사업 추진…청년 실무경험·정규직 기회",
+      "link": "https://www.yna.co.kr/view/AKR20260415021100051",
+      "pubDate": "Wed, 15 Apr 2026 08:09:59 +0900"
+    },
+    {
+      "title": "[마켓뷰] 지속되는 미·이란 종전 협상 기대감에 코스피 6,000선 안착하나",
+      "link": "https://www.yna.co.kr/view/AKR20260415023700008",
+      "pubDate": "Wed, 15 Apr 2026 08:06:34 +0900"
+    },
+    {
+      "title": "고양시, 5월까지 체납자 건설기계 전수조사·압류 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260415022000060",
+      "pubDate": "Wed, 15 Apr 2026 08:04:47 +0900"
+    },
     {
       "title": "[2보] 3월 취업자수 20만6천명 증가…두달 연속 20만명대↑",
       "link": "https://www.yna.co.kr/view/AKR20260415021500002",
@@ -72,86 +152,6 @@
       "title": "작년 신탁재산 1천516조원으로 10%↑…증권사 수탁고 약진",
       "link": "https://www.yna.co.kr/view/AKR20260414150000002",
       "pubDate": "Wed, 15 Apr 2026 06:00:01 +0900"
-    },
-    {
-      "title": "신현송, 영국 국적 딸 한국인인 척 '불법 전입신고' 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260414154900002",
-      "pubDate": "Wed, 15 Apr 2026 05:51:01 +0900"
-    },
-    {
-      "title": "국제유가, 미·이란 협상재개 기대감에 급락…WTI 8%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260415005800072",
-      "pubDate": "Wed, 15 Apr 2026 04:29:36 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美·이란 2차 협상 임박…WTI 8% 급락하며 3주來 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260415004400009",
-      "pubDate": "Wed, 15 Apr 2026 03:49:05 +0900"
-    },
-    {
-      "title": "달러-원, 美·이란 협상 재개 기대에도 낙폭 제한…1,472.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260415003700002",
-      "pubDate": "Wed, 15 Apr 2026 02:45:35 +0900"
-    },
-    {
-      "title": "이란전쟁發 롤러코스터 장세에 美대형은행들 1분기 '깜짝실적'",
-      "link": "https://www.yna.co.kr/view/AKR20260414174200072",
-      "pubDate": "Tue, 14 Apr 2026 23:59:12 +0900"
-    },
-    {
-      "title": "IMF, 韓 물가 전망치 1.8→2.5% 상향…성장전망은 1.9% 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260414129000002",
-      "pubDate": "Tue, 14 Apr 2026 22:00:00 +0900"
-    },
-    {
-      "title": "노량진 라클라체자이드파인 1순위 청약 경쟁률 26.9대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260414168400003",
-      "pubDate": "Tue, 14 Apr 2026 21:36:31 +0900"
-    },
-    {
-      "title": "중동 불안에…에틸렌·프로필렌 등 석화제품 '매점매석 금지'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414158151003",
-      "pubDate": "Tue, 14 Apr 2026 19:36:03 +0900"
-    },
-    {
-      "title": "중동 불안에 에틸렌·프로필렌 등 석화제품 '매점매석 금지'",
-      "link": "https://www.yna.co.kr/view/AKR20260414158100003",
-      "pubDate": "Tue, 14 Apr 2026 19:00:00 +0900"
-    },
-    {
-      "title": "피플바이오, 10억원 유상증자…김민수에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260414157100008",
-      "pubDate": "Tue, 14 Apr 2026 18:56:16 +0900"
-    },
-    {
-      "title": "[동정] 해수부장관, 인천어시장 찾아 수산물 수급 동향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260414157400051",
-      "pubDate": "Tue, 14 Apr 2026 18:51:28 +0900"
-    },
-    {
-      "title": "강훈식, 중동 방문 마치고 귀국…공급망 위기 해법 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260414153700001",
-      "pubDate": "Tue, 14 Apr 2026 18:12:30 +0900"
-    },
-    {
-      "title": "중동 불안에 국민연금 해외투자 환헤지 비율 확대 조정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414129951530",
-      "pubDate": "Tue, 14 Apr 2026 18:11:34 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260414148700011",
-      "pubDate": "Tue, 14 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "이란의 사우디 공습에 현대건설 현지 사무실 일부 파손",
-      "link": "https://www.yna.co.kr/view/AKR20260414147400003",
-      "pubDate": "Tue, 14 Apr 2026 17:27:47 +0900"
-    },
-    {
-      "title": "중동사태에 동물병원 소모품 수급난…정부·지자체 총력 대응(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260414073151030",
-      "pubDate": "Tue, 14 Apr 2026 17:23:13 +0900"
     }
   ]
 }
