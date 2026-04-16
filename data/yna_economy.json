@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776375195,
+  "updated_at_unix": 1776378527,
   "items": [
+    {
+      "title": "[팩트체크] 기름값 오르면 전기차 판매 늘어날까",
+      "link": "https://www.yna.co.kr/view/AKR20260415162800518",
+      "pubDate": "Fri, 17 Apr 2026 06:30:01 +0900"
+    },
     {
       "title": "2월 국내 은행 대출 연체율 0.62%…9개월 만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260416169600002",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 사흘 만에 상승…0.4원 오른 1,474.6원",
       "link": "https://www.yna.co.kr/view/AKR20260416140000002",
       "pubDate": "Thu, 16 Apr 2026 16:18:20 +0900"
-    },
-    {
-      "title": "태백시, 태백산 일대 500억 규모 실내 스포츠타운 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260416139700062",
-      "pubDate": "Thu, 16 Apr 2026 16:16:16 +0900"
     }
   ]
 }
