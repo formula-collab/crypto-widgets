@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776358306,
+  "updated_at_unix": 1776362476,
   "items": [
+    {
+      "title": "달러-원, 美·이란 합의 신중론 속 유가 급등에 상승…1,479.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260417003300002",
+      "pubDate": "Fri, 17 Apr 2026 02:43:33 +0900"
+    },
     {
       "title": "경기 과천디에트르퍼스티지 6가구 '줍줍'에 3천300여명 신청",
       "link": "https://www.yna.co.kr/view/AKR20260416177100003",
@@ -147,11 +152,6 @@
       "title": "업무추진비도 '예금토큰'으로…세종에서 우선 추진(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260416088851002",
       "pubDate": "Thu, 16 Apr 2026 15:51:58 +0900"
-    },
-    {
-      "title": "4대그룹 총수, 李대통령 인도·베트남 순방에 경제사절단 동행",
-      "link": "https://www.yna.co.kr/view/AKR20260416135000003",
-      "pubDate": "Thu, 16 Apr 2026 15:48:14 +0900"
     }
   ]
 }
