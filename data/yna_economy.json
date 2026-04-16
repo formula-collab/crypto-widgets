@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776323831,
+  "updated_at_unix": 1776329952,
   "items": [
+    {
+      "title": "\"중복상장 원칙적 금지…예외적 경우만 허용하되 엄격한 잣대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260416047651002",
+      "pubDate": "Thu, 16 Apr 2026 17:54:16 +0900"
+    },
+    {
+      "title": "'악기 제조 70년 역사' 아이파크영창, 기업회생절차 개시 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260416159900003",
+      "pubDate": "Thu, 16 Apr 2026 17:41:25 +0900"
+    },
+    {
+      "title": "용인시, 구청별로 '안전전세 관리단' 구성 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260416148000061",
+      "pubDate": "Thu, 16 Apr 2026 17:23:38 +0900"
+    },
+    {
+      "title": "양주시 종합장사시설 건립 끝내 '무산'…주민들 유치 '철회'",
+      "link": "https://www.yna.co.kr/view/AKR20260416156200060",
+      "pubDate": "Thu, 16 Apr 2026 17:14:27 +0900"
+    },
+    {
+      "title": "임금체불 피해 외국인 계절근로자 체류자격 변경…취업길 열려",
+      "link": "https://www.yna.co.kr/view/AKR20260416152400062",
+      "pubDate": "Thu, 16 Apr 2026 17:07:27 +0900"
+    },
+    {
+      "title": "코스피 상승에도 국고채 금리↑…3년물 연 3.340%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260416147851008",
+      "pubDate": "Thu, 16 Apr 2026 17:04:46 +0900"
+    },
+    {
+      "title": "경북·전북·대구, 무주∼대구고속도로 예타 통과 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260416142800053",
+      "pubDate": "Thu, 16 Apr 2026 17:01:02 +0900"
+    },
+    {
+      "title": "첨단기술로 국가유산 새 가치 만든다…올해 160억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260416140300017",
+      "pubDate": "Thu, 16 Apr 2026 17:00:01 +0900"
+    },
+    {
+      "title": "\"청년 식품기업 매년 100개 육성\"…K푸드 창업사관학교 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260416146000030",
+      "pubDate": "Thu, 16 Apr 2026 17:00:01 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.340%",
+      "link": "https://www.yna.co.kr/view/AKR20260416147800008",
+      "pubDate": "Thu, 16 Apr 2026 16:41:11 +0900"
+    },
+    {
+      "title": "성남시, 청년 창업역량 강화 'THE 와플' 50팀 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260416144100061",
+      "pubDate": "Thu, 16 Apr 2026 16:28:55 +0900"
+    },
+    {
+      "title": "중복상장 '원칙금지'에 시장 일각서 규제 부작용 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260416136500008",
+      "pubDate": "Thu, 16 Apr 2026 16:23:06 +0900"
+    },
+    {
+      "title": "[동포의 창] 고려인協 \"고유가 지원금 제외는 명백한 차별\"…재고 청원",
+      "link": "https://www.yna.co.kr/view/AKR20260416138100371",
+      "pubDate": "Thu, 16 Apr 2026 16:21:52 +0900"
+    },
+    {
+      "title": "울산 3월 수출 9.3% 증가…석유제품·자동차 견인",
+      "link": "https://www.yna.co.kr/view/AKR20260416142000057",
+      "pubDate": "Thu, 16 Apr 2026 16:19:46 +0900"
+    },
+    {
+      "title": "원/달러 환율 사흘 만에 상승…0.4원 오른 1,474.6원",
+      "link": "https://www.yna.co.kr/view/AKR20260416140000002",
+      "pubDate": "Thu, 16 Apr 2026 16:18:20 +0900"
+    },
+    {
+      "title": "태백시, 태백산 일대 500억 규모 실내 스포츠타운 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260416139700062",
+      "pubDate": "Thu, 16 Apr 2026 16:16:16 +0900"
+    },
     {
       "title": "[특징주] 삼천당제약, 거래소 공시위원회 심의에 9% 급락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260416041451008",
@@ -72,86 +152,6 @@
       "title": "외국환시세(4월16일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260416131400002",
       "pubDate": "Thu, 16 Apr 2026 15:35:19 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.4원 오른 1,474.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260416129800002",
-      "pubDate": "Thu, 16 Apr 2026 15:30:33 +0900"
-    },
-    {
-      "title": "목포수협, 풍어제 취소하고 특별 생활안정자금 6억여원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260416124400054",
-      "pubDate": "Thu, 16 Apr 2026 15:11:22 +0900"
-    },
-    {
-      "title": "광주교통공사, 지역인재 신규직원 24명 공개채용",
-      "link": "https://www.yna.co.kr/view/AKR20260416123500054",
-      "pubDate": "Thu, 16 Apr 2026 15:05:14 +0900"
-    },
-    {
-      "title": "수은, BNK금융과 '동남권 수출기업 위기극복' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260416119300002",
-      "pubDate": "Thu, 16 Apr 2026 15:03:26 +0900"
-    },
-    {
-      "title": "평창군, 중동 상황 대응 비상경제 합동 대책회의 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260416121400062",
-      "pubDate": "Thu, 16 Apr 2026 15:02:58 +0900"
-    },
-    {
-      "title": "국제금융센터 원장에 박금철 前기재부 세제실장",
-      "link": "https://www.yna.co.kr/view/AKR20260416121000002",
-      "pubDate": "Thu, 16 Apr 2026 15:00:43 +0900"
-    },
-    {
-      "title": "주금공, 건설 금융지원 강화…보증료율 인하·특례보증 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260416117700002",
-      "pubDate": "Thu, 16 Apr 2026 14:43:30 +0900"
-    },
-    {
-      "title": "李대통령 \"韓, 선도국가 반열에…인권 등 보편가치 외면 안 돼\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260416069151001",
-      "pubDate": "Thu, 16 Apr 2026 14:40:49 +0900"
-    },
-    {
-      "title": "고병원성 AI 특별방역기간 종료…위험지역은 '심각' 단계 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260416116300030",
-      "pubDate": "Thu, 16 Apr 2026 14:36:14 +0900"
-    },
-    {
-      "title": "'신흥국 투자 개척자' 마크 모비우스 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260416103500009",
-      "pubDate": "Thu, 16 Apr 2026 14:31:21 +0900"
-    },
-    {
-      "title": "[게시판] 대구농수산물유통공사, 일자리 창출 행안부 장관 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260416113800053",
-      "pubDate": "Thu, 16 Apr 2026 14:31:15 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260416111400011",
-      "pubDate": "Thu, 16 Apr 2026 14:30:01 +0900"
-    },
-    {
-      "title": "삼성생명 \"1분기 DC형 퇴직연금 수익률 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260416112700002",
-      "pubDate": "Thu, 16 Apr 2026 14:28:37 +0900"
-    },
-    {
-      "title": "대구경북경자청 '튀르키예 무역사절단' 파견…참가 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260416112600053",
-      "pubDate": "Thu, 16 Apr 2026 14:24:15 +0900"
-    },
-    {
-      "title": "국방부-경기도, 군 소음 보상방안 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260416112300504",
-      "pubDate": "Thu, 16 Apr 2026 14:23:42 +0900"
-    },
-    {
-      "title": "김민영 예비후보 \"정읍 첨단과학단지 활성화로 지역경제 견인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260416108700055",
-      "pubDate": "Thu, 16 Apr 2026 14:22:53 +0900"
     }
   ]
 }
