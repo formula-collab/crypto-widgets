@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776339278,
+  "updated_at_unix": 1776344490,
   "items": [
+    {
+      "title": "경기 과천디에트르퍼스티지 6가구 '줍줍'에 3천300여명 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260416177100003",
+      "pubDate": "Thu, 16 Apr 2026 21:36:07 +0900"
+    },
     {
       "title": "KT&G, 1조8천억원 규모 자사주 전량 소각…\"주주가치 제고\"",
       "link": "https://www.yna.co.kr/view/AKR20260416167800030",
@@ -147,11 +152,6 @@
       "title": "4대그룹 총수, 李대통령 인도·베트남 순방에 경제사절단 동행",
       "link": "https://www.yna.co.kr/view/AKR20260416135000003",
       "pubDate": "Thu, 16 Apr 2026 15:48:14 +0900"
-    },
-    {
-      "title": "[특징주] 크래프톤, 1분기 호실적 기대감에 5% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260416043551008",
-      "pubDate": "Thu, 16 Apr 2026 15:45:26 +0900"
     }
   ]
 }
