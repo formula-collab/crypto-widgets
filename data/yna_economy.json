@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776362476,
+  "updated_at_unix": 1776368443,
   "items": [
+    {
+      "title": "국제유가, 미·이란 협상진전 신중론에 상승…브렌트 5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260417005700072",
+      "pubDate": "Fri, 17 Apr 2026 04:17:06 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 결국은 호르무즈가 열려야 하는데…WTI 4% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260417004700009",
+      "pubDate": "Fri, 17 Apr 2026 03:42:49 +0900"
+    },
     {
       "title": "달러-원, 美·이란 합의 신중론 속 유가 급등에 상승…1,479.20원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260417003300002",
@@ -142,16 +152,6 @@
       "title": "UXN, 차세대 이식형 CGM 핵심 기술 미국 특허 취득",
       "link": "https://www.yna.co.kr/view/AKR20260416136300017",
       "pubDate": "Thu, 16 Apr 2026 15:55:35 +0900"
-    },
-    {
-      "title": "신한카드, 올해 육군 부대에 '아름인도서관' 2곳 추가 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260416118100002",
-      "pubDate": "Thu, 16 Apr 2026 15:54:24 +0900"
-    },
-    {
-      "title": "업무추진비도 '예금토큰'으로…세종에서 우선 추진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260416088851002",
-      "pubDate": "Thu, 16 Apr 2026 15:51:58 +0900"
     }
   ]
 }
