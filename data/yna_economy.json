@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776329952,
+  "updated_at_unix": 1776334496,
   "items": [
+    {
+      "title": "KT&G, 1조8천억원 규모 자사주 전량 소각…\"주주가치 제고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260416167800030",
+      "pubDate": "Thu, 16 Apr 2026 18:49:43 +0900"
+    },
+    {
+      "title": "금융당국, 비영리 요양기관 종신보험 가입 현황 전수조사",
+      "link": "https://www.yna.co.kr/view/AKR20260416166400002",
+      "pubDate": "Thu, 16 Apr 2026 18:36:36 +0900"
+    },
+    {
+      "title": "\"미래에셋 스페이스X 청약 추진 관련 잇단 보도에 당국 경고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260416166100008",
+      "pubDate": "Thu, 16 Apr 2026 18:32:37 +0900"
+    },
+    {
+      "title": "국토장관, 대우건설 회장 면담…가덕도신공항 성공 노력 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260416162700003",
+      "pubDate": "Thu, 16 Apr 2026 18:20:26 +0900"
+    },
+    {
+      "title": "소금단지 속 현금다발, 내연녀 집 추적…국세청, 56명 특별승진",
+      "link": "https://www.yna.co.kr/view/AKR20260416162100002",
+      "pubDate": "Thu, 16 Apr 2026 18:17:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260416159100011",
+      "pubDate": "Thu, 16 Apr 2026 18:00:00 +0900"
+    },
     {
       "title": "\"중복상장 원칙적 금지…예외적 경우만 허용하되 엄격한 잣대\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260416047651002",
@@ -122,36 +152,6 @@
       "title": "[특징주] 크래프톤, 1분기 호실적 기대감에 5% 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260416043551008",
       "pubDate": "Thu, 16 Apr 2026 15:45:26 +0900"
-    },
-    {
-      "title": "[부산소식] 부산교육청, AI로봇과 함께 로보틱스 체험 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260416132500051",
-      "pubDate": "Thu, 16 Apr 2026 15:43:59 +0900"
-    },
-    {
-      "title": "김영록 전남지사, 17일 지사직 복귀…행정통합 전념",
-      "link": "https://www.yna.co.kr/view/AKR20260416133700054",
-      "pubDate": "Thu, 16 Apr 2026 15:43:35 +0900"
-    },
-    {
-      "title": "포천 송우2지구 상반기 착공…3천722가구 건설",
-      "link": "https://www.yna.co.kr/view/AKR20260416133400060",
-      "pubDate": "Thu, 16 Apr 2026 15:43:11 +0900"
-    },
-    {
-      "title": "산은·수은, 석유공사 석유 구입에 30억 달러 지원 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260416132600002",
-      "pubDate": "Thu, 16 Apr 2026 15:43:08 +0900"
-    },
-    {
-      "title": "올해 주택 보유세수 증가폭 1.1조원대 전망…공시가격 급등 영향(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260416013152003",
-      "pubDate": "Thu, 16 Apr 2026 15:40:32 +0900"
-    },
-    {
-      "title": "외국환시세(4월16일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260416131400002",
-      "pubDate": "Thu, 16 Apr 2026 15:35:19 +0900"
     }
   ]
 }
