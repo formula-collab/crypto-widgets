@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776371880,
+  "updated_at_unix": 1776375195,
   "items": [
+    {
+      "title": "2월 국내 은행 대출 연체율 0.62%…9개월 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260416169600002",
+      "pubDate": "Fri, 17 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "한은 \"해외투자·저축 증가에…'경상흑자=환율 하락' 공식 깨져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260416159700002",
+      "pubDate": "Fri, 17 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "신현송 英국적 딸 '韓여권 불법 재발급' 논란…출국 때 사용도",
+      "link": "https://www.yna.co.kr/view/AKR20260416168300002",
+      "pubDate": "Fri, 17 Apr 2026 05:55:00 +0900"
+    },
+    {
+      "title": "[샷!] \"의사 남편 만나는 방법 알려드려요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260414123700505",
+      "pubDate": "Fri, 17 Apr 2026 05:50:00 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상진전 신중론에 상승…브렌트 5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260417005700072",
@@ -132,26 +152,6 @@
       "title": "태백시, 태백산 일대 500억 규모 실내 스포츠타운 조성",
       "link": "https://www.yna.co.kr/view/AKR20260416139700062",
       "pubDate": "Thu, 16 Apr 2026 16:16:16 +0900"
-    },
-    {
-      "title": "[특징주] 삼천당제약, 거래소 공시위원회 심의에 9% 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260416041451008",
-      "pubDate": "Thu, 16 Apr 2026 16:03:32 +0900"
-    },
-    {
-      "title": "농식품부 \"스마트기술 도입 노지서 생산량 늘고 노동력 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260416046800030",
-      "pubDate": "Thu, 16 Apr 2026 16:00:01 +0900"
-    },
-    {
-      "title": "예별손보 공개매각 유찰…한투 단독 응찰에 재공고 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260416135300002",
-      "pubDate": "Thu, 16 Apr 2026 15:56:42 +0900"
-    },
-    {
-      "title": "UXN, 차세대 이식형 CGM 핵심 기술 미국 특허 취득",
-      "link": "https://www.yna.co.kr/view/AKR20260416136300017",
-      "pubDate": "Thu, 16 Apr 2026 15:55:35 +0900"
     }
   ]
 }
