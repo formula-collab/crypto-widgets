@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776378527,
+  "updated_at_unix": 1776380894,
   "items": [
+    {
+      "title": "[마켓뷰] 지속되는 종전 기대감에 코스피 사상 최고치 돌파할까",
+      "link": "https://www.yna.co.kr/view/AKR20260417021100008",
+      "pubDate": "Fri, 17 Apr 2026 08:05:00 +0900"
+    },
+    {
+      "title": "부산시, 제조업 성장 견인할 앵커기업 선정…최대 5억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260417020700051",
+      "pubDate": "Fri, 17 Apr 2026 08:01:57 +0900"
+    },
+    {
+      "title": "\"5월1일은 모두의 노동절\"…참여형기념식·걷기페스티벌 등 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260416149300530",
+      "pubDate": "Fri, 17 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260417015300011",
+      "pubDate": "Fri, 17 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "[팩트체크] 기름값 오르면 전기차 판매 늘어날까",
       "link": "https://www.yna.co.kr/view/AKR20260415162800518",
@@ -132,26 +152,6 @@
       "title": "성남시, 청년 창업역량 강화 'THE 와플' 50팀 모집",
       "link": "https://www.yna.co.kr/view/AKR20260416144100061",
       "pubDate": "Thu, 16 Apr 2026 16:28:55 +0900"
-    },
-    {
-      "title": "중복상장 '원칙금지'에 시장 일각서 규제 부작용 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260416136500008",
-      "pubDate": "Thu, 16 Apr 2026 16:23:06 +0900"
-    },
-    {
-      "title": "[동포의 창] 고려인協 \"고유가 지원금 제외는 명백한 차별\"…재고 청원",
-      "link": "https://www.yna.co.kr/view/AKR20260416138100371",
-      "pubDate": "Thu, 16 Apr 2026 16:21:52 +0900"
-    },
-    {
-      "title": "울산 3월 수출 9.3% 증가…석유제품·자동차 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260416142000057",
-      "pubDate": "Thu, 16 Apr 2026 16:19:46 +0900"
-    },
-    {
-      "title": "원/달러 환율 사흘 만에 상승…0.4원 오른 1,474.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260416140000002",
-      "pubDate": "Thu, 16 Apr 2026 16:18:20 +0900"
     }
   ]
 }
