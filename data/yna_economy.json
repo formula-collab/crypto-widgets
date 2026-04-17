@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776405432,
+  "updated_at_unix": 1776410679,
   "items": [
+    {
+      "title": "원/달러 환율 이틀째 상승…1,483.5원",
+      "link": "https://www.yna.co.kr/view/AKR20260417120400002",
+      "pubDate": "Fri, 17 Apr 2026 16:12:27 +0900"
+    },
+    {
+      "title": "[동정] 농식품부 차관, 농업용 필름 생산 동향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260417028500030",
+      "pubDate": "Fri, 17 Apr 2026 16:00:03 +0900"
+    },
+    {
+      "title": "마포농수산물시장, 복합시설로 재탄생…민투심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260417107800002",
+      "pubDate": "Fri, 17 Apr 2026 16:00:00 +0900"
+    },
+    {
+      "title": "농식품부, 민간동물보호소 신고제 갈등에 처벌 최소화 방안 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260417118700030",
+      "pubDate": "Fri, 17 Apr 2026 15:59:43 +0900"
+    },
+    {
+      "title": "서울 정동롯데캐슬136 도생 102가구·오피스텔 34실 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260417115200003",
+      "pubDate": "Fri, 17 Apr 2026 15:44:39 +0900"
+    },
+    {
+      "title": "[부고] 안상연(현대해상화재보험 부장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260417115700002",
+      "pubDate": "Fri, 17 Apr 2026 15:44:17 +0900"
+    },
+    {
+      "title": "반도체 호황에…충북 1분기 수출 사상 첫 100억달러 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260417112000064",
+      "pubDate": "Fri, 17 Apr 2026 15:43:33 +0900"
+    },
+    {
+      "title": "[특징주] 화장품주, 수출 성장세에 상승 마감…일부 올해 최고가 기록(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260417052951008",
+      "pubDate": "Fri, 17 Apr 2026 15:39:25 +0900"
+    },
+    {
+      "title": "해남군, 농어민 공익수당 70만원 21일부터 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260417114800054",
+      "pubDate": "Fri, 17 Apr 2026 15:39:10 +0900"
+    },
+    {
+      "title": "외국환시세(4월17일·마감가)",
+      "link": "https://www.yna.co.kr/view/AKR20260417113700002",
+      "pubDate": "Fri, 17 Apr 2026 15:37:21 +0900"
+    },
+    {
+      "title": "[특징주] 코로나19 변이 바이러스 확산에 관련株 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260417039651008",
+      "pubDate": "Fri, 17 Apr 2026 15:37:07 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 8.9원 오른 1,483.5원(15:30 종가)",
+      "link": "https://www.yna.co.kr/view/AKR20260417111400002",
+      "pubDate": "Fri, 17 Apr 2026 15:31:00 +0900"
+    },
+    {
+      "title": "광주 소매유통업 체감경기 소폭 반등…여전히 기준치 밑돌아",
+      "link": "https://www.yna.co.kr/view/AKR20260417108100054",
+      "pubDate": "Fri, 17 Apr 2026 15:12:44 +0900"
+    },
+    {
+      "title": "오산시, 기획예산처에 '분당선 연장' 예타 대상 조속 선정 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260417107000061",
+      "pubDate": "Fri, 17 Apr 2026 15:05:57 +0900"
+    },
+    {
+      "title": "충북경찰, QR코드 활용 보이스피싱 예방 활동 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260417103700064",
+      "pubDate": "Fri, 17 Apr 2026 15:02:03 +0900"
+    },
+    {
+      "title": "2월 국내은행 중소법인 등 대출 연체율 9개월 만에 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260416169651002",
+      "pubDate": "Fri, 17 Apr 2026 15:01:51 +0900"
+    },
+    {
+      "title": "거래소 노조 \"파생상품시장본부장에 낙하산 인사 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417103500051",
+      "pubDate": "Fri, 17 Apr 2026 15:01:15 +0900"
+    },
+    {
+      "title": "전북 건설단체, 국토부 장관에 '도로·새만금사업 확대' 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260417104300055",
+      "pubDate": "Fri, 17 Apr 2026 15:00:21 +0900"
+    },
     {
       "title": "농협 개혁 추진단, 3개 분과 구성…2단계 개혁 논의 착수",
       "link": "https://www.yna.co.kr/view/AKR20260417100000030",
@@ -62,96 +152,6 @@
       "title": "조이웍스앤코, 주당 3.0주 무상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260417093700008",
       "pubDate": "Fri, 17 Apr 2026 14:01:08 +0900"
-    },
-    {
-      "title": "중기중앙회, 中企·협동조합 대상 납품대금 연동제 활용 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260417043700030",
-      "pubDate": "Fri, 17 Apr 2026 14:00:06 +0900"
-    },
-    {
-      "title": "이억원 \"철강, 후방산업까지 연쇄 우려…대출·채권 등 3종지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417041500002",
-      "pubDate": "Fri, 17 Apr 2026 14:00:04 +0900"
-    },
-    {
-      "title": "구윤철 \"G20 차원서 공급망 안정·경제회복 해법 모색해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417091600002",
-      "pubDate": "Fri, 17 Apr 2026 14:00:00 +0900"
-    },
-    {
-      "title": "검찰, 치킨 기름 공급사 유통마진 일방적 인하한 교촌 기소",
-      "link": "https://www.yna.co.kr/view/AKR20260417091300061",
-      "pubDate": "Fri, 17 Apr 2026 13:55:12 +0900"
-    },
-    {
-      "title": "[목포소식] 상의, 목포해경 구명조끼 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260417089100054",
-      "pubDate": "Fri, 17 Apr 2026 13:41:12 +0900"
-    },
-    {
-      "title": "이달 금리 결정 앞둔 日중앙은행 총재 \"실질금리 낮아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417081600073",
-      "pubDate": "Fri, 17 Apr 2026 12:25:41 +0900"
-    },
-    {
-      "title": "올해 국가공무원 5·7급 민간 경력자 233명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260417024500001",
-      "pubDate": "Fri, 17 Apr 2026 12:00:03 +0900"
-    },
-    {
-      "title": "[게시판] 국세청-국회입법조사처, '불평등 지수' MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260417050700002",
-      "pubDate": "Fri, 17 Apr 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.366%",
-      "link": "https://www.yna.co.kr/view/AKR20260417077300008",
-      "pubDate": "Fri, 17 Apr 2026 11:55:13 +0900"
-    },
-    {
-      "title": "해킹 위협 증가에…금융보안원, 'AI 보안 전문인력 양성' 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260417076800002",
-      "pubDate": "Fri, 17 Apr 2026 11:44:51 +0900"
-    },
-    {
-      "title": "中, 은행 해외대출 한도 3배 상향…기업 지원·위안화 안정 포석",
-      "link": "https://www.yna.co.kr/view/AKR20260417071300083",
-      "pubDate": "Fri, 17 Apr 2026 11:22:26 +0900"
-    },
-    {
-      "title": "[게시판] LH, 공공기관 자회사 운영 실태 평가 2년 연속 최고등급",
-      "link": "https://www.yna.co.kr/view/AKR20260417071800003",
-      "pubDate": "Fri, 17 Apr 2026 11:19:43 +0900"
-    },
-    {
-      "title": "키움증권, '키움 디지털 아카데미' 3기 성료",
-      "link": "https://www.yna.co.kr/view/AKR20260417071700008",
-      "pubDate": "Fri, 17 Apr 2026 11:17:31 +0900"
-    },
-    {
-      "title": "인천시, 세계 최대 크루즈박람회 참가…글로벌시장 공략 박차",
-      "link": "https://www.yna.co.kr/view/AKR20260417068800065",
-      "pubDate": "Fri, 17 Apr 2026 11:07:05 +0900"
-    },
-    {
-      "title": "팔도·hy '아리', BTS 월드투어 '아리랑' 메인 스폰서 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260417068000030",
-      "pubDate": "Fri, 17 Apr 2026 11:03:59 +0900"
-    },
-    {
-      "title": "거래소, 상장폐지 규정 개정안 재예고…동전주 우회방지 손질",
-      "link": "https://www.yna.co.kr/view/AKR20260417065200008",
-      "pubDate": "Fri, 17 Apr 2026 11:02:35 +0900"
-    },
-    {
-      "title": "국제원예치유박람회 D-8일…태안군 막바지 점검 박차",
-      "link": "https://www.yna.co.kr/view/AKR20260417067200063",
-      "pubDate": "Fri, 17 Apr 2026 11:01:45 +0900"
-    },
-    {
-      "title": "한-EU, 공급망·첨단기술 협력 격상…전략경제파트너십 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260417061400003",
-      "pubDate": "Fri, 17 Apr 2026 11:00:01 +0900"
     }
   ]
 }
