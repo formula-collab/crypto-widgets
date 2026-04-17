@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776458018,
+  "updated_at_unix": 1776461508,
   "items": [
+    {
+      "title": "기초연금 수급자라면…통신비 할인과 일자리 등 혜택 챙겨야",
+      "link": "https://www.yna.co.kr/view/AKR20260417101400530",
+      "pubDate": "Sat, 18 Apr 2026 06:11:01 +0900"
+    },
+    {
+      "title": "방미 구윤철 \"韓경제에 대한 국제사회 기대·관심 높아짐 느껴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418010200071",
+      "pubDate": "Sat, 18 Apr 2026 06:04:53 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 봄 이사철에 분양도 활짝…내주 전국 8천400여가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260417132800003",
+      "pubDate": "Sat, 18 Apr 2026 06:00:00 +0900"
+    },
     {
       "title": "국제유가, 이란 호르무즈 통항 허용에 급락…WTI 11%↓",
       "link": "https://www.yna.co.kr/view/AKR20260418006700072",
@@ -137,21 +152,6 @@
       "title": "[특징주] 화장품주, 수출 성장세에 상승 마감…일부 올해 최고가 기록(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260417052951008",
       "pubDate": "Fri, 17 Apr 2026 15:39:25 +0900"
-    },
-    {
-      "title": "해남군, 농어민 공익수당 70만원 21일부터 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260417114800054",
-      "pubDate": "Fri, 17 Apr 2026 15:39:10 +0900"
-    },
-    {
-      "title": "외국환시세(4월17일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260417113700002",
-      "pubDate": "Fri, 17 Apr 2026 15:37:21 +0900"
-    },
-    {
-      "title": "[특징주] 코로나19 변이 바이러스 확산에 관련株 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260417039651008",
-      "pubDate": "Fri, 17 Apr 2026 15:37:07 +0900"
     }
   ]
 }
