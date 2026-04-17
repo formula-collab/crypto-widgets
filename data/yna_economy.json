@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776397710,
+  "updated_at_unix": 1776405432,
   "items": [
+    {
+      "title": "농협 개혁 추진단, 3개 분과 구성…2단계 개혁 논의 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260417100000030",
+      "pubDate": "Fri, 17 Apr 2026 14:49:38 +0900"
+    },
+    {
+      "title": "[보성소식] 봇재 그린다향, 한국소비자산업평가 '우수'",
+      "link": "https://www.yna.co.kr/view/AKR20260417103200054",
+      "pubDate": "Fri, 17 Apr 2026 14:49:12 +0900"
+    },
+    {
+      "title": "정부, 공보의 급감에 취약지 의료공백 대응 점검…\"신속 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417097500002",
+      "pubDate": "Fri, 17 Apr 2026 14:45:35 +0900"
+    },
+    {
+      "title": "안성시, 18일부터 농업인 직거래 새벽시장 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260417101500061",
+      "pubDate": "Fri, 17 Apr 2026 14:41:48 +0900"
+    },
+    {
+      "title": "은평구, 2026 일자리대책 수립…\"1만4천여개 창출 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417101600004",
+      "pubDate": "Fri, 17 Apr 2026 14:41:23 +0900"
+    },
+    {
+      "title": "소비자원, 집단소송 '소급 찬성'으로 선회…\"정보유출 피해구제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417099200030",
+      "pubDate": "Fri, 17 Apr 2026 14:38:33 +0900"
+    },
+    {
+      "title": "울산교육청 2차 추경 1천100억여원 편성…\"교육복지·시설개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417100800057",
+      "pubDate": "Fri, 17 Apr 2026 14:37:53 +0900"
+    },
+    {
+      "title": "익산시, 고유가 피해지원금 15만∼60만원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260417098100055",
+      "pubDate": "Fri, 17 Apr 2026 14:32:49 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260417095800011",
+      "pubDate": "Fri, 17 Apr 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[게시판] 주거복지포럼, 국토부·LH와 주거복지 활성화 워크숍",
+      "link": "https://www.yna.co.kr/view/AKR20260417085200003",
+      "pubDate": "Fri, 17 Apr 2026 14:18:44 +0900"
+    },
+    {
+      "title": "광명시-재개발조합, 돌봄센터 무상임대 맞손…하반기 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260417035200061",
+      "pubDate": "Fri, 17 Apr 2026 14:15:11 +0900"
+    },
+    {
+      "title": "조이웍스앤코, 주당 3.0주 무상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260417093700008",
+      "pubDate": "Fri, 17 Apr 2026 14:01:08 +0900"
+    },
+    {
+      "title": "중기중앙회, 中企·협동조합 대상 납품대금 연동제 활용 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260417043700030",
+      "pubDate": "Fri, 17 Apr 2026 14:00:06 +0900"
+    },
+    {
+      "title": "이억원 \"철강, 후방산업까지 연쇄 우려…대출·채권 등 3종지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417041500002",
+      "pubDate": "Fri, 17 Apr 2026 14:00:04 +0900"
+    },
+    {
+      "title": "구윤철 \"G20 차원서 공급망 안정·경제회복 해법 모색해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417091600002",
+      "pubDate": "Fri, 17 Apr 2026 14:00:00 +0900"
+    },
+    {
+      "title": "검찰, 치킨 기름 공급사 유통마진 일방적 인하한 교촌 기소",
+      "link": "https://www.yna.co.kr/view/AKR20260417091300061",
+      "pubDate": "Fri, 17 Apr 2026 13:55:12 +0900"
+    },
+    {
+      "title": "[목포소식] 상의, 목포해경 구명조끼 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260417089100054",
+      "pubDate": "Fri, 17 Apr 2026 13:41:12 +0900"
+    },
     {
       "title": "이달 금리 결정 앞둔 日중앙은행 총재 \"실질금리 낮아\"",
       "link": "https://www.yna.co.kr/view/AKR20260417081600073",
@@ -67,91 +152,6 @@
       "title": "한-EU, 공급망·첨단기술 협력 격상…전략경제파트너십 제안",
       "link": "https://www.yna.co.kr/view/AKR20260417061400003",
       "pubDate": "Fri, 17 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "남산숲세권 '신당9구역' 정비계획변경 확정…최고 15층 504세대",
-      "link": "https://www.yna.co.kr/view/AKR20260417066100004",
-      "pubDate": "Fri, 17 Apr 2026 10:57:26 +0900"
-    },
-    {
-      "title": "제주 '고유가 피해지원금' 대상 47만7천명…1인당 15만∼60만원",
-      "link": "https://www.yna.co.kr/view/AKR20260417066400056",
-      "pubDate": "Fri, 17 Apr 2026 10:57:17 +0900"
-    },
-    {
-      "title": "한 달 만에 경고 수위 높인 정부 \"중동발 경기 하방 위험 커져\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260417040051002",
-      "pubDate": "Fri, 17 Apr 2026 10:56:38 +0900"
-    },
-    {
-      "title": "대전TP·나노종기원, 반도체·바이오 융합 지역 소부장 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260417059100063",
-      "pubDate": "Fri, 17 Apr 2026 10:45:27 +0900"
-    },
-    {
-      "title": "메리츠증권, 코스피200 단일 기초자산 '슈퍼 ELS' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260417059500008",
-      "pubDate": "Fri, 17 Apr 2026 10:31:10 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행, 강소기업 금융 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260417058600002",
-      "pubDate": "Fri, 17 Apr 2026 10:30:48 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260417055100011",
-      "pubDate": "Fri, 17 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "부산은행, 코스피200지수 연동 정기예금 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260417057800051",
-      "pubDate": "Fri, 17 Apr 2026 10:27:27 +0900"
-    },
-    {
-      "title": "한국투자공사 주재현 투자관리부문장 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260417055000002",
-      "pubDate": "Fri, 17 Apr 2026 10:25:30 +0900"
-    },
-    {
-      "title": "삼양식품, 미국서 '불닭' 결합 데이팅 리얼리티 쇼 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260417055200030",
-      "pubDate": "Fri, 17 Apr 2026 10:21:01 +0900"
-    },
-    {
-      "title": "[K-VIBE] 전태수의 '웹 3.0' 이야기…전쟁에도 오르는 코스피, 그 이유",
-      "link": "https://www.yna.co.kr/view/AKR20260417049400371",
-      "pubDate": "Fri, 17 Apr 2026 10:17:16 +0900"
-    },
-    {
-      "title": "코웨이, 스트레칭 기능 결합 모션베드 '비렉스 R시리즈' 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260417054000030",
-      "pubDate": "Fri, 17 Apr 2026 10:13:48 +0900"
-    },
-    {
-      "title": "[게시판] 황기연 수은 행장, 청소년 불법도박 근절 캠페인 동참",
-      "link": "https://www.yna.co.kr/view/AKR20260417052100002",
-      "pubDate": "Fri, 17 Apr 2026 10:13:26 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주, 美·유럽 중심 수출 성장세에 장초반 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260417052900008",
-      "pubDate": "Fri, 17 Apr 2026 10:11:36 +0900"
-    },
-    {
-      "title": "한화운용 테슬라위클리커버드콜채권혼합 ETF 분배금 180원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260417052300008",
-      "pubDate": "Fri, 17 Apr 2026 10:08:16 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260417051300002",
-      "pubDate": "Fri, 17 Apr 2026 10:03:55 +0900"
-    },
-    {
-      "title": "DL이앤씨, 4천억원 규모 코리안리 신사옥 건립공사 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260417050100003",
-      "pubDate": "Fri, 17 Apr 2026 10:02:33 +0900"
     }
   ]
 }
