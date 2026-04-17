@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776464817,
+  "updated_at_unix": 1776467207,
   "items": [
+    {
+      "title": "부산 아파트값 보합세…전셋값은 21개월째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260417108700051",
+      "pubDate": "Sat, 18 Apr 2026 08:00:06 +0900"
+    },
     {
       "title": "[신상잇슈] 농심 '빵부장 솔티꽈배기'·파리바게뜨 '베리밤 팥빙수'",
       "link": "https://www.yna.co.kr/view/AKR20260417072300030",
@@ -147,11 +152,6 @@
       "title": "서울 정동롯데캐슬136 도생 102가구·오피스텔 34실 분양",
       "link": "https://www.yna.co.kr/view/AKR20260417115200003",
       "pubDate": "Fri, 17 Apr 2026 15:44:39 +0900"
-    },
-    {
-      "title": "[부고] 안상연(현대해상화재보험 부장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260417115700002",
-      "pubDate": "Fri, 17 Apr 2026 15:44:17 +0900"
     }
   ]
 }
