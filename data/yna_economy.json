@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776461508,
+  "updated_at_unix": 1776464817,
   "items": [
+    {
+      "title": "[신상잇슈] 농심 '빵부장 솔티꽈배기'·파리바게뜨 '베리밤 팥빙수'",
+      "link": "https://www.yna.co.kr/view/AKR20260417072300030",
+      "pubDate": "Sat, 18 Apr 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[금주핫템]던스트 '얼리 써머' 컬렉션·이세이 미야케 캠퍼협업 슈즈",
+      "link": "https://www.yna.co.kr/view/AKR20260417100200030",
+      "pubDate": "Sat, 18 Apr 2026 07:00:02 +0900"
+    },
     {
       "title": "기초연금 수급자라면…통신비 할인과 일자리 등 혜택 챙겨야",
       "link": "https://www.yna.co.kr/view/AKR20260417101400530",
@@ -142,16 +152,6 @@
       "title": "[부고] 안상연(현대해상화재보험 부장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260417115700002",
       "pubDate": "Fri, 17 Apr 2026 15:44:17 +0900"
-    },
-    {
-      "title": "반도체 호황에…충북 1분기 수출 사상 첫 100억달러 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260417112000064",
-      "pubDate": "Fri, 17 Apr 2026 15:43:33 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주, 수출 성장세에 상승 마감…일부 올해 최고가 기록(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260417052951008",
-      "pubDate": "Fri, 17 Apr 2026 15:39:25 +0900"
     }
   ]
 }
