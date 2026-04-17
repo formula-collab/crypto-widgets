@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776380894,
+  "updated_at_unix": 1776384091,
   "items": [
+    {
+      "title": "키움증권 \"HD현대중, 올해 수주목표 초과 달성 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417028000008",
+      "pubDate": "Fri, 17 Apr 2026 08:47:46 +0900"
+    },
+    {
+      "title": "대신증권 \"LS에코에너지, 신사업 성장 가시화…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417026100008",
+      "pubDate": "Fri, 17 Apr 2026 08:33:17 +0900"
+    },
+    {
+      "title": "메리츠증권 \"하이브, 2분기부터 실적 개선…목표가는 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417023700008",
+      "pubDate": "Fri, 17 Apr 2026 08:32:46 +0900"
+    },
+    {
+      "title": "구윤철 \"이달말 차량용 요소·요소수 방출…선제 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417014900002",
+      "pubDate": "Fri, 17 Apr 2026 08:30:01 +0900"
+    },
+    {
+      "title": "롯데글로벌로지스-NS홈쇼핑 업무협약…직택배·비규격택배 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260417024700030",
+      "pubDate": "Fri, 17 Apr 2026 08:29:56 +0900"
+    },
+    {
+      "title": "한화증권 \"S-Oil, 유가 상승에 1분기 호실적 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417023500008",
+      "pubDate": "Fri, 17 Apr 2026 08:21:13 +0900"
+    },
+    {
+      "title": "무신사, 서울숲에 편집숍 2곳 동시 개점…상권 활성화 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260417023600030",
+      "pubDate": "Fri, 17 Apr 2026 08:16:05 +0900"
+    },
     {
       "title": "[마켓뷰] 지속되는 종전 기대감에 코스피 사상 최고치 돌파할까",
       "link": "https://www.yna.co.kr/view/AKR20260417021100008",
@@ -117,41 +152,6 @@
       "title": "양주시 종합장사시설 건립 끝내 '무산'…주민들 유치 '철회'",
       "link": "https://www.yna.co.kr/view/AKR20260416156200060",
       "pubDate": "Thu, 16 Apr 2026 17:14:27 +0900"
-    },
-    {
-      "title": "임금체불 피해 외국인 계절근로자 체류자격 변경…취업길 열려",
-      "link": "https://www.yna.co.kr/view/AKR20260416152400062",
-      "pubDate": "Thu, 16 Apr 2026 17:07:27 +0900"
-    },
-    {
-      "title": "코스피 상승에도 국고채 금리↑…3년물 연 3.340%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260416147851008",
-      "pubDate": "Thu, 16 Apr 2026 17:04:46 +0900"
-    },
-    {
-      "title": "경북·전북·대구, 무주∼대구고속도로 예타 통과 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260416142800053",
-      "pubDate": "Thu, 16 Apr 2026 17:01:02 +0900"
-    },
-    {
-      "title": "첨단기술로 국가유산 새 가치 만든다…올해 160억원 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260416140300017",
-      "pubDate": "Thu, 16 Apr 2026 17:00:01 +0900"
-    },
-    {
-      "title": "\"청년 식품기업 매년 100개 육성\"…K푸드 창업사관학교 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260416146000030",
-      "pubDate": "Thu, 16 Apr 2026 17:00:01 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.340%",
-      "link": "https://www.yna.co.kr/view/AKR20260416147800008",
-      "pubDate": "Thu, 16 Apr 2026 16:41:11 +0900"
-    },
-    {
-      "title": "성남시, 청년 창업역량 강화 'THE 와플' 50팀 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260416144100061",
-      "pubDate": "Thu, 16 Apr 2026 16:28:55 +0900"
     }
   ]
 }
