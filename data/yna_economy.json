@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776410679,
+  "updated_at_unix": 1776416271,
   "items": [
+    {
+      "title": "[부고] 곽대현(키움증권 PR팀 이사)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260417138400008",
+      "pubDate": "Fri, 17 Apr 2026 17:34:04 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.371%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260417129251008",
+      "pubDate": "Fri, 17 Apr 2026 17:04:37 +0900"
+    },
+    {
+      "title": "행안부·금융기관, 고유가 피해지원금 신속·안정 지급위해 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260417078400530",
+      "pubDate": "Fri, 17 Apr 2026 17:00:02 +0900"
+    },
+    {
+      "title": "작년 건설현장 붕괴 28명 사망…노동부, 전국 릴레이 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260417101700530",
+      "pubDate": "Fri, 17 Apr 2026 17:00:01 +0900"
+    },
+    {
+      "title": "강원도, 미분양 아파트 취득세 50% 감면…'도세 감면 조례' 개정",
+      "link": "https://www.yna.co.kr/view/AKR20260417126100062",
+      "pubDate": "Fri, 17 Apr 2026 16:51:11 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.371%",
+      "link": "https://www.yna.co.kr/view/AKR20260417129200008",
+      "pubDate": "Fri, 17 Apr 2026 16:40:38 +0900"
+    },
+    {
+      "title": "새출발기금 신청자 19만명…채무액 30조원 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260417126700002",
+      "pubDate": "Fri, 17 Apr 2026 16:33:27 +0900"
+    },
+    {
+      "title": "큐로셀 360억 유증…에이티넘성장투자조합 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260417126300008",
+      "pubDate": "Fri, 17 Apr 2026 16:31:24 +0900"
+    },
+    {
+      "title": "롯데카드, 홈플러스 채권 793억 추정손실 처리…\"리스크 관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417125900002",
+      "pubDate": "Fri, 17 Apr 2026 16:31:11 +0900"
+    },
+    {
+      "title": "'우주 관련 美민간기업 투자' 등 ETF 4종, 21일 신규상장",
+      "link": "https://www.yna.co.kr/view/AKR20260417123600008",
+      "pubDate": "Fri, 17 Apr 2026 16:29:06 +0900"
+    },
+    {
+      "title": "재경위, 신현송 청문보고서 채택 또 불발…野 \"장녀 불법 확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417124400001",
+      "pubDate": "Fri, 17 Apr 2026 16:27:59 +0900"
+    },
     {
       "title": "원/달러 환율 이틀째 상승…1,483.5원",
       "link": "https://www.yna.co.kr/view/AKR20260417120400002",
@@ -97,61 +152,6 @@
       "title": "농협 개혁 추진단, 3개 분과 구성…2단계 개혁 논의 착수",
       "link": "https://www.yna.co.kr/view/AKR20260417100000030",
       "pubDate": "Fri, 17 Apr 2026 14:49:38 +0900"
-    },
-    {
-      "title": "[보성소식] 봇재 그린다향, 한국소비자산업평가 '우수'",
-      "link": "https://www.yna.co.kr/view/AKR20260417103200054",
-      "pubDate": "Fri, 17 Apr 2026 14:49:12 +0900"
-    },
-    {
-      "title": "정부, 공보의 급감에 취약지 의료공백 대응 점검…\"신속 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417097500002",
-      "pubDate": "Fri, 17 Apr 2026 14:45:35 +0900"
-    },
-    {
-      "title": "안성시, 18일부터 농업인 직거래 새벽시장 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260417101500061",
-      "pubDate": "Fri, 17 Apr 2026 14:41:48 +0900"
-    },
-    {
-      "title": "은평구, 2026 일자리대책 수립…\"1만4천여개 창출 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417101600004",
-      "pubDate": "Fri, 17 Apr 2026 14:41:23 +0900"
-    },
-    {
-      "title": "소비자원, 집단소송 '소급 찬성'으로 선회…\"정보유출 피해구제\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417099200030",
-      "pubDate": "Fri, 17 Apr 2026 14:38:33 +0900"
-    },
-    {
-      "title": "울산교육청 2차 추경 1천100억여원 편성…\"교육복지·시설개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417100800057",
-      "pubDate": "Fri, 17 Apr 2026 14:37:53 +0900"
-    },
-    {
-      "title": "익산시, 고유가 피해지원금 15만∼60만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260417098100055",
-      "pubDate": "Fri, 17 Apr 2026 14:32:49 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260417095800011",
-      "pubDate": "Fri, 17 Apr 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 주거복지포럼, 국토부·LH와 주거복지 활성화 워크숍",
-      "link": "https://www.yna.co.kr/view/AKR20260417085200003",
-      "pubDate": "Fri, 17 Apr 2026 14:18:44 +0900"
-    },
-    {
-      "title": "광명시-재개발조합, 돌봄센터 무상임대 맞손…하반기 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260417035200061",
-      "pubDate": "Fri, 17 Apr 2026 14:15:11 +0900"
-    },
-    {
-      "title": "조이웍스앤코, 주당 3.0주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260417093700008",
-      "pubDate": "Fri, 17 Apr 2026 14:01:08 +0900"
     }
   ]
 }
