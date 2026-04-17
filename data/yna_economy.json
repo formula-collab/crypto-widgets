@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776447544,
+  "updated_at_unix": 1776451267,
   "items": [
+    {
+      "title": "달러-원, '호르무즈 개방'에 유가 따라 급락…1,460.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260418003800002",
+      "pubDate": "Sat, 18 Apr 2026 02:44:03 +0900"
+    },
     {
       "title": "국제유가, 이란 호르무즈 일시개방에 급락세…브렌트유 10%↓",
       "link": "https://www.yna.co.kr/view/AKR20260417161100072",
@@ -147,11 +152,6 @@
       "title": "광주 소매유통업 체감경기 소폭 반등…여전히 기준치 밑돌아",
       "link": "https://www.yna.co.kr/view/AKR20260417108100054",
       "pubDate": "Fri, 17 Apr 2026 15:12:44 +0900"
-    },
-    {
-      "title": "오산시, 기획예산처에 '분당선 연장' 예타 대상 조속 선정 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260417107000061",
-      "pubDate": "Fri, 17 Apr 2026 15:05:57 +0900"
     }
   ]
 }
