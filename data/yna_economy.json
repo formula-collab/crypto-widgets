@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776451267,
+  "updated_at_unix": 1776455410,
   "items": [
+    {
+      "title": "국제유가, 이란 호르무즈 통항 허용에 급락…WTI 11%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260418006700072",
+      "pubDate": "Sat, 18 Apr 2026 04:25:08 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 호르무즈 해협 봉쇄 푼 이란…WTI 11% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260418005800009",
+      "pubDate": "Sat, 18 Apr 2026 03:52:39 +0900"
+    },
     {
       "title": "달러-원, '호르무즈 개방'에 유가 따라 급락…1,460.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260418003800002",
@@ -142,16 +152,6 @@
       "title": "[특징주] 코로나19 변이 바이러스 확산에 관련株 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260417039651008",
       "pubDate": "Fri, 17 Apr 2026 15:37:07 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 8.9원 오른 1,483.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260417111400002",
-      "pubDate": "Fri, 17 Apr 2026 15:31:00 +0900"
-    },
-    {
-      "title": "광주 소매유통업 체감경기 소폭 반등…여전히 기준치 밑돌아",
-      "link": "https://www.yna.co.kr/view/AKR20260417108100054",
-      "pubDate": "Fri, 17 Apr 2026 15:12:44 +0900"
     }
   ]
 }
