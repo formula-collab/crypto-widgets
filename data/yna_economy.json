@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776416271,
+  "updated_at_unix": 1776420681,
   "items": [
+    {
+      "title": "피앤씨테크 \"에이치케이홀딩스 주식 123억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417149000008",
+      "pubDate": "Fri, 17 Apr 2026 19:00:57 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260417137000011",
+      "pubDate": "Fri, 17 Apr 2026 18:00:00 +0900"
+    },
     {
       "title": "[부고] 곽대현(키움증권 PR팀 이사)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260417138400008",
@@ -142,16 +152,6 @@
       "title": "거래소 노조 \"파생상품시장본부장에 낙하산 인사 안돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260417103500051",
       "pubDate": "Fri, 17 Apr 2026 15:01:15 +0900"
-    },
-    {
-      "title": "전북 건설단체, 국토부 장관에 '도로·새만금사업 확대' 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260417104300055",
-      "pubDate": "Fri, 17 Apr 2026 15:00:21 +0900"
-    },
-    {
-      "title": "농협 개혁 추진단, 3개 분과 구성…2단계 개혁 논의 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260417100000030",
-      "pubDate": "Fri, 17 Apr 2026 14:49:38 +0900"
     }
   ]
 }
