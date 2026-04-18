@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776543810,
+  "updated_at_unix": 1776545967,
   "items": [
+    {
+      "title": "車보험 물적담보 보험금 5년새 30%↑…부품·정비·렌터카 누수",
+      "link": "https://www.yna.co.kr/view/AKR20260418050600002",
+      "pubDate": "Sun, 19 Apr 2026 05:55:00 +0900"
+    },
+    {
+      "title": "홍콩 ELS 과징금, 이달 내 결론 난망…잇단 패소에 신중모드",
+      "link": "https://www.yna.co.kr/view/AKR20260418045500002",
+      "pubDate": "Sun, 19 Apr 2026 05:53:01 +0900"
+    },
+    {
+      "title": "휘발윳값 2천원대 시대…주유소·카드사 '수수료 갈등' 또 격화",
+      "link": "https://www.yna.co.kr/view/AKR20260418055000002",
+      "pubDate": "Sun, 19 Apr 2026 05:51:00 +0900"
+    },
+    {
+      "title": "IMF의 경고…\"5년 뒤 韓 1인당 GDP, 대만에 1만달러 뒤져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418045700002",
+      "pubDate": "Sun, 19 Apr 2026 05:49:00 +0900"
+    },
+    {
+      "title": "IMF \"내년 한국 부채비율, 선진 非기축통화국 평균 넘을 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418034600002",
+      "pubDate": "Sun, 19 Apr 2026 05:47:00 +0900"
+    },
+    {
+      "title": "1분기 실업자 5년 만에 다시 100만명대…4명 중 1명은 청년",
+      "link": "https://www.yna.co.kr/view/AKR20260418047000002",
+      "pubDate": "Sun, 19 Apr 2026 05:45:01 +0900"
+    },
     {
       "title": "[부고] 윤학수(대한전문건설협회 중앙회장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260418043000003",
@@ -122,36 +152,6 @@
       "title": "강원도, 미분양 아파트 취득세 50% 감면…'도세 감면 조례' 개정",
       "link": "https://www.yna.co.kr/view/AKR20260417126100062",
       "pubDate": "Fri, 17 Apr 2026 16:51:11 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.371%",
-      "link": "https://www.yna.co.kr/view/AKR20260417129200008",
-      "pubDate": "Fri, 17 Apr 2026 16:40:38 +0900"
-    },
-    {
-      "title": "새출발기금 신청자 19만명…채무액 30조원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260417126700002",
-      "pubDate": "Fri, 17 Apr 2026 16:33:27 +0900"
-    },
-    {
-      "title": "큐로셀 360억 유증…에이티넘성장투자조합 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260417126300008",
-      "pubDate": "Fri, 17 Apr 2026 16:31:24 +0900"
-    },
-    {
-      "title": "롯데카드, 홈플러스 채권 793억 추정손실 처리…\"리스크 관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417125900002",
-      "pubDate": "Fri, 17 Apr 2026 16:31:11 +0900"
-    },
-    {
-      "title": "'우주 관련 美민간기업 투자' 등 ETF 4종, 21일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260417123600008",
-      "pubDate": "Fri, 17 Apr 2026 16:29:06 +0900"
-    },
-    {
-      "title": "재경위, 신현송 청문보고서 채택 또 불발…野 \"장녀 불법 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417124400001",
-      "pubDate": "Fri, 17 Apr 2026 16:27:59 +0900"
     }
   ]
 }
