@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776479481,
+  "updated_at_unix": 1776488356,
   "items": [
+    {
+      "title": "[부고] 이정숙(NH투자증권 강남금융센터 이사)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260418036800008",
+      "pubDate": "Sat, 18 Apr 2026 12:58:26 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260418029200011",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 이틀째 상승…1,483.5원",
       "link": "https://www.yna.co.kr/view/AKR20260417120400002",
       "pubDate": "Fri, 17 Apr 2026 16:12:27 +0900"
-    },
-    {
-      "title": "[동정] 농식품부 차관, 농업용 필름 생산 동향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260417028500030",
-      "pubDate": "Fri, 17 Apr 2026 16:00:03 +0900"
     }
   ]
 }
