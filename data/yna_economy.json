@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776553213,
+  "updated_at_unix": 1776556575,
   "items": [
+    {
+      "title": "'대흥란' 시범 이식 평가 임박…거제남부관광단지 추진 기로",
+      "link": "https://www.yna.co.kr/view/AKR20260417131400052",
+      "pubDate": "Sun, 19 Apr 2026 08:44:00 +0900"
+    },
+    {
+      "title": "'피싱 수거책 알바' 발 들였다가…20대 사회초년생 결국 철창행",
+      "link": "https://www.yna.co.kr/view/AKR20260418021100062",
+      "pubDate": "Sun, 19 Apr 2026 08:30:01 +0900"
+    },
+    {
+      "title": "김해 공공 배달앱 '먹깨비' 작년 매출 122억·주문 393% 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260417097800052",
+      "pubDate": "Sun, 19 Apr 2026 08:05:00 +0900"
+    },
+    {
+      "title": "[반려동물] '병원비 공포'…수의·보험업계 충돌에 펫보험 정체",
+      "link": "https://www.yna.co.kr/view/AKR20260417162900030",
+      "pubDate": "Sun, 19 Apr 2026 08:01:00 +0900"
+    },
+    {
+      "title": "경기신용보증재단, 6∼7월 수원→남양주 이전",
+      "link": "https://www.yna.co.kr/view/AKR20260417131900060",
+      "pubDate": "Sun, 19 Apr 2026 08:00:07 +0900"
+    },
+    {
+      "title": "수은, 자체 생성형 AI 플랫폼 구축…\"고객 서비스 향상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418046800002",
+      "pubDate": "Sun, 19 Apr 2026 08:00:01 +0900"
+    },
     {
       "title": "언제까지 버틸 수 있을까…'거지맵' 식당들도 '끙끙'",
       "link": "https://www.yna.co.kr/view/AKR20260418056500004",
@@ -122,36 +152,6 @@
       "title": "IMF \"내년 한국 부채비율, 선진 非기축통화국 평균 넘을 듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260418034600002",
       "pubDate": "Sun, 19 Apr 2026 05:47:00 +0900"
-    },
-    {
-      "title": "1분기 실업자 5년 만에 다시 100만명대…4명 중 1명은 청년",
-      "link": "https://www.yna.co.kr/view/AKR20260418047000002",
-      "pubDate": "Sun, 19 Apr 2026 05:45:01 +0900"
-    },
-    {
-      "title": "[부고] 윤학수(대한전문건설협회 중앙회장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260418043000003",
-      "pubDate": "Sat, 18 Apr 2026 15:45:03 +0900"
-    },
-    {
-      "title": "[부고] 이정숙(NH투자증권 강남금융센터 이사)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260418036800008",
-      "pubDate": "Sat, 18 Apr 2026 12:58:26 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260418029200011",
-      "pubDate": "Sat, 18 Apr 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
-      "link": "https://www.yna.co.kr/view/AKR20260418024600002",
-      "pubDate": "Sat, 18 Apr 2026 09:04:41 +0900"
-    },
-    {
-      "title": "이란 '호르무즈 개방' 발표 20분 전 유가하락에 1조원대 베팅",
-      "link": "https://www.yna.co.kr/view/AKR20260418020600009",
-      "pubDate": "Sat, 18 Apr 2026 08:23:52 +0900"
     }
   ]
 }
