@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776550916,
+  "updated_at_unix": 1776553213,
   "items": [
+    {
+      "title": "언제까지 버틸 수 있을까…'거지맵' 식당들도 '끙끙'",
+      "link": "https://www.yna.co.kr/view/AKR20260418056500004",
+      "pubDate": "Sun, 19 Apr 2026 07:55:01 +0900"
+    },
+    {
+      "title": "야구 개막 효과 터졌다…야구장 주변 알바 공고 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260417142300017",
+      "pubDate": "Sun, 19 Apr 2026 07:45:01 +0900"
+    },
+    {
+      "title": "5월 여객선 유류할증료 최고단계…백령도행 4천200→1만2천600원",
+      "link": "https://www.yna.co.kr/view/AKR20260417096300065",
+      "pubDate": "Sun, 19 Apr 2026 07:17:01 +0900"
+    },
     {
       "title": "반등장 속 주목받는 저평가주…상승 여력 큰 종목은",
       "link": "https://www.yna.co.kr/view/AKR20260417153400008",
@@ -137,21 +152,6 @@
       "title": "이란 '호르무즈 개방' 발표 20분 전 유가하락에 1조원대 베팅",
       "link": "https://www.yna.co.kr/view/AKR20260418020600009",
       "pubDate": "Sat, 18 Apr 2026 08:23:52 +0900"
-    },
-    {
-      "title": "부산 아파트값 보합세…전셋값은 21개월째 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260417108700051",
-      "pubDate": "Sat, 18 Apr 2026 08:00:06 +0900"
-    },
-    {
-      "title": "[신상잇슈] 농심 '빵부장 솔티꽈배기'·파리바게뜨 '베리밤 팥빙수'",
-      "link": "https://www.yna.co.kr/view/AKR20260417072300030",
-      "pubDate": "Sat, 18 Apr 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[금주핫템]던스트 '얼리 써머' 컬렉션·이세이 미야케 캠퍼협업 슈즈",
-      "link": "https://www.yna.co.kr/view/AKR20260417100200030",
-      "pubDate": "Sat, 18 Apr 2026 07:00:02 +0900"
     }
   ]
 }
