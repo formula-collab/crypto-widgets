@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776470376,
+  "updated_at_unix": 1776479481,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260418029200011",
+      "pubDate": "Sat, 18 Apr 2026 10:30:01 +0900"
+    },
+    {
+      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
+      "link": "https://www.yna.co.kr/view/AKR20260418024600002",
+      "pubDate": "Sat, 18 Apr 2026 09:04:41 +0900"
+    },
     {
       "title": "이란 '호르무즈 개방' 발표 20분 전 유가하락에 1조원대 베팅",
       "link": "https://www.yna.co.kr/view/AKR20260418020600009",
@@ -142,16 +152,6 @@
       "title": "[동정] 농식품부 차관, 농업용 필름 생산 동향 점검",
       "link": "https://www.yna.co.kr/view/AKR20260417028500030",
       "pubDate": "Fri, 17 Apr 2026 16:00:03 +0900"
-    },
-    {
-      "title": "마포농수산물시장, 복합시설로 재탄생…민투심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260417107800002",
-      "pubDate": "Fri, 17 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "농식품부, 민간동물보호소 신고제 갈등에 처벌 최소화 방안 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260417118700030",
-      "pubDate": "Fri, 17 Apr 2026 15:59:43 +0900"
     }
   ]
 }
