@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776548175,
+  "updated_at_unix": 1776550916,
   "items": [
+    {
+      "title": "반등장 속 주목받는 저평가주…상승 여력 큰 종목은",
+      "link": "https://www.yna.co.kr/view/AKR20260417153400008",
+      "pubDate": "Sun, 19 Apr 2026 07:15:00 +0900"
+    },
+    {
+      "title": "미국 FDA도 인정…희귀의약품 5개 중 1개 '한국산'",
+      "link": "https://www.yna.co.kr/view/AKR20260417072700017",
+      "pubDate": "Sun, 19 Apr 2026 07:13:00 +0900"
+    },
+    {
+      "title": "종전 기대감에 '6천피'와 함께 돌아온 국내 시총 '1조 클럽'",
+      "link": "https://www.yna.co.kr/view/AKR20260418003300008",
+      "pubDate": "Sun, 19 Apr 2026 07:07:01 +0900"
+    },
+    {
+      "title": "서울 도심 주민들의 친환경·공동체 주거공간 '실험'",
+      "link": "https://www.yna.co.kr/view/AKR20260419006500003",
+      "pubDate": "Sun, 19 Apr 2026 07:06:22 +0900"
+    },
+    {
+      "title": "종전 기대에 코스피 한주간 5% 넘게 '쑥'…효자 업종 IT·반도체",
+      "link": "https://www.yna.co.kr/view/AKR20260417153500008",
+      "pubDate": "Sun, 19 Apr 2026 07:03:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 열리자마자 닫힌 호르무즈…코스피 영향은",
+      "link": "https://www.yna.co.kr/view/AKR20260418027500008",
+      "pubDate": "Sun, 19 Apr 2026 07:00:17 +0900"
+    },
+    {
+      "title": "[AI픽] AI가 일자리 뺏는다?…\"실제 퇴출 10%뿐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417132500017",
+      "pubDate": "Sun, 19 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "자선보다 자립을…\"장애인도 열정적으로 일할 수 있습니다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418057700004",
+      "pubDate": "Sun, 19 Apr 2026 06:55:01 +0900"
+    },
     {
       "title": "T커머스 재승인 심사 앞두고…업계 \"규제 완화 필요\" 한목소리",
       "link": "https://www.yna.co.kr/view/AKR20260417155700030",
@@ -112,46 +152,6 @@
       "title": "[금주핫템]던스트 '얼리 써머' 컬렉션·이세이 미야케 캠퍼협업 슈즈",
       "link": "https://www.yna.co.kr/view/AKR20260417100200030",
       "pubDate": "Sat, 18 Apr 2026 07:00:02 +0900"
-    },
-    {
-      "title": "기초연금 수급자라면…통신비 할인과 일자리 등 혜택 챙겨야",
-      "link": "https://www.yna.co.kr/view/AKR20260417101400530",
-      "pubDate": "Sat, 18 Apr 2026 06:11:01 +0900"
-    },
-    {
-      "title": "방미 구윤철 \"韓경제에 대한 국제사회 기대·관심 높아짐 느껴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418010200071",
-      "pubDate": "Sat, 18 Apr 2026 06:04:53 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 봄 이사철에 분양도 활짝…내주 전국 8천400여가구 청약",
-      "link": "https://www.yna.co.kr/view/AKR20260417132800003",
-      "pubDate": "Sat, 18 Apr 2026 06:00:00 +0900"
-    },
-    {
-      "title": "국제유가, 이란 호르무즈 통항 허용에 급락…WTI 11%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260418006700072",
-      "pubDate": "Sat, 18 Apr 2026 04:25:08 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 호르무즈 해협 봉쇄 푼 이란…WTI 11% 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260418005800009",
-      "pubDate": "Sat, 18 Apr 2026 03:52:39 +0900"
-    },
-    {
-      "title": "달러-원, '호르무즈 개방'에 유가 따라 급락…1,460.00원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260418003800002",
-      "pubDate": "Sat, 18 Apr 2026 02:44:03 +0900"
-    },
-    {
-      "title": "국제유가, 이란 호르무즈 일시개방에 급락세…브렌트유 10%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260417161100072",
-      "pubDate": "Fri, 17 Apr 2026 22:40:17 +0900"
-    },
-    {
-      "title": "美·이란 종전 협상 앞두고 전국 평균 휘발윳값 2천원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260417150700003",
-      "pubDate": "Fri, 17 Apr 2026 19:52:56 +0900"
     }
   ]
 }
