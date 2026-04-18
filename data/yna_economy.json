@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776492768,
+  "updated_at_unix": 1776497891,
   "items": [
+    {
+      "title": "[부고] 윤학수(대한전문건설협회 중앙회장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260418043000003",
+      "pubDate": "Sat, 18 Apr 2026 15:45:03 +0900"
+    },
     {
       "title": "[부고] 이정숙(NH투자증권 강남금융센터 이사)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260418036800008",
@@ -147,11 +152,6 @@
       "title": "재경위, 신현송 청문보고서 채택 또 불발…野 \"장녀 불법 확인\"",
       "link": "https://www.yna.co.kr/view/AKR20260417124400001",
       "pubDate": "Fri, 17 Apr 2026 16:27:59 +0900"
-    },
-    {
-      "title": "원/달러 환율 이틀째 상승…1,483.5원",
-      "link": "https://www.yna.co.kr/view/AKR20260417120400002",
-      "pubDate": "Fri, 17 Apr 2026 16:12:27 +0900"
     }
   ]
 }
