@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776632416,
+  "updated_at_unix": 1776635688,
   "items": [
+    {
+      "title": "2월 서울 아파트 실거래가격 전월보다 1.9% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260418008300004",
+      "pubDate": "Mon, 20 Apr 2026 06:00:11 +0900"
+    },
+    {
+      "title": "중기부, 지역 中企 기술인력 확보 지원…최대 1천만원 바우처",
+      "link": "https://www.yna.co.kr/view/AKR20260417149400030",
+      "pubDate": "Mon, 20 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "중기부, 중동전쟁 피해기업에 5천500억원 유동성 추가 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260417151900030",
+      "pubDate": "Mon, 20 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 상반기 '군 재정담당자 금융연수'",
+      "link": "https://www.yna.co.kr/view/AKR20260418030500002",
+      "pubDate": "Mon, 20 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금융사 내부망서 클라우드 소프트웨어 허용…망 분리 예외",
+      "link": "https://www.yna.co.kr/view/AKR20260418050900002",
+      "pubDate": "Mon, 20 Apr 2026 06:00:06 +0900"
+    },
     {
       "title": "신현송 친정 BIS \"스테이블코인, 통화 생태계 핵심 축 어렵다\"",
       "link": "https://www.yna.co.kr/view/AKR20260419054300002",
@@ -127,31 +152,6 @@
       "title": "2분기 소매경기 '봄철 특수' 없을 듯…\"중동전쟁·고환율 여파\"",
       "link": "https://www.yna.co.kr/view/AKR20260419022500003",
       "pubDate": "Sun, 19 Apr 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"모래주머니 차고 뛴다\"…홈쇼핑·T커머스, 규제 완화 요구(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260417155751030",
-      "pubDate": "Sun, 19 Apr 2026 11:22:22 +0900"
-    },
-    {
-      "title": "[게시판] 코트라·국토부, 우즈베키스탄서 수출 상담회…韓 기업 진출지원",
-      "link": "https://www.yna.co.kr/view/AKR20260419024300003",
-      "pubDate": "Sun, 19 Apr 2026 11:12:54 +0900"
-    },
-    {
-      "title": "농식품부, 농촌융복합 창업기업 5곳 선정…최대 5억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260417150500030",
-      "pubDate": "Sun, 19 Apr 2026 11:00:06 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행 \"유망 중견기업 35곳에 업체당 최대 300억원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418046500002",
-      "pubDate": "Sun, 19 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "농식품부, 벼 농업수입안정보험 20개 시군으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260418051200030",
-      "pubDate": "Sun, 19 Apr 2026 11:00:05 +0900"
     }
   ]
 }
