@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776637372,
+  "updated_at_unix": 1776639636,
   "items": [
+    {
+      "title": "부산시, 고신대에 제2하하캠퍼스 조성…시니어 프로그램 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260420015400051",
+      "pubDate": "Mon, 20 Apr 2026 07:51:52 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260420011600011",
+      "pubDate": "Mon, 20 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "관악구, '고유가 피해지원금 연계' 60억원 추경안 편성",
       "link": "https://www.yna.co.kr/view/AKR20260420009800004",
@@ -142,16 +152,6 @@
       "title": "농심 매운맛 라면에 반한 일본인들 \"오이시이!\"",
       "link": "https://www.yna.co.kr/view/AKR20260418049800030",
       "pubDate": "Sun, 19 Apr 2026 12:00:10 +0900"
-    },
-    {
-      "title": "구윤철 \"IMF, 위기의 해설자 아닌 협력의 설계자가 돼달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418050700002",
-      "pubDate": "Sun, 19 Apr 2026 12:00:07 +0900"
-    },
-    {
-      "title": "\"부실기업, 상폐 회피용 불법기승 우려\"…금감원, 총력대응 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260418047100002",
-      "pubDate": "Sun, 19 Apr 2026 12:00:06 +0900"
     }
   ]
 }
