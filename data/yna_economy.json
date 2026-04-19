@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776556575,
+  "updated_at_unix": 1776563600,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260419020700011",
+      "pubDate": "Sun, 19 Apr 2026 10:30:00 +0900"
+    },
+    {
+      "title": "서울 도심 주민들의 친환경·공동체 주거공간 '실험'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260419006551003",
+      "pubDate": "Sun, 19 Apr 2026 10:20:01 +0900"
+    },
+    {
+      "title": "쿠팡 와우카드, 편의점 결제 적립 2배…\"월 최대 6만4천원 환급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419018900030",
+      "pubDate": "Sun, 19 Apr 2026 10:02:15 +0900"
+    },
+    {
+      "title": "현대엘리베이터, 고층용 모듈러 공법 상용화…공기 80% 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260419018000003",
+      "pubDate": "Sun, 19 Apr 2026 09:47:36 +0900"
+    },
+    {
+      "title": "포스코이앤씨, 더샵 입주민과 '100일 에너지절약 챌린지'",
+      "link": "https://www.yna.co.kr/view/AKR20260419017300003",
+      "pubDate": "Sun, 19 Apr 2026 09:38:27 +0900"
+    },
+    {
+      "title": "다주택자 매도 시한 연장에 거래 소강상태…막판 급매 나올까",
+      "link": "https://www.yna.co.kr/view/AKR20260419016900003",
+      "pubDate": "Sun, 19 Apr 2026 09:36:54 +0900"
+    },
+    {
+      "title": "롯데건설, 3천967억원 규모 창원 용호3구역 재건축 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260419016000003",
+      "pubDate": "Sun, 19 Apr 2026 09:19:13 +0900"
+    },
+    {
+      "title": "춘천시, 강원권 창업 거점도시 조성…AI 플랫폼·페스티벌 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260417112800062",
+      "pubDate": "Sun, 19 Apr 2026 09:10:01 +0900"
+    },
     {
       "title": "'대흥란' 시범 이식 평가 임박…거제남부관광단지 추진 기로",
       "link": "https://www.yna.co.kr/view/AKR20260417131400052",
@@ -112,46 +152,6 @@
       "title": "봄 이사철인데 아파트 전세 매물 급감…서울 2년 전 대비 '반토막'",
       "link": "https://www.yna.co.kr/view/AKR20260418052100003",
       "pubDate": "Sun, 19 Apr 2026 06:03:00 +0900"
-    },
-    {
-      "title": "[일문일답] 김정관 \"대미 투자, 日과 속도경쟁 안해…정밀 검토 우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418040800003",
-      "pubDate": "Sun, 19 Apr 2026 06:00:22 +0900"
-    },
-    {
-      "title": "김정관 \"美 원유 확대 불가피…전쟁 끝나도 공급망 다변화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418040200003",
-      "pubDate": "Sun, 19 Apr 2026 06:00:21 +0900"
-    },
-    {
-      "title": "역외거래가 변동성 키웠나…역내외 환율 격차 코로나 이후 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260418046900002",
-      "pubDate": "Sun, 19 Apr 2026 05:57:00 +0900"
-    },
-    {
-      "title": "車보험 물적담보 보험금 5년새 30%↑…부품·정비·렌터카 누수",
-      "link": "https://www.yna.co.kr/view/AKR20260418050600002",
-      "pubDate": "Sun, 19 Apr 2026 05:55:00 +0900"
-    },
-    {
-      "title": "홍콩 ELS 과징금, 이달 내 결론 난망…잇단 패소에 신중모드",
-      "link": "https://www.yna.co.kr/view/AKR20260418045500002",
-      "pubDate": "Sun, 19 Apr 2026 05:53:01 +0900"
-    },
-    {
-      "title": "휘발윳값 2천원대 시대…주유소·카드사 '수수료 갈등' 또 격화",
-      "link": "https://www.yna.co.kr/view/AKR20260418055000002",
-      "pubDate": "Sun, 19 Apr 2026 05:51:00 +0900"
-    },
-    {
-      "title": "IMF의 경고…\"5년 뒤 韓 1인당 GDP, 대만에 1만달러 뒤져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418045700002",
-      "pubDate": "Sun, 19 Apr 2026 05:49:00 +0900"
-    },
-    {
-      "title": "IMF \"내년 한국 부채비율, 선진 非기축통화국 평균 넘을 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418034600002",
-      "pubDate": "Sun, 19 Apr 2026 05:47:00 +0900"
     }
   ]
 }
