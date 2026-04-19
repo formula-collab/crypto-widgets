@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776573718,
+  "updated_at_unix": 1776579774,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260419034600011",
+      "pubDate": "Sun, 19 Apr 2026 15:00:00 +0900"
+    },
+    {
+      "title": "이재용, 경제사절단 동행 인도行…재계 총수 '세일즈 외교' 박차",
+      "link": "https://www.yna.co.kr/view/AKR20260419031900003",
+      "pubDate": "Sun, 19 Apr 2026 13:55:43 +0900"
+    },
+    {
+      "title": "\"내년 韓부채비율, 선진非기축통화 넘어\"…정부 \"실적치는 낮아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260418034651002",
+      "pubDate": "Sun, 19 Apr 2026 13:40:49 +0900"
+    },
     {
       "title": "우범기 전주시장 예비후보 \"전주 대변혁 마침표 찍게 해달라\"",
       "link": "https://www.yna.co.kr/view/AKR20260419029700055",
@@ -137,21 +152,6 @@
       "title": "쿠팡 와우카드, 편의점 결제 적립 2배…\"월 최대 6만4천원 환급\"",
       "link": "https://www.yna.co.kr/view/AKR20260419018900030",
       "pubDate": "Sun, 19 Apr 2026 10:02:15 +0900"
-    },
-    {
-      "title": "현대엘리베이터, 고층용 모듈러 공법 상용화…공기 80% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260419018000003",
-      "pubDate": "Sun, 19 Apr 2026 09:47:36 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 더샵 입주민과 '100일 에너지절약 챌린지'",
-      "link": "https://www.yna.co.kr/view/AKR20260419017300003",
-      "pubDate": "Sun, 19 Apr 2026 09:38:27 +0900"
-    },
-    {
-      "title": "다주택자 매도 시한 연장에 거래 소강상태…막판 급매 나올까",
-      "link": "https://www.yna.co.kr/view/AKR20260419016900003",
-      "pubDate": "Sun, 19 Apr 2026 09:36:54 +0900"
     }
   ]
 }
