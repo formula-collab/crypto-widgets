@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776594556,
+  "updated_at_unix": 1776596830,
   "items": [
+    {
+      "title": "한미 재무수장 \"원화 과도한 변동성 바람직하지 않아\" 공감대",
+      "link": "https://www.yna.co.kr/view/AKR20260419051300002",
+      "pubDate": "Sun, 19 Apr 2026 20:00:01 +0900"
+    },
     {
       "title": "구윤철 만난 IMF 총재 \"한국 재정여력 충분히 갖춰\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260418050751002",
@@ -147,11 +152,6 @@
       "title": "삼성전자, 소비자 맞춤형 신제품 체험행사 'AI TV 위크' 진행",
       "link": "https://www.yna.co.kr/view/AKR20260419022600003",
       "pubDate": "Sun, 19 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260419020700011",
-      "pubDate": "Sun, 19 Apr 2026 10:30:00 +0900"
     }
   ]
 }
