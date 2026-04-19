@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776630277,
+  "updated_at_unix": 1776632416,
   "items": [
+    {
+      "title": "신현송 친정 BIS \"스테이블코인, 통화 생태계 핵심 축 어렵다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419054300002",
+      "pubDate": "Mon, 20 Apr 2026 05:53:01 +0900"
+    },
+    {
+      "title": "공정위, 쿠팡 동일인 내주 결론…'총수 김범석' 가능성 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260419041700002",
+      "pubDate": "Mon, 20 Apr 2026 05:51:06 +0900"
+    },
     {
       "title": "美에너지장관 \"G20 각국 요청에 러 원유 제재완화 연장해\"",
       "link": "https://www.yna.co.kr/view/AKR20260420000600072",
@@ -142,16 +152,6 @@
       "title": "농식품부, 벼 농업수입안정보험 20개 시군으로 확대",
       "link": "https://www.yna.co.kr/view/AKR20260418051200030",
       "pubDate": "Sun, 19 Apr 2026 11:00:05 +0900"
-    },
-    {
-      "title": "2분기 제조업 경기 둔화 전망…중동전쟁 영향에 정유·화학↓",
-      "link": "https://www.yna.co.kr/view/AKR20260419020300003",
-      "pubDate": "Sun, 19 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "산업부, 중견기업 35곳에 총 4천660억원 규모 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20260419021400003",
-      "pubDate": "Sun, 19 Apr 2026 11:00:03 +0900"
     }
   ]
 }
