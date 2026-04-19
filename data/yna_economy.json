@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776635688,
+  "updated_at_unix": 1776637372,
   "items": [
+    {
+      "title": "관악구, '고유가 피해지원금 연계' 60억원 추경안 편성",
+      "link": "https://www.yna.co.kr/view/AKR20260420009800004",
+      "pubDate": "Mon, 20 Apr 2026 07:06:05 +0900"
+    },
+    {
+      "title": "[2026 와이팜 엑스포] ③ 전남·전북",
+      "link": "https://www.yna.co.kr/view/AKR20260417077100054",
+      "pubDate": "Mon, 20 Apr 2026 07:00:08 +0900"
+    },
+    {
+      "title": "[2026 와이팜 엑스포] ① 경기·강원·제주",
+      "link": "https://www.yna.co.kr/view/AKR20260417108500062",
+      "pubDate": "Mon, 20 Apr 2026 07:00:05 +0900"
+    },
+    {
+      "title": "고가 작품 수차례 거래한 미술상…법원 \"사업소득 과세 대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419023500004",
+      "pubDate": "Mon, 20 Apr 2026 07:00:01 +0900"
+    },
+    {
+      "title": "\"UAE, 경제위기 대비 미국과 통화스와프 체결 협의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420007200072",
+      "pubDate": "Mon, 20 Apr 2026 06:46:48 +0900"
+    },
     {
       "title": "2월 서울 아파트 실거래가격 전월보다 1.9% 상승",
       "link": "https://www.yna.co.kr/view/AKR20260418008300004",
@@ -127,31 +152,6 @@
       "title": "\"부실기업, 상폐 회피용 불법기승 우려\"…금감원, 총력대응 예고",
       "link": "https://www.yna.co.kr/view/AKR20260418047100002",
       "pubDate": "Sun, 19 Apr 2026 12:00:06 +0900"
-    },
-    {
-      "title": "최지영 IMF 신임 이사 \"한국, 중동전쟁 단기 쇼크 제어 잘해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418049000002",
-      "pubDate": "Sun, 19 Apr 2026 12:00:06 +0900"
-    },
-    {
-      "title": "가상계좌 넘겼다가 공범될수도…금감원 \"타인 제공·판매 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418058300002",
-      "pubDate": "Sun, 19 Apr 2026 12:00:04 +0900"
-    },
-    {
-      "title": "직장인 77% \"한국은 장애인이 일하기 어려운 사회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419005900004",
-      "pubDate": "Sun, 19 Apr 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"고유가 피해지원금 정보 '국민비서'로 알림받고 신청하세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419021700530",
-      "pubDate": "Sun, 19 Apr 2026 12:00:02 +0900"
-    },
-    {
-      "title": "2분기 소매경기 '봄철 특수' 없을 듯…\"중동전쟁·고환율 여파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419022500003",
-      "pubDate": "Sun, 19 Apr 2026 12:00:01 +0900"
     }
   ]
 }
