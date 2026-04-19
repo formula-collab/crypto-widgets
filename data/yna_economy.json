@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776588060,
+  "updated_at_unix": 1776591433,
   "items": [
+    {
+      "title": "숨 가빠도 한 걸음 더…롯데타워 '스카이런' 123층 수직 질주",
+      "link": "https://www.yna.co.kr/view/AKR20260419045900030",
+      "pubDate": "Sun, 19 Apr 2026 17:51:15 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260419034600011",
@@ -147,11 +152,6 @@
       "title": "서울 도심 주민들의 친환경·공동체 주거공간 '실험'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260419006551003",
       "pubDate": "Sun, 19 Apr 2026 10:20:01 +0900"
-    },
-    {
-      "title": "쿠팡 와우카드, 편의점 결제 적립 2배…\"월 최대 6만4천원 환급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419018900030",
-      "pubDate": "Sun, 19 Apr 2026 10:02:15 +0900"
     }
   ]
 }
