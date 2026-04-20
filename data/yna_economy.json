@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776682833,
+  "updated_at_unix": 1776688975,
   "items": [
+    {
+      "title": "삼천당제약 불성실공시법인 지정…벌점 5점 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260420162200008",
+      "pubDate": "Mon, 20 Apr 2026 21:26:00 +0900"
+    },
+    {
+      "title": "李대통령, 신현송 한국은행 총재 임명안 재가…내일자 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260420161000001",
+      "pubDate": "Mon, 20 Apr 2026 21:11:44 +0900"
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://www.yna.co.kr/view/AKR20260420160900001",
+      "pubDate": "Mon, 20 Apr 2026 21:09:42 +0900"
+    },
+    {
+      "title": "李대통령 \"한-인도 교역 두배 확대…파도 두려워 항해포기 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420160100001",
+      "pubDate": "Mon, 20 Apr 2026 20:54:01 +0900"
+    },
+    {
+      "title": "[AI픽] 네이버, 인도 TCS와 맞손…AX·DX 공략 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260420146000017",
+      "pubDate": "Mon, 20 Apr 2026 20:30:01 +0900"
+    },
+    {
+      "title": "글로벌테크놀로지 등 4개 기업, 코스닥 상장예비심사 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260420158400008",
+      "pubDate": "Mon, 20 Apr 2026 20:20:20 +0900"
+    },
     {
       "title": "포스코, 600만t 규모 인도 합작제철소 본궤도…총 5.3조원 투자(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260420150251008",
@@ -122,36 +152,6 @@
       "title": "'이란발 쇼크' 털어냈나…주식거래활동계좌수 증가세 재개(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260420095451008",
       "pubDate": "Mon, 20 Apr 2026 16:19:51 +0900"
-    },
-    {
-      "title": "미·이란 긴장 재고조에도…SK하이닉스 등 실적주 '쑥'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420067151008",
-      "pubDate": "Mon, 20 Apr 2026 16:14:14 +0900"
-    },
-    {
-      "title": "코스피, 미·이란 긴장속 소폭상승 6,210선…하이닉스 실적기대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420123500008",
-      "pubDate": "Mon, 20 Apr 2026 16:11:54 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260420126800002",
-      "pubDate": "Mon, 20 Apr 2026 16:08:09 +0900"
-    },
-    {
-      "title": "\"나 미국사람이야\" 체류연장 없이 버틴 교포 벌금 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260420098800051",
-      "pubDate": "Mon, 20 Apr 2026 16:04:00 +0900"
-    },
-    {
-      "title": "울산시, 제2회 추경 1천989억원 편성…재원은 보통교부세 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260420121900057",
-      "pubDate": "Mon, 20 Apr 2026 16:02:12 +0900"
-    },
-    {
-      "title": "환율, 미·이란 휴전 종료 앞두고 소폭 내려…1,477.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260420122500002",
-      "pubDate": "Mon, 20 Apr 2026 16:01:38 +0900"
     }
   ]
 }
