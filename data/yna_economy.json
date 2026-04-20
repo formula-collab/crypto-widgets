@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776707340,
+  "updated_at_unix": 1776710971,
   "items": [
+    {
+      "title": "[뉴욕유가] 또다시 막힌 호르무즈 해협…WTI 7% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260421005200009",
+      "pubDate": "Tue, 21 Apr 2026 03:41:23 +0900"
+    },
+    {
+      "title": "달러-원, 美·이란 협상 재개 관측 속 횡보…1,472.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260421002900002",
+      "pubDate": "Tue, 21 Apr 2026 02:50:25 +0900"
+    },
     {
       "title": "화물연대 사태에 노동부 \"노란봉투법 넘어선 상황\" 선그어",
       "link": "https://www.yna.co.kr/view/AKR20260420169400530",
@@ -142,16 +152,6 @@
       "title": "금강선 디렉터 차기작 '오르페우스' 공개",
       "link": "https://www.yna.co.kr/view/AKR20260420135100017",
       "pubDate": "Mon, 20 Apr 2026 16:51:45 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.348%",
-      "link": "https://www.yna.co.kr/view/AKR20260420134200008",
-      "pubDate": "Mon, 20 Apr 2026 16:41:52 +0900"
-    },
-    {
-      "title": "공정위, 올리브영·다이소 대규모유통업법 위반 여부 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260420133000002",
-      "pubDate": "Mon, 20 Apr 2026 16:38:51 +0900"
     }
   ]
 }
