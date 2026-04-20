@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776724345,
+  "updated_at_unix": 1776727962,
   "items": [
+    {
+      "title": "SK증권 \"시프트업, 1분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421024900008",
+      "pubDate": "Tue, 21 Apr 2026 08:27:56 +0900"
+    },
+    {
+      "title": "NH투자 \"카카오페이, 호실적 예상·신사업 추진력도 입증\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421024600008",
+      "pubDate": "Tue, 21 Apr 2026 08:25:08 +0900"
+    },
+    {
+      "title": "IBK투자, 하이브 목표주가↓…\"1분기 영업익 기대치 하회전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421024200008",
+      "pubDate": "Tue, 21 Apr 2026 08:20:38 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, '美·이란 협상여부 주시' 방향성 탐색 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260421022100008",
+      "pubDate": "Tue, 21 Apr 2026 08:12:31 +0900"
+    },
+    {
+      "title": "삼성전자, 이케아 '스마트홈 동맹'…스마트싱스와 신제품 연동",
+      "link": "https://www.yna.co.kr/view/AKR20260420147500003",
+      "pubDate": "Tue, 21 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "14년만에 부산서 한국원자력산업전…세계원전 최신 기술 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260421021100051",
+      "pubDate": "Tue, 21 Apr 2026 07:58:44 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260421016300011",
+      "pubDate": "Tue, 21 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "인플레 리스크로 시들해진 美채권 투자…개미들 대규모 매도",
       "link": "https://www.yna.co.kr/view/AKR20260420139700008",
@@ -117,41 +152,6 @@
       "title": "李대통령, 신현송 한국은행 총재 임명안 재가…내일자 발령",
       "link": "https://www.yna.co.kr/view/AKR20260420161000001",
       "pubDate": "Mon, 20 Apr 2026 21:11:44 +0900"
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.yna.co.kr/view/AKR20260420160900001",
-      "pubDate": "Mon, 20 Apr 2026 21:09:42 +0900"
-    },
-    {
-      "title": "李대통령 \"한-인도 교역 두배 확대…파도 두려워 항해포기 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420160100001",
-      "pubDate": "Mon, 20 Apr 2026 20:54:01 +0900"
-    },
-    {
-      "title": "[AI픽] 네이버, 인도 TCS와 맞손…AX·DX 공략 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260420146000017",
-      "pubDate": "Mon, 20 Apr 2026 20:30:01 +0900"
-    },
-    {
-      "title": "글로벌테크놀로지 등 4개 기업, 코스닥 상장예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260420158400008",
-      "pubDate": "Mon, 20 Apr 2026 20:20:20 +0900"
-    },
-    {
-      "title": "포스코, 600만t 규모 인도 합작제철소 본궤도…총 5.3조원 투자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420150251008",
-      "pubDate": "Mon, 20 Apr 2026 19:30:00 +0900"
-    },
-    {
-      "title": "현대홈쇼핑, 현대지에프홀딩스 완전자회사로…주식 교환 가결",
-      "link": "https://www.yna.co.kr/view/AKR20260420154500030",
-      "pubDate": "Mon, 20 Apr 2026 19:17:47 +0900"
-    },
-    {
-      "title": "현대차그룹, USTR에 \"美 301조관세 232조와 중복적용 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420153700003",
-      "pubDate": "Mon, 20 Apr 2026 19:01:34 +0900"
     }
   ]
 }
