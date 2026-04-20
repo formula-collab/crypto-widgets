@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776695193,
+  "updated_at_unix": 1776700235,
   "items": [
+    {
+      "title": "화물연대 사태에 노동부 \"노란봉투법 넘어선 상황\" 선그어",
+      "link": "https://www.yna.co.kr/view/AKR20260420169400530",
+      "pubDate": "Tue, 21 Apr 2026 00:11:26 +0900"
+    },
     {
       "title": "에너지 장관은 아니라는데…트럼프 \"종전 즉시 휘발윳값 정상화\"",
       "link": "https://www.yna.co.kr/view/AKR20260420167200071",
@@ -147,11 +152,6 @@
       "title": "공정위, 올리브영·다이소 대규모유통업법 위반 여부 조사",
       "link": "https://www.yna.co.kr/view/AKR20260420133000002",
       "pubDate": "Mon, 20 Apr 2026 16:38:51 +0900"
-    },
-    {
-      "title": "[춘천소식] 고용복지플러스센터, 22일 취업동행 톡 콘서트",
-      "link": "https://www.yna.co.kr/view/AKR20260420129500062",
-      "pubDate": "Mon, 20 Apr 2026 16:25:41 +0900"
     }
   ]
 }
