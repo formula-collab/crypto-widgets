@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776688975,
+  "updated_at_unix": 1776695193,
   "items": [
+    {
+      "title": "에너지 장관은 아니라는데…트럼프 \"종전 즉시 휘발윳값 정상화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420167200071",
+      "pubDate": "Mon, 20 Apr 2026 23:10:23 +0900"
+    },
+    {
+      "title": "한경협, 인도서 비즈니스포럼…車·철강·조선 등 MOU 20건 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260420135500003",
+      "pubDate": "Mon, 20 Apr 2026 22:40:01 +0900"
+    },
+    {
+      "title": "한·인도, 에너지·산업 협력 고도화…장관급 산업협력위 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260420163300003",
+      "pubDate": "Mon, 20 Apr 2026 21:46:57 +0900"
+    },
     {
       "title": "삼천당제약 불성실공시법인 지정…벌점 5점 부과",
       "link": "https://www.yna.co.kr/view/AKR20260420162200008",
@@ -137,21 +152,6 @@
       "title": "[춘천소식] 고용복지플러스센터, 22일 취업동행 톡 콘서트",
       "link": "https://www.yna.co.kr/view/AKR20260420129500062",
       "pubDate": "Mon, 20 Apr 2026 16:25:41 +0900"
-    },
-    {
-      "title": "스피어 \"계열사 더스페셜메탈스 주식 70억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420128900008",
-      "pubDate": "Mon, 20 Apr 2026 16:24:05 +0900"
-    },
-    {
-      "title": "\"건설업, 중동전쟁 끝나도 고유가 후행효과 장기간 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420127300003",
-      "pubDate": "Mon, 20 Apr 2026 16:20:29 +0900"
-    },
-    {
-      "title": "'이란발 쇼크' 털어냈나…주식거래활동계좌수 증가세 재개(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420095451008",
-      "pubDate": "Mon, 20 Apr 2026 16:19:51 +0900"
     }
   ]
 }
