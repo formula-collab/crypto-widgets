@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776676936,
+  "updated_at_unix": 1776682833,
   "items": [
+    {
+      "title": "포스코, 600만t 규모 인도 합작제철소 본궤도…총 5.3조원 투자(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260420150251008",
+      "pubDate": "Mon, 20 Apr 2026 19:30:00 +0900"
+    },
+    {
+      "title": "현대홈쇼핑, 현대지에프홀딩스 완전자회사로…주식 교환 가결",
+      "link": "https://www.yna.co.kr/view/AKR20260420154500030",
+      "pubDate": "Mon, 20 Apr 2026 19:17:47 +0900"
+    },
+    {
+      "title": "현대차그룹, USTR에 \"美 301조관세 232조와 중복적용 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420153700003",
+      "pubDate": "Mon, 20 Apr 2026 19:01:34 +0900"
+    },
+    {
+      "title": "정진완 우리은행장, 인도 경제사절단 동행…현지 협력 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260420152400002",
+      "pubDate": "Mon, 20 Apr 2026 18:40:15 +0900"
+    },
+    {
+      "title": "현대건설, 압구정3구역 재건축 우선협상대상자로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260420151800003",
+      "pubDate": "Mon, 20 Apr 2026 18:27:44 +0900"
+    },
+    {
+      "title": "국토장관, 항공업계와 비상경제 간담회…\"종합 지원방안 시행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420151300003",
+      "pubDate": "Mon, 20 Apr 2026 18:25:50 +0900"
+    },
     {
       "title": "송미령 농식품부 장관 \"국정과제 조기 성과 창출\"",
       "link": "https://www.yna.co.kr/view/AKR20260420140000030",
@@ -122,36 +152,6 @@
       "title": "환율, 미·이란 휴전 종료 앞두고 소폭 내려…1,477.2원",
       "link": "https://www.yna.co.kr/view/AKR20260420122500002",
       "pubDate": "Mon, 20 Apr 2026 16:01:38 +0900"
-    },
-    {
-      "title": "트럼프 '타코'에 베팅? 美·이란 긴장고조에도 亞증시 일제상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420062351008",
-      "pubDate": "Mon, 20 Apr 2026 16:01:09 +0900"
-    },
-    {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260420111700003",
-      "pubDate": "Mon, 20 Apr 2026 16:00:02 +0900"
-    },
-    {
-      "title": "\"청주에 대형쇼핑몰 3곳 입점 시 1조7천억대 생산유발 효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420114100064",
-      "pubDate": "Mon, 20 Apr 2026 15:53:25 +0900"
-    },
-    {
-      "title": "울주군, 어르신 스마트폰·무인기기 교육 자원활동가 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260420119400057",
-      "pubDate": "Mon, 20 Apr 2026 15:45:35 +0900"
-    },
-    {
-      "title": "[특징주] 미·이란 2차 협상 불확실성에 건설주 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420042951008",
-      "pubDate": "Mon, 20 Apr 2026 15:43:09 +0900"
-    },
-    {
-      "title": "파주시, 성금 5억원으로 취약계층 위기가구 긴급 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260420113400060",
-      "pubDate": "Mon, 20 Apr 2026 15:42:33 +0900"
     }
   ]
 }
