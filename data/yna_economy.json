@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776717268,
+  "updated_at_unix": 1776720976,
   "items": [
+    {
+      "title": "[글로벌 코리안] \"K-컬처의 힘, 이젠 민화·판화로 세계시장 두드릴 때\"",
+      "link": "https://www.yna.co.kr/view/AKR20260412002100371",
+      "pubDate": "Tue, 21 Apr 2026 06:30:02 +0900"
+    },
+    {
+      "title": "\"BTS 보러 와서 배달 앱 켰다\"…'K콘텐츠'가 이끄는 외국인 관광",
+      "link": "https://www.yna.co.kr/view/AKR20260420142900030",
+      "pubDate": "Tue, 21 Apr 2026 06:30:01 +0900"
+    },
+    {
+      "title": "\"이제는 K커피\"…국내 시장 벗어나 북미·아시아로 영토 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260420140600030",
+      "pubDate": "Tue, 21 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "서울시 신혼부부 '미리내집' 441세대 입주자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260420132000004",
+      "pubDate": "Tue, 21 Apr 2026 06:00:10 +0900"
+    },
+    {
+      "title": "내년 최저임금 첫 심의…'도급제 근로자' 적용 쟁점",
+      "link": "https://www.yna.co.kr/view/AKR20260420126500530",
+      "pubDate": "Tue, 21 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "K-소비재 145개사, 중국 산둥 수입상품박람회 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260420135800003",
+      "pubDate": "Tue, 21 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "농식품부, '농촌형 돌봄' 만든다…\"농업·의료 연계 서비스\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420130200030",
+      "pubDate": "Tue, 21 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "중동발 유가 충격에…IB들 \"9월까지 美 금리인하 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420148500002",
+      "pubDate": "Tue, 21 Apr 2026 05:58:01 +0900"
+    },
+    {
+      "title": "NH금융연구소 \"이란 전쟁 장기화로 사모 신용 리스크 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420147600002",
+      "pubDate": "Tue, 21 Apr 2026 05:55:00 +0900"
+    },
     {
       "title": "워시 美연준의장 후보 \"대통령 금리발언, 연준 독립성 위협안해\"",
       "link": "https://www.yna.co.kr/view/AKR20260421005800072",
@@ -107,51 +152,6 @@
       "title": "송미령 농식품부 장관 \"국정과제 조기 성과 창출\"",
       "link": "https://www.yna.co.kr/view/AKR20260420140000030",
       "pubDate": "Mon, 20 Apr 2026 18:15:24 +0900"
-    },
-    {
-      "title": "정원오·오세훈 부동산 공방…\"재건축 거짓말\" \"장특공 입장은?\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420098651001",
-      "pubDate": "Mon, 20 Apr 2026 18:14:32 +0900"
-    },
-    {
-      "title": "포스코, 인도 법인에 1조6천96억원 출자",
-      "link": "https://www.yna.co.kr/view/AKR20260420150200008",
-      "pubDate": "Mon, 20 Apr 2026 18:02:30 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260420141300011",
-      "pubDate": "Mon, 20 Apr 2026 18:00:01 +0900"
-    },
-    {
-      "title": "광주상의, 중국 선전 경제단체와 '미래차·AI' 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260420146500054",
-      "pubDate": "Mon, 20 Apr 2026 17:44:19 +0900"
-    },
-    {
-      "title": "카드론 잔액 43조 육박 '역대 최다'…3개월째 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260420140800002",
-      "pubDate": "Mon, 20 Apr 2026 17:37:24 +0900"
-    },
-    {
-      "title": "韓-인도, CEPA협상 재개선언·산업협력委 MOU 등 문건 15개 채택",
-      "link": "https://www.yna.co.kr/view/AKR20260420124100001",
-      "pubDate": "Mon, 20 Apr 2026 17:22:18 +0900"
-    },
-    {
-      "title": "종전 기대감에 국고채 금리 일제히 하락…3년물 연 3.348%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420134251008",
-      "pubDate": "Mon, 20 Apr 2026 17:13:55 +0900"
-    },
-    {
-      "title": "에이스테크 \"종속회사 ACE에 74억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420137100008",
-      "pubDate": "Mon, 20 Apr 2026 17:11:51 +0900"
-    },
-    {
-      "title": "관세청, 보세창고 규제 완화…물류비 절감·수출 경쟁력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260420136100002",
-      "pubDate": "Mon, 20 Apr 2026 16:55:00 +0900"
     }
   ]
 }
