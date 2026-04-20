@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776720976,
+  "updated_at_unix": 1776724345,
   "items": [
+    {
+      "title": "인플레 리스크로 시들해진 美채권 투자…개미들 대규모 매도",
+      "link": "https://www.yna.co.kr/view/AKR20260420139700008",
+      "pubDate": "Tue, 21 Apr 2026 07:03:00 +0900"
+    },
+    {
+      "title": "김부겸 'TK 신공항·행정통합' 공약에…재원해법 등 시험대",
+      "link": "https://www.yna.co.kr/view/AKR20260420122800053",
+      "pubDate": "Tue, 21 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '221개의 무너진 우주'…세계의 이름을 다시 부르는 이유",
+      "link": "https://www.yna.co.kr/view/AKR20260413050900898",
+      "pubDate": "Tue, 21 Apr 2026 07:00:01 +0900"
+    },
+    {
+      "title": "출연연 공통행정 전문화 시동…최대 150명 뽑는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420131400017",
+      "pubDate": "Tue, 21 Apr 2026 06:55:00 +0900"
+    },
     {
       "title": "[글로벌 코리안] \"K-컬처의 힘, 이젠 민화·판화로 세계시장 두드릴 때\"",
       "link": "https://www.yna.co.kr/view/AKR20260412002100371",
@@ -132,26 +152,6 @@
       "title": "현대차그룹, USTR에 \"美 301조관세 232조와 중복적용 안돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260420153700003",
       "pubDate": "Mon, 20 Apr 2026 19:01:34 +0900"
-    },
-    {
-      "title": "정진완 우리은행장, 인도 경제사절단 동행…현지 협력 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260420152400002",
-      "pubDate": "Mon, 20 Apr 2026 18:40:15 +0900"
-    },
-    {
-      "title": "현대건설, 압구정3구역 재건축 우선협상대상자로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260420151800003",
-      "pubDate": "Mon, 20 Apr 2026 18:27:44 +0900"
-    },
-    {
-      "title": "국토장관, 항공업계와 비상경제 간담회…\"종합 지원방안 시행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420151300003",
-      "pubDate": "Mon, 20 Apr 2026 18:25:50 +0900"
-    },
-    {
-      "title": "송미령 농식품부 장관 \"국정과제 조기 성과 창출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420140000030",
-      "pubDate": "Mon, 20 Apr 2026 18:15:24 +0900"
     }
   ]
 }
