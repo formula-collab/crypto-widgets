@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776710971,
+  "updated_at_unix": 1776714787,
   "items": [
+    {
+      "title": "워시 美연준의장 후보 \"대통령 금리발언, 연준 독립성 위협안해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421005800072",
+      "pubDate": "Tue, 21 Apr 2026 04:07:23 +0900"
+    },
+    {
+      "title": "존 바티스트 \"세상 움직일 예술 추구…다양성을 기념해야죠\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420161700005",
+      "pubDate": "Tue, 21 Apr 2026 04:00:00 +0900"
+    },
     {
       "title": "[뉴욕유가] 또다시 막힌 호르무즈 해협…WTI 7% 급등",
       "link": "https://www.yna.co.kr/view/AKR20260421005200009",
@@ -142,16 +152,6 @@
       "title": "관세청, 보세창고 규제 완화…물류비 절감·수출 경쟁력 강화",
       "link": "https://www.yna.co.kr/view/AKR20260420136100002",
       "pubDate": "Mon, 20 Apr 2026 16:55:00 +0900"
-    },
-    {
-      "title": "울산 1분기 수출, 작년보다 7.7%↑…석유제품 호조, 자동차 주춤",
-      "link": "https://www.yna.co.kr/view/AKR20260420135300057",
-      "pubDate": "Mon, 20 Apr 2026 16:54:26 +0900"
-    },
-    {
-      "title": "금강선 디렉터 차기작 '오르페우스' 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260420135100017",
-      "pubDate": "Mon, 20 Apr 2026 16:51:45 +0900"
     }
   ]
 }
