@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776797690,
+  "updated_at_unix": 1776801482,
   "items": [
+    {
+      "title": "미·이란 2차회담 불확실성에 국제유가 급등…브렌트유 3.1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260422007400072",
+      "pubDate": "Wed, 22 Apr 2026 04:50:56 +0900"
+    },
     {
       "title": "[뉴욕유가] 美·이란 협상 물 건너가나…WTI 3% 급등",
       "link": "https://www.yna.co.kr/view/AKR20260422005300009",
@@ -147,11 +152,6 @@
       "title": "춘천 기업혁신파크, 기업 방문·산업용지 문의 잇따라",
       "link": "https://www.yna.co.kr/view/AKR20260421139500062",
       "pubDate": "Tue, 21 Apr 2026 16:39:22 +0900"
-    },
-    {
-      "title": "내년 최저임금 심의 시작…새 위원장엔 권순원 교수",
-      "link": "https://www.yna.co.kr/view/AKR20260421140100530",
-      "pubDate": "Tue, 21 Apr 2026 16:38:08 +0900"
     }
   ]
 }
