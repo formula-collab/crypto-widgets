@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776792696,
+  "updated_at_unix": 1776797690,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 협상 물 건너가나…WTI 3% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260422005300009",
+      "pubDate": "Wed, 22 Apr 2026 03:39:28 +0900"
+    },
+    {
+      "title": "달러-원, 美 소비 호조·이란 불확실성에 급등…1,480.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260422003800002",
+      "pubDate": "Wed, 22 Apr 2026 02:49:59 +0900"
+    },
     {
       "title": "워시 \"대통령들은 금리인하 선호하지만…난 꼭두각시 아니다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260421179751071",
@@ -142,16 +152,6 @@
       "title": "내년 최저임금 심의 시작…새 위원장엔 권순원 교수",
       "link": "https://www.yna.co.kr/view/AKR20260421140100530",
       "pubDate": "Tue, 21 Apr 2026 16:38:08 +0900"
-    },
-    {
-      "title": "강원교육청 지방공무원 경쟁률 6.43대 1…작년 절반 이하",
-      "link": "https://www.yna.co.kr/view/AKR20260421139400062",
-      "pubDate": "Tue, 21 Apr 2026 16:32:12 +0900"
-    },
-    {
-      "title": "KG스틸 \"대한전선 주식 1천100억원어치 취득…지분율 4.9%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421142800008",
-      "pubDate": "Tue, 21 Apr 2026 16:31:22 +0900"
     }
   ]
 }
