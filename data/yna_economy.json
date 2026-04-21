@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776777564,
+  "updated_at_unix": 1776783303,
   "items": [
+    {
+      "title": "법원, 유탑그룹 계열사 3곳 회생절차 폐지 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260421177400054",
+      "pubDate": "Tue, 21 Apr 2026 22:52:29 +0900"
+    },
     {
       "title": "박홍근 \"2045년 비전, 연내에 국민께 보고…재원도 산출\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260421147051002",
@@ -147,11 +152,6 @@
       "title": "코스피 6,388선 터치, 역대최고…SK하이닉스 '120만 닉스' 돌파(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260421137400008",
       "pubDate": "Tue, 21 Apr 2026 16:15:50 +0900"
-    },
-    {
-      "title": "금융위, '금융정상화 제안센터' 운영…현장 목소리 정책 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260421134700002",
-      "pubDate": "Tue, 21 Apr 2026 16:06:53 +0900"
     }
   ]
 }
