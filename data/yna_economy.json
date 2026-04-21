@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776810574,
+  "updated_at_unix": 1776812833,
   "items": [
+    {
+      "title": "부산 관광산업 선도 '스타기업' 공모…지원금 1천만원 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260422022800051",
+      "pubDate": "Wed, 22 Apr 2026 07:59:10 +0900"
+    },
+    {
+      "title": "부산시, 고유가 피해지원금 27일부터 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260422022700051",
+      "pubDate": "Wed, 22 Apr 2026 07:56:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260422018000011",
+      "pubDate": "Wed, 22 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "구로구 '가리봉1구역 재개발' 내달 1일 창립총회",
       "link": "https://www.yna.co.kr/view/AKR20260422016300004",
@@ -137,21 +152,6 @@
       "title": "방시혁 영장신청에…'K팝 왕국' 하이브, 창사 20여년만 중대기로",
       "link": "https://www.yna.co.kr/view/AKR20260421156500005",
       "pubDate": "Tue, 21 Apr 2026 17:48:02 +0900"
-    },
-    {
-      "title": "노동장관, 청년카페서 추경 지원사업 점검…\"일경험 기회 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421128400530",
-      "pubDate": "Tue, 21 Apr 2026 17:30:00 +0900"
-    },
-    {
-      "title": "내년 최저임금 심의 시작…새 위원장엔 권순원 교수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260421140151530",
-      "pubDate": "Tue, 21 Apr 2026 17:29:53 +0900"
-    },
-    {
-      "title": "CSA 코스믹 \"자회사 젠트로그룹 주식 25억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421154100008",
-      "pubDate": "Tue, 21 Apr 2026 17:25:19 +0900"
     }
   ]
 }
