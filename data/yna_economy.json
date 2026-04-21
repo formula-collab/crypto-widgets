@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776807354,
+  "updated_at_unix": 1776810574,
   "items": [
+    {
+      "title": "구로구 '가리봉1구역 재개발' 내달 1일 창립총회",
+      "link": "https://www.yna.co.kr/view/AKR20260422016300004",
+      "pubDate": "Wed, 22 Apr 2026 07:02:47 +0900"
+    },
+    {
+      "title": "IMF \"중동 전쟁 아프리카 경제 위협\"…성장률 4.3%로 둔화 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260421130500898",
+      "pubDate": "Wed, 22 Apr 2026 07:02:00 +0900"
+    },
+    {
+      "title": "워시 \"난 대통령 꼭두각시 아냐…인플레, 덜 문제되는 건 사실\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260421179752071",
+      "pubDate": "Wed, 22 Apr 2026 06:49:06 +0900"
+    },
     {
       "title": "울산경제자유구역 3차 추가지정 밑그림…입지전략 용역 착수",
       "link": "https://www.yna.co.kr/view/AKR20260421170600057",
@@ -137,21 +152,6 @@
       "title": "CSA 코스믹 \"자회사 젠트로그룹 주식 25억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260421154100008",
       "pubDate": "Tue, 21 Apr 2026 17:25:19 +0900"
-    },
-    {
-      "title": "中국채에 유동성 몰리며 가격 강세…'안전자산 대안' 부상",
-      "link": "https://www.yna.co.kr/view/AKR20260421150900083",
-      "pubDate": "Tue, 21 Apr 2026 17:17:59 +0900"
-    },
-    {
-      "title": "코스피, 전쟁공포 딛고 전고점 돌파…'7천피' 고지 넘보나(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260421076552008",
-      "pubDate": "Tue, 21 Apr 2026 17:12:47 +0900"
-    },
-    {
-      "title": "신현송 신임 한은 총재, 구윤철 부총리와 23일 첫 회동",
-      "link": "https://www.yna.co.kr/view/AKR20260421150800002",
-      "pubDate": "Tue, 21 Apr 2026 17:12:24 +0900"
     }
   ]
 }
