@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776804536,
+  "updated_at_unix": 1776807354,
   "items": [
+    {
+      "title": "울산경제자유구역 3차 추가지정 밑그림…입지전략 용역 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260421170600057",
+      "pubDate": "Wed, 22 Apr 2026 06:05:03 +0900"
+    },
+    {
+      "title": "원전수출 창구 한전으로 단일화…'공동 주계약'으로 갈등 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260421167900003",
+      "pubDate": "Wed, 22 Apr 2026 06:05:02 +0900"
+    },
+    {
+      "title": "\"반려동물 주사기 판다\" 입금받고 잠적…수급난 악용 사기 기승",
+      "link": "https://www.yna.co.kr/view/AKR20260421155000030",
+      "pubDate": "Wed, 22 Apr 2026 06:01:02 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] \"폐지냐 축소냐\"…뜨거운 장특공제 논쟁, 시장도 '술렁'",
+      "link": "https://www.yna.co.kr/view/AKR20260421161900003",
+      "pubDate": "Wed, 22 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "싼타페·레이·토레스 등 17개 차종 53만2천대 리콜",
+      "link": "https://www.yna.co.kr/view/AKR20260421121400003",
+      "pubDate": "Wed, 22 Apr 2026 06:00:14 +0900"
+    },
+    {
+      "title": "시민이 공공개발 투자하고 수익 배당받는 '서울동행리츠' 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260421155600004",
+      "pubDate": "Wed, 22 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "나프타 68%·에틸렌 61%↑…3월 생산자물가 4년만에 최대폭 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260421149200002",
+      "pubDate": "Wed, 22 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "코트라, 美 시애틀서 현지 대학생 등 해외인재 유치 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260421157600003",
+      "pubDate": "Wed, 22 Apr 2026 06:00:06 +0900"
+    },
+    {
+      "title": "현대차·기아, 관세·판매보증충당금에 1분기 실적 동반부진 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260421156600003",
+      "pubDate": "Wed, 22 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "고지서 열람·세금 납부 한번에…ETAX 전자사서함 서비스 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260421161100004",
+      "pubDate": "Wed, 22 Apr 2026 06:00:03 +0900"
+    },
     {
       "title": "미·이란 2차회담 불확실성에 국제유가 급등…브렌트유 3.1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260422007400072",
@@ -102,56 +152,6 @@
       "title": "신현송 신임 한은 총재, 구윤철 부총리와 23일 첫 회동",
       "link": "https://www.yna.co.kr/view/AKR20260421150800002",
       "pubDate": "Tue, 21 Apr 2026 17:12:24 +0900"
-    },
-    {
-      "title": "종전 기대감에 국고채 금리 일제히↓…3년물 연 3.330%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260421144251008",
-      "pubDate": "Tue, 21 Apr 2026 17:09:13 +0900"
-    },
-    {
-      "title": "사상최고 경신, 코스피 전망은…전문가들 \"반도체 주도 랠리 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421147200008",
-      "pubDate": "Tue, 21 Apr 2026 17:07:57 +0900"
-    },
-    {
-      "title": "지방세 환급 페이머니로도 받는다…1주택 재산세 부담 완화 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260421136200530",
-      "pubDate": "Tue, 21 Apr 2026 17:00:04 +0900"
-    },
-    {
-      "title": "韓부채비율 IMF지적에 박홍근 \"과대전망 많아…재정선순환 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421145000002",
-      "pubDate": "Tue, 21 Apr 2026 17:00:03 +0900"
-    },
-    {
-      "title": "박홍근 \"지금은 추경 집행으로 효과 극대화해야…2차 예단 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421146100002",
-      "pubDate": "Tue, 21 Apr 2026 17:00:02 +0900"
-    },
-    {
-      "title": "박홍근 \"2045년 비전, 연내에 국민께 보고…재원도 산출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421147000002",
-      "pubDate": "Tue, 21 Apr 2026 17:00:01 +0900"
-    },
-    {
-      "title": "기름 넣고 결제없이 '쌩'…고유가에 英 휘발유 절도 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260421146200009",
-      "pubDate": "Tue, 21 Apr 2026 16:49:58 +0900"
-    },
-    {
-      "title": "화물연대 사망사고에 '노란봉투법' 해석 놓고 노사정 파열음",
-      "link": "https://www.yna.co.kr/view/AKR20260421140900052",
-      "pubDate": "Tue, 21 Apr 2026 16:46:03 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.330%",
-      "link": "https://www.yna.co.kr/view/AKR20260421144200008",
-      "pubDate": "Tue, 21 Apr 2026 16:42:04 +0900"
-    },
-    {
-      "title": "춘천 기업혁신파크, 기업 방문·산업용지 문의 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20260421139500062",
-      "pubDate": "Tue, 21 Apr 2026 16:39:22 +0900"
     }
   ]
 }
