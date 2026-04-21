@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776812833,
+  "updated_at_unix": 1776815771,
   "items": [
+    {
+      "title": "키움증권 \"동아ST, 일부 사업 성장 둔화…목표가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422030700008",
+      "pubDate": "Wed, 22 Apr 2026 08:50:34 +0900"
+    },
+    {
+      "title": "삼성증권 \"LS일렉 주가 101% 급등에도 매수 유효…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422027800008",
+      "pubDate": "Wed, 22 Apr 2026 08:40:52 +0900"
+    },
+    {
+      "title": "SK증권 \"감성코퍼레이션, 중국 사업 확장 효과 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422029200008",
+      "pubDate": "Wed, 22 Apr 2026 08:36:46 +0900"
+    },
+    {
+      "title": "대신證 \"삼성전기, 고부가 기판 투자확대로 1위 도약…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422028100008",
+      "pubDate": "Wed, 22 Apr 2026 08:34:11 +0900"
+    },
+    {
+      "title": "IBK투자증권 \"현대백화점 1분기 실적, 경쟁사 대비 부진 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422027700008",
+      "pubDate": "Wed, 22 Apr 2026 08:27:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] '사상 최고' 코스피, 숨고르기 여부 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260422024800008",
+      "pubDate": "Wed, 22 Apr 2026 08:07:03 +0900"
+    },
     {
       "title": "부산 관광산업 선도 '스타기업' 공모…지원금 1천만원 제공",
       "link": "https://www.yna.co.kr/view/AKR20260422022800051",
@@ -122,36 +152,6 @@
       "title": "박홍근 \"2045년 비전, 연내에 국민께 보고…재원도 산출\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260421147051002",
       "pubDate": "Tue, 21 Apr 2026 19:19:57 +0900"
-    },
-    {
-      "title": "고가차 증가에 대물보험 10억 이상 가입 과반…할인특약 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260421164100002",
-      "pubDate": "Tue, 21 Apr 2026 19:04:22 +0900"
-    },
-    {
-      "title": "박홍근 \"IMF 韓부채비율, 과대 전망 많아…엄격한 재정 관리중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260421145051002",
-      "pubDate": "Tue, 21 Apr 2026 18:59:13 +0900"
-    },
-    {
-      "title": "최태원 \"우리 정부가 직접 게임 참여해 기업 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421160700003",
-      "pubDate": "Tue, 21 Apr 2026 18:16:20 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260421153000011",
-      "pubDate": "Tue, 21 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[카드뉴스] AI 시대, K-로컬의 내일을 만나다…와이팜 엑스포 2026",
-      "link": "https://www.yna.co.kr/view/AKR20260421148900371",
-      "pubDate": "Tue, 21 Apr 2026 17:58:49 +0900"
-    },
-    {
-      "title": "방시혁 영장신청에…'K팝 왕국' 하이브, 창사 20여년만 중대기로",
-      "link": "https://www.yna.co.kr/view/AKR20260421156500005",
-      "pubDate": "Tue, 21 Apr 2026 17:48:02 +0900"
     }
   ]
 }
