@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776765352,
+  "updated_at_unix": 1776769116,
   "items": [
+    {
+      "title": "박홍근 \"2045년 비전, 연내에 국민께 보고…재원도 산출\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260421147051002",
+      "pubDate": "Tue, 21 Apr 2026 19:19:57 +0900"
+    },
+    {
+      "title": "고가차 증가에 대물보험 10억 이상 가입 과반…할인특약 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260421164100002",
+      "pubDate": "Tue, 21 Apr 2026 19:04:22 +0900"
+    },
+    {
+      "title": "박홍근 \"IMF 韓부채비율, 과대 전망 많아…엄격한 재정 관리중\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260421145051002",
+      "pubDate": "Tue, 21 Apr 2026 18:59:13 +0900"
+    },
     {
       "title": "최태원 \"우리 정부가 직접 게임 참여해 기업 지원해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260421160700003",
@@ -137,21 +152,6 @@
       "title": "금융위, '금융정상화 제안센터' 운영…현장 목소리 정책 반영",
       "link": "https://www.yna.co.kr/view/AKR20260421134700002",
       "pubDate": "Tue, 21 Apr 2026 16:06:53 +0900"
-    },
-    {
-      "title": "코스피, 전쟁공포 딛고 전고점 돌파…'7천피' 고지 넘보나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260421076551008",
-      "pubDate": "Tue, 21 Apr 2026 16:06:42 +0900"
-    },
-    {
-      "title": "환율, 미·이란 평화회담 성사 전망에…한달여 만에 1,460원대",
-      "link": "https://www.yna.co.kr/view/AKR20260421133300002",
-      "pubDate": "Tue, 21 Apr 2026 16:04:52 +0900"
-    },
-    {
-      "title": "부산교육청 공무원 임용시험 경쟁률 12.2대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260421136000051",
-      "pubDate": "Tue, 21 Apr 2026 16:04:41 +0900"
     }
   ]
 }
