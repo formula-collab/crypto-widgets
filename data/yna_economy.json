@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776883071,
+  "updated_at_unix": 1776887949,
   "items": [
+    {
+      "title": "국제유가, 이란군 호르무즈 선박 나포에 상승…브렌트 100달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260423005900072",
+      "pubDate": "Thu, 23 Apr 2026 04:22:52 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 최대 5일에 불과하다는 휴전 연장…WTI 3.7% 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260423005100009",
+      "pubDate": "Thu, 23 Apr 2026 03:55:26 +0900"
+    },
     {
       "title": "달러-원, 美·이란 긴장 주시 속 소폭 상승…1,480.30원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260423003700002",
@@ -142,16 +152,6 @@
       "title": "과천시, 막계동 특별계획구역 사업협약…병원 건립 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260422133600061",
       "pubDate": "Wed, 22 Apr 2026 16:41:11 +0900"
-    },
-    {
-      "title": "쌀전복죽·황금떡볶이 등 '진도 식품', 러시아 수출길",
-      "link": "https://www.yna.co.kr/view/AKR20260422135400054",
-      "pubDate": "Wed, 22 Apr 2026 16:39:15 +0900"
-    },
-    {
-      "title": "원주시시설관리공단, 노인 일자리 연계 폐의약품 수거 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260422132700062",
-      "pubDate": "Wed, 22 Apr 2026 16:37:16 +0900"
     }
   ]
 }
