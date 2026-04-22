@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776859123,
+  "updated_at_unix": 1776864264,
   "items": [
+    {
+      "title": "韓-베트남, 전력 인프라·물 안보 협력…양해각서 체결(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260422136051530",
+      "pubDate": "Wed, 22 Apr 2026 21:45:10 +0900"
+    },
+    {
+      "title": "李대통령 국빈 방문 계기로 한-베트남 환경장관회의 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260422136000530",
+      "pubDate": "Wed, 22 Apr 2026 21:13:16 +0900"
+    },
     {
       "title": "韓-베트남, 원전개발·전력인프라 등 협력문건 12건 체결",
       "link": "https://www.yna.co.kr/view/AKR20260422138600001",
@@ -142,16 +152,6 @@
       "title": "대동 \"계열사 대동기어 주식 179억원어치 추가취득…지분율 36%\"",
       "link": "https://www.yna.co.kr/view/AKR20260422131600008",
       "pubDate": "Wed, 22 Apr 2026 16:16:57 +0900"
-    },
-    {
-      "title": "美-이란 협상불발에도 시장 무덤덤…전문가들 \"최악은 피해\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422112151008",
-      "pubDate": "Wed, 22 Apr 2026 16:16:35 +0900"
-    },
-    {
-      "title": "경남도, 사천 우주항공복합도시 공간 구상 회의…\"집적화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422130600052",
-      "pubDate": "Wed, 22 Apr 2026 16:11:08 +0900"
     }
   ]
 }
