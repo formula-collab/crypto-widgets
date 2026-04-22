@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776891264,
+  "updated_at_unix": 1776894037,
   "items": [
+    {
+      "title": "건설교통신기술의 날 기념식…유공자 17명에 표창",
+      "link": "https://www.yna.co.kr/view/AKR20260422109100003",
+      "pubDate": "Thu, 23 Apr 2026 06:00:08 +0900"
+    },
+    {
+      "title": "중동전쟁에 국내기업 경기전망 두달 연속 부정적…자금사정 악화",
+      "link": "https://www.yna.co.kr/view/AKR20260422135700003",
+      "pubDate": "Thu, 23 Apr 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시, 중동사태에 수출기업 물류비 지원…1사당 최대 3천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260422142200004",
+      "pubDate": "Thu, 23 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "중동전쟁에 4월 소비심리 1년만에 '비관적'…계엄 후 최대폭↓",
+      "link": "https://www.yna.co.kr/view/AKR20260422137100002",
+      "pubDate": "Thu, 23 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "\"AI농업·귀농정보 한눈에\"…연합뉴스 'Y-팜 엑스포' 내일 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260422154600030",
+      "pubDate": "Thu, 23 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "취업해도 \"더 일하고파\"…1분기 청년 '불완전 취업' 5년만 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260422145600002",
+      "pubDate": "Thu, 23 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "\"지정학적 충격시 석유 생산 1% 줄면 유가 11.5% 급등\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422145400002",
+      "pubDate": "Thu, 23 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "경실련, 아파트값 분석·공천 평가 발표 취소…\"내부 사정\"",
       "link": "https://www.yna.co.kr/view/AKR20260422150500004",
@@ -117,41 +152,6 @@
       "title": "배민, '한 그릇' 서비스 유료화…일반 이용자 500원 부과",
       "link": "https://www.yna.co.kr/view/AKR20260422140200030",
       "pubDate": "Wed, 22 Apr 2026 17:05:54 +0900"
-    },
-    {
-      "title": "1분기에 줄인 국고채·공적채권…금리 안정에 2분기는 정상 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260422140100002",
-      "pubDate": "Wed, 22 Apr 2026 17:05:03 +0900"
-    },
-    {
-      "title": "정부 \"고유가 지원금, 모든 주유소 허용하면 정책 취지 훼손\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422140500530",
-      "pubDate": "Wed, 22 Apr 2026 17:04:03 +0900"
-    },
-    {
-      "title": "종전협상 무산에 국고채 금리 일제히 상승…3년물 연 3.365%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422136251008",
-      "pubDate": "Wed, 22 Apr 2026 16:57:27 +0900"
-    },
-    {
-      "title": "서진시스템, 1천800억유증…네오영·토러스자산운용에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260422138800008",
-      "pubDate": "Wed, 22 Apr 2026 16:55:10 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.365%",
-      "link": "https://www.yna.co.kr/view/AKR20260422136200008",
-      "pubDate": "Wed, 22 Apr 2026 16:45:15 +0900"
-    },
-    {
-      "title": "SNT모티브 \"스맥 주식 606억원어치 취득…지분율 20.5%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422135300008",
-      "pubDate": "Wed, 22 Apr 2026 16:45:01 +0900"
-    },
-    {
-      "title": "구윤철 \"장특공, 다양한 의견 듣는 중…정책결정 이뤄지지 않아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422128700001",
-      "pubDate": "Wed, 22 Apr 2026 16:44:31 +0900"
     }
   ]
 }
