@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776887949,
+  "updated_at_unix": 1776891264,
   "items": [
+    {
+      "title": "경실련, 아파트값 분석·공천 평가 발표 취소…\"내부 사정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422150500004",
+      "pubDate": "Thu, 23 Apr 2026 05:30:00 +0900"
+    },
     {
       "title": "국제유가, 이란군 호르무즈 선박 나포에 상승…브렌트 100달러대",
       "link": "https://www.yna.co.kr/view/AKR20260423005900072",
@@ -147,11 +152,6 @@
       "title": "구윤철 \"장특공, 다양한 의견 듣는 중…정책결정 이뤄지지 않아\"",
       "link": "https://www.yna.co.kr/view/AKR20260422128700001",
       "pubDate": "Wed, 22 Apr 2026 16:44:31 +0900"
-    },
-    {
-      "title": "과천시, 막계동 특별계획구역 사업협약…병원 건립 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260422133600061",
-      "pubDate": "Wed, 22 Apr 2026 16:41:11 +0900"
     }
   ]
 }
