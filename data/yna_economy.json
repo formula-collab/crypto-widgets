@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776864264,
+  "updated_at_unix": 1776869664,
   "items": [
+    {
+      "title": "美, 이라크에 달러공급 중단…현지 친이란 무장세력 해체 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260422171300072",
+      "pubDate": "Wed, 22 Apr 2026 23:15:23 +0900"
+    },
     {
       "title": "韓-베트남, 전력 인프라·물 안보 협력…양해각서 체결(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260422136051530",
@@ -147,11 +152,6 @@
       "title": "\"납품연기·추가운임 요구\"…중동전쟁에 中企 피해 677건",
       "link": "https://www.yna.co.kr/view/AKR20260422134000030",
       "pubDate": "Wed, 22 Apr 2026 16:33:59 +0900"
-    },
-    {
-      "title": "대동 \"계열사 대동기어 주식 179억원어치 추가취득…지분율 36%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422131600008",
-      "pubDate": "Wed, 22 Apr 2026 16:16:57 +0900"
     }
   ]
 }
