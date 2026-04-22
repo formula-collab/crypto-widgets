@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776873666,
+  "updated_at_unix": 1776878983,
   "items": [
+    {
+      "title": "美재무장관 \"걸프·아시아 동맹국들이 통화스와프 요청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423001900071",
+      "pubDate": "Thu, 23 Apr 2026 01:13:51 +0900"
+    },
     {
       "title": "美, 이라크에 달러공급 중단…현지 친이란 무장세력 해체 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260422171300072",
@@ -147,11 +152,6 @@
       "title": "[게시판] 산업은행 '장애인 재활기금 마련 바자회' 개최",
       "link": "https://www.yna.co.kr/view/AKR20260422134300002",
       "pubDate": "Wed, 22 Apr 2026 16:35:09 +0900"
-    },
-    {
-      "title": "\"납품연기·추가운임 요구\"…중동전쟁에 中企 피해 677건",
-      "link": "https://www.yna.co.kr/view/AKR20260422134000030",
-      "pubDate": "Wed, 22 Apr 2026 16:33:59 +0900"
     }
   ]
 }
