@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776897414,
+  "updated_at_unix": 1776901017,
   "items": [
+    {
+      "title": "신한투자 \"원익머트리얼즈, 높아진 실적 가시성…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423026800008",
+      "pubDate": "Thu, 23 Apr 2026 08:27:22 +0900"
+    },
+    {
+      "title": "IBK투자 \"삼성바이오로직스, 하반기 실적 가이던스 상향 무게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423025900008",
+      "pubDate": "Thu, 23 Apr 2026 08:20:19 +0900"
+    },
+    {
+      "title": "[마켓뷰] '이틀 연속 사상최고' 코스피, 추가상승 이어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260423024100008",
+      "pubDate": "Thu, 23 Apr 2026 08:09:25 +0900"
+    },
+    {
+      "title": "한국산 삼계탕, 베트남 수출 길 열렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260422107300017",
+      "pubDate": "Thu, 23 Apr 2026 08:00:05 +0900"
+    },
+    {
+      "title": "중동발 악재에도…1분기 韓경제 1.7% 급반등, 5년6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260423019000002",
+      "pubDate": "Thu, 23 Apr 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산기록원 건립 사업 정부 중투심 통과…2031년 개원 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260423022300051",
+      "pubDate": "Thu, 23 Apr 2026 07:58:18 +0900"
+    },
+    {
+      "title": "한국주택금융공사, 부산시 우리동네 ESG센터 운영에 3억원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260423021900051",
+      "pubDate": "Thu, 23 Apr 2026 07:57:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260423014700011",
+      "pubDate": "Thu, 23 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 아프리카 자유무역 실험장 'GTI'…한국의 8개국 거점 전략",
       "link": "https://www.yna.co.kr/view/AKR20260421121900898",
@@ -112,46 +152,6 @@
       "title": "법무부, 농번기 맞아 계절근로자 사증발급인정서 처리 긴급대응",
       "link": "https://www.yna.co.kr/view/AKR20260422155200004",
       "pubDate": "Wed, 22 Apr 2026 18:28:35 +0900"
-    },
-    {
-      "title": "LGD, 1.1조원 규모 OLED 인프라 투자…사업구조 고도화 가속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422151551003",
-      "pubDate": "Wed, 22 Apr 2026 18:10:31 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260422146700011",
-      "pubDate": "Wed, 22 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "종이나라, 인도 1만5천 학교에 'K-종이접기' 교실 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260422150600371",
-      "pubDate": "Wed, 22 Apr 2026 17:57:00 +0900"
-    },
-    {
-      "title": "LG디스플레이, 신규 OLED 인프라에 1조1천억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260422151500003",
-      "pubDate": "Wed, 22 Apr 2026 17:56:19 +0900"
-    },
-    {
-      "title": "강훈식 \"석유 최고가격제, 우려와 달리 물가 억제·충격 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422148600001",
-      "pubDate": "Wed, 22 Apr 2026 17:52:05 +0900"
-    },
-    {
-      "title": "'땅값 부풀리기'·'집값 뻥튀기'…부동산 시장 교란 15명 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260422142900054",
-      "pubDate": "Wed, 22 Apr 2026 17:21:58 +0900"
-    },
-    {
-      "title": "SIMPAC \"제노밸류업사모투자 합자회사 주식 354억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422145300008",
-      "pubDate": "Wed, 22 Apr 2026 17:21:29 +0900"
-    },
-    {
-      "title": "핑거, 300억원 유상증자…서룡전자 주식회사에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260422144800008",
-      "pubDate": "Wed, 22 Apr 2026 17:19:26 +0900"
     }
   ]
 }
