@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776855532,
+  "updated_at_unix": 1776859123,
   "items": [
+    {
+      "title": "韓-베트남, 원전개발·전력인프라 등 협력문건 12건 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260422138600001",
+      "pubDate": "Wed, 22 Apr 2026 20:45:56 +0900"
+    },
+    {
+      "title": "교보생명 3세 신중현, SBI 저축은행으로…'시너지팀장' 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260422159600002",
+      "pubDate": "Wed, 22 Apr 2026 20:07:19 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260422159900002",
+      "pubDate": "Wed, 22 Apr 2026 20:06:12 +0900"
+    },
     {
       "title": "NC AI, NHN클라우드와 AI 인프라 구축 협약",
       "link": "https://www.yna.co.kr/view/AKR20260422156100017",
@@ -137,21 +152,6 @@
       "title": "경남도, 사천 우주항공복합도시 공간 구상 회의…\"집적화 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260422130600052",
       "pubDate": "Wed, 22 Apr 2026 16:11:08 +0900"
-    },
-    {
-      "title": "코스피, 하루 만에 최고치 또 경신…6,400선 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422128000008",
-      "pubDate": "Wed, 22 Apr 2026 16:07:36 +0900"
-    },
-    {
-      "title": "전남도, 전남광주특별시 선도기업 투자유치 추진 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260422127100054",
-      "pubDate": "Wed, 22 Apr 2026 16:01:08 +0900"
-    },
-    {
-      "title": "[특징주] 중동사태 장기화 우려에 알루미늄 관련주도 상승마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422053851008",
-      "pubDate": "Wed, 22 Apr 2026 16:00:10 +0900"
     }
   ]
 }
