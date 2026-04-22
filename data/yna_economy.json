@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776845623,
+  "updated_at_unix": 1776851826,
   "items": [
+    {
+      "title": "NC AI, NHN클라우드와 AI 인프라 구축 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260422156100017",
+      "pubDate": "Wed, 22 Apr 2026 18:48:10 +0900"
+    },
+    {
+      "title": "법무부, 농번기 맞아 계절근로자 사증발급인정서 처리 긴급대응",
+      "link": "https://www.yna.co.kr/view/AKR20260422155200004",
+      "pubDate": "Wed, 22 Apr 2026 18:28:35 +0900"
+    },
+    {
+      "title": "LGD, 1.1조원 규모 OLED 인프라 투자…사업구조 고도화 가속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260422151551003",
+      "pubDate": "Wed, 22 Apr 2026 18:10:31 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260422146700011",
+      "pubDate": "Wed, 22 Apr 2026 18:00:00 +0900"
+    },
+    {
+      "title": "종이나라, 인도 1만5천 학교에 'K-종이접기' 교실 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260422150600371",
+      "pubDate": "Wed, 22 Apr 2026 17:57:00 +0900"
+    },
+    {
+      "title": "LG디스플레이, 신규 OLED 인프라에 1조1천억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260422151500003",
+      "pubDate": "Wed, 22 Apr 2026 17:56:19 +0900"
+    },
+    {
+      "title": "강훈식 \"석유 최고가격제, 우려와 달리 물가 억제·충격 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422148600001",
+      "pubDate": "Wed, 22 Apr 2026 17:52:05 +0900"
+    },
+    {
+      "title": "'땅값 부풀리기'·'집값 뻥튀기'…부동산 시장 교란 15명 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260422142900054",
+      "pubDate": "Wed, 22 Apr 2026 17:21:58 +0900"
+    },
+    {
+      "title": "SIMPAC \"제노밸류업사모투자 합자회사 주식 354억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422145300008",
+      "pubDate": "Wed, 22 Apr 2026 17:21:29 +0900"
+    },
+    {
+      "title": "핑거, 300억원 유상증자…서룡전자 주식회사에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260422144800008",
+      "pubDate": "Wed, 22 Apr 2026 17:19:26 +0900"
+    },
+    {
+      "title": "큐로홀딩스, 9억9천만원 유상증자…김규한 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260422143100008",
+      "pubDate": "Wed, 22 Apr 2026 17:17:10 +0900"
+    },
+    {
+      "title": "배민, '한 그릇' 서비스 유료화…일반 이용자 500원 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260422140200030",
+      "pubDate": "Wed, 22 Apr 2026 17:05:54 +0900"
+    },
+    {
+      "title": "1분기에 줄인 국고채·공적채권…금리 안정에 2분기는 정상 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260422140100002",
+      "pubDate": "Wed, 22 Apr 2026 17:05:03 +0900"
+    },
     {
       "title": "정부 \"고유가 지원금, 모든 주유소 허용하면 정책 취지 훼손\"",
       "link": "https://www.yna.co.kr/view/AKR20260422140500530",
@@ -64,7 +129,7 @@
       "pubDate": "Wed, 22 Apr 2026 16:16:57 +0900"
     },
     {
-      "title": "美-이란 협상불발에도 시장 잠잠…증시 전문가들 \"최악은 피해\"(종합)",
+      "title": "美-이란 협상불발에도 시장 무덤덤…전문가들 \"최악은 피해\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260422112151008",
       "pubDate": "Wed, 22 Apr 2026 16:16:35 +0900"
     },
@@ -87,71 +152,6 @@
       "title": "[특징주] 중동사태 장기화 우려에 알루미늄 관련주도 상승마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260422053851008",
       "pubDate": "Wed, 22 Apr 2026 16:00:10 +0900"
-    },
-    {
-      "title": "LIG D&A, '해궁' 첫 해외수출…말레이시아에 1천400억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260422104400504",
-      "pubDate": "Wed, 22 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "한화 3남 김동선, ㈜한화 퇴사…테크·라이프 사업 집중",
-      "link": "https://www.yna.co.kr/view/AKR20260422126400003",
-      "pubDate": "Wed, 22 Apr 2026 15:58:10 +0900"
-    },
-    {
-      "title": "[특징주]  美·이란 협상불발에 방산주 강세…LIG디펜스 12%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422043451008",
-      "pubDate": "Wed, 22 Apr 2026 15:55:23 +0900"
-    },
-    {
-      "title": "대동기어, 800억원 유상증자 결정…주당 0.3주 무상증자도",
-      "link": "https://www.yna.co.kr/view/AKR20260422125600008",
-      "pubDate": "Wed, 22 Apr 2026 15:49:22 +0900"
-    },
-    {
-      "title": "환율, 미·이란 협상 불발에 7.5원 반등…휴전 연장에 상승폭↓",
-      "link": "https://www.yna.co.kr/view/AKR20260422123300002",
-      "pubDate": "Wed, 22 Apr 2026 15:43:51 +0900"
-    },
-    {
-      "title": "코스피, 하루 만에 최고치 또 경신…6,400선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260422122800008",
-      "pubDate": "Wed, 22 Apr 2026 15:39:39 +0900"
-    },
-    {
-      "title": "박홍근, 중장기위 첫 참석…\"비전 2045, 기존과 확실히 차별\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422120200002",
-      "pubDate": "Wed, 22 Apr 2026 15:37:45 +0900"
-    },
-    {
-      "title": "외국환시세(4월22일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260422122300002",
-      "pubDate": "Wed, 22 Apr 2026 15:35:31 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260422121700008",
-      "pubDate": "Wed, 22 Apr 2026 15:34:22 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 7.5원 오른 1,476.0원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260422120700002",
-      "pubDate": "Wed, 22 Apr 2026 15:30:46 +0900"
-    },
-    {
-      "title": "수출입은행, '그냥드림'에 HK이노엔과 5억원 상당 매칭 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260422038100530",
-      "pubDate": "Wed, 22 Apr 2026 15:30:01 +0900"
-    },
-    {
-      "title": "한성숙 중기장관, 호서대서 '모두의 창업' 대학생 의견 수렴",
-      "link": "https://www.yna.co.kr/view/AKR20260422095100030",
-      "pubDate": "Wed, 22 Apr 2026 15:30:00 +0900"
-    },
-    {
-      "title": "부산상의, 중국 경제단체 선전국제상회와 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260422118600051",
-      "pubDate": "Wed, 22 Apr 2026 15:28:49 +0900"
     }
   ]
 }
