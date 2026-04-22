@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776894037,
+  "updated_at_unix": 1776897414,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카 자유무역 실험장 'GTI'…한국의 8개국 거점 전략",
+      "link": "https://www.yna.co.kr/view/AKR20260421121900898",
+      "pubDate": "Thu, 23 Apr 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[르포] \"중동전쟁인데 왜 우리집 소가\"…축산농가 고유가 '삼중고' 흔들",
+      "link": "https://www.yna.co.kr/view/AKR20260422089700063",
+      "pubDate": "Thu, 23 Apr 2026 07:00:04 +0900"
+    },
     {
       "title": "건설교통신기술의 날 기념식…유공자 17명에 표창",
       "link": "https://www.yna.co.kr/view/AKR20260422109100003",
@@ -142,16 +152,6 @@
       "title": "핑거, 300억원 유상증자…서룡전자 주식회사에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260422144800008",
       "pubDate": "Wed, 22 Apr 2026 17:19:26 +0900"
-    },
-    {
-      "title": "큐로홀딩스, 9억9천만원 유상증자…김규한 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260422143100008",
-      "pubDate": "Wed, 22 Apr 2026 17:17:10 +0900"
-    },
-    {
-      "title": "배민, '한 그릇' 서비스 유료화…일반 이용자 500원 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260422140200030",
-      "pubDate": "Wed, 22 Apr 2026 17:05:54 +0900"
     }
   ]
 }
