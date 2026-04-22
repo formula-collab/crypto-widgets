@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776832602,
+  "updated_at_unix": 1776839293,
   "items": [
+    {
+      "title": "세스코, K-푸드 수출지원 컨설팅 출시…미국 규제 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260422111400030",
+      "pubDate": "Wed, 22 Apr 2026 15:12:56 +0900"
+    },
+    {
+      "title": "부산은행, 1분기 IRP 원리금 비보장 부문 수익률 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260422116000051",
+      "pubDate": "Wed, 22 Apr 2026 15:12:49 +0900"
+    },
+    {
+      "title": "美-이란 협상불발에도 시장 잠잠…증시 전문가들 \"최악은 피해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422112100008",
+      "pubDate": "Wed, 22 Apr 2026 15:11:12 +0900"
+    },
+    {
+      "title": "순천향대, 미 LA 한인상공회의소와 글로벌 인재 양성 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260422113500063",
+      "pubDate": "Wed, 22 Apr 2026 15:01:37 +0900"
+    },
+    {
+      "title": "재경부 \"주식시장 외국인 접근성, 글로벌 표준 맞춰 높이겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422103700002",
+      "pubDate": "Wed, 22 Apr 2026 15:00:01 +0900"
+    },
+    {
+      "title": "작년 금융·고용·복지 복합지원 16만5천여명…2년새 3.6배로",
+      "link": "https://www.yna.co.kr/view/AKR20260422102400002",
+      "pubDate": "Wed, 22 Apr 2026 15:00:01 +0900"
+    },
+    {
+      "title": "재경부 \"주식시장 투자 접근성, 글로벌 표준 맞게 높일 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422111100002",
+      "pubDate": "Wed, 22 Apr 2026 15:00:00 +0900"
+    },
+    {
+      "title": "상지대 RISE사업단, 한국골프과학기술대와 창업 활성화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260422109800062",
+      "pubDate": "Wed, 22 Apr 2026 14:59:00 +0900"
+    },
+    {
+      "title": "센서뷰, 400억원 주주배정 유상증자 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260422111900008",
+      "pubDate": "Wed, 22 Apr 2026 14:57:51 +0900"
+    },
+    {
+      "title": "암참, 샌프란시스코와 AI·혁신산업 등 경제협력 강화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260422110000003",
+      "pubDate": "Wed, 22 Apr 2026 14:55:01 +0900"
+    },
+    {
+      "title": "경남교육청, 올해 첫 지방공무원 임용시험 평균 경쟁률 9.2대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260422110500052",
+      "pubDate": "Wed, 22 Apr 2026 14:52:58 +0900"
+    },
+    {
+      "title": "KB증권, '지구의 날' 맞이 소등 행사 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260422109300008",
+      "pubDate": "Wed, 22 Apr 2026 14:40:17 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260422102700011",
+      "pubDate": "Wed, 22 Apr 2026 14:30:00 +0900"
+    },
+    {
+      "title": "이억원 \"한·인도 QR 결제연동 연내 출시…환전없이 결제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422102000002",
+      "pubDate": "Wed, 22 Apr 2026 14:28:14 +0900"
+    },
+    {
+      "title": "SK하이닉스, 청주 첨단 패키징 팹 첫 삽…HBM 리더십 굳힌다",
+      "link": "https://www.yna.co.kr/view/AKR20260422100700003",
+      "pubDate": "Wed, 22 Apr 2026 14:20:52 +0900"
+    },
+    {
+      "title": "[K-VIBE] 이순열의 K-스타트업… 임팩트 투자 불모지 한국",
+      "link": "https://www.yna.co.kr/view/AKR20260422104100371",
+      "pubDate": "Wed, 22 Apr 2026 14:17:08 +0900"
+    },
+    {
+      "title": "[옥천소식] 청년 로컬 크리에이터 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260422071400064",
+      "pubDate": "Wed, 22 Apr 2026 14:05:08 +0900"
+    },
+    {
+      "title": "\"외국인 농부 없으면 어쩔 뻔?\" 보은군 영농현장서 맹활약",
+      "link": "https://www.yna.co.kr/view/AKR20260422097300064",
+      "pubDate": "Wed, 22 Apr 2026 14:03:44 +0900"
+    },
+    {
+      "title": "올해 1분기 '이달의 기능한국인'…박해성·황창순·송원호 대표",
+      "link": "https://www.yna.co.kr/view/AKR20260422072300530",
+      "pubDate": "Wed, 22 Apr 2026 14:00:03 +0900"
+    },
+    {
+      "title": "중기중앙회, 5대 백화점·쿠팡 등 13개 유통사와 '통합 품평회'",
+      "link": "https://www.yna.co.kr/view/AKR20260422076200030",
+      "pubDate": "Wed, 22 Apr 2026 14:00:02 +0900"
+    },
+    {
+      "title": "중기중앙회, 섬유산업위 개최…\"군 피복류 국산 원단 확대해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422083700030",
+      "pubDate": "Wed, 22 Apr 2026 14:00:02 +0900"
+    },
     {
       "title": "농협, 312억원 투입해 할인 행사…\"장바구니 부담 낮춘다\"",
       "link": "https://www.yna.co.kr/view/AKR20260422033900030",
@@ -14,13 +119,13 @@
       "pubDate": "Wed, 22 Apr 2026 12:00:08 +0900"
     },
     {
-      "title": "금감원 \"이사회 소비자보호 기능 강화…절반이 전문이사 선임\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422056900002",
+      "title": "2월생 아기 2만3천명, 7년 만에 최대…30대 출산 크게 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260422060400002",
       "pubDate": "Wed, 22 Apr 2026 12:00:07 +0900"
     },
     {
-      "title": "2월생 아기 2만3천명, 7년 만에 최대…30대 출산 크게 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260422060400002",
+      "title": "금감원 \"이사회 소비자보호 기능 강화…절반이 전문이사 선임\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422056900002",
       "pubDate": "Wed, 22 Apr 2026 12:00:07 +0900"
     },
     {
@@ -47,111 +152,6 @@
       "title": "LS증권, 국내선물옵션 수수료 할인 이벤트",
       "link": "https://www.yna.co.kr/view/AKR20260422081800008",
       "pubDate": "Wed, 22 Apr 2026 11:47:36 +0900"
-    },
-    {
-      "title": "신한운용, 국내 첫 BDC 펀드 출시…\"혁신기업·세컨더리 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422078500008",
-      "pubDate": "Wed, 22 Apr 2026 11:46:27 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.361%",
-      "link": "https://www.yna.co.kr/view/AKR20260422082900008",
-      "pubDate": "Wed, 22 Apr 2026 11:42:31 +0900"
-    },
-    {
-      "title": "코스피 '최고치' 경신에도…유가증권시장 60% 전쟁그늘 못벗어나",
-      "link": "https://www.yna.co.kr/view/AKR20260422078600008",
-      "pubDate": "Wed, 22 Apr 2026 11:41:27 +0900"
-    },
-    {
-      "title": "강은미 정의당 예비후보, CU 사망사고 규탄…직접교섭 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260422081100054",
-      "pubDate": "Wed, 22 Apr 2026 11:36:07 +0900"
-    },
-    {
-      "title": "인천 남동산단 활성화 맞손…남동구-5개 기관 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260422079800065",
-      "pubDate": "Wed, 22 Apr 2026 11:33:02 +0900"
-    },
-    {
-      "title": "코스피, 장중 6360선으로 하락…'사상최고' 이후 숨고르기",
-      "link": "https://www.yna.co.kr/view/AKR20260422076000008",
-      "pubDate": "Wed, 22 Apr 2026 11:27:26 +0900"
-    },
-    {
-      "title": "울주군, 세외수입 담당자 역량 강화…\"지방재정 건전 확충\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422077500057",
-      "pubDate": "Wed, 22 Apr 2026 11:26:48 +0900"
-    },
-    {
-      "title": "코스피 '사상최고'에 '빚투'도 과열조짐…신용융자 등 제한조치",
-      "link": "https://www.yna.co.kr/view/AKR20260422073500008",
-      "pubDate": "Wed, 22 Apr 2026 11:23:50 +0900"
-    },
-    {
-      "title": "금천구, 신혼부부 맞춤형주택 입주자 4세대 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260422076800004",
-      "pubDate": "Wed, 22 Apr 2026 11:23:08 +0900"
-    },
-    {
-      "title": "송미령 장관, 베트남서 농업 협력 논의…K푸드 수출 확대 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260422070500030",
-      "pubDate": "Wed, 22 Apr 2026 11:20:38 +0900"
-    },
-    {
-      "title": "성북 장위 13-1·2구역 신통기획 확정…5천900세대 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260422055400004",
-      "pubDate": "Wed, 22 Apr 2026 11:15:01 +0900"
-    },
-    {
-      "title": "빈집 줄이고 새집 늘리고…화천군, 5년간 주거환경 개선 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260422073600062",
-      "pubDate": "Wed, 22 Apr 2026 11:11:43 +0900"
-    },
-    {
-      "title": "KDI \"석유최고가격제, 3월 물가 최대 0.8%p↓…소비둔화 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422068000002",
-      "pubDate": "Wed, 22 Apr 2026 11:10:07 +0900"
-    },
-    {
-      "title": "포천시, 336억원 규모 고유가 극복 추경 예산안 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260422072100060",
-      "pubDate": "Wed, 22 Apr 2026 11:08:48 +0900"
-    },
-    {
-      "title": "무주군, 고유가 지원금 전담팀 구성…군민 1만8천900명에 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260422071200055",
-      "pubDate": "Wed, 22 Apr 2026 11:07:26 +0900"
-    },
-    {
-      "title": "농식품부, 농촌용수개발 신규 20곳 선정…가뭄 취약지 공급 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260422055800030",
-      "pubDate": "Wed, 22 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, GPU 32장 확보…AI 기반 스마트농업 확산 가속화",
-      "link": "https://www.yna.co.kr/view/AKR20260422058600030",
-      "pubDate": "Wed, 22 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "K-자동차 부품, 북미 공급망 재편 타고 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260422059700003",
-      "pubDate": "Wed, 22 Apr 2026 11:00:03 +0900"
-    },
-    {
-      "title": "해수부, 불법어구 '즉시 철거' 시행…어구 '전주기 관리' 가속화",
-      "link": "https://www.yna.co.kr/view/AKR20260422061500030",
-      "pubDate": "Wed, 22 Apr 2026 11:00:03 +0900"
-    },
-    {
-      "title": "빈집 활용해 농촌 소멸 대응…농식품부, 한일 성공 사례 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260422062700030",
-      "pubDate": "Wed, 22 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "농식품부, '찾아가는 양조장' 5곳 신규 선정…전통주 명소 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260422063700030",
-      "pubDate": "Wed, 22 Apr 2026 11:00:00 +0900"
     }
   ]
 }
