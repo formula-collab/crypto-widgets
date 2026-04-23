@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776967312,
+  "updated_at_unix": 1776973576,
   "items": [
+    {
+      "title": "[뉴욕유가] 다시 전운 감도는 중동…WTI 나흘째 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260424005100009",
+      "pubDate": "Fri, 24 Apr 2026 03:41:48 +0900"
+    },
+    {
+      "title": "달러-원, 이란 긴장 고조·日 개입 경계 속 횡보…1,479.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260424004100002",
+      "pubDate": "Fri, 24 Apr 2026 02:55:43 +0900"
+    },
     {
       "title": "한-베트남 비즈니스 포럼…첨단인력·에너지 등 경협 모색",
       "link": "https://www.yna.co.kr/view/AKR20260423163700003",
@@ -142,16 +152,6 @@
       "title": "압구정5구역 본격 수주전…현대건설·DL이앤씨 사업조건 공개(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260423129351003",
       "pubDate": "Thu, 23 Apr 2026 16:47:34 +0900"
-    },
-    {
-      "title": "[광주소식] 주택건설협회-HUG, 임대보증료 개선 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260423155800054",
-      "pubDate": "Thu, 23 Apr 2026 16:46:38 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.458%",
-      "link": "https://www.yna.co.kr/view/AKR20260423155300008",
-      "pubDate": "Thu, 23 Apr 2026 16:42:30 +0900"
     }
   ]
 }
