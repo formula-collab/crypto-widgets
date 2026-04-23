@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776932100,
+  "updated_at_unix": 1776938449,
   "items": [
+    {
+      "title": "외교부, 중동전쟁 비상경제대응 공관장회의…대체 수급선 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260423175000504",
+      "pubDate": "Thu, 23 Apr 2026 18:52:01 +0900"
+    },
+    {
+      "title": "'세종공동캠퍼스 국가 소유' 길 열려…운영법인 8억원 세금 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260423174200063",
+      "pubDate": "Thu, 23 Apr 2026 18:34:33 +0900"
+    },
+    {
+      "title": "농식품부, 해외 K-외식·급식 연계해 K-푸드 수출 판로 넓힌다",
+      "link": "https://www.yna.co.kr/view/AKR20260423173500030",
+      "pubDate": "Thu, 23 Apr 2026 18:33:18 +0900"
+    },
+    {
+      "title": "빅웨이브로보틱스, 코스닥시장 상장예비심사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260423173200008",
+      "pubDate": "Thu, 23 Apr 2026 18:28:11 +0900"
+    },
+    {
+      "title": "내일부터 액상형 전자담배 온라인 판매 금지…가격 배 이상 뛴다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423137451002",
+      "pubDate": "Thu, 23 Apr 2026 18:23:34 +0900"
+    },
+    {
+      "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423122351002",
+      "pubDate": "Thu, 23 Apr 2026 18:18:35 +0900"
+    },
+    {
+      "title": "쓰리빌리언, '제3자 배정' 175억원 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260423169800008",
+      "pubDate": "Thu, 23 Apr 2026 18:07:47 +0900"
+    },
+    {
+      "title": "네스프레소, 아이스커피 최적화 신제품 '버츄오 업' 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260423169600030",
+      "pubDate": "Thu, 23 Apr 2026 18:01:16 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260423162000011",
+      "pubDate": "Thu, 23 Apr 2026 18:00:00 +0900"
+    },
+    {
+      "title": "기업이 부지 소유 자유무역지역법 국회 통과…\"창원경제 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423165600052",
+      "pubDate": "Thu, 23 Apr 2026 17:41:00 +0900"
+    },
+    {
+      "title": "NH투자, 1분기 '불장'에 순이익 4천757억…지난해 1년치 절반",
+      "link": "https://www.yna.co.kr/view/AKR20260423164200008",
+      "pubDate": "Thu, 23 Apr 2026 17:40:51 +0900"
+    },
+    {
+      "title": "난임치료 유급휴가 2일→4일 확대…법률안 국회 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260423165900530",
+      "pubDate": "Thu, 23 Apr 2026 17:38:20 +0900"
+    },
+    {
+      "title": "현대로템, 베트남 철도 사업에 무인전동차 공급…철도협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260423162500003",
+      "pubDate": "Thu, 23 Apr 2026 17:29:15 +0900"
+    },
+    {
+      "title": "북아현2구역 관리처분계획인가…\"최고 29층 2천320세대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423164100004",
+      "pubDate": "Thu, 23 Apr 2026 17:28:54 +0900"
+    },
+    {
+      "title": "무허가 외국어선 벌금 최대 15억원…불법조업 처벌 5배 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260423162400030",
+      "pubDate": "Thu, 23 Apr 2026 17:24:16 +0900"
+    },
+    {
+      "title": "한은, 5월 최대 6조6천억원 규모 통화안정증권 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260423162700002",
+      "pubDate": "Thu, 23 Apr 2026 17:20:05 +0900"
+    },
+    {
+      "title": "[게시판] 네츄럴코어, 서울스프링페스티벌서 펫푸드 트럭 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260423161800030",
+      "pubDate": "Thu, 23 Apr 2026 17:17:47 +0900"
+    },
     {
       "title": "'전국 최고 수준' 양산 종량제 봉투값 내달 인하…20ℓ 780원",
       "link": "https://www.yna.co.kr/view/AKR20260423159000052",
@@ -67,91 +152,6 @@
       "title": "사내이사가 117억 아파트 사면서 소속 법인서 67억 빌려",
       "link": "https://www.yna.co.kr/view/AKR20260423121400003",
       "pubDate": "Thu, 23 Apr 2026 16:30:00 +0900"
-    },
-    {
-      "title": "채무조정 때 금융·가상자산까지 조회…\"도덕적 해이 방지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423150700002",
-      "pubDate": "Thu, 23 Apr 2026 16:29:58 +0900"
-    },
-    {
-      "title": "식약처, 성심메디칼과 주사기 유통망 안정화 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260423150500017",
-      "pubDate": "Thu, 23 Apr 2026 16:28:30 +0900"
-    },
-    {
-      "title": "[특징주] 증권주, '코스피 사흘째 최고가 경신' 속 혼조 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423046751008",
-      "pubDate": "Thu, 23 Apr 2026 16:26:11 +0900"
-    },
-    {
-      "title": "코스피 사흘 연속 최고가 랠리…코스닥은 아직 전쟁前 수준(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423078051008",
-      "pubDate": "Thu, 23 Apr 2026 16:24:40 +0900"
-    },
-    {
-      "title": "한솔제지, 공정위 담합 제재에 사과…\"내부통제 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423150200003",
-      "pubDate": "Thu, 23 Apr 2026 16:23:36 +0900"
-    },
-    {
-      "title": "밀양시-한국카본, 나노산단·물류단지 1천억 규모 투자 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260423147300052",
-      "pubDate": "Thu, 23 Apr 2026 16:16:20 +0900"
-    },
-    {
-      "title": "남원 도심에 인재학당 '만인재' 건립…중·고교생 수업·상담",
-      "link": "https://www.yna.co.kr/view/AKR20260423148000055",
-      "pubDate": "Thu, 23 Apr 2026 16:16:01 +0900"
-    },
-    {
-      "title": "코스피 또 '사상최고', 장중 6500 돌파도…'7천피'도 넘본다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423084051008",
-      "pubDate": "Thu, 23 Apr 2026 16:15:49 +0900"
-    },
-    {
-      "title": "포스코인터, 디지털 채권 발행해 외화 조달…1천400억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260423146900003",
-      "pubDate": "Thu, 23 Apr 2026 16:14:34 +0900"
-    },
-    {
-      "title": "환율, 미·이란 대치 속 이틀째 상승…나흘 만에 1,480원대",
-      "link": "https://www.yna.co.kr/view/AKR20260423143600002",
-      "pubDate": "Thu, 23 Apr 2026 16:00:32 +0900"
-    },
-    {
-      "title": "금융권, 나프타 수입신용장 한도 늘린다…공동지원체계 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260423101300002",
-      "pubDate": "Thu, 23 Apr 2026 16:00:03 +0900"
-    },
-    {
-      "title": "정부 \"수액포장재·헬륨 등 석화원료 수급 이상없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423137300003",
-      "pubDate": "Thu, 23 Apr 2026 16:00:02 +0900"
-    },
-    {
-      "title": "박홍근, 협동조합 찾아 \"지역경제·복지·돌봄 연결역할 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423132400002",
-      "pubDate": "Thu, 23 Apr 2026 16:00:01 +0900"
-    },
-    {
-      "title": "내일부터 액상형 전자담배 온라인 판매 금지…경고문구도 의무화",
-      "link": "https://www.yna.co.kr/view/AKR20260423137400002",
-      "pubDate": "Thu, 23 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "역대급 호실적에 '삼전닉스' 시총 올초 대비 74% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423098151008",
-      "pubDate": "Thu, 23 Apr 2026 15:59:18 +0900"
-    },
-    {
-      "title": "대전출입국사무소, 유흥업소 단속…불법 고용 외국인 240명 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260423139500063",
-      "pubDate": "Thu, 23 Apr 2026 15:57:53 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, '22만 전자' 돌파…하이닉스 0.2%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423044351008",
-      "pubDate": "Thu, 23 Apr 2026 15:54:39 +0900"
     }
   ]
 }
