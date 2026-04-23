@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776938449,
+  "updated_at_unix": 1776944109,
   "items": [
+    {
+      "title": "산은, KDB생명 7번째 매각 절차 개시…연내 거래완료 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260423178100002",
+      "pubDate": "Thu, 23 Apr 2026 20:07:48 +0900"
+    },
+    {
+      "title": "중부국세청, 세금포인트로 프로야구 kt wiz 입장권 할인 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260423125400002",
+      "pubDate": "Thu, 23 Apr 2026 20:00:01 +0900"
+    },
+    {
+      "title": "코트라, 베트남서 수출상담회…한류소비재 8천만달러 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260423178400003",
+      "pubDate": "Thu, 23 Apr 2026 19:34:42 +0900"
+    },
+    {
+      "title": "전세사기 피해 보증금 3분의 1 보장…신탁사기엔 선지급·후정산",
+      "link": "https://www.yna.co.kr/view/AKR20260423178500003",
+      "pubDate": "Thu, 23 Apr 2026 19:30:37 +0900"
+    },
+    {
+      "title": "4차 석유 최고가격 또 동결…'사실상 인상'으로 소비 억제",
+      "link": "https://www.yna.co.kr/view/AKR20260423160200003",
+      "pubDate": "Thu, 23 Apr 2026 19:00:00 +0900"
+    },
     {
       "title": "외교부, 중동전쟁 비상경제대응 공관장회의…대체 수급선 점검",
       "link": "https://www.yna.co.kr/view/AKR20260423175000504",
@@ -127,31 +152,6 @@
       "title": "공모주, 반년 이상 보유 기관에 사전 배정…주가 급락 방지",
       "link": "https://www.yna.co.kr/view/AKR20260423148900002",
       "pubDate": "Thu, 23 Apr 2026 16:34:51 +0900"
-    },
-    {
-      "title": "KB증권, 1분기 영업익 4천531억원…작년 대비 102%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423130751527",
-      "pubDate": "Thu, 23 Apr 2026 16:34:30 +0900"
-    },
-    {
-      "title": "'동물용 의약품 초과검출' 베트남산 냉동 새우 판매 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260423152400017",
-      "pubDate": "Thu, 23 Apr 2026 16:33:08 +0900"
-    },
-    {
-      "title": "코스피, 사흘째 사상 최고치 경신…6,470선 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423147100008",
-      "pubDate": "Thu, 23 Apr 2026 16:30:14 +0900"
-    },
-    {
-      "title": "[게시판] 공정위, 중고거래 플랫폼 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260423096300002",
-      "pubDate": "Thu, 23 Apr 2026 16:30:01 +0900"
-    },
-    {
-      "title": "사내이사가 117억 아파트 사면서 소속 법인서 67억 빌려",
-      "link": "https://www.yna.co.kr/view/AKR20260423121400003",
-      "pubDate": "Thu, 23 Apr 2026 16:30:00 +0900"
     }
   ]
 }
