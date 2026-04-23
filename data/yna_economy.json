@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776949035,
+  "updated_at_unix": 1776956979,
   "items": [
+    {
+      "title": "한-베트남 비즈니스 포럼…첨단인력·에너지 등 경협 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260423163700003",
+      "pubDate": "Thu, 23 Apr 2026 22:36:41 +0900"
+    },
+    {
+      "title": "산업부-코트라, 베트남서 수출상담회…역대 최대 8천만달러 계약(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423178451003",
+      "pubDate": "Thu, 23 Apr 2026 22:23:25 +0900"
+    },
     {
       "title": "두산에너빌, 베트남 원전 협력 확대…\"원전 사업 참여기반 확보\"",
       "link": "https://www.yna.co.kr/view/AKR20260423182900003",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.458%",
       "link": "https://www.yna.co.kr/view/AKR20260423155300008",
       "pubDate": "Thu, 23 Apr 2026 16:42:30 +0900"
-    },
-    {
-      "title": "서대문구, 대학으로 찾아가는 전월세 안심계약 도움서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260423155200004",
-      "pubDate": "Thu, 23 Apr 2026 16:41:44 +0900"
-    },
-    {
-      "title": "금투협 \"'코너스톤 투자자 제도' 도입 환영…'K-IPO 대전환'\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423153600008",
-      "pubDate": "Thu, 23 Apr 2026 16:38:07 +0900"
     }
   ]
 }
