@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776976920,
+  "updated_at_unix": 1776980164,
   "items": [
+    {
+      "title": "\"실질 종속되면 노동자\"…정부 일터기본법으로 사각지대 해소",
+      "link": "https://www.yna.co.kr/view/AKR20260423182400530",
+      "pubDate": "Fri, 24 Apr 2026 06:13:00 +0900"
+    },
+    {
+      "title": "작년 한국 방문 외국인 환자 200만명 첫 돌파…3년 연속 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260423130200530",
+      "pubDate": "Fri, 24 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 산업부, 지자체·유관기관 외국인 투자 워크숍 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260423166600003",
+      "pubDate": "Fri, 24 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "연합뉴스 'Y-팜 엑스포' 개막…AI농업이 여는 K로컬의 미래 알려",
+      "link": "https://www.yna.co.kr/view/AKR20260423149300030",
+      "pubDate": "Fri, 24 Apr 2026 06:00:02 +0900"
+    },
     {
       "title": "[뉴욕유가] 다시 전운 감도는 중동…WTI 나흘째 급등",
       "link": "https://www.yna.co.kr/view/AKR20260424005100009",
@@ -132,26 +152,6 @@
       "title": "한은, 5월 최대 6조6천억원 규모 통화안정증권 발행",
       "link": "https://www.yna.co.kr/view/AKR20260423162700002",
       "pubDate": "Thu, 23 Apr 2026 17:20:05 +0900"
-    },
-    {
-      "title": "[게시판] 네츄럴코어, 서울스프링페스티벌서 펫푸드 트럭 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260423161800030",
-      "pubDate": "Thu, 23 Apr 2026 17:17:47 +0900"
-    },
-    {
-      "title": "'전국 최고 수준' 양산 종량제 봉투값 내달 인하…20ℓ 780원",
-      "link": "https://www.yna.co.kr/view/AKR20260423159000052",
-      "pubDate": "Thu, 23 Apr 2026 17:04:48 +0900"
-    },
-    {
-      "title": "'GDP 급반등'에 국고채 금리 급등…3년물 연 3.458%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423155351008",
-      "pubDate": "Thu, 23 Apr 2026 17:03:51 +0900"
-    },
-    {
-      "title": "압구정5구역 본격 수주전…현대건설·DL이앤씨 사업조건 공개(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423129351003",
-      "pubDate": "Thu, 23 Apr 2026 16:47:34 +0900"
     }
   ]
 }
