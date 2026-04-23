@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776944109,
+  "updated_at_unix": 1776949035,
   "items": [
+    {
+      "title": "두산에너빌, 베트남 원전 협력 확대…\"원전 사업 참여기반 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423182900003",
+      "pubDate": "Thu, 23 Apr 2026 21:07:39 +0900"
+    },
     {
       "title": "산은, KDB생명 7번째 매각 절차 개시…연내 거래완료 목표",
       "link": "https://www.yna.co.kr/view/AKR20260423178100002",
@@ -147,11 +152,6 @@
       "title": "금투협 \"'코너스톤 투자자 제도' 도입 환영…'K-IPO 대전환'\"",
       "link": "https://www.yna.co.kr/view/AKR20260423153600008",
       "pubDate": "Thu, 23 Apr 2026 16:38:07 +0900"
-    },
-    {
-      "title": "공모주, 반년 이상 보유 기관에 사전 배정…주가 급락 방지",
-      "link": "https://www.yna.co.kr/view/AKR20260423148900002",
-      "pubDate": "Thu, 23 Apr 2026 16:34:51 +0900"
     }
   ]
 }
