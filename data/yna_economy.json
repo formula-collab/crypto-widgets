@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776980164,
+  "updated_at_unix": 1776983550,
   "items": [
+    {
+      "title": "안전대 풀고 작업중 추락사…건설사·현장소장 항소심서도 무죄",
+      "link": "https://www.yna.co.kr/view/AKR20260423119200065",
+      "pubDate": "Fri, 24 Apr 2026 07:17:00 +0900"
+    },
     {
       "title": "\"실질 종속되면 노동자\"…정부 일터기본법으로 사각지대 해소",
       "link": "https://www.yna.co.kr/view/AKR20260423182400530",
@@ -147,11 +152,6 @@
       "title": "무허가 외국어선 벌금 최대 15억원…불법조업 처벌 5배 강화",
       "link": "https://www.yna.co.kr/view/AKR20260423162400030",
       "pubDate": "Thu, 23 Apr 2026 17:24:16 +0900"
-    },
-    {
-      "title": "한은, 5월 최대 6조6천억원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260423162700002",
-      "pubDate": "Thu, 23 Apr 2026 17:20:05 +0900"
     }
   ]
 }
