@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1776983550,
+  "updated_at_unix": 1776987286,
   "items": [
+    {
+      "title": "롯데홈쇼핑, 베트남서 중소기업 수출지원…인플루언서와 '라방'",
+      "link": "https://www.yna.co.kr/view/AKR20260424026500030",
+      "pubDate": "Fri, 24 Apr 2026 08:27:09 +0900"
+    },
+    {
+      "title": "신한투자 \"NH투자, 주식시장 호조 속 어닝서프라이즈…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260424025700008",
+      "pubDate": "Fri, 24 Apr 2026 08:26:15 +0900"
+    },
+    {
+      "title": "\"K뷰티 베트남 진출 지원\"…중기부-중진공, 비즈니스 상담회",
+      "link": "https://www.yna.co.kr/view/AKR20260424024600030",
+      "pubDate": "Fri, 24 Apr 2026 08:18:35 +0900"
+    },
+    {
+      "title": "[인사] 중소벤처기업부",
+      "link": "https://www.yna.co.kr/view/AKR20260424023600030",
+      "pubDate": "Fri, 24 Apr 2026 08:08:06 +0900"
+    },
+    {
+      "title": "[마켓뷰] '사흘연속 사상최고' 코스피, 더 달리나 숨고르기 들어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260424021900008",
+      "pubDate": "Fri, 24 Apr 2026 08:03:49 +0900"
+    },
+    {
+      "title": "부산시·부경대, 석·박사 37명 양성해 해양수산 기술 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260424021100051",
+      "pubDate": "Fri, 24 Apr 2026 07:55:37 +0900"
+    },
+    {
+      "title": "부산시·부산외대, 언어 데이터 연구센터 조성 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260424020800051",
+      "pubDate": "Fri, 24 Apr 2026 07:55:06 +0900"
+    },
+    {
+      "title": "한-몰도바 경제협력협정 발효…산업·에너지 등 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260424019500504",
+      "pubDate": "Fri, 24 Apr 2026 07:50:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260424015700011",
+      "pubDate": "Fri, 24 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "안전대 풀고 작업중 추락사…건설사·현장소장 항소심서도 무죄",
       "link": "https://www.yna.co.kr/view/AKR20260423119200065",
@@ -107,51 +152,6 @@
       "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260423122351002",
       "pubDate": "Thu, 23 Apr 2026 18:18:35 +0900"
-    },
-    {
-      "title": "쓰리빌리언, '제3자 배정' 175억원 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260423169800008",
-      "pubDate": "Thu, 23 Apr 2026 18:07:47 +0900"
-    },
-    {
-      "title": "네스프레소, 아이스커피 최적화 신제품 '버츄오 업' 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260423169600030",
-      "pubDate": "Thu, 23 Apr 2026 18:01:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260423162000011",
-      "pubDate": "Thu, 23 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "기업이 부지 소유 자유무역지역법 국회 통과…\"창원경제 활성화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423165600052",
-      "pubDate": "Thu, 23 Apr 2026 17:41:00 +0900"
-    },
-    {
-      "title": "NH투자, 1분기 '불장'에 순이익 4천757억…지난해 1년치 절반",
-      "link": "https://www.yna.co.kr/view/AKR20260423164200008",
-      "pubDate": "Thu, 23 Apr 2026 17:40:51 +0900"
-    },
-    {
-      "title": "난임치료 유급휴가 2일→4일 확대…법률안 국회 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260423165900530",
-      "pubDate": "Thu, 23 Apr 2026 17:38:20 +0900"
-    },
-    {
-      "title": "현대로템, 베트남 철도 사업에 무인전동차 공급…철도협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260423162500003",
-      "pubDate": "Thu, 23 Apr 2026 17:29:15 +0900"
-    },
-    {
-      "title": "북아현2구역 관리처분계획인가…\"최고 29층 2천320세대로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423164100004",
-      "pubDate": "Thu, 23 Apr 2026 17:28:54 +0900"
-    },
-    {
-      "title": "무허가 외국어선 벌금 최대 15억원…불법조업 처벌 5배 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260423162400030",
-      "pubDate": "Thu, 23 Apr 2026 17:24:16 +0900"
     }
   ]
 }
