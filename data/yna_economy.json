@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777030633,
+  "updated_at_unix": 1777035324,
   "items": [
+    {
+      "title": "\"파라과이 통해 중남미 진출 도모\"… 아순시온서 韓 상품전시회",
+      "link": "https://www.yna.co.kr/view/AKR20260424170900371",
+      "pubDate": "Fri, 24 Apr 2026 21:45:20 +0900"
+    },
+    {
+      "title": "NH투자증권, 단독→각자 대표 체제로 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260424170600008",
+      "pubDate": "Fri, 24 Apr 2026 21:40:01 +0900"
+    },
     {
       "title": "구의회 의장이 금품 받고 공무원 채용 뒷배로…검찰, 구속 기소",
       "link": "https://www.yna.co.kr/view/AKR20260424156900004",
@@ -142,16 +152,6 @@
       "title": "李대통령 \"실거주기간 양도세 감면은 필요…비거주엔 축소해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260424072651001",
       "pubDate": "Fri, 24 Apr 2026 16:04:38 +0900"
-    },
-    {
-      "title": "우리금융 1분기 순익 6천38억원…1년 전보다 2.1%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424098000002",
-      "pubDate": "Fri, 24 Apr 2026 15:55:16 +0900"
-    },
-    {
-      "title": "[특징주] 중동긴장 재고조에 방산주 상승…한화에어로 2.7%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424040051008",
-      "pubDate": "Fri, 24 Apr 2026 15:52:16 +0900"
     }
   ]
 }
