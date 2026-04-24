@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777062868,
+  "updated_at_unix": 1777066642,
   "items": [
+    {
+      "title": "[부동산캘린더] 벚꽃 분양 막바지…전국 3천700가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260424136900003",
+      "pubDate": "Sat, 25 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[샷!] \"계좌이체 따위 모르는 남자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260424074200011",
+      "pubDate": "Sat, 25 Apr 2026 05:50:01 +0900"
+    },
     {
       "title": "미·이란 협상재개 기대에 국제유가 5일만에 하락…WTI 1.5%↓",
       "link": "https://www.yna.co.kr/view/AKR20260425007300072",
@@ -142,16 +152,6 @@
       "title": "'美 로봇주 투자' 등 ETF 4종, 28일 신규상장",
       "link": "https://www.yna.co.kr/view/AKR20260424136200008",
       "pubDate": "Fri, 24 Apr 2026 16:32:44 +0900"
-    },
-    {
-      "title": "[부고] 김송주(한국예탁결제원 IT서비스2부 팀장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260424134200008",
-      "pubDate": "Fri, 24 Apr 2026 16:28:11 +0900"
-    },
-    {
-      "title": "대형 카드사 4곳, 1분기 순이익 4천400억원…전년比 5% 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260424129400002",
-      "pubDate": "Fri, 24 Apr 2026 16:14:11 +0900"
     }
   ]
 }
