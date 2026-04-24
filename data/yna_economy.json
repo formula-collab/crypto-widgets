@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777019243,
+  "updated_at_unix": 1777024856,
   "items": [
+    {
+      "title": "구의회 의장이 금품 받고 공무원 채용 뒷배로…검찰, 구속 기소",
+      "link": "https://www.yna.co.kr/view/AKR20260424156900004",
+      "pubDate": "Fri, 24 Apr 2026 18:55:23 +0900"
+    },
+    {
+      "title": "리노공업, 최대주주 지분매각에 애프터마켓서 10%대 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260424159100008",
+      "pubDate": "Fri, 24 Apr 2026 18:45:27 +0900"
+    },
+    {
+      "title": "금융위 첫 여성 고위공무원 나와…국조실 파견 이석란 국장",
+      "link": "https://www.yna.co.kr/view/AKR20260424155500002",
+      "pubDate": "Fri, 24 Apr 2026 18:32:47 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260424146000011",
+      "pubDate": "Fri, 24 Apr 2026 18:00:00 +0900"
+    },
+    {
+      "title": "출석요구 10차례 불응…3천만원 임금체불 사업주 체포",
+      "link": "https://www.yna.co.kr/view/AKR20260424154500065",
+      "pubDate": "Fri, 24 Apr 2026 17:59:12 +0900"
+    },
+    {
+      "title": "강원도립대, 영월 단종문화제서 '모두의 창업' 팝업 홍보",
+      "link": "https://www.yna.co.kr/view/AKR20260424152600062",
+      "pubDate": "Fri, 24 Apr 2026 17:53:05 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260424151600002",
+      "pubDate": "Fri, 24 Apr 2026 17:52:23 +0900"
+    },
+    {
+      "title": "[인사] 현대해상",
+      "link": "https://www.yna.co.kr/view/AKR20260424149400002",
+      "pubDate": "Fri, 24 Apr 2026 17:50:04 +0900"
+    },
+    {
+      "title": "[쇼츠] 현대차, 중국 전략 모델 '아이오닉V' 최초 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260424151300704",
+      "pubDate": "Fri, 24 Apr 2026 17:43:26 +0900"
+    },
     {
       "title": "[영상] 현대차, 베이징모터쇼서 중국 전략 모델 '아이오닉V' 최초 공개",
       "link": "https://www.yna.co.kr/view/AKR20260424146400704",
@@ -107,51 +152,6 @@
       "title": "[특징주] 중동긴장 재고조에 방산주 상승…한화에어로 2.7%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260424040051008",
       "pubDate": "Fri, 24 Apr 2026 15:52:16 +0900"
-    },
-    {
-      "title": "기업 사장단 만난 구윤철 \"성장 기여 감사…혁신 거듭해달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260424124300002",
-      "pubDate": "Fri, 24 Apr 2026 15:51:52 +0900"
-    },
-    {
-      "title": "[동정] 오세훈 시장, 한국예총 서울시연합회와 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260424123000004",
-      "pubDate": "Fri, 24 Apr 2026 15:48:56 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주, 견조한 수출 흐름에 급등 마감…코스맥스 4%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424046151008",
-      "pubDate": "Fri, 24 Apr 2026 15:44:10 +0900"
-    },
-    {
-      "title": "디모아, 190억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260424122100008",
-      "pubDate": "Fri, 24 Apr 2026 15:43:38 +0900"
-    },
-    {
-      "title": "우리투자증권, 1조원 규모 유상증자 결의…\"종투사 핵심 발판\"",
-      "link": "https://www.yna.co.kr/view/AKR20260424120700008",
-      "pubDate": "Fri, 24 Apr 2026 15:39:27 +0900"
-    },
-    {
-      "title": "코스피, 6,470대 약보합 마감…코스닥은 25년여만 1,200선 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260424120800008",
-      "pubDate": "Fri, 24 Apr 2026 15:38:45 +0900"
-    },
-    {
-      "title": "외국환시세(4월24일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260424120200002",
-      "pubDate": "Fri, 24 Apr 2026 15:35:16 +0900"
-    },
-    {
-      "title": "[속보] 코스닥지수, 25년여만 1,200선 돌파 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260424119800008",
-      "pubDate": "Fri, 24 Apr 2026 15:33:02 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 3.5원 오른 1,484.5원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260424118800002",
-      "pubDate": "Fri, 24 Apr 2026 15:31:12 +0900"
     }
   ]
 }
