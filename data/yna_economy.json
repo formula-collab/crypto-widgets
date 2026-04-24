@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777066642,
+  "updated_at_unix": 1777069833,
   "items": [
+    {
+      "title": "김해 진영복합휴게소서 25∼26일 우수 농특산물 직거래 장터",
+      "link": "https://www.yna.co.kr/view/AKR20260424088800052",
+      "pubDate": "Sat, 25 Apr 2026 07:05:00 +0900"
+    },
+    {
+      "title": "[금주핫템] 코웨이 '스퀘어핏 공기청정기'·K2 '플로잉'",
+      "link": "https://www.yna.co.kr/view/AKR20260424078400030",
+      "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[신상잇슈] 풀무원 '나또효소'·청정원 '피클링소스'",
+      "link": "https://www.yna.co.kr/view/AKR20260424061000030",
+      "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
+    },
+    {
+      "title": "\"입는 로봇이 농사, AI가 병해충 진단\"…농진청, 'K농업' 대전환",
+      "link": "https://www.yna.co.kr/view/AKR20260424141100030",
+      "pubDate": "Sat, 25 Apr 2026 07:00:01 +0900"
+    },
     {
       "title": "[부동산캘린더] 벚꽃 분양 막바지…전국 3천700가구 공급",
       "link": "https://www.yna.co.kr/view/AKR20260424136900003",
@@ -132,26 +152,6 @@
       "title": "\"검색에서 질문으로\"…유통학회, 'AI 쇼핑' 시대 생존 전략 모색",
       "link": "https://www.yna.co.kr/view/AKR20260424130300030",
       "pubDate": "Fri, 24 Apr 2026 16:42:34 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.496%",
-      "link": "https://www.yna.co.kr/view/AKR20260424137800008",
-      "pubDate": "Fri, 24 Apr 2026 16:40:58 +0900"
-    },
-    {
-      "title": "기업은행 1분기 순익 7천534억원…1년 전보다 7.5% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260424117600002",
-      "pubDate": "Fri, 24 Apr 2026 16:34:21 +0900"
-    },
-    {
-      "title": "강릉시, 비상경제대책 회의 개최…중동 정세 장기화 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260424135100062",
-      "pubDate": "Fri, 24 Apr 2026 16:32:49 +0900"
-    },
-    {
-      "title": "'美 로봇주 투자' 등 ETF 4종, 28일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260424136200008",
-      "pubDate": "Fri, 24 Apr 2026 16:32:44 +0900"
     }
   ]
 }
