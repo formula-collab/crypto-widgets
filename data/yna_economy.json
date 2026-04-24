@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777052522,
+  "updated_at_unix": 1777055703,
   "items": [
+    {
+      "title": "달러-원, 美·이란 협상 기대 속 하락…1,476.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260425004300002",
+      "pubDate": "Sat, 25 Apr 2026 02:50:55 +0900"
+    },
     {
       "title": "\"파라과이 통해 중남미 진출 도모\"… 아순시온서 韓 상품전시회",
       "link": "https://www.yna.co.kr/view/AKR20260424170900371",
@@ -147,11 +152,6 @@
       "title": "전남농협, 로컬푸드 농산물 안전관리 협력 강화",
       "link": "https://www.yna.co.kr/view/AKR20260424129600054",
       "pubDate": "Fri, 24 Apr 2026 16:12:29 +0900"
-    },
-    {
-      "title": "李대통령 \"실거주기간 양도세 감면은 필요…비거주엔 축소해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424072651001",
-      "pubDate": "Fri, 24 Apr 2026 16:04:38 +0900"
     }
   ]
 }
