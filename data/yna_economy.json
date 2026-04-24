@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777055703,
+  "updated_at_unix": 1777059729,
   "items": [
+    {
+      "title": "[뉴욕유가] 美·이란 2주만에 다시 협상 테이블로…WTI 5일만에 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260425005500009",
+      "pubDate": "Sat, 25 Apr 2026 03:46:24 +0900"
+    },
     {
       "title": "달러-원, 美·이란 협상 기대 속 하락…1,476.80원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260425004300002",
@@ -147,11 +152,6 @@
       "title": "코스피, 6,470대 약보합 마감…코스닥은 25년여만 1,200선 돌파(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260424129700008",
       "pubDate": "Fri, 24 Apr 2026 16:13:36 +0900"
-    },
-    {
-      "title": "전남농협, 로컬푸드 농산물 안전관리 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260424129600054",
-      "pubDate": "Fri, 24 Apr 2026 16:12:29 +0900"
     }
   ]
 }
