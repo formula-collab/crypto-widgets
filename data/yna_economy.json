@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777154295,
+  "updated_at_unix": 1777156451,
   "items": [
+    {
+      "title": "이달 반등장 속 개미는 14조 '팔자'…역대 최대 순매도 '눈앞'",
+      "link": "https://www.yna.co.kr/view/AKR20260425034100008",
+      "pubDate": "Sun, 26 Apr 2026 07:15:00 +0900"
+    },
+    {
+      "title": "불장에 작년 시총상위 상장사 '미성년 보유가치' 3조원에 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260425001300008",
+      "pubDate": "Sun, 26 Apr 2026 07:07:00 +0900"
+    },
+    {
+      "title": "종전 기대로 진정되던 채권시장 또 출렁…GDP호조에 금리인상론 경계",
+      "link": "https://www.yna.co.kr/view/AKR20260424173500008",
+      "pubDate": "Sun, 26 Apr 2026 07:05:00 +0900"
+    },
+    {
+      "title": "경기도, 하남교산 통합공공임대주택 1천100세대 건설계획 승인",
+      "link": "https://www.yna.co.kr/view/AKR20260424117500061",
+      "pubDate": "Sun, 26 Apr 2026 07:03:01 +0900"
+    },
+    {
+      "title": "'삼전닉스' 1분기 최대실적…'더살까 팔까' 고민하는 투자자들",
+      "link": "https://www.yna.co.kr/view/AKR20260424168400008",
+      "pubDate": "Sun, 26 Apr 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 이란 사태속에 맞은 '슈퍼위크'…韓증시 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260424172400008",
+      "pubDate": "Sun, 26 Apr 2026 07:00:27 +0900"
+    },
+    {
+      "title": "[반려동물] 장례식장 10년 새 4배 늘었지만…입지 제한·정책 과제 여전",
+      "link": "https://www.yna.co.kr/view/AKR20260424170100030",
+      "pubDate": "Sun, 26 Apr 2026 07:00:02 +0900"
+    },
+    {
+      "title": "고유가에 정유사 '어닝 서프라이즈' 전망…유가 하락 땐 손실",
+      "link": "https://www.yna.co.kr/view/AKR20260424125700003",
+      "pubDate": "Sun, 26 Apr 2026 06:55:00 +0900"
+    },
     {
       "title": "서울 아파트 전세 '수요>공급' 수준 2021년 6월 이후 최고",
       "link": "https://www.yna.co.kr/view/AKR20260426005200003",
@@ -112,46 +152,6 @@
       "title": "[부고] 유병희(재정경제부 경제정책국장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260425032000002",
       "pubDate": "Sat, 25 Apr 2026 14:25:24 +0900"
-    },
-    {
-      "title": "[게임위드인] 게임업계 '삼중고'…중소 개발사부터 무너진다",
-      "link": "https://www.yna.co.kr/view/AKR20260424079100017",
-      "pubDate": "Sat, 25 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260425024200011",
-      "pubDate": "Sat, 25 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "재배면적 2년새 62% 증가 김해 블루베리 본격 수확…품질 향상",
-      "link": "https://www.yna.co.kr/view/AKR20260424146600052",
-      "pubDate": "Sat, 25 Apr 2026 09:35:00 +0900"
-    },
-    {
-      "title": "부산시의회, 미분양 아파트 사면 취득세 50% 감면 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260424102800051",
-      "pubDate": "Sat, 25 Apr 2026 09:30:01 +0900"
-    },
-    {
-      "title": "[다음주 경제] 중동전쟁 이후 실물·체감경기는…지표 잇단 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260425021200002",
-      "pubDate": "Sat, 25 Apr 2026 09:08:51 +0900"
-    },
-    {
-      "title": "횡성군, 일자리 안심공제로 근로자 자산 형성 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20260424055600062",
-      "pubDate": "Sat, 25 Apr 2026 09:00:05 +0900"
-    },
-    {
-      "title": "김해 진영복합휴게소서 25∼26일 우수 농특산물 직거래 장터",
-      "link": "https://www.yna.co.kr/view/AKR20260424088800052",
-      "pubDate": "Sat, 25 Apr 2026 07:05:00 +0900"
-    },
-    {
-      "title": "[금주핫템] 코웨이 '스퀘어핏 공기청정기'·K2 '플로잉'",
-      "link": "https://www.yna.co.kr/view/AKR20260424078400030",
-      "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
     }
   ]
 }
