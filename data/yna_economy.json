@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777090257,
+  "updated_at_unix": 1777096907,
   "items": [
+    {
+      "title": "[부고] 유병희(재정경제부 경제정책국장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260425032000002",
+      "pubDate": "Sat, 25 Apr 2026 14:25:24 +0900"
+    },
     {
       "title": "[게임위드인] 게임업계 '삼중고'…중소 개발사부터 무너진다",
       "link": "https://www.yna.co.kr/view/AKR20260424079100017",
@@ -147,11 +152,6 @@
       "title": "5대 금융 1분기에만 6조원 넘게 벌어…역대 최대 실적 행렬",
       "link": "https://www.yna.co.kr/view/AKR20260424138300002",
       "pubDate": "Fri, 24 Apr 2026 17:05:49 +0900"
-    },
-    {
-      "title": "'GDP 쇼크' 지속에 국고채 금리 일제히 상승…3년물 연 3.496%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424137851008",
-      "pubDate": "Fri, 24 Apr 2026 17:05:28 +0900"
     }
   ]
 }
