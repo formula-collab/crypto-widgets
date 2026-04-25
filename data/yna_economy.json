@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777149311,
+  "updated_at_unix": 1777152389,
   "items": [
+    {
+      "title": "결국 부모 찬스? 서울에 집산 30대, 증여·상속으로 1조 조달",
+      "link": "https://www.yna.co.kr/view/AKR20260425044600003",
+      "pubDate": "Sun, 26 Apr 2026 06:11:00 +0900"
+    },
+    {
+      "title": "장애인고용 안하는게 이득?…추가비용 월 124만원, 부담금 턱밑",
+      "link": "https://www.yna.co.kr/view/AKR20260425024600530",
+      "pubDate": "Sun, 26 Apr 2026 06:07:01 +0900"
+    },
+    {
+      "title": "호르무즈발 공급 충격…원유·나프타·헬륨 수입 동반 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260425047600003",
+      "pubDate": "Sun, 26 Apr 2026 06:07:00 +0900"
+    },
+    {
+      "title": "파키스탄은 66% 폭등…석유 최고가격제 '출구전략' 딜레마",
+      "link": "https://www.yna.co.kr/view/AKR20260425029900003",
+      "pubDate": "Sun, 26 Apr 2026 06:05:01 +0900"
+    },
+    {
+      "title": "배달앱 상생 협의체 '좌초 위기'…수수료 인하폭 두고 평행선",
+      "link": "https://www.yna.co.kr/view/AKR20260425015600030",
+      "pubDate": "Sun, 26 Apr 2026 06:05:01 +0900"
+    },
+    {
+      "title": "대법 \"신탁사 책임한정특약, 수분양자에 설명 안 했다면 무효\"",
+      "link": "https://www.yna.co.kr/view/AKR20260425043000004",
+      "pubDate": "Sun, 26 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "농기계 면세유 '전쟁 직격탄'…35% 급등에 영농철 생산비 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260424153000030",
+      "pubDate": "Sun, 26 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "역대급 실적이 부른 성과급 '치킨게임'…산업계 파업주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260424110600003",
+      "pubDate": "Sun, 26 Apr 2026 05:55:10 +0900"
+    },
+    {
+      "title": "출산율 반등 속 지갑 연 조부모…60대 출산 관련 소비 61%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260425043800002",
+      "pubDate": "Sun, 26 Apr 2026 05:55:00 +0900"
+    },
+    {
+      "title": "2세대 실손보험료 연 12%↑…부담 낮춘 5세대 다음달 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260425047400002",
+      "pubDate": "Sun, 26 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "지배구조 개선 발표 이달도 난망…임추위 강화 등 막바지 보강",
+      "link": "https://www.yna.co.kr/view/AKR20260425041700002",
+      "pubDate": "Sun, 26 Apr 2026 05:51:00 +0900"
+    },
+    {
+      "title": "중동 전쟁에 원화 흔들…지난달 실질가치 금융위기 후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260425041100002",
+      "pubDate": "Sun, 26 Apr 2026 05:49:00 +0900"
+    },
+    {
+      "title": "나랏돈 절반 묶인 의무지출…기초연금·교육교부금만 100조",
+      "link": "https://www.yna.co.kr/view/AKR20260425042200002",
+      "pubDate": "Sun, 26 Apr 2026 05:47:05 +0900"
+    },
+    {
+      "title": "기초연금 개편 시동…\"연령 단계적 인상시 200조∼600조 줄어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260425038600002",
+      "pubDate": "Sun, 26 Apr 2026 05:47:03 +0900"
+    },
+    {
+      "title": "IMF \"韓, 연금지출 5년간 GDP의 0.7%↑\"…G20 선진국 중 최고속",
+      "link": "https://www.yna.co.kr/view/AKR20260425039100002",
+      "pubDate": "Sun, 26 Apr 2026 05:47:00 +0900"
+    },
+    {
+      "title": "반도체에 가린 1%대 잠재성장률…주저앉는 韓경제 기초체력",
+      "link": "https://www.yna.co.kr/view/AKR20260425041300002",
+      "pubDate": "Sun, 26 Apr 2026 05:45:03 +0900"
+    },
+    {
+      "title": "반등 못하는 韓 잠재성장률…OECD \"내년 4분기 1.5%, 사상 최저\"",
+      "link": "https://www.yna.co.kr/view/AKR20260425038000002",
+      "pubDate": "Sun, 26 Apr 2026 05:45:00 +0900"
+    },
     {
       "title": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상",
       "link": "https://www.yna.co.kr/view/AKR20260425038300530",
@@ -67,91 +152,6 @@
       "title": "[신상잇슈] 풀무원 '나또효소'·청정원 '피클링소스'",
       "link": "https://www.yna.co.kr/view/AKR20260424061000030",
       "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
-    },
-    {
-      "title": "\"입는 로봇이 농사, AI가 병해충 진단\"…농진청, 'K농업' 대전환",
-      "link": "https://www.yna.co.kr/view/AKR20260424141100030",
-      "pubDate": "Sat, 25 Apr 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 벚꽃 분양 막바지…전국 3천700가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260424136900003",
-      "pubDate": "Sat, 25 Apr 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[샷!] \"계좌이체 따위 모르는 남자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260424074200011",
-      "pubDate": "Sat, 25 Apr 2026 05:50:01 +0900"
-    },
-    {
-      "title": "미·이란 협상재개 기대에 국제유가 5일만에 하락…WTI 1.5%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260425007300072",
-      "pubDate": "Sat, 25 Apr 2026 04:50:08 +0900"
-    },
-    {
-      "title": "[뉴욕유가] 美·이란 2주만에 다시 협상 테이블로…WTI 5일만에 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260425005500009",
-      "pubDate": "Sat, 25 Apr 2026 03:46:24 +0900"
-    },
-    {
-      "title": "달러-원, 美·이란 협상 기대 속 하락…1,476.80원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260425004300002",
-      "pubDate": "Sat, 25 Apr 2026 02:50:55 +0900"
-    },
-    {
-      "title": "\"파라과이 통해 중남미 진출 도모\"… 아순시온서 韓 상품전시회",
-      "link": "https://www.yna.co.kr/view/AKR20260424170900371",
-      "pubDate": "Fri, 24 Apr 2026 21:45:20 +0900"
-    },
-    {
-      "title": "NH투자증권, 단독→각자 대표 체제로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260424170600008",
-      "pubDate": "Fri, 24 Apr 2026 21:40:01 +0900"
-    },
-    {
-      "title": "구의회 의장이 금품 받고 공무원 채용 뒷배로…검찰, 구속 기소",
-      "link": "https://www.yna.co.kr/view/AKR20260424156900004",
-      "pubDate": "Fri, 24 Apr 2026 18:55:23 +0900"
-    },
-    {
-      "title": "리노공업, 최대주주 지분매각에 애프터마켓서 10%대 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260424159100008",
-      "pubDate": "Fri, 24 Apr 2026 18:45:27 +0900"
-    },
-    {
-      "title": "금융위 첫 여성 고위공무원 나와…국조실 파견 이석란 국장",
-      "link": "https://www.yna.co.kr/view/AKR20260424155500002",
-      "pubDate": "Fri, 24 Apr 2026 18:32:47 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260424146000011",
-      "pubDate": "Fri, 24 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "출석요구 10차례 불응…3천만원 임금체불 사업주 체포",
-      "link": "https://www.yna.co.kr/view/AKR20260424154500065",
-      "pubDate": "Fri, 24 Apr 2026 17:59:12 +0900"
-    },
-    {
-      "title": "강원도립대, 영월 단종문화제서 '모두의 창업' 팝업 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260424152600062",
-      "pubDate": "Fri, 24 Apr 2026 17:53:05 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260424151600002",
-      "pubDate": "Fri, 24 Apr 2026 17:52:23 +0900"
-    },
-    {
-      "title": "[인사] 현대해상",
-      "link": "https://www.yna.co.kr/view/AKR20260424149400002",
-      "pubDate": "Fri, 24 Apr 2026 17:50:04 +0900"
-    },
-    {
-      "title": "[쇼츠] 현대차, 중국 전략 모델 '아이오닉V' 최초 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260424151300704",
-      "pubDate": "Fri, 24 Apr 2026 17:43:26 +0900"
     }
   ]
 }
