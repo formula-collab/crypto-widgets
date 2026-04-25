@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777113196,
+  "updated_at_unix": 1777116603,
   "items": [
+    {
+      "title": "성남시, 분당 재건축 '주민제안 방식' 개선 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260425046200061",
+      "pubDate": "Sat, 25 Apr 2026 19:55:39 +0900"
+    },
     {
       "title": "GS건설, 서울 성동구 성수1지구 재개발 시공사로 선정",
       "link": "https://www.yna.co.kr/view/AKR20260425039500003",
@@ -147,11 +152,6 @@
       "title": "[영상] 현대차, 베이징모터쇼서 중국 전략 모델 '아이오닉V' 최초 공개",
       "link": "https://www.yna.co.kr/view/AKR20260424146400704",
       "pubDate": "Fri, 24 Apr 2026 17:16:40 +0900"
-    },
-    {
-      "title": "이렘, 110억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260424147000008",
-      "pubDate": "Fri, 24 Apr 2026 17:15:35 +0900"
     }
   ]
 }
