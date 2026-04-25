@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777103344,
+  "updated_at_unix": 1777106366,
   "items": [
+    {
+      "title": "GS건설, 서울 성동구 성수1지구 재개발 시공사로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260425039500003",
+      "pubDate": "Sat, 25 Apr 2026 17:02:47 +0900"
+    },
     {
       "title": "[부고] 유병희(재정경제부 경제정책국장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260425032000002",
@@ -147,11 +152,6 @@
       "title": "이렘, 110억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260424147000008",
       "pubDate": "Fri, 24 Apr 2026 17:15:35 +0900"
-    },
-    {
-      "title": "5대 금융 1분기에만 6조원 넘게 벌어…역대 최대 실적 행렬",
-      "link": "https://www.yna.co.kr/view/AKR20260424138300002",
-      "pubDate": "Fri, 24 Apr 2026 17:05:49 +0900"
     }
   ]
 }
