@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777152389,
+  "updated_at_unix": 1777154295,
   "items": [
+    {
+      "title": "서울 아파트 전세 '수요>공급' 수준 2021년 6월 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260426005200003",
+      "pubDate": "Sun, 26 Apr 2026 06:43:56 +0900"
+    },
     {
       "title": "결국 부모 찬스? 서울에 집산 30대, 증여·상속으로 1조 조달",
       "link": "https://www.yna.co.kr/view/AKR20260425044600003",
@@ -146,11 +151,6 @@
     {
       "title": "[금주핫템] 코웨이 '스퀘어핏 공기청정기'·K2 '플로잉'",
       "link": "https://www.yna.co.kr/view/AKR20260424078400030",
-      "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 풀무원 '나또효소'·청정원 '피클링소스'",
-      "link": "https://www.yna.co.kr/view/AKR20260424061000030",
       "pubDate": "Sat, 25 Apr 2026 07:00:03 +0900"
     }
   ]
