@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777156451,
+  "updated_at_unix": 1777159619,
   "items": [
+    {
+      "title": "7월부터 경기 하이브리드차 지역개발채권 매입 의무",
+      "link": "https://www.yna.co.kr/view/AKR20260424121400061",
+      "pubDate": "Sun, 26 Apr 2026 08:01:03 +0900"
+    },
+    {
+      "title": "올해 봄나들이 어디로…쏘카 \"경주 대릉원 인기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260424120000030",
+      "pubDate": "Sun, 26 Apr 2026 08:01:00 +0900"
+    },
+    {
+      "title": "'아프리카 최대' 에티오피아 허브 공항 건설…美 지원 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260424091700898",
+      "pubDate": "Sun, 26 Apr 2026 08:00:05 +0900"
+    },
     {
       "title": "이달 반등장 속 개미는 14조 '팔자'…역대 최대 순매도 '눈앞'",
       "link": "https://www.yna.co.kr/view/AKR20260425034100008",
@@ -137,21 +152,6 @@
       "title": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상",
       "link": "https://www.yna.co.kr/view/AKR20260425038300530",
       "pubDate": "Sun, 26 Apr 2026 05:00:01 +0900"
-    },
-    {
-      "title": "성남시, 분당 재건축 '주민제안 방식' 개선 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260425046200061",
-      "pubDate": "Sat, 25 Apr 2026 19:55:39 +0900"
-    },
-    {
-      "title": "GS건설, 서울 성동구 성수1지구 재개발 시공사로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260425039500003",
-      "pubDate": "Sat, 25 Apr 2026 17:02:47 +0900"
-    },
-    {
-      "title": "[부고] 유병희(재정경제부 경제정책국장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260425032000002",
-      "pubDate": "Sat, 25 Apr 2026 14:25:24 +0900"
     }
   ]
 }
