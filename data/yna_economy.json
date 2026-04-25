@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777147089,
+  "updated_at_unix": 1777149311,
   "items": [
+    {
+      "title": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260425038300530",
+      "pubDate": "Sun, 26 Apr 2026 05:00:01 +0900"
+    },
     {
       "title": "성남시, 분당 재건축 '주민제안 방식' 개선 추진",
       "link": "https://www.yna.co.kr/view/AKR20260425046200061",
@@ -147,11 +152,6 @@
       "title": "[쇼츠] 현대차, 중국 전략 모델 '아이오닉V' 최초 공개",
       "link": "https://www.yna.co.kr/view/AKR20260424151300704",
       "pubDate": "Fri, 24 Apr 2026 17:43:26 +0900"
-    },
-    {
-      "title": "[영상] 현대차, 베이징모터쇼서 중국 전략 모델 '아이오닉V' 최초 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260424146400704",
-      "pubDate": "Fri, 24 Apr 2026 17:16:40 +0900"
     }
   ]
 }
