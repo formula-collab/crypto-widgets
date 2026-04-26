@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777183537,
+  "updated_at_unix": 1777190210,
   "items": [
+    {
+      "title": "충남도 해외바이어 상담회서 6천900만달러 수출 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260426041500063",
+      "pubDate": "Sun, 26 Apr 2026 15:56:34 +0900"
+    },
+    {
+      "title": "KB시세로 서울 오피스텔값 오름폭 둔화…대형·중대형만 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260426040100003",
+      "pubDate": "Sun, 26 Apr 2026 15:52:35 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260426036400011",
@@ -142,16 +152,6 @@
       "title": "호반건설, 서울 면목동서 1천500억원 가로주택정비사업 수주",
       "link": "https://www.yna.co.kr/view/AKR20260426016500003",
       "pubDate": "Sun, 26 Apr 2026 09:38:56 +0900"
-    },
-    {
-      "title": "삼성물산, 신반포19·25차 수주전에 \"균형잡힌 마스터플랜 제안\"",
-      "link": "https://www.yna.co.kr/view/AKR20260426015100003",
-      "pubDate": "Sun, 26 Apr 2026 09:21:24 +0900"
-    },
-    {
-      "title": "정부 농협 개혁안에 조합장들 반발 지속…\"농민 체감 대책 빠져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260426014100030",
-      "pubDate": "Sun, 26 Apr 2026 09:14:22 +0900"
     }
   ]
 }
