@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777237274,
+  "updated_at_unix": 1777240696,
   "items": [
+    {
+      "title": "[벼랑끝 농어촌 의료] ②의사 없는 보건지소에 전담 간호사 투입…기능 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260426039000530",
+      "pubDate": "Mon, 27 Apr 2026 06:11:02 +0900"
+    },
+    {
+      "title": "'삼동∼KTX울산역 도로개설사업' 중앙투자 재심사 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260425040600057",
+      "pubDate": "Mon, 27 Apr 2026 06:03:02 +0900"
+    },
+    {
+      "title": "경기침체·대출규제 그늘…1분기 경매 신청 13년 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260426030400003",
+      "pubDate": "Mon, 27 Apr 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[게시판] 사회적기업 투자 역량강화 지원을 위한 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260424149600530",
+      "pubDate": "Mon, 27 Apr 2026 06:00:17 +0900"
+    },
+    {
+      "title": "서울새활용플라자 입주기업 모집…창업공간·성장 프로그램 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260424145800004",
+      "pubDate": "Mon, 27 Apr 2026 06:00:16 +0900"
+    },
+    {
+      "title": "'제2서울핀테크랩' 입주기업 모집…올해부터 예비창업자도 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260424166100004",
+      "pubDate": "Mon, 27 Apr 2026 06:00:15 +0900"
+    },
+    {
+      "title": "중기부, 지역창업 페스티벌 개최…\"창업 열풍 확산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260424126400030",
+      "pubDate": "Mon, 27 Apr 2026 06:00:14 +0900"
+    },
+    {
+      "title": "중기부, 기술사업화에 최대 1억5천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260424145200030",
+      "pubDate": "Mon, 27 Apr 2026 06:00:13 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 2026년 금융소비자리포터 100여명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260425045900002",
+      "pubDate": "Mon, 27 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[게시판] 내달까지 '디지털 트윈국토 플랫폼' 권역별 현장 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260426046800003",
+      "pubDate": "Mon, 27 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "엽떡도 N분의 1 나눠내자…고물가가 낳은 청년들의 '소분 모임'",
+      "link": "https://www.yna.co.kr/view/AKR20260426040200004",
+      "pubDate": "Mon, 27 Apr 2026 05:55:00 +0900"
+    },
+    {
+      "title": "신현송 한은총재 '열공모드'…출장 건너뛰고 업무보고·티타임",
+      "link": "https://www.yna.co.kr/view/AKR20260425042600002",
+      "pubDate": "Mon, 27 Apr 2026 05:51:00 +0900"
+    },
     {
       "title": "'고유가 지원금' 오늘부터 1차 지급…기초·차상위·한부모 대상",
       "link": "https://www.yna.co.kr/view/AKR20260426030200530",
@@ -92,66 +152,6 @@
       "title": "\"고유가로 무역수지 200억달러 줄 수도…반도체에 흑자는 지속\"",
       "link": "https://www.yna.co.kr/view/AKR20260425041200002",
       "pubDate": "Sun, 26 Apr 2026 12:00:07 +0900"
-    },
-    {
-      "title": "생계비 250만원 예금 보호 강화…공모펀드 핵심위험 표준안 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260425048700002",
-      "pubDate": "Sun, 26 Apr 2026 12:00:06 +0900"
-    },
-    {
-      "title": "'고유가 지원금' 1차 지급 내일부터…취약계층 우선 대상(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260425038351530",
-      "pubDate": "Sun, 26 Apr 2026 12:00:05 +0900"
-    },
-    {
-      "title": "'고유가 지원금' 신청 용도라면 주민등록 등·초본 수수료 면제",
-      "link": "https://www.yna.co.kr/view/AKR20260426020800530",
-      "pubDate": "Sun, 26 Apr 2026 12:00:04 +0900"
-    },
-    {
-      "title": "\"중동전쟁에 대외환경 급변…공급망 다변화·유연한 정책 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260426023700002",
-      "pubDate": "Sun, 26 Apr 2026 12:00:03 +0900"
-    },
-    {
-      "title": "기업 89% \"시정기회 없이 수사하는 산업안전 감독 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260426014700003",
-      "pubDate": "Sun, 26 Apr 2026 12:00:02 +0900"
-    },
-    {
-      "title": "지역기업 인력난 해소 위해 아시아 엘리트 공학도 유치한다",
-      "link": "https://www.yna.co.kr/view/AKR20260426015900003",
-      "pubDate": "Sun, 26 Apr 2026 12:00:02 +0900"
-    },
-    {
-      "title": "관악 신림4구역, 신속통합기획 확정…32층 992세대 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260425035700004",
-      "pubDate": "Sun, 26 Apr 2026 11:15:06 +0900"
-    },
-    {
-      "title": "강원도, 지역산업맞춤형 일자리 공모 선정…국비 45억원 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260426023800062",
-      "pubDate": "Sun, 26 Apr 2026 11:03:23 +0900"
-    },
-    {
-      "title": "농식품부, 농어촌 맞춤형 과제 공모…상생협력기금 연계",
-      "link": "https://www.yna.co.kr/view/AKR20260424141000030",
-      "pubDate": "Sun, 26 Apr 2026 11:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 우리·KB·신한자산신탁, 안양 도심복합개발사업 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260424154100002",
-      "pubDate": "Sun, 26 Apr 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농식품부 '가정의 달' 한우 할인행사…\"등심·국거리 저렴하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260426019300030",
-      "pubDate": "Sun, 26 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "중동발 물류난에 해상·항공 총력 지원…중기 수출길 터준다",
-      "link": "https://www.yna.co.kr/view/AKR20260426015800003",
-      "pubDate": "Sun, 26 Apr 2026 11:00:01 +0900"
     }
   ]
 }
