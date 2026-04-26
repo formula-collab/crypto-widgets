@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777203066,
+  "updated_at_unix": 1777207099,
   "items": [
+    {
+      "title": "[부고] 박준한(금융투자협회 부산지회장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260426057900505",
+      "pubDate": "Sun, 26 Apr 2026 21:21:39 +0900"
+    },
     {
       "title": "반도체에 가린 1%대 잠재성장률…주저앉는 韓경제 기초체력(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260425041351002",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260426017300011",
       "pubDate": "Sun, 26 Apr 2026 10:30:00 +0900"
-    },
-    {
-      "title": "용인시, 6개 공공기관 상반기 정규직 직원 36명 통합 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260424129500061",
-      "pubDate": "Sun, 26 Apr 2026 10:01:01 +0900"
     }
   ]
 }
