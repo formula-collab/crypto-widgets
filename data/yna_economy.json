@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777159619,
+  "updated_at_unix": 1777161615,
   "items": [
+    {
+      "title": "농기계 면세유 '전쟁 직격탄'…36% 급등에 영농철 생산비 '비상'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260424153051030",
+      "pubDate": "Sun, 26 Apr 2026 08:35:57 +0900"
+    },
+    {
+      "title": "한국저작권위-국립중앙도서관, 실무 중심 저작권 교육 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260424113400052",
+      "pubDate": "Sun, 26 Apr 2026 08:30:03 +0900"
+    },
+    {
+      "title": "하나은행, 베트남투자개발은행·해외인프라개발공사와 개발 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260424154000002",
+      "pubDate": "Sun, 26 Apr 2026 08:30:01 +0900"
+    },
+    {
+      "title": "강원도, '힘내라 소비' 특별전…고물가 속 소비 활력 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260426011800062",
+      "pubDate": "Sun, 26 Apr 2026 08:28:23 +0900"
+    },
     {
       "title": "7월부터 경기 하이브리드차 지역개발채권 매입 의무",
       "link": "https://www.yna.co.kr/view/AKR20260424121400061",
@@ -132,26 +152,6 @@
       "title": "기초연금 개편 시동…\"연령 단계적 인상시 200조∼600조 줄어\"",
       "link": "https://www.yna.co.kr/view/AKR20260425038600002",
       "pubDate": "Sun, 26 Apr 2026 05:47:03 +0900"
-    },
-    {
-      "title": "IMF \"韓, 연금지출 5년간 GDP의 0.7%↑\"…G20 선진국 중 최고속",
-      "link": "https://www.yna.co.kr/view/AKR20260425039100002",
-      "pubDate": "Sun, 26 Apr 2026 05:47:00 +0900"
-    },
-    {
-      "title": "반도체에 가린 1%대 잠재성장률…주저앉는 韓경제 기초체력",
-      "link": "https://www.yna.co.kr/view/AKR20260425041300002",
-      "pubDate": "Sun, 26 Apr 2026 05:45:03 +0900"
-    },
-    {
-      "title": "반등 못하는 韓 잠재성장률…OECD \"내년 4분기 1.5%, 사상 최저\"",
-      "link": "https://www.yna.co.kr/view/AKR20260425038000002",
-      "pubDate": "Sun, 26 Apr 2026 05:45:00 +0900"
-    },
-    {
-      "title": "'고유가 지원금' 내일부터 1차 지급…기초·차상위·한부모 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260425038300530",
-      "pubDate": "Sun, 26 Apr 2026 05:00:01 +0900"
     }
   ]
 }
