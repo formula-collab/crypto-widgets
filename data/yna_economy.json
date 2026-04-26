@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777214375,
+  "updated_at_unix": 1777217579,
   "items": [
+    {
+      "title": "케빈 워시 美연준의장 인준 청신호…공화의원 반대입장 철회",
+      "link": "https://www.yna.co.kr/view/AKR20260426062100072",
+      "pubDate": "Sun, 26 Apr 2026 23:53:34 +0900"
+    },
     {
       "title": "[부고] 박준한(금융투자협회 부산지회장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260426057900505",
@@ -147,11 +152,6 @@
       "title": "중동 전쟁에 5월 제조업 전망 '흐림'…2개월째 기준치 하회",
       "link": "https://www.yna.co.kr/view/AKR20260426023600003",
       "pubDate": "Sun, 26 Apr 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260426017300011",
-      "pubDate": "Sun, 26 Apr 2026 10:30:00 +0900"
     }
   ]
 }
