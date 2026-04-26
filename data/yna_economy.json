@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777175923,
+  "updated_at_unix": 1777183537,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260426036400011",
+      "pubDate": "Sun, 26 Apr 2026 15:00:00 +0900"
+    },
+    {
+      "title": "KB시세로 서울 강남구 아파트값 2개월째 하락…이달 낙폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260426031900003",
+      "pubDate": "Sun, 26 Apr 2026 13:18:25 +0900"
+    },
+    {
+      "title": "이억원, 인도·베트남 'QR 결제연동' 추진 등 금융외교",
+      "link": "https://www.yna.co.kr/view/AKR20260426031800002",
+      "pubDate": "Sun, 26 Apr 2026 13:12:11 +0900"
+    },
+    {
+      "title": "직장갑질119 \"직장인 35% 노동절에 유급휴무 보장 못 받아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260426026951004",
+      "pubDate": "Sun, 26 Apr 2026 13:05:44 +0900"
+    },
+    {
+      "title": "'4대그룹 유일 공채' 삼성, 올해 상반기 GSAT 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260426018800003",
+      "pubDate": "Sun, 26 Apr 2026 13:00:00 +0900"
+    },
     {
       "title": "직장갑질119 \"직장인 35%, 노동절에 유급휴무 보장 못 받아\"",
       "link": "https://www.yna.co.kr/view/AKR20260426026900004",
@@ -127,31 +152,6 @@
       "title": "정부 농협 개혁안에 조합장들 반발 지속…\"농민 체감 대책 빠져\"",
       "link": "https://www.yna.co.kr/view/AKR20260426014100030",
       "pubDate": "Sun, 26 Apr 2026 09:14:22 +0900"
-    },
-    {
-      "title": "무보, 방산 중소기업의 묶인 자금 풀어 수출 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260426014300003",
-      "pubDate": "Sun, 26 Apr 2026 09:00:53 +0900"
-    },
-    {
-      "title": "법원 \"에릭슨 통신장비 소프트웨어, 상품 아닌 기술…과세 정당\"",
-      "link": "https://www.yna.co.kr/view/AKR20260425036300004",
-      "pubDate": "Sun, 26 Apr 2026 09:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 지방 기업 '찾아가는 환율 세미나'",
-      "link": "https://www.yna.co.kr/view/AKR20260424148000002",
-      "pubDate": "Sun, 26 Apr 2026 09:00:01 +0900"
-    },
-    {
-      "title": "농기계 면세유 '전쟁 직격탄'…36% 급등에 영농철 생산비 '비상'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260424153051030",
-      "pubDate": "Sun, 26 Apr 2026 08:35:57 +0900"
-    },
-    {
-      "title": "한국저작권위-국립중앙도서관, 실무 중심 저작권 교육 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260424113400052",
-      "pubDate": "Sun, 26 Apr 2026 08:30:03 +0900"
     }
   ]
 }
