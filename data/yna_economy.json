@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777190210,
+  "updated_at_unix": 1777193547,
   "items": [
+    {
+      "title": "외국인 계절근로자 80여명 불법 알선…귀화자 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260426045900053",
+      "pubDate": "Sun, 26 Apr 2026 17:12:47 +0900"
+    },
+    {
+      "title": "국토부, '주택시장 변화 대응' 부동산제도기획과 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260426045400003",
+      "pubDate": "Sun, 26 Apr 2026 17:05:57 +0900"
+    },
     {
       "title": "충남도 해외바이어 상담회서 6천900만달러 수출 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260426041500063",
@@ -142,16 +152,6 @@
       "title": "삼성전자 히트펌프·에어컨, 이탈리아 소비자 만족도 1위",
       "link": "https://www.yna.co.kr/view/AKR20260426012200003",
       "pubDate": "Sun, 26 Apr 2026 10:00:02 +0900"
-    },
-    {
-      "title": "산업기술진흥원, 한-베트남 핵심광물 전략 포럼 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260426017100003",
-      "pubDate": "Sun, 26 Apr 2026 09:52:26 +0900"
-    },
-    {
-      "title": "호반건설, 서울 면목동서 1천500억원 가로주택정비사업 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260426016500003",
-      "pubDate": "Sun, 26 Apr 2026 09:38:56 +0900"
     }
   ]
 }
