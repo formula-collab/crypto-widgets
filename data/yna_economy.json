@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777231492,
+  "updated_at_unix": 1777233609,
   "items": [
+    {
+      "title": "'고유가 지원금' 오늘부터 1차 지급…기초·차상위·한부모 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260426030200530",
+      "pubDate": "Mon, 27 Apr 2026 04:30:01 +0900"
+    },
     {
       "title": "케빈 워시 美연준의장 인준 청신호…공화의원 반대입장 철회",
       "link": "https://www.yna.co.kr/view/AKR20260426062100072",
@@ -147,11 +152,6 @@
       "title": "중동발 물류난에 해상·항공 총력 지원…중기 수출길 터준다",
       "link": "https://www.yna.co.kr/view/AKR20260426015800003",
       "pubDate": "Sun, 26 Apr 2026 11:00:01 +0900"
-    },
-    {
-      "title": "중동 전쟁에 5월 제조업 전망 '흐림'…2개월째 기준치 하회",
-      "link": "https://www.yna.co.kr/view/AKR20260426023600003",
-      "pubDate": "Sun, 26 Apr 2026 11:00:00 +0900"
     }
   ]
 }
