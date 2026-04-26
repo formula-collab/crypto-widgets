@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777240696,
+  "updated_at_unix": 1777242917,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260427008000011",
+      "pubDate": "Mon, 27 Apr 2026 07:30:00 +0900"
+    },
     {
       "title": "[벼랑끝 농어촌 의료] ②의사 없는 보건지소에 전담 간호사 투입…기능 개편",
       "link": "https://www.yna.co.kr/view/AKR20260426039000530",
@@ -146,11 +151,6 @@
     {
       "title": "3.2조원 설탕 담합 적발한 공정위 직원 2명에 1천500만원 포상",
       "link": "https://www.yna.co.kr/view/AKR20260425038100002",
-      "pubDate": "Sun, 26 Apr 2026 12:00:07 +0900"
-    },
-    {
-      "title": "\"고유가로 무역수지 200억달러 줄 수도…반도체에 흑자는 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260425041200002",
       "pubDate": "Sun, 26 Apr 2026 12:00:07 +0900"
     }
   ]
