@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777294651,
+  "updated_at_unix": 1777302183,
   "items": [
+    {
+      "title": "美저비용항공사들, 유가급등에 연방정부에 금융지원 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260427160500072",
+      "pubDate": "Mon, 27 Apr 2026 23:37:48 +0900"
+    },
+    {
+      "title": "공정위, 무신사·롯데하이마트 대규모유통업법 위반 여부 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260427158900002",
+      "pubDate": "Mon, 27 Apr 2026 22:21:21 +0900"
+    },
     {
       "title": "제주 성산읍 제2공항 예정지 외 토지거래허가구역 해제",
       "link": "https://www.yna.co.kr/view/AKR20260427143400056",
@@ -142,16 +152,6 @@
       "title": "엔젠바이오, 220억원 주주배정후 실권주 공모 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260427119000008",
       "pubDate": "Mon, 27 Apr 2026 16:01:27 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농협 개혁 속도전…농지조사는 지역별 맞춤 대응\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427048151030",
-      "pubDate": "Mon, 27 Apr 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 우리금융지주, 1분기 실적 시장기대치 하회에 5% 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427099351008",
-      "pubDate": "Mon, 27 Apr 2026 15:53:55 +0900"
     }
   ]
 }
