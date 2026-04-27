@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777326242,
+  "updated_at_unix": 1777329529,
   "items": [
+    {
+      "title": "KCC울산일반산단에 변압기 생산공장 신설…640억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260427158500057",
+      "pubDate": "Tue, 28 Apr 2026 07:32:55 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260428015600011",
+      "pubDate": "Tue, 28 Apr 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[머니톡스] 주식이냐 부동산이냐, 그것이 문제로다",
+      "link": "https://www.yna.co.kr/view/AKR20260427068400546",
+      "pubDate": "Tue, 28 Apr 2026 07:07:02 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 가나 초콜릿서 민주주의까지…한-아프리카 협력의 새 좌표",
+      "link": "https://www.yna.co.kr/view/AKR20260421124400898",
+      "pubDate": "Tue, 28 Apr 2026 07:00:11 +0900"
+    },
     {
       "title": "서울시, 일본 도쿄도와 디지털 협력 맞손…행정 분야 AI 활용 등",
       "link": "https://www.yna.co.kr/view/AKR20260427144500004",
@@ -132,26 +152,6 @@
       "title": "SH, 제50차 장기전세주택 1천154세대 입주자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260427127000004",
       "pubDate": "Mon, 27 Apr 2026 16:42:29 +0900"
-    },
-    {
-      "title": "철도공단, 청년인턴 등 127명 상반기 채용…내달 4일 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260427126300063",
-      "pubDate": "Mon, 27 Apr 2026 16:41:15 +0900"
-    },
-    {
-      "title": "전남도, 택시·버스 종사자 생활안정자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260427125200054",
-      "pubDate": "Mon, 27 Apr 2026 16:40:27 +0900"
-    },
-    {
-      "title": "LH, '모아타운 사업 활성화' 민간 건설사와 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260427124900003",
-      "pubDate": "Mon, 27 Apr 2026 16:35:44 +0900"
-    },
-    {
-      "title": "예보, 6개 신용정보회사와 '포용금융 확산·공정추심 강화' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260427122500002",
-      "pubDate": "Mon, 27 Apr 2026 16:28:55 +0900"
     }
   ]
 }
