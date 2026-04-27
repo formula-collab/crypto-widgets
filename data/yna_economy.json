@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777309172,
+  "updated_at_unix": 1777313035,
   "items": [
+    {
+      "title": "달러-원, 유가 급등 속 소폭 상승…1,473.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260428004100002",
+      "pubDate": "Tue, 28 Apr 2026 02:56:07 +0900"
+    },
     {
       "title": "美저비용항공사들, 유가급등에 연방정부에 금융지원 요청",
       "link": "https://www.yna.co.kr/view/AKR20260427160500072",
@@ -147,11 +152,6 @@
       "title": "경기신보, 소상공인 지원 세미나 열어 실효적 정책 모색",
       "link": "https://www.yna.co.kr/view/AKR20260427118400061",
       "pubDate": "Mon, 27 Apr 2026 16:02:09 +0900"
-    },
-    {
-      "title": "엔젠바이오, 220억원 주주배정후 실권주 공모 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260427119000008",
-      "pubDate": "Mon, 27 Apr 2026 16:01:27 +0900"
     }
   ]
 }
