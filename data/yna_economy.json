@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777329529,
+  "updated_at_unix": 1777333260,
   "items": [
+    {
+      "title": "KB증권 \"'1분기 순항' RFHIC, 실적 개선 지속…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428026900008",
+      "pubDate": "Tue, 28 Apr 2026 08:33:38 +0900"
+    },
+    {
+      "title": "서산시, 고령자·장애인 찾아가 고유가 피해 지원금 신청 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260428026300063",
+      "pubDate": "Tue, 28 Apr 2026 08:30:41 +0900"
+    },
+    {
+      "title": "NH투자 \"LG이노텍 주가, 가파른 상승에도 싸다…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428025300008",
+      "pubDate": "Tue, 28 Apr 2026 08:20:51 +0900"
+    },
+    {
+      "title": "[마켓뷰] 6600선 돌파 코스피, 기세 몰아가나 쉬어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260428022200008",
+      "pubDate": "Tue, 28 Apr 2026 08:14:32 +0900"
+    },
+    {
+      "title": "한투증권 \"양호한 경제성장에 하반기 기준금리 인상 2회 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428023400008",
+      "pubDate": "Tue, 28 Apr 2026 08:08:43 +0900"
+    },
+    {
+      "title": "中企제조업 생산 10.1% 감소…창업 부진에 영세업체만 고용 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260427118200030",
+      "pubDate": "Tue, 28 Apr 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[부산소식] 부산형 앵커 기반 대학생 생활금융교육 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260428021300051",
+      "pubDate": "Tue, 28 Apr 2026 07:54:40 +0900"
+    },
+    {
+      "title": "\"올해 세븐브릿지 투어도 성공\" 부산시, 여행업협회와 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260428021000051",
+      "pubDate": "Tue, 28 Apr 2026 07:53:52 +0900"
+    },
+    {
+      "title": "李대통령, 국세청 해외은닉재산 추적에 \"임광현 청장 열일 감사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428019800001",
+      "pubDate": "Tue, 28 Apr 2026 07:50:07 +0900"
+    },
     {
       "title": "KCC울산일반산단에 변압기 생산공장 신설…640억원 투자",
       "link": "https://www.yna.co.kr/view/AKR20260427158500057",
@@ -107,51 +152,6 @@
       "title": "애경케미칼 \"자회사 애경화공에 824억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260427139700008",
       "pubDate": "Mon, 27 Apr 2026 17:40:58 +0900"
-    },
-    {
-      "title": "유니트론텍 \"관계사 지피아이 주식 113억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260427136800008",
-      "pubDate": "Mon, 27 Apr 2026 17:27:03 +0900"
-    },
-    {
-      "title": "에이럭스 \"자회사 이알 주식 80억원어치 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260427136700008",
-      "pubDate": "Mon, 27 Apr 2026 17:26:13 +0900"
-    },
-    {
-      "title": "한국TV홈쇼핑협회, 신임 회장에 임광기 전 SBS 논설위원 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260427134300030",
-      "pubDate": "Mon, 27 Apr 2026 17:16:26 +0900"
-    },
-    {
-      "title": "최휘영 장관 \"'불법사이트 긴급차단' 성공해야 문화강국 유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260427134500005",
-      "pubDate": "Mon, 27 Apr 2026 17:16:25 +0900"
-    },
-    {
-      "title": "'사내 성추행 사건 피해자에 불이익 혐의' 전 KPGA 대표 재판행",
-      "link": "https://www.yna.co.kr/view/AKR20260427131700061",
-      "pubDate": "Mon, 27 Apr 2026 17:05:44 +0900"
-    },
-    {
-      "title": "강원교육청, '여우리와 친구들' 저작권·상표권 등록 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260427131800062",
-      "pubDate": "Mon, 27 Apr 2026 17:05:31 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세 마감…3년물 연 3.492%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427128451008",
-      "pubDate": "Mon, 27 Apr 2026 16:58:22 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.492%",
-      "link": "https://www.yna.co.kr/view/AKR20260427128400008",
-      "pubDate": "Mon, 27 Apr 2026 16:47:36 +0900"
-    },
-    {
-      "title": "SH, 제50차 장기전세주택 1천154세대 입주자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260427127000004",
-      "pubDate": "Mon, 27 Apr 2026 16:42:29 +0900"
     }
   ]
 }
