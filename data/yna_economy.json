@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777322998,
+  "updated_at_unix": 1777326242,
   "items": [
+    {
+      "title": "서울시, 일본 도쿄도와 디지털 협력 맞손…행정 분야 AI 활용 등",
+      "link": "https://www.yna.co.kr/view/AKR20260427144500004",
+      "pubDate": "Tue, 28 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 'FSS 금융교육센터' 카카오톡 채널 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260427136200002",
+      "pubDate": "Tue, 28 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "기업 체감경기 반등했지만…\"중동발 재고 감소 제외하면 하락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427136600002",
+      "pubDate": "Tue, 28 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "올해 1분기 한은 순이익 4조2천억, 사상 최대…작년 대비 3배",
+      "link": "https://www.yna.co.kr/view/AKR20260427137700002",
+      "pubDate": "Tue, 28 Apr 2026 05:53:00 +0900"
+    },
+    {
+      "title": "1분기 은행 연체율 '역대 최고' 속출…부실채권도 비상",
+      "link": "https://www.yna.co.kr/view/AKR20260427143900002",
+      "pubDate": "Tue, 28 Apr 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 안갯속 미·이란 종전협상에 상승…브렌트 3%↑",
       "link": "https://www.yna.co.kr/view/AKR20260428006200072",
@@ -127,31 +152,6 @@
       "title": "예보, 6개 신용정보회사와 '포용금융 확산·공정추심 강화' 협약",
       "link": "https://www.yna.co.kr/view/AKR20260427122500002",
       "pubDate": "Mon, 27 Apr 2026 16:28:55 +0900"
-    },
-    {
-      "title": "강원 고유가 지원금 접수 첫날 큰 혼란 없어…\"이용처 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260427118000062",
-      "pubDate": "Mon, 27 Apr 2026 16:18:14 +0900"
-    },
-    {
-      "title": "편의점 국제택배 요금 내달부터 평균 7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260427114800030",
-      "pubDate": "Mon, 27 Apr 2026 16:13:34 +0900"
-    },
-    {
-      "title": "[특징주] 효성중공업, 목표가 줄상향에 한때 사상 첫 400만원 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427054651008",
-      "pubDate": "Mon, 27 Apr 2026 16:13:25 +0900"
-    },
-    {
-      "title": "연일 최고치에 '시총 6천조' 돌파…韓증시, 1년만 덩치 2.8배로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427061251008",
-      "pubDate": "Mon, 27 Apr 2026 16:09:21 +0900"
-    },
-    {
-      "title": "'파죽지세' 코스피, 6600고지 돌파…'7천피'도 가시권(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427100151008",
-      "pubDate": "Mon, 27 Apr 2026 16:05:31 +0900"
     }
   ]
 }
