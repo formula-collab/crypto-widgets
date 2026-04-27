@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777246102,
+  "updated_at_unix": 1777248207,
   "items": [
+    {
+      "title": "LH, 상반기 특화형 매입임대 공모 접수…1천호 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260427025100003",
+      "pubDate": "Mon, 27 Apr 2026 08:59:00 +0900"
+    },
+    {
+      "title": "롯데칠성, '처음처럼 클래식' 출시…\"20년 전 '20도' 부활\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427023800030",
+      "pubDate": "Mon, 27 Apr 2026 08:57:58 +0900"
+    },
+    {
+      "title": "아산나눔재단, 비영리 스타트업 지원 프로그램 6개사 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260427024000003",
+      "pubDate": "Mon, 27 Apr 2026 08:57:37 +0900"
+    },
+    {
+      "title": "벤처기업 인공지능전환은 '구축 초기단계'…\"정책적 지원 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427024300051",
+      "pubDate": "Mon, 27 Apr 2026 08:53:43 +0900"
+    },
+    {
+      "title": "중진공-KT&G, 사회공헌 활성화·지역사회 상생발전 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260427021600030",
+      "pubDate": "Mon, 27 Apr 2026 08:49:30 +0900"
+    },
+    {
+      "title": "NH-아문디운용, 'Fn K-반도체' ETF 순자산 2조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260427022300008",
+      "pubDate": "Mon, 27 Apr 2026 08:49:03 +0900"
+    },
+    {
+      "title": "키움證 \"제일기획, 산업 구조 변화에 성장 둔화…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427022800008",
+      "pubDate": "Mon, 27 Apr 2026 08:48:43 +0900"
+    },
+    {
+      "title": "CJ제일제당, 베트남 최대 유통사 '박화산'과 협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260427021300030",
+      "pubDate": "Mon, 27 Apr 2026 08:48:05 +0900"
+    },
+    {
+      "title": "[게시판] 금정호 신영증권 대표, 청소년 불법도박 근절 캠페인 동참",
+      "link": "https://www.yna.co.kr/view/AKR20260427022000008",
+      "pubDate": "Mon, 27 Apr 2026 08:42:22 +0900"
+    },
+    {
+      "title": "한화증권 \"호텔신라, 1분기 실적 기대치 상회…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427021000008",
+      "pubDate": "Mon, 27 Apr 2026 08:41:10 +0900"
+    },
+    {
+      "title": "DS투자 \"현대모비스, 하반기부터 현대·기아 신차 출시 효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260427019400008",
+      "pubDate": "Mon, 27 Apr 2026 08:36:18 +0900"
+    },
+    {
+      "title": "W컨셉, 선물하기 서비스 개편…가정의달 기획전도",
+      "link": "https://www.yna.co.kr/view/AKR20260427018700030",
+      "pubDate": "Mon, 27 Apr 2026 08:30:07 +0900"
+    },
     {
       "title": "신한투자 \"효성중공업, 신규수주 폭발적 성장…목표가↑\"",
       "link": "https://www.yna.co.kr/view/AKR20260427017900008",
@@ -92,66 +152,6 @@
       "title": "[게시판] 내달까지 '디지털 트윈국토 플랫폼' 권역별 현장 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260426046800003",
       "pubDate": "Mon, 27 Apr 2026 06:00:00 +0900"
-    },
-    {
-      "title": "엽떡도 N분의 1 나눠내자…고물가가 낳은 청년들의 '소분 모임'",
-      "link": "https://www.yna.co.kr/view/AKR20260426040200004",
-      "pubDate": "Mon, 27 Apr 2026 05:55:00 +0900"
-    },
-    {
-      "title": "신현송 한은총재 '열공모드'…출장 건너뛰고 업무보고·티타임",
-      "link": "https://www.yna.co.kr/view/AKR20260425042600002",
-      "pubDate": "Mon, 27 Apr 2026 05:51:00 +0900"
-    },
-    {
-      "title": "'고유가 지원금' 오늘부터 1차 지급…기초·차상위·한부모 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260426030200530",
-      "pubDate": "Mon, 27 Apr 2026 04:30:01 +0900"
-    },
-    {
-      "title": "케빈 워시 美연준의장 인준 청신호…공화의원 반대입장 철회",
-      "link": "https://www.yna.co.kr/view/AKR20260426062100072",
-      "pubDate": "Sun, 26 Apr 2026 23:53:34 +0900"
-    },
-    {
-      "title": "[부고] 박준한(금융투자협회 부산지회장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260426057900505",
-      "pubDate": "Sun, 26 Apr 2026 21:21:39 +0900"
-    },
-    {
-      "title": "반도체에 가린 1%대 잠재성장률…주저앉는 韓경제 기초체력(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260425041351002",
-      "pubDate": "Sun, 26 Apr 2026 19:02:41 +0900"
-    },
-    {
-      "title": "외국인 계절근로자 80여명 불법 알선…귀화자 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260426045900053",
-      "pubDate": "Sun, 26 Apr 2026 17:12:47 +0900"
-    },
-    {
-      "title": "국토부, '주택시장 변화 대응' 부동산제도기획과 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260426045400003",
-      "pubDate": "Sun, 26 Apr 2026 17:05:57 +0900"
-    },
-    {
-      "title": "충남도 해외바이어 상담회서 6천900만달러 수출 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260426041500063",
-      "pubDate": "Sun, 26 Apr 2026 15:56:34 +0900"
-    },
-    {
-      "title": "KB시세로 서울 오피스텔값 오름폭 둔화…대형·중대형만 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260426040100003",
-      "pubDate": "Sun, 26 Apr 2026 15:52:35 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260426036400011",
-      "pubDate": "Sun, 26 Apr 2026 15:00:00 +0900"
-    },
-    {
-      "title": "KB시세로 서울 강남구 아파트값 2개월째 하락…이달 낙폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260426031900003",
-      "pubDate": "Sun, 26 Apr 2026 13:18:25 +0900"
     }
   ]
 }
