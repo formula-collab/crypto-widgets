@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777313035,
+  "updated_at_unix": 1777319511,
   "items": [
+    {
+      "title": "국제유가, 안갯속 미·이란 종전협상에 상승…브렌트 3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260428006200072",
+      "pubDate": "Tue, 28 Apr 2026 04:33:22 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 교착상태에 빠진 美·이란 협상…WTI 2% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260428005100009",
+      "pubDate": "Tue, 28 Apr 2026 03:44:44 +0900"
+    },
     {
       "title": "달러-원, 유가 급등 속 소폭 상승…1,473.60원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260428004100002",
@@ -142,16 +152,6 @@
       "title": "'파죽지세' 코스피, 6600고지 돌파…'7천피'도 가시권(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260427100151008",
       "pubDate": "Mon, 27 Apr 2026 16:05:31 +0900"
-    },
-    {
-      "title": "'AI 붐'에 상승장 이끈 IT·전력기기株…\"진짜는 2분기부터\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260427056351008",
-      "pubDate": "Mon, 27 Apr 2026 16:02:23 +0900"
-    },
-    {
-      "title": "경기신보, 소상공인 지원 세미나 열어 실효적 정책 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260427118400061",
-      "pubDate": "Mon, 27 Apr 2026 16:02:09 +0900"
     }
   ]
 }
