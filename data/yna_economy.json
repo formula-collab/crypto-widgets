@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777399897,
+  "updated_at_unix": 1777406308,
   "items": [
+    {
+      "title": "국제유가, UAE의 OPEC 탈퇴에도 3%↑…WTI 다시 100달러",
+      "link": "https://www.yna.co.kr/view/AKR20260429006000072",
+      "pubDate": "Wed, 29 Apr 2026 04:26:11 +0900"
+    },
+    {
+      "title": "[뉴욕유가] 진전없는 美·이란 협상…WTI 100달러 육박 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260429005300009",
+      "pubDate": "Wed, 29 Apr 2026 03:44:08 +0900"
+    },
     {
       "title": "달러-원, UAE OPEC 탈퇴에 유가 따라 뒷걸음질…1,473.20원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260429004100002",
@@ -142,16 +152,6 @@
       "title": "iM금융, 1분기 당기순이익 1천545억원…작년과 비슷",
       "link": "https://www.yna.co.kr/view/AKR20260428157700053",
       "pubDate": "Tue, 28 Apr 2026 17:03:58 +0900"
-    },
-    {
-      "title": "중동 전쟁 장기화에 선사 경영난…정부, 금융지원 패키지 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260428160000051",
-      "pubDate": "Tue, 28 Apr 2026 17:00:53 +0900"
-    },
-    {
-      "title": "'무더위·한파쉼터' 민간 대폭 확대…은행·역사·마트도 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260428151900530",
-      "pubDate": "Tue, 28 Apr 2026 17:00:01 +0900"
     }
   ]
 }
