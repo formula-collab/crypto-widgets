@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777370660,
+  "updated_at_unix": 1777378077,
   "items": [
+    {
+      "title": "제이알글로벌리츠, 400억원 못갚아 법원에 회생 절차 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260428182600008",
+      "pubDate": "Tue, 28 Apr 2026 20:27:38 +0900"
+    },
+    {
+      "title": "쿠팡이츠 '라이더가 메뉴 확인' 기능 하루 만에 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260428181800030",
+      "pubDate": "Tue, 28 Apr 2026 19:52:26 +0900"
+    },
+    {
+      "title": "두산테스나, 1천909억원 반도체장비 양수…평택 2공장 투자 재개",
+      "link": "https://www.yna.co.kr/view/AKR20260428179300003",
+      "pubDate": "Tue, 28 Apr 2026 19:12:28 +0900"
+    },
     {
       "title": "에이비엘바이오 \"담도암치료제 임상, 일부 변수 미충족\"",
       "link": "https://www.yna.co.kr/view/AKR20260428176800017",
@@ -137,21 +152,6 @@
       "title": "광주은행, 안전보건경영시스템 국제표준 인증 획득",
       "link": "https://www.yna.co.kr/view/AKR20260428155200054",
       "pubDate": "Tue, 28 Apr 2026 16:37:19 +0900"
-    },
-    {
-      "title": "BNK경남은행, 스타트업 육성 'CHAIN-G 프로그램' 3기 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260428153300052",
-      "pubDate": "Tue, 28 Apr 2026 16:35:13 +0900"
-    },
-    {
-      "title": "반려동물 동반식당 급증했지만…\"제도 긍정평가는 10명 중 3명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428126000030",
-      "pubDate": "Tue, 28 Apr 2026 16:33:54 +0900"
-    },
-    {
-      "title": "'7연속 금리동결' 금통위원들 \"중동 전쟁 영향 일단 지켜보자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428152400002",
-      "pubDate": "Tue, 28 Apr 2026 16:32:44 +0900"
     }
   ]
 }
