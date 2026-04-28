@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777406308,
+  "updated_at_unix": 1777410288,
   "items": [
+    {
+      "title": "하반기 건설공사 표준시장단가 내달 8일 공고…중동전쟁 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260428130700003",
+      "pubDate": "Wed, 29 Apr 2026 06:00:09 +0900"
+    },
+    {
+      "title": "하반기 '서울 동행 일자리' 6천943명 모집…상반기보다 345명↑",
+      "link": "https://www.yna.co.kr/view/AKR20260428150600004",
+      "pubDate": "Wed, 29 Apr 2026 06:00:07 +0900"
+    },
+    {
+      "title": "중기부, 수출 中企 대외무역 대응 민관 합동 설명회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260428149600030",
+      "pubDate": "Wed, 29 Apr 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데백화점, 외국인 전용 멤버십 '잠실 롯데타운'으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260428158200030",
+      "pubDate": "Wed, 29 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "코트라, LA서 '취업비자 지원' 기업 초청 잡페어",
+      "link": "https://www.yna.co.kr/view/AKR20260428168100003",
+      "pubDate": "Wed, 29 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "한경협, 청년 창업가 초청 강연…코스모비·리소리우스 대표",
+      "link": "https://www.yna.co.kr/view/AKR20260428170100003",
+      "pubDate": "Wed, 29 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "일반회사채 석달째 순상환…CP·단기사채는 발행 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260428172800002",
+      "pubDate": "Wed, 29 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "일본 중고무기 수출에 한국 방산업계 긴장…\"경쟁자 될 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428169300003",
+      "pubDate": "Wed, 29 Apr 2026 05:59:01 +0900"
+    },
+    {
+      "title": "기업은행 중소 부동산업 연체율 13년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260428173400002",
+      "pubDate": "Wed, 29 Apr 2026 05:51:01 +0900"
+    },
+    {
+      "title": "이찬진, 업추비 첫 공개…8개월간 약 1천700만원 지출",
+      "link": "https://www.yna.co.kr/view/AKR20260429000600002",
+      "pubDate": "Wed, 29 Apr 2026 05:00:01 +0900"
+    },
     {
       "title": "국제유가, UAE의 OPEC 탈퇴에도 3%↑…WTI 다시 100달러",
       "link": "https://www.yna.co.kr/view/AKR20260429006000072",
@@ -102,56 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260428164800011",
       "pubDate": "Tue, 28 Apr 2026 18:00:01 +0900"
-    },
-    {
-      "title": "우상호 \"여성 창업 기회 확대\"…김진태 \"반려동물 화장장 건립\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428169200062",
-      "pubDate": "Tue, 28 Apr 2026 17:53:24 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260428168400002",
-      "pubDate": "Tue, 28 Apr 2026 17:42:32 +0900"
-    },
-    {
-      "title": "SK바이오사이언스, 171억원 규모 자사주 매입",
-      "link": "https://www.yna.co.kr/view/AKR20260428167400017",
-      "pubDate": "Tue, 28 Apr 2026 17:42:20 +0900"
-    },
-    {
-      "title": "\"위조 공문으로 물품 구매 유도\"…식약처, 식품업계에 주의 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260428165800017",
-      "pubDate": "Tue, 28 Apr 2026 17:33:33 +0900"
-    },
-    {
-      "title": "상지대 RISE사업단, 여성 창업 생태계 조성 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260428164700062",
-      "pubDate": "Tue, 28 Apr 2026 17:23:09 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 이달 첫 3.5%대 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428156451008",
-      "pubDate": "Tue, 28 Apr 2026 17:15:19 +0900"
-    },
-    {
-      "title": "'청탁금지법 위반' 정성주 김제시장, 3시간 조사 마쳐(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428110751055",
-      "pubDate": "Tue, 28 Apr 2026 17:13:54 +0900"
-    },
-    {
-      "title": "일본은행, 기준금리 0.75% 유지…올해 성장 전망은 0.5%로 낮춰(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260428094852073",
-      "pubDate": "Tue, 28 Apr 2026 17:06:01 +0900"
-    },
-    {
-      "title": "부산시, 청년정책 종합평가 4년 연속 우수기관 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260428161800051",
-      "pubDate": "Tue, 28 Apr 2026 17:05:59 +0900"
-    },
-    {
-      "title": "iM금융, 1분기 당기순이익 1천545억원…작년과 비슷",
-      "link": "https://www.yna.co.kr/view/AKR20260428157700053",
-      "pubDate": "Tue, 28 Apr 2026 17:03:58 +0900"
     }
   ]
 }
