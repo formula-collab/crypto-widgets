@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777395073,
+  "updated_at_unix": 1777399897,
   "items": [
+    {
+      "title": "달러-원, UAE OPEC 탈퇴에 유가 따라 뒷걸음질…1,473.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260429004100002",
+      "pubDate": "Wed, 29 Apr 2026 03:01:21 +0900"
+    },
     {
       "title": "미·이란 협상교착에 미국내 휘발유 가격 3년8개월만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260429000300072",
@@ -147,11 +152,6 @@
       "title": "'무더위·한파쉼터' 민간 대폭 확대…은행·역사·마트도 지정",
       "link": "https://www.yna.co.kr/view/AKR20260428151900530",
       "pubDate": "Tue, 28 Apr 2026 17:00:01 +0900"
-    },
-    {
-      "title": "나라살림 두고 2시간 반 타운홀미팅…박홍근 \"쓰일 곳에 제대로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428160800002",
-      "pubDate": "Tue, 28 Apr 2026 16:59:27 +0900"
     }
   ]
 }
