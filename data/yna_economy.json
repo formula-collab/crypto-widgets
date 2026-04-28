@@ -1,8 +1,143 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777362144,
+  "updated_at_unix": 1777370660,
   "items": [
+    {
+      "title": "에이비엘바이오 \"담도암치료제 임상, 일부 변수 미충족\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428176800017",
+      "pubDate": "Tue, 28 Apr 2026 18:50:44 +0900"
+    },
+    {
+      "title": "與 \"정유사, 고통분담 위해 아스팔트 가격 인하 동참키로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428175100001",
+      "pubDate": "Tue, 28 Apr 2026 18:40:05 +0900"
+    },
+    {
+      "title": "크라우드웍스, 10억원 유상증자…피봇스트래티지에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260428176400008",
+      "pubDate": "Tue, 28 Apr 2026 18:35:51 +0900"
+    },
+    {
+      "title": "앱토크롬, 120억원 유상증자…넥스코닉스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260428173800008",
+      "pubDate": "Tue, 28 Apr 2026 18:27:18 +0900"
+    },
+    {
+      "title": "젬백스 \"한국줄기세포뱅크 주식 124억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428175200008",
+      "pubDate": "Tue, 28 Apr 2026 18:23:57 +0900"
+    },
+    {
+      "title": "KBI메탈 \"원영하이텍 주식 103억원어치 취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428174300008",
+      "pubDate": "Tue, 28 Apr 2026 18:21:48 +0900"
+    },
+    {
+      "title": "업비트·빗썸 이어 코인원도 FIU 제재 불복…행정소송 제기",
+      "link": "https://www.yna.co.kr/view/AKR20260428174000002",
+      "pubDate": "Tue, 28 Apr 2026 18:13:54 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260428164800011",
+      "pubDate": "Tue, 28 Apr 2026 18:00:01 +0900"
+    },
+    {
+      "title": "우상호 \"여성 창업 기회 확대\"…김진태 \"반려동물 화장장 건립\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428169200062",
+      "pubDate": "Tue, 28 Apr 2026 17:53:24 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260428168400002",
+      "pubDate": "Tue, 28 Apr 2026 17:42:32 +0900"
+    },
+    {
+      "title": "SK바이오사이언스, 171억원 규모 자사주 매입",
+      "link": "https://www.yna.co.kr/view/AKR20260428167400017",
+      "pubDate": "Tue, 28 Apr 2026 17:42:20 +0900"
+    },
+    {
+      "title": "\"위조 공문으로 물품 구매 유도\"…식약처, 식품업계에 주의 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260428165800017",
+      "pubDate": "Tue, 28 Apr 2026 17:33:33 +0900"
+    },
+    {
+      "title": "상지대 RISE사업단, 여성 창업 생태계 조성 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260428164700062",
+      "pubDate": "Tue, 28 Apr 2026 17:23:09 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 이달 첫 3.5%대 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260428156451008",
+      "pubDate": "Tue, 28 Apr 2026 17:15:19 +0900"
+    },
+    {
+      "title": "'청탁금지법 위반' 정성주 김제시장, 3시간 조사 마쳐(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260428110751055",
+      "pubDate": "Tue, 28 Apr 2026 17:13:54 +0900"
+    },
+    {
+      "title": "일본은행, 기준금리 0.75% 유지…올해 성장 전망은 0.5%로 낮춰(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260428094852073",
+      "pubDate": "Tue, 28 Apr 2026 17:06:01 +0900"
+    },
+    {
+      "title": "부산시, 청년정책 종합평가 4년 연속 우수기관 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260428161800051",
+      "pubDate": "Tue, 28 Apr 2026 17:05:59 +0900"
+    },
+    {
+      "title": "iM금융, 1분기 당기순이익 1천545억원…작년과 비슷",
+      "link": "https://www.yna.co.kr/view/AKR20260428157700053",
+      "pubDate": "Tue, 28 Apr 2026 17:03:58 +0900"
+    },
+    {
+      "title": "중동 전쟁 장기화에 선사 경영난…정부, 금융지원 패키지 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260428160000051",
+      "pubDate": "Tue, 28 Apr 2026 17:00:53 +0900"
+    },
+    {
+      "title": "'무더위·한파쉼터' 민간 대폭 확대…은행·역사·마트도 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260428151900530",
+      "pubDate": "Tue, 28 Apr 2026 17:00:01 +0900"
+    },
+    {
+      "title": "나라살림 두고 2시간 반 타운홀미팅…박홍근 \"쓰일 곳에 제대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428160800002",
+      "pubDate": "Tue, 28 Apr 2026 16:59:27 +0900"
+    },
+    {
+      "title": "차세대융합기술연구원, 경기도 대학생 20개팀 창업지원",
+      "link": "https://www.yna.co.kr/view/AKR20260428158600061",
+      "pubDate": "Tue, 28 Apr 2026 16:54:16 +0900"
+    },
+    {
+      "title": "영화테크, 20억원 '제3자 배정' 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260428158400008",
+      "pubDate": "Tue, 28 Apr 2026 16:50:44 +0900"
+    },
+    {
+      "title": "KB금융, 복지부와 야간 연장 돌봄 지원 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260428156700002",
+      "pubDate": "Tue, 28 Apr 2026 16:44:52 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.529%",
+      "link": "https://www.yna.co.kr/view/AKR20260428156400008",
+      "pubDate": "Tue, 28 Apr 2026 16:42:14 +0900"
+    },
+    {
+      "title": "구미상의 \"지역 고용보험 가입자 11만여명…5년 연속 증가세\"",
+      "link": "https://www.yna.co.kr/view/AKR20260428148700053",
+      "pubDate": "Tue, 28 Apr 2026 16:39:26 +0900"
+    },
+    {
+      "title": "광주은행, 안전보건경영시스템 국제표준 인증 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260428155200054",
+      "pubDate": "Tue, 28 Apr 2026 16:37:19 +0900"
+    },
     {
       "title": "BNK경남은행, 스타트업 육성 'CHAIN-G 프로그램' 3기 출범",
       "link": "https://www.yna.co.kr/view/AKR20260428153300052",
@@ -17,141 +152,6 @@
       "title": "'7연속 금리동결' 금통위원들 \"중동 전쟁 영향 일단 지켜보자\"",
       "link": "https://www.yna.co.kr/view/AKR20260428152400002",
       "pubDate": "Tue, 28 Apr 2026 16:32:44 +0900"
-    },
-    {
-      "title": "강원 기업들 \"원자재 가격 부담 가중\"…체감경기 부진 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260428148500062",
-      "pubDate": "Tue, 28 Apr 2026 16:30:07 +0900"
-    },
-    {
-      "title": "송미령 장관 \"비료 과잉 투입 관행 개선…농가 소득 높여야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428119900030",
-      "pubDate": "Tue, 28 Apr 2026 16:30:01 +0900"
-    },
-    {
-      "title": "\"전세사기특별법, 근본 구조 해결은 미흡…전세가율 규제해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428140300004",
-      "pubDate": "Tue, 28 Apr 2026 16:25:27 +0900"
-    },
-    {
-      "title": "중동산 석유 1%만 부족해도 치명적…\"에너지 안보체계 구축해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428146400003",
-      "pubDate": "Tue, 28 Apr 2026 16:24:36 +0900"
-    },
-    {
-      "title": "삼성바이오 노조, 부분파업 돌입…내달 전면파업 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260428149300017",
-      "pubDate": "Tue, 28 Apr 2026 16:19:50 +0900"
-    },
-    {
-      "title": "태백시도시재생지원센터, 집수리 전문인력 양성 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260428144600062",
-      "pubDate": "Tue, 28 Apr 2026 16:00:18 +0900"
-    },
-    {
-      "title": "전주시, 내달 14일 '구인·구직 만남의 날' 개최…35명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260428142300055",
-      "pubDate": "Tue, 28 Apr 2026 15:53:33 +0900"
-    },
-    {
-      "title": "환율, 미·이란 협상 교착에 소폭 올라…1,473.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260428140900002",
-      "pubDate": "Tue, 28 Apr 2026 15:52:43 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스, '130만닉스' 굳히며 마감…삼전은 1.1%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428043351008",
-      "pubDate": "Tue, 28 Apr 2026 15:43:25 +0900"
-    },
-    {
-      "title": "외국환시세(4월28일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260428137300002",
-      "pubDate": "Tue, 28 Apr 2026 15:43:01 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.1원 오른 1,473.6원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260428135600002",
-      "pubDate": "Tue, 28 Apr 2026 15:42:25 +0900"
-    },
-    {
-      "title": "한경협, '친환경 국내 관광' 캠페인…회원사 참여 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260428137900003",
-      "pubDate": "Tue, 28 Apr 2026 15:41:47 +0900"
-    },
-    {
-      "title": "미국-이란 전쟁 여파에 광주·전남 '3고→3저' 복합위기 진입",
-      "link": "https://www.yna.co.kr/view/AKR20260428134900054",
-      "pubDate": "Tue, 28 Apr 2026 15:39:22 +0900"
-    },
-    {
-      "title": "식약처 \"어제 주사기 485만개 생산…작년보다 32% 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428132500017",
-      "pubDate": "Tue, 28 Apr 2026 15:39:02 +0900"
-    },
-    {
-      "title": "비트맥스, 50억원 유상증자…에스밸류투자조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260428138300008",
-      "pubDate": "Tue, 28 Apr 2026 15:39:02 +0900"
-    },
-    {
-      "title": "中 밀크티 '차지' 한국 상륙…30일 강남·용산·신촌 동시 개점",
-      "link": "https://www.yna.co.kr/view/AKR20260428113700030",
-      "pubDate": "Tue, 28 Apr 2026 15:38:33 +0900"
-    },
-    {
-      "title": "[특징주] '1분기 호실적' LG이노텍, 목표가 줄상향속 52주 신고가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428042651008",
-      "pubDate": "Tue, 28 Apr 2026 15:38:13 +0900"
-    },
-    {
-      "title": "[특징주] 에스티팜, 호실적에 상승 마감…역대 최고가 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428054551008",
-      "pubDate": "Tue, 28 Apr 2026 15:37:35 +0900"
-    },
-    {
-      "title": "KB국민은행, 7억달러 규모 선순위 글로벌 채권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260428133700002",
-      "pubDate": "Tue, 28 Apr 2026 15:36:38 +0900"
-    },
-    {
-      "title": "[속보] 코스피 6,641 마감…이틀 연속 사상 최고 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260428136400008",
-      "pubDate": "Tue, 28 Apr 2026 15:34:21 +0900"
-    },
-    {
-      "title": "유아이디, 9억9천만원 '제3자 배정' 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260428131700008",
-      "pubDate": "Tue, 28 Apr 2026 15:15:45 +0900"
-    },
-    {
-      "title": "'지원받고 주소만 달랑' 무늬만 전북 기업에 줄줄 새는 세금",
-      "link": "https://www.yna.co.kr/view/AKR20260428126300055",
-      "pubDate": "Tue, 28 Apr 2026 15:15:35 +0900"
-    },
-    {
-      "title": "한국은행 \"1분기 호남권 경기, 전분기 보다 소폭 악화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260428126400054",
-      "pubDate": "Tue, 28 Apr 2026 15:11:49 +0900"
-    },
-    {
-      "title": "유한재단, '유일한 장학금' 수여식…장학생 147명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260428129700017",
-      "pubDate": "Tue, 28 Apr 2026 15:08:55 +0900"
-    },
-    {
-      "title": "양주시, 소상공인 자생력 강화사업…최대 1천200만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260428129000060",
-      "pubDate": "Tue, 28 Apr 2026 15:03:22 +0900"
-    },
-    {
-      "title": "불법사금융 신고서식 개선…불법추심 전화번호 차단도 빨라져",
-      "link": "https://www.yna.co.kr/view/AKR20260428125600002",
-      "pubDate": "Tue, 28 Apr 2026 15:03:03 +0900"
-    },
-    {
-      "title": "캠코, '대출형 기업지원펀드 6호' 조성…5천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260428120600002",
-      "pubDate": "Tue, 28 Apr 2026 15:01:54 +0900"
     }
   ]
 }
