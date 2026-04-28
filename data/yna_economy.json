@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777388397,
+  "updated_at_unix": 1777395073,
   "items": [
+    {
+      "title": "미·이란 협상교착에 미국내 휘발유 가격 3년8개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260429000300072",
+      "pubDate": "Wed, 29 Apr 2026 00:17:04 +0900"
+    },
     {
       "title": "UAE OPEC 탈퇴 한국에도 영향 미치나…\"단기 영향은 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260428190200003",
@@ -147,11 +152,6 @@
       "title": "나라살림 두고 2시간 반 타운홀미팅…박홍근 \"쓰일 곳에 제대로\"",
       "link": "https://www.yna.co.kr/view/AKR20260428160800002",
       "pubDate": "Tue, 28 Apr 2026 16:59:27 +0900"
-    },
-    {
-      "title": "차세대융합기술연구원, 경기도 대학생 20개팀 창업지원",
-      "link": "https://www.yna.co.kr/view/AKR20260428158600061",
-      "pubDate": "Tue, 28 Apr 2026 16:54:16 +0900"
     }
   ]
 }
