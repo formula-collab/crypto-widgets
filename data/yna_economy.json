@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777493127,
+  "updated_at_unix": 1777498573,
   "items": [
+    {
+      "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
+      "link": "https://www.yna.co.kr/view/AKR20260428162300518",
+      "pubDate": "Thu, 30 Apr 2026 06:30:01 +0900"
+    },
+    {
+      "title": "구글 첫 해외 AI 캠퍼스, 서울 강남에 연내 문 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260429163600017",
+      "pubDate": "Thu, 30 Apr 2026 06:13:01 +0900"
+    },
+    {
+      "title": "트럼프가 임명하고 그에 맞섰던 파월 연준의장 '미완의 퇴장'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430003451071",
+      "pubDate": "Thu, 30 Apr 2026 06:09:46 +0900"
+    },
+    {
+      "title": "농식품부, 외국인 계절근로자용 '농장 소통가이드' 8천부 배포",
+      "link": "https://www.yna.co.kr/view/AKR20260429121600030",
+      "pubDate": "Thu, 30 Apr 2026 06:00:34 +0900"
+    },
+    {
+      "title": "서울시, 대학 기숙사 건립 시 용도지역 상향 등 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20260429149300004",
+      "pubDate": "Thu, 30 Apr 2026 06:00:33 +0900"
+    },
+    {
+      "title": "3월 전국 공동주택 분양 68.4%↑…공급지표 전반 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260429155600003",
+      "pubDate": "Thu, 30 Apr 2026 06:00:32 +0900"
+    },
+    {
+      "title": "서울시 '지역상생 창업' 청년 지원…넥스트로컬 8기 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260429152500004",
+      "pubDate": "Thu, 30 Apr 2026 06:00:31 +0900"
+    },
+    {
+      "title": "서울 시내 주차장·병원 등에 '모두를 위한 디자인' 입힌다",
+      "link": "https://www.yna.co.kr/view/AKR20260429159200004",
+      "pubDate": "Thu, 30 Apr 2026 06:00:30 +0900"
+    },
+    {
+      "title": "GM \"한국 남아 계속 사업할것…소형 SUV 생산 200만대 돌파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260429185800003",
+      "pubDate": "Thu, 30 Apr 2026 06:00:04 +0900"
+    },
+    {
+      "title": "금감원, 금융권 블라인드 모의해킹 훈련…연 2회로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260429180200002",
+      "pubDate": "Thu, 30 Apr 2026 06:00:03 +0900"
+    },
+    {
+      "title": "1분기 ABS 발행 11조4천억원. 36%↑…MBS 늘고 부동산PF 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260429169400002",
+      "pubDate": "Thu, 30 Apr 2026 06:00:02 +0900"
+    },
+    {
+      "title": "금융위, 상호금융 규제비율 산정시 서민 대출 인센티브 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260429179300002",
+      "pubDate": "Thu, 30 Apr 2026 06:00:01 +0900"
+    },
+    {
+      "title": "올해 서울 개별공시지가 평균 4.9%↑…용산-성동-강남 순",
+      "link": "https://www.yna.co.kr/view/AKR20260429149400004",
+      "pubDate": "Thu, 30 Apr 2026 06:00:00 +0900"
+    },
+    {
+      "title": "고유가 장기화 우려속 美증시 보합권 마감…채권·금값↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430010551072",
+      "pubDate": "Thu, 30 Apr 2026 05:57:19 +0900"
+    },
+    {
+      "title": "일터 대신 부모님 가게로…20대 무급가족종사자 3년째 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260429183900002",
+      "pubDate": "Thu, 30 Apr 2026 05:51:01 +0900"
+    },
+    {
+      "title": "美연준, 3연속 금리동결…'워시 체제' 출범앞 이견 노출도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260430002852071",
+      "pubDate": "Thu, 30 Apr 2026 05:34:56 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] '고금리+경기침체'…공실의 늪에 빠진 도심 상가",
+      "link": "https://www.yna.co.kr/view/AKR20260429189300003",
+      "pubDate": "Thu, 30 Apr 2026 05:31:22 +0900"
+    },
+    {
+      "title": "중수청 청사로 을지로 '르네스퀘어' 유력 검토…막판 저울질",
+      "link": "https://www.yna.co.kr/view/AKR20260429170900530",
+      "pubDate": "Thu, 30 Apr 2026 05:31:00 +0900"
+    },
     {
       "title": "국제유가, 공급혼란 장기화 우려에 6%↑…브렌트 4년만에 최고(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260430009851072",
@@ -62,96 +152,6 @@
       "title": "S&P, 韓신용등급 'AA' 유지…\"3∼4년간 높은 성장률 유지할 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260429170251008",
       "pubDate": "Wed, 29 Apr 2026 19:47:13 +0900"
-    },
-    {
-      "title": "트럼프 주니어, 정용진 회장 부인 공연 관람…'MAGA' 모자 등장",
-      "link": "https://www.yna.co.kr/view/AKR20260429177700030",
-      "pubDate": "Wed, 29 Apr 2026 19:43:38 +0900"
-    },
-    {
-      "title": "DL이앤씨, 상대원2구역 재개발 시공사 지위 '일단 유지'",
-      "link": "https://www.yna.co.kr/view/AKR20260429175800003",
-      "pubDate": "Wed, 29 Apr 2026 19:13:18 +0900"
-    },
-    {
-      "title": "국산 CAR-T 치료제 나왔다…식약처, 큐로셀 '림카토주' 허가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260429167651017",
-      "pubDate": "Wed, 29 Apr 2026 19:05:34 +0900"
-    },
-    {
-      "title": "한국필립모리스 신임 대표이사에 이홍석 비연소제품 총괄 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260429174200030",
-      "pubDate": "Wed, 29 Apr 2026 18:55:23 +0900"
-    },
-    {
-      "title": "[동정] 국토장관, 새만금개발청 방문…개발 청사진 재수립 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260429172900003",
-      "pubDate": "Wed, 29 Apr 2026 18:31:28 +0900"
-    },
-    {
-      "title": "경제계 \"청년뉴딜 추진방안 환영…교육프로그램 실효성에 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429171700003",
-      "pubDate": "Wed, 29 Apr 2026 18:23:32 +0900"
-    },
-    {
-      "title": "오가노이드사이언스, 60억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260429171200008",
-      "pubDate": "Wed, 29 Apr 2026 18:21:02 +0900"
-    },
-    {
-      "title": "[르포] 12년째 이어진 손길… hy 임직원, 땀방울로 유기견 마음 녹였다",
-      "link": "https://www.yna.co.kr/view/AKR20260429159000030",
-      "pubDate": "Wed, 29 Apr 2026 18:18:19 +0900"
-    },
-    {
-      "title": "방미통위, TBS 조건부 재허가…상업광고 '이례적' 허용",
-      "link": "https://www.yna.co.kr/view/AKR20260429170100017",
-      "pubDate": "Wed, 29 Apr 2026 18:12:32 +0900"
-    },
-    {
-      "title": "디어유 \"미국 자회사 주식 147억원어치 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429170300008",
-      "pubDate": "Wed, 29 Apr 2026 18:12:28 +0900"
-    },
-    {
-      "title": "S&P, 한국 국가신용등급 'AA' 유지…등급전망 '안정적'",
-      "link": "https://www.yna.co.kr/view/AKR20260429170200008",
-      "pubDate": "Wed, 29 Apr 2026 18:11:04 +0900"
-    },
-    {
-      "title": "울산항 3월 물동량 9.7%↓…중동 사태로 액체화물 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260429164100057",
-      "pubDate": "Wed, 29 Apr 2026 18:00:15 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260429160900011",
-      "pubDate": "Wed, 29 Apr 2026 18:00:01 +0900"
-    },
-    {
-      "title": "송미령 농식품부 장관 단장으로 '농업·농촌 정상화 TF' 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260429164800030",
-      "pubDate": "Wed, 29 Apr 2026 17:58:46 +0900"
-    },
-    {
-      "title": "수입 의존 CAR-T 깨졌다…국산 치료제 첫 허가",
-      "link": "https://www.yna.co.kr/view/AKR20260429167600017",
-      "pubDate": "Wed, 29 Apr 2026 17:52:39 +0900"
-    },
-    {
-      "title": "중동전쟁 中企 피해·애로 700건 넘어…운송 차질·물류비 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260429155300030",
-      "pubDate": "Wed, 29 Apr 2026 17:46:03 +0900"
-    },
-    {
-      "title": "방미통위, 크리에이터미디어 상생 협의체 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260429166600017",
-      "pubDate": "Wed, 29 Apr 2026 17:43:52 +0900"
-    },
-    {
-      "title": "디에이테크놀로지, 27억원 '제3자 배정' 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260429162500008",
-      "pubDate": "Wed, 29 Apr 2026 17:29:08 +0900"
     }
   ]
 }
