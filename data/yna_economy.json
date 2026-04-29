@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777488752,
+  "updated_at_unix": 1777493127,
   "items": [
+    {
+      "title": "국제유가, 공급혼란 장기화 우려에 6%↑…브렌트 4년만에 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430009851072",
+      "pubDate": "Thu, 30 Apr 2026 04:52:28 +0900"
+    },
+    {
+      "title": "국제유가, 공급혼란 장기화 우려에 6%↑…브렌트 4년만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260430009800072",
+      "pubDate": "Thu, 30 Apr 2026 04:22:06 +0900"
+    },
+    {
+      "title": "美 연준, 중동전쟁發 인플레 우려에 '매파적 동결'",
+      "link": "https://www.yna.co.kr/view/AKR20260430009000072",
+      "pubDate": "Thu, 30 Apr 2026 04:17:42 +0900"
+    },
+    {
+      "title": "트럼프가 임명하고 그에 맞섰던 파월 연준의장 '절반의 퇴장'",
+      "link": "https://www.yna.co.kr/view/AKR20260430003400071",
+      "pubDate": "Thu, 30 Apr 2026 04:09:07 +0900"
+    },
     {
       "title": "美연준, 3연속 금리동결…\"인플레 높고 경제전망 불확실성\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260430002851071",
@@ -132,26 +152,6 @@
       "title": "디에이테크놀로지, 27억원 '제3자 배정' 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260429162500008",
       "pubDate": "Wed, 29 Apr 2026 17:29:08 +0900"
-    },
-    {
-      "title": "반석산업 \"땅콩 새싹 추출물 '피넛트라'로 신제품 출시 계획\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429153100030",
-      "pubDate": "Wed, 29 Apr 2026 17:14:34 +0900"
-    },
-    {
-      "title": "한은 강원본부 \"강원 서비스업 회복세\"…'왕과 사는 남자' 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260429159300062",
-      "pubDate": "Wed, 29 Apr 2026 17:09:45 +0900"
-    },
-    {
-      "title": "국고채 금리 동반 하락…3년물 연 3.525%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260429157300008",
-      "pubDate": "Wed, 29 Apr 2026 17:04:32 +0900"
-    },
-    {
-      "title": "하나카드 외화하나머니, 키움증권 계좌이체 허용…해외투자 열려",
-      "link": "https://www.yna.co.kr/view/AKR20260429144100002",
-      "pubDate": "Wed, 29 Apr 2026 17:04:29 +0900"
     }
   ]
 }
