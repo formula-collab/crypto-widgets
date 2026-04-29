@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777498573,
+  "updated_at_unix": 1777502626,
   "items": [
+    {
+      "title": "한은도 5월 '매파적 동결' 가능성…중동 전쟁 여파 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260430022600002",
+      "pubDate": "Thu, 30 Apr 2026 07:35:47 +0900"
+    },
+    {
+      "title": "'8대 4' 美연준 '워시 체제' 앞두고 내부분열 표출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430009051072",
+      "pubDate": "Thu, 30 Apr 2026 07:30:38 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260430020300011",
+      "pubDate": "Thu, 30 Apr 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⑿:나미비아의 역사와 현재",
+      "link": "https://www.yna.co.kr/view/AKR20260421125100898",
+      "pubDate": "Thu, 30 Apr 2026 07:00:09 +0900"
+    },
+    {
+      "title": "[르포] 작별 준비하는 110년 전통의 대전 유성시장…\"그동안 감사했다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260429143200063",
+      "pubDate": "Thu, 30 Apr 2026 07:00:08 +0900"
+    },
     {
       "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
       "link": "https://www.yna.co.kr/view/AKR20260428162300518",
@@ -127,31 +152,6 @@
       "title": "[1보] 美기준금리 3.50∼3.75% 유지…3차례 연속 동결",
       "link": "https://www.yna.co.kr/view/AKR20260430002700071",
       "pubDate": "Thu, 30 Apr 2026 03:00:48 +0900"
-    },
-    {
-      "title": "달러-원, 이란 봉쇄 장기화 우려에 유가 따라 급등…1,488.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260430003300002",
-      "pubDate": "Thu, 30 Apr 2026 02:23:07 +0900"
-    },
-    {
-      "title": "트럼프 주니어, 정용진 회장 부인 공연 관람…'MAGA' 모자 등장(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260429177751030",
-      "pubDate": "Wed, 29 Apr 2026 21:24:21 +0900"
-    },
-    {
-      "title": "웰컴·KB저축은행서 車부품 대출사기 발생…금감원, 검사진행",
-      "link": "https://www.yna.co.kr/view/AKR20260429182700002",
-      "pubDate": "Wed, 29 Apr 2026 21:15:03 +0900"
-    },
-    {
-      "title": "中 '금융당국 수장' 리윈쩌 강등된 듯…사정 칼날 금융권 정조준",
-      "link": "https://www.yna.co.kr/view/AKR20260429183000083",
-      "pubDate": "Wed, 29 Apr 2026 20:55:13 +0900"
-    },
-    {
-      "title": "S&P, 韓신용등급 'AA' 유지…\"3∼4년간 높은 성장률 유지할 것\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260429170251008",
-      "pubDate": "Wed, 29 Apr 2026 19:47:13 +0900"
     }
   ]
 }
