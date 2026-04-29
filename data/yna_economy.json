@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777502626,
+  "updated_at_unix": 1777506136,
   "items": [
+    {
+      "title": "신영증권, 에코프로비엠 목표가↑…투자의견도 '매수'로 올려",
+      "link": "https://www.yna.co.kr/view/AKR20260430033900008",
+      "pubDate": "Thu, 30 Apr 2026 08:33:18 +0900"
+    },
+    {
+      "title": "SK증권 \"LG전자, 1분기 실적 기대치 상회…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430033300008",
+      "pubDate": "Thu, 30 Apr 2026 08:26:37 +0900"
+    },
+    {
+      "title": "한투증권 \"아모레퍼시픽, 증시 수급 쏠림 완화 시 주가 회복\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430032600008",
+      "pubDate": "Thu, 30 Apr 2026 08:24:10 +0900"
+    },
+    {
+      "title": "신한투자 \"삼성물산, 에너지사업 경쟁력 부각 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430032100008",
+      "pubDate": "Thu, 30 Apr 2026 08:20:07 +0900"
+    },
+    {
+      "title": "기획처, 예산 업무 전반에 AI 접목…내년 활용 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260430031300002",
+      "pubDate": "Thu, 30 Apr 2026 08:13:23 +0900"
+    },
+    {
+      "title": "[마켓뷰] 국제유가 급등 vs 美빅테크 호실적…코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260430028100008",
+      "pubDate": "Thu, 30 Apr 2026 08:06:28 +0900"
+    },
+    {
+      "title": "[2보] 3월 소비 1.8% 증가…생산 0.3%·투자 1.5%↑ '트리플 증가'",
+      "link": "https://www.yna.co.kr/view/AKR20260430023351002",
+      "pubDate": "Thu, 30 Apr 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[1보] 3월 산업생산 0.3%·소비 1.8%·투자 1.5% '트리플 증가'",
+      "link": "https://www.yna.co.kr/view/AKR20260430023300002",
+      "pubDate": "Thu, 30 Apr 2026 08:00:03 +0900"
+    },
     {
       "title": "한은도 5월 '매파적 동결' 가능성…중동 전쟁 여파 주시",
       "link": "https://www.yna.co.kr/view/AKR20260430022600002",
@@ -112,46 +152,6 @@
       "title": "[서미숙의 집수다] '고금리+경기침체'…공실의 늪에 빠진 도심 상가",
       "link": "https://www.yna.co.kr/view/AKR20260429189300003",
       "pubDate": "Thu, 30 Apr 2026 05:31:22 +0900"
-    },
-    {
-      "title": "중수청 청사로 을지로 '르네스퀘어' 유력 검토…막판 저울질",
-      "link": "https://www.yna.co.kr/view/AKR20260429170900530",
-      "pubDate": "Thu, 30 Apr 2026 05:31:00 +0900"
-    },
-    {
-      "title": "국제유가, 공급혼란 장기화 우려에 6%↑…브렌트 4년만에 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430009851072",
-      "pubDate": "Thu, 30 Apr 2026 04:52:28 +0900"
-    },
-    {
-      "title": "국제유가, 공급혼란 장기화 우려에 6%↑…브렌트 4년만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260430009800072",
-      "pubDate": "Thu, 30 Apr 2026 04:22:06 +0900"
-    },
-    {
-      "title": "美 연준, 중동전쟁發 인플레 우려에 '매파적 동결'",
-      "link": "https://www.yna.co.kr/view/AKR20260430009000072",
-      "pubDate": "Thu, 30 Apr 2026 04:17:42 +0900"
-    },
-    {
-      "title": "트럼프가 임명하고 그에 맞섰던 파월 연준의장 '절반의 퇴장'",
-      "link": "https://www.yna.co.kr/view/AKR20260430003400071",
-      "pubDate": "Thu, 30 Apr 2026 04:09:07 +0900"
-    },
-    {
-      "title": "美연준, 3연속 금리동결…\"인플레 높고 경제전망 불확실성\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430002851071",
-      "pubDate": "Thu, 30 Apr 2026 03:36:11 +0900"
-    },
-    {
-      "title": "[2보] 美연준, 3연속 금리 동결…이란戰 여파 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260430002800071",
-      "pubDate": "Thu, 30 Apr 2026 03:03:49 +0900"
-    },
-    {
-      "title": "[1보] 美기준금리 3.50∼3.75% 유지…3차례 연속 동결",
-      "link": "https://www.yna.co.kr/view/AKR20260430002700071",
-      "pubDate": "Thu, 30 Apr 2026 03:00:48 +0900"
     }
   ]
 }
