@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777453445,
+  "updated_at_unix": 1777461096,
   "items": [
+    {
+      "title": "S&P, 韓신용등급 'AA' 유지…\"3∼4년간 높은 성장률 유지할 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260429170251008",
+      "pubDate": "Wed, 29 Apr 2026 19:47:13 +0900"
+    },
+    {
+      "title": "트럼프 주니어, 정용진 회장 부인 공연 관람…'MAGA' 모자에 사인",
+      "link": "https://www.yna.co.kr/view/AKR20260429177700030",
+      "pubDate": "Wed, 29 Apr 2026 19:43:38 +0900"
+    },
+    {
+      "title": "DL이앤씨, 상대원2구역 재개발 시공사 지위 '일단 유지'",
+      "link": "https://www.yna.co.kr/view/AKR20260429175800003",
+      "pubDate": "Wed, 29 Apr 2026 19:13:18 +0900"
+    },
+    {
+      "title": "국산 CAR-T 치료제 나왔다…식약처, 큐로셀 '림카토주' 허가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260429167651017",
+      "pubDate": "Wed, 29 Apr 2026 19:05:34 +0900"
+    },
+    {
+      "title": "한국필립모리스 신임 대표이사에 이홍석 비연소제품 총괄 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260429174200030",
+      "pubDate": "Wed, 29 Apr 2026 18:55:23 +0900"
+    },
+    {
+      "title": "[동정] 국토장관, 새만금개발청 방문…개발 청사진 재수립 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260429172900003",
+      "pubDate": "Wed, 29 Apr 2026 18:31:28 +0900"
+    },
+    {
+      "title": "경제계 \"청년뉴딜 추진방안 환영…교육프로그램 실효성에 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260429171700003",
+      "pubDate": "Wed, 29 Apr 2026 18:23:32 +0900"
+    },
+    {
+      "title": "오가노이드사이언스, 60억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260429171200008",
+      "pubDate": "Wed, 29 Apr 2026 18:21:02 +0900"
+    },
+    {
+      "title": "[르포] 12년째 이어진 손길… hy 임직원, 땀방울로 유기견 마음 녹였다",
+      "link": "https://www.yna.co.kr/view/AKR20260429159000030",
+      "pubDate": "Wed, 29 Apr 2026 18:18:19 +0900"
+    },
+    {
+      "title": "방미통위, TBS 조건부 재허가…상업광고 '이례적' 허용",
+      "link": "https://www.yna.co.kr/view/AKR20260429170100017",
+      "pubDate": "Wed, 29 Apr 2026 18:12:32 +0900"
+    },
+    {
+      "title": "디어유 \"미국 자회사 주식 147억원어치 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260429170300008",
+      "pubDate": "Wed, 29 Apr 2026 18:12:28 +0900"
+    },
+    {
+      "title": "S&P, 한국 국가신용등급 'AA' 유지…등급전망 '안정적'",
+      "link": "https://www.yna.co.kr/view/AKR20260429170200008",
+      "pubDate": "Wed, 29 Apr 2026 18:11:04 +0900"
+    },
+    {
+      "title": "울산항 3월 물동량 9.7%↓…중동 사태로 액체화물 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260429164100057",
+      "pubDate": "Wed, 29 Apr 2026 18:00:15 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260429160900011",
+      "pubDate": "Wed, 29 Apr 2026 18:00:01 +0900"
+    },
+    {
+      "title": "송미령 농식품부 장관 단장으로 '농업·농촌 정상화 TF' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260429164800030",
+      "pubDate": "Wed, 29 Apr 2026 17:58:46 +0900"
+    },
     {
       "title": "수입 의존 CAR-T 깨졌다…국산 치료제 첫 허가",
       "link": "https://www.yna.co.kr/view/AKR20260429167600017",
@@ -77,81 +152,6 @@
       "title": "경남교육청, 교육공무직원 143명 채용 공고…조리사 등 2개 직종",
       "link": "https://www.yna.co.kr/view/AKR20260429150200052",
       "pubDate": "Wed, 29 Apr 2026 16:33:23 +0900"
-    },
-    {
-      "title": "삼성·SK가 직업훈련…정부 \"청년 10만명에 일자리 디딤돌\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429098800002",
-      "pubDate": "Wed, 29 Apr 2026 16:30:00 +0900"
-    },
-    {
-      "title": "SK아이이테크놀로지 \"중국 '분리막' 자회사에 863억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429150300008",
-      "pubDate": "Wed, 29 Apr 2026 16:29:34 +0900"
-    },
-    {
-      "title": "제이브이엠, 1분기 영업이익 93억원…4.8% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260429150800017",
-      "pubDate": "Wed, 29 Apr 2026 16:29:31 +0900"
-    },
-    {
-      "title": "밀양시·기산바이오텍, 120억 투자협약…초동농공단지 설비 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260429134200052",
-      "pubDate": "Wed, 29 Apr 2026 16:26:21 +0900"
-    },
-    {
-      "title": "'빚투' 연일 사상 최대…증권사 다시 신용융자 일시 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260429144500008",
-      "pubDate": "Wed, 29 Apr 2026 16:24:29 +0900"
-    },
-    {
-      "title": "한국MSD \"K바이오 글로벌 진출 이끄는 가교될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429123800017",
-      "pubDate": "Wed, 29 Apr 2026 16:24:10 +0900"
-    },
-    {
-      "title": "코넥스협, 한국글로벌최고경영자협회와 MOU…우수기업 상장지원",
-      "link": "https://www.yna.co.kr/view/AKR20260429149500008",
-      "pubDate": "Wed, 29 Apr 2026 16:23:49 +0900"
-    },
-    {
-      "title": "재생에너지 개발은 해야 하는데…유럽, 中기술 딜레마",
-      "link": "https://www.yna.co.kr/view/AKR20260429145400009",
-      "pubDate": "Wed, 29 Apr 2026 16:19:10 +0900"
-    },
-    {
-      "title": "강원도·원주시, 100억원 투자유치…신규 고용 16명 창출",
-      "link": "https://www.yna.co.kr/view/AKR20260429144200062",
-      "pubDate": "Wed, 29 Apr 2026 16:10:06 +0900"
-    },
-    {
-      "title": "전남도·로봇 선도기업 5개사, 로봇산업 생태계 구축 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260429143700054",
-      "pubDate": "Wed, 29 Apr 2026 16:07:33 +0900"
-    },
-    {
-      "title": "전남도, 염전 근로자 근로 실태 조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260429141900054",
-      "pubDate": "Wed, 29 Apr 2026 16:04:42 +0900"
-    },
-    {
-      "title": "문체부, '제18회 관광벤처 지원사업' 공모…최대 1억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260429138700030",
-      "pubDate": "Wed, 29 Apr 2026 16:03:22 +0900"
-    },
-    {
-      "title": "인권위원장 \"'노동절' 명칭 변경 넘어 기본권 최대한 보장해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429130000004",
-      "pubDate": "Wed, 29 Apr 2026 16:01:11 +0900"
-    },
-    {
-      "title": "민생지원단, 고유가 지원금 현장 점검…\"신속 집행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260429128200002",
-      "pubDate": "Wed, 29 Apr 2026 16:00:02 +0900"
-    },
-    {
-      "title": "작년 국고채 발행규모 200조 넘어…외국인 비중 역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260429131500002",
-      "pubDate": "Wed, 29 Apr 2026 16:00:02 +0900"
     }
   ]
 }
