@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777461096,
+  "updated_at_unix": 1777467638,
   "items": [
+    {
+      "title": "트럼프 주니어, 정용진 회장 부인 공연 관람…'MAGA' 모자 등장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260429177751030",
+      "pubDate": "Wed, 29 Apr 2026 21:24:21 +0900"
+    },
+    {
+      "title": "웰컴·KB저축은행서 車부품 대출사기 발생…금감원, 검사진행",
+      "link": "https://www.yna.co.kr/view/AKR20260429182700002",
+      "pubDate": "Wed, 29 Apr 2026 21:15:03 +0900"
+    },
+    {
+      "title": "中 '금융당국 수장' 리윈쩌 강등된 듯…사정 칼날 금융권 정조준",
+      "link": "https://www.yna.co.kr/view/AKR20260429183000083",
+      "pubDate": "Wed, 29 Apr 2026 20:55:13 +0900"
+    },
     {
       "title": "S&P, 韓신용등급 'AA' 유지…\"3∼4년간 높은 성장률 유지할 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260429170251008",
@@ -137,21 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.525%",
       "link": "https://www.yna.co.kr/view/AKR20260429154000008",
       "pubDate": "Wed, 29 Apr 2026 16:46:22 +0900"
-    },
-    {
-      "title": "대구 개별주택 가격 평균 1.5%↑…최고 30억·최저 274만원",
-      "link": "https://www.yna.co.kr/view/AKR20260429153400053",
-      "pubDate": "Wed, 29 Apr 2026 16:40:35 +0900"
-    },
-    {
-      "title": "MBTI 반영한 내 집은?…세종시 부동산 포털 시범운영",
-      "link": "https://www.yna.co.kr/view/AKR20260429151700063",
-      "pubDate": "Wed, 29 Apr 2026 16:35:29 +0900"
-    },
-    {
-      "title": "경남교육청, 교육공무직원 143명 채용 공고…조리사 등 2개 직종",
-      "link": "https://www.yna.co.kr/view/AKR20260429150200052",
-      "pubDate": "Wed, 29 Apr 2026 16:33:23 +0900"
     }
   ]
 }
