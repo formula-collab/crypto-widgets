@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777553998,
+  "updated_at_unix": 1777561854,
   "items": [
+    {
+      "title": "미국 이어 ECB·영국도 금리 동결…전쟁발 인플레 우려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430213252082",
+      "pubDate": "Thu, 30 Apr 2026 23:08:48 +0900"
+    },
     {
       "title": "[2보] ECB 금리 동결…\"물가 상방·경기 하방 위험 커져\"",
       "link": "https://www.yna.co.kr/view/AKR20260430213251082",
@@ -147,11 +152,6 @@
       "title": "예술인 만난 최휘영 \"예술활동증명 불신 늘어…신속하게 정비\"",
       "link": "https://www.yna.co.kr/view/AKR20260430177400005",
       "pubDate": "Thu, 30 Apr 2026 16:56:05 +0900"
-    },
-    {
-      "title": "[게시판] 허장 재경차관 홍콩·싱가포르서 韓외환·자본시장 개편 설명",
-      "link": "https://www.yna.co.kr/view/AKR20260430179100002",
-      "pubDate": "Thu, 30 Apr 2026 16:55:47 +0900"
     }
   ]
 }
