@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777548155,
+  "updated_at_unix": 1777553998,
   "items": [
+    {
+      "title": "[2보] ECB 금리 동결…\"물가 상방·경기 하방 위험 커져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430213251082",
+      "pubDate": "Thu, 30 Apr 2026 21:38:00 +0900"
+    },
+    {
+      "title": "[1보] ECB 금리 동결…예금금리 연 2.00％ 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260430213200082",
+      "pubDate": "Thu, 30 Apr 2026 21:17:05 +0900"
+    },
+    {
+      "title": "英 기준금리 3.75%로 동결…\"에너지 전망 매우 불확실\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430208251085",
+      "pubDate": "Thu, 30 Apr 2026 20:52:25 +0900"
+    },
+    {
+      "title": "국제유가 급등에 인도·인니·필리핀 통화가치 최저로",
+      "link": "https://www.yna.co.kr/view/AKR20260430210500084",
+      "pubDate": "Thu, 30 Apr 2026 20:34:13 +0900"
+    },
+    {
+      "title": "롯데카드 금감원 제재심서 영업정지 4.5개월…조前대표 문책경고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430185351002",
+      "pubDate": "Thu, 30 Apr 2026 20:30:39 +0900"
+    },
+    {
+      "title": "한화솔루션 축소 유증계획도 제동…금감원, 2차 정정 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260430209800002",
+      "pubDate": "Thu, 30 Apr 2026 20:26:09 +0900"
+    },
     {
       "title": "日외환당국 \"마지막 대피 권고\"…엔화약세에 '개입 버튼' 만지작(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260430190451073",
@@ -122,36 +152,6 @@
       "title": "[게시판] 허장 재경차관 홍콩·싱가포르서 韓외환·자본시장 개편 설명",
       "link": "https://www.yna.co.kr/view/AKR20260430179100002",
       "pubDate": "Thu, 30 Apr 2026 16:55:47 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, 중기부·금융위 등과 통합금융 지원체계 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260430177300002",
-      "pubDate": "Thu, 30 Apr 2026 16:55:31 +0900"
-    },
-    {
-      "title": "광주·전남 개별공시지가 전년보다 소폭 상승…전국 평균 밑돌아(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430085351054",
-      "pubDate": "Thu, 30 Apr 2026 16:55:13 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 급등…3년물 연 3.595%",
-      "link": "https://www.yna.co.kr/view/AKR20260430176200008",
-      "pubDate": "Thu, 30 Apr 2026 16:46:03 +0900"
-    },
-    {
-      "title": "산은, 회수시장 지원 세컨더리 펀드 출자사업 공고",
-      "link": "https://www.yna.co.kr/view/AKR20260430176900002",
-      "pubDate": "Thu, 30 Apr 2026 16:44:31 +0900"
-    },
-    {
-      "title": "한국산업은행, 'KDB 넥스트라운드 인 실리콘밸리' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260430173800002",
-      "pubDate": "Thu, 30 Apr 2026 16:44:13 +0900"
-    },
-    {
-      "title": "에스티젠바이오, '비티젠'으로 사명 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260430172800017",
-      "pubDate": "Thu, 30 Apr 2026 16:39:59 +0900"
     }
   ]
 }
