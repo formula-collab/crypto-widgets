@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777572112,
+  "updated_at_unix": 1777578816,
   "items": [
+    {
+      "title": "달러-원, 日 환시 개입에 급락 후 낙폭 축소…1,477.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260501004600002",
+      "pubDate": "Fri, 1 May 2026 03:04:14 +0900"
+    },
     {
       "title": "미국 이어 ECB·영국도 금리 동결…전쟁발 인플레 우려(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260430213252082",
@@ -147,11 +152,6 @@
       "title": "구윤철, 2일 우즈벡행…다자 국제경제회의 잇단 참석",
       "link": "https://www.yna.co.kr/view/AKR20260430132100002",
       "pubDate": "Thu, 30 Apr 2026 17:00:03 +0900"
-    },
-    {
-      "title": "예술인 만난 최휘영 \"예술활동증명 불신 늘어…신속하게 정비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430177400005",
-      "pubDate": "Thu, 30 Apr 2026 16:56:05 +0900"
     }
   ]
 }
