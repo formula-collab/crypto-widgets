@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777582112,
+  "updated_at_unix": 1777585479,
   "items": [
+    {
+      "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
+      "link": "https://www.yna.co.kr/view/AKR20260430123800017",
+      "pubDate": "Fri, 1 May 2026 06:33:00 +0900"
+    },
+    {
+      "title": "[줌in제주] '악성' 준공 후 미분양 2천세대 넘어…제주 건설 경기 한파",
+      "link": "https://www.yna.co.kr/view/AKR20260430092200056",
+      "pubDate": "Fri, 1 May 2026 06:30:06 +0900"
+    },
+    {
+      "title": "'창사 첫 파업' 삼성바이오…생산 차질·6천400억 손실 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260430143200017",
+      "pubDate": "Fri, 1 May 2026 06:25:56 +0900"
+    },
+    {
+      "title": "삼성바이오로직스 첫 전면 파업…창사 이래 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260430128100017",
+      "pubDate": "Fri, 1 May 2026 06:18:00 +0900"
+    },
+    {
+      "title": "증권가, 커지는 '연내 기준금리 인상' 전망…\"2회 상향도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430168900008",
+      "pubDate": "Fri, 1 May 2026 06:01:01 +0900"
+    },
+    {
+      "title": "고양시, 일자리 학교 '바이오산업 인력 양성 과정' 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260430132600060",
+      "pubDate": "Fri, 1 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "공휴일이 무슨 소용…'한계 청년'들은 노동절에도 일터로",
+      "link": "https://www.yna.co.kr/view/AKR20260430189700004",
+      "pubDate": "Fri, 1 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "지난해 공정위 과징금 체납 800억…담당 인력은 5년째 2명",
+      "link": "https://www.yna.co.kr/view/AKR20260430191800002",
+      "pubDate": "Fri, 1 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "증권사들 \"미래에셋에 코빗 넘기면 특혜\"…공정위 심사 변수되나",
+      "link": "https://www.yna.co.kr/view/AKR20260429152900002",
+      "pubDate": "Fri, 1 May 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 4년만에 최고점 찍고 반락…브렌트 3%↓",
       "link": "https://www.yna.co.kr/view/AKR20260501007100072",
@@ -107,51 +152,6 @@
       "title": "日재무상, 엔화 약세에 \"단호한 조치 취할 시점 가까워져\"",
       "link": "https://www.yna.co.kr/view/AKR20260430190400073",
       "pubDate": "Thu, 30 Apr 2026 17:36:00 +0900"
-    },
-    {
-      "title": "지구홀딩스, 16억 규모 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260430190900008",
-      "pubDate": "Thu, 30 Apr 2026 17:35:06 +0900"
-    },
-    {
-      "title": "거래소, 에스씨엠생명과학 '관리종목 해제 실수' 배상 신청 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260430188700008",
-      "pubDate": "Thu, 30 Apr 2026 17:32:40 +0900"
-    },
-    {
-      "title": "롯데카드 금감원 제재심서 영업정지 4.5개월…공은 금융위로",
-      "link": "https://www.yna.co.kr/view/AKR20260430185300002",
-      "pubDate": "Thu, 30 Apr 2026 17:23:09 +0900"
-    },
-    {
-      "title": "법원, '회생신청' 제이알리츠 대표자 심문…자산·채권 동결",
-      "link": "https://www.yna.co.kr/view/AKR20260430183500004",
-      "pubDate": "Thu, 30 Apr 2026 17:18:03 +0900"
-    },
-    {
-      "title": "[동포의 창] 美 시애틀서 K-상품·문화 알리는 엑스포·페스티벌",
-      "link": "https://www.yna.co.kr/view/AKR20260430184700371",
-      "pubDate": "Thu, 30 Apr 2026 17:16:27 +0900"
-    },
-    {
-      "title": "동원시스템즈 1분기 영업이익 130억원…작년 동기 대비 3.9%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430173751527",
-      "pubDate": "Thu, 30 Apr 2026 17:16:03 +0900"
-    },
-    {
-      "title": "삼성바이오 노조, 5월 1일 총파업 강행…생산라인 멈추나",
-      "link": "https://www.yna.co.kr/view/AKR20260430179800017",
-      "pubDate": "Thu, 30 Apr 2026 17:12:26 +0900"
-    },
-    {
-      "title": "유가 고공행진에 국고채 금리 급등…3년물 연 3.595%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430176251008",
-      "pubDate": "Thu, 30 Apr 2026 17:06:10 +0900"
-    },
-    {
-      "title": "한국-콩고민주공화국 공동위 개최…핵심광물 협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260430181900504",
-      "pubDate": "Thu, 30 Apr 2026 17:05:22 +0900"
     }
   ]
 }
