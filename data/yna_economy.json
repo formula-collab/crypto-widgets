@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777585479,
+  "updated_at_unix": 1777588793,
   "items": [
+    {
+      "title": "中, 서아프리카경제공동체 본부도 지어줘…아프리카 53국 무관세",
+      "link": "https://www.yna.co.kr/view/AKR20260430083300898",
+      "pubDate": "Fri, 1 May 2026 07:00:03 +0900"
+    },
+    {
+      "title": "한국 WGBI 편입 한달…외국인 국고채 순매수액·보유잔고 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20260430136100008",
+      "pubDate": "Fri, 1 May 2026 07:00:01 +0900"
+    },
     {
       "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
       "link": "https://www.yna.co.kr/view/AKR20260430123800017",
@@ -142,16 +152,6 @@
       "title": "지구홀딩스 \"행어 주식 39억원어치 취득…지분율 43%\"",
       "link": "https://www.yna.co.kr/view/AKR20260430192500008",
       "pubDate": "Thu, 30 Apr 2026 17:48:48 +0900"
-    },
-    {
-      "title": "[게시판] 아시아한인회총연, 두바이부동산컨설팅과 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260430191600371",
-      "pubDate": "Thu, 30 Apr 2026 17:36:42 +0900"
-    },
-    {
-      "title": "日재무상, 엔화 약세에 \"단호한 조치 취할 시점 가까워져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430190400073",
-      "pubDate": "Thu, 30 Apr 2026 17:36:00 +0900"
     }
   ]
 }
