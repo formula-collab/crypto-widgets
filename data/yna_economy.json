@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777578816,
+  "updated_at_unix": 1777582112,
   "items": [
+    {
+      "title": "국제유가, 4년만에 최고점 찍고 반락…브렌트 3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260501007100072",
+      "pubDate": "Fri, 1 May 2026 05:01:48 +0900"
+    },
     {
       "title": "달러-원, 日 환시 개입에 급락 후 낙폭 축소…1,477.50원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260501004600002",
@@ -147,11 +152,6 @@
       "title": "한국-콩고민주공화국 공동위 개최…핵심광물 협력 강화",
       "link": "https://www.yna.co.kr/view/AKR20260430181900504",
       "pubDate": "Thu, 30 Apr 2026 17:05:22 +0900"
-    },
-    {
-      "title": "구윤철, 2일 우즈벡행…다자 국제경제회의 잇단 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260430132100002",
-      "pubDate": "Thu, 30 Apr 2026 17:00:03 +0900"
     }
   ]
 }
