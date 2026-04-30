@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777588793,
+  "updated_at_unix": 1777592440,
   "items": [
+    {
+      "title": "울주군, 5∼6월 토지거래 허가 사후 이용 실태 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260430087900057",
+      "pubDate": "Fri, 1 May 2026 08:10:00 +0900"
+    },
+    {
+      "title": "'가정의 달 특수는 옛말' 난방비 급등에 김해 화훼농가 울상",
+      "link": "https://www.yna.co.kr/view/AKR20260430141200052",
+      "pubDate": "Fri, 1 May 2026 08:05:01 +0900"
+    },
+    {
+      "title": "부산 아파트값 강보합세…수영구, 상승 반전",
+      "link": "https://www.yna.co.kr/view/AKR20260430120500051",
+      "pubDate": "Fri, 1 May 2026 07:50:02 +0900"
+    },
     {
       "title": "中, 서아프리카경제공동체 본부도 지어줘…아프리카 53국 무관세",
       "link": "https://www.yna.co.kr/view/AKR20260430083300898",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260430185600011",
       "pubDate": "Thu, 30 Apr 2026 18:00:00 +0900"
-    },
-    {
-      "title": "정부, 파키스탄과 CEPA 협상 본격 진전키로",
-      "link": "https://www.yna.co.kr/view/AKR20260430191700003",
-      "pubDate": "Thu, 30 Apr 2026 17:59:37 +0900"
-    },
-    {
-      "title": "기획처, 국방과학연구소 방문…\"미래전 대비 국방R&D 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430194700002",
-      "pubDate": "Thu, 30 Apr 2026 17:51:07 +0900"
-    },
-    {
-      "title": "지구홀딩스 \"행어 주식 39억원어치 취득…지분율 43%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430192500008",
-      "pubDate": "Thu, 30 Apr 2026 17:48:48 +0900"
     }
   ]
 }
