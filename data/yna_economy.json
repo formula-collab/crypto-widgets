@@ -1,15 +1,35 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777542962,
+  "updated_at_unix": 1777548155,
   "items": [
+    {
+      "title": "日외환당국 \"마지막 대피 권고\"…엔화약세에 '개입 버튼' 만지작(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260430190451073",
+      "pubDate": "Thu, 30 Apr 2026 19:45:34 +0900"
+    },
+    {
+      "title": "IMA 1호 사업자 미래·한투, 첫 번째 상품 투자처 나란히 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260430204300008",
+      "pubDate": "Thu, 30 Apr 2026 19:32:34 +0900"
+    },
+    {
+      "title": "삼성전자 파업 태세에 靑도 주시…경제적 영향 등 분석",
+      "link": "https://www.yna.co.kr/view/AKR20260430201600001",
+      "pubDate": "Thu, 30 Apr 2026 19:07:36 +0900"
+    },
+    {
+      "title": "노동절 전야 청년콘서트…김영훈 장관 \"모든 일하는 사람 존중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430185200530",
+      "pubDate": "Thu, 30 Apr 2026 19:00:01 +0900"
+    },
     {
       "title": "고유가로 돈 번 에너지기업에 횡재세?…프랑스 정치권 논쟁",
       "link": "https://www.yna.co.kr/view/AKR20260430196400081",
       "pubDate": "Thu, 30 Apr 2026 18:16:22 +0900"
     },
     {
-      "title": "최휘영 장관 \"문화예술 공공기관장 인사논란 송구…비판 수용\"(종합)",
+      "title": "최휘영 장관 \"공공기관장 인사논란은 관점 차이…비판은 수용\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260430177451005",
       "pubDate": "Thu, 30 Apr 2026 18:15:10 +0900"
     },
@@ -132,26 +152,6 @@
       "title": "에스티젠바이오, '비티젠'으로 사명 변경",
       "link": "https://www.yna.co.kr/view/AKR20260430172800017",
       "pubDate": "Thu, 30 Apr 2026 16:39:59 +0900"
-    },
-    {
-      "title": "성일하이텍, 450억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260430171400008",
-      "pubDate": "Thu, 30 Apr 2026 16:28:50 +0900"
-    },
-    {
-      "title": "정부-5대 금융그룹, 벤처 영토 넓힌다…\"연 40조원 시장 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430117300030",
-      "pubDate": "Thu, 30 Apr 2026 16:25:01 +0900"
-    },
-    {
-      "title": "음주운전 가중처벌해도 재범률 40%대…8건 중 1건은 동승자 있어",
-      "link": "https://www.yna.co.kr/view/AKR20260430160600002",
-      "pubDate": "Thu, 30 Apr 2026 16:22:49 +0900"
-    },
-    {
-      "title": "NH농협은행, 두 달간 전국 ATM 출금·이체 수수료 면제",
-      "link": "https://www.yna.co.kr/view/AKR20260430169700002",
-      "pubDate": "Thu, 30 Apr 2026 16:21:01 +0900"
     }
   ]
 }
