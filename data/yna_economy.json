@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777675120,
+  "updated_at_unix": 1777678835,
   "items": [
+    {
+      "title": "주식시장 '나홀로 불장', 이란전쟁 속 체감경기와 온도차 왜?",
+      "link": "https://www.yna.co.kr/view/AKR20260429187600008",
+      "pubDate": "Sat, 2 May 2026 08:30:15 +0900"
+    },
+    {
+      "title": "부산 3월 '악성 미분양' 3.2% 감소…매매 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260430162100051",
+      "pubDate": "Sat, 2 May 2026 08:00:05 +0900"
+    },
+    {
+      "title": "[다음주 경제] 4월 물가 얼마나 올랐나…3월 경상수지도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260501066500002",
+      "pubDate": "Sat, 2 May 2026 07:55:47 +0900"
+    },
+    {
+      "title": "삼성바이오 전면 파업 이틀째…노사 입장차 여전",
+      "link": "https://www.yna.co.kr/view/AKR20260502012100017",
+      "pubDate": "Sat, 2 May 2026 07:43:28 +0900"
+    },
     {
       "title": "중동전쟁으로 재개된 조선업 '슈퍼사이클'…K조선도 순항",
       "link": "https://www.yna.co.kr/view/AKR20260501040100003",
@@ -132,26 +152,6 @@
       "title": "전남도, 청년 희망일자리 지원사업 참여기업 모집",
       "link": "https://www.yna.co.kr/view/AKR20260430168400054",
       "pubDate": "Fri, 1 May 2026 11:00:01 +0900"
-    },
-    {
-      "title": "'고유가 지원금' 나흘째 신청률 73%…1조3천413억원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260501029000530",
-      "pubDate": "Fri, 1 May 2026 11:00:01 +0900"
-    },
-    {
-      "title": "엔화 약세에…日정부, 1년10개월만에 외환시장 개입",
-      "link": "https://www.yna.co.kr/view/AKR20260501030300073",
-      "pubDate": "Fri, 1 May 2026 10:58:57 +0900"
-    },
-    {
-      "title": "63년 만에 이름찾은 '노동절'…청와대서 첫 기념식 열려",
-      "link": "https://www.yna.co.kr/view/AKR20260501016800530",
-      "pubDate": "Fri, 1 May 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260501027700011",
-      "pubDate": "Fri, 1 May 2026 10:30:00 +0900"
     }
   ]
 }
