@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777668736,
+  "updated_at_unix": 1777671685,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 '더샵관저아르테' 등 8천359가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260501040200003",
+      "pubDate": "Sat, 2 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "[샷!] 당신의 청첩장이 1천원에 팔리고 있다",
+      "link": "https://www.yna.co.kr/view/AKR20260429072900011",
+      "pubDate": "Sat, 2 May 2026 05:50:01 +0900"
+    },
     {
       "title": "국제유가, 이란 새 협상안 전달에 하락…WTI 3%↓",
       "link": "https://www.yna.co.kr/view/AKR20260502004200072",
@@ -142,16 +152,6 @@
       "title": "인핸스, 커머스OS 서비스명 '에이전트OS'로 변경",
       "link": "https://www.yna.co.kr/view/AKR20260501023900017",
       "pubDate": "Fri, 1 May 2026 10:11:15 +0900"
-    },
-    {
-      "title": "삼성바이오 노조 \"전면파업은 경영 실패 책임\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501025100017",
-      "pubDate": "Fri, 1 May 2026 10:07:47 +0900"
-    },
-    {
-      "title": "\"체불대금 달라\" 신축건물에 자물쇠…하도급 대표들 벌금형 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260430055300061",
-      "pubDate": "Fri, 1 May 2026 10:00:03 +0900"
     }
   ]
 }
