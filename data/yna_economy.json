@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777628653,
+  "updated_at_unix": 1777633190,
   "items": [
+    {
+      "title": "삼성바이오 \"파업 생산차질 책임 통감\"…1천500억 손실",
+      "link": "https://www.yna.co.kr/view/AKR20260501058400017",
+      "pubDate": "Fri, 1 May 2026 19:31:09 +0900"
+    },
+    {
+      "title": "엔화 약세에…日정부, 1년10개월만에 외환시장 개입(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260501030351073",
+      "pubDate": "Fri, 1 May 2026 18:48:53 +0900"
+    },
     {
       "title": "중기부 '창업 도전자 지원' 사업에 2만명 몰려…15일 접수 마감",
       "link": "https://www.yna.co.kr/view/AKR20260501054900030",
@@ -142,16 +152,6 @@
       "title": "CJ웰케어, 이너뷰티 브랜드 '이너비' 새 모델에 차예련 발탁",
       "link": "https://www.yna.co.kr/view/AKR20260501023600030",
       "pubDate": "Fri, 1 May 2026 09:32:32 +0900"
-    },
-    {
-      "title": "현대차 블루멤버스 포인트, 가족이 함께 모으고 나눠쓴다",
-      "link": "https://www.yna.co.kr/view/AKR20260501023300003",
-      "pubDate": "Fri, 1 May 2026 09:31:30 +0900"
-    },
-    {
-      "title": "유한킴벌리, 반려견 동반 '숲속 개꿀잠대회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260501022000030",
-      "pubDate": "Fri, 1 May 2026 09:21:43 +0900"
     }
   ]
 }
