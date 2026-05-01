@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777671685,
+  "updated_at_unix": 1777675120,
   "items": [
+    {
+      "title": "중동전쟁으로 재개된 조선업 '슈퍼사이클'…K조선도 순항",
+      "link": "https://www.yna.co.kr/view/AKR20260501040100003",
+      "pubDate": "Sat, 2 May 2026 07:35:00 +0900"
+    },
+    {
+      "title": "증시활황에 증권사 보고서 건수도 늘었다…투자자 수요 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260501001000008",
+      "pubDate": "Sat, 2 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "출범 30주년 맞은 韓파생상품시장…성장통 딛고 새 도약 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260430198000008",
+      "pubDate": "Sat, 2 May 2026 07:00:17 +0900"
+    },
+    {
+      "title": "[신상잇슈] 농심 '누룽지팝 매콤한맛'·오리온 '목앤허니 깔라만시맛'",
+      "link": "https://www.yna.co.kr/view/AKR20260501024100030",
+      "pubDate": "Sat, 2 May 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[금주핫템] 까사미아 '시에라'·프로-스펙스 '테크 테일러드 시리즈'",
+      "link": "https://www.yna.co.kr/view/AKR20260501030600030",
+      "pubDate": "Sat, 2 May 2026 07:00:00 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 '더샵관저아르테' 등 8천359가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20260501040200003",
@@ -127,31 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260501027700011",
       "pubDate": "Fri, 1 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "롯데백화점, 잠실 롯데월드몰에 '키즈 아트 스테이션' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260501028400030",
-      "pubDate": "Fri, 1 May 2026 10:27:36 +0900"
-    },
-    {
-      "title": "용인시, 13일 미르스타디움서 일자리박람회",
-      "link": "https://www.yna.co.kr/view/AKR20260430130900061",
-      "pubDate": "Fri, 1 May 2026 10:25:02 +0900"
-    },
-    {
-      "title": "더후, 3세대 천기단 출시…\"미백·안티에이징 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501027100030",
-      "pubDate": "Fri, 1 May 2026 10:16:02 +0900"
-    },
-    {
-      "title": "카카오, '플레이MCP'에 오픈클로 연동…AI 에이전트 확장",
-      "link": "https://www.yna.co.kr/view/AKR20260501026600017",
-      "pubDate": "Fri, 1 May 2026 10:13:34 +0900"
-    },
-    {
-      "title": "인핸스, 커머스OS 서비스명 '에이전트OS'로 변경",
-      "link": "https://www.yna.co.kr/view/AKR20260501023900017",
-      "pubDate": "Fri, 1 May 2026 10:11:15 +0900"
     }
   ]
 }
