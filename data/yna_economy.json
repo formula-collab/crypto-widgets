@@ -1,15 +1,20 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777636780,
+  "updated_at_unix": 1777641644,
   "items": [
+    {
+      "title": "삼성바이오 파업 책임 공방…\"무리한 요구\" vs \"대응 실패\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501064400017",
+      "pubDate": "Fri, 1 May 2026 22:14:12 +0900"
+    },
     {
       "title": "LG유플러스 노조, 삼성전자 노조에 \"책임 전가\" 반발",
       "link": "https://www.yna.co.kr/view/AKR20260501060800017",
       "pubDate": "Fri, 1 May 2026 20:10:50 +0900"
     },
     {
-      "title": "삼성바이오 \"파업 생산차질 책임 통감\"…1천500억 손실",
+      "title": "삼성바이오, 파업에 1천500억 손실…\"피해 최소화 조치 강구\"",
       "link": "https://www.yna.co.kr/view/AKR20260501058400017",
       "pubDate": "Fri, 1 May 2026 19:31:09 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "쿠팡, '로켓설치' 가구 할인 행사…150여개 브랜드 참여",
       "link": "https://www.yna.co.kr/view/AKR20260501025800030",
       "pubDate": "Fri, 1 May 2026 09:58:06 +0900"
-    },
-    {
-      "title": "[2보] 중동전쟁 뚫고 4월 수출 859억달러로 48%↑…역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260501020451003",
-      "pubDate": "Fri, 1 May 2026 09:52:49 +0900"
     }
   ]
 }
