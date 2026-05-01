@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777665546,
+  "updated_at_unix": 1777668736,
   "items": [
+    {
+      "title": "국제유가, 이란 새 협상안 전달에 하락…WTI 3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260502004200072",
+      "pubDate": "Sat, 2 May 2026 05:05:10 +0900"
+    },
     {
       "title": "美연준 '완화편향' 반대했던 위원들 \"추가인하 시사 부적절\"",
       "link": "https://www.yna.co.kr/view/AKR20260501067400072",
@@ -147,11 +152,6 @@
       "title": "\"체불대금 달라\" 신축건물에 자물쇠…하도급 대표들 벌금형 집유",
       "link": "https://www.yna.co.kr/view/AKR20260430055300061",
       "pubDate": "Fri, 1 May 2026 10:00:03 +0900"
-    },
-    {
-      "title": "삼성전자, 월드컵 맞아 TV 프로모션…올해 대형모델 판매 50%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260501020100003",
-      "pubDate": "Fri, 1 May 2026 10:00:00 +0900"
     }
   ]
 }
