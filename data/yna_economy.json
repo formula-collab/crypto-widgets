@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777646061,
+  "updated_at_unix": 1777650247,
   "items": [
+    {
+      "title": "美연준 '완화편향' 반대했던 위원들 \"추가인하 시사 부적절\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501067400072",
+      "pubDate": "Fri, 1 May 2026 23:53:48 +0900"
+    },
     {
       "title": "삼성바이오 파업 책임 공방…\"무리한 요구\" vs \"대응 실패\"",
       "link": "https://www.yna.co.kr/view/AKR20260501064400017",
@@ -147,11 +152,6 @@
       "title": "삼성전자, 월드컵 맞아 TV 프로모션…올해 대형모델 판매 50%↑",
       "link": "https://www.yna.co.kr/view/AKR20260501020100003",
       "pubDate": "Fri, 1 May 2026 10:00:00 +0900"
-    },
-    {
-      "title": "쿠팡, '로켓설치' 가구 할인 행사…150여개 브랜드 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260501025800030",
-      "pubDate": "Fri, 1 May 2026 09:58:06 +0900"
     }
   ]
 }
