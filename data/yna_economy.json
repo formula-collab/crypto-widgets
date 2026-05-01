@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777592440,
+  "updated_at_unix": 1777600373,
   "items": [
+    {
+      "title": "63년 만에 이름찾은 '노동절'…청와대서 첫 기념식 열려",
+      "link": "https://www.yna.co.kr/view/AKR20260501016800530",
+      "pubDate": "Fri, 1 May 2026 10:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260501027700011",
+      "pubDate": "Fri, 1 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "롯데백화점, 잠실 롯데월드몰에 '키즈 아트 스테이션' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260501028400030",
+      "pubDate": "Fri, 1 May 2026 10:27:36 +0900"
+    },
+    {
+      "title": "용인시, 13일 미르스타디움서 일자리박람회",
+      "link": "https://www.yna.co.kr/view/AKR20260430130900061",
+      "pubDate": "Fri, 1 May 2026 10:25:02 +0900"
+    },
+    {
+      "title": "더후, 3세대 천기단 출시…\"미백·안티에이징 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501027100030",
+      "pubDate": "Fri, 1 May 2026 10:16:02 +0900"
+    },
+    {
+      "title": "카카오, '플레이MCP'에 오픈클로 연동…AI 에이전트 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260501026600017",
+      "pubDate": "Fri, 1 May 2026 10:13:34 +0900"
+    },
+    {
+      "title": "인핸스, 커머스OS 서비스명 '에이전트OS'로 변경",
+      "link": "https://www.yna.co.kr/view/AKR20260501023900017",
+      "pubDate": "Fri, 1 May 2026 10:11:15 +0900"
+    },
+    {
+      "title": "삼성바이오 노조 \"전면파업은 경영 실패 책임\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501025100017",
+      "pubDate": "Fri, 1 May 2026 10:07:47 +0900"
+    },
+    {
+      "title": "\"체불대금 달라\" 신축건물에 자물쇠…하도급 대표들 벌금형 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260430055300061",
+      "pubDate": "Fri, 1 May 2026 10:00:03 +0900"
+    },
+    {
+      "title": "삼성전자, 월드컵 맞아 TV 프로모션…올해 대형모델 판매 50%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260501020100003",
+      "pubDate": "Fri, 1 May 2026 10:00:00 +0900"
+    },
+    {
+      "title": "쿠팡, '로켓설치' 가구 할인 행사…150여개 브랜드 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260501025800030",
+      "pubDate": "Fri, 1 May 2026 09:58:06 +0900"
+    },
+    {
+      "title": "[2보] 중동전쟁 뚫고 4월 수출 859억달러로 48%↑…역대 2위",
+      "link": "https://www.yna.co.kr/view/AKR20260501020451003",
+      "pubDate": "Fri, 1 May 2026 09:52:49 +0900"
+    },
+    {
+      "title": "CJ웰케어, 이너뷰티 브랜드 '이너비' 새 모델에 차예련 발탁",
+      "link": "https://www.yna.co.kr/view/AKR20260501023600030",
+      "pubDate": "Fri, 1 May 2026 09:32:32 +0900"
+    },
+    {
+      "title": "현대차 블루멤버스 포인트, 가족이 함께 모으고 나눠쓴다",
+      "link": "https://www.yna.co.kr/view/AKR20260501023300003",
+      "pubDate": "Fri, 1 May 2026 09:31:30 +0900"
+    },
+    {
+      "title": "유한킴벌리, 반려견 동반 '숲속 개꿀잠대회' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260501022000030",
+      "pubDate": "Fri, 1 May 2026 09:21:43 +0900"
+    },
+    {
+      "title": "11번가, '그랜드십일절' 앞두고 e쿠폰 할인 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260501021600030",
+      "pubDate": "Fri, 1 May 2026 09:18:52 +0900"
+    },
+    {
+      "title": "울주군, 5월 한 달간 '개인지방소득세 신고 창구' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260430088000057",
+      "pubDate": "Fri, 1 May 2026 09:10:00 +0900"
+    },
+    {
+      "title": "[속보] 4월 무역수지 238억달러 흑자…15개월 연속 흑자 행진",
+      "link": "https://www.yna.co.kr/view/AKR20260501021200003",
+      "pubDate": "Fri, 1 May 2026 09:01:07 +0900"
+    },
+    {
+      "title": "[속보] '슈퍼 사이클' 반도체 수출 319억달러…역대 2위",
+      "link": "https://www.yna.co.kr/view/AKR20260501020700003",
+      "pubDate": "Fri, 1 May 2026 09:00:47 +0900"
+    },
+    {
+      "title": "[1보] 4월 수출 859억달러로 48%↑…두달 연속 800억달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260501020400003",
+      "pubDate": "Fri, 1 May 2026 09:00:00 +0900"
+    },
+    {
+      "title": "이마트24, 대만 '라인페이' 도입…\"관광객 편의 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501020000030",
+      "pubDate": "Fri, 1 May 2026 08:51:36 +0900"
+    },
+    {
+      "title": "E1, 5월 LPG 국내 공급가격 인상…프로판 ㎏당 140원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260501019900003",
+      "pubDate": "Fri, 1 May 2026 08:50:17 +0900"
+    },
+    {
+      "title": "다주택자 양도세 중과 4년만에 재시행…9일 유예 종료",
+      "link": "https://www.yna.co.kr/view/AKR20260501016200003",
+      "pubDate": "Fri, 1 May 2026 08:34:06 +0900"
+    },
     {
       "title": "울주군, 5∼6월 토지거래 허가 사후 이용 실태 조사",
       "link": "https://www.yna.co.kr/view/AKR20260430087900057",
@@ -37,121 +152,6 @@
       "title": "[줌in제주] '악성' 준공 후 미분양 2천세대 넘어…제주 건설 경기 한파",
       "link": "https://www.yna.co.kr/view/AKR20260430092200056",
       "pubDate": "Fri, 1 May 2026 06:30:06 +0900"
-    },
-    {
-      "title": "'창사 첫 파업' 삼성바이오…생산 차질·6천400억 손실 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260430143200017",
-      "pubDate": "Fri, 1 May 2026 06:25:56 +0900"
-    },
-    {
-      "title": "삼성바이오로직스 첫 전면 파업…창사 이래 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260430128100017",
-      "pubDate": "Fri, 1 May 2026 06:18:00 +0900"
-    },
-    {
-      "title": "증권가, 커지는 '연내 기준금리 인상' 전망…\"2회 상향도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430168900008",
-      "pubDate": "Fri, 1 May 2026 06:01:01 +0900"
-    },
-    {
-      "title": "고양시, 일자리 학교 '바이오산업 인력 양성 과정' 참여자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260430132600060",
-      "pubDate": "Fri, 1 May 2026 06:00:03 +0900"
-    },
-    {
-      "title": "공휴일이 무슨 소용…'한계 청년'들은 노동절에도 일터로",
-      "link": "https://www.yna.co.kr/view/AKR20260430189700004",
-      "pubDate": "Fri, 1 May 2026 05:55:00 +0900"
-    },
-    {
-      "title": "지난해 공정위 과징금 체납 800억…담당 인력은 5년째 2명",
-      "link": "https://www.yna.co.kr/view/AKR20260430191800002",
-      "pubDate": "Fri, 1 May 2026 05:53:00 +0900"
-    },
-    {
-      "title": "증권사들 \"미래에셋에 코빗 넘기면 특혜\"…공정위 심사 변수되나",
-      "link": "https://www.yna.co.kr/view/AKR20260429152900002",
-      "pubDate": "Fri, 1 May 2026 05:51:01 +0900"
-    },
-    {
-      "title": "국제유가, 4년만에 최고점 찍고 반락…브렌트 3%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260501007100072",
-      "pubDate": "Fri, 1 May 2026 05:01:48 +0900"
-    },
-    {
-      "title": "달러-원, 日 환시 개입에 급락 후 낙폭 축소…1,477.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260501004600002",
-      "pubDate": "Fri, 1 May 2026 03:04:14 +0900"
-    },
-    {
-      "title": "미국 이어 ECB·영국도 금리 동결…전쟁발 인플레 우려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430213252082",
-      "pubDate": "Thu, 30 Apr 2026 23:08:48 +0900"
-    },
-    {
-      "title": "[2보] ECB 금리 동결…\"물가 상방·경기 하방 위험 커져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430213251082",
-      "pubDate": "Thu, 30 Apr 2026 21:38:00 +0900"
-    },
-    {
-      "title": "[1보] ECB 금리 동결…예금금리 연 2.00％ 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260430213200082",
-      "pubDate": "Thu, 30 Apr 2026 21:17:05 +0900"
-    },
-    {
-      "title": "英 기준금리 3.75%로 동결…\"에너지 전망 매우 불확실\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430208251085",
-      "pubDate": "Thu, 30 Apr 2026 20:52:25 +0900"
-    },
-    {
-      "title": "국제유가 급등에 인도·인니·필리핀 통화가치 최저로",
-      "link": "https://www.yna.co.kr/view/AKR20260430210500084",
-      "pubDate": "Thu, 30 Apr 2026 20:34:13 +0900"
-    },
-    {
-      "title": "롯데카드 금감원 제재심서 영업정지 4.5개월…조前대표 문책경고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430185351002",
-      "pubDate": "Thu, 30 Apr 2026 20:30:39 +0900"
-    },
-    {
-      "title": "한화솔루션 축소 유증계획도 제동…금감원, 2차 정정 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260430209800002",
-      "pubDate": "Thu, 30 Apr 2026 20:26:09 +0900"
-    },
-    {
-      "title": "日외환당국 \"마지막 대피 권고\"…엔화약세에 '개입 버튼' 만지작(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430190451073",
-      "pubDate": "Thu, 30 Apr 2026 19:45:34 +0900"
-    },
-    {
-      "title": "IMA 1호 사업자 미래·한투, 첫 번째 상품 투자처 나란히 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260430204300008",
-      "pubDate": "Thu, 30 Apr 2026 19:32:34 +0900"
-    },
-    {
-      "title": "삼성전자 파업 태세에 靑도 주시…경제적 영향 등 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260430201600001",
-      "pubDate": "Thu, 30 Apr 2026 19:07:36 +0900"
-    },
-    {
-      "title": "노동절 전야 청년콘서트…김영훈 장관 \"모든 일하는 사람 존중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260430185200530",
-      "pubDate": "Thu, 30 Apr 2026 19:00:01 +0900"
-    },
-    {
-      "title": "고유가로 돈 번 에너지기업에 횡재세?…프랑스 정치권 논쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260430196400081",
-      "pubDate": "Thu, 30 Apr 2026 18:16:22 +0900"
-    },
-    {
-      "title": "최휘영 장관 \"공공기관장 인사논란은 관점 차이…비판은 수용\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260430177451005",
-      "pubDate": "Thu, 30 Apr 2026 18:15:10 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260430185600011",
-      "pubDate": "Thu, 30 Apr 2026 18:00:00 +0900"
     }
   ]
 }
