@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777633190,
+  "updated_at_unix": 1777636780,
   "items": [
+    {
+      "title": "LG유플러스 노조, 삼성전자 노조에 \"책임 전가\" 반발",
+      "link": "https://www.yna.co.kr/view/AKR20260501060800017",
+      "pubDate": "Fri, 1 May 2026 20:10:50 +0900"
+    },
     {
       "title": "삼성바이오 \"파업 생산차질 책임 통감\"…1천500억 손실",
       "link": "https://www.yna.co.kr/view/AKR20260501058400017",
@@ -147,11 +152,6 @@
       "title": "[2보] 중동전쟁 뚫고 4월 수출 859억달러로 48%↑…역대 2위",
       "link": "https://www.yna.co.kr/view/AKR20260501020451003",
       "pubDate": "Fri, 1 May 2026 09:52:49 +0900"
-    },
-    {
-      "title": "CJ웰케어, 이너뷰티 브랜드 '이너비' 새 모델에 차예련 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20260501023600030",
-      "pubDate": "Fri, 1 May 2026 09:32:32 +0900"
     }
   ]
 }
