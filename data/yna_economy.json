@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777600373,
+  "updated_at_unix": 1777613579,
   "items": [
+    {
+      "title": "홈플러스 노조 \"월급 포기해도 영업 정상화\"…메리츠 지원 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260501040300030",
+      "pubDate": "Fri, 1 May 2026 14:24:58 +0900"
+    },
+    {
+      "title": "비정규직 단체, '공정수당' 철회 요구…\"차별 구조 고착화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501037400004",
+      "pubDate": "Fri, 1 May 2026 13:47:35 +0900"
+    },
+    {
+      "title": "창사 첫 전면파업 삼성바이오로직스…깃발·현수막만 '펄럭'",
+      "link": "https://www.yna.co.kr/view/AKR20260501035400065",
+      "pubDate": "Fri, 1 May 2026 12:51:37 +0900"
+    },
+    {
+      "title": "대전서 대규모 노동절 행사…\"모든 노동자의 기본권 쟁취\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501035500063",
+      "pubDate": "Fri, 1 May 2026 12:50:02 +0900"
+    },
+    {
+      "title": "[부고] 김성환(코스콤 전무이사)씨 장모상",
+      "link": "https://www.yna.co.kr/view/AKR20260501033300008",
+      "pubDate": "Fri, 1 May 2026 11:57:24 +0900"
+    },
+    {
+      "title": "'전면파업' 삼성바이오 노조 \"회사, 즉각 협상에 나서야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260501025151017",
+      "pubDate": "Fri, 1 May 2026 11:41:10 +0900"
+    },
+    {
+      "title": "테헤란로 역삼동 노후 건축물, 20층 업무·상업시설로 재정비",
+      "link": "https://www.yna.co.kr/view/AKR20260501025300004",
+      "pubDate": "Fri, 1 May 2026 11:15:02 +0900"
+    },
+    {
+      "title": "중동전쟁 파고 넘은 한국 수출…두달 연속 800억달러 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260501020452003",
+      "pubDate": "Fri, 1 May 2026 11:10:03 +0900"
+    },
+    {
+      "title": "배달하러, 분리수거 하러…'노동절'에도 출근한 노동 약자들",
+      "link": "https://www.yna.co.kr/view/AKR20260501027900004",
+      "pubDate": "Fri, 1 May 2026 11:06:00 +0900"
+    },
+    {
+      "title": "전남도, 청년 희망일자리 지원사업 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260430168400054",
+      "pubDate": "Fri, 1 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "'고유가 지원금' 나흘째 신청률 73%…1조3천413억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260501029000530",
+      "pubDate": "Fri, 1 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "엔화 약세에…日정부, 1년9개월만에 외환시장 개입",
+      "link": "https://www.yna.co.kr/view/AKR20260501030300073",
+      "pubDate": "Fri, 1 May 2026 10:58:57 +0900"
+    },
     {
       "title": "63년 만에 이름찾은 '노동절'…청와대서 첫 기념식 열려",
       "link": "https://www.yna.co.kr/view/AKR20260501016800530",
@@ -92,66 +152,6 @@
       "title": "[속보] 4월 무역수지 238억달러 흑자…15개월 연속 흑자 행진",
       "link": "https://www.yna.co.kr/view/AKR20260501021200003",
       "pubDate": "Fri, 1 May 2026 09:01:07 +0900"
-    },
-    {
-      "title": "[속보] '슈퍼 사이클' 반도체 수출 319억달러…역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260501020700003",
-      "pubDate": "Fri, 1 May 2026 09:00:47 +0900"
-    },
-    {
-      "title": "[1보] 4월 수출 859억달러로 48%↑…두달 연속 800억달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260501020400003",
-      "pubDate": "Fri, 1 May 2026 09:00:00 +0900"
-    },
-    {
-      "title": "이마트24, 대만 '라인페이' 도입…\"관광객 편의 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501020000030",
-      "pubDate": "Fri, 1 May 2026 08:51:36 +0900"
-    },
-    {
-      "title": "E1, 5월 LPG 국내 공급가격 인상…프로판 ㎏당 140원↑",
-      "link": "https://www.yna.co.kr/view/AKR20260501019900003",
-      "pubDate": "Fri, 1 May 2026 08:50:17 +0900"
-    },
-    {
-      "title": "다주택자 양도세 중과 4년만에 재시행…9일 유예 종료",
-      "link": "https://www.yna.co.kr/view/AKR20260501016200003",
-      "pubDate": "Fri, 1 May 2026 08:34:06 +0900"
-    },
-    {
-      "title": "울주군, 5∼6월 토지거래 허가 사후 이용 실태 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260430087900057",
-      "pubDate": "Fri, 1 May 2026 08:10:00 +0900"
-    },
-    {
-      "title": "'가정의 달 특수는 옛말' 난방비 급등에 김해 화훼농가 울상",
-      "link": "https://www.yna.co.kr/view/AKR20260430141200052",
-      "pubDate": "Fri, 1 May 2026 08:05:01 +0900"
-    },
-    {
-      "title": "부산 아파트값 강보합세…수영구, 상승 반전",
-      "link": "https://www.yna.co.kr/view/AKR20260430120500051",
-      "pubDate": "Fri, 1 May 2026 07:50:02 +0900"
-    },
-    {
-      "title": "中, 서아프리카경제공동체 본부도 지어줘…아프리카 53국 무관세",
-      "link": "https://www.yna.co.kr/view/AKR20260430083300898",
-      "pubDate": "Fri, 1 May 2026 07:00:03 +0900"
-    },
-    {
-      "title": "한국 WGBI 편입 한달…외국인 국고채 순매수액·보유잔고 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20260430136100008",
-      "pubDate": "Fri, 1 May 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
-      "link": "https://www.yna.co.kr/view/AKR20260430123800017",
-      "pubDate": "Fri, 1 May 2026 06:33:00 +0900"
-    },
-    {
-      "title": "[줌in제주] '악성' 준공 후 미분양 2천세대 넘어…제주 건설 경기 한파",
-      "link": "https://www.yna.co.kr/view/AKR20260430092200056",
-      "pubDate": "Fri, 1 May 2026 06:30:06 +0900"
     }
   ]
 }
