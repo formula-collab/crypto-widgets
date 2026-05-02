@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777697414,
+  "updated_at_unix": 1777704908,
   "items": [
+    {
+      "title": "[부고] 조건형(한국투자증권 포트폴리오매니지먼트그룹장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260502029100505",
+      "pubDate": "Sat, 2 May 2026 14:03:15 +0900"
+    },
     {
       "title": "日, 대미투자 1차 프로젝트 위해 민간은행 협력 대출",
       "link": "https://www.yna.co.kr/view/AKR20260502025200073",
@@ -147,11 +152,6 @@
       "title": "공영홈쇼핑, 채용형 청년인턴 공개 모집…'블라인드' 방식",
       "link": "https://www.yna.co.kr/view/AKR20260501041200030",
       "pubDate": "Fri, 1 May 2026 14:40:27 +0900"
-    },
-    {
-      "title": "홈플러스 노조 \"월급 포기해도 영업 정상화\"…메리츠 지원 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260501040300030",
-      "pubDate": "Fri, 1 May 2026 14:24:58 +0900"
     }
   ]
 }
