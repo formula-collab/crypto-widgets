@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777678835,
+  "updated_at_unix": 1777685414,
   "items": [
+    {
+      "title": "춘천시 공유재산 전수조사…무단 점유 차단 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260430180000062",
+      "pubDate": "Sat, 2 May 2026 10:20:00 +0900"
+    },
+    {
+      "title": "구로다 전 일본은행 총재 \"日 중립 금리는 1.5%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260502019100073",
+      "pubDate": "Sat, 2 May 2026 09:49:39 +0900"
+    },
+    {
+      "title": "삼성바이오 전면 파업 이틀째…노사 입장차 여전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260502012151017",
+      "pubDate": "Sat, 2 May 2026 09:21:28 +0900"
+    },
+    {
+      "title": "주유소 기름값 5주 연속 상승…전국 평균 2천원대 흐름 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260502015800003",
+      "pubDate": "Sat, 2 May 2026 09:16:38 +0900"
+    },
+    {
+      "title": "경북도, 첨단제조 스타트업 키운다…20곳에 최대 7천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260430142300053",
+      "pubDate": "Sat, 2 May 2026 09:06:00 +0900"
+    },
+    {
+      "title": "부산 신세계 센텀시티 '금싸라기 땅' 개발 본격 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260430163400051",
+      "pubDate": "Sat, 2 May 2026 09:00:02 +0900"
+    },
     {
       "title": "주식시장 '나홀로 불장', 이란전쟁 속 체감경기와 온도차 왜?",
       "link": "https://www.yna.co.kr/view/AKR20260429187600008",
@@ -54,7 +84,7 @@
       "pubDate": "Sat, 2 May 2026 06:00:01 +0900"
     },
     {
-      "title": "[샷!] 당신의 청첩장이 1천원에 팔리고 있다",
+      "title": "[샷!] 탈세 품앗이…청첩장이 천원에 팔린다",
       "link": "https://www.yna.co.kr/view/AKR20260429072900011",
       "pubDate": "Sat, 2 May 2026 05:50:01 +0900"
     },
@@ -122,36 +152,6 @@
       "title": "대전서 대규모 노동절 행사…\"모든 노동자의 기본권 쟁취\"",
       "link": "https://www.yna.co.kr/view/AKR20260501035500063",
       "pubDate": "Fri, 1 May 2026 12:50:02 +0900"
-    },
-    {
-      "title": "[부고] 김성환(코스콤 전무이사)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260501033300008",
-      "pubDate": "Fri, 1 May 2026 11:57:24 +0900"
-    },
-    {
-      "title": "'전면파업' 삼성바이오 노조 \"회사, 즉각 협상에 나서야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260501025151017",
-      "pubDate": "Fri, 1 May 2026 11:41:10 +0900"
-    },
-    {
-      "title": "테헤란로 역삼동 노후 건축물, 20층 업무·상업시설로 재정비",
-      "link": "https://www.yna.co.kr/view/AKR20260501025300004",
-      "pubDate": "Fri, 1 May 2026 11:15:02 +0900"
-    },
-    {
-      "title": "중동전쟁 파고 넘은 한국 수출…두달 연속 800억달러 돌파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260501020452003",
-      "pubDate": "Fri, 1 May 2026 11:10:03 +0900"
-    },
-    {
-      "title": "배달하러, 분리수거 하러…'노동절'에도 출근한 노동 약자들",
-      "link": "https://www.yna.co.kr/view/AKR20260501027900004",
-      "pubDate": "Fri, 1 May 2026 11:06:00 +0900"
-    },
-    {
-      "title": "전남도, 청년 희망일자리 지원사업 참여기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260430168400054",
-      "pubDate": "Fri, 1 May 2026 11:00:01 +0900"
     }
   ]
 }
