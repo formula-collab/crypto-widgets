@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777753778,
+  "updated_at_unix": 1777756077,
   "items": [
+    {
+      "title": "[르포] 신촌 한복판 '4시간 대기줄'…MZ 일상 파고드는 中 프랜차이즈",
+      "link": "https://www.yna.co.kr/view/AKR20260501046700030",
+      "pubDate": "Sun, 3 May 2026 06:00:10 +0900"
+    },
+    {
+      "title": "롯데百 더콘란샵, 伊 테이블웨어 브랜드 '지노리1735' 팝업 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260501051800030",
+      "pubDate": "Sun, 3 May 2026 06:00:08 +0900"
+    },
+    {
+      "title": "'C-프랜차이즈' 한국 상륙 가속…하이디라오 매출 5년 새 8.4배",
+      "link": "https://www.yna.co.kr/view/AKR20260501063500030",
+      "pubDate": "Sun, 3 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "\"기초연금 현행 유지하면 2048년 정부예산 비중 3%→6%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260502035600002",
+      "pubDate": "Sun, 3 May 2026 05:59:34 +0900"
+    },
+    {
+      "title": "올해 일본 추월 눈앞인데…삼전 파업에 숨죽인 수출 전선",
+      "link": "https://www.yna.co.kr/view/AKR20260502043700003",
+      "pubDate": "Sun, 3 May 2026 05:59:00 +0900"
+    },
+    {
+      "title": "금융당국, 제이알리츠 공시 집중 검사…사채발행 시점 등 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260502026800002",
+      "pubDate": "Sun, 3 May 2026 05:57:00 +0900"
+    },
+    {
+      "title": "양도세 중과에 이어 장특공제 손보나…비거주에 축소·폐지 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260502041300002",
+      "pubDate": "Sun, 3 May 2026 05:55:31 +0900"
+    },
+    {
+      "title": "9일까지 토지거래허가 신청해야 다주택 양도세 중과 피해",
+      "link": "https://www.yna.co.kr/view/AKR20260502049900003",
+      "pubDate": "Sun, 3 May 2026 05:55:20 +0900"
+    },
+    {
+      "title": "\"양도세 중과 전 자녀에게 준다\"…4월 증여·직거래 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260502033100003",
+      "pubDate": "Sun, 3 May 2026 05:55:16 +0900"
+    },
+    {
+      "title": "다주택 양도세 중과 D-7…\"시장은 급매거래 끝나 소강국면\"",
+      "link": "https://www.yna.co.kr/view/AKR20260502032100003",
+      "pubDate": "Sun, 3 May 2026 05:55:10 +0900"
+    },
+    {
+      "title": "금융위, 중동피해 해운업 재보험 지원 추진…유동성 방안도 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260502040400002",
+      "pubDate": "Sun, 3 May 2026 05:53:01 +0900"
+    },
+    {
+      "title": "국민참여형 국민성장펀드 이달 출시…기관투자자용 펀드도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260502047200002",
+      "pubDate": "Sun, 3 May 2026 05:51:00 +0900"
+    },
+    {
+      "title": "선행-동행지수 격차 16년만에 최대…\"경기판단 착시 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260502028100002",
+      "pubDate": "Sun, 3 May 2026 05:49:03 +0900"
+    },
+    {
+      "title": "1분기 반도체 빼면 제조업 생산 증가 0.2% 뿐…K자 양극화 여전",
+      "link": "https://www.yna.co.kr/view/AKR20260502030100002",
+      "pubDate": "Sun, 3 May 2026 05:49:00 +0900"
+    },
+    {
+      "title": "4대금융 회수 포기 대출 3조원 육박…고금리에 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260430171600002",
+      "pubDate": "Sun, 3 May 2026 05:47:00 +0900"
+    },
+    {
+      "title": "예금 쌓이는데 대출은 주춤…5대 은행 예대율 2년 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260501067300002",
+      "pubDate": "Sun, 3 May 2026 05:45:00 +0900"
+    },
     {
       "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적",
       "link": "https://www.yna.co.kr/view/AKR20260503001400071",
@@ -72,86 +152,6 @@
       "title": "[다음주 경제] 4월 물가 얼마나 올랐나…3월 경상수지도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260501066500002",
       "pubDate": "Sat, 2 May 2026 07:55:47 +0900"
-    },
-    {
-      "title": "삼성바이오 전면 파업 이틀째…노사 입장차 여전",
-      "link": "https://www.yna.co.kr/view/AKR20260502012100017",
-      "pubDate": "Sat, 2 May 2026 07:43:28 +0900"
-    },
-    {
-      "title": "중동전쟁으로 재개된 조선업 '슈퍼사이클'…K조선도 순항",
-      "link": "https://www.yna.co.kr/view/AKR20260501040100003",
-      "pubDate": "Sat, 2 May 2026 07:35:00 +0900"
-    },
-    {
-      "title": "증시활황에 증권사 보고서 건수도 늘었다…투자자 수요 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260501001000008",
-      "pubDate": "Sat, 2 May 2026 07:30:00 +0900"
-    },
-    {
-      "title": "출범 30주년 맞은 韓파생상품시장…성장통 딛고 새 도약 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260430198000008",
-      "pubDate": "Sat, 2 May 2026 07:00:17 +0900"
-    },
-    {
-      "title": "[신상잇슈] 농심 '누룽지팝 매콤한맛'·오리온 '목앤허니 깔라만시맛'",
-      "link": "https://www.yna.co.kr/view/AKR20260501024100030",
-      "pubDate": "Sat, 2 May 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[금주핫템] 까사미아 '시에라'·프로-스펙스 '테크 테일러드 시리즈'",
-      "link": "https://www.yna.co.kr/view/AKR20260501030600030",
-      "pubDate": "Sat, 2 May 2026 07:00:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 '더샵관저아르테' 등 8천359가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260501040200003",
-      "pubDate": "Sat, 2 May 2026 06:00:01 +0900"
-    },
-    {
-      "title": "[샷!] 탈세 품앗이…청첩장이 천원에 팔린다",
-      "link": "https://www.yna.co.kr/view/AKR20260429072900011",
-      "pubDate": "Sat, 2 May 2026 05:50:01 +0900"
-    },
-    {
-      "title": "국제유가, 이란 새 협상안 전달에 하락…WTI 3%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260502004200072",
-      "pubDate": "Sat, 2 May 2026 05:05:10 +0900"
-    },
-    {
-      "title": "美연준 '완화편향' 반대했던 위원들 \"추가인하 시사 부적절\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501067400072",
-      "pubDate": "Fri, 1 May 2026 23:53:48 +0900"
-    },
-    {
-      "title": "삼성바이오 파업 책임 공방…\"무리한 요구\" vs \"대응 실패\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501064400017",
-      "pubDate": "Fri, 1 May 2026 22:14:12 +0900"
-    },
-    {
-      "title": "LG유플러스 노조, 삼성전자 노조에 \"책임 전가\" 반발",
-      "link": "https://www.yna.co.kr/view/AKR20260501060800017",
-      "pubDate": "Fri, 1 May 2026 20:10:50 +0900"
-    },
-    {
-      "title": "삼성바이오, 파업에 1천500억 손실…\"피해 최소화 조치 강구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501058400017",
-      "pubDate": "Fri, 1 May 2026 19:31:09 +0900"
-    },
-    {
-      "title": "엔화 약세에…日정부, 1년10개월만에 외환시장 개입(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260501030351073",
-      "pubDate": "Fri, 1 May 2026 18:48:53 +0900"
-    },
-    {
-      "title": "중기부 '창업 도전자 지원' 사업에 2만명 몰려…15일 접수 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260501054900030",
-      "pubDate": "Fri, 1 May 2026 18:36:45 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260501040500011",
-      "pubDate": "Fri, 1 May 2026 15:00:00 +0900"
     }
   ]
 }
