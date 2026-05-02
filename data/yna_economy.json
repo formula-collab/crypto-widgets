@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777759400,
+  "updated_at_unix": 1777763182,
   "items": [
+    {
+      "title": "수은 \"반도체 호황에 2분기 수출 작년 대비 30% 증가 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260501001800002",
+      "pubDate": "Sun, 3 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "올해 들어 10대그룹 시총 1천500조 '쑥'…SK그룹 증가율 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260430218500008",
+      "pubDate": "Sun, 3 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "삼겹살도 수박도 '조각' 낸다…유통가 점령한 '한입 소비'",
+      "link": "https://www.yna.co.kr/view/AKR20260430212100030",
+      "pubDate": "Sun, 3 May 2026 07:40:00 +0900"
+    },
+    {
+      "title": "국내증시 '시총 6천조' 시대…'1조 클럽' 사상 첫 400곳 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260430212000008",
+      "pubDate": "Sun, 3 May 2026 07:30:01 +0900"
+    },
+    {
+      "title": "지난달 투자 성적표 보니…외국인 수익률, 개인의 3배",
+      "link": "https://www.yna.co.kr/view/AKR20260430215600008",
+      "pubDate": "Sun, 3 May 2026 07:15:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 노동절 연휴 美기술주 강세지속…한국도 오를까",
+      "link": "https://www.yna.co.kr/view/AKR20260501065400008",
+      "pubDate": "Sun, 3 May 2026 07:00:28 +0900"
+    },
     {
       "title": "몸값 뛴 K-정유, 1분기 5조 영업익 전망…\"금은방 착시효과\"",
       "link": "https://www.yna.co.kr/view/AKR20260430198200003",
@@ -122,36 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260502020900011",
       "pubDate": "Sat, 2 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "춘천시 공유재산 전수조사…무단 점유 차단 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260430180000062",
-      "pubDate": "Sat, 2 May 2026 10:20:00 +0900"
-    },
-    {
-      "title": "구로다 전 일본은행 총재 \"日 중립 금리는 1.5%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260502019100073",
-      "pubDate": "Sat, 2 May 2026 09:49:39 +0900"
-    },
-    {
-      "title": "삼성바이오 전면 파업 이틀째…노사 입장차 여전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260502012151017",
-      "pubDate": "Sat, 2 May 2026 09:21:28 +0900"
-    },
-    {
-      "title": "주유소 기름값 5주 연속 상승…전국 평균 2천원대 흐름 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260502015800003",
-      "pubDate": "Sat, 2 May 2026 09:16:38 +0900"
-    },
-    {
-      "title": "경북도, 첨단제조 스타트업 키운다…20곳에 최대 7천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260430142300053",
-      "pubDate": "Sat, 2 May 2026 09:06:00 +0900"
-    },
-    {
-      "title": "부산 신세계 센텀시티 '금싸라기 땅' 개발 본격 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260430163400051",
-      "pubDate": "Sat, 2 May 2026 09:00:02 +0900"
     }
   ]
 }
