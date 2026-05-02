@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777685414,
+  "updated_at_unix": 1777697414,
   "items": [
+    {
+      "title": "日, 대미투자 1차 프로젝트 위해 민간은행 협력 대출",
+      "link": "https://www.yna.co.kr/view/AKR20260502025200073",
+      "pubDate": "Sat, 2 May 2026 11:47:19 +0900"
+    },
+    {
+      "title": "[마이더스] 해외주식 양도세 관리 요령",
+      "link": "https://www.yna.co.kr/view/AKR20260430090400980",
+      "pubDate": "Sat, 2 May 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260502020900011",
+      "pubDate": "Sat, 2 May 2026 10:30:00 +0900"
+    },
     {
       "title": "춘천시 공유재산 전수조사…무단 점유 차단 강화",
       "link": "https://www.yna.co.kr/view/AKR20260430180000062",
@@ -137,21 +152,6 @@
       "title": "홈플러스 노조 \"월급 포기해도 영업 정상화\"…메리츠 지원 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260501040300030",
       "pubDate": "Fri, 1 May 2026 14:24:58 +0900"
-    },
-    {
-      "title": "비정규직 단체, '공정수당' 철회 요구…\"차별 구조 고착화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501037400004",
-      "pubDate": "Fri, 1 May 2026 13:47:35 +0900"
-    },
-    {
-      "title": "창사 첫 전면파업 삼성바이오로직스…깃발·현수막만 '펄럭'",
-      "link": "https://www.yna.co.kr/view/AKR20260501035400065",
-      "pubDate": "Fri, 1 May 2026 12:51:37 +0900"
-    },
-    {
-      "title": "대전서 대규모 노동절 행사…\"모든 노동자의 기본권 쟁취\"",
-      "link": "https://www.yna.co.kr/view/AKR20260501035500063",
-      "pubDate": "Fri, 1 May 2026 12:50:02 +0900"
     }
   ]
 }
