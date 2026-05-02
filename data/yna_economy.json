@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777756077,
+  "updated_at_unix": 1777759400,
   "items": [
+    {
+      "title": "몸값 뛴 K-정유, 1분기 5조 영업익 전망…\"금은방 착시효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260430198200003",
+      "pubDate": "Sun, 3 May 2026 06:37:01 +0900"
+    },
+    {
+      "title": "위기의 가전업계…삼성 '선택과 집중'·LG '외연확장' 돌파구",
+      "link": "https://www.yna.co.kr/view/AKR20260430214800003",
+      "pubDate": "Sun, 3 May 2026 06:35:00 +0900"
+    },
+    {
+      "title": "[반려동물] 사람처럼 입고 꾸민다…의인화 소비에 커지는 패션·미용 시장",
+      "link": "https://www.yna.co.kr/view/AKR20260502001400030",
+      "pubDate": "Sun, 3 May 2026 06:30:01 +0900"
+    },
     {
       "title": "[르포] 신촌 한복판 '4시간 대기줄'…MZ 일상 파고드는 中 프랜차이즈",
       "link": "https://www.yna.co.kr/view/AKR20260501046700030",
@@ -137,21 +152,6 @@
       "title": "부산 신세계 센텀시티 '금싸라기 땅' 개발 본격 추진",
       "link": "https://www.yna.co.kr/view/AKR20260430163400051",
       "pubDate": "Sat, 2 May 2026 09:00:02 +0900"
-    },
-    {
-      "title": "주식시장 '나홀로 불장', 이란전쟁 속 체감경기와 온도차 왜?",
-      "link": "https://www.yna.co.kr/view/AKR20260429187600008",
-      "pubDate": "Sat, 2 May 2026 08:30:15 +0900"
-    },
-    {
-      "title": "부산 3월 '악성 미분양' 3.2% 감소…매매 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260430162100051",
-      "pubDate": "Sat, 2 May 2026 08:00:05 +0900"
-    },
-    {
-      "title": "[다음주 경제] 4월 물가 얼마나 올랐나…3월 경상수지도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260501066500002",
-      "pubDate": "Sat, 2 May 2026 07:55:47 +0900"
     }
   ]
 }
