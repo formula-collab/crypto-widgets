@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777781711,
+  "updated_at_unix": 1777790650,
   "items": [
+    {
+      "title": "與 \"오세훈, 주택공급 씨말려\"…국힘 \"정원오, 부동산지옥 원인\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260503031351001",
+      "pubDate": "Sun, 3 May 2026 15:24:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260503032100011",
+      "pubDate": "Sun, 3 May 2026 15:00:00 +0900"
+    },
+    {
+      "title": "신세계사이먼, 파주 프리미엄 아울렛서 '비어 페스타' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260503031000030",
+      "pubDate": "Sun, 3 May 2026 14:54:47 +0900"
+    },
+    {
+      "title": "정원오 측 \"주택공급 씨 말린 주범, 윤석열·오세훈 복식조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503031300001",
+      "pubDate": "Sun, 3 May 2026 14:48:59 +0900"
+    },
+    {
+      "title": "[부고] 오호선(전 국세청 중부지방국세청장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260503029800704",
+      "pubDate": "Sun, 3 May 2026 14:21:40 +0900"
+    },
+    {
+      "title": "'韓금융 자아성찰' 나선 김용범…\"치밀하게 방치된 구조적 모순\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503027600001",
+      "pubDate": "Sun, 3 May 2026 14:08:29 +0900"
+    },
+    {
+      "title": "소공연 \"쿠팡 김범석 동일인 지정 환영…신뢰 회복엔 상생해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503027900030",
+      "pubDate": "Sun, 3 May 2026 14:00:56 +0900"
+    },
+    {
+      "title": "송미령 장관 \"농촌관광 주간 5월 한 달로 확대…할인·이벤트 늘려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503027000030",
+      "pubDate": "Sun, 3 May 2026 14:00:01 +0900"
+    },
+    {
+      "title": "삼성가, 12조 상속세 5년만에 완납…\"노블레스 오블리주 실현\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503021300003",
+      "pubDate": "Sun, 3 May 2026 14:00:00 +0900"
+    },
     {
       "title": "'청년내일저축계좌' 신규 모집…3년간 정부가 월 30만원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260501034100530",
@@ -107,51 +152,6 @@
       "title": "LG유니참, 취약 계층에 위생용품 37만장 기부",
       "link": "https://www.yna.co.kr/view/AKR20260503018900030",
       "pubDate": "Sun, 3 May 2026 10:32:27 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260503017600011",
-      "pubDate": "Sun, 3 May 2026 10:30:01 +0900"
-    },
-    {
-      "title": "현대백화점, K브랜드로 대만 타이중서 '더현대 글로벌' 팝업",
-      "link": "https://www.yna.co.kr/view/AKR20260503017500030",
-      "pubDate": "Sun, 3 May 2026 10:12:44 +0900"
-    },
-    {
-      "title": "농식품 수출 준비부터 해외 판로까지…대구시, 전 과정 통합지원",
-      "link": "https://www.yna.co.kr/view/AKR20260503017400053",
-      "pubDate": "Sun, 3 May 2026 10:03:01 +0900"
-    },
-    {
-      "title": "부산시, 공공데이터·AI 활용 창업경진대회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260430152700051",
-      "pubDate": "Sun, 3 May 2026 10:00:04 +0900"
-    },
-    {
-      "title": "현대그린푸드, 기업용 '그리팅 영양 케어' 서비스 영업 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260503015100030",
-      "pubDate": "Sun, 3 May 2026 09:46:45 +0900"
-    },
-    {
-      "title": "GS25, '슈퍼 마리오' 입은 도시락·햄버거 출시…특별 굿즈 동봉",
-      "link": "https://www.yna.co.kr/view/AKR20260503014000030",
-      "pubDate": "Sun, 3 May 2026 09:21:00 +0900"
-    },
-    {
-      "title": "스타벅스 '스:벅차', 강화도 해병대에 커피·간식 1천세트 선물",
-      "link": "https://www.yna.co.kr/view/AKR20260503012800030",
-      "pubDate": "Sun, 3 May 2026 09:03:47 +0900"
-    },
-    {
-      "title": "우리은행, 美 오하이오 화력발전소 자금 1조2천억 금융주선",
-      "link": "https://www.yna.co.kr/view/AKR20260430216100002",
-      "pubDate": "Sun, 3 May 2026 09:00:04 +0900"
-    },
-    {
-      "title": "\"금값 올랐으니까\"…명품 브랜드, 또다시 '가격 인상' 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260502040800030",
-      "pubDate": "Sun, 3 May 2026 09:00:01 +0900"
     }
   ]
 }
