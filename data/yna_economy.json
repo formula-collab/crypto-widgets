@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777790650,
+  "updated_at_unix": 1777796916,
   "items": [
+    {
+      "title": "구윤철, 한중일 재무회의…\"중동 불확실 속 공동 해결방안 모색\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503041300002",
+      "pubDate": "Sun, 3 May 2026 17:04:42 +0900"
+    },
+    {
+      "title": "AI가 쇼핑해주는 시대 온다…금결원, AI 결제 기술검증 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260503004200002",
+      "pubDate": "Sun, 3 May 2026 16:00:00 +0900"
+    },
     {
       "title": "與 \"오세훈, 주택공급 씨말려\"…국힘 \"정원오, 부동산지옥 원인\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260503031351001",
@@ -142,16 +152,6 @@
       "title": "\"길 잃으면 CU로\"…BGF리테일, 가정의 달 아동안전 캠페인 전개",
       "link": "https://www.yna.co.kr/view/AKR20260503020300030",
       "pubDate": "Sun, 3 May 2026 10:53:54 +0900"
-    },
-    {
-      "title": "삼성바이오 파업 사흘째…'임금 인상·경영권 요구' 노사 이견(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260503006051017",
-      "pubDate": "Sun, 3 May 2026 10:34:19 +0900"
-    },
-    {
-      "title": "LG유니참, 취약 계층에 위생용품 37만장 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260503018900030",
-      "pubDate": "Sun, 3 May 2026 10:32:27 +0900"
     }
   ]
 }
