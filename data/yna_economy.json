@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777763182,
+  "updated_at_unix": 1777766647,
   "items": [
+    {
+      "title": "삼성바이오 전면파업 사흘째…노사, 내일 다시 협상테이블에",
+      "link": "https://www.yna.co.kr/view/AKR20260503006000017",
+      "pubDate": "Sun, 3 May 2026 08:45:11 +0900"
+    },
+    {
+      "title": "중동긴장 지속에도 금값 잠잠…'워시의 연준' 美금리 향배 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260502022900008",
+      "pubDate": "Sun, 3 May 2026 08:45:01 +0900"
+    },
+    {
+      "title": "1분기 실적시즌 반환점…코스피 상장사 3곳중 1곳 '서프라이즈'",
+      "link": "https://www.yna.co.kr/view/AKR20260501039200008",
+      "pubDate": "Sun, 3 May 2026 08:30:02 +0900"
+    },
+    {
+      "title": "KB금융, 블록체인 전문 美 판테라 캐피털과 협업 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260501067500002",
+      "pubDate": "Sun, 3 May 2026 08:30:01 +0900"
+    },
+    {
+      "title": "\"야구 열기 편의점에\"…세븐일레븐 '최강 호랑이즈' 한정판 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260503011400030",
+      "pubDate": "Sun, 3 May 2026 08:29:58 +0900"
+    },
     {
       "title": "수은 \"반도체 호황에 2분기 수출 작년 대비 30% 증가 전망\"",
       "link": "https://www.yna.co.kr/view/AKR20260501001800002",
@@ -127,31 +152,6 @@
       "title": "예금 쌓이는데 대출은 주춤…5대 은행 예대율 2년 만에 최저",
       "link": "https://www.yna.co.kr/view/AKR20260501067300002",
       "pubDate": "Sun, 3 May 2026 05:45:00 +0900"
-    },
-    {
-      "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적",
-      "link": "https://www.yna.co.kr/view/AKR20260503001400071",
-      "pubDate": "Sun, 3 May 2026 01:46:05 +0900"
-    },
-    {
-      "title": "[부고] 조건형(한국투자증권 포트폴리오매니지먼트그룹장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260502029100505",
-      "pubDate": "Sat, 2 May 2026 14:03:15 +0900"
-    },
-    {
-      "title": "日, 대미투자 1차 프로젝트 위해 민간은행 협력 대출",
-      "link": "https://www.yna.co.kr/view/AKR20260502025200073",
-      "pubDate": "Sat, 2 May 2026 11:47:19 +0900"
-    },
-    {
-      "title": "[마이더스] 해외주식 양도세 관리 요령",
-      "link": "https://www.yna.co.kr/view/AKR20260430090400980",
-      "pubDate": "Sat, 2 May 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260502020900011",
-      "pubDate": "Sat, 2 May 2026 10:30:00 +0900"
     }
   ]
 }
