@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777840228,
+  "updated_at_unix": 1777843884,
   "items": [
+    {
+      "title": "삼성바이오 파업 나흘째…오늘 노사 대화 재개",
+      "link": "https://www.yna.co.kr/view/AKR20260503043900017",
+      "pubDate": "Mon, 4 May 2026 06:05:00 +0900"
+    },
+    {
+      "title": "작년 금융회사 장외파생상품 거래 2경6천779조원…역대 최대규모",
+      "link": "https://www.yna.co.kr/view/AKR20260502046300002",
+      "pubDate": "Mon, 4 May 2026 06:00:08 +0900"
+    },
+    {
+      "title": "금감원, 온라인 불법금융광고 시민감시단 55→156명으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260503035600002",
+      "pubDate": "Mon, 4 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "롯데온, 여름맞이 패션 세일 '패세라' 개최…\"최대 90% 할인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503040500030",
+      "pubDate": "Mon, 4 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "해외IB, 한달 새 성장률 1%p 넘게 올리기도…물가 눈높이도 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260501001400002",
+      "pubDate": "Mon, 4 May 2026 05:51:00 +0900"
+    },
     {
       "title": "美재무 \"이란 원유저장시설 곧 포화…내주 유정폐쇄 가능성\"",
       "link": "https://www.yna.co.kr/view/AKR20260504000200071",
@@ -127,31 +152,6 @@
       "title": "직장인 52％ \"일터에 AI 도입 후 채용 줄어\"",
       "link": "https://www.yna.co.kr/view/AKR20260503014800004",
       "pubDate": "Sun, 3 May 2026 12:00:03 +0900"
-    },
-    {
-      "title": "세계은행 시장·거래상대 리스크 국장에 한국인 민진아 씨",
-      "link": "https://www.yna.co.kr/view/AKR20260503019400002",
-      "pubDate": "Sun, 3 May 2026 12:00:02 +0900"
-    },
-    {
-      "title": "공정위, 술 공급가격 제한한 제주주류도매업協에 과징금 2.6억원",
-      "link": "https://www.yna.co.kr/view/AKR20260503021400002",
-      "pubDate": "Sun, 3 May 2026 12:00:02 +0900"
-    },
-    {
-      "title": "이노비즈협회, 수도권 'K방산 스타트업 육성' 기관으로 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260503022400030",
-      "pubDate": "Sun, 3 May 2026 12:00:01 +0900"
-    },
-    {
-      "title": "범정부대응반, 도박수익 송금 등 6천억원대 불법외환거래 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260503022500002",
-      "pubDate": "Sun, 3 May 2026 12:00:00 +0900"
-    },
-    {
-      "title": "신세계하남점, 1층 '명품 대신 카페'…3040 가족 겨냥 공간 혁신",
-      "link": "https://www.yna.co.kr/view/AKR20260503021800030",
-      "pubDate": "Sun, 3 May 2026 11:31:15 +0900"
     }
   ]
 }
