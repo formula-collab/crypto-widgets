@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777843884,
+  "updated_at_unix": 1777847319,
   "items": [
+    {
+      "title": "서울 중구, 호텔종사자 양성 과정 운영…중장년 60명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260504011300004",
+      "pubDate": "Mon, 4 May 2026 07:19:21 +0900"
+    },
     {
       "title": "삼성바이오 파업 나흘째…오늘 노사 대화 재개",
       "link": "https://www.yna.co.kr/view/AKR20260503043900017",
@@ -146,11 +151,6 @@
     {
       "title": "보이스피싱 범죄로 억울한 계좌 동결, 해제 빨라진다",
       "link": "https://www.yna.co.kr/view/AKR20260502026500002",
-      "pubDate": "Sun, 3 May 2026 12:00:03 +0900"
-    },
-    {
-      "title": "직장인 52％ \"일터에 AI 도입 후 채용 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503014800004",
       "pubDate": "Sun, 3 May 2026 12:00:03 +0900"
     }
   ]
