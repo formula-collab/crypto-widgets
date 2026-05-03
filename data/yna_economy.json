@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777847319,
+  "updated_at_unix": 1777849787,
   "items": [
+    {
+      "title": "수은, ADB와 핵심광물 공급망 안정화에 5억달러 금융협력 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260501002200002",
+      "pubDate": "Mon, 4 May 2026 08:00:37 +0900"
+    },
+    {
+      "title": "관악구, 서울대와 '스타트업 기술 컨설팅' 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260504016100004",
+      "pubDate": "Mon, 4 May 2026 07:57:36 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260504009500011",
+      "pubDate": "Mon, 4 May 2026 07:30:00 +0900"
+    },
     {
       "title": "서울 중구, 호텔종사자 양성 과정 운영…중장년 60명 모집",
       "link": "https://www.yna.co.kr/view/AKR20260504011300004",
@@ -137,21 +152,6 @@
       "title": "어린이 교통사고, 어린이날 당일 평소의 2.4배",
       "link": "https://www.yna.co.kr/view/AKR20260502043600002",
       "pubDate": "Sun, 3 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "금감원, 가상자산 조사기능 강화…AI가 혐의군 자동식별",
-      "link": "https://www.yna.co.kr/view/AKR20260502044900002",
-      "pubDate": "Sun, 3 May 2026 12:00:04 +0900"
-    },
-    {
-      "title": "국민성장펀드, 소버린AI 업스테이지에 5천600억원…2호 직접투자",
-      "link": "https://www.yna.co.kr/view/AKR20260502045100002",
-      "pubDate": "Sun, 3 May 2026 12:00:04 +0900"
-    },
-    {
-      "title": "보이스피싱 범죄로 억울한 계좌 동결, 해제 빨라진다",
-      "link": "https://www.yna.co.kr/view/AKR20260502026500002",
-      "pubDate": "Sun, 3 May 2026 12:00:03 +0900"
     }
   ]
 }
