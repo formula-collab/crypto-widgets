@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777820924,
+  "updated_at_unix": 1777824309,
   "items": [
+    {
+      "title": "美재무 \"이란 원유저장시설 곧 포화…내주 유정폐쇄 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504000200071",
+      "pubDate": "Mon, 4 May 2026 00:09:00 +0900"
+    },
     {
       "title": "구윤철, 국제금융회의서 \"중동전, 韓경제 위험요인…협력 강화\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260503041351002",
@@ -147,11 +152,6 @@
       "title": "신세계하남점, 1층 '명품 대신 카페'…3040 가족 겨냥 공간 혁신",
       "link": "https://www.yna.co.kr/view/AKR20260503021800030",
       "pubDate": "Sun, 3 May 2026 11:31:15 +0900"
-    },
-    {
-      "title": "도시계획사업 한눈에 '서울플랜+' 사전협상제 정보도 추가",
-      "link": "https://www.yna.co.kr/view/AKR20260502023500004",
-      "pubDate": "Sun, 3 May 2026 11:15:03 +0900"
     }
   ]
 }
