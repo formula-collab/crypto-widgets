@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777812103,
+  "updated_at_unix": 1777817096,
   "items": [
+    {
+      "title": "구윤철, 국제금융회의서 \"중동전, 韓경제 위험요인…협력 강화\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260503041351002",
+      "pubDate": "Sun, 3 May 2026 22:45:22 +0900"
+    },
+    {
+      "title": "아세안+3 \"중동 사태로 경제 하방 위험↑…에너지 안보 협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260503054900002",
+      "pubDate": "Sun, 3 May 2026 21:45:01 +0900"
+    },
     {
       "title": "삼성바이오 노조 \"회사, 공정한 인사 기준 세워야\"",
       "link": "https://www.yna.co.kr/view/AKR20260503051600017",
@@ -142,16 +152,6 @@
       "title": "도시계획사업 한눈에 '서울플랜+' 사전협상제 정보도 추가",
       "link": "https://www.yna.co.kr/view/AKR20260502023500004",
       "pubDate": "Sun, 3 May 2026 11:15:03 +0900"
-    },
-    {
-      "title": "전남 농수산식품 수출 올해 들어 20.9% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260430173300054",
-      "pubDate": "Sun, 3 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "1·29 대책 교통혼잡 우려에…국토부, 수도권 광역교통체계 연구",
-      "link": "https://www.yna.co.kr/view/AKR20260501030200003",
-      "pubDate": "Sun, 3 May 2026 11:00:02 +0900"
     }
   ]
 }
