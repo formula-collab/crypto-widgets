@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777796916,
+  "updated_at_unix": 1777801615,
   "items": [
+    {
+      "title": "씨티, 삼전 목표가 '32만원→30만원' 하향…'노조 리스크' 지목",
+      "link": "https://www.yna.co.kr/view/AKR20260503044800008",
+      "pubDate": "Sun, 3 May 2026 18:12:31 +0900"
+    },
+    {
+      "title": "AI가 쇼핑해주는 시대…금결원장 \"AI 결제플랫폼 연내 기술검증\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260503004251002",
+      "pubDate": "Sun, 3 May 2026 17:58:31 +0900"
+    },
     {
       "title": "구윤철, 한중일 재무회의…\"중동 불확실 속 공동 해결방안 모색\"",
       "link": "https://www.yna.co.kr/view/AKR20260503041300002",
@@ -142,16 +152,6 @@
       "title": "해수부, 저수온·이상 수온 피해 어가에 재난지원금 31억원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260501047600030",
       "pubDate": "Sun, 3 May 2026 11:00:02 +0900"
-    },
-    {
-      "title": "현대硏, 올해 성장률 2.7%로 0.8%p 상향…\"반도체 수출 호조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260502037000002",
-      "pubDate": "Sun, 3 May 2026 11:00:00 +0900"
-    },
-    {
-      "title": "\"길 잃으면 CU로\"…BGF리테일, 가정의 달 아동안전 캠페인 전개",
-      "link": "https://www.yna.co.kr/view/AKR20260503020300030",
-      "pubDate": "Sun, 3 May 2026 10:53:54 +0900"
     }
   ]
 }
