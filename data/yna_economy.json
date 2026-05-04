@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777934732,
+  "updated_at_unix": 1777938100,
   "items": [
+    {
+      "title": "부동산전문가 \"올해 집값 올라\" vs. 중개사 \"내려\"…엇갈린 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260504108800002",
+      "pubDate": "Tue, 5 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "5대 증권사 ETF 투자 0∼19세 30만명…올해만 37% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260504137800008",
+      "pubDate": "Tue, 5 May 2026 07:50:00 +0900"
+    },
     {
       "title": "6·3 지선 한달 앞…코스피 불장 속 선거 테마주는 '싸늘'",
       "link": "https://www.yna.co.kr/view/AKR20260504141600008",
@@ -142,16 +152,6 @@
       "title": "복지부, 주사기 과다 구입 정황 의료기관 24곳 현장 점검",
       "link": "https://www.yna.co.kr/view/AKR20260504147300530",
       "pubDate": "Mon, 4 May 2026 19:53:05 +0900"
-    },
-    {
-      "title": "넷플릭스 이어 메타도 법인세 소송 승소…\"국내 고정사업장 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504144800004",
-      "pubDate": "Mon, 4 May 2026 19:43:57 +0900"
-    },
-    {
-      "title": "'삼전닉스' 쓸어담은 외국인·기관…'7천피'까지 63p 남았다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260504074152008",
-      "pubDate": "Mon, 4 May 2026 19:26:56 +0900"
     }
   ]
 }
