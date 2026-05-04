@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777921197,
+  "updated_at_unix": 1777925794,
   "items": [
+    {
+      "title": "\"마지노선 뚫렸나\"…인플레우려에 미국채 30년물 금리 5% 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260505006100072",
+      "pubDate": "Tue, 5 May 2026 04:18:27 +0900"
+    },
     {
       "title": "달러-원, 호르무즈 긴장 고조에 낙폭 줄여…1,478.40원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260505005200002",
@@ -147,11 +152,6 @@
       "title": "외국인·기관 쌍끌이 '반도체 랠리'…'7천피'까지 63p 남았다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504074151008",
       "pubDate": "Mon, 4 May 2026 16:44:08 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.615%",
-      "link": "https://www.yna.co.kr/view/AKR20260504125300008",
-      "pubDate": "Mon, 4 May 2026 16:42:53 +0900"
     }
   ]
 }
