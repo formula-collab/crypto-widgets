@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777887366,
+  "updated_at_unix": 1777894226,
   "items": [
+    {
+      "title": "[부고] 윤종우(전 예금보험공사 원주지점 관재인)씨 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260504145600505",
+      "pubDate": "Mon, 4 May 2026 19:56:22 +0900"
+    },
+    {
+      "title": "복지부, 주사기 과다 구입 정황 의료기관 24곳 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260504147300530",
+      "pubDate": "Mon, 4 May 2026 19:53:05 +0900"
+    },
+    {
+      "title": "넷플릭스 이어 메타도 법인세 소송 승소…\"국내 고정사업장 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504144800004",
+      "pubDate": "Mon, 4 May 2026 19:43:57 +0900"
+    },
+    {
+      "title": "'삼전닉스' 쓸어담은 외국인·기관…'7천피'까지 63p 남았다(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260504074152008",
+      "pubDate": "Mon, 4 May 2026 19:26:56 +0900"
+    },
+    {
+      "title": "'서학개미' 10개월 만에 순매도 전환…4월 5.2억달러 팔아",
+      "link": "https://www.yna.co.kr/view/AKR20260504140000002",
+      "pubDate": "Mon, 4 May 2026 18:45:16 +0900"
+    },
     {
       "title": "김용범 \"실수요와 무관한 대출, 앞으로 못 나가게 하는 것 당연\"",
       "link": "https://www.yna.co.kr/view/AKR20260504140400001",
@@ -127,31 +152,6 @@
       "title": "코스피, 5%대 급등 사상 첫 6,900선 돌파…'7천피' 눈앞(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504118500008",
       "pubDate": "Mon, 4 May 2026 16:16:17 +0900"
-    },
-    {
-      "title": "[동정] 이병권 중기차관, 롯데백화점 잠실점 '동행축제 판매전' 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260504082600030",
-      "pubDate": "Mon, 4 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "환율, 외국인 순매수에 중동전 후 최저…20.5원 내린 1,462.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260504035851002",
-      "pubDate": "Mon, 4 May 2026 15:59:53 +0900"
-    },
-    {
-      "title": "\"서울 아파트 전세 중위가, 신규·갱신계약 5천500만원 격차\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504113500003",
-      "pubDate": "Mon, 4 May 2026 15:50:31 +0900"
-    },
-    {
-      "title": "[특징주] '코스피 6,900대 돌파'에 증권주 강세 마감…삼성證 한때 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504090151008",
-      "pubDate": "Mon, 4 May 2026 15:49:29 +0900"
-    },
-    {
-      "title": "[특징주] 어린이날 앞두고 완구·캐릭터주 등락 엇갈려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504056851008",
-      "pubDate": "Mon, 4 May 2026 15:47:38 +0900"
     }
   ]
 }
