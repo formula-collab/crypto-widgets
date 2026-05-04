@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777894226,
+  "updated_at_unix": 1777900714,
   "items": [
+    {
+      "title": "'OPEC 탈퇴' UAE \"미국과 통화스왑 논의 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504149300009",
+      "pubDate": "Mon, 4 May 2026 21:14:44 +0900"
+    },
     {
       "title": "[부고] 윤종우(전 예금보험공사 원주지점 관재인)씨 별세",
       "link": "https://www.yna.co.kr/view/AKR20260504145600505",
@@ -147,11 +152,6 @@
       "title": "국토장관, 자재수급·안전관리 상황 점검…\"부실시공 용납못해\"",
       "link": "https://www.yna.co.kr/view/AKR20260504123600003",
       "pubDate": "Mon, 4 May 2026 16:37:18 +0900"
-    },
-    {
-      "title": "코스피, 5%대 급등 사상 첫 6,900선 돌파…'7천피' 눈앞(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504118500008",
-      "pubDate": "Mon, 4 May 2026 16:16:17 +0900"
     }
   ]
 }
