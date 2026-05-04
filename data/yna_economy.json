@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777925794,
+  "updated_at_unix": 1777930465,
   "items": [
+    {
+      "title": "중동전쟁 장기화 직격탄…\"중소건설사 공사 중단 속출\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504104700003",
+      "pubDate": "Tue, 5 May 2026 06:07:00 +0900"
+    },
+    {
+      "title": "삼성바이오 전면파업 닷새째…\"내일부터 무기한 준법투쟁\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504054400017",
+      "pubDate": "Tue, 5 May 2026 06:05:02 +0900"
+    },
+    {
+      "title": "한전이 원전 수출 총괄…정부, 원전수출진흥법 제정 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260504134500003",
+      "pubDate": "Tue, 5 May 2026 06:05:01 +0900"
+    },
+    {
+      "title": "주 4.5일제 속도 붙나…\"실노동시간 2030년 1천739시간 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504129800530",
+      "pubDate": "Tue, 5 May 2026 06:03:01 +0900"
+    },
+    {
+      "title": "어린이펀드 오르긴 했지만…치솟는 코스피에 관심 '시들'",
+      "link": "https://www.yna.co.kr/view/AKR20260504129500008",
+      "pubDate": "Tue, 5 May 2026 06:00:00 +0900"
+    },
+    {
+      "title": "여신협회장 선출절차 본격 개시…내일부터 후보 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260504114700002",
+      "pubDate": "Tue, 5 May 2026 05:59:00 +0900"
+    },
+    {
+      "title": "외국인 개인정보 암호화로 투자장벽 낮춘다…국장 접근성 제고",
+      "link": "https://www.yna.co.kr/view/AKR20260504139300002",
+      "pubDate": "Tue, 5 May 2026 05:57:00 +0900"
+    },
+    {
+      "title": "국내 가상자산 보유금액 1년새 반토막…스테이블코인은 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260504141100002",
+      "pubDate": "Tue, 5 May 2026 05:55:02 +0900"
+    },
+    {
+      "title": "1억원 이하 정기예금 계좌 수 6년 반 만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260504146900002",
+      "pubDate": "Tue, 5 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "고환율·'알테쉬' 불안에 中 직구 확 꺾여…1분기 증가율 0.6%",
+      "link": "https://www.yna.co.kr/view/AKR20260504123400002",
+      "pubDate": "Tue, 5 May 2026 05:51:00 +0900"
+    },
     {
       "title": "\"마지노선 뚫렸나\"…인플레우려에 미국채 30년물 금리 5% 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260505006100072",
@@ -102,56 +152,6 @@
       "title": "삼성바이오 노사 '빈손 면담'…\"이번 주 추가 논의\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504061451017",
       "pubDate": "Mon, 4 May 2026 17:23:39 +0900"
-    },
-    {
-      "title": "스테이지원엔터, 10억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260504129900008",
-      "pubDate": "Mon, 4 May 2026 17:14:46 +0900"
-    },
-    {
-      "title": "HUG, 인천 중구·경기 이천 5월 미분양 관리지역 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260504129600003",
-      "pubDate": "Mon, 4 May 2026 17:09:40 +0900"
-    },
-    {
-      "title": "삼성바이오 노사 '빈손 면담'…\"이번 주 추가 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504061400017",
-      "pubDate": "Mon, 4 May 2026 17:06:53 +0900"
-    },
-    {
-      "title": "완성차 5사 4월 판매 3.3%↓…기아, 내수판매 현대차 제쳐",
-      "link": "https://www.yna.co.kr/view/AKR20260504127500003",
-      "pubDate": "Mon, 4 May 2026 17:01:53 +0900"
-    },
-    {
-      "title": "구윤철, ADB 총재 면담…AI 혁신개발센터 한국 설치 MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260504100800002",
-      "pubDate": "Mon, 4 May 2026 17:00:01 +0900"
-    },
-    {
-      "title": "한은 부총재 발언에 국고채 금리 일제히 상승…3년물 연 3.615%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504125351008",
-      "pubDate": "Mon, 4 May 2026 16:57:58 +0900"
-    },
-    {
-      "title": "재경부, '고농도 니코틴 용액 온라인 판매' 첫 수사 의뢰",
-      "link": "https://www.yna.co.kr/view/AKR20260504123300002",
-      "pubDate": "Mon, 4 May 2026 16:55:26 +0900"
-    },
-    {
-      "title": "길어지는 전쟁…이탈리아, 유류세 인하 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260504123500109",
-      "pubDate": "Mon, 4 May 2026 16:54:25 +0900"
-    },
-    {
-      "title": "한화에어로스페이스 \"한국항공우주산업 주식 5천억에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504126100008",
-      "pubDate": "Mon, 4 May 2026 16:51:32 +0900"
-    },
-    {
-      "title": "외국인·기관 쌍끌이 '반도체 랠리'…'7천피'까지 63p 남았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504074151008",
-      "pubDate": "Mon, 4 May 2026 16:44:08 +0900"
     }
   ]
 }
