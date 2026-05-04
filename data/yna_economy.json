@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777914563,
+  "updated_at_unix": 1777921197,
   "items": [
+    {
+      "title": "달러-원, 호르무즈 긴장 고조에 낙폭 줄여…1,478.40원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260505005200002",
+      "pubDate": "Tue, 5 May 2026 03:47:20 +0900"
+    },
+    {
+      "title": "이란, UAE 공격 재개…휴전후 한달간 소강흐름 깨져(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260505000852009",
+      "pubDate": "Tue, 5 May 2026 02:05:17 +0900"
+    },
     {
       "title": "이란, UAE 공격 재개…석유단지 드론 피격 화재(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260505000851009",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.615%",
       "link": "https://www.yna.co.kr/view/AKR20260504125300008",
       "pubDate": "Mon, 4 May 2026 16:42:53 +0900"
-    },
-    {
-      "title": "텔레픽스 등 4개사, 코스닥 상장 예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260504124200008",
-      "pubDate": "Mon, 4 May 2026 16:41:16 +0900"
-    },
-    {
-      "title": "美 정치폭력이 '총격 보험' 부채질…1천400억대 시장으로 커져",
-      "link": "https://www.yna.co.kr/view/AKR20260504116900009",
-      "pubDate": "Mon, 4 May 2026 16:38:42 +0900"
     }
   ]
 }
