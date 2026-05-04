@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777849787,
+  "updated_at_unix": 1777853257,
   "items": [
+    {
+      "title": "[머니톡스] 2002년 미국시민 유승준…2026년 美 상장기업 의장 김범석",
+      "link": "https://www.yna.co.kr/view/AKR20260430100200546",
+      "pubDate": "Mon, 4 May 2026 09:01:41 +0900"
+    },
+    {
+      "title": "외국환시세(5월4일·하나은행 1차 고시 기준)",
+      "link": "https://www.yna.co.kr/view/AKR20260504027100002",
+      "pubDate": "Mon, 4 May 2026 09:00:19 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 10.4원 내린 1,472.9원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260504027000002",
+      "pubDate": "Mon, 4 May 2026 09:00:14 +0900"
+    },
+    {
+      "title": "대웅제약 \"펙수클루, 헬리코박터 제균으로 활용범위 넓혀\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504024900017",
+      "pubDate": "Mon, 4 May 2026 09:00:12 +0900"
+    },
+    {
+      "title": "고용위기지역 지정요건 완화…정량요건 산정기간 12개월→6개월",
+      "link": "https://www.yna.co.kr/view/AKR20260430193400530",
+      "pubDate": "Mon, 4 May 2026 09:00:03 +0900"
+    },
+    {
+      "title": "인천경제청, 유망 스타트업 15곳 공공시장 진출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260504021800065",
+      "pubDate": "Mon, 4 May 2026 09:00:01 +0900"
+    },
+    {
+      "title": "더벤티, '벤티럭' 활용 커피 트럭 케이터링 서비스 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260504019400030",
+      "pubDate": "Mon, 4 May 2026 08:50:55 +0900"
+    },
+    {
+      "title": "메리츠증권, 삼성전기 목표가↑…\"수요 확대·가격 상승 호재\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504023500008",
+      "pubDate": "Mon, 4 May 2026 08:45:46 +0900"
+    },
+    {
+      "title": "현대위아, 신입사원 채용…모빌리티·로보틱스 사업 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260504022600003",
+      "pubDate": "Mon, 4 May 2026 08:44:17 +0900"
+    },
+    {
+      "title": "신영증권, 포스코인터 목표가↑…\"이란발 高에너지가격 수혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504021900008",
+      "pubDate": "Mon, 4 May 2026 08:36:28 +0900"
+    },
+    {
+      "title": "키움증권 \"삼성重, 올해 수주 목표 초과 달성 유력…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504021500008",
+      "pubDate": "Mon, 4 May 2026 08:34:06 +0900"
+    },
+    {
+      "title": "대신증권 \"한화에어로, 기대 못 미친 1분기 실적…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504020700008",
+      "pubDate": "Mon, 4 May 2026 08:28:40 +0900"
+    },
+    {
+      "title": "한화증권 \"POSCO홀딩스, 1분기 실적 기대치 상회…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504019700008",
+      "pubDate": "Mon, 4 May 2026 08:21:44 +0900"
+    },
+    {
+      "title": "한투증권, 삼성전자 목표가↑…\"영업익 상승세 계속될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504018800008",
+      "pubDate": "Mon, 4 May 2026 08:16:54 +0900"
+    },
+    {
+      "title": "[마켓뷰] 트럼프 '해방 프로젝트' 승부수…韓증시 변수 여부 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260504016900008",
+      "pubDate": "Mon, 4 May 2026 08:10:43 +0900"
+    },
     {
       "title": "수은, ADB와 핵심광물 공급망 안정화에 5억달러 금융협력 맞손",
       "link": "https://www.yna.co.kr/view/AKR20260501002200002",
@@ -77,81 +152,6 @@
       "title": "AI가 쇼핑해주는 시대…금결원장 \"AI 결제플랫폼 연내 기술검증\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260503004251002",
       "pubDate": "Sun, 3 May 2026 17:58:31 +0900"
-    },
-    {
-      "title": "구윤철, 한중일 재무회의…\"중동 불확실 속 공동 해결방안 모색\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503041300002",
-      "pubDate": "Sun, 3 May 2026 17:04:42 +0900"
-    },
-    {
-      "title": "AI가 쇼핑해주는 시대 온다…금결원, AI 결제 기술검증 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260503004200002",
-      "pubDate": "Sun, 3 May 2026 16:00:00 +0900"
-    },
-    {
-      "title": "與 \"오세훈, 주택공급 씨말려\"…국힘 \"정원오, 부동산지옥 원인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260503031351001",
-      "pubDate": "Sun, 3 May 2026 15:24:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260503032100011",
-      "pubDate": "Sun, 3 May 2026 15:00:00 +0900"
-    },
-    {
-      "title": "신세계사이먼, 파주 프리미엄 아울렛서 '비어 페스타' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260503031000030",
-      "pubDate": "Sun, 3 May 2026 14:54:47 +0900"
-    },
-    {
-      "title": "정원오 측 \"주택공급 씨 말린 주범, 윤석열·오세훈 복식조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503031300001",
-      "pubDate": "Sun, 3 May 2026 14:48:59 +0900"
-    },
-    {
-      "title": "[부고] 오호선(전 국세청 중부지방국세청장)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260503029800704",
-      "pubDate": "Sun, 3 May 2026 14:21:40 +0900"
-    },
-    {
-      "title": "'韓금융 자아성찰' 나선 김용범…\"치밀하게 방치된 구조적 모순\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503027600001",
-      "pubDate": "Sun, 3 May 2026 14:08:29 +0900"
-    },
-    {
-      "title": "소공연 \"쿠팡 김범석 동일인 지정 환영…신뢰 회복엔 상생해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503027900030",
-      "pubDate": "Sun, 3 May 2026 14:00:56 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농촌관광 주간 5월 한 달로 확대…할인·이벤트 늘려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503027000030",
-      "pubDate": "Sun, 3 May 2026 14:00:01 +0900"
-    },
-    {
-      "title": "삼성가, 12조 상속세 5년만에 완납…\"노블레스 오블리주 실현\"",
-      "link": "https://www.yna.co.kr/view/AKR20260503021300003",
-      "pubDate": "Sun, 3 May 2026 14:00:00 +0900"
-    },
-    {
-      "title": "'청년내일저축계좌' 신규 모집…3년간 정부가 월 30만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260501034100530",
-      "pubDate": "Sun, 3 May 2026 12:00:11 +0900"
-    },
-    {
-      "title": "'모바일 신분증' 민간개방 참여기업에 삼성카드 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260502020700530",
-      "pubDate": "Sun, 3 May 2026 12:00:08 +0900"
-    },
-    {
-      "title": "중진공, 싱가포르 TXV와 협약…스타트업 동남아 진출 교두보",
-      "link": "https://www.yna.co.kr/view/AKR20260501031200030",
-      "pubDate": "Sun, 3 May 2026 12:00:06 +0900"
-    },
-    {
-      "title": "어린이 교통사고, 어린이날 당일 평소의 2.4배",
-      "link": "https://www.yna.co.kr/view/AKR20260502043600002",
-      "pubDate": "Sun, 3 May 2026 12:00:05 +0900"
     }
   ]
 }
