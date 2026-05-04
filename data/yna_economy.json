@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777879754,
+  "updated_at_unix": 1777887366,
   "items": [
+    {
+      "title": "김용범 \"실수요와 무관한 대출, 앞으로 못 나가게 하는 것 당연\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504140400001",
+      "pubDate": "Mon, 4 May 2026 18:29:50 +0900"
+    },
+    {
+      "title": "금융위, 김용범 지적 신용평가·은행역할 개편 논의…TF 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260504139100002",
+      "pubDate": "Mon, 4 May 2026 18:22:29 +0900"
+    },
+    {
+      "title": "靑 \"5·9 이후 주택가격 상승 완만할 것…공급 반드시 예고대로\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504131551001",
+      "pubDate": "Mon, 4 May 2026 18:10:33 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260504130800011",
+      "pubDate": "Mon, 4 May 2026 18:00:00 +0900"
+    },
+    {
+      "title": "내달부터 제주서 2박이상 체류하면 지역화폐 2만원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260504134400056",
+      "pubDate": "Mon, 4 May 2026 17:44:19 +0900"
+    },
+    {
+      "title": "한화에어로, KAI 지분 5% 넘겨…\"경영 참여 목적\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504126151008",
+      "pubDate": "Mon, 4 May 2026 17:39:18 +0900"
+    },
+    {
+      "title": "靑 \"5·9 이후 주택가격 상승 완만할 것…공급 반드시 예고대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504131500001",
+      "pubDate": "Mon, 4 May 2026 17:34:56 +0900"
+    },
+    {
+      "title": "UAE 국영석유사 \"OPEC 탈퇴는 국익 위한 결정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504132900009",
+      "pubDate": "Mon, 4 May 2026 17:31:27 +0900"
+    },
+    {
+      "title": "삼성바이오 노사 '빈손 면담'…\"이번 주 추가 논의\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504061451017",
+      "pubDate": "Mon, 4 May 2026 17:23:39 +0900"
+    },
+    {
+      "title": "스테이지원엔터, 10억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260504129900008",
+      "pubDate": "Mon, 4 May 2026 17:14:46 +0900"
+    },
+    {
+      "title": "HUG, 인천 중구·경기 이천 5월 미분양 관리지역 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260504129600003",
+      "pubDate": "Mon, 4 May 2026 17:09:40 +0900"
+    },
+    {
+      "title": "삼성바이오 노사 '빈손 면담'…\"이번 주 추가 논의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504061400017",
+      "pubDate": "Mon, 4 May 2026 17:06:53 +0900"
+    },
+    {
+      "title": "완성차 5사 4월 판매 3.3%↓…기아, 내수판매 현대차 제쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260504127500003",
+      "pubDate": "Mon, 4 May 2026 17:01:53 +0900"
+    },
+    {
+      "title": "구윤철, ADB 총재 면담…AI 혁신개발센터 한국 설치 MOU 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260504100800002",
+      "pubDate": "Mon, 4 May 2026 17:00:01 +0900"
+    },
+    {
+      "title": "한은 부총재 발언에 국고채 금리 일제히 상승…3년물 연 3.615%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504125351008",
+      "pubDate": "Mon, 4 May 2026 16:57:58 +0900"
+    },
+    {
+      "title": "재경부, '고농도 니코틴 용액 온라인 판매' 첫 수사 의뢰",
+      "link": "https://www.yna.co.kr/view/AKR20260504123300002",
+      "pubDate": "Mon, 4 May 2026 16:55:26 +0900"
+    },
+    {
+      "title": "길어지는 전쟁…이탈리아, 유류세 인하 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260504123500109",
+      "pubDate": "Mon, 4 May 2026 16:54:25 +0900"
+    },
+    {
+      "title": "한화에어로스페이스 \"한국항공우주산업 주식 5천억에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504126100008",
+      "pubDate": "Mon, 4 May 2026 16:51:32 +0900"
+    },
+    {
+      "title": "외국인·기관 쌍끌이 '반도체 랠리'…'7천피'까지 63p 남았다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504074151008",
+      "pubDate": "Mon, 4 May 2026 16:44:08 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.615%",
+      "link": "https://www.yna.co.kr/view/AKR20260504125300008",
+      "pubDate": "Mon, 4 May 2026 16:42:53 +0900"
+    },
+    {
+      "title": "텔레픽스 등 4개사, 코스닥 상장 예비심사 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260504124200008",
+      "pubDate": "Mon, 4 May 2026 16:41:16 +0900"
+    },
+    {
+      "title": "美 정치폭력이 '총격 보험' 부채질…1천400억대 시장으로 커져",
+      "link": "https://www.yna.co.kr/view/AKR20260504116900009",
+      "pubDate": "Mon, 4 May 2026 16:38:42 +0900"
+    },
+    {
+      "title": "코스피 급등에 공포지수 들썩…공매도 잔고도 사상 최고 수준(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260504085551008",
+      "pubDate": "Mon, 4 May 2026 16:37:33 +0900"
+    },
+    {
+      "title": "국토장관, 자재수급·안전관리 상황 점검…\"부실시공 용납못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260504123600003",
+      "pubDate": "Mon, 4 May 2026 16:37:18 +0900"
+    },
     {
       "title": "코스피, 5%대 급등 사상 첫 6,900선 돌파…'7천피' 눈앞(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504118500008",
@@ -32,126 +152,6 @@
       "title": "[특징주] 어린이날 앞두고 완구·캐릭터주 등락 엇갈려(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504056851008",
       "pubDate": "Mon, 4 May 2026 15:47:38 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스 12% 급등해 '140만닉스'…시총 1천조 돌파(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260504034652008",
-      "pubDate": "Mon, 4 May 2026 15:46:13 +0900"
-    },
-    {
-      "title": "[특징주] 크래프톤, 1분기 호실적·목표가 상향에 9% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504041751008",
-      "pubDate": "Mon, 4 May 2026 15:38:05 +0900"
-    },
-    {
-      "title": "[특징주] 현대차, '유럽산 車 관세율 인상' 美 발표에 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504030351008",
-      "pubDate": "Mon, 4 May 2026 15:36:22 +0900"
-    },
-    {
-      "title": "'5% 급등' 코스피, 또 사상 최고 경신…6,936.99",
-      "link": "https://www.yna.co.kr/view/AKR20260504110800008",
-      "pubDate": "Mon, 4 May 2026 15:35:38 +0900"
-    },
-    {
-      "title": "외국환시세(5월4일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260504111800002",
-      "pubDate": "Mon, 4 May 2026 15:35:14 +0900"
-    },
-    {
-      "title": "[속보] '5% 급등' 코스피, 사상 최고 경신…6,936.99",
-      "link": "https://www.yna.co.kr/view/AKR20260504110200008",
-      "pubDate": "Mon, 4 May 2026 15:32:33 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 20.5원 내린 1,462.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260504109800002",
-      "pubDate": "Mon, 4 May 2026 15:30:42 +0900"
-    },
-    {
-      "title": "울주중부장애인복지관·협동조합, 장애인 재활·건강증진 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260504105900057",
-      "pubDate": "Mon, 4 May 2026 15:28:21 +0900"
-    },
-    {
-      "title": "삼성증권, 외국인 韓주식 매매 서비스 조만간 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260504106900008",
-      "pubDate": "Mon, 4 May 2026 15:23:57 +0900"
-    },
-    {
-      "title": "상주 외국인 취업자 111만명…유학생 취업자 1년새 72% 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260504104900530",
-      "pubDate": "Mon, 4 May 2026 15:13:18 +0900"
-    },
-    {
-      "title": "이민정책연구원, '유학생 창업기반 조성 정책포럼' 27일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260504099900371",
-      "pubDate": "Mon, 4 May 2026 15:00:12 +0900"
-    },
-    {
-      "title": "강북구, '군 복무 청년 상해보험' 자동 가입…최대 3천만원 보장",
-      "link": "https://www.yna.co.kr/view/AKR20260504101500004",
-      "pubDate": "Mon, 4 May 2026 14:57:08 +0900"
-    },
-    {
-      "title": "영암군, 30년 경력 의사 채용…연봉 2억7천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260504099800054",
-      "pubDate": "Mon, 4 May 2026 14:48:05 +0900"
-    },
-    {
-      "title": "4월 5대 은행 주담대 1조9천104억원↑…8개월 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260504097000002",
-      "pubDate": "Mon, 4 May 2026 14:45:35 +0900"
-    },
-    {
-      "title": "광주은행, 기아타이거즈 'V13' 기원 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260504098500054",
-      "pubDate": "Mon, 4 May 2026 14:42:51 +0900"
-    },
-    {
-      "title": "양주시, 미취업 청년 자격시험 응시료 최대 30만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260504097300060",
-      "pubDate": "Mon, 4 May 2026 14:37:32 +0900"
-    },
-    {
-      "title": "법원, '젠투펀드 환매중단 사태' 금융기관 손배 책임 첫 인정(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260504045052004",
-      "pubDate": "Mon, 4 May 2026 14:30:19 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260504092700011",
-      "pubDate": "Mon, 4 May 2026 14:30:00 +0900"
-    },
-    {
-      "title": "롯데칠성 1분기 영업이익 478억원…전년 대비 91% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504077651527",
-      "pubDate": "Mon, 4 May 2026 14:14:57 +0900"
-    },
-    {
-      "title": "GS건설, 6천800억원 규모 서초진흥아파트 재건축 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260504090600003",
-      "pubDate": "Mon, 4 May 2026 14:10:32 +0900"
-    },
-    {
-      "title": "제주 고유가 피해지원금 1차 대상자 74.1% 수령",
-      "link": "https://www.yna.co.kr/view/AKR20260504090300056",
-      "pubDate": "Mon, 4 May 2026 14:04:22 +0900"
-    },
-    {
-      "title": "[특징주] '코스피 6,900대 돌파'에 증권주 강세…삼성證 20%대 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260504090100008",
-      "pubDate": "Mon, 4 May 2026 14:02:13 +0900"
-    },
-    {
-      "title": "코스피 급등에 공포지수 들썩…공매도 잔고도 사상 최고 수준",
-      "link": "https://www.yna.co.kr/view/AKR20260504085500008",
-      "pubDate": "Mon, 4 May 2026 13:48:02 +0900"
-    },
-    {
-      "title": "4월 울산항 원유 반입량 작년 월평균보다 41%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260504068500057",
-      "pubDate": "Mon, 4 May 2026 13:45:59 +0900"
     }
   ]
 }
