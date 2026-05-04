@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777908404,
+  "updated_at_unix": 1777914563,
   "items": [
+    {
+      "title": "이란, UAE 공격 재개…석유단지 드론 피격 화재(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260505000851009",
+      "pubDate": "Tue, 5 May 2026 01:02:25 +0900"
+    },
+    {
+      "title": "UAE \"이란발 미사일 3발 요격\"…휴전 뒤 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260505000800009",
+      "pubDate": "Tue, 5 May 2026 00:28:44 +0900"
+    },
     {
       "title": "'OPEC 탈퇴' UAE \"미국과 통화스왑 논의 중\"",
       "link": "https://www.yna.co.kr/view/AKR20260504149300009",
@@ -142,16 +152,6 @@
       "title": "美 정치폭력이 '총격 보험' 부채질…1천400억대 시장으로 커져",
       "link": "https://www.yna.co.kr/view/AKR20260504116900009",
       "pubDate": "Mon, 4 May 2026 16:38:42 +0900"
-    },
-    {
-      "title": "코스피 급등에 공포지수 들썩…공매도 잔고도 사상 최고 수준(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260504085551008",
-      "pubDate": "Mon, 4 May 2026 16:37:33 +0900"
-    },
-    {
-      "title": "국토장관, 자재수급·안전관리 상황 점검…\"부실시공 용납못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504123600003",
-      "pubDate": "Mon, 4 May 2026 16:37:18 +0900"
     }
   ]
 }
