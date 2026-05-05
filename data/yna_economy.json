@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778014348,
+  "updated_at_unix": 1778017891,
   "items": [
+    {
+      "title": "[팩트체크] 1년반으로 늘어난 육아휴직, 누구나 다 쓸 수 있을까",
+      "link": "https://www.yna.co.kr/view/AKR20260430169800518",
+      "pubDate": "Wed, 6 May 2026 06:30:01 +0900"
+    },
+    {
+      "title": "삼성바이오 조업 재개…노사 '준법투쟁' 시각차",
+      "link": "https://www.yna.co.kr/view/AKR20260505034100017",
+      "pubDate": "Wed, 6 May 2026 06:05:00 +0900"
+    },
+    {
+      "title": "50대 그룹 보유 '비업무용 부동산' 100조원 넘어…삼성·롯데 순",
+      "link": "https://www.yna.co.kr/view/AKR20260505034300003",
+      "pubDate": "Wed, 6 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "\"전기차·배터리 따로 살 수 있도록\"…한경협, 규제개선 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260505033300003",
+      "pubDate": "Wed, 6 May 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데백화점, 잠실 롯데월드몰에 PS 전문 매장…'미코노미' 겨냥",
+      "link": "https://www.yna.co.kr/view/AKR20260505045400030",
+      "pubDate": "Wed, 6 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"강아지도 냉면·빙수 즐긴다\"…이마트, 반려견 여름 간식 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260505047500030",
+      "pubDate": "Wed, 6 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "쿠팡Inc, 1분기 영업손실 3천545억원으로 '적자전환'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260506008752030",
+      "pubDate": "Wed, 6 May 2026 05:57:17 +0900"
+    },
+    {
+      "title": "공정위, 설탕 담합 과징금 990억원 깎아줬다…\"조사·심의 협조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260505053100002",
+      "pubDate": "Wed, 6 May 2026 05:51:00 +0900"
+    },
     {
       "title": "[2보] 쿠팡Inc, 1분기 영업손실 3천545억원 '적자전환'…매출 12.4조원",
       "link": "https://www.yna.co.kr/view/AKR20260506008751030",
@@ -112,46 +152,6 @@
       "title": "쿠팡, 취약계층에 패션상품 18만개 기부…\"구매 수량만큼 매칭\"",
       "link": "https://www.yna.co.kr/view/AKR20260505026200030",
       "pubDate": "Tue, 5 May 2026 10:34:16 +0900"
-    },
-    {
-      "title": "춘천시, '트윈세대' 특화 도서관 문 연다…놀이·진로 탐색 결합",
-      "link": "https://www.yna.co.kr/view/AKR20260504114400062",
-      "pubDate": "Tue, 5 May 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260505025600011",
-      "pubDate": "Tue, 5 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "CU, 아웃도어 아이더와 협업…냉감 티셔츠 모양 아이스크림 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260505024700030",
-      "pubDate": "Tue, 5 May 2026 10:11:38 +0900"
-    },
-    {
-      "title": "삼성D·LGD, 세계 최대 디스플레이 전시회서 '미래 OLED' 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20260505018300003",
-      "pubDate": "Tue, 5 May 2026 10:00:00 +0900"
-    },
-    {
-      "title": "현대백화점 목동점, 대규모 리빙관 새단장 마쳐…공간 경쟁 가속",
-      "link": "https://www.yna.co.kr/view/AKR20260505022500030",
-      "pubDate": "Tue, 5 May 2026 09:52:46 +0900"
-    },
-    {
-      "title": "[게시판] 롯데건설, 가정의 달 맞아 임직원에 간식 세트 '롯또박스' 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260505021800003",
-      "pubDate": "Tue, 5 May 2026 09:33:01 +0900"
-    },
-    {
-      "title": "GS샵, 쇼핑행사 '판타지에스' 개최…\"프리미엄도 실속 있게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505021000030",
-      "pubDate": "Tue, 5 May 2026 09:18:18 +0900"
-    },
-    {
-      "title": "세븐일레븐 \"세븐셀렉트 숨결통식빵 출시 3주 만에 10만개 팔려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505018100030",
-      "pubDate": "Tue, 5 May 2026 08:47:11 +0900"
     }
   ]
 }
