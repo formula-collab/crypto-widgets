@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778010943,
+  "updated_at_unix": 1778014348,
   "items": [
+    {
+      "title": "[2보] 쿠팡Inc, 1분기 영업손실 3천545억원 '적자전환'…매출 12.4조원",
+      "link": "https://www.yna.co.kr/view/AKR20260506008751030",
+      "pubDate": "Wed, 6 May 2026 05:21:56 +0900"
+    },
+    {
+      "title": "[1보] 쿠팡Inc, 1분기 매출 12조4천억원…3천500억원 영업손실",
+      "link": "https://www.yna.co.kr/view/AKR20260506008700030",
+      "pubDate": "Wed, 6 May 2026 05:12:31 +0900"
+    },
+    {
+      "title": "미·이란 휴전 유지에 안도…국제유가 4% 급락",
+      "link": "https://www.yna.co.kr/view/AKR20260506008100072",
+      "pubDate": "Wed, 6 May 2026 04:54:20 +0900"
+    },
     {
       "title": "[부고] 허윤경(한국건설산업연구원 연구위원)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260505056900003",
@@ -137,21 +152,6 @@
       "title": "세븐일레븐 \"세븐셀렉트 숨결통식빵 출시 3주 만에 10만개 팔려\"",
       "link": "https://www.yna.co.kr/view/AKR20260505018100030",
       "pubDate": "Tue, 5 May 2026 08:47:11 +0900"
-    },
-    {
-      "title": "부동산전문가 \"올해 집값 올라\" vs. 중개사 \"내려\"…엇갈린 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260504108800002",
-      "pubDate": "Tue, 5 May 2026 08:00:03 +0900"
-    },
-    {
-      "title": "5대 증권사 ETF 투자 0∼19세 30만명…올해만 37% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260504137800008",
-      "pubDate": "Tue, 5 May 2026 07:50:00 +0900"
-    },
-    {
-      "title": "6·3 지선 한달 앞…코스피 불장 속 선거 테마주는 '싸늘'",
-      "link": "https://www.yna.co.kr/view/AKR20260504141600008",
-      "pubDate": "Tue, 5 May 2026 07:40:00 +0900"
     }
   ]
 }
