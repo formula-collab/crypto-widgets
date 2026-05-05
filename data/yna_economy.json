@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777973076,
+  "updated_at_unix": 1777978616,
   "items": [
+    {
+      "title": "코스닥協, '코스피 이전상장 추진' 알테오젠에 재고 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260505054200008",
+      "pubDate": "Tue, 5 May 2026 19:35:05 +0900"
+    },
+    {
+      "title": "[경북소식] 경북도, 고교생 대상 관상어 전문인력 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260505052300053",
+      "pubDate": "Tue, 5 May 2026 18:52:01 +0900"
+    },
     {
       "title": "구윤철 만난 우즈베크 대통령 \"韓기업 전용 산업단지 조성 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260505037700002",
@@ -142,16 +152,6 @@
       "title": "이란사태 장기화에 곡물값 다시 들썩…글로벌 식량위기 공포",
       "link": "https://www.yna.co.kr/view/AKR20260504138200008",
       "pubDate": "Tue, 5 May 2026 07:30:05 +0900"
-    },
-    {
-      "title": "'불장'에 어린이계좌 개설 봇물…0∼9세 신규계좌수 연초 2배로",
-      "link": "https://www.yna.co.kr/view/AKR20260504132300008",
-      "pubDate": "Tue, 5 May 2026 07:20:01 +0900"
-    },
-    {
-      "title": "인천공항 인근 송도 103층 타워 운명은…안전성 검토 7월 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260504054000065",
-      "pubDate": "Tue, 5 May 2026 07:17:01 +0900"
     }
   ]
 }
