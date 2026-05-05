@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777964999,
+  "updated_at_unix": 1777973076,
   "items": [
+    {
+      "title": "구윤철 만난 우즈베크 대통령 \"韓기업 전용 산업단지 조성 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260505037700002",
+      "pubDate": "Tue, 5 May 2026 17:43:47 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260505038200011",
@@ -147,11 +152,6 @@
       "title": "인천공항 인근 송도 103층 타워 운명은…안전성 검토 7월 마무리",
       "link": "https://www.yna.co.kr/view/AKR20260504054000065",
       "pubDate": "Tue, 5 May 2026 07:17:01 +0900"
-    },
-    {
-      "title": "지난달 부모가 자녀에게 가장 많이 선물한 국내주식은 삼성전자",
-      "link": "https://www.yna.co.kr/view/AKR20260504144500008",
-      "pubDate": "Tue, 5 May 2026 07:10:00 +0900"
     }
   ]
 }
