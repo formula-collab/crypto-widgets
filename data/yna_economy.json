@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777938100,
+  "updated_at_unix": 1777945614,
   "items": [
+    {
+      "title": "쿠팡, 취약계층에 패션상품 18만개 기부…\"구매 수량만큼 매칭\"",
+      "link": "https://www.yna.co.kr/view/AKR20260505026200030",
+      "pubDate": "Tue, 5 May 2026 10:34:16 +0900"
+    },
+    {
+      "title": "춘천시, '트윈세대' 특화 도서관 문 연다…놀이·진로 탐색 결합",
+      "link": "https://www.yna.co.kr/view/AKR20260504114400062",
+      "pubDate": "Tue, 5 May 2026 10:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260505025600011",
+      "pubDate": "Tue, 5 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "CU, 아웃도어 아이더와 협업…냉감 티셔츠 모양 아이스크림 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260505024700030",
+      "pubDate": "Tue, 5 May 2026 10:11:38 +0900"
+    },
+    {
+      "title": "삼성D·LGD, 세계 최대 디스플레이 전시회서 '미래 OLED' 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20260505018300003",
+      "pubDate": "Tue, 5 May 2026 10:00:00 +0900"
+    },
+    {
+      "title": "현대백화점 목동점, 대규모 리빙관 새단장 마쳐…공간 경쟁 가속",
+      "link": "https://www.yna.co.kr/view/AKR20260505022500030",
+      "pubDate": "Tue, 5 May 2026 09:52:46 +0900"
+    },
+    {
+      "title": "[게시판] 롯데건설, 가정의 달 맞아 임직원에 간식 세트 '롯또박스' 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260505021800003",
+      "pubDate": "Tue, 5 May 2026 09:33:01 +0900"
+    },
+    {
+      "title": "GS샵, 쇼핑행사 '판타지에스' 개최…\"프리미엄도 실속 있게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260505021000030",
+      "pubDate": "Tue, 5 May 2026 09:18:18 +0900"
+    },
+    {
+      "title": "세븐일레븐 \"세븐셀렉트 숨결통식빵 출시 3주 만에 10만개 팔려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260505018100030",
+      "pubDate": "Tue, 5 May 2026 08:47:11 +0900"
+    },
     {
       "title": "부동산전문가 \"올해 집값 올라\" vs. 중개사 \"내려\"…엇갈린 전망",
       "link": "https://www.yna.co.kr/view/AKR20260504108800002",
@@ -107,51 +152,6 @@
       "title": "1억원 이하 정기예금 계좌 수 6년 반 만에 최소",
       "link": "https://www.yna.co.kr/view/AKR20260504146900002",
       "pubDate": "Tue, 5 May 2026 05:53:00 +0900"
-    },
-    {
-      "title": "고환율·'알테쉬' 불안에 中 직구 확 꺾여…1분기 증가율 0.6%",
-      "link": "https://www.yna.co.kr/view/AKR20260504123400002",
-      "pubDate": "Tue, 5 May 2026 05:51:00 +0900"
-    },
-    {
-      "title": "\"마지노선 뚫렸나\"…인플레우려에 미국채 30년물 금리 5% 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260505006100072",
-      "pubDate": "Tue, 5 May 2026 04:18:27 +0900"
-    },
-    {
-      "title": "달러-원, 호르무즈 긴장 고조에 낙폭 줄여…1,478.40원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260505005200002",
-      "pubDate": "Tue, 5 May 2026 03:47:20 +0900"
-    },
-    {
-      "title": "이란, UAE 공격 재개…휴전후 한달간 소강흐름 깨져(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260505000852009",
-      "pubDate": "Tue, 5 May 2026 02:05:17 +0900"
-    },
-    {
-      "title": "이란, UAE 공격 재개…석유단지 드론 피격 화재(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260505000851009",
-      "pubDate": "Tue, 5 May 2026 01:02:25 +0900"
-    },
-    {
-      "title": "UAE \"이란발 미사일 3발 요격\"…휴전 뒤 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260505000800009",
-      "pubDate": "Tue, 5 May 2026 00:28:44 +0900"
-    },
-    {
-      "title": "'OPEC 탈퇴' UAE \"미국과 통화스왑 논의 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260504149300009",
-      "pubDate": "Mon, 4 May 2026 21:14:44 +0900"
-    },
-    {
-      "title": "[부고] 윤종우(전 예금보험공사 원주지점 관재인)씨 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260504145600505",
-      "pubDate": "Mon, 4 May 2026 19:56:22 +0900"
-    },
-    {
-      "title": "복지부, 주사기 과다 구입 정황 의료기관 24곳 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260504147300530",
-      "pubDate": "Mon, 4 May 2026 19:53:05 +0900"
     }
   ]
 }
