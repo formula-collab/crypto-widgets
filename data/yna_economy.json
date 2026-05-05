@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778021028,
+  "updated_at_unix": 1778024276,
   "items": [
+    {
+      "title": "유진투자 \"골프존, 신규 유입 둔화로 실적 부진…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260506027800008",
+      "pubDate": "Wed, 6 May 2026 08:25:52 +0900"
+    },
+    {
+      "title": "NH투자 \"외국인 통합계좌, K-증시 선진화의 신호탄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260506026600008",
+      "pubDate": "Wed, 6 May 2026 08:16:02 +0900"
+    },
+    {
+      "title": "한투증권 \"5월 코스피 예상범위 6,700∼7,700…AI 모멘텀 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260506025300008",
+      "pubDate": "Wed, 6 May 2026 08:09:34 +0900"
+    },
+    {
+      "title": "쿠팡Inc, 1분기 영업손실 3천545억원…고객 70만명 감소(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260506008753030",
+      "pubDate": "Wed, 6 May 2026 08:03:54 +0900"
+    },
+    {
+      "title": "악뮤·해찬·에반 등 부산원아시아페스티벌 추가 출연진 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260506021400051",
+      "pubDate": "Wed, 6 May 2026 08:00:15 +0900"
+    },
+    {
+      "title": "[2보] 4월 소비자물가 2.6%↑ 21개월 만에 최고…석유류 21.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260506019751002",
+      "pubDate": "Wed, 6 May 2026 08:00:05 +0900"
+    },
+    {
+      "title": "[1보] 4월 소비자물가 2.6% 상승…석유류 급등에 21개월 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260506019700002",
+      "pubDate": "Wed, 6 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "부산시, 중소기업에 운전자금 1조3천680억원 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260506021100051",
+      "pubDate": "Wed, 6 May 2026 07:57:08 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260506014900011",
@@ -112,46 +152,6 @@
       "title": "항공운송·고무플라스틱업 고용유지지원금 요건 완화",
       "link": "https://www.yna.co.kr/view/AKR20260504138400530",
       "pubDate": "Tue, 5 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "5세대 실손 발달장애 보장 추가…11월에 선택형·갈아타기 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260504140800002",
-      "pubDate": "Tue, 5 May 2026 12:00:04 +0900"
-    },
-    {
-      "title": "ADB \"중동사태, 韓 성장 0.9%p 하락 압력…반도체가 일부 상쇄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505004700002",
-      "pubDate": "Tue, 5 May 2026 12:00:01 +0900"
-    },
-    {
-      "title": "서울시, 역세권 개발 촉진…상업지역 늘리고 공공기여 규제완화",
-      "link": "https://www.yna.co.kr/view/AKR20260505029000004",
-      "pubDate": "Tue, 5 May 2026 11:21:23 +0900"
-    },
-    {
-      "title": "서울시, 소상공인 육성하는 '골목창업 경진대회' 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260504138800004",
-      "pubDate": "Tue, 5 May 2026 11:15:02 +0900"
-    },
-    {
-      "title": "신세계라이브쇼핑, 조선호텔 '북경오리' 간편식 단독 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260505028700030",
-      "pubDate": "Tue, 5 May 2026 11:06:54 +0900"
-    },
-    {
-      "title": "농식품부, 젖소 씨수소 '유전체 기반 조기 선발' 체계 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260504092000030",
-      "pubDate": "Tue, 5 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "정부, 먹거리 물가 부담 완화 행사…농축·수산물 최대 50% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260504096400030",
-      "pubDate": "Tue, 5 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "국토부, 배달용 전기 이륜차 보험료 인하…\"고유가 부담 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505026600003",
-      "pubDate": "Tue, 5 May 2026 11:00:00 +0900"
     }
   ]
 }
