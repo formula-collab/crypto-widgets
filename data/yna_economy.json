@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778017891,
+  "updated_at_unix": 1778021028,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260506014900011",
+      "pubDate": "Wed, 6 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "李대통령 \"부동산 불패 신화는 없다…정상화, 피할수 없는 흐름\"",
+      "link": "https://www.yna.co.kr/view/AKR20260506016400001",
+      "pubDate": "Wed, 6 May 2026 07:13:18 +0900"
+    },
     {
       "title": "[팩트체크] 1년반으로 늘어난 육아휴직, 누구나 다 쓸 수 있을까",
       "link": "https://www.yna.co.kr/view/AKR20260430169800518",
@@ -142,16 +152,6 @@
       "title": "국토부, 배달용 전기 이륜차 보험료 인하…\"고유가 부담 완화\"",
       "link": "https://www.yna.co.kr/view/AKR20260505026600003",
       "pubDate": "Tue, 5 May 2026 11:00:00 +0900"
-    },
-    {
-      "title": "\"새벽배송 제한시 택배비 건당 1천원 인상 불가피\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505025700030",
-      "pubDate": "Tue, 5 May 2026 10:43:30 +0900"
-    },
-    {
-      "title": "쿠팡, 취약계층에 패션상품 18만개 기부…\"구매 수량만큼 매칭\"",
-      "link": "https://www.yna.co.kr/view/AKR20260505026200030",
-      "pubDate": "Tue, 5 May 2026 10:34:16 +0900"
     }
   ]
 }
