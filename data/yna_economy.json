@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1777956696,
+  "updated_at_unix": 1777964999,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260505038200011",
+      "pubDate": "Tue, 5 May 2026 15:00:28 +0900"
+    },
     {
       "title": "5세대 실손 발달장애 보장 추가…11월에 선택형·갈아타기 할인(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260504140851002",
@@ -147,11 +152,6 @@
       "title": "지난달 부모가 자녀에게 가장 많이 선물한 국내주식은 삼성전자",
       "link": "https://www.yna.co.kr/view/AKR20260504144500008",
       "pubDate": "Tue, 5 May 2026 07:10:00 +0900"
-    },
-    {
-      "title": "[머니톡스] 전태일의 후예들, 그의 외침에 귀를 닫았나",
-      "link": "https://www.yna.co.kr/view/AKR20260504077000546",
-      "pubDate": "Tue, 5 May 2026 07:07:08 +0900"
     }
   ]
 }
