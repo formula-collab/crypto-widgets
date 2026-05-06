@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778069562,
+  "updated_at_unix": 1778079963,
   "items": [
+    {
+      "title": "미국내 휘발유 가격 상승세 지속…4년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260506185400072",
+      "pubDate": "Wed, 6 May 2026 22:58:05 +0900"
+    },
+    {
+      "title": "중국 노동절 이동 인원 증가세 주춤…고유가 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260506181600083",
+      "pubDate": "Wed, 6 May 2026 21:56:08 +0900"
+    },
     {
       "title": "증선위, 회계처리 기준 위반 한창에 감사인 지정",
       "link": "https://www.yna.co.kr/view/AKR20260506177000002",
@@ -142,16 +152,6 @@
       "title": "코스피, 6%대 급등 단숨에 7,380선…'꿈의 7천피' 시대 열었다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260506147200008",
       "pubDate": "Wed, 6 May 2026 16:34:12 +0900"
-    },
-    {
-      "title": "중기부, '모두의 창업' 접수 마감 앞두고 대학 순회 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260506065800030",
-      "pubDate": "Wed, 6 May 2026 16:30:01 +0900"
-    },
-    {
-      "title": "기획처, AI시대 청년 일자리 대응 간담회…中企 지원도 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260506118500002",
-      "pubDate": "Wed, 6 May 2026 16:30:00 +0900"
     }
   ]
 }
