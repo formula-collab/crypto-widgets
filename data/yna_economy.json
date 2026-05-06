@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778086606,
+  "updated_at_unix": 1778091066,
   "items": [
+    {
+      "title": "달러-원, 美·이란 MOU 합의 기대감에 낙폭 확대…1,450원선 하회",
+      "link": "https://www.yna.co.kr/view/AKR20260507003800002",
+      "pubDate": "Thu, 7 May 2026 02:54:37 +0900"
+    },
     {
       "title": "미국내 휘발유 가격 상승세 지속…4년 만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260506185400072",
@@ -147,11 +152,6 @@
       "title": "한달여만 46% 급등한 코스피…단기과열 우려에 '공포지수' 껑충",
       "link": "https://www.yna.co.kr/view/AKR20260506131700008",
       "pubDate": "Wed, 6 May 2026 16:36:10 +0900"
-    },
-    {
-      "title": "코스피, 6%대 급등 단숨에 7,380선…'꿈의 7천피' 시대 열었다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260506147200008",
-      "pubDate": "Wed, 6 May 2026 16:34:12 +0900"
     }
   ]
 }
