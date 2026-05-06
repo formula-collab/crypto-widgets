@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778091066,
+  "updated_at_unix": 1778097932,
   "items": [
+    {
+      "title": "[인터뷰] 우상호 \"중앙정부 힘 끌어와 강원 획기적 변화 만들겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260506144700062",
+      "pubDate": "Thu, 7 May 2026 05:00:01 +0900"
+    },
+    {
+      "title": "호르무즈 봉쇄 장기화에 美 석유제품 수출 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260507006800072",
+      "pubDate": "Thu, 7 May 2026 04:43:20 +0900"
+    },
+    {
+      "title": "미·이란 협상 기대감에 국제유가 급락…브렌트유 7.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260507006500072",
+      "pubDate": "Thu, 7 May 2026 04:33:27 +0900"
+    },
     {
       "title": "달러-원, 美·이란 MOU 합의 기대감에 낙폭 확대…1,450원선 하회",
       "link": "https://www.yna.co.kr/view/AKR20260507003800002",
@@ -137,21 +152,6 @@
       "title": "현대이지웰 \"자회사 현대벤디스 주식 58억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260506149100008",
       "pubDate": "Wed, 6 May 2026 16:42:33 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.595%",
-      "link": "https://www.yna.co.kr/view/AKR20260506151700008",
-      "pubDate": "Wed, 6 May 2026 16:41:18 +0900"
-    },
-    {
-      "title": "[특징주] 증권株, '7천피' 개막에 초강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260506042051008",
-      "pubDate": "Wed, 6 May 2026 16:40:00 +0900"
-    },
-    {
-      "title": "한달여만 46% 급등한 코스피…단기과열 우려에 '공포지수' 껑충",
-      "link": "https://www.yna.co.kr/view/AKR20260506131700008",
-      "pubDate": "Wed, 6 May 2026 16:36:10 +0900"
     }
   ]
 }
