@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778097932,
+  "updated_at_unix": 1778103326,
   "items": [
+    {
+      "title": "쿠팡 결제액 4.6조 회복…정보유출 이전 수준 넘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260506163400017",
+      "pubDate": "Thu, 7 May 2026 06:13:00 +0900"
+    },
+    {
+      "title": "FIU, 가상자산 거래소 '법인 참여 확대' 준비 상황 파악",
+      "link": "https://www.yna.co.kr/view/AKR20260506174500002",
+      "pubDate": "Thu, 7 May 2026 06:01:00 +0900"
+    },
+    {
+      "title": "정부, 생산자·소비자단체와 친환경 인증품 통신판매 관리 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260506163600030",
+      "pubDate": "Thu, 7 May 2026 06:00:05 +0900"
+    },
+    {
+      "title": "작년 보험사 해외점포 당기순익 24%↑…신규 편입 효과",
+      "link": "https://www.yna.co.kr/view/AKR20260506159000002",
+      "pubDate": "Thu, 7 May 2026 06:00:04 +0900"
+    },
+    {
+      "title": "4월 외환보유액 4천279억달러…환율 방어에도 42.2억달러↑",
+      "link": "https://www.yna.co.kr/view/AKR20260506166800002",
+      "pubDate": "Thu, 7 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "정부, 초과세수에도 두 달 연속 한은서 일시차입",
+      "link": "https://www.yna.co.kr/view/AKR20260506166100002",
+      "pubDate": "Thu, 7 May 2026 05:57:00 +0900"
+    },
+    {
+      "title": "보험사 실손 분쟁 분기마다 분석해 공개…지급기준 변경시 안내",
+      "link": "https://www.yna.co.kr/view/AKR20260506132400002",
+      "pubDate": "Thu, 7 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "2금융권 예금 금리 일제 상승…저축은행 16개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260506180400002",
+      "pubDate": "Thu, 7 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "'7천피' 속 불법 핀플루언서에 칼 빼든 당국…규제개선 첫 회의",
+      "link": "https://www.yna.co.kr/view/AKR20260506173500002",
+      "pubDate": "Thu, 7 May 2026 05:51:01 +0900"
+    },
     {
       "title": "[인터뷰] 우상호 \"중앙정부 힘 끌어와 강원 획기적 변화 만들겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260506144700062",
@@ -107,51 +152,6 @@
       "title": "효성화학 \"오로라동반성장프로젝트펀드에 500억 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260506162800008",
       "pubDate": "Wed, 6 May 2026 17:33:03 +0900"
-    },
-    {
-      "title": "주병기 \"대기업 내부거래, GDP 대비 31%…경제력 집중 완화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260506154800002",
-      "pubDate": "Wed, 6 May 2026 17:30:01 +0900"
-    },
-    {
-      "title": "국고채 금리 등락 끝 혼조 마감…3년물 연 3.595%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260506151751008",
-      "pubDate": "Wed, 6 May 2026 17:08:59 +0900"
-    },
-    {
-      "title": "무협, 미국 관세환급 온라인 설명회…\"신청 서둘러야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260506158100003",
-      "pubDate": "Wed, 6 May 2026 17:07:31 +0900"
-    },
-    {
-      "title": "농협법 개정안 조합장들 반발에 지방선거 전 처리 사실상 무산",
-      "link": "https://www.yna.co.kr/view/AKR20260506155400030",
-      "pubDate": "Wed, 6 May 2026 17:02:33 +0900"
-    },
-    {
-      "title": "한울앤제주, 100억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260506156700008",
-      "pubDate": "Wed, 6 May 2026 17:02:03 +0900"
-    },
-    {
-      "title": "[코스피 7,000] 외국인 이틀간 6조원 폭풍 순매수…삼전닉스 쓸어담아(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260506085051008",
-      "pubDate": "Wed, 6 May 2026 16:50:16 +0900"
-    },
-    {
-      "title": "춘천시, 공공 부문 에너지 절감 강화…가로등 격등 72곳 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260506152600062",
-      "pubDate": "Wed, 6 May 2026 16:47:01 +0900"
-    },
-    {
-      "title": "우리은행, 최고 연 10% 금리 '삼성카드 우리적금' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260506150800002",
-      "pubDate": "Wed, 6 May 2026 16:43:46 +0900"
-    },
-    {
-      "title": "현대이지웰 \"자회사 현대벤디스 주식 58억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260506149100008",
-      "pubDate": "Wed, 6 May 2026 16:42:33 +0900"
     }
   ]
 }
