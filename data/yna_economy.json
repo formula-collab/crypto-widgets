@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778062001,
+  "updated_at_unix": 1778069562,
   "items": [
+    {
+      "title": "증선위, 회계처리 기준 위반 한창에 감사인 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260506177000002",
+      "pubDate": "Wed, 6 May 2026 19:49:50 +0900"
+    },
+    {
+      "title": "힙합월드리그-동원대, 게임 콘텐츠 개발·인재양성 위해 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260506176000371",
+      "pubDate": "Wed, 6 May 2026 19:21:20 +0900"
+    },
+    {
+      "title": "에스아이리소스, 10억원 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260506175000008",
+      "pubDate": "Wed, 6 May 2026 19:06:30 +0900"
+    },
     {
       "title": "엔/달러 환율 급락…엔화 가치 2개월 반 만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260506173700073",
@@ -137,21 +152,6 @@
       "title": "기획처, AI시대 청년 일자리 대응 간담회…中企 지원도 모색",
       "link": "https://www.yna.co.kr/view/AKR20260506118500002",
       "pubDate": "Wed, 6 May 2026 16:30:00 +0900"
-    },
-    {
-      "title": "[코스피 7,000] '불장'에 증권사도 함박웃음…역대급 실적 기대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260506053551008",
-      "pubDate": "Wed, 6 May 2026 16:22:26 +0900"
-    },
-    {
-      "title": "중동전쟁 中企 피해·애로 756건…\"원재료 상승·현지영업 중단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260506140800030",
-      "pubDate": "Wed, 6 May 2026 16:09:31 +0900"
-    },
-    {
-      "title": "[코스피 7,000] '2,300→7천피'…1년여만 '1천단위' 5번 넘었다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260428182751008",
-      "pubDate": "Wed, 6 May 2026 16:08:19 +0900"
     }
   ]
 }
