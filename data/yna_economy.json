@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778186662,
+  "updated_at_unix": 1778190254,
   "items": [
+    {
+      "title": "삼성바이오 노사 다시 만난다…노사정 3자 면담 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260507110600017",
+      "pubDate": "Fri, 8 May 2026 06:05:01 +0900"
+    },
+    {
+      "title": "삼성 미래로봇추진단, 인력 '수혈'…제조 로봇 상용화 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260507158300003",
+      "pubDate": "Fri, 8 May 2026 06:05:01 +0900"
+    },
+    {
+      "title": "양도세 중과 D-2…내일까지 토지거래허가 신청시 중과 면제",
+      "link": "https://www.yna.co.kr/view/AKR20260507171900003",
+      "pubDate": "Fri, 8 May 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[게시판] 장애인고용공단, 장애 대학생 진로탐색 캠프 참가자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260507094400530",
+      "pubDate": "Fri, 8 May 2026 06:00:10 +0900"
+    },
+    {
+      "title": "서울 서남권 창업 거점 '서울창업허브 관악' 건축 설계 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260507149500004",
+      "pubDate": "Fri, 8 May 2026 06:00:08 +0900"
+    },
+    {
+      "title": "부동산 서비스산업 부진 속 2분기 기업경기 소폭 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260507149200003",
+      "pubDate": "Fri, 8 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "홈페이지 공격에 화재 상황까지…금감원, 비상대응 모의훈련",
+      "link": "https://www.yna.co.kr/view/AKR20260507170800002",
+      "pubDate": "Fri, 8 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 통상교섭본부장, 멕시코 진출 기업 대상 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260507177800003",
+      "pubDate": "Fri, 8 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "해외 IB, 올해 韓 경제성장률 2.4% 전망…0.3%p 올려",
+      "link": "https://www.yna.co.kr/view/AKR20260507169600002",
+      "pubDate": "Fri, 8 May 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상진전 신중론 속 하락…브렌트 100.1달러",
       "link": "https://www.yna.co.kr/view/AKR20260508006500072",
@@ -107,51 +152,6 @@
       "title": "지엔코, 35억원 유상증자…크레오에스지 등에 3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260507157400008",
       "pubDate": "Thu, 7 May 2026 17:03:46 +0900"
-    },
-    {
-      "title": "[AI픽] AI로 전세사기·산재 막는다…현장형 AX 성과 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260507154400017",
-      "pubDate": "Thu, 7 May 2026 17:02:37 +0900"
-    },
-    {
-      "title": "주병기 \"을의 협상력·제재 실효성 강화 정책, 국제 추세 부합\"",
-      "link": "https://www.yna.co.kr/view/AKR20260507153200002",
-      "pubDate": "Thu, 7 May 2026 17:00:01 +0900"
-    },
-    {
-      "title": "국고채 금리, 종전 기대에 일제히↓…3년물 연 3.546%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507152551008",
-      "pubDate": "Thu, 7 May 2026 16:54:36 +0900"
-    },
-    {
-      "title": "외인 대거 팔았지만 코스피 또 사상 최고…7,490대 마감(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260507143751008",
-      "pubDate": "Thu, 7 May 2026 16:52:34 +0900"
-    },
-    {
-      "title": "전주시, 외국인 계절근로자 10월부터 투입…'일손 가뭄' 해갈",
-      "link": "https://www.yna.co.kr/view/AKR20260507153600055",
-      "pubDate": "Thu, 7 May 2026 16:50:56 +0900"
-    },
-    {
-      "title": "농협, 인사추천 체계 개편…외부위원 확대·공모제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260507152000030",
-      "pubDate": "Thu, 7 May 2026 16:50:03 +0900"
-    },
-    {
-      "title": "NH투자 \"연내 9,000\" 씨티 \"8,500\"…코스피 목표치 잇단 상향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507123251008",
-      "pubDate": "Thu, 7 May 2026 16:46:26 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.546%",
-      "link": "https://www.yna.co.kr/view/AKR20260507152500008",
-      "pubDate": "Thu, 7 May 2026 16:41:13 +0900"
-    },
-    {
-      "title": "KT&G, 1분기 영업이익 3천645억원…작년 동기 대비 27.7% 증가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507139251527",
-      "pubDate": "Thu, 7 May 2026 16:33:41 +0900"
     }
   ]
 }
