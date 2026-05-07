@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778190254,
+  "updated_at_unix": 1778194185,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260508016700011",
+      "pubDate": "Fri, 8 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "1기 신도시, 재건축이 표심 가르나…'이행 속도' 관건",
+      "link": "https://www.yna.co.kr/view/AKR20260507146200061",
+      "pubDate": "Fri, 8 May 2026 07:00:04 +0900"
+    },
+    {
+      "title": "'개네이션'·'발도장 편지'…펫팸족이 맞는 어버이날 풍경",
+      "link": "https://www.yna.co.kr/view/AKR20260507159100030",
+      "pubDate": "Fri, 8 May 2026 07:00:03 +0900"
+    },
     {
       "title": "삼성바이오 노사 다시 만난다…노사정 3자 면담 진행",
       "link": "https://www.yna.co.kr/view/AKR20260507110600017",
@@ -137,21 +152,6 @@
       "title": "조달청, 키르기스스탄 전자조달 현대화에 힘 보탠다",
       "link": "https://www.yna.co.kr/view/AKR20260507158600063",
       "pubDate": "Thu, 7 May 2026 17:13:54 +0900"
-    },
-    {
-      "title": "서울시, 세운4구역 세계유산영향평가 명령에 \"해법 찾겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260507160000004",
-      "pubDate": "Thu, 7 May 2026 17:13:51 +0900"
-    },
-    {
-      "title": "춘천시, 반려동물 창업 아이디어 7팀 선정…사업화 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260507158100062",
-      "pubDate": "Thu, 7 May 2026 17:10:09 +0900"
-    },
-    {
-      "title": "지엔코, 35억원 유상증자…크레오에스지 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260507157400008",
-      "pubDate": "Thu, 7 May 2026 17:03:46 +0900"
     }
   ]
 }
