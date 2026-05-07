@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778173952,
+  "updated_at_unix": 1778180960,
   "items": [
+    {
+      "title": "달러-원, 지지부진한 종전 협상에 실망…상승 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260508004800002",
+      "pubDate": "Fri, 8 May 2026 03:12:10 +0900"
+    },
     {
       "title": "호르무즈 선박 '나무호' 5개 손보사 전쟁보험 특약…전손시 최대 1천억",
       "link": "https://www.yna.co.kr/view/AKR20260507179600002",
@@ -147,11 +152,6 @@
       "title": "광진실업, 10억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260507146900008",
       "pubDate": "Thu, 7 May 2026 16:23:45 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 신반포 청구 리모델링에 고층·저층 평면 차별화",
-      "link": "https://www.yna.co.kr/view/AKR20260507142000003",
-      "pubDate": "Thu, 7 May 2026 16:21:24 +0900"
     }
   ]
 }
