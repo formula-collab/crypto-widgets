@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778140859,
+  "updated_at_unix": 1778150241,
   "items": [
+    {
+      "title": "한샘, 자회사 '한샘넥서스' 흡수합병…고급 레지던스 시장 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260507179200030",
+      "pubDate": "Thu, 7 May 2026 19:29:48 +0900"
+    },
+    {
+      "title": "정부, 5차 석유 최고가격도 동결…\"물가와 민생 고려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260507173000003",
+      "pubDate": "Thu, 7 May 2026 19:00:01 +0900"
+    },
+    {
+      "title": "산유국 노르웨이, 고물가에 금리 인상…'긴축 도미노' 시작되나",
+      "link": "https://www.yna.co.kr/view/AKR20260507172600082",
+      "pubDate": "Thu, 7 May 2026 18:41:45 +0900"
+    },
+    {
+      "title": "농지법 개정안 국회 통과…농지 전수조사·처분명령 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260507173300030",
+      "pubDate": "Thu, 7 May 2026 18:36:51 +0900"
+    },
+    {
+      "title": "'연차휴가 분할 사용 허용' 근로기준법 개정안 국회 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260507172400530",
+      "pubDate": "Thu, 7 May 2026 18:29:01 +0900"
+    },
+    {
+      "title": "\"증권업 본연기능 충실해야\"…벤처 자금공급 중소형證 지정 확대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260507068851002",
+      "pubDate": "Thu, 7 May 2026 18:21:08 +0900"
+    },
+    {
+      "title": "육군, 삼성전자와 AI·모바일 등 첨단기술 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260507171300504",
+      "pubDate": "Thu, 7 May 2026 18:13:20 +0900"
+    },
+    {
+      "title": "\"금투세 폐지했는데…가상자산 과세 형평성 어긋나\" 국회 토론",
+      "link": "https://www.yna.co.kr/view/AKR20260507164200002",
+      "pubDate": "Thu, 7 May 2026 18:13:10 +0900"
+    },
+    {
+      "title": "삼성전자 파업 전운에 노동부 중재 역할…중노위 사후조정 타진",
+      "link": "https://www.yna.co.kr/view/AKR20260507170600530",
+      "pubDate": "Thu, 7 May 2026 18:12:29 +0900"
+    },
+    {
+      "title": "국가공무원 9급 공채 필기시험 4천712명 합격",
+      "link": "https://www.yna.co.kr/view/AKR20260507074200001",
+      "pubDate": "Thu, 7 May 2026 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260507161300011",
+      "pubDate": "Thu, 7 May 2026 18:00:01 +0900"
+    },
+    {
+      "title": "민생안정지원단, 중소 조선업계 찾아 중동전 여파 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260507163200002",
+      "pubDate": "Thu, 7 May 2026 18:00:01 +0900"
+    },
+    {
+      "title": "국민연금 886조 굴릴 외화금고은행 우선협상 대상자에 우리은행",
+      "link": "https://www.yna.co.kr/view/AKR20260507169300530",
+      "pubDate": "Thu, 7 May 2026 17:59:30 +0900"
+    },
+    {
+      "title": "민주노총 강원본부, 도지사 후보들에 노동정책 제안",
+      "link": "https://www.yna.co.kr/view/AKR20260507166500062",
+      "pubDate": "Thu, 7 May 2026 17:44:46 +0900"
+    },
+    {
+      "title": "조달청, 키르기스스탄 전자조달 현대화에 힘 보탠다",
+      "link": "https://www.yna.co.kr/view/AKR20260507158600063",
+      "pubDate": "Thu, 7 May 2026 17:13:54 +0900"
+    },
+    {
+      "title": "서울시, 세운4구역 세계유산영향평가 명령에 \"해법 찾겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260507160000004",
+      "pubDate": "Thu, 7 May 2026 17:13:51 +0900"
+    },
+    {
+      "title": "춘천시, 반려동물 창업 아이디어 7팀 선정…사업화 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260507158100062",
+      "pubDate": "Thu, 7 May 2026 17:10:09 +0900"
+    },
+    {
+      "title": "지엔코, 35억원 유상증자…크레오에스지 등에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260507157400008",
+      "pubDate": "Thu, 7 May 2026 17:03:46 +0900"
+    },
+    {
+      "title": "[AI픽] AI로 전세사기·산재 막는다…현장형 AX 성과 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260507154400017",
+      "pubDate": "Thu, 7 May 2026 17:02:37 +0900"
+    },
+    {
+      "title": "주병기 \"을의 협상력·제재 실효성 강화 정책, 국제 추세 부합\"",
+      "link": "https://www.yna.co.kr/view/AKR20260507153200002",
+      "pubDate": "Thu, 7 May 2026 17:00:01 +0900"
+    },
+    {
+      "title": "국고채 금리, 종전 기대에 일제히↓…3년물 연 3.546%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260507152551008",
+      "pubDate": "Thu, 7 May 2026 16:54:36 +0900"
+    },
     {
       "title": "외인 대거 팔았지만 코스피 또 사상 최고…7,490대 마감(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260507143751008",
@@ -47,111 +152,6 @@
       "title": "외인 대거 팔았지만 코스피 또 사상 최고…7,490대 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260507143700008",
       "pubDate": "Thu, 7 May 2026 16:16:26 +0900"
-    },
-    {
-      "title": "경남로봇랜드재단·경상국립대 창업지원단, 로봇산업 발전 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260507143600052",
-      "pubDate": "Thu, 7 May 2026 16:09:44 +0900"
-    },
-    {
-      "title": "[특징주] 삼전, 외인 팔자에도 '27만전자'로…하이닉스 3%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507045751008",
-      "pubDate": "Thu, 7 May 2026 16:05:34 +0900"
-    },
-    {
-      "title": "서울 강서구 '일자리 연계형 임대주택' 청년입주자 201세대 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260507142200004",
-      "pubDate": "Thu, 7 May 2026 16:04:57 +0900"
-    },
-    {
-      "title": "농식품부, '제31회 농업인의 날' 유공자 포상 후보자 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260507060700030",
-      "pubDate": "Thu, 7 May 2026 16:00:02 +0900"
-    },
-    {
-      "title": "HUG, 빌라 시세 제공해 전세사기 막는다…'우량전세'도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260507132500003",
-      "pubDate": "Thu, 7 May 2026 16:00:00 +0900"
-    },
-    {
-      "title": "환율, 외국인 순매도에 낙폭 축소…1.1원 내린 1,454.0원",
-      "link": "https://www.yna.co.kr/view/AKR20260507039251002",
-      "pubDate": "Thu, 7 May 2026 15:50:09 +0900"
-    },
-    {
-      "title": "광진실업, 20억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260507140200008",
-      "pubDate": "Thu, 7 May 2026 15:50:01 +0900"
-    },
-    {
-      "title": "[특징주] 항공株, 국제 유가 하락에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507047951008",
-      "pubDate": "Thu, 7 May 2026 15:48:20 +0900"
-    },
-    {
-      "title": "경남교육청, 직업계고 학생 대상 호텔·리조트 채용설명회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260507135000052",
-      "pubDate": "Thu, 7 May 2026 15:48:14 +0900"
-    },
-    {
-      "title": "'1996 감성' 소환했다…식품업계, '포켓몬 30주년' 마케팅 활발",
-      "link": "https://www.yna.co.kr/view/AKR20260507132200030",
-      "pubDate": "Thu, 7 May 2026 15:48:11 +0900"
-    },
-    {
-      "title": "[특징주] 증권주 하락 마감…전날 급등 부담(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260507042251008",
-      "pubDate": "Thu, 7 May 2026 15:47:54 +0900"
-    },
-    {
-      "title": "의령 농특산물, LA서 통했다…작년 상설매장서 8만4천달러 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260507133400052",
-      "pubDate": "Thu, 7 May 2026 15:43:23 +0900"
-    },
-    {
-      "title": "외국환시세(5월7일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260507135400002",
-      "pubDate": "Thu, 7 May 2026 15:42:35 +0900"
-    },
-    {
-      "title": "'7천피' 코스피, 또 사상 최고치 행진…7,490 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260507135100008",
-      "pubDate": "Thu, 7 May 2026 15:37:49 +0900"
-    },
-    {
-      "title": "[속보] '7천피' 코스피, 또 사상 최고치 행진…7,490 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260507134600008",
-      "pubDate": "Thu, 7 May 2026 15:33:43 +0900"
-    },
-    {
-      "title": "농어촌공사, '위성 활용' 농업생산기반시설 관리",
-      "link": "https://www.yna.co.kr/view/AKR20260507133300054",
-      "pubDate": "Thu, 7 May 2026 15:31:20 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.1원 내린 1,454.0원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260507133600002",
-      "pubDate": "Thu, 7 May 2026 15:30:35 +0900"
-    },
-    {
-      "title": "[게시판] 신영증권, 창립 70주년 홈커밍데이",
-      "link": "https://www.yna.co.kr/view/AKR20260507132900008",
-      "pubDate": "Thu, 7 May 2026 15:27:53 +0900"
-    },
-    {
-      "title": "울주군, 사실상 멸실·소멸 차량 882대 비과세 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260507128700057",
-      "pubDate": "Thu, 7 May 2026 15:22:38 +0900"
-    },
-    {
-      "title": "하나은행, 시니어 레지던스 입주자 자산관리서비스 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260507126400002",
-      "pubDate": "Thu, 7 May 2026 15:18:53 +0900"
-    },
-    {
-      "title": "케이뱅크, 자녀·부모가 함께 관리하는 '마이키즈 통장' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260507121100002",
-      "pubDate": "Thu, 7 May 2026 15:18:19 +0900"
     }
   ]
 }
