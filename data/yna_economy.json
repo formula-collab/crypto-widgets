@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778194185,
+  "updated_at_unix": 1778197321,
   "items": [
+    {
+      "title": "한화증권 \"BGF리테일, 1분기 실적 기대치 상회…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508026800008",
+      "pubDate": "Fri, 8 May 2026 08:25:16 +0900"
+    },
+    {
+      "title": "DS투자, 씨에스윈드 목표가↑…\"2∼3분기 굵직한 수주 몰릴 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508026000008",
+      "pubDate": "Fri, 8 May 2026 08:20:50 +0900"
+    },
+    {
+      "title": "한투증권 \"카카오, 본실적 안정 확인…AI 수익화시 주가 우상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508025400008",
+      "pubDate": "Fri, 8 May 2026 08:18:16 +0900"
+    },
+    {
+      "title": "[마켓뷰] '7천피' 돌파후에도 상승행진…코스피 숨고르기 보이나",
+      "link": "https://www.yna.co.kr/view/AKR20260508025000008",
+      "pubDate": "Fri, 8 May 2026 08:16:42 +0900"
+    },
+    {
+      "title": "3월 경상흑자 373.3억달러…반도체 등 수출 호조에 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260508019800002",
+      "pubDate": "Fri, 8 May 2026 08:00:04 +0900"
+    },
+    {
+      "title": "부산시, 혁신 선도기업 신규과제 20개 선정…국비 126억원 확보",
+      "link": "https://www.yna.co.kr/view/AKR20260508022300051",
+      "pubDate": "Fri, 8 May 2026 07:59:52 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260508016700011",
@@ -122,36 +152,6 @@
       "title": "삼성전자 파업 전운에 노동부 중재 역할…중노위 사후조정 타진",
       "link": "https://www.yna.co.kr/view/AKR20260507170600530",
       "pubDate": "Thu, 7 May 2026 18:12:29 +0900"
-    },
-    {
-      "title": "국가공무원 9급 공채 필기시험 4천712명 합격",
-      "link": "https://www.yna.co.kr/view/AKR20260507074200001",
-      "pubDate": "Thu, 7 May 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260507161300011",
-      "pubDate": "Thu, 7 May 2026 18:00:01 +0900"
-    },
-    {
-      "title": "민생안정지원단, 중소 조선업계 찾아 중동전 여파 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260507163200002",
-      "pubDate": "Thu, 7 May 2026 18:00:01 +0900"
-    },
-    {
-      "title": "국민연금 886조 굴릴 외화금고은행 우선협상 대상자에 우리은행",
-      "link": "https://www.yna.co.kr/view/AKR20260507169300530",
-      "pubDate": "Thu, 7 May 2026 17:59:30 +0900"
-    },
-    {
-      "title": "민주노총 강원본부, 도지사 후보들에 노동정책 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260507166500062",
-      "pubDate": "Thu, 7 May 2026 17:44:46 +0900"
-    },
-    {
-      "title": "조달청, 키르기스스탄 전자조달 현대화에 힘 보탠다",
-      "link": "https://www.yna.co.kr/view/AKR20260507158600063",
-      "pubDate": "Thu, 7 May 2026 17:13:54 +0900"
     }
   ]
 }
