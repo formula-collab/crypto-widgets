@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778260386,
+  "updated_at_unix": 1778266147,
   "items": [
+    {
+      "title": "달러-원, 위험 선호 재확산에 오름폭 축소…1,462.30원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260509004100002",
+      "pubDate": "Sat, 9 May 2026 03:29:59 +0900"
+    },
     {
       "title": "국세청, '탈세 혐의' 하나금융·은행 세무조사 착수",
       "link": "https://www.yna.co.kr/view/AKR20260509001300002",
@@ -147,11 +152,6 @@
       "title": "[특징주] 하이닉스는 또 오르고…삼전은 숨고르기(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260508036751008",
       "pubDate": "Fri, 8 May 2026 15:53:50 +0900"
-    },
-    {
-      "title": "무주 안성면에 귀농귀촌 마을 조성…내년까지 40가구 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260508127100055",
-      "pubDate": "Fri, 8 May 2026 15:50:49 +0900"
     }
   ]
 }
