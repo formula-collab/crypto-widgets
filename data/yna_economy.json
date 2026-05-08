@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778250559,
+  "updated_at_unix": 1778255883,
   "items": [
+    {
+      "title": "EU \"항공권 이미 구입한 승객에 유류할증료 추가 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508176200098",
+      "pubDate": "Fri, 8 May 2026 23:34:58 +0900"
+    },
+    {
+      "title": "김용범 \"반도체 호황에 역대급 세수 예고…재정정책 유연해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508175800001",
+      "pubDate": "Fri, 8 May 2026 23:30:38 +0900"
+    },
     {
       "title": "토스증권, MTS에 한국콜마 실적 표기 오류…투자자들 항의",
       "link": "https://www.yna.co.kr/view/AKR20260508175700008",
@@ -142,16 +152,6 @@
       "title": "[특징주] 현대차 7% 급등…현대차그룹주 일제히 상승 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260508096851008",
       "pubDate": "Fri, 8 May 2026 15:48:07 +0900"
-    },
-    {
-      "title": "외국환시세(5월8일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260508123400002",
-      "pubDate": "Fri, 8 May 2026 15:47:46 +0900"
-    },
-    {
-      "title": "한화운용 '코스피50' ETF 연수익률 261%…\"코스피 추종 ETF 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508123000008",
-      "pubDate": "Fri, 8 May 2026 15:40:05 +0900"
     }
   ]
 }
