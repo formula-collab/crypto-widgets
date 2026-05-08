@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778275915,
+  "updated_at_unix": 1778280200,
   "items": [
+    {
+      "title": "[금주핫템] 코오롱FnC '슈즈라인업'·블랙야크 '에어로프레쉬'",
+      "link": "https://www.yna.co.kr/view/AKR20260507155800030",
+      "pubDate": "Sat, 9 May 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[신상잇슈] 매일유업 엠즈씨드 폴바셋 한정판 머그컵·하림 치킨왕라면",
+      "link": "https://www.yna.co.kr/view/AKR20260508068000030",
+      "pubDate": "Sat, 9 May 2026 07:00:03 +0900"
+    },
     {
       "title": "주유소 기름값 6주 연속 상승…종전 기대감 속 하락 전환할까",
       "link": "https://www.yna.co.kr/view/AKR20260508159400003",
@@ -142,16 +152,6 @@
       "title": "외인 던지고 개미 받고…코스피 7,500선 턱밑 마감, 또 사상최고(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260508131500008",
       "pubDate": "Fri, 8 May 2026 16:22:46 +0900"
-    },
-    {
-      "title": "최저임금위원장, 민주노총 방문…조합원은 \"사퇴하라\" 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260508129200530",
-      "pubDate": "Fri, 8 May 2026 16:12:48 +0900"
-    },
-    {
-      "title": "환율, 외국인 순매도에 17.7원 오른 1,471.7원",
-      "link": "https://www.yna.co.kr/view/AKR20260508127900002",
-      "pubDate": "Fri, 8 May 2026 16:07:43 +0900"
     }
   ]
 }
