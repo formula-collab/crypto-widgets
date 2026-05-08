@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778205220,
+  "updated_at_unix": 1778215603,
   "items": [
+    {
+      "title": "\"소비자 87%가 AI 알지만…업무에 사용하는 비율은 32%에 불과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260507131800030",
+      "pubDate": "Fri, 8 May 2026 12:00:06 +0900"
+    },
+    {
+      "title": "정보보호 공시 의무 대상 693개사…27곳 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260508046600017",
+      "pubDate": "Fri, 8 May 2026 12:00:05 +0900"
+    },
+    {
+      "title": "[동정] 신현송 한은총재, BIS 총재회의 참석…취임후 첫 해외출장",
+      "link": "https://www.yna.co.kr/view/AKR20260508065500002",
+      "pubDate": "Fri, 8 May 2026 12:00:03 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.566%",
+      "link": "https://www.yna.co.kr/view/AKR20260508080300008",
+      "pubDate": "Fri, 8 May 2026 11:41:39 +0900"
+    },
+    {
+      "title": "[특징주] \"닉스 1명 성과급이 더 많겠네\"…CJ ENM, 실적부진에 약세",
+      "link": "https://www.yna.co.kr/view/AKR20260508078900008",
+      "pubDate": "Fri, 8 May 2026 11:39:20 +0900"
+    },
+    {
+      "title": "코스피 하락, 7400선 안팎에서 등락…코스닥은 혼조",
+      "link": "https://www.yna.co.kr/view/AKR20260508077200008",
+      "pubDate": "Fri, 8 May 2026 11:34:22 +0900"
+    },
+    {
+      "title": "임실군, '마른논 써레질'로 농촌 인력난·기후 위기 잡는다",
+      "link": "https://www.yna.co.kr/view/AKR20260508075700055",
+      "pubDate": "Fri, 8 May 2026 11:23:01 +0900"
+    },
+    {
+      "title": "재경부, '한국 녹색혁신의 날' 개최…세계은행 포함 560명 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260508073200002",
+      "pubDate": "Fri, 8 May 2026 11:20:01 +0900"
+    },
+    {
+      "title": "의료기기 광고에 AI 가짜전문가 못 쓴다",
+      "link": "https://www.yna.co.kr/view/AKR20260508074500017",
+      "pubDate": "Fri, 8 May 2026 11:18:56 +0900"
+    },
+    {
+      "title": "3월 韓 여행수입 역대 최대…BTS 효과에 환율·계절 요인 겹쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260508072700002",
+      "pubDate": "Fri, 8 May 2026 11:17:35 +0900"
+    },
+    {
+      "title": "오산시, 미취업 청년 어학·자격시험 응시료 지원 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260508074100061",
+      "pubDate": "Fri, 8 May 2026 11:16:09 +0900"
+    },
+    {
+      "title": "농식품부, '중동 사태 대응팀' 가동…봄철 농자재 수급 안정",
+      "link": "https://www.yna.co.kr/view/AKR20260508069700030",
+      "pubDate": "Fri, 8 May 2026 11:13:36 +0900"
+    },
+    {
+      "title": "지난달 서울 아파트 경매 낙찰률 48.7%…5개월만 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260508060900003",
+      "pubDate": "Fri, 8 May 2026 11:08:02 +0900"
+    },
+    {
+      "title": "캠코, '정보공개 종합평가' 최우수등급 획득…국무총리 표창도",
+      "link": "https://www.yna.co.kr/view/AKR20260508064800002",
+      "pubDate": "Fri, 8 May 2026 11:06:52 +0900"
+    },
+    {
+      "title": "中, 4월에만 외환보유액 100조원 늘어…대외 충격 대응력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260508069200083",
+      "pubDate": "Fri, 8 May 2026 11:00:32 +0900"
+    },
+    {
+      "title": "[동정] 이병권 중기차관, 강원 영월서 지역상권 활성화 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260508025900030",
+      "pubDate": "Fri, 8 May 2026 11:00:00 +0900"
+    },
+    {
+      "title": "북경한미, 지난해 매출 4천억원 넘어…사상 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260508069600017",
+      "pubDate": "Fri, 8 May 2026 10:58:05 +0900"
+    },
+    {
+      "title": "키움운용, 성장 탄력성 美기업 투자 'AI테크하이베타 ETF' 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260508067500008",
+      "pubDate": "Fri, 8 May 2026 10:53:49 +0900"
+    },
+    {
+      "title": "대신증권, 코스피 목표치 '7,500→8,800'…2개월만에 또 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260508067700008",
+      "pubDate": "Fri, 8 May 2026 10:52:10 +0900"
+    },
+    {
+      "title": "토스뱅크로 국세 환급금 받는다…국고수납대리점 자격 취득",
+      "link": "https://www.yna.co.kr/view/AKR20260508061400002",
+      "pubDate": "Fri, 8 May 2026 10:51:15 +0900"
+    },
+    {
+      "title": "삼성바이오 노사 협상 난항…사측, 노조 간부 고소(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260507110651017",
+      "pubDate": "Fri, 8 May 2026 10:49:43 +0900"
+    },
     {
       "title": "하나금융, 경희대와 업무협약…청년 창업가 육성 지원",
       "link": "https://www.yna.co.kr/view/AKR20260508056000002",
@@ -47,111 +152,6 @@
       "title": "스마트폰 덜 팔렸는데 매출은 뛰었다…글로벌 1분기 8%↑",
       "link": "https://www.yna.co.kr/view/AKR20260508057600017",
       "pubDate": "Fri, 8 May 2026 10:22:42 +0900"
-    },
-    {
-      "title": "[바이오스냅] GC녹십자, 짜먹는 소화제 '백초시럽플러스' 10㎖ 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260508048100017",
-      "pubDate": "Fri, 8 May 2026 10:19:04 +0900"
-    },
-    {
-      "title": "'수업이 경력' 경기 직업계고 19곳, AI 실무교육 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260508056700060",
-      "pubDate": "Fri, 8 May 2026 10:15:59 +0900"
-    },
-    {
-      "title": "\"외지 청년 창업·정착 돕는다\"…경북도, 7명에 2천만원씩 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260508053500053",
-      "pubDate": "Fri, 8 May 2026 10:14:47 +0900"
-    },
-    {
-      "title": "bhc, 베트남 진출 본격화…현지 기업과 마스터프랜차이즈 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260508046800030",
-      "pubDate": "Fri, 8 May 2026 10:14:34 +0900"
-    },
-    {
-      "title": "정읍시, '축산농가 사료구매 자금' 206억원 증액 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260508053400055",
-      "pubDate": "Fri, 8 May 2026 10:07:04 +0900"
-    },
-    {
-      "title": "주택금융공사, 공공기관 최초 디지털채권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260508053700002",
-      "pubDate": "Fri, 8 May 2026 10:03:15 +0900"
-    },
-    {
-      "title": "신한은행, 글로벌 통합자금관리 서비스 출시…웹케시와 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260508052700002",
-      "pubDate": "Fri, 8 May 2026 10:01:54 +0900"
-    },
-    {
-      "title": "시니어 돌봄 로봇 선보인 KB금융 \"서비스 적용 범위 확장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508050700002",
-      "pubDate": "Fri, 8 May 2026 10:01:39 +0900"
-    },
-    {
-      "title": "서울 수송동 대림빌딩 재개발…광화문역·KT빌딩 지하 연결",
-      "link": "https://www.yna.co.kr/view/AKR20260507172100004",
-      "pubDate": "Fri, 8 May 2026 10:00:02 +0900"
-    },
-    {
-      "title": "마스턴운용, 비전 선포식 개최…\"亞 부동산 대체투자 새 기준\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508051200008",
-      "pubDate": "Fri, 8 May 2026 09:54:47 +0900"
-    },
-    {
-      "title": "울주군, \"지방세 미환급금 찾아가세요\"…'1만원 미만' 57%",
-      "link": "https://www.yna.co.kr/view/AKR20260508042800057",
-      "pubDate": "Fri, 8 May 2026 09:50:59 +0900"
-    },
-    {
-      "title": "[게시판] ABL생명, 우리WON어린이보험 업그레이드…암·생활밀착 보장강화",
-      "link": "https://www.yna.co.kr/view/AKR20260508048300002",
-      "pubDate": "Fri, 8 May 2026 09:50:11 +0900"
-    },
-    {
-      "title": "생명보험업계, 전세사기피해 청년 학자금대출 상환에 1억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260508044300002",
-      "pubDate": "Fri, 8 May 2026 09:49:52 +0900"
-    },
-    {
-      "title": "4월 아파트 분양 2만4천여 가구…3년 6개월만 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260508043400003",
-      "pubDate": "Fri, 8 May 2026 09:49:45 +0900"
-    },
-    {
-      "title": "강원도, 양양∼제주 노선 할인 프로모션…왕복 최대 1만원 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260508048000062",
-      "pubDate": "Fri, 8 May 2026 09:49:10 +0900"
-    },
-    {
-      "title": "[게시판] 신한카드-스타벅스, 카드 출시 등 전략적 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260508040000002",
-      "pubDate": "Fri, 8 May 2026 09:47:50 +0900"
-    },
-    {
-      "title": "중동 우회선박 운임 상승분 과세 제외…3월1일 신고분부터",
-      "link": "https://www.yna.co.kr/view/AKR20260508047800002",
-      "pubDate": "Fri, 8 May 2026 09:47:26 +0900"
-    },
-    {
-      "title": "3월 경상흑자 373.3억달러…반도체 등 수출 호조에 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508019851002",
-      "pubDate": "Fri, 8 May 2026 09:45:50 +0900"
-    },
-    {
-      "title": "\"상속인 간 교류 끊겼다면 동의 없어도 차량말소 허용해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508045300001",
-      "pubDate": "Fri, 8 May 2026 09:43:49 +0900"
-    },
-    {
-      "title": "[특징주] 건설주 장 초반 약세…호르무즈 교전에 '중동 재건' 기대↓",
-      "link": "https://www.yna.co.kr/view/AKR20260508045500008",
-      "pubDate": "Fri, 8 May 2026 09:40:19 +0900"
-    },
-    {
-      "title": "'숨고르기' 코스피, 2% 하락 7,320대…코스닥은 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508041000008",
-      "pubDate": "Fri, 8 May 2026 09:35:49 +0900"
     }
   ]
 }
