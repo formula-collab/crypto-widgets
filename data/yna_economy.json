@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778266147,
+  "updated_at_unix": 1778270556,
   "items": [
+    {
+      "title": "국제유가, 호르무즈 긴장에 상승… 브렌트유 1.2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260509005600072",
+      "pubDate": "Sat, 9 May 2026 04:49:14 +0900"
+    },
     {
       "title": "달러-원, 위험 선호 재확산에 오름폭 축소…1,462.30원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260509004100002",
@@ -147,11 +152,6 @@
       "title": "상지건설, 190억원 주주우선공모 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260508127500008",
       "pubDate": "Fri, 8 May 2026 15:54:30 +0900"
-    },
-    {
-      "title": "[특징주] 하이닉스는 또 오르고…삼전은 숨고르기(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508036751008",
-      "pubDate": "Fri, 8 May 2026 15:53:50 +0900"
     }
   ]
 }
