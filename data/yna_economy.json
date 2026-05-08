@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778244649,
+  "updated_at_unix": 1778250559,
   "items": [
+    {
+      "title": "토스증권, MTS에 한국콜마 실적 표기 오류…투자자들 항의",
+      "link": "https://www.yna.co.kr/view/AKR20260508175700008",
+      "pubDate": "Fri, 8 May 2026 23:26:06 +0900"
+    },
     {
       "title": "마닐라 현지 기업 만난 주병기 \"공정 경쟁에 가교역할 하겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260508158800002",
@@ -147,11 +152,6 @@
       "title": "한화운용 '코스피50' ETF 연수익률 261%…\"코스피 추종 ETF 1위\"",
       "link": "https://www.yna.co.kr/view/AKR20260508123000008",
       "pubDate": "Fri, 8 May 2026 15:40:05 +0900"
-    },
-    {
-      "title": "코스피, 상승 전환해 7,500선 턱밑서 마감…또 사상 최고치",
-      "link": "https://www.yna.co.kr/view/AKR20260508124100008",
-      "pubDate": "Fri, 8 May 2026 15:39:37 +0900"
     }
   ]
 }
