@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778270556,
+  "updated_at_unix": 1778275915,
   "items": [
+    {
+      "title": "주유소 기름값 6주 연속 상승…종전 기대감 속 하락 전환할까",
+      "link": "https://www.yna.co.kr/view/AKR20260508159400003",
+      "pubDate": "Sat, 9 May 2026 06:05:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 고덕국제신도시수자인풍경채 등 5천404가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260508139000003",
+      "pubDate": "Sat, 9 May 2026 06:01:01 +0900"
+    },
     {
       "title": "국제유가, 호르무즈 긴장에 상승… 브렌트유 1.2%↑",
       "link": "https://www.yna.co.kr/view/AKR20260509005600072",
@@ -142,16 +152,6 @@
       "title": "환율, 외국인 순매도에 17.7원 오른 1,471.7원",
       "link": "https://www.yna.co.kr/view/AKR20260508127900002",
       "pubDate": "Fri, 8 May 2026 16:07:43 +0900"
-    },
-    {
-      "title": "[특징주] 건설주 하락 마감…호르무즈 교전에 '중동 재건' 기대↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508045551008",
-      "pubDate": "Fri, 8 May 2026 16:06:30 +0900"
-    },
-    {
-      "title": "상지건설, 190억원 주주우선공모 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260508127500008",
-      "pubDate": "Fri, 8 May 2026 15:54:30 +0900"
     }
   ]
 }
