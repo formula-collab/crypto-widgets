@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778234362,
+  "updated_at_unix": 1778238932,
   "items": [
+    {
+      "title": "마닐라 현지 기업 만난 주병기 \"공정 경쟁에 가교역할 하겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508158800002",
+      "pubDate": "Fri, 8 May 2026 19:30:00 +0900"
+    },
     {
       "title": "車 5부제 특약 이달 말 출시…위반 시 할인 제한·할증 가능",
       "link": "https://www.yna.co.kr/view/AKR20260508159300002",
@@ -147,11 +152,6 @@
       "title": "코스피, 상승 전환해 7,500선 턱밑서 마감…또 사상 최고치",
       "link": "https://www.yna.co.kr/view/AKR20260508124100008",
       "pubDate": "Fri, 8 May 2026 15:39:37 +0900"
-    },
-    {
-      "title": "부산은행, 부산 수출입기업에 1천억원 규모 대출",
-      "link": "https://www.yna.co.kr/view/AKR20260508124200051",
-      "pubDate": "Fri, 8 May 2026 15:38:35 +0900"
     }
   ]
 }
