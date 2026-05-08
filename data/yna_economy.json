@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778255883,
+  "updated_at_unix": 1778260386,
   "items": [
+    {
+      "title": "국세청, '탈세 혐의' 하나금융·은행 세무조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260509001300002",
+      "pubDate": "Sat, 9 May 2026 00:57:18 +0900"
+    },
     {
       "title": "EU \"항공권 이미 구입한 승객에 유류할증료 추가 안돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260508176200098",
@@ -147,11 +152,6 @@
       "title": "무주 안성면에 귀농귀촌 마을 조성…내년까지 40가구 규모",
       "link": "https://www.yna.co.kr/view/AKR20260508127100055",
       "pubDate": "Fri, 8 May 2026 15:50:49 +0900"
-    },
-    {
-      "title": "[특징주] 현대차 7% 급등…현대차그룹주 일제히 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508096851008",
-      "pubDate": "Fri, 8 May 2026 15:48:07 +0900"
     }
   ]
 }
