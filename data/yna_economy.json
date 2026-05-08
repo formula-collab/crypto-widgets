@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778280200,
+  "updated_at_unix": 1778283840,
   "items": [
+    {
+      "title": "[바이오사이언스] 국산 신약 43호 시대…개발 속도 빨라졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260508099600017",
+      "pubDate": "Sat, 9 May 2026 08:00:05 +0900"
+    },
+    {
+      "title": "[머니플로우] \"더 가나?\" 투자자예탁금 역대 최대…'하락' 베팅도 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260508144700008",
+      "pubDate": "Sat, 9 May 2026 08:00:05 +0900"
+    },
     {
       "title": "[금주핫템] 코오롱FnC '슈즈라인업'·블랙야크 '에어로프레쉬'",
       "link": "https://www.yna.co.kr/view/AKR20260507155800030",
@@ -142,16 +152,6 @@
       "title": "CJ프레시웨이 1분기 영업익 110억원…작년 동기 대비 3.8% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260508136600030",
       "pubDate": "Fri, 8 May 2026 16:30:49 +0900"
-    },
-    {
-      "title": "아센디오, 10억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260508134400008",
-      "pubDate": "Fri, 8 May 2026 16:24:58 +0900"
-    },
-    {
-      "title": "외인 던지고 개미 받고…코스피 7,500선 턱밑 마감, 또 사상최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508131500008",
-      "pubDate": "Fri, 8 May 2026 16:22:46 +0900"
     }
   ]
 }
