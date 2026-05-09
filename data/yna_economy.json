@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778365878,
+  "updated_at_unix": 1778369721,
   "items": [
+    {
+      "title": "\"학회 갈 돈 없었다\"…국제학회 발표 28% 급감",
+      "link": "https://www.yna.co.kr/view/AKR20260508132600017",
+      "pubDate": "Sun, 10 May 2026 07:33:01 +0900"
+    },
+    {
+      "title": "라벨갈이 신고했는데 포상금 3천만원 대리인에게…행정심판 제기",
+      "link": "https://www.yna.co.kr/view/AKR20260508143200065",
+      "pubDate": "Sun, 10 May 2026 07:27:00 +0900"
+    },
     {
       "title": "[인터뷰] 미래운용 자산배분부문대표 \"AI혁명 초기단계…증시 더 오를것\"",
       "link": "https://www.yna.co.kr/view/AKR20260508171500008",
@@ -142,16 +152,6 @@
       "title": "오늘부터 다주택자 양도세 중과…최고세율 82.5%",
       "link": "https://www.yna.co.kr/view/AKR20260508125000003",
       "pubDate": "Sun, 10 May 2026 05:31:01 +0900"
-    },
-    {
-      "title": "[부고] 이방우(금융감독원 공보실 공보기획팀장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260509043600505",
-      "pubDate": "Sat, 9 May 2026 19:00:04 +0900"
-    },
-    {
-      "title": "세계식량가격지수, 3년여만에 최고치…곡물·유지류·육류 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260509031351030",
-      "pubDate": "Sat, 9 May 2026 15:15:38 +0900"
     }
   ]
 }
