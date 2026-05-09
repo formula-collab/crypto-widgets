@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778302756,
+  "updated_at_unix": 1778310409,
   "items": [
+    {
+      "title": "세계식량가격지수, 3년여만에 최고치…곡물·유지류·육류 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260509031351030",
+      "pubDate": "Sat, 9 May 2026 15:15:38 +0900"
+    },
+    {
+      "title": "세계 식량가격지수 석 달 연속 올라…곡물·유지류·육류 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260509031300030",
+      "pubDate": "Sat, 9 May 2026 14:54:49 +0900"
+    },
     {
       "title": "[부고] 길기완(한국 딜로이트 그룹 총괄대표)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260509029100002",
@@ -142,16 +152,6 @@
       "title": "계양전기, 410억원 주주배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260508148600008",
       "pubDate": "Fri, 8 May 2026 17:15:16 +0900"
-    },
-    {
-      "title": "동원산업 1분기 영업익 1천462억원…작년 동기 대비 17.1% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260508147000030",
-      "pubDate": "Fri, 8 May 2026 17:09:45 +0900"
-    },
-    {
-      "title": "전세사기 피해 청년에 학자금 대출 상환 지원한다",
-      "link": "https://www.yna.co.kr/view/AKR20260508144800530",
-      "pubDate": "Fri, 8 May 2026 17:05:30 +0900"
     }
   ]
 }
