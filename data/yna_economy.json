@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778362349,
+  "updated_at_unix": 1778365878,
   "items": [
+    {
+      "title": "[인터뷰] 미래운용 자산배분부문대표 \"AI혁명 초기단계…증시 더 오를것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508171500008",
+      "pubDate": "Sun, 10 May 2026 07:20:00 +0900"
+    },
+    {
+      "title": "ICT 中企 98.5% \"2024년 채용 안해\"…7년 내 기업 6%만 손익분기",
+      "link": "https://www.yna.co.kr/view/AKR20260508136100030",
+      "pubDate": "Sun, 10 May 2026 07:10:01 +0900"
+    },
+    {
+      "title": "103억원어치 코인 팔아 집 산 30대…연령대 중 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260509047600003",
+      "pubDate": "Sun, 10 May 2026 07:07:01 +0900"
+    },
+    {
+      "title": "'불장'에 손 커진 개미…지난달 1억 이상 주문 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260509000400008",
+      "pubDate": "Sun, 10 May 2026 07:05:00 +0900"
+    },
+    {
+      "title": "\"힘빠진다\" \"더 가져갈까 팔까\"…'불장'에 깊어진 개미들의 고민",
+      "link": "https://www.yna.co.kr/view/AKR20260509025500008",
+      "pubDate": "Sun, 10 May 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] '7천피' 달성 韓증시, 한주만 '8천피' 도전 나서나",
+      "link": "https://www.yna.co.kr/view/AKR20260508177100008",
+      "pubDate": "Sun, 10 May 2026 07:00:07 +0900"
+    },
+    {
+      "title": "[반려동물] 5천원 카시트 '품절 대란'…펫 시장에 '실속형' 바람",
+      "link": "https://www.yna.co.kr/view/AKR20260509024000030",
+      "pubDate": "Sun, 10 May 2026 07:00:02 +0900"
+    },
+    {
+      "title": "\"맘대로 탈퇴 안돼\" 7시간반 대치…대학 동아리서 무슨 일이",
+      "link": "https://www.yna.co.kr/view/AKR20260508154500004",
+      "pubDate": "Sun, 10 May 2026 06:55:00 +0900"
+    },
+    {
+      "title": "[빈집의 재탄생] 쌀·소금 보관하던 곳이 공유공간으로",
+      "link": "https://www.yna.co.kr/view/AKR20260506122400060",
+      "pubDate": "Sun, 10 May 2026 06:45:01 +0900"
+    },
+    {
+      "title": "[실제 만나보니] \"시키는 사람 없다\"…토스에 젊은 인재 몰리는 이유",
+      "link": "https://www.yna.co.kr/view/AKR20260508157900017",
+      "pubDate": "Sun, 10 May 2026 06:35:01 +0900"
+    },
+    {
+      "title": "미국으로 쏠리고 유럽으로 확장…K뷰티 해외 시장 재편",
+      "link": "https://www.yna.co.kr/view/AKR20260509030100030",
+      "pubDate": "Sun, 10 May 2026 06:30:01 +0900"
+    },
     {
       "title": "20대의 테슬라, 기아 제치고 지난달 국내 전기차 첫 1위",
       "link": "https://www.yna.co.kr/view/AKR20260509042700003",
@@ -97,61 +152,6 @@
       "title": "세계식량가격지수, 3년여만에 최고치…곡물·유지류·육류 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260509031351030",
       "pubDate": "Sat, 9 May 2026 15:15:38 +0900"
-    },
-    {
-      "title": "세계 식량가격지수 석 달 연속 올라…곡물·유지류·육류 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260509031300030",
-      "pubDate": "Sat, 9 May 2026 14:54:49 +0900"
-    },
-    {
-      "title": "[부고] 길기완(한국 딜로이트 그룹 총괄대표)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260509029100002",
-      "pubDate": "Sat, 9 May 2026 13:19:36 +0900"
-    },
-    {
-      "title": "전남도, 지역혁신 선도기업 육성사업 국비 71억 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260508134900054",
-      "pubDate": "Sat, 9 May 2026 11:00:01 +0900"
-    },
-    {
-      "title": "울진 택시요금 인상…기본료 4천→4천500원 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260509023800053",
-      "pubDate": "Sat, 9 May 2026 10:53:34 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260509022700011",
-      "pubDate": "Sat, 9 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[부고] 오준일(대원제약 이사)씨 장인상",
-      "link": "https://www.yna.co.kr/view/AKR20260509020800017",
-      "pubDate": "Sat, 9 May 2026 09:44:29 +0900"
-    },
-    {
-      "title": "[다음주 경제] 4월 취업자 얼마나 늘었나…KDI 경제전망도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260509014400002",
-      "pubDate": "Sat, 9 May 2026 09:26:55 +0900"
-    },
-    {
-      "title": "부산 아파트값 강보합세 유지…전셋값은 22개월째 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260508075500051",
-      "pubDate": "Sat, 9 May 2026 09:00:09 +0900"
-    },
-    {
-      "title": "생산 감소에 고유가·판매 부진까지…창원 미더덕 어민 '삼중고'",
-      "link": "https://www.yna.co.kr/view/AKR20260508105700052",
-      "pubDate": "Sat, 9 May 2026 08:45:00 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 국산 신약 43호 시대…개발 속도 빨라졌다",
-      "link": "https://www.yna.co.kr/view/AKR20260508099600017",
-      "pubDate": "Sat, 9 May 2026 08:00:05 +0900"
-    },
-    {
-      "title": "[머니플로우] \"더 가나?\" 투자자예탁금 역대 최대…'하락' 베팅도 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260508144700008",
-      "pubDate": "Sat, 9 May 2026 08:00:05 +0900"
     }
   ]
 }
