@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778358775,
+  "updated_at_unix": 1778362349,
   "items": [
+    {
+      "title": "20대의 테슬라, 기아 제치고 지난달 국내 전기차 첫 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260509042700003",
+      "pubDate": "Sun, 10 May 2026 06:15:00 +0900"
+    },
+    {
+      "title": "도급대금 안줘 임금체불·고공농성…노동부, 부영주택 시정지시",
+      "link": "https://www.yna.co.kr/view/AKR20260508142700530",
+      "pubDate": "Sun, 10 May 2026 06:08:00 +0900"
+    },
+    {
+      "title": "노동부, 가족돌봄휴가 적용대상 가족 외로 확대 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260508156000530",
+      "pubDate": "Sun, 10 May 2026 06:07:01 +0900"
+    },
+    {
+      "title": "[르포] \"10만원 써도 카트가 썰렁\"…가격표 앞에서 주저하는 소비자들",
+      "link": "https://www.yna.co.kr/view/AKR20260509025000030",
+      "pubDate": "Sun, 10 May 2026 06:01:04 +0900"
+    },
+    {
+      "title": "고유가에 저비용항공사 운항 900편 감축…무급휴직 속출",
+      "link": "https://www.yna.co.kr/view/AKR20260509037700003",
+      "pubDate": "Sun, 10 May 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[르포] \"직원들 떠나고 손님은 김밥 한 줄만\"…중동발 고물가에 '휘청'",
+      "link": "https://www.yna.co.kr/view/AKR20260509041900030",
+      "pubDate": "Sun, 10 May 2026 06:01:00 +0900"
+    },
+    {
+      "title": "고유가 지원금 2차 지급기준 내일 공개…건보료로 하위 70% 선별",
+      "link": "https://www.yna.co.kr/view/AKR20260508168500530",
+      "pubDate": "Sun, 10 May 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"서울 부동산 해법이 곧 표심\"…정원오 vs 오세훈 후보 격돌",
+      "link": "https://www.yna.co.kr/view/AKR20260509038700004",
+      "pubDate": "Sun, 10 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "가상자산 거래소 직원 4년 만에 2배로…시장은 점차 포화",
+      "link": "https://www.yna.co.kr/view/AKR20260508163800002",
+      "pubDate": "Sun, 10 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "공정위, 대한항공 이행강제금 94% 감경…시행령 넘은 의결 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260509044100002",
+      "pubDate": "Sun, 10 May 2026 05:53:05 +0900"
+    },
+    {
+      "title": "불장 놓칠라 마통 쓰는 개미들…5대銀 잔액 3년4개월 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260509040500002",
+      "pubDate": "Sun, 10 May 2026 05:51:01 +0900"
+    },
+    {
+      "title": "5대 은행장 \"금융 역할 재정립 공감…건전성 챙겨야 지속 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260509037800002",
+      "pubDate": "Sun, 10 May 2026 05:49:01 +0900"
+    },
+    {
+      "title": "여신업계 사잇돌대출 하반기 나올 듯…중금리대출엔 속내 복잡",
+      "link": "https://www.yna.co.kr/view/AKR20260509031700002",
+      "pubDate": "Sun, 10 May 2026 05:47:01 +0900"
+    },
+    {
+      "title": "외연 넓힌 포용금융추진단 이달 출범…금융 공공성 공론화 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260509044700002",
+      "pubDate": "Sun, 10 May 2026 05:47:00 +0900"
+    },
+    {
+      "title": "석유최고가격 '방파제'로 글로벌 물가 격랑 피할까",
+      "link": "https://www.yna.co.kr/view/AKR20260509038000002",
+      "pubDate": "Sun, 10 May 2026 05:45:03 +0900"
+    },
+    {
+      "title": "OECD 에너지물가 상승률 한달새 8.6%p↑…글로벌 인플레 재점화",
+      "link": "https://www.yna.co.kr/view/AKR20260509033700002",
+      "pubDate": "Sun, 10 May 2026 05:45:01 +0900"
+    },
+    {
+      "title": "오늘부터 다주택자 양도세 중과…최고세율 82.5%",
+      "link": "https://www.yna.co.kr/view/AKR20260508125000003",
+      "pubDate": "Sun, 10 May 2026 05:31:01 +0900"
+    },
     {
       "title": "[부고] 이방우(금융감독원 공보실 공보기획팀장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260509043600505",
@@ -67,91 +152,6 @@
       "title": "[머니플로우] \"더 가나?\" 투자자예탁금 역대 최대…'하락' 베팅도 증가",
       "link": "https://www.yna.co.kr/view/AKR20260508144700008",
       "pubDate": "Sat, 9 May 2026 08:00:05 +0900"
-    },
-    {
-      "title": "[금주핫템] 코오롱FnC '슈즈라인업'·블랙야크 '에어로프레쉬'",
-      "link": "https://www.yna.co.kr/view/AKR20260507155800030",
-      "pubDate": "Sat, 9 May 2026 07:00:05 +0900"
-    },
-    {
-      "title": "[신상잇슈] 매일유업 엠즈씨드 폴바셋 한정판 머그컵·하림 치킨왕라면",
-      "link": "https://www.yna.co.kr/view/AKR20260508068000030",
-      "pubDate": "Sat, 9 May 2026 07:00:03 +0900"
-    },
-    {
-      "title": "주유소 기름값 6주 연속 상승…종전 기대감 속 하락 전환할까",
-      "link": "https://www.yna.co.kr/view/AKR20260508159400003",
-      "pubDate": "Sat, 9 May 2026 06:05:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 고덕국제신도시수자인풍경채 등 5천404가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260508139000003",
-      "pubDate": "Sat, 9 May 2026 06:01:01 +0900"
-    },
-    {
-      "title": "국제유가, 호르무즈 긴장에 상승… 브렌트유 1.2%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260509005600072",
-      "pubDate": "Sat, 9 May 2026 04:49:14 +0900"
-    },
-    {
-      "title": "달러-원, 위험 선호 재확산에 오름폭 축소…1,462.30원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260509004100002",
-      "pubDate": "Sat, 9 May 2026 03:29:59 +0900"
-    },
-    {
-      "title": "국세청, '탈세 혐의' 하나금융·은행 세무조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260509001300002",
-      "pubDate": "Sat, 9 May 2026 00:57:18 +0900"
-    },
-    {
-      "title": "EU \"항공권 이미 구입한 승객에 유류할증료 추가 안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508176200098",
-      "pubDate": "Fri, 8 May 2026 23:34:58 +0900"
-    },
-    {
-      "title": "김용범 \"반도체 호황에 역대급 세수 예고…재정정책 유연해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508175800001",
-      "pubDate": "Fri, 8 May 2026 23:30:38 +0900"
-    },
-    {
-      "title": "토스증권, MTS에 한국콜마 실적 표기 오류…투자자들 항의",
-      "link": "https://www.yna.co.kr/view/AKR20260508175700008",
-      "pubDate": "Fri, 8 May 2026 23:26:06 +0900"
-    },
-    {
-      "title": "마닐라 현지 기업 만난 주병기 \"공정 경쟁에 가교역할 하겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508158800002",
-      "pubDate": "Fri, 8 May 2026 19:30:00 +0900"
-    },
-    {
-      "title": "車 5부제 특약 이달 말 출시…위반 시 할인 제한·할증 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260508159300002",
-      "pubDate": "Fri, 8 May 2026 18:30:33 +0900"
-    },
-    {
-      "title": "삼성바이오 노사 논의 이어가기로…사측은 노조 간부 고소(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260507110652017",
-      "pubDate": "Fri, 8 May 2026 18:17:39 +0900"
-    },
-    {
-      "title": "푸드나무, 10억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260508157700008",
-      "pubDate": "Fri, 8 May 2026 18:06:17 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260508149900011",
-      "pubDate": "Fri, 8 May 2026 18:00:01 +0900"
-    },
-    {
-      "title": "식약처, '유리조각 검출' 타이거모닝 이뮨샷 일부 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260508153900017",
-      "pubDate": "Fri, 8 May 2026 17:41:01 +0900"
-    },
-    {
-      "title": "AI·반도체기술주, 코스닥 바이오 등 ETF 8종 12일 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260508149700008",
-      "pubDate": "Fri, 8 May 2026 17:22:07 +0900"
     }
   ]
 }
