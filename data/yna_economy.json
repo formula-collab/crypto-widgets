@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778291315,
+  "updated_at_unix": 1778302756,
   "items": [
+    {
+      "title": "[부고] 길기완(한국 딜로이트 그룹 총괄대표)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260509029100002",
+      "pubDate": "Sat, 9 May 2026 13:19:36 +0900"
+    },
+    {
+      "title": "전남도, 지역혁신 선도기업 육성사업 국비 71억 확보",
+      "link": "https://www.yna.co.kr/view/AKR20260508134900054",
+      "pubDate": "Sat, 9 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "울진 택시요금 인상…기본료 4천→4천500원 조정",
+      "link": "https://www.yna.co.kr/view/AKR20260509023800053",
+      "pubDate": "Sat, 9 May 2026 10:53:34 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260509022700011",
@@ -137,21 +152,6 @@
       "title": "전세사기 피해 청년에 학자금 대출 상환 지원한다",
       "link": "https://www.yna.co.kr/view/AKR20260508144800530",
       "pubDate": "Fri, 8 May 2026 17:05:30 +0900"
-    },
-    {
-      "title": "올해 상반기 농업 외국인력 10만4천명 배정…역대 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260508145600030",
-      "pubDate": "Fri, 8 May 2026 17:03:34 +0900"
-    },
-    {
-      "title": "농식품부, 에너지 대전환 TF 가동…에너지 자립·소득 증대 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260508142300030",
-      "pubDate": "Fri, 8 May 2026 17:00:00 +0900"
-    },
-    {
-      "title": "닌텐도도 결국 올렸다…스위치 가격 최대 5만원 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260508144200017",
-      "pubDate": "Fri, 8 May 2026 16:57:05 +0900"
     }
   ]
 }
