@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778283840,
+  "updated_at_unix": 1778291315,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260509022700011",
+      "pubDate": "Sat, 9 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[부고] 오준일(대원제약 이사)씨 장인상",
+      "link": "https://www.yna.co.kr/view/AKR20260509020800017",
+      "pubDate": "Sat, 9 May 2026 09:44:29 +0900"
+    },
+    {
+      "title": "[다음주 경제] 4월 취업자 얼마나 늘었나…KDI 경제전망도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260509014400002",
+      "pubDate": "Sat, 9 May 2026 09:26:55 +0900"
+    },
+    {
+      "title": "부산 아파트값 강보합세 유지…전셋값은 22개월째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260508075500051",
+      "pubDate": "Sat, 9 May 2026 09:00:09 +0900"
+    },
+    {
+      "title": "생산 감소에 고유가·판매 부진까지…창원 미더덕 어민 '삼중고'",
+      "link": "https://www.yna.co.kr/view/AKR20260508105700052",
+      "pubDate": "Sat, 9 May 2026 08:45:00 +0900"
+    },
     {
       "title": "[바이오사이언스] 국산 신약 43호 시대…개발 속도 빨라졌다",
       "link": "https://www.yna.co.kr/view/AKR20260508099600017",
@@ -127,31 +152,6 @@
       "title": "닌텐도도 결국 올렸다…스위치 가격 최대 5만원 인상",
       "link": "https://www.yna.co.kr/view/AKR20260508144200017",
       "pubDate": "Fri, 8 May 2026 16:57:05 +0900"
-    },
-    {
-      "title": "스피어 \"종속회사 주식 247억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260508143300008",
-      "pubDate": "Fri, 8 May 2026 16:56:19 +0900"
-    },
-    {
-      "title": "美·이란 충돌에 국고채 금리 일제히↑…3년물 연 3.569%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260508140751008",
-      "pubDate": "Fri, 8 May 2026 16:55:06 +0900"
-    },
-    {
-      "title": "해외건설 중소·중견기업 대상 분쟁 대응 컨설팅 지원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260508137000003",
-      "pubDate": "Fri, 8 May 2026 16:45:03 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.569%",
-      "link": "https://www.yna.co.kr/view/AKR20260508140700008",
-      "pubDate": "Fri, 8 May 2026 16:41:21 +0900"
-    },
-    {
-      "title": "CJ프레시웨이 1분기 영업익 110억원…작년 동기 대비 3.8% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260508136600030",
-      "pubDate": "Fri, 8 May 2026 16:30:49 +0900"
     }
   ]
 }
