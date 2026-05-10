@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778404795,
+  "updated_at_unix": 1778409726,
   "items": [
+    {
+      "title": "\"맘대로 탈퇴 안돼\" 7시간반 대치…대학 동아리서 무슨 일이(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260508154551004",
+      "pubDate": "Sun, 10 May 2026 18:42:44 +0900"
+    },
+    {
+      "title": "김정관 \"대미투자 기본원칙은 상업적 합리성…미국도 인지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510042900003",
+      "pubDate": "Sun, 10 May 2026 18:37:32 +0900"
+    },
     {
       "title": "사우디 아람코, 1분기 순익 26%↑…\"전쟁에 유가상승 등 영향\"",
       "link": "https://www.yna.co.kr/view/AKR20260510039200009",
@@ -142,16 +152,6 @@
       "title": "김정관-러트닉, 대미 투자 프로젝트 논의…'마스가'도 시동",
       "link": "https://www.yna.co.kr/view/AKR20260510018800003",
       "pubDate": "Sun, 10 May 2026 11:14:07 +0900"
-    },
-    {
-      "title": "현대硏 \"환율 10% 오르면 물가 최대 0.5%p↑…취약층 부담확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260509039000002",
-      "pubDate": "Sun, 10 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260510014800011",
-      "pubDate": "Sun, 10 May 2026 10:30:01 +0900"
     }
   ]
 }
