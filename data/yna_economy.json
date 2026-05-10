@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778441850,
+  "updated_at_unix": 1778445350,
   "items": [
+    {
+      "title": "고유가 지원금 2차 지급기준 오늘 공개…소득 하위 70% 선별",
+      "link": "https://www.yna.co.kr/view/AKR20260510024800530",
+      "pubDate": "Mon, 11 May 2026 05:31:01 +0900"
+    },
     {
       "title": "더 커진 중동 리스크…한국 산업 전반에 피해 '눈덩이'",
       "link": "https://www.yna.co.kr/view/AKR20260510050700003",
@@ -147,11 +152,6 @@
       "title": "쿠팡, 환경산업기술원과 '정부 인증 녹색제품' 연중 기획전 개최",
       "link": "https://www.yna.co.kr/view/AKR20260510021500030",
       "pubDate": "Sun, 10 May 2026 11:57:30 +0900"
-    },
-    {
-      "title": "옛 금천경찰서 터에 '시립도서관+공공주택' 건립…2029년 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260510019300004",
-      "pubDate": "Sun, 10 May 2026 11:22:38 +0900"
     }
   ]
 }
