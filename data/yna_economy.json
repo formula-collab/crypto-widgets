@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778449012,
+  "updated_at_unix": 1778452481,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260511010100011",
+      "pubDate": "Mon, 11 May 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[현장in] 계속되는 중고차의 골목 무단점령…중동전 수출차질 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260508136700065",
+      "pubDate": "Mon, 11 May 2026 07:17:00 +0900"
+    },
+    {
+      "title": "[머니톡스] 격동의 하이닉스②…황제주로 탈바꿈한 '개미 무덤'",
+      "link": "https://www.yna.co.kr/view/AKR20260508089300546",
+      "pubDate": "Mon, 11 May 2026 07:07:08 +0900"
+    },
+    {
+      "title": "[머니톡스] 격동의 하이닉스①…부실기업, 초일류기업으로 거듭나다",
+      "link": "https://www.yna.co.kr/view/AKR20260507161400546",
+      "pubDate": "Mon, 11 May 2026 07:07:07 +0900"
+    },
+    {
+      "title": "李대통령 \"세입자있는 1주택자 매도기회…갭투자허용 주장 억까\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511007600001",
+      "pubDate": "Mon, 11 May 2026 06:52:03 +0900"
+    },
     {
       "title": "울산시, 지방세 미환급금 정리…2만3천건·7억4천만원 대상",
       "link": "https://www.yna.co.kr/view/AKR20260510049600057",
@@ -127,31 +152,6 @@
       "title": "K-푸드 열풍 특허건수↑…건강기능식품 외 제빵·K-소스 급성장",
       "link": "https://www.yna.co.kr/view/AKR20260508108800063",
       "pubDate": "Sun, 10 May 2026 12:00:13 +0900"
-    },
-    {
-      "title": "중기중앙회, 식품업 스마트공장 구축 지원…업체당 최대 2억원",
-      "link": "https://www.yna.co.kr/view/AKR20260509022900030",
-      "pubDate": "Sun, 10 May 2026 12:00:11 +0900"
-    },
-    {
-      "title": "중기중앙회, '제38회 중소기업 주간' 맞아 전국서 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260509024600030",
-      "pubDate": "Sun, 10 May 2026 12:00:10 +0900"
-    },
-    {
-      "title": "중진공, 해외 바이어 확보 中企 수출계약 무료 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260509025700030",
-      "pubDate": "Sun, 10 May 2026 12:00:09 +0900"
-    },
-    {
-      "title": "\"노인일자리 새 모델 찾는다\"…신규 노인일자리 아이템 공모전",
-      "link": "https://www.yna.co.kr/view/AKR20260509028700530",
-      "pubDate": "Sun, 10 May 2026 12:00:07 +0900"
-    },
-    {
-      "title": "\"스테이블코인, 은행 수익구조 타격…예금 유출·수수료 수익↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260509043700002",
-      "pubDate": "Sun, 10 May 2026 12:00:05 +0900"
     }
   ]
 }
