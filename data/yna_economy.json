@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778452481,
+  "updated_at_unix": 1778456353,
   "items": [
+    {
+      "title": "KB證 \"'호실적' 한국콜마, 성장성 대비 주가 저평가…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511019800008",
+      "pubDate": "Mon, 11 May 2026 08:23:40 +0900"
+    },
+    {
+      "title": "NH투자 \"YG엔터 1분기 실적 컨센서스 부합…하반기 모멘텀 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511019300008",
+      "pubDate": "Mon, 11 May 2026 08:21:57 +0900"
+    },
+    {
+      "title": "한투증권 \"고물가 우려 잠시 내려놓고 반도체 계속 붙잡아야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511018700008",
+      "pubDate": "Mon, 11 May 2026 08:13:26 +0900"
+    },
+    {
+      "title": "IBK투자, 코오롱인더 목표주가 11% 상향조정…\"실적개선 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511018100008",
+      "pubDate": "Mon, 11 May 2026 08:10:22 +0900"
+    },
+    {
+      "title": "[마켓뷰] '7천피' 기록한 코스피, '8천피' 갈까 차익실현 매물 쏟아질까",
+      "link": "https://www.yna.co.kr/view/AKR20260511015700008",
+      "pubDate": "Mon, 11 May 2026 08:02:50 +0900"
+    },
+    {
+      "title": "도시·건축 현안과 미래 방향은…'저탄소 목조 도시건축 포럼'",
+      "link": "https://www.yna.co.kr/view/AKR20260510020000005",
+      "pubDate": "Mon, 11 May 2026 08:00:02 +0900"
+    },
+    {
+      "title": "[부산소식] 제7회 부산과학기술혁신상 수상 기업 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260511015100051",
+      "pubDate": "Mon, 11 May 2026 07:52:53 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260511010100011",
@@ -117,41 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260510029900011",
       "pubDate": "Sun, 10 May 2026 15:00:00 +0900"
-    },
-    {
-      "title": "공정·금융위 '정책자금으로 고리대출' 명륜진사갈비 동시 압박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260510020651002",
-      "pubDate": "Sun, 10 May 2026 14:41:07 +0900"
-    },
-    {
-      "title": "국토장관 \"금융·세제·공급 재설계해 부동산 불로소득 대전환\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260510021851003",
-      "pubDate": "Sun, 10 May 2026 14:15:42 +0900"
-    },
-    {
-      "title": "정부 \"중동 불확실성 여전…어려운 기업 적극 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510025700002",
-      "pubDate": "Sun, 10 May 2026 13:53:09 +0900"
-    },
-    {
-      "title": "코트라, 중국 선전서 한중 이차전지 수출상담회",
-      "link": "https://www.yna.co.kr/view/AKR20260510025200003",
-      "pubDate": "Sun, 10 May 2026 13:47:26 +0900"
-    },
-    {
-      "title": "페리카나, '불륜 소재' AI 광고 논란에 사과…게시물 삭제",
-      "link": "https://www.yna.co.kr/view/AKR20260510023700030",
-      "pubDate": "Sun, 10 May 2026 12:35:15 +0900"
-    },
-    {
-      "title": "국토장관 \"양도세 중과, 집값 변수 중 하나…지속적 공급 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510021800003",
-      "pubDate": "Sun, 10 May 2026 12:02:06 +0900"
-    },
-    {
-      "title": "K-푸드 열풍 특허건수↑…건강기능식품 외 제빵·K-소스 급성장",
-      "link": "https://www.yna.co.kr/view/AKR20260508108800063",
-      "pubDate": "Sun, 10 May 2026 12:00:13 +0900"
     }
   ]
 }
