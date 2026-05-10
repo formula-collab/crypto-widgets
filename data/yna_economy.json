@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778413191,
+  "updated_at_unix": 1778417467,
   "items": [
+    {
+      "title": "더 커진 중동 리스크…한국 산업 전반에 피해 '눈덩이'",
+      "link": "https://www.yna.co.kr/view/AKR20260510050700003",
+      "pubDate": "Sun, 10 May 2026 21:01:05 +0900"
+    },
     {
       "title": "\"맘대로 탈퇴 안돼\" 7시간반 대치…대학 동아리서 무슨 일이(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260508154551004",
@@ -147,11 +152,6 @@
       "title": "옛 금천경찰서 터에 '시립도서관+공공주택' 건립…2029년 완공",
       "link": "https://www.yna.co.kr/view/AKR20260510019300004",
       "pubDate": "Sun, 10 May 2026 11:22:38 +0900"
-    },
-    {
-      "title": "김정관-러트닉, 대미 투자 프로젝트 논의…'마스가'도 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260510018800003",
-      "pubDate": "Sun, 10 May 2026 11:14:07 +0900"
     }
   ]
 }
