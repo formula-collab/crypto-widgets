@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778398668,
+  "updated_at_unix": 1778404795,
   "items": [
+    {
+      "title": "사우디 아람코, 1분기 순익 26%↑…\"전쟁에 유가상승 등 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510039200009",
+      "pubDate": "Sun, 10 May 2026 17:54:15 +0900"
+    },
+    {
+      "title": "나랏돈으로 18% 이자장사 막는다…명륜당 재발 땐 정책자금 중단(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260509050251002",
+      "pubDate": "Sun, 10 May 2026 17:00:51 +0900"
+    },
+    {
+      "title": "與 \"국힘, 집값 천정부지 치솟길 바라나…집값은 안정돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510035500001",
+      "pubDate": "Sun, 10 May 2026 16:56:28 +0900"
+    },
     {
       "title": "880만원 내고 매칭된 소개남, 카톡 프로필엔 '웨딩 D+108'",
       "link": "https://www.yna.co.kr/view/AKR20260510028700004",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260510014800011",
       "pubDate": "Sun, 10 May 2026 10:30:01 +0900"
-    },
-    {
-      "title": "뉴발란스, 여의도 한강공원에 러닝 체험 공간…대여 서비스 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260510015400030",
-      "pubDate": "Sun, 10 May 2026 10:27:38 +0900"
-    },
-    {
-      "title": "국가유산청장 \"종묘 앞 개발, 영향평가 없이 강행 시 추가 조치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510011400005",
-      "pubDate": "Sun, 10 May 2026 10:00:01 +0900"
-    },
-    {
-      "title": "스타벅스, '악마는 프라다를 입는다2' 음료…영화 레시피 구현",
-      "link": "https://www.yna.co.kr/view/AKR20260510013100030",
-      "pubDate": "Sun, 10 May 2026 09:59:07 +0900"
     }
   ]
 }
