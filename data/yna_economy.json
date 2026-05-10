@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778369721,
+  "updated_at_unix": 1778377751,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260510014800011",
+      "pubDate": "Sun, 10 May 2026 10:30:01 +0900"
+    },
+    {
+      "title": "뉴발란스, 여의도 한강공원에 러닝 체험 공간…대여 서비스 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260510015400030",
+      "pubDate": "Sun, 10 May 2026 10:27:38 +0900"
+    },
+    {
+      "title": "국가유산청장 \"종묘 앞 개발, 영향평가 없이 강행 시 추가 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510011400005",
+      "pubDate": "Sun, 10 May 2026 10:00:01 +0900"
+    },
+    {
+      "title": "스타벅스, '악마는 프라다를 입는다2' 음료…영화 레시피 구현",
+      "link": "https://www.yna.co.kr/view/AKR20260510013100030",
+      "pubDate": "Sun, 10 May 2026 09:59:07 +0900"
+    },
+    {
+      "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
+      "link": "https://www.yna.co.kr/view/AKR20260510012300030",
+      "pubDate": "Sun, 10 May 2026 09:31:50 +0900"
+    },
+    {
+      "title": "양도세 중과 피하려 막판 거래…\"주말에도 허가 신청 이어져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510009900003",
+      "pubDate": "Sun, 10 May 2026 09:17:35 +0900"
+    },
+    {
+      "title": "배민, 외식업주 자녀 310명에 장학금 17억5천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260510011000030",
+      "pubDate": "Sun, 10 May 2026 09:16:22 +0900"
+    },
+    {
+      "title": "충북도, 중소기업협동조합 활성화 팔 걷어…경쟁력 강화 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260508146400064",
+      "pubDate": "Sun, 10 May 2026 09:00:11 +0900"
+    },
+    {
+      "title": "기업 맞춤형 집중교육으로 직업계고 인재 3천명 육성한다",
+      "link": "https://www.yna.co.kr/view/AKR20260508138700530",
+      "pubDate": "Sun, 10 May 2026 09:00:07 +0900"
+    },
+    {
+      "title": "법원 \"다단계 투자 수익은 이자소득…종합소득세 내야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260509027700004",
+      "pubDate": "Sun, 10 May 2026 09:00:07 +0900"
+    },
+    {
+      "title": "자동화로 일군 '크루아상 24겹'…삼양사 '냉동생지' 전초기지",
+      "link": "https://www.yna.co.kr/view/AKR20260509019700030",
+      "pubDate": "Sun, 10 May 2026 09:00:03 +0900"
+    },
+    {
+      "title": "KB국민은행 \"사업자대출 5% 초과 이자는 자동 원금 상환\"",
+      "link": "https://www.yna.co.kr/view/AKR20260509040900002",
+      "pubDate": "Sun, 10 May 2026 09:00:02 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장, 북중미 투자설명회 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260509041300002",
+      "pubDate": "Sun, 10 May 2026 09:00:01 +0900"
+    },
+    {
+      "title": "부산시, 고환율·고유가 대응…중소기업 금융 지원 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260510010200051",
+      "pubDate": "Sun, 10 May 2026 08:57:08 +0900"
+    },
+    {
+      "title": "CU \"즉석 떡볶이 출시 한 달 만에 3만개 판매\"",
+      "link": "https://www.yna.co.kr/view/AKR20260510009700030",
+      "pubDate": "Sun, 10 May 2026 08:49:00 +0900"
+    },
+    {
+      "title": "인천시, 취약계층 22만명에 고유가 피해지원금 5만원 추가지급",
+      "link": "https://www.yna.co.kr/view/AKR20260510009200065",
+      "pubDate": "Sun, 10 May 2026 08:42:44 +0900"
+    },
+    {
+      "title": "인천시, 도시·주거환경정비사업에 지역업체 인센티브 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260510006600065",
+      "pubDate": "Sun, 10 May 2026 08:31:00 +0900"
+    },
     {
       "title": "\"학회 갈 돈 없었다\"…국제학회 발표 28% 급감",
       "link": "https://www.yna.co.kr/view/AKR20260508132600017",
@@ -67,91 +152,6 @@
       "title": "미국으로 쏠리고 유럽으로 확장…K뷰티 해외 시장 재편",
       "link": "https://www.yna.co.kr/view/AKR20260509030100030",
       "pubDate": "Sun, 10 May 2026 06:30:01 +0900"
-    },
-    {
-      "title": "20대의 테슬라, 기아 제치고 지난달 국내 전기차 첫 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260509042700003",
-      "pubDate": "Sun, 10 May 2026 06:15:00 +0900"
-    },
-    {
-      "title": "도급대금 안줘 임금체불·고공농성…노동부, 부영주택 시정지시",
-      "link": "https://www.yna.co.kr/view/AKR20260508142700530",
-      "pubDate": "Sun, 10 May 2026 06:08:00 +0900"
-    },
-    {
-      "title": "노동부, 가족돌봄휴가 적용대상 가족 외로 확대 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260508156000530",
-      "pubDate": "Sun, 10 May 2026 06:07:01 +0900"
-    },
-    {
-      "title": "[르포] \"10만원 써도 카트가 썰렁\"…가격표 앞에서 주저하는 소비자들",
-      "link": "https://www.yna.co.kr/view/AKR20260509025000030",
-      "pubDate": "Sun, 10 May 2026 06:01:04 +0900"
-    },
-    {
-      "title": "고유가에 저비용항공사 운항 900편 감축…무급휴직 속출",
-      "link": "https://www.yna.co.kr/view/AKR20260509037700003",
-      "pubDate": "Sun, 10 May 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[르포] \"직원들 떠나고 손님은 김밥 한 줄만\"…중동발 고물가에 '휘청'",
-      "link": "https://www.yna.co.kr/view/AKR20260509041900030",
-      "pubDate": "Sun, 10 May 2026 06:01:00 +0900"
-    },
-    {
-      "title": "고유가 지원금 2차 지급기준 내일 공개…건보료로 하위 70% 선별",
-      "link": "https://www.yna.co.kr/view/AKR20260508168500530",
-      "pubDate": "Sun, 10 May 2026 06:00:05 +0900"
-    },
-    {
-      "title": "\"서울 부동산 해법이 곧 표심\"…정원오 vs 오세훈 후보 격돌",
-      "link": "https://www.yna.co.kr/view/AKR20260509038700004",
-      "pubDate": "Sun, 10 May 2026 06:00:02 +0900"
-    },
-    {
-      "title": "가상자산 거래소 직원 4년 만에 2배로…시장은 점차 포화",
-      "link": "https://www.yna.co.kr/view/AKR20260508163800002",
-      "pubDate": "Sun, 10 May 2026 05:55:00 +0900"
-    },
-    {
-      "title": "공정위, 대한항공 이행강제금 94% 감경…시행령 넘은 의결 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260509044100002",
-      "pubDate": "Sun, 10 May 2026 05:53:05 +0900"
-    },
-    {
-      "title": "불장 놓칠라 마통 쓰는 개미들…5대銀 잔액 3년4개월 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260509040500002",
-      "pubDate": "Sun, 10 May 2026 05:51:01 +0900"
-    },
-    {
-      "title": "5대 은행장 \"금융 역할 재정립 공감…건전성 챙겨야 지속 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260509037800002",
-      "pubDate": "Sun, 10 May 2026 05:49:01 +0900"
-    },
-    {
-      "title": "여신업계 사잇돌대출 하반기 나올 듯…중금리대출엔 속내 복잡",
-      "link": "https://www.yna.co.kr/view/AKR20260509031700002",
-      "pubDate": "Sun, 10 May 2026 05:47:01 +0900"
-    },
-    {
-      "title": "외연 넓힌 포용금융추진단 이달 출범…금융 공공성 공론화 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260509044700002",
-      "pubDate": "Sun, 10 May 2026 05:47:00 +0900"
-    },
-    {
-      "title": "석유최고가격 '방파제'로 글로벌 물가 격랑 피할까",
-      "link": "https://www.yna.co.kr/view/AKR20260509038000002",
-      "pubDate": "Sun, 10 May 2026 05:45:03 +0900"
-    },
-    {
-      "title": "OECD 에너지물가 상승률 한달새 8.6%p↑…글로벌 인플레 재점화",
-      "link": "https://www.yna.co.kr/view/AKR20260509033700002",
-      "pubDate": "Sun, 10 May 2026 05:45:01 +0900"
-    },
-    {
-      "title": "오늘부터 다주택자 양도세 중과…최고세율 82.5%",
-      "link": "https://www.yna.co.kr/view/AKR20260508125000003",
-      "pubDate": "Sun, 10 May 2026 05:31:01 +0900"
     }
   ]
 }
