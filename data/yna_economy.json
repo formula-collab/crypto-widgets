@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778445350,
+  "updated_at_unix": 1778449012,
   "items": [
+    {
+      "title": "울산시, 지방세 미환급금 정리…2만3천건·7억4천만원 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260510049600057",
+      "pubDate": "Mon, 11 May 2026 06:07:00 +0900"
+    },
+    {
+      "title": "중기부, 'AI+오픈데이터 챌린지'…공공데이터 활용 솔루션 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260509021000030",
+      "pubDate": "Mon, 11 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시, 경단녀 1천800명에 구직지원금…AI 교육·인턴십 연계",
+      "link": "https://www.yna.co.kr/view/AKR20260510032700004",
+      "pubDate": "Mon, 11 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 한경협, 19일 '고용유연성 제고방향' 세미나 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260510043100003",
+      "pubDate": "Mon, 11 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "심상찮은 아파트 전세가…올들어 매매가격 오름폭 크게 추월",
+      "link": "https://www.yna.co.kr/view/AKR20260510042000003",
+      "pubDate": "Mon, 11 May 2026 05:55:02 +0900"
+    },
+    {
+      "title": "은행권, 하반기 금리인상 전망…\"현금 확보·분산투자\" 조언",
+      "link": "https://www.yna.co.kr/view/AKR20260510044700002",
+      "pubDate": "Mon, 11 May 2026 05:55:01 +0900"
+    },
+    {
+      "title": "8천피 넘보는 韓증시…중복상장 규제 꺼낸 당국, 체질 개선 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260510023000002",
+      "pubDate": "Mon, 11 May 2026 05:53:01 +0900"
+    },
+    {
+      "title": "총량 관리에 가계대출 '빗장'…5대 은행 1분기 '마이너스'",
+      "link": "https://www.yna.co.kr/view/AKR20260509046600002",
+      "pubDate": "Mon, 11 May 2026 05:51:01 +0900"
+    },
+    {
+      "title": "[샷!] \"오늘 아파트 야시장 제발 알려주세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508118700011",
+      "pubDate": "Mon, 11 May 2026 05:50:00 +0900"
+    },
     {
       "title": "고유가 지원금 2차 지급기준 오늘 공개…소득 하위 70% 선별",
       "link": "https://www.yna.co.kr/view/AKR20260510024800530",
@@ -107,51 +152,6 @@
       "title": "\"스테이블코인, 은행 수익구조 타격…예금 유출·수수료 수익↓\"",
       "link": "https://www.yna.co.kr/view/AKR20260509043700002",
       "pubDate": "Sun, 10 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "공정위, 하도급 계약서 늦게 준 두산에 과징금 2억3천만원 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260509045100002",
-      "pubDate": "Sun, 10 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "K-엔비디아 인재 노린 '꼼수 인수' 막는다…\"기업결합 신고추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260509047800002",
-      "pubDate": "Sun, 10 May 2026 12:00:04 +0900"
-    },
-    {
-      "title": "주병기 \"매각명령 등 구조적 조치, 사익편취 억제 효과 클 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260509049200002",
-      "pubDate": "Sun, 10 May 2026 12:00:03 +0900"
-    },
-    {
-      "title": "중기부, '모두의 창업' 신속심사로 첫 합격자 130명 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260509028300030",
-      "pubDate": "Sun, 10 May 2026 12:00:03 +0900"
-    },
-    {
-      "title": "지방보조금 집행 '보탬e' 카드, 새마을금고·신협·수협도 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260510014600530",
-      "pubDate": "Sun, 10 May 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"명륜진사갈비, 가맹점주에 고리 대출하고 인테리어비용 바가지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510020600002",
-      "pubDate": "Sun, 10 May 2026 12:00:01 +0900"
-    },
-    {
-      "title": "직장갑질119 \"프리랜서 4명 중 3명 '근로자 추정제' 도입 찬성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510014400004",
-      "pubDate": "Sun, 10 May 2026 12:00:01 +0900"
-    },
-    {
-      "title": "나랏돈으로 18% 이자장사 막는다…명륜당 재발 땐 정책자금 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260509050200002",
-      "pubDate": "Sun, 10 May 2026 12:00:00 +0900"
-    },
-    {
-      "title": "쿠팡, 환경산업기술원과 '정부 인증 녹색제품' 연중 기획전 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260510021500030",
-      "pubDate": "Sun, 10 May 2026 11:57:30 +0900"
     }
   ]
 }
