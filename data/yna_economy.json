@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778390860,
+  "updated_at_unix": 1778398668,
   "items": [
+    {
+      "title": "880만원 내고 매칭된 소개남, 카톡 프로필엔 '웨딩 D+108'",
+      "link": "https://www.yna.co.kr/view/AKR20260510028700004",
+      "pubDate": "Sun, 10 May 2026 16:04:16 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260510029900011",
+      "pubDate": "Sun, 10 May 2026 15:00:00 +0900"
+    },
+    {
+      "title": "공정·금융위 '정책자금으로 고리대출' 명륜진사갈비 동시 압박(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260510020651002",
+      "pubDate": "Sun, 10 May 2026 14:41:07 +0900"
+    },
     {
       "title": "국토장관 \"금융·세제·공급 재설계해 부동산 불로소득 대전환\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260510021851003",
@@ -137,21 +152,6 @@
       "title": "스타벅스, '악마는 프라다를 입는다2' 음료…영화 레시피 구현",
       "link": "https://www.yna.co.kr/view/AKR20260510013100030",
       "pubDate": "Sun, 10 May 2026 09:59:07 +0900"
-    },
-    {
-      "title": "현대그린푸드, 사찰음식 간편식 출시…도림·법송스님 협업",
-      "link": "https://www.yna.co.kr/view/AKR20260510012300030",
-      "pubDate": "Sun, 10 May 2026 09:31:50 +0900"
-    },
-    {
-      "title": "양도세 중과 피하려 막판 거래…\"주말에도 허가 신청 이어져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260510009900003",
-      "pubDate": "Sun, 10 May 2026 09:17:35 +0900"
-    },
-    {
-      "title": "배민, 외식업주 자녀 310명에 장학금 17억5천만원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260510011000030",
-      "pubDate": "Sun, 10 May 2026 09:16:22 +0900"
     }
   ]
 }
