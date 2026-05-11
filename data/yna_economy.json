@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778526863,
+  "updated_at_unix": 1778533053,
   "items": [
+    {
+      "title": "한의업계 반발에 '8주룰' 상반기 도입 불투명…車보험 적자 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260511151800002",
+      "pubDate": "Tue, 12 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "韓 1분기 성장률, 주요국 중 1위…중국·인도네시아도 제쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260511151100002",
+      "pubDate": "Tue, 12 May 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[샷!] \"꽃집 26년 했는데 최악이었다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260508102700011",
+      "pubDate": "Tue, 12 May 2026 05:50:01 +0900"
+    },
     {
       "title": "국제유가, 이란 긴장 재고조에 상승…브렌트 3%↑",
       "link": "https://www.yna.co.kr/view/AKR20260512004300072",
@@ -137,21 +152,6 @@
       "title": "구윤철 \"코스피 아직 낮은 수준…금투세는 시장 여건 돼야 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260511126700002",
       "pubDate": "Mon, 11 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자 '불기둥'에 우선주도 20만원 턱밑까지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260511047951008",
-      "pubDate": "Mon, 11 May 2026 15:57:33 +0900"
-    },
-    {
-      "title": "㈜한화 건설부문 개발사업 강화…증권사 3곳과 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260511127800003",
-      "pubDate": "Mon, 11 May 2026 15:54:04 +0900"
-    },
-    {
-      "title": "[특징주] '28만전자·194만닉스'…'삼전닉스' 동반 사상 최고가(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260511033452008",
-      "pubDate": "Mon, 11 May 2026 15:53:49 +0900"
     }
   ]
 }
