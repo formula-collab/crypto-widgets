@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778489706,
+  "updated_at_unix": 1778500523,
   "items": [
+    {
+      "title": "쿠팡, 공정위 상대로 '김범석 동일인 지정 취소' 소송 제기",
+      "link": "https://www.yna.co.kr/view/AKR20260511158000030",
+      "pubDate": "Mon, 11 May 2026 19:33:39 +0900"
+    },
+    {
+      "title": "대법, 중대재해법 양형기준 신설한다…응급의료방해 기준도 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260511157800004",
+      "pubDate": "Mon, 11 May 2026 19:21:38 +0900"
+    },
+    {
+      "title": "'상조업체 먹튀폐업 즉시 대응' 법안, 정무위 소위 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260511154900001",
+      "pubDate": "Mon, 11 May 2026 18:56:26 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260511146000011",
+      "pubDate": "Mon, 11 May 2026 18:00:00 +0900"
+    },
     {
       "title": "금통위원에 김진일 고려대 교수 추천",
       "link": "https://www.yna.co.kr/view/AKR20260511144500002",
@@ -29,7 +49,7 @@
       "pubDate": "Mon, 11 May 2026 16:58:13 +0900"
     },
     {
-      "title": "정부, '쌀 의무매입' 기준 확정…생산량 3∼5% 초과 시 발동",
+      "title": "정부, '쌀 의무매입' 기준 마련…생산량 3∼5% 초과 시 발동",
       "link": "https://www.yna.co.kr/view/AKR20260511138900030",
       "pubDate": "Mon, 11 May 2026 16:57:25 +0900"
     },
@@ -132,26 +152,6 @@
       "title": "삼성, 7월 폴더블 신작 공개 전망…AI 글래스도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260511122400017",
       "pubDate": "Mon, 11 May 2026 15:47:16 +0900"
-    },
-    {
-      "title": "코스피, 사상 첫 7,800선 돌파…'8천피'까지 177포인트 남았다",
-      "link": "https://www.yna.co.kr/view/AKR20260511123800008",
-      "pubDate": "Mon, 11 May 2026 15:42:39 +0900"
-    },
-    {
-      "title": "3년간 매달 15만원 저축시 2배 적립…세종시, 청년희망적금 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260511123000063",
-      "pubDate": "Mon, 11 May 2026 15:42:25 +0900"
-    },
-    {
-      "title": "외국환시세(5월11일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260511122800002",
-      "pubDate": "Mon, 11 May 2026 15:39:37 +0900"
-    },
-    {
-      "title": "[특징주] 한국콜마, 실적 호조에 6%대 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260511039951008",
-      "pubDate": "Mon, 11 May 2026 15:39:09 +0900"
     }
   ]
 }
