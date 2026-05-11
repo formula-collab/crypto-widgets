@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778533053,
+  "updated_at_unix": 1778536910,
   "items": [
+    {
+      "title": "고유가가 발목 잡은 강릉 월화교 분수 공연 '축소' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260511150800062",
+      "pubDate": "Tue, 12 May 2026 06:30:01 +0900"
+    },
+    {
+      "title": "울산 온산국가산단서 체불 항의 고공농성…4시간째 대치 중",
+      "link": "https://www.yna.co.kr/view/AKR20260512008800057",
+      "pubDate": "Tue, 12 May 2026 06:09:41 +0900"
+    },
+    {
+      "title": "\"KF-21 후속 80대 양산비용 18.4조원…예상보다 4조 비싸\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511148400504",
+      "pubDate": "Tue, 12 May 2026 06:01:00 +0900"
+    },
+    {
+      "title": "한국 자동차, 수출 50주년 7천655만대 금자탑…지구 9바퀴 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260511151200003",
+      "pubDate": "Tue, 12 May 2026 06:00:21 +0900"
+    },
+    {
+      "title": "문 닫은 코인 사업자에 221억 묶여…0.3%만 이용자 반환",
+      "link": "https://www.yna.co.kr/view/AKR20260511163600002",
+      "pubDate": "Tue, 12 May 2026 05:57:00 +0900"
+    },
+    {
+      "title": "진에어, 승무원 입사 돌연 연기…저비용항공사 덮친 고용불안",
+      "link": "https://www.yna.co.kr/view/AKR20260511150400003",
+      "pubDate": "Tue, 12 May 2026 05:55:01 +0900"
+    },
+    {
+      "title": "외부피격 확인에도…나무호, 보험금 최대보상·연내지급 미지수",
+      "link": "https://www.yna.co.kr/view/AKR20260511156000002",
+      "pubDate": "Tue, 12 May 2026 05:55:00 +0900"
+    },
     {
       "title": "한의업계 반발에 '8주룰' 상반기 도입 불투명…車보험 적자 지속",
       "link": "https://www.yna.co.kr/view/AKR20260511151800002",
@@ -117,41 +152,6 @@
       "title": "유네스코한국위 \"종묘 인근 유산영향평가 충실 이행\" 재차 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260511131400371",
       "pubDate": "Mon, 11 May 2026 16:14:51 +0900"
-    },
-    {
-      "title": "환율, 중동 불안·외국인 순매도에 0.7원 오른 1,472.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260511131500002",
-      "pubDate": "Mon, 11 May 2026 16:13:59 +0900"
-    },
-    {
-      "title": "코스피, 사상 첫 7,800선 돌파…'8천피'까지 177포인트 남았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260511123851008",
-      "pubDate": "Mon, 11 May 2026 16:10:05 +0900"
-    },
-    {
-      "title": "구윤철 \"최고가격제 중동 정세 안정 때까지 당분간 유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260511122500002",
-      "pubDate": "Mon, 11 May 2026 16:00:04 +0900"
-    },
-    {
-      "title": "구윤철 \"삼성전자 노사 원만히 타결 기대…현명한 판단 당부\"",
-      "link": "https://www.yna.co.kr/view/AKR20260511124100002",
-      "pubDate": "Mon, 11 May 2026 16:00:03 +0900"
-    },
-    {
-      "title": "구윤철 \"비거주·고가주택 보유세, 국민 의견 듣는 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260511123200002",
-      "pubDate": "Mon, 11 May 2026 16:00:03 +0900"
-    },
-    {
-      "title": "구윤철 \"올해 성장률 2% 상회 전망…반도체·중동戰 영향 봐야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260511126500002",
-      "pubDate": "Mon, 11 May 2026 16:00:02 +0900"
-    },
-    {
-      "title": "구윤철 \"코스피 아직 낮은 수준…금투세는 시장 여건 돼야 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260511126700002",
-      "pubDate": "Mon, 11 May 2026 16:00:01 +0900"
     }
   ]
 }
