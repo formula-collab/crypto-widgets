@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778519221,
+  "updated_at_unix": 1778526863,
   "items": [
+    {
+      "title": "국제유가, 이란 긴장 재고조에 상승…브렌트 3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260512004300072",
+      "pubDate": "Tue, 12 May 2026 04:09:33 +0900"
+    },
+    {
+      "title": "달러-원, 군사 옵션 다시 꺼내든 트럼프에 위험 회피…1,472.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260512003500002",
+      "pubDate": "Tue, 12 May 2026 03:51:59 +0900"
+    },
     {
       "title": "사우디 아람코 \"최악 에너지 쇼크…5∼6월 공급난 더 커질 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260511164900079",
@@ -142,16 +152,6 @@
       "title": "[특징주] '28만전자·194만닉스'…'삼전닉스' 동반 사상 최고가(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260511033452008",
       "pubDate": "Mon, 11 May 2026 15:53:49 +0900"
-    },
-    {
-      "title": "인천 내항 1·8부두 재개발사업 확정 고시",
-      "link": "https://www.yna.co.kr/view/AKR20260511126900065",
-      "pubDate": "Mon, 11 May 2026 15:53:24 +0900"
-    },
-    {
-      "title": "'상생과 공동성장'…한-아프리카 기업인 교류의 장 내달 열린다",
-      "link": "https://www.yna.co.kr/view/AKR20260511106900371",
-      "pubDate": "Mon, 11 May 2026 15:48:46 +0900"
     }
   ]
 }
