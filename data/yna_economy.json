@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778500523,
+  "updated_at_unix": 1778509430,
   "items": [
+    {
+      "title": "사우디 아람코 \"최악 에너지 쇼크…5∼6월 공급난 더 커질 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260511164900079",
+      "pubDate": "Mon, 11 May 2026 22:43:16 +0900"
+    },
     {
       "title": "쿠팡, 공정위 상대로 '김범석 동일인 지정 취소' 소송 제기",
       "link": "https://www.yna.co.kr/view/AKR20260511158000030",
@@ -147,11 +152,6 @@
       "title": "'상생과 공동성장'…한-아프리카 기업인 교류의 장 내달 열린다",
       "link": "https://www.yna.co.kr/view/AKR20260511106900371",
       "pubDate": "Mon, 11 May 2026 15:48:46 +0900"
-    },
-    {
-      "title": "삼성, 7월 폴더블 신작 공개 전망…AI 글래스도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260511122400017",
-      "pubDate": "Mon, 11 May 2026 15:47:16 +0900"
     }
   ]
 }
