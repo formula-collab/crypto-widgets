@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778598950,
+  "updated_at_unix": 1778606929,
   "items": [
+    {
+      "title": "워시, 美연준 이사 인준안 통과…13일 의장 인준안 표결 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260513001500071",
+      "pubDate": "Wed, 13 May 2026 02:06:15 +0900"
+    },
     {
       "title": "'유가상승'에 국고채 금리 급등…3년·10년물 30개월만 최고(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260512153352008",
@@ -147,11 +152,6 @@
       "title": "쏘카 \"에이펙스 모빌리티 주식 650억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260512156000008",
       "pubDate": "Tue, 12 May 2026 16:50:45 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.674%",
-      "link": "https://www.yna.co.kr/view/AKR20260512153300008",
-      "pubDate": "Tue, 12 May 2026 16:48:25 +0900"
     }
   ]
 }
