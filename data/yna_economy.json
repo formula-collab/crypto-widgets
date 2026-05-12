@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778581316,
+  "updated_at_unix": 1778588527,
   "items": [
+    {
+      "title": "'유가상승'에 국고채 금리 급등…3년·10년물 30개월만 최고(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260512153352008",
+      "pubDate": "Tue, 12 May 2026 20:06:53 +0900"
+    },
+    {
+      "title": "李대통령 지적 상록수 청산절차…새도약기금 外 채권까지 매각",
+      "link": "https://www.yna.co.kr/view/AKR20260512179500002",
+      "pubDate": "Tue, 12 May 2026 19:57:38 +0900"
+    },
+    {
+      "title": "재판소원 2건 사전심사 추가 통과…\"법원이 위헌적 법해석\" 청구(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260512167951004",
+      "pubDate": "Tue, 12 May 2026 19:25:11 +0900"
+    },
     {
       "title": "무보, 관세·중동전쟁 직격탄 해외법인에 1조원 자금 지원",
       "link": "https://www.yna.co.kr/view/AKR20260512175100003",
@@ -137,21 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.674%",
       "link": "https://www.yna.co.kr/view/AKR20260512153300008",
       "pubDate": "Tue, 12 May 2026 16:48:25 +0900"
-    },
-    {
-      "title": "외인 '팔자' vs 개인 '사자'…매일 수조원씩 치열한 수급 '전쟁'",
-      "link": "https://www.yna.co.kr/view/AKR20260512147300008",
-      "pubDate": "Tue, 12 May 2026 16:47:59 +0900"
-    },
-    {
-      "title": "한국콜마, '실적 표기 오류' 토스증권에 항의…\"재발방지 요구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260512147600030",
-      "pubDate": "Tue, 12 May 2026 16:47:34 +0900"
-    },
-    {
-      "title": "차익실현? 조정신호?…코스피, '8천피' 넘보다 급등락 '널뛰기'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260512093451008",
-      "pubDate": "Tue, 12 May 2026 16:39:28 +0900"
     }
   ]
 }
