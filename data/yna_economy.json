@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778613376,
+  "updated_at_unix": 1778619315,
   "items": [
+    {
+      "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260513005651072",
+      "pubDate": "Wed, 13 May 2026 05:43:38 +0900"
+    },
+    {
+      "title": "국제유가, 이란 협상 기대감 약화에 상승…WTI 100달러 위로",
+      "link": "https://www.yna.co.kr/view/AKR20260513004700072",
+      "pubDate": "Wed, 13 May 2026 04:24:31 +0900"
+    },
+    {
+      "title": "달러-원, 기술주 급락·끈적한 CPI에도 숨고르기…1,490.90원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260513005000002",
+      "pubDate": "Wed, 13 May 2026 04:23:43 +0900"
+    },
     {
       "title": "워시, 美연준 이사 인준안 통과…13일 의장 인준안 표결 전망",
       "link": "https://www.yna.co.kr/view/AKR20260513001500071",
@@ -137,21 +152,6 @@
       "title": "[게시판] 캠코-국토안전관리원, 지하안전관리 관련 업무협약 체결",
       "link": "https://www.yna.co.kr/view/AKR20260512147900002",
       "pubDate": "Tue, 12 May 2026 16:57:53 +0900"
-    },
-    {
-      "title": "산은, 투자유치 플랫폼 'KDB넥스트라운드 인 대구' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260512157600002",
-      "pubDate": "Tue, 12 May 2026 16:57:38 +0900"
-    },
-    {
-      "title": "[과학스냅] 이공계 경력보유 여성 반도체 공정기술 훈련 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260512152900017",
-      "pubDate": "Tue, 12 May 2026 16:52:37 +0900"
-    },
-    {
-      "title": "쏘카 \"에이펙스 모빌리티 주식 650억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260512156000008",
-      "pubDate": "Tue, 12 May 2026 16:50:45 +0900"
     }
   ]
 }
