@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778623307,
+  "updated_at_unix": 1778628775,
   "items": [
+    {
+      "title": "KB證 \"대한항공, 고유가 대응능력 강화…올해 실적 추정치 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513025900008",
+      "pubDate": "Wed, 13 May 2026 08:28:22 +0900"
+    },
+    {
+      "title": "공정위, '대기업 저승사자' 조사국 21년 만에 부활 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260513024800002",
+      "pubDate": "Wed, 13 May 2026 08:27:39 +0900"
+    },
+    {
+      "title": "DS투자, '깜짝호실적' 펄어비스 목표가↑…\"부정 못할 성과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513023600008",
+      "pubDate": "Wed, 13 May 2026 08:23:48 +0900"
+    },
+    {
+      "title": "유진투자 \"신세계, 내외국인 증가로 백화점 호조…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513024600008",
+      "pubDate": "Wed, 13 May 2026 08:22:34 +0900"
+    },
+    {
+      "title": "한투증권, 미래에셋증권 투자의견 '중립'…\"밸류에이션 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513022700008",
+      "pubDate": "Wed, 13 May 2026 08:13:15 +0900"
+    },
+    {
+      "title": "[2보] 4월 취업자 증가폭 16개월 만에 최소…고용률도 하락 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260512174600002",
+      "pubDate": "Wed, 13 May 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[1보] 4월 취업자 7.4만명↑·16개월만에 최소폭…고용률 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260512173600002",
+      "pubDate": "Wed, 13 May 2026 08:00:04 +0900"
+    },
+    {
+      "title": "부산시, 중동발 에너지 위기에 녹산산단 통근버스 7대 증편",
+      "link": "https://www.yna.co.kr/view/AKR20260513019300051",
+      "pubDate": "Wed, 13 May 2026 07:57:25 +0900"
+    },
+    {
+      "title": "[마켓뷰] 추가 조정 vs '8천피' 재도전…코스피 향방 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260513017000008",
+      "pubDate": "Wed, 13 May 2026 07:56:27 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260513013000011",
+      "pubDate": "Wed, 13 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "벤슨 아이스크림, 내년 100호점 목표…자동화·고품질로 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260512165700030",
+      "pubDate": "Wed, 13 May 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[르포] 탱크서 익는 원유·착착 담는 로봇…'스마트 팩토리' 갖춘 벤슨",
+      "link": "https://www.yna.co.kr/view/AKR20260512170100030",
+      "pubDate": "Wed, 13 May 2026 07:00:02 +0900"
+    },
     {
       "title": "뉴욕증시, 인플레 우려·반도체 매도에 혼조마감…나스닥 0.7%↓(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260513005651072",
@@ -92,66 +152,6 @@
       "title": "CNN, 농심 구미 공장 조명…\"K-라면, 한 끼 넘어 문화 아이콘\"",
       "link": "https://www.yna.co.kr/view/AKR20260512165400030",
       "pubDate": "Tue, 12 May 2026 17:39:04 +0900"
-    },
-    {
-      "title": "윤석열 부친 살았던 김만배 누나 소유 주택, 경매절차 돌입",
-      "link": "https://www.yna.co.kr/view/AKR20260512164200004",
-      "pubDate": "Tue, 12 May 2026 17:31:43 +0900"
-    },
-    {
-      "title": "해외번호 국내번호 둔갑 차단…'심박스' 처벌 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260512163900017",
-      "pubDate": "Tue, 12 May 2026 17:30:43 +0900"
-    },
-    {
-      "title": "성일하이텍 \"종속회사 SUNGEEL에 87억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260512164300008",
-      "pubDate": "Tue, 12 May 2026 17:30:25 +0900"
-    },
-    {
-      "title": "'유가 상승'에 국고채 금리 급등…3년물 연 3.674%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260512153351008",
-      "pubDate": "Tue, 12 May 2026 17:20:59 +0900"
-    },
-    {
-      "title": "'합병가액 결정시 주가 외 요소 고려' 자본시장법 국회소위 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260512153400001",
-      "pubDate": "Tue, 12 May 2026 17:20:04 +0900"
-    },
-    {
-      "title": "노조 \"홈플러스, 전환배치 철회 기만\"…홈플러스 \"정상화시 진행\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260512082151030",
-      "pubDate": "Tue, 12 May 2026 17:17:56 +0900"
-    },
-    {
-      "title": "JW중외제약 1분기 영업이익 317억원…40% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260512160800017",
-      "pubDate": "Tue, 12 May 2026 17:14:18 +0900"
-    },
-    {
-      "title": "상록수채권 8천500억 중 매각대상 5천억…李대통령 지적에 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260512140700002",
-      "pubDate": "Tue, 12 May 2026 17:05:32 +0900"
-    },
-    {
-      "title": "홈플러스 익스프레스, 희망퇴직 신청 폭주에 접수 '조기 종료'",
-      "link": "https://www.yna.co.kr/view/AKR20260512152300030",
-      "pubDate": "Tue, 12 May 2026 17:03:22 +0900"
-    },
-    {
-      "title": "동양, 12억원 유상증자…유진기업에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260512158200008",
-      "pubDate": "Tue, 12 May 2026 17:00:56 +0900"
-    },
-    {
-      "title": "국채시장 자문위 출범…\"WGBI 편입 발표후 투자자 200여곳 유입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260512141200002",
-      "pubDate": "Tue, 12 May 2026 17:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 캠코-국토안전관리원, 지하안전관리 관련 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260512147900002",
-      "pubDate": "Tue, 12 May 2026 16:57:53 +0900"
     }
   ]
 }
