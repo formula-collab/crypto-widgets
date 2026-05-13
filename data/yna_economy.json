@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778688727,
+  "updated_at_unix": 1778696425,
   "items": [
+    {
+      "title": "달러-원, 끈적한 PPI가 하방 막았다…횡보 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260514002800002",
+      "pubDate": "Thu, 14 May 2026 02:39:03 +0900"
+    },
     {
       "title": "독일 DH, 배달의민족 매각 추진…\"8조원 타진\"",
       "link": "https://www.yna.co.kr/view/AKR20260513175400030",
@@ -147,11 +152,6 @@
       "title": "한국거래소, '금감원 출신' 파생본부장 선임…노조 반발 격화",
       "link": "https://www.yna.co.kr/view/AKR20260513144400008",
       "pubDate": "Wed, 13 May 2026 16:55:33 +0900"
-    },
-    {
-      "title": "李대통령 \"조선산업 생태계 구축해 성장 과실 골고루 나눠야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513140500001",
-      "pubDate": "Wed, 13 May 2026 16:50:32 +0900"
     }
   ]
 }
