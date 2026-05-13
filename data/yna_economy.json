@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778712878,
+  "updated_at_unix": 1778716063,
   "items": [
+    {
+      "title": "KB운용 \"삼전닉스채권혼합50 ETF 순자산 최단기 2조 돌파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514026200008",
+      "pubDate": "Thu, 14 May 2026 08:43:55 +0900"
+    },
+    {
+      "title": "키움證 \"고유가·원화약세에 여행수요 위축…하나투어 목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514026100008",
+      "pubDate": "Thu, 14 May 2026 08:42:47 +0900"
+    },
+    {
+      "title": "KB증권 \"삼성전기, 2분기 실적 기대치 웃돌것…목표가 140만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514025700008",
+      "pubDate": "Thu, 14 May 2026 08:40:51 +0900"
+    },
+    {
+      "title": "유진투자 \"NC, 리니지 클래식·아이온2 흥행…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514025500008",
+      "pubDate": "Thu, 14 May 2026 08:37:43 +0900"
+    },
+    {
+      "title": "IBK투자 \"SK이노 호주 가스전, 하반기부터 영업익 확대 기여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514023200008",
+      "pubDate": "Thu, 14 May 2026 08:22:39 +0900"
+    },
+    {
+      "title": "[게시판] 소진공, 대전서 '2026년 대국민 SNS 기자단 발대식' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260514023700030",
+      "pubDate": "Thu, 14 May 2026 08:19:50 +0900"
+    },
+    {
+      "title": "한투증권 \"삼양식품, 음식료 업종 중 독보적 글로벌 성장성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514022800008",
+      "pubDate": "Thu, 14 May 2026 08:15:07 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 미중 정상회담 주시하며 '8천피' 돌파 시도",
+      "link": "https://www.yna.co.kr/view/AKR20260514020900008",
+      "pubDate": "Thu, 14 May 2026 08:06:54 +0900"
+    },
     {
       "title": "[르포] 해외 매출 1조원 '에쎄'…KT&G 대전공장 가보니",
       "link": "https://www.yna.co.kr/view/AKR20260513160500030",
@@ -112,46 +152,6 @@
       "title": "구윤철 \"국내생산촉진세제, 초기 단계에는 보조금 지급 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260513170000002",
       "pubDate": "Wed, 13 May 2026 19:35:06 +0900"
-    },
-    {
-      "title": "IEA \"연말까지 원유 공급 부족 전망…중동 전쟁 여파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513167400081",
-      "pubDate": "Wed, 13 May 2026 19:06:03 +0900"
-    },
-    {
-      "title": "ECB, 6월 금리인상 무게…\"전쟁 끝나도 당분간 인플레\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513166700082",
-      "pubDate": "Wed, 13 May 2026 18:58:45 +0900"
-    },
-    {
-      "title": "노동부, 포항·서산 고용위기 선제대응지역 지정 6개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260513166000530",
-      "pubDate": "Wed, 13 May 2026 18:46:49 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260513164300002",
-      "pubDate": "Wed, 13 May 2026 18:28:22 +0900"
-    },
-    {
-      "title": "李대통령 \"조선산업 생태계 구축해 성장 과실 골고루 나눠야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513140551001",
-      "pubDate": "Wed, 13 May 2026 18:14:11 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260513157100011",
-      "pubDate": "Wed, 13 May 2026 18:00:00 +0900"
-    },
-    {
-      "title": "금융위, 금감원에 1.4조 홍콩 ELS 과징금 제재안 이례적 반려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513138151002",
-      "pubDate": "Wed, 13 May 2026 17:59:46 +0900"
-    },
-    {
-      "title": "1천원 미만 '동전주' 상장폐지 초읽기…韓주식시장 물갈이 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260513160200008",
-      "pubDate": "Wed, 13 May 2026 17:58:22 +0900"
     }
   ]
 }
