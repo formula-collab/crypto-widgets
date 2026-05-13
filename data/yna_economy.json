@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778696425,
+  "updated_at_unix": 1778703272,
   "items": [
+    {
+      "title": "국제유가, 트럼프-시진핑 회담 앞두고 하락…브렌트 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260514004700072",
+      "pubDate": "Thu, 14 May 2026 04:29:22 +0900"
+    },
+    {
+      "title": "워시 美연준의장 후보자 인준안 상원 통과…주중 취임할듯",
+      "link": "https://www.yna.co.kr/view/AKR20260514004300071",
+      "pubDate": "Thu, 14 May 2026 04:07:07 +0900"
+    },
     {
       "title": "달러-원, 끈적한 PPI가 하방 막았다…횡보 마감",
       "link": "https://www.yna.co.kr/view/AKR20260514002800002",
@@ -142,16 +152,6 @@
       "title": "HLB제약, 1천200억원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260513148800008",
       "pubDate": "Wed, 13 May 2026 16:57:36 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.635%",
-      "link": "https://www.yna.co.kr/view/AKR20260513145300008",
-      "pubDate": "Wed, 13 May 2026 16:56:16 +0900"
-    },
-    {
-      "title": "한국거래소, '금감원 출신' 파생본부장 선임…노조 반발 격화",
-      "link": "https://www.yna.co.kr/view/AKR20260513144400008",
-      "pubDate": "Wed, 13 May 2026 16:55:33 +0900"
     }
   ]
 }
