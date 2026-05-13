@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778703272,
+  "updated_at_unix": 1778708963,
   "items": [
+    {
+      "title": "벤처기업 57% \"최대 경영 애로는 자금조달\"…규제 부담도 여전",
+      "link": "https://www.yna.co.kr/view/AKR20260513124600030",
+      "pubDate": "Thu, 14 May 2026 06:30:01 +0900"
+    },
+    {
+      "title": "워시 美연준의장 후보자 인준안 상원 통과…주중 취임할 듯(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260514004351071",
+      "pubDate": "Thu, 14 May 2026 06:22:23 +0900"
+    },
+    {
+      "title": "美연준 매파 인사들 케빈 워시 취임 앞두고 \"금리인상 배제못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514008200072",
+      "pubDate": "Thu, 14 May 2026 06:16:04 +0900"
+    },
+    {
+      "title": "[imazine] 알래스카의 두 번째 골드러시 ④ 선박에서 항공으로…",
+      "link": "https://www.yna.co.kr/view/AKR20260417121200542",
+      "pubDate": "Thu, 14 May 2026 06:00:20 +0900"
+    },
+    {
+      "title": "서울시, 주택공급 속도…'정비사업 종합평가' 도입해 행정력↑",
+      "link": "https://www.yna.co.kr/view/AKR20260513141000004",
+      "pubDate": "Thu, 14 May 2026 06:00:07 +0900"
+    },
+    {
+      "title": "농식품부, 식품 포장재 수급 관리 강화…신고 창구 aT로 일원화",
+      "link": "https://www.yna.co.kr/view/AKR20260513113200030",
+      "pubDate": "Thu, 14 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "항공사고 피해보상 내실화…보험금 압류 막고 가입거부 금지",
+      "link": "https://www.yna.co.kr/view/AKR20260513160400003",
+      "pubDate": "Thu, 14 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "결혼 축의금 얼마낼까…\"작년 평균 11만7천원, 2년 새 7% 올라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513161300002",
+      "pubDate": "Thu, 14 May 2026 05:59:00 +0900"
+    },
+    {
+      "title": "중동발 고유가에 차 굴리는 비용 16% 급등…내연차 직격",
+      "link": "https://www.yna.co.kr/view/AKR20260513159800002",
+      "pubDate": "Thu, 14 May 2026 05:57:01 +0900"
+    },
+    {
+      "title": "이혼 6년째 감소…60세 이상 '황혼결별'은 역대 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260513166600002",
+      "pubDate": "Thu, 14 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "물가·워시 불확실성에…월가 \"美 연내 금리인하 안 한다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513169800002",
+      "pubDate": "Thu, 14 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "금융지주들 \"포용금융에 건전성 악화 위험\" 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260513158900002",
+      "pubDate": "Thu, 14 May 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 트럼프-시진핑 회담 앞두고 하락…브렌트 2%↓",
       "link": "https://www.yna.co.kr/view/AKR20260514004700072",
@@ -92,66 +152,6 @@
       "title": "김정관 \"핵심기술 선점과 글로벌 연대로 세계 조선시장 석권\"",
       "link": "https://www.yna.co.kr/view/AKR20260513159100003",
       "pubDate": "Wed, 13 May 2026 17:46:31 +0900"
-    },
-    {
-      "title": "[부고] 박재명(농협중앙회 대전본부장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260513156600063",
-      "pubDate": "Wed, 13 May 2026 17:45:07 +0900"
-    },
-    {
-      "title": "광양만권공항활성화협의회, 여수공항에 철도 간이역 신설 요구",
-      "link": "https://www.yna.co.kr/view/AKR20260513156900054",
-      "pubDate": "Wed, 13 May 2026 17:35:50 +0900"
-    },
-    {
-      "title": "남부발전, 자금 재조달로 금융비용 연간 423억원 절감",
-      "link": "https://www.yna.co.kr/view/AKR20260513157300051",
-      "pubDate": "Wed, 13 May 2026 17:34:11 +0900"
-    },
-    {
-      "title": "에이블씨엔씨 1분기 영업이익 94억원…전년 동기 대비 2배 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260513155200030",
-      "pubDate": "Wed, 13 May 2026 17:29:40 +0900"
-    },
-    {
-      "title": "반도체 제조장비·부품 기업 경쟁력 강화…지식재산협의체 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260513149800063",
-      "pubDate": "Wed, 13 May 2026 17:18:22 +0900"
-    },
-    {
-      "title": "국고채 금리 상승후 하락전환 마감…3년물 연 3.635%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513150000008",
-      "pubDate": "Wed, 13 May 2026 17:12:07 +0900"
-    },
-    {
-      "title": "농식품부, 계란값 안정 위해 신선란 448만개 추가 수입",
-      "link": "https://www.yna.co.kr/view/AKR20260513147700030",
-      "pubDate": "Wed, 13 May 2026 17:03:46 +0900"
-    },
-    {
-      "title": "이이경, 세무조사서 세금 추징…\"고의 누락·탈루 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513149500005",
-      "pubDate": "Wed, 13 May 2026 17:02:37 +0900"
-    },
-    {
-      "title": "작년 국가계약 분쟁조정 60건, 역대 최다…올해 100건 넘을 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260513129100002",
-      "pubDate": "Wed, 13 May 2026 17:00:02 +0900"
-    },
-    {
-      "title": "한국형 개발금융 추진 방안은…재경부, 전문가 자문위원회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260513138700002",
-      "pubDate": "Wed, 13 May 2026 17:00:01 +0900"
-    },
-    {
-      "title": "하이퍼코퍼레이션, 200억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260513147900008",
-      "pubDate": "Wed, 13 May 2026 16:57:58 +0900"
-    },
-    {
-      "title": "HLB제약, 1천200억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260513148800008",
-      "pubDate": "Wed, 13 May 2026 16:57:36 +0900"
     }
   ]
 }
