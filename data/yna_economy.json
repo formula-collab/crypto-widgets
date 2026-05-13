@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778708963,
+  "updated_at_unix": 1778712878,
   "items": [
+    {
+      "title": "[르포] 해외 매출 1조원 '에쎄'…KT&G 대전공장 가보니",
+      "link": "https://www.yna.co.kr/view/AKR20260513160500030",
+      "pubDate": "Thu, 14 May 2026 07:36:55 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260514014600011",
+      "pubDate": "Thu, 14 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 말리 사태와 러시아 개입의 한계…'안보 외주화'의 비극",
+      "link": "https://www.yna.co.kr/view/AKR20260506153300898",
+      "pubDate": "Thu, 14 May 2026 07:00:06 +0900"
+    },
+    {
+      "title": "이란전쟁에 미국채 30년물 입찰금리 19년만에 5%대 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260514012100072",
+      "pubDate": "Thu, 14 May 2026 06:55:37 +0900"
+    },
     {
       "title": "벤처기업 57% \"최대 경영 애로는 자금조달\"…규제 부담도 여전",
       "link": "https://www.yna.co.kr/view/AKR20260513124600030",
@@ -132,26 +152,6 @@
       "title": "1천원 미만 '동전주' 상장폐지 초읽기…韓주식시장 물갈이 예고",
       "link": "https://www.yna.co.kr/view/AKR20260513160200008",
       "pubDate": "Wed, 13 May 2026 17:58:22 +0900"
-    },
-    {
-      "title": "충청권 공공기관 지역인재 채용설명회…구직자 2천여명 발길",
-      "link": "https://www.yna.co.kr/view/AKR20260513156800063",
-      "pubDate": "Wed, 13 May 2026 17:54:38 +0900"
-    },
-    {
-      "title": "[특징주] 현대차 사상 첫 70만원 돌파…로봇 관련주 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513128251008",
-      "pubDate": "Wed, 13 May 2026 17:52:20 +0900"
-    },
-    {
-      "title": "신세계 정용진, 한남동 단독주택 255억원에 매각",
-      "link": "https://www.yna.co.kr/view/AKR20260513160100003",
-      "pubDate": "Wed, 13 May 2026 17:51:45 +0900"
-    },
-    {
-      "title": "김정관 \"핵심기술 선점과 글로벌 연대로 세계 조선시장 석권\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513159100003",
-      "pubDate": "Wed, 13 May 2026 17:46:31 +0900"
     }
   ]
 }
