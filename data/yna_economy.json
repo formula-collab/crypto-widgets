@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778661081,
+  "updated_at_unix": 1778671423,
   "items": [
+    {
+      "title": "구윤철 \"국내생산촉진세제, 초기 단계에는 보조금 지급 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513170000002",
+      "pubDate": "Wed, 13 May 2026 19:35:06 +0900"
+    },
+    {
+      "title": "IEA \"연말까지 원유 공급 부족 전망…중동 전쟁 여파\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513167400081",
+      "pubDate": "Wed, 13 May 2026 19:06:03 +0900"
+    },
+    {
+      "title": "ECB, 6월 금리인상 무게…\"전쟁 끝나도 당분간 인플레\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513166700082",
+      "pubDate": "Wed, 13 May 2026 18:58:45 +0900"
+    },
+    {
+      "title": "노동부, 포항·서산 고용위기 선제대응지역 지정 6개월 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260513166000530",
+      "pubDate": "Wed, 13 May 2026 18:46:49 +0900"
+    },
+    {
+      "title": "[인사] 재정경제부",
+      "link": "https://www.yna.co.kr/view/AKR20260513164300002",
+      "pubDate": "Wed, 13 May 2026 18:28:22 +0900"
+    },
+    {
+      "title": "李대통령 \"조선산업 생태계 구축해 성장 과실 골고루 나눠야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260513140551001",
+      "pubDate": "Wed, 13 May 2026 18:14:11 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260513157100011",
+      "pubDate": "Wed, 13 May 2026 18:00:00 +0900"
+    },
+    {
+      "title": "금융위, 금감원에 1.4조 홍콩 ELS 과징금 제재안 이례적 반려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260513138151002",
+      "pubDate": "Wed, 13 May 2026 17:59:46 +0900"
+    },
+    {
+      "title": "1천원 미만 '동전주' 상장폐지 초읽기…韓주식시장 물갈이 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260513160200008",
+      "pubDate": "Wed, 13 May 2026 17:58:22 +0900"
+    },
+    {
+      "title": "충청권 공공기관 지역인재 채용설명회…구직자 2천여명 발길",
+      "link": "https://www.yna.co.kr/view/AKR20260513156800063",
+      "pubDate": "Wed, 13 May 2026 17:54:38 +0900"
+    },
+    {
+      "title": "[특징주] 현대차 사상 첫 70만원 돌파…로봇 관련주 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260513128251008",
+      "pubDate": "Wed, 13 May 2026 17:52:20 +0900"
+    },
+    {
+      "title": "신세계 정용진, 한남동 단독주택 255억원에 매각",
+      "link": "https://www.yna.co.kr/view/AKR20260513160100003",
+      "pubDate": "Wed, 13 May 2026 17:51:45 +0900"
+    },
+    {
+      "title": "김정관 \"핵심기술 선점과 글로벌 연대로 세계 조선시장 석권\"",
+      "link": "https://www.yna.co.kr/view/AKR20260513159100003",
+      "pubDate": "Wed, 13 May 2026 17:46:31 +0900"
+    },
+    {
+      "title": "[부고] 박재명(농협중앙회 대전본부장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260513156600063",
+      "pubDate": "Wed, 13 May 2026 17:45:07 +0900"
+    },
+    {
+      "title": "광양만권공항활성화협의회, 여수공항에 철도 간이역 신설 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260513156900054",
+      "pubDate": "Wed, 13 May 2026 17:35:50 +0900"
+    },
+    {
+      "title": "남부발전, 자금 재조달로 금융비용 연간 423억원 절감",
+      "link": "https://www.yna.co.kr/view/AKR20260513157300051",
+      "pubDate": "Wed, 13 May 2026 17:34:11 +0900"
+    },
+    {
+      "title": "에이블씨엔씨 1분기 영업이익 94억원…전년 동기 대비 2배 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260513155200030",
+      "pubDate": "Wed, 13 May 2026 17:29:40 +0900"
+    },
     {
       "title": "반도체 제조장비·부품 기업 경쟁력 강화…지식재산협의체 출범",
       "link": "https://www.yna.co.kr/view/AKR20260513149800063",
@@ -67,91 +152,6 @@
       "title": "OTT 시대 유료방송 규제 해법 모색…\"사전규제 완화 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260513129900017",
       "pubDate": "Wed, 13 May 2026 16:30:21 +0900"
-    },
-    {
-      "title": "[AI픽] AI 보안 시대…\"기술보다 실행 체계가 핵심\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513131000017",
-      "pubDate": "Wed, 13 May 2026 16:29:14 +0900"
-    },
-    {
-      "title": "한투증권, 투자 솔루션 강화위한 운용사·자문사 초청 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260513141900008",
-      "pubDate": "Wed, 13 May 2026 16:28:57 +0900"
-    },
-    {
-      "title": "코스콤, 우리투자증권과 '토큰증권 플랫폼 사업 협력' MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260513141400008",
-      "pubDate": "Wed, 13 May 2026 16:28:09 +0900"
-    },
-    {
-      "title": "日언론 \"3대은행 곧 미토스 접근권 확보\"…앤트로픽은 확인 거부",
-      "link": "https://www.yna.co.kr/view/AKR20260513138300073",
-      "pubDate": "Wed, 13 May 2026 16:27:06 +0900"
-    },
-    {
-      "title": "중동전쟁 中企 피해·애로 799건…\"수출 지연·현지박람회 무산\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513139700030",
-      "pubDate": "Wed, 13 May 2026 16:26:53 +0900"
-    },
-    {
-      "title": "[게시판] 동원홈푸드, 오세득 셰프와 구내식당 특식 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260513108800030",
-      "pubDate": "Wed, 13 May 2026 16:23:41 +0900"
-    },
-    {
-      "title": "기계설비협회-LH, 안전·상생 협력 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260513108600030",
-      "pubDate": "Wed, 13 May 2026 16:23:11 +0900"
-    },
-    {
-      "title": "aT, 혁신자문위 개최…추경 활용 방안·신규 정책사업 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260513125000030",
-      "pubDate": "Wed, 13 May 2026 16:21:49 +0900"
-    },
-    {
-      "title": "외국인 닷새간 코스피 24조 '팔자'…매도 장기화? 차익 실현?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513081551008",
-      "pubDate": "Wed, 13 May 2026 16:21:10 +0900"
-    },
-    {
-      "title": "일산병원, 인공지능 기반 진료 'AX 플랫폼병원 추진단' 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260513139100060",
-      "pubDate": "Wed, 13 May 2026 16:20:15 +0900"
-    },
-    {
-      "title": "'하루만에 상승' 코스피, 변동성은 지속…'사상최고' 7,844 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513126551008",
-      "pubDate": "Wed, 13 May 2026 16:17:28 +0900"
-    },
-    {
-      "title": "금융위, 금감원에 홍콩 ELS 과징금 제재안 보완 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260513138100002",
-      "pubDate": "Wed, 13 May 2026 16:15:11 +0900"
-    },
-    {
-      "title": "한성숙 중기 장관 \"'모두의 창업' 전 과정 지원할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513105500030",
-      "pubDate": "Wed, 13 May 2026 16:14:08 +0900"
-    },
-    {
-      "title": "환율, 美 인플레 우려에 장중 1,500원 육박…1,490원선 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260513133000002",
-      "pubDate": "Wed, 13 May 2026 16:08:04 +0900"
-    },
-    {
-      "title": "金총리 \"원유 등 수급 비교적 안정적…정부, 물가관리 전력\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260513040951001",
-      "pubDate": "Wed, 13 May 2026 16:00:49 +0900"
-    },
-    {
-      "title": "삼성물산·포스코이앤씨, 신반포19·25차 조합원 홍보 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260513134000003",
-      "pubDate": "Wed, 13 May 2026 16:00:15 +0900"
-    },
-    {
-      "title": "오유경 식약처장 \"국민 안심 해썹 정책 만들겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260513041500017",
-      "pubDate": "Wed, 13 May 2026 16:00:01 +0900"
     }
   ]
 }
