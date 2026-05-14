@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778786043,
+  "updated_at_unix": 1778791783,
   "items": [
+    {
+      "title": "국제유가, 미중회담 지켜보며 보합권 마감…브렌트 105달러",
+      "link": "https://www.yna.co.kr/view/AKR20260515004700072",
+      "pubDate": "Fri, 15 May 2026 04:33:49 +0900"
+    },
     {
       "title": "달러-원, 뜨거운 인플레에 달러 강세 지속…1,493.40원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260515004300002",
@@ -147,11 +152,6 @@
       "title": "코스피, 또 사상최고 7,981…'8천피' 19포인트 남았다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260514136951008",
       "pubDate": "Thu, 14 May 2026 16:09:14 +0900"
-    },
-    {
-      "title": "전주 고용시장 '경고등'…생산 연령층 이탈·청년층 자영업 쏠림",
-      "link": "https://www.yna.co.kr/view/AKR20260514140800055",
-      "pubDate": "Thu, 14 May 2026 16:06:43 +0900"
     }
   ]
 }
