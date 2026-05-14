@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778795934,
+  "updated_at_unix": 1778799294,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260515012100011",
+      "pubDate": "Fri, 15 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "中, 美와 갈등에 아프리카서 수출 활로…1분기 32% 폭증",
+      "link": "https://www.yna.co.kr/view/AKR20260514127400898",
+      "pubDate": "Fri, 15 May 2026 07:01:02 +0900"
+    },
     {
       "title": "[팩트체크] 유류할증료 폭등에 항공편 일방 감편 늘어…보상은 어떻게",
       "link": "https://www.yna.co.kr/view/AKR20260508146000518",
@@ -142,16 +152,6 @@
       "title": "'서핑 성지' 양양군, 글로벌 서핑 교육 거점 구축 추진",
       "link": "https://www.yna.co.kr/view/AKR20260514147200062",
       "pubDate": "Thu, 14 May 2026 16:22:07 +0900"
-    },
-    {
-      "title": "삼성생명 1분기 순익 90%↑…삼전배당·삼성증권 등 자회사 효과(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260514058651527",
-      "pubDate": "Thu, 14 May 2026 16:17:15 +0900"
-    },
-    {
-      "title": "[특징주] 외국인, 삼전 6거래일만에 순매수…4%대 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260514041051008",
-      "pubDate": "Thu, 14 May 2026 16:14:03 +0900"
     }
   ]
 }
