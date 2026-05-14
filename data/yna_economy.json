@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778799294,
+  "updated_at_unix": 1778802257,
   "items": [
+    {
+      "title": "하나금융, 두나무에 1조원 규모 지분 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260515023900002",
+      "pubDate": "Fri, 15 May 2026 08:30:06 +0900"
+    },
+    {
+      "title": "IBK투자, SK아이이테크놀로지 목표가↓…\"연내 적자지속 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515021400008",
+      "pubDate": "Fri, 15 May 2026 08:28:25 +0900"
+    },
+    {
+      "title": "NH투자 \"삼성전기, MLCC 가격 인상 감지…목표가 150만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515022800008",
+      "pubDate": "Fri, 15 May 2026 08:26:03 +0900"
+    },
+    {
+      "title": "하나증권 \"내달 美주파수 경매 시작…통신장비주 본격상승 국면\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515021300008",
+      "pubDate": "Fri, 15 May 2026 08:24:42 +0900"
+    },
+    {
+      "title": "하나은행, 두나무 주식 1조33억원어치 취득…지분율 6.6%",
+      "link": "https://www.yna.co.kr/view/AKR20260515021000008",
+      "pubDate": "Fri, 15 May 2026 08:20:02 +0900"
+    },
+    {
+      "title": "대신증권 \"삼성생명, 투자이익 호조로 서프라이즈…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515020900008",
+      "pubDate": "Fri, 15 May 2026 08:17:35 +0900"
+    },
+    {
+      "title": "[마켓뷰] 19포인트 남았다…코스피, '8천피' 돌파 초읽기",
+      "link": "https://www.yna.co.kr/view/AKR20260515017100008",
+      "pubDate": "Fri, 15 May 2026 08:08:39 +0900"
+    },
+    {
+      "title": "부산 이전 공공기관 13곳 지역물품 구매 확대 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260515018000051",
+      "pubDate": "Fri, 15 May 2026 07:58:59 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260515012100011",
@@ -112,46 +152,6 @@
       "title": "\"전세, 매매가 점점 더 끌어올려…전세대출 보증 축소해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260514094051003",
       "pubDate": "Thu, 14 May 2026 16:50:23 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.654%",
-      "link": "https://www.yna.co.kr/view/AKR20260514153100008",
-      "pubDate": "Thu, 14 May 2026 16:43:34 +0900"
-    },
-    {
-      "title": "노조 회계공시 개편되나…노동부·한국노총 운영협의체서 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260514147400530",
-      "pubDate": "Thu, 14 May 2026 16:30:51 +0900"
-    },
-    {
-      "title": "해수부·부산상의, '해양수도 부산' 협력 방안 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260514148600051",
-      "pubDate": "Thu, 14 May 2026 16:30:00 +0900"
-    },
-    {
-      "title": "CEO가 들려주는 창업 이야기…관악구 '청소년 창업학교' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260514144400004",
-      "pubDate": "Thu, 14 May 2026 16:25:49 +0900"
-    },
-    {
-      "title": "[게시판] LH, 인천계양 3기 신도시 특별점검",
-      "link": "https://www.yna.co.kr/view/AKR20260514149700003",
-      "pubDate": "Thu, 14 May 2026 16:25:14 +0900"
-    },
-    {
-      "title": "DL이앤씨 \"압구정5구역 공사기간 57개월 달성 자신\"",
-      "link": "https://www.yna.co.kr/view/AKR20260514146800003",
-      "pubDate": "Thu, 14 May 2026 16:24:08 +0900"
-    },
-    {
-      "title": "이마트 \"계열사 신세계건설 주식 5천억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260514148700008",
-      "pubDate": "Thu, 14 May 2026 16:22:08 +0900"
-    },
-    {
-      "title": "'서핑 성지' 양양군, 글로벌 서핑 교육 거점 구축 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260514147200062",
-      "pubDate": "Thu, 14 May 2026 16:22:07 +0900"
     }
   ]
 }
