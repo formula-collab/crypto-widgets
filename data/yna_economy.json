@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778779001,
+  "updated_at_unix": 1778786043,
   "items": [
+    {
+      "title": "달러-원, 뜨거운 인플레에 달러 강세 지속…1,493.40원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260515004300002",
+      "pubDate": "Fri, 15 May 2026 04:07:15 +0900"
+    },
     {
       "title": "[표] 광역단체장 후보 납세상위 10걸",
       "link": "https://www.yna.co.kr/view/AKR20260514178700001",
@@ -147,11 +152,6 @@
       "title": "전주 고용시장 '경고등'…생산 연령층 이탈·청년층 자영업 쏠림",
       "link": "https://www.yna.co.kr/view/AKR20260514140800055",
       "pubDate": "Thu, 14 May 2026 16:06:43 +0900"
-    },
-    {
-      "title": "[게시판] 한·아프리카재단, 한-아프리카 농식품 협력 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260514143700898",
-      "pubDate": "Thu, 14 May 2026 16:06:16 +0900"
     }
   ]
 }
