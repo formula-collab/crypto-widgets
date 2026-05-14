@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778791783,
+  "updated_at_unix": 1778795934,
   "items": [
+    {
+      "title": "[팩트체크] 유류할증료 폭등에 항공편 일방 감편 늘어…보상은 어떻게",
+      "link": "https://www.yna.co.kr/view/AKR20260508146000518",
+      "pubDate": "Fri, 15 May 2026 06:30:00 +0900"
+    },
+    {
+      "title": "중기부, 자영업자 고용보험료 지원 전국 확대…충남 신규 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260514135900030",
+      "pubDate": "Fri, 15 May 2026 06:00:08 +0900"
+    },
+    {
+      "title": "예비임차인 대상 안전계약 컨설팅…\"전세사기 위험 사전 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514160300003",
+      "pubDate": "Fri, 15 May 2026 06:00:07 +0900"
+    },
+    {
+      "title": "반도체 가격 상승에 4월 수출물가 7.1%↑…수입물가는 2.3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260514161600002",
+      "pubDate": "Fri, 15 May 2026 06:00:04 +0900"
+    },
     {
       "title": "국제유가, 미중회담 지켜보며 보합권 마감…브렌트 105달러",
       "link": "https://www.yna.co.kr/view/AKR20260515004700072",
@@ -132,26 +152,6 @@
       "title": "[특징주] 외국인, 삼전 6거래일만에 순매수…4%대 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260514041051008",
       "pubDate": "Thu, 14 May 2026 16:14:03 +0900"
-    },
-    {
-      "title": "\"사업자 대출받아 규제지역 주택구입 다수 적발…대출 회수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260514138200001",
-      "pubDate": "Thu, 14 May 2026 16:12:58 +0900"
-    },
-    {
-      "title": "[특징주] 네이버, 5%대 급등 마감…'배민 인수' 기대감?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260514045651008",
-      "pubDate": "Thu, 14 May 2026 16:11:34 +0900"
-    },
-    {
-      "title": "환율, 외국인 매도 등에 5거래일째 상승…1,491.0원",
-      "link": "https://www.yna.co.kr/view/AKR20260514142200002",
-      "pubDate": "Thu, 14 May 2026 16:09:15 +0900"
-    },
-    {
-      "title": "코스피, 또 사상최고 7,981…'8천피' 19포인트 남았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260514136951008",
-      "pubDate": "Thu, 14 May 2026 16:09:14 +0900"
     }
   ]
 }
