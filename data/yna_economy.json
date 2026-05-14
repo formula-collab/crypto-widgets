@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778761236,
+  "updated_at_unix": 1778770904,
   "items": [
+    {
+      "title": "[표] 광역단체장 후보 납세상위 10걸",
+      "link": "https://www.yna.co.kr/view/AKR20260514178700001",
+      "pubDate": "Thu, 14 May 2026 22:16:17 +0900"
+    },
     {
       "title": "증권사들 역대급 실적…'투자의 시대'에 은행 중심 금융권 흔들",
       "link": "https://www.yna.co.kr/view/AKR20260514153600008",
@@ -147,11 +152,6 @@
       "title": "[게시판] 한·아프리카재단, 한-아프리카 농식품 협력 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260514143700898",
       "pubDate": "Thu, 14 May 2026 16:06:16 +0900"
-    },
-    {
-      "title": "산업은행, 전남서 'KDB V:Launch'…포스코홀딩스와 벤처지원 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260514144000002",
-      "pubDate": "Thu, 14 May 2026 16:04:56 +0900"
     }
   ]
 }
