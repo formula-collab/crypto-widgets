@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778747120,
+  "updated_at_unix": 1778755122,
   "items": [
+    {
+      "title": "우리은행 법인, '가상자산 환치기 직원 방조' 혐의 1심서 무죄",
+      "link": "https://www.yna.co.kr/view/AKR20260514168900004",
+      "pubDate": "Thu, 14 May 2026 18:11:32 +0900"
+    },
+    {
+      "title": "금호타이어 \"폴란드 자회사 주식 596억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514165400008",
+      "pubDate": "Thu, 14 May 2026 18:11:08 +0900"
+    },
+    {
+      "title": "[동정] 국토장관, 현대차그룹 새만금 투자 지원방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260514169700003",
+      "pubDate": "Thu, 14 May 2026 18:10:16 +0900"
+    },
+    {
+      "title": "지난달 금리 동결 찬성 일본은행 위원 \"조기 인상이 바람직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260514169500073",
+      "pubDate": "Thu, 14 May 2026 18:09:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260514162000011",
+      "pubDate": "Thu, 14 May 2026 18:00:00 +0900"
+    },
+    {
+      "title": "코스포, 리벨리온과 창업가 성장 프로그램 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260514163300017",
+      "pubDate": "Thu, 14 May 2026 17:30:44 +0900"
+    },
     {
       "title": "롯데관광개발 1분기 영업익 288억원…전년 동기 대비 2.2배 증가",
       "link": "https://www.yna.co.kr/view/AKR20260514153800030",
@@ -122,36 +152,6 @@
       "title": "통상본부장, EU·멕시코 연쇄 방문…철강·관세 등 현안 대응",
       "link": "https://www.yna.co.kr/view/AKR20260514142800003",
       "pubDate": "Thu, 14 May 2026 16:04:39 +0900"
-    },
-    {
-      "title": "[동정] 행안차관, 2차 고유가 지원금 준비 상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260514072900530",
-      "pubDate": "Thu, 14 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "국토부·주택건설업계 타운홀 미팅…공급 확대 의견 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260514136800003",
-      "pubDate": "Thu, 14 May 2026 15:59:36 +0900"
-    },
-    {
-      "title": "[특징주] 정유주, 미중정상회담 주시하며 혼조(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260514047751008",
-      "pubDate": "Thu, 14 May 2026 15:48:16 +0900"
-    },
-    {
-      "title": "신한투자 \"퇴직연금 수익률 2개 부문 증권업 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260514137700008",
-      "pubDate": "Thu, 14 May 2026 15:45:31 +0900"
-    },
-    {
-      "title": "인천시장 여야후보, '대장동 개발방식' 인천 적용 놓고 공방",
-      "link": "https://www.yna.co.kr/view/AKR20260514134500065",
-      "pubDate": "Thu, 14 May 2026 15:43:46 +0900"
-    },
-    {
-      "title": "신한은행, 관광공사 등과 4자 협약…\"日관광객 충청권 유치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260514137500002",
-      "pubDate": "Thu, 14 May 2026 15:43:31 +0900"
     }
   ]
 }
