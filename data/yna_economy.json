@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778843491,
+  "updated_at_unix": 1778850661,
   "items": [
+    {
+      "title": "중기부 '모두의 창업'에 6만2천여명 신청…상금 최대 5억",
+      "link": "https://www.yna.co.kr/view/AKR20260515183600030",
+      "pubDate": "Fri, 15 May 2026 21:16:24 +0900"
+    },
+    {
+      "title": "금융지주들 \"생산적·포용금융에 깊이 공감\"…이례적 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260515176600002",
+      "pubDate": "Fri, 15 May 2026 20:11:16 +0900"
+    },
     {
       "title": "토스증권, 1분기 영업익 작년보다 34%↑…매출은 분기 사상 최대",
       "link": "https://www.yna.co.kr/view/AKR20260515168500008",
@@ -142,16 +152,6 @@
       "title": "[코스피 8,000] '전인미답' 韓증시 새 장…'급락' 변동성 주목(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260509049752008",
       "pubDate": "Fri, 15 May 2026 16:36:45 +0900"
-    },
-    {
-      "title": "코스피, 장중 첫 '8천피'…차익실현에 6% 급락 7,500선 내줘(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515136700008",
-      "pubDate": "Fri, 15 May 2026 16:27:06 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20260515137200030",
-      "pubDate": "Fri, 15 May 2026 16:24:46 +0900"
     }
   ]
 }
