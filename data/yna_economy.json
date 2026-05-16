@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778963819,
+  "updated_at_unix": 1778967464,
   "items": [
+    {
+      "title": "'하이브리드의 힘'…캘리포니아서 도요타가 테슬라 넘어 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260516054000003",
+      "pubDate": "Sun, 17 May 2026 06:31:05 +0900"
+    },
+    {
+      "title": "[청년 장발장]②생활비 33만원 때문에 범죄자 전락…'저신용 굴레'",
+      "link": "https://www.yna.co.kr/view/AKR20260509048700004",
+      "pubDate": "Sun, 17 May 2026 06:15:04 +0900"
+    },
+    {
+      "title": "[청년 장발장]④'가난이 형벌' 됐지만…제도 개선은 30년째 공전",
+      "link": "https://www.yna.co.kr/view/AKR20260516046500004",
+      "pubDate": "Sun, 17 May 2026 06:15:04 +0900"
+    },
+    {
+      "title": "[청년 장발장]③\"천만원 대출? 돌아온 건 50일 노역\" 싱글맘의 절규",
+      "link": "https://www.yna.co.kr/view/AKR20260510000600004",
+      "pubDate": "Sun, 17 May 2026 06:15:03 +0900"
+    },
+    {
+      "title": "[청년 장발장]①8천피 축제의 뒤편…가난의 미로 헤매는 젊은층",
+      "link": "https://www.yna.co.kr/view/AKR20260503055200004",
+      "pubDate": "Sun, 17 May 2026 06:15:02 +0900"
+    },
+    {
+      "title": "서울 아파트 매매·전세·월세 '트리플 강세' 국면 조짐",
+      "link": "https://www.yna.co.kr/view/AKR20260517000500003",
+      "pubDate": "Sun, 17 May 2026 06:14:03 +0900"
+    },
+    {
+      "title": "이마트 \"고유가 피해지원금 사용 가능 임대 매장 990여곳\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515146700030",
+      "pubDate": "Sun, 17 May 2026 06:00:19 +0900"
+    },
+    {
+      "title": "봄 채소 출하 늘며 농산물값 안정세…수박·참외는 강세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260516025000030",
+      "pubDate": "Sun, 17 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "작년 삼전·하닉 등 대형 전자부품업 월급 1천만원 육박, 13%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260516044100002",
+      "pubDate": "Sun, 17 May 2026 05:57:01 +0900"
+    },
+    {
+      "title": "\"물 들어왔을때 노저어야 하는데\" 삼전 파업변수에 개미들 촉각",
+      "link": "https://www.yna.co.kr/view/AKR20260516033500008",
+      "pubDate": "Sun, 17 May 2026 05:55:40 +0900"
+    },
+    {
+      "title": "韓경제 회복 국면서 '삼전파업' 변수…중동전에 고물가도 부담",
+      "link": "https://www.yna.co.kr/view/AKR20260516049600002",
+      "pubDate": "Sun, 17 May 2026 05:55:30 +0900"
+    },
+    {
+      "title": "5대 손보사, 1분기 순익 13%↓…보험·투자수익 동반 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260516053600002",
+      "pubDate": "Sun, 17 May 2026 05:53:02 +0900"
+    },
+    {
+      "title": "은행서 차입해 저신용자 대출 '우수대부업' 5년째 제자리",
+      "link": "https://www.yna.co.kr/view/AKR20260516053700002",
+      "pubDate": "Sun, 17 May 2026 05:51:03 +0900"
+    },
+    {
+      "title": "대부업체 새도약 참여, 추가 유인책으로 속도…상록수 내달 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260516055400002",
+      "pubDate": "Sun, 17 May 2026 05:49:02 +0900"
+    },
+    {
+      "title": "'민생 경제 사정' 속도전…공정위·국세청·금감원 '가속 페달'",
+      "link": "https://www.yna.co.kr/view/AKR20260516051500002",
+      "pubDate": "Sun, 17 May 2026 05:47:02 +0900"
+    },
+    {
+      "title": "[고금리 온다] '이자이익' 기대에 4대금융 올해 순익 전망 20조 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260516054600002",
+      "pubDate": "Sun, 17 May 2026 05:45:05 +0900"
+    },
+    {
+      "title": "[고금리 온다] 한미 시장금리차 바짝 붙어…원화 가치 오를까",
+      "link": "https://www.yna.co.kr/view/AKR20260516046400002",
+      "pubDate": "Sun, 17 May 2026 05:45:03 +0900"
+    },
+    {
+      "title": "[고금리 온다] 금리 0.25%p만 올라도 가계 이자 연 3.2조 더 낸다",
+      "link": "https://www.yna.co.kr/view/AKR20260516056900002",
+      "pubDate": "Sun, 17 May 2026 05:45:02 +0900"
+    },
+    {
+      "title": "[고금리 온다] 中企 대출 부실 빨간불…대기업 여윳돈은 사상최대",
+      "link": "https://www.yna.co.kr/view/AKR20260516048900002",
+      "pubDate": "Sun, 17 May 2026 05:45:02 +0900"
+    },
     {
       "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급",
       "link": "https://www.yna.co.kr/view/AKR20260516054400530",
@@ -57,101 +152,6 @@
       "title": "인플레우려에 글로벌 채권투매…미국채30년물 금리 19년만에 최고(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260515202051072",
       "pubDate": "Sat, 16 May 2026 07:19:46 +0900"
-    },
-    {
-      "title": "첫 계절근로자 맞은 강화군, 농번기 인력난 해소될까",
-      "link": "https://www.yna.co.kr/view/AKR20260514152600065",
-      "pubDate": "Sat, 16 May 2026 07:16:00 +0900"
-    },
-    {
-      "title": "[금주핫템] 파타고니아 '캐필린 쿨 선'·안다르 '스윔웨어 21종'",
-      "link": "https://www.yna.co.kr/view/AKR20260514162900030",
-      "pubDate": "Sat, 16 May 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 크라운해태 '마이쮸 토마토'·빙그레 '아카페라 까페오레'",
-      "link": "https://www.yna.co.kr/view/AKR20260515067800030",
-      "pubDate": "Sat, 16 May 2026 07:00:01 +0900"
-    },
-    {
-      "title": "[AI돋보기] AI 확산에 몸값 뛰는 현장직, 짐 싸는 화이트칼라",
-      "link": "https://www.yna.co.kr/view/AKR20260515030400017",
-      "pubDate": "Sat, 16 May 2026 06:33:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 인천 송도 '더샵송도그란테르' 등 4천991가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260515095100003",
-      "pubDate": "Sat, 16 May 2026 06:00:19 +0900"
-    },
-    {
-      "title": "[샷!] \"에르메스 가방이 5만원?\"",
-      "link": "https://www.yna.co.kr/view/AKR20260512139900011",
-      "pubDate": "Sat, 16 May 2026 05:50:00 +0900"
-    },
-    {
-      "title": "국제유가, 미중회담 이란문제 빈손 종료에 상승…WTI 4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260516005200072",
-      "pubDate": "Sat, 16 May 2026 04:56:17 +0900"
-    },
-    {
-      "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260516003200002",
-      "pubDate": "Sat, 16 May 2026 03:17:49 +0900"
-    },
-    {
-      "title": "미 국채금리, 워시 연준의장 취임 앞두고 급등세…30년물 5.1%",
-      "link": "https://www.yna.co.kr/view/AKR20260515202000072",
-      "pubDate": "Sat, 16 May 2026 00:35:18 +0900"
-    },
-    {
-      "title": "중기부 '모두의 창업'에 6만2천여명 신청…상금 최대 5억",
-      "link": "https://www.yna.co.kr/view/AKR20260515183600030",
-      "pubDate": "Fri, 15 May 2026 21:16:24 +0900"
-    },
-    {
-      "title": "금융지주들 \"생산적·포용금융에 깊이 공감\"…이례적 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260515176600002",
-      "pubDate": "Fri, 15 May 2026 20:11:16 +0900"
-    },
-    {
-      "title": "토스증권, 1분기 영업익 작년보다 34%↑…매출은 분기 사상 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260515168500008",
-      "pubDate": "Fri, 15 May 2026 19:00:33 +0900"
-    },
-    {
-      "title": "국민연금, 중기자산배분 수립 중간보고…이달 내 의결",
-      "link": "https://www.yna.co.kr/view/AKR20260515169600530",
-      "pubDate": "Fri, 15 May 2026 18:56:37 +0900"
-    },
-    {
-      "title": "교보생명, 1분기 순이익 4천587억원…작년 대비 60.7%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260515165900002",
-      "pubDate": "Fri, 15 May 2026 18:31:36 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260515152800011",
-      "pubDate": "Fri, 15 May 2026 18:00:00 +0900"
-    },
-    {
-      "title": "남양유업, 1분기 영업이익 5억원…\"수출 증가에 흑자 기조 유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515160000030",
-      "pubDate": "Fri, 15 May 2026 17:58:18 +0900"
-    },
-    {
-      "title": "단일종목 레버리지 27일 출시…\"하루 60% 손실도, 단기투자용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515157900002",
-      "pubDate": "Fri, 15 May 2026 17:57:39 +0900"
-    },
-    {
-      "title": "롯데손보, 1분기 순손실 198억원…\"금리 급등에 투자영업 손실\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515158800002",
-      "pubDate": "Fri, 15 May 2026 17:56:53 +0900"
-    },
-    {
-      "title": "매일유업, 1분기 영업이익 188억원…전년 대비 44.6% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260515157400030",
-      "pubDate": "Fri, 15 May 2026 17:54:16 +0900"
     }
   ]
 }
