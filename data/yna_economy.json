@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778922611,
+  "updated_at_unix": 1778928099,
   "items": [
+    {
+      "title": "서울시, GTX 삼성역 철근누락 경과공개…\"설계보다 안전성 보강\"",
+      "link": "https://www.yna.co.kr/view/AKR20260516051100004",
+      "pubDate": "Sat, 16 May 2026 18:44:46 +0900"
+    },
     {
       "title": "[부고] 최종욱(주미한국대사관 해양수산관)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260516035900051",
@@ -147,11 +152,6 @@
       "title": "한투, 해외 거래소 OKX와 코인원 지분 공동 인수 추진(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260515102651002",
       "pubDate": "Fri, 15 May 2026 17:52:02 +0900"
-    },
-    {
-      "title": "美·日 국채 급등·유가 상승에 3년물 국고채 연 3.766%…11bp↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515143251008",
-      "pubDate": "Fri, 15 May 2026 17:48:50 +0900"
     }
   ]
 }
