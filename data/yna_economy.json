@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778859190,
+  "updated_at_unix": 1778896282,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260516025900011",
+      "pubDate": "Sat, 16 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 1분기 가계빚 추이는…4월 생산자물가도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260516016500002",
+      "pubDate": "Sat, 16 May 2026 09:34:26 +0900"
+    },
+    {
+      "title": "국가공무원 7급 공채 경쟁률 38.4대 1…1차 시험 7월 18일",
+      "link": "https://www.yna.co.kr/view/AKR20260516022700001",
+      "pubDate": "Sat, 16 May 2026 09:31:32 +0900"
+    },
+    {
+      "title": "\"초음파 전 밤샘·커피 3잔\"…부정맥 진단 사기 보험설계사 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260515112400051",
+      "pubDate": "Sat, 16 May 2026 09:04:00 +0900"
+    },
+    {
+      "title": "교통사고 현장서 금팔찌 '슬쩍' 보험사 직원, 벌금 300만원",
+      "link": "https://www.yna.co.kr/view/AKR20260515069900055",
+      "pubDate": "Sat, 16 May 2026 09:00:02 +0900"
+    },
+    {
+      "title": "주유소 기름값 7주 연속 상승…서울 휘발유 2천50원대 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260515160800003",
+      "pubDate": "Sat, 16 May 2026 08:35:27 +0900"
+    },
+    {
+      "title": "부산 아파트값 약보합세로…해운대·수영구는 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260515121100051",
+      "pubDate": "Sat, 16 May 2026 08:10:01 +0900"
+    },
+    {
+      "title": "인플레우려에 글로벌 채권투매…미국채30년물 금리 19년만에 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260515202051072",
+      "pubDate": "Sat, 16 May 2026 07:19:46 +0900"
+    },
+    {
+      "title": "첫 계절근로자 맞은 강화군, 농번기 인력난 해소될까",
+      "link": "https://www.yna.co.kr/view/AKR20260514152600065",
+      "pubDate": "Sat, 16 May 2026 07:16:00 +0900"
+    },
+    {
+      "title": "[금주핫템] 파타고니아 '캐필린 쿨 선'·안다르 '스윔웨어 21종'",
+      "link": "https://www.yna.co.kr/view/AKR20260514162900030",
+      "pubDate": "Sat, 16 May 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[신상잇슈] 크라운해태 '마이쮸 토마토'·빙그레 '아카페라 까페오레'",
+      "link": "https://www.yna.co.kr/view/AKR20260515067800030",
+      "pubDate": "Sat, 16 May 2026 07:00:01 +0900"
+    },
+    {
+      "title": "[AI돋보기] AI 확산에 몸값 뛰는 현장직, 짐 싸는 화이트칼라",
+      "link": "https://www.yna.co.kr/view/AKR20260515030400017",
+      "pubDate": "Sat, 16 May 2026 06:33:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 인천 송도 '더샵송도그란테르' 등 4천991가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260515095100003",
+      "pubDate": "Sat, 16 May 2026 06:00:19 +0900"
+    },
+    {
+      "title": "[샷!] \"에르메스 가방이 5만원?\"",
+      "link": "https://www.yna.co.kr/view/AKR20260512139900011",
+      "pubDate": "Sat, 16 May 2026 05:50:00 +0900"
+    },
+    {
+      "title": "국제유가, 미중회담 이란문제 빈손 종료에 상승…WTI 4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260516005200072",
+      "pubDate": "Sat, 16 May 2026 04:56:17 +0900"
+    },
+    {
+      "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260516003200002",
+      "pubDate": "Sat, 16 May 2026 03:17:49 +0900"
+    },
+    {
+      "title": "미 국채금리, 워시 연준의장 취임 앞두고 급등세…30년물 5.1%",
+      "link": "https://www.yna.co.kr/view/AKR20260515202000072",
+      "pubDate": "Sat, 16 May 2026 00:35:18 +0900"
+    },
     {
       "title": "중기부 '모두의 창업'에 6만2천여명 신청…상금 최대 5억",
       "link": "https://www.yna.co.kr/view/AKR20260515183600030",
@@ -67,91 +152,6 @@
       "title": "오리온, 1분기 영업익 전년비 26% 증가…\"해외 법인 견인\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260515082751030",
       "pubDate": "Fri, 15 May 2026 17:47:07 +0900"
-    },
-    {
-      "title": "노동부·민주노총, 2차 운영협의체…노란봉투법 정착 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260515157300530",
-      "pubDate": "Fri, 15 May 2026 17:45:38 +0900"
-    },
-    {
-      "title": "동부건설 1분기 영업이익 101억원…\"도급공사 중심 성장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515156400003",
-      "pubDate": "Fri, 15 May 2026 17:39:55 +0900"
-    },
-    {
-      "title": "한국씨티은행 1분기 순이익 1천328억, 61%↑…8년 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260515146600002",
-      "pubDate": "Fri, 15 May 2026 17:34:49 +0900"
-    },
-    {
-      "title": "SC제일은행, 1분기 순이익 1천49억원…작년 동기대비 6.3%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260515153400002",
-      "pubDate": "Fri, 15 May 2026 17:33:06 +0900"
-    },
-    {
-      "title": "롯데카드 1분기 순이익 206억원, 44%↑…\"리스크관리·비용절감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515146200002",
-      "pubDate": "Fri, 15 May 2026 17:28:22 +0900"
-    },
-    {
-      "title": "대상, 1분기 영업이익 570억원…\"원가 절감으로 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515150300030",
-      "pubDate": "Fri, 15 May 2026 17:24:44 +0900"
-    },
-    {
-      "title": "김진일 금통위원 \"이자율 반클릭 정도 높은 게 좋아\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515118451002",
-      "pubDate": "Fri, 15 May 2026 17:21:44 +0900"
-    },
-    {
-      "title": "롯데건설 1분기 영업이익 504억원…작년 대비 12.4배↑",
-      "link": "https://www.yna.co.kr/view/AKR20260515146500003",
-      "pubDate": "Fri, 15 May 2026 17:20:50 +0900"
-    },
-    {
-      "title": "빙그레, 1분기 영업익 138억원…\"해외 이익이 단기 비용 상쇄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515149400030",
-      "pubDate": "Fri, 15 May 2026 17:19:59 +0900"
-    },
-    {
-      "title": "노벨상 하윗 \"AI稅 급진적…사회환원 판단하긴 시기상조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515143400002",
-      "pubDate": "Fri, 15 May 2026 17:18:52 +0900"
-    },
-    {
-      "title": "LB세미콘, 500억원 주주배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260515149500008",
-      "pubDate": "Fri, 15 May 2026 17:15:51 +0900"
-    },
-    {
-      "title": "\"창업은 호서대\"…모두의 창업 프로젝트 접수 '전국 1위'",
-      "link": "https://www.yna.co.kr/view/AKR20260515150100063",
-      "pubDate": "Fri, 15 May 2026 17:14:16 +0900"
-    },
-    {
-      "title": "노벨상 하윗 \"韓 친성장 정책 펼치며 재정적자도 잘 관리\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515073851002",
-      "pubDate": "Fri, 15 May 2026 17:11:06 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 선사에 팬스타라인닷컴 예비 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260515148800051",
-      "pubDate": "Fri, 15 May 2026 17:08:18 +0900"
-    },
-    {
-      "title": "[코스피 8,000] 1년만에 '2,000선→8천피' 초고속 랠리…쏟아진 기록들(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515034251008",
-      "pubDate": "Fri, 15 May 2026 16:49:58 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 급등…3년물 연 3.766%",
-      "link": "https://www.yna.co.kr/view/AKR20260515143200008",
-      "pubDate": "Fri, 15 May 2026 16:43:35 +0900"
-    },
-    {
-      "title": "[코스피 8,000] '전인미답' 韓증시 새 장…'급락' 변동성 주목(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260509049752008",
-      "pubDate": "Fri, 15 May 2026 16:36:45 +0900"
     }
   ]
 }
