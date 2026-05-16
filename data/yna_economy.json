@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778961310,
+  "updated_at_unix": 1778963819,
   "items": [
+    {
+      "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260516054400530",
+      "pubDate": "Sun, 17 May 2026 05:31:02 +0900"
+    },
     {
       "title": "서울시, GTX 삼성역 철근누락 경과공개…\"설계보다 안전성 보강\"",
       "link": "https://www.yna.co.kr/view/AKR20260516051100004",
@@ -147,11 +152,6 @@
       "title": "매일유업, 1분기 영업이익 188억원…전년 대비 44.6% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260515157400030",
       "pubDate": "Fri, 15 May 2026 17:54:16 +0900"
-    },
-    {
-      "title": "한투, 해외 거래소 OKX와 코인원 지분 공동 인수 추진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515102651002",
-      "pubDate": "Fri, 15 May 2026 17:52:02 +0900"
     }
   ]
 }
