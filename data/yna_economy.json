@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778896282,
+  "updated_at_unix": 1778908671,
   "items": [
+    {
+      "title": "[부고] 최종욱(주미한국대사관 해양수산관)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260516035900051",
+      "pubDate": "Sat, 16 May 2026 13:46:20 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260516025900011",
@@ -147,11 +152,6 @@
       "title": "美·日 국채 급등·유가 상승에 3년물 국고채 연 3.766%…11bp↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260515143251008",
       "pubDate": "Fri, 15 May 2026 17:48:50 +0900"
-    },
-    {
-      "title": "오리온, 1분기 영업익 전년비 26% 증가…\"해외 법인 견인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515082751030",
-      "pubDate": "Fri, 15 May 2026 17:47:07 +0900"
     }
   ]
 }
