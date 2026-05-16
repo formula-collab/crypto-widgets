@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778967464,
+  "updated_at_unix": 1778970845,
   "items": [
+    {
+      "title": "코스피 0.06% 하락에 증권주는 11% 폭락…지난주 최대하락 업종",
+      "link": "https://www.yna.co.kr/view/AKR20260516031800008",
+      "pubDate": "Sun, 17 May 2026 07:25:00 +0900"
+    },
+    {
+      "title": "사상 최고 랠리에 '황제주' 11개, 역대최다…차기 후보군은?",
+      "link": "https://www.yna.co.kr/view/AKR20260516033700008",
+      "pubDate": "Sun, 17 May 2026 07:15:02 +0900"
+    },
+    {
+      "title": "알뜰폰 흔드는 저가 5G…'가격 메리트' 사라지나",
+      "link": "https://www.yna.co.kr/view/AKR20260515122500017",
+      "pubDate": "Sun, 17 May 2026 07:13:03 +0900"
+    },
+    {
+      "title": "주춤했던 서학개미 다시 '쑥'…美주식 보관액 300조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260516036200008",
+      "pubDate": "Sun, 17 May 2026 07:10:02 +0900"
+    },
+    {
+      "title": "정유4사 1분기 영업익 6조에도…\"착시효과 오래 못가\" 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260515154700003",
+      "pubDate": "Sun, 17 May 2026 07:03:02 +0900"
+    },
+    {
+      "title": "[마켓人] 장혜원 피치 이사 \"AI 메모리, 과거 호황보다 수요층 넓어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515165300008",
+      "pubDate": "Sun, 17 May 2026 07:01:02 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 추가조정? 상승재개?…'8천피 찍고 급락' 코스피 향배는",
+      "link": "https://www.yna.co.kr/view/AKR20260516018900008",
+      "pubDate": "Sun, 17 May 2026 07:00:10 +0900"
+    },
+    {
+      "title": "석유 최고가격제 우리만?…57개국 고유가 대응 총력전",
+      "link": "https://www.yna.co.kr/view/AKR20260516044700003",
+      "pubDate": "Sun, 17 May 2026 06:45:02 +0900"
+    },
     {
       "title": "'하이브리드의 힘'…캘리포니아서 도요타가 테슬라 넘어 1위",
       "link": "https://www.yna.co.kr/view/AKR20260516054000003",
@@ -112,46 +152,6 @@
       "title": "[부고] 최종욱(주미한국대사관 해양수산관)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260516035900051",
       "pubDate": "Sat, 16 May 2026 13:46:20 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260516025900011",
-      "pubDate": "Sat, 16 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 1분기 가계빚 추이는…4월 생산자물가도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260516016500002",
-      "pubDate": "Sat, 16 May 2026 09:34:26 +0900"
-    },
-    {
-      "title": "국가공무원 7급 공채 경쟁률 38.4대 1…1차 시험 7월 18일",
-      "link": "https://www.yna.co.kr/view/AKR20260516022700001",
-      "pubDate": "Sat, 16 May 2026 09:31:32 +0900"
-    },
-    {
-      "title": "\"초음파 전 밤샘·커피 3잔\"…부정맥 진단 사기 보험설계사 실형",
-      "link": "https://www.yna.co.kr/view/AKR20260515112400051",
-      "pubDate": "Sat, 16 May 2026 09:04:00 +0900"
-    },
-    {
-      "title": "교통사고 현장서 금팔찌 '슬쩍' 보험사 직원, 벌금 300만원",
-      "link": "https://www.yna.co.kr/view/AKR20260515069900055",
-      "pubDate": "Sat, 16 May 2026 09:00:02 +0900"
-    },
-    {
-      "title": "주유소 기름값 7주 연속 상승…서울 휘발유 2천50원대 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260515160800003",
-      "pubDate": "Sat, 16 May 2026 08:35:27 +0900"
-    },
-    {
-      "title": "부산 아파트값 약보합세로…해운대·수영구는 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260515121100051",
-      "pubDate": "Sat, 16 May 2026 08:10:01 +0900"
-    },
-    {
-      "title": "인플레우려에 글로벌 채권투매…미국채30년물 금리 19년만에 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515202051072",
-      "pubDate": "Sat, 16 May 2026 07:19:46 +0900"
     }
   ]
 }
