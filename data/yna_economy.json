@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779050901,
+  "updated_at_unix": 1779054172,
   "items": [
+    {
+      "title": "식품서 유리조각·식중독균까지…회수 연 100건 넘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260515124700017",
+      "pubDate": "Mon, 18 May 2026 06:33:01 +0900"
+    },
+    {
+      "title": "[팩트체크] 내 신용점수 왜 떨어졌지?…산정 기준과 관리 방법은",
+      "link": "https://www.yna.co.kr/view/AKR20260515127400518",
+      "pubDate": "Mon, 18 May 2026 06:30:00 +0900"
+    },
+    {
+      "title": "중기부, 'AI 인재 창업패키지 시범사업' 공모…최대 2억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260516043200030",
+      "pubDate": "Mon, 18 May 2026 06:00:16 +0900"
+    },
+    {
+      "title": "대법 \"美기업이 한국서 받은 '노하우' 대가는 법인세 대상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260517027000004",
+      "pubDate": "Mon, 18 May 2026 06:00:14 +0900"
+    },
+    {
+      "title": "작년 증권사 해외점포 순익 67.8%↑…증시 호조 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260517028200002",
+      "pubDate": "Mon, 18 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "금융위, 청년 재무상담 시범사업…재무진단으로 1:1 맞춤형",
+      "link": "https://www.yna.co.kr/view/AKR20260516025300002",
+      "pubDate": "Mon, 18 May 2026 06:00:03 +0900"
+    },
+    {
+      "title": "주식시장 결제 T+1 추진 본격화…\"내년 10월께 시행 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260516061400002",
+      "pubDate": "Mon, 18 May 2026 05:53:02 +0900"
+    },
+    {
+      "title": "반도체 슈퍼사이클 맞은 코스피…수도권 주택시가총액 넘은 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260517056500002",
+      "pubDate": "Mon, 18 May 2026 05:51:03 +0900"
+    },
     {
       "title": "2차 고유가 지원금 신청 오늘부터…10만∼25만원 지급",
       "link": "https://www.yna.co.kr/view/AKR20260517046700530",
@@ -112,46 +152,6 @@
       "title": "내일부터 농지 전수조사…AI·드론 활용해 투기 점검",
       "link": "https://www.yna.co.kr/view/AKR20260516023800030",
       "pubDate": "Sun, 17 May 2026 11:00:09 +0900"
-    },
-    {
-      "title": "올해 봄철 산불 피해 면적 작년보다 99% 감소…인명 피해 '0명'",
-      "link": "https://www.yna.co.kr/view/AKR20260515164800030",
-      "pubDate": "Sun, 17 May 2026 11:00:08 +0900"
-    },
-    {
-      "title": "해수부, FAO와 부산서 '국제수산법 훈련 과정' 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260516022800051",
-      "pubDate": "Sun, 17 May 2026 11:00:07 +0900"
-    },
-    {
-      "title": "해수부, 부산서 '아태지역 해상 연계성 강화 국제포럼'",
-      "link": "https://www.yna.co.kr/view/AKR20260516022900051",
-      "pubDate": "Sun, 17 May 2026 11:00:07 +0900"
-    },
-    {
-      "title": "해수부, 18일부터 '해양수산 규제 합리화 과제' 공모전",
-      "link": "https://www.yna.co.kr/view/AKR20260516023000051",
-      "pubDate": "Sun, 17 May 2026 11:00:06 +0900"
-    },
-    {
-      "title": "구윤철, 런던서 한국경제 투자설명회…파리서 G7 회의도 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260517018600002",
-      "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
-    },
-    {
-      "title": "도심복합사업 공모에 강남3구 포함 44곳 주민제안 제출",
-      "link": "https://www.yna.co.kr/view/AKR20260517016600003",
-      "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
-    },
-    {
-      "title": "대형마트들 \"임대매장선 고유가 피해지원금 사용 가능\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260515146751030",
-      "pubDate": "Sun, 17 May 2026 10:38:25 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 전사 AI 경진대회…현장 혁신모델 발굴",
-      "link": "https://www.yna.co.kr/view/AKR20260517020600003",
-      "pubDate": "Sun, 17 May 2026 10:32:31 +0900"
     }
   ]
 }
