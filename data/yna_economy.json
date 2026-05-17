@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779054172,
+  "updated_at_unix": 1779057690,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260518009700011",
+      "pubDate": "Mon, 18 May 2026 07:30:01 +0900"
+    },
     {
       "title": "식품서 유리조각·식중독균까지…회수 연 100건 넘었다",
       "link": "https://www.yna.co.kr/view/AKR20260515124700017",
@@ -147,11 +152,6 @@
       "title": "[게시판] 농식품부, 내달 19일까지 농식품 규제 합리화 공모전 개최",
       "link": "https://www.yna.co.kr/view/AKR20260515155500030",
       "pubDate": "Sun, 17 May 2026 11:00:10 +0900"
-    },
-    {
-      "title": "내일부터 농지 전수조사…AI·드론 활용해 투기 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260516023800030",
-      "pubDate": "Sun, 17 May 2026 11:00:09 +0900"
     }
   ]
 }
