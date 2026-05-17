@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778982903,
+  "updated_at_unix": 1778996377,
   "items": [
+    {
+      "title": "[게시판] 서비스마케팅학회, 인천 강화도서 특별세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260517033200065",
+      "pubDate": "Sun, 17 May 2026 14:19:13 +0900"
+    },
+    {
+      "title": "'안전사고땐 민형사 책임 다 져라'…갑질 건설사 3곳 과징금 7억",
+      "link": "https://www.yna.co.kr/view/AKR20260515161600002",
+      "pubDate": "Sun, 17 May 2026 12:00:20 +0900"
+    },
+    {
+      "title": "작년 전자금융업 매출 12조원…등록회사 34곳↑",
+      "link": "https://www.yna.co.kr/view/AKR20260516028700002",
+      "pubDate": "Sun, 17 May 2026 12:00:19 +0900"
+    },
+    {
+      "title": "4월 금융권 주담대 5.5조원↑…\"집값 상승폭 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260515155900002",
+      "pubDate": "Sun, 17 May 2026 12:00:13 +0900"
+    },
+    {
+      "title": "신현송 한은 총재, G7 재무장관·중앙은행 총재 회의 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260516029500002",
+      "pubDate": "Sun, 17 May 2026 12:00:12 +0900"
+    },
+    {
+      "title": "한은 \"현금 사용 감소로 ATM 업체 수익성 악화…유통 위축 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260516036000002",
+      "pubDate": "Sun, 17 May 2026 12:00:12 +0900"
+    },
+    {
+      "title": "금융위 \"가계대출 증가세 안정…주담대 확대에 모니터링 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260516052900002",
+      "pubDate": "Sun, 17 May 2026 12:00:08 +0900"
+    },
+    {
+      "title": "올해 1분기 벤처투자 3조3천억원…전년 동기 대비 24.1% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260516040800030",
+      "pubDate": "Sun, 17 May 2026 12:00:07 +0900"
+    },
+    {
+      "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260516054451530",
+      "pubDate": "Sun, 17 May 2026 12:00:07 +0900"
+    },
+    {
+      "title": "재경부, G20 재무차관 회의서 공급망 안정화 방안 마련 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20260517020700002",
+      "pubDate": "Sun, 17 May 2026 12:00:05 +0900"
+    },
+    {
+      "title": "경총 \"해고 규제 완화하고 호봉제 대신 직무·성과급으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260517015200003",
+      "pubDate": "Sun, 17 May 2026 12:00:04 +0900"
+    },
+    {
+      "title": "金총리 \"삼성전자 파업 고집 안 돼…긴급조정 등 모든수단 강구\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260517022551001",
+      "pubDate": "Sun, 17 May 2026 11:54:54 +0900"
+    },
+    {
+      "title": "21년만에 긴급조정권 발동?…과거 4차례, 합의·강제중재 마무리",
+      "link": "https://www.yna.co.kr/view/AKR20260515150800530",
+      "pubDate": "Sun, 17 May 2026 11:43:13 +0900"
+    },
+    {
+      "title": "정부, 삼성전자에 긴급조정권 첫 거론…\"마지막 기회\" 최대 압박",
+      "link": "https://www.yna.co.kr/view/AKR20260516031400530",
+      "pubDate": "Sun, 17 May 2026 11:41:30 +0900"
+    },
+    {
+      "title": "\"다주택자, 외곽부터 팔았나\"…서울 아파트 15억이하 거래 81%",
+      "link": "https://www.yna.co.kr/view/AKR20260517023600003",
+      "pubDate": "Sun, 17 May 2026 11:38:50 +0900"
+    },
+    {
+      "title": "'서울배달+ 땡겨요' 서울사랑상품권 2만원 쓰면 5천원 쿠폰",
+      "link": "https://www.yna.co.kr/view/AKR20260516021700004",
+      "pubDate": "Sun, 17 May 2026 11:15:01 +0900"
+    },
+    {
+      "title": "[게시판] 농식품부, 내달 19일까지 농식품 규제 합리화 공모전 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260515155500030",
+      "pubDate": "Sun, 17 May 2026 11:00:10 +0900"
+    },
+    {
+      "title": "내일부터 농지 전수조사…AI·드론 활용해 투기 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260516023800030",
+      "pubDate": "Sun, 17 May 2026 11:00:09 +0900"
+    },
+    {
+      "title": "올해 봄철 산불 피해 면적 작년보다 99% 감소…인명 피해 '0명'",
+      "link": "https://www.yna.co.kr/view/AKR20260515164800030",
+      "pubDate": "Sun, 17 May 2026 11:00:08 +0900"
+    },
+    {
+      "title": "해수부, FAO와 부산서 '국제수산법 훈련 과정' 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260516022800051",
+      "pubDate": "Sun, 17 May 2026 11:00:07 +0900"
+    },
+    {
+      "title": "해수부, 부산서 '아태지역 해상 연계성 강화 국제포럼'",
+      "link": "https://www.yna.co.kr/view/AKR20260516022900051",
+      "pubDate": "Sun, 17 May 2026 11:00:07 +0900"
+    },
+    {
+      "title": "해수부, 18일부터 '해양수산 규제 합리화 과제' 공모전",
+      "link": "https://www.yna.co.kr/view/AKR20260516023000051",
+      "pubDate": "Sun, 17 May 2026 11:00:06 +0900"
+    },
+    {
+      "title": "도심복합사업 공모에 강남3구 포함 44곳 주민제안 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260517016600003",
+      "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
+    },
+    {
+      "title": "구윤철, 런던서 한국경제 투자설명회…파리서 G7 회의도 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260517018600002",
+      "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
+    },
     {
       "title": "대형마트들 \"임대매장선 고유가 피해지원금 사용 가능\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260515146751030",
@@ -32,126 +152,6 @@
       "title": "쿠팡풀필먼트서비스, 평택·대구서 물류 인재 채용 박람회 연다",
       "link": "https://www.yna.co.kr/view/AKR20260517015500030",
       "pubDate": "Sun, 17 May 2026 09:37:02 +0900"
-    },
-    {
-      "title": "KB국민은행 \"12년 연속 '대한민국 최우수 수탁은행' 수상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260516029100002",
-      "pubDate": "Sun, 17 May 2026 09:00:10 +0900"
-    },
-    {
-      "title": "[게시판] 강태영 농협은행장, 강원테크노파크 임직원과 농촌 일손돕기",
-      "link": "https://www.yna.co.kr/view/AKR20260516036400002",
-      "pubDate": "Sun, 17 May 2026 09:00:08 +0900"
-    },
-    {
-      "title": "KB금융, 원화코인 결제·정산·해외송금 기술검증 완료",
-      "link": "https://www.yna.co.kr/view/AKR20260515052900002",
-      "pubDate": "Sun, 17 May 2026 09:00:06 +0900"
-    },
-    {
-      "title": "우리은행, 고객 금융 고민 상담해주는 '우리 이음상담센터' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260516036900002",
-      "pubDate": "Sun, 17 May 2026 09:00:04 +0900"
-    },
-    {
-      "title": "구글 무대 밟는 K스타트업 10곳…AI로 글로벌 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260515157500017",
-      "pubDate": "Sun, 17 May 2026 08:13:01 +0900"
-    },
-    {
-      "title": "소상공인 임차인 월세 평균 112만원…연 영업이익 4천800만원",
-      "link": "https://www.yna.co.kr/view/AKR20260516032000030",
-      "pubDate": "Sun, 17 May 2026 08:01:00 +0900"
-    },
-    {
-      "title": "[게시판] 수은, 한국지능정보사회진흥원과 AI 기업 해외진출 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260516036700002",
-      "pubDate": "Sun, 17 May 2026 08:00:07 +0900"
-    },
-    {
-      "title": "DL이앤씨, 압구정5구역 승부수…\"공기단축해 세대당 1억 절감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260516053200003",
-      "pubDate": "Sun, 17 May 2026 07:55:03 +0900"
-    },
-    {
-      "title": "코스피 0.06% 하락에 증권주는 11% 폭락…지난주 최대하락 업종",
-      "link": "https://www.yna.co.kr/view/AKR20260516031800008",
-      "pubDate": "Sun, 17 May 2026 07:25:00 +0900"
-    },
-    {
-      "title": "사상 최고 랠리에 '황제주' 11개, 역대최다…차기 후보군은?",
-      "link": "https://www.yna.co.kr/view/AKR20260516033700008",
-      "pubDate": "Sun, 17 May 2026 07:15:02 +0900"
-    },
-    {
-      "title": "알뜰폰 흔드는 저가 5G…'가격 메리트' 사라지나",
-      "link": "https://www.yna.co.kr/view/AKR20260515122500017",
-      "pubDate": "Sun, 17 May 2026 07:13:03 +0900"
-    },
-    {
-      "title": "주춤했던 서학개미 다시 '쑥'…美주식 보관액 300조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260516036200008",
-      "pubDate": "Sun, 17 May 2026 07:10:02 +0900"
-    },
-    {
-      "title": "정유4사 1분기 영업익 6조에도…\"착시효과 오래 못가\" 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260515154700003",
-      "pubDate": "Sun, 17 May 2026 07:03:02 +0900"
-    },
-    {
-      "title": "[마켓人] 장혜원 피치 이사 \"AI 메모리, 과거 호황보다 수요층 넓어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515165300008",
-      "pubDate": "Sun, 17 May 2026 07:01:02 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 추가조정? 상승재개?…'8천피 찍고 급락' 코스피 향배는",
-      "link": "https://www.yna.co.kr/view/AKR20260516018900008",
-      "pubDate": "Sun, 17 May 2026 07:00:10 +0900"
-    },
-    {
-      "title": "석유 최고가격제 우리만?…57개국 고유가 대응 총력전",
-      "link": "https://www.yna.co.kr/view/AKR20260516044700003",
-      "pubDate": "Sun, 17 May 2026 06:45:02 +0900"
-    },
-    {
-      "title": "'하이브리드의 힘'…캘리포니아서 도요타가 테슬라 넘어 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260516054000003",
-      "pubDate": "Sun, 17 May 2026 06:31:05 +0900"
-    },
-    {
-      "title": "[청년 장발장]②생활비 33만원 때문에 범죄자 전락…'저신용 굴레'",
-      "link": "https://www.yna.co.kr/view/AKR20260509048700004",
-      "pubDate": "Sun, 17 May 2026 06:15:04 +0900"
-    },
-    {
-      "title": "[청년 장발장]④'가난이 형벌' 됐지만…제도 개선은 30년째 공전",
-      "link": "https://www.yna.co.kr/view/AKR20260516046500004",
-      "pubDate": "Sun, 17 May 2026 06:15:04 +0900"
-    },
-    {
-      "title": "[청년 장발장]③\"천만원 대출? 돌아온 건 50일 노역\" 싱글맘의 절규",
-      "link": "https://www.yna.co.kr/view/AKR20260510000600004",
-      "pubDate": "Sun, 17 May 2026 06:15:03 +0900"
-    },
-    {
-      "title": "[청년 장발장]①8천피 축제의 뒤편…가난의 미로 헤매는 젊은층",
-      "link": "https://www.yna.co.kr/view/AKR20260503055200004",
-      "pubDate": "Sun, 17 May 2026 06:15:02 +0900"
-    },
-    {
-      "title": "서울 아파트 매매·전세·월세 '트리플 강세' 국면 조짐",
-      "link": "https://www.yna.co.kr/view/AKR20260517000500003",
-      "pubDate": "Sun, 17 May 2026 06:14:03 +0900"
-    },
-    {
-      "title": "이마트 \"고유가 피해지원금 사용 가능 임대 매장 990여곳\"",
-      "link": "https://www.yna.co.kr/view/AKR20260515146700030",
-      "pubDate": "Sun, 17 May 2026 06:00:19 +0900"
-    },
-    {
-      "title": "봄 채소 출하 늘며 농산물값 안정세…수박·참외는 강세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260516025000030",
-      "pubDate": "Sun, 17 May 2026 06:00:01 +0900"
     }
   ]
 }
