@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779057690,
+  "updated_at_unix": 1779061505,
   "items": [
+    {
+      "title": "아산시, 풍기역 지구 내 임대주택 용지 체비지 매각 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260518021000063",
+      "pubDate": "Mon, 18 May 2026 08:37:13 +0900"
+    },
+    {
+      "title": "DS투자, CJ 목표가↑…\"올리브영 제2 출점 사이클 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260518017900008",
+      "pubDate": "Mon, 18 May 2026 08:24:45 +0900"
+    },
+    {
+      "title": "[마켓뷰] '8천피 찍고 급락' 코스피, 추가조정·반등 시도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260518016300008",
+      "pubDate": "Mon, 18 May 2026 08:15:57 +0900"
+    },
+    {
+      "title": "셀트리온 \"베그젤마, 일본서 점유율 64%…시장 1위 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260518016900017",
+      "pubDate": "Mon, 18 May 2026 08:11:46 +0900"
+    },
+    {
+      "title": "LG그램, 미국 컨슈머리포트 '올해 최고의 노트북' 평가서 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260515156600003",
+      "pubDate": "Mon, 18 May 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산시, 민관협력 기반 중소벤처기업 인수합병 활성화 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260518013900051",
+      "pubDate": "Mon, 18 May 2026 07:57:03 +0900"
+    },
+    {
+      "title": "부산시, 중동전쟁 장기화 대응 민관합동 점검 회의",
+      "link": "https://www.yna.co.kr/view/AKR20260518013600051",
+      "pubDate": "Mon, 18 May 2026 07:55:57 +0900"
+    },
+    {
+      "title": "은행권 예금 금리 줄인상…'머니무브'에 고객 붙잡기 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260518012900002",
+      "pubDate": "Mon, 18 May 2026 07:40:09 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260518009700011",
@@ -112,46 +152,6 @@
       "title": "내일부터 2차 고유가 지원금 신청…소득 하위 70% 지급(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260516054451530",
       "pubDate": "Sun, 17 May 2026 12:00:07 +0900"
-    },
-    {
-      "title": "재경부, G20 재무차관 회의서 공급망 안정화 방안 마련 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260517020700002",
-      "pubDate": "Sun, 17 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "경총 \"해고 규제 완화하고 호봉제 대신 직무·성과급으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260517015200003",
-      "pubDate": "Sun, 17 May 2026 12:00:04 +0900"
-    },
-    {
-      "title": "金총리 \"삼성전자 파업 고집 안 돼…긴급조정 등 모든수단 강구\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260517022551001",
-      "pubDate": "Sun, 17 May 2026 11:54:54 +0900"
-    },
-    {
-      "title": "21년만에 긴급조정권 발동?…과거 4차례, 합의·강제중재 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260515150800530",
-      "pubDate": "Sun, 17 May 2026 11:43:13 +0900"
-    },
-    {
-      "title": "정부, 삼성전자에 긴급조정권 첫 거론…\"마지막 기회\" 최대 압박",
-      "link": "https://www.yna.co.kr/view/AKR20260516031400530",
-      "pubDate": "Sun, 17 May 2026 11:41:30 +0900"
-    },
-    {
-      "title": "\"다주택자, 외곽부터 팔았나\"…서울 아파트 15억이하 거래 81%",
-      "link": "https://www.yna.co.kr/view/AKR20260517023600003",
-      "pubDate": "Sun, 17 May 2026 11:38:50 +0900"
-    },
-    {
-      "title": "'서울배달+ 땡겨요' 서울사랑상품권 2만원 쓰면 5천원 쿠폰",
-      "link": "https://www.yna.co.kr/view/AKR20260516021700004",
-      "pubDate": "Sun, 17 May 2026 11:15:01 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, 내달 19일까지 농식품 규제 합리화 공모전 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260515155500030",
-      "pubDate": "Sun, 17 May 2026 11:00:10 +0900"
     }
   ]
 }
