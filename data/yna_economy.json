@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779047912,
+  "updated_at_unix": 1779050901,
   "items": [
+    {
+      "title": "2차 고유가 지원금 신청 오늘부터…10만∼25만원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260517046700530",
+      "pubDate": "Mon, 18 May 2026 05:31:02 +0900"
+    },
     {
       "title": "金총리 \"삼성전자 파업 고집 안 돼…긴급조정 등 모든수단 강구\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260517022552001",
@@ -147,11 +152,6 @@
       "title": "포스코이앤씨, 전사 AI 경진대회…현장 혁신모델 발굴",
       "link": "https://www.yna.co.kr/view/AKR20260517020600003",
       "pubDate": "Sun, 17 May 2026 10:32:31 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260517018400011",
-      "pubDate": "Sun, 17 May 2026 10:30:02 +0900"
     }
   ]
 }
