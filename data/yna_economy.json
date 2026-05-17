@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1778996377,
+  "updated_at_unix": 1779005238,
   "items": [
+    {
+      "title": "金총리 \"삼성전자 파업 고집 안 돼…긴급조정 등 모든수단 강구\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260517022552001",
+      "pubDate": "Sun, 17 May 2026 15:54:55 +0900"
+    },
+    {
+      "title": "정부, 삼성전자에 긴급조정권 첫 시사…\"마지막 기회\" 최대 압박(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260516031451530",
+      "pubDate": "Sun, 17 May 2026 15:10:18 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260517035400011",
+      "pubDate": "Sun, 17 May 2026 15:00:02 +0900"
+    },
     {
       "title": "[게시판] 서비스마케팅학회, 인천 강화도서 특별세미나",
       "link": "https://www.yna.co.kr/view/AKR20260517033200065",
@@ -114,13 +129,13 @@
       "pubDate": "Sun, 17 May 2026 11:00:06 +0900"
     },
     {
-      "title": "도심복합사업 공모에 강남3구 포함 44곳 주민제안 제출",
-      "link": "https://www.yna.co.kr/view/AKR20260517016600003",
+      "title": "구윤철, 런던서 한국경제 투자설명회…파리서 G7 회의도 참석",
+      "link": "https://www.yna.co.kr/view/AKR20260517018600002",
       "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
     },
     {
-      "title": "구윤철, 런던서 한국경제 투자설명회…파리서 G7 회의도 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260517018600002",
+      "title": "도심복합사업 공모에 강남3구 포함 44곳 주민제안 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260517016600003",
       "pubDate": "Sun, 17 May 2026 11:00:02 +0900"
     },
     {
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260517018400011",
       "pubDate": "Sun, 17 May 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[부고] 문병삼(한국자산관리공사 기획조정실장)씨 장인상",
-      "link": "https://www.yna.co.kr/view/AKR20260517020400034",
-      "pubDate": "Sun, 17 May 2026 10:28:05 +0900"
-    },
-    {
-      "title": "LG전자, 프리미엄 제품 'SKS·LG 시그니처' 전용 구독 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260517011200003",
-      "pubDate": "Sun, 17 May 2026 10:00:01 +0900"
-    },
-    {
-      "title": "쿠팡풀필먼트서비스, 평택·대구서 물류 인재 채용 박람회 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260517015500030",
-      "pubDate": "Sun, 17 May 2026 09:37:02 +0900"
     }
   ]
 }
