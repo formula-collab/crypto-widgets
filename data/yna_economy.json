@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779137436,
+  "updated_at_unix": 1779141414,
   "items": [
+    {
+      "title": "울산시, 도시청결기동대 채용…상반기 폐기물 148t 수거",
+      "link": "https://www.yna.co.kr/view/AKR20260518153000057",
+      "pubDate": "Tue, 19 May 2026 06:00:15 +0900"
+    },
+    {
+      "title": "중기부, 스마트제조 전문인력 사업 추진…인턴 인건비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260518106700030",
+      "pubDate": "Tue, 19 May 2026 06:00:14 +0900"
+    },
+    {
+      "title": "중기부, APEC 中企 실무회의…\"아태지역 기업 상생 생태계 구축\"",
+      "link": "https://www.yna.co.kr/view/AKR20260518125000030",
+      "pubDate": "Tue, 19 May 2026 06:00:10 +0900"
+    },
+    {
+      "title": "종합소득세·개인지방소득세 납기 6월 1일…서울시, 신고 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260518152400004",
+      "pubDate": "Tue, 19 May 2026 06:00:05 +0900"
+    },
+    {
+      "title": "금감원장 \"빚투·레버리지 투자 조장에 경각심…AI 대응 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260518153900002",
+      "pubDate": "Tue, 19 May 2026 06:00:04 +0900"
+    },
+    {
+      "title": "여전 사잇돌대출 출시 10월 가닥…중금리대출 후속조치 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260518154600002",
+      "pubDate": "Tue, 19 May 2026 05:57:01 +0900"
+    },
+    {
+      "title": "신현송 주택 3채 중 1채 처분…배우자 외화자산 아직 보유",
+      "link": "https://www.yna.co.kr/view/AKR20260518132600002",
+      "pubDate": "Tue, 19 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "원화 코인 늦어지는데…'예금토큰 상용화' 준비는 착착",
+      "link": "https://www.yna.co.kr/view/AKR20260518147000002",
+      "pubDate": "Tue, 19 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "해외주식 양도세 100% 면제 'D-2주'…RIA계좌 잔고 2조 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260518163200002",
+      "pubDate": "Tue, 19 May 2026 05:51:01 +0900"
+    },
     {
       "title": "달러-원, 이란 종전 협상 기대로 낙폭 확대…급등 후 숨고르기",
       "link": "https://www.yna.co.kr/view/AKR20260519005100002",
@@ -107,51 +152,6 @@
       "title": "하이트진로 장인섭 대표·임원진, 자사주 매입…\"책임경영 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260518133500030",
       "pubDate": "Mon, 18 May 2026 16:58:06 +0900"
-    },
-    {
-      "title": "'자동차 판매업' 오토핸즈, 코스닥 상장 예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260518137300008",
-      "pubDate": "Mon, 18 May 2026 16:58:05 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.757%",
-      "link": "https://www.yna.co.kr/view/AKR20260518133900008",
-      "pubDate": "Mon, 18 May 2026 16:44:18 +0900"
-    },
-    {
-      "title": "코스피, 美국채 '발작' 등에 변동성↑…상승마감했지만 불안불안(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260518064651008",
-      "pubDate": "Mon, 18 May 2026 16:42:59 +0900"
-    },
-    {
-      "title": "농식품부·aT, 대만서 'K포장마차' 팝업…\"한강라면 체험 인기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260518131100030",
-      "pubDate": "Mon, 18 May 2026 16:41:48 +0900"
-    },
-    {
-      "title": "코스피, 장초반 '출렁'하다 상승전환…7,500선 회복 강보합(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260518119951008",
-      "pubDate": "Mon, 18 May 2026 16:32:39 +0900"
-    },
-    {
-      "title": "[쇼츠] 노조에 제동 건 법원 판결…삼전 총파업 D-3 최후 담판",
-      "link": "https://www.yna.co.kr/view/AKR20260518123900704",
-      "pubDate": "Mon, 18 May 2026 16:11:30 +0900"
-    },
-    {
-      "title": "전북 경제계, 이원택·김관영 후보에 \"지역경제 활성화\" 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260518125100055",
-      "pubDate": "Mon, 18 May 2026 16:09:58 +0900"
-    },
-    {
-      "title": "[인사] 동양생명",
-      "link": "https://www.yna.co.kr/view/AKR20260518125700002",
-      "pubDate": "Mon, 18 May 2026 16:00:50 +0900"
-    },
-    {
-      "title": "경찰이 발굴한 취약계층에 사랑의열매가 최대 300만원 지원키로",
-      "link": "https://www.yna.co.kr/view/AKR20260518080300004",
-      "pubDate": "Mon, 18 May 2026 16:00:03 +0900"
     }
   ]
 }
