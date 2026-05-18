@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779114225,
+  "updated_at_unix": 1779124468,
   "items": [
+    {
+      "title": "美 인플레 우려에 주택대출금리 상승…주택거래 부진 가중",
+      "link": "https://www.yna.co.kr/view/AKR20260518166800072",
+      "pubDate": "Tue, 19 May 2026 00:00:33 +0900"
+    },
     {
       "title": "CJ그룹 여직원 330여명 개인정보 유출…\"내부 소행 가능성\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260518162051030",
@@ -147,11 +152,6 @@
       "title": "서울시 \"GTX삼성역 철근 누락, 국토부 보고 전 철도공단에 보고\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260518110951004",
       "pubDate": "Mon, 18 May 2026 15:59:44 +0900"
-    },
-    {
-      "title": "[게시판] NH농협은행, 중소기업 특화 '원클릭 세무' 서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260518123000002",
-      "pubDate": "Mon, 18 May 2026 15:59:27 +0900"
     }
   ]
 }
