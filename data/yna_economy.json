@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779101689,
+  "updated_at_unix": 1779114225,
   "items": [
+    {
+      "title": "CJ그룹 여직원 330여명 개인정보 유출…\"내부 소행 가능성\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260518162051030",
+      "pubDate": "Mon, 18 May 2026 22:14:59 +0900"
+    },
+    {
+      "title": "CJ그룹 여직원 개인정보 텔레그램 유출…\"수사 의뢰 예정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260518162000030",
+      "pubDate": "Mon, 18 May 2026 21:23:42 +0900"
+    },
+    {
+      "title": "산업은행, 'SK실트론 인수' 두산그룹에 2.5조 금융 주선",
+      "link": "https://www.yna.co.kr/view/AKR20260518160200002",
+      "pubDate": "Mon, 18 May 2026 20:28:24 +0900"
+    },
+    {
+      "title": "한국유니온제약, 유상증자…부광약품 주식회사에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260518151400008",
+      "pubDate": "Mon, 18 May 2026 20:04:55 +0900"
+    },
+    {
+      "title": "한국유니온제약, 유상증자…박광석 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260518151300008",
+      "pubDate": "Mon, 18 May 2026 20:04:35 +0900"
+    },
     {
       "title": "은행권 예금 금리 줄인상…'머니무브'에 고객 붙잡기 경쟁(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260518012951002",
@@ -127,31 +152,6 @@
       "title": "[게시판] NH농협은행, 중소기업 특화 '원클릭 세무' 서비스 출시",
       "link": "https://www.yna.co.kr/view/AKR20260518123000002",
       "pubDate": "Mon, 18 May 2026 15:59:27 +0900"
-    },
-    {
-      "title": "'당국 개입 경계감' 환율, 7거래일 만에 하락…1,500.3원",
-      "link": "https://www.yna.co.kr/view/AKR20260518122900002",
-      "pubDate": "Mon, 18 May 2026 15:59:11 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 장중 상승전환해 급등마감…하닉도 1%↑(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260518031452008",
-      "pubDate": "Mon, 18 May 2026 15:56:48 +0900"
-    },
-    {
-      "title": "관세청장 \"마약 밀반입 차단 최우선 과제…단속체계 전면재설계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260518122600002",
-      "pubDate": "Mon, 18 May 2026 15:51:31 +0900"
-    },
-    {
-      "title": "[특징주] 현대해상, 1분기 보험손익 개선 '호실적'에 15% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260518039451008",
-      "pubDate": "Mon, 18 May 2026 15:46:56 +0900"
-    },
-    {
-      "title": "한세엠케이, 1분기 매출 660억원…전년 동기 대비 9.9% 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260518112200030",
-      "pubDate": "Mon, 18 May 2026 15:45:43 +0900"
     }
   ]
 }
