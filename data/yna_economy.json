@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779124468,
+  "updated_at_unix": 1779131379,
   "items": [
+    {
+      "title": "달러-원, 이란 종전 협상 기대로 낙폭 확대…급등 후 숨고르기",
+      "link": "https://www.yna.co.kr/view/AKR20260519005100002",
+      "pubDate": "Tue, 19 May 2026 03:35:40 +0900"
+    },
+    {
+      "title": "앤트로픽, G20 금융당국에 'AI 사이버위협' 브리핑…FSB 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260519003300091",
+      "pubDate": "Tue, 19 May 2026 02:41:45 +0900"
+    },
+    {
+      "title": "美 \"에너지 취약국들에 해상 러시아산 원유 30일간 거래 허가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260519003400071",
+      "pubDate": "Tue, 19 May 2026 02:37:36 +0900"
+    },
     {
       "title": "美 인플레 우려에 주택대출금리 상승…주택거래 부진 가중",
       "link": "https://www.yna.co.kr/view/AKR20260518166800072",
@@ -137,21 +152,6 @@
       "title": "경찰이 발굴한 취약계층에 사랑의열매가 최대 300만원 지원키로",
       "link": "https://www.yna.co.kr/view/AKR20260518080300004",
       "pubDate": "Mon, 18 May 2026 16:00:03 +0900"
-    },
-    {
-      "title": "재정사업 36% 구조조정 대상에…예산 최대 7.7조 삭감 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260518102800002",
-      "pubDate": "Mon, 18 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "국세청, 전국 7개 산업단지서 해외진출 중소기업 세무지원",
-      "link": "https://www.yna.co.kr/view/AKR20260518120000002",
-      "pubDate": "Mon, 18 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "서울시 \"GTX삼성역 철근 누락, 국토부 보고 전 철도공단에 보고\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260518110951004",
-      "pubDate": "Mon, 18 May 2026 15:59:44 +0900"
     }
   ]
 }
