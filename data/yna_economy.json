@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779141414,
+  "updated_at_unix": 1779144806,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카 사헬의 붕괴…쿠데타 이후 위기와 기회",
+      "link": "https://www.yna.co.kr/view/AKR20260508042200898",
+      "pubDate": "Tue, 19 May 2026 07:00:03 +0900"
+    },
     {
       "title": "울산시, 도시청결기동대 채용…상반기 폐기물 148t 수거",
       "link": "https://www.yna.co.kr/view/AKR20260518153000057",
@@ -147,11 +152,6 @@
       "title": "행안부-공무원노조, 비상근무자 처우 개선 등 논의",
       "link": "https://www.yna.co.kr/view/AKR20260518036900530",
       "pubDate": "Mon, 18 May 2026 17:00:07 +0900"
-    },
-    {
-      "title": "하이트진로 장인섭 대표·임원진, 자사주 매입…\"책임경영 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260518133500030",
-      "pubDate": "Mon, 18 May 2026 16:58:06 +0900"
     }
   ]
 }
