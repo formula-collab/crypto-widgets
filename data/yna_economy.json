@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779222159,
+  "updated_at_unix": 1779227471,
   "items": [
+    {
+      "title": "금융지주들이 본 올해 韓 경제…\"반도체가 견인, 체감과는 괴리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260519151600002",
+      "pubDate": "Wed, 20 May 2026 06:34:08 +0900"
+    },
+    {
+      "title": "평양선 1달러에 7만100원, 올들어 80% 뛰어…\"통화량 증가 때문\"",
+      "link": "https://www.yna.co.kr/view/AKR20260519151500002",
+      "pubDate": "Wed, 20 May 2026 06:33:30 +0900"
+    },
+    {
+      "title": "금융사가 민원 원인 직접 분석…감축계획 이번주 금감원 제출",
+      "link": "https://www.yna.co.kr/view/AKR20260519134900002",
+      "pubDate": "Wed, 20 May 2026 06:33:04 +0900"
+    },
+    {
+      "title": "[만나보니] 한국보다 미국서 더 뜬 멘탈앱…구글도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260519136200017",
+      "pubDate": "Wed, 20 May 2026 06:33:00 +0900"
+    },
+    {
+      "title": "후시딘·마데카솔의 변신…제약사들 K뷰티 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260519126900017",
+      "pubDate": "Wed, 20 May 2026 06:13:00 +0900"
+    },
+    {
+      "title": "지난달 서울 생애최초 주택 매수자 4년5개월만에 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260519158600003",
+      "pubDate": "Wed, 20 May 2026 06:01:01 +0900"
+    },
+    {
+      "title": "서울시보건환경연구원, 민간과 협력해 '석면 차단' 특허 등록",
+      "link": "https://www.yna.co.kr/view/AKR20260519138600004",
+      "pubDate": "Wed, 20 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "1분기 국내은행 당기순익 6조7천억원…이자이익↑·비이자이익↓",
+      "link": "https://www.yna.co.kr/view/AKR20260519125800002",
+      "pubDate": "Wed, 20 May 2026 06:00:05 +0900"
+    },
     {
       "title": "국제유가, 이란 협상 진전 기대에 4거래일 만에 소폭 하락",
       "link": "https://www.yna.co.kr/view/AKR20260520007200072",
@@ -112,46 +152,6 @@
       "title": "씨티 \"한은 5월 동결 전망…호르무즈 깜짝 개방시 올릴 수도\"",
       "link": "https://www.yna.co.kr/view/AKR20260519121900002",
       "pubDate": "Tue, 19 May 2026 16:13:57 +0900"
-    },
-    {
-      "title": "'발명의 날 기념식'…SK하이닉스 안현 사장, 금탑산업훈장",
-      "link": "https://www.yna.co.kr/view/AKR20260519135600063",
-      "pubDate": "Tue, 19 May 2026 16:08:57 +0900"
-    },
-    {
-      "title": "신한은행, 삼정KPMG와 중소기업 M&A·승계 자문 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260519135100002",
-      "pubDate": "Tue, 19 May 2026 16:08:05 +0900"
-    },
-    {
-      "title": "정읍시장 후보 3인 3색 공약…'바이오·민생·기업 유치'",
-      "link": "https://www.yna.co.kr/view/AKR20260519134200055",
-      "pubDate": "Tue, 19 May 2026 16:04:06 +0900"
-    },
-    {
-      "title": "행안장관, 고유가지원금 지급현장 점검…\"기한내 꼭 사용\" 당부",
-      "link": "https://www.yna.co.kr/view/AKR20260519067600530",
-      "pubDate": "Tue, 19 May 2026 16:00:04 +0900"
-    },
-    {
-      "title": "구윤철, 유럽부흥은행과 AI허브 설립 논의…\"개도국 도약 기회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260519119900002",
-      "pubDate": "Tue, 19 May 2026 16:00:03 +0900"
-    },
-    {
-      "title": "[특징주] 실리콘투, 2%대 상승 마감…인수설 루머 영향?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260519061151008",
-      "pubDate": "Tue, 19 May 2026 15:55:37 +0900"
-    },
-    {
-      "title": "'주식 사고팔기' 누가 더 자주?…70대 이상이 20대의 4배",
-      "link": "https://www.yna.co.kr/view/AKR20260519131500008",
-      "pubDate": "Tue, 19 May 2026 15:54:43 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스, 5%대 급락 마감…삼전은 2% 내려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260519038251008",
-      "pubDate": "Tue, 19 May 2026 15:51:34 +0900"
     }
   ]
 }
