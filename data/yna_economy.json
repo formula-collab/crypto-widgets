@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779216650,
+  "updated_at_unix": 1779222159,
   "items": [
+    {
+      "title": "국제유가, 이란 협상 진전 기대에 4거래일 만에 소폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260520007200072",
+      "pubDate": "Wed, 20 May 2026 04:43:50 +0900"
+    },
+    {
+      "title": "달러-원, 美 국채금리 급등에 추가 상승…1,508.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260520006500002",
+      "pubDate": "Wed, 20 May 2026 04:05:45 +0900"
+    },
     {
       "title": "글로벌 국채투매에 미국채 30년 금리 5.18%…2007년 이후 최고",
       "link": "https://www.yna.co.kr/view/AKR20260519180200072",
@@ -142,16 +152,6 @@
       "title": "[특징주] SK하이닉스, 5%대 급락 마감…삼전은 2% 내려(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260519038251008",
       "pubDate": "Tue, 19 May 2026 15:51:34 +0900"
-    },
-    {
-      "title": "환율 하루 만에 다시 상승, 1,507.8원…한 달 반 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260519131400002",
-      "pubDate": "Tue, 19 May 2026 15:44:49 +0900"
-    },
-    {
-      "title": "[특징주] 네오위즈홀딩스, 100억원 자사주취득 소식에 한때 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260519043251008",
-      "pubDate": "Tue, 19 May 2026 15:39:42 +0900"
     }
   ]
 }
