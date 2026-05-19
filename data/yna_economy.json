@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779227471,
+  "updated_at_unix": 1779231310,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260520015700011",
+      "pubDate": "Wed, 20 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "금융당국 경고에도…삼전·닉스' 레버리지 ETF 투자자 유치 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260519160500008",
+      "pubDate": "Wed, 20 May 2026 07:08:33 +0900"
+    },
+    {
+      "title": "'건폐율 완화' 이견…천안 성성고 신설 차질 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260519128600063",
+      "pubDate": "Wed, 20 May 2026 07:05:01 +0900"
+    },
     {
       "title": "금융지주들이 본 올해 韓 경제…\"반도체가 견인, 체감과는 괴리\"",
       "link": "https://www.yna.co.kr/view/AKR20260519151600002",
@@ -137,21 +152,6 @@
       "title": "노동단체 \"삼성노조 투쟁 정당\"…주주단체 \"긴급조정권 발동해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260519138300004",
       "pubDate": "Tue, 19 May 2026 16:21:17 +0900"
-    },
-    {
-      "title": "'연일 널뛰기' 코스피, 변동성 장세 지속…\"과속부담 해소 덜돼\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260519117051008",
-      "pubDate": "Tue, 19 May 2026 16:16:19 +0900"
-    },
-    {
-      "title": "K-바이오, 중국 5천700조 실버시장 공략…'메디컬 코리아' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260519139900003",
-      "pubDate": "Tue, 19 May 2026 16:15:10 +0900"
-    },
-    {
-      "title": "씨티 \"한은 5월 동결 전망…호르무즈 깜짝 개방시 올릴 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260519121900002",
-      "pubDate": "Tue, 19 May 2026 16:13:57 +0900"
     }
   ]
 }
