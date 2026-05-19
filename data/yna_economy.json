@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779231310,
+  "updated_at_unix": 1779234755,
   "items": [
+    {
+      "title": "KB證, 삼성전자 \"파업 우려 주가에 선반영돼…실적 개선에 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520026700008",
+      "pubDate": "Wed, 20 May 2026 08:42:06 +0900"
+    },
+    {
+      "title": "삼성증권, HL만도 목표가↑…\"전기차 수요에 실적회복구간 진입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520024500008",
+      "pubDate": "Wed, 20 May 2026 08:33:52 +0900"
+    },
+    {
+      "title": "교보증권 \"두산테스나, 파운드리 확대에 따른 수혜…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520025100008",
+      "pubDate": "Wed, 20 May 2026 08:30:04 +0900"
+    },
+    {
+      "title": "대신證 \"삼성바이오, 단기조정은 기회…목표가 200만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520023200008",
+      "pubDate": "Wed, 20 May 2026 08:26:50 +0900"
+    },
+    {
+      "title": "서초구 \"올해 1천154억원 들여 일자리 2만629개 만든다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520022900004",
+      "pubDate": "Wed, 20 May 2026 08:11:29 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260520015700011",
@@ -127,31 +152,6 @@
       "title": "국세청 \"국민성장펀드, 소득확인증명서 미리 챙기세요\"",
       "link": "https://www.yna.co.kr/view/AKR20260519145200002",
       "pubDate": "Tue, 19 May 2026 16:45:30 +0900"
-    },
-    {
-      "title": "변동성 이어진 코스피, 7,200선으로 밀려…시총 5천조원대로 축소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260519079951008",
-      "pubDate": "Tue, 19 May 2026 16:44:17 +0900"
-    },
-    {
-      "title": "HUG 사장 \"협동조합형 공공지원 민간임대 거주기간 연장 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260519145800003",
-      "pubDate": "Tue, 19 May 2026 16:43:47 +0900"
-    },
-    {
-      "title": "공정위 '가맹점 갑질 의혹' 약손명가 현장 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260519141500002",
-      "pubDate": "Tue, 19 May 2026 16:36:57 +0900"
-    },
-    {
-      "title": "행안부, '총재 직무대행 정관 위반' 자유총연맹 특별검사",
-      "link": "https://www.yna.co.kr/view/AKR20260519140600530",
-      "pubDate": "Tue, 19 May 2026 16:33:57 +0900"
-    },
-    {
-      "title": "노동단체 \"삼성노조 투쟁 정당\"…주주단체 \"긴급조정권 발동해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260519138300004",
-      "pubDate": "Tue, 19 May 2026 16:21:17 +0900"
     }
   ]
 }
