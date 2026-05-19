@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779198019,
+  "updated_at_unix": 1779208975,
   "items": [
+    {
+      "title": "글로벌 국채투매에 미국채 30년 금리 5.18%…2007년 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260519180200072",
+      "pubDate": "Tue, 19 May 2026 23:31:39 +0900"
+    },
     {
       "title": "日 \"한일정상회담서 에너지 안보 협력 논의\"…CPTPP는 논의 안돼",
       "link": "https://www.yna.co.kr/view/AKR20260519172900504",
@@ -147,11 +152,6 @@
       "title": "[특징주] 네오위즈홀딩스, 100억원 자사주취득 소식에 한때 상한가(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260519043251008",
       "pubDate": "Tue, 19 May 2026 15:39:42 +0900"
-    },
-    {
-      "title": "코스피, 3% 넘게 내리며 7,270대 마감…코스닥도 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260519129000008",
-      "pubDate": "Tue, 19 May 2026 15:38:29 +0900"
     }
   ]
 }
