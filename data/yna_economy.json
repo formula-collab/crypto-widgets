@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779279916,
+  "updated_at_unix": 1779292989,
   "items": [
+    {
+      "title": "경총 \"삼성전자 최악 상황 피해 다행…불확실성 해소해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260520195700003",
+      "pubDate": "Wed, 20 May 2026 23:46:10 +0900"
+    },
+    {
+      "title": "\"주가 누르던 리스크 털었다\"…삼성노사 극적 합의에 투자자 안도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260520127751008",
+      "pubDate": "Wed, 20 May 2026 23:15:25 +0900"
+    },
+    {
+      "title": "'주가조작 패가망신 2호' NH證 임원 檢 고발…미공개정보 이용",
+      "link": "https://www.yna.co.kr/view/AKR20260520190800002",
+      "pubDate": "Wed, 20 May 2026 22:30:24 +0900"
+    },
     {
       "title": "주가조작·회계부정 포상금 상한 폐지…가담 신고자도 받는다",
       "link": "https://www.yna.co.kr/view/AKR20260520183500002",
@@ -137,21 +152,6 @@
       "title": "CJ그룹, 여직원 330명 개인정보 유출 경찰 수사 의뢰",
       "link": "https://www.yna.co.kr/view/AKR20260520151100030",
       "pubDate": "Wed, 20 May 2026 16:21:26 +0900"
-    },
-    {
-      "title": "양산시, '2026 로컬크리에이터' 8개 기업 선정…육성 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260520150100052",
-      "pubDate": "Wed, 20 May 2026 16:16:12 +0900"
-    },
-    {
-      "title": "농식품부 \"올해도 K푸드 수출 순항…1∼4월 수출액 4.7% 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520141400030",
-      "pubDate": "Wed, 20 May 2026 16:16:09 +0900"
-    },
-    {
-      "title": "강원도, 경제총조사 실시본부 가동…6월 본격 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260520150300062",
-      "pubDate": "Wed, 20 May 2026 16:16:00 +0900"
     }
   ]
 }
