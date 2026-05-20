@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779315548,
+  "updated_at_unix": 1779320672,
   "items": [
+    {
+      "title": "키움證 \"리노공업, 반도체 테스트소켓 수요 증가…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521029900008",
+      "pubDate": "Thu, 21 May 2026 08:36:57 +0900"
+    },
+    {
+      "title": "한투증권 \"5월 금통위, 금리 동결하되 인상 소수의견 있을 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521028400008",
+      "pubDate": "Thu, 21 May 2026 08:34:23 +0900"
+    },
+    {
+      "title": "현대건설, 고급 아파트 단지에 '미술품 수장고' 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260521029200003",
+      "pubDate": "Thu, 21 May 2026 08:33:32 +0900"
+    },
+    {
+      "title": "'주가조작 패가망신 2호' NH證 임원 檢 고발…미공개정보 이용(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260520190851002",
+      "pubDate": "Thu, 21 May 2026 08:32:05 +0900"
+    },
+    {
+      "title": "하루 임대료 1천원…보령시, 천원주택 17채 입주자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260521029100063",
+      "pubDate": "Thu, 21 May 2026 08:27:52 +0900"
+    },
+    {
+      "title": "미래에셋, 삼성전자 목표가 48만원으로 상향…\"가격상승 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521028100008",
+      "pubDate": "Thu, 21 May 2026 08:25:12 +0900"
+    },
+    {
+      "title": "[마켓뷰] 삼성전자 노사 잠정 합의에 코스피 반등할까",
+      "link": "https://www.yna.co.kr/view/AKR20260521024500008",
+      "pubDate": "Thu, 21 May 2026 08:06:41 +0900"
+    },
+    {
+      "title": "관악구, 관악S밸리-미림마이스터고 인재 발굴 돕는다",
+      "link": "https://www.yna.co.kr/view/AKR20260521025700004",
+      "pubDate": "Thu, 21 May 2026 08:03:44 +0900"
+    },
+    {
+      "title": "유류세 인하 7월 말까지 2개월 연장…휘발유 15%·경유 25%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260520167000002",
+      "pubDate": "Thu, 21 May 2026 08:00:09 +0900"
+    },
+    {
+      "title": "[속보] 유류세 인하 7월 말까지 2개월 연장…휘발유 15%·경유 25%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260520173100002",
+      "pubDate": "Thu, 21 May 2026 08:00:06 +0900"
+    },
+    {
+      "title": "공동주택 관리비 비리 뿌리 뽑는다…처벌 수위 대폭 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260520169100003",
+      "pubDate": "Thu, 21 May 2026 08:00:06 +0900"
+    },
+    {
+      "title": "매점매석 이득액보다 과징금 더 물린다…신고포상도 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260520162000002",
+      "pubDate": "Thu, 21 May 2026 08:00:05 +0900"
+    },
+    {
+      "title": "[만나보니] 구글 딥마인드 \"한국 AI 생태계와 더 깊게 간다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521019500017",
+      "pubDate": "Thu, 21 May 2026 07:39:22 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260521018000011",
+      "pubDate": "Thu, 21 May 2026 07:30:00 +0900"
+    },
     {
       "title": "[글로컬] 가계빚 부모, 빚투 자녀 모두 '잔인한 계절' 맞나",
       "link": "https://www.yna.co.kr/view/AKR20260520148600546",
@@ -82,76 +152,6 @@
       "title": "\"주가 누르던 리스크 털었다\"…삼성노사 극적 합의에 투자자 안도(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260520127751008",
       "pubDate": "Wed, 20 May 2026 23:15:25 +0900"
-    },
-    {
-      "title": "'주가조작 패가망신 2호' NH證 임원 檢 고발…미공개정보 이용",
-      "link": "https://www.yna.co.kr/view/AKR20260520190800002",
-      "pubDate": "Wed, 20 May 2026 22:30:24 +0900"
-    },
-    {
-      "title": "주가조작·회계부정 포상금 상한 폐지…가담 신고자도 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260520183500002",
-      "pubDate": "Wed, 20 May 2026 20:10:40 +0900"
-    },
-    {
-      "title": "한화證, 두나무 지분 약 6천억원 추가 취득…3대주주(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260520169051008",
-      "pubDate": "Wed, 20 May 2026 18:53:09 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260520167600011",
-      "pubDate": "Wed, 20 May 2026 18:00:01 +0900"
-    },
-    {
-      "title": "이억원 \"회수 아닌 회생이 중요…5∼7년 연체채권도 심각\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520170900002",
-      "pubDate": "Wed, 20 May 2026 17:59:21 +0900"
-    },
-    {
-      "title": "NH투자, GS동해전력과 '온실가스 배출권거래제 상호 협력' MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260520171400008",
-      "pubDate": "Wed, 20 May 2026 17:55:38 +0900"
-    },
-    {
-      "title": "모건스탠리 \"5월 금통위서 금리 인상 신호…10월 인상 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520170000008",
-      "pubDate": "Wed, 20 May 2026 17:48:02 +0900"
-    },
-    {
-      "title": "한화투자증권 \"두나무 주식 5천978억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520169000008",
-      "pubDate": "Wed, 20 May 2026 17:44:09 +0900"
-    },
-    {
-      "title": "국고채 금리, 환율 안정 등에 일부 하락전환…3년물 연 3.760%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260520157751008",
-      "pubDate": "Wed, 20 May 2026 17:42:51 +0900"
-    },
-    {
-      "title": "산업부 \"한미 관세 협상·수출 7천억달러, 1년 핵심 성과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520168300003",
-      "pubDate": "Wed, 20 May 2026 17:31:36 +0900"
-    },
-    {
-      "title": "중기부, 'APEC 스타트업 얼라이언스' 출범…400여 기관 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260520085900030",
-      "pubDate": "Wed, 20 May 2026 17:30:00 +0900"
-    },
-    {
-      "title": "카드론 잔액 넉달만에 소폭 감소…42조9천830억원",
-      "link": "https://www.yna.co.kr/view/AKR20260520162600002",
-      "pubDate": "Wed, 20 May 2026 17:18:28 +0900"
-    },
-    {
-      "title": "전남도, 외국인 계절근로자 인권보호 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260520165700054",
-      "pubDate": "Wed, 20 May 2026 17:13:08 +0900"
-    },
-    {
-      "title": "비케이홀딩스, 30억원 유상증자…한국문화진흥에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260520161400008",
-      "pubDate": "Wed, 20 May 2026 16:54:28 +0900"
     }
   ]
 }
