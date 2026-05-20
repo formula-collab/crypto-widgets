@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779292989,
+  "updated_at_unix": 1779302221,
   "items": [
+    {
+      "title": "달러-원, 美·이란 종전 합의 기대감 확산…1,496.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260521006100002",
+      "pubDate": "Thu, 21 May 2026 03:22:52 +0900"
+    },
     {
       "title": "경총 \"삼성전자 최악 상황 피해 다행…불확실성 해소해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260520195700003",
@@ -147,11 +152,6 @@
       "title": "LH, 관악난곡 A2 가로주택정비 시행협약…2028년 착공 목표",
       "link": "https://www.yna.co.kr/view/AKR20260520153000003",
       "pubDate": "Wed, 20 May 2026 16:22:43 +0900"
-    },
-    {
-      "title": "CJ그룹, 여직원 330명 개인정보 유출 경찰 수사 의뢰",
-      "link": "https://www.yna.co.kr/view/AKR20260520151100030",
-      "pubDate": "Wed, 20 May 2026 16:21:26 +0900"
     }
   ]
 }
