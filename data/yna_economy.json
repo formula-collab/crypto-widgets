@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779302221,
+  "updated_at_unix": 1779310548,
   "items": [
+    {
+      "title": "\"이란협상 최종단계\" 트럼프에 국제유가 뚝…WTI 100달러 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260521008100072",
+      "pubDate": "Thu, 21 May 2026 04:43:08 +0900"
+    },
+    {
+      "title": "美연준 다수위원 \"인플레 2% 계속 웃돌면 금리인상 적절\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521006900072",
+      "pubDate": "Thu, 21 May 2026 03:58:37 +0900"
+    },
     {
       "title": "달러-원, 美·이란 종전 합의 기대감 확산…1,496.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260521006100002",
@@ -142,16 +152,6 @@
       "title": "복지부, IBK 창공과 손잡고 바이오헬스 창업기업 지원",
       "link": "https://www.yna.co.kr/view/AKR20260520150400530",
       "pubDate": "Wed, 20 May 2026 16:27:20 +0900"
-    },
-    {
-      "title": "기획처 \"추경으로 경기회복 뒷받침…소비쿠폰 덕 민간소비↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260520073600002",
-      "pubDate": "Wed, 20 May 2026 16:25:21 +0900"
-    },
-    {
-      "title": "LH, 관악난곡 A2 가로주택정비 시행협약…2028년 착공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260520153000003",
-      "pubDate": "Wed, 20 May 2026 16:22:43 +0900"
     }
   ]
 }
