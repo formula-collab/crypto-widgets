@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779381147,
+  "updated_at_unix": 1779389448,
   "items": [
+    {
+      "title": "달러-원, 美·이란 종전 기대 후퇴에 상승 반전…1,508원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260522004500002",
+      "pubDate": "Fri, 22 May 2026 03:14:15 +0900"
+    },
     {
       "title": "[AI픽] HP, 국내 AI 스타트업과 공동개발…'개러지 2.0' 출범",
       "link": "https://www.yna.co.kr/view/AKR20260521094900017",
@@ -147,11 +152,6 @@
       "title": "[특징주] '할인율 축소' 지주사株 강세 마감…일부 종목 두자릿수 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260521046451008",
       "pubDate": "Thu, 21 May 2026 16:32:26 +0900"
-    },
-    {
-      "title": "코스피, 8% 급등하며 7,800 회복…외인, 순매도 크게 축소했다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521142800008",
-      "pubDate": "Thu, 21 May 2026 16:28:33 +0900"
     }
   ]
 }
