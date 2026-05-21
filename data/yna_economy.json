@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779395320,
+  "updated_at_unix": 1779400554,
   "items": [
+    {
+      "title": "[만나보니] K컬처 탄 AI 한국어앱…미국서도 1위 찍었다",
+      "link": "https://www.yna.co.kr/view/AKR20260521136500017",
+      "pubDate": "Fri, 22 May 2026 06:33:01 +0900"
+    },
+    {
+      "title": "반도체 호조에 5월 소비심리 석달 만에 반등…11개월내 최대폭↑",
+      "link": "https://www.yna.co.kr/view/AKR20260521145800002",
+      "pubDate": "Fri, 22 May 2026 06:00:21 +0900"
+    },
+    {
+      "title": "K-뷰티, 중국 더우인 손잡고 수출 확대…코트라 상담회",
+      "link": "https://www.yna.co.kr/view/AKR20260521161600003",
+      "pubDate": "Fri, 22 May 2026 06:00:18 +0900"
+    },
+    {
+      "title": "노사발전재단, '재취업지원서비스' 공동컨설팅 첫발…4곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260521161200530",
+      "pubDate": "Fri, 22 May 2026 06:00:17 +0900"
+    },
+    {
+      "title": "서울신보, 타지역 보증 이용자도 지원해 '서울시 창의실행상'",
+      "link": "https://www.yna.co.kr/view/AKR20260521164700004",
+      "pubDate": "Fri, 22 May 2026 06:00:14 +0900"
+    },
+    {
+      "title": "3월 서울 아파트 전셋값 역대 최고치 경신…8개월 연속 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260521169100004",
+      "pubDate": "Fri, 22 May 2026 06:00:12 +0900"
+    },
+    {
+      "title": "대법 \"옵티머스 펀드 판매 NH투자에 업무 일부정지 처분 취소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521174400004",
+      "pubDate": "Fri, 22 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "울산시, 신축 임대주택 167가구 매입 확정…청년·신혼부부 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260521175200057",
+      "pubDate": "Fri, 22 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "국민참여성장펀드, 오늘부터 선착순 판매…가입한도 연간 1억",
+      "link": "https://www.yna.co.kr/view/AKR20260521183100002",
+      "pubDate": "Fri, 22 May 2026 06:00:01 +0900"
+    },
     {
       "title": "美연준 위원 \"기업·소비자 얼마나 버티느냐가 금리인상 결정\"",
       "link": "https://www.yna.co.kr/view/AKR20260522006000072",
@@ -107,51 +152,6 @@
       "title": "국토차관 \"다핵 네트워크 국토 전환…투기억제·시장 체질 개선\"",
       "link": "https://www.yna.co.kr/view/AKR20260521155000003",
       "pubDate": "Thu, 21 May 2026 17:10:56 +0900"
-    },
-    {
-      "title": "코스피, 8% 급등하며 7,800 회복…외인, 순매도 크게 축소했다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260521142851008",
-      "pubDate": "Thu, 21 May 2026 17:00:55 +0900"
-    },
-    {
-      "title": "무역위, 유럽 PVC 페이스트 수지에 최대 31.55％ 반덤핑관세",
-      "link": "https://www.yna.co.kr/view/AKR20260521123100003",
-      "pubDate": "Thu, 21 May 2026 17:00:02 +0900"
-    },
-    {
-      "title": "[동정] 송미령 장관, 도농상생장터 통한 농산물 소비 촉진 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260521143700030",
-      "pubDate": "Thu, 21 May 2026 17:00:01 +0900"
-    },
-    {
-      "title": "[충북소식] 충북농협, 청주 고추 농가서 일손 돕기",
-      "link": "https://www.yna.co.kr/view/AKR20260521152200064",
-      "pubDate": "Thu, 21 May 2026 16:53:18 +0900"
-    },
-    {
-      "title": "초록우산-IBK기업은행, 이주배경아동 150명 학습·진로 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260521150500371",
-      "pubDate": "Thu, 21 May 2026 16:53:13 +0900"
-    },
-    {
-      "title": "[K-VIBE] 전태수의 웹 3.0 이야기…참여로 여는 디지털 기본 소득의 시대",
-      "link": "https://www.yna.co.kr/view/AKR20260521149800371",
-      "pubDate": "Thu, 21 May 2026 16:51:41 +0900"
-    },
-    {
-      "title": "한국산업은행 'KDB V:Launch 2026 남부권펀드 세션' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260521151700002",
-      "pubDate": "Thu, 21 May 2026 16:46:00 +0900"
-    },
-    {
-      "title": "광주시 \"2030년 세계 100대 창업 도시 도약\" 비전 발표",
-      "link": "https://www.yna.co.kr/view/AKR20260521148800054",
-      "pubDate": "Thu, 21 May 2026 16:42:19 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.753%",
-      "link": "https://www.yna.co.kr/view/AKR20260521150400008",
-      "pubDate": "Thu, 21 May 2026 16:42:16 +0900"
     }
   ]
 }
