@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779389448,
+  "updated_at_unix": 1779395320,
   "items": [
+    {
+      "title": "美연준 위원 \"기업·소비자 얼마나 버티느냐가 금리인상 결정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522006000072",
+      "pubDate": "Fri, 22 May 2026 04:52:10 +0900"
+    },
+    {
+      "title": "국제유가, 이란 협상 진전 기대에 하락 마감…브렌트유 2.3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260522006200072",
+      "pubDate": "Fri, 22 May 2026 04:47:54 +0900"
+    },
     {
       "title": "달러-원, 美·이란 종전 기대 후퇴에 상승 반전…1,508원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260522004500002",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 대체로 하락…3년물 연 3.753%",
       "link": "https://www.yna.co.kr/view/AKR20260521150400008",
       "pubDate": "Thu, 21 May 2026 16:42:16 +0900"
-    },
-    {
-      "title": "완주군, 로컬푸드 소비자 감시단 운영…\"품질·안전 검증\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521147400055",
-      "pubDate": "Thu, 21 May 2026 16:33:06 +0900"
-    },
-    {
-      "title": "[특징주] '할인율 축소' 지주사株 강세 마감…일부 종목 두자릿수 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521046451008",
-      "pubDate": "Thu, 21 May 2026 16:32:26 +0900"
     }
   ]
 }
