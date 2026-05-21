@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779404248,
+  "updated_at_unix": 1779407846,
   "items": [
+    {
+      "title": "키움증권, 대학생 51명에 장학금 총 1억200만원 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260522026700008",
+      "pubDate": "Fri, 22 May 2026 08:49:15 +0900"
+    },
+    {
+      "title": "구윤철 \"2년간 수도권에 매입임대 9만호\"…오피스텔 등 공급확대",
+      "link": "https://www.yna.co.kr/view/AKR20260522027900002",
+      "pubDate": "Fri, 22 May 2026 08:48:56 +0900"
+    },
+    {
+      "title": "NH투자 \"대한항공, 내년 통합 시너지 효과 온기…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522026500008",
+      "pubDate": "Fri, 22 May 2026 08:48:01 +0900"
+    },
+    {
+      "title": "남양유업, 1분기 분요 매출 10% 증가…\"수출 호조에 실적 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522027200030",
+      "pubDate": "Fri, 22 May 2026 08:45:54 +0900"
+    },
+    {
+      "title": "신한투자 \"리노공업, 빅테크향 소켓 수요 여전…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522026300008",
+      "pubDate": "Fri, 22 May 2026 08:45:30 +0900"
+    },
+    {
+      "title": "키움증권 \"LS, 목표가 100%↑…자사주소각 등 정책에 힘입을 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522025100008",
+      "pubDate": "Fri, 22 May 2026 08:42:24 +0900"
+    },
+    {
+      "title": "관악구, 고유가 피해 기업·소상공인에 세정 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260522026100004",
+      "pubDate": "Fri, 22 May 2026 08:38:46 +0900"
+    },
+    {
+      "title": "농협하나로마트에 다이소 들어온다…생활용품 강화 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260522024100030",
+      "pubDate": "Fri, 22 May 2026 08:38:04 +0900"
+    },
+    {
+      "title": "하나증권 \"호르무즈 6월 개방돼도 하반기 내내 고유가 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522022700008",
+      "pubDate": "Fri, 22 May 2026 08:31:43 +0900"
+    },
+    {
+      "title": "DS투자, 대웅제약 목표가↓…\"유통채널 효율화에 매출 일시감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260522023200008",
+      "pubDate": "Fri, 22 May 2026 08:20:57 +0900"
+    },
+    {
+      "title": "롯데면세점, 관세청과 'K-공공캐릭터 굿즈 팝업존' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260522022400030",
+      "pubDate": "Fri, 22 May 2026 08:15:37 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] LH개혁안 이르면 내달 발표…세부안은 고심중",
+      "link": "https://www.yna.co.kr/view/AKR20260521182700003",
+      "pubDate": "Fri, 22 May 2026 08:09:14 +0900"
+    },
+    {
+      "title": "[마켓뷰] 단숨에 7,800 회복한 코스피, '8천피' 재탈환 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260522020400008",
+      "pubDate": "Fri, 22 May 2026 08:06:30 +0900"
+    },
+    {
+      "title": "소상공단체, 쿠팡이츠 한시 무료배달 확대에 \"수수료 노예 전락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260521168800030",
+      "pubDate": "Fri, 22 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "정부, 7월 '모두의 창업' 2차 모집…선발 인원 1만명으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260521156500030",
+      "pubDate": "Fri, 22 May 2026 08:00:03 +0900"
+    },
+    {
+      "title": "부산시, 대부업체 51곳 현장점검…불법 사금융 피해 예방",
+      "link": "https://www.yna.co.kr/view/AKR20260522019300051",
+      "pubDate": "Fri, 22 May 2026 07:57:33 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260522014400011",
@@ -72,86 +152,6 @@
       "title": "[AI픽] HP, 국내 AI 스타트업과 공동개발…'개러지 2.0' 출범",
       "link": "https://www.yna.co.kr/view/AKR20260521094900017",
       "pubDate": "Fri, 22 May 2026 00:00:00 +0900"
-    },
-    {
-      "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260521171100017",
-      "pubDate": "Thu, 21 May 2026 19:37:02 +0900"
-    },
-    {
-      "title": "행안부, 스타벅스 불매 선언…관가 전반 확산하나",
-      "link": "https://www.yna.co.kr/view/AKR20260521170200530",
-      "pubDate": "Thu, 21 May 2026 19:15:54 +0900"
-    },
-    {
-      "title": "석유 최고가격, 4회 연속 동결…조정 주기 '2주→4주'로 늘린다",
-      "link": "https://www.yna.co.kr/view/AKR20260521169400003",
-      "pubDate": "Thu, 21 May 2026 19:00:00 +0900"
-    },
-    {
-      "title": "한-키르기스스탄 경제공동위 개최…韓기업 투자 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260521166800504",
-      "pubDate": "Thu, 21 May 2026 18:28:30 +0900"
-    },
-    {
-      "title": "쿠팡이츠, 일반회원도 8월까지 '무료 배달'…민주당 \"기만 상술\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521056451030",
-      "pubDate": "Thu, 21 May 2026 18:28:24 +0900"
-    },
-    {
-      "title": "다이나믹디자인 \"인도네시아 자회사 주식 30억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521165400008",
-      "pubDate": "Thu, 21 May 2026 18:03:32 +0900"
-    },
-    {
-      "title": "상장 앞둔 스페이스X, 투자설명서 살펴보니…\"달에 도시 짓겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521157900008",
-      "pubDate": "Thu, 21 May 2026 18:03:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260521159000011",
-      "pubDate": "Thu, 21 May 2026 18:00:01 +0900"
-    },
-    {
-      "title": "노동장관, ILO 사무총장 면담…\"AI 전환모델 국제사회 제시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521116000530",
-      "pubDate": "Thu, 21 May 2026 17:50:00 +0900"
-    },
-    {
-      "title": "성과급 6억·연봉 1억 삼전 직원, 근소세 2억5천만원 낸다",
-      "link": "https://www.yna.co.kr/view/AKR20260521162000002",
-      "pubDate": "Thu, 21 May 2026 17:48:15 +0900"
-    },
-    {
-      "title": "\"경기도 독립야구단 후원하세요\"…한정판 유니폼 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260521161800061",
-      "pubDate": "Thu, 21 May 2026 17:39:24 +0900"
-    },
-    {
-      "title": "화천산천어축제 경제효과 1천억원 돌파…관광객 소비 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260521152000062",
-      "pubDate": "Thu, 21 May 2026 17:26:23 +0900"
-    },
-    {
-      "title": "'종전 기대' 3년·10년물 국고채 금리↓…낙폭은 축소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521150451008",
-      "pubDate": "Thu, 21 May 2026 17:17:17 +0900"
-    },
-    {
-      "title": "노동장관 \"삼성전자 노사, 한발씩 양보…엔지니어 욕하면 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521157300530",
-      "pubDate": "Thu, 21 May 2026 17:15:28 +0900"
-    },
-    {
-      "title": "경남제약, 190억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260521155800008",
-      "pubDate": "Thu, 21 May 2026 17:12:25 +0900"
-    },
-    {
-      "title": "산업장관, 키르기즈 경제부 장관과 경제협력 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260521155300003",
-      "pubDate": "Thu, 21 May 2026 17:12:00 +0900"
     }
   ]
 }
