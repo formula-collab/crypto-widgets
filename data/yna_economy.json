@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779370989,
+  "updated_at_unix": 1779381147,
   "items": [
+    {
+      "title": "[AI픽] HP, 국내 AI 스타트업과 공동개발…'개러지 2.0' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260521094900017",
+      "pubDate": "Fri, 22 May 2026 00:00:00 +0900"
+    },
     {
       "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
       "link": "https://www.yna.co.kr/view/AKR20260521171100017",
@@ -147,11 +152,6 @@
       "title": "코스피, 8% 급등하며 7,800 회복…외인, 순매도 크게 축소했다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260521142800008",
       "pubDate": "Thu, 21 May 2026 16:28:33 +0900"
-    },
-    {
-      "title": "국민참여성장펀드 손실 후순위 먼저 부담…국민투자금 20% 한도",
-      "link": "https://www.yna.co.kr/view/AKR20260521139300002",
-      "pubDate": "Thu, 21 May 2026 16:23:16 +0900"
     }
   ]
 }
