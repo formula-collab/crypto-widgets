@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779359309,
+  "updated_at_unix": 1779370989,
   "items": [
+    {
+      "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
+      "link": "https://www.yna.co.kr/view/AKR20260521171100017",
+      "pubDate": "Thu, 21 May 2026 19:37:02 +0900"
+    },
     {
       "title": "행안부, 스타벅스 불매 선언…관가 전반 확산하나",
       "link": "https://www.yna.co.kr/view/AKR20260521170200530",
@@ -147,11 +152,6 @@
       "title": "국민참여성장펀드 손실 후순위 먼저 부담…국민투자금 20% 한도",
       "link": "https://www.yna.co.kr/view/AKR20260521139300002",
       "pubDate": "Thu, 21 May 2026 16:23:16 +0900"
-    },
-    {
-      "title": "광주 관가·금융권, 스타벅스 불매운동 빠르게 '확산'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521143900054",
-      "pubDate": "Thu, 21 May 2026 16:22:35 +0900"
     }
   ]
 }
