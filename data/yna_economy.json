@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779400554,
+  "updated_at_unix": 1779404248,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260522014400011",
+      "pubDate": "Fri, 22 May 2026 07:30:00 +0900"
+    },
     {
       "title": "[만나보니] K컬처 탄 AI 한국어앱…미국서도 1위 찍었다",
       "link": "https://www.yna.co.kr/view/AKR20260521136500017",
@@ -147,11 +152,6 @@
       "title": "산업장관, 키르기즈 경제부 장관과 경제협력 확대 논의",
       "link": "https://www.yna.co.kr/view/AKR20260521155300003",
       "pubDate": "Thu, 21 May 2026 17:12:00 +0900"
-    },
-    {
-      "title": "국토차관 \"다핵 네트워크 국토 전환…투기억제·시장 체질 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260521155000003",
-      "pubDate": "Thu, 21 May 2026 17:10:56 +0900"
     }
   ]
 }
