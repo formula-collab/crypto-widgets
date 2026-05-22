@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779490193,
+  "updated_at_unix": 1779494156,
   "items": [
+    {
+      "title": "[다음주 경제] 한은 기준금리 결정…성장률 전망 오르나",
+      "link": "https://www.yna.co.kr/view/AKR20260523012200002",
+      "pubDate": "Sat, 23 May 2026 08:37:10 +0900"
+    },
+    {
+      "title": "부산 아파트값 보합세…해운대·동래구는 약진",
+      "link": "https://www.yna.co.kr/view/AKR20260521142400051",
+      "pubDate": "Sat, 23 May 2026 08:00:10 +0900"
+    },
+    {
+      "title": "[해수분해] 글로벌 공급망 중심 항만…해외투자로 세계 물류길 넓힌다",
+      "link": "https://www.yna.co.kr/view/AKR20260522133700051",
+      "pubDate": "Sat, 23 May 2026 08:00:06 +0900"
+    },
+    {
+      "title": "[머니플로우] 반대매매에 '움찔'…투자자예탁금 감소세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260522144500008",
+      "pubDate": "Sat, 23 May 2026 08:00:01 +0900"
+    },
     {
       "title": "주유소 기름값 8주만에 하락…전국 평균 휘발윳값 2천11원대",
       "link": "https://www.yna.co.kr/view/AKR20260522098100003",
@@ -132,26 +152,6 @@
       "title": "삼성전기, LG엔솔 제치고 시총 5위…급등장에 시총 '대전'",
       "link": "https://www.yna.co.kr/view/AKR20260522138300008",
       "pubDate": "Fri, 22 May 2026 17:33:58 +0900"
-    },
-    {
-      "title": "젠틀몬스터, 블루엘리펀트 파우치 디자인등록 무효심판 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260522137600063",
-      "pubDate": "Fri, 22 May 2026 17:31:43 +0900"
-    },
-    {
-      "title": "소상공단체, 쿠팡이츠 한시 무료배달 확대에 \"수수료 노예 전락\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260521168851030",
-      "pubDate": "Fri, 22 May 2026 17:31:34 +0900"
-    },
-    {
-      "title": "국고채 금리, 외인 순매수에 동반 하락…3년물 연 3.736%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260522128151008",
-      "pubDate": "Fri, 22 May 2026 17:28:32 +0900"
-    },
-    {
-      "title": "공무원노조도 동참…스타벅스 불매 공직사회 전반 확산(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260522058452530",
-      "pubDate": "Fri, 22 May 2026 17:24:56 +0900"
     }
   ]
 }
