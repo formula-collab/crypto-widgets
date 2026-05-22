@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779486949,
+  "updated_at_unix": 1779490193,
   "items": [
+    {
+      "title": "주유소 기름값 8주만에 하락…전국 평균 휘발윳값 2천11원대",
+      "link": "https://www.yna.co.kr/view/AKR20260522098100003",
+      "pubDate": "Sat, 23 May 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[금주핫템] 에스트라 '아토베리어365' 신제품·스노우피크 어패럴 반바지",
+      "link": "https://www.yna.co.kr/view/AKR20260522112000030",
+      "pubDate": "Sat, 23 May 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오뚜기 '칡냉면·쫄냉면'·삼립 하이면 '막국수' 2종",
+      "link": "https://www.yna.co.kr/view/AKR20260522048100030",
+      "pubDate": "Sat, 23 May 2026 07:00:03 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 서울 아크로리버스카이 등 7천8가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20260522130700003",
@@ -137,21 +152,6 @@
       "title": "공무원노조도 동참…스타벅스 불매 공직사회 전반 확산(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260522058452530",
       "pubDate": "Fri, 22 May 2026 17:24:56 +0900"
-    },
-    {
-      "title": "BNK경남은행, 창립 56주년 기념식…\"고객 가치 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260522136500052",
-      "pubDate": "Fri, 22 May 2026 17:21:08 +0900"
-    },
-    {
-      "title": "릴리 창립 150년…\"AI도입·파트너십 확대로 혁신 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260522134500017",
-      "pubDate": "Fri, 22 May 2026 17:15:41 +0900"
-    },
-    {
-      "title": "코스피200 DB하이텍 포함되고, GS건설 빠진다…4개종목 맞교체",
-      "link": "https://www.yna.co.kr/view/AKR20260522130000008",
-      "pubDate": "Fri, 22 May 2026 17:08:42 +0900"
     }
   ]
 }
