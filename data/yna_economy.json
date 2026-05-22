@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779453388,
+  "updated_at_unix": 1779464606,
   "items": [
+    {
+      "title": "공무원노조도 동참…스타벅스 불매 공직사회 전반 확산(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260522058453530",
+      "pubDate": "Fri, 22 May 2026 21:43:43 +0900"
+    },
     {
       "title": "국민성장펀드 출시 첫날 한도 87% 소진…은행 10곳 중 7곳 완판",
       "link": "https://www.yna.co.kr/view/AKR20260522158300002",
@@ -147,11 +152,6 @@
       "title": "다올증권 \"최근 코스피 수급, 대만과 유사…'1만피' 가능\"",
       "link": "https://www.yna.co.kr/view/AKR20260522126200008",
       "pubDate": "Fri, 22 May 2026 16:46:21 +0900"
-    },
-    {
-      "title": "대우건설도 성수4지구 입찰보증금 완납…'2파전' 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260522121100003",
-      "pubDate": "Fri, 22 May 2026 16:45:16 +0900"
     }
   ]
 }
