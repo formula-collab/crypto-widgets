@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779444823,
+  "updated_at_unix": 1779453388,
   "items": [
+    {
+      "title": "국민성장펀드 출시 첫날 한도 87% 소진…은행 10곳 중 7곳 완판",
+      "link": "https://www.yna.co.kr/view/AKR20260522158300002",
+      "pubDate": "Fri, 22 May 2026 20:42:49 +0900"
+    },
+    {
+      "title": "스타벅스 \"현장 직원 비난 멈춰달라\"…전국 매장에 2차 사과문(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260522154751030",
+      "pubDate": "Fri, 22 May 2026 20:38:08 +0900"
+    },
+    {
+      "title": "스타벅스 \"현장 직원 비난 멈춰달라\"…전국 매장에 2차 사과문",
+      "link": "https://www.yna.co.kr/view/AKR20260522154700030",
+      "pubDate": "Fri, 22 May 2026 19:52:25 +0900"
+    },
+    {
+      "title": "DB손보, 미국 보험사 포테그라 인수 마무리 단계…국내 최초",
+      "link": "https://www.yna.co.kr/view/AKR20260522151700002",
+      "pubDate": "Fri, 22 May 2026 19:46:56 +0900"
+    },
     {
       "title": "비아파트 공급 대폭 확대…\"규제지역 매입임대 무제한으로 산다\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260522035452003",
@@ -132,26 +152,6 @@
       "title": "대우건설도 성수4지구 입찰보증금 완납…'2파전' 재개",
       "link": "https://www.yna.co.kr/view/AKR20260522121100003",
       "pubDate": "Fri, 22 May 2026 16:45:16 +0900"
-    },
-    {
-      "title": "소비자단체협의회 \"스타벅스, 충전액 조건 없이 전액 환불해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260522057951030",
-      "pubDate": "Fri, 22 May 2026 16:41:52 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.736%",
-      "link": "https://www.yna.co.kr/view/AKR20260522128100008",
-      "pubDate": "Fri, 22 May 2026 16:41:06 +0900"
-    },
-    {
-      "title": "코스피, 0.41% 오른 7,847로 마감…코스닥 4.99% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260522121300008",
-      "pubDate": "Fri, 22 May 2026 16:40:31 +0900"
-    },
-    {
-      "title": "첫날 '완판' 국민성장펀드 기대감? 코스닥 날았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260522064351008",
-      "pubDate": "Fri, 22 May 2026 16:22:02 +0900"
     }
   ]
 }
