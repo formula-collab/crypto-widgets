@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779483134,
+  "updated_at_unix": 1779486949,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 서울 아크로리버스카이 등 7천8가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260522130700003",
+      "pubDate": "Sat, 23 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "검열망 뚫으며 카타르시스…스벅 탱크데이 '기호학적 테러'",
+      "link": "https://www.yna.co.kr/view/AKR20260522158000004",
+      "pubDate": "Sat, 23 May 2026 05:55:00 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상지연 우려에 상승…브렌트유 0.9%↑",
       "link": "https://www.yna.co.kr/view/AKR20260523005900072",
@@ -142,16 +152,6 @@
       "title": "코스피200 DB하이텍 포함되고, GS건설 빠진다…4개종목 맞교체",
       "link": "https://www.yna.co.kr/view/AKR20260522130000008",
       "pubDate": "Fri, 22 May 2026 17:08:42 +0900"
-    },
-    {
-      "title": "인터넷은행 3사, 1분기 중·저신용자 신용대출 목표치 넘겨",
-      "link": "https://www.yna.co.kr/view/AKR20260522129200002",
-      "pubDate": "Fri, 22 May 2026 17:05:23 +0900"
-    },
-    {
-      "title": "[게시판] 한국부동산경영학회 23일 '부동산 산업 대전환' 학술세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260522127800003",
-      "pubDate": "Fri, 22 May 2026 17:02:02 +0900"
     }
   ]
 }
