@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779502038,
+  "updated_at_unix": 1779515383,
   "items": [
+    {
+      "title": "글로벌 PF 대출 5년새 2배·'100조엔 돌파…'큰손'은 日메가뱅크",
+      "link": "https://www.yna.co.kr/view/AKR20260523026900073",
+      "pubDate": "Sat, 23 May 2026 11:46:13 +0900"
+    },
     {
       "title": "2차 고유가지원금 신청률, 닷새 만에 76%…1·2차 누적 5조 지급",
       "link": "https://www.yna.co.kr/view/AKR20260523023500530",
@@ -147,11 +152,6 @@
       "title": "'삼전·닉스 단일종목 레버리지·인버스' 18종 27일 상장",
       "link": "https://www.yna.co.kr/view/AKR20260522140100008",
       "pubDate": "Fri, 22 May 2026 17:45:44 +0900"
-    },
-    {
-      "title": "티이엠씨 \"에이텍솔루션 주식 350억원어치 취득…지분율 31.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260522141800008",
-      "pubDate": "Fri, 22 May 2026 17:40:55 +0900"
     }
   ]
 }
