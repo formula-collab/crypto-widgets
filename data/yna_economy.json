@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779494156,
+  "updated_at_unix": 1779502038,
   "items": [
+    {
+      "title": "2차 고유가지원금 신청률, 닷새 만에 76%…1·2차 누적 5조 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260523023500530",
+      "pubDate": "Sat, 23 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260523022300011",
+      "pubDate": "Sat, 23 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[IPO챗] 조용한 5월 마지막 주…청약 1곳·수요예측 1곳",
+      "link": "https://www.yna.co.kr/view/AKR20260522136900008",
+      "pubDate": "Sat, 23 May 2026 09:00:01 +0900"
+    },
     {
       "title": "[다음주 경제] 한은 기준금리 결정…성장률 전망 오르나",
       "link": "https://www.yna.co.kr/view/AKR20260523012200002",
@@ -137,21 +152,6 @@
       "title": "티이엠씨 \"에이텍솔루션 주식 350억원어치 취득…지분율 31.2%\"",
       "link": "https://www.yna.co.kr/view/AKR20260522141800008",
       "pubDate": "Fri, 22 May 2026 17:40:55 +0900"
-    },
-    {
-      "title": "오에스피, 10억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260522140200008",
-      "pubDate": "Fri, 22 May 2026 17:40:25 +0900"
-    },
-    {
-      "title": "[동포의 창] 미주한상총연, 8월 라스베이거스서 '미주 한상대회'",
-      "link": "https://www.yna.co.kr/view/AKR20260522140600371",
-      "pubDate": "Fri, 22 May 2026 17:39:19 +0900"
-    },
-    {
-      "title": "삼성전기, LG엔솔 제치고 시총 5위…급등장에 시총 '대전'",
-      "link": "https://www.yna.co.kr/view/AKR20260522138300008",
-      "pubDate": "Fri, 22 May 2026 17:33:58 +0900"
     }
   ]
 }
