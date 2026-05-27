@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779878671,
+  "updated_at_unix": 1779891316,
   "items": [
+    {
+      "title": "한은 \"프로젝트 아고라 실거래 테스트 적극 참여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260527150100002",
+      "pubDate": "Wed, 27 May 2026 22:05:30 +0900"
+    },
+    {
+      "title": "동작구 써밋더힐·아크로리버스카이 1순위 두자릿수 경쟁률",
+      "link": "https://www.yna.co.kr/view/AKR20260527163300003",
+      "pubDate": "Wed, 27 May 2026 20:34:03 +0900"
+    },
+    {
+      "title": "국민성장펀드 99.5% 팔려…출시 사흘만에",
+      "link": "https://www.yna.co.kr/view/AKR20260527161400002",
+      "pubDate": "Wed, 27 May 2026 19:47:45 +0900"
+    },
     {
       "title": "李대통령 \"체납관리단 1석5조 효과…지방정부도 시행케 해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260527156900001",
@@ -137,21 +152,6 @@
       "title": "빌리언스 \"트리스 주식 31억원어치 취득…지분율 4%\"",
       "link": "https://www.yna.co.kr/view/AKR20260527128800008",
       "pubDate": "Wed, 27 May 2026 15:56:16 +0900"
-    },
-    {
-      "title": "미래에셋 \"업계 첫 삼전·닉스 단일종목 레버리지 ETN 신규상장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260527128000008",
-      "pubDate": "Wed, 27 May 2026 15:55:44 +0900"
-    },
-    {
-      "title": "환율, 미·이란 협상 기대에 이틀째 하락…장중 1,500원 밑돌아",
-      "link": "https://www.yna.co.kr/view/AKR20260527127000002",
-      "pubDate": "Wed, 27 May 2026 15:53:37 +0900"
-    },
-    {
-      "title": "노동부, 서소문 사고 산안법·중처법 위반 경찰과 공동수사",
-      "link": "https://www.yna.co.kr/view/AKR20260527125600530",
-      "pubDate": "Wed, 27 May 2026 15:51:49 +0900"
     }
   ]
 }
