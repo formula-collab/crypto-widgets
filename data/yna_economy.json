@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779903438,
+  "updated_at_unix": 1779911811,
   "items": [
+    {
+      "title": "국제유가, 이란 협상타결 기대고조에 급락…WTI 90달러 하회",
+      "link": "https://www.yna.co.kr/view/AKR20260528005000072",
+      "pubDate": "Thu, 28 May 2026 04:27:08 +0900"
+    },
+    {
+      "title": "JP모건 다이먼 \"2년안에 최대 30조원 인수 기회 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260528004600072",
+      "pubDate": "Thu, 28 May 2026 04:08:42 +0900"
+    },
+    {
+      "title": "달러-원, 정체 상태인 美·이란 종전 협상에 관망…1,500.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260528004200002",
+      "pubDate": "Thu, 28 May 2026 03:48:43 +0900"
+    },
     {
       "title": "한은 \"프로젝트 아고라 실거래 테스트 적극 참여\"",
       "link": "https://www.yna.co.kr/view/AKR20260527150100002",
@@ -137,21 +152,6 @@
       "title": "[게시판] 재경부 민생안정지원단, 닭고기 수급 상황 점검",
       "link": "https://www.yna.co.kr/view/AKR20260527125800002",
       "pubDate": "Wed, 27 May 2026 16:00:00 +0900"
-    },
-    {
-      "title": "섬유개발연구원, 섬유기업 수출경쟁력 강화 지원 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260527124500053",
-      "pubDate": "Wed, 27 May 2026 15:57:57 +0900"
-    },
-    {
-      "title": "[테크스냅] 모티프테크놀로지스, 시리즈B 240억 투자 유치",
-      "link": "https://www.yna.co.kr/view/AKR20260527123700017",
-      "pubDate": "Wed, 27 May 2026 15:56:19 +0900"
-    },
-    {
-      "title": "빌리언스 \"트리스 주식 31억원어치 취득…지분율 4%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260527128800008",
-      "pubDate": "Wed, 27 May 2026 15:56:16 +0900"
     }
   ]
 }
