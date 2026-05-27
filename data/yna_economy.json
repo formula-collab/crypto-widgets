@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779911811,
+  "updated_at_unix": 1779918382,
   "items": [
+    {
+      "title": "울산 AI 데이터센터 연관산업 생태계 조성…기업 투자 본격 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260527167000057",
+      "pubDate": "Thu, 28 May 2026 06:03:02 +0900"
+    },
+    {
+      "title": "울산시, 세계 창업 생태계 지수 391위…1년 만에 155계단 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260527166800057",
+      "pubDate": "Thu, 28 May 2026 06:00:11 +0900"
+    },
+    {
+      "title": "국내은행 1분기 총자본비율 0.19%p↓…대출자산 늘고 환율 올라",
+      "link": "https://www.yna.co.kr/view/AKR20260527140800002",
+      "pubDate": "Thu, 28 May 2026 06:00:09 +0900"
+    },
+    {
+      "title": "주류업계, 고환율·고유가 직격탄…페트병 20%·비닐류 50% 폭등",
+      "link": "https://www.yna.co.kr/view/AKR20260527138900030",
+      "pubDate": "Thu, 28 May 2026 06:00:07 +0900"
+    },
+    {
+      "title": "'알테쉬' 등 해외직구 어린이 우산·우비서 납·유해성물질 검출",
+      "link": "https://www.yna.co.kr/view/AKR20260527153000004",
+      "pubDate": "Thu, 28 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "회계감사 방해·거짓자료 제출하면 가중조치…시행세칙 개정",
+      "link": "https://www.yna.co.kr/view/AKR20260527153800002",
+      "pubDate": "Thu, 28 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "노동시장 불참 20대 후반 6년만에 최대↑…'쉬었음' 3만명 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260527161900002",
+      "pubDate": "Thu, 28 May 2026 05:51:01 +0900"
+    },
+    {
+      "title": "신현송 첫 금통위…물가·성장전망 높이고 인상 신호 보낼 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260527138000002",
+      "pubDate": "Thu, 28 May 2026 05:30:00 +0900"
+    },
     {
       "title": "국제유가, 이란 협상타결 기대고조에 급락…WTI 90달러 하회",
       "link": "https://www.yna.co.kr/view/AKR20260528005000072",
@@ -112,46 +152,6 @@
       "title": "전남광주통합시금고 선정 '후폭풍'…광주은행·농협 공방(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260527127500054",
       "pubDate": "Wed, 27 May 2026 16:34:14 +0900"
-    },
-    {
-      "title": "일지테크 \"종속회사 ILJI 주식 317억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260527134900008",
-      "pubDate": "Wed, 27 May 2026 16:31:12 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 中企 피해 866건…\"출고 지연에 주문보류도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260527134100030",
-      "pubDate": "Wed, 27 May 2026 16:30:49 +0900"
-    },
-    {
-      "title": "'8천피' 코스피, 또 달렸다…2% 올라 '사상 최고' 8,228(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260527123951008",
-      "pubDate": "Wed, 27 May 2026 16:30:15 +0900"
-    },
-    {
-      "title": "호서대가 키운 스타트업 세계로…독일 프레틀 그룹과 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260527131400063",
-      "pubDate": "Wed, 27 May 2026 16:14:56 +0900"
-    },
-    {
-      "title": "SK하이닉스, 시총 '1조달러 클럽' 진입…삼전 이어 국내 두번째(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260527050051008",
-      "pubDate": "Wed, 27 May 2026 16:03:29 +0900"
-    },
-    {
-      "title": "금융위, 롯데손보 경영개선계획 조건부 승인…\"정상 영업\"",
-      "link": "https://www.yna.co.kr/view/AKR20260527128600002",
-      "pubDate": "Wed, 27 May 2026 16:03:05 +0900"
-    },
-    {
-      "title": "코웨이, '2026 밸류업 우수기업' 금융위원장상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260527125700030",
-      "pubDate": "Wed, 27 May 2026 16:00:41 +0900"
-    },
-    {
-      "title": "[게시판] 재경부 민생안정지원단, 닭고기 수급 상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260527125800002",
-      "pubDate": "Wed, 27 May 2026 16:00:00 +0900"
     }
   ]
 }
