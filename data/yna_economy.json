@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779918382,
+  "updated_at_unix": 1779923256,
   "items": [
+    {
+      "title": "삼성증권 \"두나무 주식 3천64억원어치 취득…지분율 2%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260528016800008",
+      "pubDate": "Thu, 28 May 2026 07:43:56 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260528012400011",
+      "pubDate": "Thu, 28 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카는 왜 가난한가…프레임 바꾸면 보이는 것들",
+      "link": "https://www.yna.co.kr/view/AKR20260520145100898",
+      "pubDate": "Thu, 28 May 2026 07:00:03 +0900"
+    },
     {
       "title": "울산 AI 데이터센터 연관산업 생태계 조성…기업 투자 본격 유치",
       "link": "https://www.yna.co.kr/view/AKR20260527167000057",
@@ -137,21 +152,6 @@
       "title": "'8천피' 탈환 하루밖에 안지났는데…단숨에 '9천피' 향해 질주(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260527072551008",
       "pubDate": "Wed, 27 May 2026 16:51:29 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.711%",
-      "link": "https://www.yna.co.kr/view/AKR20260527137700008",
-      "pubDate": "Wed, 27 May 2026 16:42:08 +0900"
-    },
-    {
-      "title": "은행권 주요 수신상품 금리 연달아 인상…신한 이어 카뱅도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260527042951002",
-      "pubDate": "Wed, 27 May 2026 16:38:59 +0900"
-    },
-    {
-      "title": "전남광주통합시금고 선정 '후폭풍'…광주은행·농협 공방(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260527127500054",
-      "pubDate": "Wed, 27 May 2026 16:34:14 +0900"
     }
   ]
 }
