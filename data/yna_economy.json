@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780004920,
+  "updated_at_unix": 1780009527,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260529013600011",
+      "pubDate": "Fri, 29 May 2026 07:30:00 +0900"
+    },
+    {
+      "title": "넥슨, 투자법인 출범…텐센트 출신 핵심 인사 영입",
+      "link": "https://www.yna.co.kr/view/AKR20260528167700017",
+      "pubDate": "Fri, 29 May 2026 07:10:01 +0900"
+    },
+    {
+      "title": "지하철 2호선 전 구간 정상운행…서소문 철거 안전점검 완료",
+      "link": "https://www.yna.co.kr/view/AKR20260529010700004",
+      "pubDate": "Fri, 29 May 2026 06:43:40 +0900"
+    },
     {
       "title": "4월 서울 입주물량 전월의 2배…작년 대비로는 절반 수준",
       "link": "https://www.yna.co.kr/view/AKR20260528162300003",
@@ -39,7 +54,7 @@
       "pubDate": "Fri, 29 May 2026 06:00:00 +0900"
     },
     {
-      "title": "[샷!] \"알바도 '부모 찬스' 써야 하는 세상\"",
+      "title": "[샷!] \"'지금까지 뭐했냐'는 말도 들었어요\"",
       "link": "https://www.yna.co.kr/view/AKR20260526171100011",
       "pubDate": "Fri, 29 May 2026 05:50:00 +0900"
     },
@@ -137,21 +152,6 @@
       "title": "靑, 김영훈 '초과이익 분배' 언급에 \"토론회서 다양한 공론화\"",
       "link": "https://www.yna.co.kr/view/AKR20260528155400001",
       "pubDate": "Thu, 28 May 2026 17:26:35 +0900"
-    },
-    {
-      "title": "스타벅스, 실물·e카드 판매 일시 중단…\"현금화 악용 차단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260528154000030",
-      "pubDate": "Thu, 28 May 2026 17:10:33 +0900"
-    },
-    {
-      "title": "'매파 금통위·중동 불안' 국고채 동반 상승…3년물 연 3.766%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528152951008",
-      "pubDate": "Thu, 28 May 2026 17:09:02 +0900"
-    },
-    {
-      "title": "서울시·국토부, 철근 누락 이어 동부간선 발파공사 놓고 신경전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528141651004",
-      "pubDate": "Thu, 28 May 2026 17:07:08 +0900"
     }
   ]
 }
