@@ -1,15 +1,45 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779961279,
+  "updated_at_unix": 1779973182,
   "items": [
+    {
+      "title": "서소문고가, 사고 이틀여 만에 철거 재개…30일 새벽 완료 예정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260528177351004",
+      "pubDate": "Thu, 28 May 2026 21:19:42 +0900"
+    },
+    {
+      "title": "노동부, 초과이윤 배분 관련 토론회 연기…\"다양한 의견 수렴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260528183400530",
+      "pubDate": "Thu, 28 May 2026 21:09:08 +0900"
+    },
+    {
+      "title": "성대 야구장 부지 민참사업 우협대상자에 현대건설 컨소시엄",
+      "link": "https://www.yna.co.kr/view/AKR20260528177400003",
+      "pubDate": "Thu, 28 May 2026 19:47:45 +0900"
+    },
+    {
+      "title": "[2보] 서소문 고가차도 철거 재개 승인…붕괴사고 이틀 만",
+      "link": "https://www.yna.co.kr/view/AKR20260528177300004",
+      "pubDate": "Thu, 28 May 2026 19:34:09 +0900"
+    },
+    {
+      "title": "국민성장펀드, '국산 AI 반도체' 퓨리오사AI에 8천억 직접투자",
+      "link": "https://www.yna.co.kr/view/AKR20260528176900002",
+      "pubDate": "Thu, 28 May 2026 19:29:12 +0900"
+    },
+    {
+      "title": "더벤티, 내일부터 아메리카노 제외 커피·음료 최대 500원 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260528175600030",
+      "pubDate": "Thu, 28 May 2026 19:15:29 +0900"
+    },
     {
       "title": "국민연금, 올해 국내주식 목표 비중 14.9%→20.8%로 확대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260528168051530",
       "pubDate": "Thu, 28 May 2026 18:36:13 +0900"
     },
     {
-      "title": "성수4구역 시공사 입찰 또다시 갈등…조합-대우건설 충돌",
+      "title": "성수4지구 시공사 입찰 또다시 갈등…조합-대우건설 충돌",
       "link": "https://www.yna.co.kr/view/AKR20260528171300003",
       "pubDate": "Thu, 28 May 2026 18:29:18 +0900"
     },
@@ -122,36 +152,6 @@
       "title": "한일미래파트너십재단, 일본 청년 한국기업 탐방 프로그램 개최",
       "link": "https://www.yna.co.kr/view/AKR20260528148100003",
       "pubDate": "Thu, 28 May 2026 16:24:32 +0900"
-    },
-    {
-      "title": "검찰, '주가조작 패가망신 1호' DI동일·NH투자증권 압수수색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528097251004",
-      "pubDate": "Thu, 28 May 2026 16:23:22 +0900"
-    },
-    {
-      "title": "포항시·기업은행, 포항 소재 중소기업에 금융비용 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260528146100053",
-      "pubDate": "Thu, 28 May 2026 16:20:14 +0900"
-    },
-    {
-      "title": "건물주 대신해 계약 관리하다 수천만원 빼돌린 업자 징역 1년",
-      "link": "https://www.yna.co.kr/view/AKR20260528137100051",
-      "pubDate": "Thu, 28 May 2026 16:14:00 +0900"
-    },
-    {
-      "title": "코스피, 중동발 찬바람에 한때 4.7% 급락…'변동성 주의보'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528106151008",
-      "pubDate": "Thu, 28 May 2026 16:12:46 +0900"
-    },
-    {
-      "title": "[특징주] LG엔솔, 15% 급등 마감…미국향 ESS 공급계약 호재(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528040251008",
-      "pubDate": "Thu, 28 May 2026 16:03:36 +0900"
-    },
-    {
-      "title": "정부 배당 수입 2.8조 역대 최대…3대 국책은행 2조 배당",
-      "link": "https://www.yna.co.kr/view/AKR20260528122700002",
-      "pubDate": "Thu, 28 May 2026 16:00:02 +0900"
     }
   ]
 }
