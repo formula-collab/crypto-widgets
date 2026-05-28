@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779996723,
+  "updated_at_unix": 1780004920,
   "items": [
+    {
+      "title": "4월 서울 입주물량 전월의 2배…작년 대비로는 절반 수준",
+      "link": "https://www.yna.co.kr/view/AKR20260528162300003",
+      "pubDate": "Fri, 29 May 2026 06:00:08 +0900"
+    },
+    {
+      "title": "한은 \"비IT 수출, 중국 부상에도 일본·독일보다 선방\"",
+      "link": "https://www.yna.co.kr/view/AKR20260528135500002",
+      "pubDate": "Fri, 29 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "1분기 국내은행 부실채권비율 0.6%…5년만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260528162800002",
+      "pubDate": "Fri, 29 May 2026 06:00:06 +0900"
+    },
+    {
+      "title": "외국인 4개월째 국내 주식 '팔자'…규모는 4조원으로 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260528168600002",
+      "pubDate": "Fri, 29 May 2026 06:00:04 +0900"
+    },
+    {
+      "title": "외국인 보유 국내 주택 10만8천가구…1년 새 8% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260528179400003",
+      "pubDate": "Fri, 29 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "중기부, '수출전략품목 육성 사업' 공모…뷰티 등 200개 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260528155600030",
+      "pubDate": "Fri, 29 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "중기부, 상생금융 확산 이끈 금융 유공자 공개 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260528148900030",
+      "pubDate": "Fri, 29 May 2026 06:00:00 +0900"
+    },
+    {
+      "title": "[샷!] \"알바도 '부모 찬스' 써야 하는 세상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260526171100011",
+      "pubDate": "Fri, 29 May 2026 05:50:00 +0900"
+    },
+    {
+      "title": "국제유가, 이란 종전협상 마무리 소식에 혼조…브렌트 0.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260529005700072",
+      "pubDate": "Fri, 29 May 2026 04:33:12 +0900"
+    },
     {
       "title": "달러-원, 美·이란 종전 MOU 합의에 낙폭 확대…1,494.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260529004000002",
@@ -107,51 +152,6 @@
       "title": "서울시·국토부, 철근 누락 이어 동부간선 발파공사 놓고 신경전(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260528141651004",
       "pubDate": "Thu, 28 May 2026 17:07:08 +0900"
-    },
-    {
-      "title": "서소문 고가차도 붕괴에 시멘트 업계도 공급 차질 '긴장'",
-      "link": "https://www.yna.co.kr/view/AKR20260528156500003",
-      "pubDate": "Thu, 28 May 2026 17:06:24 +0900"
-    },
-    {
-      "title": "한성숙 장관 \"성장성 평가 기준 마련할 것…비수도권에 투자\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260528123251030",
-      "pubDate": "Thu, 28 May 2026 17:06:07 +0900"
-    },
-    {
-      "title": "구윤철 \"K-뷰티는 미래전략산업…세계 선도 시대 열겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260528135600002",
-      "pubDate": "Thu, 28 May 2026 17:00:01 +0900"
-    },
-    {
-      "title": "서금원-신복위-광주은행, 연내 서민금융 복합지원센터 공동 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260528150500002",
-      "pubDate": "Thu, 28 May 2026 16:55:46 +0900"
-    },
-    {
-      "title": "광주 전방·일방 개발사업 시공사 우미건설 선정…9월 착공 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260528151600054",
-      "pubDate": "Thu, 28 May 2026 16:54:54 +0900"
-    },
-    {
-      "title": "환율, 금리인상 신호에도 중동 정세에 소폭 상승…1,502.8원",
-      "link": "https://www.yna.co.kr/view/AKR20260528146700002",
-      "pubDate": "Thu, 28 May 2026 16:54:18 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.766%",
-      "link": "https://www.yna.co.kr/view/AKR20260528152900008",
-      "pubDate": "Thu, 28 May 2026 16:53:07 +0900"
-    },
-    {
-      "title": "한국거래소, 부산 강서구 '통통꿈놀이터 18호' 완공",
-      "link": "https://www.yna.co.kr/view/AKR20260528154400008",
-      "pubDate": "Thu, 28 May 2026 16:52:13 +0900"
-    },
-    {
-      "title": "'창원상의 126년사' 발간 기념식 개최…디지털 역사관도 개관",
-      "link": "https://www.yna.co.kr/view/AKR20260528144000052",
-      "pubDate": "Thu, 28 May 2026 16:35:00 +0900"
     }
   ]
 }
