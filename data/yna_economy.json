@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779987200,
+  "updated_at_unix": 1779996723,
   "items": [
+    {
+      "title": "달러-원, 美·이란 종전 MOU 합의에 낙폭 확대…1,494.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260529004000002",
+      "pubDate": "Fri, 29 May 2026 03:30:01 +0900"
+    },
     {
       "title": "[재산공개] 이헌욱 부동산원장 12억원…정왕국 SR사장 23억원",
       "link": "https://www.yna.co.kr/view/AKR20260528159700003",
@@ -147,11 +152,6 @@
       "title": "'창원상의 126년사' 발간 기념식 개최…디지털 역사관도 개관",
       "link": "https://www.yna.co.kr/view/AKR20260528144000052",
       "pubDate": "Thu, 28 May 2026 16:35:00 +0900"
-    },
-    {
-      "title": "통상본부장, 유럽의회 대표단에 국내 업계 애로사항 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260528118600003",
-      "pubDate": "Thu, 28 May 2026 16:30:00 +0900"
     }
   ]
 }
