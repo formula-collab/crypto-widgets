@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1779973182,
+  "updated_at_unix": 1779987200,
   "items": [
+    {
+      "title": "[재산공개] 이헌욱 부동산원장 12억원…정왕국 SR사장 23억원",
+      "link": "https://www.yna.co.kr/view/AKR20260528159700003",
+      "pubDate": "Fri, 29 May 2026 00:00:00 +0900"
+    },
     {
       "title": "서소문고가, 사고 이틀여 만에 철거 재개…30일 새벽 완료 예정(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260528177351004",
@@ -147,11 +152,6 @@
       "title": "통상본부장, 유럽의회 대표단에 국내 업계 애로사항 전달",
       "link": "https://www.yna.co.kr/view/AKR20260528118600003",
       "pubDate": "Thu, 28 May 2026 16:30:00 +0900"
-    },
-    {
-      "title": "한일미래파트너십재단, 일본 청년 한국기업 탐방 프로그램 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260528148100003",
-      "pubDate": "Thu, 28 May 2026 16:24:32 +0900"
     }
   ]
 }
