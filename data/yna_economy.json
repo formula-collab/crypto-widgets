@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780047055,
+  "updated_at_unix": 1780058309,
   "items": [
+    {
+      "title": "S&P \"한투증권, 코인원 지분 인수 후에도 재무역량 유지할 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260529167700008",
+      "pubDate": "Fri, 29 May 2026 20:39:18 +0900"
+    },
+    {
+      "title": "3기신도시 남양주왕숙2 첫 공급 2개 단지 세자릿수 경쟁률",
+      "link": "https://www.yna.co.kr/view/AKR20260529166900003",
+      "pubDate": "Fri, 29 May 2026 20:13:33 +0900"
+    },
+    {
+      "title": "[특징주] 삼성전기, 현대차 제치고 '시총 4위'…200만원 첫돌파(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260529046153008",
+      "pubDate": "Fri, 29 May 2026 19:01:09 +0900"
+    },
     {
       "title": "경찰, '수뢰 혐의' 성남 상대원2구역 조합장 구속영장 신청",
       "link": "https://www.yna.co.kr/view/AKR20260529152800061",
@@ -137,21 +152,6 @@
       "title": "'삼전닉스 쏠림' 우려속…\"주도주 쏠림, 버블 후반에 반복\"",
       "link": "https://www.yna.co.kr/view/AKR20260529121300008",
       "pubDate": "Fri, 29 May 2026 15:54:27 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전기, 현대차 제치고 '시총 4위'…200만원 첫돌파(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260529046152008",
-      "pubDate": "Fri, 29 May 2026 15:51:32 +0900"
-    },
-    {
-      "title": "울주군, 지적재조사 사업지구 조정금 의결 \"주민 재산권 보호\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529120100057",
-      "pubDate": "Fri, 29 May 2026 15:48:40 +0900"
-    },
-    {
-      "title": "[특징주] 퓨리오사AI 관련주 급등…국민성장펀드 투자 호재(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260529045451008",
-      "pubDate": "Fri, 29 May 2026 15:47:01 +0900"
     }
   ]
 }
