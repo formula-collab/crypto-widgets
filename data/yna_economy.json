@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780082705,
+  "updated_at_unix": 1780089535,
   "items": [
+    {
+      "title": "파주 임진각 민방위 대피소, 다목적 문화예술공간으로 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260529114300060",
+      "pubDate": "Sat, 30 May 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 경기 김포 호반써밋풍무Ⅱ 등 2천437가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260529156900003",
+      "pubDate": "Sat, 30 May 2026 06:00:01 +0900"
+    },
+    {
+      "title": "국제유가, 트럼프 종전협상 최종결정 앞두고 하락…브렌트 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260530005400072",
+      "pubDate": "Sat, 30 May 2026 04:21:36 +0900"
+    },
     {
       "title": "달러-원, 최종 결정 준비하는 트럼프에 오름폭 축소…1,504.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260530003500002",
@@ -137,21 +152,6 @@
       "title": "법원, 금융당국이 코인원에 내린 '영업 일부정지' 제재 제동",
       "link": "https://www.yna.co.kr/view/AKR20260529128500002",
       "pubDate": "Fri, 29 May 2026 16:02:24 +0900"
-    },
-    {
-      "title": "한투증권·OKX, 가상자산 거래소 코인원 투자…공동 3대 주주(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260529116151008",
-      "pubDate": "Fri, 29 May 2026 16:00:50 +0900"
-    },
-    {
-      "title": "농식품부, 반려동물행동지도사 시험 공고…취약계층 수수료 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260529030800030",
-      "pubDate": "Fri, 29 May 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[속보] 법원 \"코인원 영업 일부정지 처분 집행정지 신청 인용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529128100002",
-      "pubDate": "Fri, 29 May 2026 15:58:58 +0900"
     }
   ]
 }
