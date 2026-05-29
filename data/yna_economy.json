@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780072373,
+  "updated_at_unix": 1780082705,
   "items": [
+    {
+      "title": "달러-원, 최종 결정 준비하는 트럼프에 오름폭 축소…1,504.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260530003500002",
+      "pubDate": "Sat, 30 May 2026 03:12:56 +0900"
+    },
     {
       "title": "[부고] 김현준(한국산업은행 노조위원장)씨 장모상",
       "link": "https://www.yna.co.kr/view/AKR20260529177100034",
@@ -147,11 +152,6 @@
       "title": "[속보] 법원 \"코인원 영업 일부정지 처분 집행정지 신청 인용\"",
       "link": "https://www.yna.co.kr/view/AKR20260529128100002",
       "pubDate": "Fri, 29 May 2026 15:58:58 +0900"
-    },
-    {
-      "title": "[특징주] 'AI협력' 젠슨황 방한 기대감에 LG전자 역대 최고가·상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260529046251008",
-      "pubDate": "Fri, 29 May 2026 15:55:41 +0900"
     }
   ]
 }
