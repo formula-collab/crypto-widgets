@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780134558,
+  "updated_at_unix": 1780139436,
   "items": [
+    {
+      "title": "\"아프리카 공급망, '팀 코리아'로 뚫자\"…전직 대사들 현장 제언",
+      "link": "https://www.yna.co.kr/view/AKR20260530051900371",
+      "pubDate": "Sat, 30 May 2026 19:06:01 +0900"
+    },
     {
       "title": "GS건설, 수도권 도시정비 2건 수주…올해 누적 5조원 돌파(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260530049151003",
@@ -147,11 +152,6 @@
       "title": "국민성장펀드 3만명, 평균 2천만원 가입…서민비중 39%",
       "link": "https://www.yna.co.kr/view/AKR20260529153900002",
       "pubDate": "Fri, 29 May 2026 18:12:36 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260529147400011",
-      "pubDate": "Fri, 29 May 2026 18:00:00 +0900"
     }
   ]
 }
