@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780180229,
+  "updated_at_unix": 1780185018,
   "items": [
+    {
+      "title": "하나금융 자산관리 세미나…제1회 '머니쇼' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260530063700002",
+      "pubDate": "Sun, 31 May 2026 08:30:00 +0900"
+    },
+    {
+      "title": "타워크레인 노사 합의…나흘만에 파업 종료 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260531008700003",
+      "pubDate": "Sun, 31 May 2026 08:13:49 +0900"
+    },
+    {
+      "title": "'불기둥' 삼전닉스 주요임원 자사주 수익률 보니…최대 400%",
+      "link": "https://www.yna.co.kr/view/AKR20260530045700008",
+      "pubDate": "Sun, 31 May 2026 07:35:00 +0900"
+    },
+    {
+      "title": "'연초 급등분' 반납한 귀금속…하반기 '금 랠리' 다시올까",
+      "link": "https://www.yna.co.kr/view/AKR20260530001900008",
+      "pubDate": "Sun, 31 May 2026 07:30:00 +0900"
+    },
     {
       "title": "외국인, 이달 역대 최대로 '코스피 팔고 코스닥 담았다'",
       "link": "https://www.yna.co.kr/view/AKR20260530043900008",
@@ -132,26 +152,6 @@
       "title": "하위 20% 월 44만원 적자…상위 20%는 344만원 여윳돈",
       "link": "https://www.yna.co.kr/view/AKR20260530055300002",
       "pubDate": "Sun, 31 May 2026 05:47:03 +0900"
-    },
-    {
-      "title": "韓경제 이끄는 반도체…생산 13% 늘 때 임금 일자리 2% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260530056300002",
-      "pubDate": "Sun, 31 May 2026 05:47:02 +0900"
-    },
-    {
-      "title": "반도체 훈풍 부는데…성장률·소득 증가율 격차 2년만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260530002600002",
-      "pubDate": "Sun, 31 May 2026 05:47:00 +0900"
-    },
-    {
-      "title": "5월 신용대출, 주담대보다 100배 넘게 늘어…머니무브 속 '빚투'",
-      "link": "https://www.yna.co.kr/view/AKR20260530049300002",
-      "pubDate": "Sun, 31 May 2026 05:45:00 +0900"
-    },
-    {
-      "title": "이억원 \"국민참여성장펀드, 2차분 준비해 출시할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260530059400002",
-      "pubDate": "Sat, 30 May 2026 20:19:19 +0900"
     }
   ]
 }
