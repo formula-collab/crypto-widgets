@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780126457,
+  "updated_at_unix": 1780134558,
   "items": [
+    {
+      "title": "GS건설, 수도권 도시정비 2건 수주…올해 누적 5조원 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260530049151003",
+      "pubDate": "Sat, 30 May 2026 18:10:19 +0900"
+    },
+    {
+      "title": "박홍근 \"물 들어올 때 제대로 투자…글로벌 톱3 기반 만들 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260530048300002",
+      "pubDate": "Sat, 30 May 2026 17:24:57 +0900"
+    },
+    {
+      "title": "GS건설, 수도권 도시정비 2건 수주…올해 누적 5조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260530049100003",
+      "pubDate": "Sat, 30 May 2026 17:08:43 +0900"
+    },
+    {
+      "title": "삼성물산, 신반포19·25차 통합재건축 시공사 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260530047500003",
+      "pubDate": "Sat, 30 May 2026 16:42:59 +0900"
+    },
     {
       "title": "[부고] 심선화(한화투자증권 송파WM센터장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260530042300008",
@@ -132,26 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260529147400011",
       "pubDate": "Fri, 29 May 2026 18:00:00 +0900"
-    },
-    {
-      "title": "우상호 \"원주 3천억 투자 약속\"…김진태 \"모든 것 갈아 넣겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529150300062",
-      "pubDate": "Fri, 29 May 2026 17:57:50 +0900"
-    },
-    {
-      "title": "삼성 글로벌 TV 점유율 16.8%…중국TCL과 격차 2.7%p로 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260529150800003",
-      "pubDate": "Fri, 29 May 2026 17:48:40 +0900"
-    },
-    {
-      "title": "[영상] 삼성전자 역대급 성과급에도 웃지 못하는 이유",
-      "link": "https://www.yna.co.kr/view/AKR20260529151400797",
-      "pubDate": "Fri, 29 May 2026 17:48:03 +0900"
-    },
-    {
-      "title": "넥스턴앤롤코리아, 40억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260529149300008",
-      "pubDate": "Fri, 29 May 2026 17:41:30 +0900"
     }
   ]
 }
