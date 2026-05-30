@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780139436,
+  "updated_at_unix": 1780145024,
   "items": [
+    {
+      "title": "이억원 \"국민참여성장펀드, 2차분 준비해 출시할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260530059400002",
+      "pubDate": "Sat, 30 May 2026 20:19:19 +0900"
+    },
     {
       "title": "\"아프리카 공급망, '팀 코리아'로 뚫자\"…전직 대사들 현장 제언",
       "link": "https://www.yna.co.kr/view/AKR20260530051900371",
@@ -147,11 +152,6 @@
       "title": "경찰, '수뢰 혐의' 성남 상대원2구역 조합장 구속영장 신청",
       "link": "https://www.yna.co.kr/view/AKR20260529152800061",
       "pubDate": "Fri, 29 May 2026 18:13:07 +0900"
-    },
-    {
-      "title": "국민성장펀드 3만명, 평균 2천만원 가입…서민비중 39%",
-      "link": "https://www.yna.co.kr/view/AKR20260529153900002",
-      "pubDate": "Fri, 29 May 2026 18:12:36 +0900"
     }
   ]
 }
