@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780171674,
+  "updated_at_unix": 1780176581,
   "items": [
+    {
+      "title": "스타벅스 직원들 왜 냉랭해졌나…경영진 평가 최하",
+      "link": "https://www.yna.co.kr/view/AKR20260529153600017",
+      "pubDate": "Sun, 31 May 2026 06:13:00 +0900"
+    },
+    {
+      "title": "골목·전통시장 '온기'…5월 체감경기 '연휴·지원금'에 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260529131300030",
+      "pubDate": "Sun, 31 May 2026 06:11:00 +0900"
+    },
+    {
+      "title": "고유가 지원금 10일간 이의신청 13.4만건…건보료 관련 민원 21%",
+      "link": "https://www.yna.co.kr/view/AKR20260529149500530",
+      "pubDate": "Sun, 31 May 2026 06:08:01 +0900"
+    },
+    {
+      "title": "시간단위 연차 의미 두고 혼선…\"1~2시간 아닌 반차\"",
+      "link": "https://www.yna.co.kr/view/AKR20260530039700003",
+      "pubDate": "Sun, 31 May 2026 06:07:00 +0900"
+    },
+    {
+      "title": "[이재명정부 1년] ⑧ '산재와의 전쟁'에 산재사망자 수 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260529084000530",
+      "pubDate": "Sun, 31 May 2026 06:01:21 +0900"
+    },
+    {
+      "title": "[이재명정부 1년] ⑥ 코스피 8천시대 개막…부동산·환율은 아직 숙제로",
+      "link": "https://www.yna.co.kr/view/AKR20260530060000002",
+      "pubDate": "Sun, 31 May 2026 06:01:05 +0900"
+    },
+    {
+      "title": "'스벅사태·커피 인상'에 국산차 '재조명'…정부, 소비촉진 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260530046400030",
+      "pubDate": "Sun, 31 May 2026 06:01:01 +0900"
+    },
+    {
+      "title": "한은 금리 인상 신호에 산업계 긴장…경기 민감할수록 큰 타격",
+      "link": "https://www.yna.co.kr/view/AKR20260530059200003",
+      "pubDate": "Sun, 31 May 2026 06:01:00 +0900"
+    },
+    {
+      "title": "AI발 '초과이익' 재분배론 부상…시장경제 원칙 훼손 지적도",
+      "link": "https://www.yna.co.kr/view/AKR20260529127000530",
+      "pubDate": "Sun, 31 May 2026 05:59:04 +0900"
+    },
+    {
+      "title": "체외충격파 '12회 이상' 이용 5%뿐…횟수 제한 실효성 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260530057600002",
+      "pubDate": "Sun, 31 May 2026 05:59:01 +0900"
+    },
+    {
+      "title": "저축은행 신용대출 잔액↓ 차주·연체율↑…자산 질 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260530057900002",
+      "pubDate": "Sun, 31 May 2026 05:57:00 +0900"
+    },
+    {
+      "title": "SK하이닉스도 임협 시즌…\"우리도 주택대출 5억\" 요구 부상",
+      "link": "https://www.yna.co.kr/view/AKR20260529157800003",
+      "pubDate": "Sun, 31 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "새도약기금 가입 압박 높이는 당국…10월말까지 채권매입 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260530048600002",
+      "pubDate": "Sun, 31 May 2026 05:55:00 +0900"
+    },
+    {
+      "title": "스테이블코인 제도화 앞두고…가상자산 거래소 지분 쟁탈전",
+      "link": "https://www.yna.co.kr/view/AKR20260530049400002",
+      "pubDate": "Sun, 31 May 2026 05:53:00 +0900"
+    },
+    {
+      "title": "중복상장 예외허용 이르면 내주 공개…주주동의 획득 첫 사례도",
+      "link": "https://www.yna.co.kr/view/AKR20260530053700002",
+      "pubDate": "Sun, 31 May 2026 05:51:00 +0900"
+    },
+    {
+      "title": "24년만에 10%대 명목성장 기대…가계부채·국가채무비율 청신호",
+      "link": "https://www.yna.co.kr/view/AKR20260530044200002",
+      "pubDate": "Sun, 31 May 2026 05:49:00 +0900"
+    },
+    {
+      "title": "하위 20% 월 44만원 적자…상위 20%는 344만원 여윳돈",
+      "link": "https://www.yna.co.kr/view/AKR20260530055300002",
+      "pubDate": "Sun, 31 May 2026 05:47:03 +0900"
+    },
+    {
+      "title": "韓경제 이끄는 반도체…생산 13% 늘 때 임금 일자리 2% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260530056300002",
+      "pubDate": "Sun, 31 May 2026 05:47:02 +0900"
+    },
+    {
+      "title": "반도체 훈풍 부는데…성장률·소득 증가율 격차 2년만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260530002600002",
+      "pubDate": "Sun, 31 May 2026 05:47:00 +0900"
+    },
+    {
+      "title": "5월 신용대출, 주담대보다 100배 넘게 늘어…머니무브 속 '빚투'",
+      "link": "https://www.yna.co.kr/view/AKR20260530049300002",
+      "pubDate": "Sun, 31 May 2026 05:45:00 +0900"
+    },
     {
       "title": "이억원 \"국민참여성장펀드, 2차분 준비해 출시할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260530059400002",
@@ -52,106 +152,6 @@
       "title": "구윤철, '8천피 버블론'에 \"혁신 노력 없을 때 나오는 우려\"",
       "link": "https://www.yna.co.kr/view/AKR20260530029700002",
       "pubDate": "Sat, 30 May 2026 11:46:07 +0900"
-    },
-    {
-      "title": "김영록 전남지사, 일본서 농수산식품 수출 확대 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260529139800054",
-      "pubDate": "Sat, 30 May 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[마이더스] 친절한 안내일까, AI의 경고일까",
-      "link": "https://www.yna.co.kr/view/AKR20260529043500980",
-      "pubDate": "Sat, 30 May 2026 10:30:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260530024800011",
-      "pubDate": "Sat, 30 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 5월 소비자물가 중동영향 커졌나…OECD 韓성장률도 관심",
-      "link": "https://www.yna.co.kr/view/AKR20260530017700002",
-      "pubDate": "Sat, 30 May 2026 08:31:52 +0900"
-    },
-    {
-      "title": "경남도, 대학 인재양성체계 사업 차등 지원…19개 캠퍼스 평가",
-      "link": "https://www.yna.co.kr/view/AKR20260529089500052",
-      "pubDate": "Sat, 30 May 2026 08:15:00 +0900"
-    },
-    {
-      "title": "[아프리카인물열전] (22)리비아 혁명가에서 독재자로 최후 맞은 카다피",
-      "link": "https://www.yna.co.kr/view/AKR20260421091700898",
-      "pubDate": "Sat, 30 May 2026 08:00:06 +0900"
-    },
-    {
-      "title": "부산 아파트값 약보합세…해운대·동래·기장만 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260528145100051",
-      "pubDate": "Sat, 30 May 2026 08:00:05 +0900"
-    },
-    {
-      "title": "어린이공원 공중화장실 설치에 아파트 주민 민원 빗발…왜?",
-      "link": "https://www.yna.co.kr/view/AKR20260529119300065",
-      "pubDate": "Sat, 30 May 2026 07:17:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 2주 연속 하락…전국 평균 휘발윳값 2천11원대",
-      "link": "https://www.yna.co.kr/view/AKR20260529159200003",
-      "pubDate": "Sat, 30 May 2026 07:01:02 +0900"
-    },
-    {
-      "title": "[신상잇슈] 삼립 '포켓몬빵' 신제품 4종·뚜레쥬르 '쿨브레드' 2종",
-      "link": "https://www.yna.co.kr/view/AKR20260529069000030",
-      "pubDate": "Sat, 30 May 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[OK제보] \"이동 늘었지만 지갑은 10년전 그대로\"…시각장애 안마사 '눈물'",
-      "link": "https://www.yna.co.kr/view/AKR20260528183600505",
-      "pubDate": "Sat, 30 May 2026 06:50:01 +0900"
-    },
-    {
-      "title": "파주 임진각 민방위 대피소, 다목적 문화예술공간으로 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260529114300060",
-      "pubDate": "Sat, 30 May 2026 06:00:02 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 경기 김포 호반써밋풍무Ⅱ 등 2천437가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260529156900003",
-      "pubDate": "Sat, 30 May 2026 06:00:01 +0900"
-    },
-    {
-      "title": "국제유가, 트럼프 종전협상 최종결정 앞두고 하락…브렌트 2%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260530005400072",
-      "pubDate": "Sat, 30 May 2026 04:21:36 +0900"
-    },
-    {
-      "title": "달러-원, 최종 결정 준비하는 트럼프에 오름폭 축소…1,504.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260530003500002",
-      "pubDate": "Sat, 30 May 2026 03:12:56 +0900"
-    },
-    {
-      "title": "[부고] 김현준(한국산업은행 노조위원장)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260529177100034",
-      "pubDate": "Fri, 29 May 2026 23:51:34 +0900"
-    },
-    {
-      "title": "S&P \"한투증권, 코인원 지분 인수 후에도 재무역량 유지할 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529167700008",
-      "pubDate": "Fri, 29 May 2026 20:39:18 +0900"
-    },
-    {
-      "title": "3기신도시 남양주왕숙2 첫 공급 2개 단지 세자릿수 경쟁률",
-      "link": "https://www.yna.co.kr/view/AKR20260529166900003",
-      "pubDate": "Fri, 29 May 2026 20:13:33 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전기, 현대차 제치고 '시총 4위'…200만원 첫돌파(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260529046153008",
-      "pubDate": "Fri, 29 May 2026 19:01:09 +0900"
-    },
-    {
-      "title": "경찰, '수뢰 혐의' 성남 상대원2구역 조합장 구속영장 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260529152800061",
-      "pubDate": "Fri, 29 May 2026 18:13:07 +0900"
     }
   ]
 }
