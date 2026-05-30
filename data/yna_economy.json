@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780094796,
+  "updated_at_unix": 1780099237,
   "items": [
+    {
+      "title": "[다음주 경제] 5월 소비자물가 중동영향 커졌나…OECD 韓성장률도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260530017700002",
+      "pubDate": "Sat, 30 May 2026 08:31:52 +0900"
+    },
+    {
+      "title": "경남도, 대학 인재양성체계 사업 차등 지원…19개 캠퍼스 평가",
+      "link": "https://www.yna.co.kr/view/AKR20260529089500052",
+      "pubDate": "Sat, 30 May 2026 08:15:00 +0900"
+    },
+    {
+      "title": "[아프리카인물열전] (22)리비아 혁명가에서 독재자로 최후 맞은 카다피",
+      "link": "https://www.yna.co.kr/view/AKR20260421091700898",
+      "pubDate": "Sat, 30 May 2026 08:00:06 +0900"
+    },
+    {
+      "title": "부산 아파트값 약보합세…해운대·동래·기장만 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260528145100051",
+      "pubDate": "Sat, 30 May 2026 08:00:05 +0900"
+    },
     {
       "title": "어린이공원 공중화장실 설치에 아파트 주민 민원 빗발…왜?",
       "link": "https://www.yna.co.kr/view/AKR20260529119300065",
@@ -132,26 +152,6 @@
       "title": "업비트·빗썸 이어 코인원도 FIU 제재 효력정지…법원 제동(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260529128551002",
       "pubDate": "Fri, 29 May 2026 16:31:33 +0900"
-    },
-    {
-      "title": "농식품부, 반려동물 영양제 제조 '퓨어' 이달의 우수벤처 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260529134800030",
-      "pubDate": "Fri, 29 May 2026 16:29:58 +0900"
-    },
-    {
-      "title": "환율, 외국인 주식 순매도·배당 송금에 5.1원 오른 1,507.9원",
-      "link": "https://www.yna.co.kr/view/AKR20260529135400002",
-      "pubDate": "Fri, 29 May 2026 16:28:35 +0900"
-    },
-    {
-      "title": "세계유산 '반구천의 암각화' 기념주화 발행 \"상징성·의미 공유\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529131800057",
-      "pubDate": "Fri, 29 May 2026 16:18:41 +0900"
-    },
-    {
-      "title": "퓨쳐켐, 400억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260529131900008",
-      "pubDate": "Fri, 29 May 2026 16:16:31 +0900"
     }
   ]
 }
