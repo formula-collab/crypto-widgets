@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780115458,
+  "updated_at_unix": 1780126457,
   "items": [
+    {
+      "title": "[부고] 심선화(한화투자증권 송파WM센터장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260530042300008",
+      "pubDate": "Sat, 30 May 2026 15:19:39 +0900"
+    },
+    {
+      "title": "현대건설, 2파전 끝 '1.5조원' 압구정5구역 재건축 수주(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260530038751003",
+      "pubDate": "Sat, 30 May 2026 14:57:37 +0900"
+    },
+    {
+      "title": "'1.5조원' 압구정5구역 재건축 시공사에 현대건설",
+      "link": "https://www.yna.co.kr/view/AKR20260530038700003",
+      "pubDate": "Sat, 30 May 2026 14:05:45 +0900"
+    },
     {
       "title": "구윤철, '8천피 버블론'에 \"혁신 노력 없을 때 나오는 우려\"",
       "link": "https://www.yna.co.kr/view/AKR20260530029700002",
@@ -137,21 +152,6 @@
       "title": "넥스턴앤롤코리아, 40억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260529149300008",
       "pubDate": "Fri, 29 May 2026 17:41:30 +0900"
-    },
-    {
-      "title": "한투증권·OKX, 가상자산 거래소 코인원 투자…공동 3대 주주(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260529116152008",
-      "pubDate": "Fri, 29 May 2026 17:30:18 +0900"
-    },
-    {
-      "title": "NH농협금융, 은행에 5천억원 지원…\"생산적 금융 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260529138100002",
-      "pubDate": "Fri, 29 May 2026 17:13:33 +0900"
-    },
-    {
-      "title": "유가하락·국채발행 축소에…3년물 국고채 연 3.731%로 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260529138651008",
-      "pubDate": "Fri, 29 May 2026 17:09:05 +0900"
     }
   ]
 }
