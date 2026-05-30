@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780099237,
+  "updated_at_unix": 1780115458,
   "items": [
+    {
+      "title": "구윤철, '8천피 버블론'에 \"혁신 노력 없을 때 나오는 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260530029700002",
+      "pubDate": "Sat, 30 May 2026 11:46:07 +0900"
+    },
+    {
+      "title": "김영록 전남지사, 일본서 농수산식품 수출 확대 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260529139800054",
+      "pubDate": "Sat, 30 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "[마이더스] 친절한 안내일까, AI의 경고일까",
+      "link": "https://www.yna.co.kr/view/AKR20260529043500980",
+      "pubDate": "Sat, 30 May 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260530024800011",
+      "pubDate": "Sat, 30 May 2026 10:30:00 +0900"
+    },
     {
       "title": "[다음주 경제] 5월 소비자물가 중동영향 커졌나…OECD 韓성장률도 관심",
       "link": "https://www.yna.co.kr/view/AKR20260530017700002",
@@ -132,26 +152,6 @@
       "title": "유가하락·국채발행 축소에…3년물 국고채 연 3.731%로 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260529138651008",
       "pubDate": "Fri, 29 May 2026 17:09:05 +0900"
-    },
-    {
-      "title": "거래소, '코스닥 액티브' 등 ETF 6종 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260529140600008",
-      "pubDate": "Fri, 29 May 2026 16:55:53 +0900"
-    },
-    {
-      "title": "삼양그룹, 日 향료 기업 소다 아로마틱 3천900억원에 인수",
-      "link": "https://www.yna.co.kr/view/AKR20260529136700030",
-      "pubDate": "Fri, 29 May 2026 16:50:40 +0900"
-    },
-    {
-      "title": "국고채 금리 하락…3년물 연 3.731%",
-      "link": "https://www.yna.co.kr/view/AKR20260529138600008",
-      "pubDate": "Fri, 29 May 2026 16:46:20 +0900"
-    },
-    {
-      "title": "업비트·빗썸 이어 코인원도 FIU 제재 효력정지…법원 제동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260529128551002",
-      "pubDate": "Fri, 29 May 2026 16:31:33 +0900"
     }
   ]
 }
