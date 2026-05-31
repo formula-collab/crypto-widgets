@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780262967,
+  "updated_at_unix": 1780266703,
   "items": [
+    {
+      "title": "가나 117만평에 'K-테크타운'…로렌스 의장 \"아프리카 혁신엔진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531048000371",
+      "pubDate": "Mon, 1 Jun 2026 07:02:01 +0900"
+    },
+    {
+      "title": "튀니지 외교장관 \"한국은 신뢰 파트너…아프리카로 다각화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260528138100898",
+      "pubDate": "Mon, 1 Jun 2026 07:01:00 +0900"
+    },
+    {
+      "title": "한-아프리카 외교장관회의 오늘 개막…50개국·4개국제기구 집결",
+      "link": "https://www.yna.co.kr/view/AKR20260529074400898",
+      "pubDate": "Mon, 1 Jun 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[소셜＋] \"의대 비켜라\"…직업체험관서 청소년 사로잡은 '삼전닉스'",
+      "link": "https://www.yna.co.kr/view/AKR20260528161600505",
+      "pubDate": "Mon, 1 Jun 2026 06:50:00 +0900"
+    },
     {
       "title": "지방축제 1천431만명 역대급 흥행…외국인도 2년 연속 10만명",
       "link": "https://www.yna.co.kr/view/AKR20260530029600030",
@@ -132,26 +152,6 @@
       "title": "디지털 경제 속 중앙은행 역할은?…한은 국제 콘퍼런스",
       "link": "https://www.yna.co.kr/view/AKR20260530051700002",
       "pubDate": "Sun, 31 May 2026 12:00:07 +0900"
-    },
-    {
-      "title": "한은 \"경제안보 시대, 반도체 등 핵심 제조공정 국내 유지해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260530049200002",
-      "pubDate": "Sun, 31 May 2026 12:00:07 +0900"
-    },
-    {
-      "title": "회계사 수습처 부족 해소한다…수습기관·가능부서 늘리기로",
-      "link": "https://www.yna.co.kr/view/AKR20260530055200002",
-      "pubDate": "Sun, 31 May 2026 12:00:06 +0900"
-    },
-    {
-      "title": "국세청, 유튜브 엉터리 상속·증여 절세팁 바로잡기 나섰다",
-      "link": "https://www.yna.co.kr/view/AKR20260530063400002",
-      "pubDate": "Sun, 31 May 2026 12:00:06 +0900"
-    },
-    {
-      "title": "대한상의, 제3회 사회적가치 페스타 참여기관 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260531010500003",
-      "pubDate": "Sun, 31 May 2026 12:00:05 +0900"
     }
   ]
 }
