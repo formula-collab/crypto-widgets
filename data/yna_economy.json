@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780237479,
+  "updated_at_unix": 1780242253,
   "items": [
+    {
+      "title": "월러 연준이사 \"스테이블코인, 美통화정책 영향력 확대할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531057500072",
+      "pubDate": "Sun, 31 May 2026 23:35:48 +0900"
+    },
     {
       "title": "강훈식, 캐나다 출국…\"에너지·공급망·첨단산업 협력 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260531049700001",
@@ -147,11 +152,6 @@
       "title": "현대硏 \"고유가 장기화…사업계획 재수립·공급망 다변화 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260530051300002",
       "pubDate": "Sun, 31 May 2026 11:00:02 +0900"
-    },
-    {
-      "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260531013100003",
-      "pubDate": "Sun, 31 May 2026 11:00:01 +0900"
     }
   ]
 }
