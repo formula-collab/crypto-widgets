@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780266703,
+  "updated_at_unix": 1780271663,
   "items": [
+    {
+      "title": "SK바이오사이언스, 송도 신사옥 공개…가족과 비전 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260601020700017",
+      "pubDate": "Mon, 1 Jun 2026 08:47:32 +0900"
+    },
+    {
+      "title": "삼성증권 \"LG화학, 4분기 양극재 턴어라운드 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601020500008",
+      "pubDate": "Mon, 1 Jun 2026 08:39:27 +0900"
+    },
+    {
+      "title": "아시안팝페스티벌에 관객 1만명 몰려…김창완 등 51팀 공연",
+      "link": "https://www.yna.co.kr/view/AKR20260601019100030",
+      "pubDate": "Mon, 1 Jun 2026 08:37:41 +0900"
+    },
+    {
+      "title": "키움증권 \"LG, 역대 최고 순자산가치…목표가 20만원으로 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601019600008",
+      "pubDate": "Mon, 1 Jun 2026 08:36:46 +0900"
+    },
+    {
+      "title": "KB증권 \"SK텔레콤, AI 데이터센터 모멘텀 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601019200008",
+      "pubDate": "Mon, 1 Jun 2026 08:34:16 +0900"
+    },
+    {
+      "title": "유진투자 \"반도체 제외 코스피 4,100∼4,200 추정…양극화 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601019400008",
+      "pubDate": "Mon, 1 Jun 2026 08:30:27 +0900"
+    },
+    {
+      "title": "한미약품, 릴리와 바이오신약 후보 라이선스 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260601018100017",
+      "pubDate": "Mon, 1 Jun 2026 08:20:10 +0900"
+    },
+    {
+      "title": "[마켓뷰] '사상 최고치' 코스피, '9천피' 도전 여부 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260601017400008",
+      "pubDate": "Mon, 1 Jun 2026 08:16:54 +0900"
+    },
+    {
+      "title": "부산시, 신평2 재개발에 입안요청제 첫 적용…공공 적극 개입",
+      "link": "https://www.yna.co.kr/view/AKR20260601014500051",
+      "pubDate": "Mon, 1 Jun 2026 08:01:33 +0900"
+    },
+    {
+      "title": "李대통령 \"투기·탈세 이제 안돼…망국적 부동산공화국 탈출\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601014100001",
+      "pubDate": "Mon, 1 Jun 2026 07:52:07 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260601009100011",
+      "pubDate": "Mon, 1 Jun 2026 07:30:01 +0900"
+    },
     {
       "title": "가나 117만평에 'K-테크타운'…로렌스 의장 \"아프리카 혁신엔진\"",
       "link": "https://www.yna.co.kr/view/AKR20260531048000371",
@@ -97,61 +152,6 @@
       "title": "타워크레인 노사 단체협상 잠정합의…나흘만에 파업 종료(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260531008751003",
       "pubDate": "Sun, 31 May 2026 15:37:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260531036000011",
-      "pubDate": "Sun, 31 May 2026 15:00:01 +0900"
-    },
-    {
-      "title": "[부고] 김종구(우리투자증권 IT본부 전무)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260531020400008",
-      "pubDate": "Sun, 31 May 2026 14:38:57 +0900"
-    },
-    {
-      "title": "'어르신' 노린 고령 친화 제품…지재권 허위표시 341건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260529123100063",
-      "pubDate": "Sun, 31 May 2026 12:00:20 +0900"
-    },
-    {
-      "title": "매장 수 부풀려 가맹점 모집한 '귀한족발', 과징금 2억원",
-      "link": "https://www.yna.co.kr/view/AKR20260529130400002",
-      "pubDate": "Sun, 31 May 2026 12:00:15 +0900"
-    },
-    {
-      "title": "AI로 만든 인물로 광고하면 가상인물 표시해야…공정위지침 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260529139300002",
-      "pubDate": "Sun, 31 May 2026 12:00:14 +0900"
-    },
-    {
-      "title": "생·손보협회, 올해 우수인증설계사 2만2천305명 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260530021800002",
-      "pubDate": "Sun, 31 May 2026 12:00:13 +0900"
-    },
-    {
-      "title": "5세대 실손·車 보험 정보, 빅데이터 플랫폼 'BIGIN'서 한눈에",
-      "link": "https://www.yna.co.kr/view/AKR20260530021900002",
-      "pubDate": "Sun, 31 May 2026 12:00:13 +0900"
-    },
-    {
-      "title": "6월에 '실업급여·고용장려금' 등 부정수급 집중 신고받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260530057400530",
-      "pubDate": "Sun, 31 May 2026 12:00:10 +0900"
-    },
-    {
-      "title": "7월 6일부터 원/달러 24시간 거래된다…공휴일 포함",
-      "link": "https://www.yna.co.kr/view/AKR20260530042800002",
-      "pubDate": "Sun, 31 May 2026 12:00:09 +0900"
-    },
-    {
-      "title": "국가데이터처, 내달 1일부터 경제총조사…AI·로봇 활용도 파악",
-      "link": "https://www.yna.co.kr/view/AKR20260530051800002",
-      "pubDate": "Sun, 31 May 2026 12:00:08 +0900"
-    },
-    {
-      "title": "디지털 경제 속 중앙은행 역할은?…한은 국제 콘퍼런스",
-      "link": "https://www.yna.co.kr/view/AKR20260530051700002",
-      "pubDate": "Sun, 31 May 2026 12:00:07 +0900"
     }
   ]
 }
