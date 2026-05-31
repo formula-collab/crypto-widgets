@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780220408,
+  "updated_at_unix": 1780226701,
   "items": [
+    {
+      "title": "강훈식, 캐나다 출국…\"에너지·공급망·첨단산업 협력 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531049700001",
+      "pubDate": "Sun, 31 May 2026 19:18:37 +0900"
+    },
     {
       "title": "오세훈 \"한 표가 총알보다 강하다…정권에 회초리 들어달라\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260531014751001",
@@ -147,11 +152,6 @@
       "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
       "link": "https://www.yna.co.kr/view/AKR20260531013100003",
       "pubDate": "Sun, 31 May 2026 11:00:01 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 기업 애로 734건…코트라, 수출 다변화 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260531014000003",
-      "pubDate": "Sun, 31 May 2026 11:00:00 +0900"
     }
   ]
 }
