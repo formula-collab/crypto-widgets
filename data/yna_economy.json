@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780258110,
+  "updated_at_unix": 1780262967,
   "items": [
+    {
+      "title": "지방축제 1천431만명 역대급 흥행…외국인도 2년 연속 10만명",
+      "link": "https://www.yna.co.kr/view/AKR20260530029600030",
+      "pubDate": "Mon, 1 Jun 2026 06:11:02 +0900"
+    },
+    {
+      "title": "메모리 가격 두배 폭등하자 삼성·LG 전자제품 원가부담 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20260529163600003",
+      "pubDate": "Mon, 1 Jun 2026 06:05:00 +0900"
+    },
+    {
+      "title": "서울시 \"해외 숙박 예약플랫폼 이용자 55% 피해 경험\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531019400004",
+      "pubDate": "Mon, 1 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시, '서울뷰티위크' 피칭대회 개최…유망 스타트업 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260531017000004",
+      "pubDate": "Mon, 1 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[게시판] 코트라, AI 무역인재 1기 수료식…청년·기업인 717명 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260531038700003",
+      "pubDate": "Mon, 1 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "[게시판] 금감원 '대학생 금융교육 봉사단' 14기 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260531040500002",
+      "pubDate": "Mon, 1 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "은행권 \"시장금리, 3∼4회 인상 반영…AI·반도체 비중 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531051500002",
+      "pubDate": "Mon, 1 Jun 2026 05:57:01 +0900"
+    },
+    {
+      "title": "최대 40억 포상 부동산 탈세 제보, 서울 등 수도권에 81% 몰려",
+      "link": "https://www.yna.co.kr/view/AKR20260530063000002",
+      "pubDate": "Mon, 1 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "유류할증료 뛰자 여객 위축…4월 항공운송 52개월만에 최대폭↓",
+      "link": "https://www.yna.co.kr/view/AKR20260530063100002",
+      "pubDate": "Mon, 1 Jun 2026 05:53:23 +0900"
+    },
+    {
+      "title": "기관투자자용 국민성장펀드도 시동…코스닥 시장에 힘 될까",
+      "link": "https://www.yna.co.kr/view/AKR20260531021900002",
+      "pubDate": "Mon, 1 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "월러 연준이사 \"스테이블코인, 美통화정책 영향력 확대할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260531057500072",
@@ -102,56 +152,6 @@
       "title": "대한상의, 제3회 사회적가치 페스타 참여기관 모집",
       "link": "https://www.yna.co.kr/view/AKR20260531010500003",
       "pubDate": "Sun, 31 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "\"직장인 62.3%, 내년 최저임금 1만2천원 이상 원해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260531010300004",
-      "pubDate": "Sun, 31 May 2026 12:00:05 +0900"
-    },
-    {
-      "title": "세계은행, 한국서 AI·디지털 인재 찾는다…내달 12일까지 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260531013800002",
-      "pubDate": "Sun, 31 May 2026 12:00:03 +0900"
-    },
-    {
-      "title": "영업신고·사업자등록 '원스톱'으로…내일부터 시범사업",
-      "link": "https://www.yna.co.kr/view/AKR20260531020000530",
-      "pubDate": "Sun, 31 May 2026 12:00:02 +0900"
-    },
-    {
-      "title": "경총 \"기업 이익은 임금 아냐…노조 단체교섭 대상 해당안돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260531023500003",
-      "pubDate": "Sun, 31 May 2026 12:00:00 +0900"
-    },
-    {
-      "title": "서울시, 중심지·환승역 주변 '성장거점형 도심복합개발' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260530025300004",
-      "pubDate": "Sun, 31 May 2026 11:15:03 +0900"
-    },
-    {
-      "title": "서울시, 소규모 수출 중소기업에 단체보험 지원…지자체 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260530026200004",
-      "pubDate": "Sun, 31 May 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서울시, 중장년 지역 창업 지원…'넥스트로컬' 50팀 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260530027800004",
-      "pubDate": "Sun, 31 May 2026 11:15:01 +0900"
-    },
-    {
-      "title": "농식품부, 중동전쟁 장기화 대응…비료·필름 공급부족 즉각해결",
-      "link": "https://www.yna.co.kr/view/AKR20260529151600030",
-      "pubDate": "Sun, 31 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "해수부·해경청, 내달 폐어구 발생 예방 합동 점검…3주간 단속",
-      "link": "https://www.yna.co.kr/view/AKR20260529145300030",
-      "pubDate": "Sun, 31 May 2026 11:00:03 +0900"
-    },
-    {
-      "title": "현대硏 \"고유가 장기화…사업계획 재수립·공급망 다변화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260530051300002",
-      "pubDate": "Sun, 31 May 2026 11:00:02 +0900"
     }
   ]
 }
