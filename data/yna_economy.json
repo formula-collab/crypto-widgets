@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780209441,
+  "updated_at_unix": 1780220408,
   "items": [
+    {
+      "title": "오세훈 \"한 표가 총알보다 강하다…정권에 회초리 들어달라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260531014751001",
+      "pubDate": "Sun, 31 May 2026 17:45:15 +0900"
+    },
+    {
+      "title": "피지컬AI 치과 로봇 공개…덴탈로보틱스 SIDEX 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260531040100017",
+      "pubDate": "Sun, 31 May 2026 16:19:12 +0900"
+    },
+    {
+      "title": "타워크레인 노사 단체협상 잠정합의…나흘만에 파업 종료(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260531008751003",
+      "pubDate": "Sun, 31 May 2026 15:37:16 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260531036000011",
@@ -137,21 +152,6 @@
       "title": "중동전쟁 장기화에 기업 애로 734건…코트라, 수출 다변화 지원",
       "link": "https://www.yna.co.kr/view/AKR20260531014000003",
       "pubDate": "Sun, 31 May 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[시간들] 고시원 50년의 흥망사, 희망 플랫폼 다시 살릴 때다",
-      "link": "https://www.yna.co.kr/view/AKR20260529084900546",
-      "pubDate": "Sun, 31 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260531018300011",
-      "pubDate": "Sun, 31 May 2026 10:30:00 +0900"
-    },
-    {
-      "title": "오세훈 \"저를 선택해달라…국무회의 참석해 시민권익 수호할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260531014700001",
-      "pubDate": "Sun, 31 May 2026 10:08:35 +0900"
     }
   ]
 }
