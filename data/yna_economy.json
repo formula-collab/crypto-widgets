@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780185018,
+  "updated_at_unix": 1780193425,
   "items": [
+    {
+      "title": "농식품부, 중동전쟁 장기화 대응…비료·필름 공급부족 즉각해결",
+      "link": "https://www.yna.co.kr/view/AKR20260529151600030",
+      "pubDate": "Sun, 31 May 2026 11:00:03 +0900"
+    },
+    {
+      "title": "해수부·해경청, 내달 폐어구 발생 예방 합동 점검…3주간 단속",
+      "link": "https://www.yna.co.kr/view/AKR20260529145300030",
+      "pubDate": "Sun, 31 May 2026 11:00:03 +0900"
+    },
+    {
+      "title": "현대硏 \"고유가 장기화…사업계획 재수립·공급망 다변화 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260530051300002",
+      "pubDate": "Sun, 31 May 2026 11:00:02 +0900"
+    },
+    {
+      "title": "\"K푸드 수출 다변화해야…온두라스·라트비아·케냐 유망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531013100003",
+      "pubDate": "Sun, 31 May 2026 11:00:01 +0900"
+    },
+    {
+      "title": "중동전쟁 장기화에 기업 애로 734건…코트라, 수출 다변화 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260531014000003",
+      "pubDate": "Sun, 31 May 2026 11:00:00 +0900"
+    },
+    {
+      "title": "[시간들] 고시원 50년의 흥망사, 희망 플랫폼 다시 살릴 때다",
+      "link": "https://www.yna.co.kr/view/AKR20260529084900546",
+      "pubDate": "Sun, 31 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260531018300011",
+      "pubDate": "Sun, 31 May 2026 10:30:00 +0900"
+    },
+    {
+      "title": "오세훈 \"저를 선택해달라…국무회의 참석해 시민권익 수호할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260531014700001",
+      "pubDate": "Sun, 31 May 2026 10:08:35 +0900"
+    },
+    {
+      "title": "토허구역 '세 낀 매물' 매도 허용에도 시장은 아직 잠잠",
+      "link": "https://www.yna.co.kr/view/AKR20260531016500003",
+      "pubDate": "Sun, 31 May 2026 10:03:27 +0900"
+    },
+    {
+      "title": "[팩트체크] 남아있는 서울 고가도로 80여개…안전등급 수준은",
+      "link": "https://www.yna.co.kr/view/AKR20260529148600518",
+      "pubDate": "Sun, 31 May 2026 09:50:00 +0900"
+    },
+    {
+      "title": "롯데건설, 외국인근로자 대상 '찾아가는 미용실' 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260531015400003",
+      "pubDate": "Sun, 31 May 2026 09:45:36 +0900"
+    },
+    {
+      "title": "[게시판] 우리금융, 경기 화성시에 발달장애 자립 지원 '굿윌스토어' 개점",
+      "link": "https://www.yna.co.kr/view/AKR20260530042600002",
+      "pubDate": "Sun, 31 May 2026 09:00:02 +0900"
+    },
+    {
+      "title": "창원시, NC다이노스와 청년 고용정책 홍보데이 6월 5일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260529077800052",
+      "pubDate": "Sun, 31 May 2026 08:55:00 +0900"
+    },
+    {
+      "title": "선거 이후 부동산 정책 새 국면…공급·규제 어떻게 풀어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260531010600003",
+      "pubDate": "Sun, 31 May 2026 08:50:45 +0900"
+    },
     {
       "title": "하나금융 자산관리 세미나…제1회 '머니쇼' 개최",
       "link": "https://www.yna.co.kr/view/AKR20260530063700002",
@@ -69,7 +139,7 @@
       "pubDate": "Sun, 31 May 2026 06:30:00 +0900"
     },
     {
-      "title": "스타벅스 직원들 왜 냉랭해졌나…경영진 평가 최하",
+      "title": "스타벅스 직원들 왜 냉랭해졌나…평점 5점 만점에 경영진 1.8점",
       "link": "https://www.yna.co.kr/view/AKR20260529153600017",
       "pubDate": "Sun, 31 May 2026 06:13:00 +0900"
     },
@@ -82,76 +152,6 @@
       "title": "고유가 지원금 10일간 이의신청 13.4만건…건보료 관련 민원 21%",
       "link": "https://www.yna.co.kr/view/AKR20260529149500530",
       "pubDate": "Sun, 31 May 2026 06:08:01 +0900"
-    },
-    {
-      "title": "시간단위 연차 의미 두고 혼선…\"1~2시간 아닌 반차\"",
-      "link": "https://www.yna.co.kr/view/AKR20260530039700003",
-      "pubDate": "Sun, 31 May 2026 06:07:00 +0900"
-    },
-    {
-      "title": "[이재명정부 1년] ⑧ '산재와의 전쟁'에 산재사망자 수 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260529084000530",
-      "pubDate": "Sun, 31 May 2026 06:01:21 +0900"
-    },
-    {
-      "title": "[이재명정부 1년] ⑥ 코스피 8천시대 개막…부동산·환율은 아직 숙제로",
-      "link": "https://www.yna.co.kr/view/AKR20260530060000002",
-      "pubDate": "Sun, 31 May 2026 06:01:05 +0900"
-    },
-    {
-      "title": "'스벅사태·커피 인상'에 국산차 '재조명'…정부, 소비촉진 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260530046400030",
-      "pubDate": "Sun, 31 May 2026 06:01:01 +0900"
-    },
-    {
-      "title": "한은 금리 인상 신호에 산업계 긴장…경기 민감할수록 큰 타격",
-      "link": "https://www.yna.co.kr/view/AKR20260530059200003",
-      "pubDate": "Sun, 31 May 2026 06:01:00 +0900"
-    },
-    {
-      "title": "AI발 '초과이익' 재분배론 부상…시장경제 원칙 훼손 지적도",
-      "link": "https://www.yna.co.kr/view/AKR20260529127000530",
-      "pubDate": "Sun, 31 May 2026 05:59:04 +0900"
-    },
-    {
-      "title": "체외충격파 '12회 이상' 이용 5%뿐…횟수 제한 실효성 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260530057600002",
-      "pubDate": "Sun, 31 May 2026 05:59:01 +0900"
-    },
-    {
-      "title": "저축은행 신용대출 잔액↓ 차주·연체율↑…자산 질 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260530057900002",
-      "pubDate": "Sun, 31 May 2026 05:57:00 +0900"
-    },
-    {
-      "title": "SK하이닉스도 임협 시즌…\"우리도 주택대출 5억\" 요구 부상",
-      "link": "https://www.yna.co.kr/view/AKR20260529157800003",
-      "pubDate": "Sun, 31 May 2026 05:55:00 +0900"
-    },
-    {
-      "title": "새도약기금 가입 압박 높이는 당국…10월말까지 채권매입 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260530048600002",
-      "pubDate": "Sun, 31 May 2026 05:55:00 +0900"
-    },
-    {
-      "title": "스테이블코인 제도화 앞두고…가상자산 거래소 지분 쟁탈전",
-      "link": "https://www.yna.co.kr/view/AKR20260530049400002",
-      "pubDate": "Sun, 31 May 2026 05:53:00 +0900"
-    },
-    {
-      "title": "중복상장 예외허용 이르면 내주 공개…주주동의 획득 첫 사례도",
-      "link": "https://www.yna.co.kr/view/AKR20260530053700002",
-      "pubDate": "Sun, 31 May 2026 05:51:00 +0900"
-    },
-    {
-      "title": "24년만에 10%대 명목성장 기대…가계부채·국가채무비율 청신호",
-      "link": "https://www.yna.co.kr/view/AKR20260530044200002",
-      "pubDate": "Sun, 31 May 2026 05:49:00 +0900"
-    },
-    {
-      "title": "하위 20% 월 44만원 적자…상위 20%는 344만원 여윳돈",
-      "link": "https://www.yna.co.kr/view/AKR20260530055300002",
-      "pubDate": "Sun, 31 May 2026 05:47:03 +0900"
     }
   ]
 }
