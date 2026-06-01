@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780324073,
+  "updated_at_unix": 1780342044,
   "items": [
+    {
+      "title": "국제유가, 이란 협상중단 보도에 상승…WTI 5%대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260602006200072",
+      "pubDate": "Tue, 2 Jun 2026 04:22:11 +0900"
+    },
+    {
+      "title": "달러-원, '전선 확대' 검토하는 이란에 위험 회피…1,512.90원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260602005500002",
+      "pubDate": "Tue, 2 Jun 2026 03:51:02 +0900"
+    },
+    {
+      "title": "국제유가, 이란 협상중단 선언에 급등세…WTI 장중 7%대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260602001000072",
+      "pubDate": "Tue, 2 Jun 2026 00:53:47 +0900"
+    },
     {
       "title": "故장재식 전장관 영면…장하준 \"경제학자의 길로 이끌어준 아버지\"",
       "link": "https://www.yna.co.kr/view/AKR20260601163000004",
@@ -137,21 +152,6 @@
       "title": "코스피, '사상최고' 8,788…'9천피'까지 211포인트 남았다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260601129500008",
       "pubDate": "Mon, 1 Jun 2026 16:15:35 +0900"
-    },
-    {
-      "title": "SH, 매입임대주택 절차 투명성 강화…3단계 심의 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260601127800004",
-      "pubDate": "Mon, 1 Jun 2026 16:14:13 +0900"
-    },
-    {
-      "title": "영업익N% 성과급 갈등확산…노동계 \"교섭대상\" 경영계 \"임금아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601071051530",
-      "pubDate": "Mon, 1 Jun 2026 16:05:51 +0900"
-    },
-    {
-      "title": "[특징주] EU 철강 관세에 노조 임단협까지…철강주 상승장서 약세 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601059551008",
-      "pubDate": "Mon, 1 Jun 2026 16:04:26 +0900"
     }
   ]
 }
