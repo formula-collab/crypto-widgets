@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780342044,
+  "updated_at_unix": 1780352373,
   "items": [
+    {
+      "title": "한-아프리카 비즈니스 포럼 오늘 개최…\"공급망 협력방안 논의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601145300898",
+      "pubDate": "Tue, 2 Jun 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 달을 향한 도전…우리 안 '히든 피겨스'를 깨우는 디지털 우분투",
+      "link": "https://www.yna.co.kr/view/AKR20260521120900898",
+      "pubDate": "Tue, 2 Jun 2026 07:00:03 +0900"
+    },
+    {
+      "title": "일반회사채 넉달째 순상환…CP·단기사채 발행 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260601132700002",
+      "pubDate": "Tue, 2 Jun 2026 06:00:03 +0900"
+    },
+    {
+      "title": "배달기사 보험 가입 의무화…대인 무한·대물 2천만원 이상 보장",
+      "link": "https://www.yna.co.kr/view/AKR20260601149300003",
+      "pubDate": "Tue, 2 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "폭염 견디는 채소 만든다…서울시, 도시농업 품종 개발 연구",
+      "link": "https://www.yna.co.kr/view/AKR20260601157100004",
+      "pubDate": "Tue, 2 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "기업은행 임직원 보수, 시중은행의 80% 수준",
+      "link": "https://www.yna.co.kr/view/AKR20260601145500002",
+      "pubDate": "Tue, 2 Jun 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'노알콜' 한국…주류 소비 집계이래 최대폭 감소, 10분기째↓",
+      "link": "https://www.yna.co.kr/view/AKR20260601153700002",
+      "pubDate": "Tue, 2 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 이란 협상중단 보도에 상승…WTI 5%대↑",
       "link": "https://www.yna.co.kr/view/AKR20260602006200072",
@@ -117,41 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.790%",
       "link": "https://www.yna.co.kr/view/AKR20260601137400008",
       "pubDate": "Mon, 1 Jun 2026 16:41:42 +0900"
-    },
-    {
-      "title": "NH투자, 1천200억원 규모 'IMA1 2호' 상품 반나절만에 완판",
-      "link": "https://www.yna.co.kr/view/AKR20260601136900008",
-      "pubDate": "Mon, 1 Jun 2026 16:40:48 +0900"
-    },
-    {
-      "title": "환율, 5개월여만에 최대 폭 변동…3.6원 내린 1,504.3원",
-      "link": "https://www.yna.co.kr/view/AKR20260601126100002",
-      "pubDate": "Mon, 1 Jun 2026 16:35:39 +0900"
-    },
-    {
-      "title": "노동장관, 대전사고 현장서 \"원인규명하라\"…전담팀 수사 착수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601092251530",
-      "pubDate": "Mon, 1 Jun 2026 16:34:03 +0900"
-    },
-    {
-      "title": "농식품부, 조류인플루엔자 경보 '관심' 하향…'평시 방역' 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260601134400030",
-      "pubDate": "Mon, 1 Jun 2026 16:33:06 +0900"
-    },
-    {
-      "title": "다산솔루에타, 32억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260601133900008",
-      "pubDate": "Mon, 1 Jun 2026 16:32:41 +0900"
-    },
-    {
-      "title": "\"바느질 배워 보세요\"…DTC서 시민 대상 '쏘잉 클래스' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260601130000053",
-      "pubDate": "Mon, 1 Jun 2026 16:23:40 +0900"
-    },
-    {
-      "title": "코스피, '사상최고' 8,788…'9천피'까지 211포인트 남았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601129500008",
-      "pubDate": "Mon, 1 Jun 2026 16:15:35 +0900"
     }
   ]
 }
