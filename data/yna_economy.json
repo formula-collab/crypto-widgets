@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780302117,
+  "updated_at_unix": 1780324073,
   "items": [
+    {
+      "title": "故장재식 전장관 영면…장하준 \"경제학자의 길로 이끌어준 아버지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260601163000004",
+      "pubDate": "Mon, 1 Jun 2026 22:46:47 +0900"
+    },
+    {
+      "title": "[부고] 박성구(앨터스투자자문 대표)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260601163700034",
+      "pubDate": "Mon, 1 Jun 2026 22:34:06 +0900"
+    },
+    {
+      "title": "韓·아프리카 외교장관 \"해상운송로·핵심광물 분야 협력 강화\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260529074452898",
+      "pubDate": "Mon, 1 Jun 2026 21:34:10 +0900"
+    },
+    {
+      "title": "서소문 고가철거 사고당일 새벽 '뚝' 소리…경찰 조사나서(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260601073551004",
+      "pubDate": "Mon, 1 Jun 2026 21:26:43 +0900"
+    },
+    {
+      "title": "KDB생명 예비입찰에 한투, 태광, '빅3' 생보사 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260601154900002",
+      "pubDate": "Mon, 1 Jun 2026 19:46:14 +0900"
+    },
+    {
+      "title": "노동장관, 대전사고 현장서 \"원인규명하라\"…전담팀 수사 착수(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260601092252530",
+      "pubDate": "Mon, 1 Jun 2026 19:37:29 +0900"
+    },
+    {
+      "title": "올릭스, 1천108억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260601153600008",
+      "pubDate": "Mon, 1 Jun 2026 18:58:08 +0900"
+    },
+    {
+      "title": "'공간 정보 SW' 다비오 등 7개사, 코스닥 상장예심 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260601151800008",
+      "pubDate": "Mon, 1 Jun 2026 18:56:16 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260601145800011",
+      "pubDate": "Mon, 1 Jun 2026 18:00:01 +0900"
+    },
     {
       "title": "부산 마이스 협력단, 싱가포르·말레이시아와 글로벌 협력 확대",
       "link": "https://www.yna.co.kr/view/AKR20260601142800051",
@@ -107,51 +152,6 @@
       "title": "[특징주] EU 철강 관세에 노조 임단협까지…철강주 상승장서 약세 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260601059551008",
       "pubDate": "Mon, 1 Jun 2026 16:04:26 +0900"
-    },
-    {
-      "title": "[특징주] '마법의 손'?…젠슨황 방한 기대에 LG그룹주·네이버 등 폭등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601036051008",
-      "pubDate": "Mon, 1 Jun 2026 16:00:20 +0900"
-    },
-    {
-      "title": "재경부, AI 학습동아리 'AX집현전 2.0' 신설…자문단도 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260601124000002",
-      "pubDate": "Mon, 1 Jun 2026 16:00:00 +0900"
-    },
-    {
-      "title": "장흥군, K-글로벌푸드와 무산김 수출 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260601125500054",
-      "pubDate": "Mon, 1 Jun 2026 15:52:42 +0900"
-    },
-    {
-      "title": "[특징주] '대장주' 삼전이 10% 급등…SK하이닉스도 1%대 상승(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260601036552008",
-      "pubDate": "Mon, 1 Jun 2026 15:51:08 +0900"
-    },
-    {
-      "title": "떠나는 파월 '용기있는 사람들 상' 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260601120600009",
-      "pubDate": "Mon, 1 Jun 2026 15:49:30 +0900"
-    },
-    {
-      "title": "코스피, '사상최고' 8,788…'9천피'까지 211포인트 남았다",
-      "link": "https://www.yna.co.kr/view/AKR20260601124300008",
-      "pubDate": "Mon, 1 Jun 2026 15:42:17 +0900"
-    },
-    {
-      "title": "농협금융지주, 기업금융 강화 회의…\"이자 위주 영업 한계 돌파\"",
-      "link": "https://www.yna.co.kr/view/AKR20260601123700002",
-      "pubDate": "Mon, 1 Jun 2026 15:38:41 +0900"
-    },
-    {
-      "title": "'노인이 노인 챙긴다' 익산시, 취약계층 통합돌봄 체계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20260601122600055",
-      "pubDate": "Mon, 1 Jun 2026 15:37:59 +0900"
-    },
-    {
-      "title": "외국환시세(6월1일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260601123200002",
-      "pubDate": "Mon, 1 Jun 2026 15:35:38 +0900"
     }
   ]
 }
