@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780352373,
+  "updated_at_unix": 1780357674,
   "items": [
+    {
+      "title": "29CM, 일본 로프트와 업무협약…9월 성수서 한일 문구 팝업",
+      "link": "https://www.yna.co.kr/view/AKR20260602025500030",
+      "pubDate": "Tue, 2 Jun 2026 08:42:54 +0900"
+    },
+    {
+      "title": "삼성증권 \"기아, 업종 내 저평가…목표가 24만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260602026400008",
+      "pubDate": "Tue, 2 Jun 2026 08:38:04 +0900"
+    },
+    {
+      "title": "키움증권, 삼전 43만원·하이닉스 260만원으로 목표가 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260602028500008",
+      "pubDate": "Tue, 2 Jun 2026 08:35:05 +0900"
+    },
+    {
+      "title": "IBK투자 \"한미약품, 2∼3분기 중 단기 실적 서프라이즈 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260602027700008",
+      "pubDate": "Tue, 2 Jun 2026 08:34:44 +0900"
+    },
+    {
+      "title": "[게시판] 보험개발원, 한국토요타자동차와 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260601133700002",
+      "pubDate": "Tue, 2 Jun 2026 08:30:02 +0900"
+    },
+    {
+      "title": "KB증권 \"NHN, 서비스형 GPU 매출 본격화 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260602026300008",
+      "pubDate": "Tue, 2 Jun 2026 08:20:09 +0900"
+    },
+    {
+      "title": "신동아건설, 안양 비산동 가로주택정비사업 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260602025800003",
+      "pubDate": "Tue, 2 Jun 2026 08:17:14 +0900"
+    },
+    {
+      "title": "iM증권 \"반도체로 고유가 충격 이겨내…수출 호황 당분간 계속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260602025000008",
+      "pubDate": "Tue, 2 Jun 2026 08:12:31 +0900"
+    },
+    {
+      "title": "[2보] 5월 소비자물가 3.1%↑ 26개월만에 최고…석유류 24.2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260602023100002",
+      "pubDate": "Tue, 2 Jun 2026 08:01:00 +0900"
+    },
+    {
+      "title": "[1보] 5월 소비자물가 상승률 3.1%…석유류 급등에 2년2개월 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260602020600002",
+      "pubDate": "Tue, 2 Jun 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피 9,000 고지 돌파하나…211포인트 남았다",
+      "link": "https://www.yna.co.kr/view/AKR20260602021300008",
+      "pubDate": "Tue, 2 Jun 2026 07:56:23 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260602016700011",
+      "pubDate": "Tue, 2 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "'채용 특혜 의혹' 인천대…전임교수 신규 채용 잠정 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260601108800065",
+      "pubDate": "Tue, 2 Jun 2026 07:17:00 +0900"
+    },
     {
       "title": "한-아프리카 비즈니스 포럼 오늘 개최…\"공급망 협력방안 논의\"",
       "link": "https://www.yna.co.kr/view/AKR20260601145300898",
@@ -87,71 +152,6 @@
       "title": "올릭스, 1천108억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260601153600008",
       "pubDate": "Mon, 1 Jun 2026 18:58:08 +0900"
-    },
-    {
-      "title": "'공간 정보 SW' 다비오 등 7개사, 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260601151800008",
-      "pubDate": "Mon, 1 Jun 2026 18:56:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260601145800011",
-      "pubDate": "Mon, 1 Jun 2026 18:00:01 +0900"
-    },
-    {
-      "title": "부산 마이스 협력단, 싱가포르·말레이시아와 글로벌 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260601142800051",
-      "pubDate": "Mon, 1 Jun 2026 17:16:53 +0900"
-    },
-    {
-      "title": "8개 시중·지방은행, 디지털자산 협력 모색…토스도 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260601140400002",
-      "pubDate": "Mon, 1 Jun 2026 17:11:36 +0900"
-    },
-    {
-      "title": "노동부, 서소문 사고 시공사 대표 중처법 위반 입건",
-      "link": "https://www.yna.co.kr/view/AKR20260601139000530",
-      "pubDate": "Mon, 1 Jun 2026 17:03:36 +0900"
-    },
-    {
-      "title": "농식품부, 피해 농가 323곳 이달 지원금 지급…재해 후속 조치",
-      "link": "https://www.yna.co.kr/view/AKR20260601116000030",
-      "pubDate": "Mon, 1 Jun 2026 17:00:02 +0900"
-    },
-    {
-      "title": "한은 총재 '매파 발언'에 국고채 금리 일제히 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260601137451008",
-      "pubDate": "Mon, 1 Jun 2026 16:59:04 +0900"
-    },
-    {
-      "title": "삼성, 라이프사이언스펀드 3호 조성…2천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260601136700017",
-      "pubDate": "Mon, 1 Jun 2026 16:53:10 +0900"
-    },
-    {
-      "title": "해성옵틱스, 50억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260601138900008",
-      "pubDate": "Mon, 1 Jun 2026 16:49:45 +0900"
-    },
-    {
-      "title": "제주 드림타워, 5월 매출 650억원 육박…\"역대 최고 수준\"",
-      "link": "https://www.yna.co.kr/view/AKR20260601137200030",
-      "pubDate": "Mon, 1 Jun 2026 16:45:49 +0900"
-    },
-    {
-      "title": "창원상의·파키스탄비즈니스협회, 경제·산업 협력 강화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260601137900052",
-      "pubDate": "Mon, 1 Jun 2026 16:44:56 +0900"
-    },
-    {
-      "title": "스타벅스 선불금 환불 첫날…매장 '차분' vs 온라인 '인증 확산'",
-      "link": "https://www.yna.co.kr/view/AKR20260601123900030",
-      "pubDate": "Mon, 1 Jun 2026 16:41:52 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.790%",
-      "link": "https://www.yna.co.kr/view/AKR20260601137400008",
-      "pubDate": "Mon, 1 Jun 2026 16:41:42 +0900"
     }
   ]
 }
