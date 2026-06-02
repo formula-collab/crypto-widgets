@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780428879,
+  "updated_at_unix": 1780438496,
   "items": [
+    {
+      "title": "ETF에도 '빚투'…반도체 상품 신용잔고 한달새 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260602146700008",
+      "pubDate": "Wed, 3 Jun 2026 07:10:00 +0900"
+    },
+    {
+      "title": "주도주 쏠림·금리 변동성?…코스피 랠리에도 증권주는 시들",
+      "link": "https://www.yna.co.kr/view/AKR20260602138600008",
+      "pubDate": "Wed, 3 Jun 2026 07:05:01 +0900"
+    },
+    {
+      "title": "삼전·닉스 레버리지로 쏠렸나…'자금유출' 침울한 코스닥",
+      "link": "https://www.yna.co.kr/view/AKR20260602076000008",
+      "pubDate": "Wed, 3 Jun 2026 07:01:00 +0900"
+    },
+    {
+      "title": "빌라 전월세 가격 뛰자 \"2년 더 살겠다\"…서울 32%가 갱신권 써",
+      "link": "https://www.yna.co.kr/view/AKR20260602150700003",
+      "pubDate": "Wed, 3 Jun 2026 06:07:01 +0900"
+    },
+    {
+      "title": "신세계백화점, 5개 제휴카드 행사…명품·가전 등 최대 10% 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260602140400030",
+      "pubDate": "Wed, 3 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "내년 최저임금 심의…배달라이더 등 도급제 적용 논의 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260602145500530",
+      "pubDate": "Wed, 3 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "보이스피싱 줄었다는데…1년간 5대 은행 계좌 지급정지 15만건",
+      "link": "https://www.yna.co.kr/view/AKR20260602152900002",
+      "pubDate": "Wed, 3 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "원화코인 컨소시엄 급물살…은행권·핀테크 이합집산",
+      "link": "https://www.yna.co.kr/view/AKR20260602148800002",
+      "pubDate": "Wed, 3 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "내일 차기 여신금융협회장 윤곽…업권 출신 유력 거론",
+      "link": "https://www.yna.co.kr/view/AKR20260602152000002",
+      "pubDate": "Wed, 3 Jun 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 이란협상 엇갈린 설명에 1% 상승…브렌트 96달러",
       "link": "https://www.yna.co.kr/view/AKR20260603005700072",
@@ -107,51 +152,6 @@
       "title": "원광전력, 한국기술연구원 그린리모델링 기술개발 참여",
       "link": "https://www.yna.co.kr/view/AKR20260602137000054",
       "pubDate": "Tue, 2 Jun 2026 16:37:48 +0900"
-    },
-    {
-      "title": "카시카리 美 연은 총재 \"스테이블코인 효용 회의적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260602135100002",
-      "pubDate": "Tue, 2 Jun 2026 16:34:24 +0900"
-    },
-    {
-      "title": "[영상] \"한국기업들 신뢰, 하지만…\" 아프리카 장관들 솔직한 한마디",
-      "link": "https://www.yna.co.kr/view/AKR20260602136700797",
-      "pubDate": "Tue, 2 Jun 2026 16:32:18 +0900"
-    },
-    {
-      "title": "농식품부, 휴가철 앞두고 국경검역·방역 태세 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260602104600030",
-      "pubDate": "Tue, 2 Jun 2026 16:30:01 +0900"
-    },
-    {
-      "title": "코스피, 또 사상 최고 8,801…삼전, 글로벌 시총 10위로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260602130900008",
-      "pubDate": "Tue, 2 Jun 2026 16:27:24 +0900"
-    },
-    {
-      "title": "젠슨 황, 한국 AI 스타트업 만난다…업스테이지 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260602134600017",
-      "pubDate": "Tue, 2 Jun 2026 16:25:14 +0900"
-    },
-    {
-      "title": "삼전, 메타 제치고 글로벌 시총 10위…한때 테슬라 추월도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260602079851008",
-      "pubDate": "Tue, 2 Jun 2026 16:22:51 +0900"
-    },
-    {
-      "title": "환율, 장중 1,520원 넘어 두 달 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260602130700002",
-      "pubDate": "Tue, 2 Jun 2026 16:14:55 +0900"
-    },
-    {
-      "title": "금천구, 하계 청년 아르바이트 100명 모집…주 5일·하루 5시간",
-      "link": "https://www.yna.co.kr/view/AKR20260602126900004",
-      "pubDate": "Tue, 2 Jun 2026 15:59:29 +0900"
-    },
-    {
-      "title": "순창읍∼구림면 도로 확장·정읍 부전동∼칠보면 선형 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260602127500055",
-      "pubDate": "Tue, 2 Jun 2026 15:55:43 +0900"
     }
   ]
 }
