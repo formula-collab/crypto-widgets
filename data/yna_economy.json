@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780400764,
+  "updated_at_unix": 1780415687,
   "items": [
+    {
+      "title": "캐나다산 원유 도입 3.3배로 확대…잠수함 수주 '막판 총력전'",
+      "link": "https://www.yna.co.kr/view/AKR20260602167400003",
+      "pubDate": "Tue, 2 Jun 2026 22:29:49 +0900"
+    },
     {
       "title": "한국첨단소재 \"에스밸류투자조합 주식 68억원에 취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260602160500008",
@@ -147,11 +152,6 @@
       "title": "고물가·고금리·고환율 '삼중고' 다가온다…서민 살림살이 팍팍",
       "link": "https://www.yna.co.kr/view/AKR20260602125200002",
       "pubDate": "Tue, 2 Jun 2026 15:49:15 +0900"
-    },
-    {
-      "title": "위안화 4년 만에 최고치…\"중동전쟁 반사이익\"",
-      "link": "https://www.yna.co.kr/view/AKR20260602117800009",
-      "pubDate": "Tue, 2 Jun 2026 15:47:16 +0900"
     }
   ]
 }
