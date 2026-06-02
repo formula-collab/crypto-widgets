@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780415687,
+  "updated_at_unix": 1780428879,
   "items": [
+    {
+      "title": "국제유가, 이란협상 엇갈린 설명에 1% 상승…브렌트 96달러",
+      "link": "https://www.yna.co.kr/view/AKR20260603005700072",
+      "pubDate": "Wed, 3 Jun 2026 04:16:24 +0900"
+    },
+    {
+      "title": "달러-원, 삐걱대는 종전 협상에 경계심…1,520원선 '바짝'",
+      "link": "https://www.yna.co.kr/view/AKR20260603005400002",
+      "pubDate": "Wed, 3 Jun 2026 04:00:36 +0900"
+    },
     {
       "title": "캐나다산 원유 도입 3.3배로 확대…잠수함 수주 '막판 총력전'",
       "link": "https://www.yna.co.kr/view/AKR20260602167400003",
@@ -142,16 +152,6 @@
       "title": "순창읍∼구림면 도로 확장·정읍 부전동∼칠보면 선형 개선",
       "link": "https://www.yna.co.kr/view/AKR20260602127500055",
       "pubDate": "Tue, 2 Jun 2026 15:55:43 +0900"
-    },
-    {
-      "title": "[특징주] 삼전, 3%대 상승으로 코스피 지켰다…하이닉스 약보합(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260602043951008",
-      "pubDate": "Tue, 2 Jun 2026 15:54:02 +0900"
-    },
-    {
-      "title": "고물가·고금리·고환율 '삼중고' 다가온다…서민 살림살이 팍팍",
-      "link": "https://www.yna.co.kr/view/AKR20260602125200002",
-      "pubDate": "Tue, 2 Jun 2026 15:49:15 +0900"
     }
   ]
 }
