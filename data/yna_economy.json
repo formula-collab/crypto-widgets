@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780464118,
+  "updated_at_unix": 1780481655,
   "items": [
+    {
+      "title": "일본은행 총재, 금리 인상 가능성 시사…日기준금리 1% 될까",
+      "link": "https://www.yna.co.kr/view/AKR20260603070100073",
+      "pubDate": "Wed, 3 Jun 2026 18:58:14 +0900"
+    },
+    {
+      "title": "골드만삭스 \"코스피 목표치 9,000→12,000…강한 실적 모멘텀\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603055700008",
+      "pubDate": "Wed, 3 Jun 2026 17:01:55 +0900"
+    },
+    {
+      "title": "OECD, 올해 韓성장률 1.7→2.6%…\"반도체 수요에 더 오를 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603043100002",
+      "pubDate": "Wed, 3 Jun 2026 16:00:01 +0900"
+    },
+    {
+      "title": "李대통령 \"韓 집값 너무 비싸…투기 공화국 탈출해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603051300001",
+      "pubDate": "Wed, 3 Jun 2026 15:41:26 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260603045300011",
+      "pubDate": "Wed, 3 Jun 2026 15:00:00 +0900"
+    },
     {
       "title": "인도, 은 수입 제한 강화…'루피화 방어' 위해 수요 차단",
       "link": "https://www.yna.co.kr/view/AKR20260603038000084",
@@ -127,31 +152,6 @@
       "title": "내년 최저임금 심의…배달라이더 등 도급제 적용 논의 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260602145500530",
       "pubDate": "Wed, 3 Jun 2026 06:00:02 +0900"
-    },
-    {
-      "title": "보이스피싱 줄었다는데…1년간 5대 은행 계좌 지급정지 15만건",
-      "link": "https://www.yna.co.kr/view/AKR20260602152900002",
-      "pubDate": "Wed, 3 Jun 2026 05:55:01 +0900"
-    },
-    {
-      "title": "원화코인 컨소시엄 급물살…은행권·핀테크 이합집산",
-      "link": "https://www.yna.co.kr/view/AKR20260602148800002",
-      "pubDate": "Wed, 3 Jun 2026 05:53:00 +0900"
-    },
-    {
-      "title": "내일 차기 여신금융협회장 윤곽…업권 출신 유력 거론",
-      "link": "https://www.yna.co.kr/view/AKR20260602152000002",
-      "pubDate": "Wed, 3 Jun 2026 05:51:01 +0900"
-    },
-    {
-      "title": "국제유가, 이란협상 엇갈린 설명에 1% 상승…브렌트 96달러",
-      "link": "https://www.yna.co.kr/view/AKR20260603005700072",
-      "pubDate": "Wed, 3 Jun 2026 04:16:24 +0900"
-    },
-    {
-      "title": "달러-원, 삐걱대는 종전 협상에 경계심…1,520원선 '바짝'",
-      "link": "https://www.yna.co.kr/view/AKR20260603005400002",
-      "pubDate": "Wed, 3 Jun 2026 04:00:36 +0900"
     }
   ]
 }
