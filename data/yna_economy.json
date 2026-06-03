@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780499395,
+  "updated_at_unix": 1780513344,
   "items": [
+    {
+      "title": "[6·3 지선] 인천시, 4년 만에 또 수장 교체…시정 대변화 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260603077400065",
+      "pubDate": "Thu, 4 Jun 2026 03:54:31 +0900"
+    },
+    {
+      "title": "[인터뷰] '재선' 이학수 정읍시장 당선인 \"중단 없는 발전으로 보답\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603057400055",
+      "pubDate": "Thu, 4 Jun 2026 01:49:48 +0900"
+    },
     {
       "title": "미, '강제노동' 60개국에 10∼12.5% 관세예고…한국 12.5%(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260603044452009",
@@ -142,16 +152,6 @@
       "title": "주도주 쏠림·금리 변동성?…코스피 랠리에도 증권주는 시들",
       "link": "https://www.yna.co.kr/view/AKR20260602138600008",
       "pubDate": "Wed, 3 Jun 2026 07:05:01 +0900"
-    },
-    {
-      "title": "삼전·닉스 레버리지로 쏠렸나…'자금유출' 침울한 코스닥",
-      "link": "https://www.yna.co.kr/view/AKR20260602076000008",
-      "pubDate": "Wed, 3 Jun 2026 07:01:00 +0900"
-    },
-    {
-      "title": "빌라 전월세 가격 뛰자 \"2년 더 살겠다\"…서울 32%가 갱신권 써",
-      "link": "https://www.yna.co.kr/view/AKR20260602150700003",
-      "pubDate": "Wed, 3 Jun 2026 06:07:01 +0900"
     }
   ]
 }
