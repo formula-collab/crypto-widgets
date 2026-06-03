@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780481655,
+  "updated_at_unix": 1780499395,
   "items": [
+    {
+      "title": "미, '강제노동' 60개국에 10∼12.5% 관세예고…한국 12.5%(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260603044452009",
+      "pubDate": "Wed, 3 Jun 2026 21:46:56 +0900"
+    },
+    {
+      "title": "정부, 미국 12.5% 관세 예고에 \"조만간 USTR 측과 논의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603082800003",
+      "pubDate": "Wed, 3 Jun 2026 21:26:53 +0900"
+    },
     {
       "title": "일본은행 총재, 금리 인상 가능성 시사…日기준금리 1% 될까",
       "link": "https://www.yna.co.kr/view/AKR20260603070100073",
@@ -142,16 +152,6 @@
       "title": "빌라 전월세 가격 뛰자 \"2년 더 살겠다\"…서울 32%가 갱신권 써",
       "link": "https://www.yna.co.kr/view/AKR20260602150700003",
       "pubDate": "Wed, 3 Jun 2026 06:07:01 +0900"
-    },
-    {
-      "title": "신세계백화점, 5개 제휴카드 행사…명품·가전 등 최대 10% 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260602140400030",
-      "pubDate": "Wed, 3 Jun 2026 06:00:05 +0900"
-    },
-    {
-      "title": "내년 최저임금 심의…배달라이더 등 도급제 적용 논의 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260602145500530",
-      "pubDate": "Wed, 3 Jun 2026 06:00:02 +0900"
     }
   ]
 }
