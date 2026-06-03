@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780513344,
+  "updated_at_unix": 1780524439,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카 원자력 시장의 기회…한국이 주목할 이유",
+      "link": "https://www.yna.co.kr/view/AKR20260528107500898",
+      "pubDate": "Thu, 4 Jun 2026 07:00:03 +0900"
+    },
+    {
+      "title": "반도체 훈풍에 대중국 무역수지 4년 만에 흑자전환 유력",
+      "link": "https://www.yna.co.kr/view/AKR20260603054400003",
+      "pubDate": "Thu, 4 Jun 2026 06:05:01 +0900"
+    },
+    {
+      "title": "서울시, 식당·미용실 등 '착한가격업소' 2천25곳 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260603028000004",
+      "pubDate": "Thu, 4 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "5월 외환보유액 4천270억달러…환율 방어에 8.8억달러↓",
+      "link": "https://www.yna.co.kr/view/AKR20260602134800002",
+      "pubDate": "Thu, 4 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "정부, 중만생종 양파 수매비축 2만t 추진…\"평년보다 82% 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260603024100030",
+      "pubDate": "Thu, 4 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "한국·EU 통상수장 면담…한국산 철강 '우호적 대우' 강력 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260603078800003",
+      "pubDate": "Thu, 4 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "중동긴장 재고조에 美 주식·채권 동반하락하고 유가 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260604033351072",
+      "pubDate": "Thu, 4 Jun 2026 05:40:21 +0900"
+    },
+    {
+      "title": "젠슨 황, 나흘간 한국서 광폭 행보…총수·스타트업 만난다",
+      "link": "https://www.yna.co.kr/view/AKR20260603053800017",
+      "pubDate": "Thu, 4 Jun 2026 05:33:00 +0900"
+    },
+    {
+      "title": "美 원유재고, 호르무즈 봉쇄 장기화에 22년만에 최저수준",
+      "link": "https://www.yna.co.kr/view/AKR20260604032900072",
+      "pubDate": "Thu, 4 Jun 2026 05:19:53 +0900"
+    },
+    {
+      "title": "국제유가, 중동 무력공방 재개에 3일 연속 상승…WTI 96달러",
+      "link": "https://www.yna.co.kr/view/AKR20260604029700072",
+      "pubDate": "Thu, 4 Jun 2026 04:43:33 +0900"
+    },
     {
       "title": "[6·3 지선] 인천시, 4년 만에 또 수장 교체…시정 대변화 예고",
       "link": "https://www.yna.co.kr/view/AKR20260603077400065",
@@ -102,56 +152,6 @@
       "title": "오뚜기, '진라면 약간매운맛' 용기·컵면 출시",
       "link": "https://www.yna.co.kr/view/AKR20260603027100030",
       "pubDate": "Wed, 3 Jun 2026 09:47:07 +0900"
-    },
-    {
-      "title": "세븐일레븐, 적자 축소 속 상생 강화…경영주 소통 프로그램",
-      "link": "https://www.yna.co.kr/view/AKR20260603023000030",
-      "pubDate": "Wed, 3 Jun 2026 09:13:12 +0900"
-    },
-    {
-      "title": "무신사, 'AI 트렌드 큐레이션' 도입…\"검색 대신 AI가 제안\"",
-      "link": "https://www.yna.co.kr/view/AKR20260603020000030",
-      "pubDate": "Wed, 3 Jun 2026 08:49:06 +0900"
-    },
-    {
-      "title": "S&P, LG전자 신용등급 BBB+로 상향…\"주력사업 성장 견조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260603019300003",
-      "pubDate": "Wed, 3 Jun 2026 08:43:50 +0900"
-    },
-    {
-      "title": "[팩트체크] 곤약젤리·고농도 액상담배…해외여행 후 반입 제한 품목은",
-      "link": "https://www.yna.co.kr/view/AKR20260529151700518",
-      "pubDate": "Wed, 3 Jun 2026 08:30:00 +0900"
-    },
-    {
-      "title": "수은, 삼성전자 협력사 재생에너지 전환 컨설팅 비용 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260603018800002",
-      "pubDate": "Wed, 3 Jun 2026 08:28:09 +0900"
-    },
-    {
-      "title": "올해 대형 로봇주 150% 상승…'젠슨 황 효과' 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260602153300008",
-      "pubDate": "Wed, 3 Jun 2026 07:30:01 +0900"
-    },
-    {
-      "title": "코스피 변동성 극심…'사이드카 발동' 금융위기 이후 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260602160400008",
-      "pubDate": "Wed, 3 Jun 2026 07:25:00 +0900"
-    },
-    {
-      "title": "단기급등에 '증권가 목표가 초과' 종목 속출…LG전자 상회율 가장 커",
-      "link": "https://www.yna.co.kr/view/AKR20260602161000008",
-      "pubDate": "Wed, 3 Jun 2026 07:15:01 +0900"
-    },
-    {
-      "title": "ETF에도 '빚투'…반도체 상품 신용잔고 한달새 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260602146700008",
-      "pubDate": "Wed, 3 Jun 2026 07:10:00 +0900"
-    },
-    {
-      "title": "주도주 쏠림·금리 변동성?…코스피 랠리에도 증권주는 시들",
-      "link": "https://www.yna.co.kr/view/AKR20260602138600008",
-      "pubDate": "Wed, 3 Jun 2026 07:05:01 +0900"
     }
   ]
 }
