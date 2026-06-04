@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780524439,
+  "updated_at_unix": 1780531787,
   "items": [
+    {
+      "title": "KB국민은행, 미국 에너지 인프라 사업에 2천400억 금융 주선",
+      "link": "https://www.yna.co.kr/view/AKR20260604071100002",
+      "pubDate": "Thu, 4 Jun 2026 09:04:37 +0900"
+    },
+    {
+      "title": "[속보] 원/달러 환율, 장중 1,530원 넘어…3월 31일 이후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260604071800002",
+      "pubDate": "Thu, 4 Jun 2026 09:02:59 +0900"
+    },
+    {
+      "title": "외국환시세(6월4일·하나은행 1차 고시 기준)",
+      "link": "https://www.yna.co.kr/view/AKR20260604070700002",
+      "pubDate": "Thu, 4 Jun 2026 09:00:23 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 13.6원 오른 1,530.0원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260604070800002",
+      "pubDate": "Thu, 4 Jun 2026 09:00:17 +0900"
+    },
+    {
+      "title": "\"'쉬었음' 청년 10명 중 6명은 향후 취업의향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260602121500530",
+      "pubDate": "Thu, 4 Jun 2026 09:00:02 +0900"
+    },
+    {
+      "title": "이주노동자 익명 제보시 노동부 감독…안산 등 14곳에 '전담팀'",
+      "link": "https://www.yna.co.kr/view/AKR20260602141400530",
+      "pubDate": "Thu, 4 Jun 2026 09:00:01 +0900"
+    },
+    {
+      "title": "통상본부장, USTR대표 면담 \"기존 관세합의 준수 의향 재확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604063400003",
+      "pubDate": "Thu, 4 Jun 2026 08:55:50 +0900"
+    },
+    {
+      "title": "메리츠證 \"삼성전기, 조정 우려에도 성장 변함없어…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604065400008",
+      "pubDate": "Thu, 4 Jun 2026 08:48:28 +0900"
+    },
+    {
+      "title": "신한투자 \"1분기 에너지·IT '어닝 서프라이즈'…대형주에 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604062400008",
+      "pubDate": "Thu, 4 Jun 2026 08:41:57 +0900"
+    },
+    {
+      "title": "신한투자 \"증권주, 최근 상대적 소외…주가 재평가 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604062800008",
+      "pubDate": "Thu, 4 Jun 2026 08:38:50 +0900"
+    },
+    {
+      "title": "SK證 \"삼성물산, 지분가치 상승·주주환원 확대 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604061900008",
+      "pubDate": "Thu, 4 Jun 2026 08:30:33 +0900"
+    },
+    {
+      "title": "관악구 신림6구역 재개발 정비구역 지정…\"숲세권 초품아 단지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604059500004",
+      "pubDate": "Thu, 4 Jun 2026 08:12:54 +0900"
+    },
+    {
+      "title": "[마켓뷰] '9천피' 돌파 시도? 숨고르기?…코스피 향배 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260604052100008",
+      "pubDate": "Thu, 4 Jun 2026 07:48:23 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260604047900011",
+      "pubDate": "Thu, 4 Jun 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 아프리카 원자력 시장의 기회…한국이 주목할 이유",
       "link": "https://www.yna.co.kr/view/AKR20260528107500898",
@@ -82,76 +152,6 @@
       "title": "골드만삭스 \"코스피 목표치 9,000→12,000…강한 실적 모멘텀\"",
       "link": "https://www.yna.co.kr/view/AKR20260603055700008",
       "pubDate": "Wed, 3 Jun 2026 17:01:55 +0900"
-    },
-    {
-      "title": "OECD, 올해 韓성장률 1.7→2.6%…\"반도체 수요에 더 오를 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260603043100002",
-      "pubDate": "Wed, 3 Jun 2026 16:00:01 +0900"
-    },
-    {
-      "title": "李대통령 \"韓 집값 너무 비싸…투기 공화국 탈출해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260603051300001",
-      "pubDate": "Wed, 3 Jun 2026 15:41:26 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260603045300011",
-      "pubDate": "Wed, 3 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "인도, 은 수입 제한 강화…'루피화 방어' 위해 수요 차단",
-      "link": "https://www.yna.co.kr/view/AKR20260603038000084",
-      "pubDate": "Wed, 3 Jun 2026 12:49:05 +0900"
-    },
-    {
-      "title": "계약서면 발급 안 하고 현금비율 낮춰…시티건설에 과징금 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260602072300002",
-      "pubDate": "Wed, 3 Jun 2026 12:00:06 +0900"
-    },
-    {
-      "title": "세화학원, 공사대금 직접지급키로 합의 후 잔금 안 줘…시정명령",
-      "link": "https://www.yna.co.kr/view/AKR20260602080000002",
-      "pubDate": "Wed, 3 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "노동부, 노사문화 유공자 후보 추천 접수…연말 41명 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260602112900530",
-      "pubDate": "Wed, 3 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "자기부담 높인 4세대 실손, 1세대 첫 추월…전체 손해율은 악화",
-      "link": "https://www.yna.co.kr/view/AKR20260603013000002",
-      "pubDate": "Wed, 3 Jun 2026 12:00:02 +0900"
-    },
-    {
-      "title": "검역본부, 반려동물 질병협의체 발족…감염병 감시·진단 고도화",
-      "link": "https://www.yna.co.kr/view/AKR20260602124600030",
-      "pubDate": "Wed, 3 Jun 2026 11:00:03 +0900"
-    },
-    {
-      "title": "폭염·폭우에도 안전하게…도서관 등 318곳 그린리모델링 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260602124700003",
-      "pubDate": "Wed, 3 Jun 2026 11:00:02 +0900"
-    },
-    {
-      "title": "장마철 건설사고 막는다…전국 3천곳 현장 안전점검",
-      "link": "https://www.yna.co.kr/view/AKR20260602132100003",
-      "pubDate": "Wed, 3 Jun 2026 11:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260603028600011",
-      "pubDate": "Wed, 3 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "현대百, 친환경 쇼핑백 도입 4년…\"나무 5만3천그루 보호\"",
-      "link": "https://www.yna.co.kr/view/AKR20260603030900030",
-      "pubDate": "Wed, 3 Jun 2026 10:29:16 +0900"
-    },
-    {
-      "title": "오뚜기, '진라면 약간매운맛' 용기·컵면 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260603027100030",
-      "pubDate": "Wed, 3 Jun 2026 09:47:07 +0900"
     }
   ]
 }
