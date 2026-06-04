@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780563984,
+  "updated_at_unix": 1780575839,
   "items": [
+    {
+      "title": "노란봉투법 첫 기각 판단, 재심서 뒤집혀…중흥 사용자성 인정",
+      "link": "https://www.yna.co.kr/view/AKR20260604193800530",
+      "pubDate": "Thu, 4 Jun 2026 20:32:29 +0900"
+    },
+    {
+      "title": "\"미래에셋증권, 내일부터 스페이스X 공모주 청약 개시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604188000008",
+      "pubDate": "Thu, 4 Jun 2026 19:20:32 +0900"
+    },
+    {
+      "title": "넷마블, 구로구 사옥 지타워 6천977억에 매각",
+      "link": "https://www.yna.co.kr/view/AKR20260604189300017",
+      "pubDate": "Thu, 4 Jun 2026 19:16:09 +0900"
+    },
+    {
+      "title": "환율, 야간거래서 1,540원 넘어…금융위기 이후 최고(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260604162252002",
+      "pubDate": "Thu, 4 Jun 2026 18:22:20 +0900"
+    },
     {
       "title": "경상·전라권 내 7곳, 규제자유특구 지정된다…\"지역산업 육성\"",
       "link": "https://www.yna.co.kr/view/AKR20260604117700030",
@@ -132,26 +152,6 @@
       "title": "면세업계 \"업황 개선에도 고환율·경쟁 심화에 어렵다\"",
       "link": "https://www.yna.co.kr/view/AKR20260604158300002",
       "pubDate": "Thu, 4 Jun 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[특징주] 브로드컴발 쇼크에 삼전·하닉 2%대 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604078151008",
-      "pubDate": "Thu, 4 Jun 2026 15:58:02 +0900"
-    },
-    {
-      "title": "여신금융협회장 단독 후보에 이동철 전 KB금융지주 부회장",
-      "link": "https://www.yna.co.kr/view/AKR20260604158700002",
-      "pubDate": "Thu, 4 Jun 2026 15:55:15 +0900"
-    },
-    {
-      "title": "[특징주] CJ ENM, '티빙 개인정보 유출'에 3%대 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604118651008",
-      "pubDate": "Thu, 4 Jun 2026 15:53:27 +0900"
-    },
-    {
-      "title": "[특징주] '불장'에 부의 효과? 백화점주 3대장 두자릿수 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604098751008",
-      "pubDate": "Thu, 4 Jun 2026 15:50:46 +0900"
     }
   ]
 }
