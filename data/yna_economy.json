@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780604931,
+  "updated_at_unix": 1780610467,
   "items": [
+    {
+      "title": "농식품부, 폭염·호우 대비 전국 동물보호센터 226곳 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260604143100030",
+      "pubDate": "Fri, 5 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "무협·코엑스, 호찌민서 베트남 국제 프리미엄 소비재전",
+      "link": "https://www.yna.co.kr/view/AKR20260604171000003",
+      "pubDate": "Fri, 5 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "통상본부장, OECD 각료이사회 참석…'M.AX·5극3특' 정책 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260604185600003",
+      "pubDate": "Fri, 5 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "1천만원 이상 가상자산 이전거래, 의무보고→각사관리 완화키로",
+      "link": "https://www.yna.co.kr/view/AKR20260604189000002",
+      "pubDate": "Fri, 5 Jun 2026 05:51:01 +0900"
+    },
     {
       "title": "달러-원, 외환당국 '말발' 도통 안 먹힌다…1,540원선까지 확대",
       "link": "https://www.yna.co.kr/view/AKR20260605003800002",
@@ -132,26 +152,6 @@
       "title": "킨텍스, 베트남서 '한국 의료기기 전시회' 개최",
       "link": "https://www.yna.co.kr/view/AKR20260604167100060",
       "pubDate": "Thu, 4 Jun 2026 16:32:30 +0900"
-    },
-    {
-      "title": "환율, 중동 불확실성·외국인 순매도에 13.3원↑…1,529.7원",
-      "link": "https://www.yna.co.kr/view/AKR20260604162200002",
-      "pubDate": "Thu, 4 Jun 2026 16:16:14 +0900"
-    },
-    {
-      "title": "배달기사 등 최저임금 적용 공방…\"특혜 아냐\" vs \"판단 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260604162000530",
-      "pubDate": "Thu, 4 Jun 2026 16:13:57 +0900"
-    },
-    {
-      "title": "메디포스트 \"종속회사 MEDIPOST 주식 227억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260604164700008",
-      "pubDate": "Thu, 4 Jun 2026 16:12:56 +0900"
-    },
-    {
-      "title": "코스피, '역대 두번째' 외인 순매도에 8,630선 후퇴…코스닥 2%대↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604161800008",
-      "pubDate": "Thu, 4 Jun 2026 16:10:20 +0900"
     }
   ]
 }
