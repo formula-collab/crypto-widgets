@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780610467,
+  "updated_at_unix": 1780616479,
   "items": [
+    {
+      "title": "대신證 \"슈퍼 엘니뇨로 천연가스 가격상승 지연…내년 오를 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605022900008",
+      "pubDate": "Fri, 5 Jun 2026 08:33:03 +0900"
+    },
+    {
+      "title": "인천시, 동구 철강업 근로자 등 5천여명에 생활안정자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260605016800065",
+      "pubDate": "Fri, 5 Jun 2026 08:30:08 +0900"
+    },
+    {
+      "title": "구윤철 \"금융외환시장 변동성 확대·민생물가에 각별한 경각심\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605021500002",
+      "pubDate": "Fri, 5 Jun 2026 08:18:56 +0900"
+    },
+    {
+      "title": "IBK투자 \"EU 산업가속화법안에 한국 2차전지 반사이익 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605020300008",
+      "pubDate": "Fri, 5 Jun 2026 08:14:43 +0900"
+    },
+    {
+      "title": "장성 첨단데이터센터 사업 가속…정부 \"지방재정 투자심사 면제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260604178300002",
+      "pubDate": "Fri, 5 Jun 2026 08:00:05 +0900"
+    },
+    {
+      "title": "4월 경상흑자 282억9천만달러…반도체 수출 호조 등에 역대 2위",
+      "link": "https://www.yna.co.kr/view/AKR20260605014500002",
+      "pubDate": "Fri, 5 Jun 2026 08:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260605012400011",
+      "pubDate": "Fri, 5 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "전성수 서초구청장 당선 1호 결재는 '재건축 신속 지원단'",
+      "link": "https://www.yna.co.kr/view/AKR20260605011700004",
+      "pubDate": "Fri, 5 Jun 2026 07:10:04 +0900"
+    },
     {
       "title": "농식품부, 폭염·호우 대비 전국 동물보호센터 226곳 현장 점검",
       "link": "https://www.yna.co.kr/view/AKR20260604143100030",
@@ -112,46 +152,6 @@
       "title": "코스피 주춤하자 6거래일만 반등…소외됐던 코스닥에 볕드나(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260604129551008",
       "pubDate": "Thu, 4 Jun 2026 17:02:09 +0900"
-    },
-    {
-      "title": "FIU, 가상자산 거래소 대표들과 '특금법 시행령 개정안' 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260604173500002",
-      "pubDate": "Thu, 4 Jun 2026 17:01:28 +0900"
-    },
-    {
-      "title": "신영증권, 약 1조원 규모 자사주 소각 결정…\"주주가치 제고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260604171800008",
-      "pubDate": "Thu, 4 Jun 2026 16:52:54 +0900"
-    },
-    {
-      "title": "야채 모양 안경을 접어 파우치에…젠틀몬스터, 베지 컬렉션 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260604167300030",
-      "pubDate": "Thu, 4 Jun 2026 16:48:28 +0900"
-    },
-    {
-      "title": "환율, 야간 거래서 1,540원 육박…금융위기 이후 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604162251002",
-      "pubDate": "Thu, 4 Jun 2026 16:47:16 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.858%",
-      "link": "https://www.yna.co.kr/view/AKR20260604170100008",
-      "pubDate": "Thu, 4 Jun 2026 16:42:31 +0900"
-    },
-    {
-      "title": "삼양식품 김정수 회장, 자녀에 대출 800억원·주식 20만주 증여",
-      "link": "https://www.yna.co.kr/view/AKR20260604169600030",
-      "pubDate": "Thu, 4 Jun 2026 16:41:10 +0900"
-    },
-    {
-      "title": "환율, 두 달여 만에 1,530원대…외국인 매도 속 고공행진(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260604108451002",
-      "pubDate": "Thu, 4 Jun 2026 16:38:39 +0900"
-    },
-    {
-      "title": "킨텍스, 베트남서 '한국 의료기기 전시회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260604167100060",
-      "pubDate": "Thu, 4 Jun 2026 16:32:30 +0900"
     }
   ]
 }
