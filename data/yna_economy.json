@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780596398,
+  "updated_at_unix": 1780604931,
   "items": [
+    {
+      "title": "달러-원, 외환당국 '말발' 도통 안 먹힌다…1,540원선까지 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260605003800002",
+      "pubDate": "Fri, 5 Jun 2026 04:19:16 +0900"
+    },
+    {
+      "title": "국제유가, 이스라엘·레바논 휴전합의에 반락…WTI 3%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260605003600072",
+      "pubDate": "Fri, 5 Jun 2026 04:17:51 +0900"
+    },
     {
       "title": "노란봉투법 첫 기각 판단, 재심서 뒤집혀…중흥 사용자성 인정",
       "link": "https://www.yna.co.kr/view/AKR20260604193800530",
@@ -142,16 +152,6 @@
       "title": "코스피, '역대 두번째' 외인 순매도에 8,630선 후퇴…코스닥 2%대↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260604161800008",
       "pubDate": "Thu, 4 Jun 2026 16:10:20 +0900"
-    },
-    {
-      "title": "[동정] 국방장관, 국방창업경진대회 출신 창업인들과 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260604158200504",
-      "pubDate": "Thu, 4 Jun 2026 16:02:54 +0900"
-    },
-    {
-      "title": "면세업계 \"업황 개선에도 고환율·경쟁 심화에 어렵다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260604158300002",
-      "pubDate": "Thu, 4 Jun 2026 16:00:00 +0900"
     }
   ]
 }
