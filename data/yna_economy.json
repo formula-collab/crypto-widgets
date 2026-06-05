@@ -1,15 +1,120 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780641972,
+  "updated_at_unix": 1780655929,
   "items": [
+    {
+      "title": "소프트센, 22억 유상증자…홍콩셩다국제무역유한공사에 3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260605139800008",
+      "pubDate": "Fri, 5 Jun 2026 18:15:57 +0900"
+    },
+    {
+      "title": "엔비디아, 한국 AI기술센터 설립 착수…피지컬AI 채용 공고",
+      "link": "https://www.yna.co.kr/view/AKR20260605141000017",
+      "pubDate": "Fri, 5 Jun 2026 18:15:25 +0900"
+    },
+    {
+      "title": "[쇼츠] 젠슨황 7개월 만에 방한…PC방서 페이커에 GPU 선물",
+      "link": "https://www.yna.co.kr/view/AKR20260605139000704",
+      "pubDate": "Fri, 5 Jun 2026 18:02:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260511082400011",
+      "pubDate": "Fri, 5 Jun 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[영상] 젠슨 황, 7개월 만에 방한…PC방서 페이커 만나 최신 GPU 선물",
+      "link": "https://www.yna.co.kr/view/AKR20260605135100704",
+      "pubDate": "Fri, 5 Jun 2026 17:28:44 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, 채용연계형·체험형 인턴 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260605133000002",
+      "pubDate": "Fri, 5 Jun 2026 17:15:59 +0900"
+    },
+    {
+      "title": "환율 급등에 국고채 3년물 연 3.882%…2년 7개월래 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605123951008",
+      "pubDate": "Fri, 5 Jun 2026 16:55:14 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.882%",
+      "link": "https://www.yna.co.kr/view/AKR20260605123900008",
+      "pubDate": "Fri, 5 Jun 2026 16:40:59 +0900"
+    },
+    {
+      "title": "'현대차·기아 채권혼합' 등 ETF 3종 신규상장 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260605118900008",
+      "pubDate": "Fri, 5 Jun 2026 16:34:48 +0900"
+    },
+    {
+      "title": "미래에셋증권 스페이스X 공모주 청약, 개시 '1분만에' 조기마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605072051008",
+      "pubDate": "Fri, 5 Jun 2026 16:33:31 +0900"
+    },
+    {
+      "title": "9천피 턱밑까지 갔던 코스피 '출렁'…8,000선 힘겹게 사수(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605068651008",
+      "pubDate": "Fri, 5 Jun 2026 16:31:58 +0900"
+    },
+    {
+      "title": "중동전쟁 장기화에 中企피해 901건…\"공급단가 상승에 운송차질\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605116400030",
+      "pubDate": "Fri, 5 Jun 2026 16:27:24 +0900"
+    },
+    {
+      "title": "\"깜짝선물\" 젠슨황 언급에도 코스피 '검은 금요일'…5%대↓ 8,160(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605114700008",
+      "pubDate": "Fri, 5 Jun 2026 16:20:53 +0900"
+    },
+    {
+      "title": "롯데, 부산·울산·경남 청년 위해 부산서 잡카페 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260605117400051",
+      "pubDate": "Fri, 5 Jun 2026 16:15:40 +0900"
+    },
+    {
+      "title": "환율, 외국인 주식 매도세에 9.4원 오른 1,539.1원",
+      "link": "https://www.yna.co.kr/view/AKR20260605114900002",
+      "pubDate": "Fri, 5 Jun 2026 16:10:19 +0900"
+    },
+    {
+      "title": "\"전월세 시장 안정 위해 토허제 풀고 기업형 장기임대 확대해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605111600003",
+      "pubDate": "Fri, 5 Jun 2026 16:09:31 +0900"
+    },
+    {
+      "title": "당국 개입에도 1,550원 넘보는 환율…\"단기간 진정 어려워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605111500002",
+      "pubDate": "Fri, 5 Jun 2026 15:57:08 +0900"
+    },
+    {
+      "title": "[특징주] \"깜짝선물\" 젠슨황 언급에도…LG·네이버 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605038251008",
+      "pubDate": "Fri, 5 Jun 2026 15:50:35 +0900"
+    },
+    {
+      "title": "[특징주] 은행주, 코스피 급락 속 '방어주'로 선전(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605034451008",
+      "pubDate": "Fri, 5 Jun 2026 15:42:24 +0900"
+    },
+    {
+      "title": "[특징주] 신영증권, 1조 규모 자사주 소각 계획에 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605030651008",
+      "pubDate": "Fri, 5 Jun 2026 15:41:44 +0900"
+    },
+    {
+      "title": "[특징주] 삼전·닉스, 급락 마감…각각 6%·9%대 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605034051008",
+      "pubDate": "Fri, 5 Jun 2026 15:40:48 +0900"
+    },
     {
       "title": "익산시, 농식품 창업기업-대형 유통사 연계 '판로 확대'",
       "link": "https://www.yna.co.kr/view/AKR20260605106200055",
       "pubDate": "Fri, 5 Jun 2026 15:38:22 +0900"
     },
     {
-      "title": "'검은 금요일' 코스닥 5%대 급락해 8,160…코스닥 4.5%↓",
+      "title": "'검은 금요일' 코스피 5%대 급락해 8,160…코스닥 4.5%↓",
       "link": "https://www.yna.co.kr/view/AKR20260605108200008",
       "pubDate": "Fri, 5 Jun 2026 15:38:05 +0900"
     },
@@ -47,111 +152,6 @@
       "title": "SK증권, 서울역 쪽방촌 주민에 보양식 키트 전달",
       "link": "https://www.yna.co.kr/view/AKR20260605102500008",
       "pubDate": "Fri, 5 Jun 2026 15:13:17 +0900"
-    },
-    {
-      "title": "금감원 '스페이스X 청약' 미래에셋證 점검 착수…규정준수 확인",
-      "link": "https://www.yna.co.kr/view/AKR20260605101600002",
-      "pubDate": "Fri, 5 Jun 2026 15:10:02 +0900"
-    },
-    {
-      "title": "엔화 사흘째 160엔선 위협…日 재무상 \"단호한 조치\" 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260605097600009",
-      "pubDate": "Fri, 5 Jun 2026 15:08:20 +0900"
-    },
-    {
-      "title": "\"공짜라더니 원본은 100만원?\"…정부, 사진촬영 가격 공개 권고",
-      "link": "https://www.yna.co.kr/view/AKR20260605032300030",
-      "pubDate": "Fri, 5 Jun 2026 15:00:02 +0900"
-    },
-    {
-      "title": "노동장관, 장애인 표준사업장 격려…고용확대 추진 TF 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260605068000530",
-      "pubDate": "Fri, 5 Jun 2026 15:00:02 +0900"
-    },
-    {
-      "title": "농식품부, 과수화상병 관리 '경계' 격상…\"수급 영향은 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260605093600030",
-      "pubDate": "Fri, 5 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "HUG, 부산 사상구 등 4곳 6월 미분양 관리지역 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260605092000003",
-      "pubDate": "Fri, 5 Jun 2026 14:33:33 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260605087600011",
-      "pubDate": "Fri, 5 Jun 2026 14:30:02 +0900"
-    },
-    {
-      "title": "인천시, 10∼14일 23개 전통시장서 온누리상품권 환급 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260605092500065",
-      "pubDate": "Fri, 5 Jun 2026 14:28:02 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋박현주재단, 2026년 활동보고서 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260605089500008",
-      "pubDate": "Fri, 5 Jun 2026 14:21:15 +0900"
-    },
-    {
-      "title": "안성시, 농업인 대상 안전재해보험 가입비 최대 82% 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260605088200061",
-      "pubDate": "Fri, 5 Jun 2026 14:16:49 +0900"
-    },
-    {
-      "title": "울산 중구 이준호 계장, 토목시공기술사 합격",
-      "link": "https://www.yna.co.kr/view/AKR20260605087700057",
-      "pubDate": "Fri, 5 Jun 2026 14:15:55 +0900"
-    },
-    {
-      "title": "제주도, 미분양주택 구입시 혜택 지원 '상생프로젝트' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260605087000056",
-      "pubDate": "Fri, 5 Jun 2026 14:13:27 +0900"
-    },
-    {
-      "title": "인천도시공사, 검단신도시 '휴먼에너지타운' 사업자 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260605084900065",
-      "pubDate": "Fri, 5 Jun 2026 14:00:24 +0900"
-    },
-    {
-      "title": "[K-VIBE] 이순열의 K-스타트업… 여성 창업가의 여건은 정말 나아졌는가",
-      "link": "https://www.yna.co.kr/view/AKR20260605053800371",
-      "pubDate": "Fri, 5 Jun 2026 14:00:04 +0900"
-    },
-    {
-      "title": "토지개발 인허가 AI로 미리 본다…민원 처리기간 30% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260605059200003",
-      "pubDate": "Fri, 5 Jun 2026 14:00:03 +0900"
-    },
-    {
-      "title": "임광현 국세청장 \"체납관리단, 조세정의 등 1석 5조 효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260605082300002",
-      "pubDate": "Fri, 5 Jun 2026 13:58:51 +0900"
-    },
-    {
-      "title": "노동장관 \"초과이익 분배, 명백한 재투자\"…계약단가 조정 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260605079300530",
-      "pubDate": "Fri, 5 Jun 2026 13:51:56 +0900"
-    },
-    {
-      "title": "주병기 공정위원장, 6·3 지선 서울 선거 결과 비판 SNS 논란",
-      "link": "https://www.yna.co.kr/view/AKR20260605081800002",
-      "pubDate": "Fri, 5 Jun 2026 13:49:39 +0900"
-    },
-    {
-      "title": "아모레퍼시픽, 명동에 '라네즈 서울' 개점…맞춤형 서비스 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260605077000030",
-      "pubDate": "Fri, 5 Jun 2026 13:34:37 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋, 대학생 투자 고민 담은 콘텐츠 '공강' 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260605076300008",
-      "pubDate": "Fri, 5 Jun 2026 13:32:23 +0900"
-    },
-    {
-      "title": "인천 남동구-고용노동부 등 24일 뿌리기업 채용박람회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260605075400065",
-      "pubDate": "Fri, 5 Jun 2026 13:20:53 +0900"
     }
   ]
 }
