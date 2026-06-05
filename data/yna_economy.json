@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780683515,
+  "updated_at_unix": 1780690794,
   "items": [
+    {
+      "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260606005700072",
+      "pubDate": "Sat, 6 Jun 2026 05:06:57 +0900"
+    },
+    {
+      "title": "국제금값, 美연준 금리인상 기대에 3%↓…올해 인상분 반납",
+      "link": "https://www.yna.co.kr/view/AKR20260606005300072",
+      "pubDate": "Sat, 6 Jun 2026 04:31:00 +0900"
+    },
+    {
+      "title": "국제유가, 중동 긴장완화 기대감에 하락…WTI 2.7%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260606005100072",
+      "pubDate": "Sat, 6 Jun 2026 04:16:20 +0900"
+    },
+    {
+      "title": "달러-원, 美 반도체주 급락에 공포 전이…1,560원선도 뚫렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260606004500002",
+      "pubDate": "Sat, 6 Jun 2026 03:55:48 +0900"
+    },
     {
       "title": "환율, 강달러에 한때 1,560원도 넘었다…금융위기 이후 최고(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260605158351002",
@@ -132,26 +152,6 @@
       "title": "[특징주] \"깜짝선물\" 젠슨황 언급에도…LG·네이버 하락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260605038251008",
       "pubDate": "Fri, 5 Jun 2026 15:50:35 +0900"
-    },
-    {
-      "title": "[특징주] 은행주, 코스피 급락 속 '방어주'로 선전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260605034451008",
-      "pubDate": "Fri, 5 Jun 2026 15:42:24 +0900"
-    },
-    {
-      "title": "[특징주] 신영증권, 1조 규모 자사주 소각 계획에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260605030651008",
-      "pubDate": "Fri, 5 Jun 2026 15:41:44 +0900"
-    },
-    {
-      "title": "[특징주] 삼전·닉스, 급락 마감…각각 6%·9%대 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260605034051008",
-      "pubDate": "Fri, 5 Jun 2026 15:40:48 +0900"
-    },
-    {
-      "title": "익산시, 농식품 창업기업-대형 유통사 연계 '판로 확대'",
-      "link": "https://www.yna.co.kr/view/AKR20260605106200055",
-      "pubDate": "Fri, 5 Jun 2026 15:38:22 +0900"
     }
   ]
 }
