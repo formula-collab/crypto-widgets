@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780655929,
+  "updated_at_unix": 1780667156,
   "items": [
+    {
+      "title": "[쇼츠] 젠슨황, SK·LG·네이버 총수와 '삼소회동'",
+      "link": "https://www.yna.co.kr/view/AKR20260605155700704",
+      "pubDate": "Fri, 5 Jun 2026 21:56:12 +0900"
+    },
+    {
+      "title": "美 '깜짝 고용호조'에 미국채금리 급등…30년물 5.0% 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260605155351072",
+      "pubDate": "Fri, 5 Jun 2026 21:44:51 +0900"
+    },
+    {
+      "title": "[영상] 젠슨황, SK·LG·네이버 총수와 홍대 거리서 '삼소회동'",
+      "link": "https://www.yna.co.kr/view/AKR20260605153500704",
+      "pubDate": "Fri, 5 Jun 2026 21:25:50 +0900"
+    },
+    {
+      "title": "김정관 \"301조 추가 관세 우려에 러트닉이 '걱정말라'고 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605153400003",
+      "pubDate": "Fri, 5 Jun 2026 21:11:38 +0900"
+    },
+    {
+      "title": "엔비디아, 한국 AI기술센터 설립 착수…젠슨 황 \"서울 유력\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605141051017",
+      "pubDate": "Fri, 5 Jun 2026 21:01:21 +0900"
+    },
+    {
+      "title": "[인사] 한국은행",
+      "link": "https://www.yna.co.kr/view/AKR20260605150900002",
+      "pubDate": "Fri, 5 Jun 2026 20:02:53 +0900"
+    },
     {
       "title": "소프트센, 22억 유상증자…홍콩셩다국제무역유한공사에 3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260605139800008",
@@ -122,36 +152,6 @@
       "title": "외국환시세(6월5일·마감가)",
       "link": "https://www.yna.co.kr/view/AKR20260605108600002",
       "pubDate": "Fri, 5 Jun 2026 15:35:50 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 9.4원 오른 1,539.1원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260605106900002",
-      "pubDate": "Fri, 5 Jun 2026 15:30:43 +0900"
-    },
-    {
-      "title": "5월 울산항 원유 반입량 전월보다 7.3%↑…비중동산 비중 커져",
-      "link": "https://www.yna.co.kr/view/AKR20260605102900057",
-      "pubDate": "Fri, 5 Jun 2026 15:27:03 +0900"
-    },
-    {
-      "title": "[게시판] 하나펀드서비스, 전주 한옥마을 일대서 플로깅",
-      "link": "https://www.yna.co.kr/view/AKR20260605086900002",
-      "pubDate": "Fri, 5 Jun 2026 15:20:39 +0900"
-    },
-    {
-      "title": "이랜드이츠, 리미니·아시아문 가맹사업 중단…외식사업 효율화",
-      "link": "https://www.yna.co.kr/view/AKR20260605100700030",
-      "pubDate": "Fri, 5 Jun 2026 15:18:46 +0900"
-    },
-    {
-      "title": "한은 부총재보에 이지호·김제현 국장…신현송 첫 인사",
-      "link": "https://www.yna.co.kr/view/AKR20260605102400002",
-      "pubDate": "Fri, 5 Jun 2026 15:15:22 +0900"
-    },
-    {
-      "title": "SK증권, 서울역 쪽방촌 주민에 보양식 키트 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260605102500008",
-      "pubDate": "Fri, 5 Jun 2026 15:13:17 +0900"
     }
   ]
 }
