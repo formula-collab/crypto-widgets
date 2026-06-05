@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780676638,
+  "updated_at_unix": 1780683515,
   "items": [
+    {
+      "title": "환율, 강달러에 한때 1,560원도 넘었다…금융위기 이후 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260605158351002",
+      "pubDate": "Sat, 6 Jun 2026 02:28:02 +0900"
+    },
     {
       "title": "환율, 달러 강세에 1,550원도 넘었다…금융위기 이후 최고",
       "link": "https://www.yna.co.kr/view/AKR20260605158300002",
@@ -147,11 +152,6 @@
       "title": "익산시, 농식품 창업기업-대형 유통사 연계 '판로 확대'",
       "link": "https://www.yna.co.kr/view/AKR20260605106200055",
       "pubDate": "Fri, 5 Jun 2026 15:38:22 +0900"
-    },
-    {
-      "title": "'검은 금요일' 코스피 5%대 급락해 8,160…코스닥 4.5%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260605108200008",
-      "pubDate": "Fri, 5 Jun 2026 15:38:05 +0900"
     }
   ]
 }
