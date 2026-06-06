@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780714530,
+  "updated_at_unix": 1780726840,
   "items": [
+    {
+      "title": "국힘, '투표지' 공세 고삐…개표소 봉쇄 시위엔 \"민주적 항거\"",
+      "link": "https://www.yna.co.kr/view/AKR20260606034300001",
+      "pubDate": "Sat, 6 Jun 2026 14:47:16 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260606024500011",
@@ -147,11 +152,6 @@
       "title": "[영상] 젠슨 황, 7개월 만에 방한…PC방서 페이커 만나 최신 GPU 선물",
       "link": "https://www.yna.co.kr/view/AKR20260605135100704",
       "pubDate": "Fri, 5 Jun 2026 17:28:44 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행, 채용연계형·체험형 인턴 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260605133000002",
-      "pubDate": "Fri, 5 Jun 2026 17:15:59 +0900"
     }
   ]
 }
