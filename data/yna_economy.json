@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780786404,
+  "updated_at_unix": 1780790079,
   "items": [
+    {
+      "title": "하나은행, 필리핀 수빅출장소 개소…동남아 시장 영업망 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260606045400002",
+      "pubDate": "Sun, 7 Jun 2026 08:30:00 +0900"
+    },
+    {
+      "title": "오세훈 연임으로 창동 서울아레나 등 '강북 전성시대' 탄력 받는다",
+      "link": "https://www.yna.co.kr/view/AKR20260607009300004",
+      "pubDate": "Sun, 7 Jun 2026 08:20:05 +0900"
+    },
+    {
+      "title": "[강원소식] 사회취약계층 이용 급식시설 식중독 예방 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260607009600062",
+      "pubDate": "Sun, 7 Jun 2026 08:12:04 +0900"
+    },
+    {
+      "title": "주택연금 조건 개선에 가입자 급증…4월 역대 최다 기록",
+      "link": "https://www.yna.co.kr/view/AKR20260605110400051",
+      "pubDate": "Sun, 7 Jun 2026 08:00:17 +0900"
+    },
     {
       "title": "삼전닉스 '쏠림'에…코스피 오를 때 하락종목 더 많았다",
       "link": "https://www.yna.co.kr/view/AKR20260606031100008",
@@ -132,26 +152,6 @@
       "title": "외국인 매도에 2분기 환율 외환위기 후 최고…공항선 1,620원대",
       "link": "https://www.yna.co.kr/view/AKR20260606027400002",
       "pubDate": "Sun, 7 Jun 2026 05:51:00 +0900"
-    },
-    {
-      "title": "신용대출 사흘 만에 1조…고금리 속 '빚투 후폭풍' 당국 고심",
-      "link": "https://www.yna.co.kr/view/AKR20260606038200002",
-      "pubDate": "Sun, 7 Jun 2026 05:49:01 +0900"
-    },
-    {
-      "title": "높아지는 韓 성장 눈높이…해외 IB 올해 3%대 성장 전망 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20260606031800002",
-      "pubDate": "Sun, 7 Jun 2026 05:47:02 +0900"
-    },
-    {
-      "title": "한국 1분기 성장률 OECD 2위…반도체 특수에 연 3%도 바라본다",
-      "link": "https://www.yna.co.kr/view/AKR20260606044200002",
-      "pubDate": "Sun, 7 Jun 2026 05:47:00 +0900"
-    },
-    {
-      "title": "금리인상 아직인데…저소득층은 이자에·2030은 월세에 허덕인다",
-      "link": "https://www.yna.co.kr/view/AKR20260606001100002",
-      "pubDate": "Sun, 7 Jun 2026 05:45:03 +0900"
     }
   ]
 }
