@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780775431,
+  "updated_at_unix": 1780779160,
   "items": [
+    {
+      "title": "높아지는 韓 성장 눈높이…해외 IB 올해 3%대 성장 전망 잇따라",
+      "link": "https://www.yna.co.kr/view/AKR20260606031800002",
+      "pubDate": "Sun, 7 Jun 2026 05:47:02 +0900"
+    },
+    {
+      "title": "한국 1분기 성장률 OECD 2위…반도체 특수에 연 3%도 바라본다",
+      "link": "https://www.yna.co.kr/view/AKR20260606044200002",
+      "pubDate": "Sun, 7 Jun 2026 05:47:00 +0900"
+    },
+    {
+      "title": "금리인상 아직인데…저소득층은 이자에·2030은 월세에 허덕인다",
+      "link": "https://www.yna.co.kr/view/AKR20260606001100002",
+      "pubDate": "Sun, 7 Jun 2026 05:45:03 +0900"
+    },
+    {
+      "title": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉",
+      "link": "https://www.yna.co.kr/view/AKR20260606045100002",
+      "pubDate": "Sun, 7 Jun 2026 05:45:00 +0900"
+    },
     {
       "title": "'은행규제 강화론자' 美연준 이사 \"규제완화 단기 흥분제 불과\"",
       "link": "https://www.yna.co.kr/view/AKR20260607002400072",
@@ -132,26 +152,6 @@
       "title": "김정관 \"301조 추가 관세 우려에 러트닉이 '걱정말라'고 해\"",
       "link": "https://www.yna.co.kr/view/AKR20260605153400003",
       "pubDate": "Fri, 5 Jun 2026 21:11:38 +0900"
-    },
-    {
-      "title": "엔비디아, 한국 AI기술센터 설립 착수…젠슨 황 \"서울 유력\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260605141051017",
-      "pubDate": "Fri, 5 Jun 2026 21:01:21 +0900"
-    },
-    {
-      "title": "[인사] 한국은행",
-      "link": "https://www.yna.co.kr/view/AKR20260605150900002",
-      "pubDate": "Fri, 5 Jun 2026 20:02:53 +0900"
-    },
-    {
-      "title": "소프트센, 22억 유상증자…홍콩셩다국제무역유한공사에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260605139800008",
-      "pubDate": "Fri, 5 Jun 2026 18:15:57 +0900"
-    },
-    {
-      "title": "엔비디아, 한국 AI기술센터 설립 착수…피지컬AI 채용 공고",
-      "link": "https://www.yna.co.kr/view/AKR20260605141000017",
-      "pubDate": "Fri, 5 Jun 2026 18:15:25 +0900"
     }
   ]
 }
