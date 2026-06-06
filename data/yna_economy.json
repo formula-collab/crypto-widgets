@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780703909,
+  "updated_at_unix": 1780714530,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260606024500011",
+      "pubDate": "Sat, 6 Jun 2026 10:30:00 +0900"
+    },
+    {
+      "title": "부산 아파트값 보합…해운대·동래구는 약진",
+      "link": "https://www.yna.co.kr/view/AKR20260605114300051",
+      "pubDate": "Sat, 6 Jun 2026 10:00:04 +0900"
+    },
+    {
+      "title": "[바이오사이언스] K바이오 기술수출 '30조' 시대 당겨질까",
+      "link": "https://www.yna.co.kr/view/AKR20260605054600017",
+      "pubDate": "Sat, 6 Jun 2026 10:00:04 +0900"
+    },
     {
       "title": "[다음주 경제] 취업자 얼마나 늘었나…1분기 성장률 잠정치도 공개",
       "link": "https://www.yna.co.kr/view/AKR20260606013300002",
@@ -137,21 +152,6 @@
       "title": "[게시판] 하나은행, 채용연계형·체험형 인턴 모집",
       "link": "https://www.yna.co.kr/view/AKR20260605133000002",
       "pubDate": "Fri, 5 Jun 2026 17:15:59 +0900"
-    },
-    {
-      "title": "환율 급등에 국고채 3년물 연 3.882%…2년 7개월래 최고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260605123951008",
-      "pubDate": "Fri, 5 Jun 2026 16:55:14 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.882%",
-      "link": "https://www.yna.co.kr/view/AKR20260605123900008",
-      "pubDate": "Fri, 5 Jun 2026 16:40:59 +0900"
-    },
-    {
-      "title": "'현대차·기아 채권혼합' 등 ETF 3종 신규상장 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260605118900008",
-      "pubDate": "Fri, 5 Jun 2026 16:34:48 +0900"
     }
   ]
 }
