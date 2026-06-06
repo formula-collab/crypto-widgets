@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780768884,
+  "updated_at_unix": 1780775431,
   "items": [
+    {
+      "title": "'은행규제 강화론자' 美연준 이사 \"규제완화 단기 흥분제 불과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260607002400072",
+      "pubDate": "Sun, 7 Jun 2026 04:00:55 +0900"
+    },
     {
       "title": "[동정] 오세훈 서울시장, 대학생 진로지원사업 성과공유회 참석해 격려",
       "link": "https://www.yna.co.kr/view/AKR20260606041600004",
@@ -147,11 +152,6 @@
       "title": "엔비디아, 한국 AI기술센터 설립 착수…피지컬AI 채용 공고",
       "link": "https://www.yna.co.kr/view/AKR20260605141000017",
       "pubDate": "Fri, 5 Jun 2026 18:15:25 +0900"
-    },
-    {
-      "title": "[쇼츠] 젠슨황 7개월 만에 방한…PC방서 페이커에 GPU 선물",
-      "link": "https://www.yna.co.kr/view/AKR20260605139000704",
-      "pubDate": "Fri, 5 Jun 2026 18:02:29 +0900"
     }
   ]
 }
