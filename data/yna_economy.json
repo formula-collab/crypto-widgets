@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780782823,
+  "updated_at_unix": 1780786404,
   "items": [
+    {
+      "title": "삼전닉스 '쏠림'에…코스피 오를 때 하락종목 더 많았다",
+      "link": "https://www.yna.co.kr/view/AKR20260606031100008",
+      "pubDate": "Sun, 7 Jun 2026 07:35:00 +0900"
+    },
+    {
+      "title": "올해만 2천600명 떠났다…임금 체불에 대량 실직 위기 홈플러스",
+      "link": "https://www.yna.co.kr/view/AKR20260605154400030",
+      "pubDate": "Sun, 7 Jun 2026 07:31:30 +0900"
+    },
+    {
+      "title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는?",
+      "link": "https://www.yna.co.kr/view/AKR20260606028400008",
+      "pubDate": "Sun, 7 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[일문일답] 황종우 해수장관 \"12월 이후 남부 해양수도권 육성 계획 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605131400051",
+      "pubDate": "Sun, 7 Jun 2026 07:20:01 +0900"
+    },
+    {
+      "title": "\"지수형 만족 못해\" 액티브 ETF 몰리는 돈…순자산 한달새 15%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260606022500008",
+      "pubDate": "Sun, 7 Jun 2026 07:20:01 +0900"
+    },
+    {
+      "title": "황종우 장관 \"2030년 북극 정기항로…2035년 규모의 경제 실현\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605131000051",
+      "pubDate": "Sun, 7 Jun 2026 07:20:00 +0900"
+    },
+    {
+      "title": "올해 코스피 '시총 순위' 지각변동…'톱10' 중 7개 바뀌어",
+      "link": "https://www.yna.co.kr/view/AKR20260605159500008",
+      "pubDate": "Sun, 7 Jun 2026 07:15:01 +0900"
+    },
+    {
+      "title": "올해 개인이 가장 많이 산 '최애' ETF는…SOL AI반도체TOP2+",
+      "link": "https://www.yna.co.kr/view/AKR20260605142200008",
+      "pubDate": "Sun, 7 Jun 2026 07:10:00 +0900"
+    },
+    {
+      "title": "\"오늘 가장 싸\" 인상 랠리에 '포모'…백화점 명품 매출도 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20260605155800030",
+      "pubDate": "Sun, 7 Jun 2026 07:01:01 +0900"
+    },
+    {
+      "title": "GH 공사채 2조3천억 정부 승인…광명시흥지구 등 5개 사업 탄력",
+      "link": "https://www.yna.co.kr/view/AKR20260605127900061",
+      "pubDate": "Sun, 7 Jun 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 반도체 급락에 '휘청' 코스피…지지선 시험받나",
+      "link": "https://www.yna.co.kr/view/AKR20260606022300008",
+      "pubDate": "Sun, 7 Jun 2026 07:00:03 +0900"
+    },
     {
       "title": "1∼5월 K-화장품 수출액 56억달러…소비재 중 식품 제치고 1위",
       "link": "https://www.yna.co.kr/view/AKR20260606026100003",
@@ -97,61 +152,6 @@
       "title": "금리인상 아직인데…저소득층은 이자에·2030은 월세에 허덕인다",
       "link": "https://www.yna.co.kr/view/AKR20260606001100002",
       "pubDate": "Sun, 7 Jun 2026 05:45:03 +0900"
-    },
-    {
-      "title": "기준금리 연속 인상?…대출금리 한달새 0.33%p↑ '빚투족' 패닉",
-      "link": "https://www.yna.co.kr/view/AKR20260606045100002",
-      "pubDate": "Sun, 7 Jun 2026 05:45:00 +0900"
-    },
-    {
-      "title": "'은행규제 강화론자' 美연준 이사 \"규제완화 단기 흥분제 불과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260607002400072",
-      "pubDate": "Sun, 7 Jun 2026 04:00:55 +0900"
-    },
-    {
-      "title": "[동정] 오세훈 서울시장, 대학생 진로지원사업 성과공유회 참석해 격려",
-      "link": "https://www.yna.co.kr/view/AKR20260606041600004",
-      "pubDate": "Sat, 6 Jun 2026 17:07:42 +0900"
-    },
-    {
-      "title": "세계 식량가격, 4개월 만에 하락세…곡물·육류·설탕은 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260606037100030",
-      "pubDate": "Sat, 6 Jun 2026 15:36:42 +0900"
-    },
-    {
-      "title": "국힘, '투표지' 공세 고삐…개표소 봉쇄 시위엔 \"민주적 항거\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606034300001",
-      "pubDate": "Sat, 6 Jun 2026 14:47:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260606024500011",
-      "pubDate": "Sat, 6 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "부산 아파트값 보합…해운대·동래구는 약진",
-      "link": "https://www.yna.co.kr/view/AKR20260605114300051",
-      "pubDate": "Sat, 6 Jun 2026 10:00:04 +0900"
-    },
-    {
-      "title": "[바이오사이언스] K바이오 기술수출 '30조' 시대 당겨질까",
-      "link": "https://www.yna.co.kr/view/AKR20260605054600017",
-      "pubDate": "Sat, 6 Jun 2026 10:00:04 +0900"
-    },
-    {
-      "title": "[다음주 경제] 취업자 얼마나 늘었나…1분기 성장률 잠정치도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260606013300002",
-      "pubDate": "Sat, 6 Jun 2026 07:54:07 +0900"
-    },
-    {
-      "title": "한-세르비아 투자 증진 및 보호 협정 오늘 발효",
-      "link": "https://www.yna.co.kr/view/AKR20260606014100504",
-      "pubDate": "Sat, 6 Jun 2026 07:47:09 +0900"
-    },
-    {
-      "title": "삼성바이오 노사 갈등 장기화 조짐…준법투쟁 한 달째",
-      "link": "https://www.yna.co.kr/view/AKR20260605109000017",
-      "pubDate": "Sat, 6 Jun 2026 07:33:00 +0900"
     }
   ]
 }
