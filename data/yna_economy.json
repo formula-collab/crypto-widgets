@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780838190,
+  "updated_at_unix": 1780844830,
   "items": [
+    {
+      "title": "야구관람·회동에도 K치킨…젠슨황 \"치맥보다 좋은 건 없다\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260607034852030",
+      "pubDate": "Sun, 7 Jun 2026 22:24:25 +0900"
+    },
     {
       "title": "LG엔솔, 미국 관세 환급 절차 착수…환급금 1천억원 넘을 듯",
       "link": "https://www.yna.co.kr/view/AKR20260607047600003",
@@ -147,11 +152,6 @@
       "title": "하나은행, 필리핀 수빅출장소 개소…동남아 시장 영업망 강화",
       "link": "https://www.yna.co.kr/view/AKR20260606045400002",
       "pubDate": "Sun, 7 Jun 2026 08:30:00 +0900"
-    },
-    {
-      "title": "오세훈 연임으로 창동 서울아레나 등 '강북 전성시대' 탄력 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260607009300004",
-      "pubDate": "Sun, 7 Jun 2026 08:20:05 +0900"
     }
   ]
 }
