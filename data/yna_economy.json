@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780798526,
+  "updated_at_unix": 1780814730,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260607030100011",
+      "pubDate": "Sun, 7 Jun 2026 15:00:00 +0900"
+    },
+    {
+      "title": "국민 10명 중 9명 정년연장 찬성…2030은 청년일자리 잠식 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260607024000530",
+      "pubDate": "Sun, 7 Jun 2026 12:45:32 +0900"
+    },
+    {
+      "title": "쿠팡풀필먼트서비스·인하공전, 물류 인재 양성·채용에 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260607023300030",
+      "pubDate": "Sun, 7 Jun 2026 12:24:46 +0900"
+    },
+    {
+      "title": "롯데웰푸드, 21일까지 신제품 '돼지바빵' 팝업스토어 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260607022400030",
+      "pubDate": "Sun, 7 Jun 2026 12:22:46 +0900"
+    },
+    {
+      "title": "노동장관, ILO서 'AI 노동 전환' 연설…독일 노사정 대화 탐색도",
+      "link": "https://www.yna.co.kr/view/AKR20260605095600530",
+      "pubDate": "Sun, 7 Jun 2026 12:00:11 +0900"
+    },
+    {
+      "title": "대학병원 진단도 안 믿는 보험사…소비자원, 제도 개선 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260605156000030",
+      "pubDate": "Sun, 7 Jun 2026 12:00:07 +0900"
+    },
+    {
+      "title": "한·라이베리아 국세청장 회의…정보교환·징수공조 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260606026200002",
+      "pubDate": "Sun, 7 Jun 2026 12:00:05 +0900"
+    },
+    {
+      "title": "한은 \"생성형 AI 쓰면 시간 절감…생산 증가는 아직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260605160100002",
+      "pubDate": "Sun, 7 Jun 2026 12:00:03 +0900"
+    },
+    {
+      "title": "금감원, 대부업 현장점검…\"약탈적 금융행위 일벌백계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260606031000002",
+      "pubDate": "Sun, 7 Jun 2026 12:00:03 +0900"
+    },
+    {
+      "title": "\"금융권 AI 규제, 기존 '모형위험관리' 체계 확대해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260606046800002",
+      "pubDate": "Sun, 7 Jun 2026 12:00:02 +0900"
+    },
+    {
+      "title": "경제계 최대 하계행사 대한상의 제주포럼 내달 15일 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260607015100003",
+      "pubDate": "Sun, 7 Jun 2026 12:00:00 +0900"
+    },
+    {
+      "title": "허장 재경차관, OECD 주요 인사들 만나 \"韓경기 회복세 견고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260607020200002",
+      "pubDate": "Sun, 7 Jun 2026 12:00:00 +0900"
+    },
+    {
+      "title": "서울시, 여름 청년 시정 서포터즈 모집…만기 근무 144만원",
+      "link": "https://www.yna.co.kr/view/AKR20260607014800004",
+      "pubDate": "Sun, 7 Jun 2026 11:15:02 +0900"
+    },
     {
       "title": "[게시판] KGC·롯데면세점, 면세 채널 차별화 상품 출시 MOU",
       "link": "https://www.yna.co.kr/view/AKR20260607020600030",
@@ -87,71 +152,6 @@
       "title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는?",
       "link": "https://www.yna.co.kr/view/AKR20260606028400008",
       "pubDate": "Sun, 7 Jun 2026 07:30:00 +0900"
-    },
-    {
-      "title": "[일문일답] 황종우 해수장관 \"12월 이후 남부 해양수도권 육성 계획 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260605131400051",
-      "pubDate": "Sun, 7 Jun 2026 07:20:01 +0900"
-    },
-    {
-      "title": "\"지수형 만족 못해\" 액티브 ETF 몰리는 돈…순자산 한달새 15%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260606022500008",
-      "pubDate": "Sun, 7 Jun 2026 07:20:01 +0900"
-    },
-    {
-      "title": "황종우 장관 \"2030년 북극 정기항로…2035년 규모의 경제 실현\"",
-      "link": "https://www.yna.co.kr/view/AKR20260605131000051",
-      "pubDate": "Sun, 7 Jun 2026 07:20:00 +0900"
-    },
-    {
-      "title": "올해 코스피 '시총 순위' 지각변동…'톱10' 중 7개 바뀌어",
-      "link": "https://www.yna.co.kr/view/AKR20260605159500008",
-      "pubDate": "Sun, 7 Jun 2026 07:15:01 +0900"
-    },
-    {
-      "title": "올해 개인이 가장 많이 산 '최애' ETF는…SOL AI반도체TOP2+",
-      "link": "https://www.yna.co.kr/view/AKR20260605142200008",
-      "pubDate": "Sun, 7 Jun 2026 07:10:00 +0900"
-    },
-    {
-      "title": "\"오늘 가장 싸\" 인상 랠리에 '포모'…백화점 명품 매출도 껑충",
-      "link": "https://www.yna.co.kr/view/AKR20260605155800030",
-      "pubDate": "Sun, 7 Jun 2026 07:01:01 +0900"
-    },
-    {
-      "title": "GH 공사채 2조3천억 정부 승인…광명시흥지구 등 5개 사업 탄력",
-      "link": "https://www.yna.co.kr/view/AKR20260605127900061",
-      "pubDate": "Sun, 7 Jun 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 반도체 급락에 '휘청' 코스피…지지선 시험받나",
-      "link": "https://www.yna.co.kr/view/AKR20260606022300008",
-      "pubDate": "Sun, 7 Jun 2026 07:00:03 +0900"
-    },
-    {
-      "title": "1∼5월 K-화장품 수출액 56억달러…소비재 중 식품 제치고 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260606026100003",
-      "pubDate": "Sun, 7 Jun 2026 06:45:01 +0900"
-    },
-    {
-      "title": "미국 301조·EU 철강 고율 관세…한국 통상전략 또 시험대",
-      "link": "https://www.yna.co.kr/view/AKR20260606041700003",
-      "pubDate": "Sun, 7 Jun 2026 06:35:00 +0900"
-    },
-    {
-      "title": "\"서울 집값 하방 제한\"…세제·금리 변수에 지역별 온도차 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260606045500003",
-      "pubDate": "Sun, 7 Jun 2026 06:25:00 +0900"
-    },
-    {
-      "title": "지방선거 후폭풍…과천·용산 등 주택 공급대책 순항할까",
-      "link": "https://www.yna.co.kr/view/AKR20260606043300003",
-      "pubDate": "Sun, 7 Jun 2026 06:23:00 +0900"
-    },
-    {
-      "title": "한국 여름 더위에도 '가죽 재킷' 젠슨황…\"전투복·브랜드 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606045700030",
-      "pubDate": "Sun, 7 Jun 2026 06:11:01 +0900"
     }
   ]
 }
