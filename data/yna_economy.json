@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780814730,
+  "updated_at_unix": 1780826059,
   "items": [
+    {
+      "title": "레미콘 노조 8일 휴업 돌입…수도권 1만1천대 운송 중단",
+      "link": "https://www.yna.co.kr/view/AKR20260607038900003",
+      "pubDate": "Sun, 7 Jun 2026 17:15:36 +0900"
+    },
+    {
+      "title": "F4 \"원화약세 편승한 투기적 움직임 점검해 엄정한 조치할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260607034700002",
+      "pubDate": "Sun, 7 Jun 2026 16:55:46 +0900"
+    },
+    {
+      "title": "中企·소상공인업계, 한성숙 총리 지명 환영…\"AI 전환 적임자\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260607034351030",
+      "pubDate": "Sun, 7 Jun 2026 16:52:30 +0900"
+    },
+    {
+      "title": "여성·벤처업계, 한성숙 총리 후보 지명 환영…\"AI 전환 적임자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260607034300030",
+      "pubDate": "Sun, 7 Jun 2026 16:02:34 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260607030100011",
@@ -132,26 +152,6 @@
       "title": "[강원소식] 사회취약계층 이용 급식시설 식중독 예방 점검",
       "link": "https://www.yna.co.kr/view/AKR20260607009600062",
       "pubDate": "Sun, 7 Jun 2026 08:12:04 +0900"
-    },
-    {
-      "title": "주택연금 조건 개선에 가입자 급증…4월 역대 최다 기록",
-      "link": "https://www.yna.co.kr/view/AKR20260605110400051",
-      "pubDate": "Sun, 7 Jun 2026 08:00:17 +0900"
-    },
-    {
-      "title": "삼전닉스 '쏠림'에…코스피 오를 때 하락종목 더 많았다",
-      "link": "https://www.yna.co.kr/view/AKR20260606031100008",
-      "pubDate": "Sun, 7 Jun 2026 07:35:00 +0900"
-    },
-    {
-      "title": "올해만 2천600명 떠났다…임금 체불에 대량 실직 위기 홈플러스",
-      "link": "https://www.yna.co.kr/view/AKR20260605154400030",
-      "pubDate": "Sun, 7 Jun 2026 07:31:30 +0900"
-    },
-    {
-      "title": "고환율·고금리·고유가 '3고' 장벽 넘을 대안주는?",
-      "link": "https://www.yna.co.kr/view/AKR20260606028400008",
-      "pubDate": "Sun, 7 Jun 2026 07:30:00 +0900"
     }
   ]
 }
