@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780826059,
+  "updated_at_unix": 1780832462,
   "items": [
+    {
+      "title": "LG엔솔, 미국 관세 환급 절차 착수…환급금 1천억원 넘을 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260607047600003",
+      "pubDate": "Sun, 7 Jun 2026 19:39:42 +0900"
+    },
     {
       "title": "레미콘 노조 8일 휴업 돌입…수도권 1만1천대 운송 중단",
       "link": "https://www.yna.co.kr/view/AKR20260607038900003",
@@ -147,11 +152,6 @@
       "title": "오세훈 연임으로 창동 서울아레나 등 '강북 전성시대' 탄력 받는다",
       "link": "https://www.yna.co.kr/view/AKR20260607009300004",
       "pubDate": "Sun, 7 Jun 2026 08:20:05 +0900"
-    },
-    {
-      "title": "[강원소식] 사회취약계층 이용 급식시설 식중독 예방 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260607009600062",
-      "pubDate": "Sun, 7 Jun 2026 08:12:04 +0900"
     }
   ]
 }
