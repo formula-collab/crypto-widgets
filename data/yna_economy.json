@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780864905,
+  "updated_at_unix": 1780869393,
   "items": [
+    {
+      "title": "잠자는 퇴직금 깨운다…기금형 퇴직연금에 국민연금 참여 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260607042000530",
+      "pubDate": "Mon, 8 Jun 2026 06:11:01 +0900"
+    },
+    {
+      "title": "서울 직업계고 학생-F&B 기업 취업 매칭…박람회서 면접",
+      "link": "https://www.yna.co.kr/view/AKR20260606045600530",
+      "pubDate": "Mon, 8 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "대한상의, '중대재해 예방' 전국 35개 지역상의 순회 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260607032300003",
+      "pubDate": "Mon, 8 Jun 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금감원 '사기예방 백과사전' 발간…오디오북 등 무료 배포",
+      "link": "https://www.yna.co.kr/view/AKR20260607024200002",
+      "pubDate": "Mon, 8 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "통상본부장 \"통상 네트워크 다변화해 수출 상승 흐름 이을 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260607040900003",
+      "pubDate": "Mon, 8 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "한-아세안 FTA 개선 위한 1차 공식협상 서울서 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260607041700003",
+      "pubDate": "Mon, 8 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "한은, 멜라트銀 배상 1천억대로 커질까…1심 100억 판결에 항소",
+      "link": "https://www.yna.co.kr/view/AKR20260603064200002",
+      "pubDate": "Mon, 8 Jun 2026 05:57:00 +0900"
+    },
+    {
+      "title": "'10배' 외쳤던 온투업 대출잔액 2.1조뿐…중금리 육성 제자리",
+      "link": "https://www.yna.co.kr/view/AKR20260607024100002",
+      "pubDate": "Mon, 8 Jun 2026 05:55:02 +0900"
+    },
+    {
+      "title": "화려했던 '직구시대' 저문다…강달러에 배송대행업체 빨간불",
+      "link": "https://www.yna.co.kr/view/AKR20260607021600004",
+      "pubDate": "Mon, 8 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "李정부 공약 서민금융기금법, 후반기 국회서 급물살타나",
+      "link": "https://www.yna.co.kr/view/AKR20260606049200002",
+      "pubDate": "Mon, 8 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "KB국민은행, 비대면 주담대 변동금리 0.20%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260607031800002",
+      "pubDate": "Mon, 8 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "야구관람·회동에도 K치킨…젠슨황 \"치맥보다 좋은 건 없다\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260607034852030",
@@ -97,61 +152,6 @@
       "title": "서울시, 여름 청년 시정 서포터즈 모집…만기 근무 144만원",
       "link": "https://www.yna.co.kr/view/AKR20260607014800004",
       "pubDate": "Sun, 7 Jun 2026 11:15:02 +0900"
-    },
-    {
-      "title": "[게시판] KGC·롯데면세점, 면세 채널 차별화 상품 출시 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260607020600030",
-      "pubDate": "Sun, 7 Jun 2026 11:10:13 +0900"
-    },
-    {
-      "title": "[부고] 김상부(세계은행 부총재)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260607019700034",
-      "pubDate": "Sun, 7 Jun 2026 11:06:31 +0900"
-    },
-    {
-      "title": "현대硏 \"반도체 호황에 경기 회복 국면…'K자 양극화'는 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606043700002",
-      "pubDate": "Sun, 7 Jun 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, 올해 첫 특별성과 포상자 11명에 4천500만원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260607005800030",
-      "pubDate": "Sun, 7 Jun 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농관원 \"국내 최초 염소고기 원산지 판별 기술 확립\"",
-      "link": "https://www.yna.co.kr/view/AKR20260607006600030",
-      "pubDate": "Sun, 7 Jun 2026 11:00:03 +0900"
-    },
-    {
-      "title": "정부, 중국 수소산업 현장 방문…\"새만금 수소·AI 거점 육성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606046100003",
-      "pubDate": "Sun, 7 Jun 2026 11:00:01 +0900"
-    },
-    {
-      "title": "한-몽골 포괄적경제동반자협정 협상 1년 7개월만에 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260607015600003",
-      "pubDate": "Sun, 7 Jun 2026 11:00:01 +0900"
-    },
-    {
-      "title": "수입 수산물 유통 이력 관리 품목에 냉동고등어 등 5개 추가",
-      "link": "https://www.yna.co.kr/view/AKR20260607019300030",
-      "pubDate": "Sun, 7 Jun 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260607017400011",
-      "pubDate": "Sun, 7 Jun 2026 10:30:01 +0900"
-    },
-    {
-      "title": "NH농협은행, 한화솔루션과 재생에너지 공급 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260605124000002",
-      "pubDate": "Sun, 7 Jun 2026 09:00:07 +0900"
-    },
-    {
-      "title": "하나은행, 필리핀 수빅출장소 개소…동남아 시장 영업망 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260606045400002",
-      "pubDate": "Sun, 7 Jun 2026 08:30:00 +0900"
     }
   ]
 }
