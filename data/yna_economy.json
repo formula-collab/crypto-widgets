@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780869393,
+  "updated_at_unix": 1780872999,
   "items": [
+    {
+      "title": "부산시 9일 디지털 대전환 포럼…\"데이터를 비즈니스로 연결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608017500051",
+      "pubDate": "Mon, 8 Jun 2026 07:52:26 +0900"
+    },
+    {
+      "title": "부산시, 지역전략산업 고도화 공모 선정…3년간 108억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260608017300051",
+      "pubDate": "Mon, 8 Jun 2026 07:51:06 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260608012400011",
+      "pubDate": "Mon, 8 Jun 2026 07:30:01 +0900"
+    },
     {
       "title": "잠자는 퇴직금 깨운다…기금형 퇴직연금에 국민연금 참여 논란",
       "link": "https://www.yna.co.kr/view/AKR20260607042000530",
@@ -137,21 +152,6 @@
       "title": "\"금융권 AI 규제, 기존 '모형위험관리' 체계 확대해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260606046800002",
       "pubDate": "Sun, 7 Jun 2026 12:00:02 +0900"
-    },
-    {
-      "title": "경제계 최대 하계행사 대한상의 제주포럼 내달 15일 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260607015100003",
-      "pubDate": "Sun, 7 Jun 2026 12:00:00 +0900"
-    },
-    {
-      "title": "허장 재경차관, OECD 주요 인사들 만나 \"韓경기 회복세 견고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260607020200002",
-      "pubDate": "Sun, 7 Jun 2026 12:00:00 +0900"
-    },
-    {
-      "title": "서울시, 여름 청년 시정 서포터즈 모집…만기 근무 144만원",
-      "link": "https://www.yna.co.kr/view/AKR20260607014800004",
-      "pubDate": "Sun, 7 Jun 2026 11:15:02 +0900"
     }
   ]
 }
