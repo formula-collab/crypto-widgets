@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780948696,
+  "updated_at_unix": 1780955278,
   "items": [
+    {
+      "title": "[인&아웃] 한국 증시의 '민낯'",
+      "link": "https://www.yna.co.kr/view/AKR20260608097900546",
+      "pubDate": "Tue, 9 Jun 2026 06:30:01 +0900"
+    },
+    {
+      "title": "4월 방한객 소비액 1조3천억원 '역대 최대'…전년비 54.6% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260608156800030",
+      "pubDate": "Tue, 9 Jun 2026 06:11:12 +0900"
+    },
+    {
+      "title": "전세사기 피해자 3만9천명 넘어…피해 인정률 60.4%",
+      "link": "https://www.yna.co.kr/view/AKR20260608125100003",
+      "pubDate": "Tue, 9 Jun 2026 06:00:10 +0900"
+    },
+    {
+      "title": "세금·과태료 상습 체납차량 잡는다…서울시, 오늘 합동단속",
+      "link": "https://www.yna.co.kr/view/AKR20260608158300004",
+      "pubDate": "Tue, 9 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "창업·스타트업 호감도 하락…\"안정적 보상 선호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608158900003",
+      "pubDate": "Tue, 9 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "금감원, 상법 개정 후 첫 '기업공시 설명회'…광주 등 6개 도시",
+      "link": "https://www.yna.co.kr/view/AKR20260608164700002",
+      "pubDate": "Tue, 9 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "금감원, 고환율 대응 업권별 릴레이 소집…은행권 첫 타자",
+      "link": "https://www.yna.co.kr/view/AKR20260608170600002",
+      "pubDate": "Tue, 9 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "중동전쟁발 '불가항력' 공사비 급등…대형 국책사업 걸림돌 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260608169700003",
+      "pubDate": "Tue, 9 Jun 2026 05:55:00 +0900"
+    },
+    {
+      "title": "李대통령 지적한 지방임야…정부 '자경 특례' 원점 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20260608177700002",
+      "pubDate": "Tue, 9 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "부동산세 실거주 중심 개편 시동…취득·보유·양도세 통합 수술",
+      "link": "https://www.yna.co.kr/view/AKR20260608171800002",
+      "pubDate": "Tue, 9 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "급등했던 국제유가, 이-이란 교전 중단에 1% 안팎 상승 마감",
       "link": "https://www.yna.co.kr/view/AKR20260609005800072",
@@ -102,56 +152,6 @@
       "title": "환율 급등에 은행권도 비상…긴급회의 소집·모니터링 강화",
       "link": "https://www.yna.co.kr/view/AKR20260608148300002",
       "pubDate": "Mon, 8 Jun 2026 16:29:35 +0900"
-    },
-    {
-      "title": "울산공고, '협약형 특성화고' 공모 선정…스마트제조 인재 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260608142800057",
-      "pubDate": "Mon, 8 Jun 2026 16:27:17 +0900"
-    },
-    {
-      "title": "[영상] '3일 4닭' 젠슨 황의 K치킨 홀릭…최태원과 러브샷 \"깐부됐다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260608145400704",
-      "pubDate": "Mon, 8 Jun 2026 16:19:14 +0900"
-    },
-    {
-      "title": "하이닉스 8% 떨어졌는데…ACE단일종목 레버리지 50%↑ '기현상'",
-      "link": "https://www.yna.co.kr/view/AKR20260608146600008",
-      "pubDate": "Mon, 8 Jun 2026 16:16:44 +0900"
-    },
-    {
-      "title": "강원교육청, '제16회 강원 상업경진대회' 원주서 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260608146400062",
-      "pubDate": "Mon, 8 Jun 2026 16:16:34 +0900"
-    },
-    {
-      "title": "이억원 \"스튜어드십 10년만 개정…적용범위 확대·이행점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20260608143800002",
-      "pubDate": "Mon, 8 Jun 2026 16:16:00 +0900"
-    },
-    {
-      "title": "주식·원화·채권 '트리플 약세'…투심 악화에 금융시장 요동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260608141500002",
-      "pubDate": "Mon, 8 Jun 2026 16:14:45 +0900"
-    },
-    {
-      "title": "한국산 참외, 베트남 대형마트 진출 확대…수출 기간 1개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260608133900030",
-      "pubDate": "Mon, 8 Jun 2026 16:11:42 +0900"
-    },
-    {
-      "title": "[특징주] SKT·네이버, '엔비디아 협력'에 급락장서 상승 마감(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260608078552008",
-      "pubDate": "Mon, 8 Jun 2026 16:07:17 +0900"
-    },
-    {
-      "title": "중랑구, 24∼25일 '소상공인 창업아카데미'",
-      "link": "https://www.yna.co.kr/view/AKR20260608142400004",
-      "pubDate": "Mon, 8 Jun 2026 16:05:38 +0900"
-    },
-    {
-      "title": "'실거주 아니면 부담 져야'…부동산 대응 일관된 기조 재확인(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260608130951003",
-      "pubDate": "Mon, 8 Jun 2026 16:00:05 +0900"
     }
   ]
 }
