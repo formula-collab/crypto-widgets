@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780955278,
+  "updated_at_unix": 1780959946,
   "items": [
+    {
+      "title": "1분기 경제성장률 1.8%…속보치보다 0.1%p 더 높아졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260609019500002",
+      "pubDate": "Tue, 9 Jun 2026 08:00:02 +0900"
+    },
+    {
+      "title": "부산시, 블록체인 특화 클러스터 착수보고회…3년간 200억 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260609021100051",
+      "pubDate": "Tue, 9 Jun 2026 07:51:57 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260609016300011",
+      "pubDate": "Tue, 9 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "한국-볼리비아 외교장관 회담…개발협력 등 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260609017000504",
+      "pubDate": "Tue, 9 Jun 2026 07:26:03 +0900"
+    },
+    {
+      "title": "한국-요르단 '경제무역협력협정' 9일 발효",
+      "link": "https://www.yna.co.kr/view/AKR20260609016700504",
+      "pubDate": "Tue, 9 Jun 2026 07:24:45 +0900"
+    },
+    {
+      "title": "[머니톡스] \"형, 동생, 깐부\"…AI 권력자의 비즈니스",
+      "link": "https://www.yna.co.kr/view/AKR20260608154400546",
+      "pubDate": "Tue, 9 Jun 2026 07:07:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 스타트업, 이미 시장이 움직이고 있다",
+      "link": "https://www.yna.co.kr/view/AKR20260529049400898",
+      "pubDate": "Tue, 9 Jun 2026 07:00:04 +0900"
+    },
     {
       "title": "[인&아웃] 한국 증시의 '민낯'",
       "link": "https://www.yna.co.kr/view/AKR20260608097900546",
@@ -117,41 +152,6 @@
       "title": "하이닉스 8% 떨어졌는데…ACE단일종목 레버리지 50%↑'이상거래'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260608146651008",
       "pubDate": "Mon, 8 Jun 2026 17:14:58 +0900"
-    },
-    {
-      "title": "美 금리인상 가능성에 국고채 일제히 ↑…3년물 3.940%(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260608152351008",
-      "pubDate": "Mon, 8 Jun 2026 17:09:00 +0900"
-    },
-    {
-      "title": "메디톡스, 그리스 기업에 코스메틱 브랜드 '뉴라덤' 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260608156000017",
-      "pubDate": "Mon, 8 Jun 2026 17:07:19 +0900"
-    },
-    {
-      "title": "코스피 시총, 6천조원 초반으로↓…삼전도 글로벌 11위로 밀려",
-      "link": "https://www.yna.co.kr/view/AKR20260608152700008",
-      "pubDate": "Mon, 8 Jun 2026 17:01:01 +0900"
-    },
-    {
-      "title": "농식품부, 무기질비료 가격 보조 115억원 집행…농가 부담 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260608152400030",
-      "pubDate": "Mon, 8 Jun 2026 16:58:02 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.940%",
-      "link": "https://www.yna.co.kr/view/AKR20260608152300008",
-      "pubDate": "Mon, 8 Jun 2026 16:48:52 +0900"
-    },
-    {
-      "title": "'검은 금요일·블랙 먼데이' 연타로 직격…증시 상승세 꺾이나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260608084751008",
-      "pubDate": "Mon, 8 Jun 2026 16:48:24 +0900"
-    },
-    {
-      "title": "환율 급등에 은행권도 비상…긴급회의 소집·모니터링 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260608148300002",
-      "pubDate": "Mon, 8 Jun 2026 16:29:35 +0900"
     }
   ]
 }
