@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780912695,
+  "updated_at_unix": 1780927425,
   "items": [
+    {
+      "title": "김태원 아워홈 대표 \"용인공장 근로자 끼임 사고 사죄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608177600030",
+      "pubDate": "Mon, 8 Jun 2026 21:11:23 +0900"
+    },
+    {
+      "title": "美 금리인상 가능성에 국고채 일제히↑…3년물 낙찰금리 4%(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260608152352008",
+      "pubDate": "Mon, 8 Jun 2026 19:13:32 +0900"
+    },
+    {
+      "title": "[전북소식] 식품진흥원, 스페인 농식품 클러스터와 기술 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260608169900055",
+      "pubDate": "Mon, 8 Jun 2026 18:55:53 +0900"
+    },
     {
       "title": "농식품부 \"대파·수박 가격 하락…계란은 7월 이후 수급 안정\"",
       "link": "https://www.yna.co.kr/view/AKR20260608165100030",
@@ -137,21 +152,6 @@
       "title": "삼전닉스 급락, 반도체 피크아웃?…전문가 \"저가매수 기회\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260608059851008",
       "pubDate": "Mon, 8 Jun 2026 15:55:35 +0900"
-    },
-    {
-      "title": "작년 해운시장 신규 자금 조달 감소에도 민간자금 유입은 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260608140000051",
-      "pubDate": "Mon, 8 Jun 2026 15:48:51 +0900"
-    },
-    {
-      "title": "핌코 \"미 정책금리 인상돼도 빅테크 AI 투자 지속될 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260608135400008",
-      "pubDate": "Mon, 8 Jun 2026 15:47:51 +0900"
-    },
-    {
-      "title": "양대노총, 도급제 최저임금 명문화 촉구…\"40년 기다림 끝내야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260608135200530",
-      "pubDate": "Mon, 8 Jun 2026 15:42:13 +0900"
     }
   ]
 }
