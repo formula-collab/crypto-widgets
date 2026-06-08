@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780872999,
+  "updated_at_unix": 1780876831,
   "items": [
+    {
+      "title": "신세계푸드, 노브랜드 버거 '어메이징' 출시 1년 만에 300만개",
+      "link": "https://www.yna.co.kr/view/AKR20260608028800030",
+      "pubDate": "Mon, 8 Jun 2026 08:53:12 +0900"
+    },
+    {
+      "title": "KB운용, 삼전·닉스 담고 채권으로 안정성 확보 펀드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260608029000008",
+      "pubDate": "Mon, 8 Jun 2026 08:47:02 +0900"
+    },
+    {
+      "title": "하나증권 \"삼성물산, 주가 여전히 저평가…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608028700008",
+      "pubDate": "Mon, 8 Jun 2026 08:45:06 +0900"
+    },
+    {
+      "title": "현대차, 하반기 신규 채용…완성차 제조·연구개발 기술 분야",
+      "link": "https://www.yna.co.kr/view/AKR20260608028500003",
+      "pubDate": "Mon, 8 Jun 2026 08:44:58 +0900"
+    },
+    {
+      "title": "신한투자 \"비에이치, 로봇 시장 진입 기대…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608027900008",
+      "pubDate": "Mon, 8 Jun 2026 08:42:48 +0900"
+    },
+    {
+      "title": "IBK투자, 삼성E&A 목표가↑…\"수주 가이던스 상향 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608024000008",
+      "pubDate": "Mon, 8 Jun 2026 08:36:22 +0900"
+    },
+    {
+      "title": "현대엔지니어링, 카자흐스탄 화공플랜트 프로젝트 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260608023900003",
+      "pubDate": "Mon, 8 Jun 2026 08:32:28 +0900"
+    },
+    {
+      "title": "마포구, '행정체험 아르바이트' 참여 청년 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260608026000004",
+      "pubDate": "Mon, 8 Jun 2026 08:32:15 +0900"
+    },
+    {
+      "title": "SK AX, 머서와 손잡고 AI 조직혁신 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260608020800017",
+      "pubDate": "Mon, 8 Jun 2026 08:30:00 +0900"
+    },
+    {
+      "title": "무신사, '젠지 이스포츠' 공식 유니폼 출시…친필사인 저지 증정",
+      "link": "https://www.yna.co.kr/view/AKR20260608023500030",
+      "pubDate": "Mon, 8 Jun 2026 08:28:47 +0900"
+    },
+    {
+      "title": "삼성증권 \"스페이스X 등장, 중장기적 韓 반도체에 새로운 기회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608023000008",
+      "pubDate": "Mon, 8 Jun 2026 08:26:42 +0900"
+    },
+    {
+      "title": "키움증권 \"스벅 '탱크데이' 논란에 이마트 2분기 실적 전망치↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260608024600008",
+      "pubDate": "Mon, 8 Jun 2026 08:26:05 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, '美반도체 쇼크'에 변동성 확대되나",
+      "link": "https://www.yna.co.kr/view/AKR20260608020000008",
+      "pubDate": "Mon, 8 Jun 2026 08:14:04 +0900"
+    },
+    {
+      "title": "LS일렉, '중동 전력시장 표준' 두바이 전력청 공인시험소 등록",
+      "link": "https://www.yna.co.kr/view/AKR20260608018800003",
+      "pubDate": "Mon, 8 Jun 2026 08:08:37 +0900"
+    },
     {
       "title": "부산시 9일 디지털 대전환 포럼…\"데이터를 비즈니스로 연결\"",
       "link": "https://www.yna.co.kr/view/AKR20260608017500051",
@@ -82,76 +152,6 @@
       "title": "LG엔솔, 미국 관세 환급 절차 착수…환급금 1천억원 넘을 듯",
       "link": "https://www.yna.co.kr/view/AKR20260607047600003",
       "pubDate": "Sun, 7 Jun 2026 19:39:42 +0900"
-    },
-    {
-      "title": "레미콘 노조 8일 휴업 돌입…수도권 1만1천대 운송 중단",
-      "link": "https://www.yna.co.kr/view/AKR20260607038900003",
-      "pubDate": "Sun, 7 Jun 2026 17:15:36 +0900"
-    },
-    {
-      "title": "F4 \"원화약세 편승한 투기적 움직임 점검해 엄정한 조치할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260607034700002",
-      "pubDate": "Sun, 7 Jun 2026 16:55:46 +0900"
-    },
-    {
-      "title": "中企·소상공인업계, 한성숙 총리 지명 환영…\"AI 전환 적임자\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260607034351030",
-      "pubDate": "Sun, 7 Jun 2026 16:52:30 +0900"
-    },
-    {
-      "title": "여성·벤처업계, 한성숙 총리 후보 지명 환영…\"AI 전환 적임자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260607034300030",
-      "pubDate": "Sun, 7 Jun 2026 16:02:34 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260607030100011",
-      "pubDate": "Sun, 7 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "국민 10명 중 9명 정년연장 찬성…2030은 청년일자리 잠식 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260607024000530",
-      "pubDate": "Sun, 7 Jun 2026 12:45:32 +0900"
-    },
-    {
-      "title": "쿠팡풀필먼트서비스·인하공전, 물류 인재 양성·채용에 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260607023300030",
-      "pubDate": "Sun, 7 Jun 2026 12:24:46 +0900"
-    },
-    {
-      "title": "롯데웰푸드, 21일까지 신제품 '돼지바빵' 팝업스토어 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260607022400030",
-      "pubDate": "Sun, 7 Jun 2026 12:22:46 +0900"
-    },
-    {
-      "title": "노동장관, ILO서 'AI 노동 전환' 연설…독일 노사정 대화 탐색도",
-      "link": "https://www.yna.co.kr/view/AKR20260605095600530",
-      "pubDate": "Sun, 7 Jun 2026 12:00:11 +0900"
-    },
-    {
-      "title": "대학병원 진단도 안 믿는 보험사…소비자원, 제도 개선 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260605156000030",
-      "pubDate": "Sun, 7 Jun 2026 12:00:07 +0900"
-    },
-    {
-      "title": "한·라이베리아 국세청장 회의…정보교환·징수공조 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260606026200002",
-      "pubDate": "Sun, 7 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "한은 \"생성형 AI 쓰면 시간 절감…생산 증가는 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260605160100002",
-      "pubDate": "Sun, 7 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "금감원, 대부업 현장점검…\"약탈적 금융행위 일벌백계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606031000002",
-      "pubDate": "Sun, 7 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"금융권 AI 규제, 기존 '모형위험관리' 체계 확대해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260606046800002",
-      "pubDate": "Sun, 7 Jun 2026 12:00:02 +0900"
     }
   ]
 }
