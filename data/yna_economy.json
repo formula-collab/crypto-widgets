@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781014652,
+  "updated_at_unix": 1781024772,
   "items": [
+    {
+      "title": "美에너지장관 \"호르무즈 통과 선박 매우 의미있게 증가 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610000800071",
+      "pubDate": "Wed, 10 Jun 2026 00:28:21 +0900"
+    },
     {
       "title": "신안산선 공사 현장서 30대 하청 노동자 추락사…노동부 조사",
       "link": "https://www.yna.co.kr/view/AKR20260609174400530",
@@ -147,11 +152,6 @@
       "title": "청년·지역인재 뽑는 기업에 보조금·금리 우대…재정지원 개편",
       "link": "https://www.yna.co.kr/view/AKR20260609117100002",
       "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
-    },
-    {
-      "title": "신혼부부 공공임대·미래적금 문턱 낮춘다…'결혼 페널티' 손질",
-      "link": "https://www.yna.co.kr/view/AKR20260609127200002",
-      "pubDate": "Tue, 9 Jun 2026 16:00:02 +0900"
     }
   ]
 }
