@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781033469,
+  "updated_at_unix": 1781040487,
   "items": [
+    {
+      "title": "BTS공연 앞둔 부산에 '바가지 상술' 민원 폭증…'숙박' 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260609150100030",
+      "pubDate": "Wed, 10 Jun 2026 06:11:11 +0900"
+    },
+    {
+      "title": "[소셜＋] \"젠슨 황 자리 주세요\"…홍대 일대서 '성지 순례' 열풍",
+      "link": "https://www.yna.co.kr/view/AKR20260609166400505",
+      "pubDate": "Wed, 10 Jun 2026 06:10:01 +0900"
+    },
+    {
+      "title": "삼성전자, 작년 설비·R&D에 90조 투자…반도체 기업 중 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260609155900003",
+      "pubDate": "Wed, 10 Jun 2026 06:01:01 +0900"
+    },
+    {
+      "title": "고용노동교육원, 공공기관 대상 노동이사제 교육·안착 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260609148800530",
+      "pubDate": "Wed, 10 Jun 2026 06:00:10 +0900"
+    },
+    {
+      "title": "\"생선구이·횟값도 들썩\"…이상 기후·전쟁에 수산물 가격 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260609154700030",
+      "pubDate": "Wed, 10 Jun 2026 06:00:08 +0900"
+    },
+    {
+      "title": "[일문일답] 오세훈 \"李부동산정책, 文정부 실패 답습…1년 뒤 감당불가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260609173600004",
+      "pubDate": "Wed, 10 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "\"한국은 기회의 땅\"…상륙 서두르는 해외 가상자산 기업들",
+      "link": "https://www.yna.co.kr/view/AKR20260609140600002",
+      "pubDate": "Wed, 10 Jun 2026 05:59:00 +0900"
+    },
+    {
+      "title": "한은 \"가계 소득 분위별 격차 확대…정부 재분배가 완충\"",
+      "link": "https://www.yna.co.kr/view/AKR20260609159000002",
+      "pubDate": "Wed, 10 Jun 2026 05:57:00 +0900"
+    },
+    {
+      "title": "1분기 주식거래 수수료 등 금융지출 24년 만에 최대폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260609155300002",
+      "pubDate": "Wed, 10 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "일하는 할머니·할아버지 늘었다…70세 이상 취업자 200만 시대",
+      "link": "https://www.yna.co.kr/view/AKR20260609154000002",
+      "pubDate": "Wed, 10 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "코스피 조정에 개미 '빚투'…이틀간 마통 6천억 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260609161700002",
+      "pubDate": "Wed, 10 Jun 2026 05:51:01 +0900"
+    },
+    {
+      "title": "국제유가, 중동긴장 완화 조짐에 급락…WTI 3.4%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260610006100072",
+      "pubDate": "Wed, 10 Jun 2026 04:41:40 +0900"
+    },
     {
       "title": "달러-원, 증시 급락에 위험 회피 반영…1,532.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260610004900002",
@@ -92,66 +152,6 @@
       "title": "한국·ILO, 개도국 '양질의일자리' 협력 강화…3년 166억 투입",
       "link": "https://www.yna.co.kr/view/AKR20260609146400530",
       "pubDate": "Tue, 9 Jun 2026 16:50:05 +0900"
-    },
-    {
-      "title": "외국계은행 등 환 투기거래 여부 곧 검사…다른 업권도 소집(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260608170651002",
-      "pubDate": "Tue, 9 Jun 2026 16:49:30 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.856%",
-      "link": "https://www.yna.co.kr/view/AKR20260609144900008",
-      "pubDate": "Tue, 9 Jun 2026 16:41:55 +0900"
-    },
-    {
-      "title": "건설협회 \"원청 안전관리까지 사용자성 인정 근거 활용 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260609141700003",
-      "pubDate": "Tue, 9 Jun 2026 16:41:37 +0900"
-    },
-    {
-      "title": "[특징주] '30만전자'·'200만닉스' 회복…하이닉스 상승률 역대 최대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609041251008",
-      "pubDate": "Tue, 9 Jun 2026 16:41:29 +0900"
-    },
-    {
-      "title": "하루만에 '지옥과 천당'…극심한 널뛰기 증시, 공포지수 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260609122700008",
-      "pubDate": "Tue, 9 Jun 2026 16:39:51 +0900"
-    },
-    {
-      "title": "코스피, 8% 급등해 '8천피' 회복…역대 최대 상승폭(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609129951008",
-      "pubDate": "Tue, 9 Jun 2026 16:38:31 +0900"
-    },
-    {
-      "title": "노동부, 차가원 '원헌드레드'와 관계사 임금체불 전수감독",
-      "link": "https://www.yna.co.kr/view/AKR20260609133700530",
-      "pubDate": "Tue, 9 Jun 2026 16:28:03 +0900"
-    },
-    {
-      "title": "[게시판] 최병오 한국섬유산업연합회장, 유럽 방문해 시장 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260609138300030",
-      "pubDate": "Tue, 9 Jun 2026 16:20:12 +0900"
-    },
-    {
-      "title": "휴메딕스, 9월까지 50억원 규모 자사주 취득",
-      "link": "https://www.yna.co.kr/view/AKR20260609137300017",
-      "pubDate": "Tue, 9 Jun 2026 16:16:03 +0900"
-    },
-    {
-      "title": "[특징주] 젠슨 황 출국에 네이버·LG전자 등 동반 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609055651008",
-      "pubDate": "Tue, 9 Jun 2026 16:11:27 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전기, 목표가 줄상향 속 18%↑…시총 4위 탈환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609062451008",
-      "pubDate": "Tue, 9 Jun 2026 16:01:54 +0900"
-    },
-    {
-      "title": "CJ제일제당, '햇반 저단백밥' 지원 성인 희귀질환자까지 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260609123500030",
-      "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
     }
   ]
 }
