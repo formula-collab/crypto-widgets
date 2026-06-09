@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1780995365,
+  "updated_at_unix": 1781005966,
   "items": [
+    {
+      "title": "IBK투자증권 신임 대표이사에 최광진 부사장 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260609163600008",
+      "pubDate": "Tue, 9 Jun 2026 18:58:07 +0900"
+    },
+    {
+      "title": "현대건설 5천억원 규모 전환사채 발행…\"에너지 시장 선제 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260609162600003",
+      "pubDate": "Tue, 9 Jun 2026 18:56:41 +0900"
+    },
+    {
+      "title": "배달기사 등 최저임금 적용에…\"자영업자라 불가\" vs \"근거충분\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260609133551530",
+      "pubDate": "Tue, 9 Jun 2026 18:54:47 +0900"
+    },
+    {
+      "title": "카카오뱅크, 글로벌본부장에 김우주 전 기아 전무 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260609162300002",
+      "pubDate": "Tue, 9 Jun 2026 18:42:26 +0900"
+    },
+    {
+      "title": "CSA 코스믹, 150억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260609157300008",
+      "pubDate": "Tue, 9 Jun 2026 18:33:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260609152300011",
+      "pubDate": "Tue, 9 Jun 2026 18:00:00 +0900"
+    },
     {
       "title": "[포항소식] 대잠동 일대 재개발…아파트 556가구 공급",
       "link": "https://www.yna.co.kr/view/AKR20260609155600053",
@@ -94,13 +124,13 @@
       "pubDate": "Tue, 9 Jun 2026 16:01:54 +0900"
     },
     {
-      "title": "청년·지역인재 뽑는 기업에 보조금·금리 우대…재정지원 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260609117100002",
+      "title": "CJ제일제당, '햇반 저단백밥' 지원 성인 희귀질환자까지 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260609123500030",
       "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
     },
     {
-      "title": "CJ제일제당, '햇반 저단백밥' 지원 성인 희귀질환자까지 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260609123500030",
+      "title": "청년·지역인재 뽑는 기업에 보조금·금리 우대…재정지원 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260609117100002",
       "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
     },
     {
@@ -122,36 +152,6 @@
       "title": "급등락에 '한국형 공포지수' 19%↑…사상 최고치 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260609075151008",
       "pubDate": "Tue, 9 Jun 2026 15:55:35 +0900"
-    },
-    {
-      "title": "[특징주] 알테오젠, 유럽특허청 특허의향통지 소식에 12%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609066151008",
-      "pubDate": "Tue, 9 Jun 2026 15:40:21 +0900"
-    },
-    {
-      "title": "코스피, 8% 급등해 '8천피' 회복…역대 최대 상승폭",
-      "link": "https://www.yna.co.kr/view/AKR20260609129900008",
-      "pubDate": "Tue, 9 Jun 2026 15:39:45 +0900"
-    },
-    {
-      "title": "'유망 특허 기술 공개'…섬유개발연구원, 기업 지원 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260609127900053",
-      "pubDate": "Tue, 9 Jun 2026 15:39:19 +0900"
-    },
-    {
-      "title": "강원소방, 공동주택 소방시설 품질 자문…화재 안전성 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260609129600062",
-      "pubDate": "Tue, 9 Jun 2026 15:37:00 +0900"
-    },
-    {
-      "title": "외국환시세(6월9일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260609129500002",
-      "pubDate": "Tue, 9 Jun 2026 15:35:20 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 8% 급등해 8천피 회복…전날 급락분 만회",
-      "link": "https://www.yna.co.kr/view/AKR20260609128900008",
-      "pubDate": "Tue, 9 Jun 2026 15:33:42 +0900"
     }
   ]
 }
