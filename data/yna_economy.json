@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781040487,
+  "updated_at_unix": 1781045766,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260610015700011",
+      "pubDate": "Wed, 10 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[머니톡스] 수출 초호황인데 역설적인 환율…'글로벌'의 부메랑",
+      "link": "https://www.yna.co.kr/view/AKR20260609023300546",
+      "pubDate": "Wed, 10 Jun 2026 07:07:01 +0900"
+    },
+    {
+      "title": "삼성전자, 미국 DNA분석장비기업 추가 투자해 1대주주 지위",
+      "link": "https://www.yna.co.kr/view/AKR20260610013300003",
+      "pubDate": "Wed, 10 Jun 2026 06:41:50 +0900"
+    },
+    {
+      "title": "LG전자, 미국 컨슈머리포트 '신뢰받는 세탁 가전' 최상위 평가",
+      "link": "https://www.yna.co.kr/view/AKR20260609070800003",
+      "pubDate": "Wed, 10 Jun 2026 06:35:00 +0900"
+    },
     {
       "title": "BTS공연 앞둔 부산에 '바가지 상술' 민원 폭증…'숙박' 최다",
       "link": "https://www.yna.co.kr/view/AKR20260609150100030",
@@ -132,26 +152,6 @@
       "title": "환율 안정에 국고채 금리 일제히 하락…3년물 연 3.856%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260609144951008",
       "pubDate": "Tue, 9 Jun 2026 17:18:21 +0900"
-    },
-    {
-      "title": "대전상의, 충남대 학생 위한 '천원의 식사' 지원 캠페인 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260609151000063",
-      "pubDate": "Tue, 9 Jun 2026 17:15:47 +0900"
-    },
-    {
-      "title": "해양진흥공사, 해운·항만·물류 서밋…\"해양산업 AI 전환 선도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260609150300051",
-      "pubDate": "Tue, 9 Jun 2026 17:06:46 +0900"
-    },
-    {
-      "title": "[부고] 최용석(골든블루 부회장)씨 장인상",
-      "link": "https://www.yna.co.kr/view/AKR20260609147400030",
-      "pubDate": "Tue, 9 Jun 2026 16:54:49 +0900"
-    },
-    {
-      "title": "한국·ILO, 개도국 '양질의일자리' 협력 강화…3년 166억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260609146400530",
-      "pubDate": "Tue, 9 Jun 2026 16:50:05 +0900"
     }
   ]
 }
