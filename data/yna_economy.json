@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781024772,
+  "updated_at_unix": 1781033469,
   "items": [
+    {
+      "title": "달러-원, 증시 급락에 위험 회피 반영…1,532.70원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260610004900002",
+      "pubDate": "Wed, 10 Jun 2026 03:46:31 +0900"
+    },
     {
       "title": "美에너지장관 \"호르무즈 통과 선박 매우 의미있게 증가 중\"",
       "link": "https://www.yna.co.kr/view/AKR20260610000800071",
@@ -146,11 +151,6 @@
     {
       "title": "CJ제일제당, '햇반 저단백밥' 지원 성인 희귀질환자까지 확대",
       "link": "https://www.yna.co.kr/view/AKR20260609123500030",
-      "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
-    },
-    {
-      "title": "청년·지역인재 뽑는 기업에 보조금·금리 우대…재정지원 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260609117100002",
       "pubDate": "Tue, 9 Jun 2026 16:00:03 +0900"
     }
   ]
