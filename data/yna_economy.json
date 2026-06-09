@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781005966,
+  "updated_at_unix": 1781014652,
   "items": [
+    {
+      "title": "신안산선 공사 현장서 30대 하청 노동자 추락사…노동부 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260609174400530",
+      "pubDate": "Tue, 9 Jun 2026 23:09:09 +0900"
+    },
+    {
+      "title": "호남·충청권에 삼성전자·SK하이닉스 반도체 신규투자안 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260609170700003",
+      "pubDate": "Tue, 9 Jun 2026 22:06:03 +0900"
+    },
+    {
+      "title": "이억원 \"ACGA, 이례적 감사서한…韓자본시장 개혁성과 인정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260609171200002",
+      "pubDate": "Tue, 9 Jun 2026 21:39:33 +0900"
+    },
     {
       "title": "IBK투자증권 신임 대표이사에 최광진 부사장 내정",
       "link": "https://www.yna.co.kr/view/AKR20260609163600008",
@@ -137,21 +152,6 @@
       "title": "신혼부부 공공임대·미래적금 문턱 낮춘다…'결혼 페널티' 손질",
       "link": "https://www.yna.co.kr/view/AKR20260609127200002",
       "pubDate": "Tue, 9 Jun 2026 16:00:02 +0900"
-    },
-    {
-      "title": "배달기사 등 최저임금 적용에…\"자영업자라 불가\" vs \"근거충분\"",
-      "link": "https://www.yna.co.kr/view/AKR20260609133500530",
-      "pubDate": "Tue, 9 Jun 2026 15:58:22 +0900"
-    },
-    {
-      "title": "원/달러 환율 20원 넘게 하락…장중 1,510원 밑으로",
-      "link": "https://www.yna.co.kr/view/AKR20260609130600002",
-      "pubDate": "Tue, 9 Jun 2026 15:58:06 +0900"
-    },
-    {
-      "title": "급등락에 '한국형 공포지수' 19%↑…사상 최고치 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609075151008",
-      "pubDate": "Tue, 9 Jun 2026 15:55:35 +0900"
     }
   ]
 }
