@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781093507,
+  "updated_at_unix": 1781107889,
   "items": [
+    {
+      "title": "한-EU, 디지털 통상협정 체결…'디지털 교역' 기반 대폭 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260610169100001",
+      "pubDate": "Thu, 11 Jun 2026 00:17:26 +0900"
+    },
+    {
+      "title": "캐나다, 기준금리 2.25%로 동결…\"통화정책 딜레마 상황\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610178100072",
+      "pubDate": "Wed, 10 Jun 2026 23:08:17 +0900"
+    },
+    {
+      "title": "김영훈, ILO 총회서 \"AI의 과실, 원청·협력사·지역이 나눠야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610157500530",
+      "pubDate": "Wed, 10 Jun 2026 22:30:00 +0900"
+    },
     {
       "title": "광주대표도서관 붕괴사고, '부실 시공'이 부른 인재",
       "link": "https://www.yna.co.kr/view/AKR20260610171700054",
@@ -137,21 +152,6 @@
       "title": "'외국인 팔자' 환율 1,520원대…로이터 \"스페이스X 달러수요 끝\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260610132951002",
       "pubDate": "Wed, 10 Jun 2026 16:41:09 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승 …3년물 연 3.881%",
-      "link": "https://www.yna.co.kr/view/AKR20260610145300008",
-      "pubDate": "Wed, 10 Jun 2026 16:41:02 +0900"
-    },
-    {
-      "title": "소비자단체 \"영수증 원산지표시 완화 반대…양심 업체만 손해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260610140000030",
-      "pubDate": "Wed, 10 Jun 2026 16:37:30 +0900"
-    },
-    {
-      "title": "청년 구직자에게 알짜 정보…'롯데 잡 카페 인 부산' 성료",
-      "link": "https://www.yna.co.kr/view/AKR20260610107300051",
-      "pubDate": "Wed, 10 Jun 2026 16:32:53 +0900"
     }
   ]
 }
