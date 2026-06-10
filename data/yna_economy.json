@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781117097,
+  "updated_at_unix": 1781126478,
   "items": [
+    {
+      "title": "\"국내 10만개 포화\"…저가 커피, 동남아 넘어 미국·일본 진출",
+      "link": "https://www.yna.co.kr/view/AKR20260610153000030",
+      "pubDate": "Thu, 11 Jun 2026 06:15:01 +0900"
+    },
+    {
+      "title": "부정수급 국민연금 환수때 고율 이자…전기·수도사용량도 확인",
+      "link": "https://www.yna.co.kr/view/AKR20260610098400530",
+      "pubDate": "Thu, 11 Jun 2026 06:11:00 +0900"
+    },
+    {
+      "title": "공동주택 공시가격 이의신청 6천66건…작년의 2.5배",
+      "link": "https://www.yna.co.kr/view/AKR20260610151000003",
+      "pubDate": "Thu, 11 Jun 2026 06:05:01 +0900"
+    },
+    {
+      "title": "'18년 사업 지연' 파주 법원1 산업단지 착공 내년으로",
+      "link": "https://www.yna.co.kr/view/AKR20260610133100060",
+      "pubDate": "Thu, 11 Jun 2026 06:00:10 +0900"
+    },
+    {
+      "title": "국가인증감리제 도로·교통분야로 확대…올해 200명 이내 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260610119200003",
+      "pubDate": "Thu, 11 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "국토부, 서초 서리풀2 공공주택 지구 지정…2천가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260610120300003",
+      "pubDate": "Thu, 11 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "중기부, 벨기에와 중소기업 양해각서 체결…\"유럽 교두보 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610139500030",
+      "pubDate": "Thu, 11 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "5월 서울시 아파트 토지거래허가 신청 6천87건…전월보다 32%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260610147900004",
+      "pubDate": "Thu, 11 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "택배·배달기사 등 최저임금 적용 노사 공방 계속…표결 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260610148400530",
+      "pubDate": "Thu, 11 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "경제인협회, 미국 의회 자선야구대회 후원…한국기업 기여 홍보",
+      "link": "https://www.yna.co.kr/view/AKR20260610156300003",
+      "pubDate": "Thu, 11 Jun 2026 06:00:03 +0900"
+    },
+    {
+      "title": "미·이란 긴장 재고조에 국제유가 상승…WTI 2.1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260611006700072",
+      "pubDate": "Thu, 11 Jun 2026 04:56:32 +0900"
+    },
+    {
+      "title": "美 검찰, 2021년 트럼프 계좌 폐쇄한 주요 은행 수사",
+      "link": "https://www.yna.co.kr/view/AKR20260611005900072",
+      "pubDate": "Thu, 11 Jun 2026 04:36:16 +0900"
+    },
+    {
+      "title": "달러-원, 예상 부합 CPI에 상승분 일부 반납…1,520.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260611005300002",
+      "pubDate": "Thu, 11 Jun 2026 03:53:53 +0900"
+    },
     {
       "title": "한-EU, 디지털 통상협정 체결…'디지털 교역' 기반 대폭 확장",
       "link": "https://www.yna.co.kr/view/AKR20260610169100001",
@@ -87,71 +152,6 @@
       "title": "통신학회 \"AI 3대 강국 목표, 5G·차세대망 투자 확대해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260610129701017",
       "pubDate": "Wed, 10 Jun 2026 17:22:44 +0900"
-    },
-    {
-      "title": "\"상장 당일 매매 어려워\"…미래에셋, 스페이스X 청약 철회권 부여",
-      "link": "https://www.yna.co.kr/view/AKR20260610141700008",
-      "pubDate": "Wed, 10 Jun 2026 17:08:13 +0900"
-    },
-    {
-      "title": "AI로 교통관제·해양쓰레기 수거…공공기관 혁신프로젝트 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260610128400002",
-      "pubDate": "Wed, 10 Jun 2026 17:00:03 +0900"
-    },
-    {
-      "title": "농식품부·농협·한우협회, 축사 지붕 추락사고 예방 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260610128600030",
-      "pubDate": "Wed, 10 Jun 2026 17:00:02 +0900"
-    },
-    {
-      "title": "풍전약품, 20억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260610147800008",
-      "pubDate": "Wed, 10 Jun 2026 16:58:35 +0900"
-    },
-    {
-      "title": "세아제강 \"계열사 세아윈드 주식 711억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260610148200008",
-      "pubDate": "Wed, 10 Jun 2026 16:57:54 +0900"
-    },
-    {
-      "title": "'중동 긴장 재고조'에 국고채 금리 상승…3년물 연 3.881%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260610145351008",
-      "pubDate": "Wed, 10 Jun 2026 16:57:21 +0900"
-    },
-    {
-      "title": "인제군 외국인 계절근로자 705명 입국 완료…일손 부족 해결",
-      "link": "https://www.yna.co.kr/view/AKR20260610148300062",
-      "pubDate": "Wed, 10 Jun 2026 16:57:13 +0900"
-    },
-    {
-      "title": "이동 불편 줄이고 생산성 높이고…정선군, 계절근로자 숙소 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260610145800062",
-      "pubDate": "Wed, 10 Jun 2026 16:50:50 +0900"
-    },
-    {
-      "title": "비스토스, 35억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260610139300008",
-      "pubDate": "Wed, 10 Jun 2026 16:50:40 +0900"
-    },
-    {
-      "title": "하이딥, 65억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260610137300008",
-      "pubDate": "Wed, 10 Jun 2026 16:49:59 +0900"
-    },
-    {
-      "title": "GGM, 품질분임조경진대회 4개 참가팀 우수상 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260610145500054",
-      "pubDate": "Wed, 10 Jun 2026 16:44:49 +0900"
-    },
-    {
-      "title": "환율급등 속 투기의심 外銀검사…\"무역업계 4천억원대 불법거래\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260610033051002",
-      "pubDate": "Wed, 10 Jun 2026 16:42:08 +0900"
-    },
-    {
-      "title": "'외국인 팔자' 환율 1,520원대…로이터 \"스페이스X 달러수요 끝\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260610132951002",
-      "pubDate": "Wed, 10 Jun 2026 16:41:09 +0900"
     }
   ]
 }
