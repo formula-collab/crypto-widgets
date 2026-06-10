@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781126478,
+  "updated_at_unix": 1781132562,
   "items": [
+    {
+      "title": "[마켓뷰] 중동긴장 고조속 불안한 투심…변동성 장세 지속 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260611020700008",
+      "pubDate": "Thu, 11 Jun 2026 07:48:45 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260611017200011",
+      "pubDate": "Thu, 11 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "종묘앞 세운4구역, 서울시 안전영향평가 통과…종로구 인가 남아",
+      "link": "https://www.yna.co.kr/view/AKR20260611016700004",
+      "pubDate": "Thu, 11 Jun 2026 07:15:05 +0900"
+    },
+    {
+      "title": "1분만에 예약취소해도 '환불 불가'…충북 캠핑장 60곳 실태 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260610140200064",
+      "pubDate": "Thu, 11 Jun 2026 07:11:02 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 알고보면(17) 지도 위 아프리카와 도로 위 아프리카",
+      "link": "https://www.yna.co.kr/view/AKR20260608084100898",
+      "pubDate": "Thu, 11 Jun 2026 07:00:05 +0900"
+    },
     {
       "title": "\"국내 10만개 포화\"…저가 커피, 동남아 넘어 미국·일본 진출",
       "link": "https://www.yna.co.kr/view/AKR20260610153000030",
@@ -127,31 +152,6 @@
       "title": "[포항소식] 시장직 인수위, 시민 제안 코너 마련",
       "link": "https://www.yna.co.kr/view/AKR20260610156400053",
       "pubDate": "Wed, 10 Jun 2026 17:52:57 +0900"
-    },
-    {
-      "title": "대한상의 신임 상근부회장에 유정열 전 코트라 사장 유력",
-      "link": "https://www.yna.co.kr/view/AKR20260610157700003",
-      "pubDate": "Wed, 10 Jun 2026 17:51:47 +0900"
-    },
-    {
-      "title": "[경주소식] 경주 방문객 1∼4월 8.2% 증가…1천627만명 찾아",
-      "link": "https://www.yna.co.kr/view/AKR20260610155400053",
-      "pubDate": "Wed, 10 Jun 2026 17:37:51 +0900"
-    },
-    {
-      "title": "건설협회 \"내년 SOC 예산 30조 이상 편성해야…경기회복 마중물\"",
-      "link": "https://www.yna.co.kr/view/AKR20260610144800003",
-      "pubDate": "Wed, 10 Jun 2026 17:34:51 +0900"
-    },
-    {
-      "title": "경총 손경식 \"무리한 성과급 요구 기업 장기 성장동력 저해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260610137500003",
-      "pubDate": "Wed, 10 Jun 2026 17:30:00 +0900"
-    },
-    {
-      "title": "통신학회 \"AI 3대 강국 목표, 5G·차세대망 투자 확대해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260610129701017",
-      "pubDate": "Wed, 10 Jun 2026 17:22:44 +0900"
     }
   ]
 }
