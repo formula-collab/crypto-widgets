@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781045766,
+  "updated_at_unix": 1781049890,
   "items": [
+    {
+      "title": "[외환] 원/달러 환율 12.9원 오른 1,525.0원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260610036000002",
+      "pubDate": "Wed, 10 Jun 2026 09:00:21 +0900"
+    },
+    {
+      "title": "환율급등 이면에 투기·시장교란 있었나…오늘부터 外銀 등 검사",
+      "link": "https://www.yna.co.kr/view/AKR20260610033000002",
+      "pubDate": "Wed, 10 Jun 2026 09:00:01 +0900"
+    },
+    {
+      "title": "대웅개발, 단기 시니어 레지던스 사업 진출",
+      "link": "https://www.yna.co.kr/view/AKR20260610032900017",
+      "pubDate": "Wed, 10 Jun 2026 08:59:11 +0900"
+    },
+    {
+      "title": "동원산업, 냉동 없는 국산 생참치회 유통 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260610029200030",
+      "pubDate": "Wed, 10 Jun 2026 08:58:34 +0900"
+    },
+    {
+      "title": "인천시, 기술전환 중소기업에 총 95억원 규모 저금리 대출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260610033300065",
+      "pubDate": "Wed, 10 Jun 2026 08:57:39 +0900"
+    },
+    {
+      "title": "KB운용 \"네트워크인프라 ETF 순자산 1조 돌파…1년 수익률 559%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610032300008",
+      "pubDate": "Wed, 10 Jun 2026 08:50:00 +0900"
+    },
+    {
+      "title": "한투證 \"미래에셋證, 스페이스X로 순이익↑…투자의견은 '중립'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610031600008",
+      "pubDate": "Wed, 10 Jun 2026 08:49:50 +0900"
+    },
+    {
+      "title": "베트남 롱탄 물류센터 개발사업 착공…해외인프라공사 투자 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260610031400003",
+      "pubDate": "Wed, 10 Jun 2026 08:48:36 +0900"
+    },
+    {
+      "title": "키움증권, '증시 활황·관광객 증가'에 백화점 3사 목표가 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260610029600008",
+      "pubDate": "Wed, 10 Jun 2026 08:40:25 +0900"
+    },
+    {
+      "title": "NH투자 \"티에프이, AI 서버 시대 테스트 증가 수혜 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610029800008",
+      "pubDate": "Wed, 10 Jun 2026 08:38:14 +0900"
+    },
+    {
+      "title": "KB證 \"삼성전자, 中 CXMT 상장 계기로 경쟁력 재평가될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610028500008",
+      "pubDate": "Wed, 10 Jun 2026 08:37:17 +0900"
+    },
+    {
+      "title": "대신증권 \"삼성전기, AI패러다임 최대 수혜…목표가 240만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610027700008",
+      "pubDate": "Wed, 10 Jun 2026 08:29:51 +0900"
+    },
+    {
+      "title": "IBK투자, 현대건설 CB 발행에 \"주주가치 훼손 우려 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260610026300008",
+      "pubDate": "Wed, 10 Jun 2026 08:24:43 +0900"
+    },
+    {
+      "title": "LH, 지역활력타운 추진 지자체에 무상 컨설팅",
+      "link": "https://www.yna.co.kr/view/AKR20260610025900003",
+      "pubDate": "Wed, 10 Jun 2026 08:16:40 +0900"
+    },
+    {
+      "title": "벡스코 제3전시장 수주전 기술 제안평가서 HJ중공업 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260610024600051",
+      "pubDate": "Wed, 10 Jun 2026 08:13:49 +0900"
+    },
+    {
+      "title": "[마켓뷰] 급등락속 '8천피' 되찾은 코스피, 역대급 변동성 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260610022000008",
+      "pubDate": "Wed, 10 Jun 2026 07:59:41 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260610015700011",
@@ -72,86 +152,6 @@
       "title": "일하는 할머니·할아버지 늘었다…70세 이상 취업자 200만 시대",
       "link": "https://www.yna.co.kr/view/AKR20260609154000002",
       "pubDate": "Wed, 10 Jun 2026 05:53:00 +0900"
-    },
-    {
-      "title": "코스피 조정에 개미 '빚투'…이틀간 마통 6천억 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260609161700002",
-      "pubDate": "Wed, 10 Jun 2026 05:51:01 +0900"
-    },
-    {
-      "title": "국제유가, 중동긴장 완화 조짐에 급락…WTI 3.4%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260610006100072",
-      "pubDate": "Wed, 10 Jun 2026 04:41:40 +0900"
-    },
-    {
-      "title": "달러-원, 증시 급락에 위험 회피 반영…1,532.70원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260610004900002",
-      "pubDate": "Wed, 10 Jun 2026 03:46:31 +0900"
-    },
-    {
-      "title": "美에너지장관 \"호르무즈 통과 선박 매우 의미있게 증가 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260610000800071",
-      "pubDate": "Wed, 10 Jun 2026 00:28:21 +0900"
-    },
-    {
-      "title": "신안산선 공사 현장서 30대 하청 노동자 추락사…노동부 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260609174400530",
-      "pubDate": "Tue, 9 Jun 2026 23:09:09 +0900"
-    },
-    {
-      "title": "호남·충청권에 삼성전자·SK하이닉스 반도체 신규투자안 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260609170700003",
-      "pubDate": "Tue, 9 Jun 2026 22:06:03 +0900"
-    },
-    {
-      "title": "이억원 \"ACGA, 이례적 감사서한…韓자본시장 개혁성과 인정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260609171200002",
-      "pubDate": "Tue, 9 Jun 2026 21:39:33 +0900"
-    },
-    {
-      "title": "IBK투자증권 신임 대표이사에 최광진 부사장 내정",
-      "link": "https://www.yna.co.kr/view/AKR20260609163600008",
-      "pubDate": "Tue, 9 Jun 2026 18:58:07 +0900"
-    },
-    {
-      "title": "현대건설 5천억원 규모 전환사채 발행…\"에너지 시장 선제 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260609162600003",
-      "pubDate": "Tue, 9 Jun 2026 18:56:41 +0900"
-    },
-    {
-      "title": "배달기사 등 최저임금 적용에…\"자영업자라 불가\" vs \"근거충분\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609133551530",
-      "pubDate": "Tue, 9 Jun 2026 18:54:47 +0900"
-    },
-    {
-      "title": "카카오뱅크, 글로벌본부장에 김우주 전 기아 전무 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260609162300002",
-      "pubDate": "Tue, 9 Jun 2026 18:42:26 +0900"
-    },
-    {
-      "title": "CSA 코스믹, 150억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260609157300008",
-      "pubDate": "Tue, 9 Jun 2026 18:33:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260609152300011",
-      "pubDate": "Tue, 9 Jun 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[포항소식] 대잠동 일대 재개발…아파트 556가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260609155600053",
-      "pubDate": "Tue, 9 Jun 2026 17:45:45 +0900"
-    },
-    {
-      "title": "레미콘노조 휴업 이틀째…수도권 현장 70곳 콘크리트 타설 차질",
-      "link": "https://www.yna.co.kr/view/AKR20260609154400003",
-      "pubDate": "Tue, 9 Jun 2026 17:41:34 +0900"
-    },
-    {
-      "title": "환율 안정에 국고채 금리 일제히 하락…3년물 연 3.856%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260609144951008",
-      "pubDate": "Tue, 9 Jun 2026 17:18:21 +0900"
     }
   ]
 }
