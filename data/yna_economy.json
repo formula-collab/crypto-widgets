@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781201608,
+  "updated_at_unix": 1781210399,
   "items": [
+    {
+      "title": "광주대표도서관 붕괴사고 6개월 만에 주요 피의자 4명 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260612010400054",
+      "pubDate": "Fri, 12 Jun 2026 05:19:01 +0900"
+    },
+    {
+      "title": "국제유가, 트럼프 '이란공습 취소'에 급락…브렌트유 2.9%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260612008300072",
+      "pubDate": "Fri, 12 Jun 2026 04:38:02 +0900"
+    },
+    {
+      "title": "달러-원, 뜨거운 PPI에 상방 압력 강해져…1,531.60원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260612006900002",
+      "pubDate": "Fri, 12 Jun 2026 03:50:08 +0900"
+    },
     {
       "title": "ECB, 3년만에 금리 인상…이란전쟁 후 주요국 중 처음(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260611171153082",
@@ -137,21 +152,6 @@
       "title": "재경차관, '한-중앙아 경제협력 전문가 간담회' 개최",
       "link": "https://www.yna.co.kr/view/AKR20260611132300002",
       "pubDate": "Thu, 11 Jun 2026 17:00:00 +0900"
-    },
-    {
-      "title": "중동 긴장 재고조에 국고채 일제히 상승…3년물 연 3.904%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260611143651008",
-      "pubDate": "Thu, 11 Jun 2026 16:56:26 +0900"
-    },
-    {
-      "title": "[게시판] 국조실, 개발협력 분야 국제기구 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260611143500001",
-      "pubDate": "Thu, 11 Jun 2026 16:48:47 +0900"
-    },
-    {
-      "title": "대구 아파트 매매가 132주만에 상승…전주 대비 0.01％ 올라",
-      "link": "https://www.yna.co.kr/view/AKR20260611143300053",
-      "pubDate": "Thu, 11 Jun 2026 16:43:23 +0900"
     }
   ]
 }
