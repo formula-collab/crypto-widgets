@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781176562,
+  "updated_at_unix": 1781189974,
   "items": [
+    {
+      "title": "ECB, 3년만에 금리 인상…이란전쟁 후 주요국 중 처음(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260611171153082",
+      "pubDate": "Thu, 11 Jun 2026 23:20:48 +0900"
+    },
+    {
+      "title": "서울시, 'GTX 삼성역 철근누락' 현대건설 등에 벌점 부과 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260611169800004",
+      "pubDate": "Thu, 11 Jun 2026 20:55:21 +0900"
+    },
+    {
+      "title": "LG엔솔, 중국 신왕다와 특허전 승리…라이선스 계약으로 종지부",
+      "link": "https://www.yna.co.kr/view/AKR20260611167700003",
+      "pubDate": "Thu, 11 Jun 2026 20:10:14 +0900"
+    },
     {
       "title": "택배·배달기사 최저임금 적용 불발…찬성 11표·반대 15표 부결(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260611162652530",
@@ -137,21 +152,6 @@
       "title": "대구 아파트 매매가 132주만에 상승…전주 대비 0.01％ 올라",
       "link": "https://www.yna.co.kr/view/AKR20260611143300053",
       "pubDate": "Thu, 11 Jun 2026 16:43:23 +0900"
-    },
-    {
-      "title": "공정위, 고려아연 '해외 계열사 순환출자' 제재 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260611143000002",
-      "pubDate": "Thu, 11 Jun 2026 16:41:24 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.904%",
-      "link": "https://www.yna.co.kr/view/AKR20260611143600008",
-      "pubDate": "Thu, 11 Jun 2026 16:41:02 +0900"
-    },
-    {
-      "title": "[특징주] 코스피 상승 전환에 증권주 낙폭 줄인 채 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260611053351008",
-      "pubDate": "Thu, 11 Jun 2026 16:40:20 +0900"
     }
   ]
 }
