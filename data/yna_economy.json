@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781257154,
+  "updated_at_unix": 1781268438,
   "items": [
+    {
+      "title": "\"인니 중앙은행, 루피아화 방어 위해 은행 외환거래 감시 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260612162400084",
+      "pubDate": "Fri, 12 Jun 2026 19:49:26 +0900"
+    },
+    {
+      "title": "미래에셋증권 스페이스X 공모물량 확정…4천750억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260612162000008",
+      "pubDate": "Fri, 12 Jun 2026 19:44:26 +0900"
+    },
+    {
+      "title": "레미콘 휴업 장기화 조짐…건설현장 117곳 콘크리트 타설 차질(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260612101451003",
+      "pubDate": "Fri, 12 Jun 2026 18:55:26 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260612145400011",
@@ -44,7 +59,7 @@
       "pubDate": "Fri, 12 Jun 2026 16:55:08 +0900"
     },
     {
-      "title": "'K-문샷' 출발부터 삐걱…AI과학자 PD 결국 사의(종합)",
+      "title": "'K-문샷' 출발부터 인사 공백…AI과학자 PD 결국 사의(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260612120051017",
       "pubDate": "Fri, 12 Jun 2026 16:47:06 +0900"
     },
@@ -137,21 +152,6 @@
       "title": "[외환] 원/달러 환율 9.1원 내린 1,519.8원(15:30 종가)",
       "link": "https://www.yna.co.kr/view/AKR20260612117900002",
       "pubDate": "Fri, 12 Jun 2026 15:35:20 +0900"
-    },
-    {
-      "title": "[속보] 코스피, '8천피 탈환' 8,123…'천스닥'도 회복",
-      "link": "https://www.yna.co.kr/view/AKR20260612118600008",
-      "pubDate": "Fri, 12 Jun 2026 15:35:04 +0900"
-    },
-    {
-      "title": "한양대 부트캠프 찾은 구윤철 \"청년 체감 고용여건 조속히 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260612091000002",
-      "pubDate": "Fri, 12 Jun 2026 15:30:01 +0900"
-    },
-    {
-      "title": "[게시판] 국가데이터특별분과 회의 개최…부처 간 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260612115500002",
-      "pubDate": "Fri, 12 Jun 2026 15:30:00 +0900"
     }
   ]
 }
