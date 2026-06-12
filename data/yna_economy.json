@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781268438,
+  "updated_at_unix": 1781280635,
   "items": [
+    {
+      "title": "中 5월 신규 대출 예상치 밑돌아…부동산 침체 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260612167200083",
+      "pubDate": "Fri, 12 Jun 2026 22:42:02 +0900"
+    },
     {
       "title": "\"인니 중앙은행, 루피아화 방어 위해 은행 외환거래 감시 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260612162400084",
@@ -147,11 +152,6 @@
       "title": "장기 표류 우려 속 대구법원청사 연호지구 이전사업 재심의 통과",
       "link": "https://www.yna.co.kr/view/AKR20260612099900053",
       "pubDate": "Fri, 12 Jun 2026 15:35:24 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 9.1원 내린 1,519.8원(15:30 종가)",
-      "link": "https://www.yna.co.kr/view/AKR20260612117900002",
-      "pubDate": "Fri, 12 Jun 2026 15:35:20 +0900"
     }
   ]
 }
