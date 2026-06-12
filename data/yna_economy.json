@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781302603,
+  "updated_at_unix": 1781308631,
   "items": [
+    {
+      "title": "부산시, 시금고 지정 공정성 강화…심사위원 과반을 민간에",
+      "link": "https://www.yna.co.kr/view/AKR20260612116400051",
+      "pubDate": "Sat, 13 Jun 2026 08:30:04 +0900"
+    },
+    {
+      "title": "[다음주 경제] 5월 수출입·생산자물가 얼마나 뛰었나",
+      "link": "https://www.yna.co.kr/view/AKR20260612168000002",
+      "pubDate": "Sat, 13 Jun 2026 08:10:20 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 유한양행 100년…'렉라자 신화' 넘어 글로벌 톱50 도전",
+      "link": "https://www.yna.co.kr/view/AKR20260612115700017",
+      "pubDate": "Sat, 13 Jun 2026 08:10:01 +0900"
+    },
     {
       "title": "주유소 기름값 4주 연속 하락…전국 평균 휘발윳값 2천9원대",
       "link": "https://www.yna.co.kr/view/AKR20260612107400003",
@@ -137,21 +152,6 @@
       "title": "코스피, 4.6%↑ 8,100 탈환…'순매수 전환' 외국인 지수 견인(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260612119551008",
       "pubDate": "Fri, 12 Jun 2026 16:22:13 +0900"
-    },
-    {
-      "title": "iM뱅크, 창립 정신 되새긴다…고 김준성 초대 행장 흉상 전시",
-      "link": "https://www.yna.co.kr/view/AKR20260612123700053",
-      "pubDate": "Fri, 12 Jun 2026 16:21:38 +0900"
-    },
-    {
-      "title": "AI 국가난제 해결 'K-문샷' 이민형 PD 사의 의사 밝혀",
-      "link": "https://www.yna.co.kr/view/AKR20260612120000017",
-      "pubDate": "Fri, 12 Jun 2026 16:15:09 +0900"
-    },
-    {
-      "title": "한우협회 \"농협, 사료가 7.9% 인상 통보…즉각 철회해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260612126700030",
-      "pubDate": "Fri, 12 Jun 2026 16:06:36 +0900"
     }
   ]
 }
