@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781288475,
+  "updated_at_unix": 1781296292,
   "items": [
+    {
+      "title": "미·이란 합의 기대로 유가 3%대↓…브렌트유 3월5일 이후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260613007400072",
+      "pubDate": "Sat, 13 Jun 2026 04:56:57 +0900"
+    },
+    {
+      "title": "달러-원, 종전 합의 임박했다고 보는 분위기…1,518.30원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260613005900002",
+      "pubDate": "Sat, 13 Jun 2026 04:04:42 +0900"
+    },
+    {
+      "title": "한경협 회장 \"韓-伊 세계 뻗어가길\"…이재용 \"더 열심히 해야죠\"",
+      "link": "https://www.yna.co.kr/view/AKR20260613003800001",
+      "pubDate": "Sat, 13 Jun 2026 03:50:05 +0900"
+    },
     {
       "title": "中 5월 신규 대출 예상치 밑돌아…부동산 침체 여파",
       "link": "https://www.yna.co.kr/view/AKR20260612167200083",
@@ -137,21 +152,6 @@
       "title": "주식 순매수한 외국인·종전 기대감…환율 사흘 만에 1,510원대",
       "link": "https://www.yna.co.kr/view/AKR20260612121300002",
       "pubDate": "Fri, 12 Jun 2026 15:55:53 +0900"
-    },
-    {
-      "title": "코스피, '8천피 탈환' 8,123…'천스닥'도 회복",
-      "link": "https://www.yna.co.kr/view/AKR20260612119500008",
-      "pubDate": "Fri, 12 Jun 2026 15:39:22 +0900"
-    },
-    {
-      "title": "외국환시세(6월12일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260612119200002",
-      "pubDate": "Fri, 12 Jun 2026 15:35:32 +0900"
-    },
-    {
-      "title": "장기 표류 우려 속 대구법원청사 연호지구 이전사업 재심의 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260612099900053",
-      "pubDate": "Fri, 12 Jun 2026 15:35:24 +0900"
     }
   ]
 }
