@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781390024,
+  "updated_at_unix": 1781394977,
   "items": [
+    {
+      "title": "창원시, 여름방학 대학생 알바 모집…공공분야 일 경험 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260612132800052",
+      "pubDate": "Sun, 14 Jun 2026 08:35:01 +0900"
+    },
+    {
+      "title": "부산 도심 복합개발 대상지 확대…역세권 준주거지 포함",
+      "link": "https://www.yna.co.kr/view/AKR20260612125600051",
+      "pubDate": "Sun, 14 Jun 2026 08:00:08 +0900"
+    },
+    {
+      "title": "바이오USA 집결하는 K바이오…기술수출·수주 총력전",
+      "link": "https://www.yna.co.kr/view/AKR20260612027200017",
+      "pubDate": "Sun, 14 Jun 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[율곡로] 환율 1500원대 고착화 경계해야",
+      "link": "https://www.yna.co.kr/view/AKR20260612156000546",
+      "pubDate": "Sun, 14 Jun 2026 08:00:05 +0900"
+    },
+    {
+      "title": "소외당하던 코스닥, '천스닥' 회복…'상승 탄력' 과제는",
+      "link": "https://www.yna.co.kr/view/AKR20260613041000008",
+      "pubDate": "Sun, 14 Jun 2026 07:30:00 +0900"
+    },
     {
       "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
       "link": "https://www.yna.co.kr/view/AKR20260612159800008",
@@ -127,31 +152,6 @@
       "title": "규제지역 집있는데 전세대출 4.9조 '집중타깃'…보증제한해 죈다",
       "link": "https://www.yna.co.kr/view/AKR20260613048500002",
       "pubDate": "Sun, 14 Jun 2026 05:45:00 +0900"
-    },
-    {
-      "title": "미래에셋 '스페이스X 공모주' 한주도 못받았다…전량 삭감돼",
-      "link": "https://www.yna.co.kr/view/AKR20260613028600008",
-      "pubDate": "Sat, 13 Jun 2026 10:35:33 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260613028000011",
-      "pubDate": "Sat, 13 Jun 2026 10:30:01 +0900"
-    },
-    {
-      "title": "부산시, 시금고 지정 공정성 강화…심사위원 과반을 민간에",
-      "link": "https://www.yna.co.kr/view/AKR20260612116400051",
-      "pubDate": "Sat, 13 Jun 2026 08:30:04 +0900"
-    },
-    {
-      "title": "[다음주 경제] 5월 수출입·생산자물가 얼마나 뛰었나",
-      "link": "https://www.yna.co.kr/view/AKR20260612168000002",
-      "pubDate": "Sat, 13 Jun 2026 08:10:20 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 유한양행 100년…'렉라자 신화' 넘어 글로벌 톱50 도전",
-      "link": "https://www.yna.co.kr/view/AKR20260612115700017",
-      "pubDate": "Sat, 13 Jun 2026 08:10:01 +0900"
     }
   ]
 }
