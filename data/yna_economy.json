@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781385139,
+  "updated_at_unix": 1781390024,
   "items": [
+    {
+      "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260612159800008",
+      "pubDate": "Sun, 14 Jun 2026 07:25:00 +0900"
+    },
+    {
+      "title": "롯데바이오 송도 바이오캠퍼스 1공장 준공…사용승인 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260612121500065",
+      "pubDate": "Sun, 14 Jun 2026 07:17:01 +0900"
+    },
+    {
+      "title": "스페이스X 상장에 쏠린 눈…K-우주기업 재평가 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260613024700017",
+      "pubDate": "Sun, 14 Jun 2026 07:13:00 +0900"
+    },
+    {
+      "title": "올 52주 신고가 1천508개, 신저가도 1천763개…양극화·변동성↑",
+      "link": "https://www.yna.co.kr/view/AKR20260613029300008",
+      "pubDate": "Sun, 14 Jun 2026 07:10:01 +0900"
+    },
+    {
+      "title": "[마켓스토리] '수익률 1등' 코스피, MSCI '선진지수 후보'에 다시 오르나",
+      "link": "https://www.yna.co.kr/view/AKR20260613034200008",
+      "pubDate": "Sun, 14 Jun 2026 07:05:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 이란전쟁 악재 끝나나…코스피 반등 지속 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260612169700008",
+      "pubDate": "Sun, 14 Jun 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[반려동물] 매 맞고도 돌아가는 동물들…학대 '악순환' 끊어낼 해법은",
+      "link": "https://www.yna.co.kr/view/AKR20260612171100030",
+      "pubDate": "Sun, 14 Jun 2026 06:50:00 +0900"
+    },
+    {
+      "title": "강남 고속터미널 60층 복합개발 '속도'…\"공공기여 2조원 안팎\"",
+      "link": "https://www.yna.co.kr/view/AKR20260612140600030",
+      "pubDate": "Sun, 14 Jun 2026 06:23:30 +0900"
+    },
+    {
+      "title": "'K의약품' 싹쓸이에 지난달 외국인 의료소비 2천500억 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260613043200030",
+      "pubDate": "Sun, 14 Jun 2026 06:11:11 +0900"
+    },
     {
       "title": "고용보험 '빨간불'…실업급여 역대 최대에 적자 6천억 육박",
       "link": "https://www.yna.co.kr/view/AKR20260612089900530",
@@ -107,51 +152,6 @@
       "title": "[바이오사이언스] 유한양행 100년…'렉라자 신화' 넘어 글로벌 톱50 도전",
       "link": "https://www.yna.co.kr/view/AKR20260612115700017",
       "pubDate": "Sat, 13 Jun 2026 08:10:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 4주 연속 하락…전국 평균 휘발윳값 2천9원대",
-      "link": "https://www.yna.co.kr/view/AKR20260612107400003",
-      "pubDate": "Sat, 13 Jun 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[금주핫템] 프로-스펙스 러닝화·애경산업 윤광 스틱 블러셔",
-      "link": "https://www.yna.co.kr/view/AKR20260612045900030",
-      "pubDate": "Sat, 13 Jun 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[신상잇슈] 오뚜기-신세계푸드 협업 버거 2종·백미당 '쉐이크 빙수'",
-      "link": "https://www.yna.co.kr/view/AKR20260612149900030",
-      "pubDate": "Sat, 13 Jun 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 평택 고덕 우미 린 프레스티지 등 3천606가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260612121000003",
-      "pubDate": "Sat, 13 Jun 2026 06:00:03 +0900"
-    },
-    {
-      "title": "비트코인 한때 6만 달러 밑으로 '뚝'…최고가 대비 반토막",
-      "link": "https://www.yna.co.kr/view/AKR20260612132900002",
-      "pubDate": "Sat, 13 Jun 2026 05:51:00 +0900"
-    },
-    {
-      "title": "미·이란 합의 기대로 유가 3%대↓…브렌트유 3월5일 이후 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260613007400072",
-      "pubDate": "Sat, 13 Jun 2026 04:56:57 +0900"
-    },
-    {
-      "title": "달러-원, 종전 합의 임박했다고 보는 분위기…1,518.30원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260613005900002",
-      "pubDate": "Sat, 13 Jun 2026 04:04:42 +0900"
-    },
-    {
-      "title": "한경협 회장 \"韓-伊 세계 뻗어가길\"…이재용 \"더 열심히 해야죠\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613003800001",
-      "pubDate": "Sat, 13 Jun 2026 03:50:05 +0900"
-    },
-    {
-      "title": "中 5월 신규 대출 예상치 밑돌아…부동산 침체 여파",
-      "link": "https://www.yna.co.kr/view/AKR20260612167200083",
-      "pubDate": "Fri, 12 Jun 2026 22:42:02 +0900"
     }
   ]
 }
