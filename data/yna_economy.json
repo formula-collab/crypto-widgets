@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781467331,
+  "updated_at_unix": 1781473639,
   "items": [
+    {
+      "title": "서울 중하위 신축 국민평형 분양·입주권 18억 '앞으로'",
+      "link": "https://www.yna.co.kr/view/AKR20260614047300003",
+      "pubDate": "Mon, 15 Jun 2026 06:03:00 +0900"
+    },
+    {
+      "title": "[인터뷰] 조상호 \"개발공사 신설해 세종시 개발 제2시행자 역할 구상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260612133600063",
+      "pubDate": "Mon, 15 Jun 2026 06:00:10 +0900"
+    },
+    {
+      "title": "노동부 '공인 현장전문가', 실무형 인재로 육성…전문교육 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260612131100530",
+      "pubDate": "Mon, 15 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "폐업 점포 철거비 지원 부정수급 차단…집배원 현장 확인 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260613031300030",
+      "pubDate": "Mon, 15 Jun 2026 06:00:07 +0900"
+    },
+    {
+      "title": "울산시, 17일 일자리박람회 개최…100개사 590여명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260614030300057",
+      "pubDate": "Mon, 15 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시·국민연금공단, 청년 금융 역량 강화 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260614032800004",
+      "pubDate": "Mon, 15 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "서울시, 상반기 자동차세 2천억원 부과…\"7월 3일까지 내야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260614034300004",
+      "pubDate": "Mon, 15 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "건설현장 안전·품질 높일 기술 찾는다…'스마트건설 챌린지'",
+      "link": "https://www.yna.co.kr/view/AKR20260614007600003",
+      "pubDate": "Mon, 15 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 15일부터 2분기 혁신금융서비스 지정 정기신청",
+      "link": "https://www.yna.co.kr/view/AKR20260614031200002",
+      "pubDate": "Mon, 15 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "여신업계 고금리속 외화조달로 돌파구…김치본드·해외ABS",
+      "link": "https://www.yna.co.kr/view/AKR20260614046000002",
+      "pubDate": "Mon, 15 Jun 2026 05:55:00 +0900"
+    },
+    {
+      "title": "금리급등 속 자영업자 못갚은 빚 올들어 8%↑…고령층 빨간불",
+      "link": "https://www.yna.co.kr/view/AKR20260613047900002",
+      "pubDate": "Mon, 15 Jun 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'고용 버팀목' 상용직 26년5개월만에 첫 감소…2030세대 충격",
+      "link": "https://www.yna.co.kr/view/AKR20260613045900002",
+      "pubDate": "Mon, 15 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "[동포의 창] '이달의 재외동포'에 한국 간호사 獨진출 이끈 이수길 박사",
       "link": "https://www.yna.co.kr/view/AKR20260612128700371",
@@ -92,66 +152,6 @@
       "title": "서울시, 핀테크 아카데미 14기 교육생 80명 모집",
       "link": "https://www.yna.co.kr/view/AKR20260613031700004",
       "pubDate": "Sun, 14 Jun 2026 11:15:03 +0900"
-    },
-    {
-      "title": "국민 눈높이서 사고 예방…'여객선 국민안전감독관' 공개 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260612130700051",
-      "pubDate": "Sun, 14 Jun 2026 11:00:07 +0900"
-    },
-    {
-      "title": "해수부, '연안선박 현대화 펀드' 지원 대상 선사 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260612130900051",
-      "pubDate": "Sun, 14 Jun 2026 11:00:06 +0900"
-    },
-    {
-      "title": "[게시판] 해수부, 해양수산정책 온라인 홍보 전문가 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260612131300051",
-      "pubDate": "Sun, 14 Jun 2026 11:00:05 +0900"
-    },
-    {
-      "title": "AI 훈풍에 ICT 수출 478억달러…사상 최대 기록",
-      "link": "https://www.yna.co.kr/view/AKR20260612147900017",
-      "pubDate": "Sun, 14 Jun 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, 소사육농장 축산물이력 단속…귀표 미부착 시 500만원",
-      "link": "https://www.yna.co.kr/view/AKR20260612154500030",
-      "pubDate": "Sun, 14 Jun 2026 11:00:03 +0900"
-    },
-    {
-      "title": "현대硏 \"관광객 늘어도 1인당 소비 감소…질적 회복 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613050700002",
-      "pubDate": "Sun, 14 Jun 2026 11:00:03 +0900"
-    },
-    {
-      "title": "결혼 후 7년 넘어도 민영주택 신생아 특공 청약 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20260614006100003",
-      "pubDate": "Sun, 14 Jun 2026 11:00:02 +0900"
-    },
-    {
-      "title": "\"은행점포 1곳 늘면 신생기업 29개 증가…물리적 점포 유의미\"",
-      "link": "https://www.yna.co.kr/view/AKR20260614013700003",
-      "pubDate": "Sun, 14 Jun 2026 11:00:02 +0900"
-    },
-    {
-      "title": "유럽 공략하는 K-소비재·의료·방산…코트라 지원 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260614014900003",
-      "pubDate": "Sun, 14 Jun 2026 11:00:01 +0900"
-    },
-    {
-      "title": "현대百, 21일까지 무역센터점서 가구전…7개국 19개업체 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260614020000030",
-      "pubDate": "Sun, 14 Jun 2026 10:41:58 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260614019000011",
-      "pubDate": "Sun, 14 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 현대이지웰, '남녀고용평등 우수기업' 국무총리상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260614017800030",
-      "pubDate": "Sun, 14 Jun 2026 10:06:11 +0900"
     }
   ]
 }
