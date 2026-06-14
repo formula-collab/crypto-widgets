@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781405290,
+  "updated_at_unix": 1781421235,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260614030600011",
+      "pubDate": "Sun, 14 Jun 2026 15:00:00 +0900"
+    },
+    {
+      "title": "호르무즈 봉쇄 후 9번째 한국 유조선 홍해 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260614025700051",
+      "pubDate": "Sun, 14 Jun 2026 12:27:18 +0900"
+    },
+    {
+      "title": "경총, 최저임금 업종별 차등화 요구…\"음식점업, 감당 어려워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260614022900003",
+      "pubDate": "Sun, 14 Jun 2026 12:02:00 +0900"
+    },
+    {
+      "title": "지방 중대재해 예방에 143억 투입…안전난간, 컨설팅비 등 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260612127700530",
+      "pubDate": "Sun, 14 Jun 2026 12:00:21 +0900"
+    },
+    {
+      "title": "중기부, '매출 2억 미만' 소공인도 스마트 제조 장비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260613045100030",
+      "pubDate": "Sun, 14 Jun 2026 12:00:14 +0900"
+    },
+    {
+      "title": "수급업체에 서명 뺀 단가 합의서 준 경동나비엔…공정위 제재",
+      "link": "https://www.yna.co.kr/view/AKR20260612141100002",
+      "pubDate": "Sun, 14 Jun 2026 12:00:13 +0900"
+    },
+    {
+      "title": "재경부 해커톤 대회서 국유재산 관리·알리오 AI 등 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260612155800002",
+      "pubDate": "Sun, 14 Jun 2026 12:00:13 +0900"
+    },
+    {
+      "title": "중기부, 로마서 'K뷰티 글로우 위크'…\"유럽 진출 지원 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260613046300030",
+      "pubDate": "Sun, 14 Jun 2026 12:00:12 +0900"
+    },
+    {
+      "title": "2차 국민참여성장펀드 3분기 출시…6천억 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260613042400002",
+      "pubDate": "Sun, 14 Jun 2026 12:00:06 +0900"
+    },
+    {
+      "title": "금감원, 회계업계 감사보수 덤핑 제동…\"부실감사 즉시 감리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260613043500002",
+      "pubDate": "Sun, 14 Jun 2026 12:00:05 +0900"
+    },
+    {
+      "title": "금감원장 모의해킹훈련 점검…\"사고 발생시 소비자보호 최우선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260613036500002",
+      "pubDate": "Sun, 14 Jun 2026 12:00:03 +0900"
+    },
     {
       "title": "[부고] 김덕수(전 여신금융협회장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260614021500002",
@@ -97,61 +152,6 @@
       "title": "경남교육청, 20일 지방공무원 임용 필기시험…경쟁률 9.2대 1",
       "link": "https://www.yna.co.kr/view/AKR20260612127800052",
       "pubDate": "Sun, 14 Jun 2026 09:03:00 +0900"
-    },
-    {
-      "title": "대법 \"제조업 지식산업센터, 제조시설 갖춘 공장만 취득세 감면\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613035400004",
-      "pubDate": "Sun, 14 Jun 2026 09:00:04 +0900"
-    },
-    {
-      "title": "[게시판] 신한은행 '사랑의 헌혈 나눔' 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260612169900002",
-      "pubDate": "Sun, 14 Jun 2026 09:00:02 +0900"
-    },
-    {
-      "title": "창원시, 여름방학 대학생 알바 모집…공공분야 일 경험 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260612132800052",
-      "pubDate": "Sun, 14 Jun 2026 08:35:01 +0900"
-    },
-    {
-      "title": "부산 도심 복합개발 대상지 확대…역세권 준주거지 포함",
-      "link": "https://www.yna.co.kr/view/AKR20260612125600051",
-      "pubDate": "Sun, 14 Jun 2026 08:00:08 +0900"
-    },
-    {
-      "title": "바이오USA 집결하는 K바이오…기술수출·수주 총력전",
-      "link": "https://www.yna.co.kr/view/AKR20260612027200017",
-      "pubDate": "Sun, 14 Jun 2026 08:00:08 +0900"
-    },
-    {
-      "title": "[율곡로] 환율 1500원대 고착화 경계해야",
-      "link": "https://www.yna.co.kr/view/AKR20260612156000546",
-      "pubDate": "Sun, 14 Jun 2026 08:00:05 +0900"
-    },
-    {
-      "title": "소외당하던 코스닥, '천스닥' 회복…'상승 탄력' 과제는",
-      "link": "https://www.yna.co.kr/view/AKR20260613041000008",
-      "pubDate": "Sun, 14 Jun 2026 07:30:00 +0900"
-    },
-    {
-      "title": "대체로 예상치 부합했던 美물가지표…이제는 케빈 워시 입 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260612159800008",
-      "pubDate": "Sun, 14 Jun 2026 07:25:00 +0900"
-    },
-    {
-      "title": "롯데바이오 송도 바이오캠퍼스 1공장 준공…사용승인 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260612121500065",
-      "pubDate": "Sun, 14 Jun 2026 07:17:01 +0900"
-    },
-    {
-      "title": "스페이스X 상장에 쏠린 눈…K-우주기업 재평가 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260613024700017",
-      "pubDate": "Sun, 14 Jun 2026 07:13:00 +0900"
-    },
-    {
-      "title": "올 52주 신고가 1천508개, 신저가도 1천763개…양극화·변동성↑",
-      "link": "https://www.yna.co.kr/view/AKR20260613029300008",
-      "pubDate": "Sun, 14 Jun 2026 07:10:01 +0900"
     }
   ]
 }
