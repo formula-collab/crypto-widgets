@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781421235,
+  "updated_at_unix": 1781433298,
   "items": [
+    {
+      "title": "스페이스X 공모주 '0주'에 투자자들 '부글부글'…\"배신감\"",
+      "link": "https://www.yna.co.kr/view/AKR20260614044300008",
+      "pubDate": "Sun, 14 Jun 2026 19:08:24 +0900"
+    },
+    {
+      "title": "한미 당국자, 미국서 회동…'원화 약세 대응 공조' 방침 확인",
+      "link": "https://www.yna.co.kr/view/AKR20260614043200002",
+      "pubDate": "Sun, 14 Jun 2026 18:10:01 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260614030600011",
@@ -142,16 +152,6 @@
       "title": "삼성물산, 6천500억원 규모 방배신삼호 재건축 시공사 선정",
       "link": "https://www.yna.co.kr/view/AKR20260614016500003",
       "pubDate": "Sun, 14 Jun 2026 09:47:26 +0900"
-    },
-    {
-      "title": "[월드컵] 체코전 응원에 배민 주문량 급증…작년 동기 대비 65%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260614015400030",
-      "pubDate": "Sun, 14 Jun 2026 09:42:37 +0900"
-    },
-    {
-      "title": "경남교육청, 20일 지방공무원 임용 필기시험…경쟁률 9.2대 1",
-      "link": "https://www.yna.co.kr/view/AKR20260612127800052",
-      "pubDate": "Sun, 14 Jun 2026 09:03:00 +0900"
     }
   ]
 }
