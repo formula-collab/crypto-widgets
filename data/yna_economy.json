@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781473639,
+  "updated_at_unix": 1781477845,
   "items": [
+    {
+      "title": "[팩트체크] 약국 인수하는데 3억6천만원?…권리금이 뭐길래",
+      "link": "https://www.yna.co.kr/view/AKR20260612146800518",
+      "pubDate": "Mon, 15 Jun 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260615015300011",
+      "pubDate": "Mon, 15 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "법원 \"연립주택 '장애인 경사로 미설치'는 하자\"…GS건설 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260614032600004",
+      "pubDate": "Mon, 15 Jun 2026 07:00:01 +0900"
+    },
     {
       "title": "서울 중하위 신축 국민평형 분양·입주권 18억 '앞으로'",
       "link": "https://www.yna.co.kr/view/AKR20260614047300003",
@@ -137,21 +152,6 @@
       "title": "금감원장 모의해킹훈련 점검…\"사고 발생시 소비자보호 최우선\"",
       "link": "https://www.yna.co.kr/view/AKR20260613036500002",
       "pubDate": "Sun, 14 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "[부고] 김덕수(전 여신금융협회장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260614021500002",
-      "pubDate": "Sun, 14 Jun 2026 11:21:09 +0900"
-    },
-    {
-      "title": "대학생 인턴십 '서울영커리언스' 가을학기 75명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260613028900004",
-      "pubDate": "Sun, 14 Jun 2026 11:15:03 +0900"
-    },
-    {
-      "title": "서울시, 핀테크 아카데미 14기 교육생 80명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260613031700004",
-      "pubDate": "Sun, 14 Jun 2026 11:15:03 +0900"
     }
   ]
 }
