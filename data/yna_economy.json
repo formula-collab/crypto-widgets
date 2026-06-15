@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781542306,
+  "updated_at_unix": 1781554748,
   "items": [
+    {
+      "title": "[미·이란 종전] 국제유가 3개월 만에 최저로 하락…브렌트 5%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260616006300072",
+      "pubDate": "Tue, 16 Jun 2026 04:34:46 +0900"
+    },
+    {
+      "title": "달러-원, 이란 종전 합의에도 해소되지 않는 경계심…1,515.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260616005100002",
+      "pubDate": "Tue, 16 Jun 2026 03:50:44 +0900"
+    },
     {
       "title": "광주 중견 건설업체 대표이사 사기 혐의, 경찰 보완수사",
       "link": "https://www.yna.co.kr/view/AKR20260615169200054",
@@ -142,16 +152,6 @@
       "title": "국세청, 가나와 징수공조 협력 논의…K-전자세정도 소개",
       "link": "https://www.yna.co.kr/view/AKR20260615050600002",
       "pubDate": "Mon, 15 Jun 2026 16:00:05 +0900"
-    },
-    {
-      "title": "주병기 \"대리점주 협상력 강화…단체 구성권 입법도 신속하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615058100002",
-      "pubDate": "Mon, 15 Jun 2026 16:00:04 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농촌 빈집 해결은 생존 걸린 현안…정비에 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615113200030",
-      "pubDate": "Mon, 15 Jun 2026 16:00:03 +0900"
     }
   ]
 }
