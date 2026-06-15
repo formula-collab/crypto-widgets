@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781523677,
+  "updated_at_unix": 1781542306,
   "items": [
+    {
+      "title": "광주 중견 건설업체 대표이사 사기 혐의, 경찰 보완수사",
+      "link": "https://www.yna.co.kr/view/AKR20260615169200054",
+      "pubDate": "Mon, 15 Jun 2026 22:49:43 +0900"
+    },
     {
       "title": "JTBC 등 중앙그룹 5개사 회생 신청…중앙일보는 워크아웃 추진(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260615121352004",
@@ -147,11 +152,6 @@
       "title": "송미령 장관 \"농촌 빈집 해결은 생존 걸린 현안…정비에 속도\"",
       "link": "https://www.yna.co.kr/view/AKR20260615113200030",
       "pubDate": "Mon, 15 Jun 2026 16:00:03 +0900"
-    },
-    {
-      "title": "[특징주] 종전합의에 삼전·닉스 급등…'33만전자'·'228만닉스'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615037451008",
-      "pubDate": "Mon, 15 Jun 2026 15:58:48 +0900"
     }
   ]
 }
