@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781554748,
+  "updated_at_unix": 1781562697,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카 외교는 이제 산업정책이다",
+      "link": "https://www.yna.co.kr/view/AKR20260609025600898",
+      "pubDate": "Tue, 16 Jun 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[율곡로] 여전히 관건은 이란 비핵화",
+      "link": "https://www.yna.co.kr/view/AKR20260615152600546",
+      "pubDate": "Tue, 16 Jun 2026 06:55:01 +0900"
+    },
+    {
+      "title": "농관원, 필리핀 공무원에 농산물 안전관리 기술 전수",
+      "link": "https://www.yna.co.kr/view/AKR20260615115600030",
+      "pubDate": "Tue, 16 Jun 2026 06:00:23 +0900"
+    },
+    {
+      "title": "중기부, 인도서 K-파운더 네트워크 포럼…창업가 현지 안착 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260615134200030",
+      "pubDate": "Tue, 16 Jun 2026 06:00:08 +0900"
+    },
+    {
+      "title": "최저임금위 '업종별 차등 적용' 논의 시작…노사 본격 줄다리기",
+      "link": "https://www.yna.co.kr/view/AKR20260615138200530",
+      "pubDate": "Tue, 16 Jun 2026 06:00:07 +0900"
+    },
+    {
+      "title": "중기부·지재처, AI 기반 스마트제조 미래기술 발굴 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260615148900030",
+      "pubDate": "Tue, 16 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "반도체 수요 증가에 5월 수출물가지수 11개월째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260615154300002",
+      "pubDate": "Tue, 16 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "900억원대 코인 환치기한 외국인, 강제퇴거 취소소송 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260615159300002",
+      "pubDate": "Tue, 16 Jun 2026 05:57:00 +0900"
+    },
+    {
+      "title": "중동전의 교훈…\"신재생 키우려면 보조금+인프라 정책조합 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260615154000002",
+      "pubDate": "Tue, 16 Jun 2026 05:55:00 +0900"
+    },
+    {
+      "title": "BTS 부산공연 효과…외국 관광객 전통시장 결제액 2배로",
+      "link": "https://www.yna.co.kr/view/AKR20260615129900002",
+      "pubDate": "Tue, 16 Jun 2026 05:53:01 +0900"
+    },
+    {
+      "title": "신현송 한은 달라진다…금리 메시지 과감하게, 지급결제 힘 실어",
+      "link": "https://www.yna.co.kr/view/AKR20260613035800002",
+      "pubDate": "Tue, 16 Jun 2026 05:51:01 +0900"
+    },
     {
       "title": "[미·이란 종전] 국제유가 3개월 만에 최저로 하락…브렌트 5%↓",
       "link": "https://www.yna.co.kr/view/AKR20260616006300072",
@@ -97,61 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.744%",
       "link": "https://www.yna.co.kr/view/AKR20260615140900008",
       "pubDate": "Mon, 15 Jun 2026 16:40:44 +0900"
-    },
-    {
-      "title": "[미·이란 종전] 전쟁 리스크 해소에 급등…코스피 탄력받나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615072451008",
-      "pubDate": "Mon, 15 Jun 2026 16:35:56 +0900"
-    },
-    {
-      "title": "\"중견기업, 경영환경 급변을 체질개선 기회로 삼아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615039800003",
-      "pubDate": "Mon, 15 Jun 2026 16:30:01 +0900"
-    },
-    {
-      "title": "아시아나항공 \"계열사 에어부산 주식 1천억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615137200008",
-      "pubDate": "Mon, 15 Jun 2026 16:27:44 +0900"
-    },
-    {
-      "title": "'전쟁 먹구름 걷히자' 5.2%↑ 8,500 회복…코스피, 9천피 넘보나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615134500008",
-      "pubDate": "Mon, 15 Jun 2026 16:26:37 +0900"
-    },
-    {
-      "title": "초과세수 어디 쓸까…구윤철 \"미래 대비·양극화 해소 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615133400002",
-      "pubDate": "Mon, 15 Jun 2026 16:12:13 +0900"
-    },
-    {
-      "title": "종전 합의·외국인 1조 순매수에…환율 8.7원 내린 1,511.1원",
-      "link": "https://www.yna.co.kr/view/AKR20260615131500002",
-      "pubDate": "Mon, 15 Jun 2026 16:08:12 +0900"
-    },
-    {
-      "title": "한투부동산신탁, 수원 정자1구역 재건축사업 MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260615129300008",
-      "pubDate": "Mon, 15 Jun 2026 16:05:04 +0900"
-    },
-    {
-      "title": "골드만삭스 '물량 0' 이메일 통보…스페이스X IPO '코리아 패싱' 여진",
-      "link": "https://www.yna.co.kr/view/AKR20260615129000008",
-      "pubDate": "Mon, 15 Jun 2026 16:03:51 +0900"
-    },
-    {
-      "title": "[특징주] '종전 합의·유가 급락'에 항공주 두자릿수 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615041551008",
-      "pubDate": "Mon, 15 Jun 2026 16:03:22 +0900"
-    },
-    {
-      "title": "우리은행, 효성그룹에 5년간 2조 규모 생산적금융 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260615063800002",
-      "pubDate": "Mon, 15 Jun 2026 16:00:05 +0900"
-    },
-    {
-      "title": "국세청, 가나와 징수공조 협력 논의…K-전자세정도 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260615050600002",
-      "pubDate": "Mon, 15 Jun 2026 16:00:05 +0900"
     }
   ]
 }
