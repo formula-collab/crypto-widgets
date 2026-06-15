@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781477845,
+  "updated_at_unix": 1781481856,
   "items": [
+    {
+      "title": "[테크스냅] 네이버페이, 10대 이용자 대상 '네품타 챌린지'",
+      "link": "https://www.yna.co.kr/view/AKR20260615031600017",
+      "pubDate": "Mon, 15 Jun 2026 08:54:48 +0900"
+    },
+    {
+      "title": "\"명품브랜드도 탐낸 특허\"…세계시장 문 두드리는 뷰티 스타트업",
+      "link": "https://www.yna.co.kr/view/AKR20260614030700371",
+      "pubDate": "Mon, 15 Jun 2026 08:53:53 +0900"
+    },
+    {
+      "title": "[미·이란 종전] 호르무즈 개방해도 국내 기름값 하락엔 2~3주 소요",
+      "link": "https://www.yna.co.kr/view/AKR20260524035700003",
+      "pubDate": "Mon, 15 Jun 2026 08:50:48 +0900"
+    },
+    {
+      "title": "[미·이란 종전] 주먹 들었지만 타협 갈망했던 트럼프…유가·여론악화 부담",
+      "link": "https://www.yna.co.kr/view/AKR20260525001000071",
+      "pubDate": "Mon, 15 Jun 2026 08:38:40 +0900"
+    },
+    {
+      "title": "대신증권 \"신세계, 내수 회복·외국인 급증…목표가 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260615026100008",
+      "pubDate": "Mon, 15 Jun 2026 08:30:28 +0900"
+    },
+    {
+      "title": "키움증권 \"K피부미용 수요 지속…관련주 밸류에이션 저평가돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260615024700008",
+      "pubDate": "Mon, 15 Jun 2026 08:26:57 +0900"
+    },
+    {
+      "title": "KB증권 \"LG이노텍, 2분기 '깜짝 실적' 전망…목표가 200만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260615024500008",
+      "pubDate": "Mon, 15 Jun 2026 08:26:35 +0900"
+    },
+    {
+      "title": "DS투자 \"이란전쟁 종전은 韓방산에 기회…하반기 주가상승 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260615023600008",
+      "pubDate": "Mon, 15 Jun 2026 08:21:38 +0900"
+    },
+    {
+      "title": "소진공, '소상공 디지털 특성화대학' 운영…AI 활용 등 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260615023300030",
+      "pubDate": "Mon, 15 Jun 2026 08:20:31 +0900"
+    },
+    {
+      "title": "국중박, 주차 요금 또 올린다…승용차 日 최대 1만8천원→3만원",
+      "link": "https://www.yna.co.kr/view/AKR20260615022700005",
+      "pubDate": "Mon, 15 Jun 2026 08:13:30 +0900"
+    },
+    {
+      "title": "[마켓뷰] 미·이란 종전…코스피, 다시 '9천피' 향해 달리나",
+      "link": "https://www.yna.co.kr/view/AKR20260615020000008",
+      "pubDate": "Mon, 15 Jun 2026 08:08:06 +0900"
+    },
+    {
+      "title": "부산시, 고용우수기업 15개사 선정…세무조사 유예 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260615019000051",
+      "pubDate": "Mon, 15 Jun 2026 07:59:21 +0900"
+    },
     {
       "title": "[팩트체크] 약국 인수하는데 3억6천만원?…권리금이 뭐길래",
       "link": "https://www.yna.co.kr/view/AKR20260612146800518",
@@ -92,66 +152,6 @@
       "title": "스페이스X 공모주 '0주'에 투자자들 '부글부글'…\"배신감\"",
       "link": "https://www.yna.co.kr/view/AKR20260614044300008",
       "pubDate": "Sun, 14 Jun 2026 19:08:24 +0900"
-    },
-    {
-      "title": "한미 당국자, 미국서 회동…'원화 약세 대응 공조' 방침 확인",
-      "link": "https://www.yna.co.kr/view/AKR20260614043200002",
-      "pubDate": "Sun, 14 Jun 2026 18:10:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260614030600011",
-      "pubDate": "Sun, 14 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄 후 9번째 한국 유조선 홍해 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260614025700051",
-      "pubDate": "Sun, 14 Jun 2026 12:27:18 +0900"
-    },
-    {
-      "title": "경총, 최저임금 업종별 차등화 요구…\"음식점업, 감당 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260614022900003",
-      "pubDate": "Sun, 14 Jun 2026 12:02:00 +0900"
-    },
-    {
-      "title": "지방 중대재해 예방에 143억 투입…안전난간, 컨설팅비 등 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260612127700530",
-      "pubDate": "Sun, 14 Jun 2026 12:00:21 +0900"
-    },
-    {
-      "title": "중기부, '매출 2억 미만' 소공인도 스마트 제조 장비 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260613045100030",
-      "pubDate": "Sun, 14 Jun 2026 12:00:14 +0900"
-    },
-    {
-      "title": "수급업체에 서명 뺀 단가 합의서 준 경동나비엔…공정위 제재",
-      "link": "https://www.yna.co.kr/view/AKR20260612141100002",
-      "pubDate": "Sun, 14 Jun 2026 12:00:13 +0900"
-    },
-    {
-      "title": "재경부 해커톤 대회서 국유재산 관리·알리오 AI 등 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260612155800002",
-      "pubDate": "Sun, 14 Jun 2026 12:00:13 +0900"
-    },
-    {
-      "title": "중기부, 로마서 'K뷰티 글로우 위크'…\"유럽 진출 지원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613046300030",
-      "pubDate": "Sun, 14 Jun 2026 12:00:12 +0900"
-    },
-    {
-      "title": "2차 국민참여성장펀드 3분기 출시…6천억 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260613042400002",
-      "pubDate": "Sun, 14 Jun 2026 12:00:06 +0900"
-    },
-    {
-      "title": "금감원, 회계업계 감사보수 덤핑 제동…\"부실감사 즉시 감리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613043500002",
-      "pubDate": "Sun, 14 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "금감원장 모의해킹훈련 점검…\"사고 발생시 소비자보호 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260613036500002",
-      "pubDate": "Sun, 14 Jun 2026 12:00:03 +0900"
     }
   ]
 }
