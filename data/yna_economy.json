@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781624797,
+  "updated_at_unix": 1781637931,
   "items": [
+    {
+      "title": "국제유가, 종전합의에 5%대 급락…브렌트 3달만에 70달러대 진입",
+      "link": "https://www.yna.co.kr/view/AKR20260617004500072",
+      "pubDate": "Wed, 17 Jun 2026 04:12:35 +0900"
+    },
+    {
+      "title": "달러-원, 이란 종전 합의에 위험 선호 유지…1,508.30원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260617003900002",
+      "pubDate": "Wed, 17 Jun 2026 03:40:11 +0900"
+    },
+    {
+      "title": "\"美, 19일 종전합의 서명후 이란산 석유판매 제재완화 적용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260617002451072",
+      "pubDate": "Wed, 17 Jun 2026 03:01:06 +0900"
+    },
     {
       "title": "일부 금통위원 \"인플레 선제 대응해야…상승압력 지표보다 커\"",
       "link": "https://www.yna.co.kr/view/AKR20260616154100002",
@@ -137,21 +152,6 @@
       "title": "'iM뱅크 전국 어린이 미술 공모전' 개최…앱으로 작품 접수",
       "link": "https://www.yna.co.kr/view/AKR20260616133000053",
       "pubDate": "Tue, 16 Jun 2026 16:13:53 +0900"
-    },
-    {
-      "title": "최저임금 업종별 차등 적용 공방…경영계 \"숙박·음식업 낮춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260616128100530",
-      "pubDate": "Tue, 16 Jun 2026 16:12:59 +0900"
-    },
-    {
-      "title": "한국수입엑스포, 23일 코엑스 개막…새로운 수입선 찾는다",
-      "link": "https://www.yna.co.kr/view/AKR20260616129800003",
-      "pubDate": "Tue, 16 Jun 2026 16:07:04 +0900"
-    },
-    {
-      "title": "대동 \"계열사 대동기어 주식 202억원에 추가취득…지분율 44.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260616130600008",
-      "pubDate": "Tue, 16 Jun 2026 16:01:42 +0900"
     }
   ]
 }
