@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781637931,
+  "updated_at_unix": 1781647067,
   "items": [
+    {
+      "title": "성수동 넘어 한강·호텔로…식품업계, 여름 팝업 마케팅 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260616148400030",
+      "pubDate": "Wed, 17 Jun 2026 06:30:02 +0900"
+    },
+    {
+      "title": "공정위, 두나무·네이버 합병 의견 조회…증권사들 \"우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616117900002",
+      "pubDate": "Wed, 17 Jun 2026 06:01:01 +0900"
+    },
+    {
+      "title": "대법 \"꼬마빌딩 상속세, 국세청 사후 감정평가로 시가산정 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616092700004",
+      "pubDate": "Wed, 17 Jun 2026 06:00:22 +0900"
+    },
+    {
+      "title": "코트라·무보, 수출기업 무역사기 예방·대응 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260616126400003",
+      "pubDate": "Wed, 17 Jun 2026 06:00:07 +0900"
+    },
+    {
+      "title": "세종시민들, 면허시험장 '대전 원정' 그대로?…신설 무산 '기로'",
+      "link": "https://www.yna.co.kr/view/AKR20260616122600063",
+      "pubDate": "Wed, 17 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 전국민 대상 제21회 금융공모전 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260616153300002",
+      "pubDate": "Wed, 17 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "은행형 공공기관 정규직 평균연봉 1.2억…기관장은 3.9억원",
+      "link": "https://www.yna.co.kr/view/AKR20260616136100002",
+      "pubDate": "Wed, 17 Jun 2026 05:59:00 +0900"
+    },
+    {
+      "title": "기업 투자·소비 살아나나…당좌예금 회전율 9년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260616142300002",
+      "pubDate": "Wed, 17 Jun 2026 05:57:00 +0900"
+    },
+    {
+      "title": "돈빌려 '빚투'에 내준 증권사들…1분기 금융보험업 대출 180조원",
+      "link": "https://www.yna.co.kr/view/AKR20260616152800002",
+      "pubDate": "Wed, 17 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "'앤트로픽 등 줄줄이' 공모제도 손질될까…당국 \"공감대 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616161600002",
+      "pubDate": "Wed, 17 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "1분기 카카오뱅크 1인당 1억8천만원 벌어…토스뱅크 역전",
+      "link": "https://www.yna.co.kr/view/AKR20260616151700002",
+      "pubDate": "Wed, 17 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 종전합의에 5%대 급락…브렌트 3달만에 70달러대 진입",
       "link": "https://www.yna.co.kr/view/AKR20260617004500072",
@@ -97,61 +152,6 @@
       "title": "오에스피, 24억6천400만원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260616137900008",
       "pubDate": "Tue, 16 Jun 2026 16:45:06 +0900"
-    },
-    {
-      "title": "[특징주] 레인보우로보틱스, 7% 가까이 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260616118251008",
-      "pubDate": "Tue, 16 Jun 2026 16:44:33 +0900"
-    },
-    {
-      "title": "춘천시, 중국 다롄시와 자매결연…첫 한국 자매도시",
-      "link": "https://www.yna.co.kr/view/AKR20260616136200062",
-      "pubDate": "Tue, 16 Jun 2026 16:43:14 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.717%",
-      "link": "https://www.yna.co.kr/view/AKR20260616139500008",
-      "pubDate": "Tue, 16 Jun 2026 16:40:58 +0900"
-    },
-    {
-      "title": "미래에셋 대표, '스페이스X 0주' 청약 고객에 사과…금전보상 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260616135000008",
-      "pubDate": "Tue, 16 Jun 2026 16:40:04 +0900"
-    },
-    {
-      "title": "코스피, 2.1%↑ 8,726…외국인 사흘째 '사자', 상승탄력 다소 둔화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260616134200008",
-      "pubDate": "Tue, 16 Jun 2026 16:30:11 +0900"
-    },
-    {
-      "title": "외국인 순매수·위험선호 심리…환율 0.5원 오른 1,511.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260616131800002",
-      "pubDate": "Tue, 16 Jun 2026 16:27:30 +0900"
-    },
-    {
-      "title": "보행권 논란 부산 '북항환승센터' 결국 토지 매매계약 해제",
-      "link": "https://www.yna.co.kr/view/AKR20260616135600051",
-      "pubDate": "Tue, 16 Jun 2026 16:26:02 +0900"
-    },
-    {
-      "title": "시공사 부도 춘천 아파트 입주예정자, 범정부 협의체 구성 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260616134500062",
-      "pubDate": "Tue, 16 Jun 2026 16:25:21 +0900"
-    },
-    {
-      "title": "가온전선, 주당 0.8주 무상증자…내일 9시까지 거래정지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260616129751008",
-      "pubDate": "Tue, 16 Jun 2026 16:19:28 +0900"
-    },
-    {
-      "title": "대구본부세관, 포항제철소 현장 방문…'기업 의견 청취'",
-      "link": "https://www.yna.co.kr/view/AKR20260616134100053",
-      "pubDate": "Tue, 16 Jun 2026 16:15:55 +0900"
-    },
-    {
-      "title": "'iM뱅크 전국 어린이 미술 공모전' 개최…앱으로 작품 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260616133000053",
-      "pubDate": "Tue, 16 Jun 2026 16:13:53 +0900"
     }
   ]
 }
