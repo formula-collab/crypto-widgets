@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781562697,
+  "updated_at_unix": 1781569277,
   "items": [
+    {
+      "title": "삼성운용, 'KODEX AI반도체TOP2플러스' ETF에 SK스퀘어 편입",
+      "link": "https://www.yna.co.kr/view/AKR20260616035900008",
+      "pubDate": "Tue, 16 Jun 2026 09:16:22 +0900"
+    },
+    {
+      "title": "코오롱FnC, IP 비즈니스 본격화…'V본부' 사내독립기업으로 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260616033900030",
+      "pubDate": "Tue, 16 Jun 2026 09:16:07 +0900"
+    },
+    {
+      "title": "[특징주] 제너셈, SK하이닉스와 반도체 장비 공급계약에 15%대 급등",
+      "link": "https://www.yna.co.kr/view/AKR20260616035700008",
+      "pubDate": "Tue, 16 Jun 2026 09:15:27 +0900"
+    },
+    {
+      "title": "[바이오스냅] 셀트리온제약, 간질환 국제학술대회서 강연 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260616026800017",
+      "pubDate": "Tue, 16 Jun 2026 09:12:54 +0900"
+    },
+    {
+      "title": "산업위기 선제대응지역 지정에 당진시 \"철강산업 위기 돌파구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616033500063",
+      "pubDate": "Tue, 16 Jun 2026 09:10:36 +0900"
+    },
+    {
+      "title": "코스피, 상승 이어가며 8,700선 등락…코스닥 소폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260616033800008",
+      "pubDate": "Tue, 16 Jun 2026 09:09:11 +0900"
+    },
+    {
+      "title": "대우건설, 시니어주택 사업 강화…신한라이프케어와 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260616031400003",
+      "pubDate": "Tue, 16 Jun 2026 09:06:09 +0900"
+    },
+    {
+      "title": "[AI픽] NC AI, MBC와 AI 기반 콘텐츠 제작 플랫폼 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260616031100017",
+      "pubDate": "Tue, 16 Jun 2026 09:04:47 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 2.5원 오른 1,513.6원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260616032100002",
+      "pubDate": "Tue, 16 Jun 2026 09:01:27 +0900"
+    },
+    {
+      "title": "정부, 농협중앙회 '인적 분할' 검토…이르면 내달 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260615169051030",
+      "pubDate": "Tue, 16 Jun 2026 09:01:20 +0900"
+    },
+    {
+      "title": "외국환시세(6월16일·하나은행 1차 고시 기준)",
+      "link": "https://www.yna.co.kr/view/AKR20260616032000002",
+      "pubDate": "Tue, 16 Jun 2026 09:01:18 +0900"
+    },
+    {
+      "title": "인뱅도 '빚투' 차단 나선다…케이뱅크, 7월말까지 마통 판매중단",
+      "link": "https://www.yna.co.kr/view/AKR20260616031200002",
+      "pubDate": "Tue, 16 Jun 2026 09:01:03 +0900"
+    },
+    {
+      "title": "키움證 \"DL이앤씨, 종전합의 수혜…현지 수주이력 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616029000008",
+      "pubDate": "Tue, 16 Jun 2026 08:45:27 +0900"
+    },
+    {
+      "title": "DB증권 \"AI 투자 시 엔비디아 GPU 렌탈 비용 추이 참고 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616025100008",
+      "pubDate": "Tue, 16 Jun 2026 08:40:04 +0900"
+    },
+    {
+      "title": "애경산업, 자회사 '원씽' 흡수합병…\"글로벌 브랜드로 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616028000030",
+      "pubDate": "Tue, 16 Jun 2026 08:38:57 +0900"
+    },
+    {
+      "title": "KB증권 \"NC, 올해 영업익 전망치 상향…게임주 최선호주\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616027100008",
+      "pubDate": "Tue, 16 Jun 2026 08:34:10 +0900"
+    },
+    {
+      "title": "중진공-전기안전공사, '감사역량 강화' 협약…감사기법 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260616024600030",
+      "pubDate": "Tue, 16 Jun 2026 08:32:52 +0900"
+    },
+    {
+      "title": "삼성증권 \"강원랜드, 본격적인 성장은 2028년 이후\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616026600008",
+      "pubDate": "Tue, 16 Jun 2026 08:32:25 +0900"
+    },
+    {
+      "title": "삼성전자, 아트 TV '더 프레임' 호텔용 라인업으로 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260616026100003",
+      "pubDate": "Tue, 16 Jun 2026 08:32:20 +0900"
+    },
+    {
+      "title": "IBK투자 \"이란 종전에 반등 흐름 서머랠리까지 이어질수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616025500008",
+      "pubDate": "Tue, 16 Jun 2026 08:30:22 +0900"
+    },
+    {
+      "title": "파라다이스시티, '파리지앵 썸머' 페스티벌…파리 항공권 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260616025700030",
+      "pubDate": "Tue, 16 Jun 2026 08:29:17 +0900"
+    },
+    {
+      "title": "부산시, 6월 정기분 자동차세 부과…\"내달 3일까지 납부해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260616020000051",
+      "pubDate": "Tue, 16 Jun 2026 07:52:52 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260616015800011",
+      "pubDate": "Tue, 16 Jun 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 아프리카 외교는 이제 산업정책이다",
       "link": "https://www.yna.co.kr/view/AKR20260609025600898",
@@ -37,121 +152,6 @@
       "title": "반도체 수요 증가에 5월 수출물가지수 11개월째 상승",
       "link": "https://www.yna.co.kr/view/AKR20260615154300002",
       "pubDate": "Tue, 16 Jun 2026 06:00:00 +0900"
-    },
-    {
-      "title": "900억원대 코인 환치기한 외국인, 강제퇴거 취소소송 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260615159300002",
-      "pubDate": "Tue, 16 Jun 2026 05:57:00 +0900"
-    },
-    {
-      "title": "중동전의 교훈…\"신재생 키우려면 보조금+인프라 정책조합 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615154000002",
-      "pubDate": "Tue, 16 Jun 2026 05:55:00 +0900"
-    },
-    {
-      "title": "BTS 부산공연 효과…외국 관광객 전통시장 결제액 2배로",
-      "link": "https://www.yna.co.kr/view/AKR20260615129900002",
-      "pubDate": "Tue, 16 Jun 2026 05:53:01 +0900"
-    },
-    {
-      "title": "신현송 한은 달라진다…금리 메시지 과감하게, 지급결제 힘 실어",
-      "link": "https://www.yna.co.kr/view/AKR20260613035800002",
-      "pubDate": "Tue, 16 Jun 2026 05:51:01 +0900"
-    },
-    {
-      "title": "[미·이란 종전] 국제유가 3개월 만에 최저로 하락…브렌트 5%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260616006300072",
-      "pubDate": "Tue, 16 Jun 2026 04:34:46 +0900"
-    },
-    {
-      "title": "달러-원, 이란 종전 합의에도 해소되지 않는 경계심…1,515.20원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260616005100002",
-      "pubDate": "Tue, 16 Jun 2026 03:50:44 +0900"
-    },
-    {
-      "title": "광주 중견 건설업체 대표이사 사기 혐의, 경찰 보완수사",
-      "link": "https://www.yna.co.kr/view/AKR20260615169200054",
-      "pubDate": "Mon, 15 Jun 2026 22:49:43 +0900"
-    },
-    {
-      "title": "JTBC 등 중앙그룹 5개사 회생 신청…중앙일보는 워크아웃 추진(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260615121352004",
-      "pubDate": "Mon, 15 Jun 2026 19:53:17 +0900"
-    },
-    {
-      "title": "'유동성위기' JTBC 등 중앙그룹 5개사 회생 신청…신용등급↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615121351004",
-      "pubDate": "Mon, 15 Jun 2026 18:48:06 +0900"
-    },
-    {
-      "title": "치료중인 환자 보험 가입시켜 수십억 보험금 꿀꺽…80여명 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260615153500064",
-      "pubDate": "Mon, 15 Jun 2026 18:12:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260615150500011",
-      "pubDate": "Mon, 15 Jun 2026 18:00:00 +0900"
-    },
-    {
-      "title": "에이루트, 30억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260615152100008",
-      "pubDate": "Mon, 15 Jun 2026 17:58:24 +0900"
-    },
-    {
-      "title": "레미콘 노사 운송비 인상 합의…휴업 8일 만에 종료",
-      "link": "https://www.yna.co.kr/view/AKR20260615151400003",
-      "pubDate": "Mon, 15 Jun 2026 17:55:04 +0900"
-    },
-    {
-      "title": "에이루트, 20억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260615151500008",
-      "pubDate": "Mon, 15 Jun 2026 17:40:48 +0900"
-    },
-    {
-      "title": "코트라, 헝가리서 K-소비재 판촉전…중유럽 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260615149300003",
-      "pubDate": "Mon, 15 Jun 2026 17:29:06 +0900"
-    },
-    {
-      "title": "'회생신청' 콘텐트리중앙에 증권사 한달여간 '매수' 의견 일색",
-      "link": "https://www.yna.co.kr/view/AKR20260615147800008",
-      "pubDate": "Mon, 15 Jun 2026 17:28:52 +0900"
-    },
-    {
-      "title": "아시아나항공, 에어부산 1천억원 전환사채 주식 전환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615137251008",
-      "pubDate": "Mon, 15 Jun 2026 17:12:17 +0900"
-    },
-    {
-      "title": "춘천교도소 이전 요구 재점화…시의회, 도심 외곽 이전 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260615142900062",
-      "pubDate": "Mon, 15 Jun 2026 17:11:55 +0900"
-    },
-    {
-      "title": "알지노믹스, 주당 1.0주 무상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260615143100008",
-      "pubDate": "Mon, 15 Jun 2026 16:54:50 +0900"
-    },
-    {
-      "title": "미·이란 종전에 국고채 일제히 하락…3년물 연 3.744%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260615140951008",
-      "pubDate": "Mon, 15 Jun 2026 16:53:52 +0900"
-    },
-    {
-      "title": "NH투자증권 \"카카오톡 연금 채널 구독자수 업계 1위 달성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615143000008",
-      "pubDate": "Mon, 15 Jun 2026 16:52:29 +0900"
-    },
-    {
-      "title": "제이앤티씨 \"종속회사 JNTC에 304억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260615141000008",
-      "pubDate": "Mon, 15 Jun 2026 16:41:25 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.744%",
-      "link": "https://www.yna.co.kr/view/AKR20260615140900008",
-      "pubDate": "Mon, 15 Jun 2026 16:40:44 +0900"
     }
   ]
 }
