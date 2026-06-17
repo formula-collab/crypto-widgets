@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781735283,
+  "updated_at_unix": 1781740514,
   "items": [
+    {
+      "title": "삼성, '청년희망배움터' 모집…미취업청년 1천명 직무교육 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260618028400003",
+      "pubDate": "Thu, 18 Jun 2026 08:48:14 +0900"
+    },
+    {
+      "title": "동탄·구리·기흥 이달도 규제지역 요건 충족…삼중규제 초읽기",
+      "link": "https://www.yna.co.kr/view/AKR20260617173800003",
+      "pubDate": "Thu, 18 Jun 2026 08:46:14 +0900"
+    },
+    {
+      "title": "한화증권 \"현대차, 하반기 실적 회복 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618032000008",
+      "pubDate": "Thu, 18 Jun 2026 08:39:39 +0900"
+    },
+    {
+      "title": "한투증권, FOMC '매파적' 평가속 \"美연준, 연내 금리동결 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618029000008",
+      "pubDate": "Thu, 18 Jun 2026 08:39:37 +0900"
+    },
+    {
+      "title": "하나증권 \"기준금리 인상 우려에도 증권주 실적개선…매수 기회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618030400008",
+      "pubDate": "Thu, 18 Jun 2026 08:36:30 +0900"
+    },
+    {
+      "title": "대신증권 \"SK스퀘어, 하이닉스 추가 상승 반영…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618030300008",
+      "pubDate": "Thu, 18 Jun 2026 08:36:25 +0900"
+    },
+    {
+      "title": "IBK투자 \"비아이매트릭스, AI 성장 주목…수주 확대 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618030100008",
+      "pubDate": "Thu, 18 Jun 2026 08:28:53 +0900"
+    },
+    {
+      "title": "강남구, 25일 '노후 저층 주거지' 정비사업 아카데미",
+      "link": "https://www.yna.co.kr/view/AKR20260618026800004",
+      "pubDate": "Thu, 18 Jun 2026 08:04:00 +0900"
+    },
+    {
+      "title": "부산시, 글로벌 신흥 창업도시 세계 70위권 진입",
+      "link": "https://www.yna.co.kr/view/AKR20260618024700051",
+      "pubDate": "Thu, 18 Jun 2026 07:56:35 +0900"
+    },
+    {
+      "title": "[마켓뷰] '매파적' FOMC…'9천피'까지 135p 남겨둔 코스피 향배는",
+      "link": "https://www.yna.co.kr/view/AKR20260618021700008",
+      "pubDate": "Thu, 18 Jun 2026 07:55:54 +0900"
+    },
+    {
+      "title": "부산시, 해양항만 업계 재취업자에 최대 100만원 지원금",
+      "link": "https://www.yna.co.kr/view/AKR20260618024500051",
+      "pubDate": "Thu, 18 Jun 2026 07:55:47 +0900"
+    },
+    {
+      "title": "중동전쟁에 바뀐 금리 경로…美 매파적 동결·韓 내달 인상 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260618019000002",
+      "pubDate": "Thu, 18 Jun 2026 07:38:13 +0900"
+    },
+    {
+      "title": "원조 축소 속 전략적 ODA 해법…24일 국제개발협력학회 학술대회",
+      "link": "https://www.yna.co.kr/view/AKR20260617153800371",
+      "pubDate": "Thu, 18 Jun 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260618019100011",
+      "pubDate": "Thu, 18 Jun 2026 07:30:00 +0900"
+    },
     {
       "title": "[우분투칼럼] 남아공의 반이민 정서…국경 문제 아닌 국가 문제",
       "link": "https://www.yna.co.kr/view/AKR20260612127000898",
@@ -82,76 +152,6 @@
       "title": "美국채금리, 점도표 '연내 금리인상' 시사에 급등세…2년물 4.2%",
       "link": "https://www.yna.co.kr/view/AKR20260618008700072",
       "pubDate": "Thu, 18 Jun 2026 04:34:22 +0900"
-    },
-    {
-      "title": "국제유가 \"합의안 최종아냐\" 트럼프 발언에 반등…브렌트 0.7%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260618009100072",
-      "pubDate": "Thu, 18 Jun 2026 04:21:29 +0900"
-    },
-    {
-      "title": "워시의 美연준 '완화편향' 문구 삭제…점도표는 연내인상 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260618007400072",
-      "pubDate": "Thu, 18 Jun 2026 04:03:16 +0900"
-    },
-    {
-      "title": "달러-원, FOMC 결과 앞두고 상승폭 확대…1,515.50원 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260618002700002",
-      "pubDate": "Thu, 18 Jun 2026 02:42:27 +0900"
-    },
-    {
-      "title": "스타벅스, 여름 신제품 출시 재개…e-프리퀀시는 진행 않기로",
-      "link": "https://www.yna.co.kr/view/AKR20260617167500030",
-      "pubDate": "Wed, 17 Jun 2026 20:16:06 +0900"
-    },
-    {
-      "title": "메리츠제2호스팩, 코스닥 신규상장…19일부터 거래개시",
-      "link": "https://www.yna.co.kr/view/AKR20260617166300008",
-      "pubDate": "Wed, 17 Jun 2026 20:03:15 +0900"
-    },
-    {
-      "title": "해외 투자 유치 총력전 펼치는 우즈베크…\"한국에도 기회 될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260617165700005",
-      "pubDate": "Wed, 17 Jun 2026 20:01:02 +0900"
-    },
-    {
-      "title": "금융위 부위원장 \"저PBR 기업 리스트 10월 선정해 발표 예정\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260617094651008",
-      "pubDate": "Wed, 17 Jun 2026 19:12:52 +0900"
-    },
-    {
-      "title": "금융위, 농협 마이데이터 활용 금리인하요구권 대행 허용",
-      "link": "https://www.yna.co.kr/view/AKR20260617157800002",
-      "pubDate": "Wed, 17 Jun 2026 18:53:11 +0900"
-    },
-    {
-      "title": "씨티, 올해 GDP 성장률 전망치 3.0→3.1%로 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260617155800002",
-      "pubDate": "Wed, 17 Jun 2026 18:28:53 +0900"
-    },
-    {
-      "title": "구윤철 \"AX에 예산·세제 등 지원…남부권 반도체 혁신벨트로\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260617070751002",
-      "pubDate": "Wed, 17 Jun 2026 18:27:35 +0900"
-    },
-    {
-      "title": "미래에셋증권, 3천억원 규모 자사주 취득…역대 최대 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260617156500008",
-      "pubDate": "Wed, 17 Jun 2026 18:04:29 +0900"
-    },
-    {
-      "title": "구윤철 \"AX에 예산·세제 등 지원…남부권 반도체 혁신벨트로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260617070700002",
-      "pubDate": "Wed, 17 Jun 2026 18:00:06 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260617149300011",
-      "pubDate": "Wed, 17 Jun 2026 18:00:02 +0900"
-    },
-    {
-      "title": "부실채권 회수예상가액 못 부풀린다…리스크 맞춰 충당금 쌓아야",
-      "link": "https://www.yna.co.kr/view/AKR20260617153200002",
-      "pubDate": "Wed, 17 Jun 2026 17:59:45 +0900"
     }
   ]
 }
