@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781805160,
+  "updated_at_unix": 1781813260,
   "items": [
+    {
+      "title": "국제유가, 호르무즈 정상화 기대속 혼조 마감…브렌트 0.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260619004900072",
+      "pubDate": "Fri, 19 Jun 2026 04:23:51 +0900"
+    },
+    {
+      "title": "달러-원, 야간 거래서 10원 넘게 추가 급등…1,540.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260619004100002",
+      "pubDate": "Fri, 19 Jun 2026 03:40:32 +0900"
+    },
     {
       "title": "6만명 몰린 정부 초대 창업 프로젝트…개인정보 유출로 '오점'",
       "link": "https://www.yna.co.kr/view/AKR20260618163100030",
@@ -142,16 +152,6 @@
       "title": "무역위원회, 태국산 동관 제품에 4.93∼8.41％ 반덤핑관세",
       "link": "https://www.yna.co.kr/view/AKR20260618092400003",
       "pubDate": "Thu, 18 Jun 2026 16:30:01 +0900"
-    },
-    {
-      "title": "iM금융, '청년 디지털 인재양성 프로젝트' 참가 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260618139400053",
-      "pubDate": "Thu, 18 Jun 2026 16:28:42 +0900"
-    },
-    {
-      "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260618138100008",
-      "pubDate": "Thu, 18 Jun 2026 16:24:17 +0900"
     }
   ]
 }
