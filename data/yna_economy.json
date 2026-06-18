@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781782395,
+  "updated_at_unix": 1781793693,
   "items": [
+    {
+      "title": "6만명 몰린 정부 초대 창업 프로젝트…개인정보 유출로 '오점'",
+      "link": "https://www.yna.co.kr/view/AKR20260618163100030",
+      "pubDate": "Thu, 18 Jun 2026 21:57:53 +0900"
+    },
+    {
+      "title": "하노이 달군 한국 e스포츠 열풍…HLE 팬미팅에 5천여명 몰렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260618169800084",
+      "pubDate": "Thu, 18 Jun 2026 21:04:31 +0900"
+    },
+    {
+      "title": "중앙일보, 한양證 CP 조기상환 요청에 \"만기전 개별상환 어려워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618170600005",
+      "pubDate": "Thu, 18 Jun 2026 21:03:49 +0900"
+    },
+    {
+      "title": "합천호텔사업 '금품·향응 수수 의혹' 전직 공무원 3명 무죄",
+      "link": "https://www.yna.co.kr/view/AKR20260618166400052",
+      "pubDate": "Thu, 18 Jun 2026 20:47:55 +0900"
+    },
+    {
+      "title": "위안화, '엔 캐리 트레이드' 대안 부상하나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260618122951009",
+      "pubDate": "Thu, 18 Jun 2026 20:29:39 +0900"
+    },
     {
       "title": "넥써쓰, 390억원 유상증자…SK스퀘어 주식회사 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260618159300008",
@@ -127,31 +152,6 @@
       "title": "코스피, 사상 첫 9,000 돌파…韓자본시장 역사 새로 썼다(종합3보)",
       "link": "https://www.yna.co.kr/view/AKR20260618138100008",
       "pubDate": "Thu, 18 Jun 2026 16:24:17 +0900"
-    },
-    {
-      "title": "정부 창업사업서 개인정보 유출…인지 70시간 만에 뒷북 신고 논란(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260618107751030",
-      "pubDate": "Thu, 18 Jun 2026 16:23:23 +0900"
-    },
-    {
-      "title": "軍, '나홀로 관사' 없애고 커뮤니티 시설 갖춘 대단지로 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260618136900504",
-      "pubDate": "Thu, 18 Jun 2026 16:17:39 +0900"
-    },
-    {
-      "title": "환율, 미국 금리 인상 시사에 13.7원 오른 1,527.1원",
-      "link": "https://www.yna.co.kr/view/AKR20260618135700002",
-      "pubDate": "Thu, 18 Jun 2026 16:17:06 +0900"
-    },
-    {
-      "title": "[특징주] 백화점주, 급등 후 차익실현에 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260618057551008",
-      "pubDate": "Thu, 18 Jun 2026 16:14:27 +0900"
-    },
-    {
-      "title": "차바이오텍 \"피움AIFutureHealthcare신기술금융투자조합株 600억 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260618133900008",
-      "pubDate": "Thu, 18 Jun 2026 16:13:08 +0900"
     }
   ]
 }
