@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781813260,
+  "updated_at_unix": 1781821656,
   "items": [
+    {
+      "title": "MSCI, 韓증시 투자상품 가용성 개선 평가…\"투자 상품폭 넓어져\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260619008951008",
+      "pubDate": "Fri, 19 Jun 2026 06:57:11 +0900"
+    },
+    {
+      "title": "MSCI, 韓증시 투자상품 가용성 개선 평가…\"투자 상품폭 넓어져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619008900008",
+      "pubDate": "Fri, 19 Jun 2026 06:06:40 +0900"
+    },
+    {
+      "title": "용도변경 안했는데 '주거용'…생활숙박 허위광고 등 315건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260618127300003",
+      "pubDate": "Fri, 19 Jun 2026 06:00:17 +0900"
+    },
+    {
+      "title": "고유가 파급·증시 호조 등에 5월 생산자물가 9개월째 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260618149600002",
+      "pubDate": "Fri, 19 Jun 2026 06:00:13 +0900"
+    },
+    {
+      "title": "보험사 지급여력비율 4개 분기 연속↑…\"순이익·주가상승 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618154500002",
+      "pubDate": "Fri, 19 Jun 2026 06:00:11 +0900"
+    },
+    {
+      "title": "국민은행, 금융위 기술금융 평가 1위…2위는 농협은행",
+      "link": "https://www.yna.co.kr/view/AKR20260618158700002",
+      "pubDate": "Fri, 19 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "파이어블록스 \"韓 디지털자산 규제 변화, 전분야서 기회 창출\"",
+      "link": "https://www.yna.co.kr/view/AKR20260618174000002",
+      "pubDate": "Fri, 19 Jun 2026 05:55:01 +0900"
+    },
     {
       "title": "국제유가, 호르무즈 정상화 기대속 혼조 마감…브렌트 0.4%↑",
       "link": "https://www.yna.co.kr/view/AKR20260619004900072",
@@ -117,41 +152,6 @@
       "title": "[이천소식] '전세사기 예방 교육' 참가 희망 청년 모집",
       "link": "https://www.yna.co.kr/view/AKR20260618146000061",
       "pubDate": "Thu, 18 Jun 2026 16:52:54 +0900"
-    },
-    {
-      "title": "SG, 610억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260618144500008",
-      "pubDate": "Thu, 18 Jun 2026 16:41:00 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.750%",
-      "link": "https://www.yna.co.kr/view/AKR20260618144300008",
-      "pubDate": "Thu, 18 Jun 2026 16:40:34 +0900"
-    },
-    {
-      "title": "\"평범한 일상 빼앗겨\" 전세 사기 피해자, 임대업자 엄벌 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260618143700063",
-      "pubDate": "Thu, 18 Jun 2026 16:40:25 +0900"
-    },
-    {
-      "title": "[특징주] 미래에셋증권, 역대 최대규모 자사주 취득에 상승…우선주도↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260618045351008",
-      "pubDate": "Thu, 18 Jun 2026 16:36:38 +0900"
-    },
-    {
-      "title": "[코스피 9,000] 상승률 1위·삼전닉스 비중 54%…주목할 기록들",
-      "link": "https://www.yna.co.kr/view/AKR20260618111600008",
-      "pubDate": "Thu, 18 Jun 2026 16:36:20 +0900"
-    },
-    {
-      "title": "'전세사기 위험도' 알려주는 앱 서비스 9월 나온다",
-      "link": "https://www.yna.co.kr/view/AKR20260618039500003",
-      "pubDate": "Thu, 18 Jun 2026 16:30:01 +0900"
-    },
-    {
-      "title": "무역위원회, 태국산 동관 제품에 4.93∼8.41％ 반덤핑관세",
-      "link": "https://www.yna.co.kr/view/AKR20260618092400003",
-      "pubDate": "Thu, 18 Jun 2026 16:30:01 +0900"
     }
   ]
 }
