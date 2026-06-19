@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781821656,
+  "updated_at_unix": 1781827660,
   "items": [
+    {
+      "title": "LG CNS·두산, AI·로봇·데이터센터 동맹 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260619027700017",
+      "pubDate": "Fri, 19 Jun 2026 09:00:01 +0900"
+    },
+    {
+      "title": "원주시, '전통시장 투어패스' 혜택 확대…주유권 추가 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260619031400062",
+      "pubDate": "Fri, 19 Jun 2026 08:55:17 +0900"
+    },
+    {
+      "title": "[월드컵] 한투증권 \"멕시코전, 여의도 본사 앞에서 같이 응원해요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619029200008",
+      "pubDate": "Fri, 19 Jun 2026 08:50:59 +0900"
+    },
+    {
+      "title": "iM증권 \"MLCC, 공급 기간 길어져…향후 공급 리스크↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619022900008",
+      "pubDate": "Fri, 19 Jun 2026 08:48:38 +0900"
+    },
+    {
+      "title": "구윤철 \"종전 MOU로 기회와 과제…포스트 중동경제정책 본격화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619028800002",
+      "pubDate": "Fri, 19 Jun 2026 08:46:42 +0900"
+    },
+    {
+      "title": "LS증권 \"LS일렉, 연내 수주 6조원 가능할듯…밸류에이션은 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619026000008",
+      "pubDate": "Fri, 19 Jun 2026 08:41:34 +0900"
+    },
+    {
+      "title": "규제자유특구 기업 투자유치 지원…중진공, 'IR마트' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260619023400030",
+      "pubDate": "Fri, 19 Jun 2026 08:39:51 +0900"
+    },
+    {
+      "title": "5월 전국 아파트 1순위 경쟁률 6.3대 1…비수도권 모두 미달",
+      "link": "https://www.yna.co.kr/view/AKR20260619026200003",
+      "pubDate": "Fri, 19 Jun 2026 08:38:56 +0900"
+    },
+    {
+      "title": "대신증권 \"한전기술, 단기적 모멘텀 불확실성…목표주가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619024500008",
+      "pubDate": "Fri, 19 Jun 2026 08:30:48 +0900"
+    },
+    {
+      "title": "IBK투자, LS에코에너지 목표가↑…\"하반기 실적개선 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619024400008",
+      "pubDate": "Fri, 19 Jun 2026 08:26:43 +0900"
+    },
+    {
+      "title": "KB증권 \"HD현대중공업, 2분기 호실적 지속 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619023900008",
+      "pubDate": "Fri, 19 Jun 2026 08:25:34 +0900"
+    },
+    {
+      "title": "정부, 지역신보 부실채권 2.2조원 정리…미변제자 재도전 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260618167700030",
+      "pubDate": "Fri, 19 Jun 2026 08:06:37 +0900"
+    },
+    {
+      "title": "항만 인프라 개선하고 투자 촉진…정부, 마리나산업 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260618134300051",
+      "pubDate": "Fri, 19 Jun 2026 08:00:07 +0900"
+    },
+    {
+      "title": "면사랑, '냉동면' 앞세워 B2C 공략…올해 매출 2천700억 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260618148100030",
+      "pubDate": "Fri, 19 Jun 2026 08:00:05 +0900"
+    },
+    {
+      "title": "구독서비스 일괄 조회…일방적 운항취소 잦은 항공사에 불이익",
+      "link": "https://www.yna.co.kr/view/AKR20260619001200002",
+      "pubDate": "Fri, 19 Jun 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[부산소식] 부산국제금융센터서 핀테크 허브 CEO 워크숍",
+      "link": "https://www.yna.co.kr/view/AKR20260619020100051",
+      "pubDate": "Fri, 19 Jun 2026 07:58:08 +0900"
+    },
+    {
+      "title": "부산시, 미취업 청년 189명에게 실무경험 제공…월급 234만원",
+      "link": "https://www.yna.co.kr/view/AKR20260619019600051",
+      "pubDate": "Fri, 19 Jun 2026 07:56:37 +0900"
+    },
+    {
+      "title": "[마켓뷰] '9천피' 시대 개막한 코스피, 고공행진 이어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260619017600008",
+      "pubDate": "Fri, 19 Jun 2026 07:51:56 +0900"
+    },
+    {
+      "title": "임기 만료 앞둔 종로구청장, 종묘앞 세운4구역 재개발 인가",
+      "link": "https://www.yna.co.kr/view/AKR20260619017500004",
+      "pubDate": "Fri, 19 Jun 2026 07:40:36 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260619014100011",
+      "pubDate": "Fri, 19 Jun 2026 07:30:00 +0900"
+    },
     {
       "title": "MSCI, 韓증시 투자상품 가용성 개선 평가…\"투자 상품폭 넓어져\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260619008951008",
@@ -52,106 +152,6 @@
       "title": "6만명 몰린 정부 초대 창업 프로젝트…개인정보 유출로 '오점'",
       "link": "https://www.yna.co.kr/view/AKR20260618163100030",
       "pubDate": "Thu, 18 Jun 2026 21:57:53 +0900"
-    },
-    {
-      "title": "하노이 달군 한국 e스포츠 열풍…HLE 팬미팅에 5천여명 몰렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260618169800084",
-      "pubDate": "Thu, 18 Jun 2026 21:04:31 +0900"
-    },
-    {
-      "title": "중앙일보, 한양證 CP 조기상환 요청에 \"만기전 개별상환 어려워\"",
-      "link": "https://www.yna.co.kr/view/AKR20260618170600005",
-      "pubDate": "Thu, 18 Jun 2026 21:03:49 +0900"
-    },
-    {
-      "title": "합천호텔사업 '금품·향응 수수 의혹' 전직 공무원 3명 무죄",
-      "link": "https://www.yna.co.kr/view/AKR20260618166400052",
-      "pubDate": "Thu, 18 Jun 2026 20:47:55 +0900"
-    },
-    {
-      "title": "위안화, '엔 캐리 트레이드' 대안 부상하나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260618122951009",
-      "pubDate": "Thu, 18 Jun 2026 20:29:39 +0900"
-    },
-    {
-      "title": "넥써쓰, 390억원 유상증자…SK스퀘어 주식회사 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260618159300008",
-      "pubDate": "Thu, 18 Jun 2026 19:21:15 +0900"
-    },
-    {
-      "title": "한국거래소, 프리마켓 도입 재검토하나…내일 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260618164100008",
-      "pubDate": "Thu, 18 Jun 2026 19:20:54 +0900"
-    },
-    {
-      "title": "지방 주담대 '3단계 스트레스 DSR' 연말까지 또 유예",
-      "link": "https://www.yna.co.kr/view/AKR20260618164500002",
-      "pubDate": "Thu, 18 Jun 2026 19:14:10 +0900"
-    },
-    {
-      "title": "[게시판] 신한카드, '금융사고 제로상' 신설해 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260618160000002",
-      "pubDate": "Thu, 18 Jun 2026 18:26:57 +0900"
-    },
-    {
-      "title": "차AI헬스케어 \"인빅터스재팬헬스케어펀드株 202억 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260618158000008",
-      "pubDate": "Thu, 18 Jun 2026 18:00:35 +0900"
-    },
-    {
-      "title": "국가공무원 9급 공채 3천718명 합격…평균연령 29.7세",
-      "link": "https://www.yna.co.kr/view/AKR20260618053400001",
-      "pubDate": "Thu, 18 Jun 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260618152100011",
-      "pubDate": "Thu, 18 Jun 2026 18:00:00 +0900"
-    },
-    {
-      "title": "방미통위, JTBC 재무위기 논란 예의주시…\"시청권 침해 없어야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260618153900017",
-      "pubDate": "Thu, 18 Jun 2026 17:57:03 +0900"
-    },
-    {
-      "title": "[AI픽] 두산로보틱스 \"피지컬 AI·휴머노이드 기업으로 전환\"",
-      "link": "https://www.yna.co.kr/view/AKR20260618155500017",
-      "pubDate": "Thu, 18 Jun 2026 17:52:17 +0900"
-    },
-    {
-      "title": "춘천폴리텍대학·강원도립대, 현장 실무형 기술인재 양성 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260618156900062",
-      "pubDate": "Thu, 18 Jun 2026 17:52:05 +0900"
-    },
-    {
-      "title": "농식품부, 전국 호우 예보에 긴급 점검…피해 최소화 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260618156800030",
-      "pubDate": "Thu, 18 Jun 2026 17:47:03 +0900"
-    },
-    {
-      "title": "앤트로픽 \"미토스 문제 해결 노력\"…한국과 AI보안 협력(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260617153051017",
-      "pubDate": "Thu, 18 Jun 2026 17:28:03 +0900"
-    },
-    {
-      "title": "전재수 북항 돔구장 첫 단추 끼웠다…항만공사법 본회의 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260618133200051",
-      "pubDate": "Thu, 18 Jun 2026 17:17:13 +0900"
-    },
-    {
-      "title": "충남 내포신도시 건설현장서 양대 노총 충돌…경찰관 1명 뇌진탕",
-      "link": "https://www.yna.co.kr/view/AKR20260618150000063",
-      "pubDate": "Thu, 18 Jun 2026 17:12:21 +0900"
-    },
-    {
-      "title": "매파적 연준에 국고채 금리 동반 상승…3년물 연 3.750%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260618146400008",
-      "pubDate": "Thu, 18 Jun 2026 16:53:55 +0900"
-    },
-    {
-      "title": "[이천소식] '전세사기 예방 교육' 참가 희망 청년 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260618146000061",
-      "pubDate": "Thu, 18 Jun 2026 16:52:54 +0900"
     }
   ]
 }
