@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781886378,
+  "updated_at_unix": 1781892808,
   "items": [
+    {
+      "title": "달러-원, 이스라엘·헤즈볼라 휴전에 하락 후 되돌림…1,531원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260620002000002",
+      "pubDate": "Sat, 20 Jun 2026 02:42:51 +0900"
+    },
     {
       "title": "검찰, '주가조작 패가망신 1호' 증권사 3곳 압수수색",
       "link": "https://www.yna.co.kr/view/AKR20260619164400004",
@@ -147,11 +152,6 @@
       "title": "비전 AI로 축산물 도축 자동화…정부 AX 지원",
       "link": "https://www.yna.co.kr/view/AKR20260619120100002",
       "pubDate": "Fri, 19 Jun 2026 15:45:31 +0900"
-    },
-    {
-      "title": "[게시판] DB저축, '드림 빅 보통예금' 금리 최고 연 3%로 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260619120000002",
-      "pubDate": "Fri, 19 Jun 2026 15:43:39 +0900"
     }
   ]
 }
