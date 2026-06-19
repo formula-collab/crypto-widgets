@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781892808,
+  "updated_at_unix": 1781899813,
   "items": [
+    {
+      "title": "국제유가, 미·이란 후속협상 지연에 상승…브렌트 0.9%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260620003400072",
+      "pubDate": "Sat, 20 Jun 2026 04:23:54 +0900"
+    },
     {
       "title": "달러-원, 이스라엘·헤즈볼라 휴전에 하락 후 되돌림…1,531원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260620002000002",
@@ -147,11 +152,6 @@
       "title": "비트맥스, 25억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260619123600008",
       "pubDate": "Fri, 19 Jun 2026 15:51:46 +0900"
-    },
-    {
-      "title": "비전 AI로 축산물 도축 자동화…정부 AX 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260619120100002",
-      "pubDate": "Fri, 19 Jun 2026 15:45:31 +0900"
     }
   ]
 }
