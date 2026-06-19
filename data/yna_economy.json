@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781863737,
+  "updated_at_unix": 1781877113,
   "items": [
+    {
+      "title": "검찰, '주가조작 패가망신 1호' 증권사 3곳 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260619164400004",
+      "pubDate": "Fri, 19 Jun 2026 20:23:38 +0900"
+    },
+    {
+      "title": "한은 총재 \"올해 성장률 전망치 2.6%서 상향 조정될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619161500002",
+      "pubDate": "Fri, 19 Jun 2026 19:37:51 +0900"
+    },
     {
       "title": "HEM파마 \"나이스헬스디바이스코퍼레이션 주식 19억원에 취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260619152000008",
@@ -142,16 +152,6 @@
       "title": "[게시판] DB저축, '드림 빅 보통예금' 금리 최고 연 3%로 인상",
       "link": "https://www.yna.co.kr/view/AKR20260619120000002",
       "pubDate": "Fri, 19 Jun 2026 15:43:39 +0900"
-    },
-    {
-      "title": "외국환시세(6월19일·마감가)",
-      "link": "https://www.yna.co.kr/view/AKR20260619119700002",
-      "pubDate": "Fri, 19 Jun 2026 15:43:21 +0900"
-    },
-    {
-      "title": "코스피, 소폭 하락 9천선 턱걸이…코스닥 1,000선 밑으로",
-      "link": "https://www.yna.co.kr/view/AKR20260619120400008",
-      "pubDate": "Fri, 19 Jun 2026 15:40:58 +0900"
     }
   ]
 }
