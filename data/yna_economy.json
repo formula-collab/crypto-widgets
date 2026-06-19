@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781908903,
+  "updated_at_unix": 1781913458,
   "items": [
+    {
+      "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
+      "link": "https://www.yna.co.kr/view/AKR20260619136600003",
+      "pubDate": "Sat, 20 Jun 2026 08:01:01 +0900"
+    },
+    {
+      "title": "[해수분해] 항만이 막히면 수출도 멈춘다…24시간 돌아가는 물류",
+      "link": "https://www.yna.co.kr/view/AKR20260619064600051",
+      "pubDate": "Sat, 20 Jun 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[머니플로우] '9천피' 넘자 증시 대기자금·빚투 동반 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260619122200008",
+      "pubDate": "Sat, 20 Jun 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[다음주 경제] 체감경기 개선됐나…출생 증가세 지속도 관심",
+      "link": "https://www.yna.co.kr/view/AKR20260620012300002",
+      "pubDate": "Sat, 20 Jun 2026 07:48:04 +0900"
+    },
     {
       "title": "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'",
       "link": "https://www.yna.co.kr/view/AKR20260619112900030",
@@ -132,26 +152,6 @@
       "title": "국내증시 장중 시총 첫 8천조·하이닉스 2천조 돌파 후 후퇴(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260619044752008",
       "pubDate": "Fri, 19 Jun 2026 16:20:01 +0900"
-    },
-    {
-      "title": "중기부, 회원 탈퇴해도 개인정보 5년 보관…\"수집 정보도 과도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260619056900030",
-      "pubDate": "Fri, 19 Jun 2026 16:15:47 +0900"
-    },
-    {
-      "title": "[특징주] 하닉, '280만닉스' 터치후 오름폭 반납…삼전은 2.3%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260619044651008",
-      "pubDate": "Fri, 19 Jun 2026 16:14:25 +0900"
-    },
-    {
-      "title": "중기부, '모두의 창업' 개인정보 유출 사과…\"피해 확산 방지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260619126300030",
-      "pubDate": "Fri, 19 Jun 2026 16:11:24 +0900"
-    },
-    {
-      "title": "[특징주] '원스토어 인수' 넥써쓰, 27% 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260619056351008",
-      "pubDate": "Fri, 19 Jun 2026 15:58:56 +0900"
     }
   ]
 }
