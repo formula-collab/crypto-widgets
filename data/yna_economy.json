@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781905198,
+  "updated_at_unix": 1781908903,
   "items": [
+    {
+      "title": "[신상잇슈] 오리온 부침개맛 과자 '지지미'·파리바게뜨 '당근이세요?'",
+      "link": "https://www.yna.co.kr/view/AKR20260619112900030",
+      "pubDate": "Sat, 20 Jun 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 북오산자이 드포레 등 6천200가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260619142200003",
+      "pubDate": "Sat, 20 Jun 2026 07:00:02 +0900"
+    },
     {
       "title": "국제유가, 미·이란 후속협상 지연에 상승…브렌트 0.9%↑",
       "link": "https://www.yna.co.kr/view/AKR20260620003400072",
@@ -142,16 +152,6 @@
       "title": "[특징주] '원스토어 인수' 넥써쓰, 27% 급락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260619056351008",
       "pubDate": "Fri, 19 Jun 2026 15:58:56 +0900"
-    },
-    {
-      "title": "한국거래소, '7시 프리마켓' 개장 내년말로 연기",
-      "link": "https://www.yna.co.kr/view/AKR20260619124200008",
-      "pubDate": "Fri, 19 Jun 2026 15:58:27 +0900"
-    },
-    {
-      "title": "비트맥스, 25억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260619123600008",
-      "pubDate": "Fri, 19 Jun 2026 15:51:46 +0900"
     }
   ]
 }
