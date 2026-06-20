@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781949402,
+  "updated_at_unix": 1781956298,
   "items": [
+    {
+      "title": "국힘, 김용범 '역대급 호황' 언급에 \"다른 세상 살고 있나\"",
+      "link": "https://www.yna.co.kr/view/AKR20260620040000001",
+      "pubDate": "Sat, 20 Jun 2026 19:12:01 +0900"
+    },
     {
       "title": "춘천 용산정수장 현대화사업 공정률 77%…내년 2월 준공 순항",
       "link": "https://www.yna.co.kr/view/AKR20260619148400062",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.784%",
       "link": "https://www.yna.co.kr/view/AKR20260619138000008",
       "pubDate": "Fri, 19 Jun 2026 16:41:45 +0900"
-    },
-    {
-      "title": "코스피, 소폭 하락 9천선 턱걸이…장중 변동폭 553p '출렁'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260619132500008",
-      "pubDate": "Fri, 19 Jun 2026 16:41:07 +0900"
     }
   ]
 }
