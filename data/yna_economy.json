@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781913458,
+  "updated_at_unix": 1781924051,
   "items": [
+    {
+      "title": "춘천 용산정수장 현대화사업 공정률 77%…내년 2월 준공 순항",
+      "link": "https://www.yna.co.kr/view/AKR20260619148400062",
+      "pubDate": "Sat, 20 Jun 2026 11:10:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260620021100011",
+      "pubDate": "Sat, 20 Jun 2026 10:30:00 +0900"
+    },
+    {
+      "title": "이란, 호르무즈 통항 선박에 '당분간 무료→향후 수수료' 시사",
+      "link": "https://www.yna.co.kr/view/AKR20260620019600009",
+      "pubDate": "Sat, 20 Jun 2026 10:12:02 +0900"
+    },
+    {
+      "title": "울주군, 올해 1기분 자동차세 9만7천여건에 112억원 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260619086200057",
+      "pubDate": "Sat, 20 Jun 2026 10:10:01 +0900"
+    },
+    {
+      "title": "한국동서발전, '풍력 발전량 예측 인공지능 경진대회' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260619086000057",
+      "pubDate": "Sat, 20 Jun 2026 09:10:01 +0900"
+    },
+    {
+      "title": "[성남소식] 분당구청서 24일 구인·구직 행사…45명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260619106200061",
+      "pubDate": "Sat, 20 Jun 2026 09:00:02 +0900"
+    },
+    {
+      "title": "금융연 \"4대 은행 가계대출 편중에 생산적 금융 제약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260619164700002",
+      "pubDate": "Sat, 20 Jun 2026 09:00:00 +0900"
+    },
     {
       "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
       "link": "https://www.yna.co.kr/view/AKR20260619136600003",
@@ -117,41 +152,6 @@
       "title": "코스피, 소폭 하락 9천선 턱걸이…장중 변동폭 553p '출렁'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260619132500008",
       "pubDate": "Fri, 19 Jun 2026 16:41:07 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 中企피해 946건…\"운송 차질·수출물량 감소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260619116800030",
-      "pubDate": "Fri, 19 Jun 2026 16:37:06 +0900"
-    },
-    {
-      "title": "[동포의 창] 세계한상대회 '영비즈니스리더포럼' 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260619135200371",
-      "pubDate": "Fri, 19 Jun 2026 16:35:21 +0900"
-    },
-    {
-      "title": "부활한 공공기관장 평가…공무원연금·코이카 이사장 해임 건의(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260619102952002",
-      "pubDate": "Fri, 19 Jun 2026 16:27:13 +0900"
-    },
-    {
-      "title": "제테마, 70억원 유증…미래에셋증권 등에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260619129900008",
-      "pubDate": "Fri, 19 Jun 2026 16:21:48 +0900"
-    },
-    {
-      "title": "이란, 호르무즈 통항 신청 접수…발 묶인 한국 선박도 신청(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260619055051051",
-      "pubDate": "Fri, 19 Jun 2026 16:20:30 +0900"
-    },
-    {
-      "title": "환율 장중 1,540원 육박 후 1,520원대로 하락…당국 개입 추정",
-      "link": "https://www.yna.co.kr/view/AKR20260619125000002",
-      "pubDate": "Fri, 19 Jun 2026 16:20:14 +0900"
-    },
-    {
-      "title": "국내증시 장중 시총 첫 8천조·하이닉스 2천조 돌파 후 후퇴(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260619044752008",
-      "pubDate": "Fri, 19 Jun 2026 16:20:01 +0900"
     }
   ]
 }
