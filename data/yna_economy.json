@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781991826,
+  "updated_at_unix": 1781996193,
   "items": [
+    {
+      "title": "이미 목표가보다 더 올랐는데…빠른 상승에 바빠진 목표가 조정",
+      "link": "https://www.yna.co.kr/view/AKR20260620028100008",
+      "pubDate": "Sun, 21 Jun 2026 07:30:01 +0900"
+    },
+    {
+      "title": "삼성은 확대, 애플은 첫 출격…폴더블폰 판 바뀐다",
+      "link": "https://www.yna.co.kr/view/AKR20260619078600017",
+      "pubDate": "Sun, 21 Jun 2026 07:13:00 +0900"
+    },
+    {
+      "title": "'동전주 상폐' 초읽기…219개 종목 위기, 시총만 8조원",
+      "link": "https://www.yna.co.kr/view/AKR20260620033900008",
+      "pubDate": "Sun, 21 Jun 2026 07:10:01 +0900"
+    },
+    {
+      "title": "[반려동물] 추모 액자·천도재·전화상담…다양해지는 '펫로스' 치유법",
+      "link": "https://www.yna.co.kr/view/AKR20260619165100030",
+      "pubDate": "Sun, 21 Jun 2026 07:05:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 9,000선 넘어선 코스피, '1만피' 질주 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260619168100008",
+      "pubDate": "Sun, 21 Jun 2026 07:01:12 +0900"
+    },
     {
       "title": "휴전·유류할증료 인하에 해외여행 훈풍…유럽·미주 수요 꿈틀",
       "link": "https://www.yna.co.kr/view/AKR20260620007800030",
@@ -127,31 +152,6 @@
       "title": "이란, 호르무즈 통항 선박에 '당분간 무료→향후 수수료' 시사",
       "link": "https://www.yna.co.kr/view/AKR20260620019600009",
       "pubDate": "Sat, 20 Jun 2026 10:12:02 +0900"
-    },
-    {
-      "title": "울주군, 올해 1기분 자동차세 9만7천여건에 112억원 부과",
-      "link": "https://www.yna.co.kr/view/AKR20260619086200057",
-      "pubDate": "Sat, 20 Jun 2026 10:10:01 +0900"
-    },
-    {
-      "title": "한국동서발전, '풍력 발전량 예측 인공지능 경진대회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260619086000057",
-      "pubDate": "Sat, 20 Jun 2026 09:10:01 +0900"
-    },
-    {
-      "title": "[성남소식] 분당구청서 24일 구인·구직 행사…45명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260619106200061",
-      "pubDate": "Sat, 20 Jun 2026 09:00:02 +0900"
-    },
-    {
-      "title": "금융연 \"4대 은행 가계대출 편중에 생산적 금융 제약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260619164700002",
-      "pubDate": "Sat, 20 Jun 2026 09:00:00 +0900"
-    },
-    {
-      "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
-      "link": "https://www.yna.co.kr/view/AKR20260619136600003",
-      "pubDate": "Sat, 20 Jun 2026 08:01:01 +0900"
     }
   ]
 }
