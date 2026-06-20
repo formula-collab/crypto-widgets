@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1781996193,
+  "updated_at_unix": 1781999997,
   "items": [
+    {
+      "title": "더벤티, 고객 공모전 통해 선정한 새 캐릭터 '코비·옥춘' 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260621012200030",
+      "pubDate": "Sun, 21 Jun 2026 08:48:12 +0900"
+    },
+    {
+      "title": "전월세 수급 악화일로…갈 곳 없는 임차인 절반 '눌러앉기'",
+      "link": "https://www.yna.co.kr/view/AKR20260621007100003",
+      "pubDate": "Sun, 21 Jun 2026 08:34:00 +0900"
+    },
+    {
+      "title": "하나금융, 파크골프협회와 업무협약…시니어 금융서비스 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260620044000002",
+      "pubDate": "Sun, 21 Jun 2026 08:30:00 +0900"
+    },
+    {
+      "title": "LG엔솔 특허 출원 10만건 넘어…\"세계 배터리 기업 최초\"",
+      "link": "https://www.yna.co.kr/view/AKR20260621010300003",
+      "pubDate": "Sun, 21 Jun 2026 08:26:55 +0900"
+    },
+    {
+      "title": "소상공 10명 중 8명 \"현재 최저임금 부담 커\"…38% '고용 축소'",
+      "link": "https://www.yna.co.kr/view/AKR20260619148100030",
+      "pubDate": "Sun, 21 Jun 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 수출입은행·aT, K-푸드 수출 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260620034100002",
+      "pubDate": "Sun, 21 Jun 2026 08:00:01 +0900"
+    },
+    {
+      "title": "'신한 슈퍼SOL' 출시 기념 정기예금 특판…최고 연 3.30%",
+      "link": "https://www.yna.co.kr/view/AKR20260620044100002",
+      "pubDate": "Sun, 21 Jun 2026 08:00:01 +0900"
+    },
     {
       "title": "이미 목표가보다 더 올랐는데…빠른 상승에 바빠진 목표가 조정",
       "link": "https://www.yna.co.kr/view/AKR20260620028100008",
@@ -117,41 +152,6 @@
       "title": "빚투·주담대 쌍끌이에…5대 은행 가계대출 두달새 6조↑",
       "link": "https://www.yna.co.kr/view/AKR20260620038600002",
       "pubDate": "Sun, 21 Jun 2026 05:45:00 +0900"
-    },
-    {
-      "title": "'셔세권' 띄운 반도체발 유동성…내년까지 50조이상 풀릴 수도",
-      "link": "https://www.yna.co.kr/view/AKR20260619107800003",
-      "pubDate": "Sun, 21 Jun 2026 05:31:00 +0900"
-    },
-    {
-      "title": "늦어진 MBK 제재, 이르면 다음달 결론…중징계 유지될까",
-      "link": "https://www.yna.co.kr/view/AKR20260620039300002",
-      "pubDate": "Sun, 21 Jun 2026 05:01:00 +0900"
-    },
-    {
-      "title": "금리인상에 민감해진 빅테크들…\"AI 투자 위해 빚 내는 탓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621001700072",
-      "pubDate": "Sun, 21 Jun 2026 03:21:49 +0900"
-    },
-    {
-      "title": "국힘, 김용범 '역대급 호황' 언급에 \"다른 세상 살고 있나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260620040000001",
-      "pubDate": "Sat, 20 Jun 2026 19:12:01 +0900"
-    },
-    {
-      "title": "춘천 용산정수장 현대화사업 공정률 77%…내년 2월 준공 순항",
-      "link": "https://www.yna.co.kr/view/AKR20260619148400062",
-      "pubDate": "Sat, 20 Jun 2026 11:10:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260620021100011",
-      "pubDate": "Sat, 20 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "이란, 호르무즈 통항 선박에 '당분간 무료→향후 수수료' 시사",
-      "link": "https://www.yna.co.kr/view/AKR20260620019600009",
-      "pubDate": "Sat, 20 Jun 2026 10:12:02 +0900"
     }
   ]
 }
