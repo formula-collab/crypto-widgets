@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782015794,
+  "updated_at_unix": 1782031424,
   "items": [
+    {
+      "title": "[프로필] 남재헌 해수부 차관…북극항로 활성화 추진해온 정통관료",
+      "link": "https://www.yna.co.kr/view/AKR20260621037900051",
+      "pubDate": "Sun, 21 Jun 2026 17:33:37 +0900"
+    },
+    {
+      "title": "서경배 아모레 회장 차녀 서호정씨 오늘 결혼",
+      "link": "https://www.yna.co.kr/view/AKR20260621035200030",
+      "pubDate": "Sun, 21 Jun 2026 16:48:05 +0900"
+    },
+    {
+      "title": "\"'모두의 창업' 정보 유출, 프로젝트 참여 기업 해킹으로 발생\"",
+      "link": "https://www.yna.co.kr/view/AKR20260621034800030",
+      "pubDate": "Sun, 21 Jun 2026 16:39:46 +0900"
+    },
+    {
+      "title": "韓·인도, 공공행정 협력 MOU…재난복원 국제기구 가입 공식화",
+      "link": "https://www.yna.co.kr/view/AKR20260621027200530",
+      "pubDate": "Sun, 21 Jun 2026 15:00:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260621028900011",
+      "pubDate": "Sun, 21 Jun 2026 15:00:00 +0900"
+    },
+    {
+      "title": "국힘 \"선거 끝나자 보유세·양도세 강화론…김용범 경질해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260621028700001",
+      "pubDate": "Sun, 21 Jun 2026 14:49:06 +0900"
+    },
+    {
+      "title": "코리아국제스트리밍페스티벌 성료…\"K-OTT 투자유치 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260621026500017",
+      "pubDate": "Sun, 21 Jun 2026 13:53:07 +0900"
+    },
+    {
+      "title": "한투증권, 글로벌 운용사 CEO 초청해 협력 강화 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260621025500008",
+      "pubDate": "Sun, 21 Jun 2026 13:28:36 +0900"
+    },
     {
       "title": "강원도, 한-UAE CEPA 활용 중동시장 진출전략 설명회 30일 개최",
       "link": "https://www.yna.co.kr/view/AKR20260621024800062",
@@ -112,46 +152,6 @@
       "title": "우리금융, 생산적·포용금융에 10조 더 쓴다…속도 더 올려",
       "link": "https://www.yna.co.kr/view/AKR20260621019800002",
       "pubDate": "Sun, 21 Jun 2026 10:58:22 +0900"
-    },
-    {
-      "title": "CU, 아이스크림 '런앤쿨' 출시…러닝 열풍 겨냥 상품·매장 특화",
-      "link": "https://www.yna.co.kr/view/AKR20260621019700030",
-      "pubDate": "Sun, 21 Jun 2026 10:47:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260621017600011",
-      "pubDate": "Sun, 21 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "춘천 강촌 '골목형상점가' 지정…지역경제 활성화 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260619141500062",
-      "pubDate": "Sun, 21 Jun 2026 10:10:01 +0900"
-    },
-    {
-      "title": "LG전자, AI 기능 강화 국내 최대 용량 복합형 세탁건조기 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260621011200003",
-      "pubDate": "Sun, 21 Jun 2026 10:00:00 +0900"
-    },
-    {
-      "title": "임광현 \"등록임대아파트 매도기회 주면 서울 6만8천호 공급효과\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621014900002",
-      "pubDate": "Sun, 21 Jun 2026 09:45:56 +0900"
-    },
-    {
-      "title": "\"2주 만에 3억원 올라\" 펄펄 끓는 동탄 아파트…계약해제도 속출",
-      "link": "https://www.yna.co.kr/view/AKR20260621012400003",
-      "pubDate": "Sun, 21 Jun 2026 09:45:41 +0900"
-    },
-    {
-      "title": "쿠팡이츠서비스, 정부·지자체와 배달파트너 폭염 대응 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260621014800030",
-      "pubDate": "Sun, 21 Jun 2026 09:40:11 +0900"
-    },
-    {
-      "title": "소비쿠폰 받으려 차명 카드단말기 꼼수…마트 업주 집행유예",
-      "link": "https://www.yna.co.kr/view/AKR20260621013400004",
-      "pubDate": "Sun, 21 Jun 2026 09:26:54 +0900"
     }
   ]
 }
