@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782073195,
+  "updated_at_unix": 1782078532,
   "items": [
+    {
+      "title": "[팩트체크] 챗GPT 29만9천원 800여명 무단결제…추가인증 없는 해외결제",
+      "link": "https://www.yna.co.kr/view/AKR20260619150300518",
+      "pubDate": "Mon, 22 Jun 2026 06:30:01 +0900"
+    },
+    {
+      "title": "울산시, 남구 고용위기 대응지역 지정 연장 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260621041000057",
+      "pubDate": "Mon, 22 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "[게시판] 산업부, 제1회 통상아카데미 개최…글로벌 통상위기 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260621024500003",
+      "pubDate": "Mon, 22 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "중기부, '창업도시 조성 프로젝트' 공모…최대 4억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260620038700030",
+      "pubDate": "Mon, 22 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "북한, 자금세탁·테러자금 '고위험국' 지위 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260621033900002",
+      "pubDate": "Mon, 22 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "'불장'에 자산운용사 1분기 순익 1.5조, 3.3배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260620040600002",
+      "pubDate": "Mon, 22 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "금융위, '해킹 유출' 롯데카드 제재 본격 착수…다음달 결론",
+      "link": "https://www.yna.co.kr/view/AKR20260621035300002",
+      "pubDate": "Mon, 22 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "반도체 성과급발 인플레 현실화하나…저소득층 '삼중고' 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260621041300002",
+      "pubDate": "Mon, 22 Jun 2026 05:53:01 +0900"
+    },
+    {
+      "title": "월급 500만원 넘는 근로자 느는데…제조업 24%·보건복지 5%",
+      "link": "https://www.yna.co.kr/view/AKR20260621031200002",
+      "pubDate": "Mon, 22 Jun 2026 05:53:01 +0900"
+    },
+    {
+      "title": "3高에 중소기업 흔들…은행 연체율 급등, 대기업과 격차 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260621035700002",
+      "pubDate": "Mon, 22 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "\"'모두의 창업' 정보 유출, 프로젝트 참여 기업 해킹으로 발생\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260621034851030",
@@ -102,56 +152,6 @@
       "title": "이억원 \"혁신발목 잡는 규제벽 허물것\"…샌드박스 규제개선",
       "link": "https://www.yna.co.kr/view/AKR20260620039100002",
       "pubDate": "Sun, 21 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "[게시판] 중진공, 청년창업사관학교 동문회와 창업자 지원 기부 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260620039700030",
-      "pubDate": "Sun, 21 Jun 2026 12:00:04 +0900"
-    },
-    {
-      "title": "中企, 美철강 관세에 \"채산성 악화 우려…대미협상 강화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260620041400030",
-      "pubDate": "Sun, 21 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "중기부, '혁신 소상공인 통합 오디션' 개최…최대 1억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260620037300030",
-      "pubDate": "Sun, 21 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "경총 \"한국 최저임금 G7 평균보다 많아…생산성은 하위권\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621021900003",
-      "pubDate": "Sun, 21 Jun 2026 12:00:00 +0900"
-    },
-    {
-      "title": "충남도, '인공지능 대전환 사업' 참여 기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260621021600063",
-      "pubDate": "Sun, 21 Jun 2026 11:40:30 +0900"
-    },
-    {
-      "title": "서울시, 재개발·재건축조합 전자총회 등 지원…\"기간 단축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260620029700004",
-      "pubDate": "Sun, 21 Jun 2026 11:15:01 +0900"
-    },
-    {
-      "title": "해수부, 케냐 국제해양회의서 유엔해양총회 협력 기반 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260619117900051",
-      "pubDate": "Sun, 21 Jun 2026 11:00:04 +0900"
-    },
-    {
-      "title": "코트라·경남도, 북미 전력·에너지 시장 겨냥 '수출 로드쇼'",
-      "link": "https://www.yna.co.kr/view/AKR20260621013100003",
-      "pubDate": "Sun, 21 Jun 2026 11:00:01 +0900"
-    },
-    {
-      "title": "AI 바람 부는 일본 건설기계 시장…한국 부품사, 공급망 진입 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260621016100003",
-      "pubDate": "Sun, 21 Jun 2026 11:00:01 +0900"
-    },
-    {
-      "title": "미국, 관세 회피 단속 강화…무협 \"수출기업 철저 대비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621019100003",
-      "pubDate": "Sun, 21 Jun 2026 11:00:00 +0900"
     }
   ]
 }
