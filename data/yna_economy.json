@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782031424,
+  "updated_at_unix": 1782041874,
   "items": [
+    {
+      "title": "\"'모두의 창업' 정보 유출, 프로젝트 참여 기업 해킹으로 발생\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260621034851030",
+      "pubDate": "Sun, 21 Jun 2026 18:12:25 +0900"
+    },
     {
       "title": "[프로필] 남재헌 해수부 차관…북극항로 활성화 추진해온 정통관료",
       "link": "https://www.yna.co.kr/view/AKR20260621037900051",
@@ -147,11 +152,6 @@
       "title": "미국, 관세 회피 단속 강화…무협 \"수출기업 철저 대비해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260621019100003",
       "pubDate": "Sun, 21 Jun 2026 11:00:00 +0900"
-    },
-    {
-      "title": "우리금융, 생산적·포용금융에 10조 더 쓴다…속도 더 올려",
-      "link": "https://www.yna.co.kr/view/AKR20260621019800002",
-      "pubDate": "Sun, 21 Jun 2026 10:58:22 +0900"
     }
   ]
 }
