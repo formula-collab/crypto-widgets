@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782082673,
+  "updated_at_unix": 1782086870,
   "items": [
+    {
+      "title": "외국환시세(6월22일·하나은행 1차 고시 기준)",
+      "link": "https://www.yna.co.kr/view/AKR20260622028800002",
+      "pubDate": "Mon, 22 Jun 2026 09:02:46 +0900"
+    },
+    {
+      "title": "NH아문디운용, K-반도체 ETF에 SK스퀘어 신규 편입",
+      "link": "https://www.yna.co.kr/view/AKR20260622028400008",
+      "pubDate": "Mon, 22 Jun 2026 09:01:13 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 3.9원 오른 1,530.9원(개장)",
+      "link": "https://www.yna.co.kr/view/AKR20260622029200002",
+      "pubDate": "Mon, 22 Jun 2026 09:00:38 +0900"
+    },
+    {
+      "title": "[1보] 6월 1∼20일 수출 620억달러, 60.4% 증가…일평균 49.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260622029100002",
+      "pubDate": "Mon, 22 Jun 2026 09:00:32 +0900"
+    },
+    {
+      "title": "한-아세안센터, '넥스트라이즈'서 아세안 스타트업 30곳 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260619092400371",
+      "pubDate": "Mon, 22 Jun 2026 09:00:03 +0900"
+    },
+    {
+      "title": "롯데바이오, 송도 캠퍼스 1공장 건설·사용승인 획득",
+      "link": "https://www.yna.co.kr/view/AKR20260619164500017",
+      "pubDate": "Mon, 22 Jun 2026 09:00:03 +0900"
+    },
+    {
+      "title": "한국 선박 2척 호르무즈 빠져나와…종전 합의 후 첫 사례",
+      "link": "https://www.yna.co.kr/view/AKR20260621044700051",
+      "pubDate": "Mon, 22 Jun 2026 09:00:02 +0900"
+    },
+    {
+      "title": "키움증권, 총상금 6천만원 규모 '대학동아리 투자챌린지' 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260622026900008",
+      "pubDate": "Mon, 22 Jun 2026 08:59:43 +0900"
+    },
+    {
+      "title": "7월 전국 아파트 입주물량 1만4천가구…전월대비 소폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260622026800003",
+      "pubDate": "Mon, 22 Jun 2026 08:57:17 +0900"
+    },
+    {
+      "title": "3분기 전기요금 동결…연료비조정단가 '+5'원 유지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260622016651003",
+      "pubDate": "Mon, 22 Jun 2026 08:53:23 +0900"
+    },
+    {
+      "title": "흥국증권 \"신세계, 소비심리 회복에 2분기 호실적…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622024200008",
+      "pubDate": "Mon, 22 Jun 2026 08:50:34 +0900"
+    },
+    {
+      "title": "메리츠증권 \"삼성전기, AI발 수요 2028년까지도 확대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622022100008",
+      "pubDate": "Mon, 22 Jun 2026 08:42:45 +0900"
+    },
+    {
+      "title": "이억원, 청년미래적금 첫날 '커피차 홍보'…\"희망의 사다리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260620039000002",
+      "pubDate": "Mon, 22 Jun 2026 08:40:00 +0900"
+    },
+    {
+      "title": "NH투자 \"SK스퀘어, 주주환원 강화·적극적 M&A 전망…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622019700008",
+      "pubDate": "Mon, 22 Jun 2026 08:30:54 +0900"
+    },
+    {
+      "title": "iM증권 \"내년까지 반도체 호황\"…'삼전닉스' 목표가 20%대↑",
+      "link": "https://www.yna.co.kr/view/AKR20260622018800008",
+      "pubDate": "Mon, 22 Jun 2026 08:29:48 +0900"
+    },
+    {
+      "title": "IBK투자, 코스피 최고 전망치 '9,000→11,000'으로 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260622017800008",
+      "pubDate": "Mon, 22 Jun 2026 08:17:05 +0900"
+    },
+    {
+      "title": "한투증권, 반도체 '비중 확대' 유지…\"실적 여전히 우상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622017100008",
+      "pubDate": "Mon, 22 Jun 2026 08:15:06 +0900"
+    },
+    {
+      "title": "[마켓뷰] 미·이란 후속 협상 파열음 속 코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260622017000008",
+      "pubDate": "Mon, 22 Jun 2026 08:14:28 +0900"
+    },
+    {
+      "title": "3분기 전기요금 동결…연료비조정단가 '+5'원 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260622016600003",
+      "pubDate": "Mon, 22 Jun 2026 08:04:01 +0900"
+    },
+    {
+      "title": "30주년 앞둔 코스닥, 소외감 심화…승강제 구체안 가을로 미뤄질듯",
+      "link": "https://www.yna.co.kr/view/AKR20260619166800008",
+      "pubDate": "Mon, 22 Jun 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시, 눈높이 맞춤형 금융교육 확대 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260622015000051",
+      "pubDate": "Mon, 22 Jun 2026 07:51:38 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260622011000011",
@@ -47,111 +152,6 @@
       "title": "월급 500만원 넘는 근로자 느는데…제조업 24%·보건복지 5%",
       "link": "https://www.yna.co.kr/view/AKR20260621031200002",
       "pubDate": "Mon, 22 Jun 2026 05:53:01 +0900"
-    },
-    {
-      "title": "반도체 성과급발 인플레 현실화하나…저소득층 '삼중고' 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260621041300002",
-      "pubDate": "Mon, 22 Jun 2026 05:53:01 +0900"
-    },
-    {
-      "title": "3高에 중소기업 흔들…은행 연체율 급등, 대기업과 격차 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260621035700002",
-      "pubDate": "Mon, 22 Jun 2026 05:51:00 +0900"
-    },
-    {
-      "title": "\"'모두의 창업' 정보 유출, 프로젝트 참여 기업 해킹으로 발생\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260621034851030",
-      "pubDate": "Sun, 21 Jun 2026 18:12:25 +0900"
-    },
-    {
-      "title": "[프로필] 남재헌 해수부 차관…북극항로 활성화 추진해온 정통관료",
-      "link": "https://www.yna.co.kr/view/AKR20260621037900051",
-      "pubDate": "Sun, 21 Jun 2026 17:33:37 +0900"
-    },
-    {
-      "title": "서경배 아모레 회장 차녀 서호정씨 오늘 결혼",
-      "link": "https://www.yna.co.kr/view/AKR20260621035200030",
-      "pubDate": "Sun, 21 Jun 2026 16:48:05 +0900"
-    },
-    {
-      "title": "\"'모두의 창업' 정보 유출, 프로젝트 참여 기업 해킹으로 발생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621034800030",
-      "pubDate": "Sun, 21 Jun 2026 16:39:46 +0900"
-    },
-    {
-      "title": "韓·인도, 공공행정 협력 MOU…재난복원 국제기구 가입 공식화",
-      "link": "https://www.yna.co.kr/view/AKR20260621027200530",
-      "pubDate": "Sun, 21 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260621028900011",
-      "pubDate": "Sun, 21 Jun 2026 15:00:00 +0900"
-    },
-    {
-      "title": "국힘 \"선거 끝나자 보유세·양도세 강화론…김용범 경질해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621028700001",
-      "pubDate": "Sun, 21 Jun 2026 14:49:06 +0900"
-    },
-    {
-      "title": "코리아국제스트리밍페스티벌 성료…\"K-OTT 투자유치 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260621026500017",
-      "pubDate": "Sun, 21 Jun 2026 13:53:07 +0900"
-    },
-    {
-      "title": "한투증권, 글로벌 운용사 CEO 초청해 협력 강화 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260621025500008",
-      "pubDate": "Sun, 21 Jun 2026 13:28:36 +0900"
-    },
-    {
-      "title": "강원도, 한-UAE CEPA 활용 중동시장 진출전략 설명회 30일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260621024800062",
-      "pubDate": "Sun, 21 Jun 2026 13:01:55 +0900"
-    },
-    {
-      "title": "충남도, '공동주택 골조단계 합동 품질점검단' 활동 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260621024100063",
-      "pubDate": "Sun, 21 Jun 2026 12:26:18 +0900"
-    },
-    {
-      "title": "'특허심판, 이제 안방에서 참석'…온라인 구술심리로 접근성↑",
-      "link": "https://www.yna.co.kr/view/AKR20260619105400063",
-      "pubDate": "Sun, 21 Jun 2026 12:00:17 +0900"
-    },
-    {
-      "title": "'대리점에 연대보증 요구 갑질' 두산밥캣코리아, 공정위 제재",
-      "link": "https://www.yna.co.kr/view/AKR20260619069900002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:16 +0900"
-    },
-    {
-      "title": "우체국 청년미래적금 출시…정부기여금에 비과세 혜택까지",
-      "link": "https://www.yna.co.kr/view/AKR20260619129500017",
-      "pubDate": "Sun, 21 Jun 2026 12:00:15 +0900"
-    },
-    {
-      "title": "투자부동산 잘못 쓰면 회계위반…금감원, 재무제표 중점심사",
-      "link": "https://www.yna.co.kr/view/AKR20260620033600002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:08 +0900"
-    },
-    {
-      "title": "제2회 금융위人상에 '조기 완판' 국민성장펀드 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260620036900002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:07 +0900"
-    },
-    {
-      "title": "금감원, 보험금 심사기준 변경 사전 안내 의무화",
-      "link": "https://www.yna.co.kr/view/AKR20260620037600002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:07 +0900"
-    },
-    {
-      "title": "'최고 연 19% 효과' 청년미래적금 출시…2주간 가입신청",
-      "link": "https://www.yna.co.kr/view/AKR20260620038800002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:06 +0900"
-    },
-    {
-      "title": "\"대형 여전사·저축은행, 대표·이사회 의장 겸직 문제 여전\"",
-      "link": "https://www.yna.co.kr/view/AKR20260620041900002",
-      "pubDate": "Sun, 21 Jun 2026 12:00:06 +0900"
     }
   ]
 }
