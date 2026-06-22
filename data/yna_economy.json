@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782165234,
+  "updated_at_unix": 1782169794,
   "items": [
+    {
+      "title": "상의, 전국 돌며 규제애로 청취…\"규제합리화 고속도로 깔자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622123100003",
+      "pubDate": "Tue, 23 Jun 2026 08:00:07 +0900"
+    },
+    {
+      "title": "\"아스트라제네카, 국내 바이오텍과 협력 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260622058600017",
+      "pubDate": "Tue, 23 Jun 2026 08:00:05 +0900"
+    },
+    {
+      "title": "용산구, 노인일자리 지원기관 '용산시니어클럽' 개관",
+      "link": "https://www.yna.co.kr/view/AKR20260623019600004",
+      "pubDate": "Tue, 23 Jun 2026 07:44:43 +0900"
+    },
+    {
+      "title": "[가보니] 바이오USA 달군 K바이오…한국관에 글로벌 인파",
+      "link": "https://www.yna.co.kr/view/AKR20260619094400017",
+      "pubDate": "Tue, 23 Jun 2026 07:37:41 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260623016700011",
+      "pubDate": "Tue, 23 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "도림천 밑에 4.5㎞ 대심도 빗물터널…서울 침수방어망 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260623016100004",
+      "pubDate": "Tue, 23 Jun 2026 07:12:35 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⒁:",
+      "link": "https://www.yna.co.kr/view/AKR20260618079000898",
+      "pubDate": "Tue, 23 Jun 2026 07:00:05 +0900"
+    },
     {
       "title": "울산시, 드론으로 찍고 AI로 분석해 만든 전자지도 실증 추진",
       "link": "https://www.yna.co.kr/view/AKR20260622154000057",
@@ -117,41 +152,6 @@
       "title": "춘천 캠프페이지 '기후대응 도시숲' 22일부터 일부 개방",
       "link": "https://www.yna.co.kr/view/AKR20260622142000062",
       "pubDate": "Mon, 22 Jun 2026 17:51:05 +0900"
-    },
-    {
-      "title": "검역본부, ASF 백신 수출 위해 특수연구시설 민간 개방 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260622143300030",
-      "pubDate": "Mon, 22 Jun 2026 17:47:08 +0900"
-    },
-    {
-      "title": "DB손보, 부산 신사옥 준공식…\"부울경 지역 경쟁력 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260622143400002",
-      "pubDate": "Mon, 22 Jun 2026 17:45:59 +0900"
-    },
-    {
-      "title": "[동정] 노동장관, 호국보훈의 달 맞아 대전보훈병원 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260622141400530",
-      "pubDate": "Mon, 22 Jun 2026 17:43:46 +0900"
-    },
-    {
-      "title": "춘천시, 중국 다롄·선양 방문…AI·바이오 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260622140800062",
-      "pubDate": "Mon, 22 Jun 2026 17:43:33 +0900"
-    },
-    {
-      "title": "아미코젠, 100억원 유증…와이케이바이오노바홀딩스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260622141500008",
-      "pubDate": "Mon, 22 Jun 2026 17:42:32 +0900"
-    },
-    {
-      "title": "우상호 '강릉AI데이터센터 건립' 공약…'변전소 부재' 변수 봉착",
-      "link": "https://www.yna.co.kr/view/AKR20260622140200062",
-      "pubDate": "Mon, 22 Jun 2026 17:39:13 +0900"
-    },
-    {
-      "title": "우리은행, 신용대출 1억·마통 5천 한도 묶는다…'빚투' 차단",
-      "link": "https://www.yna.co.kr/view/AKR20260622140500002",
-      "pubDate": "Mon, 22 Jun 2026 17:36:47 +0900"
     }
   ]
 }
