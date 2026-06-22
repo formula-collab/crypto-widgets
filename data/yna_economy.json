@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782157890,
+  "updated_at_unix": 1782165234,
   "items": [
+    {
+      "title": "울산시, 드론으로 찍고 AI로 분석해 만든 전자지도 실증 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260622154000057",
+      "pubDate": "Tue, 23 Jun 2026 06:02:06 +0900"
+    },
+    {
+      "title": "서울시, 체납세금 징수 나설 기간제 근로자 292명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260622137900004",
+      "pubDate": "Tue, 23 Jun 2026 06:00:08 +0900"
+    },
+    {
+      "title": "'삼전닉스' 성과급·주가 상승에 집값·임금 상승 기대도↑",
+      "link": "https://www.yna.co.kr/view/AKR20260622133700002",
+      "pubDate": "Tue, 23 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "한은, '점도표 효과' 분초 단위로 점검…美 연준과는 다른 방향",
+      "link": "https://www.yna.co.kr/view/AKR20260622140600002",
+      "pubDate": "Tue, 23 Jun 2026 05:57:01 +0900"
+    },
+    {
+      "title": "고금리에 1분기 자영업자 연체 빚 13% 증가…매출은 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260622133500002",
+      "pubDate": "Tue, 23 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "한국인 13조 쓸 때 일본인은 4조…대일 여행적자 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260622150800002",
+      "pubDate": "Tue, 23 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "'증원 두번' 힘실리는 공정위…대기업 반칙·디지털 독점 정조준",
+      "link": "https://www.yna.co.kr/view/AKR20260622134500002",
+      "pubDate": "Tue, 23 Jun 2026 05:51:00 +0900"
+    },
+    {
+      "title": "럭스코 등 5개 벤처기업, 코스닥 상장예비심사 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260622151800008",
+      "pubDate": "Tue, 23 Jun 2026 05:10:04 +0900"
+    },
     {
       "title": "미·이란 협상 진전에 국제유가 하락…브렌트유 3.3%↓",
       "link": "https://www.yna.co.kr/view/AKR20260623006300072",
@@ -112,46 +152,6 @@
       "title": "우리은행, 신용대출 1억·마통 5천 한도 묶는다…'빚투' 차단",
       "link": "https://www.yna.co.kr/view/AKR20260622140500002",
       "pubDate": "Mon, 22 Jun 2026 17:36:47 +0900"
-    },
-    {
-      "title": "정은보 \"증시, 코리아 디스카운트 상당 해소\"…외신 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260622139300008",
-      "pubDate": "Mon, 22 Jun 2026 17:35:44 +0900"
-    },
-    {
-      "title": "[게시판] 병무청-노동부, 사회복무요원 취업지원 협력 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260622138500504",
-      "pubDate": "Mon, 22 Jun 2026 17:33:52 +0900"
-    },
-    {
-      "title": "[동정] 농식품장관, 스마트팜 청년 창업 보육센터 통합 수료식 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260622099100030",
-      "pubDate": "Mon, 22 Jun 2026 17:27:30 +0900"
-    },
-    {
-      "title": "aT-국립농업과학원, 기후변화 대응 위한 공조 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260622130800030",
-      "pubDate": "Mon, 22 Jun 2026 17:26:39 +0900"
-    },
-    {
-      "title": "가정의달·빚투 등에…5월 카드론 잔액 43조 넘어 '최대'",
-      "link": "https://www.yna.co.kr/view/AKR20260622130200002",
-      "pubDate": "Mon, 22 Jun 2026 17:24:19 +0900"
-    },
-    {
-      "title": "글로벌 리그 구상하던 '모두의 창업'…정보유출에 2기 출범도 차질(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260622119751030",
-      "pubDate": "Mon, 22 Jun 2026 17:20:27 +0900"
-    },
-    {
-      "title": "동대문엽기떡볶이, 내년 7월부터 모든 제품 판매가 7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260622126800030",
-      "pubDate": "Mon, 22 Jun 2026 17:08:38 +0900"
-    },
-    {
-      "title": "이찬진 \"단일종목 레버리지, 드러누워 막을걸 후회…부작용 커\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260622089251002",
-      "pubDate": "Mon, 22 Jun 2026 17:08:34 +0900"
     }
   ]
 }
