@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782127802,
+  "updated_at_unix": 1782144605,
   "items": [
+    {
+      "title": "그린스펀 前연준의장 별세…美4대정권 19년간 세계경제 쥐락펴락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260622157351071",
+      "pubDate": "Mon, 22 Jun 2026 22:44:18 +0900"
+    },
+    {
+      "title": "재경부, 공공기관 AI 우수활용 현장 방문…한국공항공사 첫 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260622098700002",
+      "pubDate": "Mon, 22 Jun 2026 22:04:55 +0900"
+    },
     {
       "title": "DL이앤씨 \"사우디서 8천533억원 과세 통보…불복절차 진행\"",
       "link": "https://www.yna.co.kr/view/AKR20260622150200003",
@@ -142,16 +152,6 @@
       "title": "하이닉스, 삼전 제치고 시총 1위…우선주 포함시 삼전 1위 사수(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260622063152008",
       "pubDate": "Mon, 22 Jun 2026 16:52:31 +0900"
-    },
-    {
-      "title": "아이티엠반도체 \"종속회사 ITM에 307억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260622125600008",
-      "pubDate": "Mon, 22 Jun 2026 16:46:58 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.810%",
-      "link": "https://www.yna.co.kr/view/AKR20260622131000008",
-      "pubDate": "Mon, 22 Jun 2026 16:45:24 +0900"
     }
   ]
 }
