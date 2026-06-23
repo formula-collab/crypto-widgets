@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782215454,
+  "updated_at_unix": 1782224483,
   "items": [
+    {
+      "title": "삼성·SK, 호남·충청 반도체 클러스터 투자규모 수백조원 거론",
+      "link": "https://www.yna.co.kr/view/AKR20260623169400003",
+      "pubDate": "Tue, 23 Jun 2026 20:55:06 +0900"
+    },
     {
       "title": "울산플랜트노사 사후조정 잠정합의안 도출…일급 7천500원 인상",
       "link": "https://www.yna.co.kr/view/AKR20260623167900057",
@@ -147,11 +152,6 @@
       "title": "[울산소식] 울주 소비자식품위생감시원 교육…\"안심 먹거리 제공\"",
       "link": "https://www.yna.co.kr/view/AKR20260623122200057",
       "pubDate": "Tue, 23 Jun 2026 16:01:13 +0900"
-    },
-    {
-      "title": "복지부-KB국민은행 손잡고 퇴원 어르신 지역사회 복귀 돕는다",
-      "link": "https://www.yna.co.kr/view/AKR20260623032700530",
-      "pubDate": "Tue, 23 Jun 2026 16:00:11 +0900"
     }
   ]
 }
