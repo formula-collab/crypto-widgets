@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782204898,
+  "updated_at_unix": 1782215454,
   "items": [
+    {
+      "title": "울산플랜트노사 사후조정 잠정합의안 도출…일급 7천500원 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260623167900057",
+      "pubDate": "Tue, 23 Jun 2026 19:57:14 +0900"
+    },
+    {
+      "title": "하나은행, 만 40세 직원 대상 특별퇴직…최대 28개월치 평균임금",
+      "link": "https://www.yna.co.kr/view/AKR20260623163200002",
+      "pubDate": "Tue, 23 Jun 2026 18:39:07 +0900"
+    },
+    {
+      "title": "증권사 리서치센터장들 \"펀더멘털 변화없어, 상승 후 숨고르기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260623159300008",
+      "pubDate": "Tue, 23 Jun 2026 18:16:19 +0900"
+    },
+    {
+      "title": "경기도 창업경진대회서 'AI 품질검증 플랫폼' 업체 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260623159800061",
+      "pubDate": "Tue, 23 Jun 2026 18:05:15 +0900"
+    },
+    {
+      "title": "스타벅스, 여름 음료·굿즈 출시…'서머e프리퀀시'는 보류",
+      "link": "https://www.yna.co.kr/view/AKR20260623157400030",
+      "pubDate": "Tue, 23 Jun 2026 18:03:36 +0900"
+    },
+    {
+      "title": "경남제약, 65억원 유상증자…(주)엑스에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260623158300008",
+      "pubDate": "Tue, 23 Jun 2026 18:03:17 +0900"
+    },
+    {
+      "title": "정부, 망고 할당관세 적용 연장…계란 수입·할인 확대 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260623159200030",
+      "pubDate": "Tue, 23 Jun 2026 18:00:47 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260623152500011",
+      "pubDate": "Tue, 23 Jun 2026 18:00:00 +0900"
+    },
+    {
+      "title": "'정부 7월부터 국고채 바이백' 예고에 금리↓…3년물 연 3.770%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260623142051008",
+      "pubDate": "Tue, 23 Jun 2026 17:57:00 +0900"
+    },
+    {
+      "title": "청주시 공무원, 체납 예방 아이디어로 충북 연구대회 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260623158500064",
+      "pubDate": "Tue, 23 Jun 2026 17:56:39 +0900"
+    },
     {
       "title": "정선군 기본소득형 창업 지원 1호점 '숨바우식당' 개업",
       "link": "https://www.yna.co.kr/view/AKR20260623156500062",
@@ -102,56 +152,6 @@
       "title": "복지부-KB국민은행 손잡고 퇴원 어르신 지역사회 복귀 돕는다",
       "link": "https://www.yna.co.kr/view/AKR20260623032700530",
       "pubDate": "Tue, 23 Jun 2026 16:00:11 +0900"
-    },
-    {
-      "title": "허위 직원 내세워 청년일자리 보조금 부정수급 60대 징역 10개월",
-      "link": "https://www.yna.co.kr/view/AKR20260623110000051",
-      "pubDate": "Tue, 23 Jun 2026 16:00:10 +0900"
-    },
-    {
-      "title": "코트라, 중동 수출복원·재건 기회 공략…태스크포스 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260623119400003",
-      "pubDate": "Tue, 23 Jun 2026 16:00:00 +0900"
-    },
-    {
-      "title": "국토안전원장 \"서소문 사고 재발 막는다…해체공사 안전 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260623128700003",
-      "pubDate": "Tue, 23 Jun 2026 16:00:00 +0900"
-    },
-    {
-      "title": "KG이니시스 \"케이지캐피탈홀딩스 주식 580억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260623132500008",
-      "pubDate": "Tue, 23 Jun 2026 15:57:33 +0900"
-    },
-    {
-      "title": "국민연금 \"3월 말 적립금 1천526조…기금 소진 5∼7년 늦춰져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260623131500530",
-      "pubDate": "Tue, 23 Jun 2026 15:51:39 +0900"
-    },
-    {
-      "title": "\"중동 인프라 시장 진출 확대\"…민관협의체 첫 회의",
-      "link": "https://www.yna.co.kr/view/AKR20260623128300003",
-      "pubDate": "Tue, 23 Jun 2026 15:50:28 +0900"
-    },
-    {
-      "title": "[특징주] 보해양조, 투자주의 지정에도…상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623050351008",
-      "pubDate": "Tue, 23 Jun 2026 15:46:55 +0900"
-    },
-    {
-      "title": "[특징주] 급락장에 증권주 줄줄이 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623119151008",
-      "pubDate": "Tue, 23 Jun 2026 15:42:40 +0900"
-    },
-    {
-      "title": "[특징주] 차AI헬스케어, 급락장에도 대규모 장기 공급계약에 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623043351008",
-      "pubDate": "Tue, 23 Jun 2026 15:39:30 +0900"
-    },
-    {
-      "title": "[특징주] DL이앤씨 '사우디발 8천533억원 과세통보'에 20% 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623045951008",
-      "pubDate": "Tue, 23 Jun 2026 15:38:37 +0900"
     }
   ]
 }
