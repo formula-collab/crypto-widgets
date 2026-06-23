@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782233095,
+  "updated_at_unix": 1782241195,
   "items": [
+    {
+      "title": "달러-원, 1,550원대 앞두고 부담감…6.00원 하락 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260624004200002",
+      "pubDate": "Wed, 24 Jun 2026 03:35:59 +0900"
+    },
     {
       "title": "삼성·SK, 호남·충청 반도체 클러스터 투자규모 수백조원 거론",
       "link": "https://www.yna.co.kr/view/AKR20260623169400003",
@@ -147,11 +152,6 @@
       "title": "증시 급락속 코스피 변동성지수 또 뛰어 90선 근접(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260623086151008",
       "pubDate": "Tue, 23 Jun 2026 16:04:02 +0900"
-    },
-    {
-      "title": "[울산소식] 울주 소비자식품위생감시원 교육…\"안심 먹거리 제공\"",
-      "link": "https://www.yna.co.kr/view/AKR20260623122200057",
-      "pubDate": "Tue, 23 Jun 2026 16:01:13 +0900"
     }
   ]
 }
