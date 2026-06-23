@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782241195,
+  "updated_at_unix": 1782248430,
   "items": [
+    {
+      "title": "'황혼 육아'도 여성 몫…할머니 손주 돌보기가 2.4배",
+      "link": "https://www.yna.co.kr/view/AKR20260623169500002",
+      "pubDate": "Wed, 24 Jun 2026 05:51:02 +0900"
+    },
+    {
+      "title": "남성 육아휴직 81%가 지지하지만…동료에 권장은 46% 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260623157600002",
+      "pubDate": "Wed, 24 Jun 2026 05:51:02 +0900"
+    },
+    {
+      "title": "국제유가, 호르무즈 운항 재개 주시하며 약 넉달 만에 최저치",
+      "link": "https://www.yna.co.kr/view/AKR20260624006300072",
+      "pubDate": "Wed, 24 Jun 2026 04:58:47 +0900"
+    },
     {
       "title": "달러-원, 1,550원대 앞두고 부담감…6.00원 하락 마감",
       "link": "https://www.yna.co.kr/view/AKR20260624004200002",
@@ -137,21 +152,6 @@
       "title": "'잘나가던' 삼전·닉스, 12%대 폭락…하락률 17년여만 최대(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260623043452008",
       "pubDate": "Tue, 23 Jun 2026 16:15:56 +0900"
-    },
-    {
-      "title": "1분기 기업 영업이익률 13.2% 역대 최고…반도체 제외해도 개선(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623083351002",
-      "pubDate": "Tue, 23 Jun 2026 16:11:19 +0900"
-    },
-    {
-      "title": "환율 또 1,540원 육박…외국인 4조 순매도·달러 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260623130300002",
-      "pubDate": "Tue, 23 Jun 2026 16:06:26 +0900"
-    },
-    {
-      "title": "증시 급락속 코스피 변동성지수 또 뛰어 90선 근접(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623086151008",
-      "pubDate": "Tue, 23 Jun 2026 16:04:02 +0900"
     }
   ]
 }
