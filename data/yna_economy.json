@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782254518,
+  "updated_at_unix": 1782258375,
   "items": [
+    {
+      "title": "IBK투자 \"BGF리테일 2분기 영업익, 기존추정치 20% 상회 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624028200008",
+      "pubDate": "Wed, 24 Jun 2026 08:34:30 +0900"
+    },
+    {
+      "title": "삼성증권 \"제일기획, 최대 광고주 보수적 집행에도 성장 기조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624028700008",
+      "pubDate": "Wed, 24 Jun 2026 08:33:45 +0900"
+    },
+    {
+      "title": "KB증권 \"SK하이닉스, 12% 조정은 비중 확대 기회…목표가 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624027900008",
+      "pubDate": "Wed, 24 Jun 2026 08:31:00 +0900"
+    },
+    {
+      "title": "직급 높이고 숫자 늘리고…전남광주통합시 별정직 증원 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260623109000054",
+      "pubDate": "Wed, 24 Jun 2026 08:31:00 +0900"
+    },
+    {
+      "title": "경남 장애인기능경기대회 개막…22개 직종에서 158명 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260624026700052",
+      "pubDate": "Wed, 24 Jun 2026 08:19:16 +0900"
+    },
+    {
+      "title": "하나증권 \"ISC, 반도체 테스트소켓 장기계약 협의…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624026000008",
+      "pubDate": "Wed, 24 Jun 2026 08:14:56 +0900"
+    },
+    {
+      "title": "[글로컬] 미실현 소득에 과세라니…손실도 보상해줄텐가",
+      "link": "https://www.yna.co.kr/view/AKR20260623174200546",
+      "pubDate": "Wed, 24 Jun 2026 08:09:31 +0900"
+    },
+    {
+      "title": "한투증권, 아모레퍼시픽 목표가↓…\"수급이 화장품에 비우호적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624025200008",
+      "pubDate": "Wed, 24 Jun 2026 08:07:20 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美반도체도 급락…코스피 반등할까, 추가 조정 받을까",
+      "link": "https://www.yna.co.kr/view/AKR20260624022800008",
+      "pubDate": "Wed, 24 Jun 2026 08:05:32 +0900"
+    },
+    {
+      "title": "관악구, '강감찬 민생안정 일자리' 하반기 참여자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260624024900004",
+      "pubDate": "Wed, 24 Jun 2026 08:04:37 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260624015900011",
@@ -69,13 +119,13 @@
       "pubDate": "Wed, 24 Jun 2026 06:00:02 +0900"
     },
     {
-      "title": "'황혼 육아'도 여성 몫…할머니 손주 돌보기가 2.4배",
-      "link": "https://www.yna.co.kr/view/AKR20260623169500002",
+      "title": "남성 육아휴직 81%가 지지하지만…동료에 권장은 46% 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260623157600002",
       "pubDate": "Wed, 24 Jun 2026 05:51:02 +0900"
     },
     {
-      "title": "남성 육아휴직 81%가 지지하지만…동료에 권장은 46% 그쳐",
-      "link": "https://www.yna.co.kr/view/AKR20260623157600002",
+      "title": "'황혼 육아'도 여성 몫…할머니 손주 돌보기가 2.4배",
+      "link": "https://www.yna.co.kr/view/AKR20260623169500002",
       "pubDate": "Wed, 24 Jun 2026 05:51:02 +0900"
     },
     {
@@ -102,56 +152,6 @@
       "title": "하나은행, 만 40세 직원 대상 특별퇴직…최대 28개월치 평균임금",
       "link": "https://www.yna.co.kr/view/AKR20260623163200002",
       "pubDate": "Tue, 23 Jun 2026 18:39:07 +0900"
-    },
-    {
-      "title": "증권사 리서치센터장들 \"펀더멘털 변화없어, 상승 후 숨고르기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260623159300008",
-      "pubDate": "Tue, 23 Jun 2026 18:16:19 +0900"
-    },
-    {
-      "title": "경기도 창업경진대회서 'AI 품질검증 플랫폼' 업체 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260623159800061",
-      "pubDate": "Tue, 23 Jun 2026 18:05:15 +0900"
-    },
-    {
-      "title": "스타벅스, 여름 음료·굿즈 출시…'서머e프리퀀시'는 보류",
-      "link": "https://www.yna.co.kr/view/AKR20260623157400030",
-      "pubDate": "Tue, 23 Jun 2026 18:03:36 +0900"
-    },
-    {
-      "title": "경남제약, 65억원 유상증자…(주)엑스에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260623158300008",
-      "pubDate": "Tue, 23 Jun 2026 18:03:17 +0900"
-    },
-    {
-      "title": "정부, 망고 할당관세 적용 연장…계란 수입·할인 확대 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260623159200030",
-      "pubDate": "Tue, 23 Jun 2026 18:00:47 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260623152500011",
-      "pubDate": "Tue, 23 Jun 2026 18:00:00 +0900"
-    },
-    {
-      "title": "'정부 7월부터 국고채 바이백' 예고에 금리↓…3년물 연 3.770%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623142051008",
-      "pubDate": "Tue, 23 Jun 2026 17:57:00 +0900"
-    },
-    {
-      "title": "청주시 공무원, 체납 예방 아이디어로 충북 연구대회 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260623158500064",
-      "pubDate": "Tue, 23 Jun 2026 17:56:39 +0900"
-    },
-    {
-      "title": "정선군 기본소득형 창업 지원 1호점 '숨바우식당' 개업",
-      "link": "https://www.yna.co.kr/view/AKR20260623156500062",
-      "pubDate": "Tue, 23 Jun 2026 17:47:14 +0900"
-    },
-    {
-      "title": "경찰·노동부, '근로자 끼임사고' 아워홈 공장 압수수색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260623037851061",
-      "pubDate": "Tue, 23 Jun 2026 17:37:12 +0900"
     }
   ]
 }
