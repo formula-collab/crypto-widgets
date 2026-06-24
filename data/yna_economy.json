@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782328013,
+  "updated_at_unix": 1782335144,
   "items": [
+    {
+      "title": "농식품부, '동물복지 정책참여단'과 간담회…입양·등록제 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260624145200030",
+      "pubDate": "Thu, 25 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "휴고보스·랄프로렌도 온다…서울 프리미엄 텍스타일 개막",
+      "link": "https://www.yna.co.kr/view/AKR20260624159400003",
+      "pubDate": "Thu, 25 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "서울시여성가족재단, 공유숙박 창업 심화과정…실무 역량 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260624160200004",
+      "pubDate": "Thu, 25 Jun 2026 06:00:03 +0900"
+    },
+    {
+      "title": "서울시, 외국인 창업지원 '오아시스' 확대…실무교육·투자연계",
+      "link": "https://www.yna.co.kr/view/AKR20260624160300004",
+      "pubDate": "Thu, 25 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "IT 수출에 제조업 체감경기 3개월 연속 상승…비제조업은 부진",
+      "link": "https://www.yna.co.kr/view/AKR20260624160600002",
+      "pubDate": "Thu, 25 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"할부·리스차 담보 대출하면 형사처벌\"…금감원 소비자경보",
+      "link": "https://www.yna.co.kr/view/AKR20260624166100002",
+      "pubDate": "Thu, 25 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "카드 시장 정체 속에도 법카 승인액은 6.7%↑…유치경쟁 불붙어",
+      "link": "https://www.yna.co.kr/view/AKR20260624172300002",
+      "pubDate": "Thu, 25 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "인터넷은행 가계대출 목표 미준수…당국, 신용대출 '빚투' 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260624175100002",
+      "pubDate": "Thu, 25 Jun 2026 05:51:01 +0900"
+    },
+    {
+      "title": "美연준 \"미 대형은행들, 심각한 경기침체 견딜 체력 갖춰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260625007900072",
+      "pubDate": "Thu, 25 Jun 2026 05:40:47 +0900"
+    },
+    {
+      "title": "국제유가, 호르무즈 운항 재개 기대에 급락…전쟁 전 수준 회복",
+      "link": "https://www.yna.co.kr/view/AKR20260625005900072",
+      "pubDate": "Thu, 25 Jun 2026 04:37:24 +0900"
+    },
     {
       "title": "달러-원, DXY 강세에 야간 거래서 상승폭 확대…1,542.70원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260625004300002",
@@ -102,56 +152,6 @@
       "title": "존림 삼성바이오 대표 \"3분기 유럽 판매거점 신설\"",
       "link": "https://www.yna.co.kr/view/AKR20260624096300017",
       "pubDate": "Wed, 24 Jun 2026 17:00:03 +0900"
-    },
-    {
-      "title": "AI홈 생태계 확장…삼성전자, 모듈러 주택시장 공략 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260624117800003",
-      "pubDate": "Wed, 24 Jun 2026 17:00:01 +0900"
-    },
-    {
-      "title": "30년물 입찰 앞두고 국고채 금리↑…3년물 연 3.772%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260624147051008",
-      "pubDate": "Wed, 24 Jun 2026 16:58:36 +0900"
-    },
-    {
-      "title": "마산경제살리기 추진위 \"창원시, 2040 도시기본계획 다시 짜야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260624147200052",
-      "pubDate": "Wed, 24 Jun 2026 16:57:32 +0900"
-    },
-    {
-      "title": "에어로케이, 창립 10주년 청주공항 활성화 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260624149000064",
-      "pubDate": "Wed, 24 Jun 2026 16:53:24 +0900"
-    },
-    {
-      "title": "[과학스냅] 카오스재단, 카오스 콘서트 '인간-인간-인간' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260624148300017",
-      "pubDate": "Wed, 24 Jun 2026 16:47:57 +0900"
-    },
-    {
-      "title": "폭락후 반등했지만 극심한 널뛰기…장중 변동폭 496포인트",
-      "link": "https://www.yna.co.kr/view/AKR20260624085800008",
-      "pubDate": "Wed, 24 Jun 2026 16:45:31 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.772%",
-      "link": "https://www.yna.co.kr/view/AKR20260624147000008",
-      "pubDate": "Wed, 24 Jun 2026 16:42:41 +0900"
-    },
-    {
-      "title": "경유가격 2개월만에 2천원선 아래로…휘발윳값도 하락세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260624144900003",
-      "pubDate": "Wed, 24 Jun 2026 16:40:17 +0900"
-    },
-    {
-      "title": "'이차전지' 금양, 상폐 효력정지가처분 심문서 \"재감사 기회 달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260624143800004",
-      "pubDate": "Wed, 24 Jun 2026 16:39:02 +0900"
-    },
-    {
-      "title": "채무자 나체사진 가족에 보내 변제 협박한 30대 징역 4년",
-      "link": "https://www.yna.co.kr/view/AKR20260624145500051",
-      "pubDate": "Wed, 24 Jun 2026 16:38:28 +0900"
     }
   ]
 }
