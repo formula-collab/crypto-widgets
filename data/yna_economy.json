@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782335144,
+  "updated_at_unix": 1782341187,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260625014400011",
+      "pubDate": "Thu, 25 Jun 2026 07:30:01 +0900"
+    },
+    {
+      "title": "바이오USA서 주목받은 K-NIBRT…한국형 바이오 인재양성 모델",
+      "link": "https://www.yna.co.kr/view/AKR20260625006200017",
+      "pubDate": "Thu, 25 Jun 2026 07:25:03 +0900"
+    },
+    {
+      "title": "'채무 급증' 대전시, 도시공사 부채 비율도 1년만에 1.8배 ↑",
+      "link": "https://www.yna.co.kr/view/AKR20260624069400063",
+      "pubDate": "Thu, 25 Jun 2026 07:05:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 모닝커피서 명절 차례상까지 우리 곁 '아프리카'",
+      "link": "https://www.yna.co.kr/view/AKR20260623076900898",
+      "pubDate": "Thu, 25 Jun 2026 07:00:05 +0900"
+    },
+    {
+      "title": "비티젠 \"국민성장펀드 지원금, 1공장 증설에 투입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260625011600017",
+      "pubDate": "Thu, 25 Jun 2026 06:48:19 +0900"
+    },
+    {
+      "title": "[인터뷰] 우상호 \"평화 정착 없이는 경제 모멘텀 만들 수 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260624155500062",
+      "pubDate": "Thu, 25 Jun 2026 06:30:00 +0900"
+    },
     {
       "title": "농식품부, '동물복지 정책참여단'과 간담회…입양·등록제 논의",
       "link": "https://www.yna.co.kr/view/AKR20260624145200030",
@@ -19,13 +49,13 @@
       "pubDate": "Thu, 25 Jun 2026 06:00:03 +0900"
     },
     {
-      "title": "서울시, 외국인 창업지원 '오아시스' 확대…실무교육·투자연계",
-      "link": "https://www.yna.co.kr/view/AKR20260624160300004",
+      "title": "IT 수출에 제조업 체감경기 3개월 연속 상승…비제조업은 부진",
+      "link": "https://www.yna.co.kr/view/AKR20260624160600002",
       "pubDate": "Thu, 25 Jun 2026 06:00:02 +0900"
     },
     {
-      "title": "IT 수출에 제조업 체감경기 3개월 연속 상승…비제조업은 부진",
-      "link": "https://www.yna.co.kr/view/AKR20260624160600002",
+      "title": "서울시, 외국인 창업지원 '오아시스' 확대…실무교육·투자연계",
+      "link": "https://www.yna.co.kr/view/AKR20260624160300004",
       "pubDate": "Thu, 25 Jun 2026 06:00:02 +0900"
     },
     {
@@ -122,36 +152,6 @@
       "title": "금감원장 \"금융정보로 위기 차주 조기 발견…복지 연계\"",
       "link": "https://www.yna.co.kr/view/AKR20260624147400002",
       "pubDate": "Wed, 24 Jun 2026 17:29:54 +0900"
-    },
-    {
-      "title": "서리풀2지구 주민들 \"환경·역사·공동체 지키는 개발방식 돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260624150700003",
-      "pubDate": "Wed, 24 Jun 2026 17:18:43 +0900"
-    },
-    {
-      "title": "금양 상장폐지 효력정지가처분 심문…법원, 두 달 기회 주기로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260624143851004",
-      "pubDate": "Wed, 24 Jun 2026 17:13:01 +0900"
-    },
-    {
-      "title": "셀레믹스, 100억원 유상증자…씨앤피에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260624154500008",
-      "pubDate": "Wed, 24 Jun 2026 17:09:28 +0900"
-    },
-    {
-      "title": "환율 1,540원대 마감, 금융위기 후 최고…강달러·외국인 순매도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260624133851002",
-      "pubDate": "Wed, 24 Jun 2026 17:04:14 +0900"
-    },
-    {
-      "title": "아크솔루션스 \"에스씨엘 주식 30억원어치 취득…지분율 3.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260624152500008",
-      "pubDate": "Wed, 24 Jun 2026 17:03:19 +0900"
-    },
-    {
-      "title": "존림 삼성바이오 대표 \"3분기 유럽 판매거점 신설\"",
-      "link": "https://www.yna.co.kr/view/AKR20260624096300017",
-      "pubDate": "Wed, 24 Jun 2026 17:00:03 +0900"
     }
   ]
 }
