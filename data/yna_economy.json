@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782410427,
+  "updated_at_unix": 1782419193,
   "items": [
+    {
+      "title": "호르무즈 선박 피격에 국제유가 반등…WTI 2.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260626005500072",
+      "pubDate": "Fri, 26 Jun 2026 04:54:18 +0900"
+    },
+    {
+      "title": "달러-원, 완만한 PCE에 숨고르기…1,543.10원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260626003800002",
+      "pubDate": "Fri, 26 Jun 2026 03:34:43 +0900"
+    },
     {
       "title": "美JP모건, 다이먼 후임 CEO 승계작업 본격화…2인 경쟁구도",
       "link": "https://www.yna.co.kr/view/AKR20260626000900072",
@@ -142,16 +152,6 @@
       "title": "한양증권, 500억원 유상증자…\"중장기 성장기반 확보\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260625135451008",
       "pubDate": "Thu, 25 Jun 2026 16:55:18 +0900"
-    },
-    {
-      "title": "에쓰오일·울산중구청소년센터, 보훈단체에 빵 나눔 봉사",
-      "link": "https://www.yna.co.kr/view/AKR20260625142200057",
-      "pubDate": "Thu, 25 Jun 2026 16:51:04 +0900"
-    },
-    {
-      "title": "마이크론 훈풍에 다시 불붙은 반도체…한때 9천피 탈환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260625057451008",
-      "pubDate": "Thu, 25 Jun 2026 16:46:00 +0900"
     }
   ]
 }
