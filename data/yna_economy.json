@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782419193,
+  "updated_at_unix": 1782424671,
   "items": [
+    {
+      "title": "전쟁 이전으로 돌아간 국제유가…석유 최고가격 하향 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260625157000003",
+      "pubDate": "Fri, 26 Jun 2026 06:15:00 +0900"
+    },
+    {
+      "title": "체중감량 열풍에 다이어트식품 신고 급증…장년층 피해도 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260625141700030",
+      "pubDate": "Fri, 26 Jun 2026 06:05:01 +0900"
+    },
+    {
+      "title": "법원 \"승진 약속 안 지킨 파주시장, 퇴직 직원에게 배상해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260625146100060",
+      "pubDate": "Fri, 26 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "반도체·데이터센터 투자에 1분기 건설공사 계약 23.4% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260625121100003",
+      "pubDate": "Fri, 26 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[가보니] 바이오 USA 폐막…K바이오 위상 높였다",
+      "link": "https://www.yna.co.kr/view/AKR20260625115300017",
+      "pubDate": "Fri, 26 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "외국인 지난달 한국주식 47조 '역대급 팔자'…지분율도 사상최고",
+      "link": "https://www.yna.co.kr/view/AKR20260625159600002",
+      "pubDate": "Fri, 26 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "올해 FTA 피해보전직불금 지원 품목에 염소 고기",
+      "link": "https://www.yna.co.kr/view/AKR20260625166800030",
+      "pubDate": "Fri, 26 Jun 2026 06:00:00 +0900"
+    },
     {
       "title": "호르무즈 선박 피격에 국제유가 반등…WTI 2.3%↑",
       "link": "https://www.yna.co.kr/view/AKR20260626005500072",
@@ -117,41 +152,6 @@
       "title": "[동정] 인태연 소진공 이사장, 개장 앞둔 서대문센터 공사 현장 점검",
       "link": "https://www.yna.co.kr/view/AKR20260625145400030",
       "pubDate": "Thu, 25 Jun 2026 17:10:05 +0900"
-    },
-    {
-      "title": "유가 하락에 국고채 금리 일제히 내려…3년물 연 3.757%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260625142751008",
-      "pubDate": "Thu, 25 Jun 2026 17:04:25 +0900"
-    },
-    {
-      "title": "李대통령 \"물가압력 낮출 특단대책 수립…물가안정이 국정안정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260625142600001",
-      "pubDate": "Thu, 25 Jun 2026 17:01:05 +0900"
-    },
-    {
-      "title": "에이비엘바이오 \"면역항암제 후보물질 연내 임상3상 착수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260625086000017",
-      "pubDate": "Thu, 25 Jun 2026 17:00:03 +0900"
-    },
-    {
-      "title": "NH증권, AI 컨설턴트 '서아인' 공개…투자정보 설명한다",
-      "link": "https://www.yna.co.kr/view/AKR20260625142800008",
-      "pubDate": "Thu, 25 Jun 2026 16:59:14 +0900"
-    },
-    {
-      "title": "레몬, 76억원 유상증자…최대주주 톱텍에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260625145700008",
-      "pubDate": "Thu, 25 Jun 2026 16:56:32 +0900"
-    },
-    {
-      "title": "앱튼, 35억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260625144600008",
-      "pubDate": "Thu, 25 Jun 2026 16:55:50 +0900"
-    },
-    {
-      "title": "한양증권, 500억원 유상증자…\"중장기 성장기반 확보\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260625135451008",
-      "pubDate": "Thu, 25 Jun 2026 16:55:18 +0900"
     }
   ]
 }
