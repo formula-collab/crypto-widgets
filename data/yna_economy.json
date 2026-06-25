@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782424671,
+  "updated_at_unix": 1782429227,
   "items": [
+    {
+      "title": "[속보] 구윤철 \"하반기 전기 가스요금 등 주요공공요금 동결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260626020700002",
+      "pubDate": "Fri, 26 Jun 2026 08:05:26 +0900"
+    },
+    {
+      "title": "[속보] 구윤철 \"석유최고가격 낮추되 소비자가 안정 때까지 제도 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260626020500002",
+      "pubDate": "Fri, 26 Jun 2026 08:04:39 +0900"
+    },
+    {
+      "title": "[부산소식] 외국인 유학생 페스티벌 27일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260626017700051",
+      "pubDate": "Fri, 26 Jun 2026 07:58:59 +0900"
+    },
+    {
+      "title": "리가켐바이오, 3천300억원 유증…한국산업은행 등에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260626016700008",
+      "pubDate": "Fri, 26 Jun 2026 07:43:21 +0900"
+    },
+    {
+      "title": "LIG디펜스앤에어로스페이스, 5천억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260626016600008",
+      "pubDate": "Fri, 26 Jun 2026 07:42:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260626012600011",
+      "pubDate": "Fri, 26 Jun 2026 07:30:01 +0900"
+    },
     {
       "title": "전쟁 이전으로 돌아간 국제유가…석유 최고가격 하향 전망",
       "link": "https://www.yna.co.kr/view/AKR20260625157000003",
@@ -122,36 +152,6 @@
       "title": "AI 전환, 울산경제 영향과 대응력은…한은·울산상의 세미나",
       "link": "https://www.yna.co.kr/view/AKR20260625145300057",
       "pubDate": "Thu, 25 Jun 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260625150100011",
-      "pubDate": "Thu, 25 Jun 2026 18:00:01 +0900"
-    },
-    {
-      "title": "한양증권, 500억원 유상증자…\"중장기 성장기반 확보\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260625135453008",
-      "pubDate": "Thu, 25 Jun 2026 17:33:52 +0900"
-    },
-    {
-      "title": "한은, 7월 최대 7조원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20260625149900002",
-      "pubDate": "Thu, 25 Jun 2026 17:17:05 +0900"
-    },
-    {
-      "title": "[인사] iM금융그룹",
-      "link": "https://www.yna.co.kr/view/AKR20260625148900053",
-      "pubDate": "Thu, 25 Jun 2026 17:11:51 +0900"
-    },
-    {
-      "title": "송도 땅 사놓고 방치하는 대기업…인천경제청 \"개발 강제 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260625148000065",
-      "pubDate": "Thu, 25 Jun 2026 17:10:18 +0900"
-    },
-    {
-      "title": "[동정] 인태연 소진공 이사장, 개장 앞둔 서대문센터 공사 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260625145400030",
-      "pubDate": "Thu, 25 Jun 2026 17:10:05 +0900"
     }
   ]
 }
