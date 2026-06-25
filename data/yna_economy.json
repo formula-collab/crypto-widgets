@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782401711,
+  "updated_at_unix": 1782410427,
   "items": [
+    {
+      "title": "美JP모건, 다이먼 후임 CEO 승계작업 본격화…2인 경쟁구도",
+      "link": "https://www.yna.co.kr/view/AKR20260626000900072",
+      "pubDate": "Fri, 26 Jun 2026 00:45:20 +0900"
+    },
     {
       "title": "'큰손' 국민연금 곁으로…한화운용, 전주에 내달 사무소 개소",
       "link": "https://www.yna.co.kr/view/AKR20260625165600008",
@@ -147,11 +152,6 @@
       "title": "마이크론 훈풍에 다시 불붙은 반도체…한때 9천피 탈환(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260625057451008",
       "pubDate": "Thu, 25 Jun 2026 16:46:00 +0900"
-    },
-    {
-      "title": "대법 \"패륜가족 상속 제한…헌법불합치 전 법정다툼에도 적용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260625140000004",
-      "pubDate": "Thu, 25 Jun 2026 16:43:14 +0900"
     }
   ]
 }
