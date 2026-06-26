@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782498034,
+  "updated_at_unix": 1782504882,
   "items": [
+    {
+      "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260627004900072",
+      "pubDate": "Sat, 27 Jun 2026 04:51:24 +0900"
+    },
+    {
+      "title": "달러-원, 안전 선호 확산에 낙폭 축소…1,535.80원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260627004200002",
+      "pubDate": "Sat, 27 Jun 2026 03:57:46 +0900"
+    },
     {
       "title": "삼부토건, 유상증자…리빌드삼부홀딩스에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260626160300008",
@@ -142,16 +152,6 @@
       "title": "[특징주] SK하이닉스 8%대 급락…삼성전자 5%↓(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260626036451008",
       "pubDate": "Fri, 26 Jun 2026 16:01:47 +0900"
-    },
-    {
-      "title": "주병기, OECD 경쟁위원회 참석해 '韓담합신고 포상금 개선' 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260626052600002",
-      "pubDate": "Fri, 26 Jun 2026 16:00:00 +0900"
-    },
-    {
-      "title": "노동장관, 인공지능전환 기업 방문…\"자동화로 생산·고용 늘려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260626064400530",
-      "pubDate": "Fri, 26 Jun 2026 15:50:02 +0900"
     }
   ]
 }
