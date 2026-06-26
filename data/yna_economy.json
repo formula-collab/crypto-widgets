@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782510282,
+  "updated_at_unix": 1782514645,
   "items": [
+    {
+      "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2천7원대",
+      "link": "https://www.yna.co.kr/view/AKR20260626152800003",
+      "pubDate": "Sat, 27 Jun 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[금주핫템] 헤라 '마블러스 로맨스'·헤지스골프 '로얄 리조트 컬렉션'",
+      "link": "https://www.yna.co.kr/view/AKR20260626129700030",
+      "pubDate": "Sat, 27 Jun 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[신상잇슈] 해태제과 '쿨에디션'·하이트진로 'K팝스타 두꺼비'",
+      "link": "https://www.yna.co.kr/view/AKR20260626145100030",
+      "pubDate": "Sat, 27 Jun 2026 07:00:00 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20260626156400003",
@@ -137,21 +152,6 @@
       "title": "S&K폴리텍 \"선진엔지니어링 주식 72억원어치 취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260626130400008",
       "pubDate": "Fri, 26 Jun 2026 16:24:27 +0900"
-    },
-    {
-      "title": "[특징주] '유상증자 결정' LIG D&A, 5%대 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260626047651008",
-      "pubDate": "Fri, 26 Jun 2026 16:23:31 +0900"
-    },
-    {
-      "title": "강원사회적경제대책위 \"최혁진 의혹제기로 혼란…공개 검증하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260626132000062",
-      "pubDate": "Fri, 26 Jun 2026 16:19:24 +0900"
-    },
-    {
-      "title": "방사청, 방산 분야 청년지원책 'K-방산 청년뉴딜' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260626131700504",
-      "pubDate": "Fri, 26 Jun 2026 16:18:33 +0900"
     }
   ]
 }
