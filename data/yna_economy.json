@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782504882,
+  "updated_at_unix": 1782510282,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260626156400003",
+      "pubDate": "Sat, 27 Jun 2026 06:00:01 +0900"
+    },
     {
       "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
       "link": "https://www.yna.co.kr/view/AKR20260627004900072",
@@ -147,11 +152,6 @@
       "title": "방사청, 방산 분야 청년지원책 'K-방산 청년뉴딜' 추진",
       "link": "https://www.yna.co.kr/view/AKR20260626131700504",
       "pubDate": "Fri, 26 Jun 2026 16:18:33 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스 8%대 급락…삼성전자 5%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260626036451008",
-      "pubDate": "Fri, 26 Jun 2026 16:01:47 +0900"
     }
   ]
 }
