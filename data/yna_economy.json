@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782534632,
+  "updated_at_unix": 1782546123,
   "items": [
+    {
+      "title": "[부고] 송오순(한국수출입은행 기업구조조정단장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260627031400002",
+      "pubDate": "Sat, 27 Jun 2026 14:44:46 +0900"
+    },
+    {
+      "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260627030500055",
+      "pubDate": "Sat, 27 Jun 2026 13:44:05 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260627024400011",
@@ -142,16 +152,6 @@
       "title": "환율 1,550원 넘보다 1,530원대로 급락…당국 개입 추정",
       "link": "https://www.yna.co.kr/view/AKR20260626129200002",
       "pubDate": "Fri, 26 Jun 2026 16:39:00 +0900"
-    },
-    {
-      "title": "내년 R&D 예산안 비공개 결정…예산 규모 확정 미뤄져(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260626094951017",
-      "pubDate": "Fri, 26 Jun 2026 16:34:42 +0900"
-    },
-    {
-      "title": "[동포의 창] 월드옥타, 中 베이징서 4개 경제단체와 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260626134500371",
-      "pubDate": "Fri, 26 Jun 2026 16:31:19 +0900"
     }
   ]
 }
