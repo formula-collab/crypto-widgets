@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782546123,
+  "updated_at_unix": 1782554057,
   "items": [
+    {
+      "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260627041700003",
+      "pubDate": "Sat, 27 Jun 2026 18:13:57 +0900"
+    },
     {
       "title": "[부고] 송오순(한국수출입은행 기업구조조정단장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260627031400002",
@@ -147,11 +152,6 @@
       "title": "정부, AI 대전환 청사진 확정…5년간 R&D 200조 투자",
       "link": "https://www.yna.co.kr/view/AKR20260626129900017",
       "pubDate": "Fri, 26 Jun 2026 16:41:23 +0900"
-    },
-    {
-      "title": "환율 1,550원 넘보다 1,530원대로 급락…당국 개입 추정",
-      "link": "https://www.yna.co.kr/view/AKR20260626129200002",
-      "pubDate": "Fri, 26 Jun 2026 16:39:00 +0900"
     }
   ]
 }
