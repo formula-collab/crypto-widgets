@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782597092,
+  "updated_at_unix": 1782600719,
   "items": [
+    {
+      "title": "'닥치고 공급'이라는데…2만호 공공택지 주민 협의는 '아직'",
+      "link": "https://www.yna.co.kr/view/AKR20260628004400003",
+      "pubDate": "Sun, 28 Jun 2026 07:39:22 +0900"
+    },
+    {
+      "title": "카카오 기프티콘 환불 바뀐다…5만원 넘으면 95%",
+      "link": "https://www.yna.co.kr/view/AKR20260626141900017",
+      "pubDate": "Sun, 28 Jun 2026 07:33:01 +0900"
+    },
+    {
+      "title": "여성 합격자 절반 넘은 부산 순경 공채…경찰 내부 의견 '분분'",
+      "link": "https://www.yna.co.kr/view/AKR20260626142200051",
+      "pubDate": "Sun, 28 Jun 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[반려동물] 미술전시장에 '펫모차'가…예술시장 '동반문화' 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260627029600030",
+      "pubDate": "Sun, 28 Jun 2026 07:30:01 +0900"
+    },
+    {
+      "title": "6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까",
+      "link": "https://www.yna.co.kr/view/AKR20260627019800008",
+      "pubDate": "Sun, 28 Jun 2026 07:20:01 +0900"
+    },
+    {
+      "title": "악재 겹친 디스플레이 업계 2분기 실적↓…하반기엔 반등 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260626150100003",
+      "pubDate": "Sun, 28 Jun 2026 07:15:01 +0900"
+    },
+    {
+      "title": "호르무즈 내 한국 선박 대부분 탈출…인명피해 없이 마무리 국면",
+      "link": "https://www.yna.co.kr/view/AKR20260627036100051",
+      "pubDate": "Sun, 28 Jun 2026 07:03:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
+      "link": "https://www.yna.co.kr/view/AKR20260627025000008",
+      "pubDate": "Sun, 28 Jun 2026 07:00:12 +0900"
+    },
+    {
+      "title": "AI 시대 고용불안, 한국은 버티고 미국은 움직였다",
+      "link": "https://www.yna.co.kr/view/AKR20260626144100017",
+      "pubDate": "Sun, 28 Jun 2026 06:55:01 +0900"
+    },
     {
       "title": "노란우산, 35조 자산운용 고도화…해외 연기금식 운용체계 구축",
       "link": "https://www.yna.co.kr/view/AKR20260627024700030",
@@ -107,51 +152,6 @@
       "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
       "link": "https://www.yna.co.kr/view/AKR20260627030500055",
       "pubDate": "Sat, 27 Jun 2026 13:44:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260627024400011",
-      "pubDate": "Sat, 27 Jun 2026 10:30:00 +0900"
-    },
-    {
-      "title": "호르무즈 내 한국 선박 2척 추가로 빠져나와…남은 배 3척",
-      "link": "https://www.yna.co.kr/view/AKR20260627021000051",
-      "pubDate": "Sat, 27 Jun 2026 09:12:26 +0900"
-    },
-    {
-      "title": "김해시, 8월부터 100만원 미만 소액 체납관리단 150명 규모 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260626127600052",
-      "pubDate": "Sat, 27 Jun 2026 09:05:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260627014200002",
-      "pubDate": "Sat, 27 Jun 2026 08:53:42 +0900"
-    },
-    {
-      "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2천7원대",
-      "link": "https://www.yna.co.kr/view/AKR20260626152800003",
-      "pubDate": "Sat, 27 Jun 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[금주핫템] 헤라 '마블러스 로맨스'·헤지스골프 '로얄 리조트 컬렉션'",
-      "link": "https://www.yna.co.kr/view/AKR20260626129700030",
-      "pubDate": "Sat, 27 Jun 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[신상잇슈] 해태제과 '쿨에디션'·하이트진로 'K팝스타 두꺼비'",
-      "link": "https://www.yna.co.kr/view/AKR20260626145100030",
-      "pubDate": "Sat, 27 Jun 2026 07:00:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 서울 성북구 장위푸르지오마크원 등 8천167가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260626156400003",
-      "pubDate": "Sat, 27 Jun 2026 06:00:01 +0900"
-    },
-    {
-      "title": "국제유가, 공급 우려 해소에 급락…WTI 배럴당 70달러 아래로",
-      "link": "https://www.yna.co.kr/view/AKR20260627004900072",
-      "pubDate": "Sat, 27 Jun 2026 04:51:24 +0900"
     }
   ]
 }
