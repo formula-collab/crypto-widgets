@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782514645,
+  "updated_at_unix": 1782518448,
   "items": [
+    {
+      "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260627014200002",
+      "pubDate": "Sat, 27 Jun 2026 08:53:42 +0900"
+    },
     {
       "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2천7원대",
       "link": "https://www.yna.co.kr/view/AKR20260626152800003",
@@ -147,11 +152,6 @@
       "title": "KB증권, 1조원 주주배정 유상증자 결정",
       "link": "https://www.yna.co.kr/view/AKR20260626134300008",
       "pubDate": "Fri, 26 Jun 2026 16:24:59 +0900"
-    },
-    {
-      "title": "S&K폴리텍 \"선진엔지니어링 주식 72억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260626130400008",
-      "pubDate": "Fri, 26 Jun 2026 16:24:27 +0900"
     }
   ]
 }
