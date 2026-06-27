@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782570095,
+  "updated_at_unix": 1782575086,
   "items": [
+    {
+      "title": "경북 예천 돼지농장서 구제역 발생…위기경보 '심각' 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260627048400030",
+      "pubDate": "Sun, 28 Jun 2026 00:06:05 +0900"
+    },
     {
       "title": "[부고] 김경범(IBK투자증권 FICC파생부 영업상무보)씨 남매상",
       "link": "https://www.yna.co.kr/view/AKR20260627045100008",
@@ -147,11 +152,6 @@
       "title": "'환율부담·안전선호' 국고채 금리 혼조…3년물 연 3.722%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260626138451008",
       "pubDate": "Fri, 26 Jun 2026 16:53:52 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.722%",
-      "link": "https://www.yna.co.kr/view/AKR20260626138400008",
-      "pubDate": "Fri, 26 Jun 2026 16:43:57 +0900"
     }
   ]
 }
