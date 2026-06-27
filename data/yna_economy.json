@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782600719,
+  "updated_at_unix": 1782604293,
   "items": [
+    {
+      "title": "하나금융, 서부티엔디 도시첨단물류단지 개발 금융지원 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260627031000002",
+      "pubDate": "Sun, 28 Jun 2026 08:30:00 +0900"
+    },
+    {
+      "title": "울주군, 귀농인에 농업창업·주택구입 지원 \"안정적 영농 정착\"",
+      "link": "https://www.yna.co.kr/view/AKR20260626100700057",
+      "pubDate": "Sun, 28 Jun 2026 08:10:00 +0900"
+    },
+    {
+      "title": "[코스닥 30년] 동전주·저PBR주 퇴출 내달초 시행…밸류업 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260627032000008",
+      "pubDate": "Sun, 28 Jun 2026 08:01:09 +0900"
+    },
+    {
+      "title": "[코스닥 30년] 급등장서 소외된 코스닥…활성화 정책 반등 계기되나",
+      "link": "https://www.yna.co.kr/view/AKR20260627030100008",
+      "pubDate": "Sun, 28 Jun 2026 08:01:07 +0900"
+    },
+    {
+      "title": "[코스닥 30년] '한국판 나스닥' 표방 출범…시총 66배 커졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260627036800008",
+      "pubDate": "Sun, 28 Jun 2026 08:01:05 +0900"
+    },
+    {
+      "title": "[통합시 출범] ⑦ 전남광주 특별시민들 \"통합으로 지역 균형발전 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260627026400054",
+      "pubDate": "Sun, 28 Jun 2026 08:00:14 +0900"
+    },
+    {
+      "title": "지하철 8호선 의정부 연장, 이번엔 포함될까",
+      "link": "https://www.yna.co.kr/view/AKR20260626116700060",
+      "pubDate": "Sun, 28 Jun 2026 08:00:13 +0900"
+    },
+    {
+      "title": "LG전자, 미국 컨슈머리포트 세탁기·빌트인 냉장고 부문 석권",
+      "link": "https://www.yna.co.kr/view/AKR20260626153400003",
+      "pubDate": "Sun, 28 Jun 2026 08:00:04 +0900"
+    },
+    {
+      "title": "농협금융, 전북에 '금융허브' 만든다…지역 금융지원 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260626150200002",
+      "pubDate": "Sun, 28 Jun 2026 08:00:02 +0900"
+    },
+    {
+      "title": "수은, 조선사 중소 협력업체에 미국 사이버 보안인증 취득 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260627028000002",
+      "pubDate": "Sun, 28 Jun 2026 08:00:02 +0900"
+    },
     {
       "title": "'닥치고 공급'이라는데…2만호 공공택지 주민 협의는 '아직'",
       "link": "https://www.yna.co.kr/view/AKR20260628004400003",
@@ -102,56 +152,6 @@
       "title": "주유소 휘발유값 이번주 1천900원대…\"한주 50원씩 하락할듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260626027900003",
       "pubDate": "Sun, 28 Jun 2026 05:55:02 +0900"
-    },
-    {
-      "title": "서울 개인소유 주택 8년간 20만채 늘었는데…45%는 외지인",
-      "link": "https://www.yna.co.kr/view/AKR20260627032600002",
-      "pubDate": "Sun, 28 Jun 2026 05:53:01 +0900"
-    },
-    {
-      "title": "3년 만에 늘어난 종부세…투기억제 기조에 급증할까",
-      "link": "https://www.yna.co.kr/view/AKR20260627040500002",
-      "pubDate": "Sun, 28 Jun 2026 05:51:00 +0900"
-    },
-    {
-      "title": "2분기 평균 환율 1,500원 넘었다…외환위기 이후 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260627038200002",
-      "pubDate": "Sun, 28 Jun 2026 05:49:00 +0900"
-    },
-    {
-      "title": "꺾이지 않는 빚투…5대銀 마통잔액 43조, 3년8개월만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260627031600002",
-      "pubDate": "Sun, 28 Jun 2026 05:45:02 +0900"
-    },
-    {
-      "title": "'싹싹 긁어 빚투' 가계대출 6개월 연속↑…당국 곧 카드사 소집",
-      "link": "https://www.yna.co.kr/view/AKR20260627040300002",
-      "pubDate": "Sun, 28 Jun 2026 05:45:00 +0900"
-    },
-    {
-      "title": "경북 예천 돼지농장서 구제역 발생…위기경보 '심각' 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260627048400030",
-      "pubDate": "Sun, 28 Jun 2026 00:06:05 +0900"
-    },
-    {
-      "title": "[부고] 김경범(IBK투자증권 FICC파생부 영업상무보)씨 남매상",
-      "link": "https://www.yna.co.kr/view/AKR20260627045100008",
-      "pubDate": "Sat, 27 Jun 2026 21:10:47 +0900"
-    },
-    {
-      "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260627041700003",
-      "pubDate": "Sat, 27 Jun 2026 18:13:57 +0900"
-    },
-    {
-      "title": "[부고] 송오순(한국수출입은행 기업구조조정단장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260627031400002",
-      "pubDate": "Sat, 27 Jun 2026 14:44:46 +0900"
-    },
-    {
-      "title": "이원택, 젠슨황에 새만금 투자 제안 \"삼겹살로 먹으며 대화하자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260627030500055",
-      "pubDate": "Sat, 27 Jun 2026 13:44:05 +0900"
     }
   ]
 }
