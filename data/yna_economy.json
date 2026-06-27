@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782559075,
+  "updated_at_unix": 1782564480,
   "items": [
+    {
+      "title": "[부고] 김경범(IBK투자증권 FICC파생부 영업상무보)씨 남매상",
+      "link": "https://www.yna.co.kr/view/AKR20260627045100008",
+      "pubDate": "Sat, 27 Jun 2026 21:10:47 +0900"
+    },
     {
       "title": "DL이앤씨, 1.3조원 규모 목동6단지 재건축 시공사 선정",
       "link": "https://www.yna.co.kr/view/AKR20260627041700003",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 혼조세…3년물 연 3.722%",
       "link": "https://www.yna.co.kr/view/AKR20260626138400008",
       "pubDate": "Fri, 26 Jun 2026 16:43:57 +0900"
-    },
-    {
-      "title": "정부, AI 대전환 청사진 확정…5년간 R&D 200조 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260626129900017",
-      "pubDate": "Fri, 26 Jun 2026 16:41:23 +0900"
     }
   ]
 }
