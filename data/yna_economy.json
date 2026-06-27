@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782518448,
+  "updated_at_unix": 1782534632,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260627024400011",
+      "pubDate": "Sat, 27 Jun 2026 10:30:00 +0900"
+    },
+    {
+      "title": "호르무즈 내 한국 선박 2척 추가로 빠져나와…남은 배 3척",
+      "link": "https://www.yna.co.kr/view/AKR20260627021000051",
+      "pubDate": "Sat, 27 Jun 2026 09:12:26 +0900"
+    },
+    {
+      "title": "김해시, 8월부터 100만원 미만 소액 체납관리단 150명 규모 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260626127600052",
+      "pubDate": "Sat, 27 Jun 2026 09:05:00 +0900"
+    },
     {
       "title": "[다음주 경제] 중동전쟁 생산·소비·투자·물가 남은 영향은…국세수입도 주목",
       "link": "https://www.yna.co.kr/view/AKR20260627014200002",
@@ -137,21 +152,6 @@
       "title": "[동포의 창] 월드옥타, 中 베이징서 4개 경제단체와 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260626134500371",
       "pubDate": "Fri, 26 Jun 2026 16:31:19 +0900"
-    },
-    {
-      "title": "광주시, 앰코에 보조금 지원 추진…1조 투자유치 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260626115500054",
-      "pubDate": "Fri, 26 Jun 2026 16:30:51 +0900"
-    },
-    {
-      "title": "하루가 멀다하고 '질주하다 덜컹'…'변동성 덫'에 걸린 韓증시(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260626101451008",
-      "pubDate": "Fri, 26 Jun 2026 16:29:44 +0900"
-    },
-    {
-      "title": "KB증권, 1조원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260626134300008",
-      "pubDate": "Fri, 26 Jun 2026 16:24:59 +0900"
     }
   ]
 }
