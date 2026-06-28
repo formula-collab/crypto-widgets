@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782677623,
+  "updated_at_unix": 1782682455,
   "items": [
+    {
+      "title": "\"정년 연동해 연금 의무가입 높이고 소득 보정 장치 도입해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260628028400530",
+      "pubDate": "Mon, 29 Jun 2026 06:11:00 +0900"
+    },
+    {
+      "title": "노동부, 대지급금 부정수급 신고포상금 상한액 1억→2억원 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260626140300530",
+      "pubDate": "Mon, 29 Jun 2026 06:03:01 +0900"
+    },
+    {
+      "title": "울산 디자인거리 공영주차장 7월부터 시범 운영…471면 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260628054900057",
+      "pubDate": "Mon, 29 Jun 2026 06:00:19 +0900"
+    },
+    {
+      "title": "[가보니] 릴리 혁신허브, 내년 송도에 들어선다",
+      "link": "https://www.yna.co.kr/view/AKR20260626008200017",
+      "pubDate": "Mon, 29 Jun 2026 06:00:18 +0900"
+    },
+    {
+      "title": "중기부, 'K뷰티 사우디 진출 사업' 공모…현지 매장 입점 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260628013800030",
+      "pubDate": "Mon, 29 Jun 2026 06:00:08 +0900"
+    },
+    {
+      "title": "금융권 해외부동산 부실 우려 2조 넘어…\"리스크 관리에 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260628033700002",
+      "pubDate": "Mon, 29 Jun 2026 06:00:04 +0900"
+    },
+    {
+      "title": "경제인협회 \"인턴채용때 군복무기간 고려해야\"…회원사 협조공문",
+      "link": "https://www.yna.co.kr/view/AKR20260628047500003",
+      "pubDate": "Mon, 29 Jun 2026 06:00:03 +0900"
+    },
+    {
+      "title": "금감원, 다음 달부터 은행권 'KOFR 변동금리채' 발행 유도",
+      "link": "https://www.yna.co.kr/view/AKR20260628048100002",
+      "pubDate": "Mon, 29 Jun 2026 06:00:03 +0900"
+    },
+    {
+      "title": "글로벌 스타트업 축제 '트라이 에브리싱' 9월 서울 DDP 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260628046100004",
+      "pubDate": "Mon, 29 Jun 2026 06:00:02 +0900"
+    },
+    {
+      "title": "신규 박사 3명 중 1명 백수, 역대 최대…'구직 중단' 배 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260627038800002",
+      "pubDate": "Mon, 29 Jun 2026 05:55:12 +0900"
+    },
+    {
+      "title": "서울연구원 정책리포트…서울 집합건물 비중 40.2%로 전국 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260626155100004",
+      "pubDate": "Mon, 29 Jun 2026 05:55:00 +0900"
+    },
+    {
+      "title": "아이 돌보고 살림하는 남성 '전업주부' 27만명…역대 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260626174400002",
+      "pubDate": "Mon, 29 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "코인 침체기 불공정거래 신고는 급증…시세조종만 50건",
+      "link": "https://www.yna.co.kr/view/AKR20260626171800002",
+      "pubDate": "Mon, 29 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "올해 계란 수입에 재정 1천212억원 투입…업계 \"규제가 원인\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260627043351030",
@@ -87,71 +152,6 @@
       "title": "유동화회사 채권 1조원 새도약기금 매각…11만명 추심굴레 탈출",
       "link": "https://www.yna.co.kr/view/AKR20260627043400002",
       "pubDate": "Sun, 28 Jun 2026 12:00:06 +0900"
-    },
-    {
-      "title": "야간노동자 건강관리 돕는다…안전공단이 사업장점검·건강상담",
-      "link": "https://www.yna.co.kr/view/AKR20260627018200530",
-      "pubDate": "Sun, 28 Jun 2026 12:00:05 +0900"
-    },
-    {
-      "title": "중기중앙회, 노란우산 가입자 여름 성수기 리조트 예약 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260627024500030",
-      "pubDate": "Sun, 28 Jun 2026 12:00:04 +0900"
-    },
-    {
-      "title": "고유가 피해지원금 풀리자 골목상권 매출 10.6% 늘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260627024100030",
-      "pubDate": "Sun, 28 Jun 2026 12:00:03 +0900"
-    },
-    {
-      "title": "2분기 '자랑스러운 중소기업인'에 한울생약·충무타올 대표 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260628012700030",
-      "pubDate": "Sun, 28 Jun 2026 12:00:02 +0900"
-    },
-    {
-      "title": "청년 50명, 기업과 환경해법 토론…포장재 회수 등 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260628010600003",
-      "pubDate": "Sun, 28 Jun 2026 12:00:01 +0900"
-    },
-    {
-      "title": "38년 된 영등포 당산현대3차 최고 46층 734세대로 재건축",
-      "link": "https://www.yna.co.kr/view/AKR20260628025800004",
-      "pubDate": "Sun, 28 Jun 2026 11:41:23 +0900"
-    },
-    {
-      "title": "서울시 '신속통합기획 온라인 아카이브' 본격 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260628020000004",
-      "pubDate": "Sun, 28 Jun 2026 11:15:01 +0900"
-    },
-    {
-      "title": "코트라, 콜롬비아서 첫 K-푸드 판촉전…50만달러 계약 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260628023200003",
-      "pubDate": "Sun, 28 Jun 2026 11:04:19 +0900"
-    },
-    {
-      "title": "5월 인천 일평균 수출액 2억5천만달러…역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260626097200065",
-      "pubDate": "Sun, 28 Jun 2026 11:01:27 +0900"
-    },
-    {
-      "title": "동해신항 석탄부두 착공…\"국가기간산업 원자재 공급 기반\"",
-      "link": "https://www.yna.co.kr/view/AKR20260626124600051",
-      "pubDate": "Sun, 28 Jun 2026 11:01:27 +0900"
-    },
-    {
-      "title": "해수부, 해양수산형 예비 사회적기업 첫 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260626128300051",
-      "pubDate": "Sun, 28 Jun 2026 11:01:26 +0900"
-    },
-    {
-      "title": "현대硏 \"고용 없는 성장·내수 부진 등 5대 리스크 대비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260626170300002",
-      "pubDate": "Sun, 28 Jun 2026 11:00:31 +0900"
-    },
-    {
-      "title": "정부, 인수공통전염병 예찰체계 고도화…위험도·통계 기반 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260627028300030",
-      "pubDate": "Sun, 28 Jun 2026 11:00:30 +0900"
     }
   ]
 }
