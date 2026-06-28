@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782628795,
+  "updated_at_unix": 1782640252,
   "items": [
+    {
+      "title": "올해 계란 수입에 재정 1천212억원 투입…업계 \"규제가 원인\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260627043351030",
+      "pubDate": "Sun, 28 Jun 2026 18:11:12 +0900"
+    },
+    {
+      "title": "구윤철 '호남 반도체 투자'에 \"승부처는 지방…총력 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20260628045800002",
+      "pubDate": "Sun, 28 Jun 2026 17:40:03 +0900"
+    },
     {
       "title": "KB부동산 \"2분기 서울 오피스텔 매매가격 상승폭 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260628037200003",
@@ -142,16 +152,6 @@
       "title": "정부, 인수공통전염병 예찰체계 고도화…위험도·통계 기반 전환",
       "link": "https://www.yna.co.kr/view/AKR20260627028300030",
       "pubDate": "Sun, 28 Jun 2026 11:00:30 +0900"
-    },
-    {
-      "title": "검역본부-서울대, '세계동물보건역사학회' 아시아 첫 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260627027600030",
-      "pubDate": "Sun, 28 Jun 2026 11:00:29 +0900"
-    },
-    {
-      "title": "해수부, 한·중·일·대만 민물장어 보존 협의회 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260628007300030",
-      "pubDate": "Sun, 28 Jun 2026 11:00:04 +0900"
     }
   ]
 }
