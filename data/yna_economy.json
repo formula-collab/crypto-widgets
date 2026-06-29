@@ -1,10 +1,120 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782721896,
+  "updated_at_unix": 1782737689,
   "items": [
     {
-      "title": "제조업 중심 경남, 메가프로젝트 피지컬 AI 집중 육성에 기대감",
+      "title": "[3대 메가] 삼성·SK는 4천700조, 산업부는 1천500조…투자액 차이 왜(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629153651003",
+      "pubDate": "Mon, 29 Jun 2026 21:11:23 +0900"
+    },
+    {
+      "title": "[인사] 국세청",
+      "link": "https://www.yna.co.kr/view/AKR20260629161300002",
+      "pubDate": "Mon, 29 Jun 2026 19:08:03 +0900"
+    },
+    {
+      "title": "[3대 메가] 삼성전기 세종공장 대규모 투자 계획에 세종시 '반색'",
+      "link": "https://www.yna.co.kr/view/AKR20260629159800063",
+      "pubDate": "Mon, 29 Jun 2026 18:47:59 +0900"
+    },
+    {
+      "title": "[3대 메가] 李대통령, 이재용·최태원에 \"국민영웅\"…기업전폭지원 약속(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629125451001",
+      "pubDate": "Mon, 29 Jun 2026 18:40:35 +0900"
+    },
+    {
+      "title": "알엔투테크놀로지, 70억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260629158500008",
+      "pubDate": "Mon, 29 Jun 2026 18:38:05 +0900"
+    },
+    {
+      "title": "광고기업 매드업, 내달 1일 코스닥 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260629159100008",
+      "pubDate": "Mon, 29 Jun 2026 18:36:44 +0900"
+    },
+    {
+      "title": "[3대 메가] 강훈식 \"서남권 클러스터, 정부 임기 내 완공 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629154900001",
+      "pubDate": "Mon, 29 Jun 2026 18:36:08 +0900"
+    },
+    {
+      "title": "[3대 메가] 삼성·SK는 4천700조, 산업부는 1천500조…실제 신규투자액은",
+      "link": "https://www.yna.co.kr/view/AKR20260629153600003",
+      "pubDate": "Mon, 29 Jun 2026 18:28:29 +0900"
+    },
+    {
+      "title": "광주 반도체 축으로 지방 대도약…1천500조 3대 프로젝트 가동(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629117151003",
+      "pubDate": "Mon, 29 Jun 2026 18:11:27 +0900"
+    },
+    {
+      "title": "SK, 호남권에 400조 반도체 투자…총 2천100조 투자 계획(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629139401003",
+      "pubDate": "Mon, 29 Jun 2026 18:00:33 +0900"
+    },
+    {
+      "title": "[3대 메가] 우상호 측 \"강릉 AI 데이터센터 차질 없다…동해 사업과 별개\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629152900062",
+      "pubDate": "Mon, 29 Jun 2026 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260629148600011",
+      "pubDate": "Mon, 29 Jun 2026 18:00:01 +0900"
+    },
+    {
+      "title": "아이큐어, 212억원 유상증자…솔루엠코스메틱에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260629154800008",
+      "pubDate": "Mon, 29 Jun 2026 17:57:59 +0900"
+    },
+    {
+      "title": "SK텔레콤 \"미국 계열사 주식 3천971억원어치 취득…지분율 0.6%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629153800008",
+      "pubDate": "Mon, 29 Jun 2026 17:52:51 +0900"
+    },
+    {
+      "title": "바이다·싸이몬, 코스닥 상장예비심사 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260629153200008",
+      "pubDate": "Mon, 29 Jun 2026 17:51:14 +0900"
+    },
+    {
+      "title": "[3대 메가] SK하이닉스 청주 투자계획에 충북지역 일제히 '환영'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629140151064",
+      "pubDate": "Mon, 29 Jun 2026 17:46:22 +0900"
+    },
+    {
+      "title": "삼전·닉스 레버리지, 변동성에 어느정도 영향?…자본시장硏 분석은",
+      "link": "https://www.yna.co.kr/view/AKR20260629117500008",
+      "pubDate": "Mon, 29 Jun 2026 17:45:36 +0900"
+    },
+    {
+      "title": "농협, 대규모 세무조사에 '벌집'…지배구조 개혁 압박 신호탄 분석",
+      "link": "https://www.yna.co.kr/view/AKR20260629141700030",
+      "pubDate": "Mon, 29 Jun 2026 17:34:21 +0900"
+    },
+    {
+      "title": "위성곤 인수위 \"제주도 빚 2조8천579억원…재정혁신 권고\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629095700056",
+      "pubDate": "Mon, 29 Jun 2026 17:30:05 +0900"
+    },
+    {
+      "title": "\"K-치킨 넘어 미식 페어링까지\"…농식품부, 전국 맛 지도 그린다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260629079751030",
+      "pubDate": "Mon, 29 Jun 2026 17:27:57 +0900"
+    },
+    {
+      "title": "울산항 5월 물동량 22.1%↓…중동전쟁 여파 액체화물 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260629145900057",
+      "pubDate": "Mon, 29 Jun 2026 17:27:54 +0900"
+    },
+    {
+      "title": "이상일 용인시장 \"용인 반도체 산단 투자 신속 진행해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629145300061",
+      "pubDate": "Mon, 29 Jun 2026 17:26:35 +0900"
+    },
+    {
+      "title": "[3대 메가] 제조업 중심 경남, 메가프로젝트 피지컬 AI 집중 육성에 기대감",
       "link": "https://www.yna.co.kr/view/AKR20260629144600052",
       "pubDate": "Mon, 29 Jun 2026 17:25:15 +0900"
     },
@@ -39,119 +149,9 @@
       "pubDate": "Mon, 29 Jun 2026 17:13:05 +0900"
     },
     {
-      "title": "\"우리 지역 사업 차질 없나\"…용인반도체클러스터 주변 '술렁'",
+      "title": "[3대 메가] \"우리 지역 사업 차질 없나\"…용인반도체클러스터 주변 '술렁'",
       "link": "https://www.yna.co.kr/view/AKR20260629140200061",
       "pubDate": "Mon, 29 Jun 2026 17:09:09 +0900"
-    },
-    {
-      "title": "[3대 메가] 김태흠 \"정치 논리에 휘둘려\" vs 박수현 \"적극 환영\"…상반 반응",
-      "link": "https://www.yna.co.kr/view/AKR20260629137300063",
-      "pubDate": "Mon, 29 Jun 2026 17:08:29 +0900"
-    },
-    {
-      "title": "기업·인재 선호하는 '매력적 도시'로…기업형 첨단도시 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260629105300003",
-      "pubDate": "Mon, 29 Jun 2026 17:07:33 +0900"
-    },
-    {
-      "title": "SK, 2천100조 들여 AI 인프라…메모리 벨트에 데이터센터까지",
-      "link": "https://www.yna.co.kr/view/AKR20260629139400003",
-      "pubDate": "Mon, 29 Jun 2026 17:03:01 +0900"
-    },
-    {
-      "title": "광주 반도체 축으로 지방 대도약…1천500조 3대 프로젝트 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260629117100003",
-      "pubDate": "Mon, 29 Jun 2026 17:00:03 +0900"
-    },
-    {
-      "title": "거제 택시 기본요금, 7월 20일부터 4천원→4천600원으로 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260629141500052",
-      "pubDate": "Mon, 29 Jun 2026 16:59:26 +0900"
-    },
-    {
-      "title": "삼성바이오에피스 \"키트루다 시밀러 임상1·3상서 1차지표 충족\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629134000017",
-      "pubDate": "Mon, 29 Jun 2026 16:58:50 +0900"
-    },
-    {
-      "title": "방미심위, SNS 불법추심·성매매 정보 2천30건 차단(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629070351017",
-      "pubDate": "Mon, 29 Jun 2026 16:57:27 +0900"
-    },
-    {
-      "title": "환율 급등에 국고채 금리 일제히 상승…3년물 연 3.733%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629138751008",
-      "pubDate": "Mon, 29 Jun 2026 16:53:50 +0900"
-    },
-    {
-      "title": "\"현대차 투자 후속조치 최우선\"…전북 기업들, 민선 9기에 주문",
-      "link": "https://www.yna.co.kr/view/AKR20260629139900055",
-      "pubDate": "Mon, 29 Jun 2026 16:51:16 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.733%",
-      "link": "https://www.yna.co.kr/view/AKR20260629138700008",
-      "pubDate": "Mon, 29 Jun 2026 16:50:14 +0900"
-    },
-    {
-      "title": "[3대 메가] SK하이닉스 청주 투자 계획에 충북 지역사회 일제히 '환영'",
-      "link": "https://www.yna.co.kr/view/AKR20260629140100064",
-      "pubDate": "Mon, 29 Jun 2026 16:49:53 +0900"
-    },
-    {
-      "title": "코스피 내린 틈에…코스닥 후끈, 8%↑ 역대 두번째 상승률(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629080451008",
-      "pubDate": "Mon, 29 Jun 2026 16:49:40 +0900"
-    },
-    {
-      "title": "신한·한투, 롯데손보 인수전…예별손보·KDB생명도 주인찾기",
-      "link": "https://www.yna.co.kr/view/AKR20260629136600002",
-      "pubDate": "Mon, 29 Jun 2026 16:49:12 +0900"
-    },
-    {
-      "title": "경제계 \"3대 메가프로젝트 환영…인프라·제도 적기 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629138900003",
-      "pubDate": "Mon, 29 Jun 2026 16:41:53 +0900"
-    },
-    {
-      "title": "반도체산업협회 \"메가 투자 환영…AI시대 시장 리더십 확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629138500003",
-      "pubDate": "Mon, 29 Jun 2026 16:41:11 +0900"
-    },
-    {
-      "title": "삼성, 영호남·충청에 625조 투자…경기 포함하면 2천655조",
-      "link": "https://www.yna.co.kr/view/AKR20260629133100003",
-      "pubDate": "Mon, 29 Jun 2026 16:33:17 +0900"
-    },
-    {
-      "title": "전남광주 반도체 전력·용수 논란에 정부 \"국가가 책임 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629128900054",
-      "pubDate": "Mon, 29 Jun 2026 16:27:28 +0900"
-    },
-    {
-      "title": "코스피, 외인 역대급 투매 속 8,390대 하락…코스닥은 8% 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629130800008",
-      "pubDate": "Mon, 29 Jun 2026 16:27:03 +0900"
-    },
-    {
-      "title": "[3대 메가] 이재용 \"송도, 세계 최대 바이오단지로 육성\"…인천시 \"환영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629130200065",
-      "pubDate": "Mon, 29 Jun 2026 16:17:56 +0900"
-    },
-    {
-      "title": "LH, 2천475가구 분당 6·S3구역 사업시행자 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260629128100003",
-      "pubDate": "Mon, 29 Jun 2026 16:12:51 +0900"
-    },
-    {
-      "title": "SC제일은행 \"하반기 한국선 반도체주 위주 투자…美비중도 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629115300002",
-      "pubDate": "Mon, 29 Jun 2026 16:10:09 +0900"
-    },
-    {
-      "title": "코스피 변동성지수 또 급등…종가기준 역대 최고치 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629052151008",
-      "pubDate": "Mon, 29 Jun 2026 16:04:52 +0900"
     }
   ]
 }
