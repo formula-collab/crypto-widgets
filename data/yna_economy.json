@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782770541,
+  "updated_at_unix": 1782775838,
   "items": [
+    {
+      "title": "LG화학, 미국 FDA서 고형암 신약후보물질 임상계획 승인받아",
+      "link": "https://www.yna.co.kr/view/AKR20260630025000017",
+      "pubDate": "Tue, 30 Jun 2026 08:17:47 +0900"
+    },
+    {
+      "title": "[2보] '집값 급등' 동탄·기흥·구리 규제지역·토허구역 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260630023600003",
+      "pubDate": "Tue, 30 Jun 2026 08:13:31 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美기술주 훈풍에…코스피 반등 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260630020900008",
+      "pubDate": "Tue, 30 Jun 2026 08:07:20 +0900"
+    },
+    {
+      "title": "내달 5일까지 삼성전자 감사페스티벌…온누리는 9월까지 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260629156000003",
+      "pubDate": "Tue, 30 Jun 2026 08:05:00 +0900"
+    },
+    {
+      "title": "[1보] 동탄·기흥·구리 규제지역·토지거래허가구역 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260630004800003",
+      "pubDate": "Tue, 30 Jun 2026 08:04:16 +0900"
+    },
+    {
+      "title": "[2보] 5월 산업생산 0.3%↓…반도체 생산 10.0% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260630017151002",
+      "pubDate": "Tue, 30 Jun 2026 08:00:08 +0900"
+    },
+    {
+      "title": "수은, 퓨리오사AI에 200억…첫 벤처기업 직접 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260629137000002",
+      "pubDate": "Tue, 30 Jun 2026 08:00:07 +0900"
+    },
+    {
+      "title": "[1보] 5월 산업생산 0.3%↓·소비 0.1%↑·투자 0.1%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260630017100002",
+      "pubDate": "Tue, 30 Jun 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260630012400011",
+      "pubDate": "Tue, 30 Jun 2026 07:30:00 +0900"
+    },
+    {
+      "title": "인천대 조교 '고용안정성 사각지대'…\"비정규직 관행 끊어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629123900065",
+      "pubDate": "Tue, 30 Jun 2026 07:17:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '북아프리카의 별' 창립 100주년",
+      "link": "https://www.yna.co.kr/view/AKR20260624077800898",
+      "pubDate": "Tue, 30 Jun 2026 07:00:03 +0900"
+    },
     {
       "title": "제주특별자치도 20년…지방분권에 외형 커졌지만 난개발 그늘도",
       "link": "https://www.yna.co.kr/view/AKR20260629028400056",
@@ -97,61 +152,6 @@
       "title": "[3대 메가] 삼성·SK는 4천700조, 산업부는 1천500조…투자액 차이 왜(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260629153651003",
       "pubDate": "Mon, 29 Jun 2026 21:11:23 +0900"
-    },
-    {
-      "title": "[인사] 국세청",
-      "link": "https://www.yna.co.kr/view/AKR20260629161300002",
-      "pubDate": "Mon, 29 Jun 2026 19:08:03 +0900"
-    },
-    {
-      "title": "[3대 메가] 삼성전기 세종공장 대규모 투자 계획에 세종시 '반색'",
-      "link": "https://www.yna.co.kr/view/AKR20260629159800063",
-      "pubDate": "Mon, 29 Jun 2026 18:47:59 +0900"
-    },
-    {
-      "title": "[3대 메가] 李대통령, 이재용·최태원에 \"국민영웅\"…기업전폭지원 약속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629125451001",
-      "pubDate": "Mon, 29 Jun 2026 18:40:35 +0900"
-    },
-    {
-      "title": "알엔투테크놀로지, 70억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260629158500008",
-      "pubDate": "Mon, 29 Jun 2026 18:38:05 +0900"
-    },
-    {
-      "title": "광고기업 매드업, 내달 1일 코스닥 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260629159100008",
-      "pubDate": "Mon, 29 Jun 2026 18:36:44 +0900"
-    },
-    {
-      "title": "[3대 메가] 강훈식 \"서남권 클러스터, 정부 임기 내 완공 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629154900001",
-      "pubDate": "Mon, 29 Jun 2026 18:36:08 +0900"
-    },
-    {
-      "title": "[3대 메가] 삼성·SK는 4천700조, 산업부는 1천500조…실제 신규투자액은",
-      "link": "https://www.yna.co.kr/view/AKR20260629153600003",
-      "pubDate": "Mon, 29 Jun 2026 18:28:29 +0900"
-    },
-    {
-      "title": "광주 반도체 축으로 지방 대도약…1천500조 3대 프로젝트 가동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629117151003",
-      "pubDate": "Mon, 29 Jun 2026 18:11:27 +0900"
-    },
-    {
-      "title": "SK, 호남권에 400조 반도체 투자…총 2천100조 투자 계획(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629139401003",
-      "pubDate": "Mon, 29 Jun 2026 18:00:33 +0900"
-    },
-    {
-      "title": "[3대 메가] 우상호 측 \"강릉 AI 데이터센터 차질 없다…동해 사업과 별개\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629152900062",
-      "pubDate": "Mon, 29 Jun 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260629148600011",
-      "pubDate": "Mon, 29 Jun 2026 18:00:01 +0900"
     }
   ]
 }
