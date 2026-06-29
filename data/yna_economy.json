@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782750701,
+  "updated_at_unix": 1782759394,
   "items": [
+    {
+      "title": "달러-원, 야간 거래서 숨고르기 …1,543.00원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260630003000002",
+      "pubDate": "Tue, 30 Jun 2026 03:47:19 +0900"
+    },
     {
       "title": "[3대 메가] 삼성·SK는 4천700조, 산업부는 1천500조…투자액 차이 왜(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260629153651003",
@@ -147,11 +152,6 @@
       "title": "작년 종부세 2천214억원 늘어난 1.3조원…대상자 8만3천명↑",
       "link": "https://www.yna.co.kr/view/AKR20260629139500002",
       "pubDate": "Mon, 29 Jun 2026 17:13:05 +0900"
-    },
-    {
-      "title": "[3대 메가] \"우리 지역 사업 차질 없나\"…용인반도체클러스터 주변 '술렁'",
-      "link": "https://www.yna.co.kr/view/AKR20260629140200061",
-      "pubDate": "Mon, 29 Jun 2026 17:09:09 +0900"
     }
   ]
 }
