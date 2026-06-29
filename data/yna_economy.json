@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782766017,
+  "updated_at_unix": 1782770541,
   "items": [
+    {
+      "title": "제주특별자치도 20년…지방분권에 외형 커졌지만 난개발 그늘도",
+      "link": "https://www.yna.co.kr/view/AKR20260629028400056",
+      "pubDate": "Tue, 30 Jun 2026 06:31:32 +0900"
+    },
+    {
+      "title": "\"주요 IB, 美연준 금리인하 종료 평가…하반기 동결·인상 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260630009100072",
+      "pubDate": "Tue, 30 Jun 2026 06:20:19 +0900"
+    },
+    {
+      "title": "울산 공무원 우수제안 9건 선정…'지능형 세무조사 모델' 금상",
+      "link": "https://www.yna.co.kr/view/AKR20260629166600057",
+      "pubDate": "Tue, 30 Jun 2026 06:01:02 +0900"
+    },
+    {
+      "title": "'알테쉬' 中직구 어린이 샌들·완구서 유해성물질 검출",
+      "link": "https://www.yna.co.kr/view/AKR20260629137700004",
+      "pubDate": "Tue, 30 Jun 2026 06:00:16 +0900"
+    },
+    {
+      "title": "몰래 가입된 태블릿 계약 해지…서울시, 장애인 소비상담 2만8천건",
+      "link": "https://www.yna.co.kr/view/AKR20260629143100004",
+      "pubDate": "Tue, 30 Jun 2026 06:00:14 +0900"
+    },
+    {
+      "title": "최저임금 심의시한 또 넘겨…노사 '1차 수정안', 격차 좁혀질까",
+      "link": "https://www.yna.co.kr/view/AKR20260629105000530",
+      "pubDate": "Tue, 30 Jun 2026 06:00:14 +0900"
+    },
+    {
+      "title": "중기부, '中企 연구개발 우수성과' 공모…최대 1억5천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260629134200030",
+      "pubDate": "Tue, 30 Jun 2026 06:00:09 +0900"
+    },
+    {
+      "title": "일반회사채 순상환 지속…CP·단기사채 발행 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260629149100002",
+      "pubDate": "Tue, 30 Jun 2026 06:00:06 +0900"
+    },
+    {
+      "title": "5월 서울 입주물량 작년 대비 43%↓…아파트 착공도 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260629159000003",
+      "pubDate": "Tue, 30 Jun 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"국내 한계기업 비중 8년새 15.8%p 상승…주요 5개국보다 빨라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629164300003",
+      "pubDate": "Tue, 30 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "신종피싱 의심계좌도 최장 67일 거래정지…추가피해 방지",
+      "link": "https://www.yna.co.kr/view/AKR20260629150800002",
+      "pubDate": "Tue, 30 Jun 2026 06:00:01 +0900"
+    },
+    {
+      "title": "기업들, 복지포인트도 근로소득 과세 맞나?…헌재 \"합헌\"",
+      "link": "https://www.yna.co.kr/view/AKR20260629169800004",
+      "pubDate": "Tue, 30 Jun 2026 06:00:00 +0900"
+    },
+    {
+      "title": "20∼40대 줄었는데 60대만 급증…다중채무 '고령화' 뚜렷",
+      "link": "https://www.yna.co.kr/view/AKR20260629156500002",
+      "pubDate": "Tue, 30 Jun 2026 05:55:01 +0900"
+    },
+    {
+      "title": "'위기의 자영업자' 대출·연체액 최대…연체율도 고공행진",
+      "link": "https://www.yna.co.kr/view/AKR20260629148100002",
+      "pubDate": "Tue, 30 Jun 2026 05:53:00 +0900"
+    },
+    {
+      "title": "고가주택 장특공제 90%가 서울 집중…30억 초과에 44% 쏠려",
+      "link": "https://www.yna.co.kr/view/AKR20260629159600002",
+      "pubDate": "Tue, 30 Jun 2026 05:51:00 +0900"
+    },
     {
       "title": "원유 물량 협상 오늘 개시…음용유 최대 4만3천t 감축 논의",
       "link": "https://www.yna.co.kr/view/AKR20260629160900030",
@@ -77,81 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260629148600011",
       "pubDate": "Mon, 29 Jun 2026 18:00:01 +0900"
-    },
-    {
-      "title": "아이큐어, 212억원 유상증자…솔루엠코스메틱에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260629154800008",
-      "pubDate": "Mon, 29 Jun 2026 17:57:59 +0900"
-    },
-    {
-      "title": "SK텔레콤 \"미국 계열사 주식 3천971억원어치 취득…지분율 0.6%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629153800008",
-      "pubDate": "Mon, 29 Jun 2026 17:52:51 +0900"
-    },
-    {
-      "title": "바이다·싸이몬, 코스닥 상장예비심사 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260629153200008",
-      "pubDate": "Mon, 29 Jun 2026 17:51:14 +0900"
-    },
-    {
-      "title": "[3대 메가] SK하이닉스 청주 투자계획에 충북지역 일제히 '환영'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629140151064",
-      "pubDate": "Mon, 29 Jun 2026 17:46:22 +0900"
-    },
-    {
-      "title": "삼전·닉스 레버리지, 변동성에 어느정도 영향?…자본시장硏 분석은",
-      "link": "https://www.yna.co.kr/view/AKR20260629117500008",
-      "pubDate": "Mon, 29 Jun 2026 17:45:36 +0900"
-    },
-    {
-      "title": "농협, 대규모 세무조사에 '벌집'…지배구조 개혁 압박 신호탄 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260629141700030",
-      "pubDate": "Mon, 29 Jun 2026 17:34:21 +0900"
-    },
-    {
-      "title": "위성곤 인수위 \"제주도 빚 2조8천579억원…재정혁신 권고\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629095700056",
-      "pubDate": "Mon, 29 Jun 2026 17:30:05 +0900"
-    },
-    {
-      "title": "\"K-치킨 넘어 미식 페어링까지\"…농식품부, 전국 맛 지도 그린다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629079751030",
-      "pubDate": "Mon, 29 Jun 2026 17:27:57 +0900"
-    },
-    {
-      "title": "울산항 5월 물동량 22.1%↓…중동전쟁 여파 액체화물 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260629145900057",
-      "pubDate": "Mon, 29 Jun 2026 17:27:54 +0900"
-    },
-    {
-      "title": "이상일 용인시장 \"용인 반도체 산단 투자 신속 진행해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260629145300061",
-      "pubDate": "Mon, 29 Jun 2026 17:26:35 +0900"
-    },
-    {
-      "title": "[3대 메가] 제조업 중심 경남, 메가프로젝트 피지컬 AI 집중 육성에 기대감",
-      "link": "https://www.yna.co.kr/view/AKR20260629144600052",
-      "pubDate": "Mon, 29 Jun 2026 17:25:15 +0900"
-    },
-    {
-      "title": "'시스템소프트웨어 개발' 송우인포텍, 코넥스 신규상장 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260629145200008",
-      "pubDate": "Mon, 29 Jun 2026 17:21:41 +0900"
-    },
-    {
-      "title": "삼성, 광주에 신규 반도체팹…영호남·충청에 625조 투자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260629133151003",
-      "pubDate": "Mon, 29 Jun 2026 17:17:15 +0900"
-    },
-    {
-      "title": "올릭스, 105억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260629143900008",
-      "pubDate": "Mon, 29 Jun 2026 17:15:23 +0900"
-    },
-    {
-      "title": "[동정] 김기환 창원세관장, 개청 제50주년 기념식 참석",
-      "link": "https://www.yna.co.kr/view/AKR20260629145100052",
-      "pubDate": "Mon, 29 Jun 2026 17:14:20 +0900"
     }
   ]
 }
