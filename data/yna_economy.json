@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782759394,
+  "updated_at_unix": 1782766017,
   "items": [
+    {
+      "title": "원유 물량 협상 오늘 개시…음용유 최대 4만3천t 감축 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260629160900030",
+      "pubDate": "Tue, 30 Jun 2026 05:30:00 +0900"
+    },
+    {
+      "title": "국제유가, 주말 호르무즈 무력공방에 상승…WTI 2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260630004500072",
+      "pubDate": "Tue, 30 Jun 2026 04:51:16 +0900"
+    },
     {
       "title": "달러-원, 야간 거래서 숨고르기 …1,543.00원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260630003000002",
@@ -142,16 +152,6 @@
       "title": "[동정] 김기환 창원세관장, 개청 제50주년 기념식 참석",
       "link": "https://www.yna.co.kr/view/AKR20260629145100052",
       "pubDate": "Mon, 29 Jun 2026 17:14:20 +0900"
-    },
-    {
-      "title": "[3대 메가] 李대통령 '반도체 날개' 달고 대전환 가속…정치공방 넘을까",
-      "link": "https://www.yna.co.kr/view/AKR20260629141200001",
-      "pubDate": "Mon, 29 Jun 2026 17:13:36 +0900"
-    },
-    {
-      "title": "작년 종부세 2천214억원 늘어난 1.3조원…대상자 8만3천명↑",
-      "link": "https://www.yna.co.kr/view/AKR20260629139500002",
-      "pubDate": "Mon, 29 Jun 2026 17:13:05 +0900"
     }
   ]
 }
