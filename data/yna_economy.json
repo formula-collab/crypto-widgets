@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782831973,
+  "updated_at_unix": 1782839998,
   "items": [
+    {
+      "title": "\"미래에셋, 스페이스X 공모주 수요파악을 주문 접수로 오해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701001900072",
+      "pubDate": "Wed, 1 Jul 2026 01:51:39 +0900"
+    },
+    {
+      "title": "전남광주특별시의회, '반도체 지원 조례' 1호 안건 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260701001800054",
+      "pubDate": "Wed, 1 Jul 2026 01:37:02 +0900"
+    },
     {
       "title": "美 4월 주택가격 전년대비 0.8%↑…실질가격은 11개월째 하락",
       "link": "https://www.yna.co.kr/view/AKR20260630194300072",
@@ -142,16 +152,6 @@
       "title": "[동정] 황종우 해양수산부 장관, 세계 해양수산 국제기구 포럼 참석",
       "link": "https://www.yna.co.kr/view/AKR20260630160800051",
       "pubDate": "Tue, 30 Jun 2026 16:53:42 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.703%",
-      "link": "https://www.yna.co.kr/view/AKR20260630159000008",
-      "pubDate": "Tue, 30 Jun 2026 16:52:21 +0900"
-    },
-    {
-      "title": "동탄·기흥·구리도 '영끌투자' 막혀…당국, 가계부채 점검회의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630086951002",
-      "pubDate": "Tue, 30 Jun 2026 16:52:08 +0900"
     }
   ]
 }
