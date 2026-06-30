@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782846792,
+  "updated_at_unix": 1782853839,
   "items": [
+    {
+      "title": "중기부, '혁신성장 협력지원 사업' 출범…중소기업 사업화 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260630138700030",
+      "pubDate": "Wed, 1 Jul 2026 06:00:07 +0900"
+    },
+    {
+      "title": "'육아기 10시 출근제' 올 상반기 1천78명분 신청…근속요건 폐지",
+      "link": "https://www.yna.co.kr/view/AKR20260630162100530",
+      "pubDate": "Wed, 1 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[OK제보] 여기저기서 \"나도 당했다\"…400명 울린 'OTT 계정' 돌려막기",
+      "link": "https://www.yna.co.kr/view/AKR20260629083600505",
+      "pubDate": "Wed, 1 Jul 2026 06:00:04 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 여름방학 '금융과 경제생활' 과목 교사 연수",
+      "link": "https://www.yna.co.kr/view/AKR20260630159900002",
+      "pubDate": "Wed, 1 Jul 2026 06:00:03 +0900"
+    },
+    {
+      "title": "보이스피싱 피해신청, 비대면 가능해져…이체 저축은행명 확인도",
+      "link": "https://www.yna.co.kr/view/AKR20260630169600002",
+      "pubDate": "Wed, 1 Jul 2026 06:00:03 +0900"
+    },
+    {
+      "title": "저축은행 예금금리 4%대 상품 급증…2주 만에 평균 0.24%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260630184400002",
+      "pubDate": "Wed, 1 Jul 2026 05:59:00 +0900"
+    },
+    {
+      "title": "금융위 수사의뢰 미신고 가상자산사업자 25곳 중 23곳 수사중지",
+      "link": "https://www.yna.co.kr/view/AKR20260630177000002",
+      "pubDate": "Wed, 1 Jul 2026 05:57:00 +0900"
+    },
+    {
+      "title": "일부 카드사 포인트 지역화폐 서비스…수십조원 규모로 확산하나",
+      "link": "https://www.yna.co.kr/view/AKR20260630188700002",
+      "pubDate": "Wed, 1 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "올해 4%대 성장 전망도 등장…국내외 기관 10여곳 3%대 예상",
+      "link": "https://www.yna.co.kr/view/AKR20260630173200002",
+      "pubDate": "Wed, 1 Jul 2026 05:51:00 +0900"
+    },
+    {
+      "title": "민선 9기 지방정부 출범…민생·지역경제 회복 본격 시동",
+      "link": "https://www.yna.co.kr/view/AKR20260630151900053",
+      "pubDate": "Wed, 1 Jul 2026 05:00:02 +0900"
+    },
+    {
+      "title": "국제유가, 미·이란 협상 대기하며 하락…WTI 1.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260701005700072",
+      "pubDate": "Wed, 1 Jul 2026 04:58:56 +0900"
+    },
+    {
+      "title": "달러-원, 바닥 뚫린 엔저 흐름에 동참 …1,549.50원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260701004900002",
+      "pubDate": "Wed, 1 Jul 2026 04:08:16 +0900"
+    },
     {
       "title": "민형배 전남광주특별시장 \"행정 역량 묶어 성장의 판 바꿀 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260701002800054",
@@ -92,66 +152,6 @@
       "title": "국힘 \"동탄·구리·기흥 규제지역 지정, 고가 부동산 인증 마크\"",
       "link": "https://www.yna.co.kr/view/AKR20260630170200001",
       "pubDate": "Tue, 30 Jun 2026 17:41:34 +0900"
-    },
-    {
-      "title": "李대통령, '서남권 국민보고회' 참석…첨단산업 투자 격려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630049251001",
-      "pubDate": "Tue, 30 Jun 2026 17:36:06 +0900"
-    },
-    {
-      "title": "EU 철강 무관세 물량 46% 축소…한국, 19.7% 감소로 '방어'",
-      "link": "https://www.yna.co.kr/view/AKR20260630168500003",
-      "pubDate": "Tue, 30 Jun 2026 17:30:17 +0900"
-    },
-    {
-      "title": "송미령 장관 \"K-푸드 오감으로 즐기도록 체험·관광 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260630155300030",
-      "pubDate": "Tue, 30 Jun 2026 17:30:00 +0900"
-    },
-    {
-      "title": "태백시 상공인·당선인 한자리에…지역경제 활성화 다짐",
-      "link": "https://www.yna.co.kr/view/AKR20260630168000062",
-      "pubDate": "Tue, 30 Jun 2026 17:22:34 +0900"
-    },
-    {
-      "title": "에코프로, 인도네시아 니켈 투자 확대…1조2천억원 유증(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630145551008",
-      "pubDate": "Tue, 30 Jun 2026 17:12:14 +0900"
-    },
-    {
-      "title": "목포시, 서남권 반도체 메가프로젝트 적극 환영",
-      "link": "https://www.yna.co.kr/view/AKR20260630164000054",
-      "pubDate": "Tue, 30 Jun 2026 17:09:50 +0900"
-    },
-    {
-      "title": "LH, 고양창릉 S-3·S-4블록 2천306가구 입주자 모집(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630121451003",
-      "pubDate": "Tue, 30 Jun 2026 17:06:49 +0900"
-    },
-    {
-      "title": "국유재산 3년간 590만필지 전수 조사…조사 주기 5년→1년",
-      "link": "https://www.yna.co.kr/view/AKR20260630160700002",
-      "pubDate": "Tue, 30 Jun 2026 17:00:01 +0900"
-    },
-    {
-      "title": "한국투자, 모간스탠리운용과 협력추진…글로벌 포트폴리오 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260630163000008",
-      "pubDate": "Tue, 30 Jun 2026 16:58:37 +0900"
-    },
-    {
-      "title": "춘천시 강촌 도시재생·구곡폭포 개발 본격화…체류형 관광거점",
-      "link": "https://www.yna.co.kr/view/AKR20260630162000062",
-      "pubDate": "Tue, 30 Jun 2026 16:58:18 +0900"
-    },
-    {
-      "title": "예별손보 두번째 본입찰…한투·흥국화재·OK금융그룹·JC플라워",
-      "link": "https://www.yna.co.kr/view/AKR20260630161800002",
-      "pubDate": "Tue, 30 Jun 2026 16:55:23 +0900"
-    },
-    {
-      "title": "외국인 순매수세에 국고채 금리 하락…3년물 연 3.703%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630159051008",
-      "pubDate": "Tue, 30 Jun 2026 16:54:51 +0900"
     }
   ]
 }
