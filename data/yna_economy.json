@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782822394,
+  "updated_at_unix": 1782831973,
   "items": [
+    {
+      "title": "美 4월 주택가격 전년대비 0.8%↑…실질가격은 11개월째 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260630194300072",
+      "pubDate": "Tue, 30 Jun 2026 22:41:14 +0900"
+    },
     {
       "title": "노량진2구역 '드파인 아르티아' 1순위 경쟁률 16.5대 1",
       "link": "https://www.yna.co.kr/view/AKR20260630189200003",
@@ -147,11 +152,6 @@
       "title": "동탄·기흥·구리도 '영끌투자' 막혀…당국, 가계부채 점검회의(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260630086951002",
       "pubDate": "Tue, 30 Jun 2026 16:52:08 +0900"
-    },
-    {
-      "title": "대구·경북 경제계 \"반도체 투자계획 재검토해야\" 공동성명(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260630146100053",
-      "pubDate": "Tue, 30 Jun 2026 16:49:05 +0900"
     }
   ]
 }
