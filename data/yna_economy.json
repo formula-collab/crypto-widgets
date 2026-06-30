@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782814957,
+  "updated_at_unix": 1782822394,
   "items": [
+    {
+      "title": "노량진2구역 '드파인 아르티아' 1순위 경쟁률 16.5대 1",
+      "link": "https://www.yna.co.kr/view/AKR20260630189200003",
+      "pubDate": "Tue, 30 Jun 2026 21:02:06 +0900"
+    },
+    {
+      "title": "李대통령, '서남권 국민보고회' 참석…산단 후보지 항공시찰도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260630049252001",
+      "pubDate": "Tue, 30 Jun 2026 20:44:31 +0900"
+    },
     {
       "title": "거래소, 에스씨엠생명과학 '관리종목 해제 실수' 배상액 확정",
       "link": "https://www.yna.co.kr/view/AKR20260630173300008",
@@ -142,16 +152,6 @@
       "title": "대구·경북 경제계 \"반도체 투자계획 재검토해야\" 공동성명(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260630146100053",
       "pubDate": "Tue, 30 Jun 2026 16:49:05 +0900"
-    },
-    {
-      "title": "삼전닉스 반도체 투자 계획에 광주 부동산 시장 들썩",
-      "link": "https://www.yna.co.kr/view/AKR20260630153100054",
-      "pubDate": "Tue, 30 Jun 2026 16:47:14 +0900"
-    },
-    {
-      "title": "미국 비자 개선 범정부TF 4차 회의…업계 의견 청취",
-      "link": "https://www.yna.co.kr/view/AKR20260630159500504",
-      "pubDate": "Tue, 30 Jun 2026 16:46:08 +0900"
     }
   ]
 }
