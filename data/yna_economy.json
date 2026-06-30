@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782853839,
+  "updated_at_unix": 1782859590,
   "items": [
+    {
+      "title": "\"스페이스X 공모주 수요파악을 주문접수로 오해\"…미래에셋 \"사실아냐\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260701001951072",
+      "pubDate": "Wed, 1 Jul 2026 07:30:20 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260701015200011",
+      "pubDate": "Wed, 1 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "강남구, 다자녀가구에 재산세 직권 감면…\"전국 최초\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701016800004",
+      "pubDate": "Wed, 1 Jul 2026 07:28:17 +0900"
+    },
+    {
+      "title": "네이버 쇼핑 'AI 에이전트' 정식 출시…대화하며 구매까지 제안",
+      "link": "https://www.yna.co.kr/view/AKR20260630141500017",
+      "pubDate": "Wed, 1 Jul 2026 06:33:00 +0900"
+    },
+    {
+      "title": "10·15대책후 규제지역옆 비규제지 주택 매입액 158.65%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260701010700003",
+      "pubDate": "Wed, 1 Jul 2026 06:29:03 +0900"
+    },
+    {
+      "title": "7월 소상공·전통시장 경기 전망 '흐림'…올해 두번째로 낮아",
+      "link": "https://www.yna.co.kr/view/AKR20260630159300030",
+      "pubDate": "Wed, 1 Jul 2026 06:11:11 +0900"
+    },
     {
       "title": "중기부, '혁신성장 협력지원 사업' 출범…중소기업 사업화 지원",
       "link": "https://www.yna.co.kr/view/AKR20260630138700030",
@@ -122,36 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260630167900011",
       "pubDate": "Tue, 30 Jun 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[인사] 코스콤",
-      "link": "https://www.yna.co.kr/view/AKR20260630173800008",
-      "pubDate": "Tue, 30 Jun 2026 17:53:57 +0900"
-    },
-    {
-      "title": "이노진, 34억원 유상증자…메타몰퍼시스 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260630173600008",
-      "pubDate": "Tue, 30 Jun 2026 17:53:19 +0900"
-    },
-    {
-      "title": "코스콤, '사업 경쟁력 강화' 조직 확대 개편·신설",
-      "link": "https://www.yna.co.kr/view/AKR20260630173100008",
-      "pubDate": "Tue, 30 Jun 2026 17:51:06 +0900"
-    },
-    {
-      "title": "넥스트아이, 19억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260630172300008",
-      "pubDate": "Tue, 30 Jun 2026 17:44:29 +0900"
-    },
-    {
-      "title": "전남·광주 통합 결단, 반도체 투자 유치 이끌었다",
-      "link": "https://www.yna.co.kr/view/AKR20260630168600054",
-      "pubDate": "Tue, 30 Jun 2026 17:42:39 +0900"
-    },
-    {
-      "title": "국힘 \"동탄·구리·기흥 규제지역 지정, 고가 부동산 인증 마크\"",
-      "link": "https://www.yna.co.kr/view/AKR20260630170200001",
-      "pubDate": "Tue, 30 Jun 2026 17:41:34 +0900"
     }
   ]
 }
