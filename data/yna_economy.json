@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782930030,
+  "updated_at_unix": 1782937178,
   "items": [
+    {
+      "title": "국제유가, 미·이란 협상 낙관에 하락…브렌트 2%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260702005100072",
+      "pubDate": "Thu, 2 Jul 2026 05:05:21 +0900"
+    },
+    {
+      "title": "달러-원, 인플레 우려 덜어 준 워시에 상승분 반납 …1,551.20원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260702004300002",
+      "pubDate": "Thu, 2 Jul 2026 03:37:58 +0900"
+    },
     {
       "title": "지방세시스템 오류 12시간만 정상화…행안부 \"재발방지 최선\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260701189152530",
@@ -142,16 +152,6 @@
       "title": "코스피, 외국인 '팔자'에 2% 내려 8,300대…코스닥은 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260701157000008",
       "pubDate": "Wed, 1 Jul 2026 16:19:16 +0900"
-    },
-    {
-      "title": "기본소득 지급 남해군 지역매출 34.2% 급증…경남 평균 압도",
-      "link": "https://www.yna.co.kr/view/AKR20260701155200052",
-      "pubDate": "Wed, 1 Jul 2026 16:18:05 +0900"
-    },
-    {
-      "title": "한국, EU 철강 쿼터 조정서 사실상 최혜국 대우…업계 \"환영'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701152051003",
-      "pubDate": "Wed, 1 Jul 2026 16:13:54 +0900"
     }
   ]
 }
