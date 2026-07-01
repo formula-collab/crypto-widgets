@@ -2,7 +2,7 @@
   "keyword": "bitcoin",
   "geo": "WORLD",
   "timeframe": "all",
-  "updated_at": "2026-07-01 14:08:16 UTC",
+  "updated_at": "2026-07-01 19:29:52 UTC",
   "points": [
     {
       "date": "2004-01-01",
@@ -62,7 +62,7 @@
     },
     {
       "date": "2018-01-01",
-      "value": 45
+      "value": 46
     },
     {
       "date": "2019-01-01",
@@ -94,7 +94,7 @@
     },
     {
       "date": "2026-01-01",
-      "value": 65
+      "value": 64
     }
   ]
 }
