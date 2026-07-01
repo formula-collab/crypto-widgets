@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782903078,
+  "updated_at_unix": 1782912588,
   "items": [
+    {
+      "title": "지방세시스템 오류 지속…정부, 지방세 납부기한 7일까지 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260701189151530",
+      "pubDate": "Wed, 1 Jul 2026 20:15:35 +0900"
+    },
     {
       "title": "\"'펨테크' 시장 주역, K-기업될 것\"…제5회 여성기업주간 개막(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260701132051030",
@@ -147,11 +152,6 @@
       "title": "우리금융, 서민 지원 미소금융재단 창신동 이전…골목상권 지원",
       "link": "https://www.yna.co.kr/view/AKR20260701147200002",
       "pubDate": "Wed, 1 Jul 2026 16:00:00 +0900"
-    },
-    {
-      "title": "[부산소식] 고용노동부 부산북부지청, 지역특화 네트워킹 워크숍",
-      "link": "https://www.yna.co.kr/view/AKR20260701151100051",
-      "pubDate": "Wed, 1 Jul 2026 15:59:08 +0900"
     }
   ]
 }
