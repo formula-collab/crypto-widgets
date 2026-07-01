@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782942918,
+  "updated_at_unix": 1782946815,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260702013400011",
+      "pubDate": "Thu, 2 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "김현기 강남구청장 취임…1호 결재는 '재건축 신화 프로젝트'",
+      "link": "https://www.yna.co.kr/view/AKR20260702013000004",
+      "pubDate": "Thu, 2 Jul 2026 07:14:47 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 2026 북중미 월드컵에서 소외된 아프리카",
+      "link": "https://www.yna.co.kr/view/AKR20260625035100898",
+      "pubDate": "Thu, 2 Jul 2026 07:00:04 +0900"
+    },
     {
       "title": "노사 최저임금 줄다리기 계속…1만1천900원 vs 1만360원 좁힐까",
       "link": "https://www.yna.co.kr/view/AKR20260701156600530",
@@ -137,21 +152,6 @@
       "title": "창원 제조업 3분기 경기전망 '부정적'…환율·에너지가격 불안정",
       "link": "https://www.yna.co.kr/view/AKR20260701167500052",
       "pubDate": "Wed, 1 Jul 2026 17:00:26 +0900"
-    },
-    {
-      "title": "'제5회 여성기업주간' 개막…김연선·남미경 산업훈장 수훈",
-      "link": "https://www.yna.co.kr/view/AKR20260701132000030",
-      "pubDate": "Wed, 1 Jul 2026 17:00:01 +0900"
-    },
-    {
-      "title": "환율 급등에 국고채 일제히 상승…3년물 연 3.791%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701164551008",
-      "pubDate": "Wed, 1 Jul 2026 16:48:59 +0900"
-    },
-    {
-      "title": "국민연금 리밸런싱 재개 첫날…'충격 최소화' 속도조절 가능성(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701080751008",
-      "pubDate": "Wed, 1 Jul 2026 16:47:53 +0900"
     }
   ]
 }
