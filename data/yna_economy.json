@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782912588,
+  "updated_at_unix": 1782921937,
   "items": [
+    {
+      "title": "지방세시스템 오류 12시간만 정상화…행안부 \"재발방지 최선\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260701189152530",
+      "pubDate": "Wed, 1 Jul 2026 23:12:42 +0900"
+    },
+    {
+      "title": "'주가조작 패가망신 1호' 피의자 4명 영장 기각…\"다툼 여지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701119951004",
+      "pubDate": "Wed, 1 Jul 2026 23:07:23 +0900"
+    },
+    {
+      "title": "[속보] 행안부 \"지방세시스템 정상화…재발 방지 최선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701197700530",
+      "pubDate": "Wed, 1 Jul 2026 22:38:28 +0900"
+    },
     {
       "title": "지방세시스템 오류 지속…정부, 지방세 납부기한 7일까지 연장",
       "link": "https://www.yna.co.kr/view/AKR20260701189151530",
@@ -137,21 +152,6 @@
       "title": "한국, EU 철강 쿼터 조정서 사실상 최혜국 대우…업계 \"환영'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260701152051003",
       "pubDate": "Wed, 1 Jul 2026 16:13:54 +0900"
-    },
-    {
-      "title": "기아, 상반기 163만988대 판매…역대 1∼6월 기준 최대 기록",
-      "link": "https://www.yna.co.kr/view/AKR20260701153500003",
-      "pubDate": "Wed, 1 Jul 2026 16:11:51 +0900"
-    },
-    {
-      "title": "공공공사 '동일 가격 투찰' 그만…기술형 적격심사 도입한다",
-      "link": "https://www.yna.co.kr/view/AKR20260701121700002",
-      "pubDate": "Wed, 1 Jul 2026 16:00:01 +0900"
-    },
-    {
-      "title": "우리금융, 서민 지원 미소금융재단 창신동 이전…골목상권 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260701147200002",
-      "pubDate": "Wed, 1 Jul 2026 16:00:00 +0900"
     }
   ]
 }
