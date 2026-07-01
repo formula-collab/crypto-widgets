@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782937178,
+  "updated_at_unix": 1782942918,
   "items": [
+    {
+      "title": "노사 최저임금 줄다리기 계속…1만1천900원 vs 1만360원 좁힐까",
+      "link": "https://www.yna.co.kr/view/AKR20260701156600530",
+      "pubDate": "Thu, 2 Jul 2026 06:00:34 +0900"
+    },
+    {
+      "title": "정부, 외국인 과학 인재 '톱티어 비자' 문턱 낮춘다",
+      "link": "https://www.yna.co.kr/view/AKR20260701178600003",
+      "pubDate": "Thu, 2 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "세종시 시장실 3개 왜? \"기업유치 전까진 공식시장실 사용 안해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701178500063",
+      "pubDate": "Thu, 2 Jul 2026 06:00:04 +0900"
+    },
+    {
+      "title": "AI 보안테스트하다 전산장애…금융위 \"경미하면 제재 면책\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701185100002",
+      "pubDate": "Thu, 2 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "과테말라 외교장관 \"한국과 FTA로 직접투자·시장다변화 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260701180400504",
+      "pubDate": "Thu, 2 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "2분기 국내 금융지주 순이익 8.3조원 전망…2.7% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260701167000002",
+      "pubDate": "Thu, 2 Jul 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 미·이란 협상 낙관에 하락…브렌트 2%↓",
       "link": "https://www.yna.co.kr/view/AKR20260702005100072",
@@ -122,36 +152,6 @@
       "title": "국민연금 리밸런싱 재개 첫날…'충격 최소화' 속도조절 가능성(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260701080751008",
       "pubDate": "Wed, 1 Jul 2026 16:47:53 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.791%",
-      "link": "https://www.yna.co.kr/view/AKR20260701164500008",
-      "pubDate": "Wed, 1 Jul 2026 16:41:33 +0900"
-    },
-    {
-      "title": "靑, 은행권과 '금융분야 상생 성장전략 점검회의' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260701157600001",
-      "pubDate": "Wed, 1 Jul 2026 16:38:53 +0900"
-    },
-    {
-      "title": "반도체 날개 단 한국 수출…1조달러 넘어 세계 4강 노려볼만(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701080951003",
-      "pubDate": "Wed, 1 Jul 2026 16:35:24 +0900"
-    },
-    {
-      "title": "중소 제조기업 디지털 전환 추진…'자산관리쉘' 참조모델 개발",
-      "link": "https://www.yna.co.kr/view/AKR20260701154400030",
-      "pubDate": "Wed, 1 Jul 2026 16:34:52 +0900"
-    },
-    {
-      "title": "전남광주특별시 1호 결재·업무지시·조례 '반도체와 민생'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701128251054",
-      "pubDate": "Wed, 1 Jul 2026 16:29:56 +0900"
-    },
-    {
-      "title": "코스피, 외국인 '팔자'에 2% 내려 8,300대…코스닥은 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701157000008",
-      "pubDate": "Wed, 1 Jul 2026 16:19:16 +0900"
     }
   ]
 }
