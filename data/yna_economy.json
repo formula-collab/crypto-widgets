@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783032877,
+  "updated_at_unix": 1783036430,
   "items": [
+    {
+      "title": "지방도 383호선 남양주 진건∼오남 도로 신설 보상 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260703026000060",
+      "pubDate": "Fri, 3 Jul 2026 08:42:13 +0900"
+    },
+    {
+      "title": "교보증권 \"지엔씨에너지, 대도약 메가 프로젝트 대표적 수혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703025300008",
+      "pubDate": "Fri, 3 Jul 2026 08:42:05 +0900"
+    },
+    {
+      "title": "롯데하이마트, 부동산 거래사고 예방 서비스와 맞손…상호 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260703023200030",
+      "pubDate": "Fri, 3 Jul 2026 08:40:05 +0900"
+    },
+    {
+      "title": "키움증권 \"은행주, 코스피 급락속 상대적 피난처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703023100008",
+      "pubDate": "Fri, 3 Jul 2026 08:30:13 +0900"
+    },
+    {
+      "title": "신보중앙회, 소상공인 지원 혁신 아이디어 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260703022200030",
+      "pubDate": "Fri, 3 Jul 2026 08:14:29 +0900"
+    },
+    {
+      "title": "하나증권 \"LG전자, 美관세 환급·신사업 본격화 효과…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703021300008",
+      "pubDate": "Fri, 3 Jul 2026 08:11:05 +0900"
+    },
+    {
+      "title": "IBK투자증권, 비에이치아이 목표가↓…\"시장 밸류에이션 하락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703020100008",
+      "pubDate": "Fri, 3 Jul 2026 08:06:51 +0900"
+    },
+    {
+      "title": "창원 첫 민간 데이터센터 준공 늦어진다…올해 말→2028년 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260702121000052",
+      "pubDate": "Fri, 3 Jul 2026 08:05:00 +0900"
+    },
+    {
+      "title": "부산시, 특화주택 공모사업 선정…\"이전기업 직원 거주 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703017600051",
+      "pubDate": "Fri, 3 Jul 2026 08:02:18 +0900"
+    },
+    {
+      "title": "경찰, '판소리 명창' 前국립전통예술중고교장 채용비리 수사",
+      "link": "https://www.yna.co.kr/view/AKR20260703018600004",
+      "pubDate": "Fri, 3 Jul 2026 08:01:17 +0900"
+    },
+    {
+      "title": "[전남광주 청사진] 손훈모 순천시장 \"제1호 영업사원 되겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702067500054",
+      "pubDate": "Fri, 3 Jul 2026 08:00:04 +0900"
+    },
+    {
+      "title": "부산시, 뿌리산업 특화단지 사업 선정…친환경차 부품기업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260703017500051",
+      "pubDate": "Fri, 3 Jul 2026 07:59:43 +0900"
+    },
+    {
+      "title": "부산시·금융위, 지역벤처 생태계 활성화 논의…2조원 펀드 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260703017400051",
+      "pubDate": "Fri, 3 Jul 2026 07:56:49 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260703013700011",
@@ -87,71 +152,6 @@
       "title": "정은경 \"리밸런싱 시장 영향 최소화하도록 운용과정 모니터링\"",
       "link": "https://www.yna.co.kr/view/AKR20260702153800530",
       "pubDate": "Thu, 2 Jul 2026 17:35:03 +0900"
-    },
-    {
-      "title": "아이엘 \"종속회사 아이엘모빌리티 주식 100억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702154300008",
-      "pubDate": "Thu, 2 Jul 2026 17:28:08 +0900"
-    },
-    {
-      "title": "李대통령 '실업급여·고용보험 개선안'에 \"의견 충분히 수렴\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702152300001",
-      "pubDate": "Thu, 2 Jul 2026 17:23:56 +0900"
-    },
-    {
-      "title": "OECD \"반도체 호황 끝 전망 시기상조\"…韓성장률 2.6% 관측 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260702142400002",
-      "pubDate": "Thu, 2 Jul 2026 17:17:51 +0900"
-    },
-    {
-      "title": "모간스탠리·메릴린치도 NXT 합류…외국계 회원사 3곳으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260702151000008",
-      "pubDate": "Thu, 2 Jul 2026 17:12:59 +0900"
-    },
-    {
-      "title": "OECD \"기업, 모든 지역 투자 못해…선택·집중으로 경쟁력 강화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702102251002",
-      "pubDate": "Thu, 2 Jul 2026 17:07:00 +0900"
-    },
-    {
-      "title": "한국노총 \"반도체 특구 주 52시간 완화는 노동개악…즉시 중단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702147500530",
-      "pubDate": "Thu, 2 Jul 2026 17:02:12 +0900"
-    },
-    {
-      "title": "농식품부, '여름배추 보험' 첫 도입…평년 소득 최대 85% 보장",
-      "link": "https://www.yna.co.kr/view/AKR20260702129600030",
-      "pubDate": "Thu, 2 Jul 2026 17:00:05 +0900"
-    },
-    {
-      "title": "국가시설 무역항 드론 불법촬영 막는다…'안티 시스템' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260702138800051",
-      "pubDate": "Thu, 2 Jul 2026 17:00:00 +0900"
-    },
-    {
-      "title": "소비자 물가 상승에도 국고채 금리↓…3년물 연 3.747%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702144751008",
-      "pubDate": "Thu, 2 Jul 2026 16:57:06 +0900"
-    },
-    {
-      "title": "연구재단·임업진흥원, 산림·임업 청년 인재 키운다",
-      "link": "https://www.yna.co.kr/view/AKR20260702142900063",
-      "pubDate": "Thu, 2 Jul 2026 16:48:44 +0900"
-    },
-    {
-      "title": "삼성전기, 글라스코어 합작법인 '글라셈' 설립…지분 66% 확보(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702138951008",
-      "pubDate": "Thu, 2 Jul 2026 16:47:39 +0900"
-    },
-    {
-      "title": "본격 순환매?…'8천피' 이탈했는데 변동성지수는 오히려 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260702122000008",
-      "pubDate": "Thu, 2 Jul 2026 16:47:04 +0900"
-    },
-    {
-      "title": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702138100064",
-      "pubDate": "Thu, 2 Jul 2026 16:41:40 +0900"
     }
   ]
 }
