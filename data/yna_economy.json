@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782980859,
+  "updated_at_unix": 1782990297,
   "items": [
+    {
+      "title": "'충청권 국민보고회' 간 李대통령, 이재용·서정진과 \"파이팅\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260702044752001",
+      "pubDate": "Thu, 2 Jul 2026 19:24:54 +0900"
+    },
+    {
+      "title": "국민연금, 하반기부터 수탁자 책임활동 이행 점검 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260702163400530",
+      "pubDate": "Thu, 2 Jul 2026 19:07:49 +0900"
+    },
+    {
+      "title": "레몬헬스케어, 코스닥 신규 상장…6일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260702159600008",
+      "pubDate": "Thu, 2 Jul 2026 18:29:10 +0900"
+    },
+    {
+      "title": "역대급 엔저에 해외관광객 몰리지만…일본인은 고비용 해외행 '주저'",
+      "link": "https://www.yna.co.kr/view/AKR20260702158700073",
+      "pubDate": "Thu, 2 Jul 2026 18:07:47 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260702153700011",
+      "pubDate": "Thu, 2 Jul 2026 18:00:00 +0900"
+    },
+    {
+      "title": "큐에이드 \"위니아 주식 849억원어치 취득…지분율 19.7%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702157300008",
+      "pubDate": "Thu, 2 Jul 2026 17:46:45 +0900"
+    },
+    {
+      "title": "우리투자증권, 6천억원 인수금융 주선…\"출범 이래 최대 규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702150500008",
+      "pubDate": "Thu, 2 Jul 2026 17:46:22 +0900"
+    },
+    {
+      "title": "광진실업, 50억원 유상증자…포에버엔케이에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260702156300008",
+      "pubDate": "Thu, 2 Jul 2026 17:38:43 +0900"
+    },
+    {
+      "title": "정은경 \"리밸런싱 시장 영향 최소화하도록 운용과정 모니터링\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702153800530",
+      "pubDate": "Thu, 2 Jul 2026 17:35:03 +0900"
+    },
+    {
+      "title": "아이엘 \"종속회사 아이엘모빌리티 주식 100억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702154300008",
+      "pubDate": "Thu, 2 Jul 2026 17:28:08 +0900"
+    },
+    {
+      "title": "李대통령 '실업급여·고용보험 개선안'에 \"의견 충분히 수렴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260702152300001",
+      "pubDate": "Thu, 2 Jul 2026 17:23:56 +0900"
+    },
     {
       "title": "OECD \"반도체 호황 끝 전망 시기상조\"…韓성장률 2.6% 관측 유지",
       "link": "https://www.yna.co.kr/view/AKR20260702142400002",
@@ -97,61 +152,6 @@
       "title": "삼성전기 \"글라셈 주식 3천191억원어치 취득…지분율 66.2%\"",
       "link": "https://www.yna.co.kr/view/AKR20260702138900008",
       "pubDate": "Thu, 2 Jul 2026 16:24:10 +0900"
-    },
-    {
-      "title": "'반도체 추락'에 코스피 7.9% 급락 7,648…코스닥도 6.7%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702137900008",
-      "pubDate": "Thu, 2 Jul 2026 16:23:39 +0900"
-    },
-    {
-      "title": "카카오뱅크, 정기예금·자유적금 금리 최대 0.2%p 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260702138300002",
-      "pubDate": "Thu, 2 Jul 2026 16:21:07 +0900"
-    },
-    {
-      "title": "법원, 위니아 '청산형 회생' 인가…자산 팔아 빚 갚는다",
-      "link": "https://www.yna.co.kr/view/AKR20260702135200054",
-      "pubDate": "Thu, 2 Jul 2026 16:17:19 +0900"
-    },
-    {
-      "title": "세종시 시장실 3개 왜?…\"기업유치 절박함 vs 시청 복귀 못할라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260701178551063",
-      "pubDate": "Thu, 2 Jul 2026 16:13:15 +0900"
-    },
-    {
-      "title": "환율, 외국인 순매도 속 이틀째 1,550원대…금융위기 이후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260702132700002",
-      "pubDate": "Thu, 2 Jul 2026 16:09:53 +0900"
-    },
-    {
-      "title": "송미령 장관 \"농어촌 기본소득, 소멸 위기에 해법 되도록 보완\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702107600030",
-      "pubDate": "Thu, 2 Jul 2026 16:00:04 +0900"
-    },
-    {
-      "title": "정부, 총지출 5% R&D 투자…AI·반도체 승부수",
-      "link": "https://www.yna.co.kr/view/AKR20260702130700017",
-      "pubDate": "Thu, 2 Jul 2026 15:59:56 +0900"
-    },
-    {
-      "title": "[AI픽] 노키아 \"AI 슈퍼사이클 핵심은 네트워크\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702125900017",
-      "pubDate": "Thu, 2 Jul 2026 15:55:55 +0900"
-    },
-    {
-      "title": "울산경제자유구역청, 상생 투자 유망기업 10개사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260702129100057",
-      "pubDate": "Thu, 2 Jul 2026 15:53:47 +0900"
-    },
-    {
-      "title": "특례상장기업도 '밸류업 공시' 안하면 상장폐지 유예없다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702073651008",
-      "pubDate": "Thu, 2 Jul 2026 15:45:00 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주, 실적기대에 급락장서 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702051251008",
-      "pubDate": "Thu, 2 Jul 2026 15:43:24 +0900"
     }
   ]
 }
