@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783006611,
+  "updated_at_unix": 1783013045,
   "items": [
+    {
+      "title": "LH 신임 사장에 이성훈 국토교통비서관",
+      "link": "https://www.yna.co.kr/view/AKR20260703000700003",
+      "pubDate": "Fri, 3 Jul 2026 00:25:43 +0900"
+    },
     {
       "title": "금감원, '홈플러스 사태' MBK에 '직무정지'…GP 대상 첫 중징계",
       "link": "https://www.yna.co.kr/view/AKR20260702170100002",
@@ -147,11 +152,6 @@
       "title": "[게시판] 산업은행, 경북서 스타트업 투자유치 행사 개최",
       "link": "https://www.yna.co.kr/view/AKR20260702140400002",
       "pubDate": "Thu, 2 Jul 2026 16:31:11 +0900"
-    },
-    {
-      "title": "재경차관, 고환율에 \"외인 주식 리밸런싱 수요…유동성 풍부\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260702046751002",
-      "pubDate": "Thu, 2 Jul 2026 16:26:52 +0900"
     }
   ]
 }
