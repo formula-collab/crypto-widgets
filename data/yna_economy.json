@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1782997992,
+  "updated_at_unix": 1783006611,
   "items": [
+    {
+      "title": "금감원, '홈플러스 사태' MBK에 '직무정지'…GP 대상 첫 중징계",
+      "link": "https://www.yna.co.kr/view/AKR20260702170100002",
+      "pubDate": "Thu, 2 Jul 2026 23:00:58 +0900"
+    },
     {
       "title": "'충청권 국민보고회' 간 李대통령, 이재용·서정진과 \"파이팅\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260702044752001",
@@ -147,11 +152,6 @@
       "title": "재경차관, 고환율에 \"외인 주식 리밸런싱 수요…유동성 풍부\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260702046751002",
       "pubDate": "Thu, 2 Jul 2026 16:26:52 +0900"
-    },
-    {
-      "title": "삼성전기 \"글라셈 주식 3천191억원어치 취득…지분율 66.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260702138900008",
-      "pubDate": "Thu, 2 Jul 2026 16:24:10 +0900"
     }
   ]
 }
