@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783028370,
+  "updated_at_unix": 1783032877,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260703013700011",
+      "pubDate": "Fri, 3 Jul 2026 07:30:00 +0900"
+    },
     {
       "title": "미신고 숙박업소 중개한 온라인 플랫폼에 과태료 500만원",
       "link": "https://www.yna.co.kr/view/AKR20260702112100530",
@@ -147,11 +152,6 @@
       "title": "가격 폭락에 양배추밭 갈아엎은 농민들…\"이러나저러나 손해\"",
       "link": "https://www.yna.co.kr/view/AKR20260702138100064",
       "pubDate": "Thu, 2 Jul 2026 16:41:40 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.747%",
-      "link": "https://www.yna.co.kr/view/AKR20260702144700008",
-      "pubDate": "Thu, 2 Jul 2026 16:41:08 +0900"
     }
   ]
 }
