@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783077810,
+  "updated_at_unix": 1783084663,
   "items": [
+    {
+      "title": "李대통령, '중동전쟁 대응' 재정경제부에 격려 피자",
+      "link": "https://www.yna.co.kr/view/AKR20260703157700002",
+      "pubDate": "Fri, 3 Jul 2026 20:57:52 +0900"
+    },
     {
       "title": "[인사] 우리은행",
       "link": "https://www.yna.co.kr/view/AKR20260703155200002",
@@ -147,11 +152,6 @@
       "title": "7월 미분양 관리지역에 인천 중구·경기 양주시 등 4곳",
       "link": "https://www.yna.co.kr/view/AKR20260703114000003",
       "pubDate": "Fri, 3 Jul 2026 15:53:42 +0900"
-    },
-    {
-      "title": "한화, 우주·AI에 55조원 투자…영남권 중심 우주항공 생태계(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260703104152003",
-      "pubDate": "Fri, 3 Jul 2026 15:53:06 +0900"
     }
   ]
 }
