@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783104198,
+  "updated_at_unix": 1783109295,
   "items": [
+    {
+      "title": "달러-원, 미 독립기념일 휴장에 엔화 연동…1,530원 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260704003600002",
+      "pubDate": "Sat, 4 Jul 2026 04:40:01 +0900"
+    },
     {
       "title": "李대통령, '중동전쟁 대응' 재정경제부에 격려 피자",
       "link": "https://www.yna.co.kr/view/AKR20260703157700002",
@@ -147,11 +152,6 @@
       "title": "李대통령 \"남해안 우주항공 산업벨트 구축…영남 기업 적극지원\"",
       "link": "https://www.yna.co.kr/view/AKR20260703104800001",
       "pubDate": "Fri, 3 Jul 2026 15:53:48 +0900"
-    },
-    {
-      "title": "7월 미분양 관리지역에 인천 중구·경기 양주시 등 4곳",
-      "link": "https://www.yna.co.kr/view/AKR20260703114000003",
-      "pubDate": "Fri, 3 Jul 2026 15:53:42 +0900"
     }
   ]
 }
