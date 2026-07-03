@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783119151,
+  "updated_at_unix": 1783122868,
   "items": [
+    {
+      "title": "[다음주 경제] 외환시장 24시간 가동…IMF, 韓 성장률 전망 얼마나 올릴까",
+      "link": "https://www.yna.co.kr/view/AKR20260704013900002",
+      "pubDate": "Sat, 4 Jul 2026 08:46:49 +0900"
+    },
+    {
+      "title": "주유소 휘발윳값 한주 새 56원 내린 1천952원…경유 1천940원대",
+      "link": "https://www.yna.co.kr/view/AKR20260703073400003",
+      "pubDate": "Sat, 4 Jul 2026 08:31:00 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 세계가 찾는 K바이오…생산능력 키운다",
+      "link": "https://www.yna.co.kr/view/AKR20260703095500017",
+      "pubDate": "Sat, 4 Jul 2026 08:00:05 +0900"
+    },
     {
       "title": "[신상잇슈] CJ제일제당 '비비고 김부각'·벤슨-하츠투하츠 '레몬탱'",
       "link": "https://www.yna.co.kr/view/AKR20260703124200030",
@@ -137,21 +152,6 @@
       "title": "중동전쟁 장기화에 中企피해 980건…\"납기 지연·미수금 증가\"",
       "link": "https://www.yna.co.kr/view/AKR20260703122400030",
       "pubDate": "Fri, 3 Jul 2026 16:17:54 +0900"
-    },
-    {
-      "title": "美 고용지표에 강달러 꺾이고 엔화 반등…환율, 30원 넘게 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260703115600002",
-      "pubDate": "Fri, 3 Jul 2026 16:12:11 +0900"
-    },
-    {
-      "title": "코스피, 5.76% 급반등 8,000선 회복…장중 변동폭 역대 2위(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260703118500008",
-      "pubDate": "Fri, 3 Jul 2026 16:08:59 +0900"
-    },
-    {
-      "title": "[게시판] 신한인증서 가입자 1천300만명 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260703117400002",
-      "pubDate": "Fri, 3 Jul 2026 16:00:36 +0900"
     }
   ]
 }
