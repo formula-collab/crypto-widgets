@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783114603,
+  "updated_at_unix": 1783119151,
   "items": [
+    {
+      "title": "[신상잇슈] CJ제일제당 '비비고 김부각'·벤슨-하츠투하츠 '레몬탱'",
+      "link": "https://www.yna.co.kr/view/AKR20260703124200030",
+      "pubDate": "Sat, 4 Jul 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 경남 김해 '트리븐김해' 398가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260703132100003",
+      "pubDate": "Sat, 4 Jul 2026 07:00:01 +0900"
+    },
     {
       "title": "달러-원, 미 독립기념일 휴장에 엔화 연동…1,530원 마감",
       "link": "https://www.yna.co.kr/view/AKR20260704003600002",
@@ -142,16 +152,6 @@
       "title": "[게시판] 신한인증서 가입자 1천300만명 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260703117400002",
       "pubDate": "Fri, 3 Jul 2026 16:00:36 +0900"
-    },
-    {
-      "title": "국세청, '명의도용' 차단·추적 직원들 최우수 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260703065400002",
-      "pubDate": "Fri, 3 Jul 2026 16:00:02 +0900"
-    },
-    {
-      "title": "李대통령 \"남해안 우주항공 산업벨트 구축…영남 기업 적극지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703104800001",
-      "pubDate": "Fri, 3 Jul 2026 15:53:48 +0900"
     }
   ]
 }
