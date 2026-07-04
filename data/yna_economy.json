@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783129663,
+  "updated_at_unix": 1783143286,
   "items": [
+    {
+      "title": "고유가 지원금 최종 신청률 98%…6조1천123억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260704019300530",
+      "pubDate": "Sat, 4 Jul 2026 12:00:00 +0900"
+    },
+    {
+      "title": "용인시, 내달부터 '체납관리단' 운영…36명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260703097200061",
+      "pubDate": "Sat, 4 Jul 2026 11:01:02 +0900"
+    },
     {
       "title": "[마이더스] 상반기 중간결산과 하반기 절세 전략",
       "link": "https://www.yna.co.kr/view/AKR20260703028600980",
@@ -142,16 +152,6 @@
       "title": "서남충청권에 반도체, 영남권은 피지컬AI·우주…산업지도 재편",
       "link": "https://www.yna.co.kr/view/AKR20260703129200003",
       "pubDate": "Fri, 3 Jul 2026 17:08:38 +0900"
-    },
-    {
-      "title": "인천경제청, '경제자유구역 행정 간소화' 법 개정 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260703131900065",
-      "pubDate": "Fri, 3 Jul 2026 17:00:09 +0900"
-    },
-    {
-      "title": "국고채 금리 내렸다가 증시 반등에 혼조세…3년물 연 3.748%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260703129151008",
-      "pubDate": "Fri, 3 Jul 2026 16:55:40 +0900"
     }
   ]
 }
