@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783122868,
+  "updated_at_unix": 1783129663,
   "items": [
+    {
+      "title": "[마이더스] 상반기 중간결산과 하반기 절세 전략",
+      "link": "https://www.yna.co.kr/view/AKR20260703028600980",
+      "pubDate": "Sat, 4 Jul 2026 10:30:04 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260704020000011",
+      "pubDate": "Sat, 4 Jul 2026 10:30:01 +0900"
+    },
+    {
+      "title": "[현장in] 부산역 관문 통행로 부실 설계 논란에 법정 다툼",
+      "link": "https://www.yna.co.kr/view/AKR20260703060500051",
+      "pubDate": "Sat, 4 Jul 2026 09:20:00 +0900"
+    },
+    {
+      "title": "남양주 1천병상 종합병원 추진 출발부터 '삐걱'",
+      "link": "https://www.yna.co.kr/view/AKR20260703113800060",
+      "pubDate": "Sat, 4 Jul 2026 09:00:38 +0900"
+    },
+    {
+      "title": "'5G 과장광고' LG유플러스, 28억원 과징금 취소 소송 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260703147300004",
+      "pubDate": "Sat, 4 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "\"환율, 과거수준 복귀 어려워…금융사, 고환율 지속 대비해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703150300002",
+      "pubDate": "Sat, 4 Jul 2026 09:00:01 +0900"
+    },
     {
       "title": "[다음주 경제] 외환시장 24시간 가동…IMF, 韓 성장률 전망 얼마나 올릴까",
       "link": "https://www.yna.co.kr/view/AKR20260704013900002",
@@ -122,36 +152,6 @@
       "title": "국고채 금리 내렸다가 증시 반등에 혼조세…3년물 연 3.748%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260703129151008",
       "pubDate": "Fri, 3 Jul 2026 16:55:40 +0900"
-    },
-    {
-      "title": "케이피엠테크, 225억원 유상증자…텔콘알에프제약에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260703129000008",
-      "pubDate": "Fri, 3 Jul 2026 16:44:43 +0900"
-    },
-    {
-      "title": "'美우주산업·K방산' 등 ETF 2종 7일 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260703119700008",
-      "pubDate": "Fri, 3 Jul 2026 16:44:18 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.748%",
-      "link": "https://www.yna.co.kr/view/AKR20260703129100008",
-      "pubDate": "Fri, 3 Jul 2026 16:42:50 +0900"
-    },
-    {
-      "title": "메리츠 \"홈플 회생 폐지 안타까워…최대주주 MBK 책임 다해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703122200008",
-      "pubDate": "Fri, 3 Jul 2026 16:41:29 +0900"
-    },
-    {
-      "title": "AI 과잉투자 우려 완화되나…불안해진 투자심리에 연일 널뛰기(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260703067851008",
-      "pubDate": "Fri, 3 Jul 2026 16:20:02 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 中企피해 980건…\"납기 지연·미수금 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703122400030",
-      "pubDate": "Fri, 3 Jul 2026 16:17:54 +0900"
     }
   ]
 }
