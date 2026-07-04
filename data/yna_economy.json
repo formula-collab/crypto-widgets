@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783203860,
+  "updated_at_unix": 1783207644,
   "items": [
+    {
+      "title": "울주군, 민간 건축공사장 안전점검 \"여름철 우기·폭염 대비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703097700057",
+      "pubDate": "Sun, 5 Jul 2026 08:10:01 +0900"
+    },
+    {
+      "title": "소공연 \"6·3 지선서 소공연 출신 25명 지방의회 의원 당선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260704027300030",
+      "pubDate": "Sun, 5 Jul 2026 08:00:01 +0900"
+    },
+    {
+      "title": "우주도 플랫폼 시대…'한국판 스페이스X' 탄생할까",
+      "link": "https://www.yna.co.kr/view/AKR20260704036100017",
+      "pubDate": "Sun, 5 Jul 2026 07:49:00 +0900"
+    },
+    {
+      "title": "소버린AI 마지막 승부처는 데이터센터…1천조 인프라 전쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260703129800017",
+      "pubDate": "Sun, 5 Jul 2026 07:45:01 +0900"
+    },
+    {
+      "title": "[반려동물] \"해외 대신 반려견과 국내로\"…여름 성수기 '펫캉스' 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260704023400030",
+      "pubDate": "Sun, 5 Jul 2026 07:30:01 +0900"
+    },
+    {
+      "title": "이란 \"호르무즈 통행 수수료, 우호국에 '특별대우' 고려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260705004500009",
+      "pubDate": "Sun, 5 Jul 2026 07:26:52 +0900"
+    },
     {
       "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
       "link": "https://www.yna.co.kr/view/AKR20260703113300003",
@@ -122,36 +152,6 @@
       "title": "단일종목 레버리지 '괴리율 초과' 60건 육박…LP관리 손본다",
       "link": "https://www.yna.co.kr/view/AKR20260704036600002",
       "pubDate": "Sun, 5 Jul 2026 05:45:04 +0900"
-    },
-    {
-      "title": "한은 \"삼전닉스 레버리지 ETF로 쏠림 심화·변동성 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260704026900002",
-      "pubDate": "Sun, 5 Jul 2026 05:45:03 +0900"
-    },
-    {
-      "title": "빚투·영끌에 몸살앓는 주식시장…한은 \"금융불안 요인 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260704030100002",
-      "pubDate": "Sun, 5 Jul 2026 05:45:01 +0900"
-    },
-    {
-      "title": "세계 식량가격, 2개월 연속 하락세…유지류·육류는 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260704028200030",
-      "pubDate": "Sat, 4 Jul 2026 14:59:11 +0900"
-    },
-    {
-      "title": "고유가 지원금 최종 신청률 98%…6조1천123억원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260704019300530",
-      "pubDate": "Sat, 4 Jul 2026 12:00:00 +0900"
-    },
-    {
-      "title": "용인시, 내달부터 '체납관리단' 운영…36명 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260703097200061",
-      "pubDate": "Sat, 4 Jul 2026 11:01:02 +0900"
-    },
-    {
-      "title": "[마이더스] 상반기 중간결산과 하반기 절세 전략",
-      "link": "https://www.yna.co.kr/view/AKR20260703028600980",
-      "pubDate": "Sat, 4 Jul 2026 10:30:04 +0900"
     }
   ]
 }
