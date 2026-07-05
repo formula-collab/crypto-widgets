@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783239771,
+  "updated_at_unix": 1783247605,
   "items": [
+    {
+      "title": "삼성전자, 5억원 사내 주택자금 대출 대상 '국평' 이하로 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260705041400003",
+      "pubDate": "Sun, 5 Jul 2026 19:21:21 +0900"
+    },
+    {
+      "title": "1조4천억원 성수4지구 재개발 시공사에 롯데건설",
+      "link": "https://www.yna.co.kr/view/AKR20260705041200003",
+      "pubDate": "Sun, 5 Jul 2026 19:13:09 +0900"
+    },
+    {
+      "title": "[동포의 창] '경북-글로벌 차세대 포럼' 성료…\"네트워크가 자산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260705035100371",
+      "pubDate": "Sun, 5 Jul 2026 17:32:47 +0900"
+    },
     {
       "title": "[속보] 강훈식 \"반도체 추가세수로 미래대응기금 신설…미래위해 투자\"",
       "link": "https://www.yna.co.kr/view/AKR20260705033200001",
@@ -137,21 +152,6 @@
       "title": "제주 고유가 피해지원금 지급률 98.5%…총 948억원 지급",
       "link": "https://www.yna.co.kr/view/AKR20260705015400056",
       "pubDate": "Sun, 5 Jul 2026 10:12:38 +0900"
-    },
-    {
-      "title": "토스, 자립준비청년 대상 멘토링 프로그램 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260705015000017",
-      "pubDate": "Sun, 5 Jul 2026 10:04:17 +0900"
-    },
-    {
-      "title": "LG전자, 미국 보스턴에 초프리미엄 가전브랜드 SKS 경험 공간",
-      "link": "https://www.yna.co.kr/view/AKR20260705009400003",
-      "pubDate": "Sun, 5 Jul 2026 10:00:00 +0900"
-    },
-    {
-      "title": "경남교육청, '2026 직업교육 박람회' 10일 개최…진로 탐색 기회",
-      "link": "https://www.yna.co.kr/view/AKR20260703088600052",
-      "pubDate": "Sun, 5 Jul 2026 09:01:01 +0900"
     }
   ]
 }
