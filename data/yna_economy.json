@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783207644,
+  "updated_at_unix": 1783213972,
   "items": [
+    {
+      "title": "토스, 자립준비청년 대상 멘토링 프로그램 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260705015000017",
+      "pubDate": "Sun, 5 Jul 2026 10:04:17 +0900"
+    },
+    {
+      "title": "LG전자, 미국 보스턴에 초프리미엄 가전브랜드 SKS 경험 공간",
+      "link": "https://www.yna.co.kr/view/AKR20260705009400003",
+      "pubDate": "Sun, 5 Jul 2026 10:00:00 +0900"
+    },
+    {
+      "title": "경남교육청, '2026 직업교육 박람회' 10일 개최…진로 탐색 기회",
+      "link": "https://www.yna.co.kr/view/AKR20260703088600052",
+      "pubDate": "Sun, 5 Jul 2026 09:01:01 +0900"
+    },
+    {
+      "title": "대법 \"쌍방과실 교통사고 자기부담금, 상대 보험사에 청구 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703160900004",
+      "pubDate": "Sun, 5 Jul 2026 09:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 우리은행, 토스플레이스 단말기 가맹점에 지원금 8만원 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20260704031900002",
+      "pubDate": "Sun, 5 Jul 2026 09:00:03 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장 \"야성으로 미래 금융혁신 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260704040700002",
+      "pubDate": "Sun, 5 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "CU, 고용부와 함께 연세우유 생크림빵으로 청년 응원 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260705010100030",
+      "pubDate": "Sun, 5 Jul 2026 08:52:54 +0900"
+    },
+    {
+      "title": "'민형배 경제 공약', 반도체 투자로 재설계 불가피",
+      "link": "https://www.yna.co.kr/view/AKR20260703064700054",
+      "pubDate": "Sun, 5 Jul 2026 08:40:01 +0900"
+    },
+    {
+      "title": "\"전세 동났는데 가격 비싸\"…전월세 시장 '탈 아파트' 시작되나",
+      "link": "https://www.yna.co.kr/view/AKR20260705007200003",
+      "pubDate": "Sun, 5 Jul 2026 08:25:25 +0900"
+    },
     {
       "title": "울주군, 민간 건축공사장 안전점검 \"여름철 우기·폭염 대비\"",
       "link": "https://www.yna.co.kr/view/AKR20260703097700057",
@@ -107,51 +152,6 @@
       "title": "[마켓인사이트] 8,000선 되찾은 코스피…삼전·닉스 이벤트 주목",
       "link": "https://www.yna.co.kr/view/AKR20260703156200008",
       "pubDate": "Sun, 5 Jul 2026 06:02:10 +0900"
-    },
-    {
-      "title": "탄자니아,몽골,카자흐…신수도·신도시 '세종시 벤치마킹' 러시",
-      "link": "https://www.yna.co.kr/view/AKR20260703140300063",
-      "pubDate": "Sun, 5 Jul 2026 06:01:01 +0900"
-    },
-    {
-      "title": "삼성전자 감사 페스티벌 흥행…DX부문 2분기 실적 힘 보탤듯",
-      "link": "https://www.yna.co.kr/view/AKR20260703130100003",
-      "pubDate": "Sun, 5 Jul 2026 05:55:21 +0900"
-    },
-    {
-      "title": "외인 156조 순매도에 원화가치 6%↓…24시 거래로 환율 안정될까",
-      "link": "https://www.yna.co.kr/view/AKR20260704030300002",
-      "pubDate": "Sun, 5 Jul 2026 05:53:01 +0900"
-    },
-    {
-      "title": "카드론 금리 저신용자↓·고신용자↑…카드사 중금리대출 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260704035300002",
-      "pubDate": "Sun, 5 Jul 2026 05:51:01 +0900"
-    },
-    {
-      "title": "대부업체 4곳 중 1곳 공유오피스 영업…불법양도까지",
-      "link": "https://www.yna.co.kr/view/AKR20260704031400002",
-      "pubDate": "Sun, 5 Jul 2026 05:49:00 +0900"
-    },
-    {
-      "title": "AI 붐·반도체 호황에 그늘진 청년고용…법률사무원 13개월째↓",
-      "link": "https://www.yna.co.kr/view/AKR20260704038100002",
-      "pubDate": "Sun, 5 Jul 2026 05:47:01 +0900"
-    },
-    {
-      "title": "반도체 '날개'에도 고용 부진…고용탄성치 8년 만에 최저 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260704018500002",
-      "pubDate": "Sun, 5 Jul 2026 05:47:01 +0900"
-    },
-    {
-      "title": "국내는 고위험 경고·해외선 코스피 150배…투자자 보호 '구멍'",
-      "link": "https://www.yna.co.kr/view/AKR20260704039400002",
-      "pubDate": "Sun, 5 Jul 2026 05:45:04 +0900"
-    },
-    {
-      "title": "단일종목 레버리지 '괴리율 초과' 60건 육박…LP관리 손본다",
-      "link": "https://www.yna.co.kr/view/AKR20260704036600002",
-      "pubDate": "Sun, 5 Jul 2026 05:45:04 +0900"
     }
   ]
 }
