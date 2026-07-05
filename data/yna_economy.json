@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783291687,
+  "updated_at_unix": 1783295682,
   "items": [
+    {
+      "title": "삼성전자서비스, 국가고객만족도 전자제품 AS 3년 연속 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260706022700003",
+      "pubDate": "Mon, 6 Jul 2026 08:48:40 +0900"
+    },
+    {
+      "title": "'삼성 67조 투자' 아산시, 배후 주거 수요 대비 서두른다",
+      "link": "https://www.yna.co.kr/view/AKR20260706023100063",
+      "pubDate": "Mon, 6 Jul 2026 08:47:29 +0900"
+    },
+    {
+      "title": "iM證 \"LG이노텍 낙폭 과해…아이폰 가격 올라도 견고, 목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260706020000008",
+      "pubDate": "Mon, 6 Jul 2026 08:35:44 +0900"
+    },
+    {
+      "title": "KB證 \"삼양식품, 2분기 실적 기대치 부합할것…목표가 195만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260706019600008",
+      "pubDate": "Mon, 6 Jul 2026 08:32:35 +0900"
+    },
+    {
+      "title": "인천시, 도시재생사업 준공지역 '사후관리' 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260706018600065",
+      "pubDate": "Mon, 6 Jul 2026 08:30:07 +0900"
+    },
+    {
+      "title": "구윤철 \"외환시장 24시 개장, 韓자본시장·원화 매력 높일 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260706014000002",
+      "pubDate": "Mon, 6 Jul 2026 08:30:01 +0900"
+    },
+    {
+      "title": "삼성증권 \"삼전, 2분기 영업익 86조 추정…상여충당금 16.3조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260706019200008",
+      "pubDate": "Mon, 6 Jul 2026 08:28:32 +0900"
+    },
+    {
+      "title": "소진공·부패학회, 청렴 생태계 구축 협약…부패 취약분야 발굴",
+      "link": "https://www.yna.co.kr/view/AKR20260706016900030",
+      "pubDate": "Mon, 6 Jul 2026 08:27:58 +0900"
+    },
+    {
+      "title": "[부산소식] 대학생 학자금대출 이자지원 사업 신청자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260706013800051",
+      "pubDate": "Mon, 6 Jul 2026 08:14:52 +0900"
+    },
+    {
+      "title": "부산시, ASEAN+3 채권시장 3대 국제포럼 유치…\"해양금융 선도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260706013700051",
+      "pubDate": "Mon, 6 Jul 2026 08:13:57 +0900"
+    },
+    {
+      "title": "[마켓뷰] 급락후 8,000선 회복한 코스피…'D-1 삼전 실적' 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260706014600008",
+      "pubDate": "Mon, 6 Jul 2026 08:09:49 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260706009100011",
@@ -97,61 +152,6 @@
       "title": "'정보 유출' 모두의 창업, '단계별 수집' 전환…보관기간도 조정(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260704031251030",
       "pubDate": "Sun, 5 Jul 2026 14:22:05 +0900"
-    },
-    {
-      "title": "[부고] 윤보원(하나증권 Club1한남WM센터장) 씨 시부상",
-      "link": "https://www.yna.co.kr/view/AKR20260705024800008",
-      "pubDate": "Sun, 5 Jul 2026 13:21:33 +0900"
-    },
-    {
-      "title": "7월 '산업안전보건의 달'…\"내 일터 안전하게 내일 더 행복하게\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703133900530",
-      "pubDate": "Sun, 5 Jul 2026 12:00:09 +0900"
-    },
-    {
-      "title": "한은 \"자산운용 AI 도입은 전략적 필수…아직 초기 단계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703134700002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:06 +0900"
-    },
-    {
-      "title": "재무상담 받으면 청년미래적금 0.2%p 우대…6일부터 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260703159700002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:06 +0900"
-    },
-    {
-      "title": "아파트 경비용역 입찰 짬짜미한 업체 2곳…과징금 9억7천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260704017800002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:05 +0900"
-    },
-    {
-      "title": "다음달 금융권 공동채용 박람회…역대 최대 82개사 참가",
-      "link": "https://www.yna.co.kr/view/AKR20260704020400002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:04 +0900"
-    },
-    {
-      "title": "보험협회, 車사고 과실비율 민원 맡는다…9월부턴 불친절 민원도",
-      "link": "https://www.yna.co.kr/view/AKR20260704037200002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:04 +0900"
-    },
-    {
-      "title": "온라인 쇼핑몰서 교묘한 피싱 결제창…과도한 개인정보 주의",
-      "link": "https://www.yna.co.kr/view/AKR20260704039800002",
-      "pubDate": "Sun, 5 Jul 2026 12:00:03 +0900"
-    },
-    {
-      "title": "[부고] 남규현(예탁결제원 차장) 씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260705022300008",
-      "pubDate": "Sun, 5 Jul 2026 11:57:45 +0900"
-    },
-    {
-      "title": "서울디자인재단, 창업교육 플랫폼 '서울디자인런' 거점 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260704018400004",
-      "pubDate": "Sun, 5 Jul 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서울 홍릉 강소특구, 2년 연속 과기부 평가 최고등급 '우수'",
-      "link": "https://www.yna.co.kr/view/AKR20260704022300004",
-      "pubDate": "Sun, 5 Jul 2026 11:15:01 +0900"
     }
   ]
 }
