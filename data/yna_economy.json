@@ -1,8 +1,133 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783213972,
+  "updated_at_unix": 1783229174,
   "items": [
+    {
+      "title": "'정보 유출' 모두의 창업, '단계별 수집' 전환…보관기간도 조정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260704031251030",
+      "pubDate": "Sun, 5 Jul 2026 14:22:05 +0900"
+    },
+    {
+      "title": "[부고] 윤보원(하나증권 Club1한남WM센터장) 씨 시부상",
+      "link": "https://www.yna.co.kr/view/AKR20260705024800008",
+      "pubDate": "Sun, 5 Jul 2026 13:21:33 +0900"
+    },
+    {
+      "title": "7월 '산업안전보건의 달'…\"내 일터 안전하게 내일 더 행복하게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703133900530",
+      "pubDate": "Sun, 5 Jul 2026 12:00:09 +0900"
+    },
+    {
+      "title": "한은 \"자산운용 AI 도입은 전략적 필수…아직 초기 단계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260703134700002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:06 +0900"
+    },
+    {
+      "title": "재무상담 받으면 청년미래적금 0.2%p 우대…6일부터 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260703159700002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:06 +0900"
+    },
+    {
+      "title": "아파트 경비용역 입찰 짬짜미한 업체 2곳…과징금 9억7천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260704017800002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:05 +0900"
+    },
+    {
+      "title": "다음달 금융권 공동채용 박람회…역대 최대 82개사 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260704020400002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:04 +0900"
+    },
+    {
+      "title": "보험협회, 車사고 과실비율 민원 맡는다…9월부턴 불친절 민원도",
+      "link": "https://www.yna.co.kr/view/AKR20260704037200002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:04 +0900"
+    },
+    {
+      "title": "온라인 쇼핑몰서 교묘한 피싱 결제창…과도한 개인정보 주의",
+      "link": "https://www.yna.co.kr/view/AKR20260704039800002",
+      "pubDate": "Sun, 5 Jul 2026 12:00:03 +0900"
+    },
+    {
+      "title": "[부고] 남규현(예탁결제원 차장) 씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260705022300008",
+      "pubDate": "Sun, 5 Jul 2026 11:57:45 +0900"
+    },
+    {
+      "title": "서울디자인재단, 창업교육 플랫폼 '서울디자인런' 거점 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260704018400004",
+      "pubDate": "Sun, 5 Jul 2026 11:15:02 +0900"
+    },
+    {
+      "title": "서울 홍릉 강소특구, 2년 연속 과기부 평가 최고등급 '우수'",
+      "link": "https://www.yna.co.kr/view/AKR20260704022300004",
+      "pubDate": "Sun, 5 Jul 2026 11:15:01 +0900"
+    },
+    {
+      "title": "국내 선원 중 한국인 비중 45%…월급은 평균 655만원",
+      "link": "https://www.yna.co.kr/view/AKR20260703138500051",
+      "pubDate": "Sun, 5 Jul 2026 11:00:10 +0900"
+    },
+    {
+      "title": "'유엔 해양과학 10년' 프로그램에 한국 주도 사업 첫 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260703141500051",
+      "pubDate": "Sun, 5 Jul 2026 11:00:10 +0900"
+    },
+    {
+      "title": "농관원, 'GAP 인증' 기준 개정…사후관리 강화·교육방식 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260703138700030",
+      "pubDate": "Sun, 5 Jul 2026 11:00:09 +0900"
+    },
+    {
+      "title": "정부, 노르웨이에 '고등어 특사단' 파견…수산물 최대 50% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260703153500030",
+      "pubDate": "Sun, 5 Jul 2026 11:00:08 +0900"
+    },
+    {
+      "title": "상반기 농식품산업 수출 70억달러 '역대 최고'…라면 27.9% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260703161500030",
+      "pubDate": "Sun, 5 Jul 2026 11:00:08 +0900"
+    },
+    {
+      "title": "국토부, '모두의 카드' 등 국민체감 성과 17건 특별 포상",
+      "link": "https://www.yna.co.kr/view/AKR20260704034700003",
+      "pubDate": "Sun, 5 Jul 2026 11:00:07 +0900"
+    },
+    {
+      "title": "해외건설 5개년 계획 수립…\"기술·금융 기반 고부가 산업 육성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260704034300003",
+      "pubDate": "Sun, 5 Jul 2026 11:00:07 +0900"
+    },
+    {
+      "title": "삼성전자 무풍 에어컨 출시 10년…글로벌 누적판매 2천만대 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260705011100003",
+      "pubDate": "Sun, 5 Jul 2026 11:00:06 +0900"
+    },
+    {
+      "title": "\"한류로 수출 확대\"…하노이서 박람회·아세안 K-푸드페어",
+      "link": "https://www.yna.co.kr/view/AKR20260705013100003",
+      "pubDate": "Sun, 5 Jul 2026 11:00:06 +0900"
+    },
+    {
+      "title": "MZ세대 무슬림 82% \"할랄 인증 필수\"…맞춤형 전략 시급",
+      "link": "https://www.yna.co.kr/view/AKR20260705017400003",
+      "pubDate": "Sun, 5 Jul 2026 11:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260705014900011",
+      "pubDate": "Sun, 5 Jul 2026 10:30:00 +0900"
+    },
+    {
+      "title": "카카오-기상청, 위험기상 대응 업무협약…모금 캠페인도",
+      "link": "https://www.yna.co.kr/view/AKR20260705015500017",
+      "pubDate": "Sun, 5 Jul 2026 10:15:26 +0900"
+    },
+    {
+      "title": "제주 고유가 피해지원금 지급률 98.5%…총 948억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260705015400056",
+      "pubDate": "Sun, 5 Jul 2026 10:12:38 +0900"
+    },
     {
       "title": "토스, 자립준비청년 대상 멘토링 프로그램 운영",
       "link": "https://www.yna.co.kr/view/AKR20260705015000017",
@@ -27,131 +152,6 @@
       "title": "[게시판] 우리은행, 토스플레이스 단말기 가맹점에 지원금 8만원 이벤트",
       "link": "https://www.yna.co.kr/view/AKR20260704031900002",
       "pubDate": "Sun, 5 Jul 2026 09:00:03 +0900"
-    },
-    {
-      "title": "진옥동 신한금융 회장 \"야성으로 미래 금융혁신 주도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260704040700002",
-      "pubDate": "Sun, 5 Jul 2026 09:00:02 +0900"
-    },
-    {
-      "title": "CU, 고용부와 함께 연세우유 생크림빵으로 청년 응원 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260705010100030",
-      "pubDate": "Sun, 5 Jul 2026 08:52:54 +0900"
-    },
-    {
-      "title": "'민형배 경제 공약', 반도체 투자로 재설계 불가피",
-      "link": "https://www.yna.co.kr/view/AKR20260703064700054",
-      "pubDate": "Sun, 5 Jul 2026 08:40:01 +0900"
-    },
-    {
-      "title": "\"전세 동났는데 가격 비싸\"…전월세 시장 '탈 아파트' 시작되나",
-      "link": "https://www.yna.co.kr/view/AKR20260705007200003",
-      "pubDate": "Sun, 5 Jul 2026 08:25:25 +0900"
-    },
-    {
-      "title": "울주군, 민간 건축공사장 안전점검 \"여름철 우기·폭염 대비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703097700057",
-      "pubDate": "Sun, 5 Jul 2026 08:10:01 +0900"
-    },
-    {
-      "title": "소공연 \"6·3 지선서 소공연 출신 25명 지방의회 의원 당선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260704027300030",
-      "pubDate": "Sun, 5 Jul 2026 08:00:01 +0900"
-    },
-    {
-      "title": "우주도 플랫폼 시대…'한국판 스페이스X' 탄생할까",
-      "link": "https://www.yna.co.kr/view/AKR20260704036100017",
-      "pubDate": "Sun, 5 Jul 2026 07:49:00 +0900"
-    },
-    {
-      "title": "소버린AI 마지막 승부처는 데이터센터…1천조 인프라 전쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260703129800017",
-      "pubDate": "Sun, 5 Jul 2026 07:45:01 +0900"
-    },
-    {
-      "title": "[반려동물] \"해외 대신 반려견과 국내로\"…여름 성수기 '펫캉스' 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260704023400030",
-      "pubDate": "Sun, 5 Jul 2026 07:30:01 +0900"
-    },
-    {
-      "title": "이란 \"호르무즈 통행 수수료, 우호국에 '특별대우' 고려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260705004500009",
-      "pubDate": "Sun, 5 Jul 2026 07:26:52 +0900"
-    },
-    {
-      "title": "삼성전자 작년 정보보호 투자 4천억 넘겨…전자 관계사들도 증액",
-      "link": "https://www.yna.co.kr/view/AKR20260703113300003",
-      "pubDate": "Sun, 5 Jul 2026 07:17:00 +0900"
-    },
-    {
-      "title": "부산 '오륙도페이·e바구페이', 민선 9기 맞아 혜택 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260703095400051",
-      "pubDate": "Sun, 5 Jul 2026 07:16:01 +0900"
-    },
-    {
-      "title": "'정보 유출' 모두의 창업, '단계별 수집' 전환…보관기간도 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260704031200030",
-      "pubDate": "Sun, 5 Jul 2026 07:11:01 +0900"
-    },
-    {
-      "title": "'노재팬' 넘은 일본 맥주…수입량 첫 10만t 돌파 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260703095300017",
-      "pubDate": "Sun, 5 Jul 2026 06:43:00 +0900"
-    },
-    {
-      "title": "\"지갑 대신 스마트폰\"…소비자 10명 중 6명 네이버페이 쓴다",
-      "link": "https://www.yna.co.kr/view/AKR20260704037000017",
-      "pubDate": "Sun, 5 Jul 2026 06:33:00 +0900"
-    },
-    {
-      "title": "\"결국 다시 쿠팡으로\"…정보유출 반년 뒤 이용자 더 늘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260703141700017",
-      "pubDate": "Sun, 5 Jul 2026 06:30:01 +0900"
-    },
-    {
-      "title": "상반기 코스피 VI 발동 역대 최대…변동성도 역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260703157400008",
-      "pubDate": "Sun, 5 Jul 2026 06:20:01 +0900"
-    },
-    {
-      "title": "홈플러스, '공중분해' 뒤 부동산 매각 수순 밟나…운명 가를 2주",
-      "link": "https://www.yna.co.kr/view/AKR20260704025300030",
-      "pubDate": "Sun, 5 Jul 2026 06:20:00 +0900"
-    },
-    {
-      "title": "코스피 8천피 회복에도…'1조클럽' 종목 6천피 때보다 91개 적어",
-      "link": "https://www.yna.co.kr/view/AKR20260703155300008",
-      "pubDate": "Sun, 5 Jul 2026 06:15:01 +0900"
-    },
-    {
-      "title": "월 수출 1천억달러가 고환율 때문?…\"패러다임 바뀌었다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260704035100003",
-      "pubDate": "Sun, 5 Jul 2026 06:15:01 +0900"
-    },
-    {
-      "title": "지난해 한국 연평균 노동시간 1천833시간…OECD서 6번째로 길어",
-      "link": "https://www.yna.co.kr/view/AKR20260703127300530",
-      "pubDate": "Sun, 5 Jul 2026 06:05:02 +0900"
-    },
-    {
-      "title": "역동의 상반기 상승률 1위는?…삼전닉스 아닌 '756%' 삼성전기",
-      "link": "https://www.yna.co.kr/view/AKR20260703160200008",
-      "pubDate": "Sun, 5 Jul 2026 06:05:01 +0900"
-    },
-    {
-      "title": "10·15와 달랐다…동탄·기흥·구리 토허제 직전 거래 '잠잠'",
-      "link": "https://www.yna.co.kr/view/AKR20260704036000003",
-      "pubDate": "Sun, 5 Jul 2026 06:05:01 +0900"
-    },
-    {
-      "title": "\"실업급여 수급자 재취업 후 임금 더 높아…불평등 완화 효과도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703142100530",
-      "pubDate": "Sun, 5 Jul 2026 06:04:00 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 8,000선 되찾은 코스피…삼전·닉스 이벤트 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260703156200008",
-      "pubDate": "Sun, 5 Jul 2026 06:02:10 +0900"
     }
   ]
 }
