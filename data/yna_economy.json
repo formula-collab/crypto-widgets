@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783287055,
+  "updated_at_unix": 1783291687,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260706009100011",
+      "pubDate": "Mon, 6 Jul 2026 07:30:00 +0900"
+    },
     {
       "title": "5월 크루즈 방한객 20만명 '역대 최대'…절반은 중국인",
       "link": "https://www.yna.co.kr/view/AKR20260704035000030",
@@ -147,11 +152,6 @@
       "title": "서울 홍릉 강소특구, 2년 연속 과기부 평가 최고등급 '우수'",
       "link": "https://www.yna.co.kr/view/AKR20260704022300004",
       "pubDate": "Sun, 5 Jul 2026 11:15:01 +0900"
-    },
-    {
-      "title": "국내 선원 중 한국인 비중 45%…월급은 평균 655만원",
-      "link": "https://www.yna.co.kr/view/AKR20260703138500051",
-      "pubDate": "Sun, 5 Jul 2026 11:00:10 +0900"
     }
   ]
 }
