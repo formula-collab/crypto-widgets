@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783229174,
+  "updated_at_unix": 1783239771,
   "items": [
+    {
+      "title": "[속보] 강훈식 \"반도체 추가세수로 미래대응기금 신설…미래위해 투자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260705033200001",
+      "pubDate": "Sun, 5 Jul 2026 16:17:43 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260705027100011",
+      "pubDate": "Sun, 5 Jul 2026 15:00:00 +0900"
+    },
     {
       "title": "'정보 유출' 모두의 창업, '단계별 수집' 전환…보관기간도 조정(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260704031251030",
@@ -142,16 +152,6 @@
       "title": "경남교육청, '2026 직업교육 박람회' 10일 개최…진로 탐색 기회",
       "link": "https://www.yna.co.kr/view/AKR20260703088600052",
       "pubDate": "Sun, 5 Jul 2026 09:01:01 +0900"
-    },
-    {
-      "title": "대법 \"쌍방과실 교통사고 자기부담금, 상대 보험사에 청구 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260703160900004",
-      "pubDate": "Sun, 5 Jul 2026 09:00:07 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 토스플레이스 단말기 가맹점에 지원금 8만원 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260704031900002",
-      "pubDate": "Sun, 5 Jul 2026 09:00:03 +0900"
     }
   ]
 }
