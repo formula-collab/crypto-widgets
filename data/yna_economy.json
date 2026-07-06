@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783366220,
+  "updated_at_unix": 1783372705,
   "items": [
+    {
+      "title": "한-싱가포르 FTA 개선 위한 2차 공식협상 서울서 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260706127700003",
+      "pubDate": "Tue, 7 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "금감원 퇴직자 재취업 문턱 높아져…로펌행 늘고 가상자산은 0건",
+      "link": "https://www.yna.co.kr/view/AKR20260706146100002",
+      "pubDate": "Tue, 7 Jul 2026 05:59:01 +0900"
+    },
+    {
+      "title": "초과세수 기대 속 정부 '한은 마통' 4년 만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260706131300002",
+      "pubDate": "Tue, 7 Jul 2026 05:57:00 +0900"
+    },
+    {
+      "title": "저축은행 예금금리 연 4% 육박…퇴직연금 4.82%도 등장",
+      "link": "https://www.yna.co.kr/view/AKR20260706150700002",
+      "pubDate": "Tue, 7 Jul 2026 05:55:01 +0900"
+    },
+    {
+      "title": "종부세 상위 10%가 87%를 부담…개인 중 절반은 60세 이상",
+      "link": "https://www.yna.co.kr/view/AKR20260706140300002",
+      "pubDate": "Tue, 7 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "해외IB 올해 한국 성장 전망 평균 처음 3% 찍었다…반년새 1%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260706131900002",
+      "pubDate": "Tue, 7 Jul 2026 05:51:00 +0900"
+    },
     {
       "title": "푸드나무, 200억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260706143600008",
@@ -122,36 +152,6 @@
       "title": "텔콘RF제약, 50억원 유상증자…에버코어인베스트먼트홀딩스에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260706123700008",
       "pubDate": "Mon, 6 Jul 2026 16:19:40 +0900"
-    },
-    {
-      "title": "AI용 MLCC 품귀 조짐…트렌드포스 \"삼성전기·무라타 수주 증가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260706120500003",
-      "pubDate": "Mon, 6 Jul 2026 16:18:01 +0900"
-    },
-    {
-      "title": "침체 끝난 폴더블폰 시장…애플 참전 기대에 판 커진다",
-      "link": "https://www.yna.co.kr/view/AKR20260706121000017",
-      "pubDate": "Mon, 6 Jul 2026 16:12:16 +0900"
-    },
-    {
-      "title": "뉴온, 190억원 유상증자…케이피엠테크에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260706122100008",
-      "pubDate": "Mon, 6 Jul 2026 16:10:38 +0900"
-    },
-    {
-      "title": "코스피, 하락 전환해 약보합 마감…8,000선 겨우 지켜(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260706113951008",
-      "pubDate": "Mon, 6 Jul 2026 16:09:38 +0900"
-    },
-    {
-      "title": "농식품부, 도시·농촌 교류 활성화 기여 유공자 18명 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260706102200030",
-      "pubDate": "Mon, 6 Jul 2026 16:06:37 +0900"
-    },
-    {
-      "title": "[특징주] '실적 D-1' 삼성전자, 2%대 상승…하이닉스는 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260706030751008",
-      "pubDate": "Mon, 6 Jul 2026 16:04:26 +0900"
     }
   ]
 }
