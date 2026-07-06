@@ -2,7 +2,7 @@
   "keyword": "bitcoin",
   "geo": "WORLD",
   "timeframe": "all",
-  "updated_at": "2026-07-06 14:59:19 UTC",
+  "updated_at": "2026-07-06 19:42:32 UTC",
   "points": [
     {
       "date": "2004-01-01",
@@ -58,19 +58,19 @@
     },
     {
       "date": "2017-01-01",
-      "value": 52
+      "value": 51
     },
     {
       "date": "2018-01-01",
-      "value": 46
+      "value": 45
     },
     {
       "date": "2019-01-01",
-      "value": 30
+      "value": 29
     },
     {
       "date": "2020-01-01",
-      "value": 39
+      "value": 37
     },
     {
       "date": "2021-01-01",
@@ -82,11 +82,11 @@
     },
     {
       "date": "2023-01-01",
-      "value": 44
+      "value": 43
     },
     {
       "date": "2024-01-01",
-      "value": 62
+      "value": 61
     },
     {
       "date": "2025-01-01",
