@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783377748,
+  "updated_at_unix": 1783382172,
   "items": [
+    {
+      "title": "'B.I.G 부천' 비전 발표…첨단산업·인프라·성장에 방점",
+      "link": "https://www.yna.co.kr/view/AKR20260707034000065",
+      "pubDate": "Tue, 7 Jul 2026 08:51:05 +0900"
+    },
+    {
+      "title": "빽다방, 영문으로 BI 개편…日 진출 이어 해외 공략 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260707030000030",
+      "pubDate": "Tue, 7 Jul 2026 08:49:49 +0900"
+    },
+    {
+      "title": "호텔신라, 홈페이지·앱 개편…통합 예약·사전 결제 등 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260707029500030",
+      "pubDate": "Tue, 7 Jul 2026 08:47:18 +0900"
+    },
+    {
+      "title": "DB증권, 카카오 목표가 17% 하향…\"AI 수익 돌파구 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707029100008",
+      "pubDate": "Tue, 7 Jul 2026 08:45:51 +0900"
+    },
+    {
+      "title": "대신증권 \"SK하이닉스, 주가 매력 극대화 구간…목표가 390만원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707031000008",
+      "pubDate": "Tue, 7 Jul 2026 08:39:17 +0900"
+    },
+    {
+      "title": "청년들 \"경력채용이 취업 걸림돌\"…경사노위, 청년 라운드테이블",
+      "link": "https://www.yna.co.kr/view/AKR20260707029400530",
+      "pubDate": "Tue, 7 Jul 2026 08:35:04 +0900"
+    },
+    {
+      "title": "기보, 식품산업협회·농협과 혁신기술 식품기업 금융 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260707029900051",
+      "pubDate": "Tue, 7 Jul 2026 08:32:25 +0900"
+    },
+    {
+      "title": "삼성증권 \"KT, 하반기 이익 성장 궤도 복귀 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707029200008",
+      "pubDate": "Tue, 7 Jul 2026 08:30:38 +0900"
+    },
+    {
+      "title": "한화증권 \"삼성SDS, 클라우드 성장세에 호실적 기대…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707028800008",
+      "pubDate": "Tue, 7 Jul 2026 08:28:41 +0900"
+    },
+    {
+      "title": "IBK증권, '스노우피크' 감성코퍼레이션 기업분석 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260707028400008",
+      "pubDate": "Tue, 7 Jul 2026 08:26:16 +0900"
+    },
+    {
+      "title": "[마켓뷰] 삼전 2분기 호실적·美증시 상승…코스피, 반등 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260707025500008",
+      "pubDate": "Tue, 7 Jul 2026 08:13:49 +0900"
+    },
+    {
+      "title": "제이에스링크, 530억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260707019800008",
+      "pubDate": "Tue, 7 Jul 2026 07:46:25 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260707016200011",
@@ -92,66 +152,6 @@
       "title": "홈플러스 피해기업에 최대 3천억 신보 특례보증…당국 점검회의",
       "link": "https://www.yna.co.kr/view/AKR20260706136300002",
       "pubDate": "Mon, 6 Jul 2026 17:31:37 +0900"
-    },
-    {
-      "title": "케이바이오랩스, 20억원 유상증자…미래아이앤지에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260706133100008",
-      "pubDate": "Mon, 6 Jul 2026 17:16:14 +0900"
-    },
-    {
-      "title": "동승·셀트릭스 등 4개사, 코스닥 상장예비심사 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260706132600008",
-      "pubDate": "Mon, 6 Jul 2026 17:15:24 +0900"
-    },
-    {
-      "title": "청주시, SK하이닉스 투자 지원 '부시장 총괄 TF' 가동",
-      "link": "https://www.yna.co.kr/view/AKR20260706118500064",
-      "pubDate": "Mon, 6 Jul 2026 17:11:03 +0900"
-    },
-    {
-      "title": "세종텔레콤, 280억원 유상증자…세종에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260706132500008",
-      "pubDate": "Mon, 6 Jul 2026 17:07:23 +0900"
-    },
-    {
-      "title": "박완수 경남지사 \"첨단산업 추진단 가동…기업 적기투자 뒷받침\"",
-      "link": "https://www.yna.co.kr/view/AKR20260706131700052",
-      "pubDate": "Mon, 6 Jul 2026 17:05:38 +0900"
-    },
-    {
-      "title": "중동전쟁에 \"트럼프 만세\" 외친 정유사…경제위기를 폭리 기회로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260706082851004",
-      "pubDate": "Mon, 6 Jul 2026 17:01:26 +0900"
-    },
-    {
-      "title": "SK 울산CLX, 협력사 근로자 단체상해보험 가입 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260706129700057",
-      "pubDate": "Mon, 6 Jul 2026 16:57:46 +0900"
-    },
-    {
-      "title": "거래소, 코스닥시장위원장에 김우찬 고려대 교수 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260706130400008",
-      "pubDate": "Mon, 6 Jul 2026 16:57:35 +0900"
-    },
-    {
-      "title": "환율 상승에 국고채 금리 하락 뒤 반등…3년물 연 3.776%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260706127351008",
-      "pubDate": "Mon, 6 Jul 2026 16:55:56 +0900"
-    },
-    {
-      "title": "[게시판] 법률공단, 제주 개인회생·파산지원센터 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260706129900053",
-      "pubDate": "Mon, 6 Jul 2026 16:55:00 +0900"
-    },
-    {
-      "title": "[과학스냅] 과총, 한민족청년과학도포럼 개최…18개국 54명 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260706128000017",
-      "pubDate": "Mon, 6 Jul 2026 16:53:10 +0900"
-    },
-    {
-      "title": "한국동서발전, 도농 교류 활성화 공로 대통령 표창",
-      "link": "https://www.yna.co.kr/view/AKR20260706126800057",
-      "pubDate": "Mon, 6 Jul 2026 16:43:05 +0900"
     }
   ]
 }
