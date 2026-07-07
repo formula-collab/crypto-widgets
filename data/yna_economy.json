@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783418648,
+  "updated_at_unix": 1783427980,
   "items": [
+    {
+      "title": "국세청, KT 특별세무조사 돌입…2021∼2025년 회계 자료 대상",
+      "link": "https://www.yna.co.kr/view/AKR20260707165600017",
+      "pubDate": "Tue, 7 Jul 2026 19:25:26 +0900"
+    },
+    {
+      "title": "한국 해운사, 중국 담합에 피해 봤나…공정위, 현황 파악 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260707165200002",
+      "pubDate": "Tue, 7 Jul 2026 19:24:59 +0900"
+    },
     {
       "title": "APS \"유피아이 주식 180억원어치 취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260707161600008",
@@ -142,16 +152,6 @@
       "title": "해남 산정마을, 우리동네살리기 공모 선정…도시재생 추진",
       "link": "https://www.yna.co.kr/view/AKR20260707136000054",
       "pubDate": "Tue, 7 Jul 2026 16:10:25 +0900"
-    },
-    {
-      "title": "엔화 약세 베팅 2007년 이후 최대…투기적 매도 포지션 급증(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260707085352009",
-      "pubDate": "Tue, 7 Jul 2026 16:06:38 +0900"
-    },
-    {
-      "title": "이억원 \"서남권, 국가산업 이끌 핵심 거점 될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260707113800002",
-      "pubDate": "Tue, 7 Jul 2026 16:00:01 +0900"
     }
   ]
 }
