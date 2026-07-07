@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783453042,
+  "updated_at_unix": 1783458763,
   "items": [
+    {
+      "title": "전세사기 피해자 누적 3만9천669명…피해주택 매입 9천707호",
+      "link": "https://www.yna.co.kr/view/AKR20260707123900003",
+      "pubDate": "Wed, 8 Jul 2026 06:00:10 +0900"
+    },
+    {
+      "title": "서울시 \"팝업스토어, 개인정보 수집 동의·환불 안내 미흡\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707141200004",
+      "pubDate": "Wed, 8 Jul 2026 06:00:09 +0900"
+    },
+    {
+      "title": "이마트, '피코크X정관장' 홍삼 전복삼계탕 출시…보양식 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260707144400030",
+      "pubDate": "Wed, 8 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "'중소기업 수출 도우미' 전문무역상사 607개로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260707152600003",
+      "pubDate": "Wed, 8 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "식량안보 강화에 K-스마트팜 부각…UAE에 260만달러 수출계약",
+      "link": "https://www.yna.co.kr/view/AKR20260707151700003",
+      "pubDate": "Wed, 8 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "금감원 \"여름철 2차 사고 위험 커…침수 피해액은 평균 443억\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707159400002",
+      "pubDate": "Wed, 8 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "대법 \"꼬마빌딩 증여세 부과 사후감정, 가격변동 없어야 인정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260707167400004",
+      "pubDate": "Wed, 8 Jul 2026 06:00:01 +0900"
+    },
+    {
+      "title": "'해킹 이메일'에 주문 냈다가 수십억 인출사고…LS증권 경찰수사",
+      "link": "https://www.yna.co.kr/view/AKR20260707165100002",
+      "pubDate": "Wed, 8 Jul 2026 05:51:01 +0900"
+    },
     {
       "title": "정치불안 속 20년간 '경제대통령'…벨라르데 페루중앙은행 총재",
       "link": "https://www.yna.co.kr/view/AKR20260708001600087",
@@ -112,46 +152,6 @@
       "title": "국고채 금리 대체로 상승…3년물 연 3.780%",
       "link": "https://www.yna.co.kr/view/AKR20260707144300008",
       "pubDate": "Tue, 7 Jul 2026 16:40:39 +0900"
-    },
-    {
-      "title": "기대 미달? 피크아웃?…'역대급 실적' 삼전 급락에 코스피 출렁(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260707081751008",
-      "pubDate": "Tue, 7 Jul 2026 16:40:04 +0900"
-    },
-    {
-      "title": "'모험자본 투자플랫폼' 출범…\"모험자본 공급 활성화 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260707112400002",
-      "pubDate": "Tue, 7 Jul 2026 16:30:05 +0900"
-    },
-    {
-      "title": "코스피, 급락에 사이드카·서킷 발동…4.9%↓ 7,600선(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260707130151008",
-      "pubDate": "Tue, 7 Jul 2026 16:29:55 +0900"
-    },
-    {
-      "title": "IBK기업은행, 'AI 리딩뱅크' 비전 담은 'AIBK' 광고",
-      "link": "https://www.yna.co.kr/view/AKR20260707140900002",
-      "pubDate": "Tue, 7 Jul 2026 16:26:49 +0900"
-    },
-    {
-      "title": "구윤철 \"레버리지 ETF 우려 알고 있다…보완 방안 협의 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260707140400002",
-      "pubDate": "Tue, 7 Jul 2026 16:22:02 +0900"
-    },
-    {
-      "title": "보름새 서킷만 세차례…일상화된 급등락, 韓증시 변동성 어쩌나",
-      "link": "https://www.yna.co.kr/view/AKR20260707136400008",
-      "pubDate": "Tue, 7 Jul 2026 16:15:44 +0900"
-    },
-    {
-      "title": "노동계 1만1천500원·경영계 1만440원…최저임금 5차 수정안",
-      "link": "https://www.yna.co.kr/view/AKR20260707137600530",
-      "pubDate": "Tue, 7 Jul 2026 16:12:42 +0900"
-    },
-    {
-      "title": "NH농협은행 울주군지부, 지역 저소득세대 학생 장학금 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260707134800057",
-      "pubDate": "Tue, 7 Jul 2026 16:10:57 +0900"
     }
   ]
 }
