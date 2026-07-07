@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783458763,
+  "updated_at_unix": 1783463633,
   "items": [
+    {
+      "title": "초복 삼계탕 전통시장 재료비 1인분 8천800원…작년비 2.8% 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260707140600030",
+      "pubDate": "Wed, 8 Jul 2026 07:00:06 +0900"
+    },
+    {
+      "title": "강남구, 15일 코엑스서 일자리 박람회…\"60개 기업 참여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708014300004",
+      "pubDate": "Wed, 8 Jul 2026 06:57:15 +0900"
+    },
+    {
+      "title": "[팩트체크] 도수치료, 관리급여로 바뀌었다는데…환자 부담 어디까지",
+      "link": "https://www.yna.co.kr/view/AKR20260707170500518",
+      "pubDate": "Wed, 8 Jul 2026 06:30:01 +0900"
+    },
     {
       "title": "전세사기 피해자 누적 3만9천669명…피해주택 매입 9천707호",
       "link": "https://www.yna.co.kr/view/AKR20260707123900003",
@@ -137,21 +152,6 @@
       "title": "2분기 전망치 웃돈 실적에도 삼전 폭락…증권가 평가는(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260707100951008",
       "pubDate": "Tue, 7 Jul 2026 16:43:42 +0900"
-    },
-    {
-      "title": "아센디오, 131억원 유상증자…경남제약에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260707139100008",
-      "pubDate": "Tue, 7 Jul 2026 16:41:58 +0900"
-    },
-    {
-      "title": "[특징주] '2분기 실적 기대치 하회' LG엔솔, 6% 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260707041651008",
-      "pubDate": "Tue, 7 Jul 2026 16:41:25 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.780%",
-      "link": "https://www.yna.co.kr/view/AKR20260707144300008",
-      "pubDate": "Tue, 7 Jul 2026 16:40:39 +0900"
     }
   ]
 }
