@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783438676,
+  "updated_at_unix": 1783446560,
   "items": [
+    {
+      "title": "정치불안 속 20년간 '경제대통령'…벨라르데 페루중앙은행 총재",
+      "link": "https://www.yna.co.kr/view/AKR20260708001600087",
+      "pubDate": "Wed, 8 Jul 2026 01:34:09 +0900"
+    },
     {
       "title": "국세청, KT 특별세무조사 돌입…2021∼2025년 회계 자료 대상",
       "link": "https://www.yna.co.kr/view/AKR20260707165600017",
@@ -147,11 +152,6 @@
       "title": "NH농협은행 울주군지부, 지역 저소득세대 학생 장학금 전달",
       "link": "https://www.yna.co.kr/view/AKR20260707134800057",
       "pubDate": "Tue, 7 Jul 2026 16:10:57 +0900"
-    },
-    {
-      "title": "해남 산정마을, 우리동네살리기 공모 선정…도시재생 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260707136000054",
-      "pubDate": "Tue, 7 Jul 2026 16:10:25 +0900"
     }
   ]
 }
