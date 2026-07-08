@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783517154,
+  "updated_at_unix": 1783525142,
   "items": [
+    {
+      "title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3→2.7%",
+      "link": "https://www.yna.co.kr/view/AKR20260708158200002",
+      "pubDate": "Thu, 9 Jul 2026 00:30:01 +0900"
+    },
     {
       "title": "IMF, 올해 韓 성장률 1.9→2.6% 상향 전망…선진국 중 가장 높아",
       "link": "https://www.yna.co.kr/view/AKR20260708138500002",
@@ -147,11 +152,6 @@
       "title": "'연일 급락 반도체' 코스피 고점 지났나?…엇갈리는 시선들(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260708086551008",
       "pubDate": "Wed, 8 Jul 2026 16:15:04 +0900"
-    },
-    {
-      "title": "KT&G, '보헴 쿠바나 맥스' 출시…한 갑당 4천700원",
-      "link": "https://www.yna.co.kr/view/AKR20260708141400030",
-      "pubDate": "Wed, 8 Jul 2026 16:07:46 +0900"
     }
   ]
 }
