@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783510819,
+  "updated_at_unix": 1783517154,
   "items": [
+    {
+      "title": "IMF, 올해 韓 성장률 1.9→2.6% 상향 전망…선진국 중 가장 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260708138500002",
+      "pubDate": "Wed, 8 Jul 2026 22:00:00 +0900"
+    },
+    {
+      "title": "스타벅스, 내달까지 리워드 전 회원에 '무료 음료' 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260708180600030",
+      "pubDate": "Wed, 8 Jul 2026 21:23:37 +0900"
+    },
     {
       "title": "한국-말레이시아 정책협의회…\"원전 등 전략적 협력 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20260708177300504",
@@ -142,16 +152,6 @@
       "title": "KT&G, '보헴 쿠바나 맥스' 출시…한 갑당 4천700원",
       "link": "https://www.yna.co.kr/view/AKR20260708141400030",
       "pubDate": "Wed, 8 Jul 2026 16:07:46 +0900"
-    },
-    {
-      "title": "벤처기업협회, 세이브택스와 스타트업 세무 지원 서비스 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260708139200030",
-      "pubDate": "Wed, 8 Jul 2026 16:03:00 +0900"
-    },
-    {
-      "title": "민주노총 \"진해소각장 폐쇄 앞 창원시는 노동자 고용보장해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708135500052",
-      "pubDate": "Wed, 8 Jul 2026 16:02:06 +0900"
     }
   ]
 }
