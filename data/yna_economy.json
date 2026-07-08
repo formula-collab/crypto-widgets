@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783541698,
+  "updated_at_unix": 1783546547,
   "items": [
+    {
+      "title": "종부세 공정비율 80%로 올리면 주택분 보유세 8.7조→10.1조",
+      "link": "https://www.yna.co.kr/view/AKR20260708162800003",
+      "pubDate": "Thu, 9 Jul 2026 06:07:00 +0900"
+    },
+    {
+      "title": "울산산업 인공지능 전환 협의체 출범 \"대한민국 AX 거점으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708176900057",
+      "pubDate": "Thu, 9 Jul 2026 06:00:09 +0900"
+    },
+    {
+      "title": "대한상의, 기업 내 '문화가 있는 날' 우수사례 42건 시상",
+      "link": "https://www.yna.co.kr/view/AKR20260708145200003",
+      "pubDate": "Thu, 9 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "'검소한' 신현송, 취임 첫 달 업추비 194만원…전임의 3분의 1",
+      "link": "https://www.yna.co.kr/view/AKR20260708157200002",
+      "pubDate": "Thu, 9 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "외국인 주식거래 늘자…금융서비스수지 5.6억달러 '사상 최대'",
+      "link": "https://www.yna.co.kr/view/AKR20260708178600002",
+      "pubDate": "Thu, 9 Jul 2026 05:53:00 +0900"
+    },
+    {
+      "title": "스위스 다음 비싼 韓음식료품…구매력 기준 3년째 OECD 최상위권",
+      "link": "https://www.yna.co.kr/view/AKR20260708159900002",
+      "pubDate": "Thu, 9 Jul 2026 05:51:00 +0900"
+    },
     {
       "title": "ADB, 올해 한국 성장률 2.6%로 0.7%p 상향 전망…물가 2.3→2.7%",
       "link": "https://www.yna.co.kr/view/AKR20260708158200002",
@@ -122,36 +152,6 @@
       "title": "[동정] 이병권 중기차관, 소상공인 사회안전망 강화 간담회 개최",
       "link": "https://www.yna.co.kr/view/AKR20260708064800030",
       "pubDate": "Wed, 8 Jul 2026 16:30:00 +0900"
-    },
-    {
-      "title": "박홍근, 휴머노이드 기업 방문…\"데이터 라이브러리 사업 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708129900002",
-      "pubDate": "Wed, 8 Jul 2026 16:30:00 +0900"
-    },
-    {
-      "title": "5대 은행, 홈플러스 협력업체에 금융지원…최대 5억 대출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708101751002",
-      "pubDate": "Wed, 8 Jul 2026 16:29:10 +0900"
-    },
-    {
-      "title": "코스피, 5% 급락 7,200선 밀려…코스닥, 10개월만에 800선 하회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708135751008",
-      "pubDate": "Wed, 8 Jul 2026 16:27:13 +0900"
-    },
-    {
-      "title": "노동장관, '끼임 반복' 사업장 불시점검…장비손상 등 개선 지시",
-      "link": "https://www.yna.co.kr/view/AKR20260708145800530",
-      "pubDate": "Wed, 8 Jul 2026 16:24:48 +0900"
-    },
-    {
-      "title": "[특징주] 은행주, 실적 기대에 상승 후 코스피 급락에 반락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708055351008",
-      "pubDate": "Wed, 8 Jul 2026 16:21:03 +0900"
-    },
-    {
-      "title": "'연일 급락 반도체' 코스피 고점 지났나?…엇갈리는 시선들(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708086551008",
-      "pubDate": "Wed, 8 Jul 2026 16:15:04 +0900"
     }
   ]
 }
