@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783495282,
+  "updated_at_unix": 1783503735,
   "items": [
+    {
+      "title": "뉴질랜드, 3년만에 첫 기준금리 인상…중동전쟁 여파",
+      "link": "https://www.yna.co.kr/view/AKR20260708171700084",
+      "pubDate": "Wed, 8 Jul 2026 18:30:51 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260708164400011",
+      "pubDate": "Wed, 8 Jul 2026 18:00:01 +0900"
+    },
+    {
+      "title": "고양시장 \"세계 최고 아레나 건립에 시정 역량 총동원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708164200060",
+      "pubDate": "Wed, 8 Jul 2026 17:42:57 +0900"
+    },
+    {
+      "title": "중기부, 엔지니어링플라스틱 고발 요청…\"우월 지위 남용\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708162500030",
+      "pubDate": "Wed, 8 Jul 2026 17:33:43 +0900"
+    },
+    {
+      "title": "코스피, 5% 급락 7,200선 밀려…코스닥, 10개월만에 800선 하회(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260708135752008",
+      "pubDate": "Wed, 8 Jul 2026 17:26:39 +0900"
+    },
+    {
+      "title": "스텔스솔루션·법무법인 린, 해킹 피해 원스톱 대응 나선다",
+      "link": "https://www.yna.co.kr/view/AKR20260708159100017",
+      "pubDate": "Wed, 8 Jul 2026 17:20:18 +0900"
+    },
+    {
+      "title": "노동부, 14일 AI 따른 사회혁신 토론회…N% 성과급 논의 공론화",
+      "link": "https://www.yna.co.kr/view/AKR20260708152400530",
+      "pubDate": "Wed, 8 Jul 2026 17:14:41 +0900"
+    },
+    {
+      "title": "한화시스템 \"한국항공우주산업 주식 5천억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708158000008",
+      "pubDate": "Wed, 8 Jul 2026 17:09:42 +0900"
+    },
+    {
+      "title": "환율 하락에 국고채 금리 상승폭 축소…3년물 연 3.775%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708152051008",
+      "pubDate": "Wed, 8 Jul 2026 17:04:17 +0900"
+    },
+    {
+      "title": "경남도 '고용위기 조기경보' 가동…고용둔화 신호 포착·대응",
+      "link": "https://www.yna.co.kr/view/AKR20260708156800052",
+      "pubDate": "Wed, 8 Jul 2026 17:03:09 +0900"
+    },
+    {
+      "title": "신한금융, 사회연대경제 활성화에 3년간 60억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260708072200002",
+      "pubDate": "Wed, 8 Jul 2026 17:00:06 +0900"
+    },
+    {
+      "title": "하닉 ADR 상장 기대 등에…환율, 한달여만에 1,500원 하회",
+      "link": "https://www.yna.co.kr/view/AKR20260708145500002",
+      "pubDate": "Wed, 8 Jul 2026 16:54:55 +0900"
+    },
+    {
+      "title": "한국동서발전, '부울경 사이버보안교육센터' 문 열어",
+      "link": "https://www.yna.co.kr/view/AKR20260708154500057",
+      "pubDate": "Wed, 8 Jul 2026 16:52:10 +0900"
+    },
+    {
+      "title": "KB국민은행, 주택구입자금 대출 한도 최대 6억→3억 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260708153100002",
+      "pubDate": "Wed, 8 Jul 2026 16:43:56 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 상승 …3년물 연 3.775%",
+      "link": "https://www.yna.co.kr/view/AKR20260708152000008",
+      "pubDate": "Wed, 8 Jul 2026 16:42:04 +0900"
+    },
+    {
+      "title": "GS엔텍, 공모채 수요예측서 940억원 주문…모집액 2.7배",
+      "link": "https://www.yna.co.kr/view/AKR20260708147700008",
+      "pubDate": "Wed, 8 Jul 2026 16:36:03 +0900"
+    },
+    {
+      "title": "800선 깨지며 10개월전 돌아간 코스닥…'순환매 온기' 언제?(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708113651008",
+      "pubDate": "Wed, 8 Jul 2026 16:31:29 +0900"
+    },
+    {
+      "title": "[동정] 이병권 중기차관, 소상공인 사회안전망 강화 간담회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260708064800030",
+      "pubDate": "Wed, 8 Jul 2026 16:30:00 +0900"
+    },
+    {
+      "title": "박홍근, 휴머노이드 기업 방문…\"데이터 라이브러리 사업 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708129900002",
+      "pubDate": "Wed, 8 Jul 2026 16:30:00 +0900"
+    },
+    {
+      "title": "5대 은행, 홈플러스 협력업체에 금융지원…최대 5억 대출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708101751002",
+      "pubDate": "Wed, 8 Jul 2026 16:29:10 +0900"
+    },
+    {
+      "title": "코스피, 5% 급락 7,200선 밀려…코스닥, 10개월만에 800선 하회(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708135751008",
+      "pubDate": "Wed, 8 Jul 2026 16:27:13 +0900"
+    },
+    {
+      "title": "노동장관, '끼임 반복' 사업장 불시점검…장비손상 등 개선 지시",
+      "link": "https://www.yna.co.kr/view/AKR20260708145800530",
+      "pubDate": "Wed, 8 Jul 2026 16:24:48 +0900"
+    },
+    {
+      "title": "[특징주] 은행주, 실적 기대에 상승 후 코스피 급락에 반락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708055351008",
+      "pubDate": "Wed, 8 Jul 2026 16:21:03 +0900"
+    },
     {
       "title": "'연일 급락 반도체' 코스피 고점 지났나?…엇갈리는 시선들(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260708086551008",
@@ -37,121 +152,6 @@
       "title": "[특징주] 삼성전자, 6.3% 급락 마감…SK하이닉스도 5.7%↓(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260708047251008",
       "pubDate": "Wed, 8 Jul 2026 15:54:33 +0900"
-    },
-    {
-      "title": "[특징주] 데이타솔루션·씨이랩, 대규모 공급 계약에 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708070251008",
-      "pubDate": "Wed, 8 Jul 2026 15:45:54 +0900"
-    },
-    {
-      "title": "[특징주] 애국테마주? '상폐 우려' 한성기업 4% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708056451008",
-      "pubDate": "Wed, 8 Jul 2026 15:44:58 +0900"
-    },
-    {
-      "title": "외국환시세(7월8일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260708135300002",
-      "pubDate": "Wed, 8 Jul 2026 15:41:14 +0900"
-    },
-    {
-      "title": "[속보] 환율 장중 1,500원 하회…5월 29일 이후 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260708136100002",
-      "pubDate": "Wed, 8 Jul 2026 15:41:06 +0900"
-    },
-    {
-      "title": "코스피, 5% 급락해 7,200선…코스닥도 5%대↓",
-      "link": "https://www.yna.co.kr/view/AKR20260708135700008",
-      "pubDate": "Wed, 8 Jul 2026 15:39:25 +0900"
-    },
-    {
-      "title": "남종섭 경기도의회 의장 \"TF 구성해 재정난 원인·해결책 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708131900061",
-      "pubDate": "Wed, 8 Jul 2026 15:39:14 +0900"
-    },
-    {
-      "title": "[속보] '검은 수요일'…코스피 5.4%·코스닥 5.6% 급락 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260708134400008",
-      "pubDate": "Wed, 8 Jul 2026 15:33:52 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 29.7원 내린 1,498.5원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260708133500002",
-      "pubDate": "Wed, 8 Jul 2026 15:31:51 +0900"
-    },
-    {
-      "title": "조선대, 'AI·디지털 창업인재' 호남권 주관대학 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260708130800054",
-      "pubDate": "Wed, 8 Jul 2026 15:25:03 +0900"
-    },
-    {
-      "title": "금감원 특사경, '선행매매 혐의' 매경TV 압수수색…첫 인지수사",
-      "link": "https://www.yna.co.kr/view/AKR20260708127800002",
-      "pubDate": "Wed, 8 Jul 2026 15:18:55 +0900"
-    },
-    {
-      "title": "중부고용청-인천시, '고용노동 정책협의회' 출범…일자리 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260708128000065",
-      "pubDate": "Wed, 8 Jul 2026 15:11:48 +0900"
-    },
-    {
-      "title": "BNK그룹, 부울경 경제 도약 프로젝트…생산적·포용 금융 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260708127000051",
-      "pubDate": "Wed, 8 Jul 2026 15:10:14 +0900"
-    },
-    {
-      "title": "맥도날드, 충주 '찰옥수수 버거' 출시…지역 농산물 상생 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260708119900030",
-      "pubDate": "Wed, 8 Jul 2026 15:07:55 +0900"
-    },
-    {
-      "title": "육동한 춘천시장, 청년창업 우수기업 6곳에 인증패 수여",
-      "link": "https://www.yna.co.kr/view/AKR20260708126700062",
-      "pubDate": "Wed, 8 Jul 2026 15:05:37 +0900"
-    },
-    {
-      "title": "코레일 '차세대 고속열차 도입 사업' 예비타당성 조사 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260708119400063",
-      "pubDate": "Wed, 8 Jul 2026 15:04:01 +0900"
-    },
-    {
-      "title": "하나금융, 경기도와 '중장년 일자리 창출' 잡(JOB)매칭 페스타",
-      "link": "https://www.yna.co.kr/view/AKR20260708122100002",
-      "pubDate": "Wed, 8 Jul 2026 15:03:14 +0900"
-    },
-    {
-      "title": "중기부, '모두의 창업' 충청권 간담회…\"창업기업 성장 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708032700030",
-      "pubDate": "Wed, 8 Jul 2026 15:00:01 +0900"
-    },
-    {
-      "title": "정부 \"상반기 신속집행 목표 20조 초과달성…추경 87.4% 집행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708111300002",
-      "pubDate": "Wed, 8 Jul 2026 15:00:01 +0900"
-    },
-    {
-      "title": "코트라, 몽골서 CIS 무역투자 전략회의…수출 확대 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260708107400003",
-      "pubDate": "Wed, 8 Jul 2026 15:00:01 +0900"
-    },
-    {
-      "title": "코트라, '포스트 중동 프로젝트 파트너십'…재건 시장 선점",
-      "link": "https://www.yna.co.kr/view/AKR20260708119800003",
-      "pubDate": "Wed, 8 Jul 2026 14:54:52 +0900"
-    },
-    {
-      "title": "한미약품그룹 경영권 다시 긴장…잇단 지분 이동",
-      "link": "https://www.yna.co.kr/view/AKR20260708118000017",
-      "pubDate": "Wed, 8 Jul 2026 14:51:13 +0900"
-    },
-    {
-      "title": "월드비전, 디아이랩과 AI 기반 기후 취약국 대응 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260708120300371",
-      "pubDate": "Wed, 8 Jul 2026 14:45:56 +0900"
-    },
-    {
-      "title": "전북 KB금융타운 문 열어…자산운용 특화·지역 상생 거점(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708034651002",
-      "pubDate": "Wed, 8 Jul 2026 14:45:16 +0900"
     }
   ]
 }
