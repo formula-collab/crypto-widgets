@@ -1,10 +1,20 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783546547,
+  "updated_at_unix": 1783551207,
   "items": [
     {
-      "title": "종부세 공정비율 80%로 올리면 주택분 보유세 8.7조→10.1조",
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260709020300011",
+      "pubDate": "Thu, 9 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 메르카토르 지도를 바로잡는 대한민국",
+      "link": "https://www.yna.co.kr/view/AKR20260706025100898",
+      "pubDate": "Thu, 9 Jul 2026 07:00:03 +0900"
+    },
+    {
+      "title": "종부세 공정가액비율 80%로 올리면 주택분 보유세 8.7조→10.1조",
       "link": "https://www.yna.co.kr/view/AKR20260708162800003",
       "pubDate": "Thu, 9 Jul 2026 06:07:00 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "GS엔텍, 공모채 수요예측서 940억원 주문…모집액 2.7배",
       "link": "https://www.yna.co.kr/view/AKR20260708147700008",
       "pubDate": "Wed, 8 Jul 2026 16:36:03 +0900"
-    },
-    {
-      "title": "800선 깨지며 10개월전 돌아간 코스닥…'순환매 온기' 언제?(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708113651008",
-      "pubDate": "Wed, 8 Jul 2026 16:31:29 +0900"
-    },
-    {
-      "title": "[동정] 이병권 중기차관, 소상공인 사회안전망 강화 간담회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260708064800030",
-      "pubDate": "Wed, 8 Jul 2026 16:30:00 +0900"
     }
   ]
 }
