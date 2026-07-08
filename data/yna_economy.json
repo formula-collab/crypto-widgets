@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783503735,
+  "updated_at_unix": 1783510819,
   "items": [
+    {
+      "title": "한국-말레이시아 정책협의회…\"원전 등 전략적 협력 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260708177300504",
+      "pubDate": "Wed, 8 Jul 2026 20:28:25 +0900"
+    },
+    {
+      "title": "국민은행 \"주담대 3억원까지만\"…가계대출 확 조인다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260708153151002",
+      "pubDate": "Wed, 8 Jul 2026 19:58:57 +0900"
+    },
+    {
+      "title": "증선위, '매출 과대계상' 만호제강에 감사인지정",
+      "link": "https://www.yna.co.kr/view/AKR20260708177900002",
+      "pubDate": "Wed, 8 Jul 2026 19:44:05 +0900"
+    },
     {
       "title": "뉴질랜드, 3년만에 첫 기준금리 인상…중동전쟁 여파",
       "link": "https://www.yna.co.kr/view/AKR20260708171700084",
@@ -137,21 +152,6 @@
       "title": "민주노총 \"진해소각장 폐쇄 앞 창원시는 노동자 고용보장해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260708135500052",
       "pubDate": "Wed, 8 Jul 2026 16:02:06 +0900"
-    },
-    {
-      "title": "리가켐바이오 \"5년내 ADC 20개 확보…초격차 전략 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260708060900017",
-      "pubDate": "Wed, 8 Jul 2026 16:01:50 +0900"
-    },
-    {
-      "title": "인구위, 올해 국가인구전략 발표…부처간 정책틈새 메우기 시동",
-      "link": "https://www.yna.co.kr/view/AKR20260708134700530",
-      "pubDate": "Wed, 8 Jul 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전자, 6.3% 급락 마감…SK하이닉스도 5.7%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260708047251008",
-      "pubDate": "Wed, 8 Jul 2026 15:54:33 +0900"
     }
   ]
 }
