@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783592197,
+  "updated_at_unix": 1783612224,
   "items": [
+    {
+      "title": "李대통령 \"한몽, 협력 잠재력 무궁무진…핵심광물 힘 합쳐야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260709174900001",
+      "pubDate": "Thu, 9 Jul 2026 20:44:11 +0900"
+    },
+    {
+      "title": "한-몽골 경제계, 미래성장 분야로 경제협력 확장한다",
+      "link": "https://www.yna.co.kr/view/AKR20260709195800003",
+      "pubDate": "Thu, 9 Jul 2026 20:20:28 +0900"
+    },
+    {
+      "title": "한·몽골 CEPA 원칙적 타결…핵심광물·유통 협력 가속화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260709192751003",
+      "pubDate": "Thu, 9 Jul 2026 20:16:27 +0900"
+    },
+    {
+      "title": "LG CNS, 영국 피직스엑스와 산업 적용 AI 모델 구축 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260709195500017",
+      "pubDate": "Thu, 9 Jul 2026 20:13:11 +0900"
+    },
+    {
+      "title": "한·몽골, 식량안보·스마트농업 협력 확대…농식품MOU 개정체결",
+      "link": "https://www.yna.co.kr/view/AKR20260709193000030",
+      "pubDate": "Thu, 9 Jul 2026 20:06:33 +0900"
+    },
+    {
+      "title": "한·몽골 CEPA 원칙적 타결…핵심광물·유통협력 가속화",
+      "link": "https://www.yna.co.kr/view/AKR20260709192700003",
+      "pubDate": "Thu, 9 Jul 2026 19:43:57 +0900"
+    },
+    {
+      "title": "내년 최저임금 격차 690원, 심의 한번더…소상공인 측 반발 퇴장(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260709157552530",
+      "pubDate": "Thu, 9 Jul 2026 19:20:52 +0900"
+    },
     {
       "title": "'SK하이닉스 200만원 넘는데'…BNK증권, 목표가 185만원 제시",
       "link": "https://www.yna.co.kr/view/AKR20260709189600008",
@@ -117,41 +152,6 @@
       "title": "국고채 금리 혼조세…3년물 연 3.778%",
       "link": "https://www.yna.co.kr/view/AKR20260709169100008",
       "pubDate": "Thu, 9 Jul 2026 16:43:07 +0900"
-    },
-    {
-      "title": "'ADR상장 D-1' SK하이닉스, 티커는 'SKHY'…\"본주 재평가 기대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260709071751008",
-      "pubDate": "Thu, 9 Jul 2026 16:42:21 +0900"
-    },
-    {
-      "title": "울산시, 장기 미준공 도시개발사업 해결 추진…맞춤형 행정 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260709161200057",
-      "pubDate": "Thu, 9 Jul 2026 16:40:00 +0900"
-    },
-    {
-      "title": "[2보] 광주 군공항 인근 토지거래허가구역 지정…14일부터 효력",
-      "link": "https://www.yna.co.kr/view/AKR20260709166500003",
-      "pubDate": "Thu, 9 Jul 2026 16:35:12 +0900"
-    },
-    {
-      "title": "2027 충청 U대회 조직위, 기획예산처에 대회 운영비 증액 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260709162900063",
-      "pubDate": "Thu, 9 Jul 2026 16:28:54 +0900"
-    },
-    {
-      "title": "[1보] 반도체클러스터 광주 군공항 인근 토지거래허가구역 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260709164500003",
-      "pubDate": "Thu, 9 Jul 2026 16:26:03 +0900"
-    },
-    {
-      "title": "IBK기업은행, 신보와 포용·생산적 금융지원 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260709162700002",
-      "pubDate": "Thu, 9 Jul 2026 16:25:44 +0900"
-    },
-    {
-      "title": "송미령 농식품 장관 \"몽골에 K푸드 수출 확대 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260709154300030",
-      "pubDate": "Thu, 9 Jul 2026 16:24:24 +0900"
     }
   ]
 }
