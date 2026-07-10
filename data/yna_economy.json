@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783673845,
+  "updated_at_unix": 1783683944,
   "items": [
+    {
+      "title": "박지원 \"출입국 목포출장소→사무소 승격…외국인 업무 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260710163200054",
+      "pubDate": "Fri, 10 Jul 2026 19:41:52 +0900"
+    },
+    {
+      "title": "'모두의 생리대' 점검한 韓총리 \"국민 건강 직결…운영에 만전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260710161700001",
+      "pubDate": "Fri, 10 Jul 2026 19:35:46 +0900"
+    },
+    {
+      "title": "[게시판] 서강대 산학협력단, 반도체설계전문가 훈련과정 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260710162300004",
+      "pubDate": "Fri, 10 Jul 2026 19:24:51 +0900"
+    },
+    {
+      "title": "쿠팡도 간편결제 참전…'로켓페이' 하반기 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260710160500030",
+      "pubDate": "Fri, 10 Jul 2026 19:15:43 +0900"
+    },
+    {
+      "title": "중앙일보 워크아웃 개시…경영권 매각 등 추진(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260710156652002",
+      "pubDate": "Fri, 10 Jul 2026 18:46:44 +0900"
+    },
+    {
+      "title": "이케아, 육휴 직원 강등 의혹에 \"엄중 인식\"…노조 \"구조조정 강행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260710156100030",
+      "pubDate": "Fri, 10 Jul 2026 18:33:35 +0900"
+    },
+    {
+      "title": "[2보] '유동성 위기' 중앙일보 워크아웃 개시…채권자 75% 이상 동의",
+      "link": "https://www.yna.co.kr/view/AKR20260710156651002",
+      "pubDate": "Fri, 10 Jul 2026 18:26:01 +0900"
+    },
+    {
+      "title": "[1보] 중앙일보 워크아웃 개시…채권자 75% 이상 동의",
+      "link": "https://www.yna.co.kr/view/AKR20260710156600002",
+      "pubDate": "Fri, 10 Jul 2026 18:22:40 +0900"
+    },
+    {
+      "title": "오세훈 \"로컬브랜드 상권, 골목경제 위한 비밀병기로\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260710057451004",
+      "pubDate": "Fri, 10 Jul 2026 18:16:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260710143200011",
+      "pubDate": "Fri, 10 Jul 2026 18:00:00 +0900"
+    },
+    {
+      "title": "농협상호금융, AI 로봇으로 농촌 고령층 금융 접근성 높인다",
+      "link": "https://www.yna.co.kr/view/AKR20260710152400030",
+      "pubDate": "Fri, 10 Jul 2026 17:54:21 +0900"
+    },
     {
       "title": "[게시판] 서민금융진흥원장, 공군 제1전투비행단 장병에 금융특강",
       "link": "https://www.yna.co.kr/view/AKR20260710143500002",
@@ -97,61 +152,6 @@
       "title": "[특징주] SK하이닉스. ADR 상장 앞두고 약세마감…삼전은 2.5%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260710035651008",
       "pubDate": "Fri, 10 Jul 2026 15:49:32 +0900"
-    },
-    {
-      "title": "[특징주] 신테카바이오, 대규모 공급계약 체결에 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260710038551008",
-      "pubDate": "Fri, 10 Jul 2026 15:40:41 +0900"
-    },
-    {
-      "title": "[특징주] 세나테크놀로지, 2분기 영업익 127%↑…21% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260710037451008",
-      "pubDate": "Fri, 10 Jul 2026 15:39:13 +0900"
-    },
-    {
-      "title": "코스피 2.5% 상승해 7,400대…코스닥 5.4% 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260710118600008",
-      "pubDate": "Fri, 10 Jul 2026 15:38:20 +0900"
-    },
-    {
-      "title": "대전시, 머크사 생산센터 준공 앞두고 지역인재 채용 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260710117200063",
-      "pubDate": "Fri, 10 Jul 2026 15:36:17 +0900"
-    },
-    {
-      "title": "[속보] 코스피 2.5% 상승해 7,400대…코스닥 5.4% 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260710117100008",
-      "pubDate": "Fri, 10 Jul 2026 15:33:57 +0900"
-    },
-    {
-      "title": "중동전쟁으로 中企피해 997건…\"물류비 폭등·대금 회수 지연\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710114300030",
-      "pubDate": "Fri, 10 Jul 2026 15:33:22 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.7원 내린 1,501.4원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260710116000002",
-      "pubDate": "Fri, 10 Jul 2026 15:32:20 +0900"
-    },
-    {
-      "title": "국토장관 \"좋은 집 더 빨리\"…모듈러 주택 공급 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260710105900003",
-      "pubDate": "Fri, 10 Jul 2026 15:31:57 +0900"
-    },
-    {
-      "title": "울주군, 떡류 제조가공업 영업자에 '떡 명장 신기술' 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260710108800057",
-      "pubDate": "Fri, 10 Jul 2026 15:29:30 +0900"
-    },
-    {
-      "title": "강원 고성군·육군 3군단, 접경지역 발전·안보 상생협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260710112000062",
-      "pubDate": "Fri, 10 Jul 2026 15:16:01 +0900"
-    },
-    {
-      "title": "경남 단감 중국시장 첫 수출 추진…경남농협, 올해 40t 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260710110300052",
-      "pubDate": "Fri, 10 Jul 2026 15:14:30 +0900"
     }
   ]
 }
