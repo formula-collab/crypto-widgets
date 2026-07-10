@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783683944,
+  "updated_at_unix": 1783691581,
   "items": [
+    {
+      "title": "SK하이닉스, 美나스닥 입성…'AI 파트너' 글로벌 영토 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260710167800072",
+      "pubDate": "Fri, 10 Jul 2026 22:30:00 +0900"
+    },
+    {
+      "title": "농협, 지역농협 합병 지원 확대…4개 조합 합치면 1천500억",
+      "link": "https://www.yna.co.kr/view/AKR20260710165400030",
+      "pubDate": "Fri, 10 Jul 2026 21:13:14 +0900"
+    },
     {
       "title": "박지원 \"출입국 목포출장소→사무소 승격…외국인 업무 개선\"",
       "link": "https://www.yna.co.kr/view/AKR20260710163200054",
@@ -142,16 +152,6 @@
       "title": "[인사] 한국수출입은행",
       "link": "https://www.yna.co.kr/view/AKR20260710122000002",
       "pubDate": "Fri, 10 Jul 2026 15:58:32 +0900"
-    },
-    {
-      "title": "외국환시세(7월10일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260710118100002",
-      "pubDate": "Fri, 10 Jul 2026 15:58:00 +0900"
-    },
-    {
-      "title": "[특징주] SK하이닉스. ADR 상장 앞두고 약세마감…삼전은 2.5%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260710035651008",
-      "pubDate": "Fri, 10 Jul 2026 15:49:32 +0900"
     }
   ]
 }
