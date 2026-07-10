@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783717149,
+  "updated_at_unix": 1783720895,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 청약 단지 3곳 그쳐…견본주택은 11곳 개관",
+      "link": "https://www.yna.co.kr/view/AKR20260710134000003",
+      "pubDate": "Sat, 11 Jul 2026 06:00:01 +0900"
+    },
     {
       "title": "농협, 지역농협 합병 지원 확대…4개 조합 합치면 1천500억",
       "link": "https://www.yna.co.kr/view/AKR20260710165400030",
@@ -147,11 +152,6 @@
       "title": "[인사] 한국수출입은행",
       "link": "https://www.yna.co.kr/view/AKR20260710122000002",
       "pubDate": "Fri, 10 Jul 2026 15:58:32 +0900"
-    },
-    {
-      "title": "외국환시세(7월10일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260710118100002",
-      "pubDate": "Fri, 10 Jul 2026 15:58:00 +0900"
     }
   ]
 }
