@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783720895,
+  "updated_at_unix": 1783725933,
   "items": [
+    {
+      "title": "[르포] 백화점 아래 반도체 요람…카이스트 사이언스 허브 4주년",
+      "link": "https://www.yna.co.kr/view/AKR20260710104500061",
+      "pubDate": "Sat, 11 Jul 2026 08:01:01 +0900"
+    },
+    {
+      "title": "[머니플로우] 개미들 '실탄' 떨어졌나…투자자예탁금 100조원도 '위태'",
+      "link": "https://www.yna.co.kr/view/AKR20260710123900008",
+      "pubDate": "Sat, 11 Jul 2026 08:00:00 +0900"
+    },
+    {
+      "title": "한국예탁결제원 증권박물관 인기…누적 관람객 5만명",
+      "link": "https://www.yna.co.kr/view/AKR20260710115700051",
+      "pubDate": "Sat, 11 Jul 2026 07:50:00 +0900"
+    },
+    {
+      "title": "주유소 기름값 8주 연속 하락…전국 휘발윳값 1천893원",
+      "link": "https://www.yna.co.kr/view/AKR20260710121500003",
+      "pubDate": "Sat, 11 Jul 2026 07:01:00 +0900"
+    },
+    {
+      "title": "부천시 마을버스 요금 200원 인상…일반 1천650원",
+      "link": "https://www.yna.co.kr/view/AKR20260710034300065",
+      "pubDate": "Sat, 11 Jul 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오리온 '미쯔 황치즈'·해태-가루비 '연어초밥맛' 감자칩",
+      "link": "https://www.yna.co.kr/view/AKR20260710113600030",
+      "pubDate": "Sat, 11 Jul 2026 07:00:01 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 청약 단지 3곳 그쳐…견본주택은 11곳 개관",
       "link": "https://www.yna.co.kr/view/AKR20260710134000003",
@@ -122,36 +152,6 @@
       "title": "부산항만공사, 베트남 하이퐁항에 물류 거점 확보",
       "link": "https://www.yna.co.kr/view/AKR20260710134500051",
       "pubDate": "Fri, 10 Jul 2026 16:32:47 +0900"
-    },
-    {
-      "title": "코스피 2.5% 상승해 7,400대…삼전 2%대↑·하이닉스 약보합(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260710118651008",
-      "pubDate": "Fri, 10 Jul 2026 16:14:31 +0900"
-    },
-    {
-      "title": "하이닉스 ADR 상장 기대·달러 약세에 환율 장중 1,500원 하회",
-      "link": "https://www.yna.co.kr/view/AKR20260710120700002",
-      "pubDate": "Fri, 10 Jul 2026 16:11:51 +0900"
-    },
-    {
-      "title": "정부 \"홈플러스 6월 임금 333억원 체불…대지급금 신속 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710126400002",
-      "pubDate": "Fri, 10 Jul 2026 16:07:36 +0900"
-    },
-    {
-      "title": "[프로필] 임기근 국무조정실장…예산·재정·정책조정 두루 거친 경제관료",
-      "link": "https://www.yna.co.kr/view/AKR20260710118300002",
-      "pubDate": "Fri, 10 Jul 2026 16:02:44 +0900"
-    },
-    {
-      "title": "[동정] 황종우 해수부 장관, 새만금 신항 개발사업 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260710124400051",
-      "pubDate": "Fri, 10 Jul 2026 16:01:43 +0900"
-    },
-    {
-      "title": "[인사] 한국수출입은행",
-      "link": "https://www.yna.co.kr/view/AKR20260710122000002",
-      "pubDate": "Fri, 10 Jul 2026 15:58:32 +0900"
     }
   ]
 }
