@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783757814,
+  "updated_at_unix": 1783763635,
   "items": [
+    {
+      "title": "[부고] 박경희(삼성증권 부사장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260711043500008",
+      "pubDate": "Sat, 11 Jul 2026 17:32:51 +0900"
+    },
     {
       "title": "[부고] 배준석(은행연합회 감사)씨 장모상",
       "link": "https://www.yna.co.kr/view/AKR20260711038800002",
@@ -147,11 +152,6 @@
       "title": "[인사] 식품의약품안전처",
       "link": "https://www.yna.co.kr/view/AKR20260710137700017",
       "pubDate": "Fri, 10 Jul 2026 17:11:25 +0900"
-    },
-    {
-      "title": "환율·일본국채 금리 하락에 국고채 금리↓…3년물 연 3.768%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260710136951008",
-      "pubDate": "Fri, 10 Jul 2026 17:03:53 +0900"
     }
   ]
 }
