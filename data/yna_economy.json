@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783749909,
+  "updated_at_unix": 1783757814,
   "items": [
+    {
+      "title": "[부고] 배준석(은행연합회 감사)씨 장모상",
+      "link": "https://www.yna.co.kr/view/AKR20260711038800002",
+      "pubDate": "Sat, 11 Jul 2026 16:22:30 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260711024100011",
@@ -147,11 +152,6 @@
       "title": "환율·일본국채 금리 하락에 국고채 금리↓…3년물 연 3.768%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260710136951008",
       "pubDate": "Fri, 10 Jul 2026 17:03:53 +0900"
-    },
-    {
-      "title": "상봉먹자골목 찾은 오세훈…\"야장·야간경제 서울 성장동력으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710057400004",
-      "pubDate": "Fri, 10 Jul 2026 17:00:01 +0900"
     }
   ]
 }
