@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783725933,
+  "updated_at_unix": 1783728881,
   "items": [
+    {
+      "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260711012900002",
+      "pubDate": "Sat, 11 Jul 2026 09:09:40 +0900"
+    },
+    {
+      "title": "통상당국 '정상방문 취소 카드' 배수진…EU 철강 쿼터 방어",
+      "link": "https://www.yna.co.kr/view/AKR20260710168200003",
+      "pubDate": "Sat, 11 Jul 2026 09:01:00 +0900"
+    },
+    {
+      "title": "[IPO챗] '상장 삼수생' 레메디, 두 차례 고배 딛고 코스닥 입성",
+      "link": "https://www.yna.co.kr/view/AKR20260710102900008",
+      "pubDate": "Sat, 11 Jul 2026 09:00:02 +0900"
+    },
     {
       "title": "[르포] 백화점 아래 반도체 요람…카이스트 사이언스 허브 4주년",
       "link": "https://www.yna.co.kr/view/AKR20260710104500061",
@@ -137,21 +152,6 @@
       "title": "상반기 대구 제조업 생산·수출↑…건설경기는 큰 폭 '위축'",
       "link": "https://www.yna.co.kr/view/AKR20260710134900053",
       "pubDate": "Fri, 10 Jul 2026 16:46:08 +0900"
-    },
-    {
-      "title": "'미국 AI 광통신주 투자' 등 ETF 6종 14일 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260710137300008",
-      "pubDate": "Fri, 10 Jul 2026 16:44:22 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.768%",
-      "link": "https://www.yna.co.kr/view/AKR20260710136900008",
-      "pubDate": "Fri, 10 Jul 2026 16:42:22 +0900"
-    },
-    {
-      "title": "부산항만공사, 베트남 하이퐁항에 물류 거점 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260710134500051",
-      "pubDate": "Fri, 10 Jul 2026 16:32:47 +0900"
     }
   ]
 }
