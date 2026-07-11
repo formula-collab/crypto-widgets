@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783805859,
+  "updated_at_unix": 1783809310,
   "items": [
+    {
+      "title": "유언장 적힌 땅 생전 팔았다면 유언도 무효?…대법 \"단정 못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260711031900004",
+      "pubDate": "Sun, 12 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "보온병 속 수천만원 밀반출하려다 덜미…인천공항 단속 60%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260710064500065",
+      "pubDate": "Sun, 12 Jul 2026 07:27:00 +0900"
+    },
+    {
+      "title": "인천 송도 103층 타워 건립계획 수정할까…\"비행 안전성 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260709078700065",
+      "pubDate": "Sun, 12 Jul 2026 07:17:01 +0900"
+    },
+    {
+      "title": "[마켓스토리] 증권가, '홈플 사태'에 \"경쟁사 수혜\" 전망 솔솔",
+      "link": "https://www.yna.co.kr/view/AKR20260711035000008",
+      "pubDate": "Sun, 12 Jul 2026 07:01:01 +0900"
+    },
+    {
+      "title": "재건축 열풍에 가려졌던 분당 리모델링 내년 첫 입주",
+      "link": "https://www.yna.co.kr/view/AKR20260710154900061",
+      "pubDate": "Sun, 12 Jul 2026 07:00:05 +0900"
+    },
+    {
+      "title": "여름철 엘니뇨 공습 관측에…농산물 ETN '들썩'",
+      "link": "https://www.yna.co.kr/view/AKR20260710171500008",
+      "pubDate": "Sun, 12 Jul 2026 06:35:00 +0900"
+    },
     {
       "title": "'보름만에 집 샀다'…온라인 기반 프롭테크로 집매매 대폭 단축",
       "link": "https://www.yna.co.kr/view/AKR20260710144000017",
@@ -122,36 +152,6 @@
       "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
       "link": "https://www.yna.co.kr/view/AKR20260711021700003",
       "pubDate": "Sat, 11 Jul 2026 10:06:36 +0900"
-    },
-    {
-      "title": "'뉴스 보고 모의투자' 울산 동구, 초등생 금융교육 진행",
-      "link": "https://www.yna.co.kr/view/AKR20260710122600057",
-      "pubDate": "Sat, 11 Jul 2026 10:05:01 +0900"
-    },
-    {
-      "title": "현대건설, 디에이치 방배 공개…주거서비스 'H 컬처클럽' 첫선",
-      "link": "https://www.yna.co.kr/view/AKR20260710139400003",
-      "pubDate": "Sat, 11 Jul 2026 10:00:03 +0900"
-    },
-    {
-      "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260711012900002",
-      "pubDate": "Sat, 11 Jul 2026 09:09:40 +0900"
-    },
-    {
-      "title": "통상당국 '정상방문 취소 카드' 배수진…EU 철강 쿼터 방어",
-      "link": "https://www.yna.co.kr/view/AKR20260710168200003",
-      "pubDate": "Sat, 11 Jul 2026 09:01:00 +0900"
-    },
-    {
-      "title": "[IPO챗] '상장 삼수생' 레메디, 두 차례 고배 딛고 코스닥 입성",
-      "link": "https://www.yna.co.kr/view/AKR20260710102900008",
-      "pubDate": "Sat, 11 Jul 2026 09:00:02 +0900"
-    },
-    {
-      "title": "[르포] 백화점 아래 반도체 요람…카이스트 사이언스 허브 4주년",
-      "link": "https://www.yna.co.kr/view/AKR20260710104500061",
-      "pubDate": "Sat, 11 Jul 2026 08:01:01 +0900"
     }
   ]
 }
