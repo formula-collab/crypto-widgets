@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783728881,
+  "updated_at_unix": 1783741739,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260711024100011",
+      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0900"
+    },
+    {
+      "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
+      "link": "https://www.yna.co.kr/view/AKR20260711021700003",
+      "pubDate": "Sat, 11 Jul 2026 10:06:36 +0900"
+    },
+    {
+      "title": "'뉴스 보고 모의투자' 울산 동구, 초등생 금융교육 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260710122600057",
+      "pubDate": "Sat, 11 Jul 2026 10:05:01 +0900"
+    },
+    {
+      "title": "현대건설, 디에이치 방배 공개…주거서비스 'H 컬처클럽' 첫선",
+      "link": "https://www.yna.co.kr/view/AKR20260710139400003",
+      "pubDate": "Sat, 11 Jul 2026 10:00:03 +0900"
+    },
     {
       "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개",
       "link": "https://www.yna.co.kr/view/AKR20260711012900002",
@@ -132,26 +152,6 @@
       "title": "상봉먹자골목 찾은 오세훈…\"야장·야간경제 서울 성장동력으로\"",
       "link": "https://www.yna.co.kr/view/AKR20260710057400004",
       "pubDate": "Fri, 10 Jul 2026 17:00:01 +0900"
-    },
-    {
-      "title": "원로들 \"AI시대 일자리 늘어날수도…유망직업 찾아가야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710129000004",
-      "pubDate": "Fri, 10 Jul 2026 17:00:00 +0900"
-    },
-    {
-      "title": "ADR 상장 앞둔 하이닉스 0.27%↓…외국인이 가장 많이 던졌다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260710035652008",
-      "pubDate": "Fri, 10 Jul 2026 16:52:19 +0900"
-    },
-    {
-      "title": "플레이그램, 10억원 유상증자…에스에이치네트워크에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260710138600008",
-      "pubDate": "Fri, 10 Jul 2026 16:46:17 +0900"
-    },
-    {
-      "title": "상반기 대구 제조업 생산·수출↑…건설경기는 큰 폭 '위축'",
-      "link": "https://www.yna.co.kr/view/AKR20260710134900053",
-      "pubDate": "Fri, 10 Jul 2026 16:46:08 +0900"
     }
   ]
 }
