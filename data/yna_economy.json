@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783809310,
+  "updated_at_unix": 1783813272,
   "items": [
+    {
+      "title": "[인사] 하나은행",
+      "link": "https://www.yna.co.kr/view/AKR20260710164400002",
+      "pubDate": "Sun, 12 Jul 2026 08:30:02 +0900"
+    },
+    {
+      "title": "양종희 KB금융 회장 \"머니무브는 기회…일하는 방식 재설계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260711049300002",
+      "pubDate": "Sun, 12 Jul 2026 08:30:01 +0900"
+    },
+    {
+      "title": "K헤어제품도 인기…올해 수출액 역대 최대 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260710026800017",
+      "pubDate": "Sun, 12 Jul 2026 08:00:00 +0900"
+    },
+    {
+      "title": "JTBC 회생 사태가 던진 질문…방송 외주제 어디로",
+      "link": "https://www.yna.co.kr/view/AKR20260709100100017",
+      "pubDate": "Sun, 12 Jul 2026 07:45:00 +0900"
+    },
     {
       "title": "유언장 적힌 땅 생전 팔았다면 유언도 무효?…대법 \"단정 못해\"",
       "link": "https://www.yna.co.kr/view/AKR20260711031900004",
@@ -132,26 +152,6 @@
       "title": "초고가주택 보유세 올리고 비거주 '똘똘한 한채' 장특공제 축소",
       "link": "https://www.yna.co.kr/view/AKR20260711048000002",
       "pubDate": "Sun, 12 Jul 2026 05:45:00 +0900"
-    },
-    {
-      "title": "[부고] 박경희(삼성증권 부사장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260711043500008",
-      "pubDate": "Sat, 11 Jul 2026 17:32:51 +0900"
-    },
-    {
-      "title": "[부고] 배준석(은행연합회 감사)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260711038800002",
-      "pubDate": "Sat, 11 Jul 2026 16:22:30 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260711024100011",
-      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0900"
-    },
-    {
-      "title": "나스닥 데뷔하며 미국 반도체 추가투자 언급한 SK하이닉스",
-      "link": "https://www.yna.co.kr/view/AKR20260711021700003",
-      "pubDate": "Sat, 11 Jul 2026 10:06:36 +0900"
     }
   ]
 }
