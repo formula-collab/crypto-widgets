@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783841012,
+  "updated_at_unix": 1783848161,
   "items": [
+    {
+      "title": "[부고] 김검수(새마을금고중앙회 사회금융본부장)씨 빙모상",
+      "link": "https://www.yna.co.kr/view/AKR20260712043500530",
+      "pubDate": "Sun, 12 Jul 2026 17:23:48 +0900"
+    },
+    {
+      "title": "\"홍콩, 스위스 제치고 세계 최대 역외 자산관리 시장 등극\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712041500073",
+      "pubDate": "Sun, 12 Jul 2026 17:06:44 +0900"
+    },
+    {
+      "title": "환시에 '통화스와프급' 265억달러 퍼붓는 구원투수 SK하이닉스(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260710148451003",
+      "pubDate": "Sun, 12 Jul 2026 17:05:55 +0900"
+    },
+    {
+      "title": "SNS 미담주·3대 메가 수혜주…급락장서 튀어 오른 테마주들(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260711026451008",
+      "pubDate": "Sun, 12 Jul 2026 16:29:55 +0900"
+    },
     {
       "title": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\"",
       "link": "https://www.yna.co.kr/view/AKR20260712033400001",
@@ -132,26 +152,6 @@
       "title": "평창군, 2027년 외국인 계절근로자 고용 신청 접수",
       "link": "https://www.yna.co.kr/view/AKR20260710064400062",
       "pubDate": "Sun, 12 Jul 2026 09:05:01 +0900"
-    },
-    {
-      "title": "서울 아파트 전월세 품귀에 빌라 경매시장도 꿈틀",
-      "link": "https://www.yna.co.kr/view/AKR20260712011200003",
-      "pubDate": "Sun, 12 Jul 2026 09:00:40 +0900"
-    },
-    {
-      "title": "우리은행, 강북경찰서와 보이스피싱 예방 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260710172000002",
-      "pubDate": "Sun, 12 Jul 2026 09:00:02 +0900"
-    },
-    {
-      "title": "KB국민은행, 취약계층에 특수채권 원금 최대 90% 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260711013700002",
-      "pubDate": "Sun, 12 Jul 2026 09:00:02 +0900"
-    },
-    {
-      "title": "신한금융 이사회 의장, 영국서 투자자들과 소통",
-      "link": "https://www.yna.co.kr/view/AKR20260711015500002",
-      "pubDate": "Sun, 12 Jul 2026 09:00:01 +0900"
     }
   ]
 }
