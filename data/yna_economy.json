@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783892253,
+  "updated_at_unix": 1783895765,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260713008900011",
+      "pubDate": "Mon, 13 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "양천구, 목동 재건축 대비 '100년 하수도 체계' 구축한다",
+      "link": "https://www.yna.co.kr/view/AKR20260713010600004",
+      "pubDate": "Mon, 13 Jul 2026 07:29:22 +0900"
+    },
+    {
+      "title": "김현기 강남구청장 \"매일 아침 재건축부터 챙긴다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713009000004",
+      "pubDate": "Mon, 13 Jul 2026 07:06:15 +0900"
+    },
+    {
+      "title": "\"롬, 리니지W 저작권 침해 아냐\"…엔씨소프트 소송서 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260711042600004",
+      "pubDate": "Mon, 13 Jul 2026 07:00:02 +0900"
+    },
     {
       "title": "유업계, 우유 대신 외식 키운다…커피전문점·레스토랑으로 확장",
       "link": "https://www.yna.co.kr/view/AKR20260712022600030",
@@ -132,26 +152,6 @@
       "title": "한농대-농협, 청년 농업인재 양성 위한 농산업 밸류체인 교육",
       "link": "https://www.yna.co.kr/view/AKR20260711029200030",
       "pubDate": "Sun, 12 Jul 2026 11:00:04 +0900"
-    },
-    {
-      "title": "현대연 \"하반기 美 적정금리 4%대로 상승…긴축 충격 대비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710166300002",
-      "pubDate": "Sun, 12 Jul 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, 농가 2만700호에 농업수입안정보험금 1천203억원 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260711048600030",
-      "pubDate": "Sun, 12 Jul 2026 11:00:02 +0900"
-    },
-    {
-      "title": "산업부·코트라, 고환율·수출통제 애로기업에 50억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260712013500003",
-      "pubDate": "Sun, 12 Jul 2026 11:00:01 +0900"
-    },
-    {
-      "title": "코트라, 일본 닛케이와 한일 AI 기업 교류 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260712017500003",
-      "pubDate": "Sun, 12 Jul 2026 11:00:01 +0900"
     }
   ]
 }
