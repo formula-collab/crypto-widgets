@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783813272,
+  "updated_at_unix": 1783819618,
   "items": [
+    {
+      "title": "대구시, 7월 정기분 재산세 부과… 31일까지 납부하세요",
+      "link": "https://www.yna.co.kr/view/AKR20260712017700053",
+      "pubDate": "Sun, 12 Jul 2026 10:10:56 +0900"
+    },
+    {
+      "title": "오세훈 \"부동산 국민대토론회 환영…핵심은 공급·전월세 안정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712017200004",
+      "pubDate": "Sun, 12 Jul 2026 10:09:16 +0900"
+    },
+    {
+      "title": "광주 군공항 248만평 개발구상 '리셋'…반도체 맞춰 전면 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20260710112900054",
+      "pubDate": "Sun, 12 Jul 2026 10:01:03 +0900"
+    },
+    {
+      "title": "임광현 \"세수는 쏠림형 포트폴리오…미래대응기금 꼭 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712013900002",
+      "pubDate": "Sun, 12 Jul 2026 09:36:33 +0900"
+    },
+    {
+      "title": "평창군, 2027년 외국인 계절근로자 고용 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260710064400062",
+      "pubDate": "Sun, 12 Jul 2026 09:05:01 +0900"
+    },
+    {
+      "title": "서울 아파트 전월세 품귀에 빌라 경매시장도 꿈틀",
+      "link": "https://www.yna.co.kr/view/AKR20260712011200003",
+      "pubDate": "Sun, 12 Jul 2026 09:00:40 +0900"
+    },
+    {
+      "title": "우리은행, 강북경찰서와 보이스피싱 예방 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260710172000002",
+      "pubDate": "Sun, 12 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "KB국민은행, 취약계층에 특수채권 원금 최대 90% 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260711013700002",
+      "pubDate": "Sun, 12 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "신한금융 이사회 의장, 영국서 투자자들과 소통",
+      "link": "https://www.yna.co.kr/view/AKR20260711015500002",
+      "pubDate": "Sun, 12 Jul 2026 09:00:01 +0900"
+    },
     {
       "title": "[인사] 하나은행",
       "link": "https://www.yna.co.kr/view/AKR20260710164400002",
@@ -107,51 +152,6 @@
       "title": "티메프·레고랜드 후유증 아직인데…2금융권 홈플러스 사태 주시",
       "link": "https://www.yna.co.kr/view/AKR20260711047200002",
       "pubDate": "Sun, 12 Jul 2026 05:53:01 +0900"
-    },
-    {
-      "title": "홈플 전단채 제재·분쟁조정 속도낸다…리스크 연착륙에도 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260711049700002",
-      "pubDate": "Sun, 12 Jul 2026 05:53:01 +0900"
-    },
-    {
-      "title": "가계대출 '셧다운' 수순…5대 은행 3곳 연간 목표 초과",
-      "link": "https://www.yna.co.kr/view/AKR20260711044200002",
-      "pubDate": "Sun, 12 Jul 2026 05:51:00 +0900"
-    },
-    {
-      "title": "금융위, 청년 주거지원책 고심…매매보다 전월세 초점 예상",
-      "link": "https://www.yna.co.kr/view/AKR20260711048800002",
-      "pubDate": "Sun, 12 Jul 2026 05:49:00 +0900"
-    },
-    {
-      "title": "작년 종부세 강남3구에서 3분의 1 내…더 센 보유세 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260711047300002",
-      "pubDate": "Sun, 12 Jul 2026 05:47:03 +0900"
-    },
-    {
-      "title": "양도세 장특공제 비거주 축소·폐지 갈림길…매물 잠김 우려도",
-      "link": "https://www.yna.co.kr/view/AKR20260711033500002",
-      "pubDate": "Sun, 12 Jul 2026 05:47:02 +0900"
-    },
-    {
-      "title": "'30억 1채'가 '10억 3채'보다 적은 종부세…손질 임박",
-      "link": "https://www.yna.co.kr/view/AKR20260711046700002",
-      "pubDate": "Sun, 12 Jul 2026 05:47:01 +0900"
-    },
-    {
-      "title": "외환시장에 '통화스와프급' 달러 폭탄 퍼붓는 SK하이닉스",
-      "link": "https://www.yna.co.kr/view/AKR20260710148400003",
-      "pubDate": "Sun, 12 Jul 2026 05:45:01 +0900"
-    },
-    {
-      "title": "통화긴축 시작된다…전문가들 \"7월 이어 8월이나 10월 인상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260710147700002",
-      "pubDate": "Sun, 12 Jul 2026 05:45:01 +0900"
-    },
-    {
-      "title": "초고가주택 보유세 올리고 비거주 '똘똘한 한채' 장특공제 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260711048000002",
-      "pubDate": "Sun, 12 Jul 2026 05:45:00 +0900"
     }
   ]
 }
