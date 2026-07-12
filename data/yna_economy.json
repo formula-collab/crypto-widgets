@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783831660,
+  "updated_at_unix": 1783841012,
   "items": [
+    {
+      "title": "김용범 \"韓경제, 단순 경기회복 아닌 장기추세 변화 초기 국면\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712033400001",
+      "pubDate": "Sun, 12 Jul 2026 15:24:42 +0900"
+    },
+    {
+      "title": "전재수 시장, 김영훈 노동부장관에 극지 해기사 양성과정 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260712032600051",
+      "pubDate": "Sun, 12 Jul 2026 15:05:27 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260712029800011",
+      "pubDate": "Sun, 12 Jul 2026 15:00:19 +0900"
+    },
+    {
+      "title": "재경부 차관보 \"하반기 환율 수급 변화 예상…韓펀더멘털 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712029200002",
+      "pubDate": "Sun, 12 Jul 2026 14:32:31 +0900"
+    },
     {
       "title": "올해 상반기 육아휴직 10만명 돌파…아빠 비중 38.8%",
       "link": "https://www.yna.co.kr/view/AKR20260710144300530",
@@ -132,26 +152,6 @@
       "title": "신한금융 이사회 의장, 영국서 투자자들과 소통",
       "link": "https://www.yna.co.kr/view/AKR20260711015500002",
       "pubDate": "Sun, 12 Jul 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[인사] 하나은행",
-      "link": "https://www.yna.co.kr/view/AKR20260710164400002",
-      "pubDate": "Sun, 12 Jul 2026 08:30:02 +0900"
-    },
-    {
-      "title": "양종희 KB금융 회장 \"머니무브는 기회…일하는 방식 재설계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260711049300002",
-      "pubDate": "Sun, 12 Jul 2026 08:30:01 +0900"
-    },
-    {
-      "title": "K헤어제품도 인기…올해 수출액 역대 최대 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260710026800017",
-      "pubDate": "Sun, 12 Jul 2026 08:00:00 +0900"
-    },
-    {
-      "title": "JTBC 회생 사태가 던진 질문…방송 외주제 어디로",
-      "link": "https://www.yna.co.kr/view/AKR20260709100100017",
-      "pubDate": "Sun, 12 Jul 2026 07:45:00 +0900"
     }
   ]
 }
