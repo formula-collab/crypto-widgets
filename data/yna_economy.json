@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783848161,
+  "updated_at_unix": 1783853359,
   "items": [
+    {
+      "title": "신한투자, 선취 판매수수료 없는 '라이트 펀드' 등 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260712046500008",
+      "pubDate": "Sun, 12 Jul 2026 18:58:50 +0900"
+    },
     {
       "title": "[부고] 김검수(새마을금고중앙회 사회금융본부장)씨 빙모상",
       "link": "https://www.yna.co.kr/view/AKR20260712043500530",
@@ -147,11 +152,6 @@
       "title": "임광현 \"세수는 쏠림형 포트폴리오…미래대응기금 꼭 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260712013900002",
       "pubDate": "Sun, 12 Jul 2026 09:36:33 +0900"
-    },
-    {
-      "title": "평창군, 2027년 외국인 계절근로자 고용 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260710064400062",
-      "pubDate": "Sun, 12 Jul 2026 09:05:01 +0900"
     }
   ]
 }
