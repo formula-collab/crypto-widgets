@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783819618,
+  "updated_at_unix": 1783831660,
   "items": [
+    {
+      "title": "올해 상반기 육아휴직 10만명 돌파…아빠 비중 38.8%",
+      "link": "https://www.yna.co.kr/view/AKR20260710144300530",
+      "pubDate": "Sun, 12 Jul 2026 12:00:13 +0900"
+    },
+    {
+      "title": "중기부, 17개 시도서 '아이디어 컨설팅 데이'…맞춤형 상담 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260711034100030",
+      "pubDate": "Sun, 12 Jul 2026 12:00:08 +0900"
+    },
+    {
+      "title": "후기인 척 뒷광고 한 성형외과 3곳, 공정위 제재",
+      "link": "https://www.yna.co.kr/view/AKR20260710132400002",
+      "pubDate": "Sun, 12 Jul 2026 12:00:07 +0900"
+    },
+    {
+      "title": "국세청 '물가불안 조장 탈세' 114곳 적발…3천195억 추징",
+      "link": "https://www.yna.co.kr/view/AKR20260711048100002",
+      "pubDate": "Sun, 12 Jul 2026 12:00:06 +0900"
+    },
+    {
+      "title": "\"항공편 지연돼도 보험금 못 받을 수도…약관 확인해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260711042500002",
+      "pubDate": "Sun, 12 Jul 2026 12:00:06 +0900"
+    },
+    {
+      "title": "5대지주 포용금융 상반기 11.3조 공급…연체채권 2.3조 채무조정",
+      "link": "https://www.yna.co.kr/view/AKR20260711050600002",
+      "pubDate": "Sun, 12 Jul 2026 12:00:05 +0900"
+    },
+    {
+      "title": "\"올해 기업 여름휴가 평균 3.8일…8월 초에 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712020500003",
+      "pubDate": "Sun, 12 Jul 2026 12:00:01 +0900"
+    },
+    {
+      "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
+      "link": "https://www.yna.co.kr/view/AKR20260712023200003",
+      "pubDate": "Sun, 12 Jul 2026 11:42:34 +0900"
+    },
+    {
+      "title": "농식품부, 하나로마트·생협서 국산밀·콩·가루쌀 가공품 할인",
+      "link": "https://www.yna.co.kr/view/AKR20260711029000030",
+      "pubDate": "Sun, 12 Jul 2026 11:00:05 +0900"
+    },
+    {
+      "title": "한농대-농협, 청년 농업인재 양성 위한 농산업 밸류체인 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260711029200030",
+      "pubDate": "Sun, 12 Jul 2026 11:00:04 +0900"
+    },
+    {
+      "title": "현대연 \"하반기 美 적정금리 4%대로 상승…긴축 충격 대비해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260710166300002",
+      "pubDate": "Sun, 12 Jul 2026 11:00:03 +0900"
+    },
+    {
+      "title": "농식품부, 농가 2만700호에 농업수입안정보험금 1천203억원 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260711048600030",
+      "pubDate": "Sun, 12 Jul 2026 11:00:02 +0900"
+    },
+    {
+      "title": "산업부·코트라, 고환율·수출통제 애로기업에 50억원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260712013500003",
+      "pubDate": "Sun, 12 Jul 2026 11:00:01 +0900"
+    },
+    {
+      "title": "코트라, 일본 닛케이와 한일 AI 기업 교류 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260712017500003",
+      "pubDate": "Sun, 12 Jul 2026 11:00:01 +0900"
+    },
+    {
+      "title": "스마트건설 이끌 실증기술 10개·강소기업 12개사 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260712018700003",
+      "pubDate": "Sun, 12 Jul 2026 11:00:00 +0900"
+    },
+    {
+      "title": "국힘 \"주담대 한도 느닷없이 절반으로…李정권이 집값 올려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260712020100001",
+      "pubDate": "Sun, 12 Jul 2026 10:52:23 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260712018300011",
+      "pubDate": "Sun, 12 Jul 2026 10:30:01 +0900"
+    },
     {
       "title": "대구시, 7월 정기분 재산세 부과… 31일까지 납부하세요",
       "link": "https://www.yna.co.kr/view/AKR20260712017700053",
@@ -67,91 +152,6 @@
       "title": "JTBC 회생 사태가 던진 질문…방송 외주제 어디로",
       "link": "https://www.yna.co.kr/view/AKR20260709100100017",
       "pubDate": "Sun, 12 Jul 2026 07:45:00 +0900"
-    },
-    {
-      "title": "유언장 적힌 땅 생전 팔았다면 유언도 무효?…대법 \"단정 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260711031900004",
-      "pubDate": "Sun, 12 Jul 2026 07:30:00 +0900"
-    },
-    {
-      "title": "보온병 속 수천만원 밀반출하려다 덜미…인천공항 단속 60%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260710064500065",
-      "pubDate": "Sun, 12 Jul 2026 07:27:00 +0900"
-    },
-    {
-      "title": "인천 송도 103층 타워 건립계획 수정할까…\"비행 안전성 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260709078700065",
-      "pubDate": "Sun, 12 Jul 2026 07:17:01 +0900"
-    },
-    {
-      "title": "[마켓스토리] 증권가, '홈플 사태'에 \"경쟁사 수혜\" 전망 솔솔",
-      "link": "https://www.yna.co.kr/view/AKR20260711035000008",
-      "pubDate": "Sun, 12 Jul 2026 07:01:01 +0900"
-    },
-    {
-      "title": "재건축 열풍에 가려졌던 분당 리모델링 내년 첫 입주",
-      "link": "https://www.yna.co.kr/view/AKR20260710154900061",
-      "pubDate": "Sun, 12 Jul 2026 07:00:05 +0900"
-    },
-    {
-      "title": "여름철 엘니뇨 공습 관측에…농산물 ETN '들썩'",
-      "link": "https://www.yna.co.kr/view/AKR20260710171500008",
-      "pubDate": "Sun, 12 Jul 2026 06:35:00 +0900"
-    },
-    {
-      "title": "'보름만에 집 샀다'…온라인 기반 프롭테크로 집매매 대폭 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260710144000017",
-      "pubDate": "Sun, 12 Jul 2026 06:32:01 +0900"
-    },
-    {
-      "title": "만장일치 인상 유력한 7월 금통위…관건은 '연속 인상' 시그널",
-      "link": "https://www.yna.co.kr/view/AKR20260710151400008",
-      "pubDate": "Sun, 12 Jul 2026 06:30:01 +0900"
-    },
-    {
-      "title": "SNS 미담주·3대 메가 수혜주…급락장서 튀어오른 테마주들",
-      "link": "https://www.yna.co.kr/view/AKR20260711026400008",
-      "pubDate": "Sun, 12 Jul 2026 06:20:00 +0900"
-    },
-    {
-      "title": "스페이스X 상장 한 달…개인투자자, '우주 ETF' 5천억 던졌다",
-      "link": "https://www.yna.co.kr/view/AKR20260711025900008",
-      "pubDate": "Sun, 12 Jul 2026 06:15:00 +0900"
-    },
-    {
-      "title": "'먹어서 피부관리'…K뷰티 업계, 126조원 이너뷰티 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20260711040900030",
-      "pubDate": "Sun, 12 Jul 2026 06:11:12 +0900"
-    },
-    {
-      "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
-      "link": "https://www.yna.co.kr/view/AKR20260711029900008",
-      "pubDate": "Sun, 12 Jul 2026 06:05:02 +0900"
-    },
-    {
-      "title": "배달의 매력에 빠진 외국인관광객…상반기 배민 주문 작년의 4배",
-      "link": "https://www.yna.co.kr/view/AKR20260711037400030",
-      "pubDate": "Sun, 12 Jul 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 하이닉스발 훈풍에 반도체 들썩…韓증시 안정 찾을까",
-      "link": "https://www.yna.co.kr/view/AKR20260710171900008",
-      "pubDate": "Sun, 12 Jul 2026 06:00:07 +0900"
-    },
-    {
-      "title": "증시 활황에 '빚투' 달린 4050…마통 잔액 3분의 2 차지",
-      "link": "https://www.yna.co.kr/view/AKR20260711046900002",
-      "pubDate": "Sun, 12 Jul 2026 05:57:00 +0900"
-    },
-    {
-      "title": "환율 1,500원 깨지며 달러예금 8.8조↑…3년반 만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260710171800002",
-      "pubDate": "Sun, 12 Jul 2026 05:55:01 +0900"
-    },
-    {
-      "title": "티메프·레고랜드 후유증 아직인데…2금융권 홈플러스 사태 주시",
-      "link": "https://www.yna.co.kr/view/AKR20260711047200002",
-      "pubDate": "Sun, 12 Jul 2026 05:53:01 +0900"
     }
   ]
 }
