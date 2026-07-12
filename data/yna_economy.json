@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783889278,
+  "updated_at_unix": 1783892253,
   "items": [
+    {
+      "title": "유업계, 우유 대신 외식 키운다…커피전문점·레스토랑으로 확장",
+      "link": "https://www.yna.co.kr/view/AKR20260712022600030",
+      "pubDate": "Mon, 13 Jul 2026 06:30:01 +0900"
+    },
+    {
+      "title": "서울시, 소규모 정비사업 전자투표·총회 도입시 최대 300만원",
+      "link": "https://www.yna.co.kr/view/AKR20260712025600004",
+      "pubDate": "Mon, 13 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "FIU, '2026 에그몽 그룹 총회' 참석…국내 우수 사례 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260712027200002",
+      "pubDate": "Mon, 13 Jul 2026 06:00:01 +0900"
+    },
+    {
+      "title": "AS·수리까지 덮친 칩플레이션…삼성전자, 서비스 자재비 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260712045900003",
+      "pubDate": "Mon, 13 Jul 2026 05:55:01 +0900"
+    },
+    {
+      "title": "무직 결혼 여성 16년 새 5분의 1로…전문직이 더 많아져",
+      "link": "https://www.yna.co.kr/view/AKR20260710172200002",
+      "pubDate": "Mon, 13 Jul 2026 05:55:01 +0900"
+    },
+    {
+      "title": "카드론 늘었는데 수익은 감소…중금리대출 공급 2배로",
+      "link": "https://www.yna.co.kr/view/AKR20260712030500002",
+      "pubDate": "Mon, 13 Jul 2026 05:53:00 +0900"
+    },
+    {
+      "title": "한은 \"반도체 수요 증가보다 공급 확대 더뎌\"…고점론 일축",
+      "link": "https://www.yna.co.kr/view/AKR20260711038600002",
+      "pubDate": "Mon, 13 Jul 2026 05:51:00 +0900"
+    },
     {
       "title": "신한투자, 선취 판매수수료 없는 '라이트 펀드' 등 출시",
       "link": "https://www.yna.co.kr/view/AKR20260712046500008",
@@ -117,41 +152,6 @@
       "title": "코트라, 일본 닛케이와 한일 AI 기업 교류 행사",
       "link": "https://www.yna.co.kr/view/AKR20260712017500003",
       "pubDate": "Sun, 12 Jul 2026 11:00:01 +0900"
-    },
-    {
-      "title": "스마트건설 이끌 실증기술 10개·강소기업 12개사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260712018700003",
-      "pubDate": "Sun, 12 Jul 2026 11:00:00 +0900"
-    },
-    {
-      "title": "국힘 \"주담대 한도 느닷없이 절반으로…李정권이 집값 올려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260712020100001",
-      "pubDate": "Sun, 12 Jul 2026 10:52:23 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260712018300011",
-      "pubDate": "Sun, 12 Jul 2026 10:30:01 +0900"
-    },
-    {
-      "title": "대구시, 7월 정기분 재산세 부과… 31일까지 납부하세요",
-      "link": "https://www.yna.co.kr/view/AKR20260712017700053",
-      "pubDate": "Sun, 12 Jul 2026 10:10:56 +0900"
-    },
-    {
-      "title": "오세훈 \"부동산 국민대토론회 환영…핵심은 공급·전월세 안정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260712017200004",
-      "pubDate": "Sun, 12 Jul 2026 10:09:16 +0900"
-    },
-    {
-      "title": "광주 군공항 248만평 개발구상 '리셋'…반도체 맞춰 전면 재검토",
-      "link": "https://www.yna.co.kr/view/AKR20260710112900054",
-      "pubDate": "Sun, 12 Jul 2026 10:01:03 +0900"
-    },
-    {
-      "title": "임광현 \"세수는 쏠림형 포트폴리오…미래대응기금 꼭 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260712013900002",
-      "pubDate": "Sun, 12 Jul 2026 09:36:33 +0900"
     }
   ]
 }
