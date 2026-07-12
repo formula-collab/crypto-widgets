@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783895765,
+  "updated_at_unix": 1783899639,
   "items": [
+    {
+      "title": "DS증권 \"SK하이닉스 본주, ADR 상장으로 8∼18% 주가상승 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713020600008",
+      "pubDate": "Mon, 13 Jul 2026 08:31:17 +0900"
+    },
+    {
+      "title": "[마켓뷰] 중동 긴장고조로 국제유가 급등…증시 악재되나",
+      "link": "https://www.yna.co.kr/view/AKR20260713018000008",
+      "pubDate": "Mon, 13 Jul 2026 08:16:46 +0900"
+    },
+    {
+      "title": "'홈플 사태' 여파? MBK, 넥스플렉스 매각 본입찰 연기",
+      "link": "https://www.yna.co.kr/view/AKR20260711001400008",
+      "pubDate": "Mon, 13 Jul 2026 08:00:04 +0900"
+    },
+    {
+      "title": "부산시, 청년고용우수기업 5곳 선정…세금 감면 등 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260713014500051",
+      "pubDate": "Mon, 13 Jul 2026 07:53:56 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260713008900011",
@@ -132,26 +152,6 @@
       "title": "5대지주 포용금융 상반기 11.3조 공급…연체채권 2.3조 채무조정",
       "link": "https://www.yna.co.kr/view/AKR20260711050600002",
       "pubDate": "Sun, 12 Jul 2026 12:00:05 +0900"
-    },
-    {
-      "title": "\"올해 기업 여름휴가 평균 3.8일…8월 초에 집중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260712020500003",
-      "pubDate": "Sun, 12 Jul 2026 12:00:01 +0900"
-    },
-    {
-      "title": "LS일렉트릭, 2년 연속 임단협 무교섭 타결",
-      "link": "https://www.yna.co.kr/view/AKR20260712023200003",
-      "pubDate": "Sun, 12 Jul 2026 11:42:34 +0900"
-    },
-    {
-      "title": "농식품부, 하나로마트·생협서 국산밀·콩·가루쌀 가공품 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260711029000030",
-      "pubDate": "Sun, 12 Jul 2026 11:00:05 +0900"
-    },
-    {
-      "title": "한농대-농협, 청년 농업인재 양성 위한 농산업 밸류체인 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260711029200030",
-      "pubDate": "Sun, 12 Jul 2026 11:00:04 +0900"
     }
   ]
 }
