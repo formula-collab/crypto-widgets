@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783967095,
+  "updated_at_unix": 1783972512,
   "items": [
+    {
+      "title": "국제유가, 美 대이란 재봉쇄에 급등…WTI 10% 가까이 수직상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260714004951072",
+      "pubDate": "Tue, 14 Jul 2026 04:25:50 +0900"
+    },
+    {
+      "title": "국제유가, 美 대이란 재봉쇄에 급등…WTI 10% 가까이 수직상승",
+      "link": "https://www.yna.co.kr/view/AKR20260714004900072",
+      "pubDate": "Tue, 14 Jul 2026 03:42:57 +0900"
+    },
     {
       "title": "\"호남 반도체 교섭의제로\" 삼전노조 주장에 노동부 \"대상 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20260713165800530",
@@ -142,16 +152,6 @@
       "title": "이랜드이츠, 애슐리퀸즈 그랜드NC송파점 가격 동결…메뉴는 확대",
       "link": "https://www.yna.co.kr/view/AKR20260713120100030",
       "pubDate": "Mon, 13 Jul 2026 16:22:24 +0900"
-    },
-    {
-      "title": "대한항공, 유가 직격탄에 영업이익 34% 감소…화물은 호조",
-      "link": "https://www.yna.co.kr/view/AKR20260713130800003",
-      "pubDate": "Mon, 13 Jul 2026 16:21:12 +0900"
-    },
-    {
-      "title": "'또 블랙먼데이' 7천피 밑으로…15%↓ 하닉, 역대최대 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713083551008",
-      "pubDate": "Mon, 13 Jul 2026 16:19:40 +0900"
     }
   ]
 }
