@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783978934,
+  "updated_at_unix": 1783982553,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260714016000011",
+      "pubDate": "Tue, 14 Jul 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[일문일답] 바이낸스 대표 \"고파이 피해 실질적 상환 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713130100002",
+      "pubDate": "Tue, 14 Jul 2026 07:20:04 +0900"
+    },
+    {
+      "title": "바이낸스 대표 \"가상자산 거래소 넘어 글로벌 자산 거래 플랫폼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713124000002",
+      "pubDate": "Tue, 14 Jul 2026 07:20:01 +0900"
+    },
+    {
+      "title": "'경제자유구역 해제' 이견…인천시·인천공항공사 2년째 평행선",
+      "link": "https://www.yna.co.kr/view/AKR20260713132400065",
+      "pubDate": "Tue, 14 Jul 2026 07:17:00 +0900"
+    },
+    {
+      "title": "'AI시대 여성 일자리 한눈에'…21일 서초구 여성 잡페스타",
+      "link": "https://www.yna.co.kr/view/AKR20260714014400004",
+      "pubDate": "Tue, 14 Jul 2026 07:11:05 +0900"
+    },
+    {
+      "title": "[글로컬] 'AI 저주' 안 느끼게 하려면…AI 창업 육성해야",
+      "link": "https://www.yna.co.kr/view/AKR20260713145000546",
+      "pubDate": "Tue, 14 Jul 2026 07:07:01 +0900"
+    },
+    {
+      "title": "월가에 스페이스X발 수수료 훈풍…'역대급 실적' 예고",
+      "link": "https://www.yna.co.kr/view/AKR20260714014500009",
+      "pubDate": "Tue, 14 Jul 2026 07:05:04 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카 알고보면(18) 요루바 왕국에 간 조선 왕자",
+      "link": "https://www.yna.co.kr/view/AKR20260708076100898",
+      "pubDate": "Tue, 14 Jul 2026 07:00:03 +0900"
+    },
     {
       "title": "세계 2위 러시아 경유 수출금지에 K정유 글로벌 공급 확대 기대",
       "link": "https://www.yna.co.kr/view/AKR20260713107400003",
@@ -112,46 +152,6 @@
       "title": "경북도, 도시가스 공급 비용 평균 4.78% 인상",
       "link": "https://www.yna.co.kr/view/AKR20260713147200053",
       "pubDate": "Mon, 13 Jul 2026 17:32:10 +0900"
-    },
-    {
-      "title": "무협 \"외국인력 정책, 숙련·정착 중심으로 패러다임 바꿔야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713144400003",
-      "pubDate": "Mon, 13 Jul 2026 17:27:06 +0900"
-    },
-    {
-      "title": "그래피, 121억원 유증…한국증권금융 등에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260713145500008",
-      "pubDate": "Mon, 13 Jul 2026 17:21:00 +0900"
-    },
-    {
-      "title": "[게시판] 산은, 스타트업 보육프로그램 참여 15개사 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260713141900002",
-      "pubDate": "Mon, 13 Jul 2026 17:06:55 +0900"
-    },
-    {
-      "title": "'중동 긴장 재고조'에 국고채 금리 일제히↑…3년물 연 3.809%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713136951008",
-      "pubDate": "Mon, 13 Jul 2026 17:01:02 +0900"
-    },
-    {
-      "title": "강원도·원주시, 민선 9기 첫 메가급 투자 유치…80명 신규 고용(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713055451062",
-      "pubDate": "Mon, 13 Jul 2026 16:56:24 +0900"
-    },
-    {
-      "title": "[동포의 창] 세계한상대회 조직위, 인천 한상대회 \"준비 이상무\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713135000371",
-      "pubDate": "Mon, 13 Jul 2026 16:52:50 +0900"
-    },
-    {
-      "title": "몽골 소비자 홀린 제주산 돼지고기…수출량 매년 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260713138200056",
-      "pubDate": "Mon, 13 Jul 2026 16:50:30 +0900"
-    },
-    {
-      "title": "울산 혁신도시 아파트 주민들 \"신세계 부지 개발 의무화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713134900057",
-      "pubDate": "Mon, 13 Jul 2026 16:48:46 +0900"
     }
   ]
 }
