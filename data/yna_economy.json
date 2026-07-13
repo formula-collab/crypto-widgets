@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783982553,
+  "updated_at_unix": 1783986062,
   "items": [
+    {
+      "title": "KFC, 복날 치킨 수요 겨냥 '복버켓' 한정 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260714028300030",
+      "pubDate": "Tue, 14 Jul 2026 08:34:55 +0900"
+    },
+    {
+      "title": "KB증권 \"오리온, 우호적 환율 속 실적 성장…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714027400008",
+      "pubDate": "Tue, 14 Jul 2026 08:32:30 +0900"
+    },
+    {
+      "title": "미래에셋, SK하이닉스 2분기 영업익 전망치 12% 하향조정",
+      "link": "https://www.yna.co.kr/view/AKR20260714027600008",
+      "pubDate": "Tue, 14 Jul 2026 08:27:01 +0900"
+    },
+    {
+      "title": "당진 철강산업 근로자 1인당 50만원…고용안정 국비 20억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260714027800063",
+      "pubDate": "Tue, 14 Jul 2026 08:25:29 +0900"
+    },
+    {
+      "title": "[마켓뷰] '6천피'로 급락한 코스피, 중동 악재속 반등 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260714022600008",
+      "pubDate": "Tue, 14 Jul 2026 08:06:20 +0900"
+    },
+    {
+      "title": "수출입은행, 20억달러 규모 외화채권 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260714023800002",
+      "pubDate": "Tue, 14 Jul 2026 08:02:46 +0900"
+    },
+    {
+      "title": "[만나보니] 안트로젠 \"국산 줄기세포 치료제 수출 시대 열었다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713138100017",
+      "pubDate": "Tue, 14 Jul 2026 08:00:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260714016000011",
@@ -117,41 +152,6 @@
       "title": "한화갤러리아, 2천370억원 규모 신사동 토지 매입…\"사업다각화\"",
       "link": "https://www.yna.co.kr/view/AKR20260713155300030",
       "pubDate": "Mon, 13 Jul 2026 18:29:58 +0900"
-    },
-    {
-      "title": "진코스텍 등 벤처기업 3사, 코스닥 상장예비심사 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260713150800008",
-      "pubDate": "Mon, 13 Jul 2026 18:28:10 +0900"
-    },
-    {
-      "title": "오뚜기, 카레·케첩 등 29개 품목 가격 올려…최대 17% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260713153200030",
-      "pubDate": "Mon, 13 Jul 2026 18:24:42 +0900"
-    },
-    {
-      "title": "추경호, 차관들 만나 신공항·공공기관 이전 지원 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260713148600053",
-      "pubDate": "Mon, 13 Jul 2026 18:12:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260713147900011",
-      "pubDate": "Mon, 13 Jul 2026 18:00:01 +0900"
-    },
-    {
-      "title": "李대통령 \"정치역량이 흥망 결정…정치권, 더 잘하기 경쟁해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713142600001",
-      "pubDate": "Mon, 13 Jul 2026 17:51:39 +0900"
-    },
-    {
-      "title": "수입신선란 가격인하…16일부터 이마트서 30구 5천890→4천980원",
-      "link": "https://www.yna.co.kr/view/AKR20260713146500030",
-      "pubDate": "Mon, 13 Jul 2026 17:45:15 +0900"
-    },
-    {
-      "title": "경북도, 도시가스 공급 비용 평균 4.78% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260713147200053",
-      "pubDate": "Mon, 13 Jul 2026 17:32:10 +0900"
     }
   ]
 }
