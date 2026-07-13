@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783942439,
+  "updated_at_unix": 1783951150,
   "items": [
+    {
+      "title": "\"호남 반도체 교섭의제로\" 삼전노조 주장에 노동부 \"대상 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713165800530",
+      "pubDate": "Mon, 13 Jul 2026 22:49:03 +0900"
+    },
     {
       "title": "전재수 \"부산 민간 아파트 개발 공공기여 협상 제대로 해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260713159300051",
@@ -147,11 +152,6 @@
       "title": "'또 블랙먼데이' 7천피 밑으로…15%↓ 하닉, 역대최대 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260713083551008",
       "pubDate": "Mon, 13 Jul 2026 16:19:40 +0900"
-    },
-    {
-      "title": "중동 긴장과 하이닉스발 달러 공급 기대 교차…환율 소폭 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260713125200002",
-      "pubDate": "Mon, 13 Jul 2026 16:13:25 +0900"
     }
   ]
 }
