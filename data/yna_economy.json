@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783930309,
+  "updated_at_unix": 1783942439,
   "items": [
+    {
+      "title": "전재수 \"부산 민간 아파트 개발 공공기여 협상 제대로 해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713159300051",
+      "pubDate": "Mon, 13 Jul 2026 19:51:56 +0900"
+    },
+    {
+      "title": "차기 보험개발원장에 유재훈 전 금융위 국장 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260713156800002",
+      "pubDate": "Mon, 13 Jul 2026 18:57:01 +0900"
+    },
+    {
+      "title": "오세훈 내일 국무회의 참석…대통령에게 부동산 정책 의견 낸다",
+      "link": "https://www.yna.co.kr/view/AKR20260713155700004",
+      "pubDate": "Mon, 13 Jul 2026 18:52:45 +0900"
+    },
+    {
+      "title": "이마트서 16일부터 수입 신선란 30구 5천890원→4천980원 인하(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260713146551030",
+      "pubDate": "Mon, 13 Jul 2026 18:41:46 +0900"
+    },
+    {
+      "title": "한화갤러리아, 2천370억원 규모 신사동 토지 매입…\"사업다각화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713155300030",
+      "pubDate": "Mon, 13 Jul 2026 18:29:58 +0900"
+    },
+    {
+      "title": "진코스텍 등 벤처기업 3사, 코스닥 상장예비심사 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260713150800008",
+      "pubDate": "Mon, 13 Jul 2026 18:28:10 +0900"
+    },
+    {
+      "title": "오뚜기, 카레·케첩 등 29개 품목 가격 올려…최대 17% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260713153200030",
+      "pubDate": "Mon, 13 Jul 2026 18:24:42 +0900"
+    },
+    {
+      "title": "추경호, 차관들 만나 신공항·공공기관 이전 지원 요청",
+      "link": "https://www.yna.co.kr/view/AKR20260713148600053",
+      "pubDate": "Mon, 13 Jul 2026 18:12:05 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260713147900011",
+      "pubDate": "Mon, 13 Jul 2026 18:00:01 +0900"
+    },
+    {
+      "title": "李대통령 \"정치역량이 흥망 결정…정치권, 더 잘하기 경쟁해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713142600001",
+      "pubDate": "Mon, 13 Jul 2026 17:51:39 +0900"
+    },
+    {
+      "title": "수입신선란 가격인하…16일부터 이마트서 30구 5천890→4천980원",
+      "link": "https://www.yna.co.kr/view/AKR20260713146500030",
+      "pubDate": "Mon, 13 Jul 2026 17:45:15 +0900"
+    },
+    {
+      "title": "경북도, 도시가스 공급 비용 평균 4.78% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260713147200053",
+      "pubDate": "Mon, 13 Jul 2026 17:32:10 +0900"
+    },
+    {
+      "title": "무협 \"외국인력 정책, 숙련·정착 중심으로 패러다임 바꿔야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713144400003",
+      "pubDate": "Mon, 13 Jul 2026 17:27:06 +0900"
+    },
+    {
+      "title": "그래피, 121억원 유증…한국증권금융 등에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260713145500008",
+      "pubDate": "Mon, 13 Jul 2026 17:21:00 +0900"
+    },
+    {
+      "title": "[게시판] 산은, 스타트업 보육프로그램 참여 15개사 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260713141900002",
+      "pubDate": "Mon, 13 Jul 2026 17:06:55 +0900"
+    },
     {
       "title": "'중동 긴장 재고조'에 국고채 금리 일제히↑…3년물 연 3.809%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260713136951008",
@@ -77,81 +152,6 @@
       "title": "중동 긴장과 하이닉스발 달러 공급 기대 교차…환율 소폭 상승",
       "link": "https://www.yna.co.kr/view/AKR20260713125200002",
       "pubDate": "Mon, 13 Jul 2026 16:13:25 +0900"
-    },
-    {
-      "title": "김 '세계규격 초안' 중간심의 통과…\"2030년 18억불 수출 탄력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713124300030",
-      "pubDate": "Mon, 13 Jul 2026 16:11:29 +0900"
-    },
-    {
-      "title": "성동구, '재건축·재개발 신속관리추진단' 가동에 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260713124500004",
-      "pubDate": "Mon, 13 Jul 2026 16:11:19 +0900"
-    },
-    {
-      "title": "비엘팜텍 \"광동헬스바이오 주식 10억원에 추가취득…지분율 14%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713127200008",
-      "pubDate": "Mon, 13 Jul 2026 16:10:28 +0900"
-    },
-    {
-      "title": "SK하이닉스 ADR 주가 함수는…나스닥 흥행후 본주 15%대 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713059551008",
-      "pubDate": "Mon, 13 Jul 2026 16:06:33 +0900"
-    },
-    {
-      "title": "반도체주 '우두둑'…SK하이닉스 15.4%·삼성전자 10.7% 폭락(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260713035052008",
-      "pubDate": "Mon, 13 Jul 2026 16:01:56 +0900"
-    },
-    {
-      "title": "[특징주] 국제유가 급등에 정유주 줄줄이 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713034651008",
-      "pubDate": "Mon, 13 Jul 2026 15:56:54 +0900"
-    },
-    {
-      "title": "[특징주] 방산주, '미-이란 긴장'에 상승출발했다 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713041251008",
-      "pubDate": "Mon, 13 Jul 2026 15:56:32 +0900"
-    },
-    {
-      "title": "외국환시세(7월13일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260713118700002",
-      "pubDate": "Mon, 13 Jul 2026 15:47:55 +0900"
-    },
-    {
-      "title": "코스피 8.95% 급락, 6,806 마감…'7천피' 무너져",
-      "link": "https://www.yna.co.kr/view/AKR20260713120400008",
-      "pubDate": "Mon, 13 Jul 2026 15:46:32 +0900"
-    },
-    {
-      "title": "HUG, 민간참여 공공주택사업 맞춤형 금융보증 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260713118500003",
-      "pubDate": "Mon, 13 Jul 2026 15:44:51 +0900"
-    },
-    {
-      "title": "창원상의, '국립창원대 로스쿨 설치' 법무부·교육부 등에 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260713119200052",
-      "pubDate": "Mon, 13 Jul 2026 15:42:37 +0900"
-    },
-    {
-      "title": "수공, 글로벌녹색성장기구와 MOU…\"해외사업, 기획 단계부터\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713117100063",
-      "pubDate": "Mon, 13 Jul 2026 15:39:59 +0900"
-    },
-    {
-      "title": "충북도, 중기 육성자금 대출이자 지원…홈플러스 납품기업도",
-      "link": "https://www.yna.co.kr/view/AKR20260713113400064",
-      "pubDate": "Mon, 13 Jul 2026 15:39:58 +0900"
-    },
-    {
-      "title": "[속보] 코스피 8.95% 급락, 6,806 마감…'7천피' 무너져",
-      "link": "https://www.yna.co.kr/view/AKR20260713117400008",
-      "pubDate": "Mon, 13 Jul 2026 15:35:05 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.0원 오른 1,503.4원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260713117200002",
-      "pubDate": "Mon, 13 Jul 2026 15:30:52 +0900"
     }
   ]
 }
