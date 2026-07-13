@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1783975618,
+  "updated_at_unix": 1783978934,
   "items": [
+    {
+      "title": "세계 2위 러시아 경유 수출금지에 K정유 글로벌 공급 확대 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260713107400003",
+      "pubDate": "Tue, 14 Jul 2026 06:07:00 +0900"
+    },
+    {
+      "title": "서울시, 40∼64세 중장년 채용박람회 참가기업 300곳 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260713144600004",
+      "pubDate": "Tue, 14 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "신세계 사우스시티, 고객 참여형 '스포츠크루' 멤버십 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260713138400030",
+      "pubDate": "Tue, 14 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "내년 최저임금, 오늘 최종 결정…'690원' 격차 막판 줄다리기",
+      "link": "https://www.yna.co.kr/view/AKR20260713156100530",
+      "pubDate": "Tue, 14 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "'중동전쟁' 긴장에도…여행자보험 국내 줄고 해외 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260713160700002",
+      "pubDate": "Tue, 14 Jul 2026 05:55:05 +0900"
+    },
+    {
+      "title": "서금원, 연내 비금융 서민 대안신용평가 개발…2금융권 공유목표",
+      "link": "https://www.yna.co.kr/view/AKR20260713136600002",
+      "pubDate": "Tue, 14 Jul 2026 05:53:00 +0900"
+    },
+    {
+      "title": "전산장애 잦으면 금감원이 '특별 과외'…첫타자 라이나손보",
+      "link": "https://www.yna.co.kr/view/AKR20260713125500002",
+      "pubDate": "Tue, 14 Jul 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 美 대이란 재봉쇄에 급등…WTI 10% 가까이 수직상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260714004951072",
@@ -117,41 +152,6 @@
       "title": "울산 혁신도시 아파트 주민들 \"신세계 부지 개발 의무화해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260713134900057",
       "pubDate": "Mon, 13 Jul 2026 16:48:46 +0900"
-    },
-    {
-      "title": "인천시의원, 강화 경제자유구역 지정 지연에 \"참담하다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713136800065",
-      "pubDate": "Mon, 13 Jul 2026 16:48:15 +0900"
-    },
-    {
-      "title": "노동장관 \"노조 못 만드는 노동자 위한 'K-노동회의소' 설립\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713136400530",
-      "pubDate": "Mon, 13 Jul 2026 16:46:39 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.809%",
-      "link": "https://www.yna.co.kr/view/AKR20260713136900008",
-      "pubDate": "Mon, 13 Jul 2026 16:42:52 +0900"
-    },
-    {
-      "title": "반도체 휘청…코스피, 8.95% 급락, '7천피' 무너져(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260713131200008",
-      "pubDate": "Mon, 13 Jul 2026 16:41:04 +0900"
-    },
-    {
-      "title": "구윤철 \"청년 생애주기 대책 추진…2030년 일자리 20만개 창출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260713134700002",
-      "pubDate": "Mon, 13 Jul 2026 16:34:44 +0900"
-    },
-    {
-      "title": "해남군, '미래산업' RE100 국가산단 유치 총력전",
-      "link": "https://www.yna.co.kr/view/AKR20260713131900054",
-      "pubDate": "Mon, 13 Jul 2026 16:34:00 +0900"
-    },
-    {
-      "title": "이랜드이츠, 애슐리퀸즈 그랜드NC송파점 가격 동결…메뉴는 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260713120100030",
-      "pubDate": "Mon, 13 Jul 2026 16:22:24 +0900"
     }
   ]
 }
