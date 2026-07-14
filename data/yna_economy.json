@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784025635,
+  "updated_at_unix": 1784030623,
   "items": [
+    {
+      "title": "[인사] 관세청",
+      "link": "https://www.yna.co.kr/view/AKR20260714179500002",
+      "pubDate": "Tue, 14 Jul 2026 20:57:36 +0900"
+    },
     {
       "title": "'김범석 쿠팡 총수 지정' 효력정지…법원 \"손해 예방 필요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260714107251004",
@@ -147,11 +152,6 @@
       "title": "국내증시 큰폭 조정에 이달 시총 19% 증발…6천조원 위태",
       "link": "https://www.yna.co.kr/view/AKR20260714093300008",
       "pubDate": "Tue, 14 Jul 2026 16:30:03 +0900"
-    },
-    {
-      "title": "국민연금, 우리은행과 외화금고은행 계약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260714056800530",
-      "pubDate": "Tue, 14 Jul 2026 16:30:00 +0900"
     }
   ]
 }
