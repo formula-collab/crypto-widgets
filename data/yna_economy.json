@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784030623,
+  "updated_at_unix": 1784038806,
   "items": [
+    {
+      "title": "[2보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260714185500530",
+      "pubDate": "Tue, 14 Jul 2026 23:00:27 +0900"
+    },
+    {
+      "title": "[속보] 내년 최저임금 올해보다 380원 오른다…합의 불발돼 표결",
+      "link": "https://www.yna.co.kr/view/AKR20260714185300530",
+      "pubDate": "Tue, 14 Jul 2026 22:57:28 +0900"
+    },
+    {
+      "title": "[1보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260714185200530",
+      "pubDate": "Tue, 14 Jul 2026 22:56:47 +0900"
+    },
+    {
+      "title": "미 6월 소비자물가 상승률 전년대비 3.5%로 둔화…예상 하회(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260714181452072",
+      "pubDate": "Tue, 14 Jul 2026 22:38:36 +0900"
+    },
+    {
+      "title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260714181600063",
+      "pubDate": "Tue, 14 Jul 2026 21:42:31 +0900"
+    },
+    {
+      "title": "관세청 차장에 박헌 인천공항세관장 임명",
+      "link": "https://www.yna.co.kr/view/AKR20260714179800002",
+      "pubDate": "Tue, 14 Jul 2026 21:03:22 +0900"
+    },
     {
       "title": "[인사] 관세청",
       "link": "https://www.yna.co.kr/view/AKR20260714179500002",
@@ -122,36 +152,6 @@
       "title": "간신히 반등한 코스피, 6,800선서 지지선 치나…골드만 1차 지지선 제시",
       "link": "https://www.yna.co.kr/view/AKR20260714076600008",
       "pubDate": "Tue, 14 Jul 2026 16:44:22 +0900"
-    },
-    {
-      "title": "부산 직장 내 괴롭힘 신고 1년 3개월간 1천366건",
-      "link": "https://www.yna.co.kr/view/AKR20260714143700051",
-      "pubDate": "Tue, 14 Jul 2026 16:43:33 +0900"
-    },
-    {
-      "title": "구인난 겪는 도축장에 몽골인 숙련 인력 투입…15명 첫 입국(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260714066952004",
-      "pubDate": "Tue, 14 Jul 2026 16:41:47 +0900"
-    },
-    {
-      "title": "세종시장 \"실국별 핵심과제 1∼2건 발굴…4년간 책임지고 해결\"",
-      "link": "https://www.yna.co.kr/view/AKR20260714147500063",
-      "pubDate": "Tue, 14 Jul 2026 16:39:24 +0900"
-    },
-    {
-      "title": "우리은행, 지점당 주담대 한도 월 30억→10억으로 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260714147000002",
-      "pubDate": "Tue, 14 Jul 2026 16:34:51 +0900"
-    },
-    {
-      "title": "'삼계탕·한우·치킨'…식품업계, 초복 앞두고 보양식 마케팅",
-      "link": "https://www.yna.co.kr/view/AKR20260714130900030",
-      "pubDate": "Tue, 14 Jul 2026 16:34:02 +0900"
-    },
-    {
-      "title": "국내증시 큰폭 조정에 이달 시총 19% 증발…6천조원 위태",
-      "link": "https://www.yna.co.kr/view/AKR20260714093300008",
-      "pubDate": "Tue, 14 Jul 2026 16:30:03 +0900"
     }
   ]
 }
