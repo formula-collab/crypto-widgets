@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784065469,
+  "updated_at_unix": 1784069063,
   "items": [
+    {
+      "title": "재산세 내는 달…서초구, 다양한 납세편의서비스 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260715020200004",
+      "pubDate": "Wed, 15 Jul 2026 07:32:54 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260715017300011",
+      "pubDate": "Wed, 15 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우리품의 아프리카인](43) \"이젠 지하철 제옆에도 사람들이 앉아요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260713037400898",
+      "pubDate": "Wed, 15 Jul 2026 07:00:05 +0900"
+    },
     {
       "title": "아파도 서러운데 돈줄까지 뚝…상병수당이 지켜낸 내 일자리",
       "link": "https://www.yna.co.kr/view/AKR20260714101700530",
@@ -137,21 +152,6 @@
       "title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
       "link": "https://www.yna.co.kr/view/AKR20260714181600063",
       "pubDate": "Tue, 14 Jul 2026 21:42:31 +0900"
-    },
-    {
-      "title": "관세청 차장에 박헌 인천공항세관장 임명",
-      "link": "https://www.yna.co.kr/view/AKR20260714179800002",
-      "pubDate": "Tue, 14 Jul 2026 21:03:22 +0900"
-    },
-    {
-      "title": "[인사] 관세청",
-      "link": "https://www.yna.co.kr/view/AKR20260714179500002",
-      "pubDate": "Tue, 14 Jul 2026 20:57:36 +0900"
-    },
-    {
-      "title": "'김범석 쿠팡 총수 지정' 효력정지…법원 \"손해 예방 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714107251004",
-      "pubDate": "Tue, 14 Jul 2026 19:32:11 +0900"
     }
   ]
 }
