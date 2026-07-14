@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784052282,
+  "updated_at_unix": 1784058552,
   "items": [
+    {
+      "title": "국제유가, 트럼프 통행료 번복에도 상승…브렌트 1.7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260715006700072",
+      "pubDate": "Wed, 15 Jul 2026 04:36:07 +0900"
+    },
     {
       "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260714185552530",
@@ -147,11 +152,6 @@
       "title": "노 1만1천150원·사 1만550원…최저임금 10차 수정안",
       "link": "https://www.yna.co.kr/view/AKR20260714157900530",
       "pubDate": "Tue, 14 Jul 2026 17:16:16 +0900"
-    },
-    {
-      "title": "중기부·소진공, 홈플러스 협력사에 대출 한도 1억원으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260714154200030",
-      "pubDate": "Tue, 14 Jul 2026 17:15:10 +0900"
     }
   ]
 }
