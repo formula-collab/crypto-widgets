@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784062059,
+  "updated_at_unix": 1784065469,
   "items": [
+    {
+      "title": "아파도 서러운데 돈줄까지 뚝…상병수당이 지켜낸 내 일자리",
+      "link": "https://www.yna.co.kr/view/AKR20260714101700530",
+      "pubDate": "Wed, 15 Jul 2026 06:11:00 +0900"
+    },
+    {
+      "title": "해외기업 국내 상장사 투자 1년새 30%↑…미국계가 절반 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260714154800003",
+      "pubDate": "Wed, 15 Jul 2026 06:05:02 +0900"
+    },
+    {
+      "title": "통합 대한항공, 마일리지는 따로?…\"독과점 우려 해소해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714169800003",
+      "pubDate": "Wed, 15 Jul 2026 06:05:00 +0900"
+    },
+    {
+      "title": "AI 인재 양성 스칼라 울산캠퍼스 개소 \"청년 유출 방지 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714169500057",
+      "pubDate": "Wed, 15 Jul 2026 06:02:01 +0900"
+    },
+    {
+      "title": "불법사금융 피해자 등 위기정보 연계 확대해 지원 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260714148400530",
+      "pubDate": "Wed, 15 Jul 2026 06:00:07 +0900"
+    },
+    {
+      "title": "서울시, 7월분 재산세 2조6천억원…작년보다 11.7% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260714159700004",
+      "pubDate": "Wed, 15 Jul 2026 06:00:03 +0900"
+    },
+    {
+      "title": "유가 안정에 6월 수입물가 4.4%↓…3년반 만에 최대폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260714161900002",
+      "pubDate": "Wed, 15 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "분양가상한제 기본형건축비 0.77%↑…철근가격 상승분 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260714168600003",
+      "pubDate": "Wed, 15 Jul 2026 06:00:01 +0900"
+    },
+    {
+      "title": "유산소송 중 옛 유류분법 헌법불합치…대법 \"신법 적용해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714169000004",
+      "pubDate": "Wed, 15 Jul 2026 06:00:00 +0900"
+    },
+    {
+      "title": "코인 현물 ETF 밑그림 나왔다…\"김프 없애고 선물시장 도입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714176100002",
+      "pubDate": "Wed, 15 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "韓 통화 긴축 진입 예고…한미 장기 금리차 3년여만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260714165700002",
+      "pubDate": "Wed, 15 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "대출 금리 오르면 '영끌·빚투' 이자 부담도 눈덩이",
+      "link": "https://www.yna.co.kr/view/AKR20260714167900002",
+      "pubDate": "Wed, 15 Jul 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 트럼프 통행료 번복에도 상승…브렌트 1.7%↑",
       "link": "https://www.yna.co.kr/view/AKR20260715006700072",
@@ -92,66 +152,6 @@
       "title": "'김범석 쿠팡 총수 지정' 효력정지…법원 \"손해 예방 필요\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260714107251004",
       "pubDate": "Tue, 14 Jul 2026 19:32:11 +0900"
-    },
-    {
-      "title": "내년 최저임금 '1만600원∼1만860원 사이'…공익위원 심의촉진",
-      "link": "https://www.yna.co.kr/view/AKR20260714174700530",
-      "pubDate": "Tue, 14 Jul 2026 19:19:33 +0900"
-    },
-    {
-      "title": "증권업계, 단일 레버리지 기본예탁금 올리고 리밸런싱 분산 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260714168700008",
-      "pubDate": "Tue, 14 Jul 2026 19:16:03 +0900"
-    },
-    {
-      "title": "[속보] 내년 최저임금 '1만600원∼1만860원' 사이…심의촉진구간 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260714172900530",
-      "pubDate": "Tue, 14 Jul 2026 19:12:41 +0900"
-    },
-    {
-      "title": "우리·SC제일은행, 모기지 보험 가입 제한(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714147051002",
-      "pubDate": "Tue, 14 Jul 2026 18:53:41 +0900"
-    },
-    {
-      "title": "무역협회, 창립 80주년 기념식…\"가장 든든한 글로벌 파트너로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260714169100003",
-      "pubDate": "Tue, 14 Jul 2026 18:41:20 +0900"
-    },
-    {
-      "title": "케이엠제약, 10억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260714166200008",
-      "pubDate": "Tue, 14 Jul 2026 18:40:36 +0900"
-    },
-    {
-      "title": "韓총리 \"수출 5대 강국 목표에 집중…'모두의 수출' 위해 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260714164600001",
-      "pubDate": "Tue, 14 Jul 2026 18:26:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260714161700011",
-      "pubDate": "Tue, 14 Jul 2026 18:00:01 +0900"
-    },
-    {
-      "title": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260714161100057",
-      "pubDate": "Tue, 14 Jul 2026 17:35:37 +0900"
-    },
-    {
-      "title": "'BBB+' 한진 회사채 수요예측, 총액 넘겼지만…일부 미매각",
-      "link": "https://www.yna.co.kr/view/AKR20260714158200008",
-      "pubDate": "Tue, 14 Jul 2026 17:28:43 +0900"
-    },
-    {
-      "title": "李대통령 \"난 이제 집 없다\"…분당 아파트 매도 완료 임박",
-      "link": "https://www.yna.co.kr/view/AKR20260714158300001",
-      "pubDate": "Tue, 14 Jul 2026 17:27:42 +0900"
-    },
-    {
-      "title": "노 1만1천150원·사 1만550원…최저임금 10차 수정안",
-      "link": "https://www.yna.co.kr/view/AKR20260714157900530",
-      "pubDate": "Tue, 14 Jul 2026 17:16:16 +0900"
     }
   ]
 }
