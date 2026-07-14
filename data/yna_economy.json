@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784069063,
+  "updated_at_unix": 1784072418,
   "items": [
+    {
+      "title": "DB증권 \"중국, 기계·전기제품 수출↑…하반기 AI 투자 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715029700008",
+      "pubDate": "Wed, 15 Jul 2026 08:33:49 +0900"
+    },
+    {
+      "title": "신한증권 \"대한항공, 유류할증료 완화로 여행 수요 회복…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715028200008",
+      "pubDate": "Wed, 15 Jul 2026 08:28:20 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 美증시 훈풍에 최근 급락 만회하나",
+      "link": "https://www.yna.co.kr/view/AKR20260715024900008",
+      "pubDate": "Wed, 15 Jul 2026 08:13:38 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시, 재산세 4천222억원 부과…해운대구 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260715022800051",
+      "pubDate": "Wed, 15 Jul 2026 08:13:21 +0900"
+    },
+    {
+      "title": "[2보] 6월 취업자 수 6만3천명 증가…고용률은 석 달 연속 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260715023500002",
+      "pubDate": "Wed, 15 Jul 2026 08:02:21 +0900"
+    },
+    {
+      "title": "[1보] 6월 취업자 6만3천명 증가…두 달 만에 '플러스'",
+      "link": "https://www.yna.co.kr/view/AKR20260715020500002",
+      "pubDate": "Wed, 15 Jul 2026 08:00:02 +0900"
+    },
+    {
+      "title": "경제계 \"최저임금 인상으로 영세사업체 어려움 가중\"…우려 표명",
+      "link": "https://www.yna.co.kr/view/AKR20260715021200003",
+      "pubDate": "Wed, 15 Jul 2026 07:46:10 +0900"
+    },
+    {
+      "title": "밭 갈아엎는 농민·상추 못주는 식당…유통 비용 줄여 모순 깬다",
+      "link": "https://www.yna.co.kr/view/AKR20260715016100030",
+      "pubDate": "Wed, 15 Jul 2026 07:43:11 +0900"
+    },
     {
       "title": "재산세 내는 달…서초구, 다양한 납세편의서비스 운영",
       "link": "https://www.yna.co.kr/view/AKR20260715020200004",
@@ -112,46 +152,6 @@
       "title": "경영계 \"최저임금 동결됐어야…고심 끝 불가피 선택\"",
       "link": "https://www.yna.co.kr/view/AKR20260714186900003",
       "pubDate": "Tue, 14 Jul 2026 23:36:01 +0900"
-    },
-    {
-      "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714185551530",
-      "pubDate": "Tue, 14 Jul 2026 23:22:03 +0900"
-    },
-    {
-      "title": "최저임금 심의, 노동자 넘어 '전국민 임금협상'…27개 법령 연동",
-      "link": "https://www.yna.co.kr/view/AKR20260714167500530",
-      "pubDate": "Tue, 14 Jul 2026 23:16:56 +0900"
-    },
-    {
-      "title": "최저임금 심의 매년 도돌이표…결정구조 개편 필요성",
-      "link": "https://www.yna.co.kr/view/AKR20260714177100530",
-      "pubDate": "Tue, 14 Jul 2026 23:12:25 +0900"
-    },
-    {
-      "title": "[2보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260714185500530",
-      "pubDate": "Tue, 14 Jul 2026 23:00:27 +0900"
-    },
-    {
-      "title": "[속보] 내년 최저임금 올해보다 380원 오른다…합의 불발돼 표결",
-      "link": "https://www.yna.co.kr/view/AKR20260714185300530",
-      "pubDate": "Tue, 14 Jul 2026 22:57:28 +0900"
-    },
-    {
-      "title": "[1보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260714185200530",
-      "pubDate": "Tue, 14 Jul 2026 22:56:47 +0900"
-    },
-    {
-      "title": "미 6월 소비자물가 상승률 전년대비 3.5%로 둔화…예상 하회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714181452072",
-      "pubDate": "Tue, 14 Jul 2026 22:38:36 +0900"
-    },
-    {
-      "title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260714181600063",
-      "pubDate": "Tue, 14 Jul 2026 21:42:31 +0900"
     }
   ]
 }
