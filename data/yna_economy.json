@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784019446,
+  "updated_at_unix": 1784025635,
   "items": [
+    {
+      "title": "'김범석 쿠팡 총수 지정' 효력정지…법원 \"손해 예방 필요\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260714107251004",
+      "pubDate": "Tue, 14 Jul 2026 19:32:11 +0900"
+    },
+    {
+      "title": "내년 최저임금 '1만600원∼1만860원 사이'…공익위원 심의촉진",
+      "link": "https://www.yna.co.kr/view/AKR20260714174700530",
+      "pubDate": "Tue, 14 Jul 2026 19:19:33 +0900"
+    },
+    {
+      "title": "증권업계, 단일 레버리지 기본예탁금 올리고 리밸런싱 분산 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260714168700008",
+      "pubDate": "Tue, 14 Jul 2026 19:16:03 +0900"
+    },
+    {
+      "title": "[속보] 내년 최저임금 '1만600원∼1만860원' 사이…심의촉진구간 제시",
+      "link": "https://www.yna.co.kr/view/AKR20260714172900530",
+      "pubDate": "Tue, 14 Jul 2026 19:12:41 +0900"
+    },
+    {
+      "title": "우리·SC제일은행, 모기지 보험 가입 제한(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260714147051002",
+      "pubDate": "Tue, 14 Jul 2026 18:53:41 +0900"
+    },
+    {
+      "title": "무역협회, 창립 80주년 기념식…\"가장 든든한 글로벌 파트너로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714169100003",
+      "pubDate": "Tue, 14 Jul 2026 18:41:20 +0900"
+    },
+    {
+      "title": "케이엠제약, 10억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260714166200008",
+      "pubDate": "Tue, 14 Jul 2026 18:40:36 +0900"
+    },
+    {
+      "title": "韓총리 \"수출 5대 강국 목표에 집중…'모두의 수출' 위해 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714164600001",
+      "pubDate": "Tue, 14 Jul 2026 18:26:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260714161700011",
+      "pubDate": "Tue, 14 Jul 2026 18:00:01 +0900"
+    },
     {
       "title": "울산공업고·울산마이스터고, 직업계고 재구조화 지원사업 선정",
       "link": "https://www.yna.co.kr/view/AKR20260714161100057",
@@ -107,51 +152,6 @@
       "title": "국민연금, 우리은행과 외화금고은행 계약 체결",
       "link": "https://www.yna.co.kr/view/AKR20260714056800530",
       "pubDate": "Tue, 14 Jul 2026 16:30:00 +0900"
-    },
-    {
-      "title": "오세훈 \"국무회의서 주택시장 절박한 목소리 전하지 못해 유감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260714128000004",
-      "pubDate": "Tue, 14 Jul 2026 16:25:04 +0900"
-    },
-    {
-      "title": "불안해진 투심…코스피, 오르락내리락 끝에 0.7% 찔끔 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714141900008",
-      "pubDate": "Tue, 14 Jul 2026 16:22:22 +0900"
-    },
-    {
-      "title": "삼성전자, 사내대출 주택 25억·수도권 국평 이하로 제한(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714102101003",
-      "pubDate": "Tue, 14 Jul 2026 16:15:54 +0900"
-    },
-    {
-      "title": "환율, 수출업체 달러 매도·외국인 순매수에 10원 넘게 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260714135800002",
-      "pubDate": "Tue, 14 Jul 2026 16:14:54 +0900"
-    },
-    {
-      "title": "폐교를 파크골프장·창업캠퍼스로…경남교육감인수위 백서 눈길",
-      "link": "https://www.yna.co.kr/view/AKR20260714137200052",
-      "pubDate": "Tue, 14 Jul 2026 16:10:04 +0900"
-    },
-    {
-      "title": "'4.5% 급등→9% 급락'…삼전닉스, 종일 널뛰기하다 상승 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260714137500008",
-      "pubDate": "Tue, 14 Jul 2026 16:09:35 +0900"
-    },
-    {
-      "title": "오미섭 시의원 \"광주 투자유치 협약기업 중 38.7%만 실제 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260714136200054",
-      "pubDate": "Tue, 14 Jul 2026 16:01:15 +0900"
-    },
-    {
-      "title": "외국환시세(7월14일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260714132000002",
-      "pubDate": "Tue, 14 Jul 2026 16:00:46 +0900"
-    },
-    {
-      "title": "전남광주 광천터미널 복합화 사업 본격화…지구단위계획 입안",
-      "link": "https://www.yna.co.kr/view/AKR20260714134700054",
-      "pubDate": "Tue, 14 Jul 2026 15:56:18 +0900"
     }
   ]
 }
