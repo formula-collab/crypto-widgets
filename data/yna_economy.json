@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784038806,
+  "updated_at_unix": 1784044368,
   "items": [
+    {
+      "title": "최저임금위원장 \"초과세수 최저임금근로자·소상공인 지원에 써야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715001100530",
+      "pubDate": "Wed, 15 Jul 2026 00:31:49 +0900"
+    },
+    {
+      "title": "최저임금 380원 인상…노 \"턱없이 부족\" vs 사 \"소상공인 족쇄\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715000400530",
+      "pubDate": "Wed, 15 Jul 2026 00:13:26 +0900"
+    },
+    {
+      "title": "'AI 붐'에 美은행권 2분기 '깜짝 실적'…스페이스X 상장도 한몫",
+      "link": "https://www.yna.co.kr/view/AKR20260714187600072",
+      "pubDate": "Wed, 15 Jul 2026 00:05:03 +0900"
+    },
+    {
+      "title": "소상공인업계 \"내년 최저임금 인상 유감…부담 완화 대책 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714187300030",
+      "pubDate": "Wed, 15 Jul 2026 00:00:31 +0900"
+    },
+    {
+      "title": "경영계 \"최저임금 동결됐어야…고심 끝 불가피 선택\"",
+      "link": "https://www.yna.co.kr/view/AKR20260714186900003",
+      "pubDate": "Tue, 14 Jul 2026 23:36:01 +0900"
+    },
+    {
+      "title": "내년 최저임금 시간당 1만700원…올해보다 3.7% 인상(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260714185551530",
+      "pubDate": "Tue, 14 Jul 2026 23:22:03 +0900"
+    },
+    {
+      "title": "최저임금 심의, 노동자 넘어 '전국민 임금협상'…27개 법령 연동",
+      "link": "https://www.yna.co.kr/view/AKR20260714167500530",
+      "pubDate": "Tue, 14 Jul 2026 23:16:56 +0900"
+    },
+    {
+      "title": "최저임금 심의 매년 도돌이표…결정구조 개편 필요성",
+      "link": "https://www.yna.co.kr/view/AKR20260714177100530",
+      "pubDate": "Tue, 14 Jul 2026 23:12:25 +0900"
+    },
     {
       "title": "[2보] 내년 최저임금 시간당 1만700원…올해보다 3.7% 인상",
       "link": "https://www.yna.co.kr/view/AKR20260714185500530",
@@ -112,46 +152,6 @@
       "title": "부동산 첫 토론회…비아파트부터 규제까지 공급확대 방안 봇물",
       "link": "https://www.yna.co.kr/view/AKR20260714155300003",
       "pubDate": "Tue, 14 Jul 2026 17:13:00 +0900"
-    },
-    {
-      "title": "국고채 금리 '중동전 재개 우려'에 상승…3년물 연 3.887%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714150551008",
-      "pubDate": "Tue, 14 Jul 2026 17:08:40 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260714155200002",
-      "pubDate": "Tue, 14 Jul 2026 17:00:22 +0900"
-    },
-    {
-      "title": "[인사] IBK기업은행",
-      "link": "https://www.yna.co.kr/view/AKR20260714153800002",
-      "pubDate": "Tue, 14 Jul 2026 16:53:51 +0900"
-    },
-    {
-      "title": "노 \"사회적 재분배\" vs 사 \"투자 우선\"…초과이익 배분 동상이몽(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714108051530",
-      "pubDate": "Tue, 14 Jul 2026 16:52:43 +0900"
-    },
-    {
-      "title": "HUG, '주거안정 책임 주택공급·주거금융 리더' 비전 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260714144300051",
-      "pubDate": "Tue, 14 Jul 2026 16:48:07 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.887%",
-      "link": "https://www.yna.co.kr/view/AKR20260714150500008",
-      "pubDate": "Tue, 14 Jul 2026 16:45:12 +0900"
-    },
-    {
-      "title": "IBK기업은행, 생산적포용금융부 신설…AX전략그룹 재편",
-      "link": "https://www.yna.co.kr/view/AKR20260714150900002",
-      "pubDate": "Tue, 14 Jul 2026 16:44:26 +0900"
-    },
-    {
-      "title": "간신히 반등한 코스피, 6,800선서 지지선 치나…골드만 1차 지지선 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260714076600008",
-      "pubDate": "Tue, 14 Jul 2026 16:44:22 +0900"
     }
   ]
 }
