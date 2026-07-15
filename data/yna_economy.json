@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784149284,
+  "updated_at_unix": 1784154390,
   "items": [
+    {
+      "title": "[글로컬] 中 '로봇굴기' 가속 페달…로봇 가르치는 학교도",
+      "link": "https://www.yna.co.kr/view/AKR20260715158500546",
+      "pubDate": "Thu, 16 Jul 2026 07:07:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 전쟁의 하청화…러시아의 '취업사기' 인력 동원",
+      "link": "https://www.yna.co.kr/view/AKR20260706070500898",
+      "pubDate": "Thu, 16 Jul 2026 07:00:04 +0900"
+    },
+    {
+      "title": "'김병기 차남취업청탁' 수사 막바지…13개 의혹 곧 처분 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260715140200004",
+      "pubDate": "Thu, 16 Jul 2026 06:00:11 +0900"
+    },
+    {
+      "title": "[게시판] 농식품부, 스마트팜 청년 창업 9기 교육생 208명 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260715162900030",
+      "pubDate": "Thu, 16 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "농식품부, 농촌 사회연대경제 활성화…돌봄·교육 공백 해소 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260715122900030",
+      "pubDate": "Thu, 16 Jul 2026 06:00:04 +0900"
+    },
+    {
+      "title": "중기부, 온라인 수출기업 물류비 지원 참여기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260715155200030",
+      "pubDate": "Thu, 16 Jul 2026 06:00:03 +0900"
+    },
     {
       "title": "한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
       "link": "https://www.yna.co.kr/view/AKR20260715168000002",
@@ -122,36 +152,6 @@
       "title": "검찰, '반도체 부품 담합' 몬타지 테크놀로지 등 3곳 압수수색",
       "link": "https://www.yna.co.kr/view/AKR20260715163500004",
       "pubDate": "Wed, 15 Jul 2026 17:37:06 +0900"
-    },
-    {
-      "title": "\"합격자 위한 '고객센터' 필요\"…모두의 창업 수도권 간담회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260715087651030",
-      "pubDate": "Wed, 15 Jul 2026 17:32:16 +0900"
-    },
-    {
-      "title": "우상호 강원지사 \"여성기업이 성장할 수 있도록 든든히 뒷받침\"",
-      "link": "https://www.yna.co.kr/view/AKR20260715159800062",
-      "pubDate": "Wed, 15 Jul 2026 17:19:55 +0900"
-    },
-    {
-      "title": "금융위, '회계처리 위반' 영풍에 과징금 204억…고려아연은 84억",
-      "link": "https://www.yna.co.kr/view/AKR20260715159400002",
-      "pubDate": "Wed, 15 Jul 2026 17:19:11 +0900"
-    },
-    {
-      "title": "가상자산으로 당한 보이스피싱 피해금도 구제된다…시행령 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260715147500002",
-      "pubDate": "Wed, 15 Jul 2026 17:13:32 +0900"
-    },
-    {
-      "title": "'이상복명과' 경주공장 건립…올해 말까지 60억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260715153700053",
-      "pubDate": "Wed, 15 Jul 2026 17:07:17 +0900"
-    },
-    {
-      "title": "6월 기준 서울 민간아파트 분양가 평당 6천165만원",
-      "link": "https://www.yna.co.kr/view/AKR20260715154900003",
-      "pubDate": "Wed, 15 Jul 2026 16:55:29 +0900"
     }
   ]
 }
