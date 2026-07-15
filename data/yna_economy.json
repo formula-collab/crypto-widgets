@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784113525,
+  "updated_at_unix": 1784119647,
   "items": [
+    {
+      "title": "고용률 석 달째 하락·제조업 부진…청년 취업자 44개월째 감소(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260715023553002",
+      "pubDate": "Wed, 15 Jul 2026 20:08:14 +0900"
+    },
     {
       "title": "\"공급차질\"vs\"소수특혜\"…이주비부터 청년·전세대출 갑론을박",
       "link": "https://www.yna.co.kr/view/AKR20260715171000002",
@@ -147,11 +152,6 @@
       "title": "광주교통공사·투트랙, 경전철 소음·진동 저감 특허",
       "link": "https://www.yna.co.kr/view/AKR20260715151600054",
       "pubDate": "Wed, 15 Jul 2026 16:49:00 +0900"
-    },
-    {
-      "title": "박인준 모나용평 대표, 한국스키장경영협회 회장 취임",
-      "link": "https://www.yna.co.kr/view/AKR20260715150100062",
-      "pubDate": "Wed, 15 Jul 2026 16:46:53 +0900"
     }
   ]
 }
