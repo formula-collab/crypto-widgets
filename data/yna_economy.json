@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784154390,
+  "updated_at_unix": 1784157945,
   "items": [
+    {
+      "title": "IBK증권, 삼성전기 목표가↑…\"폭락장에도 외인 지분율 확대중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716025300008",
+      "pubDate": "Thu, 16 Jul 2026 08:14:58 +0900"
+    },
+    {
+      "title": "부산시 소통 캐릭터 '부기', 캐릭터 축제 참여 지역상품 홍보",
+      "link": "https://www.yna.co.kr/view/AKR20260716021200051",
+      "pubDate": "Thu, 16 Jul 2026 08:06:44 +0900"
+    },
+    {
+      "title": "[마켓뷰] 다시 고개 든 반도체 업황불안…코스피, 또 출렁이나",
+      "link": "https://www.yna.co.kr/view/AKR20260716021600008",
+      "pubDate": "Thu, 16 Jul 2026 08:05:12 +0900"
+    },
+    {
+      "title": "부산시 명문향토기업 33곳 선정…정책자금 등 다양한 혜택 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260716021100051",
+      "pubDate": "Thu, 16 Jul 2026 08:03:03 +0900"
+    },
+    {
+      "title": "\"외국인 채권 자금유입 부진아냐…WGBI 최적화 집행중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715166500008",
+      "pubDate": "Thu, 16 Jul 2026 08:00:03 +0900"
+    },
+    {
+      "title": "사조, 내달 3일 수산캔 최대 20% 인상…장류·기름은 12% 올려",
+      "link": "https://www.yna.co.kr/view/AKR20260716012600030",
+      "pubDate": "Thu, 16 Jul 2026 07:41:48 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260716016800011",
+      "pubDate": "Thu, 16 Jul 2026 07:30:00 +0900"
+    },
     {
       "title": "[글로컬] 中 '로봇굴기' 가속 페달…로봇 가르치는 학교도",
       "link": "https://www.yna.co.kr/view/AKR20260715158500546",
@@ -117,41 +152,6 @@
       "title": "與 디지털자산 방미단 \"9월 TF 출범해 기본법 제정 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260715154500002",
       "pubDate": "Wed, 15 Jul 2026 17:50:50 +0900"
-    },
-    {
-      "title": "AI시대 한국경제 성장 해법은…대한상의 제주포럼 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260715028600003",
-      "pubDate": "Wed, 15 Jul 2026 17:50:01 +0900"
-    },
-    {
-      "title": "삼성·한화 등 8개그룹 금융복합기업집단 지정…토스 첫 포함",
-      "link": "https://www.yna.co.kr/view/AKR20260715162800002",
-      "pubDate": "Wed, 15 Jul 2026 17:45:04 +0900"
-    },
-    {
-      "title": "금융위, 대형금융사 10곳 자체정상화계획 승인…\"대응역량 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260715161600002",
-      "pubDate": "Wed, 15 Jul 2026 17:43:44 +0900"
-    },
-    {
-      "title": "2045비전 만든다…박홍근 \"교육교부금, 장기추세선 수준 보장\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260714180651002",
-      "pubDate": "Wed, 15 Jul 2026 17:43:20 +0900"
-    },
-    {
-      "title": "중앙도시계획위, 광주 어등산 스타필드 조성계획 재심의 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260715162400054",
-      "pubDate": "Wed, 15 Jul 2026 17:42:12 +0900"
-    },
-    {
-      "title": "경남 금속노조 총파업 대회…\"원청교섭 쟁취·생존권 사수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260715164100052",
-      "pubDate": "Wed, 15 Jul 2026 17:40:14 +0900"
-    },
-    {
-      "title": "검찰, '반도체 부품 담합' 몬타지 테크놀로지 등 3곳 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260715163500004",
-      "pubDate": "Wed, 15 Jul 2026 17:37:06 +0900"
     }
   ]
 }
