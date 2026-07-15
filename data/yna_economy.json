@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784145597,
+  "updated_at_unix": 1784149284,
   "items": [
+    {
+      "title": "한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
+      "link": "https://www.yna.co.kr/view/AKR20260715168000002",
+      "pubDate": "Thu, 16 Jul 2026 05:30:01 +0900"
+    },
+    {
+      "title": "국제유가, 미·이란 호르무즈 대치 지속에 0.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260716006800072",
+      "pubDate": "Thu, 16 Jul 2026 05:04:05 +0900"
+    },
     {
       "title": "워시 美연준의장 \"트럼프에 독립성 갖겠다 반복해 말해\"",
       "link": "https://www.yna.co.kr/view/AKR20260716004900072",
@@ -142,16 +152,6 @@
       "title": "6월 기준 서울 민간아파트 분양가 평당 6천165만원",
       "link": "https://www.yna.co.kr/view/AKR20260715154900003",
       "pubDate": "Wed, 15 Jul 2026 16:55:29 +0900"
-    },
-    {
-      "title": "미국 물가 안도감에 국고채 일제히 하락…3년물 연 3.866%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260715152351008",
-      "pubDate": "Wed, 15 Jul 2026 16:55:11 +0900"
-    },
-    {
-      "title": "충남도, 삼성·SK 투자 뒷받침…인허가부터 전력·용수 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260715154100063",
-      "pubDate": "Wed, 15 Jul 2026 16:51:08 +0900"
     }
   ]
 }
