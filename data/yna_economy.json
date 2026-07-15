@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784119647,
+  "updated_at_unix": 1784126423,
   "items": [
+    {
+      "title": "캐나다 기준금리 2.25%로 동결…\"성장세 반등 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260715183700072",
+      "pubDate": "Wed, 15 Jul 2026 23:11:17 +0900"
+    },
     {
       "title": "고용률 석 달째 하락·제조업 부진…청년 취업자 44개월째 감소(종합3보)",
       "link": "https://www.yna.co.kr/view/AKR20260715023553002",
@@ -147,11 +152,6 @@
       "title": "남양유업, 220억원 규모 자기주식 소각…\"주주환원 활동 지속\"",
       "link": "https://www.yna.co.kr/view/AKR20260715152800030",
       "pubDate": "Wed, 15 Jul 2026 16:50:11 +0900"
-    },
-    {
-      "title": "광주교통공사·투트랙, 경전철 소음·진동 저감 특허",
-      "link": "https://www.yna.co.kr/view/AKR20260715151600054",
-      "pubDate": "Wed, 15 Jul 2026 16:49:00 +0900"
     }
   ]
 }
