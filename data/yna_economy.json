@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784226965,
+  "updated_at_unix": 1784231654,
   "items": [
+    {
+      "title": "국제유가, 美·이란 공방 격화속 1%↓…브렌트 80달러대 중반",
+      "link": "https://www.yna.co.kr/view/AKR20260717005800072",
+      "pubDate": "Fri, 17 Jul 2026 04:32:50 +0900"
+    },
     {
       "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합3보)",
       "link": "https://www.yna.co.kr/view/AKR20260716165353002",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.848%",
       "link": "https://www.yna.co.kr/view/AKR20260716172500008",
       "pubDate": "Thu, 16 Jul 2026 16:44:39 +0900"
-    },
-    {
-      "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
-      "link": "https://www.yna.co.kr/view/AKR20260716170500008",
-      "pubDate": "Thu, 16 Jul 2026 16:44:04 +0900"
     }
   ]
 }
