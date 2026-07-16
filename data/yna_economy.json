@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784191041,
+  "updated_at_unix": 1784198850,
   "items": [
+    {
+      "title": "금융위 \"단일종목 레버리지 외화유출 방지효과 분명 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716201700002",
+      "pubDate": "Thu, 16 Jul 2026 19:03:13 +0900"
+    },
+    {
+      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260716165352002",
+      "pubDate": "Thu, 16 Jul 2026 19:01:36 +0900"
+    },
+    {
+      "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260716024051530",
+      "pubDate": "Thu, 16 Jul 2026 18:58:01 +0900"
+    },
+    {
+      "title": "해상풍력 인프라 항만에 구축…호남 반도체 클러스터 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260716194800051",
+      "pubDate": "Thu, 16 Jul 2026 18:18:57 +0900"
+    },
+    {
+      "title": "허영 의원·육동한 춘천시장, 국토부 장관 만나 미래사업 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260716195500062",
+      "pubDate": "Thu, 16 Jul 2026 18:18:54 +0900"
+    },
+    {
+      "title": "충북도·청주시, GC녹십자와 5천300억원 규모 투자협약(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260716181651064",
+      "pubDate": "Thu, 16 Jul 2026 18:18:07 +0900"
+    },
+    {
+      "title": "원안위, 월성3호기·한울4호기 재가동 허용(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260716102351017",
+      "pubDate": "Thu, 16 Jul 2026 18:08:02 +0900"
+    },
+    {
+      "title": "농특세 올해 18.5조원 전망…농어촌기본소득 재원 조달 관측",
+      "link": "https://www.yna.co.kr/view/AKR20260716187900030",
+      "pubDate": "Thu, 16 Jul 2026 18:04:09 +0900"
+    },
+    {
+      "title": "식약처, '식중독균 검출' 빠작복숭아무스케이크 회수",
+      "link": "https://www.yna.co.kr/view/AKR20260716193400017",
+      "pubDate": "Thu, 16 Jul 2026 18:03:30 +0900"
+    },
+    {
+      "title": "[인사] 국토교통부",
+      "link": "https://www.yna.co.kr/view/AKR20260716191300003",
+      "pubDate": "Thu, 16 Jul 2026 18:01:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260716187400011",
+      "pubDate": "Thu, 16 Jul 2026 18:00:00 +0900"
+    },
+    {
+      "title": "새만금 매립 15년 앞당긴다…현대차 투자 감안 2050년→2035년",
+      "link": "https://www.yna.co.kr/view/AKR20260716188700055",
+      "pubDate": "Thu, 16 Jul 2026 17:43:38 +0900"
+    },
+    {
+      "title": "'국내 스마트카 관련 기업 패시브' 등 ETF 4종, 오는 21일 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260716188300008",
+      "pubDate": "Thu, 16 Jul 2026 17:38:11 +0900"
+    },
+    {
+      "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260716024000530",
+      "pubDate": "Thu, 16 Jul 2026 17:37:55 +0900"
+    },
+    {
+      "title": "나인앤컴퍼니 \"에이아이티에너지 대한민국 주식 41억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716188400008",
+      "pubDate": "Thu, 16 Jul 2026 17:36:31 +0900"
+    },
+    {
+      "title": "오성첨단소재 \"Hangzhou에 330억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716187100008",
+      "pubDate": "Thu, 16 Jul 2026 17:33:32 +0900"
+    },
     {
       "title": "씨티 \"한은 8월 금리인상 가능성…올해 성장률 3.7%로 상향\"",
       "link": "https://www.yna.co.kr/view/AKR20260716184600002",
@@ -72,86 +152,6 @@
       "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로↑…20주씩만 매매(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260716165351002",
       "pubDate": "Thu, 16 Jul 2026 16:41:36 +0900"
-    },
-    {
-      "title": "우리은행, 예적금 금리 0.25∼0.30%p 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260716172400002",
-      "pubDate": "Thu, 16 Jul 2026 16:40:38 +0900"
-    },
-    {
-      "title": "주류업계, '논알코올' 맥주 시장 경쟁…제품군·외식 판매 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260716170000030",
-      "pubDate": "Thu, 16 Jul 2026 16:40:12 +0900"
-    },
-    {
-      "title": "광명시, '신안산선 붕괴' 자체조사 완료…정부에 개선 건의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716043851061",
-      "pubDate": "Thu, 16 Jul 2026 16:39:33 +0900"
-    },
-    {
-      "title": "메리츠, 홈플 긴급자금 2천억원 승인…MBK·김병주 보증 조건(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716164400002",
-      "pubDate": "Thu, 16 Jul 2026 16:38:10 +0900"
-    },
-    {
-      "title": "이랜드이츠 \"새단장한 애슐리퀸즈 첫날 오픈런…확대 적용 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716142100030",
-      "pubDate": "Thu, 16 Jul 2026 16:38:02 +0900"
-    },
-    {
-      "title": "성남시, 판교개발부담금 소송 최종 승소…3천731억원 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260716166800061",
-      "pubDate": "Thu, 16 Jul 2026 16:35:44 +0900"
-    },
-    {
-      "title": "노동장관, '주 4일제 시범운영' 세브란스병원 방문…사직률 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260716072000530",
-      "pubDate": "Thu, 16 Jul 2026 16:30:01 +0900"
-    },
-    {
-      "title": "코스피, 6%대 급락 6,800대 후퇴…하루 만에 7,000선 내줘(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716165800008",
-      "pubDate": "Thu, 16 Jul 2026 16:26:10 +0900"
-    },
-    {
-      "title": "광주은행 노조, JB금융·BNK금융지주 합병 제안 \"반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716161600054",
-      "pubDate": "Thu, 16 Jul 2026 16:20:54 +0900"
-    },
-    {
-      "title": "단일종목 레버리지 예탁금 현금 3천만원 강화…20주씩 매매가능",
-      "link": "https://www.yna.co.kr/view/AKR20260716165300002",
-      "pubDate": "Thu, 16 Jul 2026 16:19:06 +0900"
-    },
-    {
-      "title": "[특징주] 조선주, 트럼프 '한국 조선기업 살펴본다' 발언에 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716045151008",
-      "pubDate": "Thu, 16 Jul 2026 16:14:24 +0900"
-    },
-    {
-      "title": "[속보] 단일종목 레버리지 신규상장 잠정 중단…광고도 금지",
-      "link": "https://www.yna.co.kr/view/AKR20260716163400002",
-      "pubDate": "Thu, 16 Jul 2026 16:10:57 +0900"
-    },
-    {
-      "title": "[속보] 단일종목 레버리지 20주씩만 매매가능…\"상품가격 현실화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716163000002",
-      "pubDate": "Thu, 16 Jul 2026 16:10:31 +0900"
-    },
-    {
-      "title": "[속보] 단일종목 레버리지 예탁금 1천만→3천만원 강화…현금만 인정",
-      "link": "https://www.yna.co.kr/view/AKR20260716162800002",
-      "pubDate": "Thu, 16 Jul 2026 16:10:00 +0900"
-    },
-    {
-      "title": "KB증권, '단일종목 레버리지' 예탁금 면제 혜택 중단키로",
-      "link": "https://www.yna.co.kr/view/AKR20260716160800008",
-      "pubDate": "Thu, 16 Jul 2026 16:09:12 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 선박 확정…8월 말 부산서 출항",
-      "link": "https://www.yna.co.kr/view/AKR20260716022400051",
-      "pubDate": "Thu, 16 Jul 2026 16:07:33 +0900"
     }
   ]
 }
