@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784198850,
+  "updated_at_unix": 1784203945,
   "items": [
+    {
+      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20260716165353002",
+      "pubDate": "Thu, 16 Jul 2026 20:33:00 +0900"
+    },
     {
       "title": "금융위 \"단일종목 레버리지 외화유출 방지효과 분명 있어\"",
       "link": "https://www.yna.co.kr/view/AKR20260716201700002",
@@ -147,11 +152,6 @@
       "title": "코스피, 급락에도 6,800선 사수…골드만 제시한 지지선 되나",
       "link": "https://www.yna.co.kr/view/AKR20260716170500008",
       "pubDate": "Thu, 16 Jul 2026 16:44:04 +0900"
-    },
-    {
-      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로↑…20주씩만 매매(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716165351002",
-      "pubDate": "Thu, 16 Jul 2026 16:41:36 +0900"
     }
   ]
 }
