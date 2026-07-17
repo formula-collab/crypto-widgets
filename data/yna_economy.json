@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784245579,
+  "updated_at_unix": 1784251615,
   "items": [
+    {
+      "title": "휴가철 바가지요금 잡자…춘천시 피서지 물가 집중관리",
+      "link": "https://www.yna.co.kr/view/AKR20260716178100062",
+      "pubDate": "Fri, 17 Jul 2026 10:10:00 +0900"
+    },
+    {
+      "title": "전남광주특별시 공무원 채용 일원화…지역구분 없이 통합 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260716068500054",
+      "pubDate": "Fri, 17 Jul 2026 09:10:01 +0900"
+    },
+    {
+      "title": "무신사, 배틀그라운드 모바일과 협업상품…티셔츠·후드 등 구성",
+      "link": "https://www.yna.co.kr/view/AKR20260717020000030",
+      "pubDate": "Fri, 17 Jul 2026 09:05:49 +0900"
+    },
+    {
+      "title": "이마트24-콘진원, 국내 콘텐츠 산업 성장 지원 위해 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260717018700030",
+      "pubDate": "Fri, 17 Jul 2026 08:43:09 +0900"
+    },
     {
       "title": "HS화성, 제주 서귀포항 재정비 공사 수주",
       "link": "https://www.yna.co.kr/view/AKR20260716133700053",
@@ -132,26 +152,6 @@
       "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련",
       "link": "https://www.yna.co.kr/view/AKR20260716024000530",
       "pubDate": "Thu, 16 Jul 2026 17:37:55 +0900"
-    },
-    {
-      "title": "나인앤컴퍼니 \"에이아이티에너지 대한민국 주식 41억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716188400008",
-      "pubDate": "Thu, 16 Jul 2026 17:36:31 +0900"
-    },
-    {
-      "title": "오성첨단소재 \"Hangzhou에 330억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716187100008",
-      "pubDate": "Thu, 16 Jul 2026 17:33:32 +0900"
-    },
-    {
-      "title": "씨티 \"한은 8월 금리인상 가능성…올해 성장률 3.7%로 상향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716184600002",
-      "pubDate": "Thu, 16 Jul 2026 17:24:55 +0900"
-    },
-    {
-      "title": "노사정, 인구 변화 일자리 영향 머리 맞댄다…공론화특위 발족(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260716136551530",
-      "pubDate": "Thu, 16 Jul 2026 17:24:54 +0900"
     }
   ]
 }
