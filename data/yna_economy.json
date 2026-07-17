@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784251615,
+  "updated_at_unix": 1784262994,
   "items": [
+    {
+      "title": "오세훈 \"정부, 증시 투전판 만들고 빚탕감 생색…청년들 파산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260717028300004",
+      "pubDate": "Fri, 17 Jul 2026 11:27:21 +0900"
+    },
+    {
+      "title": "복잡한 절차 쉽게…서울시설공단, '공사현장 이행업무 가이드' 배포",
+      "link": "https://www.yna.co.kr/view/AKR20260716182900004",
+      "pubDate": "Fri, 17 Jul 2026 11:15:01 +0900"
+    },
+    {
+      "title": "한국, 미래투자교역파트너십 가입…\"신통상 규범 정립 선도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260717020600003",
+      "pubDate": "Fri, 17 Jul 2026 11:00:00 +0900"
+    },
+    {
+      "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260717026000003",
+      "pubDate": "Fri, 17 Jul 2026 10:38:04 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260717024800011",
+      "pubDate": "Fri, 17 Jul 2026 10:30:00 +0900"
+    },
     {
       "title": "휴가철 바가지요금 잡자…춘천시 피서지 물가 집중관리",
       "link": "https://www.yna.co.kr/view/AKR20260716178100062",
@@ -127,31 +152,6 @@
       "title": "식약처, '식중독균 검출' 빠작복숭아무스케이크 회수",
       "link": "https://www.yna.co.kr/view/AKR20260716193400017",
       "pubDate": "Thu, 16 Jul 2026 18:03:30 +0900"
-    },
-    {
-      "title": "[인사] 국토교통부",
-      "link": "https://www.yna.co.kr/view/AKR20260716191300003",
-      "pubDate": "Thu, 16 Jul 2026 18:01:29 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260716187400011",
-      "pubDate": "Thu, 16 Jul 2026 18:00:00 +0900"
-    },
-    {
-      "title": "새만금 매립 15년 앞당긴다…현대차 투자 감안 2050년→2035년",
-      "link": "https://www.yna.co.kr/view/AKR20260716188700055",
-      "pubDate": "Thu, 16 Jul 2026 17:43:38 +0900"
-    },
-    {
-      "title": "'국내 스마트카 관련 기업 패시브' 등 ETF 4종, 오는 21일 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260716188300008",
-      "pubDate": "Thu, 16 Jul 2026 17:38:11 +0900"
-    },
-    {
-      "title": "성평등전담부서 15개 부처에 신설…고용평등공시 법근거 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260716024000530",
-      "pubDate": "Thu, 16 Jul 2026 17:37:55 +0900"
     }
   ]
 }
