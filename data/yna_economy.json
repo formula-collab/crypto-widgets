@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784315048,
+  "updated_at_unix": 1784319895,
   "items": [
+    {
+      "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260718006800072",
+      "pubDate": "Sat, 18 Jul 2026 04:40:30 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260717037200011",
@@ -147,11 +152,6 @@
       "title": "원안위, 월성3호기·한울4호기 재가동 허용(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260716102351017",
       "pubDate": "Thu, 16 Jul 2026 18:08:02 +0900"
-    },
-    {
-      "title": "농특세 올해 18.5조원 전망…농어촌기본소득 재원 조달 관측",
-      "link": "https://www.yna.co.kr/view/AKR20260716187900030",
-      "pubDate": "Thu, 16 Jul 2026 18:04:09 +0900"
     }
   ]
 }
