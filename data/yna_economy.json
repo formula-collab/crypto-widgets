@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784326219,
+  "updated_at_unix": 1784329968,
   "items": [
+    {
+      "title": "주유소 기름값 9주째 하락…중동 긴장에 하락폭은 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260717044200003",
+      "pubDate": "Sat, 18 Jul 2026 07:15:01 +0900"
+    },
+    {
+      "title": "코스닥도 반도체 장세?…시총 톱100에 반도체주 1년새 88%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260716201100008",
+      "pubDate": "Sat, 18 Jul 2026 07:15:00 +0900"
+    },
+    {
+      "title": "이달 약세장에도 선방한 중소형주…수익률 대형주 앞질러",
+      "link": "https://www.yna.co.kr/view/AKR20260717001000008",
+      "pubDate": "Sat, 18 Jul 2026 07:10:00 +0900"
+    },
     {
       "title": "부산 해운대구, 빈집 리모델링 신혼부부·학생 주거 공간 임대",
       "link": "https://www.yna.co.kr/view/AKR20260716180800051",
@@ -137,21 +152,6 @@
       "title": "IBK기업은행, 중금리대출 출시…\"금융비용 부담 완화\"",
       "link": "https://www.yna.co.kr/view/AKR20260716131700002",
       "pubDate": "Fri, 17 Jul 2026 05:51:00 +0900"
-    },
-    {
-      "title": "국제유가, 美·이란 공방 격화속 1%↓…브렌트 80달러대 중반",
-      "link": "https://www.yna.co.kr/view/AKR20260717005800072",
-      "pubDate": "Fri, 17 Jul 2026 04:32:50 +0900"
-    },
-    {
-      "title": "'삼전닉스' 레버리지 예탁금 현금 3천만원으로…20주씩만 매매(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260716165353002",
-      "pubDate": "Thu, 16 Jul 2026 20:33:00 +0900"
-    },
-    {
-      "title": "금융위 \"단일종목 레버리지 외화유출 방지효과 분명 있어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716201700002",
-      "pubDate": "Thu, 16 Jul 2026 19:03:13 +0900"
     }
   ]
 }
