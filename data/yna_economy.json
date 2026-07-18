@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784410699,
+  "updated_at_unix": 1784414169,
   "items": [
+    {
+      "title": "제약사, R&D 앞세워 K뷰티 공략…해외시장도 넓힌다",
+      "link": "https://www.yna.co.kr/view/AKR20260717016900017",
+      "pubDate": "Sun, 19 Jul 2026 07:23:07 +0900"
+    },
+    {
+      "title": "응원매수 힘입은 애국 테마주, '시총 위기' 벗어나나",
+      "link": "https://www.yna.co.kr/view/AKR20260718025800008",
+      "pubDate": "Sun, 19 Jul 2026 06:40:01 +0900"
+    },
     {
       "title": "울산동부노동지청, 수당 미지급 등 근로 위반사항 223건 적발",
       "link": "https://www.yna.co.kr/view/AKR20260716080300057",
@@ -142,16 +152,6 @@
       "title": "[다음주 경제] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까",
       "link": "https://www.yna.co.kr/view/AKR20260718018400002",
       "pubDate": "Sat, 18 Jul 2026 09:01:51 +0900"
-    },
-    {
-      "title": "충북 화장품기업 10개사, 미국 박람회서 156억원 수출계약",
-      "link": "https://www.yna.co.kr/view/AKR20260716189000064",
-      "pubDate": "Sat, 18 Jul 2026 09:00:07 +0900"
-    },
-    {
-      "title": "[IPO챗] '19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
-      "link": "https://www.yna.co.kr/view/AKR20260716187000008",
-      "pubDate": "Sat, 18 Jul 2026 09:00:04 +0900"
     }
   ]
 }
