@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784359438,
+  "updated_at_unix": 1784365580,
   "items": [
+    {
+      "title": "송미령 장관, 양파 요리 경연대회 참석…국내 농산물 소비 촉진",
+      "link": "https://www.yna.co.kr/view/AKR20260716180200030",
+      "pubDate": "Sat, 18 Jul 2026 18:00:01 +0900"
+    },
     {
       "title": "미얀마 노동자 숨진 공사현장 시공사 대표, 유족 만나 사과",
       "link": "https://www.yna.co.kr/view/AKR20260718036300003",
@@ -44,7 +49,7 @@
       "pubDate": "Sat, 18 Jul 2026 09:00:07 +0900"
     },
     {
-      "title": "[IPO챗]'19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
+      "title": "[IPO챗] '19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
       "link": "https://www.yna.co.kr/view/AKR20260716187000008",
       "pubDate": "Sat, 18 Jul 2026 09:00:04 +0900"
     },
@@ -147,11 +152,6 @@
       "title": "휴가철 바가지요금 잡자…춘천시 피서지 물가 집중관리",
       "link": "https://www.yna.co.kr/view/AKR20260716178100062",
       "pubDate": "Fri, 17 Jul 2026 10:10:00 +0900"
-    },
-    {
-      "title": "전남광주특별시 공무원 채용 일원화…지역구분 없이 통합 선발",
-      "link": "https://www.yna.co.kr/view/AKR20260716068500054",
-      "pubDate": "Fri, 17 Jul 2026 09:10:01 +0900"
     }
   ]
 }
