@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784406933,
+  "updated_at_unix": 1784410699,
   "items": [
+    {
+      "title": "울산동부노동지청, 수당 미지급 등 근로 위반사항 223건 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260716080300057",
+      "pubDate": "Sun, 19 Jul 2026 06:30:02 +0900"
+    },
+    {
+      "title": "\"약국의 재발견\"…'외국인 관광객 수혜' 화장품주 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260716207700008",
+      "pubDate": "Sun, 19 Jul 2026 06:30:02 +0900"
+    },
+    {
+      "title": "[반려동물] 정부, 내년 펫푸드 수출 5억달러 목표…캐나다 검역 타결로 활로",
+      "link": "https://www.yna.co.kr/view/AKR20260717054300030",
+      "pubDate": "Sun, 19 Jul 2026 06:30:01 +0900"
+    },
+    {
+      "title": "상반기 치솟은 방산주, 이젠 코스피 밑돌아…\"전쟁도 길면 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716207400008",
+      "pubDate": "Sun, 19 Jul 2026 06:25:00 +0900"
+    },
+    {
+      "title": "삭풍 부는 엔터株, 올해 시총 8조 증발…목표가 평균 7% '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260716215300008",
+      "pubDate": "Sun, 19 Jul 2026 06:20:00 +0900"
+    },
+    {
+      "title": "공개 임박 삼성전자 8세대 갤럭시 Z…비메모리 반등 이끌까",
+      "link": "https://www.yna.co.kr/view/AKR20260716190800003",
+      "pubDate": "Sun, 19 Jul 2026 06:13:11 +0900"
+    },
+    {
+      "title": "반도체 꺾이고 코스피 출렁여도…주가 선방한 식품기업 '3인방'",
+      "link": "https://www.yna.co.kr/view/AKR20260718042000030",
+      "pubDate": "Sun, 19 Jul 2026 06:10:01 +0900"
+    },
+    {
+      "title": "'9천피'까지 치솟았던 2분기…5대 증권사 영업익 5조원 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260717018500008",
+      "pubDate": "Sun, 19 Jul 2026 06:05:01 +0900"
+    },
+    {
+      "title": "[AI기본법] ② 규제냐 성장판이냐…AI산업 첫 시험대",
+      "link": "https://www.yna.co.kr/view/AKR20260717037800017",
+      "pubDate": "Sun, 19 Jul 2026 06:03:14 +0900"
+    },
+    {
+      "title": "SK하이닉스 ADR, 美반도체 약세에도 본주 대비 '25% 프리미엄'",
+      "link": "https://www.yna.co.kr/view/AKR20260717057600008",
+      "pubDate": "Sun, 19 Jul 2026 06:03:02 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
+      "link": "https://www.yna.co.kr/view/AKR20260717057700008",
+      "pubDate": "Sun, 19 Jul 2026 06:00:18 +0900"
+    },
+    {
+      "title": "검찰도 '부동산 투기와 전쟁'…전국에 전담검사 지정·엄정 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260718002900004",
+      "pubDate": "Sun, 19 Jul 2026 05:55:02 +0900"
+    },
+    {
+      "title": "'445억원 해킹' 두나무에 금감원 검사의견서 송부…제재 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260718039600002",
+      "pubDate": "Sun, 19 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "\"한국, 10년 후 AI도입률 주요국 중 최고\"…고용한파 커지나",
+      "link": "https://www.yna.co.kr/view/AKR20260717045500002",
+      "pubDate": "Sun, 19 Jul 2026 05:53:03 +0900"
+    },
+    {
+      "title": "2분기 대졸 실업자 5년 만에 최대…20·30세대가 64% 차지",
+      "link": "https://www.yna.co.kr/view/AKR20260718003600002",
+      "pubDate": "Sun, 19 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "이달 원화 절상률 주요국 1위…원/엔 1년8개월 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260718018300002",
+      "pubDate": "Sun, 19 Jul 2026 05:51:00 +0900"
+    },
+    {
+      "title": "상호금융 '집단대출 부메랑' 상반기 3조 쑥…연말까지 영업제한",
+      "link": "https://www.yna.co.kr/view/AKR20260718040400002",
+      "pubDate": "Sun, 19 Jul 2026 05:49:01 +0900"
+    },
+    {
+      "title": "은행권 가계대출 여력 바닥…금리 상승까지 실수요자 '이중고'",
+      "link": "https://www.yna.co.kr/view/AKR20260718001500002",
+      "pubDate": "Sun, 19 Jul 2026 05:47:00 +0900"
+    },
+    {
+      "title": "올해 1인당 GDP 3만9천달러 추산…5년만에 최대폭 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260718025600002",
+      "pubDate": "Sun, 19 Jul 2026 05:45:00 +0900"
+    },
     {
       "title": "\"전용 모기지 약속 이행하라\" 이익공유형 사전청약자들 집회",
       "link": "https://www.yna.co.kr/view/AKR20260718040700003",
@@ -57,101 +152,6 @@
       "title": "[IPO챗] '19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
       "link": "https://www.yna.co.kr/view/AKR20260716187000008",
       "pubDate": "Sat, 18 Jul 2026 09:00:04 +0900"
-    },
-    {
-      "title": "\"코로나19로 원자재 급등\" 쌍용건설, KT사옥 공사비 소송서 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260717035500004",
-      "pubDate": "Sat, 18 Jul 2026 09:00:02 +0900"
-    },
-    {
-      "title": "\"국경간 지급결제, CBDC로 디지털 다중통화 시스템 구축해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260717052700002",
-      "pubDate": "Sat, 18 Jul 2026 09:00:01 +0900"
-    },
-    {
-      "title": "창원 정비 대상 빈집 934호…57%는 도시지역·진해구가 많아",
-      "link": "https://www.yna.co.kr/view/AKR20260716142600052",
-      "pubDate": "Sat, 18 Jul 2026 08:45:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 9주째 하락…중동 긴장에 하락폭은 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260717044200003",
-      "pubDate": "Sat, 18 Jul 2026 07:15:01 +0900"
-    },
-    {
-      "title": "코스닥도 반도체 장세?…시총 톱100에 반도체주 1년새 88%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260716201100008",
-      "pubDate": "Sat, 18 Jul 2026 07:15:00 +0900"
-    },
-    {
-      "title": "이달 약세장에도 선방한 중소형주…수익률 대형주 앞질러",
-      "link": "https://www.yna.co.kr/view/AKR20260717001000008",
-      "pubDate": "Sat, 18 Jul 2026 07:10:00 +0900"
-    },
-    {
-      "title": "부산 해운대구, 빈집 리모델링 신혼부부·학생 주거 공간 임대",
-      "link": "https://www.yna.co.kr/view/AKR20260716180800051",
-      "pubDate": "Sat, 18 Jul 2026 07:00:11 +0900"
-    },
-    {
-      "title": "세종시 \"삼성그룹에 세종 국가산단 추가 투자 요청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716179500063",
-      "pubDate": "Sat, 18 Jul 2026 07:00:06 +0900"
-    },
-    {
-      "title": "[신상잇슈] 하이트진로 '일품진로 26년산'·엔제리너스-동화약품 '배러'",
-      "link": "https://www.yna.co.kr/view/AKR20260716198200030",
-      "pubDate": "Sat, 18 Jul 2026 07:00:04 +0900"
-    },
-    {
-      "title": "[금주핫템] 아이더 '쿨 플렉스 데님'·반스 '골든 컬렉션'",
-      "link": "https://www.yna.co.kr/view/AKR20260716169100030",
-      "pubDate": "Sat, 18 Jul 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 전국 8천905가구 분양…이달 들어 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260717043200003",
-      "pubDate": "Sat, 18 Jul 2026 06:31:01 +0900"
-    },
-    {
-      "title": "주된 일자리 퇴직 후 연금 받기까지 '소득 절벽' 13년",
-      "link": "https://www.yna.co.kr/view/AKR20260717031800530",
-      "pubDate": "Sat, 18 Jul 2026 06:11:00 +0900"
-    },
-    {
-      "title": "국제유가, 미·이란 확전 양상에 4.5%↑…브렌트 90달러 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260718006800072",
-      "pubDate": "Sat, 18 Jul 2026 04:40:30 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260717037200011",
-      "pubDate": "Fri, 17 Jul 2026 15:00:00 +0900"
-    },
-    {
-      "title": "오세훈 \"정부, 증시 투전판 만들고 빚탕감 생색…청년들 파산\"",
-      "link": "https://www.yna.co.kr/view/AKR20260717028300004",
-      "pubDate": "Fri, 17 Jul 2026 11:27:21 +0900"
-    },
-    {
-      "title": "복잡한 절차 쉽게…서울시설공단, '공사현장 이행업무 가이드' 배포",
-      "link": "https://www.yna.co.kr/view/AKR20260716182900004",
-      "pubDate": "Fri, 17 Jul 2026 11:15:01 +0900"
-    },
-    {
-      "title": "한국, 미래투자교역파트너십 가입…\"신통상 규범 정립 선도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260717020600003",
-      "pubDate": "Fri, 17 Jul 2026 11:00:00 +0900"
-    },
-    {
-      "title": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260717026000003",
-      "pubDate": "Fri, 17 Jul 2026 10:38:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260717024800011",
-      "pubDate": "Fri, 17 Jul 2026 10:30:00 +0900"
     }
   ]
 }
