@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784365580,
+  "updated_at_unix": 1784371448,
   "items": [
+    {
+      "title": "\"전용 모기지 약속 이행하라\" 이익공유형 사전청약자들 집회",
+      "link": "https://www.yna.co.kr/view/AKR20260718040700003",
+      "pubDate": "Sat, 18 Jul 2026 18:17:08 +0900"
+    },
     {
       "title": "송미령 장관, 양파 요리 경연대회 참석…국내 농산물 소비 촉진",
       "link": "https://www.yna.co.kr/view/AKR20260716180200030",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260717024800011",
       "pubDate": "Fri, 17 Jul 2026 10:30:00 +0900"
-    },
-    {
-      "title": "휴가철 바가지요금 잡자…춘천시 피서지 물가 집중관리",
-      "link": "https://www.yna.co.kr/view/AKR20260716178100062",
-      "pubDate": "Fri, 17 Jul 2026 10:10:00 +0900"
     }
   ]
 }
