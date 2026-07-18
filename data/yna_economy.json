@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784329968,
+  "updated_at_unix": 1784333609,
   "items": [
+    {
+      "title": "[다음주 경제] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260718018400002",
+      "pubDate": "Sat, 18 Jul 2026 09:01:51 +0900"
+    },
+    {
+      "title": "충북 화장품기업 10개사, 미국 박람회서 156억원 수출계약",
+      "link": "https://www.yna.co.kr/view/AKR20260716189000064",
+      "pubDate": "Sat, 18 Jul 2026 09:00:07 +0900"
+    },
+    {
+      "title": "[IPO챗]'19년 흑자' 에이치엘지노믹스 24일 코스닥 입성…수요예측 2곳",
+      "link": "https://www.yna.co.kr/view/AKR20260716187000008",
+      "pubDate": "Sat, 18 Jul 2026 09:00:04 +0900"
+    },
+    {
+      "title": "\"코로나19로 원자재 급등\" 쌍용건설, KT사옥 공사비 소송서 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260717035500004",
+      "pubDate": "Sat, 18 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "\"국경간 지급결제, CBDC로 디지털 다중통화 시스템 구축해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260717052700002",
+      "pubDate": "Sat, 18 Jul 2026 09:00:01 +0900"
+    },
+    {
+      "title": "창원 정비 대상 빈집 934호…57%는 도시지역·진해구가 많아",
+      "link": "https://www.yna.co.kr/view/AKR20260716142600052",
+      "pubDate": "Sat, 18 Jul 2026 08:45:01 +0900"
+    },
     {
       "title": "주유소 기름값 9주째 하락…중동 긴장에 하락폭은 축소",
       "link": "https://www.yna.co.kr/view/AKR20260717044200003",
@@ -122,36 +152,6 @@
       "title": "대형은 찬바람, 중소형 완판…상반기 IPO '양극화'",
       "link": "https://www.yna.co.kr/view/AKR20260716190100008",
       "pubDate": "Fri, 17 Jul 2026 07:10:03 +0900"
-    },
-    {
-      "title": "하반기 신용등급, 업종별 온도차 커진다…관건은 \"기업 체력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716082100008",
-      "pubDate": "Fri, 17 Jul 2026 07:10:00 +0900"
-    },
-    {
-      "title": "[마켓人] 여의도 '반도체 고수'…27년 경력 이승우 유진투자증권 센터장",
-      "link": "https://www.yna.co.kr/view/AKR20260715170500008",
-      "pubDate": "Fri, 17 Jul 2026 07:05:01 +0900"
-    },
-    {
-      "title": "경기도, '사회연대경제 청년 일경험' 참여 청년 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260716152400061",
-      "pubDate": "Fri, 17 Jul 2026 07:01:10 +0900"
-    },
-    {
-      "title": "BTS에 상반기 음반 수출액 125%↑ 역대 최대…판매량 年 1억 노린다",
-      "link": "https://www.yna.co.kr/view/AKR20260716082300005",
-      "pubDate": "Fri, 17 Jul 2026 07:00:02 +0900"
-    },
-    {
-      "title": "최저임금 심의 매년 벼랑끝 줄다리기…노동부, 제도 개선 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260716177800530",
-      "pubDate": "Fri, 17 Jul 2026 06:01:01 +0900"
-    },
-    {
-      "title": "IBK기업은행, 중금리대출 출시…\"금융비용 부담 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716131700002",
-      "pubDate": "Fri, 17 Jul 2026 05:51:00 +0900"
     }
   ]
 }
