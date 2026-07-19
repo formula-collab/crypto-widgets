@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784418025,
+  "updated_at_unix": 1784424288,
   "items": [
+    {
+      "title": "현대百, 외국인 자문단 출범…\"쇼핑 환경·서비스 개선 제안\"",
+      "link": "https://www.yna.co.kr/view/AKR20260719018900030",
+      "pubDate": "Sun, 19 Jul 2026 10:04:51 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장 \"고객 신뢰가 일류로 가는 길\"",
+      "link": "https://www.yna.co.kr/view/AKR20260719018400002",
+      "pubDate": "Sun, 19 Jul 2026 09:37:44 +0900"
+    },
+    {
+      "title": "기계실 심한 소음 숨기고 아파트 매매…법원 \"계약해제 정당\"",
+      "link": "https://www.yna.co.kr/view/AKR20260716080600055",
+      "pubDate": "Sun, 19 Jul 2026 09:00:14 +0900"
+    },
+    {
+      "title": "임종룡 \"은행, 지속 가능한 수익구조 만들어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260717036100002",
+      "pubDate": "Sun, 19 Jul 2026 09:00:02 +0900"
+    },
+    {
+      "title": "1인가구도 '머니무브'…예·적금 줄이고 주식·ETF 늘렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260717060000002",
+      "pubDate": "Sun, 19 Jul 2026 09:00:01 +0900"
+    },
+    {
+      "title": "전남광주특별시, 디지털공간정보 활용 공유재산 통합관리",
+      "link": "https://www.yna.co.kr/view/AKR20260719013800054",
+      "pubDate": "Sun, 19 Jul 2026 08:41:46 +0900"
+    },
     {
       "title": "제약사, R&D 앞세워 K뷰티 공략…해외시장도 넓힌다",
       "link": "https://www.yna.co.kr/view/AKR20260717016900017",
@@ -122,36 +152,6 @@
       "title": "미얀마 노동자 숨진 공사현장 시공사 대표, 유족 만나 사과",
       "link": "https://www.yna.co.kr/view/AKR20260718036300003",
       "pubDate": "Sat, 18 Jul 2026 16:07:34 +0900"
-    },
-    {
-      "title": "국가공무원 7급공채 1차 필기시험 응시율 61.1%…소폭 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260718035200001",
-      "pubDate": "Sat, 18 Jul 2026 15:42:04 +0900"
-    },
-    {
-      "title": "박홍근 \"반도체 호황기 급격히 안 꺼져…청년 정책에 대폭 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260718032300002",
-      "pubDate": "Sat, 18 Jul 2026 15:03:32 +0900"
-    },
-    {
-      "title": "하정우 \"AI로 고용 감소…초과 세수 청년성장에 투자해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260718028800003",
-      "pubDate": "Sat, 18 Jul 2026 12:23:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260718024900011",
-      "pubDate": "Sat, 18 Jul 2026 10:30:00 +0900"
-    },
-    {
-      "title": "최휘영 장관 \"LA·뉴욕 등 대규모 공연장 운영권 확보 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260718024700003",
-      "pubDate": "Sat, 18 Jul 2026 10:16:44 +0900"
-    },
-    {
-      "title": "[다음주 경제] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까",
-      "link": "https://www.yna.co.kr/view/AKR20260718018400002",
-      "pubDate": "Sat, 18 Jul 2026 09:01:51 +0900"
     }
   ]
 }
