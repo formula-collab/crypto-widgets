@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784436074,
+  "updated_at_unix": 1784445654,
   "items": [
+    {
+      "title": "'대낮에 EDM 파티'…주류업계, 2030 겨냥 무알코올 마케팅 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260719032200030",
+      "pubDate": "Sun, 19 Jul 2026 16:07:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260719033700011",
+      "pubDate": "Sun, 19 Jul 2026 15:00:00 +0900"
+    },
     {
       "title": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\"",
       "link": "https://www.yna.co.kr/view/AKR20260718029700003",
@@ -142,16 +152,6 @@
       "title": "에이피알, 아마존 글로벌 경영진에 제조·물류 통합체계 공개",
       "link": "https://www.yna.co.kr/view/AKR20260719023600030",
       "pubDate": "Sun, 19 Jul 2026 10:37:36 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260719019800011",
-      "pubDate": "Sun, 19 Jul 2026 10:30:00 +0900"
-    },
-    {
-      "title": "현대百, 외국인 자문단 출범…\"쇼핑 환경·서비스 개선 제안\"",
-      "link": "https://www.yna.co.kr/view/AKR20260719018900030",
-      "pubDate": "Sun, 19 Jul 2026 10:04:51 +0900"
     }
   ]
 }
