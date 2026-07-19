@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784500759,
+  "updated_at_unix": 1784504664,
   "items": [
+    {
+      "title": "대우건설, 상도15구역 재개발 시공사 선정…공사비 1조4천억",
+      "link": "https://www.yna.co.kr/view/AKR20260720023600003",
+      "pubDate": "Mon, 20 Jul 2026 08:33:24 +0900"
+    },
+    {
+      "title": "신한투자 \"삼성SDI, 중장기 이익 가시성 확대 필요…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260720019700008",
+      "pubDate": "Mon, 20 Jul 2026 08:31:45 +0900"
+    },
+    {
+      "title": "iM증권 \"LG, 피지컬AI 밸류체인·개정 상법 수혜 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260720022200008",
+      "pubDate": "Mon, 20 Jul 2026 08:30:48 +0900"
+    },
+    {
+      "title": "DS증권 \"美-이란 승리없는 전쟁 장기화…韓방산 관심 커질 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260720020900008",
+      "pubDate": "Mon, 20 Jul 2026 08:27:04 +0900"
+    },
+    {
+      "title": "한투증권 \"LIG D&A 2분기 영업익, 시장 전망치 15% 상회 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260720019600008",
+      "pubDate": "Mon, 20 Jul 2026 08:16:56 +0900"
+    },
+    {
+      "title": "삼성바이오, 폴리펩타이드 그룹 인수…약 2조7천억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260720017900017",
+      "pubDate": "Mon, 20 Jul 2026 08:08:58 +0900"
+    },
+    {
+      "title": "부산 글로벌창업이민센터 개소…외국인 창업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260720014900051",
+      "pubDate": "Mon, 20 Jul 2026 08:02:15 +0900"
+    },
+    {
+      "title": "LG TV, 미국 IT매체 선정 화질·콘텐츠 응답속도 최고평가",
+      "link": "https://www.yna.co.kr/view/AKR20260716161300003",
+      "pubDate": "Mon, 20 Jul 2026 08:01:01 +0900"
+    },
+    {
+      "title": "'홈플러스 사태' MBK, 오스템임플란트도 구조조정 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260716148600008",
+      "pubDate": "Mon, 20 Jul 2026 08:00:05 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260720010800011",
@@ -29,13 +74,13 @@
       "pubDate": "Mon, 20 Jul 2026 07:00:05 +0900"
     },
     {
-      "title": "[사다리밖 2030] ② \"경력은 필요한데\"…청년들, 첫 직장으로 중소기업은 '외면'",
-      "link": "https://www.yna.co.kr/view/AKR20260715121700030",
+      "title": "[사다리밖 2030] ① \"그냥 쉬는 사람 어딨겠나\"…낙인이 된 '쉬었음'",
+      "link": "https://www.yna.co.kr/view/AKR20260712053800004",
       "pubDate": "Mon, 20 Jul 2026 07:00:04 +0900"
     },
     {
-      "title": "[사다리밖 2030] ① \"그냥 쉬는 사람 어딨겠나\"…낙인이 된 '쉬었음'",
-      "link": "https://www.yna.co.kr/view/AKR20260712053800004",
+      "title": "[사다리밖 2030] ② \"경력은 필요한데\"…청년들, 첫 직장으로 중소기업은 '외면'",
+      "link": "https://www.yna.co.kr/view/AKR20260715121700030",
       "pubDate": "Mon, 20 Jul 2026 07:00:04 +0900"
     },
     {
@@ -107,51 +152,6 @@
       "title": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\"",
       "link": "https://www.yna.co.kr/view/AKR20260718029700003",
       "pubDate": "Sun, 19 Jul 2026 12:00:16 +0900"
-    },
-    {
-      "title": "최태원 \"내년 반도체 수요 최소 50% 증가…빠른 증설이 생명줄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260718029600003",
-      "pubDate": "Sun, 19 Jul 2026 12:00:15 +0900"
-    },
-    {
-      "title": "'국민내일배움카드' 우수사례 공모전…최종 30개 작품 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260717047800530",
-      "pubDate": "Sun, 19 Jul 2026 12:00:08 +0900"
-    },
-    {
-      "title": "'온라인 수출 플랫폼 사업' 2차 참여 기업 31일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260717021800030",
-      "pubDate": "Sun, 19 Jul 2026 12:00:07 +0900"
-    },
-    {
-      "title": "한은 \"반도체發 교역조건 개선, 내수 파급효과 과거보다 클 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260716190900002",
-      "pubDate": "Sun, 19 Jul 2026 12:00:06 +0900"
-    },
-    {
-      "title": "공정위, 선납진료비 환불 거부한 피부·성형외과 약관 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260716212300002",
-      "pubDate": "Sun, 19 Jul 2026 12:00:06 +0900"
-    },
-    {
-      "title": "미국인이 뉴욕 은행서 원화계좌 개설한다…원화 국제화 로드맵",
-      "link": "https://www.yna.co.kr/view/AKR20260718030900002",
-      "pubDate": "Sun, 19 Jul 2026 12:00:05 +0900"
-    },
-    {
-      "title": "금융위, 베트남·호주와 금융협력포럼 등 금융외교 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260718034300002",
-      "pubDate": "Sun, 19 Jul 2026 12:00:05 +0900"
-    },
-    {
-      "title": "가상자산 불공정거래 30여건 고발 등 조치…평균 부당이득 14억",
-      "link": "https://www.yna.co.kr/view/AKR20260718038100002",
-      "pubDate": "Sun, 19 Jul 2026 12:00:04 +0900"
-    },
-    {
-      "title": "직장인 절반 \"육아휴직 자유롭게 못 써…출산휴가도 눈치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260719019100004",
-      "pubDate": "Sun, 19 Jul 2026 12:00:01 +0900"
     }
   ]
 }
