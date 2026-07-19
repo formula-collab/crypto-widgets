@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784452999,
+  "updated_at_unix": 1784458139,
   "items": [
+    {
+      "title": "한은 \"반도체發 교역조건 개선, 내수 파급효과 과거보다 클 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260716190951002",
+      "pubDate": "Sun, 19 Jul 2026 19:15:58 +0900"
+    },
     {
       "title": "'대낮에 EDM 파티'…주류업계, 2030 겨냥 무알코올 마케팅 경쟁",
       "link": "https://www.yna.co.kr/view/AKR20260719032200030",
@@ -147,11 +152,6 @@
       "title": "CU, 아삭이고추·오이소박이·부추 비빔밥 출시…각 4천900원",
       "link": "https://www.yna.co.kr/view/AKR20260719024700030",
       "pubDate": "Sun, 19 Jul 2026 10:42:01 +0900"
-    },
-    {
-      "title": "에이피알, 아마존 글로벌 경영진에 제조·물류 통합체계 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260719023600030",
-      "pubDate": "Sun, 19 Jul 2026 10:37:36 +0900"
     }
   ]
 }
