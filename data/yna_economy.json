@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784493369,
+  "updated_at_unix": 1784497164,
   "items": [
+    {
+      "title": "[팩트체크] 담합 신고하면 수천억 받는다?…포상금 규모 결정 요인은",
+      "link": "https://www.yna.co.kr/view/AKR20260713150300518",
+      "pubDate": "Mon, 20 Jul 2026 06:30:00 +0900"
+    },
+    {
+      "title": "울산시, 지역업체 하도급 확대 위해 대형건설업체 본사 6곳 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260719048800057",
+      "pubDate": "Mon, 20 Jul 2026 06:00:11 +0900"
+    },
+    {
+      "title": "신축매입임대 사업자 지원안 20일 시행…소급적용으로 효과↑",
+      "link": "https://www.yna.co.kr/view/AKR20260719037300003",
+      "pubDate": "Mon, 20 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "착공지연? 공사정지? 지연배상금 소송…대법 \"엄격히 구별해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260719040400004",
+      "pubDate": "Mon, 20 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"외국인 관광객 소비, 명품 넘어 K-패션·일상 식품으로 진화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260719056000030",
+      "pubDate": "Mon, 20 Jul 2026 06:00:01 +0900"
+    },
+    {
+      "title": "서울 폐교·학교이전 부지 개발 문턱 낮춘다…공공시설 활용확대",
+      "link": "https://www.yna.co.kr/view/AKR20260719049200004",
+      "pubDate": "Mon, 20 Jul 2026 05:55:01 +0900"
+    },
+    {
+      "title": "카드포인트 지역화폐 전환 서비스 확산…정부 통합플랫폼 구상도",
+      "link": "https://www.yna.co.kr/view/AKR20260719031700002",
+      "pubDate": "Mon, 20 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "예금토큰 상용화 속도내는 한은, 이르면 9월부터 무기한 실거래",
+      "link": "https://www.yna.co.kr/view/AKR20260719027000002",
+      "pubDate": "Mon, 20 Jul 2026 05:53:02 +0900"
+    },
+    {
+      "title": "국회 문턱 못 넘은 디지털자산법…하반기 논의도 '험로'",
+      "link": "https://www.yna.co.kr/view/AKR20260717061400002",
+      "pubDate": "Mon, 20 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "교부금 손 안 대면 내년 100조 육박…개편안 8월말 윤곽 나올 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260717000200002",
+      "pubDate": "Mon, 20 Jul 2026 05:51:00 +0900"
+    },
     {
       "title": "한은 \"반도체發 교역조건 개선, 내수 파급효과 과거보다 클 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260716190951002",
@@ -102,56 +152,6 @@
       "title": "[게시판] 해수부, '해사 사이버안전 인력 양성 교육' 참여자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260716184700051",
       "pubDate": "Sun, 19 Jul 2026 11:00:06 +0900"
-    },
-    {
-      "title": "해수부, 휴가철 피서지 1만곳 대상 수산물 원산지 특별 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260716188900030",
-      "pubDate": "Sun, 19 Jul 2026 11:00:05 +0900"
-    },
-    {
-      "title": "농식품부, 휴게소·주거지 인근 축산농가 악취관리 컨설팅 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260716191200030",
-      "pubDate": "Sun, 19 Jul 2026 11:00:05 +0900"
-    },
-    {
-      "title": "해수부, 세계유산위원회 열린 부산서 한국 갯벌·수산물 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260719011700051",
-      "pubDate": "Sun, 19 Jul 2026 11:00:04 +0900"
-    },
-    {
-      "title": "신설 자회사·합작법인도 지방 투자시 정부 보조금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260719015000003",
-      "pubDate": "Sun, 19 Jul 2026 11:00:03 +0900"
-    },
-    {
-      "title": "무역협회, '무역의날' 수출의탑·유공자 포상 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260719015700003",
-      "pubDate": "Sun, 19 Jul 2026 11:00:03 +0900"
-    },
-    {
-      "title": "코트라, 디트로이트서 포드·스텔란티스 공급망 진입 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260719019900003",
-      "pubDate": "Sun, 19 Jul 2026 11:00:01 +0900"
-    },
-    {
-      "title": "[게시판] 코트라, 'ESG 실무역량 강화·코칭 과정' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260719021700003",
-      "pubDate": "Sun, 19 Jul 2026 11:00:00 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄 후 15번째 한국 유조선 홍해 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260719025200051",
-      "pubDate": "Sun, 19 Jul 2026 10:48:27 +0900"
-    },
-    {
-      "title": "김용범 \"단일종목 레버리지 ETF 상폐 어렵다…시장에 또 충격\"",
-      "link": "https://www.yna.co.kr/view/AKR20260719022300001",
-      "pubDate": "Sun, 19 Jul 2026 10:43:28 +0900"
-    },
-    {
-      "title": "CU, 아삭이고추·오이소박이·부추 비빔밥 출시…각 4천900원",
-      "link": "https://www.yna.co.kr/view/AKR20260719024700030",
-      "pubDate": "Sun, 19 Jul 2026 10:42:01 +0900"
     }
   ]
 }
