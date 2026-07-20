@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784546285,
+  "updated_at_unix": 1784553692,
   "items": [
+    {
+      "title": "[인사] 과학기술정보통신부",
+      "link": "https://www.yna.co.kr/view/AKR20260720166100017",
+      "pubDate": "Mon, 20 Jul 2026 20:56:38 +0900"
+    },
     {
       "title": "덕산넵코어스·DTS, 상장예심 통과…'중복상장 예외허용 1호'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260720154251008",
@@ -146,11 +151,6 @@
     {
       "title": "[인사] SGI서울보증",
       "link": "https://www.yna.co.kr/view/AKR20260720131900505",
-      "pubDate": "Mon, 20 Jul 2026 16:15:30 +0900"
-    },
-    {
-      "title": "한국거래소, 청소년 금융교육 위해 7천만원 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260720126100008",
       "pubDate": "Mon, 20 Jul 2026 16:15:30 +0900"
     }
   ]
