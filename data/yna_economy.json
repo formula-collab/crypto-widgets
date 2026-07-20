@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784587438,
+  "updated_at_unix": 1784591094,
   "items": [
+    {
+      "title": "신세계그룹, OKO와 5억달러 합작법인…'아만·자누' 호텔 개발",
+      "link": "https://www.yna.co.kr/view/AKR20260721029000030",
+      "pubDate": "Tue, 21 Jul 2026 08:35:53 +0900"
+    },
+    {
+      "title": "KB증권 \"현대차, 2분기 실적 기대치 밑돌 것…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721029200008",
+      "pubDate": "Tue, 21 Jul 2026 08:34:52 +0900"
+    },
+    {
+      "title": "키움증권 \"녹십자, 2분기 실적 기대치 하회 전망…목표가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721029400008",
+      "pubDate": "Tue, 21 Jul 2026 08:33:44 +0900"
+    },
+    {
+      "title": "메리츠증권, 솔브레인 목표가 하향에도 \"매력적인 구간 진입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721027700008",
+      "pubDate": "Tue, 21 Jul 2026 08:32:33 +0900"
+    },
+    {
+      "title": "양천구, 민관 협력형 '부동산 안심지키미' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260721026200004",
+      "pubDate": "Tue, 21 Jul 2026 08:18:19 +0900"
+    },
+    {
+      "title": "한투증권, 스튜디오드래곤 목표가↓…\"밸류에이션 회복 지연\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721022700008",
+      "pubDate": "Tue, 21 Jul 2026 08:07:56 +0900"
+    },
+    {
+      "title": "[마켓뷰] 연이틀 급락한 코스피, 저가 매수세에 반등 시도할까",
+      "link": "https://www.yna.co.kr/view/AKR20260721021300008",
+      "pubDate": "Tue, 21 Jul 2026 08:05:27 +0900"
+    },
+    {
+      "title": "부산시·남부발전·중기청, 청년 첫경력 취업 지원 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260721019500051",
+      "pubDate": "Tue, 21 Jul 2026 08:00:39 +0900"
+    },
+    {
+      "title": "'쿠팡이츠' 출신 '땡겨요' 팀장 영업비밀 유출 의혹…경찰 수사",
+      "link": "https://www.yna.co.kr/view/AKR20260721020200004",
+      "pubDate": "Tue, 21 Jul 2026 07:59:35 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260721015300011",
@@ -39,7 +84,7 @@
       "pubDate": "Tue, 21 Jul 2026 05:53:00 +0900"
     },
     {
-      "title": "AI기본법 후속 개정안 시행…한국 AI 산업 시험대",
+      "title": "AI기본법 후속 법령 시행…한국 AI 산업 시험대",
       "link": "https://www.yna.co.kr/view/AKR20260720150400017",
       "pubDate": "Tue, 21 Jul 2026 05:30:01 +0900"
     },
@@ -107,51 +152,6 @@
       "title": "정부 복지사업 '잣대' 기준중위소득 새 산정방식 이달 말 결정",
       "link": "https://www.yna.co.kr/view/AKR20260720039600530",
       "pubDate": "Mon, 20 Jul 2026 17:33:21 +0900"
-    },
-    {
-      "title": "'전기차 충전기 운영' 에버온 등 코스닥 상장예심 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260720146800008",
-      "pubDate": "Mon, 20 Jul 2026 17:25:35 +0900"
-    },
-    {
-      "title": "중동 긴장 고조에 서울 휘발유·경윳값 한 달만에 다시 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260720146900003",
-      "pubDate": "Mon, 20 Jul 2026 17:22:09 +0900"
-    },
-    {
-      "title": "李대통령, 분당 집 29억에 매도…매수자 사정고려 17억 근저당",
-      "link": "https://www.yna.co.kr/view/AKR20260720142200001",
-      "pubDate": "Mon, 20 Jul 2026 17:04:45 +0900"
-    },
-    {
-      "title": "[청주소식] 공공근로사업 참여자 260명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260720140400064",
-      "pubDate": "Mon, 20 Jul 2026 17:02:25 +0900"
-    },
-    {
-      "title": "WTO 수입허가위 의장에 유미진 제네바대표부 서기관…한국 최초",
-      "link": "https://www.yna.co.kr/view/AKR20260720137500003",
-      "pubDate": "Mon, 20 Jul 2026 17:00:07 +0900"
-    },
-    {
-      "title": "농식품부, 그린바이오 2031년 10조 목표…매출 100억 기업 300개",
-      "link": "https://www.yna.co.kr/view/AKR20260720114100030",
-      "pubDate": "Mon, 20 Jul 2026 17:00:01 +0900"
-    },
-    {
-      "title": "춘천바이오산업진흥원, 바이오인재 양성 '부트캠프' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260720139200062",
-      "pubDate": "Mon, 20 Jul 2026 16:51:34 +0900"
-    },
-    {
-      "title": "유가 급등에 국고채 금리 일제히 상승…3년물 연 3.895%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260720138551008",
-      "pubDate": "Mon, 20 Jul 2026 16:48:25 +0900"
-    },
-    {
-      "title": "삼천당제약 \"FDA서 제네릭 개발전략 검토 답변서 받아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260720136400017",
-      "pubDate": "Mon, 20 Jul 2026 16:44:21 +0900"
     }
   ]
 }
