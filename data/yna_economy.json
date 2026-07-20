@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784583437,
+  "updated_at_unix": 1784587438,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260721015300011",
+      "pubDate": "Tue, 21 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 카보베르데, 포르투갈 식민지서 카브랄과 월드컵까지",
+      "link": "https://www.yna.co.kr/view/AKR20260710086700898",
+      "pubDate": "Tue, 21 Jul 2026 07:00:03 +0900"
+    },
+    {
+      "title": "박지원, '저작권 괴물' 방지법 발의…소송 남발 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260720156300001",
+      "pubDate": "Tue, 21 Jul 2026 07:00:02 +0900"
+    },
     {
       "title": "[르포] \"멀리 안가도 되니 좋네요\"…농촌 우체국이 4대은행 대출창구로",
       "link": "https://www.yna.co.kr/view/AKR20260720147800063",
@@ -137,21 +152,6 @@
       "title": "삼천당제약 \"FDA서 제네릭 개발전략 검토 답변서 받아\"",
       "link": "https://www.yna.co.kr/view/AKR20260720136400017",
       "pubDate": "Mon, 20 Jul 2026 16:44:21 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.895%",
-      "link": "https://www.yna.co.kr/view/AKR20260720138500008",
-      "pubDate": "Mon, 20 Jul 2026 16:43:08 +0900"
-    },
-    {
-      "title": "'쫀득 달달' 정선 찰옥수수 22∼30일 수도권 직거래 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260720136200062",
-      "pubDate": "Mon, 20 Jul 2026 16:41:46 +0900"
-    },
-    {
-      "title": "게임업계 취업 길잡이 '게임 일을 너무 하고 싶다' 출간",
-      "link": "https://www.yna.co.kr/view/AKR20260720136300017",
-      "pubDate": "Mon, 20 Jul 2026 16:38:18 +0900"
     }
   ]
 }
