@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784573217,
+  "updated_at_unix": 1784578493,
   "items": [
+    {
+      "title": "중동 정세 불안에 국제유가 상승세 지속…브렌트유 1.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260721006200072",
+      "pubDate": "Tue, 21 Jul 2026 05:04:32 +0900"
+    },
     {
       "title": "\"이런 말씀 죄송, 레버리지 투자 말아야\"…운용사 대표의 이례적 메시지",
       "link": "https://www.yna.co.kr/view/AKR20260720171100008",
@@ -147,11 +152,6 @@
       "title": "가비아 공개매수 제동?…얼라인 \"이해상충 우려, 검증해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260720127400008",
       "pubDate": "Mon, 20 Jul 2026 16:24:47 +0900"
-    },
-    {
-      "title": "용산국제업무지구 글로벌기업 유치 조사 지연…주택규모 갈등 탓",
-      "link": "https://www.yna.co.kr/view/AKR20260720132000004",
-      "pubDate": "Mon, 20 Jul 2026 16:20:08 +0900"
     }
   ]
 }
