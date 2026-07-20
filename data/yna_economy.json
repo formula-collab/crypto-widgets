@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784553692,
+  "updated_at_unix": 1784561060,
   "items": [
+    {
+      "title": "\"이런 말씀 죄송, 레버리지 투자 말아야\"…운용사 대표의 이례적 메시지",
+      "link": "https://www.yna.co.kr/view/AKR20260720171100008",
+      "pubDate": "Mon, 20 Jul 2026 23:13:13 +0900"
+    },
+    {
+      "title": "미·이란 충돌격화에 美 휘발윳값 반등…갤런당 4달러 다시 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260720171800072",
+      "pubDate": "Mon, 20 Jul 2026 23:09:48 +0900"
+    },
     {
       "title": "[인사] 과학기술정보통신부",
       "link": "https://www.yna.co.kr/view/AKR20260720166100017",
@@ -142,16 +152,6 @@
       "title": "용산국제업무지구 글로벌기업 유치 조사 지연…주택규모 갈등 탓",
       "link": "https://www.yna.co.kr/view/AKR20260720132000004",
       "pubDate": "Mon, 20 Jul 2026 16:20:08 +0900"
-    },
-    {
-      "title": "[인사] IBK투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20260720132900008",
-      "pubDate": "Mon, 20 Jul 2026 16:16:58 +0900"
-    },
-    {
-      "title": "[인사] SGI서울보증",
-      "link": "https://www.yna.co.kr/view/AKR20260720131900505",
-      "pubDate": "Mon, 20 Jul 2026 16:15:30 +0900"
     }
   ]
 }
