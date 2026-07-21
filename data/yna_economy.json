@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784618759,
+  "updated_at_unix": 1784627844,
   "items": [
+    {
+      "title": "민형배 전남광주특별시장, 국무회의서 '국산 콩 표시제' 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260721173800054",
+      "pubDate": "Tue, 21 Jul 2026 18:43:36 +0900"
+    },
+    {
+      "title": "[충북소식] 2026 여성기업인대회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260721171200064",
+      "pubDate": "Tue, 21 Jul 2026 18:05:37 +0900"
+    },
+    {
+      "title": "李 \"쟁의대상 너무 광범위\" 지적에 노동계 \"노봉법 부정한 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260721150951530",
+      "pubDate": "Tue, 21 Jul 2026 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260721166500011",
+      "pubDate": "Tue, 21 Jul 2026 18:00:01 +0900"
+    },
+    {
+      "title": "민간 매각 멈춘 금강수목원…충남도, 시민 개방 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260721168300063",
+      "pubDate": "Tue, 21 Jul 2026 17:48:36 +0900"
+    },
+    {
+      "title": "이더리움 APAC 정책총괄 \"韓, 세계적 시장으로 영향력 있어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721131700002",
+      "pubDate": "Tue, 21 Jul 2026 17:39:32 +0900"
+    },
+    {
+      "title": "고수온 위기경보 '경계' 상향…서·남해·제주 8개 해역 주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260721163500030",
+      "pubDate": "Tue, 21 Jul 2026 17:28:16 +0900"
+    },
+    {
+      "title": "에넥스, 50억원 유상증자…퀸버메자닌1호조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260721163400008",
+      "pubDate": "Tue, 21 Jul 2026 17:19:49 +0900"
+    },
+    {
+      "title": "JP모간 韓증시 '비중확대' 유지…씨티는 1년만에 '중립'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260721163000008",
+      "pubDate": "Tue, 21 Jul 2026 17:19:29 +0900"
+    },
+    {
+      "title": "한국은행 \"충남 건설경기 부진…낮은 역내 수주율 등 개선해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721148900063",
+      "pubDate": "Tue, 21 Jul 2026 17:00:01 +0900"
+    },
+    {
+      "title": "GDP 대기하며 국고채 금리 혼조세…3년물 연 3.867%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260721155351008",
+      "pubDate": "Tue, 21 Jul 2026 16:58:24 +0900"
+    },
+    {
+      "title": "李 \"쟁의대상 광범위\" 지적에 한국노총 \"노란봉투법 존중하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721150900530",
+      "pubDate": "Tue, 21 Jul 2026 16:57:54 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 3.867%",
+      "link": "https://www.yna.co.kr/view/AKR20260721155300008",
+      "pubDate": "Tue, 21 Jul 2026 16:43:59 +0900"
+    },
+    {
+      "title": "금융위, 레버리지 보완책 조기시행 추진…업권 협의 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260721153700002",
+      "pubDate": "Tue, 21 Jul 2026 16:40:45 +0900"
+    },
+    {
+      "title": "민간투자 막혔던 서대구역세권 개발, 새 방식으로 푼다",
+      "link": "https://www.yna.co.kr/view/AKR20260721152600053",
+      "pubDate": "Tue, 21 Jul 2026 16:32:40 +0900"
+    },
+    {
+      "title": "울산상의, 박용진 규제합리화위 부위원장 초청 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260721132400057",
+      "pubDate": "Tue, 21 Jul 2026 16:24:51 +0900"
+    },
+    {
+      "title": "고양시장 \"군사시설보호구역 해제 환영…지역경제 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721148800060",
+      "pubDate": "Tue, 21 Jul 2026 16:22:49 +0900"
+    },
+    {
+      "title": "상반기 전남광주 농수산식품 수출 13.2% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260721148700054",
+      "pubDate": "Tue, 21 Jul 2026 16:21:48 +0900"
+    },
     {
       "title": "하이닉스 효과·외국인 순매수에 환율 장중 1,471.1원까지 하락",
       "link": "https://www.yna.co.kr/view/AKR20260721140900002",
@@ -62,96 +152,6 @@
       "title": "카드업계 홈플러스 대금 지급보류…\"결제취소 리스크 관리\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260720167151002",
       "pubDate": "Tue, 21 Jul 2026 15:34:58 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 반도체 반등에 3.6%↑…6,747 마감",
-      "link": "https://www.yna.co.kr/view/AKR20260721138600008",
-      "pubDate": "Tue, 21 Jul 2026 15:34:36 +0900"
-    },
-    {
-      "title": "KB국민은행 \"숨은 금융자산 찾아가세요\"…내달 31일까지",
-      "link": "https://www.yna.co.kr/view/AKR20260721132500002",
-      "pubDate": "Tue, 21 Jul 2026 15:31:12 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.0원 내린 1,473.4원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260721137700002",
-      "pubDate": "Tue, 21 Jul 2026 15:30:51 +0900"
-    },
-    {
-      "title": "재경부, 공공기관 청년인턴 간담회…\"지역 일자리 중심\"",
-      "link": "https://www.yna.co.kr/view/AKR20260721131200002",
-      "pubDate": "Tue, 21 Jul 2026 15:30:01 +0900"
-    },
-    {
-      "title": "\"복날에 삼계탕 대신 치킨\"…주문 급증에 신제품·할인 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260721134400030",
-      "pubDate": "Tue, 21 Jul 2026 15:21:45 +0900"
-    },
-    {
-      "title": "광주상의, JB금융·BNK금융지주 합병 제안 \"우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260721133900054",
-      "pubDate": "Tue, 21 Jul 2026 15:21:39 +0900"
-    },
-    {
-      "title": "경기지역 중고생 900명 고양서 창업 아이디어 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260721133000060",
-      "pubDate": "Tue, 21 Jul 2026 15:14:39 +0900"
-    },
-    {
-      "title": "엔제리너스, 콘진원과 K-캐릭터 IP 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260721123900030",
-      "pubDate": "Tue, 21 Jul 2026 15:12:24 +0900"
-    },
-    {
-      "title": "울산 상반기 수출, 작년보다 14.7% 증가…하반기도 증가세 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260721125900057",
-      "pubDate": "Tue, 21 Jul 2026 15:08:33 +0900"
-    },
-    {
-      "title": "카카오뱅크 노조, 31일 전일 파업…임금교섭 결렬(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260721100851017",
-      "pubDate": "Tue, 21 Jul 2026 15:00:44 +0900"
-    },
-    {
-      "title": "LH, 민간참여사업 금융지원 설명회…최대 90% 보증",
-      "link": "https://www.yna.co.kr/view/AKR20260721104300003",
-      "pubDate": "Tue, 21 Jul 2026 15:00:09 +0900"
-    },
-    {
-      "title": "JP모간 \"韓증시 급락, 레버리지 ETF 영향…청산 75% 진행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260721122300008",
-      "pubDate": "Tue, 21 Jul 2026 14:58:48 +0900"
-    },
-    {
-      "title": "은평구, 비행안전구역 변경 추진에 환영…\"수색동 개발에 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260721126200004",
-      "pubDate": "Tue, 21 Jul 2026 14:56:00 +0900"
-    },
-    {
-      "title": "장수 하오마을 김부각, 미국에 3억원어치 수출",
-      "link": "https://www.yna.co.kr/view/AKR20260721126400055",
-      "pubDate": "Tue, 21 Jul 2026 14:52:09 +0900"
-    },
-    {
-      "title": "김해시, 특별교통수단 시내요금 인상 잠정 중단…단일요금 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260721114000052",
-      "pubDate": "Tue, 21 Jul 2026 14:41:20 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260721123400002",
-      "pubDate": "Tue, 21 Jul 2026 14:36:32 +0900"
-    },
-    {
-      "title": "울산시 금고 경남은행·농협은행, 예금금리 상향 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260721117100057",
-      "pubDate": "Tue, 21 Jul 2026 14:32:09 +0900"
-    },
-    {
-      "title": "중소·벤처 자금조달 더 쉬워진다…소액공모 기준 10억→30억원",
-      "link": "https://www.yna.co.kr/view/AKR20260721114300002",
-      "pubDate": "Tue, 21 Jul 2026 14:31:44 +0900"
     }
   ]
 }
