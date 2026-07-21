@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784663828,
+  "updated_at_unix": 1784667607,
   "items": [
+    {
+      "title": "삼성, 오늘 런던 언팩…폴드8·첫 스마트글래스 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260721180500017",
+      "pubDate": "Wed, 22 Jul 2026 05:45:00 +0900"
+    },
+    {
+      "title": "미·이란 충돌 격화에 홍해 봉쇄 위협까지…국제유가 2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260722007500072",
+      "pubDate": "Wed, 22 Jul 2026 05:00:43 +0900"
+    },
     {
       "title": "靑 \"李대통령, 주택 매수인 사적인연 없어…특혜주장 어불성설\"",
       "link": "https://www.yna.co.kr/view/AKR20260721181400001",
@@ -142,16 +152,6 @@
       "title": "AI·드론으로 농지·국유재산 조사…디지털 관리체계 강화",
       "link": "https://www.yna.co.kr/view/AKR20260721143900002",
       "pubDate": "Tue, 21 Jul 2026 16:00:01 +0900"
-    },
-    {
-      "title": "저가매수? 반도체 우려 완화?…삼전·닉스, 6%·4%대 반등(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260721041752008",
-      "pubDate": "Tue, 21 Jul 2026 15:54:46 +0900"
-    },
-    {
-      "title": "전북은행, 전주시 다문화아동 캠프에 1억원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260721140500055",
-      "pubDate": "Tue, 21 Jul 2026 15:48:35 +0900"
     }
   ]
 }
