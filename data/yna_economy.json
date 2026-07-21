@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784634195,
+  "updated_at_unix": 1784639502,
   "items": [
+    {
+      "title": "靑 \"李대통령, 주택 매수인 사적인연 없어…특혜주장 어불성설\"",
+      "link": "https://www.yna.co.kr/view/AKR20260721181400001",
+      "pubDate": "Tue, 21 Jul 2026 20:41:06 +0900"
+    },
     {
       "title": "반도체 호조에 7월 중순 수출액 549억달러…52.3% 늘어 신기록(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260721034952002",
@@ -147,11 +152,6 @@
       "title": "전북은행, 전주시 다문화아동 캠프에 1억원 전달",
       "link": "https://www.yna.co.kr/view/AKR20260721140500055",
       "pubDate": "Tue, 21 Jul 2026 15:48:35 +0900"
-    },
-    {
-      "title": "[특징주] '사랑의 하츄핑2' 개봉 기대감?…SAMG엔터 7%대 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260721059151008",
-      "pubDate": "Tue, 21 Jul 2026 15:39:40 +0900"
     }
   ]
 }
