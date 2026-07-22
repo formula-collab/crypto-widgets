@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784724765,
+  "updated_at_unix": 1784731995,
   "items": [
+    {
+      "title": "삼성, 토니상 박천휴와 손잡고 언팩 무대 바꿨다",
+      "link": "https://www.yna.co.kr/view/AKR20260722159700017",
+      "pubDate": "Wed, 22 Jul 2026 22:00:05 +0900"
+    },
+    {
+      "title": "삼성, 폴드8·울트라·플립8 공개…AI 폴더블 시대 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260722133100017",
+      "pubDate": "Wed, 22 Jul 2026 22:00:01 +0900"
+    },
     {
       "title": "국토장관 \"기업 시간표 맞춰 산단 조성 신속 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260722168800003",
@@ -142,16 +152,6 @@
       "title": "농식품부, 농산업 창업 희망 청년에 뉴질랜드 연수 지원",
       "link": "https://www.yna.co.kr/view/AKR20260722117100030",
       "pubDate": "Wed, 22 Jul 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[동정] 데이터처장, 폭염 속 조사 응답가구 방문해 안부 살펴",
-      "link": "https://www.yna.co.kr/view/AKR20260722133200002",
-      "pubDate": "Wed, 22 Jul 2026 16:00:00 +0900"
-    },
-    {
-      "title": "인천 6월 수입, 전년보다 20% 증가…무역수지 2.3억달러 적자",
-      "link": "https://www.yna.co.kr/view/AKR20260722131400065",
-      "pubDate": "Wed, 22 Jul 2026 16:00:00 +0900"
     }
   ]
 }
