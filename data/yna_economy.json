@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784711090,
+  "updated_at_unix": 1784719371,
   "items": [
+    {
+      "title": "국토장관 \"기업 시간표 맞춰 산단 조성 신속 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260722168800003",
+      "pubDate": "Wed, 22 Jul 2026 19:43:26 +0900"
+    },
+    {
+      "title": "한국노총 울산본부·고려아연 노사, 고용안정 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260722166100057",
+      "pubDate": "Wed, 22 Jul 2026 18:27:56 +0900"
+    },
+    {
+      "title": "한국수력원자력, 하반기 신입사원 229명 채용",
+      "link": "https://www.yna.co.kr/view/AKR20260722162000003",
+      "pubDate": "Wed, 22 Jul 2026 18:02:27 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260722152700011",
@@ -137,21 +152,6 @@
       "title": "인천 6월 수입, 전년보다 20% 증가…무역수지 2.3억달러 적자",
       "link": "https://www.yna.co.kr/view/AKR20260722131400065",
       "pubDate": "Wed, 22 Jul 2026 16:00:00 +0900"
-    },
-    {
-      "title": "후티 봉쇄에 원유공급 타격 우려…환율 장중 1,480원대 중반으로",
-      "link": "https://www.yna.co.kr/view/AKR20260722131500002",
-      "pubDate": "Wed, 22 Jul 2026 15:47:30 +0900"
-    },
-    {
-      "title": "해운항만 벤처 생태계 확장 모색…'부산 오픈 포트 2026'",
-      "link": "https://www.yna.co.kr/view/AKR20260722131300051",
-      "pubDate": "Wed, 22 Jul 2026 15:46:09 +0900"
-    },
-    {
-      "title": "춘천시 \"고유가피해지원금 380억 소비…지역 상권에 활력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260722129700062",
-      "pubDate": "Wed, 22 Jul 2026 15:44:02 +0900"
     }
   ]
 }
