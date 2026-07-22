@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784756008,
+  "updated_at_unix": 1784760675,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260723017500011",
+      "pubDate": "Thu, 23 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 민주콩고 동부지역의 총, 균 그리고 광물 전쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260714026200898",
+      "pubDate": "Thu, 23 Jul 2026 07:00:05 +0900"
+    },
     {
       "title": "식품·외식업 임금, 타 업종 60∼80%…전문대졸 이상 격차 커져",
       "link": "https://www.yna.co.kr/view/AKR20260722179700030",
@@ -142,16 +152,6 @@
       "title": "한미 관세당국, 마약 밀반입 차단까지 협력 범위 넓힌다",
       "link": "https://www.yna.co.kr/view/AKR20260722143000002",
       "pubDate": "Wed, 22 Jul 2026 16:38:53 +0900"
-    },
-    {
-      "title": "KB국민은행 사외이사 후보에 정윤경 성균관대 교수",
-      "link": "https://www.yna.co.kr/view/AKR20260722144600002",
-      "pubDate": "Wed, 22 Jul 2026 16:38:26 +0900"
-    },
-    {
-      "title": "\"대전 유등교 가설교량 건설 과정서 절차 누락 공무원 송치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260722142800063",
-      "pubDate": "Wed, 22 Jul 2026 16:36:55 +0900"
     }
   ]
 }
