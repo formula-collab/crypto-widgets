@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784760675,
+  "updated_at_unix": 1784764350,
   "items": [
+    {
+      "title": "신한투자 \"고려아연, 2분기 실적둔화…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723031400008",
+      "pubDate": "Thu, 23 Jul 2026 08:41:21 +0900"
+    },
+    {
+      "title": "[인사] Sh수협은행",
+      "link": "https://www.yna.co.kr/view/AKR20260723030800002",
+      "pubDate": "Thu, 23 Jul 2026 08:39:48 +0900"
+    },
+    {
+      "title": "하나은행, '하나의 정기예금' 1년만기 금리 0.3%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260723030900002",
+      "pubDate": "Thu, 23 Jul 2026 08:38:36 +0900"
+    },
+    {
+      "title": "[부고] 남두우(라이프자산운용 대표)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260723031000008",
+      "pubDate": "Thu, 23 Jul 2026 08:38:17 +0900"
+    },
+    {
+      "title": "대신증권 \"한전KPS, 美시장 진출 모멘텀 지연…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723030100008",
+      "pubDate": "Thu, 23 Jul 2026 08:35:23 +0900"
+    },
+    {
+      "title": "키움증권 \"포스코인터, 실적 성장성 우수…배당 성장 가시성↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723028000008",
+      "pubDate": "Thu, 23 Jul 2026 08:27:45 +0900"
+    },
+    {
+      "title": "한투증권 \"삼양식품, 日업체 대비 PER 낮아…확실한 바닥 신호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723027600008",
+      "pubDate": "Thu, 23 Jul 2026 08:25:44 +0900"
+    },
+    {
+      "title": "김상욱 울산시장, 경제자유구역 기업 만나 애로사항 청취",
+      "link": "https://www.yna.co.kr/view/AKR20260723026000057",
+      "pubDate": "Thu, 23 Jul 2026 08:10:42 +0900"
+    },
+    {
+      "title": "[마켓뷰] 알파벳 'AI투자확대 vs 과도한 지출 우려'…코스피 향배는",
+      "link": "https://www.yna.co.kr/view/AKR20260723022400008",
+      "pubDate": "Thu, 23 Jul 2026 08:08:37 +0900"
+    },
+    {
+      "title": "부산시, 소상공인 등 공유재산 임대료 50% 감면 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260723022800051",
+      "pubDate": "Thu, 23 Jul 2026 08:01:25 +0900"
+    },
+    {
+      "title": "2분기 한국 경제 0.6% 성장…반도체 수출로 중동발 악재 상쇄",
+      "link": "https://www.yna.co.kr/view/AKR20260723021100002",
+      "pubDate": "Thu, 23 Jul 2026 08:00:00 +0900"
+    },
+    {
+      "title": "서울 중구, 전국 첫 '눈에 보이는 도시계획정보 서비스'",
+      "link": "https://www.yna.co.kr/view/AKR20260723023200004",
+      "pubDate": "Thu, 23 Jul 2026 07:53:07 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260723017500011",
@@ -92,66 +152,6 @@
       "title": "산업은행, 여수사업재편 지원 채권금융기관 회의…금융지원 논의",
       "link": "https://www.yna.co.kr/view/AKR20260722158800002",
       "pubDate": "Wed, 22 Jul 2026 17:45:57 +0900"
-    },
-    {
-      "title": "넥스틸 \"미국 법인 주식 738억원어치 취득…지분율 50%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260722155800008",
-      "pubDate": "Wed, 22 Jul 2026 17:26:54 +0900"
-    },
-    {
-      "title": "아파트 1만2천호 공급 '세종 조치원·연기 주택사업' 무산 수순",
-      "link": "https://www.yna.co.kr/view/AKR20260722154500063",
-      "pubDate": "Wed, 22 Jul 2026 17:24:57 +0900"
-    },
-    {
-      "title": "법정이자율 초과 이자 강요·폭행한 50대 경찰 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260722151900055",
-      "pubDate": "Wed, 22 Jul 2026 17:17:55 +0900"
-    },
-    {
-      "title": "유가 등에 국고채 금리 일제히 상승…10년물 연고점 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260722145151008",
-      "pubDate": "Wed, 22 Jul 2026 17:08:01 +0900"
-    },
-    {
-      "title": "동해·묵호항 상반기 물동량 1천313만t…전년 대비 3.6% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260722147900062",
-      "pubDate": "Wed, 22 Jul 2026 17:07:07 +0900"
-    },
-    {
-      "title": "[동정] 홍문표 aT 사장, 최재구 예산군수 면담",
-      "link": "https://www.yna.co.kr/view/AKR20260722148000030",
-      "pubDate": "Wed, 22 Jul 2026 17:00:00 +0900"
-    },
-    {
-      "title": "코카콜라음료, 내달 1일 편의점 출고가 평균 7.2% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260722148100030",
-      "pubDate": "Wed, 22 Jul 2026 16:58:31 +0900"
-    },
-    {
-      "title": "에이치엘지노믹스, 코스닥 신규 상장…24일 거래 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260722148500008",
-      "pubDate": "Wed, 22 Jul 2026 16:57:16 +0900"
-    },
-    {
-      "title": "대법 \"2018년 이후 '제휴사 포인트 결제액'은 부가세 부과 가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260722143300004",
-      "pubDate": "Wed, 22 Jul 2026 16:56:49 +0900"
-    },
-    {
-      "title": "아직 불안한 반도체 투심…삼전닉스 6~9% 급등했다 '반납'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260722067051008",
-      "pubDate": "Wed, 22 Jul 2026 16:51:29 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.913%",
-      "link": "https://www.yna.co.kr/view/AKR20260722145100008",
-      "pubDate": "Wed, 22 Jul 2026 16:42:34 +0900"
-    },
-    {
-      "title": "한미 관세당국, 마약 밀반입 차단까지 협력 범위 넓힌다",
-      "link": "https://www.yna.co.kr/view/AKR20260722143000002",
-      "pubDate": "Wed, 22 Jul 2026 16:38:53 +0900"
     }
   ]
 }
