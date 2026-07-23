@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784808440,
+  "updated_at_unix": 1784817461,
   "items": [
+    {
+      "title": "워싱턴에 한미 조선협력센터 개소…'마스가' 속도 낸다",
+      "link": "https://www.yna.co.kr/view/AKR20260723167200003",
+      "pubDate": "Thu, 23 Jul 2026 23:00:00 +0900"
+    },
+    {
+      "title": "미·이란 충돌에 홍해 유조선 피격까지…브렌트유 100달러 돌파(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260723195252072",
+      "pubDate": "Thu, 23 Jul 2026 22:54:24 +0900"
+    },
+    {
+      "title": "유가 급등에 미국채 금리도 상승세…10년물 4.7% 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260723196200072",
+      "pubDate": "Thu, 23 Jul 2026 22:40:51 +0900"
+    },
+    {
+      "title": "[2보] 중동 긴장 고조에 브렌트유 두달만에 100달러 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260723195251072",
+      "pubDate": "Thu, 23 Jul 2026 22:30:24 +0900"
+    },
     {
       "title": "국민성장펀드, LG디스플레이에 1조원대 저리대출",
       "link": "https://www.yna.co.kr/view/AKR20260723190100002",
@@ -132,26 +152,6 @@
       "title": "중진공-이민정책학회, 중소기업 외국인력 지원 체계 구축 협약",
       "link": "https://www.yna.co.kr/view/AKR20260723152800030",
       "pubDate": "Thu, 23 Jul 2026 16:19:50 +0900"
-    },
-    {
-      "title": "[특징주] OCI홀딩스, 2분기 흑자 전환에 상한가 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723070551008",
-      "pubDate": "Thu, 23 Jul 2026 16:10:59 +0900"
-    },
-    {
-      "title": "경남 농수산식품, 글로벌 시장서 통했다…상반기 수출 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260723150500052",
-      "pubDate": "Thu, 23 Jul 2026 16:10:47 +0900"
-    },
-    {
-      "title": "NH증권, 2분기 순익 '역대 최대' 4천894억원…영업익 6천812억원",
-      "link": "https://www.yna.co.kr/view/AKR20260723103200008",
-      "pubDate": "Thu, 23 Jul 2026 16:07:15 +0900"
-    },
-    {
-      "title": "삼전·닉스, 3∼4% 급등…외국인 순매수 1·2위(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723056151008",
-      "pubDate": "Thu, 23 Jul 2026 16:06:58 +0900"
     }
   ]
 }
