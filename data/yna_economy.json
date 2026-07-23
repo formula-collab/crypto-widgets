@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784793201,
+  "updated_at_unix": 1784801348,
   "items": [
+    {
+      "title": "오스코텍, 창업주 지분 상속 완료…아들 최대주주",
+      "link": "https://www.yna.co.kr/view/AKR20260723183500017",
+      "pubDate": "Thu, 23 Jul 2026 18:58:43 +0900"
+    },
+    {
+      "title": "토비스의 네오뷰, 코스닥 시장 분할재상장",
+      "link": "https://www.yna.co.kr/view/AKR20260723177600008",
+      "pubDate": "Thu, 23 Jul 2026 18:39:34 +0900"
+    },
+    {
+      "title": "미래에셋증권, 5천24억원 자사주 소각…\"역대 최대 규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723178300008",
+      "pubDate": "Thu, 23 Jul 2026 18:38:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260723172900011",
+      "pubDate": "Thu, 23 Jul 2026 18:00:01 +0900"
+    },
+    {
+      "title": "삼성전자, CSS 사업팀 일부 인력 메모리사업부 등으로 재배치",
+      "link": "https://www.yna.co.kr/view/AKR20260723175300003",
+      "pubDate": "Thu, 23 Jul 2026 17:46:36 +0900"
+    },
+    {
+      "title": "한은, 8월 최대 6.8조원 규모 통화안정증권 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260723171400002",
+      "pubDate": "Thu, 23 Jul 2026 17:44:23 +0900"
+    },
+    {
+      "title": "증권사 어닝시즌 개막…KB·NH 최대 실적에 '호실적 랠리' 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260723173300008",
+      "pubDate": "Thu, 23 Jul 2026 17:40:31 +0900"
+    },
+    {
+      "title": "바이오헬스산업 이끌 '보건의료 국가대표기술' 선정·지원",
+      "link": "https://www.yna.co.kr/view/AKR20260723171700530",
+      "pubDate": "Thu, 23 Jul 2026 17:32:11 +0900"
+    },
+    {
+      "title": "SK텔레콤 \"계열사 에스케이하이퍼 주식 3천300억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723172600008",
+      "pubDate": "Thu, 23 Jul 2026 17:32:02 +0900"
+    },
+    {
+      "title": "IPARK현대산업개발 2분기 영업익 1천227억원…작년 대비 53%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260723171600003",
+      "pubDate": "Thu, 23 Jul 2026 17:31:55 +0900"
+    },
+    {
+      "title": "2분기 깜짝 성장률에도 국고채 금리 보합권 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260723159751008",
+      "pubDate": "Thu, 23 Jul 2026 17:09:43 +0900"
+    },
+    {
+      "title": "[동정] 인태연 소진공 이사장, 대전 태평시장 찾아 시장 활성화 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260723163400030",
+      "pubDate": "Thu, 23 Jul 2026 17:06:20 +0900"
+    },
+    {
+      "title": "'고객 의견을 신상품에 반영'…무신사 스탠다드, 하반기 프리뷰",
+      "link": "https://www.yna.co.kr/view/AKR20260723162100030",
+      "pubDate": "Thu, 23 Jul 2026 17:05:56 +0900"
+    },
+    {
+      "title": "코스트코 청주점 입점 무산 위기 맞나…땅값 문제로 삐걱",
+      "link": "https://www.yna.co.kr/view/AKR20260723126400064",
+      "pubDate": "Thu, 23 Jul 2026 17:01:06 +0900"
+    },
+    {
+      "title": "농식품부, '청년이 바로팜' 워크숍 개최…온라인 직거래 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260723083800030",
+      "pubDate": "Thu, 23 Jul 2026 17:00:01 +0900"
+    },
+    {
+      "title": "대통령 이어 총리 주재 '부동산정책 대토론회' 27일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260723158800001",
+      "pubDate": "Thu, 23 Jul 2026 16:47:23 +0900"
+    },
+    {
+      "title": "춘천 수열에너지 클러스터, AI 데이터센터 투자처 급부상",
+      "link": "https://www.yna.co.kr/view/AKR20260723159000062",
+      "pubDate": "Thu, 23 Jul 2026 16:44:27 +0900"
+    },
     {
       "title": "국고채 금리 대체로 하락…3년물 연 3.917%",
       "link": "https://www.yna.co.kr/view/AKR20260723159700008",
@@ -67,91 +152,6 @@
       "title": "농식품부, 16개 시군 정비·개발에 5년간 최대 400억원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260723079300030",
       "pubDate": "Thu, 23 Jul 2026 16:00:02 +0900"
-    },
-    {
-      "title": "중진공, 일본 중소기업 지원기관과 지역 소멸 대응 방안 협의",
-      "link": "https://www.yna.co.kr/view/AKR20260723138900030",
-      "pubDate": "Thu, 23 Jul 2026 15:59:11 +0900"
-    },
-    {
-      "title": "[특징주] 삼성전기, 글로벌 기업과 공급계약 체결에 7%대 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723047851008",
-      "pubDate": "Thu, 23 Jul 2026 15:52:11 +0900"
-    },
-    {
-      "title": "[특징주] LS일렉트릭, 2분기 사상 최대 실적에 17%대 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723126851008",
-      "pubDate": "Thu, 23 Jul 2026 15:51:45 +0900"
-    },
-    {
-      "title": "KB증권 상반기 영업익 '역대최대'…증권가 어닝시즌 시작(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723145400008",
-      "pubDate": "Thu, 23 Jul 2026 15:51:19 +0900"
-    },
-    {
-      "title": "'석유화학 불황' 여수시, 고용위기지역 지정 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260723138400054",
-      "pubDate": "Thu, 23 Jul 2026 15:49:05 +0900"
-    },
-    {
-      "title": "경기도 \"맞춤형 단축근무, 퇴사율 낮추고 일자리 창출 효과↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260723140500060",
-      "pubDate": "Thu, 23 Jul 2026 15:48:01 +0900"
-    },
-    {
-      "title": "\"300배 먹는다\" 밈코인 이용해 수억원 챙긴 인플루언서 일당 징역형",
-      "link": "https://www.yna.co.kr/view/AKR20260723143100004",
-      "pubDate": "Thu, 23 Jul 2026 15:47:48 +0900"
-    },
-    {
-      "title": "LG에너지솔루션, 충북대 등과 배터리 지역인재 양성 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260723145500003",
-      "pubDate": "Thu, 23 Jul 2026 15:45:50 +0900"
-    },
-    {
-      "title": "[특징주] 백화점주, 차익실현에 혼조…롯데쇼핑은 회장 지분매각에 4%대↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723046051008",
-      "pubDate": "Thu, 23 Jul 2026 15:45:02 +0900"
-    },
-    {
-      "title": "트럼프 301조 관세 발표 초읽기…정부, 15% 상한선에 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20260723139100003",
-      "pubDate": "Thu, 23 Jul 2026 15:43:47 +0900"
-    },
-    {
-      "title": "원/엔 환율, 900원 선 아래로…1년 8개월 만에 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260723129951002",
-      "pubDate": "Thu, 23 Jul 2026 15:42:01 +0900"
-    },
-    {
-      "title": "외국환시세(7월23일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260723141800002",
-      "pubDate": "Thu, 23 Jul 2026 15:38:05 +0900"
-    },
-    {
-      "title": "신스틸 \"멕시코 종속회사 주식 178억원에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260723139500008",
-      "pubDate": "Thu, 23 Jul 2026 15:36:39 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 4.4% 급등 '7천피' 탈환…코스닥도 5%대↑",
-      "link": "https://www.yna.co.kr/view/AKR20260723141000008",
-      "pubDate": "Thu, 23 Jul 2026 15:34:58 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 13.3원 내린 1,466.8원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260723139900002",
-      "pubDate": "Thu, 23 Jul 2026 15:34:41 +0900"
-    },
-    {
-      "title": "청년 10명중 9명 취업 사교육…64% \"비용 부담에 경제적 어려움\"",
-      "link": "https://www.yna.co.kr/view/AKR20260723133600530",
-      "pubDate": "Thu, 23 Jul 2026 15:24:59 +0900"
-    },
-    {
-      "title": "광양경자청, 관할 지자체장 연쇄 회동…\"미래산업 경쟁력 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260723129600054",
-      "pubDate": "Thu, 23 Jul 2026 15:19:20 +0900"
     }
   ]
 }
