@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784837220,
+  "updated_at_unix": 1784842282,
   "items": [
+    {
+      "title": "세종이전기업 종사자 특별공급 14세대 신청받았더니…사실상 '0'",
+      "link": "https://www.yna.co.kr/view/AKR20260723164200063",
+      "pubDate": "Fri, 24 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "우수 중견회계법인, 대형사 감사 맡는다…군 상향 특례 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260723190000002",
+      "pubDate": "Fri, 24 Jul 2026 06:00:01 +0900"
+    },
+    {
+      "title": "인플레 우려에 미 주택담보대출 금리 11개월 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260724008900072",
+      "pubDate": "Fri, 24 Jul 2026 05:57:21 +0900"
+    },
+    {
+      "title": "[2보] 미 재무부, 한국 등 10개국 환율 관찰대상국 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260724006951072",
+      "pubDate": "Fri, 24 Jul 2026 05:36:04 +0900"
+    },
+    {
+      "title": "[1보] 미 재무부, 韓 환율 관찰대상국 지위 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260724006900072",
+      "pubDate": "Fri, 24 Jul 2026 05:10:15 +0900"
+    },
+    {
+      "title": "홍해까지 막힐라…브렌트유 7%↑, 두달 만에 종가 100달러 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260724006200072",
+      "pubDate": "Fri, 24 Jul 2026 05:08:40 +0900"
+    },
     {
       "title": "[재산공개] 신현송 한은 총재 82억…취임 후 첫 신고",
       "link": "https://www.yna.co.kr/view/AKR20260723150300002",
@@ -122,36 +152,6 @@
       "title": "대통령 이어 총리 주재 '부동산정책 대토론회' 27일 개최",
       "link": "https://www.yna.co.kr/view/AKR20260723158800001",
       "pubDate": "Thu, 23 Jul 2026 16:47:23 +0900"
-    },
-    {
-      "title": "춘천 수열에너지 클러스터, AI 데이터센터 투자처 급부상",
-      "link": "https://www.yna.co.kr/view/AKR20260723159000062",
-      "pubDate": "Thu, 23 Jul 2026 16:44:27 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.917%",
-      "link": "https://www.yna.co.kr/view/AKR20260723159700008",
-      "pubDate": "Thu, 23 Jul 2026 16:43:38 +0900"
-    },
-    {
-      "title": "KCC, 회사채 수요예측서 7배 몰려…롯데케미칼도 수요 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260723155400008",
-      "pubDate": "Thu, 23 Jul 2026 16:26:16 +0900"
-    },
-    {
-      "title": "SK텔레콤, 주당 830원 현금배당 결정…총 1천760억원",
-      "link": "https://www.yna.co.kr/view/AKR20260723154700017",
-      "pubDate": "Thu, 23 Jul 2026 16:24:53 +0900"
-    },
-    {
-      "title": "국힘 \"李대통령, 본인 집 팔자마자 '보유세 3배' 들먹여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260723150200001",
-      "pubDate": "Thu, 23 Jul 2026 16:24:47 +0900"
-    },
-    {
-      "title": "아리바이오랩, 20억원 유상증자…아리바이오에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260723154000008",
-      "pubDate": "Thu, 23 Jul 2026 16:22:00 +0900"
     }
   ]
 }
