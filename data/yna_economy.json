@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784842282,
+  "updated_at_unix": 1784846671,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260724016300011",
+      "pubDate": "Fri, 24 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "강남구, 일원한솔 재건축추진위 10일만에 승인…처리기간 대폭 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260724014800004",
+      "pubDate": "Fri, 24 Jul 2026 07:14:54 +0900"
+    },
+    {
+      "title": "국민 10명 중 8명 \"반려동물 대중교통 이용 조건부 찬성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723120000030",
+      "pubDate": "Fri, 24 Jul 2026 06:30:02 +0900"
+    },
     {
       "title": "세종이전기업 종사자 특별공급 14세대 신청받았더니…사실상 '0'",
       "link": "https://www.yna.co.kr/view/AKR20260723164200063",
@@ -137,21 +152,6 @@
       "title": "'고객 의견을 신상품에 반영'…무신사 스탠다드, 하반기 프리뷰",
       "link": "https://www.yna.co.kr/view/AKR20260723162100030",
       "pubDate": "Thu, 23 Jul 2026 17:05:56 +0900"
-    },
-    {
-      "title": "코스트코 청주점 입점 무산 위기 맞나…땅값 문제로 삐걱",
-      "link": "https://www.yna.co.kr/view/AKR20260723126400064",
-      "pubDate": "Thu, 23 Jul 2026 17:01:06 +0900"
-    },
-    {
-      "title": "농식품부, '청년이 바로팜' 워크숍 개최…온라인 직거래 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260723083800030",
-      "pubDate": "Thu, 23 Jul 2026 17:00:01 +0900"
-    },
-    {
-      "title": "대통령 이어 총리 주재 '부동산정책 대토론회' 27일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260723158800001",
-      "pubDate": "Thu, 23 Jul 2026 16:47:23 +0900"
     }
   ]
 }
