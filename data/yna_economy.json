@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784801348,
+  "updated_at_unix": 1784808440,
   "items": [
+    {
+      "title": "국민성장펀드, LG디스플레이에 1조원대 저리대출",
+      "link": "https://www.yna.co.kr/view/AKR20260723190100002",
+      "pubDate": "Thu, 23 Jul 2026 20:18:18 +0900"
+    },
+    {
+      "title": "'왕사남 표절 의혹' 상영금지 가처분 기각…\"줄거리 전혀 달라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260723186100004",
+      "pubDate": "Thu, 23 Jul 2026 19:49:50 +0900"
+    },
     {
       "title": "오스코텍, 창업주 지분 상속 완료…아들 최대주주",
       "link": "https://www.yna.co.kr/view/AKR20260723183500017",
@@ -142,16 +152,6 @@
       "title": "삼전·닉스, 3∼4% 급등…외국인 순매수 1·2위(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260723056151008",
       "pubDate": "Thu, 23 Jul 2026 16:06:58 +0900"
-    },
-    {
-      "title": "광주 중앙공원 주주권 소송 파기환송심, 롯데건설 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260723126200054",
-      "pubDate": "Thu, 23 Jul 2026 16:01:15 +0900"
-    },
-    {
-      "title": "농식품부, 16개 시군 정비·개발에 5년간 최대 400억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260723079300030",
-      "pubDate": "Thu, 23 Jul 2026 16:00:02 +0900"
     }
   ]
 }
