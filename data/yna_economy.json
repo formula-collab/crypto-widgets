@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784886047,
+  "updated_at_unix": 1784892504,
   "items": [
+    {
+      "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려",
+      "link": "https://www.yna.co.kr/view/AKR20260724174200108",
+      "pubDate": "Fri, 24 Jul 2026 20:08:35 +0900"
+    },
+    {
+      "title": "규합위,'대주주 적격성' 개선권고…두나무·네이버 '숨통'",
+      "link": "https://www.yna.co.kr/view/AKR20260724168800002",
+      "pubDate": "Fri, 24 Jul 2026 19:30:12 +0900"
+    },
+    {
+      "title": "8차 석유 최고가격 동결…국제유가 급등에 출구전략 일단 정지",
+      "link": "https://www.yna.co.kr/view/AKR20260724136600003",
+      "pubDate": "Fri, 24 Jul 2026 19:00:00 +0900"
+    },
     {
       "title": "5대금융 상반기 순이익 13조 넘겨…'역대 최대' 실적 행렬",
       "link": "https://www.yna.co.kr/view/AKR20260723180200002",
@@ -137,21 +152,6 @@
       "title": "농협금융 상반기 순익 1조7천791억원, 9.2%↑…역대 최대",
       "link": "https://www.yna.co.kr/view/AKR20260724128500002",
       "pubDate": "Fri, 24 Jul 2026 16:03:47 +0900"
-    },
-    {
-      "title": "삼전·닉스, 7∼8%대 급락…외국인·기관 모두 던졌다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260724046151008",
-      "pubDate": "Fri, 24 Jul 2026 16:00:09 +0900"
-    },
-    {
-      "title": "우리금융 2분기 순이익 1조46억원, 7.4%↑…역대 두 번째(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260724125600002",
-      "pubDate": "Fri, 24 Jul 2026 15:56:33 +0900"
-    },
-    {
-      "title": "[특징주] 삼성E&A, 2분기 호실적에 하락장서도 2% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260724038751008",
-      "pubDate": "Fri, 24 Jul 2026 15:44:22 +0900"
     }
   ]
 }
