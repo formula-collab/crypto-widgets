@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1784920390,
+  "updated_at_unix": 1784925767,
   "items": [
+    {
+      "title": "유가, 中·파키스탄 중재설에 6일만에 하락…브렌트유 3.9%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260725004700072",
+      "pubDate": "Sat, 25 Jul 2026 04:58:36 +0900"
+    },
     {
       "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려",
       "link": "https://www.yna.co.kr/view/AKR20260724174200108",
@@ -147,11 +152,6 @@
       "title": "강달러도 누른 하이닉스 효과…환율 0.2원 내린 1,466.6원",
       "link": "https://www.yna.co.kr/view/AKR20260724129300002",
       "pubDate": "Fri, 24 Jul 2026 16:04:39 +0900"
-    },
-    {
-      "title": "농협금융 상반기 순익 1조7천791억원, 9.2%↑…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260724128500002",
-      "pubDate": "Fri, 24 Jul 2026 16:03:47 +0900"
     }
   ]
 }
