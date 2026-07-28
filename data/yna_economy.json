@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785250508,
+  "updated_at_unix": 1785256004,
   "items": [
+    {
+      "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729000600072",
+      "pubDate": "Wed, 29 Jul 2026 00:49:21 +0900"
+    },
     {
       "title": "초고가주택 종부세↑·다주택 장특공제 연간 합산한도…기준 주목",
       "link": "https://www.yna.co.kr/view/AKR20260728173300002",
@@ -147,11 +152,6 @@
       "title": "BNK금융지주 이사회 \"JB금융과 합병 타당성 검토 안 한다\"",
       "link": "https://www.yna.co.kr/view/AKR20260728135200051",
       "pubDate": "Tue, 28 Jul 2026 16:34:38 +0900"
-    },
-    {
-      "title": "농식품부, 익산서 '농촌창업 네트워크 권역 리더 워크숍' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260728101400030",
-      "pubDate": "Tue, 28 Jul 2026 16:30:00 +0900"
     }
   ]
 }
