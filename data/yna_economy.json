@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785278950,
+  "updated_at_unix": 1785282517,
   "items": [
+    {
+      "title": "NH투자 \"ESR켄달스퀘어리츠, 고배당 주가 지지…목표가는↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729029000008",
+      "pubDate": "Wed, 29 Jul 2026 08:39:36 +0900"
+    },
+    {
+      "title": "중기부, 브라질서 'K-뷰티 글로우 위크'…중남미 진출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260729027100030",
+      "pubDate": "Wed, 29 Jul 2026 08:39:09 +0900"
+    },
+    {
+      "title": "키움증권 \"하이브 주가하락, 펀더멘털 대비 과도해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729028000008",
+      "pubDate": "Wed, 29 Jul 2026 08:31:54 +0900"
+    },
+    {
+      "title": "iM증권 \"반도체 수출 위축 가능성 낮아…코스피 하락폭 과도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729027600008",
+      "pubDate": "Wed, 29 Jul 2026 08:31:02 +0900"
+    },
+    {
+      "title": "KB증권 \"한화시스템, 하반기 수익 둔화 전망…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729026500008",
+      "pubDate": "Wed, 29 Jul 2026 08:14:40 +0900"
+    },
+    {
+      "title": "IBK증권, HD현대일렉 목표가↓…\"업종 전반 밸류에이션 조정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729025200008",
+      "pubDate": "Wed, 29 Jul 2026 08:13:11 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美반도체 약세 지속…코스피, 폭락 딛고 반등 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260729024800008",
+      "pubDate": "Wed, 29 Jul 2026 08:11:36 +0900"
+    },
+    {
+      "title": "관악구, '한국전자전'에 관악S밸리관 운영…참가 스타트업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260729025600004",
+      "pubDate": "Wed, 29 Jul 2026 08:09:40 +0900"
+    },
+    {
+      "title": "셀트리온 \"비만치료제 후보물질 비임상 결과 연내 공개\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729023700017",
+      "pubDate": "Wed, 29 Jul 2026 08:04:05 +0900"
+    },
+    {
+      "title": "BNK부산은행, 상생금융·폭염 취약계층 6억7천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260729021900051",
+      "pubDate": "Wed, 29 Jul 2026 07:58:01 +0900"
+    },
+    {
+      "title": "韓-브라질 기업인 한자리에…\"양국은 시대적 파트너, 원팀 희망\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260729007651001",
+      "pubDate": "Wed, 29 Jul 2026 07:44:38 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260729015900011",
@@ -97,61 +152,6 @@
       "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260729000600072",
       "pubDate": "Wed, 29 Jul 2026 00:49:21 +0900"
-    },
-    {
-      "title": "초고가주택 종부세↑·다주택 장특공제 연간 합산한도…기준 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260728173300002",
-      "pubDate": "Tue, 28 Jul 2026 22:34:49 +0900"
-    },
-    {
-      "title": "\"올해 상반기 가상자산 해킹 피해 1.6조…과반수 北 소행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260728152100002",
-      "pubDate": "Tue, 28 Jul 2026 22:00:01 +0900"
-    },
-    {
-      "title": "美 쿠팡 보고서에…주병기 \"배민·네이버에도 같은 잣대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728124751002",
-      "pubDate": "Tue, 28 Jul 2026 19:46:07 +0900"
-    },
-    {
-      "title": "반도체협회 신임 부회장에 박건수 전 산업부 산업정책실장",
-      "link": "https://www.yna.co.kr/view/AKR20260728161500003",
-      "pubDate": "Tue, 28 Jul 2026 18:36:38 +0900"
-    },
-    {
-      "title": "정부, 대미투자 1호로 가스복합화력발전소 건설사업 낙점",
-      "link": "https://www.yna.co.kr/view/AKR20260728156400003",
-      "pubDate": "Tue, 28 Jul 2026 18:04:51 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260728151800011",
-      "pubDate": "Tue, 28 Jul 2026 18:00:00 +0900"
-    },
-    {
-      "title": "내년 기준중위소득 '역대최고' 6.7%↑…4인 가구 692만9천885원",
-      "link": "https://www.yna.co.kr/view/AKR20260728119200530",
-      "pubDate": "Tue, 28 Jul 2026 17:55:01 +0900"
-    },
-    {
-      "title": "SK디앤디, 1천400억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260728155400008",
-      "pubDate": "Tue, 28 Jul 2026 17:46:20 +0900"
-    },
-    {
-      "title": "충북 화장품기업 10개사, 베트남서 628만달러 수출계약",
-      "link": "https://www.yna.co.kr/view/AKR20260728154700064",
-      "pubDate": "Tue, 28 Jul 2026 17:42:52 +0900"
-    },
-    {
-      "title": "7월만 네차례 서킷브레이커…역대급 변동성에 시장안전장치 한계",
-      "link": "https://www.yna.co.kr/view/AKR20260728149200008",
-      "pubDate": "Tue, 28 Jul 2026 17:32:53 +0900"
-    },
-    {
-      "title": "[게시판] 농협상호금융, 'NH10년든든 회전예금' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260728151100030",
-      "pubDate": "Tue, 28 Jul 2026 17:29:45 +0900"
     }
   ]
 }
