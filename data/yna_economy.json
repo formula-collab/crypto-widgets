@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785233168,
+  "updated_at_unix": 1785241070,
   "items": [
+    {
+      "title": "美 쿠팡 보고서에…주병기 \"배민·네이버에도 같은 잣대\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260728124751002",
+      "pubDate": "Tue, 28 Jul 2026 19:46:07 +0900"
+    },
     {
       "title": "반도체협회 신임 부회장에 박건수 전 산업부 산업정책실장",
       "link": "https://www.yna.co.kr/view/AKR20260728161500003",
@@ -147,11 +152,6 @@
       "title": "아진산업 \"美종속회사 주식 366억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260728128400008",
       "pubDate": "Tue, 28 Jul 2026 16:21:56 +0900"
-    },
-    {
-      "title": "증시 폭락 '검은 화요일'…코스피 10.8%·코스닥 7.7%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728121051008",
-      "pubDate": "Tue, 28 Jul 2026 16:20:05 +0900"
     }
   ]
 }
