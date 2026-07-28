@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785275629,
+  "updated_at_unix": 1785278950,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260729015900011",
+      "pubDate": "Wed, 29 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "강남구, 신혼부부·청년 전월세 대출이자 지원 2차 신청자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260729014200004",
+      "pubDate": "Wed, 29 Jul 2026 07:03:07 +0900"
+    },
+    {
+      "title": "[만나보니] \"AI 승부처는 버티컬AI…금융AI 국가대표 키워야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260728144800017",
+      "pubDate": "Wed, 29 Jul 2026 07:00:04 +0900"
+    },
     {
       "title": "한국, 일본보다 에어컨 1.2배 더 틀지만 전기요금은 반값",
       "link": "https://www.yna.co.kr/view/AKR20260728176600003",
@@ -137,21 +152,6 @@
       "title": "[게시판] 농협상호금융, 'NH10년든든 회전예금' 출시",
       "link": "https://www.yna.co.kr/view/AKR20260728151100030",
       "pubDate": "Tue, 28 Jul 2026 17:29:45 +0900"
-    },
-    {
-      "title": "농식품부, 식품업계 원가부담 완화 지원…가격 인상 최소화 유도",
-      "link": "https://www.yna.co.kr/view/AKR20260728137600030",
-      "pubDate": "Tue, 28 Jul 2026 17:27:16 +0900"
-    },
-    {
-      "title": "횡성 바이오 산업 탄력…제네톡스, 150억 규모 공장 증설",
-      "link": "https://www.yna.co.kr/view/AKR20260728149000062",
-      "pubDate": "Tue, 28 Jul 2026 17:24:30 +0900"
-    },
-    {
-      "title": "식약처, 살모넬라 검출된 일부 달걀 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260728146800017",
-      "pubDate": "Tue, 28 Jul 2026 17:17:47 +0900"
     }
   ]
 }
