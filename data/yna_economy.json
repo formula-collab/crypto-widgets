@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785265395,
+  "updated_at_unix": 1785271096,
   "items": [
+    {
+      "title": "국제유가, 미·이란 대화 낙관론에 사흘째 급락…WTI 79달러로",
+      "link": "https://www.yna.co.kr/view/AKR20260729005500072",
+      "pubDate": "Wed, 29 Jul 2026 04:46:18 +0900"
+    },
     {
       "title": "美 카드사 비자, 인력 7% 감축…\"결제 산업 변곡점 대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260729000600072",
@@ -147,11 +152,6 @@
       "title": "한은 강원본부 \"강원 소비심리 소폭 하락…경기 인식 위축\"",
       "link": "https://www.yna.co.kr/view/AKR20260728133400062",
       "pubDate": "Tue, 28 Jul 2026 16:35:13 +0900"
-    },
-    {
-      "title": "BNK금융지주 이사회 \"JB금융과 합병 타당성 검토 안 한다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260728135200051",
-      "pubDate": "Tue, 28 Jul 2026 16:34:38 +0900"
     }
   ]
 }
