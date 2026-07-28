@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785271096,
+  "updated_at_unix": 1785275629,
   "items": [
+    {
+      "title": "한국, 일본보다 에어컨 1.2배 더 틀지만 전기요금은 반값",
+      "link": "https://www.yna.co.kr/view/AKR20260728176600003",
+      "pubDate": "Wed, 29 Jul 2026 06:24:40 +0900"
+    },
+    {
+      "title": "경계선 지능인 5% 이상 위험군…\"상설 지원 법제화 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260728096800530",
+      "pubDate": "Wed, 29 Jul 2026 06:11:00 +0900"
+    },
+    {
+      "title": "울산시, 신정동·일산동 공동주택 건축심의 조건부 가결",
+      "link": "https://www.yna.co.kr/view/AKR20260728172100057",
+      "pubDate": "Wed, 29 Jul 2026 06:09:06 +0900"
+    },
+    {
+      "title": "폭염에 뜨는 공조냉동기계기사…시험 접수 5년새 2배",
+      "link": "https://www.yna.co.kr/view/AKR20260728147000530",
+      "pubDate": "Wed, 29 Jul 2026 06:05:01 +0900"
+    },
+    {
+      "title": "강남 고가주택 보유세 올해 '역대 최대'…실효세율 더 오를 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260728159000003",
+      "pubDate": "Wed, 29 Jul 2026 06:01:00 +0900"
+    },
+    {
+      "title": "회사 수사 대비해 증거 인멸한 직원들…파기환송심서 무죄",
+      "link": "https://www.yna.co.kr/view/AKR20260728112000004",
+      "pubDate": "Wed, 29 Jul 2026 06:00:11 +0900"
+    },
+    {
+      "title": "국민 10명 중 4명 땅 가졌다…토지소유자 2천12만명",
+      "link": "https://www.yna.co.kr/view/AKR20260728129800003",
+      "pubDate": "Wed, 29 Jul 2026 06:00:10 +0900"
+    },
+    {
+      "title": "중기부, 브라질서 中企·스타트업 협력 논의…현지 진출 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260728123700030",
+      "pubDate": "Wed, 29 Jul 2026 06:00:08 +0900"
+    },
+    {
+      "title": "서울시, 잠실종합운동장 일대 랜드마크로…민간투자사업 실시협약",
+      "link": "https://www.yna.co.kr/view/AKR20260728151300004",
+      "pubDate": "Wed, 29 Jul 2026 06:00:05 +0900"
+    },
+    {
+      "title": "상반기 자산유동화증권 발행 26.6조…작년 동기 대비 26.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260728155500002",
+      "pubDate": "Wed, 29 Jul 2026 06:00:04 +0900"
+    },
+    {
+      "title": "엔저에 여행·환테크 수요↑…엔화 환전 19개월 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260728170000002",
+      "pubDate": "Wed, 29 Jul 2026 05:55:00 +0900"
+    },
+    {
+      "title": "'지방이전 반대' 3대 국책은행 내달 11일 공동 집회",
+      "link": "https://www.yna.co.kr/view/AKR20260728162600002",
+      "pubDate": "Wed, 29 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "기업銀 부동산업 연체율 14년만에 최고…상승폭 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260728153000002",
+      "pubDate": "Wed, 29 Jul 2026 05:51:00 +0900"
+    },
+    {
+      "title": "韓-브라질 기업인 한자리에…\"양국은 시대적 파트너, 원팀 희망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729007600001",
+      "pubDate": "Wed, 29 Jul 2026 05:39:31 +0900"
+    },
     {
       "title": "국제유가, 미·이란 대화 낙관론에 사흘째 급락…WTI 79달러로",
       "link": "https://www.yna.co.kr/view/AKR20260729005500072",
@@ -82,76 +152,6 @@
       "title": "식약처, 살모넬라 검출된 일부 달걀 회수",
       "link": "https://www.yna.co.kr/view/AKR20260728146800017",
       "pubDate": "Tue, 28 Jul 2026 17:17:47 +0900"
-    },
-    {
-      "title": "횡성 제이에스엔지니어링, 강원 일자리대상 대상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260728146700062",
-      "pubDate": "Tue, 28 Jul 2026 17:16:06 +0900"
-    },
-    {
-      "title": "[인사] 금융결제원",
-      "link": "https://www.yna.co.kr/view/AKR20260728146000002",
-      "pubDate": "Tue, 28 Jul 2026 17:10:23 +0900"
-    },
-    {
-      "title": "국고채, 주가 급락 속 일제히 강세…3년물 3.829%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728137151008",
-      "pubDate": "Tue, 28 Jul 2026 17:01:02 +0900"
-    },
-    {
-      "title": "플레이그램, 85억원 유증…엠디에스인텔리전스 등에 3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260728141800008",
-      "pubDate": "Tue, 28 Jul 2026 17:00:38 +0900"
-    },
-    {
-      "title": "양주시 '첨단 데이터센터' 구축 업무협약…2032년 준공",
-      "link": "https://www.yna.co.kr/view/AKR20260728137500060",
-      "pubDate": "Tue, 28 Jul 2026 16:51:46 +0900"
-    },
-    {
-      "title": "코스피, 이달 30% 하락에 시총 2천조 증발…역대급 기록 우르르(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728077551008",
-      "pubDate": "Tue, 28 Jul 2026 16:50:54 +0900"
-    },
-    {
-      "title": "NH투자, 5천억 회사채 발행…'반도체 머니' 하이닉스가 인수 관측",
-      "link": "https://www.yna.co.kr/view/AKR20260728137000008",
-      "pubDate": "Tue, 28 Jul 2026 16:48:54 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.829%",
-      "link": "https://www.yna.co.kr/view/AKR20260728137100008",
-      "pubDate": "Tue, 28 Jul 2026 16:45:15 +0900"
-    },
-    {
-      "title": "폭락장에 코스피 변동성지수 '껑충'…7거래일만에 급반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728065851008",
-      "pubDate": "Tue, 28 Jul 2026 16:38:25 +0900"
-    },
-    {
-      "title": "인제니아테라퓨틱스 IPO 공모가 1만2천원 확정",
-      "link": "https://www.yna.co.kr/view/AKR20260728135700017",
-      "pubDate": "Tue, 28 Jul 2026 16:37:16 +0900"
-    },
-    {
-      "title": "[특징주] 폭락장에 증권주 줄줄이 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260728037951008",
-      "pubDate": "Tue, 28 Jul 2026 16:36:32 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260728134500002",
-      "pubDate": "Tue, 28 Jul 2026 16:36:30 +0900"
-    },
-    {
-      "title": "'증시폭락' 긴급진단…리서치센터장들 \"낙폭 과도, 극단적 저평가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260728102400008",
-      "pubDate": "Tue, 28 Jul 2026 16:35:17 +0900"
-    },
-    {
-      "title": "한은 강원본부 \"강원 소비심리 소폭 하락…경기 인식 위축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260728133400062",
-      "pubDate": "Tue, 28 Jul 2026 16:35:13 +0900"
     }
   ]
 }
