@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785335899,
+  "updated_at_unix": 1785341635,
   "items": [
+    {
+      "title": "국제유가, 중동 무력충돌 재개에 7%대 급등↑…브렌트 90달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260730000800072",
+      "pubDate": "Thu, 30 Jul 2026 00:27:06 +0900"
+    },
+    {
+      "title": "李대통령 \"한-칠레 FTA, 환경에 맞게 진화해야…핵심광물 협력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729186900001",
+      "pubDate": "Wed, 29 Jul 2026 23:36:48 +0900"
+    },
     {
       "title": "당국 \"단일종목레버리지 개인투자한도 설정·긴급시 안정화조치\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260729181752002",
@@ -142,16 +152,6 @@
       "title": "광주군공항 부지 250만평 호남권 반도체 국가산단 후보지 지정",
       "link": "https://www.yna.co.kr/view/AKR20260729152800003",
       "pubDate": "Wed, 29 Jul 2026 16:37:17 +0900"
-    },
-    {
-      "title": "우리금융, 전북혁신도시 '우리원 금융타운' 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260729093000002",
-      "pubDate": "Wed, 29 Jul 2026 16:30:00 +0900"
-    },
-    {
-      "title": "'실적발표' 하이닉스, 9.6% 급락…장중 20% 가까이 폭락(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260729043552008",
-      "pubDate": "Wed, 29 Jul 2026 16:29:37 +0900"
     }
   ]
 }
