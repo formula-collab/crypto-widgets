@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785328009,
+  "updated_at_unix": 1785335899,
   "items": [
+    {
+      "title": "당국 \"단일종목레버리지 개인투자한도 설정·긴급시 안정화조치\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260729181752002",
+      "pubDate": "Wed, 29 Jul 2026 21:54:17 +0900"
+    },
+    {
+      "title": "당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729181751002",
+      "pubDate": "Wed, 29 Jul 2026 21:41:25 +0900"
+    },
+    {
+      "title": "양도세 高차익에 정조준…한시적 매도 유인 카드 '만지작'",
+      "link": "https://www.yna.co.kr/view/AKR20260729181600002",
+      "pubDate": "Wed, 29 Jul 2026 21:36:01 +0900"
+    },
+    {
+      "title": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260729181700002",
+      "pubDate": "Wed, 29 Jul 2026 21:23:51 +0900"
+    },
     {
       "title": "에이전트AI, 65억원 유상증자…프라임밸류투자조합에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20260729173200008",
@@ -132,26 +152,6 @@
       "title": "'실적발표' 하이닉스, 9.6% 급락…장중 20% 가까이 폭락(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260729043552008",
       "pubDate": "Wed, 29 Jul 2026 16:29:37 +0900"
-    },
-    {
-      "title": "모트렉스 \"종속회사 모빌리스 주식 162억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260729148100008",
-      "pubDate": "Wed, 29 Jul 2026 16:24:33 +0900"
-    },
-    {
-      "title": "코스피 5.9%↓ '6천피' 밑으로…이틀간 1천포인트 이상 빠졌다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729135551008",
-      "pubDate": "Wed, 29 Jul 2026 16:23:51 +0900"
-    },
-    {
-      "title": "가덕신공항 건설공단, 활주로 예정 구간 연약지반 안전성 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260729145600051",
-      "pubDate": "Wed, 29 Jul 2026 16:20:48 +0900"
-    },
-    {
-      "title": "[바이오스냅] 셀트리온제약, 황새보호 위해 인공둥지탑 설치",
-      "link": "https://www.yna.co.kr/view/AKR20260729144000017",
-      "pubDate": "Wed, 29 Jul 2026 16:16:46 +0900"
     }
   ]
 }
