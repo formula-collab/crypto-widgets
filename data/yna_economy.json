@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785363960,
+  "updated_at_unix": 1785367689,
   "items": [
+    {
+      "title": "구직 활동 하는데도…구직자 63% \"나는 '쉬었음' 상태\"",
+      "link": "https://www.yna.co.kr/view/AKR20260730030400003",
+      "pubDate": "Thu, 30 Jul 2026 08:16:02 +0900"
+    },
+    {
+      "title": "[마켓뷰] '연이틀 폭락' 국내증시, 반등하나 공포 지속되나",
+      "link": "https://www.yna.co.kr/view/AKR20260730029100008",
+      "pubDate": "Thu, 30 Jul 2026 08:15:57 +0900"
+    },
+    {
+      "title": "美연준 '깜짝 인상' 없이 '매파적 동결'…시장은 인플레 우려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260730007251072",
+      "pubDate": "Thu, 30 Jul 2026 08:09:20 +0900"
+    },
+    {
+      "title": "[르포] \"집에선 에어컨 이렇게 못 틀어요\"…은행이 무더위 쉼터 됐다",
+      "link": "https://www.yna.co.kr/view/AKR20260729161100053",
+      "pubDate": "Thu, 30 Jul 2026 08:01:01 +0900"
+    },
+    {
+      "title": "용산구, 재건축·재개발 '갈등관리조정관' 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20260730027000004",
+      "pubDate": "Thu, 30 Jul 2026 07:56:18 +0900"
+    },
+    {
+      "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
+      "link": "https://www.yna.co.kr/view/AKR20260730017900002",
+      "pubDate": "Thu, 30 Jul 2026 07:33:28 +0900"
+    },
+    {
+      "title": "부산시 산하 13개 공공기관 통합채용…133명 계획",
+      "link": "https://www.yna.co.kr/view/AKR20260729149200051",
+      "pubDate": "Thu, 30 Jul 2026 07:32:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260730020500011",
+      "pubDate": "Thu, 30 Jul 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[시간들] 증시 아노미…靑 경제사령탑이 던져야 할 메시지는",
+      "link": "https://www.yna.co.kr/view/AKR20260729076100546",
+      "pubDate": "Thu, 30 Jul 2026 07:20:00 +0900"
+    },
     {
       "title": "강남구, 재건축 '신속추진 전문가 지원단' 출범",
       "link": "https://www.yna.co.kr/view/AKR20260730020000004",
@@ -107,51 +152,6 @@
       "title": "당국 \"단일종목레버리지 개인투자한도 설정·긴급시 안정화조치\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260729181752002",
       "pubDate": "Wed, 29 Jul 2026 21:54:17 +0900"
-    },
-    {
-      "title": "당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260729181751002",
-      "pubDate": "Wed, 29 Jul 2026 21:41:25 +0900"
-    },
-    {
-      "title": "양도세 高차익에 정조준…한시적 매도 유인 카드 '만지작'",
-      "link": "https://www.yna.co.kr/view/AKR20260729181600002",
-      "pubDate": "Wed, 29 Jul 2026 21:36:01 +0900"
-    },
-    {
-      "title": "[속보] 금융당국 \"단일종목 레버리지 개인별 투자한도로 총량관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260729181700002",
-      "pubDate": "Wed, 29 Jul 2026 21:23:51 +0900"
-    },
-    {
-      "title": "에이전트AI, 65억원 유상증자…프라임밸류투자조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260729173200008",
-      "pubDate": "Wed, 29 Jul 2026 19:16:06 +0900"
-    },
-    {
-      "title": "李대통령 아파트 근저당에…이억원 \"사인간 거래\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729142251002",
-      "pubDate": "Wed, 29 Jul 2026 18:19:26 +0900"
-    },
-    {
-      "title": "풀무원, 400억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260729168400008",
-      "pubDate": "Wed, 29 Jul 2026 18:11:36 +0900"
-    },
-    {
-      "title": "與 \"대책 발표 늦어\"·野 \"선거에 졸속도입\"…정무위서 ETF 질타(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729121451001",
-      "pubDate": "Wed, 29 Jul 2026 18:08:02 +0900"
-    },
-    {
-      "title": "이억원 \"단일종목 레버리지 변동성에 책임 무거워…송구하다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729094251002",
-      "pubDate": "Wed, 29 Jul 2026 18:01:17 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260729161600011",
-      "pubDate": "Wed, 29 Jul 2026 18:00:01 +0900"
     }
   ]
 }
