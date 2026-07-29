@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785355569,
+  "updated_at_unix": 1785360224,
   "items": [
+    {
+      "title": "연준 금리동결에 시장 실망감…美주식·채권 동반 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260730012351072",
+      "pubDate": "Thu, 30 Jul 2026 06:17:17 +0900"
+    },
+    {
+      "title": "국토부, 스마트도시 포털 개편…지자체·기업 온라인 매칭 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260729144800003",
+      "pubDate": "Thu, 30 Jul 2026 06:00:10 +0900"
+    },
+    {
+      "title": "중기부, '사회혁신 소셜벤처 리그' 공모…최대 1억5천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260729156800030",
+      "pubDate": "Thu, 30 Jul 2026 06:00:06 +0900"
+    },
+    {
+      "title": "반도체 호황에 제조업 체감경기 4년 1개월 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260729159800002",
+      "pubDate": "Thu, 30 Jul 2026 06:00:02 +0900"
+    },
+    {
+      "title": "가상자산사업자 과반, 부채비율 요건 미충족…생존 위기",
+      "link": "https://www.yna.co.kr/view/AKR20260729155900002",
+      "pubDate": "Thu, 30 Jul 2026 05:53:01 +0900"
+    },
+    {
+      "title": "도수치료 묶자 비슷한 비급여 치료 3배로 쑥…실손보험 풍선효과",
+      "link": "https://www.yna.co.kr/view/AKR20260729181800002",
+      "pubDate": "Thu, 30 Jul 2026 05:51:01 +0900"
+    },
+    {
+      "title": "미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260730011751072",
+      "pubDate": "Thu, 30 Jul 2026 05:08:41 +0900"
+    },
+    {
+      "title": "美금리 3.50∼3.75% 5연속 동결…연준 의장 \"인플레 2% 목표\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260730003852071",
+      "pubDate": "Thu, 30 Jul 2026 05:05:20 +0900"
+    },
+    {
+      "title": "[1보] 미국채 30년물 금리 5.2%대로 급등…2007년 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260730011700072",
+      "pubDate": "Thu, 30 Jul 2026 05:01:19 +0900"
+    },
     {
       "title": "국제금값, 美연준 금리동결에 '안도'…금리 결정후 1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260730010800072",
@@ -107,51 +152,6 @@
       "title": "LGU+, 900억원 규모 자사주 추가 매입…주주가치 제고",
       "link": "https://www.yna.co.kr/view/AKR20260729165100017",
       "pubDate": "Wed, 29 Jul 2026 17:38:18 +0900"
-    },
-    {
-      "title": "강원도청노조, 우상호 지사와 첫 간담회…근무 여건 개선 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260729163400062",
-      "pubDate": "Wed, 29 Jul 2026 17:31:04 +0900"
-    },
-    {
-      "title": "지방소멸대응기금 고용률 0.61%p↑…상용직 줄고 임시직 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260729159900530",
-      "pubDate": "Wed, 29 Jul 2026 17:26:18 +0900"
-    },
-    {
-      "title": "삼도, 포항 취약계층 100세대에 10년간 주택 무상임대",
-      "link": "https://www.yna.co.kr/view/AKR20260729160500053",
-      "pubDate": "Wed, 29 Jul 2026 17:21:03 +0900"
-    },
-    {
-      "title": "식약처, '식중독균 검출' 일부 조미건어포 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260729159600017",
-      "pubDate": "Wed, 29 Jul 2026 17:19:41 +0900"
-    },
-    {
-      "title": "재경위 부동산세 공방…與 \"세입자 전가 막아야\" 野 \"공약 어겨\"",
-      "link": "https://www.yna.co.kr/view/AKR20260729154300001",
-      "pubDate": "Wed, 29 Jul 2026 17:12:53 +0900"
-    },
-    {
-      "title": "코스콤, 금융권의 안전한 데이터활용 지원 위해 쿠콘과 MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260729156000008",
-      "pubDate": "Wed, 29 Jul 2026 17:10:38 +0900"
-    },
-    {
-      "title": "증시 급락에 국고채 이틀째 강세…3년물 금리 3.800%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729153651008",
-      "pubDate": "Wed, 29 Jul 2026 17:09:18 +0900"
-    },
-    {
-      "title": "진짜 바닥은 어디? 공포가 지배한 증시…역대급 연이틀 '블랙데이'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729100251008",
-      "pubDate": "Wed, 29 Jul 2026 17:07:09 +0900"
-    },
-    {
-      "title": "\"미국 고관세 기조 유지할 것…수출전략·공급망 관리 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260729157400003",
-      "pubDate": "Wed, 29 Jul 2026 16:58:35 +0900"
     }
   ]
 }
