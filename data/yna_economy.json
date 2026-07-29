@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785360224,
+  "updated_at_unix": 1785363960,
   "items": [
+    {
+      "title": "강남구, 재건축 '신속추진 전문가 지원단' 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260730020000004",
+      "pubDate": "Thu, 30 Jul 2026 07:07:14 +0900"
+    },
+    {
+      "title": "[우분투칼럼] AI·녹색전환 시대…아프리카 핵심광물과 공급망 재편",
+      "link": "https://www.yna.co.kr/view/AKR20260721031200898",
+      "pubDate": "Thu, 30 Jul 2026 07:00:06 +0900"
+    },
+    {
+      "title": "[반려동물] 쇼핑·외식 '반려동물 친화' 재편…'동반 음식점' 2천400곳",
+      "link": "https://www.yna.co.kr/view/AKR20260729161300030",
+      "pubDate": "Thu, 30 Jul 2026 06:30:00 +0900"
+    },
     {
       "title": "연준 금리동결에 시장 실망감…美주식·채권 동반 급락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260730012351072",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260729161600011",
       "pubDate": "Wed, 29 Jul 2026 18:00:01 +0900"
-    },
-    {
-      "title": "식약처, '주성분 함량부족' 애경산업 가글제품 일부 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260729165800017",
-      "pubDate": "Wed, 29 Jul 2026 17:45:46 +0900"
-    },
-    {
-      "title": "오프리메드, 춘천 기업혁신파크 연구거점 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260729164400062",
-      "pubDate": "Wed, 29 Jul 2026 17:45:08 +0900"
-    },
-    {
-      "title": "LGU+, 900억원 규모 자사주 추가 매입…주주가치 제고",
-      "link": "https://www.yna.co.kr/view/AKR20260729165100017",
-      "pubDate": "Wed, 29 Jul 2026 17:38:18 +0900"
     }
   ]
 }
