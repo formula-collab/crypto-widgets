@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785347047,
+  "updated_at_unix": 1785351135,
   "items": [
+    {
+      "title": "美금리 3.50∼3.75%로 5연속 동결…\"9대3 표결로 동결 결정\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260730003851071",
+      "pubDate": "Thu, 30 Jul 2026 03:31:11 +0900"
+    },
+    {
+      "title": "[2보] 美연준, 5연속 금리 동결…한미 금리차 1.00%P",
+      "link": "https://www.yna.co.kr/view/AKR20260730003800071",
+      "pubDate": "Thu, 30 Jul 2026 03:02:00 +0900"
+    },
+    {
+      "title": "[1보] 美연준, 5연속 금리 동결…3.50∼3.75% 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260730003600071",
+      "pubDate": "Thu, 30 Jul 2026 03:01:00 +0900"
+    },
     {
       "title": "국제유가, 중동 무력충돌 재개에 7%대 급등↑…브렌트 90달러대",
       "link": "https://www.yna.co.kr/view/AKR20260730000800072",
@@ -137,21 +152,6 @@
       "title": "타이거일렉 \"베트남 계열사에 81억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260729153800008",
       "pubDate": "Wed, 29 Jul 2026 16:45:52 +0900"
-    },
-    {
-      "title": "첫 이틀연속 양시장 서킷, 이틀간 10%대 폭락…'악' 소리 난 기록들(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260729112051008",
-      "pubDate": "Wed, 29 Jul 2026 16:44:33 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.800%",
-      "link": "https://www.yna.co.kr/view/AKR20260729153600008",
-      "pubDate": "Wed, 29 Jul 2026 16:42:14 +0900"
-    },
-    {
-      "title": "광주군공항 부지 250만평 호남권 반도체 국가산단 후보지 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260729152800003",
-      "pubDate": "Wed, 29 Jul 2026 16:37:17 +0900"
     }
   ]
 }
