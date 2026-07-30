@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785424209,
+  "updated_at_unix": 1785430562,
   "items": [
+    {
+      "title": "원/달러 환율 야간장서 한때 1,420원 밑 급락…엔화값 급등 동조",
+      "link": "https://www.yna.co.kr/view/AKR20260730195600072",
+      "pubDate": "Fri, 31 Jul 2026 00:10:51 +0900"
+    },
     {
       "title": "재경부, 8월 국고채 1조 증가한 17조 발행…재정증권 발행 안 해",
       "link": "https://www.yna.co.kr/view/AKR20260730179200002",
@@ -147,11 +152,6 @@
       "title": "SH, 재개발 임대주택 3천421세대 청약…내년 2월 입주 예정",
       "link": "https://www.yna.co.kr/view/AKR20260730151500004",
       "pubDate": "Thu, 30 Jul 2026 16:07:03 +0900"
-    },
-    {
-      "title": "美 금리동결·외국인 주식 순매수…원/달러 환율 1,430원대로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260730061151002",
-      "pubDate": "Thu, 30 Jul 2026 15:53:24 +0900"
     }
   ]
 }
