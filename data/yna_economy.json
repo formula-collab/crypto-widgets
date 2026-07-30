@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785402549,
+  "updated_at_unix": 1785410746,
   "items": [
+    {
+      "title": "재경부, 8월 국고채 1조 증가한 17조 발행…재정증권 발행 안 해",
+      "link": "https://www.yna.co.kr/view/AKR20260730179200002",
+      "pubDate": "Thu, 30 Jul 2026 19:26:35 +0900"
+    },
+    {
+      "title": "'온습도 제어장비 제조업' 멜콘 등 3사, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260730181300008",
+      "pubDate": "Thu, 30 Jul 2026 18:47:52 +0900"
+    },
+    {
+      "title": "'32억 전세사기' 해외 도피 검찰수사관 구속 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260730180400061",
+      "pubDate": "Thu, 30 Jul 2026 18:37:21 +0900"
+    },
+    {
+      "title": "한주에이알티, 20억원 유상증자…아르테미스2호조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260730177800008",
+      "pubDate": "Thu, 30 Jul 2026 18:12:04 +0900"
+    },
     {
       "title": "한은, 예금토큰 지급 시스템 '프로젝트 아고라' 실거래 테스트",
       "link": "https://www.yna.co.kr/view/AKR20260730149200002",
@@ -132,26 +152,6 @@
       "title": "美 금리동결·외국인 주식 순매수…원/달러 환율 1,430원대로(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260730061151002",
       "pubDate": "Thu, 30 Jul 2026 15:53:24 +0900"
-    },
-    {
-      "title": "[특징주] 조선3사 호실적에 기대감↑…강세 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260730054451008",
-      "pubDate": "Thu, 30 Jul 2026 15:51:33 +0900"
-    },
-    {
-      "title": "기본사회위·서민금융진흥원, 기본사회 실현 공동 대응 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260730144300530",
-      "pubDate": "Thu, 30 Jul 2026 15:51:05 +0900"
-    },
-    {
-      "title": "\"서울 민심에 치명적\"…與, 당정서 '부동산 세제' 우려 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260730140500001",
-      "pubDate": "Thu, 30 Jul 2026 15:48:56 +0900"
-    },
-    {
-      "title": "세수 줄고 복지 부담 늘고…부산 기초지자체 곳곳 '재정 비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260730139000051",
-      "pubDate": "Thu, 30 Jul 2026 15:48:10 +0900"
     }
   ]
 }
