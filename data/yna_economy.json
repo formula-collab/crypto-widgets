@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785533592,
+  "updated_at_unix": 1785538115,
   "items": [
+    {
+      "title": "[신상잇슈] 배라 '산딸기가 끌리는 연유'·도미노피자 '무진장 치킨박스'",
+      "link": "https://www.yna.co.kr/view/AKR20260731116400030",
+      "pubDate": "Sat, 1 Aug 2026 07:00:04 +0900"
+    },
     {
       "title": "고의로 자기 팔 절단해 산재보험금 1억 넘게 가로챈 30대 집유",
       "link": "https://www.yna.co.kr/view/AKR20260731128500062",
@@ -147,11 +152,6 @@
       "title": "법원, 성남 상대원2구역 시공사 교체 제동…DL이앤씨 지위 유지",
       "link": "https://www.yna.co.kr/view/AKR20260731138000003",
       "pubDate": "Fri, 31 Jul 2026 16:48:50 +0900"
-    },
-    {
-      "title": "한미그룹 \"탄소중립 로드맵 추진…2040년 RE100 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260731137700017",
-      "pubDate": "Fri, 31 Jul 2026 16:44:52 +0900"
     }
   ]
 }
