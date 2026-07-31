@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785495748,
+  "updated_at_unix": 1785503393,
   "items": [
+    {
+      "title": "노동장관, 극한 폭염에 택배 상하차장 점검…9월까지 감독 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260731171400530",
+      "pubDate": "Fri, 31 Jul 2026 21:53:03 +0900"
+    },
     {
       "title": "일본은행, 기준금리 1% 유지…경제 성장률 전망 0.6%로 상향(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260731084853073",
@@ -147,11 +152,6 @@
       "title": "한국마즈, 고양이 사료 판매량 10% 기부…유기묘 보호 지원",
       "link": "https://www.yna.co.kr/view/AKR20260731123100030",
       "pubDate": "Fri, 31 Jul 2026 16:01:24 +0900"
-    },
-    {
-      "title": "엘앤씨바이오, 1천400억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260731124200008",
-      "pubDate": "Fri, 31 Jul 2026 15:58:46 +0900"
     }
   ]
 }
