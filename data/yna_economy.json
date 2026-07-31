@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785538115,
+  "updated_at_unix": 1785541877,
   "items": [
+    {
+      "title": "BNK부산·경남은행, '금융소비자보호위원회' 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260731026600051",
+      "pubDate": "Sat, 1 Aug 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[다음주 경제] 7월 소비자물가 3% 아래로 떨어졌을까",
+      "link": "https://www.yna.co.kr/view/AKR20260801013900002",
+      "pubDate": "Sat, 1 Aug 2026 07:54:21 +0900"
+    },
     {
       "title": "[신상잇슈] 배라 '산딸기가 끌리는 연유'·도미노피자 '무진장 치킨박스'",
       "link": "https://www.yna.co.kr/view/AKR20260731116400030",
@@ -142,16 +152,6 @@
       "title": "고흥군의회, 'K-우주항공복합도시 특별법' 제정 촉구",
       "link": "https://www.yna.co.kr/view/AKR20260731139800054",
       "pubDate": "Fri, 31 Jul 2026 16:51:50 +0900"
-    },
-    {
-      "title": "코스피, 17.9%·1000p 폭등하며 '불기둥'…사상최대 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731119651008",
-      "pubDate": "Fri, 31 Jul 2026 16:50:41 +0900"
-    },
-    {
-      "title": "법원, 성남 상대원2구역 시공사 교체 제동…DL이앤씨 지위 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260731138000003",
-      "pubDate": "Fri, 31 Jul 2026 16:48:50 +0900"
     }
   ]
 }
