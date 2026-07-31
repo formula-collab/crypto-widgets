@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785528781,
+  "updated_at_unix": 1785533592,
   "items": [
+    {
+      "title": "고의로 자기 팔 절단해 산재보험금 1억 넘게 가로챈 30대 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260731128500062",
+      "pubDate": "Sat, 1 Aug 2026 06:25:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 11주째 하락…휘발유·경유 1천800원대 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260731158400003",
+      "pubDate": "Sat, 1 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 부산 '더샵트리센트' 등 전국 3천34가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260731123500003",
+      "pubDate": "Sat, 1 Aug 2026 06:00:01 +0900"
+    },
     {
       "title": "국제유가, 호르무즈 유조선 피습에 1% 상승…브렌트 90달러대",
       "link": "https://www.yna.co.kr/view/AKR20260801005500072",
@@ -137,21 +152,6 @@
       "title": "한미그룹 \"탄소중립 로드맵 추진…2040년 RE100 목표\"",
       "link": "https://www.yna.co.kr/view/AKR20260731137700017",
       "pubDate": "Fri, 31 Jul 2026 16:44:52 +0900"
-    },
-    {
-      "title": "[속보] 금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월",
-      "link": "https://www.yna.co.kr/view/AKR20260731138300002",
-      "pubDate": "Fri, 31 Jul 2026 16:44:09 +0900"
-    },
-    {
-      "title": "5대 금융지주·은행, 내년도 '금융체계상 중요사' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260731131700002",
-      "pubDate": "Fri, 31 Jul 2026 16:34:32 +0900"
-    },
-    {
-      "title": "하이닉스 '17년만 상한가', 삼전 26.8%↑…역대최고 상승률(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731042151008",
-      "pubDate": "Fri, 31 Jul 2026 16:18:10 +0900"
     }
   ]
 }
