@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785582532,
+  "updated_at_unix": 1785587545,
   "items": [
+    {
+      "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
+      "link": "https://www.yna.co.kr/view/AKR20260801050900030",
+      "pubDate": "Sat, 1 Aug 2026 21:08:44 +0900"
+    },
     {
       "title": "美, 이례적 외환시장 개입…엔화약세 저지하려 대규모 매수",
       "link": "https://www.yna.co.kr/view/AKR20260801026600009",
@@ -147,11 +152,6 @@
       "title": "금융위, 매출 과대계상 만호제강·임원에 과징금 7.4억원",
       "link": "https://www.yna.co.kr/view/AKR20260731148900002",
       "pubDate": "Fri, 31 Jul 2026 17:36:47 +0900"
-    },
-    {
-      "title": "토스 전 계열사, '금융복합기업집단' 내부통제 받는다",
-      "link": "https://www.yna.co.kr/view/AKR20260731141000002",
-      "pubDate": "Fri, 31 Jul 2026 17:23:34 +0900"
     }
   ]
 }
