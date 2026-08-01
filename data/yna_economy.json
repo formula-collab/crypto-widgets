@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785622988,
+  "updated_at_unix": 1785626667,
   "items": [
+    {
+      "title": "충남 예산 내포역세권 개발지 토지거래허가구역 2년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260802006600063",
+      "pubDate": "Sun, 2 Aug 2026 07:42:27 +0900"
+    },
     {
       "title": "북극항로 선박 이달 말 부산 출항…최후 관문 '지정학 리스크'",
       "link": "https://www.yna.co.kr/view/AKR20260731064400051",
@@ -146,11 +151,6 @@
     {
       "title": "[바이오사이언스] K제약·바이오, 중남미서 새 성장동력 찾는다",
       "link": "https://www.yna.co.kr/view/AKR20260731086700017",
-      "pubDate": "Sat, 1 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260801026000011",
       "pubDate": "Sat, 1 Aug 2026 10:30:00 +0900"
     }
   ]
