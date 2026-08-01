@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785541877,
+  "updated_at_unix": 1785548668,
   "items": [
+    {
+      "title": "7월 수출 989억달러 역대 2위…반도체 두달째 400억달러대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260801021152003",
+      "pubDate": "Sat, 1 Aug 2026 10:35:11 +0900"
+    },
+    {
+      "title": "[마이더스] 세무 리스크로 돌변하는 여름휴가비",
+      "link": "https://www.yna.co.kr/view/AKR20260730066200980",
+      "pubDate": "Sat, 1 Aug 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[바이오사이언스] K제약·바이오, 중남미서 새 성장동력 찾는다",
+      "link": "https://www.yna.co.kr/view/AKR20260731086700017",
+      "pubDate": "Sat, 1 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260801026000011",
+      "pubDate": "Sat, 1 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "日정부 엔화 환율 개입 규모 60조원 안팎 추정",
+      "link": "https://www.yna.co.kr/view/AKR20260801024000073",
+      "pubDate": "Sat, 1 Aug 2026 10:03:32 +0900"
+    },
+    {
+      "title": "[2보] 7월 수출 989억달러로 1년전보다 62.8％↑…역대 2위",
+      "link": "https://www.yna.co.kr/view/AKR20260801021151003",
+      "pubDate": "Sat, 1 Aug 2026 09:32:10 +0900"
+    },
+    {
+      "title": "[속보] 7월 무역수지 303억달러 흑자…두달 연속 300억달러 상회",
+      "link": "https://www.yna.co.kr/view/AKR20260801021600003",
+      "pubDate": "Sat, 1 Aug 2026 09:01:14 +0900"
+    },
+    {
+      "title": "[속보] 7월 반도체 수출 410억달러…두 달 연속 400억달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260801021500003",
+      "pubDate": "Sat, 1 Aug 2026 09:00:33 +0900"
+    },
+    {
+      "title": "[1보] 7월 수출 989억달러로 62.8％↑…역대 2위",
+      "link": "https://www.yna.co.kr/view/AKR20260801021100003",
+      "pubDate": "Sat, 1 Aug 2026 09:00:15 +0900"
+    },
+    {
+      "title": "[IPO챗] 8월 첫주 공모주 청약 2곳, 수요예측 4곳",
+      "link": "https://www.yna.co.kr/view/AKR20260731159800008",
+      "pubDate": "Sat, 1 Aug 2026 09:00:02 +0900"
+    },
     {
       "title": "BNK부산·경남은행, '금융소비자보호위원회' 신설",
       "link": "https://www.yna.co.kr/view/AKR20260731026600051",
@@ -102,56 +152,6 @@
       "title": "금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260731138851002",
       "pubDate": "Fri, 31 Jul 2026 17:21:54 +0900"
-    },
-    {
-      "title": "\"ETF 신탁 수수료 7배 받아\"…금감원, 은행권 불완전판매 검사",
-      "link": "https://www.yna.co.kr/view/AKR20260731146800002",
-      "pubDate": "Fri, 31 Jul 2026 17:19:35 +0900"
-    },
-    {
-      "title": "외국인 최대 폭풍매수, 개미 '대탈출'…쏟아진 각종 기록들(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731066151008",
-      "pubDate": "Fri, 31 Jul 2026 17:13:21 +0900"
-    },
-    {
-      "title": "SB선보, 대선조선 인수 본계약 체결…\"주력사업 역량 확장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260731142300051",
-      "pubDate": "Fri, 31 Jul 2026 17:06:09 +0900"
-    },
-    {
-      "title": "국고채, 美 금리 하락·외인 매수 속 강세…3년물 연 3.758%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731137651008",
-      "pubDate": "Fri, 31 Jul 2026 17:03:17 +0900"
-    },
-    {
-      "title": "마산자유무역지역·봉암공단 제조업·AI 융합 추진…공모 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260731138600052",
-      "pubDate": "Fri, 31 Jul 2026 17:03:16 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.758%",
-      "link": "https://www.yna.co.kr/view/AKR20260731137600008",
-      "pubDate": "Fri, 31 Jul 2026 16:57:06 +0900"
-    },
-    {
-      "title": "'분노의 대반격' 코스피, 사상 최대 폭등…바닥 찍었나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731053751008",
-      "pubDate": "Fri, 31 Jul 2026 16:56:27 +0900"
-    },
-    {
-      "title": "[과학스냅] 과기정통부, 2045 과학기술 미래상 대국민 설문조사",
-      "link": "https://www.yna.co.kr/view/AKR20260731139900017",
-      "pubDate": "Fri, 31 Jul 2026 16:53:16 +0900"
-    },
-    {
-      "title": "금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월",
-      "link": "https://www.yna.co.kr/view/AKR20260731138800002",
-      "pubDate": "Fri, 31 Jul 2026 16:52:45 +0900"
-    },
-    {
-      "title": "고흥군의회, 'K-우주항공복합도시 특별법' 제정 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260731139800054",
-      "pubDate": "Fri, 31 Jul 2026 16:51:50 +0900"
     }
   ]
 }
