@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785618794,
+  "updated_at_unix": 1785622988,
   "items": [
+    {
+      "title": "북극항로 선박 이달 말 부산 출항…최후 관문 '지정학 리스크'",
+      "link": "https://www.yna.co.kr/view/AKR20260731064400051",
+      "pubDate": "Sun, 2 Aug 2026 07:03:01 +0900"
+    },
+    {
+      "title": "삼성화재, S&P 신용등급 'AA' 획득…국내 민간기업서 최초",
+      "link": "https://www.yna.co.kr/view/AKR20260731154900002",
+      "pubDate": "Sun, 2 Aug 2026 07:01:01 +0900"
+    },
+    {
+      "title": "대만맥도날드서 '한국의 맛' 창녕갈릭버거 판다…신메뉴 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260801049300030",
+      "pubDate": "Sun, 2 Aug 2026 07:01:00 +0900"
+    },
+    {
+      "title": "원화 스테이블코인 경쟁 본격화…네카오 주도권 승부",
+      "link": "https://www.yna.co.kr/view/AKR20260801043000017",
+      "pubDate": "Sun, 2 Aug 2026 06:40:01 +0900"
+    },
+    {
+      "title": "[반려동물] 폭염에 '털뭉치 관리'도 필수…펫 위생용품 시장 커진다",
+      "link": "https://www.yna.co.kr/view/AKR20260801026900030",
+      "pubDate": "Sun, 2 Aug 2026 06:40:00 +0900"
+    },
+    {
+      "title": "'국고채 담합' 제재 앞두고 딜러사 촉각…\"국채인수 위축 우려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260731155300008",
+      "pubDate": "Sun, 2 Aug 2026 06:30:01 +0900"
+    },
+    {
+      "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
+      "link": "https://www.yna.co.kr/view/AKR20260801014400008",
+      "pubDate": "Sun, 2 Aug 2026 06:25:00 +0900"
+    },
+    {
+      "title": "7월 코스닥 21% 폭락에 '시총 미달' 30개 속출…투자자 발 동동",
+      "link": "https://www.yna.co.kr/view/AKR20260801034100008",
+      "pubDate": "Sun, 2 Aug 2026 06:15:00 +0900"
+    },
     {
       "title": "노동부, 산안본부와 한지붕…중노위는 13년만에 이전",
       "link": "https://www.yna.co.kr/view/AKR20260731105900530",
@@ -112,46 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260801026000011",
       "pubDate": "Sat, 1 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "日정부 엔화 환율 개입 규모 60조원 안팎 추정",
-      "link": "https://www.yna.co.kr/view/AKR20260801024000073",
-      "pubDate": "Sat, 1 Aug 2026 10:03:32 +0900"
-    },
-    {
-      "title": "[2보] 7월 수출 989억달러로 1년전보다 62.8％↑…역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260801021151003",
-      "pubDate": "Sat, 1 Aug 2026 09:32:10 +0900"
-    },
-    {
-      "title": "[속보] 7월 무역수지 303억달러 흑자…두달 연속 300억달러 상회",
-      "link": "https://www.yna.co.kr/view/AKR20260801021600003",
-      "pubDate": "Sat, 1 Aug 2026 09:01:14 +0900"
-    },
-    {
-      "title": "[속보] 7월 반도체 수출 410억달러…두 달 연속 400억달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260801021500003",
-      "pubDate": "Sat, 1 Aug 2026 09:00:33 +0900"
-    },
-    {
-      "title": "[1보] 7월 수출 989억달러로 62.8％↑…역대 2위",
-      "link": "https://www.yna.co.kr/view/AKR20260801021100003",
-      "pubDate": "Sat, 1 Aug 2026 09:00:15 +0900"
-    },
-    {
-      "title": "[IPO챗] 8월 첫주 공모주 청약 2곳, 수요예측 4곳",
-      "link": "https://www.yna.co.kr/view/AKR20260731159800008",
-      "pubDate": "Sat, 1 Aug 2026 09:00:02 +0900"
-    },
-    {
-      "title": "BNK부산·경남은행, '금융소비자보호위원회' 신설",
-      "link": "https://www.yna.co.kr/view/AKR20260731026600051",
-      "pubDate": "Sat, 1 Aug 2026 08:00:08 +0900"
-    },
-    {
-      "title": "[다음주 경제] 7월 소비자물가 3% 아래로 떨어졌을까",
-      "link": "https://www.yna.co.kr/view/AKR20260801013900002",
-      "pubDate": "Sat, 1 Aug 2026 07:54:21 +0900"
     }
   ]
 }
