@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785548668,
+  "updated_at_unix": 1785561298,
   "items": [
+    {
+      "title": "美, 이례적 외환시장 개입…엔화약세 저지하려 대규모 매수",
+      "link": "https://www.yna.co.kr/view/AKR20260801026600009",
+      "pubDate": "Sat, 1 Aug 2026 10:46:01 +0900"
+    },
     {
       "title": "7월 수출 989억달러 역대 2위…반도체 두달째 400억달러대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260801021152003",
@@ -147,11 +152,6 @@
       "title": "토스 전 계열사, '금융복합기업집단' 내부통제 받는다",
       "link": "https://www.yna.co.kr/view/AKR20260731141000002",
       "pubDate": "Fri, 31 Jul 2026 17:23:34 +0900"
-    },
-    {
-      "title": "금융위, '정보유출' 롯데카드 제재 감경…업무정지 4.5→1.5개월(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260731138851002",
-      "pubDate": "Fri, 31 Jul 2026 17:21:54 +0900"
     }
   ]
 }
