@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785708921,
+  "updated_at_unix": 1785713082,
   "items": [
+    {
+      "title": "삼성증권 \"효성중, 2분기 컨센서스 하회에도…따져보면 양호\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803020000008",
+      "pubDate": "Mon, 3 Aug 2026 08:19:08 +0900"
+    },
+    {
+      "title": "iM증권 \"日무라타, 매출 가이던스 상향…경쟁사 삼성전기에도 긍정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803019000008",
+      "pubDate": "Mon, 3 Aug 2026 08:17:08 +0900"
+    },
+    {
+      "title": "[부산소식] 부산시, 예비사회적기업 지정 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260803015800051",
+      "pubDate": "Mon, 3 Aug 2026 08:12:29 +0900"
+    },
+    {
+      "title": "부산시, 청년 중개보수비·이사비 40만원 지원…310명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260803015600051",
+      "pubDate": "Mon, 3 Aug 2026 08:08:38 +0900"
+    },
+    {
+      "title": "\"병역 거부했다고 저임금 일자리만\"…생존권 침해 둘러싼 논란은 계속",
+      "link": "https://www.yna.co.kr/view/AKR20260802054700004",
+      "pubDate": "Mon, 3 Aug 2026 08:00:02 +0900"
+    },
+    {
+      "title": "트럼프 \"미국, 일본과 좋은 관계여서 엔/달러 시장개입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803008651071",
+      "pubDate": "Mon, 3 Aug 2026 07:35:49 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260803012400011",
+      "pubDate": "Mon, 3 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "정유사 수출효자 된 윤활기유…중동전쟁에 가격·수요 '껑충'",
       "link": "https://www.yna.co.kr/view/AKR20260731148600003",
@@ -117,41 +152,6 @@
       "title": "9월부터 KTX·SRT 통합…요금 10% 내리고 운행횟수·좌석 늘어나",
       "link": "https://www.yna.co.kr/view/AKR20260731172800002",
       "pubDate": "Sun, 2 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "현대硏 \"하반기 소비자물가 상승률 2.5∼3.0% 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260801051400002",
-      "pubDate": "Sun, 2 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "쿠팡 \"PB 협력 중소기업, 매출 늘며 R&D·설비 투자 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260802018000030",
-      "pubDate": "Sun, 2 Aug 2026 10:56:06 +0900"
-    },
-    {
-      "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260802017000005",
-      "pubDate": "Sun, 2 Aug 2026 10:52:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260802012100011",
-      "pubDate": "Sun, 2 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "BGF리테일, CU PB '피빅' 패키지로 레드닷 디자인 본상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260802015600030",
-      "pubDate": "Sun, 2 Aug 2026 10:25:01 +0900"
-    },
-    {
-      "title": "현금 결제 유도해 매출 세액 탈루…인테리어 업자 벌금 6억원",
-      "link": "https://www.yna.co.kr/view/AKR20260731077900064",
-      "pubDate": "Sun, 2 Aug 2026 10:00:02 +0900"
-    },
-    {
-      "title": "대출규제에도 양도세 중과 시행 전 고가아파트 매도 몰렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260802011300003",
-      "pubDate": "Sun, 2 Aug 2026 09:57:05 +0900"
     }
   ]
 }
