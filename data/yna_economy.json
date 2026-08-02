@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785705252,
+  "updated_at_unix": 1785708921,
   "items": [
+    {
+      "title": "정유사 수출효자 된 윤활기유…중동전쟁에 가격·수요 '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260731148600003",
+      "pubDate": "Mon, 3 Aug 2026 06:15:01 +0900"
+    },
     {
       "title": "한국잡월드, 청년 응원 프로젝트 '너의 근황을 들려줘' 공모전",
       "link": "https://www.yna.co.kr/view/AKR20260801020500530",
@@ -147,11 +152,6 @@
       "title": "대출규제에도 양도세 중과 시행 전 고가아파트 매도 몰렸다",
       "link": "https://www.yna.co.kr/view/AKR20260802011300003",
       "pubDate": "Sun, 2 Aug 2026 09:57:05 +0900"
-    },
-    {
-      "title": "이랜드 뉴발란스, 당일 배송 서비스 '빠른도착' 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260802012800030",
-      "pubDate": "Sun, 2 Aug 2026 09:54:58 +0900"
     }
   ]
 }
