@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785645964,
+  "updated_at_unix": 1785655549,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260802027700011",
+      "pubDate": "Sun, 2 Aug 2026 15:00:00 +0900"
+    },
     {
       "title": "이천 건설현장 5억대 체불 해결…전수조사로 숨은 피해 구제",
       "link": "https://www.yna.co.kr/view/AKR20260802023500061",
@@ -147,11 +152,6 @@
       "title": "[게시판] 하나금융, 청라 이전 기념 관계사 캠페인…금리쿠폰 등 지급",
       "link": "https://www.yna.co.kr/view/AKR20260801024400002",
       "pubDate": "Sun, 2 Aug 2026 08:30:00 +0900"
-    },
-    {
-      "title": "충남 예산 내포역세권 개발지 토지거래허가구역 2년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260802006600063",
-      "pubDate": "Sun, 2 Aug 2026 07:42:27 +0900"
     }
   ]
 }
