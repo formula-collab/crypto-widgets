@@ -1,8 +1,148 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785745091,
+  "updated_at_unix": 1785757884,
   "items": [
+    {
+      "title": "노동부 \"인천 사업장 장애인 대상 성범죄·체불 확인…사법처리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803146900530",
+      "pubDate": "Mon, 3 Aug 2026 19:00:52 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 반포 84㎡ 1주택 양도세 내년 2.4억→2029년 9.4억(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260803114951003",
+      "pubDate": "Mon, 3 Aug 2026 18:48:29 +0900"
+    },
+    {
+      "title": "한국경제인협회 \"국내생산세액공제 도입, 경쟁력 높이는 발판\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803149300003",
+      "pubDate": "Mon, 3 Aug 2026 18:32:49 +0900"
+    },
+    {
+      "title": "국힘 \"역대 최악의 세제개편…3.4조원 더 걷는 '닥치고 세금'\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803146100001",
+      "pubDate": "Mon, 3 Aug 2026 18:29:55 +0900"
+    },
+    {
+      "title": "[2026세법] 소득·법인세 줄고 종부세 증가…5년간 세수효과 3.4조원",
+      "link": "https://www.yna.co.kr/view/AKR20260802045200002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:18 +0900"
+    },
+    {
+      "title": "[2026세법] 탈세 신고 잘하면 초대박…포상금 40억원 한도 없앤다",
+      "link": "https://www.yna.co.kr/view/AKR20260802038100002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:17 +0900"
+    },
+    {
+      "title": "[2026세법] '주가 누르기' 꼼수 철퇴…적발 땐 주식평가액 30% 높여 세금",
+      "link": "https://www.yna.co.kr/view/AKR20260802051000002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:16 +0900"
+    },
+    {
+      "title": "[2026세법] 조세지출 절반 정비…결혼·출산 세액공제 재정지원 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260802056100002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:15 +0900"
+    },
+    {
+      "title": "[2026세법] 가업상속공제, 병원·주차장 배제…제3자가 물려받아도 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260802000400002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:14 +0900"
+    },
+    {
+      "title": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
+      "link": "https://www.yna.co.kr/view/AKR20260802047900002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:13 +0900"
+    },
+    {
+      "title": "[2026세법] 청년 자산 형성 돕는다…청년ISA, 이자·배당 전액 비과세",
+      "link": "https://www.yna.co.kr/view/AKR20260802034000002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:12 +0900"
+    },
+    {
+      "title": "[2026세법] 총소득 5천200만원이하 맞벌이도 근로장려금…73만가구 더 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260802036800002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:11 +0900"
+    },
+    {
+      "title": "한은, 13년 만에 실물 금 산다…\"금값 떨어져 부담 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803109500002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:11 +0900"
+    },
+    {
+      "title": "[2026세법] AI로봇·반도체 생산 촉진…6대 성장동력에 소득·법인세 특례",
+      "link": "https://www.yna.co.kr/view/AKR20260803000600002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:10 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 비사업용 토지 종부세율 최고 4%…공공주택용 양도세는 15% 감면",
+      "link": "https://www.yna.co.kr/view/AKR20260802046000002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:09 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 전근·질병으로 이전해도 거주기간 최장 3년 인정",
+      "link": "https://www.yna.co.kr/view/AKR20260802036500002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:08 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 비거주·고가주택 타깃…\"내년까지 절세매물 나올 듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803106300003",
+      "pubDate": "Mon, 3 Aug 2026 18:00:07 +0900"
+    },
+    {
+      "title": "[부동산세 개편] '반포 자이' 84㎡ 내년 보유세 2천257만원…올해보다 27%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260803114900003",
+      "pubDate": "Mon, 3 Aug 2026 18:00:06 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 종부세 올리면서 다주택자에 퇴로…양도세 중과 '유턴'",
+      "link": "https://www.yna.co.kr/view/AKR20260802048700002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:05 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 수백억 장특공제, 한도 설정으로 차단…보유→거주 전환",
+      "link": "https://www.yna.co.kr/view/AKR20260803078700002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:04 +0900"
+    },
+    {
+      "title": "[부동산세 개편] 시가 35억 넘는 주택부터 종부세↑…46억부터 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260803034800002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:03 +0900"
+    },
+    {
+      "title": "주택가액 중심으로 종부세율 일원화…실거주1주택 기본공제 14억",
+      "link": "https://www.yna.co.kr/view/AKR20260802052000002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:02 +0900"
+    },
+    {
+      "title": "'부동산세 정상화' 내걸고 4년만에 종부세 수술…집값 영향 촉각",
+      "link": "https://www.yna.co.kr/view/AKR20260803048700002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260803140700011",
+      "pubDate": "Mon, 3 Aug 2026 18:00:01 +0900"
+    },
+    {
+      "title": "초고가·비거주주택 종부세 올린다…장특공제 10억원 한도 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260803075300002",
+      "pubDate": "Mon, 3 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "황종우 해수장관, 해운대해수욕장 점검…\"빈틈없는 안전관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803141800051",
+      "pubDate": "Mon, 3 Aug 2026 17:40:26 +0900"
+    },
+    {
+      "title": "취임 한 달 박용선 포항시장 \"민생·안전이 시정 최우선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803140300053",
+      "pubDate": "Mon, 3 Aug 2026 17:32:34 +0900"
+    },
+    {
+      "title": "부산 동구, 북항환승센터 사업자에 공지중지 시정명령 사전통지",
+      "link": "https://www.yna.co.kr/view/AKR20260803137000051",
+      "pubDate": "Mon, 3 Aug 2026 17:25:02 +0900"
+    },
     {
       "title": "외국인, 삼성전자 지분율 46.7%…금융위기 이후 최저 수준",
       "link": "https://www.yna.co.kr/view/AKR20260803136700008",
@@ -12,146 +152,6 @@
       "title": "[인사] 해양수산부",
       "link": "https://www.yna.co.kr/view/AKR20260803135800051",
       "pubDate": "Mon, 3 Aug 2026 17:07:44 +0900"
-    },
-    {
-      "title": "한국GM, 7월에도 4만대 이상 판매…수출 호조에 31% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260803130600003",
-      "pubDate": "Mon, 3 Aug 2026 16:59:42 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조…단기물 하락·장기물 상승 엇갈림(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803130951008",
-      "pubDate": "Mon, 3 Aug 2026 16:57:20 +0900"
-    },
-    {
-      "title": "IBK기업은행, 중·저신용 중소기업에 1조원 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20260803124200002",
-      "pubDate": "Mon, 3 Aug 2026 16:47:52 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.742%",
-      "link": "https://www.yna.co.kr/view/AKR20260803130900008",
-      "pubDate": "Mon, 3 Aug 2026 16:46:10 +0900"
-    },
-    {
-      "title": "신평 3사, '매각' SK실트론 신용등급 전망 \"하향 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803130400008",
-      "pubDate": "Mon, 3 Aug 2026 16:45:37 +0900"
-    },
-    {
-      "title": "'5%↓' 코스피 또 변동성…레버리지 대책에 수급완화? 코스닥 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803066851008",
-      "pubDate": "Mon, 3 Aug 2026 16:38:12 +0900"
-    },
-    {
-      "title": "대신증권, 코스피 '11,500→9,300'…\"극단적 저평가, 매수기회\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803124700008",
-      "pubDate": "Mon, 3 Aug 2026 16:23:49 +0900"
-    },
-    {
-      "title": "쿠팡 7월 결제액 10.9% 감소…이커머스 희비 엇갈렸다",
-      "link": "https://www.yna.co.kr/view/AKR20260803123600017",
-      "pubDate": "Mon, 3 Aug 2026 16:21:10 +0900"
-    },
-    {
-      "title": "체리차 \"한국 진출 고려 가능\"…중국차, 국내시장 공략 가속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803016151003",
-      "pubDate": "Mon, 3 Aug 2026 16:12:45 +0900"
-    },
-    {
-      "title": "환율, 중동 리스크 완화·엔화 강세에 장중 1,425원",
-      "link": "https://www.yna.co.kr/view/AKR20260803119100002",
-      "pubDate": "Mon, 3 Aug 2026 16:01:43 +0900"
-    },
-    {
-      "title": "중수청 품은 서울 을지로 '르네스퀘어' 다시 매물로",
-      "link": "https://www.yna.co.kr/view/AKR20260803119700008",
-      "pubDate": "Mon, 3 Aug 2026 16:00:48 +0900"
-    },
-    {
-      "title": "무주군수 \"우주항공산업 생태계 구축 본격화…지원 전담팀 운영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803117300055",
-      "pubDate": "Mon, 3 Aug 2026 15:57:37 +0900"
-    },
-    {
-      "title": "삼전닉스, 또 8%대 급락 마감…외국인·기관, 동반 매도",
-      "link": "https://www.yna.co.kr/view/AKR20260803036751008",
-      "pubDate": "Mon, 3 Aug 2026 15:54:52 +0900"
-    },
-    {
-      "title": "올해 농특세수 6개월 새 10조원 넘어…작년의 2.8배로 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260803117600030",
-      "pubDate": "Mon, 3 Aug 2026 15:54:19 +0900"
-    },
-    {
-      "title": "원주시 노사민정, 산업안전 공동선언…상생협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260803118500062",
-      "pubDate": "Mon, 3 Aug 2026 15:47:16 +0900"
-    },
-    {
-      "title": "[특징주] F&F, 2분기 중국법인 실적 실망 등에 23% 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803039551008",
-      "pubDate": "Mon, 3 Aug 2026 15:42:33 +0900"
-    },
-    {
-      "title": "제주 지방세입 체납관리단 확대 출범…세외수입까지 담당",
-      "link": "https://www.yna.co.kr/view/AKR20260803114600056",
-      "pubDate": "Mon, 3 Aug 2026 15:36:14 +0900"
-    },
-    {
-      "title": "외국환시세(8월3일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260803115300002",
-      "pubDate": "Mon, 3 Aug 2026 15:35:57 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 5.1% 급락한 6,257…코스닥 2.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260803114200008",
-      "pubDate": "Mon, 3 Aug 2026 15:34:10 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.8원 오른 1,429.8원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260803113500002",
-      "pubDate": "Mon, 3 Aug 2026 15:31:39 +0900"
-    },
-    {
-      "title": "'거래중지' 빗썸 관계사에 경찰청·국세청 퇴직자 취업 승인",
-      "link": "https://www.yna.co.kr/view/AKR20260803106600002",
-      "pubDate": "Mon, 3 Aug 2026 15:28:18 +0900"
-    },
-    {
-      "title": "장성에 AI 데이터센터 구축…\"반도체 거점 도약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803109100054",
-      "pubDate": "Mon, 3 Aug 2026 15:13:30 +0900"
-    },
-    {
-      "title": "청년 전월세 지원 사업 허점 이용해 불법 대출받은 30대 실형",
-      "link": "https://www.yna.co.kr/view/AKR20260803109300063",
-      "pubDate": "Mon, 3 Aug 2026 15:09:00 +0900"
-    },
-    {
-      "title": "KGM, 중국 체리차와 협력 확대…1천억원대 전환사채 투자 유치(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803015951003",
-      "pubDate": "Mon, 3 Aug 2026 14:43:41 +0900"
-    },
-    {
-      "title": "부산시, 산업은행 등 2차 공공기관 이전 유치에 총력전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260803069151051",
-      "pubDate": "Mon, 3 Aug 2026 14:38:52 +0900"
-    },
-    {
-      "title": "\"유연근무 병행하면 육휴만 쓸 때보다 경력단절 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803075200530",
-      "pubDate": "Mon, 3 Aug 2026 14:36:40 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260803096400011",
-      "pubDate": "Mon, 3 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "횡성군, 지방세입 체납관리단 운영…공정 세정 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260803100000062",
-      "pubDate": "Mon, 3 Aug 2026 14:29:44 +0900"
     }
   ]
 }
