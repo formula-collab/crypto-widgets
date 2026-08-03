@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785766270,
+  "updated_at_unix": 1785775407,
   "items": [
+    {
+      "title": "李대통령, 7시간 반 부동산·증시 점검회의…\"공급 속도 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803163600001",
+      "pubDate": "Mon, 3 Aug 2026 23:32:58 +0900"
+    },
     {
       "title": "구윤철 \"그린벨트 일부 풀고 군 시설까지…공급대책 마련 중\"",
       "link": "https://www.yna.co.kr/view/AKR20260803160000002",
@@ -147,11 +152,6 @@
       "title": "부산 동구, 북항환승센터 사업자에 공지중지 시정명령 사전통지",
       "link": "https://www.yna.co.kr/view/AKR20260803137000051",
       "pubDate": "Mon, 3 Aug 2026 17:25:02 +0900"
-    },
-    {
-      "title": "외국인, 삼성전자 지분율 46.7%…금융위기 이후 최저 수준",
-      "link": "https://www.yna.co.kr/view/AKR20260803136700008",
-      "pubDate": "Mon, 3 Aug 2026 17:11:32 +0900"
     }
   ]
 }
