@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785781809,
+  "updated_at_unix": 1785787884,
   "items": [
+    {
+      "title": "국제유가, 트럼프 이란공격 취소에 급락…브렌트 5%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260804004400072",
+      "pubDate": "Tue, 4 Aug 2026 04:31:21 +0900"
+    },
+    {
+      "title": "트럼프의 엔화부양 배경은…'美국채금리·대미투자 관리' 셈법",
+      "link": "https://www.yna.co.kr/view/AKR20260804000700072",
+      "pubDate": "Tue, 4 Aug 2026 04:28:10 +0900"
+    },
     {
       "title": "李대통령, 7시간 반 부동산·증시 점검회의…\"공급 속도 중요\"",
       "link": "https://www.yna.co.kr/view/AKR20260803163600001",
@@ -142,16 +152,6 @@
       "title": "황종우 해수장관, 해운대해수욕장 점검…\"빈틈없는 안전관리\"",
       "link": "https://www.yna.co.kr/view/AKR20260803141800051",
       "pubDate": "Mon, 3 Aug 2026 17:40:26 +0900"
-    },
-    {
-      "title": "취임 한 달 박용선 포항시장 \"민생·안전이 시정 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803140300053",
-      "pubDate": "Mon, 3 Aug 2026 17:32:34 +0900"
-    },
-    {
-      "title": "부산 동구, 북항환승센터 사업자에 공지중지 시정명령 사전통지",
-      "link": "https://www.yna.co.kr/view/AKR20260803137000051",
-      "pubDate": "Mon, 3 Aug 2026 17:25:02 +0900"
     }
   ]
 }
