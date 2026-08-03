@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785787884,
+  "updated_at_unix": 1785792925,
   "items": [
+    {
+      "title": "폭염에 '냉기 사수' 작전…로만셰이드·도어커튼 검색 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260803126800030",
+      "pubDate": "Tue, 4 Aug 2026 06:31:01 +0900"
+    },
+    {
+      "title": "[반려동물] 맞춤형 펫 건강관리 뜬다…관절·눈·장 건강까지 세분화",
+      "link": "https://www.yna.co.kr/view/AKR20260803098800030",
+      "pubDate": "Tue, 4 Aug 2026 06:00:08 +0900"
+    },
+    {
+      "title": "\"불합리한 소상공인 규제 찾습니다\" 서울신보 캠페인 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260803134400004",
+      "pubDate": "Tue, 4 Aug 2026 06:00:04 +0900"
+    },
+    {
+      "title": "롯데 노원점, 17개월 만에 전관 새단장…영업면적 80% 전면 개편",
+      "link": "https://www.yna.co.kr/view/AKR20260803138400030",
+      "pubDate": "Tue, 4 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "상반기 단기사채 990조 발행 역대최대…기업 단기자금 수요 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260803149900002",
+      "pubDate": "Tue, 4 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "한은 금중대 '중소기업 한시지원' 부실 비중 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260803148600002",
+      "pubDate": "Tue, 4 Aug 2026 05:59:00 +0900"
+    },
     {
       "title": "국제유가, 트럼프 이란공격 취소에 급락…브렌트 5%↓",
       "link": "https://www.yna.co.kr/view/AKR20260804004400072",
@@ -122,36 +152,6 @@
       "title": "[부동산세 개편] 수백억 장특공제, 한도 설정으로 차단…보유→거주 전환",
       "link": "https://www.yna.co.kr/view/AKR20260803078700002",
       "pubDate": "Mon, 3 Aug 2026 18:00:04 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 시가 35억 넘는 주택부터 종부세↑…46억부터 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260803034800002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:03 +0900"
-    },
-    {
-      "title": "주택가액 중심으로 종부세율 일원화…실거주1주택 기본공제 14억",
-      "link": "https://www.yna.co.kr/view/AKR20260802052000002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:02 +0900"
-    },
-    {
-      "title": "'부동산세 정상화' 내걸고 4년만에 종부세 수술…집값 영향 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20260803048700002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260803140700011",
-      "pubDate": "Mon, 3 Aug 2026 18:00:01 +0900"
-    },
-    {
-      "title": "초고가·비거주주택 종부세 올린다…장특공제 10억원 한도 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260803075300002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "황종우 해수장관, 해운대해수욕장 점검…\"빈틈없는 안전관리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803141800051",
-      "pubDate": "Mon, 3 Aug 2026 17:40:26 +0900"
     }
   ]
 }
