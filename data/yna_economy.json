@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785797365,
+  "updated_at_unix": 1785801474,
   "items": [
+    {
+      "title": "유진증권 \"LX인터, 2분기 실적 추정치 하회…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804028600008",
+      "pubDate": "Tue, 4 Aug 2026 08:52:12 +0900"
+    },
+    {
+      "title": "7월 물가 2.8%↑…석유·농산물 상승 둔화에 석 달 만에 2%대로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260804016252002",
+      "pubDate": "Tue, 4 Aug 2026 08:49:35 +0900"
+    },
+    {
+      "title": "한화투자증권 \"한섬, 2분기 영업익 기대치 하회…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804025700008",
+      "pubDate": "Tue, 4 Aug 2026 08:44:10 +0900"
+    },
+    {
+      "title": "증권가 \"부동산 세제개편안 예상 부합…시장 영향 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804024200008",
+      "pubDate": "Tue, 4 Aug 2026 08:42:20 +0900"
+    },
+    {
+      "title": "신한투자 \"HS효성첨단소재, 본업 호조에도 성장 우려…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804024800008",
+      "pubDate": "Tue, 4 Aug 2026 08:41:27 +0900"
+    },
+    {
+      "title": "신영증권 \"현대차 3분기 영업익, 컨센서스 하회 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804024100008",
+      "pubDate": "Tue, 4 Aug 2026 08:39:12 +0900"
+    },
+    {
+      "title": "하나증권, S-OIL 목표가↑…\"올해 사상최대 영업익 도전 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804023200008",
+      "pubDate": "Tue, 4 Aug 2026 08:38:00 +0900"
+    },
+    {
+      "title": "정부 \"석유 최고가격제, 7월 물가 0.3%p 낮춰…상방 위험 상존\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804024700002",
+      "pubDate": "Tue, 4 Aug 2026 08:33:59 +0900"
+    },
+    {
+      "title": "부산 7월 소비자물가 2.6% 상승…기름값 상승 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260804025800051",
+      "pubDate": "Tue, 4 Aug 2026 08:33:18 +0900"
+    },
+    {
+      "title": "아산 경동 일반산업단지계획 승인…1천307억원 규모 민간투자",
+      "link": "https://www.yna.co.kr/view/AKR20260804025000063",
+      "pubDate": "Tue, 4 Aug 2026 08:30:21 +0900"
+    },
+    {
+      "title": "인공눈물과 헷갈리는 화장품…식약처, 4개 업체 시정 권고",
+      "link": "https://www.yna.co.kr/view/AKR20260804021800017",
+      "pubDate": "Tue, 4 Aug 2026 08:14:07 +0900"
+    },
+    {
+      "title": "한투증권, 8월 코스피 등락 범위 5,500∼7,500 제시",
+      "link": "https://www.yna.co.kr/view/AKR20260804021100008",
+      "pubDate": "Tue, 4 Aug 2026 08:09:57 +0900"
+    },
+    {
+      "title": "[2보] 7월 물가 2.8%↑…석유류 상승 둔화에 석 달 만에 2%대로",
+      "link": "https://www.yna.co.kr/view/AKR20260804016251002",
+      "pubDate": "Tue, 4 Aug 2026 08:00:09 +0900"
+    },
+    {
+      "title": "소비자원 \"앰플형 화장품 '일회용 인공눈물'로 오인 주의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260803103200030",
+      "pubDate": "Tue, 4 Aug 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[1보] 7월 소비자물가 상승률 2.8%…석 달 만에 2%대로",
+      "link": "https://www.yna.co.kr/view/AKR20260804016200002",
+      "pubDate": "Tue, 4 Aug 2026 08:00:03 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260804013100011",
@@ -77,81 +152,6 @@
       "title": "[부동산세 개편] 반포 84㎡ 1주택 양도세 내년 2.4억→2029년 9.4억(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260803114951003",
       "pubDate": "Mon, 3 Aug 2026 18:48:29 +0900"
-    },
-    {
-      "title": "한국경제인협회 \"국내생산세액공제 도입, 경쟁력 높이는 발판\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803149300003",
-      "pubDate": "Mon, 3 Aug 2026 18:32:49 +0900"
-    },
-    {
-      "title": "국힘 \"역대 최악의 세제개편…3.4조원 더 걷는 '닥치고 세금'\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803146100001",
-      "pubDate": "Mon, 3 Aug 2026 18:29:55 +0900"
-    },
-    {
-      "title": "[2026세법] 소득·법인세 줄고 종부세 증가…5년간 세수효과 3.4조원",
-      "link": "https://www.yna.co.kr/view/AKR20260802045200002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:18 +0900"
-    },
-    {
-      "title": "[2026세법] 탈세 신고 잘하면 초대박…포상금 40억원 한도 없앤다",
-      "link": "https://www.yna.co.kr/view/AKR20260802038100002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:17 +0900"
-    },
-    {
-      "title": "[2026세법] '주가 누르기' 꼼수 철퇴…적발 땐 주식평가액 30% 높여 세금",
-      "link": "https://www.yna.co.kr/view/AKR20260802051000002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:16 +0900"
-    },
-    {
-      "title": "[2026세법] 조세지출 절반 정비…결혼·출산 세액공제 재정지원 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260802056100002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:15 +0900"
-    },
-    {
-      "title": "[2026세법] 가업상속공제, 병원·주차장 배제…제3자가 물려받아도 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260802000400002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:14 +0900"
-    },
-    {
-      "title": "[2026세법] 지방中企 청년 소득세 최장 10년 감면…기업 세액공제 1.5배로",
-      "link": "https://www.yna.co.kr/view/AKR20260802047900002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:13 +0900"
-    },
-    {
-      "title": "[2026세법] 청년 자산 형성 돕는다…청년ISA, 이자·배당 전액 비과세",
-      "link": "https://www.yna.co.kr/view/AKR20260802034000002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:12 +0900"
-    },
-    {
-      "title": "[2026세법] 총소득 5천200만원이하 맞벌이도 근로장려금…73만가구 더 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260802036800002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:11 +0900"
-    },
-    {
-      "title": "한은, 13년 만에 실물 금 산다…\"금값 떨어져 부담 완화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803109500002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:11 +0900"
-    },
-    {
-      "title": "[2026세법] AI로봇·반도체 생산 촉진…6대 성장동력에 소득·법인세 특례",
-      "link": "https://www.yna.co.kr/view/AKR20260803000600002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:10 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 비사업용 토지 종부세율 최고 4%…공공주택용 양도세는 15% 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260802046000002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:09 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 전근·질병으로 이전해도 거주기간 최장 3년 인정",
-      "link": "https://www.yna.co.kr/view/AKR20260802036500002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:08 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 비거주·고가주택 타깃…\"내년까지 절세매물 나올 듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20260803106300003",
-      "pubDate": "Mon, 3 Aug 2026 18:00:07 +0900"
     }
   ]
 }
