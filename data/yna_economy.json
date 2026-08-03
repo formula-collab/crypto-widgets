@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785792925,
+  "updated_at_unix": 1785797365,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260804013100011",
+      "pubDate": "Tue, 4 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 아프리카와 개발협력⒂: 새로운 희망 심는 가나 산업단지",
+      "link": "https://www.yna.co.kr/view/AKR20260722056200898",
+      "pubDate": "Tue, 4 Aug 2026 07:00:05 +0900"
+    },
+    {
+      "title": "'스벅 사태' 뒤 커피시장 흔들…투썸, 석달째 결제액 앞서",
+      "link": "https://www.yna.co.kr/view/AKR20260803147900017",
+      "pubDate": "Tue, 4 Aug 2026 06:33:00 +0900"
+    },
     {
       "title": "폭염에 '냉기 사수' 작전…로만셰이드·도어커튼 검색 급증",
       "link": "https://www.yna.co.kr/view/AKR20260803126800030",
@@ -137,21 +152,6 @@
       "title": "[부동산세 개편] 비거주·고가주택 타깃…\"내년까지 절세매물 나올 듯\"",
       "link": "https://www.yna.co.kr/view/AKR20260803106300003",
       "pubDate": "Mon, 3 Aug 2026 18:00:07 +0900"
-    },
-    {
-      "title": "[부동산세 개편] '반포 자이' 84㎡ 내년 보유세 2천257만원…올해보다 27%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260803114900003",
-      "pubDate": "Mon, 3 Aug 2026 18:00:06 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 종부세 올리면서 다주택자에 퇴로…양도세 중과 '유턴'",
-      "link": "https://www.yna.co.kr/view/AKR20260802048700002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:05 +0900"
-    },
-    {
-      "title": "[부동산세 개편] 수백억 장특공제, 한도 설정으로 차단…보유→거주 전환",
-      "link": "https://www.yna.co.kr/view/AKR20260803078700002",
-      "pubDate": "Mon, 3 Aug 2026 18:00:04 +0900"
     }
   ]
 }
