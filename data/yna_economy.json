@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785847883,
+  "updated_at_unix": 1785856443,
   "items": [
+    {
+      "title": "美재무 \"원화 과도한 변동성…엔화 약세에 다른 통화 뒤따를 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260804167451071",
+      "pubDate": "Tue, 4 Aug 2026 23:39:11 +0900"
+    },
+    {
+      "title": "美재무 \"원화 과도한 변동성…엔화약세면 다른 통화도 뒤따라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804167400071",
+      "pubDate": "Tue, 4 Aug 2026 22:22:53 +0900"
+    },
+    {
+      "title": "美재무, 이란 호르무즈 통행료 여부 확답없이 \"금명간 합의 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804166600071",
+      "pubDate": "Tue, 4 Aug 2026 22:08:27 +0900"
+    },
     {
       "title": "한국거래소, 변동성 장세에 선물·옵션 증거금률 대거 인상",
       "link": "https://www.yna.co.kr/view/AKR20260804163200008",
@@ -137,21 +152,6 @@
       "title": "환율, 중동 리스크 완화·저가매수 교차에 1,430원대 정체",
       "link": "https://www.yna.co.kr/view/AKR20260804127500002",
       "pubDate": "Tue, 4 Aug 2026 16:04:32 +0900"
-    },
-    {
-      "title": "[특징주] 'AI 팩토리' 기대감?…네이버, 9%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260804056551008",
-      "pubDate": "Tue, 4 Aug 2026 16:04:30 +0900"
-    },
-    {
-      "title": "아직은 큰 변동성…삼전닉스, 급등락 끝에 간신히 상승마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260804043651008",
-      "pubDate": "Tue, 4 Aug 2026 16:00:44 +0900"
-    },
-    {
-      "title": "농식품부, 축산 폭염 전담상황실 운영…취약 농가 살수 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260804117100030",
-      "pubDate": "Tue, 4 Aug 2026 16:00:00 +0900"
     }
   ]
 }
