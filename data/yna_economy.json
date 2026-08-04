@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785880945,
+  "updated_at_unix": 1785886141,
   "items": [
+    {
+      "title": "IBK증권 \"ISC, 반도체 소부장 모범사례…최대실적 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805020900008",
+      "pubDate": "Wed, 5 Aug 2026 08:16:02 +0900"
+    },
+    {
+      "title": "카카오뱅크, 상반기 순익 3천280억원, 역대최대…작년보다 24.4%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260805020300002",
+      "pubDate": "Wed, 5 Aug 2026 08:14:52 +0900"
+    },
+    {
+      "title": "하나증권 \"엔비디아 기지국 진출, 국내 통신업체엔 기회\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805020800008",
+      "pubDate": "Wed, 5 Aug 2026 08:13:36 +0900"
+    },
+    {
+      "title": "알테오젠, 최대 3억6천500만달러 규모 기술 수출 계약",
+      "link": "https://www.yna.co.kr/view/AKR20260805021100017",
+      "pubDate": "Wed, 5 Aug 2026 08:13:30 +0900"
+    },
+    {
+      "title": "오세훈 손에 전달된 워킹맘 손편지…\"돌봄울타리 덕에 다시 일터로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805019700004",
+      "pubDate": "Wed, 5 Aug 2026 08:05:28 +0900"
+    },
+    {
+      "title": "[부산소식] 미식관광 고메 셀렉션 참가업체 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260805017900051",
+      "pubDate": "Wed, 5 Aug 2026 08:03:37 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260805012400011",
+      "pubDate": "Wed, 5 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "[우리품의 아프리카인](46) '100개국이 쓴다' AI노트 개발한 우간다 청년",
       "link": "https://www.yna.co.kr/view/AKR20260730159500898",
@@ -117,41 +152,6 @@
       "title": "주병기 \"배달앱수수료 상한제 법률상 가능…영세소상공인 낮게\"",
       "link": "https://www.yna.co.kr/view/AKR20260804152000002",
       "pubDate": "Tue, 4 Aug 2026 18:17:32 +0900"
-    },
-    {
-      "title": "HD현대 정기선, 정몽준 지분 3.54％ 증여받아…2대 주주 올라서",
-      "link": "https://www.yna.co.kr/view/AKR20260804150800003",
-      "pubDate": "Tue, 4 Aug 2026 18:05:20 +0900"
-    },
-    {
-      "title": "반복담합·시장지위남용에 매각·양도명령…'초강수' 대응한다",
-      "link": "https://www.yna.co.kr/view/AKR20260804107300002",
-      "pubDate": "Tue, 4 Aug 2026 18:03:05 +0900"
-    },
-    {
-      "title": "대기업 계열사 자료 누락하면 총수 개인에게 과징금 물린다",
-      "link": "https://www.yna.co.kr/view/AKR20260804114100002",
-      "pubDate": "Tue, 4 Aug 2026 18:02:34 +0900"
-    },
-    {
-      "title": "충남 농협·하나로마트 등 684곳, 무더위 쉼터로 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260804139300063",
-      "pubDate": "Tue, 4 Aug 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260804147300011",
-      "pubDate": "Tue, 4 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "노동장관 \"국가가 청년 첫 경력 책임지겠다…조만간 제도 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804147600530",
-      "pubDate": "Tue, 4 Aug 2026 17:48:23 +0900"
-    },
-    {
-      "title": "무자본으로 상장사 인수하고 시세조종…57억원 챙긴 일당 재판행",
-      "link": "https://www.yna.co.kr/view/AKR20260804148400004",
-      "pubDate": "Tue, 4 Aug 2026 17:36:24 +0900"
     }
   ]
 }
