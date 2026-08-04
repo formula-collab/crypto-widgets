@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785876436,
+  "updated_at_unix": 1785880945,
   "items": [
+    {
+      "title": "[우리품의 아프리카인](46) '100개국이 쓴다' AI노트 개발한 우간다 청년",
+      "link": "https://www.yna.co.kr/view/AKR20260730159500898",
+      "pubDate": "Wed, 5 Aug 2026 07:00:04 +0900"
+    },
+    {
+      "title": "대전 미분양 아파트 최대 속 둔산 연일 신고가…'양극화' 뚜렷",
+      "link": "https://www.yna.co.kr/view/AKR20260804140400063",
+      "pubDate": "Wed, 5 Aug 2026 07:00:04 +0900"
+    },
+    {
+      "title": "美 S&P500지수 2달만에 최고치 경신…유가 80달러 밑으로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260805005051072",
+      "pubDate": "Wed, 5 Aug 2026 06:27:41 +0900"
+    },
+    {
+      "title": "맛집 냉면·막국수 집에서 맛본다…폭염에 외식보다 간편식 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260804119000030",
+      "pubDate": "Wed, 5 Aug 2026 06:15:00 +0900"
+    },
+    {
+      "title": "쿠팡Inc \"국세청, 3천억원 과세예고…화재 손실 3천500억 추산\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805007100030",
+      "pubDate": "Wed, 5 Aug 2026 06:09:24 +0900"
+    },
+    {
+      "title": "폭염에 주목받는 농어업재해보험…정부, 15일부터 할증 부담 완화",
+      "link": "https://www.yna.co.kr/view/AKR20260804153000030",
+      "pubDate": "Wed, 5 Aug 2026 06:01:01 +0900"
+    },
+    {
+      "title": "작년 건설근로자 퇴직공제금 적립 인원 19만명 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260804118300530",
+      "pubDate": "Wed, 5 Aug 2026 06:00:09 +0900"
+    },
+    {
+      "title": "7월 외환보유액 4천279억달러…외평채 발행에 5.9억↑",
+      "link": "https://www.yna.co.kr/view/AKR20260804127600002",
+      "pubDate": "Wed, 5 Aug 2026 06:00:07 +0900"
+    },
+    {
+      "title": "해외 유동성공급자들, 가상자산 제도화 앞두고 국내 진출 채비",
+      "link": "https://www.yna.co.kr/view/AKR20260804150200002",
+      "pubDate": "Wed, 5 Aug 2026 05:59:00 +0900"
+    },
+    {
+      "title": "미·일 공조에도…엔화 강세 지속엔 IB들 '신중 모드'",
+      "link": "https://www.yna.co.kr/view/AKR20260804141700002",
+      "pubDate": "Wed, 5 Aug 2026 05:58:01 +0900"
+    },
+    {
+      "title": "5대 은행 회수 포기한 대출 1조2천억…7년 만에 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260804125700002",
+      "pubDate": "Wed, 5 Aug 2026 05:55:01 +0900"
+    },
     {
       "title": "美 S&P500지수 2달만에 최고치 경신…유가 80달러 밑으로",
       "link": "https://www.yna.co.kr/view/AKR20260805005000072",
@@ -97,61 +152,6 @@
       "title": "무자본으로 상장사 인수하고 시세조종…57억원 챙긴 일당 재판행",
       "link": "https://www.yna.co.kr/view/AKR20260804148400004",
       "pubDate": "Tue, 4 Aug 2026 17:36:24 +0900"
-    },
-    {
-      "title": "중기부, '도약기업' 3천곳 육성…소상공 육아 지원금 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260804002000030",
-      "pubDate": "Tue, 4 Aug 2026 17:25:27 +0900"
-    },
-    {
-      "title": "레버리지 대책에 수급 완화되나…코스닥 사흘연속 날았다",
-      "link": "https://www.yna.co.kr/view/AKR20260804144100008",
-      "pubDate": "Tue, 4 Aug 2026 17:22:22 +0900"
-    },
-    {
-      "title": "국고채 단기물 강세·장기물 약세…3년물 연 3.740%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260804137651008",
-      "pubDate": "Tue, 4 Aug 2026 17:11:10 +0900"
-    },
-    {
-      "title": "자발적 이직 청년도 생애 1회 실업급여…정년연장 연내 입법",
-      "link": "https://www.yna.co.kr/view/AKR20260804066400530",
-      "pubDate": "Tue, 4 Aug 2026 17:07:07 +0900"
-    },
-    {
-      "title": "與 \"꼼꼼히 점검·보완\"…부동산 세제개편안에 '면밀심사' 기조(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260804084151001",
-      "pubDate": "Tue, 4 Aug 2026 16:54:26 +0900"
-    },
-    {
-      "title": "완도군의회, 가격 하락 등 전복산업 위기 극복 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260804138900054",
-      "pubDate": "Tue, 4 Aug 2026 16:50:36 +0900"
-    },
-    {
-      "title": "파주시 \"자동차세 환급금 카톡으로 간편하게 신청하세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804137200060",
-      "pubDate": "Tue, 4 Aug 2026 16:47:59 +0900"
-    },
-    {
-      "title": "동양생명, 이달 우리금융과 포괄적 주식교환…계약해제권 불행사",
-      "link": "https://www.yna.co.kr/view/AKR20260804137500002",
-      "pubDate": "Tue, 4 Aug 2026 16:45:29 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.740%",
-      "link": "https://www.yna.co.kr/view/AKR20260804137600008",
-      "pubDate": "Tue, 4 Aug 2026 16:41:17 +0900"
-    },
-    {
-      "title": "국힘, 세제개편에 \"아마추어 李정부 무능 감추려 세금 '핵폭탄'\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260804063951001",
-      "pubDate": "Tue, 4 Aug 2026 16:36:55 +0900"
-    },
-    {
-      "title": "금통위원들 \"기준금리 인상 필요성 커지고 부담은 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804135400002",
-      "pubDate": "Tue, 4 Aug 2026 16:34:55 +0900"
     }
   ]
 }
