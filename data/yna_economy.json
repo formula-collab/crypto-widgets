@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785856443,
+  "updated_at_unix": 1785863354,
   "items": [
+    {
+      "title": "트럼프 행정부, 엔화 부양 고리로 원화값 회복 불 지피나",
+      "link": "https://www.yna.co.kr/view/AKR20260805001200072",
+      "pubDate": "Wed, 5 Aug 2026 01:53:27 +0900"
+    },
+    {
+      "title": "美, '엔화 구하기'에 유로화 썼다…재무장관 \"유럽과 긴밀 접촉\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805000400071",
+      "pubDate": "Wed, 5 Aug 2026 00:23:11 +0900"
+    },
     {
       "title": "美재무 \"원화 과도한 변동성…엔화 약세에 다른 통화 뒤따를 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260804167451071",
@@ -142,16 +152,6 @@
       "title": "삼양패키징, 2분기 영업이익 170억원…작년 대비 21.4% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260804132000030",
       "pubDate": "Tue, 4 Aug 2026 16:18:37 +0900"
-    },
-    {
-      "title": "셀트리온제약, 2분기 영업이익 193억원…분기 최대 실적",
-      "link": "https://www.yna.co.kr/view/AKR20260804126100017",
-      "pubDate": "Tue, 4 Aug 2026 16:05:53 +0900"
-    },
-    {
-      "title": "환율, 중동 리스크 완화·저가매수 교차에 1,430원대 정체",
-      "link": "https://www.yna.co.kr/view/AKR20260804127500002",
-      "pubDate": "Tue, 4 Aug 2026 16:04:32 +0900"
     }
   ]
 }
