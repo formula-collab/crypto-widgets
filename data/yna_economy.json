@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785830313,
+  "updated_at_unix": 1785839734,
   "items": [
+    {
+      "title": "진원생명과학, 150억원 유상증자…리볼트투자조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260804154300008",
+      "pubDate": "Tue, 4 Aug 2026 18:39:05 +0900"
+    },
+    {
+      "title": "김남구 한투지주 회장 장남, 입사 7년 만에 임원 승진",
+      "link": "https://www.yna.co.kr/view/AKR20260804152700008",
+      "pubDate": "Tue, 4 Aug 2026 18:19:20 +0900"
+    },
+    {
+      "title": "주병기 \"배달앱수수료 상한제 법률상 가능…영세소상공인 낮게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804152000002",
+      "pubDate": "Tue, 4 Aug 2026 18:17:32 +0900"
+    },
+    {
+      "title": "HD현대 정기선, 정몽준 지분 3.54％ 증여받아…2대 주주 올라서",
+      "link": "https://www.yna.co.kr/view/AKR20260804150800003",
+      "pubDate": "Tue, 4 Aug 2026 18:05:20 +0900"
+    },
+    {
+      "title": "반복담합·시장지위남용에 매각·양도명령…'초강수' 대응한다",
+      "link": "https://www.yna.co.kr/view/AKR20260804107300002",
+      "pubDate": "Tue, 4 Aug 2026 18:03:05 +0900"
+    },
+    {
+      "title": "대기업 계열사 자료 누락하면 총수 개인에게 과징금 물린다",
+      "link": "https://www.yna.co.kr/view/AKR20260804114100002",
+      "pubDate": "Tue, 4 Aug 2026 18:02:34 +0900"
+    },
+    {
+      "title": "충남 농협·하나로마트 등 684곳, 무더위 쉼터로 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260804139300063",
+      "pubDate": "Tue, 4 Aug 2026 18:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260804147300011",
+      "pubDate": "Tue, 4 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "노동장관 \"국가가 청년 첫 경력 책임지겠다…조만간 제도 발표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260804147600530",
+      "pubDate": "Tue, 4 Aug 2026 17:48:23 +0900"
+    },
+    {
+      "title": "무자본으로 상장사 인수하고 시세조종…57억원 챙긴 일당 재판행",
+      "link": "https://www.yna.co.kr/view/AKR20260804148400004",
+      "pubDate": "Tue, 4 Aug 2026 17:36:24 +0900"
+    },
+    {
+      "title": "중기부, '도약기업' 3천곳 육성…소상공 육아 지원금 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260804002000030",
+      "pubDate": "Tue, 4 Aug 2026 17:25:27 +0900"
+    },
+    {
+      "title": "레버리지 대책에 수급 완화되나…코스닥 사흘연속 날았다",
+      "link": "https://www.yna.co.kr/view/AKR20260804144100008",
+      "pubDate": "Tue, 4 Aug 2026 17:22:22 +0900"
+    },
+    {
+      "title": "국고채 단기물 강세·장기물 약세…3년물 연 3.740%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260804137651008",
+      "pubDate": "Tue, 4 Aug 2026 17:11:10 +0900"
+    },
+    {
+      "title": "자발적 이직 청년도 생애 1회 실업급여…정년연장 연내 입법",
+      "link": "https://www.yna.co.kr/view/AKR20260804066400530",
+      "pubDate": "Tue, 4 Aug 2026 17:07:07 +0900"
+    },
+    {
+      "title": "與 \"꼼꼼히 점검·보완\"…부동산 세제개편안에 '면밀심사' 기조(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260804084151001",
+      "pubDate": "Tue, 4 Aug 2026 16:54:26 +0900"
+    },
     {
       "title": "완도군의회, 가격 하락 등 전복산업 위기 극복 방안 논의",
       "link": "https://www.yna.co.kr/view/AKR20260804138900054",
@@ -77,81 +152,6 @@
       "title": "부산연구원 \"디지털화폐 시대 대비 부산페이 단계적 도입해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260804117000051",
       "pubDate": "Tue, 4 Aug 2026 15:45:20 +0900"
-    },
-    {
-      "title": "원전 제조 중심지 경남도 \"SMR, 국가전략기술 지정 환영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804122300052",
-      "pubDate": "Tue, 4 Aug 2026 15:44:41 +0900"
-    },
-    {
-      "title": "외국환시세(8월4일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260804120400002",
-      "pubDate": "Tue, 4 Aug 2026 15:35:27 +0900"
-    },
-    {
-      "title": "[속보] 코스피 1.6% 반등…코스닥 5.9%↑, 3거래일 연속 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260804119600008",
-      "pubDate": "Tue, 4 Aug 2026 15:34:41 +0900"
-    },
-    {
-      "title": "카카오게임즈, '김부장' 보유 더그림엔터와 IP 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260804118200017",
-      "pubDate": "Tue, 4 Aug 2026 15:32:24 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.7원 오른 1,432.5원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260804118800002",
-      "pubDate": "Tue, 4 Aug 2026 15:30:53 +0900"
-    },
-    {
-      "title": "네이버, 남미서 AI 인프라 협력 확대…GPU·클라우드 사업 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260804118100017",
-      "pubDate": "Tue, 4 Aug 2026 15:29:01 +0900"
-    },
-    {
-      "title": "[울산소식] 울주군, 8월 31일까지 주민세 신고·납부받아",
-      "link": "https://www.yna.co.kr/view/AKR20260804109200057",
-      "pubDate": "Tue, 4 Aug 2026 15:19:00 +0900"
-    },
-    {
-      "title": "MBK·영풍, 고려아연 임시주총 결의 취소소송 취하…\"소제기 목적 달성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804103500008",
-      "pubDate": "Tue, 4 Aug 2026 15:17:40 +0900"
-    },
-    {
-      "title": "해양경찰청, 변호사 경감 3명 등 385명 공채 공고",
-      "link": "https://www.yna.co.kr/view/AKR20260804114800065",
-      "pubDate": "Tue, 4 Aug 2026 15:16:32 +0900"
-    },
-    {
-      "title": "서범수 의원 \"울주 선바위 공공주택지구 조속 추진되게 할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804109000057",
-      "pubDate": "Tue, 4 Aug 2026 15:09:50 +0900"
-    },
-    {
-      "title": "오세훈 \"세금 올린다고 집값 못 잡아…가장 큰 피해자는 서민\"",
-      "link": "https://www.yna.co.kr/view/AKR20260804110500004",
-      "pubDate": "Tue, 4 Aug 2026 15:07:33 +0900"
-    },
-    {
-      "title": "제주산 축산물 수출, 싱가포르 수출 힘입어 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260804111000056",
-      "pubDate": "Tue, 4 Aug 2026 15:00:41 +0900"
-    },
-    {
-      "title": "AI·디지털 사각지대 없앤다…과기부·신한금융 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260804043800017",
-      "pubDate": "Tue, 4 Aug 2026 15:00:02 +0900"
-    },
-    {
-      "title": "보이스피싱 의심 정보 공유 빨라진다…정보 주체 동의 없이 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260804095700002",
-      "pubDate": "Tue, 4 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "여주시, 구직자·기업 매칭 '일자리드림데이' 6일 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260804110700061",
-      "pubDate": "Tue, 4 Aug 2026 14:54:21 +0900"
     }
   ]
 }
