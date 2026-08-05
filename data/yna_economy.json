@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785961382,
+  "updated_at_unix": 1785965945,
   "items": [
+    {
+      "title": "\"부품 넘어 지능 수출\"…글로벌 분석가, SK AI 전략 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260805153200017",
+      "pubDate": "Thu, 6 Aug 2026 06:33:00 +0900"
+    },
+    {
+      "title": "현대차·기아 11종 50만9천대 리콜…그랜저·투싼·카니발 등",
+      "link": "https://www.yna.co.kr/view/AKR20260805143600003",
+      "pubDate": "Thu, 6 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "울산시, 폭염·가뭄 대응 농업인 보험 가입 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260805159100057",
+      "pubDate": "Thu, 6 Aug 2026 06:00:00 +0900"
+    },
+    {
+      "title": "\"상생임대·재건축 매입임대 언제까지 팔아야 하나\"…시장 혼란",
+      "link": "https://www.yna.co.kr/view/AKR20260805144900003",
+      "pubDate": "Thu, 6 Aug 2026 05:59:00 +0900"
+    },
+    {
+      "title": "코인원·카뱅 입출금 계좌 제휴 1년 연장 가닥",
+      "link": "https://www.yna.co.kr/view/AKR20260805122200002",
+      "pubDate": "Thu, 6 Aug 2026 05:56:01 +0900"
+    },
     {
       "title": "중국 비판해도 돈 앞에선…아르헨, 위안화 스와프 5년 연장",
       "link": "https://www.yna.co.kr/view/AKR20260806005600009",
@@ -127,31 +152,6 @@
       "title": "강원도, 1천500억원 전략산업 벤처펀드 2년 차 운용사 4곳 선정",
       "link": "https://www.yna.co.kr/view/AKR20260805121300062",
       "pubDate": "Wed, 5 Aug 2026 16:01:12 +0900"
-    },
-    {
-      "title": "[게시판] 기획처, 배출권 할당위원회 민간위원 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260805114600002",
-      "pubDate": "Wed, 5 Aug 2026 16:00:01 +0900"
-    },
-    {
-      "title": "위험회피 심리 커졌나…'빚투' 신용융자잔고 올 최저로 '뚝'",
-      "link": "https://www.yna.co.kr/view/AKR20260805116800008",
-      "pubDate": "Wed, 5 Aug 2026 15:51:43 +0900"
-    },
-    {
-      "title": "내년도 강원 중등교사, 올해보다 2배 이상 더 뽑는다",
-      "link": "https://www.yna.co.kr/view/AKR20260805118500062",
-      "pubDate": "Wed, 5 Aug 2026 15:49:33 +0900"
-    },
-    {
-      "title": "익산시, 청년 외식 창업 디딤돌 '공유주방' 참여자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260805117000055",
-      "pubDate": "Wed, 5 Aug 2026 15:48:50 +0900"
-    },
-    {
-      "title": "울산교육청, 2027학년도 공립 유·초·중등교사 214명 선발 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260805117400057",
-      "pubDate": "Wed, 5 Aug 2026 15:46:40 +0900"
     }
   ]
 }
