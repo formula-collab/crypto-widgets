@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785970011,
+  "updated_at_unix": 1785973503,
   "items": [
+    {
+      "title": "1천400조원 국유자산 관리체계 대전환…금융·가상자산도 담는다",
+      "link": "https://www.yna.co.kr/view/AKR20260805135400002",
+      "pubDate": "Thu, 6 Aug 2026 08:30:01 +0900"
+    },
+    {
+      "title": "자동차·철강·조선에 'AI 옷' 입혀 성장동력 강화한다",
+      "link": "https://www.yna.co.kr/view/AKR20260805152600002",
+      "pubDate": "Thu, 6 Aug 2026 08:30:01 +0900"
+    },
+    {
+      "title": "IBK증권 \"라인강 수위 최저·물류비상…국내 석화기업 반사이익\"",
+      "link": "https://www.yna.co.kr/view/AKR20260806021800008",
+      "pubDate": "Thu, 6 Aug 2026 08:14:29 +0900"
+    },
+    {
+      "title": "DB증권 \"SKT, AIDC 사업 개발 주도\"…목표가 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260806023400008",
+      "pubDate": "Thu, 6 Aug 2026 08:14:18 +0900"
+    },
+    {
+      "title": "6월 경상수지 497.3억달러 흑자…두 달 연속 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260806017500002",
+      "pubDate": "Thu, 6 Aug 2026 08:00:03 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260806014700011",
@@ -127,31 +152,6 @@
       "title": "주택금융공사, 8월 보금자리론 금리 동결…연 4.9∼5.2%",
       "link": "https://www.yna.co.kr/view/AKR20260805126200002",
       "pubDate": "Wed, 5 Aug 2026 16:31:54 +0900"
-    },
-    {
-      "title": "식약처, '알레르기 유발물질 미표시' 죽제품 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260805129400017",
-      "pubDate": "Wed, 5 Aug 2026 16:31:10 +0900"
-    },
-    {
-      "title": "LH, 군포 산본 11구역 사업시행약정…3천892가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260805131000003",
-      "pubDate": "Wed, 5 Aug 2026 16:28:39 +0900"
-    },
-    {
-      "title": "반등 이어 3% 급등한 코스피…상승탄력 키우며 고점 높여가나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260805075751008",
-      "pubDate": "Wed, 5 Aug 2026 16:16:57 +0900"
-    },
-    {
-      "title": "환율, 美재무 개입 시사·외국인 순매수에 8.0원 내린 1,424.5원",
-      "link": "https://www.yna.co.kr/view/AKR20260805123400002",
-      "pubDate": "Wed, 5 Aug 2026 16:11:24 +0900"
-    },
-    {
-      "title": "박홍근 \"미래기금, 높은 이익나게 투자…세수펑크·추경에 활용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260805116500002",
-      "pubDate": "Wed, 5 Aug 2026 16:09:59 +0900"
     }
   ]
 }
