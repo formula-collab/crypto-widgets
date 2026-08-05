@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785956280,
+  "updated_at_unix": 1785961382,
   "items": [
+    {
+      "title": "중국 비판해도 돈 앞에선…아르헨, 위안화 스와프 5년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260806005600009",
+      "pubDate": "Thu, 6 Aug 2026 05:09:34 +0900"
+    },
+    {
+      "title": "與서울시당, 오늘 부동산 정책 간담회…세제 개편안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260805153400001",
+      "pubDate": "Thu, 6 Aug 2026 05:00:02 +0900"
+    },
+    {
+      "title": "국제유가, 호르무즈 통항 논의속 보합권 마감…브렌트 79달러",
+      "link": "https://www.yna.co.kr/view/AKR20260806005400072",
+      "pubDate": "Thu, 6 Aug 2026 04:42:21 +0900"
+    },
     {
       "title": "\"임대주택 공급 부족해질 수도\"…부동산세 개편안에 학계서 우려",
       "link": "https://www.yna.co.kr/view/AKR20260805158800002",
@@ -137,21 +152,6 @@
       "title": "울산교육청, 2027학년도 공립 유·초·중등교사 214명 선발 예고",
       "link": "https://www.yna.co.kr/view/AKR20260805117400057",
       "pubDate": "Wed, 5 Aug 2026 15:46:40 +0900"
-    },
-    {
-      "title": "외국환시세(8월5일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260805116000002",
-      "pubDate": "Wed, 5 Aug 2026 15:41:15 +0900"
-    },
-    {
-      "title": "[특징주] 광통신주, 트럼프 행정부 中부품 수입금지 추진에 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260805035251008",
-      "pubDate": "Wed, 5 Aug 2026 15:36:04 +0900"
-    },
-    {
-      "title": "[Q&A] 세제개편으로 출산공제 사라지나…정부 \"예산지원으로 전환\"",
-      "link": "https://www.yna.co.kr/view/AKR20260805112100002",
-      "pubDate": "Wed, 5 Aug 2026 15:35:02 +0900"
     }
   ]
 }
