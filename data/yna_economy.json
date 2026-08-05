@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785965945,
+  "updated_at_unix": 1785970011,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260806014700011",
+      "pubDate": "Thu, 6 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] '아프리카 축소판' 카메룬, 청년·난민의 절망 보듬나",
+      "link": "https://www.yna.co.kr/view/AKR20260723033300898",
+      "pubDate": "Thu, 6 Aug 2026 07:00:06 +0900"
+    },
+    {
+      "title": "리사 쿡 美연준 이사 \"필요시 금리 인상 행동할 준비돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260806010600072",
+      "pubDate": "Thu, 6 Aug 2026 06:48:27 +0900"
+    },
     {
       "title": "\"부품 넘어 지능 수출\"…글로벌 분석가, SK AI 전략 주목",
       "link": "https://www.yna.co.kr/view/AKR20260805153200017",
@@ -137,21 +152,6 @@
       "title": "박홍근 \"미래기금, 높은 이익나게 투자…세수펑크·추경에 활용\"",
       "link": "https://www.yna.co.kr/view/AKR20260805116500002",
       "pubDate": "Wed, 5 Aug 2026 16:09:59 +0900"
-    },
-    {
-      "title": "환경단체 \"포항 호미곶 골프&리조트 사업 백지화하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260805124400053",
-      "pubDate": "Wed, 5 Aug 2026 16:09:54 +0900"
-    },
-    {
-      "title": "경남교육청, 2027학년도 공립 신규 교사 756명 선발…9월 공고",
-      "link": "https://www.yna.co.kr/view/AKR20260805124900052",
-      "pubDate": "Wed, 5 Aug 2026 16:08:26 +0900"
-    },
-    {
-      "title": "강원도, 1천500억원 전략산업 벤처펀드 2년 차 운용사 4곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260805121300062",
-      "pubDate": "Wed, 5 Aug 2026 16:01:12 +0900"
     }
   ]
 }
