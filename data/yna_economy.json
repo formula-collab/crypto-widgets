@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1785921300,
+  "updated_at_unix": 1785929638,
   "items": [
+    {
+      "title": "\"임대주택 공급 부족해질 수도\"…부동산세 개편안에 학계서 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260805158800002",
+      "pubDate": "Wed, 5 Aug 2026 20:27:23 +0900"
+    },
+    {
+      "title": "세제개편안 이후 공급대책 막바지 집중…업계 의견도 다시 수렴(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260805077851003",
+      "pubDate": "Wed, 5 Aug 2026 19:22:45 +0900"
+    },
+    {
+      "title": "중수청, 인력영입 설명회 참석자 대부분 수사관…검사 참석률 저조",
+      "link": "https://www.yna.co.kr/view/AKR20260805152000004",
+      "pubDate": "Wed, 5 Aug 2026 18:55:14 +0900"
+    },
+    {
+      "title": "임광현 \"아르헨티나 진출 기업 이중과세 방지 국세청이 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20260805152500002",
+      "pubDate": "Wed, 5 Aug 2026 18:43:39 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260805145300011",
@@ -132,26 +152,6 @@
       "title": "[Q&A] 세제개편으로 출산공제 사라지나…정부 \"예산지원으로 전환\"",
       "link": "https://www.yna.co.kr/view/AKR20260805112100002",
       "pubDate": "Wed, 5 Aug 2026 15:35:02 +0900"
-    },
-    {
-      "title": "[충북소식] 지방세입 체납관리단 발대…11월까지 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260805115500064",
-      "pubDate": "Wed, 5 Aug 2026 15:34:28 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 3.8% 급등한 6,598 마감…코스닥도 2.4%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260805115400008",
-      "pubDate": "Wed, 5 Aug 2026 15:33:57 +0900"
-    },
-    {
-      "title": "세계유산 반구천의 암각화, 누구나 즐기는 문화콘텐츠로 만든다",
-      "link": "https://www.yna.co.kr/view/AKR20260805110900057",
-      "pubDate": "Wed, 5 Aug 2026 15:32:54 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 8.0원 내린 1,424.5원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260805114400002",
-      "pubDate": "Wed, 5 Aug 2026 15:31:18 +0900"
     }
   ]
 }
