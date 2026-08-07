@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786094897,
+  "updated_at_unix": 1786098245,
   "items": [
+    {
+      "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260807142100030",
+      "pubDate": "Fri, 7 Aug 2026 19:04:05 +0900"
+    },
+    {
+      "title": "구윤철 '대출 완화' 주장에 \"핀셋 지원 고민 중…조만간 대책\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807032751002",
+      "pubDate": "Fri, 7 Aug 2026 19:01:24 +0900"
+    },
+    {
+      "title": "섬산련, 올해 첫 임시총회 개최…회장 추대위 재구성키로",
+      "link": "https://www.yna.co.kr/view/AKR20260807147700030",
+      "pubDate": "Fri, 7 Aug 2026 18:41:49 +0900"
+    },
+    {
+      "title": "엠엑스로보틱스, 100억원 유상증자…엠엑스온에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260807148500008",
+      "pubDate": "Fri, 7 Aug 2026 18:39:51 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260807135100011",
@@ -132,26 +152,6 @@
       "title": "서울전자통신, 30억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260807112600008",
       "pubDate": "Fri, 7 Aug 2026 15:55:14 +0900"
-    },
-    {
-      "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807040351008",
-      "pubDate": "Fri, 7 Aug 2026 15:54:19 +0900"
-    },
-    {
-      "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
-      "link": "https://www.yna.co.kr/view/AKR20260807112500002",
-      "pubDate": "Fri, 7 Aug 2026 15:53:49 +0900"
-    },
-    {
-      "title": "\"美, 엔화방어 위해 유로화 팔고 ECB에 사후통보만…관행 깨져\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807109600009",
-      "pubDate": "Fri, 7 Aug 2026 15:44:46 +0900"
-    },
-    {
-      "title": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 11%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807038551008",
-      "pubDate": "Fri, 7 Aug 2026 15:39:25 +0900"
     }
   ]
 }
