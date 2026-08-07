@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786136807,
+  "updated_at_unix": 1786140109,
   "items": [
+    {
+      "title": "美증시, 금리인상 기대론 후퇴에 상승…S&P500 사상최고치 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260808005151072",
+      "pubDate": "Sat, 8 Aug 2026 06:12:23 +0900"
+    },
     {
       "title": "국제유가, 호르무즈 협상 추이 주목하며 상승…브렌트 1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260808004500072",
@@ -147,11 +152,6 @@
       "title": "환율, 이틀째 1,410원대…달러 유입 등에 수급 개선",
       "link": "https://www.yna.co.kr/view/AKR20260807113100002",
       "pubDate": "Fri, 7 Aug 2026 16:10:59 +0900"
-    },
-    {
-      "title": "정점식 \"김용범은 실책 실장·한국 경제 빌런…경질해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807043351001",
-      "pubDate": "Fri, 7 Aug 2026 16:10:00 +0900"
     }
   ]
 }
