@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786101165,
+  "updated_at_unix": 1786104234,
   "items": [
+    {
+      "title": "與황희, '버스하우스' 논란 일자 \"아이디어 차원\"…국힘 \"망언\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260807114852001",
+      "pubDate": "Fri, 7 Aug 2026 20:17:26 +0900"
+    },
     {
       "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
       "link": "https://www.yna.co.kr/view/AKR20260807142100030",
@@ -147,11 +152,6 @@
       "title": "농식품부, 폭염대응 사고수습본부 가동…특별관리기간 운영·예방 강화",
       "link": "https://www.yna.co.kr/view/AKR20260807112300030",
       "pubDate": "Fri, 7 Aug 2026 16:00:14 +0900"
-    },
-    {
-      "title": "서울전자통신, 30억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260807112600008",
-      "pubDate": "Fri, 7 Aug 2026 15:55:14 +0900"
     }
   ]
 }
