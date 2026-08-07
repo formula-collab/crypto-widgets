@@ -1,8 +1,118 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786084754,
+  "updated_at_unix": 1786089845,
   "items": [
+    {
+      "title": "美지표 주시하며 국고채 금리 상승…3년물 연 3.746%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807126951008",
+      "pubDate": "Fri, 7 Aug 2026 16:53:29 +0900"
+    },
+    {
+      "title": "반도체공학회 \"연구개발직 주 52시간제 반드시 개선해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807129400003",
+      "pubDate": "Fri, 7 Aug 2026 16:52:30 +0900"
+    },
+    {
+      "title": "E8, 40억원 유상증자…트리플티에스앤씨에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260807127200008",
+      "pubDate": "Fri, 7 Aug 2026 16:51:29 +0900"
+    },
+    {
+      "title": "iM뱅크·한국장학재단, 직업계고 청년 취업 활성화 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260807127300053",
+      "pubDate": "Fri, 7 Aug 2026 16:46:21 +0900"
+    },
+    {
+      "title": "'미국 우주 기업 투자' ETF 등 3종 오는 11일 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260807128100008",
+      "pubDate": "Fri, 7 Aug 2026 16:46:09 +0900"
+    },
+    {
+      "title": "코웨이, 2분기 영업익 4.3% 성장…말레이·美 등 해외시장 견인(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807112251527",
+      "pubDate": "Fri, 7 Aug 2026 16:44:00 +0900"
+    },
+    {
+      "title": "중동전쟁 장기화에 中企피해 1천37건…\"물류비 상승·주문 보류\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807118100030",
+      "pubDate": "Fri, 7 Aug 2026 16:42:23 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 상승…3년물 연 3.746%",
+      "link": "https://www.yna.co.kr/view/AKR20260807126900008",
+      "pubDate": "Fri, 7 Aug 2026 16:41:34 +0900"
+    },
+    {
+      "title": "與이언주 \"세제개편, 주거안정에 큰 무리수…정교 재검토 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807114800001",
+      "pubDate": "Fri, 7 Aug 2026 16:33:09 +0900"
+    },
+    {
+      "title": "대원제약 상반기 매출 3천109억원…3.1% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260807123100017",
+      "pubDate": "Fri, 7 Aug 2026 16:27:28 +0900"
+    },
+    {
+      "title": "\"재건축·재개발이 주택공급 마스터키\"…오세훈, 청와대에 백서전달(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807070951004",
+      "pubDate": "Fri, 7 Aug 2026 16:17:36 +0900"
+    },
+    {
+      "title": "미국, 중국 폴리실리콘 수입 규제…국내 태양광 반사이익 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260807112700003",
+      "pubDate": "Fri, 7 Aug 2026 16:14:22 +0900"
+    },
+    {
+      "title": "환율, 이틀째 1,410원대…달러 유입 등에 수급 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260807113100002",
+      "pubDate": "Fri, 7 Aug 2026 16:10:59 +0900"
+    },
+    {
+      "title": "정점식 \"김용범은 실책 실장·한국 경제 빌런…경질해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807043351001",
+      "pubDate": "Fri, 7 Aug 2026 16:10:00 +0900"
+    },
+    {
+      "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260807118000030",
+      "pubDate": "Fri, 7 Aug 2026 16:08:24 +0900"
+    },
+    {
+      "title": "농식품부, 폭염대응 사고수습본부 가동…특별관리기간 운영·예방 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260807112300030",
+      "pubDate": "Fri, 7 Aug 2026 16:00:14 +0900"
+    },
+    {
+      "title": "서울전자통신, 30억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260807112600008",
+      "pubDate": "Fri, 7 Aug 2026 15:55:14 +0900"
+    },
+    {
+      "title": "하이닉스, 전날 10% 폭락이어 또 4.8% 급락…삼전 0.2%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807040351008",
+      "pubDate": "Fri, 7 Aug 2026 15:54:19 +0900"
+    },
+    {
+      "title": "두나무, 경찰청 '압수 가상자산 커스터디' 최종 낙찰",
+      "link": "https://www.yna.co.kr/view/AKR20260807112500002",
+      "pubDate": "Fri, 7 Aug 2026 15:53:49 +0900"
+    },
+    {
+      "title": "\"美, 엔화방어 위해 유로화 팔고 ECB에 사후통보만…관행 깨져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807109600009",
+      "pubDate": "Fri, 7 Aug 2026 15:44:46 +0900"
+    },
+    {
+      "title": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 11%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807038551008",
+      "pubDate": "Fri, 7 Aug 2026 15:39:25 +0900"
+    },
+    {
+      "title": "외국환시세(8월7일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260807109900002",
+      "pubDate": "Fri, 7 Aug 2026 15:35:19 +0900"
+    },
     {
       "title": "[외환] 원/달러 환율 7.7원 내린 1,416.1원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260807108400002",
@@ -42,116 +152,6 @@
       "title": "창원시·경남무역, 농식품 수출 활성화·판로 확대 방안 논의",
       "link": "https://www.yna.co.kr/view/AKR20260807096700052",
       "pubDate": "Fri, 7 Aug 2026 14:38:53 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260807090500011",
-      "pubDate": "Fri, 7 Aug 2026 14:30:01 +0900"
-    },
-    {
-      "title": "노동장관, 중견기업연합회에 \"정부 채용 지원사업 적극 참여\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807061500530",
-      "pubDate": "Fri, 7 Aug 2026 14:00:03 +0900"
-    },
-    {
-      "title": "\"재건축·재개발이 주택공급 마스터키\"…오세훈, 청와대에 백서전달",
-      "link": "https://www.yna.co.kr/view/AKR20260807070900004",
-      "pubDate": "Fri, 7 Aug 2026 14:00:02 +0900"
-    },
-    {
-      "title": "서금원, 상반기 미소금융 1천612억원 공급…이용건수 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260807073800002",
-      "pubDate": "Fri, 7 Aug 2026 13:22:35 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 장중 연 3.732%",
-      "link": "https://www.yna.co.kr/view/AKR20260807072300008",
-      "pubDate": "Fri, 7 Aug 2026 11:40:21 +0900"
-    },
-    {
-      "title": "경사노위, 시민 50명과 '인구변화 일자리 해법' 공론화 대화",
-      "link": "https://www.yna.co.kr/view/AKR20260807068500530",
-      "pubDate": "Fri, 7 Aug 2026 11:37:40 +0900"
-    },
-    {
-      "title": "국힘 부동산특위 재가동…\"李정부, 집값은 못 잡고 국민만 잡아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807066600001",
-      "pubDate": "Fri, 7 Aug 2026 11:26:22 +0900"
-    },
-    {
-      "title": "그린벨트부터 비아파트까지…후속 공급대책 그림 나올까",
-      "link": "https://www.yna.co.kr/view/AKR20260807066900003",
-      "pubDate": "Fri, 7 Aug 2026 11:22:06 +0900"
-    },
-    {
-      "title": "김제시, 행복주택 입주 청년·신혼부부에 임대보증금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260807066700055",
-      "pubDate": "Fri, 7 Aug 2026 11:20:44 +0900"
-    },
-    {
-      "title": "태양광·반도체·이차전지 국내 생산시 2036년까지 세액공제(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807025651003",
-      "pubDate": "Fri, 7 Aug 2026 11:16:57 +0900"
-    },
-    {
-      "title": "지역 중소기업 세액감면율 확대…지방 中企 취업자 근소세 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260807059300030",
-      "pubDate": "Fri, 7 Aug 2026 11:12:15 +0900"
-    },
-    {
-      "title": "스마일게이트 오렌지플래닛 \"유망 스타트업 21팀 배출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807064900017",
-      "pubDate": "Fri, 7 Aug 2026 11:10:43 +0900"
-    },
-    {
-      "title": "[바이오스냅] 동국제약 임직원, 환경보호·아동돌봄 활동 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260807064800017",
-      "pubDate": "Fri, 7 Aug 2026 11:10:03 +0900"
-    },
-    {
-      "title": "네이버, 2분기 역대 최대 매출…AI 광고 첫 수익화 통했다(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260807022052527",
-      "pubDate": "Fri, 7 Aug 2026 11:06:30 +0900"
-    },
-    {
-      "title": "재정정보원 찾은 박홍근 \"보안 역량 갖추고 개인정보 보호 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807050600002",
-      "pubDate": "Fri, 7 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "구윤철, 창신동 쪽방촌 방문…\"취약계층에 더 가혹한 여름\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807054400002",
-      "pubDate": "Fri, 7 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "해수부, 내항 선사 장기계약 우수 화주에 세액공제",
-      "link": "https://www.yna.co.kr/view/AKR20260807055100051",
-      "pubDate": "Fri, 7 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "알테오젠 2분기 영업이익 342억원…흑자 전환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807054551527",
-      "pubDate": "Fri, 7 Aug 2026 10:57:08 +0900"
-    },
-    {
-      "title": "일본도 극한폭염…응급실行 급증에 '더윗병' 보험 인기",
-      "link": "https://www.yna.co.kr/view/AKR20260807059100009",
-      "pubDate": "Fri, 7 Aug 2026 10:52:09 +0900"
-    },
-    {
-      "title": "박홍근 \"'악덕 사업주' 된 것 같아 미안한 마음\"…직원 격려",
-      "link": "https://www.yna.co.kr/view/AKR20260807051400002",
-      "pubDate": "Fri, 7 Aug 2026 10:46:42 +0900"
-    },
-    {
-      "title": "고려아연 온산제련소, 생산 현장에 커피차·온열 예방 용품 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260807054700057",
-      "pubDate": "Fri, 7 Aug 2026 10:40:12 +0900"
-    },
-    {
-      "title": "대구 안심뉴타운 신세계아울렛 본격화…2028년 문 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260807045100053",
-      "pubDate": "Fri, 7 Aug 2026 10:40:00 +0900"
     }
   ]
 }
