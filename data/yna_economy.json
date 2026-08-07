@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786079348,
+  "updated_at_unix": 1786084754,
   "items": [
+    {
+      "title": "[외환] 원/달러 환율 7.7원 내린 1,416.1원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260807108400002",
+      "pubDate": "Fri, 7 Aug 2026 15:30:48 +0900"
+    },
+    {
+      "title": "하나은행, 비대면 주담대 신규 취급 중단…총량 관리 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260807107200002",
+      "pubDate": "Fri, 7 Aug 2026 15:29:33 +0900"
+    },
+    {
+      "title": "'하닉 1주에 하한가' 시장왜곡…프리마켓 상·하한가 한시 금지",
+      "link": "https://www.yna.co.kr/view/AKR20260807105400008",
+      "pubDate": "Fri, 7 Aug 2026 15:24:40 +0900"
+    },
+    {
+      "title": "IMF 카츠 \"일본은행, 통화정책 정상화 지속 예상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807104000009",
+      "pubDate": "Fri, 7 Aug 2026 15:21:27 +0900"
+    },
+    {
+      "title": "[게시판] 농심·기상청, 폭염 취약층에 백산수·식료품 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260807102400030",
+      "pubDate": "Fri, 7 Aug 2026 15:05:08 +0900"
+    },
+    {
+      "title": "이렘 \"원픽이앤씨 주식 25억원어치 취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807101300008",
+      "pubDate": "Fri, 7 Aug 2026 15:03:01 +0900"
+    },
+    {
+      "title": "오세훈, 여당의 '주택 공급부족 책임론' 공세에 \"적반하장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807098000004",
+      "pubDate": "Fri, 7 Aug 2026 14:50:50 +0900"
+    },
+    {
+      "title": "창원시·경남무역, 농식품 수출 활성화·판로 확대 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260807096700052",
+      "pubDate": "Fri, 7 Aug 2026 14:38:53 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260807090500011",
+      "pubDate": "Fri, 7 Aug 2026 14:30:01 +0900"
+    },
     {
       "title": "노동장관, 중견기업연합회에 \"정부 채용 지원사업 적극 참여\"",
       "link": "https://www.yna.co.kr/view/AKR20260807061500530",
@@ -107,51 +152,6 @@
       "title": "대구 안심뉴타운 신세계아울렛 본격화…2028년 문 연다",
       "link": "https://www.yna.co.kr/view/AKR20260807045100053",
       "pubDate": "Fri, 7 Aug 2026 10:40:00 +0900"
-    },
-    {
-      "title": "KCOC, 베트남서 활동하는 NGO 대상 '법률 리스크 대응' 워크숍",
-      "link": "https://www.yna.co.kr/view/AKR20260807056700371",
-      "pubDate": "Fri, 7 Aug 2026 10:36:15 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260807050700011",
-      "pubDate": "Fri, 7 Aug 2026 10:30:01 +0900"
-    },
-    {
-      "title": "정점식 \"김용범은 실책 실장·한국 경제 빌런…경질해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807043300001",
-      "pubDate": "Fri, 7 Aug 2026 10:29:53 +0900"
-    },
-    {
-      "title": "NH농협생명, 폭염 대응 강화…농작업 중 온열질환 신속보상",
-      "link": "https://www.yna.co.kr/view/AKR20260807052000002",
-      "pubDate": "Fri, 7 Aug 2026 10:22:05 +0900"
-    },
-    {
-      "title": "[인사] 기획예산처",
-      "link": "https://www.yna.co.kr/view/AKR20260807049900002",
-      "pubDate": "Fri, 7 Aug 2026 10:11:26 +0900"
-    },
-    {
-      "title": "월 임대료 8만∼23만원…서천군, 농촌보금자리 입주 청년 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260807049100063",
-      "pubDate": "Fri, 7 Aug 2026 10:07:54 +0900"
-    },
-    {
-      "title": "교보생명, 맞춤건강보험 배타적사용권…일반·간편심사 한 번에",
-      "link": "https://www.yna.co.kr/view/AKR20260807044600002",
-      "pubDate": "Fri, 7 Aug 2026 10:04:41 +0900"
-    },
-    {
-      "title": "공인중개사 명의 빌려 사무소 운영한 60대 등 3명 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260807046900051",
-      "pubDate": "Fri, 7 Aug 2026 10:01:33 +0900"
-    },
-    {
-      "title": "마포구 노고산동에 42층 주거·업무시설…재개발 통합심의 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260807040700004",
-      "pubDate": "Fri, 7 Aug 2026 10:00:01 +0900"
     }
   ]
 }
