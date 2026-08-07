@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786131722,
+  "updated_at_unix": 1786134407,
   "items": [
+    {
+      "title": "국제유가, 호르무즈 협상 추이 주목하며 상승…브렌트 1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260808004500072",
+      "pubDate": "Sat, 8 Aug 2026 04:53:11 +0900"
+    },
     {
       "title": "삼전닉스 레버리지 상장심사기간 29일…\"절반 단축\"·\"사실아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20260807160400001",
@@ -147,11 +152,6 @@
       "title": "정점식 \"김용범은 실책 실장·한국 경제 빌런…경질해야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260807043351001",
       "pubDate": "Fri, 7 Aug 2026 16:10:00 +0900"
-    },
-    {
-      "title": "교촌에프앤비, 2분기 영업익 15.7% 감소…원부자재비 상승 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260807118000030",
-      "pubDate": "Fri, 7 Aug 2026 16:08:24 +0900"
     }
   ]
 }
