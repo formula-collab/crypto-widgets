@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786072937,
+  "updated_at_unix": 1786079348,
   "items": [
+    {
+      "title": "노동장관, 중견기업연합회에 \"정부 채용 지원사업 적극 참여\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807061500530",
+      "pubDate": "Fri, 7 Aug 2026 14:00:03 +0900"
+    },
+    {
+      "title": "\"재건축·재개발이 주택공급 마스터키\"…오세훈, 청와대에 백서전달",
+      "link": "https://www.yna.co.kr/view/AKR20260807070900004",
+      "pubDate": "Fri, 7 Aug 2026 14:00:02 +0900"
+    },
+    {
+      "title": "서금원, 상반기 미소금융 1천612억원 공급…이용건수 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260807073800002",
+      "pubDate": "Fri, 7 Aug 2026 13:22:35 +0900"
+    },
     {
       "title": "국고채 금리 혼조세…3년물 장중 연 3.732%",
       "link": "https://www.yna.co.kr/view/AKR20260807072300008",
@@ -137,21 +152,6 @@
       "title": "마포구 노고산동에 42층 주거·업무시설…재개발 통합심의 통과",
       "link": "https://www.yna.co.kr/view/AKR20260807040700004",
       "pubDate": "Fri, 7 Aug 2026 10:00:01 +0900"
-    },
-    {
-      "title": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260807038500008",
-      "pubDate": "Fri, 7 Aug 2026 09:52:14 +0900"
-    },
-    {
-      "title": "강릉시, 100일간 경제살리기 프로젝트…소비 촉진 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260807044200062",
-      "pubDate": "Fri, 7 Aug 2026 09:49:27 +0900"
-    },
-    {
-      "title": "비상장주식·조각투자, 연내 다른 증권사 계좌 거래 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20260807042700008",
-      "pubDate": "Fri, 7 Aug 2026 09:46:16 +0900"
     }
   ]
 }
