@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786140109,
+  "updated_at_unix": 1786143649,
   "items": [
+    {
+      "title": "김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적",
+      "link": "https://www.yna.co.kr/view/AKR20260807065000065",
+      "pubDate": "Sat, 8 Aug 2026 07:17:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 김포 '한강푸르지오리버프론트' 등 4천808가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260807129800003",
+      "pubDate": "Sat, 8 Aug 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오뚜기 '제주 드립 커피'·팔도-엔씨 '왕뚜껑 한정판'",
+      "link": "https://www.yna.co.kr/view/AKR20260807099800030",
+      "pubDate": "Sat, 8 Aug 2026 07:00:04 +0900"
+    },
     {
       "title": "美증시, 금리인상 기대론 후퇴에 상승…S&P500 사상최고치 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260808005151072",
@@ -137,21 +152,6 @@
       "title": "대원제약 상반기 매출 3천109억원…3.1% 증가",
       "link": "https://www.yna.co.kr/view/AKR20260807123100017",
       "pubDate": "Fri, 7 Aug 2026 16:27:28 +0900"
-    },
-    {
-      "title": "\"재건축·재개발이 주택공급 마스터키\"…오세훈, 청와대에 백서전달(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807070951004",
-      "pubDate": "Fri, 7 Aug 2026 16:17:36 +0900"
-    },
-    {
-      "title": "미국, 중국 폴리실리콘 수입 규제…국내 태양광 반사이익 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260807112700003",
-      "pubDate": "Fri, 7 Aug 2026 16:14:22 +0900"
-    },
-    {
-      "title": "환율, 이틀째 1,410원대…달러 유입 등에 수급 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260807113100002",
-      "pubDate": "Fri, 7 Aug 2026 16:10:59 +0900"
     }
   ]
 }
