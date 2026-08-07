@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786089845,
+  "updated_at_unix": 1786094897,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260807135100011",
+      "pubDate": "Fri, 7 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "與황희, '버스하우스' 논란 일자 \"아이디어 차원\"…국힘 \"망언\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807114851001",
+      "pubDate": "Fri, 7 Aug 2026 17:59:39 +0900"
+    },
+    {
+      "title": "KDB생명 인수에 한투·한화·흥국 '3파전'…삼성·교보 불참",
+      "link": "https://www.yna.co.kr/view/AKR20260807141100002",
+      "pubDate": "Fri, 7 Aug 2026 17:46:51 +0900"
+    },
+    {
+      "title": "블루엘리펀트, 어펄마캐피탈매니져스코리아서 1천억원 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260807139200030",
+      "pubDate": "Fri, 7 Aug 2026 17:41:52 +0900"
+    },
+    {
+      "title": "울산시, 기술보증기금 지점 추가 요청…기술금융 지원 확대 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260807139100057",
+      "pubDate": "Fri, 7 Aug 2026 17:41:29 +0900"
+    },
+    {
+      "title": "식약처, 알레르기 유발물질 미표시 두부과자 회수",
+      "link": "https://www.yna.co.kr/view/AKR20260807137800017",
+      "pubDate": "Fri, 7 Aug 2026 17:28:03 +0900"
+    },
+    {
+      "title": "키움증권 \"포스코인터내셔널 주식 4천727억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807136000008",
+      "pubDate": "Fri, 7 Aug 2026 17:22:26 +0900"
+    },
+    {
+      "title": "하나은행, 변동금리 주담대 신규 취급 중단…마통 한도도 제한(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260807107251002",
+      "pubDate": "Fri, 7 Aug 2026 17:13:21 +0900"
+    },
+    {
+      "title": "[인사] 해양수산부",
+      "link": "https://www.yna.co.kr/view/AKR20260807132900051",
+      "pubDate": "Fri, 7 Aug 2026 17:05:56 +0900"
+    },
     {
       "title": "美지표 주시하며 국고채 금리 상승…3년물 연 3.746%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260807126951008",
@@ -107,51 +152,6 @@
       "title": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 11%↑(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260807038551008",
       "pubDate": "Fri, 7 Aug 2026 15:39:25 +0900"
-    },
-    {
-      "title": "외국환시세(8월7일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260807109900002",
-      "pubDate": "Fri, 7 Aug 2026 15:35:19 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 7.7원 내린 1,416.1원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260807108400002",
-      "pubDate": "Fri, 7 Aug 2026 15:30:48 +0900"
-    },
-    {
-      "title": "하나은행, 비대면 주담대 신규 취급 중단…총량 관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260807107200002",
-      "pubDate": "Fri, 7 Aug 2026 15:29:33 +0900"
-    },
-    {
-      "title": "'하닉 1주에 하한가' 시장왜곡…프리마켓 상·하한가 한시 금지",
-      "link": "https://www.yna.co.kr/view/AKR20260807105400008",
-      "pubDate": "Fri, 7 Aug 2026 15:24:40 +0900"
-    },
-    {
-      "title": "IMF 카츠 \"일본은행, 통화정책 정상화 지속 예상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807104000009",
-      "pubDate": "Fri, 7 Aug 2026 15:21:27 +0900"
-    },
-    {
-      "title": "[게시판] 농심·기상청, 폭염 취약층에 백산수·식료품 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260807102400030",
-      "pubDate": "Fri, 7 Aug 2026 15:05:08 +0900"
-    },
-    {
-      "title": "이렘 \"원픽이앤씨 주식 25억원어치 취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807101300008",
-      "pubDate": "Fri, 7 Aug 2026 15:03:01 +0900"
-    },
-    {
-      "title": "오세훈, 여당의 '주택 공급부족 책임론' 공세에 \"적반하장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807098000004",
-      "pubDate": "Fri, 7 Aug 2026 14:50:50 +0900"
-    },
-    {
-      "title": "창원시·경남무역, 농식품 수출 활성화·판로 확대 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260807096700052",
-      "pubDate": "Fri, 7 Aug 2026 14:38:53 +0900"
     }
   ]
 }
