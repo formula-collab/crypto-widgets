@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786146838,
+  "updated_at_unix": 1786149876,
   "items": [
+    {
+      "title": "늦어질수록 불리한 CPTPP…'골든타임' 놓치나",
+      "link": "https://www.yna.co.kr/view/AKR20260808001500003",
+      "pubDate": "Sat, 8 Aug 2026 09:05:02 +0900"
+    },
+    {
+      "title": "[IPO챗] 딜리셔스·케이앤에스아이앤씨 코스닥 입성…공모주 청약 3곳",
+      "link": "https://www.yna.co.kr/view/AKR20260807058400008",
+      "pubDate": "Sat, 8 Aug 2026 09:00:03 +0900"
+    },
+    {
+      "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807145000002",
+      "pubDate": "Sat, 8 Aug 2026 09:00:01 +0900"
+    },
     {
       "title": "[다음주 경제] 7월 가계대출 얼마나 늘었나…고용동향 발표도",
       "link": "https://www.yna.co.kr/view/AKR20260808013100002",
@@ -137,21 +152,6 @@
       "title": "iM뱅크·한국장학재단, 직업계고 청년 취업 활성화 협약",
       "link": "https://www.yna.co.kr/view/AKR20260807127300053",
       "pubDate": "Fri, 7 Aug 2026 16:46:21 +0900"
-    },
-    {
-      "title": "'미국 우주 기업 투자' ETF 등 3종 오는 11일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260807128100008",
-      "pubDate": "Fri, 7 Aug 2026 16:46:09 +0900"
-    },
-    {
-      "title": "코웨이, 2분기 영업익 4.3% 성장…말레이·美 등 해외시장 견인(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807112251527",
-      "pubDate": "Fri, 7 Aug 2026 16:44:00 +0900"
-    },
-    {
-      "title": "중동전쟁 장기화에 中企피해 1천37건…\"물류비 상승·주문 보류\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807118100030",
-      "pubDate": "Fri, 7 Aug 2026 16:42:23 +0900"
     }
   ]
 }
