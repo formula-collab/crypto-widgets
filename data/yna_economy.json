@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786227322,
+  "updated_at_unix": 1786229560,
   "items": [
+    {
+      "title": "단속비웃는 무판 중고차 골목길 점령…연수구 \"번호판 의무화를\"",
+      "link": "https://www.yna.co.kr/view/AKR20260807078300065",
+      "pubDate": "Sun, 9 Aug 2026 07:17:00 +0900"
+    },
     {
       "title": "\"2030년 북극항로 상업 운항\"…정부, 화물 유치 방안 마련한다",
       "link": "https://www.yna.co.kr/view/AKR20260807095800051",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260808022600011",
       "pubDate": "Sat, 8 Aug 2026 10:30:01 +0900"
-    },
-    {
-      "title": "늦어질수록 불리한 CPTPP…'골든타임' 놓치나",
-      "link": "https://www.yna.co.kr/view/AKR20260808001500003",
-      "pubDate": "Sat, 8 Aug 2026 09:05:02 +0900"
     }
   ]
 }
