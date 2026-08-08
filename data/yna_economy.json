@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786229560,
+  "updated_at_unix": 1786230961,
   "items": [
+    {
+      "title": "전남광주투자공사 설립 난항… 제도·금융 규제에 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20260807097800054",
+      "pubDate": "Sun, 9 Aug 2026 08:01:00 +0900"
+    },
+    {
+      "title": "'병역거부자 취업금지·해고법'…위헌 소지에도 64년째 손못대",
+      "link": "https://www.yna.co.kr/view/AKR20260808023900004",
+      "pubDate": "Sun, 9 Aug 2026 08:00:02 +0900"
+    },
     {
       "title": "단속비웃는 무판 중고차 골목길 점령…연수구 \"번호판 의무화를\"",
       "link": "https://www.yna.co.kr/view/AKR20260807078300065",
@@ -142,16 +152,6 @@
       "title": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화",
       "link": "https://www.yna.co.kr/view/AKR20260808020800030",
       "pubDate": "Sat, 8 Aug 2026 13:00:00 +0900"
-    },
-    {
-      "title": "與의원, 李대통령 ISA개편·주가 누르기 방지법 재검토에 \"환영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260808022900001",
-      "pubDate": "Sat, 8 Aug 2026 10:32:24 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260808022600011",
-      "pubDate": "Sat, 8 Aug 2026 10:30:01 +0900"
     }
   ]
 }
