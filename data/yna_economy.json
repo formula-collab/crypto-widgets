@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786230961,
+  "updated_at_unix": 1786233015,
   "items": [
+    {
+      "title": "편의점 CU, 오마이걸 미미와 신상품 리뷰 콘텐츠 제작",
+      "link": "https://www.yna.co.kr/view/AKR20260809010600030",
+      "pubDate": "Sun, 9 Aug 2026 08:26:18 +0900"
+    },
     {
       "title": "전남광주투자공사 설립 난항… 제도·금융 규제에 재검토",
       "link": "https://www.yna.co.kr/view/AKR20260807097800054",
@@ -147,11 +152,6 @@
       "title": "황종우 장관, 포항 양식장 점검…경북 수온 작년보다 6도 높아",
       "link": "https://www.yna.co.kr/view/AKR20260808034900030",
       "pubDate": "Sat, 8 Aug 2026 14:38:57 +0900"
-    },
-    {
-      "title": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260808020800030",
-      "pubDate": "Sat, 8 Aug 2026 13:00:00 +0900"
     }
   ]
 }
