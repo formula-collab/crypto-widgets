@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786176266,
+  "updated_at_unix": 1786179985,
   "items": [
+    {
+      "title": "노동장관, 폭염 김포공항 불시점검…\"옥외작업자 휴게시설 확충\"",
+      "link": "https://www.yna.co.kr/view/AKR20260808043100530",
+      "pubDate": "Sat, 8 Aug 2026 17:25:28 +0900"
+    },
+    {
+      "title": "[청주소식] 매월 10명 구직 청년 증명사진 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260808043300064",
+      "pubDate": "Sat, 8 Aug 2026 17:17:34 +0900"
+    },
     {
       "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
       "link": "https://www.yna.co.kr/view/AKR20260808037500001",
@@ -142,16 +152,6 @@
       "title": "식약처, 알레르기 유발물질 미표시 두부과자 회수",
       "link": "https://www.yna.co.kr/view/AKR20260807137800017",
       "pubDate": "Fri, 7 Aug 2026 17:28:03 +0900"
-    },
-    {
-      "title": "키움증권 \"포스코인터내셔널 주식 4천727억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807136000008",
-      "pubDate": "Fri, 7 Aug 2026 17:22:26 +0900"
-    },
-    {
-      "title": "하나은행, 변동금리 주담대 신규 취급 중단…마통 한도도 제한(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807107251002",
-      "pubDate": "Fri, 7 Aug 2026 17:13:21 +0900"
     }
   ]
 }
