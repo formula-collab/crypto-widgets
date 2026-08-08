@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786168940,
+  "updated_at_unix": 1786173953,
   "items": [
+    {
+      "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
+      "link": "https://www.yna.co.kr/view/AKR20260808037500001",
+      "pubDate": "Sat, 8 Aug 2026 15:27:07 +0900"
+    },
     {
       "title": "황종우 장관, 포항 양식장 점검…경북 수온 작년보다 6도 높아",
       "link": "https://www.yna.co.kr/view/AKR20260808034900030",
@@ -147,11 +152,6 @@
       "title": "하나은행, 변동금리 주담대 신규 취급 중단…마통 한도도 제한(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260807107251002",
       "pubDate": "Fri, 7 Aug 2026 17:13:21 +0900"
-    },
-    {
-      "title": "[인사] 해양수산부",
-      "link": "https://www.yna.co.kr/view/AKR20260807132900051",
-      "pubDate": "Fri, 7 Aug 2026 17:05:56 +0900"
     }
   ]
 }
