@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786149876,
+  "updated_at_unix": 1786157285,
   "items": [
+    {
+      "title": "與의원, 李대통령 ISA개편·주가 누르기 방지법 재검토에 \"환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260808022900001",
+      "pubDate": "Sat, 8 Aug 2026 10:32:24 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260808022600011",
+      "pubDate": "Sat, 8 Aug 2026 10:30:01 +0900"
+    },
     {
       "title": "늦어질수록 불리한 CPTPP…'골든타임' 놓치나",
       "link": "https://www.yna.co.kr/view/AKR20260808001500003",
@@ -142,16 +152,6 @@
       "title": "반도체공학회 \"연구개발직 주 52시간제 반드시 개선해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260807129400003",
       "pubDate": "Fri, 7 Aug 2026 16:52:30 +0900"
-    },
-    {
-      "title": "E8, 40억원 유상증자…트리플티에스앤씨에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260807127200008",
-      "pubDate": "Fri, 7 Aug 2026 16:51:29 +0900"
-    },
-    {
-      "title": "iM뱅크·한국장학재단, 직업계고 청년 취업 활성화 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260807127300053",
-      "pubDate": "Fri, 7 Aug 2026 16:46:21 +0900"
     }
   ]
 }
