@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786165954,
+  "updated_at_unix": 1786168940,
   "items": [
+    {
+      "title": "황종우 장관, 포항 양식장 점검…경북 수온 작년보다 6도 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260808034900030",
+      "pubDate": "Sat, 8 Aug 2026 14:38:57 +0900"
+    },
     {
       "title": "농식품부, 폭염에 육계·상추 피해 예방 총력…현장관리 강화",
       "link": "https://www.yna.co.kr/view/AKR20260808020800030",
@@ -147,11 +152,6 @@
       "title": "[인사] 해양수산부",
       "link": "https://www.yna.co.kr/view/AKR20260807132900051",
       "pubDate": "Fri, 7 Aug 2026 17:05:56 +0900"
-    },
-    {
-      "title": "美지표 주시하며 국고채 금리 상승…3년물 연 3.746%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260807126951008",
-      "pubDate": "Fri, 7 Aug 2026 16:53:29 +0900"
     }
   ]
 }
