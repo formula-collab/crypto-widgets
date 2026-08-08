@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786223869,
+  "updated_at_unix": 1786225887,
   "items": [
+    {
+      "title": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시",
+      "link": "https://www.yna.co.kr/view/AKR20260808037700008",
+      "pubDate": "Sun, 9 Aug 2026 06:25:00 +0900"
+    },
+    {
+      "title": "[반려동물] \"버려지고 옥상·차량에 방치되고\"…폭염 속 신음하는 동물들",
+      "link": "https://www.yna.co.kr/view/AKR20260808028600030",
+      "pubDate": "Sun, 9 Aug 2026 06:15:01 +0900"
+    },
     {
       "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
       "link": "https://www.yna.co.kr/view/AKR20260807119900017",
@@ -142,16 +152,6 @@
       "title": "보험금 노려 자신 회사 건물에 불 지른 60대, 항소심도 실형",
       "link": "https://www.yna.co.kr/view/AKR20260807112800052",
       "pubDate": "Sat, 8 Aug 2026 08:03:00 +0900"
-    },
-    {
-      "title": "주유소 기름값 12주째 하락…휘발유·경유 1천800원대",
-      "link": "https://www.yna.co.kr/view/AKR20260807134300003",
-      "pubDate": "Sat, 8 Aug 2026 08:01:00 +0900"
-    },
-    {
-      "title": "김포 구도심 10곳 정비예정구역 지정…축구장 52개 면적",
-      "link": "https://www.yna.co.kr/view/AKR20260807065000065",
-      "pubDate": "Sat, 8 Aug 2026 07:17:00 +0900"
     }
   ]
 }
