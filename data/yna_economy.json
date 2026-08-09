@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786236494,
+  "updated_at_unix": 1786244108,
   "items": [
+    {
+      "title": "\"얼마면 팔리겠나, 월세 올려달라\"…강남 주택시장 '혼란'",
+      "link": "https://www.yna.co.kr/view/AKR20260809021100003",
+      "pubDate": "Sun, 9 Aug 2026 11:46:55 +0900"
+    },
+    {
+      "title": "보수야권, 與황희 '버스하우스' 재차 공세…\"공급 없다는 자백\"",
+      "link": "https://www.yna.co.kr/view/AKR20260809019400001",
+      "pubDate": "Sun, 9 Aug 2026 11:29:14 +0900"
+    },
+    {
+      "title": "추미애 \"경기도 반도체 소득 아무리 늘어도 세입은 그대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260809020200061",
+      "pubDate": "Sun, 9 Aug 2026 11:18:32 +0900"
+    },
+    {
+      "title": "조국 \"김정관, 中 '996 노동제' 칭송은 반인권·시대착오적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260809018100001",
+      "pubDate": "Sun, 9 Aug 2026 11:11:44 +0900"
+    },
+    {
+      "title": "영세 음식점 세금 부담 던다…의제매입세액 우대공제 2년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260808022400030",
+      "pubDate": "Sun, 9 Aug 2026 11:00:04 +0900"
+    },
+    {
+      "title": "농식품부 \"8개 주정회사, 과잉생산 보리 2만5천t 특별매입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260808023700030",
+      "pubDate": "Sun, 9 Aug 2026 11:00:03 +0900"
+    },
+    {
+      "title": "휴가철 축산물 원산지 위반 106곳 적발…돼지고기 최다",
+      "link": "https://www.yna.co.kr/view/AKR20260808024200030",
+      "pubDate": "Sun, 9 Aug 2026 11:00:03 +0900"
+    },
+    {
+      "title": "농·어업인 세제혜택 상시화…면세유 지원 2029년까지 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260807141900030",
+      "pubDate": "Sun, 9 Aug 2026 11:00:02 +0900"
+    },
+    {
+      "title": "한국경제인협회, 대국민 창업 프로젝트…12주간 100개팀 육성",
+      "link": "https://www.yna.co.kr/view/AKR20260809015600003",
+      "pubDate": "Sun, 9 Aug 2026 11:00:00 +0900"
+    },
+    {
+      "title": "고의로 44차례 사고 내 보험금 가로챈 오토바이 배달기사 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260809016800064",
+      "pubDate": "Sun, 9 Aug 2026 10:43:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260809015500011",
+      "pubDate": "Sun, 9 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260808034251530",
+      "pubDate": "Sun, 9 Aug 2026 10:18:24 +0900"
+    },
+    {
+      "title": "[게시판] 하나금융, 명동 소상공인에 행복상자 나눔 봉사활동",
+      "link": "https://www.yna.co.kr/view/AKR20260809015200002",
+      "pubDate": "Sun, 9 Aug 2026 10:08:48 +0900"
+    },
+    {
+      "title": "삼성전자, 미국 에너지부 국립연구소와 차세대 난방기술 개발협력",
+      "link": "https://www.yna.co.kr/view/AKR20260809013000003",
+      "pubDate": "Sun, 9 Aug 2026 10:00:00 +0900"
+    },
     {
       "title": "대출 규제에 울산 신축 아파트 입주 예정자들 '발 동동'",
       "link": "https://www.yna.co.kr/view/AKR20260807160800057",
@@ -82,76 +152,6 @@
       "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나",
       "link": "https://www.yna.co.kr/view/AKR20260808034200530",
       "pubDate": "Sun, 9 Aug 2026 06:02:00 +0900"
-    },
-    {
-      "title": "'아시아는 좁다'…K-라이프, 세계 최대 미국 시장으로 영토 확장",
-      "link": "https://www.yna.co.kr/view/AKR20260808038700030",
-      "pubDate": "Sun, 9 Aug 2026 06:01:02 +0900"
-    },
-    {
-      "title": "폭염에 시든 밭작물…시금치·오이·애호박·청상추 가격 급등",
-      "link": "https://www.yna.co.kr/view/AKR20260808052900030",
-      "pubDate": "Sun, 9 Aug 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나",
-      "link": "https://www.yna.co.kr/view/AKR20260807158800008",
-      "pubDate": "Sun, 9 Aug 2026 06:00:16 +0900"
-    },
-    {
-      "title": "'대박 코인'의 말로…1년 만에 200원대로, 100분의 1 쪽박",
-      "link": "https://www.yna.co.kr/view/AKR20260807131200002",
-      "pubDate": "Sun, 9 Aug 2026 05:55:01 +0900"
-    },
-    {
-      "title": "홈플 사태에 2분기 대형마트 판매 9.4%↓…역대 최대 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260808044600002",
-      "pubDate": "Sun, 9 Aug 2026 05:53:25 +0900"
-    },
-    {
-      "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260808046200002",
-      "pubDate": "Sun, 9 Aug 2026 05:51:00 +0900"
-    },
-    {
-      "title": "주가 급락에 빚투 탈났나…청년·고령층 마통 연체 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260808042200002",
-      "pubDate": "Sun, 9 Aug 2026 05:49:00 +0900"
-    },
-    {
-      "title": "PF확대·규제완화로 '과감한 공급'…투기적 비거주 선별은 신중",
-      "link": "https://www.yna.co.kr/view/AKR20260808049500002",
-      "pubDate": "Sun, 9 Aug 2026 05:47:00 +0900"
-    },
-    {
-      "title": "'3채 vs 1채' 종부세 격차 확대…비거주는 시가 134억부터 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260808038300002",
-      "pubDate": "Sun, 9 Aug 2026 05:45:04 +0900"
-    },
-    {
-      "title": "부동산세제 입법의견 쇄도…정부 '비거주 예외요건' 고심",
-      "link": "https://www.yna.co.kr/view/AKR20260808046800002",
-      "pubDate": "Sun, 9 Aug 2026 05:45:02 +0900"
-    },
-    {
-      "title": "올해 끝나는 토허제 실거주 유예 연장하나…세법 후속책 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260808038400002",
-      "pubDate": "Sun, 9 Aug 2026 05:45:02 +0900"
-    },
-    {
-      "title": "수도권 공급 늘리고 금융·세제 지원도…'닥치고 속도전'",
-      "link": "https://www.yna.co.kr/view/AKR20260808048300003",
-      "pubDate": "Sun, 9 Aug 2026 05:31:21 +0900"
-    },
-    {
-      "title": "정부, 서울 준공업지역 2만7천가구 공급 속도 높인다",
-      "link": "https://www.yna.co.kr/view/AKR20260808046000003",
-      "pubDate": "Sun, 9 Aug 2026 05:31:10 +0900"
-    },
-    {
-      "title": "노동장관, 폭염 김포공항 불시점검…\"옥외작업자 휴게시설 확충\"",
-      "link": "https://www.yna.co.kr/view/AKR20260808043100530",
-      "pubDate": "Sat, 8 Aug 2026 17:25:28 +0900"
     }
   ]
 }
