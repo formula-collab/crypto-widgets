@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786312616,
+  "updated_at_unix": 1786314128,
   "items": [
+    {
+      "title": "인천 연안여객선 유류할증료, 9월도 최고단계…5개월 연속",
+      "link": "https://www.yna.co.kr/view/AKR20260807061200065",
+      "pubDate": "Mon, 10 Aug 2026 07:17:00 +0900"
+    },
+    {
+      "title": "K-문샷 PD '주 15시간 이상' 시간선택제로 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260809022000017",
+      "pubDate": "Mon, 10 Aug 2026 07:13:01 +0900"
+    },
+    {
+      "title": "서초구, 외식업주 대상 '블랙컨슈머 대응 특강' 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260810007000004",
+      "pubDate": "Mon, 10 Aug 2026 06:59:48 +0900"
+    },
     {
       "title": "편의점 '튼튼먹거리' 303곳 확대…건강식품 더 쉽게 찾는다",
       "link": "https://www.yna.co.kr/view/AKR20260807097600017",
@@ -137,21 +152,6 @@
       "title": "근로복지공단, 하반기 신입 274명 공채…19일까지 온라인 접수",
       "link": "https://www.yna.co.kr/view/AKR20260808021500530",
       "pubDate": "Sun, 9 Aug 2026 12:00:04 +0900"
-    },
-    {
-      "title": "신상품 아닌데도 판매장려금 챙긴 농협하나로…과징금 5억",
-      "link": "https://www.yna.co.kr/view/AKR20260807102600002",
-      "pubDate": "Sun, 9 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "마트 상품권으로 보이스피싱 피해금 세탁…금감원 소비자경보",
-      "link": "https://www.yna.co.kr/view/AKR20260808028400002",
-      "pubDate": "Sun, 9 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"공무원 사칭 대리구매 유도\"…한달간 신종피싱 의심계좌 5천건",
-      "link": "https://www.yna.co.kr/view/AKR20260808047600002",
-      "pubDate": "Sun, 9 Aug 2026 12:00:02 +0900"
     }
   ]
 }
