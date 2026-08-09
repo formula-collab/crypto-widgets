@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786309101,
+  "updated_at_unix": 1786310896,
   "items": [
+    {
+      "title": "HUG 부동산 PF 보증잔액 20조원 돌파…1년 반만에 2배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260810003500003",
+      "pubDate": "Mon, 10 Aug 2026 06:08:50 +0900"
+    },
+    {
+      "title": "2차 베이비부머 20% 주된 일자리 떠나…재취업 단순노무 비중↑",
+      "link": "https://www.yna.co.kr/view/AKR20260809007900530",
+      "pubDate": "Mon, 10 Aug 2026 06:03:00 +0900"
+    },
+    {
+      "title": "사회적가치 비즈니스 모델 공모전 20일까지 접수…10개사 포상금",
+      "link": "https://www.yna.co.kr/view/AKR20260808025700530",
+      "pubDate": "Mon, 10 Aug 2026 06:00:07 +0900"
+    },
+    {
+      "title": "노후계획도시 정비특위 2기 출범…민간전문가 16명 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20260809003000003",
+      "pubDate": "Mon, 10 Aug 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시, 도시계획시설 입체도면 공개…미아 '층층공원' 첫 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260809026100004",
+      "pubDate": "Mon, 10 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"폭염엔 휴식 우선\" 울산시, SK CLX서 휴식권 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260809037500057",
+      "pubDate": "Mon, 10 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "서학개미 10분기만에 해외주식 순매도…6월부턴 다시 미장으로",
+      "link": "https://www.yna.co.kr/view/AKR20260809048200002",
+      "pubDate": "Mon, 10 Aug 2026 05:59:01 +0900"
+    },
+    {
+      "title": "주담대·스탁론 막힌 온투업, 중금리로 활로…한 달 새 824억↑",
+      "link": "https://www.yna.co.kr/view/AKR20260809035000002",
+      "pubDate": "Mon, 10 Aug 2026 05:57:00 +0900"
+    },
+    {
+      "title": "6천억원 국민참여성장펀드에 청년 13%뿐…9월 2차 신청땐 늘까",
+      "link": "https://www.yna.co.kr/view/AKR20260809000700002",
+      "pubDate": "Mon, 10 Aug 2026 05:55:01 +0900"
+    },
+    {
+      "title": "테슬라·엔비디아 24시간 사고판다…'토큰주식' 올해들어 4배로",
+      "link": "https://www.yna.co.kr/view/AKR20260808031400002",
+      "pubDate": "Mon, 10 Aug 2026 05:55:01 +0900"
+    },
     {
       "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
       "link": "https://www.yna.co.kr/view/AKR20260808049000002",
@@ -102,56 +152,6 @@
       "title": "중기부, 31일까지 '2026년 지방 소멸 대응 유공 포상' 공모",
       "link": "https://www.yna.co.kr/view/AKR20260809003900030",
       "pubDate": "Sun, 9 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "국세청, 호우피해 안동·의성 4개면 세금 납부기한 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260808054700002",
-      "pubDate": "Sun, 9 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"얼마면 팔리겠나, 월세 올려달라\"…강남 주택시장 '혼란'",
-      "link": "https://www.yna.co.kr/view/AKR20260809021100003",
-      "pubDate": "Sun, 9 Aug 2026 11:46:55 +0900"
-    },
-    {
-      "title": "보수야권, 與황희 '버스하우스' 재차 공세…\"공급 없다는 자백\"",
-      "link": "https://www.yna.co.kr/view/AKR20260809019400001",
-      "pubDate": "Sun, 9 Aug 2026 11:29:14 +0900"
-    },
-    {
-      "title": "추미애 \"경기도 반도체 소득 아무리 늘어도 세입은 그대로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260809020200061",
-      "pubDate": "Sun, 9 Aug 2026 11:18:32 +0900"
-    },
-    {
-      "title": "조국 \"김정관, 中 '996 노동제' 칭송은 반인권·시대착오적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260809018100001",
-      "pubDate": "Sun, 9 Aug 2026 11:11:44 +0900"
-    },
-    {
-      "title": "영세 음식점 세금 부담 던다…의제매입세액 우대공제 2년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260808022400030",
-      "pubDate": "Sun, 9 Aug 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부 \"8개 주정회사, 과잉생산 보리 2만5천t 특별매입\"",
-      "link": "https://www.yna.co.kr/view/AKR20260808023700030",
-      "pubDate": "Sun, 9 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "휴가철 축산물 원산지 위반 106곳 적발…돼지고기 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260808024200030",
-      "pubDate": "Sun, 9 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농·어업인 세제혜택 상시화…면세유 지원 2029년까지 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260807141900030",
-      "pubDate": "Sun, 9 Aug 2026 11:00:02 +0900"
-    },
-    {
-      "title": "한국경제인협회, 대국민 창업 프로젝트…12주간 100개팀 육성",
-      "link": "https://www.yna.co.kr/view/AKR20260809015600003",
-      "pubDate": "Sun, 9 Aug 2026 11:00:00 +0900"
     }
   ]
 }
