@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786302521,
+  "updated_at_unix": 1786305181,
   "items": [
+    {
+      "title": "\"베선트 美재무, 장기채 금리 상승 방어의지 시장에 시사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260810001800072",
+      "pubDate": "Mon, 10 Aug 2026 04:27:50 +0900"
+    },
     {
       "title": "수도권 공급 늘리고 그린벨트 해제도 검토…'닥치고 속도전'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260808048351003",
@@ -147,11 +152,6 @@
       "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260808034251530",
       "pubDate": "Sun, 9 Aug 2026 10:18:24 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, 명동 소상공인에 행복상자 나눔 봉사활동",
-      "link": "https://www.yna.co.kr/view/AKR20260809015200002",
-      "pubDate": "Sun, 9 Aug 2026 10:08:48 +0900"
     }
   ]
 }
