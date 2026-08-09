@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786244108,
+  "updated_at_unix": 1786248510,
   "items": [
+    {
+      "title": "\"건설기업 수익성·재무건전성·성장성 5년새 동반 악화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260809002100003",
+      "pubDate": "Sun, 9 Aug 2026 13:00:01 +0900"
+    },
+    {
+      "title": "'특허가 강한 스타트업 육성 프로젝트' 추진…청년창업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260807084800063",
+      "pubDate": "Sun, 9 Aug 2026 12:00:07 +0900"
+    },
+    {
+      "title": "고향사랑기부 세제 혜택 강화…2천만원 기부시 341만→560만원",
+      "link": "https://www.yna.co.kr/view/AKR20260808015200530",
+      "pubDate": "Sun, 9 Aug 2026 12:00:05 +0900"
+    },
+    {
+      "title": "근로복지공단, 하반기 신입 274명 공채…19일까지 온라인 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260808021500530",
+      "pubDate": "Sun, 9 Aug 2026 12:00:04 +0900"
+    },
+    {
+      "title": "신상품 아닌데도 판매장려금 챙긴 농협하나로…과징금 5억",
+      "link": "https://www.yna.co.kr/view/AKR20260807102600002",
+      "pubDate": "Sun, 9 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "마트 상품권으로 보이스피싱 피해금 세탁…금감원 소비자경보",
+      "link": "https://www.yna.co.kr/view/AKR20260808028400002",
+      "pubDate": "Sun, 9 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "\"공무원 사칭 대리구매 유도\"…한달간 신종피싱 의심계좌 5천건",
+      "link": "https://www.yna.co.kr/view/AKR20260808047600002",
+      "pubDate": "Sun, 9 Aug 2026 12:00:02 +0900"
+    },
+    {
+      "title": "중기부, 31일까지 '2026년 지방 소멸 대응 유공 포상' 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260809003900030",
+      "pubDate": "Sun, 9 Aug 2026 12:00:01 +0900"
+    },
+    {
+      "title": "국세청, 호우피해 안동·의성 4개면 세금 납부기한 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260808054700002",
+      "pubDate": "Sun, 9 Aug 2026 12:00:01 +0900"
+    },
     {
       "title": "\"얼마면 팔리겠나, 월세 올려달라\"…강남 주택시장 '혼란'",
       "link": "https://www.yna.co.kr/view/AKR20260809021100003",
@@ -107,51 +152,6 @@
       "title": "단속비웃는 무판 중고차 골목길 점령…연수구 \"번호판 의무화를\"",
       "link": "https://www.yna.co.kr/view/AKR20260807078300065",
       "pubDate": "Sun, 9 Aug 2026 07:17:00 +0900"
-    },
-    {
-      "title": "\"2030년 북극항로 상업 운항\"…정부, 화물 유치 방안 마련한다",
-      "link": "https://www.yna.co.kr/view/AKR20260807095800051",
-      "pubDate": "Sun, 9 Aug 2026 07:03:00 +0900"
-    },
-    {
-      "title": "\"전세사기 피해 외국인도 지원해야\"…경기도, 국토부에 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260807106700061",
-      "pubDate": "Sun, 9 Aug 2026 07:01:06 +0900"
-    },
-    {
-      "title": "[마켓스토리] 역대 최고 실적인데…웃지 못하는 증권·운용사",
-      "link": "https://www.yna.co.kr/view/AKR20260808030300008",
-      "pubDate": "Sun, 9 Aug 2026 07:01:01 +0900"
-    },
-    {
-      "title": "광어 한 접시, 마트서도 2만6천원…\"폭염 속 더 오른다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260808046400030",
-      "pubDate": "Sun, 9 Aug 2026 07:01:00 +0900"
-    },
-    {
-      "title": "동전주 상폐 첫 절차 임박…48곳 관리종목 우려 공시",
-      "link": "https://www.yna.co.kr/view/AKR20260808037700008",
-      "pubDate": "Sun, 9 Aug 2026 06:25:00 +0900"
-    },
-    {
-      "title": "[반려동물] \"버려지고 옥상·차량에 방치되고\"…폭염 속 신음하는 동물들",
-      "link": "https://www.yna.co.kr/view/AKR20260808028600030",
-      "pubDate": "Sun, 9 Aug 2026 06:15:01 +0900"
-    },
-    {
-      "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
-      "link": "https://www.yna.co.kr/view/AKR20260807119900017",
-      "pubDate": "Sun, 9 Aug 2026 06:13:01 +0900"
-    },
-    {
-      "title": "SK하이닉스 통합노조 신설 추진…구성원간 성과급 불만 확산",
-      "link": "https://www.yna.co.kr/view/AKR20260807147900003",
-      "pubDate": "Sun, 9 Aug 2026 06:03:01 +0900"
-    },
-    {
-      "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나",
-      "link": "https://www.yna.co.kr/view/AKR20260808034200530",
-      "pubDate": "Sun, 9 Aug 2026 06:02:00 +0900"
     }
   ]
 }
