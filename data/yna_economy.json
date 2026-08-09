@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786266455,
+  "updated_at_unix": 1786269686,
   "items": [
+    {
+      "title": "韓총리 \"청년 첫 일자리 적극 지원…중소기업 근로환경 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260809042800001",
+      "pubDate": "Sun, 9 Aug 2026 18:34:04 +0900"
+    },
+    {
+      "title": "삼립, 다음 달 1일부터 빵 50여종 가격 평균 9%대 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260809041100030",
+      "pubDate": "Sun, 9 Aug 2026 18:04:30 +0900"
+    },
     {
       "title": "삼프로TV 개인정보 46만여건 유출…일부 계좌·카드정보 포함",
       "link": "https://www.yna.co.kr/view/AKR20260809039800017",
@@ -142,16 +152,6 @@
       "title": "대출 규제에 울산 신축 아파트 입주 예정자들 '발 동동'",
       "link": "https://www.yna.co.kr/view/AKR20260807160800057",
       "pubDate": "Sun, 9 Aug 2026 09:33:01 +0900"
-    },
-    {
-      "title": "SK하이닉스 영업비밀 中회사에 유출…前직원 2심도 징역1년6개월",
-      "link": "https://www.yna.co.kr/view/AKR20260807152300004",
-      "pubDate": "Sun, 9 Aug 2026 09:00:04 +0900"
-    },
-    {
-      "title": "한국서 경험 쌓아 고향 네팔서 창업…코이카 '상생형 개발협력'",
-      "link": "https://www.yna.co.kr/view/AKR20260808049200371",
-      "pubDate": "Sun, 9 Aug 2026 09:00:03 +0900"
     }
   ]
 }
