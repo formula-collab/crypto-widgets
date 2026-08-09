@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786233015,
+  "updated_at_unix": 1786236494,
   "items": [
+    {
+      "title": "대출 규제에 울산 신축 아파트 입주 예정자들 '발 동동'",
+      "link": "https://www.yna.co.kr/view/AKR20260807160800057",
+      "pubDate": "Sun, 9 Aug 2026 09:33:01 +0900"
+    },
+    {
+      "title": "SK하이닉스 영업비밀 中회사에 유출…前직원 2심도 징역1년6개월",
+      "link": "https://www.yna.co.kr/view/AKR20260807152300004",
+      "pubDate": "Sun, 9 Aug 2026 09:00:04 +0900"
+    },
+    {
+      "title": "한국서 경험 쌓아 고향 네팔서 창업…코이카 '상생형 개발협력'",
+      "link": "https://www.yna.co.kr/view/AKR20260808049200371",
+      "pubDate": "Sun, 9 Aug 2026 09:00:03 +0900"
+    },
     {
       "title": "편의점 CU, 오마이걸 미미와 신상품 리뷰 콘텐츠 제작",
       "link": "https://www.yna.co.kr/view/AKR20260809010600030",
@@ -137,21 +152,6 @@
       "title": "노동장관, 폭염 김포공항 불시점검…\"옥외작업자 휴게시설 확충\"",
       "link": "https://www.yna.co.kr/view/AKR20260808043100530",
       "pubDate": "Sat, 8 Aug 2026 17:25:28 +0900"
-    },
-    {
-      "title": "[청주소식] 매월 10명 구직 청년 증명사진 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260808043300064",
-      "pubDate": "Sat, 8 Aug 2026 17:17:34 +0900"
-    },
-    {
-      "title": "與김보미, 황희 '버스 하우스' 제안에 \"내로남불·탁상공론\"",
-      "link": "https://www.yna.co.kr/view/AKR20260808037500001",
-      "pubDate": "Sat, 8 Aug 2026 15:27:07 +0900"
-    },
-    {
-      "title": "황종우 장관, 포항 양식장 점검…경북 수온 작년보다 6도 높아",
-      "link": "https://www.yna.co.kr/view/AKR20260808034900030",
-      "pubDate": "Sat, 8 Aug 2026 14:38:57 +0900"
     }
   ]
 }
