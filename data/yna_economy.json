@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786310896,
+  "updated_at_unix": 1786312616,
   "items": [
+    {
+      "title": "편의점 '튼튼먹거리' 303곳 확대…건강식품 더 쉽게 찾는다",
+      "link": "https://www.yna.co.kr/view/AKR20260807097600017",
+      "pubDate": "Mon, 10 Aug 2026 06:33:00 +0900"
+    },
     {
       "title": "HUG 부동산 PF 보증잔액 20조원 돌파…1년 반만에 2배로↑",
       "link": "https://www.yna.co.kr/view/AKR20260810003500003",
@@ -147,11 +152,6 @@
       "title": "\"공무원 사칭 대리구매 유도\"…한달간 신종피싱 의심계좌 5천건",
       "link": "https://www.yna.co.kr/view/AKR20260808047600002",
       "pubDate": "Sun, 9 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "중기부, 31일까지 '2026년 지방 소멸 대응 유공 포상' 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260809003900030",
-      "pubDate": "Sun, 9 Aug 2026 12:00:01 +0900"
     }
   ]
 }
