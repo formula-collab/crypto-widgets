@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786253220,
+  "updated_at_unix": 1786255525,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260809027800011",
+      "pubDate": "Sun, 9 Aug 2026 15:00:01 +0900"
+    },
     {
       "title": "\"건설기업 수익성·재무건전성·성장성 5년새 동반 악화\"",
       "link": "https://www.yna.co.kr/view/AKR20260809002100003",
@@ -147,11 +152,6 @@
       "title": "'병역거부자 취업금지·해고법'…위헌 소지에도 64년째 손못대",
       "link": "https://www.yna.co.kr/view/AKR20260808023900004",
       "pubDate": "Sun, 9 Aug 2026 08:00:02 +0900"
-    },
-    {
-      "title": "단속비웃는 무판 중고차 골목길 점령…연수구 \"번호판 의무화를\"",
-      "link": "https://www.yna.co.kr/view/AKR20260807078300065",
-      "pubDate": "Sun, 9 Aug 2026 07:17:00 +0900"
     }
   ]
 }
