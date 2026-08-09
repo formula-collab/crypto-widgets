@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786262797,
+  "updated_at_unix": 1786266455,
   "items": [
+    {
+      "title": "삼프로TV 개인정보 46만여건 유출…일부 계좌·카드정보 포함",
+      "link": "https://www.yna.co.kr/view/AKR20260809039800017",
+      "pubDate": "Sun, 9 Aug 2026 17:48:41 +0900"
+    },
+    {
+      "title": "정부 'ISA·주가누르기 방지법' 손질한다…\"적극적 보완 검토\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260808046851002",
+      "pubDate": "Sun, 9 Aug 2026 17:45:19 +0900"
+    },
+    {
+      "title": "서울 준공업지역 2만7천가구 속도…13일 전후 주택공급대책(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260808046051003",
+      "pubDate": "Sun, 9 Aug 2026 17:04:18 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260809027800011",
@@ -137,21 +152,6 @@
       "title": "한국서 경험 쌓아 고향 네팔서 창업…코이카 '상생형 개발협력'",
       "link": "https://www.yna.co.kr/view/AKR20260808049200371",
       "pubDate": "Sun, 9 Aug 2026 09:00:03 +0900"
-    },
-    {
-      "title": "편의점 CU, 오마이걸 미미와 신상품 리뷰 콘텐츠 제작",
-      "link": "https://www.yna.co.kr/view/AKR20260809010600030",
-      "pubDate": "Sun, 9 Aug 2026 08:26:18 +0900"
-    },
-    {
-      "title": "전남광주투자공사 설립 난항… 제도·금융 규제에 재검토",
-      "link": "https://www.yna.co.kr/view/AKR20260807097800054",
-      "pubDate": "Sun, 9 Aug 2026 08:01:00 +0900"
-    },
-    {
-      "title": "'병역거부자 취업금지·해고법'…위헌 소지에도 64년째 손못대",
-      "link": "https://www.yna.co.kr/view/AKR20260808023900004",
-      "pubDate": "Sun, 9 Aug 2026 08:00:02 +0900"
     }
   ]
 }
