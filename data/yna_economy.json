@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786314128,
+  "updated_at_unix": 1786316146,
   "items": [
+    {
+      "title": "韓범죄조직 '2차 풍선효과'…중앙아시아 동포사회 치안 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260809030500371",
+      "pubDate": "Mon, 10 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260810008500011",
+      "pubDate": "Mon, 10 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "인천 연안여객선 유류할증료, 9월도 최고단계…5개월 연속",
       "link": "https://www.yna.co.kr/view/AKR20260807061200065",
@@ -142,16 +152,6 @@
       "title": "'특허가 강한 스타트업 육성 프로젝트' 추진…청년창업 지원",
       "link": "https://www.yna.co.kr/view/AKR20260807084800063",
       "pubDate": "Sun, 9 Aug 2026 12:00:07 +0900"
-    },
-    {
-      "title": "고향사랑기부 세제 혜택 강화…2천만원 기부시 341만→560만원",
-      "link": "https://www.yna.co.kr/view/AKR20260808015200530",
-      "pubDate": "Sun, 9 Aug 2026 12:00:05 +0900"
-    },
-    {
-      "title": "근로복지공단, 하반기 신입 274명 공채…19일까지 온라인 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260808021500530",
-      "pubDate": "Sun, 9 Aug 2026 12:00:04 +0900"
     }
   ]
 }
