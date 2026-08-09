@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786316146,
+  "updated_at_unix": 1786317603,
   "items": [
+    {
+      "title": "부산 소비자 상담, 의류·헬스장·숙박시설 피해 급증",
+      "link": "https://www.yna.co.kr/view/AKR20260810013800051",
+      "pubDate": "Mon, 10 Aug 2026 07:58:11 +0900"
+    },
     {
       "title": "韓범죄조직 '2차 풍선효과'…중앙아시아 동포사회 치안 '비상'",
       "link": "https://www.yna.co.kr/view/AKR20260809030500371",
@@ -147,11 +152,6 @@
       "title": "\"건설기업 수익성·재무건전성·성장성 5년새 동반 악화\"",
       "link": "https://www.yna.co.kr/view/AKR20260809002100003",
       "pubDate": "Sun, 9 Aug 2026 13:00:01 +0900"
-    },
-    {
-      "title": "'특허가 강한 스타트업 육성 프로젝트' 추진…청년창업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260807084800063",
-      "pubDate": "Sun, 9 Aug 2026 12:00:07 +0900"
     }
   ]
 }
