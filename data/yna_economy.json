@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786306676,
+  "updated_at_unix": 1786309101,
   "items": [
+    {
+      "title": "닭·돼지 폐사 속출…가축 폭염피해 보험접수 이미 2천건 훌쩍",
+      "link": "https://www.yna.co.kr/view/AKR20260808049000002",
+      "pubDate": "Mon, 10 Aug 2026 05:53:00 +0900"
+    },
+    {
+      "title": "극한 더위에 판잣집·여관 등서 사는 주거취약가구 55만",
+      "link": "https://www.yna.co.kr/view/AKR20260807163300002",
+      "pubDate": "Mon, 10 Aug 2026 05:51:01 +0900"
+    },
+    {
+      "title": "정비사업 추가 이주비 대출에 공적보증 검토…병목 뚫는다",
+      "link": "https://www.yna.co.kr/view/AKR20260809010400003",
+      "pubDate": "Mon, 10 Aug 2026 05:31:00 +0900"
+    },
     {
       "title": "\"베선트 美재무, 장기채 금리 상승 방어의지 시장에 시사\"",
       "link": "https://www.yna.co.kr/view/AKR20260810001800072",
@@ -137,21 +152,6 @@
       "title": "한국경제인협회, 대국민 창업 프로젝트…12주간 100개팀 육성",
       "link": "https://www.yna.co.kr/view/AKR20260809015600003",
       "pubDate": "Sun, 9 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "고의로 44차례 사고 내 보험금 가로챈 오토바이 배달기사 송치",
-      "link": "https://www.yna.co.kr/view/AKR20260809016800064",
-      "pubDate": "Sun, 9 Aug 2026 10:43:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260809015500011",
-      "pubDate": "Sun, 9 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "검사 없는 중수청 합동수사과…조직·정원 어떻게 구성되나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260808034251530",
-      "pubDate": "Sun, 9 Aug 2026 10:18:24 +0900"
     }
   ]
 }
