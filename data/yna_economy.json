@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786392360,
+  "updated_at_unix": 1786396068,
   "items": [
+    {
+      "title": "임금근로자 8명 중 1명은 '최저임금 미만'…임시직은 39%",
+      "link": "https://www.yna.co.kr/view/AKR20260810104900530",
+      "pubDate": "Tue, 11 Aug 2026 06:01:02 +0900"
+    },
+    {
+      "title": "킨텍스, 벤처기업부 '민관협력 개방 혁신 지원 사업' 3개 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260810126600060",
+      "pubDate": "Tue, 11 Aug 2026 06:00:06 +0900"
+    },
+    {
+      "title": "대전중수청, 세종시 내 대체 임시청사 확보…입지 논란 '종지부'",
+      "link": "https://www.yna.co.kr/view/AKR20260810131000063",
+      "pubDate": "Tue, 11 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "그린벨트 해제 후보 다시 거론된 하남 감북…높아진 땅값 변수",
+      "link": "https://www.yna.co.kr/view/AKR20260810142700003",
+      "pubDate": "Tue, 11 Aug 2026 05:57:01 +0900"
+    },
+    {
+      "title": "국내서 더 저렴한 비트코인…'역 김치프리미엄' 장기화",
+      "link": "https://www.yna.co.kr/view/AKR20260810144300002",
+      "pubDate": "Tue, 11 Aug 2026 05:57:00 +0900"
+    },
+    {
+      "title": "공공기관서 코인 무단 채굴한 직원…법원 \"부당해고 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260810137600002",
+      "pubDate": "Tue, 11 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "외국인 국내 카드결제, 3년 반에 10배로…부산 1년새 60%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260810134200002",
+      "pubDate": "Tue, 11 Aug 2026 05:53:00 +0900"
+    },
+    {
+      "title": "급등장에 SK하이닉스 담보대출 1년새 438%↑…40대 이하서 쑥",
+      "link": "https://www.yna.co.kr/view/AKR20260810142600002",
+      "pubDate": "Tue, 11 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 호르무즈 협상 교착에 5%↑…WTI 다시 80달러대",
       "link": "https://www.yna.co.kr/view/AKR20260811004600072",
@@ -112,46 +152,6 @@
       "title": "美日 엔 매수 공동개입에…\"내년 봄 日기준금리 1.5% 도달\" 전망",
       "link": "https://www.yna.co.kr/view/AKR20260810109000073",
       "pubDate": "Mon, 10 Aug 2026 16:04:37 +0900"
-    },
-    {
-      "title": "레버리지 대책후 변동성지수 19%↓…5월후 처음 70선 아래로(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810092051008",
-      "pubDate": "Mon, 10 Aug 2026 16:01:20 +0900"
-    },
-    {
-      "title": "이번에도 중국발 악재?…'전강후약' 삼전닉스, 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810032551008",
-      "pubDate": "Mon, 10 Aug 2026 15:55:03 +0900"
-    },
-    {
-      "title": "스피어 \"싱가포르 종속회사 주식 118억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810111100008",
-      "pubDate": "Mon, 10 Aug 2026 15:51:55 +0900"
-    },
-    {
-      "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810058951008",
-      "pubDate": "Mon, 10 Aug 2026 15:43:54 +0900"
-    },
-    {
-      "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진 소식에 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810039051008",
-      "pubDate": "Mon, 10 Aug 2026 15:40:35 +0900"
-    },
-    {
-      "title": "울산항만공사, 항만 건설현장 전문가 합동점검 \"위험요인 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810105000057",
-      "pubDate": "Mon, 10 Aug 2026 15:40:03 +0900"
-    },
-    {
-      "title": "외국환시세(8월10일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260810107800002",
-      "pubDate": "Mon, 10 Aug 2026 15:39:48 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.3원 오른 1,418.4원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260810106100002",
-      "pubDate": "Mon, 10 Aug 2026 15:39:38 +0900"
     }
   ]
 }
