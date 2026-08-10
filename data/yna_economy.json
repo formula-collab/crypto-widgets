@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786402928,
+  "updated_at_unix": 1786406185,
   "items": [
+    {
+      "title": "식품업계, 저당 제품군 확대…소스·발효유 잇달아 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260811029600030",
+      "pubDate": "Tue, 11 Aug 2026 08:48:46 +0900"
+    },
+    {
+      "title": "키움증권, 삼전닉스 목표가 동반↓…\"범용메모리 피크아웃 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811029100008",
+      "pubDate": "Tue, 11 Aug 2026 08:46:48 +0900"
+    },
+    {
+      "title": "DB증권 \"코스닥 상승세 마찰 가능성…자동차·반도체 반등 주목\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811024300008",
+      "pubDate": "Tue, 11 Aug 2026 08:43:45 +0900"
+    },
+    {
+      "title": "신한투자 \"산일전기, 대형주와 밸류에이션 격차 확대…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811028700008",
+      "pubDate": "Tue, 11 Aug 2026 08:42:44 +0900"
+    },
+    {
+      "title": "다올증권 \"코스메카코리아, 2분기 실적 기대치 상회…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811028300008",
+      "pubDate": "Tue, 11 Aug 2026 08:40:58 +0900"
+    },
+    {
+      "title": "서울우유, AI '서울우유 GPT' 도입…회계·데이터 분석 활용",
+      "link": "https://www.yna.co.kr/view/AKR20260811025600030",
+      "pubDate": "Tue, 11 Aug 2026 08:35:23 +0900"
+    },
+    {
+      "title": "삼성증권 \"CJ CGV, 비용 효율화 등 사업구조 개선\"…목표가↑",
+      "link": "https://www.yna.co.kr/view/AKR20260811026600008",
+      "pubDate": "Tue, 11 Aug 2026 08:31:01 +0900"
+    },
+    {
+      "title": "한투증권 \"전력기기 업종, 송·배전 전 영역서 수주확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811022400008",
+      "pubDate": "Tue, 11 Aug 2026 08:06:41 +0900"
+    },
+    {
+      "title": "한국-필리핀, 저작권 협력 강화…콘텐츠산업 동반성장 도모",
+      "link": "https://www.yna.co.kr/view/AKR20260811017600005",
+      "pubDate": "Tue, 11 Aug 2026 08:04:45 +0900"
+    },
+    {
+      "title": "IBK증권, GS리테일 목표가↑…\"전 사업부문서 실적 개선\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811021600008",
+      "pubDate": "Tue, 11 Aug 2026 08:03:43 +0900"
+    },
+    {
+      "title": "부산시, 조선 협력사 노동자에 온열질환 예방 쿨링 키트 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260811019300051",
+      "pubDate": "Tue, 11 Aug 2026 08:01:10 +0900"
+    },
     {
       "title": "강남구청장실에 재건축 현황판…\"한눈에 파악, 지연시 신속대응\"",
       "link": "https://www.yna.co.kr/view/AKR20260811019000004",
@@ -97,61 +152,6 @@
       "title": "운동화 아식스 OEM 업체 비즈코, 강남 '브이플렉스' 인수",
       "link": "https://www.yna.co.kr/view/AKR20260810145100008",
       "pubDate": "Mon, 10 Aug 2026 19:47:55 +0900"
-    },
-    {
-      "title": "청년미래적금, 138만5천명 최종가입…9월 추가모집 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260810146800002",
-      "pubDate": "Mon, 10 Aug 2026 19:46:41 +0900"
-    },
-    {
-      "title": "VIG파트너스, 8년 만에 본촌 매각…태국 마이너그룹이 인수",
-      "link": "https://www.yna.co.kr/view/AKR20260810143900008",
-      "pubDate": "Mon, 10 Aug 2026 19:45:38 +0900"
-    },
-    {
-      "title": "3대 국책銀 노조 \"강제이전 검토 즉각 중단하라…모든수단 동원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810143500002",
-      "pubDate": "Mon, 10 Aug 2026 19:08:17 +0900"
-    },
-    {
-      "title": "오세훈 \"용산공원 주택공급 반대…그린벨트 해제 바람직하지 않아\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810139900004",
-      "pubDate": "Mon, 10 Aug 2026 18:16:12 +0900"
-    },
-    {
-      "title": "\"방만재정 책임 왜 떠넘기나\"…이상일, 추미애 세원 개편 '직격'",
-      "link": "https://www.yna.co.kr/view/AKR20260810134600061",
-      "pubDate": "Mon, 10 Aug 2026 18:09:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260810130700011",
-      "pubDate": "Mon, 10 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "하락세 끝났나…국고채 금리 다시 3일째 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810124151008",
-      "pubDate": "Mon, 10 Aug 2026 17:08:38 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.778%",
-      "link": "https://www.yna.co.kr/view/AKR20260810124100008",
-      "pubDate": "Mon, 10 Aug 2026 16:45:51 +0900"
-    },
-    {
-      "title": "[동정] 오세훈 서울시장, 청년 AI 스타트업과 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260810123100004",
-      "pubDate": "Mon, 10 Aug 2026 16:40:01 +0900"
-    },
-    {
-      "title": "메디톡스, 2분기 영업이익 48억원…25% 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260810122700017",
-      "pubDate": "Mon, 10 Aug 2026 16:37:30 +0900"
-    },
-    {
-      "title": "코스피 주춤, 코스닥만 날았다…레버리지 규제 이후 수급 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260810082800008",
-      "pubDate": "Mon, 10 Aug 2026 16:36:08 +0900"
     }
   ]
 }
