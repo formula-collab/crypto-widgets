@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786355603,
+  "updated_at_unix": 1786359328,
   "items": [
+    {
+      "title": "운동화 아식스 OEM 업체 비즈코, 강남 '브이플렉스' 인수",
+      "link": "https://www.yna.co.kr/view/AKR20260810145100008",
+      "pubDate": "Mon, 10 Aug 2026 19:47:55 +0900"
+    },
+    {
+      "title": "청년미래적금, 138만5천명 최종가입…9월 추가모집 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260810146800002",
+      "pubDate": "Mon, 10 Aug 2026 19:46:41 +0900"
+    },
+    {
+      "title": "VIG파트너스, 8년 만에 본촌 매각…태국 마이너그룹이 인수",
+      "link": "https://www.yna.co.kr/view/AKR20260810143900008",
+      "pubDate": "Mon, 10 Aug 2026 19:45:38 +0900"
+    },
+    {
+      "title": "3대 국책銀 노조 \"강제이전 검토 즉각 중단하라…모든수단 동원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260810143500002",
+      "pubDate": "Mon, 10 Aug 2026 19:08:17 +0900"
+    },
     {
       "title": "오세훈 \"용산공원 주택공급 반대…그린벨트 해제 바람직하지 않아\"",
       "link": "https://www.yna.co.kr/view/AKR20260810139900004",
@@ -132,26 +152,6 @@
       "title": "울주군, 신혼부부 주거지원 사업 소득 기준 상향 추진",
       "link": "https://www.yna.co.kr/view/AKR20260810102900057",
       "pubDate": "Mon, 10 Aug 2026 15:33:55 +0900"
-    },
-    {
-      "title": "금속노조 울산지부 \"GS엔텍 휴업수당 감액 신청 기각\" 촉구",
-      "link": "https://www.yna.co.kr/view/AKR20260810101800057",
-      "pubDate": "Mon, 10 Aug 2026 15:19:46 +0900"
-    },
-    {
-      "title": "울산·용인·영천서 교복 입찰 담합 또 적발…공정위 심판대에",
-      "link": "https://www.yna.co.kr/view/AKR20260810081600002",
-      "pubDate": "Mon, 10 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "카스, 22일 과천서 '카스쿨 페스티벌'…음악·물놀이 결합 축제",
-      "link": "https://www.yna.co.kr/view/AKR20260810095800030",
-      "pubDate": "Mon, 10 Aug 2026 14:48:34 +0900"
-    },
-    {
-      "title": "원주소방서, 외국인 고용사업장 124곳 맞춤형 소방 안전 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260810094500062",
-      "pubDate": "Mon, 10 Aug 2026 14:39:34 +0900"
     }
   ]
 }
