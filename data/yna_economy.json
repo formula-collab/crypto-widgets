@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786396068,
+  "updated_at_unix": 1786399403,
   "items": [
+    {
+      "title": "[반려동물] 폭염에 '펫캉스' 인기…펫요가·훈련사 토크콘서트도",
+      "link": "https://www.yna.co.kr/view/AKR20260810103800030",
+      "pubDate": "Tue, 11 Aug 2026 06:30:02 +0900"
+    },
+    {
+      "title": "울산시, '일자리 창출 강소기업' 신청 접수…10개사 선정 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260810149300057",
+      "pubDate": "Tue, 11 Aug 2026 06:07:00 +0900"
+    },
     {
       "title": "임금근로자 8명 중 1명은 '최저임금 미만'…임시직은 39%",
       "link": "https://www.yna.co.kr/view/AKR20260810104900530",
@@ -142,16 +152,6 @@
       "title": "울릉군, 응급의료 공백 줄인다…전문의 근무일 확대",
       "link": "https://www.yna.co.kr/view/AKR20260810115900053",
       "pubDate": "Mon, 10 Aug 2026 16:10:54 +0900"
-    },
-    {
-      "title": "코스닥, 6.97%↑…코스피는 찔끔 상승, 3거래일 만에 반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260810114400008",
-      "pubDate": "Mon, 10 Aug 2026 16:10:21 +0900"
-    },
-    {
-      "title": "美日 엔 매수 공동개입에…\"내년 봄 日기준금리 1.5% 도달\" 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260810109000073",
-      "pubDate": "Mon, 10 Aug 2026 16:04:37 +0900"
     }
   ]
 }
