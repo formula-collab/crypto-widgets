@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786331081,
+  "updated_at_unix": 1786338044,
   "items": [
+    {
+      "title": "제주 위기업종 소상공인에 300억원 특별보증…최대 3천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260810079900056",
+      "pubDate": "Mon, 10 Aug 2026 13:24:13 +0900"
+    },
+    {
+      "title": "KDI \"반도체 중심으로 경기 개선세 확대\"…물가·고용은 변수",
+      "link": "https://www.yna.co.kr/view/AKR20260810057100002",
+      "pubDate": "Mon, 10 Aug 2026 12:00:05 +0900"
+    },
+    {
+      "title": "한은, 통안증권 발행제도 개편…1년물 통합발행 2→3개월로",
+      "link": "https://www.yna.co.kr/view/AKR20260810039200002",
+      "pubDate": "Mon, 10 Aug 2026 12:00:04 +0900"
+    },
+    {
+      "title": "\"안전하다더니 전액 날렸다\"…해외 부동산 펀드 투자 주의보",
+      "link": "https://www.yna.co.kr/view/AKR20260810063700002",
+      "pubDate": "Mon, 10 Aug 2026 12:00:04 +0900"
+    },
+    {
+      "title": "작년 리콜 4.7% 증가…해외 리콜 제품 국내유통 늘어 당국 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260810056400002",
+      "pubDate": "Mon, 10 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "29세 이하 고용보험 가입자 47개월째 감소…청년 고용한파 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260810068700530",
+      "pubDate": "Mon, 10 Aug 2026 12:00:01 +0900"
+    },
     {
       "title": "NH증권, 오픈API '플러그' 출시…나만의 투자 전략 구현",
       "link": "https://www.yna.co.kr/view/AKR20260810073200008",
@@ -122,36 +152,6 @@
       "title": "농식품부, 안성·천안 160여 농가 축산악취 집중 점검",
       "link": "https://www.yna.co.kr/view/AKR20260810057000030",
       "pubDate": "Mon, 10 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "\"터미널 주변 용적률 특례\"…대전시, 정비사업 조례 개정",
-      "link": "https://www.yna.co.kr/view/AKR20260810060100063",
-      "pubDate": "Mon, 10 Aug 2026 10:55:00 +0900"
-    },
-    {
-      "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 강세",
-      "link": "https://www.yna.co.kr/view/AKR20260810058900008",
-      "pubDate": "Mon, 10 Aug 2026 10:49:38 +0900"
-    },
-    {
-      "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260810056800008",
-      "pubDate": "Mon, 10 Aug 2026 10:48:21 +0900"
-    },
-    {
-      "title": "[게시판] 현대홈쇼핑, 미취업 청년 '직무 체험형 캠프' 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260810024400030",
-      "pubDate": "Mon, 10 Aug 2026 10:40:24 +0900"
-    },
-    {
-      "title": "KT, NH농협은행 차세대 AICC 구축…상담 시간 20% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260810054600017",
-      "pubDate": "Mon, 10 Aug 2026 10:34:29 +0900"
-    },
-    {
-      "title": "네오플, 제주본사 집중 채용…'던파' 라이브 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260810053400017",
-      "pubDate": "Mon, 10 Aug 2026 10:31:58 +0900"
     }
   ]
 }
