@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786389983,
+  "updated_at_unix": 1786392360,
   "items": [
+    {
+      "title": "국제유가, 호르무즈 협상 교착에 5%↑…WTI 다시 80달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260811004600072",
+      "pubDate": "Tue, 11 Aug 2026 04:45:49 +0900"
+    },
     {
       "title": "트럼프, 휘발윳값 부담에 존스법 또 유예…중간선거 뒤로 연장",
       "link": "https://www.yna.co.kr/view/AKR20260811004100071",
@@ -147,11 +152,6 @@
       "title": "[외환] 원/달러 환율 2.3원 오른 1,418.4원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260810106100002",
       "pubDate": "Mon, 10 Aug 2026 15:39:38 +0900"
-    },
-    {
-      "title": "코스닥, 6.97%↑…코스피는 찔끔 상승, 3거래일만에 반등",
-      "link": "https://www.yna.co.kr/view/AKR20260810108000008",
-      "pubDate": "Mon, 10 Aug 2026 15:38:10 +0900"
     }
   ]
 }
