@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786349965,
+  "updated_at_unix": 1786355603,
   "items": [
+    {
+      "title": "오세훈 \"용산공원 주택공급 반대…그린벨트 해제 바람직하지 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260810139900004",
+      "pubDate": "Mon, 10 Aug 2026 18:16:12 +0900"
+    },
+    {
+      "title": "\"방만재정 책임 왜 떠넘기나\"…이상일, 추미애 세원 개편 '직격'",
+      "link": "https://www.yna.co.kr/view/AKR20260810134600061",
+      "pubDate": "Mon, 10 Aug 2026 18:09:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260810130700011",
+      "pubDate": "Mon, 10 Aug 2026 18:00:00 +0900"
+    },
     {
       "title": "하락세 끝났나…국고채 금리 다시 3일째 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260810124151008",
@@ -137,21 +152,6 @@
       "title": "원주소방서, 외국인 고용사업장 124곳 맞춤형 소방 안전 교육",
       "link": "https://www.yna.co.kr/view/AKR20260810094500062",
       "pubDate": "Mon, 10 Aug 2026 14:39:34 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋, 글로벌 기업탐방 시리즈 '뉴스탠다드' 공개",
-      "link": "https://www.yna.co.kr/view/AKR20260810094200008",
-      "pubDate": "Mon, 10 Aug 2026 14:35:58 +0900"
-    },
-    {
-      "title": "[부산소식] 동아대, 13일 부동산 시장 양극화 주제 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260810094000051",
-      "pubDate": "Mon, 10 Aug 2026 14:35:11 +0900"
-    },
-    {
-      "title": "레버리지 대책후 변동성지수 19%↓…5월 이후 처음 70선 아래로",
-      "link": "https://www.yna.co.kr/view/AKR20260810092000008",
-      "pubDate": "Mon, 10 Aug 2026 14:35:05 +0900"
     }
   ]
 }
