@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786385367,
+  "updated_at_unix": 1786389983,
   "items": [
+    {
+      "title": "트럼프, 휘발윳값 부담에 존스법 또 유예…중간선거 뒤로 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260811004100071",
+      "pubDate": "Tue, 11 Aug 2026 04:08:28 +0900"
+    },
     {
       "title": "\"속도전 넘어 전격전\"…3대 메가 프로젝트 초스피드 가동",
       "link": "https://www.yna.co.kr/view/AKR20260810148700003",
@@ -147,11 +152,6 @@
       "title": "코스닥, 6.97%↑…코스피는 찔끔 상승, 3거래일만에 반등",
       "link": "https://www.yna.co.kr/view/AKR20260810108000008",
       "pubDate": "Mon, 10 Aug 2026 15:38:10 +0900"
-    },
-    {
-      "title": "[속보] 코스닥, 7% 급등해 854 마감…코스피는 0.65%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260810107100008",
-      "pubDate": "Mon, 10 Aug 2026 15:34:02 +0900"
     }
   ]
 }
