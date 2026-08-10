@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786344430,
+  "updated_at_unix": 1786349965,
   "items": [
+    {
+      "title": "하락세 끝났나…국고채 금리 다시 3일째 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260810124151008",
+      "pubDate": "Mon, 10 Aug 2026 17:08:38 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.778%",
+      "link": "https://www.yna.co.kr/view/AKR20260810124100008",
+      "pubDate": "Mon, 10 Aug 2026 16:45:51 +0900"
+    },
+    {
+      "title": "[동정] 오세훈 서울시장, 청년 AI 스타트업과 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260810123100004",
+      "pubDate": "Mon, 10 Aug 2026 16:40:01 +0900"
+    },
+    {
+      "title": "메디톡스, 2분기 영업이익 48억원…25% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260810122700017",
+      "pubDate": "Mon, 10 Aug 2026 16:37:30 +0900"
+    },
+    {
+      "title": "코스피 주춤, 코스닥만 날았다…레버리지 규제 이후 수급 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260810082800008",
+      "pubDate": "Mon, 10 Aug 2026 16:36:08 +0900"
+    },
+    {
+      "title": "환율, 이틀째 1,410원대…외국인 순매도·저가 매수에 반등",
+      "link": "https://www.yna.co.kr/view/AKR20260810114300002",
+      "pubDate": "Mon, 10 Aug 2026 16:26:15 +0900"
+    },
+    {
+      "title": "동서발전·로아스, 로봇 기반 AI 기술개발·실증 협력 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260810116900057",
+      "pubDate": "Mon, 10 Aug 2026 16:23:16 +0900"
+    },
+    {
+      "title": "화성시, 남양로데오 등 6곳 '골목형상점가' 추가 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260810117300061",
+      "pubDate": "Mon, 10 Aug 2026 16:16:18 +0900"
+    },
+    {
+      "title": "성수3지구 재개발 시공사 삼성물산 유력…단독참여로 2차례 유찰",
+      "link": "https://www.yna.co.kr/view/AKR20260810117600003",
+      "pubDate": "Mon, 10 Aug 2026 16:15:45 +0900"
+    },
+    {
+      "title": "울릉군, 응급의료 공백 줄인다…전문의 근무일 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260810115900053",
+      "pubDate": "Mon, 10 Aug 2026 16:10:54 +0900"
+    },
+    {
+      "title": "코스닥, 6.97%↑…코스피는 찔끔 상승, 3거래일 만에 반등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260810114400008",
+      "pubDate": "Mon, 10 Aug 2026 16:10:21 +0900"
+    },
+    {
+      "title": "美日 엔 매수 공동개입에…\"내년 봄 日기준금리 1.5% 도달\" 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260810109000073",
+      "pubDate": "Mon, 10 Aug 2026 16:04:37 +0900"
+    },
+    {
+      "title": "레버리지 대책후 변동성지수 19%↓…5월후 처음 70선 아래로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260810092051008",
+      "pubDate": "Mon, 10 Aug 2026 16:01:20 +0900"
+    },
+    {
+      "title": "이번에도 중국발 악재?…'전강후약' 삼전닉스, 하락 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260810032551008",
+      "pubDate": "Mon, 10 Aug 2026 15:55:03 +0900"
+    },
+    {
+      "title": "스피어 \"싱가포르 종속회사 주식 118억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260810111100008",
+      "pubDate": "Mon, 10 Aug 2026 15:51:55 +0900"
+    },
+    {
+      "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260810058951008",
+      "pubDate": "Mon, 10 Aug 2026 15:43:54 +0900"
+    },
     {
       "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진 소식에 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260810039051008",
@@ -72,86 +152,6 @@
       "title": "레버리지 대책후 변동성지수 19%↓…5월 이후 처음 70선 아래로",
       "link": "https://www.yna.co.kr/view/AKR20260810092000008",
       "pubDate": "Mon, 10 Aug 2026 14:35:05 +0900"
-    },
-    {
-      "title": "일동 후디스펫, 고양이의 날 맞아 '집사 인증 모의고사' 이벤트",
-      "link": "https://www.yna.co.kr/view/AKR20260810093100030",
-      "pubDate": "Mon, 10 Aug 2026 14:34:29 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260810088900011",
-      "pubDate": "Mon, 10 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "강남구 '정비사업 세금 안내서' 발간…\"전국 최초\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810091800004",
-      "pubDate": "Mon, 10 Aug 2026 14:24:30 +0900"
-    },
-    {
-      "title": "황희, 버스하우스 논란에 \"깊이 사과…청년주거 엄중함 못 헤아려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810084900001",
-      "pubDate": "Mon, 10 Aug 2026 14:09:28 +0900"
-    },
-    {
-      "title": "[바이오스냅] 지씨셀, 손주희 사업개발실장 영입",
-      "link": "https://www.yna.co.kr/view/AKR20260810083900017",
-      "pubDate": "Mon, 10 Aug 2026 14:09:13 +0900"
-    },
-    {
-      "title": "셀트리온, '쉬었음 청년' 자립 돕는다…바이오 교육 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260810087400017",
-      "pubDate": "Mon, 10 Aug 2026 14:06:31 +0900"
-    },
-    {
-      "title": "[게시판] 유안타증권, 금융센터 은평지점 투자설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260810088100008",
-      "pubDate": "Mon, 10 Aug 2026 14:04:56 +0900"
-    },
-    {
-      "title": "원주시, 26억원 들여 '행구동 천년나무' 관광명소로 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260810087800062",
-      "pubDate": "Mon, 10 Aug 2026 14:02:17 +0900"
-    },
-    {
-      "title": "건설업계 \"가덕도신공항 부지조성 공사비에 물가상승 반영해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260810045000051",
-      "pubDate": "Mon, 10 Aug 2026 14:00:04 +0900"
-    },
-    {
-      "title": "데이터 활용 의료·건강 생태계 조성, 국민체감 우수사업 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260810084400002",
-      "pubDate": "Mon, 10 Aug 2026 14:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 한투증권, 4주간 국내주식 실전투자대회 '한투배틀'",
-      "link": "https://www.yna.co.kr/view/AKR20260810087000008",
-      "pubDate": "Mon, 10 Aug 2026 13:59:46 +0900"
-    },
-    {
-      "title": "대신증권, 12일 KT CEO 초청 콥데이…AI·AX 전략 설명",
-      "link": "https://www.yna.co.kr/view/AKR20260810084800008",
-      "pubDate": "Mon, 10 Aug 2026 13:55:51 +0900"
-    },
-    {
-      "title": "제주 위기업종 소상공인에 300억원 특별보증…최대 3천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260810079900056",
-      "pubDate": "Mon, 10 Aug 2026 13:24:13 +0900"
-    },
-    {
-      "title": "KDI \"반도체 중심으로 경기 개선세 확대\"…물가·고용은 변수",
-      "link": "https://www.yna.co.kr/view/AKR20260810057100002",
-      "pubDate": "Mon, 10 Aug 2026 12:00:05 +0900"
-    },
-    {
-      "title": "한은, 통안증권 발행제도 개편…1년물 통합발행 2→3개월로",
-      "link": "https://www.yna.co.kr/view/AKR20260810039200002",
-      "pubDate": "Mon, 10 Aug 2026 12:00:04 +0900"
-    },
-    {
-      "title": "\"안전하다더니 전액 날렸다\"…해외 부동산 펀드 투자 주의보",
-      "link": "https://www.yna.co.kr/view/AKR20260810063700002",
-      "pubDate": "Mon, 10 Aug 2026 12:00:04 +0900"
     }
   ]
 }
