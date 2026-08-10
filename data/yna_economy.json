@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786362032,
+  "updated_at_unix": 1786365605,
   "items": [
+    {
+      "title": "\"속도전 넘어 전격전\"…3대 메가 프로젝트 초스피드 가동",
+      "link": "https://www.yna.co.kr/view/AKR20260810148700003",
+      "pubDate": "Mon, 10 Aug 2026 20:45:56 +0900"
+    },
     {
       "title": "운동화 아식스 OEM 업체 비즈코, 강남 '브이플렉스' 인수",
       "link": "https://www.yna.co.kr/view/AKR20260810145100008",
@@ -147,11 +152,6 @@
       "title": "[속보] 코스닥, 7% 급등해 854 마감…코스피는 0.65%↑",
       "link": "https://www.yna.co.kr/view/AKR20260810107100008",
       "pubDate": "Mon, 10 Aug 2026 15:34:02 +0900"
-    },
-    {
-      "title": "울주군, 신혼부부 주거지원 사업 소득 기준 상향 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260810102900057",
-      "pubDate": "Mon, 10 Aug 2026 15:33:55 +0900"
     }
   ]
 }
