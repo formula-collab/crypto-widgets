@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786430617,
+  "updated_at_unix": 1786435246,
   "items": [
+    {
+      "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811101701054",
+      "pubDate": "Tue, 11 Aug 2026 16:54:00 +0900"
+    },
+    {
+      "title": "신협 자회사 KCU NPL 대부 대표이사로 이종성 씨 취임",
+      "link": "https://www.yna.co.kr/view/AKR20260811134800002",
+      "pubDate": "Tue, 11 Aug 2026 16:53:12 +0900"
+    },
+    {
+      "title": "환율, 수급 개선에 사흘째 1,410원대…10개월 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260811134400002",
+      "pubDate": "Tue, 11 Aug 2026 16:52:17 +0900"
+    },
+    {
+      "title": "[게시판] 미래에셋 투자센터평촌WM, VIP 고객 초청 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260811141000008",
+      "pubDate": "Tue, 11 Aug 2026 16:48:48 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.808%",
+      "link": "https://www.yna.co.kr/view/AKR20260811140300008",
+      "pubDate": "Tue, 11 Aug 2026 16:47:52 +0900"
+    },
+    {
+      "title": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811139700530",
+      "pubDate": "Tue, 11 Aug 2026 16:44:14 +0900"
+    },
+    {
+      "title": "대신증권 2분기 영업익 3천599억원…전년보다 165%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260811136500008",
+      "pubDate": "Tue, 11 Aug 2026 16:35:01 +0900"
+    },
+    {
+      "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811087151008",
+      "pubDate": "Tue, 11 Aug 2026 16:32:53 +0900"
+    },
+    {
+      "title": "휴온스, 2분기 영업이익 29억원…77.6%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260811136800017",
+      "pubDate": "Tue, 11 Aug 2026 16:30:41 +0900"
+    },
+    {
+      "title": "이틀째 올랐지만 상승폭은 제한…코스피 0.7%·코스닥 0.3%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811133300008",
+      "pubDate": "Tue, 11 Aug 2026 16:26:13 +0900"
+    },
+    {
+      "title": "중랑구 면목3·8동 모아타운 관리계획 승인…2천334세대 단지로",
+      "link": "https://www.yna.co.kr/view/AKR20260811129300004",
+      "pubDate": "Tue, 11 Aug 2026 16:01:09 +0900"
+    },
+    {
+      "title": "\"반도체 수출급증에 실적 모멘텀\"…삼전 4%·하닉 0.35%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811040151008",
+      "pubDate": "Tue, 11 Aug 2026 15:54:45 +0900"
+    },
+    {
+      "title": "[특징주] 백화점주, 하락 마감…엇갈린 2분기 실적에 낙폭 차이(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811058051008",
+      "pubDate": "Tue, 11 Aug 2026 15:51:25 +0900"
+    },
+    {
+      "title": "대신자산신탁, 분당 풍림·선경·효성 통합재건축 MOU 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260811123200008",
+      "pubDate": "Tue, 11 Aug 2026 15:41:09 +0900"
+    },
+    {
+      "title": "신한은행, 녹색기후기금과 첫 외환거래…2억달러 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260811124900002",
+      "pubDate": "Tue, 11 Aug 2026 15:39:45 +0900"
+    },
+    {
+      "title": "비나텍 \"베트남 종속회사에 198억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811123900008",
+      "pubDate": "Tue, 11 Aug 2026 15:39:20 +0900"
+    },
     {
       "title": "코스피 0.7%·코스닥 0.3% 상승 마감…2거래일 연속 상승",
       "link": "https://www.yna.co.kr/view/AKR20260811122900008",
@@ -39,7 +119,7 @@
       "pubDate": "Tue, 11 Aug 2026 15:25:32 +0900"
     },
     {
-      "title": "90억원 부실 대출 혐의 새마을금고 임원들, 혐의 전면 부인",
+      "title": "90억원 부실 대출 새마을금고 임원들, 재판서 혐의 전면 부인",
       "link": "https://www.yna.co.kr/view/AKR20260811115600051",
       "pubDate": "Tue, 11 Aug 2026 15:22:52 +0900"
     },
@@ -72,86 +152,6 @@
       "title": "정부, 주택특별공급 악용 차단…신축빌라 다운계약 점검 강화",
       "link": "https://www.yna.co.kr/view/AKR20260811063400001",
       "pubDate": "Tue, 11 Aug 2026 15:00:04 +0900"
-    },
-    {
-      "title": "한은 부총재 \"물가 오름세 지속…금리 추가 인상 가능성 커\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811109600002",
-      "pubDate": "Tue, 11 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "사조푸디스트, 하남에 급식 브랜드 '푸디플러스' 1호점",
-      "link": "https://www.yna.co.kr/view/AKR20260811109700030",
-      "pubDate": "Tue, 11 Aug 2026 14:52:38 +0900"
-    },
-    {
-      "title": "박홍근 \"예산안 편성 막바지…완성도 높여달라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811107600002",
-      "pubDate": "Tue, 11 Aug 2026 14:44:18 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260811102000011",
-      "pubDate": "Tue, 11 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "임광현 \"국세청 체납관리단, 투입 예산 190억원…630억원 추징\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811105300002",
-      "pubDate": "Tue, 11 Aug 2026 14:24:52 +0900"
-    },
-    {
-      "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260811087100008",
-      "pubDate": "Tue, 11 Aug 2026 14:16:03 +0900"
-    },
-    {
-      "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811101700054",
-      "pubDate": "Tue, 11 Aug 2026 14:11:14 +0900"
-    },
-    {
-      "title": "농식품부 \"배추·무 등 채소가격 평년보다 낮아…공급안정 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811099900030",
-      "pubDate": "Tue, 11 Aug 2026 14:03:00 +0900"
-    },
-    {
-      "title": "메인비즈협회 \"고용 지킨 중소기업에 세제 혜택 더 줘야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811066500030",
-      "pubDate": "Tue, 11 Aug 2026 14:00:05 +0900"
-    },
-    {
-      "title": "대구·경북 사업장 96%는 소규모…노동부, 산재 감축 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260811085100530",
-      "pubDate": "Tue, 11 Aug 2026 14:00:03 +0900"
-    },
-    {
-      "title": "부산 시민단체, 북항 환승센터 정상화 민관 TF 구성 제안(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811063151051",
-      "pubDate": "Tue, 11 Aug 2026 13:56:06 +0900"
-    },
-    {
-      "title": "포천시, 지방세입 체납관리단 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260811099200060",
-      "pubDate": "Tue, 11 Aug 2026 13:55:05 +0900"
-    },
-    {
-      "title": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동",
-      "link": "https://www.yna.co.kr/view/AKR20260811085400063",
-      "pubDate": "Tue, 11 Aug 2026 13:44:01 +0900"
-    },
-    {
-      "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811085200002",
-      "pubDate": "Tue, 11 Aug 2026 13:01:38 +0900"
-    },
-    {
-      "title": "코트라, 수출 다변화 전략 회의…\"수출 1조달러·4강 앞장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811051900003",
-      "pubDate": "Tue, 11 Aug 2026 13:00:01 +0900"
-    },
-    {
-      "title": "오세훈 \"용산 1천695세대 순증…정비사업, 적대시할 대상 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811045251004",
-      "pubDate": "Tue, 11 Aug 2026 12:41:39 +0900"
     }
   ]
 }
