@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786480318,
+  "updated_at_unix": 1786483994,
   "items": [
+    {
+      "title": "반도체 특별연장근로 6개월 신청 4건뿐…규제완화 요구와 온도차",
+      "link": "https://www.yna.co.kr/view/AKR20260811154200530",
+      "pubDate": "Wed, 12 Aug 2026 06:01:01 +0900"
+    },
+    {
+      "title": "서울시, 주민세 개인분 386만건 고지…세대당 6천원 납부",
+      "link": "https://www.yna.co.kr/view/AKR20260811129200004",
+      "pubDate": "Wed, 12 Aug 2026 06:00:06 +0900"
+    },
+    {
+      "title": "서울시 'G3 서울플랜' 균형발전분과, 서울아레나 등 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260811151800004",
+      "pubDate": "Wed, 12 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 금융위, 하반기 'D-테스트베드' 모집…내달 8일까지",
+      "link": "https://www.yna.co.kr/view/AKR20260811140100002",
+      "pubDate": "Wed, 12 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "한국은행, 상반기 직원 150명에 주택자금대출 60억원",
+      "link": "https://www.yna.co.kr/view/AKR20260811149400002",
+      "pubDate": "Wed, 12 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "부동산 팔고 연금 납입 시 양도세 감면 혜택, 내년 말 종료",
+      "link": "https://www.yna.co.kr/view/AKR20260811158800002",
+      "pubDate": "Wed, 12 Aug 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'깡통대출' 비율 코로나19 이후 최고…고금리에 부실 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260811151100002",
+      "pubDate": "Wed, 12 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "브렌트 1.4% 상승…중재국發 '미·이란 합의근접' 소식에도 상승",
       "link": "https://www.yna.co.kr/view/AKR20260812004000072",
@@ -54,7 +89,7 @@
       "pubDate": "Tue, 11 Aug 2026 18:33:47 +0900"
     },
     {
-      "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것(종합)",
+      "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811148251003",
       "pubDate": "Tue, 11 Aug 2026 18:27:42 +0900"
     },
@@ -117,41 +152,6 @@
       "title": "IBK자산운용, 전북혁신도시에 사무소 열어…\"금융특화도시 도약\"",
       "link": "https://www.yna.co.kr/view/AKR20260811144500055",
       "pubDate": "Tue, 11 Aug 2026 17:01:15 +0900"
-    },
-    {
-      "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811101701054",
-      "pubDate": "Tue, 11 Aug 2026 16:54:00 +0900"
-    },
-    {
-      "title": "신협 자회사 KCU NPL 대부 대표이사로 이종성 씨 취임",
-      "link": "https://www.yna.co.kr/view/AKR20260811134800002",
-      "pubDate": "Tue, 11 Aug 2026 16:53:12 +0900"
-    },
-    {
-      "title": "환율, 수급 개선에 사흘째 1,410원대…10개월 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260811134400002",
-      "pubDate": "Tue, 11 Aug 2026 16:52:17 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋 투자센터평촌WM, VIP 고객 초청 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260811141000008",
-      "pubDate": "Tue, 11 Aug 2026 16:48:48 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.808%",
-      "link": "https://www.yna.co.kr/view/AKR20260811140300008",
-      "pubDate": "Tue, 11 Aug 2026 16:47:52 +0900"
-    },
-    {
-      "title": "민주노총 \"李대통령 노조법 쟁의기준 마련 지시는 재계 편들기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811139700530",
-      "pubDate": "Tue, 11 Aug 2026 16:44:14 +0900"
-    },
-    {
-      "title": "대신증권 2분기 영업익 3천599억원…전년보다 165%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260811136500008",
-      "pubDate": "Tue, 11 Aug 2026 16:35:01 +0900"
     }
   ]
 }
