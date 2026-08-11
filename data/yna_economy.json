@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786443743,
+  "updated_at_unix": 1786446620,
   "items": [
+    {
+      "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811066151001",
+      "pubDate": "Tue, 11 Aug 2026 20:02:56 +0900"
+    },
     {
       "title": "정부, 비축유 스와프 곧 재가동·나프타 수급안정화 조치 연장",
       "link": "https://www.yna.co.kr/view/AKR20260811157100002",
@@ -147,11 +152,6 @@
       "title": "[특징주] 백화점주, 하락 마감…엇갈린 2분기 실적에 낙폭 차이(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811058051008",
       "pubDate": "Tue, 11 Aug 2026 15:51:25 +0900"
-    },
-    {
-      "title": "대신자산신탁, 분당 풍림·선경·효성 통합재건축 MOU 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260811123200008",
-      "pubDate": "Tue, 11 Aug 2026 15:41:09 +0900"
     }
   ]
 }
