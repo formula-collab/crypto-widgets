@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786446620,
+  "updated_at_unix": 1786449818,
   "items": [
+    {
+      "title": "80억원 채무 입주민에 떠넘긴 건설사 대표 등 2명 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260811164900054",
+      "pubDate": "Tue, 11 Aug 2026 20:35:00 +0900"
+    },
+    {
+      "title": "주병기 \"쿠팡 차별 안 해…미국 경쟁 당국과 상시 정보 교류\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811164000002",
+      "pubDate": "Tue, 11 Aug 2026 20:17:08 +0900"
+    },
     {
       "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811066151001",
@@ -142,16 +152,6 @@
       "title": "중랑구 면목3·8동 모아타운 관리계획 승인…2천334세대 단지로",
       "link": "https://www.yna.co.kr/view/AKR20260811129300004",
       "pubDate": "Tue, 11 Aug 2026 16:01:09 +0900"
-    },
-    {
-      "title": "\"반도체 수출급증에 실적 모멘텀\"…삼전 4%·하닉 0.35%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811040151008",
-      "pubDate": "Tue, 11 Aug 2026 15:54:45 +0900"
-    },
-    {
-      "title": "[특징주] 백화점주, 하락 마감…엇갈린 2분기 실적에 낙폭 차이(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811058051008",
-      "pubDate": "Tue, 11 Aug 2026 15:51:25 +0900"
     }
   ]
 }
