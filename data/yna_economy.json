@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786435246,
+  "updated_at_unix": 1786440392,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260811147800011",
+      "pubDate": "Tue, 11 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "\"점심부터 저녁까지\"…bhc, 강남역에 '올데이 치킨' 매장",
+      "link": "https://www.yna.co.kr/view/AKR20260811152300030",
+      "pubDate": "Tue, 11 Aug 2026 17:58:08 +0900"
+    },
+    {
+      "title": "루닛, 상반기 매출 458억원…23% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260811151600017",
+      "pubDate": "Tue, 11 Aug 2026 17:43:23 +0900"
+    },
+    {
+      "title": "국토장관 \"오세훈 시장 요구사항 적극 검토중…협의도 원활\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811142200003",
+      "pubDate": "Tue, 11 Aug 2026 17:33:42 +0900"
+    },
+    {
+      "title": "JW중외제약, 2분기 영업이익 337억원…33% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260811149000017",
+      "pubDate": "Tue, 11 Aug 2026 17:31:29 +0900"
+    },
+    {
+      "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811148200003",
+      "pubDate": "Tue, 11 Aug 2026 17:23:34 +0900"
+    },
+    {
+      "title": "지방 이전설 금융권 '술렁'…국책은행·예보 노조 반대행동 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260811140800002",
+      "pubDate": "Tue, 11 Aug 2026 17:16:04 +0900"
+    },
+    {
+      "title": "농진청, 강원 고랭지서 여름배추 병해충 방제 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260811144800055",
+      "pubDate": "Tue, 11 Aug 2026 17:14:57 +0900"
+    },
+    {
+      "title": "엔화 환율 다시 160엔 육박…미일 동시개입 효과 끝났나",
+      "link": "https://www.yna.co.kr/view/AKR20260811140000073",
+      "pubDate": "Tue, 11 Aug 2026 17:11:17 +0900"
+    },
+    {
+      "title": "신세계푸드, 이마트 주식교환 마치고 오늘 상장폐지",
+      "link": "https://www.yna.co.kr/view/AKR20260811142700030",
+      "pubDate": "Tue, 11 Aug 2026 17:03:46 +0900"
+    },
+    {
+      "title": "국고채 금리↑…한은 '추가 인상' 언급·초장기물 입찰 경계감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811140351008",
+      "pubDate": "Tue, 11 Aug 2026 17:03:05 +0900"
+    },
+    {
+      "title": "IBK자산운용, 전북혁신도시에 사무소 열어…\"금융특화도시 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811144500055",
+      "pubDate": "Tue, 11 Aug 2026 17:01:15 +0900"
+    },
     {
       "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811101701054",
@@ -92,66 +152,6 @@
       "title": "외국환시세(8월11일·15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260811123700002",
       "pubDate": "Tue, 11 Aug 2026 15:36:07 +0900"
-    },
-    {
-      "title": "KB국민은행, 비수도권 응급의료기관에 1천억원 정책금융",
-      "link": "https://www.yna.co.kr/view/AKR20260811122100002",
-      "pubDate": "Tue, 11 Aug 2026 15:35:47 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 2.4원 내린 1,416.0원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260811121700002",
-      "pubDate": "Tue, 11 Aug 2026 15:32:49 +0900"
-    },
-    {
-      "title": "경남도, 영남권 107조원 투자 프로젝트 밀착 지원한다",
-      "link": "https://www.yna.co.kr/view/AKR20260811120800052",
-      "pubDate": "Tue, 11 Aug 2026 15:30:46 +0900"
-    },
-    {
-      "title": "에코프로 \"인니 BNSI 대주주 지위 확보해 핵심자원 공급망 구축\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811121300003",
-      "pubDate": "Tue, 11 Aug 2026 15:29:42 +0900"
-    },
-    {
-      "title": "울주군, 주민세 개인분 9억2천여만원 부과…작년보다 0.46%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260811110100057",
-      "pubDate": "Tue, 11 Aug 2026 15:25:32 +0900"
-    },
-    {
-      "title": "90억원 부실 대출 새마을금고 임원들, 재판서 혐의 전면 부인",
-      "link": "https://www.yna.co.kr/view/AKR20260811115600051",
-      "pubDate": "Tue, 11 Aug 2026 15:22:52 +0900"
-    },
-    {
-      "title": "NH증권, NYSE 회장 초청 간담회…\"글로벌 자본시장 협력 공감대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811118300008",
-      "pubDate": "Tue, 11 Aug 2026 15:21:39 +0900"
-    },
-    {
-      "title": "산은, 거래처 사기혐의로 583억 금융사고 위험…\"상당부분 담보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811105700002",
-      "pubDate": "Tue, 11 Aug 2026 15:17:47 +0900"
-    },
-    {
-      "title": "가상자산 트래블룰 모든 거래로 확대…가상자산사업자 심사 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260811115100002",
-      "pubDate": "Tue, 11 Aug 2026 15:15:08 +0900"
-    },
-    {
-      "title": "김재철 동원 명예회장 \"청년 때 젊음 아끼지 말고 도전하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811106600030",
-      "pubDate": "Tue, 11 Aug 2026 15:14:36 +0900"
-    },
-    {
-      "title": "'평소 큰돈 찾던 분이 아닌데'…보이스피싱 피해 막은 농협 직원",
-      "link": "https://www.yna.co.kr/view/AKR20260811111200062",
-      "pubDate": "Tue, 11 Aug 2026 15:13:01 +0900"
-    },
-    {
-      "title": "정부, 주택특별공급 악용 차단…신축빌라 다운계약 점검 강화",
-      "link": "https://www.yna.co.kr/view/AKR20260811063400001",
-      "pubDate": "Tue, 11 Aug 2026 15:00:04 +0900"
     }
   ]
 }
