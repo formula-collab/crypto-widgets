@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786418002,
+  "updated_at_unix": 1786423519,
   "items": [
+    {
+      "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811085200002",
+      "pubDate": "Tue, 11 Aug 2026 13:01:38 +0900"
+    },
+    {
+      "title": "코트라, 수출 다변화 전략 회의…\"수출 1조달러 앞장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811051900003",
+      "pubDate": "Tue, 11 Aug 2026 13:00:01 +0900"
+    },
+    {
+      "title": "오세훈 \"용산 1천695세대 순증…정비사업, 적대시할 대상 아냐\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811045251004",
+      "pubDate": "Tue, 11 Aug 2026 12:41:39 +0900"
+    },
+    {
+      "title": "시민단체, 메가특구법 철회 촉구…\"노동권 파괴·재벌 특혜\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811085900004",
+      "pubDate": "Tue, 11 Aug 2026 12:15:23 +0900"
+    },
+    {
+      "title": "예보 노조 \"예금자보호·금융안정 핵심…지방이전 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811085700002",
+      "pubDate": "Tue, 11 Aug 2026 12:07:10 +0900"
+    },
     {
       "title": "순풍에 돛 단 반도체 덕…2분기 수출 2천755억달러로 역대 최대",
       "link": "https://www.yna.co.kr/view/AKR20260811058200002",
@@ -54,7 +79,7 @@
       "pubDate": "Tue, 11 Aug 2026 11:32:23 +0900"
     },
     {
-      "title": "삼전닉스 탄력 둔화…코스피·코스닥, 보합권서 등락",
+      "title": "증시 숨고르기…코스피·코스닥, 보합권서 등락",
       "link": "https://www.yna.co.kr/view/AKR20260811075200008",
       "pubDate": "Tue, 11 Aug 2026 11:26:25 +0900"
     },
@@ -127,31 +152,6 @@
       "title": "국내 커피 시장 3조7천억원…볶은커피 늘고 커피믹스 줄었다",
       "link": "https://www.yna.co.kr/view/AKR20260811060600030",
       "pubDate": "Tue, 11 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "'외벽 테라스 붕괴' 송도 신축아파트, 하자 접수건수만 5만7천건",
-      "link": "https://www.yna.co.kr/view/AKR20260811070900065",
-      "pubDate": "Tue, 11 Aug 2026 10:59:50 +0900"
-    },
-    {
-      "title": "신한은행, 용산역에 나라사랑카드 팝업스토어",
-      "link": "https://www.yna.co.kr/view/AKR20260811071400002",
-      "pubDate": "Tue, 11 Aug 2026 10:52:38 +0900"
-    },
-    {
-      "title": "[이천소식] '사회연대경제 청년 일경험 시범 사업' 참여자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260811071000061",
-      "pubDate": "Tue, 11 Aug 2026 10:52:09 +0900"
-    },
-    {
-      "title": "은평 '대조1구역' 2천451세대 입주 앞서 외관·이동편의 개선",
-      "link": "https://www.yna.co.kr/view/AKR20260811067600004",
-      "pubDate": "Tue, 11 Aug 2026 10:41:14 +0900"
-    },
-    {
-      "title": "카카오뱅크, 소상공인 이자지원 전국 확대…최대 4%p 금리 혜택",
-      "link": "https://www.yna.co.kr/view/AKR20260811058500002",
-      "pubDate": "Tue, 11 Aug 2026 10:37:58 +0900"
     }
   ]
 }
