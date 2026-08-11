@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786440392,
+  "updated_at_unix": 1786443743,
   "items": [
+    {
+      "title": "정부, 비축유 스와프 곧 재가동·나프타 수급안정화 조치 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260811157100002",
+      "pubDate": "Tue, 11 Aug 2026 18:38:35 +0900"
+    },
+    {
+      "title": "JW중외제약 \"통풍 신약 3상 성공…내년 국내 허가 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811156400017",
+      "pubDate": "Tue, 11 Aug 2026 18:34:09 +0900"
+    },
+    {
+      "title": "국토장관 \"오세훈 시장 요구사항 적극 검토중…협의도 원활\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811142251003",
+      "pubDate": "Tue, 11 Aug 2026 18:33:47 +0900"
+    },
+    {
+      "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811148251003",
+      "pubDate": "Tue, 11 Aug 2026 18:27:42 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260811147800011",
@@ -132,26 +152,6 @@
       "title": "대신자산신탁, 분당 풍림·선경·효성 통합재건축 MOU 체결",
       "link": "https://www.yna.co.kr/view/AKR20260811123200008",
       "pubDate": "Tue, 11 Aug 2026 15:41:09 +0900"
-    },
-    {
-      "title": "신한은행, 녹색기후기금과 첫 외환거래…2억달러 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260811124900002",
-      "pubDate": "Tue, 11 Aug 2026 15:39:45 +0900"
-    },
-    {
-      "title": "비나텍 \"베트남 종속회사에 198억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811123900008",
-      "pubDate": "Tue, 11 Aug 2026 15:39:20 +0900"
-    },
-    {
-      "title": "코스피 0.7%·코스닥 0.3% 상승 마감…2거래일 연속 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260811122900008",
-      "pubDate": "Tue, 11 Aug 2026 15:37:51 +0900"
-    },
-    {
-      "title": "외국환시세(8월11일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260811123700002",
-      "pubDate": "Tue, 11 Aug 2026 15:36:07 +0900"
     }
   ]
 }
