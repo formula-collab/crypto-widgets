@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786487377,
+  "updated_at_unix": 1786489908,
   "items": [
+    {
+      "title": "[2보] 7월 취업자 10만8천명 증가…청년실업률 5년반만에 최대폭↑",
+      "link": "https://www.yna.co.kr/view/AKR20260812019400002",
+      "pubDate": "Wed, 12 Aug 2026 08:04:36 +0900"
+    },
+    {
+      "title": "부산시, 디지털 인재 양성 'AI·SW 마에스트로 부산센터' 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260812019100051",
+      "pubDate": "Wed, 12 Aug 2026 08:02:17 +0900"
+    },
+    {
+      "title": "연내 만기 비우량 회사채 5.1조…\"수요·이자 등 차환 난이도 높아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811134500008",
+      "pubDate": "Wed, 12 Aug 2026 08:00:05 +0900"
+    },
+    {
+      "title": "셀트리온, 스페인·포르투갈서 잇단 수주…\"시장 영향력 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812018900017",
+      "pubDate": "Wed, 12 Aug 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[1보] 7월 취업자 10만8천명↑…고용률은 넉 달째 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260812016700002",
+      "pubDate": "Wed, 12 Aug 2026 08:00:03 +0900"
+    },
+    {
+      "title": "BNK부산은행, 빈 점포 임대료 지원사업 5억원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260812019000051",
+      "pubDate": "Wed, 12 Aug 2026 07:56:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 탄력 둔화한 코스피, 눈치장세 이어지나",
+      "link": "https://www.yna.co.kr/view/AKR20260812017600008",
+      "pubDate": "Wed, 12 Aug 2026 07:51:55 +0900"
+    },
+    {
+      "title": "강남구, 재건축상가 용도변경절차 개선…\"병원 입점 지연 해결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812017300004",
+      "pubDate": "Wed, 12 Aug 2026 07:36:54 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260812013400011",
+      "pubDate": "Wed, 12 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "\"대학생엔 실무경험, 기업엔 지원금\"…강남구 '중소기업 인턴십'",
       "link": "https://www.yna.co.kr/view/AKR20260812012000004",
@@ -107,51 +152,6 @@
       "title": "\"점심부터 저녁까지\"…bhc, 강남역에 '올데이 치킨' 매장",
       "link": "https://www.yna.co.kr/view/AKR20260811152300030",
       "pubDate": "Tue, 11 Aug 2026 17:58:08 +0900"
-    },
-    {
-      "title": "루닛, 상반기 매출 458억원…23% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260811151600017",
-      "pubDate": "Tue, 11 Aug 2026 17:43:23 +0900"
-    },
-    {
-      "title": "국토장관 \"오세훈 시장 요구사항 적극 검토중…협의도 원활\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811142200003",
-      "pubDate": "Tue, 11 Aug 2026 17:33:42 +0900"
-    },
-    {
-      "title": "JW중외제약, 2분기 영업이익 337억원…33% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260811149000017",
-      "pubDate": "Tue, 11 Aug 2026 17:31:29 +0900"
-    },
-    {
-      "title": "국토장관, 1주택 실거주 관련 \"단계적 시행하며 공급 늘릴 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811148200003",
-      "pubDate": "Tue, 11 Aug 2026 17:23:34 +0900"
-    },
-    {
-      "title": "지방 이전설 금융권 '술렁'…국책은행·예보 노조 반대행동 개시",
-      "link": "https://www.yna.co.kr/view/AKR20260811140800002",
-      "pubDate": "Tue, 11 Aug 2026 17:16:04 +0900"
-    },
-    {
-      "title": "농진청, 강원 고랭지서 여름배추 병해충 방제 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260811144800055",
-      "pubDate": "Tue, 11 Aug 2026 17:14:57 +0900"
-    },
-    {
-      "title": "엔화 환율 다시 160엔 육박…미일 동시개입 효과 끝났나",
-      "link": "https://www.yna.co.kr/view/AKR20260811140000073",
-      "pubDate": "Tue, 11 Aug 2026 17:11:17 +0900"
-    },
-    {
-      "title": "신세계푸드, 이마트 주식교환 마치고 오늘 상장폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260811142700030",
-      "pubDate": "Tue, 11 Aug 2026 17:03:46 +0900"
-    },
-    {
-      "title": "국고채 금리↑…한은 '추가 인상' 언급·초장기물 입찰 경계감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811140351008",
-      "pubDate": "Tue, 11 Aug 2026 17:03:05 +0900"
     }
   ]
 }
