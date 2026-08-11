@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786463263,
+  "updated_at_unix": 1786466625,
   "items": [
+    {
+      "title": "미 7월 주택거래 감소…대출금리 상승 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260812000300072",
+      "pubDate": "Wed, 12 Aug 2026 00:46:00 +0900"
+    },
     {
       "title": "케이앤에스아이앤씨, 코스닥 신규 상장…13일 거래 개시",
       "link": "https://www.yna.co.kr/view/AKR20260811158300008",
@@ -147,11 +152,6 @@
       "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811087151008",
       "pubDate": "Tue, 11 Aug 2026 16:32:53 +0900"
-    },
-    {
-      "title": "휴온스, 2분기 영업이익 29억원…77.6%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260811136800017",
-      "pubDate": "Tue, 11 Aug 2026 16:30:41 +0900"
     }
   ]
 }
