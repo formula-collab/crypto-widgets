@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786483994,
+  "updated_at_unix": 1786487377,
   "items": [
+    {
+      "title": "\"대학생엔 실무경험, 기업엔 지원금\"…강남구 '중소기업 인턴십'",
+      "link": "https://www.yna.co.kr/view/AKR20260812012000004",
+      "pubDate": "Wed, 12 Aug 2026 07:01:49 +0900"
+    },
     {
       "title": "반도체 특별연장근로 6개월 신청 4건뿐…규제완화 요구와 온도차",
       "link": "https://www.yna.co.kr/view/AKR20260811154200530",
@@ -147,11 +152,6 @@
       "title": "국고채 금리↑…한은 '추가 인상' 언급·초장기물 입찰 경계감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260811140351008",
       "pubDate": "Tue, 11 Aug 2026 17:03:05 +0900"
-    },
-    {
-      "title": "IBK자산운용, 전북혁신도시에 사무소 열어…\"금융특화도시 도약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811144500055",
-      "pubDate": "Tue, 11 Aug 2026 17:01:15 +0900"
     }
   ]
 }
