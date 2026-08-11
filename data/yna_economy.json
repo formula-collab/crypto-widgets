@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786423519,
+  "updated_at_unix": 1786427092,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260811102000011",
+      "pubDate": "Tue, 11 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "임광현 \"국세청 체납관리단, 투입 예산 190억원…630억원 추징\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811105300002",
+      "pubDate": "Tue, 11 Aug 2026 14:24:52 +0900"
+    },
+    {
+      "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260811087100008",
+      "pubDate": "Tue, 11 Aug 2026 14:16:03 +0900"
+    },
+    {
+      "title": "전남광주 경제단체장들 \"반도체 역사적 결단, 李대통령에 감사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811101700054",
+      "pubDate": "Tue, 11 Aug 2026 14:11:14 +0900"
+    },
+    {
+      "title": "농식품부 \"배추·무 등 채소가격 평년보다 낮아…공급안정 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811099900030",
+      "pubDate": "Tue, 11 Aug 2026 14:03:00 +0900"
+    },
+    {
+      "title": "메인비즈협회 \"고용 지킨 중소기업에 세제 혜택 더 줘야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260811066500030",
+      "pubDate": "Tue, 11 Aug 2026 14:00:05 +0900"
+    },
+    {
+      "title": "대구·경북 사업장 96%는 소규모…노동부, 산재 감축 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260811085100530",
+      "pubDate": "Tue, 11 Aug 2026 14:00:03 +0900"
+    },
+    {
+      "title": "부산 시민단체, 북항 환승센터 정상화 민관 TF 구성 제안(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260811063151051",
+      "pubDate": "Tue, 11 Aug 2026 13:56:06 +0900"
+    },
+    {
+      "title": "포천시, 지방세입 체납관리단 출범",
+      "link": "https://www.yna.co.kr/view/AKR20260811099200060",
+      "pubDate": "Tue, 11 Aug 2026 13:55:05 +0900"
+    },
+    {
+      "title": "530억 드는 '인당 30만원 지원' 당진시장 공약, 시의회서 제동",
+      "link": "https://www.yna.co.kr/view/AKR20260811085400063",
+      "pubDate": "Tue, 11 Aug 2026 13:44:01 +0900"
+    },
     {
       "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260811085200002",
@@ -102,56 +152,6 @@
       "title": "퇴근후 AI·필라테스 무료로…서울 노동자복지관 22개 강좌",
       "link": "https://www.yna.co.kr/view/AKR20260811074200004",
       "pubDate": "Tue, 11 Aug 2026 11:15:00 +0900"
-    },
-    {
-      "title": "부산 시민단체 \"민관 TF 구성해 북항 환승센터 정상화해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811063100051",
-      "pubDate": "Tue, 11 Aug 2026 11:10:00 +0900"
-    },
-    {
-      "title": "전북금융센터 우선협상대상자에 '오라이언자산운용 컨소시엄'",
-      "link": "https://www.yna.co.kr/view/AKR20260811072000055",
-      "pubDate": "Tue, 11 Aug 2026 11:08:10 +0900"
-    },
-    {
-      "title": "빙그레, 보훈부·외교부와 독립유공자 '명예여권' 특별전",
-      "link": "https://www.yna.co.kr/view/AKR20260811069000030",
-      "pubDate": "Tue, 11 Aug 2026 11:05:07 +0900"
-    },
-    {
-      "title": "국힘 \"세제개편안, 징벌적 세금폭력…사과하고 원점 재검토하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260811066100001",
-      "pubDate": "Tue, 11 Aug 2026 11:03:08 +0900"
-    },
-    {
-      "title": "외국인노동자 인천공항 입국 지원 업무협약…마약류 범죄 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260810121000530",
-      "pubDate": "Tue, 11 Aug 2026 11:00:07 +0900"
-    },
-    {
-      "title": "증시 변동성·세제개편안에 8월 아파트 입주 전망 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260811020200003",
-      "pubDate": "Tue, 11 Aug 2026 11:00:06 +0900"
-    },
-    {
-      "title": "산업부, 타지키스탄과 핵심광물 협력 확대방안 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260811030100003",
-      "pubDate": "Tue, 11 Aug 2026 11:00:05 +0900"
-    },
-    {
-      "title": "[르포] 냉난방·온수 한방에…에너지 효율 높인 삼성전자 히트펌프",
-      "link": "https://www.yna.co.kr/view/AKR20260811029700003",
-      "pubDate": "Tue, 11 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "페이코앱에 로또 등록하면 자동수령…기업 경품용 연금복권 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260811050300002",
-      "pubDate": "Tue, 11 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "국내 커피 시장 3조7천억원…볶은커피 늘고 커피믹스 줄었다",
-      "link": "https://www.yna.co.kr/view/AKR20260811060600030",
-      "pubDate": "Tue, 11 Aug 2026 11:00:00 +0900"
     }
   ]
 }
