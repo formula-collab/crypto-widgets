@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786473806,
+  "updated_at_unix": 1786477941,
   "items": [
+    {
+      "title": "브렌트 1.4% 상승…중재국發 '미·이란 합의근접' 소식에도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260812004000072",
+      "pubDate": "Wed, 12 Aug 2026 04:31:04 +0900"
+    },
     {
       "title": "미 7월 주택거래 감소…대출금리 상승 영향",
       "link": "https://www.yna.co.kr/view/AKR20260812000300072",
@@ -147,11 +152,6 @@
       "title": "대신증권 2분기 영업익 3천599억원…전년보다 165%↑",
       "link": "https://www.yna.co.kr/view/AKR20260811136500008",
       "pubDate": "Tue, 11 Aug 2026 16:35:01 +0900"
-    },
-    {
-      "title": "'삼전·닉스' 쏠림 완화에 중소형주 온기 확산…순환매 본격화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260811087151008",
-      "pubDate": "Tue, 11 Aug 2026 16:32:53 +0900"
     }
   ]
 }
