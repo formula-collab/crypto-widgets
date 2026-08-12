@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786517349,
+  "updated_at_unix": 1786522038,
   "items": [
+    {
+      "title": "외인·기관 모두 담았다…삼전닉스, 5~6% 급등 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812038751008",
+      "pubDate": "Wed, 12 Aug 2026 16:57:05 +0900"
+    },
+    {
+      "title": "\"올해 디스플레이 설비투자 57% 증가…OLED가 성장 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812137400003",
+      "pubDate": "Wed, 12 Aug 2026 16:55:04 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 3.791%",
+      "link": "https://www.yna.co.kr/view/AKR20260812136800008",
+      "pubDate": "Wed, 12 Aug 2026 16:42:20 +0900"
+    },
+    {
+      "title": "오세훈 \"버스하우스, 청년들에 주거의 의미 뭔지 이해 못 해\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812076351004",
+      "pubDate": "Wed, 12 Aug 2026 16:29:39 +0900"
+    },
+    {
+      "title": "다시 힘받은 반도체…코스피 3.68%↑, 사흘연속 상승(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812128600008",
+      "pubDate": "Wed, 12 Aug 2026 16:23:05 +0900"
+    },
+    {
+      "title": "농협銀, 한국장학재단과 지역 아동 지원 '초록사다리 여름캠프'",
+      "link": "https://www.yna.co.kr/view/AKR20260812129100002",
+      "pubDate": "Wed, 12 Aug 2026 16:22:33 +0900"
+    },
+    {
+      "title": "한화, 동남권 국립대와 'AI·우주항공 생태계' 인재 양성 맞손(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812117551003",
+      "pubDate": "Wed, 12 Aug 2026 16:09:02 +0900"
+    },
+    {
+      "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812124200008",
+      "pubDate": "Wed, 12 Aug 2026 16:05:28 +0900"
+    },
+    {
+      "title": "새만금에 헴프클러스터 조성…전북도·새만금청·기업들 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260812127400055",
+      "pubDate": "Wed, 12 Aug 2026 16:05:21 +0900"
+    },
+    {
+      "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
+      "link": "https://www.yna.co.kr/view/AKR20260812126000002",
+      "pubDate": "Wed, 12 Aug 2026 16:01:44 +0900"
+    },
+    {
+      "title": "구윤철, 우즈베크 부총리와 면담…공급망·인프라 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260812115500002",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0900"
+    },
+    {
+      "title": "울주복지재단·주택관리공단, 사회공헌·주거환경 개선 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260812118600057",
+      "pubDate": "Wed, 12 Aug 2026 15:55:35 +0900"
+    },
+    {
+      "title": "법원, 가족관계증명서 스크래핑 차단 한시 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260812123900530",
+      "pubDate": "Wed, 12 Aug 2026 15:54:54 +0900"
+    },
+    {
+      "title": "여야, 호남 메가특구 '주52시간 예외 추진' 놓고 공방",
+      "link": "https://www.yna.co.kr/view/AKR20260812110300001",
+      "pubDate": "Wed, 12 Aug 2026 15:45:33 +0900"
+    },
+    {
+      "title": "'버스하우스' 논란에 밈 코인도 등장…시가총액 300만원",
+      "link": "https://www.yna.co.kr/view/AKR20260812115400002",
+      "pubDate": "Wed, 12 Aug 2026 15:43:22 +0900"
+    },
     {
       "title": "[특징주] 일진전기, 역대최대 2분기 실적에 17% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812034451008",
@@ -77,81 +152,6 @@
       "title": "농식품부, 농업 분야 폭염 안전수칙 준수 캠페인 추진",
       "link": "https://www.yna.co.kr/view/AKR20260812107000030",
       "pubDate": "Wed, 12 Aug 2026 15:00:00 +0900"
-    },
-    {
-      "title": "1인당 30만원 지원금 제동 당진시, '민생 살리기 50일' 비상조치",
-      "link": "https://www.yna.co.kr/view/AKR20260812106300063",
-      "pubDate": "Wed, 12 Aug 2026 14:52:46 +0900"
-    },
-    {
-      "title": "롯데건설 2분기 영업익 1천224억원…작년 대비 230%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260812106600003",
-      "pubDate": "Wed, 12 Aug 2026 14:50:13 +0900"
-    },
-    {
-      "title": "[게시판] 정진완 우리은행장, 포용금융 릴레이 캠페인 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260812104800002",
-      "pubDate": "Wed, 12 Aug 2026 14:44:35 +0900"
-    },
-    {
-      "title": "오세훈, 청년들 만나 \"집 때문에 서울 떠나지 않게 하겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812076300004",
-      "pubDate": "Wed, 12 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260812095900011",
-      "pubDate": "Wed, 12 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 무협, 9월 8일 한-우간다 무역 투자 포럼",
-      "link": "https://www.yna.co.kr/view/AKR20260812101600003",
-      "pubDate": "Wed, 12 Aug 2026 14:27:43 +0900"
-    },
-    {
-      "title": "온코닉테라퓨틱스 상반기 영업이익 74억원…174%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260812099100017",
-      "pubDate": "Wed, 12 Aug 2026 14:21:56 +0900"
-    },
-    {
-      "title": "[게시판] 서금원·서울복지재단, 청년 자산형성 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260812094400002",
-      "pubDate": "Wed, 12 Aug 2026 14:16:27 +0900"
-    },
-    {
-      "title": "[게시판] 해진공, 해양금융 심화 과정 교육생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260812094000051",
-      "pubDate": "Wed, 12 Aug 2026 14:05:30 +0900"
-    },
-    {
-      "title": "주4.5일제로 신규채용 성공한 화장품社…노동시간 단축 우수사례",
-      "link": "https://www.yna.co.kr/view/AKR20260812067700530",
-      "pubDate": "Wed, 12 Aug 2026 14:00:03 +0900"
-    },
-    {
-      "title": "中企업계 \"코스닥 상폐 시총 기준 유예…LH 자재 분리발주 해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812074900030",
-      "pubDate": "Wed, 12 Aug 2026 14:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 수출플러스지원단, 경북 구미 방산수출기업 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260812078500002",
-      "pubDate": "Wed, 12 Aug 2026 14:00:02 +0900"
-    },
-    {
-      "title": "토스뱅크 '키워봐요 31일 적금' 출시 나흘 만에 10만좌",
-      "link": "https://www.yna.co.kr/view/AKR20260812087600002",
-      "pubDate": "Wed, 12 Aug 2026 13:59:37 +0900"
-    },
-    {
-      "title": "\"스크래핑 차단에 비대면 업무 차질\"…금융위, 대응방안 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260812081600002",
-      "pubDate": "Wed, 12 Aug 2026 13:57:16 +0900"
-    },
-    {
-      "title": "중랑구 사가정역 공공주택 복합사업계획 승인…1천300세대 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260812092200004",
-      "pubDate": "Wed, 12 Aug 2026 13:52:13 +0900"
     }
   ]
 }
