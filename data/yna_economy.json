@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786573667,
+  "updated_at_unix": 1786576091,
   "items": [
+    {
+      "title": "강남구, 재건축 설계자 선정 절차 보완…\"사업 지연 최소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260813020000004",
+      "pubDate": "Thu, 13 Aug 2026 08:02:19 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美 CPI 둔화 '훈풍'…코스피, 상승세 이어갈까",
+      "link": "https://www.yna.co.kr/view/AKR20260813018700008",
+      "pubDate": "Thu, 13 Aug 2026 08:01:36 +0900"
+    },
+    {
+      "title": "부산 수영만 경기장 재개발, 미반출 요트에 착공 지연 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260812116000051",
+      "pubDate": "Thu, 13 Aug 2026 07:30:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260813013600011",
+      "pubDate": "Thu, 13 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "인천항 소액 특송화물 수출 급증세…신발·의류가 70% 차지",
       "link": "https://www.yna.co.kr/view/AKR20260812107700065",
@@ -132,26 +152,6 @@
       "title": "노동장관 \"노란봉투법 쟁의기준 시행령·시행규칙 다각도 검토\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812081551530",
       "pubDate": "Wed, 12 Aug 2026 17:03:59 +0900"
-    },
-    {
-      "title": "CMG제약 \"내달 10대 1 주식병합…10월 변경상장 예정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812140900017",
-      "pubDate": "Wed, 12 Aug 2026 17:03:54 +0900"
-    },
-    {
-      "title": "KB국민은행 36억 금융사고 발생…\"대출 사기로 수사 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812140600002",
-      "pubDate": "Wed, 12 Aug 2026 17:03:29 +0900"
-    },
-    {
-      "title": "외인·기관 모두 담았다…삼전닉스, 5~6% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812038751008",
-      "pubDate": "Wed, 12 Aug 2026 16:57:05 +0900"
-    },
-    {
-      "title": "\"올해 디스플레이 설비투자 57% 증가…OLED가 성장 주도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812137400003",
-      "pubDate": "Wed, 12 Aug 2026 16:55:04 +0900"
     }
   ]
 }
