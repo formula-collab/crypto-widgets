@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786570363,
+  "updated_at_unix": 1786573667,
   "items": [
+    {
+      "title": "인천항 소액 특송화물 수출 급증세…신발·의류가 70% 차지",
+      "link": "https://www.yna.co.kr/view/AKR20260812107700065",
+      "pubDate": "Thu, 13 Aug 2026 07:17:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 한-아프리카 협력 2.0…구체적 '실행 플랫폼' 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260806093300898",
+      "pubDate": "Thu, 13 Aug 2026 07:00:04 +0900"
+    },
     {
       "title": "LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져",
       "link": "https://www.yna.co.kr/view/AKR20260813008700008",
@@ -142,16 +152,6 @@
       "title": "\"올해 디스플레이 설비투자 57% 증가…OLED가 성장 주도\"",
       "link": "https://www.yna.co.kr/view/AKR20260812137400003",
       "pubDate": "Wed, 12 Aug 2026 16:55:04 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.791%",
-      "link": "https://www.yna.co.kr/view/AKR20260812136800008",
-      "pubDate": "Wed, 12 Aug 2026 16:42:20 +0900"
-    },
-    {
-      "title": "오세훈 \"버스하우스, 청년들에 주거의 의미 뭔지 이해 못 해\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812076351004",
-      "pubDate": "Wed, 12 Aug 2026 16:29:39 +0900"
     }
   ]
 }
