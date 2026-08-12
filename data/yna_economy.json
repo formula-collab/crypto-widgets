@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786566623,
+  "updated_at_unix": 1786570363,
   "items": [
+    {
+      "title": "LG이노텍, MSCI한국지수에 편입…HLB·LG디플 등 4개는 빠져",
+      "link": "https://www.yna.co.kr/view/AKR20260813008700008",
+      "pubDate": "Thu, 13 Aug 2026 06:25:06 +0900"
+    },
+    {
+      "title": "성평등부, '양육비 채무 불이행자 제재' 전문가 간담회 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260812125500530",
+      "pubDate": "Thu, 13 Aug 2026 06:00:13 +0900"
+    },
+    {
+      "title": "산업부, 대구 유턴·외투기업 방문…\"지방 투자 지원 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812148400003",
+      "pubDate": "Thu, 13 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "증시 훈풍에 투자자문·일임업 수익 2.3조…1년 새 84% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260812165500002",
+      "pubDate": "Thu, 13 Aug 2026 06:00:00 +0900"
+    },
     {
       "title": "장동혁, 오늘 '뉴홈 대출조건 변경 논란' 신도시 현장 방문",
       "link": "https://www.yna.co.kr/view/AKR20260812157800001",
@@ -132,26 +152,6 @@
       "title": "오세훈 \"버스하우스, 청년들에 주거의 의미 뭔지 이해 못 해\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812076351004",
       "pubDate": "Wed, 12 Aug 2026 16:29:39 +0900"
-    },
-    {
-      "title": "다시 힘받은 반도체…코스피 3.68%↑, 사흘연속 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812128600008",
-      "pubDate": "Wed, 12 Aug 2026 16:23:05 +0900"
-    },
-    {
-      "title": "농협銀, 한국장학재단과 지역 아동 지원 '초록사다리 여름캠프'",
-      "link": "https://www.yna.co.kr/view/AKR20260812129100002",
-      "pubDate": "Wed, 12 Aug 2026 16:22:33 +0900"
-    },
-    {
-      "title": "한화, 동남권 국립대와 'AI·우주항공 생태계' 인재 양성 맞손(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812117551003",
-      "pubDate": "Wed, 12 Aug 2026 16:09:02 +0900"
-    },
-    {
-      "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812124200008",
-      "pubDate": "Wed, 12 Aug 2026 16:05:28 +0900"
     }
   ]
 }
