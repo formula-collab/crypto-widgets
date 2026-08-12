@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786534618,
+  "updated_at_unix": 1786538415,
   "items": [
+    {
+      "title": "'4명 사망' 광주대표도서관 붕괴, 관리부실 공무원 2명 송치(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812081851054",
+      "pubDate": "Wed, 12 Aug 2026 21:09:39 +0900"
+    },
     {
       "title": "'20.79% 내국세 연동 폐지' 교육교부금 개편안 이르면 내주 발표",
       "link": "https://www.yna.co.kr/view/AKR20260812163800002",
@@ -147,11 +152,6 @@
       "title": "울주복지재단·주택관리공단, 사회공헌·주거환경 개선 협약",
       "link": "https://www.yna.co.kr/view/AKR20260812118600057",
       "pubDate": "Wed, 12 Aug 2026 15:55:35 +0900"
-    },
-    {
-      "title": "법원, 가족관계증명서 스크래핑 차단 한시 유예",
-      "link": "https://www.yna.co.kr/view/AKR20260812123900530",
-      "pubDate": "Wed, 12 Aug 2026 15:54:54 +0900"
     }
   ]
 }
