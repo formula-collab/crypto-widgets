@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786531760,
+  "updated_at_unix": 1786534618,
   "items": [
+    {
+      "title": "'20.79% 내국세 연동 폐지' 교육교부금 개편안 이르면 내주 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260812163800002",
+      "pubDate": "Wed, 12 Aug 2026 19:57:59 +0900"
+    },
     {
       "title": "은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812140651002",
@@ -147,11 +152,6 @@
       "title": "법원, 가족관계증명서 스크래핑 차단 한시 유예",
       "link": "https://www.yna.co.kr/view/AKR20260812123900530",
       "pubDate": "Wed, 12 Aug 2026 15:54:54 +0900"
-    },
-    {
-      "title": "여야, 호남 메가특구 '주52시간 예외 추진' 놓고 공방",
-      "link": "https://www.yna.co.kr/view/AKR20260812110300001",
-      "pubDate": "Wed, 12 Aug 2026 15:45:33 +0900"
     }
   ]
 }
