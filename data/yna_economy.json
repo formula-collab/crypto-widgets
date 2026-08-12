@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786538415,
+  "updated_at_unix": 1786543857,
   "items": [
+    {
+      "title": "노동·산업장관, 메가특구 '주52시간제 예외' 놓고 온도차(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812110351001",
+      "pubDate": "Wed, 12 Aug 2026 22:14:10 +0900"
+    },
     {
       "title": "'4명 사망' 광주대표도서관 붕괴, 관리부실 공무원 2명 송치(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812081851054",
@@ -147,11 +152,6 @@
       "title": "구윤철, 우즈베크 부총리와 면담…공급망·인프라 협력 논의",
       "link": "https://www.yna.co.kr/view/AKR20260812115500002",
       "pubDate": "Wed, 12 Aug 2026 16:00:00 +0900"
-    },
-    {
-      "title": "울주복지재단·주택관리공단, 사회공헌·주거환경 개선 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260812118600057",
-      "pubDate": "Wed, 12 Aug 2026 15:55:35 +0900"
     }
   ]
 }
