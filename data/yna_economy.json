@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786563142,
+  "updated_at_unix": 1786566623,
   "items": [
+    {
+      "title": "장동혁, 오늘 '뉴홈 대출조건 변경 논란' 신도시 현장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260812157800001",
+      "pubDate": "Thu, 13 Aug 2026 05:00:02 +0900"
+    },
+    {
+      "title": "與, 오늘 의총서 부동산 세제 개편안·공급 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260812154500001",
+      "pubDate": "Thu, 13 Aug 2026 05:00:01 +0900"
+    },
+    {
+      "title": "국제유가, 호르무즈 협상 교착속 보합권 마감…브렌트 89달러",
+      "link": "https://www.yna.co.kr/view/AKR20260813004600072",
+      "pubDate": "Thu, 13 Aug 2026 04:48:56 +0900"
+    },
     {
       "title": "노동·산업장관, 메가특구 '주52시간제 예외' 놓고 온도차(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812110351001",
@@ -137,21 +152,6 @@
       "title": "TPG 품에 안긴 롯데렌탈…\"매각대금에도 롯데그룹 신용도 영향 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260812124200008",
       "pubDate": "Wed, 12 Aug 2026 16:05:28 +0900"
-    },
-    {
-      "title": "새만금에 헴프클러스터 조성…전북도·새만금청·기업들 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260812127400055",
-      "pubDate": "Wed, 12 Aug 2026 16:05:21 +0900"
-    },
-    {
-      "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
-      "link": "https://www.yna.co.kr/view/AKR20260812126000002",
-      "pubDate": "Wed, 12 Aug 2026 16:01:44 +0900"
-    },
-    {
-      "title": "구윤철, 우즈베크 부총리와 면담…공급망·인프라 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260812115500002",
-      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0900"
     }
   ]
 }
