@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786522038,
+  "updated_at_unix": 1786527335,
   "items": [
+    {
+      "title": "은행권 덮친 대출사기…추가 피해 드러나며 사고액 '눈덩이'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812140651002",
+      "pubDate": "Wed, 12 Aug 2026 18:23:40 +0900"
+    },
+    {
+      "title": "과학기술 창업경진대회 대상에 나노아쿠아쉴드·플로트바이오",
+      "link": "https://www.yna.co.kr/view/AKR20260812152400017",
+      "pubDate": "Wed, 12 Aug 2026 18:11:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260812145800011",
+      "pubDate": "Wed, 12 Aug 2026 18:00:01 +0900"
+    },
+    {
+      "title": "콜마비앤에이치 \"계열사 콜마오랄스 주식 200억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812152100008",
+      "pubDate": "Wed, 12 Aug 2026 17:53:54 +0900"
+    },
+    {
+      "title": "동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812141652008",
+      "pubDate": "Wed, 12 Aug 2026 17:53:21 +0900"
+    },
+    {
+      "title": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260812145300008",
+      "pubDate": "Wed, 12 Aug 2026 17:40:06 +0900"
+    },
+    {
+      "title": "동전주·시총미달 상폐수순에 기대·반발…\"밸류업 기대 vs 새싹뽑아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812138200008",
+      "pubDate": "Wed, 12 Aug 2026 17:36:06 +0900"
+    },
+    {
+      "title": "문종금 한러친선협회 이사장, 포항시 명예자문대사 위촉",
+      "link": "https://www.yna.co.kr/view/AKR20260812148700053",
+      "pubDate": "Wed, 12 Aug 2026 17:35:13 +0900"
+    },
+    {
+      "title": "'계열사 우회지원 의혹' 다올금융그룹 이병철 회장 피의자 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260812147400004",
+      "pubDate": "Wed, 12 Aug 2026 17:25:47 +0900"
+    },
+    {
+      "title": "美물가지표 관망 속 국고채 금리 혼조…3년물 연 3.791%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812136851008",
+      "pubDate": "Wed, 12 Aug 2026 17:17:17 +0900"
+    },
+    {
+      "title": "與 \"주택공급·금융대책 내일 발표…모듈러 도입 과감한 공급\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812107251001",
+      "pubDate": "Wed, 12 Aug 2026 17:16:09 +0900"
+    },
+    {
+      "title": "동전주·시총미달 상장폐지 문 열렸다…36개 종목 첫 관리종목",
+      "link": "https://www.yna.co.kr/view/AKR20260812141651008",
+      "pubDate": "Wed, 12 Aug 2026 17:15:38 +0900"
+    },
+    {
+      "title": "[속보] 거래소, '동전주·시총미달' 36개 무더기 관리종목 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260812141600008",
+      "pubDate": "Wed, 12 Aug 2026 17:04:04 +0900"
+    },
+    {
+      "title": "노동장관 \"노란봉투법 쟁의기준 시행령·시행규칙 다각도 검토\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260812081551530",
+      "pubDate": "Wed, 12 Aug 2026 17:03:59 +0900"
+    },
+    {
+      "title": "CMG제약 \"내달 10대 1 주식병합…10월 변경상장 예정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812140900017",
+      "pubDate": "Wed, 12 Aug 2026 17:03:54 +0900"
+    },
+    {
+      "title": "KB국민은행 36억 금융사고 발생…\"대출 사기로 수사 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812140600002",
+      "pubDate": "Wed, 12 Aug 2026 17:03:29 +0900"
+    },
     {
       "title": "외인·기관 모두 담았다…삼전닉스, 5~6% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260812038751008",
@@ -72,86 +152,6 @@
       "title": "여야, 호남 메가특구 '주52시간 예외 추진' 놓고 공방",
       "link": "https://www.yna.co.kr/view/AKR20260812110300001",
       "pubDate": "Wed, 12 Aug 2026 15:45:33 +0900"
-    },
-    {
-      "title": "'버스하우스' 논란에 밈 코인도 등장…시가총액 300만원",
-      "link": "https://www.yna.co.kr/view/AKR20260812115400002",
-      "pubDate": "Wed, 12 Aug 2026 15:43:22 +0900"
-    },
-    {
-      "title": "[특징주] 일진전기, 역대최대 2분기 실적에 17% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812034451008",
-      "pubDate": "Wed, 12 Aug 2026 15:38:02 +0900"
-    },
-    {
-      "title": "코스피, 3.68% 급등한 6,579…코스닥 0.12%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260812119300008",
-      "pubDate": "Wed, 12 Aug 2026 15:37:24 +0900"
-    },
-    {
-      "title": "외국환시세(8월12일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260812119500002",
-      "pubDate": "Wed, 12 Aug 2026 15:35:18 +0900"
-    },
-    {
-      "title": "한화, 동남권 국립대와 'AI·우주항공 생태계' 인재 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260812117500003",
-      "pubDate": "Wed, 12 Aug 2026 15:34:35 +0900"
-    },
-    {
-      "title": "[속보] 코스피, 3.7% 급등한 6,579…코스닥 0.12%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260812118900008",
-      "pubDate": "Wed, 12 Aug 2026 15:34:03 +0900"
-    },
-    {
-      "title": "엔화 가치 측정 '돈까스 카레 지수' 등장",
-      "link": "https://www.yna.co.kr/view/AKR20260812112900009",
-      "pubDate": "Wed, 12 Aug 2026 15:31:24 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.3원 내린 1,415.7원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260812117700002",
-      "pubDate": "Wed, 12 Aug 2026 15:30:43 +0900"
-    },
-    {
-      "title": "넥스턴앤롤코리아 \"루멘스 주식 280억원어치 취득…지분율 22%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812116200008",
-      "pubDate": "Wed, 12 Aug 2026 15:28:56 +0900"
-    },
-    {
-      "title": "평택현덕지구사업 '18년째 표류'…공영개발 방식도 난항",
-      "link": "https://www.yna.co.kr/view/AKR20260812114500061",
-      "pubDate": "Wed, 12 Aug 2026 15:27:40 +0900"
-    },
-    {
-      "title": "대동금속 \"계열사 하이드로텍 주식 90억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812112100008",
-      "pubDate": "Wed, 12 Aug 2026 15:13:13 +0900"
-    },
-    {
-      "title": "대동금속, 90억원 유상증자…대동에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260812111600008",
-      "pubDate": "Wed, 12 Aug 2026 15:11:31 +0900"
-    },
-    {
-      "title": "NH투자, 임원 콘퍼런스 개최…\"하반기 불확실성 전략 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812110200008",
-      "pubDate": "Wed, 12 Aug 2026 15:10:38 +0900"
-    },
-    {
-      "title": "與 \"비아파트 공급 확대·모듈러 방식 통한 과감한 공급 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812107200001",
-      "pubDate": "Wed, 12 Aug 2026 15:09:55 +0900"
-    },
-    {
-      "title": "경남형 장애인 동행일자리 1호 농업회사법인 '태장' 창원서 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260812048100052",
-      "pubDate": "Wed, 12 Aug 2026 15:05:00 +0900"
-    },
-    {
-      "title": "농식품부, 농업 분야 폭염 안전수칙 준수 캠페인 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260812107000030",
-      "pubDate": "Wed, 12 Aug 2026 15:00:00 +0900"
     }
   ]
 }
