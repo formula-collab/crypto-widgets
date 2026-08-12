@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786503668,
+  "updated_at_unix": 1786511421,
   "items": [
+    {
+      "title": "[게시판] 해진공, 해양금융 심화 과정 교육생 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260812094000051",
+      "pubDate": "Wed, 12 Aug 2026 14:05:30 +0900"
+    },
+    {
+      "title": "주4.5일제로 신규채용 성공한 화장품社…노동시간 단축 우수사례",
+      "link": "https://www.yna.co.kr/view/AKR20260812067700530",
+      "pubDate": "Wed, 12 Aug 2026 14:00:03 +0900"
+    },
+    {
+      "title": "中企업계 \"코스닥 상폐 시총 기준 유예…LH 자재 분리발주 해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812074900030",
+      "pubDate": "Wed, 12 Aug 2026 14:00:02 +0900"
+    },
+    {
+      "title": "[게시판] 수출플러스지원단, 경북 구미 방산수출기업 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260812078500002",
+      "pubDate": "Wed, 12 Aug 2026 14:00:02 +0900"
+    },
+    {
+      "title": "토스뱅크 '키워봐요 31일 적금' 출시 나흘 만에 10만좌",
+      "link": "https://www.yna.co.kr/view/AKR20260812087600002",
+      "pubDate": "Wed, 12 Aug 2026 13:59:37 +0900"
+    },
+    {
+      "title": "\"스크래핑 차단에 비대면 업무 차질\"…금융위, 대응방안 모색",
+      "link": "https://www.yna.co.kr/view/AKR20260812081600002",
+      "pubDate": "Wed, 12 Aug 2026 13:57:16 +0900"
+    },
+    {
+      "title": "중랑구 사가정역 공공주택 복합사업계획 승인…1천300세대 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260812092200004",
+      "pubDate": "Wed, 12 Aug 2026 13:52:13 +0900"
+    },
+    {
+      "title": "노동장관 \"노란봉투법 쟁의기준 시행령·시행규칙 다각도 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812081500530",
+      "pubDate": "Wed, 12 Aug 2026 13:13:22 +0900"
+    },
+    {
+      "title": "'4명 사망' 광주대표도서관 붕괴, 관리부실 공무원 2명 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260812081800054",
+      "pubDate": "Wed, 12 Aug 2026 12:11:23 +0900"
+    },
+    {
+      "title": "코스피, 4%대 급등하며 매수 사이드카…삼전닉스 7%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260812082000008",
+      "pubDate": "Wed, 12 Aug 2026 12:09:19 +0900"
+    },
+    {
+      "title": "국정원 9급 공채 20대만 가능…인권위 \"나이 편견에 근거한 차별\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812031500004",
+      "pubDate": "Wed, 12 Aug 2026 12:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 한은 통화정책 경시대회서 전북대팀 금상 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260812054900002",
+      "pubDate": "Wed, 12 Aug 2026 12:00:04 +0900"
+    },
+    {
+      "title": "중기중앙회, 온오프라인 통합 품평회 참가기업 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260812066600030",
+      "pubDate": "Wed, 12 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "복지부 \"노인 역량 활용 우수 일자리, 비용 대비 128% 성과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812074500530",
+      "pubDate": "Wed, 12 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "\"아이돌봄서비스, NH농협은행 앱에서도 간편하게 이용하세요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260812074300530",
+      "pubDate": "Wed, 12 Aug 2026 12:00:02 +0900"
+    },
+    {
+      "title": "[속보] 코스피 급등에 매수 사이드카 발동",
+      "link": "https://www.yna.co.kr/view/AKR20260812080900008",
+      "pubDate": "Wed, 12 Aug 2026 11:58:30 +0900"
+    },
     {
       "title": "해시드 \"원화코인 논의, 발행서 정산망 등으로 확장해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260812079000002",
@@ -72,86 +152,6 @@
       "title": "60년 전 강남·여의도 조성계획 한눈에…서울역사박물관 특별전",
       "link": "https://www.yna.co.kr/view/AKR20260812040300004",
       "pubDate": "Wed, 12 Aug 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서울시 주택공급 '속도전' 위해 규제 2건 철폐…공사비 검증의무 등",
-      "link": "https://www.yna.co.kr/view/AKR20260812049000004",
-      "pubDate": "Wed, 12 Aug 2026 11:15:01 +0900"
-    },
-    {
-      "title": "10월부터 기후동행카드 혜택 끝…'모두의카드'로 미리 전환하세요",
-      "link": "https://www.yna.co.kr/view/AKR20260812048800004",
-      "pubDate": "Wed, 12 Aug 2026 11:15:01 +0900"
-    },
-    {
-      "title": "서울시·와디즈, 소상공인 크라우드펀딩 '보탬상회 기획전'",
-      "link": "https://www.yna.co.kr/view/AKR20260812054500004",
-      "pubDate": "Wed, 12 Aug 2026 11:15:00 +0900"
-    },
-    {
-      "title": "[양양소식] 송이·연어 특화요리 교육생 모집…창업 연계",
-      "link": "https://www.yna.co.kr/view/AKR20260812070200062",
-      "pubDate": "Wed, 12 Aug 2026 11:07:25 +0900"
-    },
-    {
-      "title": "농식품부, '농식품 바우처 꾸러미' 배송 전국으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260812070800030",
-      "pubDate": "Wed, 12 Aug 2026 11:05:45 +0900"
-    },
-    {
-      "title": "KT&G, 하반기 신입·경력사원 공개채용…AI 영상면접 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260812066900030",
-      "pubDate": "Wed, 12 Aug 2026 11:03:43 +0900"
-    },
-    {
-      "title": "[게시판] 케이뱅크 해외송금 이벤트…수수료 면제·당첨금 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260812068600002",
-      "pubDate": "Wed, 12 Aug 2026 11:01:27 +0900"
-    },
-    {
-      "title": "정부·부울경·지역 경제계, '해양수도권' 조성에 손잡는다",
-      "link": "https://www.yna.co.kr/view/AKR20260812044300051",
-      "pubDate": "Wed, 12 Aug 2026 11:00:17 +0900"
-    },
-    {
-      "title": "동네 슈퍼 상인들 \"대형마트 심야 배송 논의 중단해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812045200030",
-      "pubDate": "Wed, 12 Aug 2026 11:00:12 +0900"
-    },
-    {
-      "title": "국세청 '재계 저승사자', 고액체납자 은닉재산 끝까지 추적한다",
-      "link": "https://www.yna.co.kr/view/AKR20260812053400002",
-      "pubDate": "Wed, 12 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "카카오뱅크, '우리아이통장·적금' 이용자 80만명 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260812067100002",
-      "pubDate": "Wed, 12 Aug 2026 10:50:42 +0900"
-    },
-    {
-      "title": "관세 신고 미리 점검받으면 오류 있어도 가산세 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260812062300002",
-      "pubDate": "Wed, 12 Aug 2026 10:49:38 +0900"
-    },
-    {
-      "title": "국내 BC카드 가맹점서 달러 스테이블코인 결제…실증 성공",
-      "link": "https://www.yna.co.kr/view/AKR20260812049900002",
-      "pubDate": "Wed, 12 Aug 2026 10:41:58 +0900"
-    },
-    {
-      "title": "전체 취업자 10만8천명 늘었지만…청년 취업자 45개월째 감소(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260812019452002",
-      "pubDate": "Wed, 12 Aug 2026 10:40:26 +0900"
-    },
-    {
-      "title": "서울 창동주공18단지 재건축추진위 승인…\"창동·상계지구 1호\"",
-      "link": "https://www.yna.co.kr/view/AKR20260812063400004",
-      "pubDate": "Wed, 12 Aug 2026 10:38:24 +0900"
-    },
-    {
-      "title": "[게시판] 하나금융, 인천지역 고령 취약계층 위한 '행복드림 버스'",
-      "link": "https://www.yna.co.kr/view/AKR20260812061400002",
-      "pubDate": "Wed, 12 Aug 2026 10:37:26 +0900"
     }
   ]
 }
