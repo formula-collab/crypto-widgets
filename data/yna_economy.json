@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786613793,
+  "updated_at_unix": 1786618224,
   "items": [
+    {
+      "title": "\"이대로면 폭망\"\"총선 이후로 유예\"…與의총서 세제안 비판 봇물(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260813156751001",
+      "pubDate": "Thu, 13 Aug 2026 19:12:05 +0900"
+    },
+    {
+      "title": "한국금융지주, KDB생명 매각 우선협상대상자로 선정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260813157951002",
+      "pubDate": "Thu, 13 Aug 2026 18:43:44 +0900"
+    },
     {
       "title": "\"이대로 가면 폭망\"…與 의총서 정부 세제개편안 비판 봇물",
       "link": "https://www.yna.co.kr/view/AKR20260813156700001",
@@ -142,16 +152,6 @@
       "title": "정부, 총리 주재 범정부 주택 신속공급 점검회의 신설(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260813022551001",
       "pubDate": "Thu, 13 Aug 2026 16:22:19 +0900"
-    },
-    {
-      "title": "반도체 연일 강세…삼전·닉스, 4~5%대 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813038751008",
-      "pubDate": "Thu, 13 Aug 2026 16:07:51 +0900"
-    },
-    {
-      "title": "환율, 저가 매수·달러 강세에 사흘만에 반등…1,419.4원",
-      "link": "https://www.yna.co.kr/view/AKR20260813137000002",
-      "pubDate": "Thu, 13 Aug 2026 16:07:39 +0900"
     }
   ]
 }
