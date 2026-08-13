@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786608578,
+  "updated_at_unix": 1786613793,
   "items": [
+    {
+      "title": "\"이대로 가면 폭망\"…與 의총서 정부 세제개편안 비판 봇물",
+      "link": "https://www.yna.co.kr/view/AKR20260813156700001",
+      "pubDate": "Thu, 13 Aug 2026 18:25:55 +0900"
+    },
+    {
+      "title": "과천시, 정부 '경마공원 이전·방첩사 2029년 착공'에 반발",
+      "link": "https://www.yna.co.kr/view/AKR20260813159700061",
+      "pubDate": "Thu, 13 Aug 2026 18:24:10 +0900"
+    },
+    {
+      "title": "모아데이타, 20억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260813161400008",
+      "pubDate": "Thu, 13 Aug 2026 18:17:21 +0900"
+    },
+    {
+      "title": "식약처, 신고없이 수입한 중국산 양배추칼 회수",
+      "link": "https://www.yna.co.kr/view/AKR20260813160200017",
+      "pubDate": "Thu, 13 Aug 2026 18:15:25 +0900"
+    },
+    {
+      "title": "솔루엠 \"미국 자회사 주식 425억원어치 추가취득…지분율 100%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260813161200008",
+      "pubDate": "Thu, 13 Aug 2026 18:13:09 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260813155900011",
+      "pubDate": "Thu, 13 Aug 2026 18:00:01 +0900"
+    },
+    {
+      "title": "스위스그랜드호텔 부지 PFV에 매각…키움증권 4천500억 브릿지론",
+      "link": "https://www.yna.co.kr/view/AKR20260813158700008",
+      "pubDate": "Thu, 13 Aug 2026 17:59:26 +0900"
+    },
+    {
+      "title": "\"비거주 완화·보유공제 일부 유지\"…전문가들 세제 보완 주문(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260813141351002",
+      "pubDate": "Thu, 13 Aug 2026 17:52:52 +0900"
+    },
+    {
+      "title": "한투, KDB생명 매각 우선협상대상자로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260813157900002",
+      "pubDate": "Thu, 13 Aug 2026 17:47:57 +0900"
+    },
+    {
+      "title": "성호전자 \"자회사 디이에스홀딩스 주식 200억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260813157000008",
+      "pubDate": "Thu, 13 Aug 2026 17:41:27 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…50년물 최고치 경신(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260813145251008",
+      "pubDate": "Thu, 13 Aug 2026 17:25:07 +0900"
+    },
+    {
+      "title": "공정위, 정유 4사 '타사 제품 판매 제한' 현장 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260813152300002",
+      "pubDate": "Thu, 13 Aug 2026 17:20:53 +0900"
+    },
+    {
+      "title": "강원대·강원랜드, 공공데이터 활용 AI 개발 캠프 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260813148000062",
+      "pubDate": "Thu, 13 Aug 2026 17:13:05 +0900"
+    },
+    {
+      "title": "DB손보, 2분기 순이익 7천111억원…작년比 54.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260813146600002",
+      "pubDate": "Thu, 13 Aug 2026 17:10:24 +0900"
+    },
     {
       "title": "'3천500억원대 담합' 반도체 소재 업체·임직원 재판행",
       "link": "https://www.yna.co.kr/view/AKR20260813148200004",
@@ -82,76 +152,6 @@
       "title": "환율, 저가 매수·달러 강세에 사흘만에 반등…1,419.4원",
       "link": "https://www.yna.co.kr/view/AKR20260813137000002",
       "pubDate": "Thu, 13 Aug 2026 16:07:39 +0900"
-    },
-    {
-      "title": "철원군, 가락동 도매 현장 방문해 농가 소득향상 노력",
-      "link": "https://www.yna.co.kr/view/AKR20260813135300062",
-      "pubDate": "Thu, 13 Aug 2026 16:04:57 +0900"
-    },
-    {
-      "title": "엔시트론, 60억원 제3자배정 유증",
-      "link": "https://www.yna.co.kr/view/AKR20260813135600008",
-      "pubDate": "Thu, 13 Aug 2026 16:03:50 +0900"
-    },
-    {
-      "title": "[8·13대책] 신도시급 착공 68→37개월로…덕소농장·염창공원 등에 2.7만호(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813046851003",
-      "pubDate": "Thu, 13 Aug 2026 16:03:49 +0900"
-    },
-    {
-      "title": "'3일 연속 상승' 삼전닉스 탄력받나…글로벌 반도체 동반강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813090951008",
-      "pubDate": "Thu, 13 Aug 2026 16:02:47 +0900"
-    },
-    {
-      "title": "코스피 3.56% 급등, 6,800선 회복…나흘연속 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813133200008",
-      "pubDate": "Thu, 13 Aug 2026 16:00:25 +0900"
-    },
-    {
-      "title": "진안 용담호 수천휴게소, 탐방객 쉼터로 새 단장…시범 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260813132500055",
-      "pubDate": "Thu, 13 Aug 2026 16:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 내달 8∼11일 서울서 한·아프리카 장관급 경제협력회의",
-      "link": "https://www.yna.co.kr/view/AKR20260813116400002",
-      "pubDate": "Thu, 13 Aug 2026 16:00:00 +0900"
-    },
-    {
-      "title": "금융노조 쟁의행위 찬반투표 가결…내달 4일 총파업 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260813131800002",
-      "pubDate": "Thu, 13 Aug 2026 15:52:22 +0900"
-    },
-    {
-      "title": "외국환시세(8월13일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260813128000002",
-      "pubDate": "Thu, 13 Aug 2026 15:50:55 +0900"
-    },
-    {
-      "title": "[특징주] 한국전력, '어닝쇼크'에 6%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813061351008",
-      "pubDate": "Thu, 13 Aug 2026 15:39:04 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주 희비…마녀공장은 실적악화에 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813039051008",
-      "pubDate": "Thu, 13 Aug 2026 15:38:30 +0900"
-    },
-    {
-      "title": "코스피 3.56% 급등, 나흘연속 상승…코스닥 0.29%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260813127800008",
-      "pubDate": "Thu, 13 Aug 2026 15:36:39 +0900"
-    },
-    {
-      "title": "[속보] 코스피 3.56%↑, 나흘연속 상승…코스닥 0.29%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260813127400008",
-      "pubDate": "Thu, 13 Aug 2026 15:34:45 +0900"
-    },
-    {
-      "title": "대구 대형공사 쪼개 지역업체 참여 늘린다…\"하도급 70% 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260813123600053",
-      "pubDate": "Thu, 13 Aug 2026 15:32:22 +0900"
     }
   ]
 }
