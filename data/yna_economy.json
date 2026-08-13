@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786624853,
+  "updated_at_unix": 1786630374,
   "items": [
+    {
+      "title": "靑경제수석 \"임기내 150만호 착공…용산공원 주택공급 논의해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260813168400001",
+      "pubDate": "Thu, 13 Aug 2026 22:05:28 +0900"
+    },
     {
       "title": "\"이대로면 폭망\"\"총선 이후로 유예\"…與의총서 세제안 비판 봇물(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260813156751001",
@@ -147,11 +152,6 @@
       "title": "변동성지수, 레버리지 대책후 36% 내려 50대 중반…3개월래 최저(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260813090451008",
       "pubDate": "Thu, 13 Aug 2026 16:23:01 +0900"
-    },
-    {
-      "title": "정부, 총리 주재 범정부 주택 신속공급 점검회의 신설(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813022551001",
-      "pubDate": "Thu, 13 Aug 2026 16:22:19 +0900"
     }
   ]
 }
