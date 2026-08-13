@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786658865,
+  "updated_at_unix": 1786662531,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260814015700011",
+      "pubDate": "Fri, 14 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] '인플레 압력 둔화' 美훈풍…코스피 5일째 상승 이어가나",
+      "link": "https://www.yna.co.kr/view/AKR20260814014500008",
+      "pubDate": "Fri, 14 Aug 2026 07:27:35 +0900"
+    },
     {
       "title": "[삶-특집] \"한국 GDP, 뉴욕주 규모도 안된다…경제력-군사력 더 키워야\"",
       "link": "https://www.yna.co.kr/view/AKR20260813111400546",
@@ -142,16 +152,6 @@
       "title": "강릉시, 100일간 경제 살리기 총력전…민관 공동 실천 '박차'",
       "link": "https://www.yna.co.kr/view/AKR20260813142100062",
       "pubDate": "Thu, 13 Aug 2026 16:36:18 +0900"
-    },
-    {
-      "title": "삼성생명 상반기 순익 36%↑…\"KDB생명과 시너지 어렵다 판단\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260813081652527",
-      "pubDate": "Thu, 13 Aug 2026 16:33:57 +0900"
-    },
-    {
-      "title": "\"비거주 요건 완화\"·\"고가 주택 기준 상향\"…전문가들 쓴소리",
-      "link": "https://www.yna.co.kr/view/AKR20260813141300002",
-      "pubDate": "Thu, 13 Aug 2026 16:31:59 +0900"
     }
   ]
 }
