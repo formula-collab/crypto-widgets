@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786652894,
+  "updated_at_unix": 1786655553,
   "items": [
+    {
+      "title": "[삶-특집] \"한국 GDP, 뉴욕주 규모도 안된다…경제력-군사력 더 키워야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260813111400546",
+      "pubDate": "Fri, 14 Aug 2026 06:01:01 +0900"
+    },
+    {
+      "title": "환율·유가 하락에 7월 수입물가 1.0%↓…두달 연속 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260813149300002",
+      "pubDate": "Fri, 14 Aug 2026 06:00:07 +0900"
+    },
+    {
+      "title": "부동산서비스업 체감경기 소폭 개선…공인중개업은 악화",
+      "link": "https://www.yna.co.kr/view/AKR20260813151300003",
+      "pubDate": "Fri, 14 Aug 2026 06:00:05 +0900"
+    },
+    {
+      "title": "7월 서울 아파트 토지거래허가신청 4천681건…석 달째 감소세",
+      "link": "https://www.yna.co.kr/view/AKR20260813152100004",
+      "pubDate": "Fri, 14 Aug 2026 06:00:04 +0900"
+    },
     {
       "title": "靑경제수석 \"임기내 150만호 착공…용산공원 주택공급 논의해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260813168400001",
@@ -132,26 +152,6 @@
       "title": "\"비거주 요건 완화\"·\"고가 주택 기준 상향\"…전문가들 쓴소리",
       "link": "https://www.yna.co.kr/view/AKR20260813141300002",
       "pubDate": "Thu, 13 Aug 2026 16:31:59 +0900"
-    },
-    {
-      "title": "기업 남녀 임금격차 공개…성평등부, 경제단체와 운영방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260813137900530",
-      "pubDate": "Thu, 13 Aug 2026 16:25:52 +0900"
-    },
-    {
-      "title": "청년 4억 이하 비아파트 매수 지원…신혼부부 소득 합산 안한다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812168051002",
-      "pubDate": "Thu, 13 Aug 2026 16:25:23 +0900"
-    },
-    {
-      "title": "[8·13대책] 가계부채 총량 관리목표 2배로…\"30조로 대출오픈런 해소 기대\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260812170651002",
-      "pubDate": "Thu, 13 Aug 2026 16:24:24 +0900"
-    },
-    {
-      "title": "변동성지수, 레버리지 대책후 36% 내려 50대 중반…3개월래 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260813090451008",
-      "pubDate": "Thu, 13 Aug 2026 16:23:01 +0900"
     }
   ]
 }
