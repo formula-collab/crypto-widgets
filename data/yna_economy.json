@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786747509,
+  "updated_at_unix": 1786749024,
   "items": [
+    {
+      "title": "\"K-푸드·뷰티 타고 호주 간다\"…전주시, 무역사절단 8개사 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260814071200055",
+      "pubDate": "Sat, 15 Aug 2026 08:00:13 +0900"
+    },
+    {
+      "title": "농진청, 'AI 활용 창업경진대회' 수상작 18점 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260814042000055",
+      "pubDate": "Sat, 15 Aug 2026 08:00:09 +0900"
+    },
     {
       "title": "가짜 계약서로 법원도 속였다…45억 뜯은 깡통빌라 사기극",
       "link": "https://www.yna.co.kr/view/AKR20260814061700065",
@@ -142,16 +152,6 @@
       "title": "빗썸 2분기 218억원 순손실…매출 35.8％ 감소",
       "link": "https://www.yna.co.kr/view/AKR20260814149600002",
       "pubDate": "Fri, 14 Aug 2026 17:11:08 +0900"
-    },
-    {
-      "title": "토스증권, 2분기 영업익 2천79억…분기·반기 실적 역대최대",
-      "link": "https://www.yna.co.kr/view/AKR20260814143900008",
-      "pubDate": "Fri, 14 Aug 2026 17:08:30 +0900"
-    },
-    {
-      "title": "연휴 앞두고 국고채 금리 혼조세…초장기물 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814141251008",
-      "pubDate": "Fri, 14 Aug 2026 17:08:09 +0900"
     }
   ]
 }
