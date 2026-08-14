@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786694715,
+  "updated_at_unix": 1786699892,
   "items": [
+    {
+      "title": "두나무 송치형 회장 상반기 보수 39억…직원 평균급여 1.4억",
+      "link": "https://www.yna.co.kr/view/AKR20260814164400002",
+      "pubDate": "Fri, 14 Aug 2026 18:11:56 +0900"
+    },
+    {
+      "title": "'불장' 상반기 증권사 임직원 보수는…이종석 유안타 이사 227억",
+      "link": "https://www.yna.co.kr/view/AKR20260814161300008",
+      "pubDate": "Fri, 14 Aug 2026 18:11:29 +0900"
+    },
+    {
+      "title": "롯데손보, 2분기 당기순익 13억원…분기 흑자전환",
+      "link": "https://www.yna.co.kr/view/AKR20260814155100002",
+      "pubDate": "Fri, 14 Aug 2026 18:02:14 +0900"
+    },
+    {
+      "title": "더본코리아, 2분기 영업손실 56억원…작년 동기 대비 75% 개선",
+      "link": "https://www.yna.co.kr/view/AKR20260814162500030",
+      "pubDate": "Fri, 14 Aug 2026 18:00:16 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260814157400011",
+      "pubDate": "Fri, 14 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "씨티은행 유명순 30억·하나금융 함영주 19억…상반기 보수",
+      "link": "https://www.yna.co.kr/view/AKR20260814159000002",
+      "pubDate": "Fri, 14 Aug 2026 17:51:14 +0900"
+    },
+    {
+      "title": "용산공원 부지에 주택공급 두고 정부-서울시 입장차 뚜렷(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260814050552003",
+      "pubDate": "Fri, 14 Aug 2026 17:48:00 +0900"
+    },
+    {
+      "title": "수출입은행, 빌 게이츠와 소형모듈원자로 상용화 협력 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260814159200002",
+      "pubDate": "Fri, 14 Aug 2026 17:47:33 +0900"
+    },
+    {
+      "title": "네카오 CEO 상반기 보수는…최수연 26.7억·정신아 12.1억",
+      "link": "https://www.yna.co.kr/view/AKR20260814156800017",
+      "pubDate": "Fri, 14 Aug 2026 17:39:23 +0900"
+    },
+    {
+      "title": "두나무 2분기 순이익 389억원…60％ 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260814156700002",
+      "pubDate": "Fri, 14 Aug 2026 17:32:50 +0900"
+    },
+    {
+      "title": "삼성전자 상반기 R&D 27조·시설투자 28조, 나란히 동기 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260814156100003",
+      "pubDate": "Fri, 14 Aug 2026 17:31:24 +0900"
+    },
+    {
+      "title": "매출은 GS25·수익성은 CU 우위…편의점 업계, 초접전 선두 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20260814153400030",
+      "pubDate": "Fri, 14 Aug 2026 17:31:12 +0900"
+    },
+    {
+      "title": "경기도 \"지방공사도 LH처럼 정부지원금 자본 확충…GH 역량강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814153700061",
+      "pubDate": "Fri, 14 Aug 2026 17:31:11 +0900"
+    },
+    {
+      "title": "iM뱅크, 신입행원 공채…AI 역량평가로 인재 찾는다",
+      "link": "https://www.yna.co.kr/view/AKR20260814151600053",
+      "pubDate": "Fri, 14 Aug 2026 17:14:21 +0900"
+    },
+    {
+      "title": "빗썸 2분기 218억원 순손실…매출 35.8％ 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260814149600002",
+      "pubDate": "Fri, 14 Aug 2026 17:11:08 +0900"
+    },
+    {
+      "title": "토스증권, 2분기 영업익 2천79억…분기·반기 실적 역대최대",
+      "link": "https://www.yna.co.kr/view/AKR20260814143900008",
+      "pubDate": "Fri, 14 Aug 2026 17:08:30 +0900"
+    },
+    {
+      "title": "연휴 앞두고 국고채 금리 혼조세…초장기물 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814141251008",
+      "pubDate": "Fri, 14 Aug 2026 17:08:09 +0900"
+    },
+    {
+      "title": "미국 드론 관세에 정부 \"우대세율 세부 기준 대미 협의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814144800003",
+      "pubDate": "Fri, 14 Aug 2026 17:07:58 +0900"
+    },
+    {
+      "title": "원주시의회 행정 복지위, 보육부터 청년 취·창업까지 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260814149400062",
+      "pubDate": "Fri, 14 Aug 2026 17:07:29 +0900"
+    },
+    {
+      "title": "롯데카드, 상반기 당기순이익 647억원…55.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260814147500002",
+      "pubDate": "Fri, 14 Aug 2026 17:04:02 +0900"
+    },
+    {
+      "title": "금융위 \"청년에 비아파트 구입할 추가기회 제공…틈새시장 배려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814136400002",
+      "pubDate": "Fri, 14 Aug 2026 17:02:50 +0900"
+    },
     {
       "title": "빌 게이츠, 정재계 연쇄회동…'AI 전력난 해법' SMR 협력 본격화",
       "link": "https://www.yna.co.kr/view/AKR20260814130800003",
@@ -47,111 +152,6 @@
       "title": "국토장관 \"용산공원 전체 주택공급 고민\"…오세훈과 대립각(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260814050551003",
       "pubDate": "Fri, 14 Aug 2026 16:25:32 +0900"
-    },
-    {
-      "title": "[동정] 남재헌 해수부 차관, 경남 고수온 피해 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260814134900051",
-      "pubDate": "Fri, 14 Aug 2026 16:23:29 +0900"
-    },
-    {
-      "title": "韓총리 \"주택공급, 총리 최우선 과제로…대책 속도감 있게 실행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814127700001",
-      "pubDate": "Fri, 14 Aug 2026 16:14:11 +0900"
-    },
-    {
-      "title": "우리카드, 미화 3억달러 해외 신디케이티드론 약정 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260814126800002",
-      "pubDate": "Fri, 14 Aug 2026 16:08:46 +0900"
-    },
-    {
-      "title": "SC제일은행 2분기 순익 3천196억원, 230.5%↑…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260814129800002",
-      "pubDate": "Fri, 14 Aug 2026 16:07:25 +0900"
-    },
-    {
-      "title": "대체거래소 NXT, 올 상반기 영업익 900억원 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260814085700008",
-      "pubDate": "Fri, 14 Aug 2026 16:04:31 +0900"
-    },
-    {
-      "title": "국토장관 \"신규택지 7만3천가구 이르면 9월말 발표…추가물량도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814127100003",
-      "pubDate": "Fri, 14 Aug 2026 16:04:20 +0900"
-    },
-    {
-      "title": "국토장관 \"용산공원 전체 주택공급 검토…20일 오세훈 면담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814118800003",
-      "pubDate": "Fri, 14 Aug 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[특징주] 반도체 강세 지속…삼전·닉스 2∼3%대 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814041351008",
-      "pubDate": "Fri, 14 Aug 2026 15:51:28 +0900"
-    },
-    {
-      "title": "핑거스토리, 50억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260814124200008",
-      "pubDate": "Fri, 14 Aug 2026 15:47:11 +0900"
-    },
-    {
-      "title": "미국 인플레 우려 완화에 달러 약세…환율 6거래일째 1,410원대",
-      "link": "https://www.yna.co.kr/view/AKR20260814123400002",
-      "pubDate": "Fri, 14 Aug 2026 15:46:17 +0900"
-    },
-    {
-      "title": "한국씨티은행, 2분기 순익 1천868억원, 86%↑…분기 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260814123000002",
-      "pubDate": "Fri, 14 Aug 2026 15:44:19 +0900"
-    },
-    {
-      "title": "[특징주] HD현대중, 빌 게이츠 방한·SMR 기대감 부각에 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814038351008",
-      "pubDate": "Fri, 14 Aug 2026 15:41:33 +0900"
-    },
-    {
-      "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-      "link": "https://www.yna.co.kr/view/AKR20260814121600008",
-      "pubDate": "Fri, 14 Aug 2026 15:37:00 +0900"
-    },
-    {
-      "title": "외국환시세(8월14일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260814121900002",
-      "pubDate": "Fri, 14 Aug 2026 15:35:54 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.1원 내린 1,418.3원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260814119800002",
-      "pubDate": "Fri, 14 Aug 2026 15:35:43 +0900"
-    },
-    {
-      "title": "[속보] 코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
-      "link": "https://www.yna.co.kr/view/AKR20260814121100008",
-      "pubDate": "Fri, 14 Aug 2026 15:34:49 +0900"
-    },
-    {
-      "title": "파리바게뜨, 25일부터 빵·케이크·디저트 127종 평균 5% 인상(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814039951030",
-      "pubDate": "Fri, 14 Aug 2026 15:18:51 +0900"
-    },
-    {
-      "title": "진도군-교육지원청, '교육 발전' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260814112600054",
-      "pubDate": "Fri, 14 Aug 2026 15:14:12 +0900"
-    },
-    {
-      "title": "\"환전없이 국내외 주식 매매\"…SK증권, 통합증거금 서비스 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260814113700008",
-      "pubDate": "Fri, 14 Aug 2026 15:11:05 +0900"
-    },
-    {
-      "title": "임실군, 추경 편성…하반기 전 군민에 30만원씩 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260814112500055",
-      "pubDate": "Fri, 14 Aug 2026 15:07:55 +0900"
-    },
-    {
-      "title": "추미애 \"경기도 빚 3배속으로 늘어…'회색 코뿔소' 코앞\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814107900061",
-      "pubDate": "Fri, 14 Aug 2026 14:59:48 +0900"
     }
   ]
 }
