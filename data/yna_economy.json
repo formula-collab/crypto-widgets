@@ -1,8 +1,118 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786690177,
+  "updated_at_unix": 1786694715,
   "items": [
+    {
+      "title": "빌 게이츠, 정재계 연쇄회동…'AI 전력난 해법' SMR 협력 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20260814130800003",
+      "pubDate": "Fri, 14 Aug 2026 17:00:01 +0900"
+    },
+    {
+      "title": "동서발전, 하반기 신입사원 121명 입사…안전·디지털 역량 강조",
+      "link": "https://www.yna.co.kr/view/AKR20260814093300057",
+      "pubDate": "Fri, 14 Aug 2026 16:54:02 +0900"
+    },
+    {
+      "title": "[르포] 남양주 신규 택지 기대·우려 교차…\"교통이 관건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814125700060",
+      "pubDate": "Fri, 14 Aug 2026 16:52:05 +0900"
+    },
+    {
+      "title": "국고채 금리 혼조세…3년물 연 3.796%",
+      "link": "https://www.yna.co.kr/view/AKR20260814141200008",
+      "pubDate": "Fri, 14 Aug 2026 16:42:59 +0900"
+    },
+    {
+      "title": "SK에코플랜트 2분기 영업이익 5천336억원…작년 대비 266%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260814140200003",
+      "pubDate": "Fri, 14 Aug 2026 16:37:33 +0900"
+    },
+    {
+      "title": "[과학스냅] 창의재단, AI협회·정보공학기술사회와 AI 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260814133000017",
+      "pubDate": "Fri, 14 Aug 2026 16:37:18 +0900"
+    },
+    {
+      "title": "코스피 2.4%↑, 7천피 턱밑까지…이번주 내내 올랐다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814132200008",
+      "pubDate": "Fri, 14 Aug 2026 16:31:41 +0900"
+    },
+    {
+      "title": "두산건설 상반기 영업이익 727억원…작년대비 35.6%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260814136600003",
+      "pubDate": "Fri, 14 Aug 2026 16:26:26 +0900"
+    },
+    {
+      "title": "국토장관 \"용산공원 전체 주택공급 고민\"…오세훈과 대립각(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814050551003",
+      "pubDate": "Fri, 14 Aug 2026 16:25:32 +0900"
+    },
+    {
+      "title": "[동정] 남재헌 해수부 차관, 경남 고수온 피해 현장 방문",
+      "link": "https://www.yna.co.kr/view/AKR20260814134900051",
+      "pubDate": "Fri, 14 Aug 2026 16:23:29 +0900"
+    },
+    {
+      "title": "韓총리 \"주택공급, 총리 최우선 과제로…대책 속도감 있게 실행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814127700001",
+      "pubDate": "Fri, 14 Aug 2026 16:14:11 +0900"
+    },
+    {
+      "title": "우리카드, 미화 3억달러 해외 신디케이티드론 약정 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260814126800002",
+      "pubDate": "Fri, 14 Aug 2026 16:08:46 +0900"
+    },
+    {
+      "title": "SC제일은행 2분기 순익 3천196억원, 230.5%↑…역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260814129800002",
+      "pubDate": "Fri, 14 Aug 2026 16:07:25 +0900"
+    },
+    {
+      "title": "대체거래소 NXT, 올 상반기 영업익 900억원 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260814085700008",
+      "pubDate": "Fri, 14 Aug 2026 16:04:31 +0900"
+    },
+    {
+      "title": "국토장관 \"신규택지 7만3천가구 이르면 9월말 발표…추가물량도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814127100003",
+      "pubDate": "Fri, 14 Aug 2026 16:04:20 +0900"
+    },
+    {
+      "title": "국토장관 \"용산공원 전체 주택공급 검토…20일 오세훈 면담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814118800003",
+      "pubDate": "Fri, 14 Aug 2026 16:00:01 +0900"
+    },
+    {
+      "title": "[특징주] 반도체 강세 지속…삼전·닉스 2∼3%대 상승 마감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814041351008",
+      "pubDate": "Fri, 14 Aug 2026 15:51:28 +0900"
+    },
+    {
+      "title": "핑거스토리, 50억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260814124200008",
+      "pubDate": "Fri, 14 Aug 2026 15:47:11 +0900"
+    },
+    {
+      "title": "미국 인플레 우려 완화에 달러 약세…환율 6거래일째 1,410원대",
+      "link": "https://www.yna.co.kr/view/AKR20260814123400002",
+      "pubDate": "Fri, 14 Aug 2026 15:46:17 +0900"
+    },
+    {
+      "title": "한국씨티은행, 2분기 순익 1천868억원, 86%↑…분기 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260814123000002",
+      "pubDate": "Fri, 14 Aug 2026 15:44:19 +0900"
+    },
+    {
+      "title": "[특징주] HD현대중, 빌 게이츠 방한·SMR 기대감 부각에 강세(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814038351008",
+      "pubDate": "Fri, 14 Aug 2026 15:41:33 +0900"
+    },
+    {
+      "title": "코스피 2.4%↑, 6,900 회복…이번주 내내 올랐다",
+      "link": "https://www.yna.co.kr/view/AKR20260814121600008",
+      "pubDate": "Fri, 14 Aug 2026 15:37:00 +0900"
+    },
     {
       "title": "외국환시세(8월14일·15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260814121900002",
@@ -42,116 +152,6 @@
       "title": "추미애 \"경기도 빚 3배속으로 늘어…'회색 코뿔소' 코앞\"",
       "link": "https://www.yna.co.kr/view/AKR20260814107900061",
       "pubDate": "Fri, 14 Aug 2026 14:59:48 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20260814108600002",
-      "pubDate": "Fri, 14 Aug 2026 14:57:01 +0900"
-    },
-    {
-      "title": "제주시, 청년 자격증 응시료 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260814105500056",
-      "pubDate": "Fri, 14 Aug 2026 14:49:33 +0900"
-    },
-    {
-      "title": "칠곡 참외·딸기로 젤리, 벌꿀로 막걸리…서울 청년들 창업 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260814096600053",
-      "pubDate": "Fri, 14 Aug 2026 14:33:53 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260814097400011",
-      "pubDate": "Fri, 14 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "'전국 초기 창업자 모인다' 익산서 14∼15일 스몰브랜드 캠프",
-      "link": "https://www.yna.co.kr/view/AKR20260814095700055",
-      "pubDate": "Fri, 14 Aug 2026 14:27:13 +0900"
-    },
-    {
-      "title": "부광약품 \"자회사 한국유니온제약, 회생절차 종결 신청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814097100017",
-      "pubDate": "Fri, 14 Aug 2026 14:17:03 +0900"
-    },
-    {
-      "title": "게임단체들 \"게임 제작비·e스포츠 대회 세액공제 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814093100017",
-      "pubDate": "Fri, 14 Aug 2026 14:15:53 +0900"
-    },
-    {
-      "title": "국민연금, 28일까지 기금운용 전문가 30명 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260814049500530",
-      "pubDate": "Fri, 14 Aug 2026 14:00:03 +0900"
-    },
-    {
-      "title": "캠퍼스 계단에 'ㄱㄴㄷ…'…한서대, 한글공원 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260814088400063",
-      "pubDate": "Fri, 14 Aug 2026 13:51:41 +0900"
-    },
-    {
-      "title": "국민연금, 2분기 美주식 평가액 전분기 대비 33조원 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260814079000008",
-      "pubDate": "Fri, 14 Aug 2026 13:49:51 +0900"
-    },
-    {
-      "title": "한국화이자제약 \"RSV 백신 '아브리스보' 국내 허가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814086200017",
-      "pubDate": "Fri, 14 Aug 2026 13:49:21 +0900"
-    },
-    {
-      "title": "HLB제넥스, 200억원 규모 전환사채 선제 취득",
-      "link": "https://www.yna.co.kr/view/AKR20260814090600017",
-      "pubDate": "Fri, 14 Aug 2026 13:47:45 +0900"
-    },
-    {
-      "title": "토스증권, 이번 광복절부터 공휴일에도 해외채권 원리금 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260814079300008",
-      "pubDate": "Fri, 14 Aug 2026 13:39:11 +0900"
-    },
-    {
-      "title": "스톤브릿지벤처스, 상반기 영업익 170억원…반기 기준 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260814074900008",
-      "pubDate": "Fri, 14 Aug 2026 13:37:13 +0900"
-    },
-    {
-      "title": "네이버·LG전자에 최대 20배 베팅…바이낸스 선물 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260814084400002",
-      "pubDate": "Fri, 14 Aug 2026 13:33:58 +0900"
-    },
-    {
-      "title": "정부, 홈플러스 근로자에 실업급여·융자 등 총 778억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260814074300002",
-      "pubDate": "Fri, 14 Aug 2026 13:30:01 +0900"
-    },
-    {
-      "title": "국힘, '정부 세제개편안·공급 대책'에 쌍끌이 부동산 공세",
-      "link": "https://www.yna.co.kr/view/AKR20260814076000001",
-      "pubDate": "Fri, 14 Aug 2026 12:05:38 +0900"
-    },
-    {
-      "title": "소비자원 \"유명브랜드 위조 향수서 메탄올 기준치 484배 검출\"",
-      "link": "https://www.yna.co.kr/view/AKR20260813125000030",
-      "pubDate": "Fri, 14 Aug 2026 12:00:07 +0900"
-    },
-    {
-      "title": "6월 통화량 29.4조원↑…수출 호조에 반도체 등 기업 자금 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260814051300002",
-      "pubDate": "Fri, 14 Aug 2026 12:00:04 +0900"
-    },
-    {
-      "title": "외환시장 24시간 개장 이후 일평균 거래량 10% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260814072100002",
-      "pubDate": "Fri, 14 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "민형배 시장 \"SK, 전남 동부권에 100조 데이터센터 등 투자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814058200054",
-      "pubDate": "Fri, 14 Aug 2026 11:58:48 +0900"
-    },
-    {
-      "title": "국민 45% \"세제개편안, 부동산 시장에 부정적 영향줄 것\"[한국갤럽]",
-      "link": "https://www.yna.co.kr/view/AKR20260814072700001",
-      "pubDate": "Fri, 14 Aug 2026 11:44:14 +0900"
     }
   ]
 }
