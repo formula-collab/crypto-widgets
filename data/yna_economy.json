@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786699892,
+  "updated_at_unix": 1786704375,
   "items": [
+    {
+      "title": "'테라스 붕괴' 아파트 찾은 박찬대 \"시공·감리 책임 묻겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814171200065",
+      "pubDate": "Fri, 14 Aug 2026 19:07:47 +0900"
+    },
+    {
+      "title": "교보생명, 상반기 순이익 7천48억원 작년比 21%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260814166400002",
+      "pubDate": "Fri, 14 Aug 2026 19:06:35 +0900"
+    },
+    {
+      "title": "바이낸스, 네이버 등 무기한 선물 출시…한국인 거래는 차단(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260814084451002",
+      "pubDate": "Fri, 14 Aug 2026 18:54:15 +0900"
+    },
+    {
+      "title": "삼성전자, 반도체 호황에 미중 수출 급증…중국 88조원",
+      "link": "https://www.yna.co.kr/view/AKR20260814167500003",
+      "pubDate": "Fri, 14 Aug 2026 18:34:06 +0900"
+    },
+    {
+      "title": "건설협회, 8·13대책 환영…\"건설업 자금조달 부담 완화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260814166700003",
+      "pubDate": "Fri, 14 Aug 2026 18:27:13 +0900"
+    },
     {
       "title": "두나무 송치형 회장 상반기 보수 39억…직원 평균급여 1.4억",
       "link": "https://www.yna.co.kr/view/AKR20260814164400002",
@@ -127,31 +152,6 @@
       "title": "국고채 금리 혼조세…3년물 연 3.796%",
       "link": "https://www.yna.co.kr/view/AKR20260814141200008",
       "pubDate": "Fri, 14 Aug 2026 16:42:59 +0900"
-    },
-    {
-      "title": "SK에코플랜트 2분기 영업이익 5천336억원…작년 대비 266%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260814140200003",
-      "pubDate": "Fri, 14 Aug 2026 16:37:33 +0900"
-    },
-    {
-      "title": "[과학스냅] 창의재단, AI협회·정보공학기술사회와 AI 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260814133000017",
-      "pubDate": "Fri, 14 Aug 2026 16:37:18 +0900"
-    },
-    {
-      "title": "코스피 2.4%↑, 7천피 턱밑까지…이번주 내내 올랐다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814132200008",
-      "pubDate": "Fri, 14 Aug 2026 16:31:41 +0900"
-    },
-    {
-      "title": "두산건설 상반기 영업이익 727억원…작년대비 35.6%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260814136600003",
-      "pubDate": "Fri, 14 Aug 2026 16:26:26 +0900"
-    },
-    {
-      "title": "국토장관 \"용산공원 전체 주택공급 고민\"…오세훈과 대립각(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260814050551003",
-      "pubDate": "Fri, 14 Aug 2026 16:25:32 +0900"
     }
   ]
 }
