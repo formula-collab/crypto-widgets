@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786745421,
+  "updated_at_unix": 1786747509,
   "items": [
+    {
+      "title": "가짜 계약서로 법원도 속였다…45억 뜯은 깡통빌라 사기극",
+      "link": "https://www.yna.co.kr/view/AKR20260814061700065",
+      "pubDate": "Sat, 15 Aug 2026 07:17:01 +0900"
+    },
+    {
+      "title": "[로컬의 재발견] 한국의 실리콘밸리 찾으세요? 대전 '스타트업 파크' 오세요!",
+      "link": "https://www.yna.co.kr/view/AKR20260812133500063",
+      "pubDate": "Sat, 15 Aug 2026 07:11:01 +0900"
+    },
+    {
+      "title": "[머니톡스] 서울로 서울로…해방의 기쁨과 함께 시작된 주택난",
+      "link": "https://www.yna.co.kr/view/AKR20260814042200546",
+      "pubDate": "Sat, 15 Aug 2026 07:07:01 +0900"
+    },
     {
       "title": "대구본부세관, 대구한의대와 'K-메디' 수출 협력 나서",
       "link": "https://www.yna.co.kr/view/AKR20260814112200053",
@@ -137,21 +152,6 @@
       "title": "연휴 앞두고 국고채 금리 혼조세…초장기물 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260814141251008",
       "pubDate": "Fri, 14 Aug 2026 17:08:09 +0900"
-    },
-    {
-      "title": "미국 드론 관세에 정부 \"우대세율 세부 기준 대미 협의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814144800003",
-      "pubDate": "Fri, 14 Aug 2026 17:07:58 +0900"
-    },
-    {
-      "title": "원주시의회 행정 복지위, 보육부터 청년 취·창업까지 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260814149400062",
-      "pubDate": "Fri, 14 Aug 2026 17:07:29 +0900"
-    },
-    {
-      "title": "롯데카드, 상반기 당기순이익 647억원…55.5%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260814147500002",
-      "pubDate": "Fri, 14 Aug 2026 17:04:02 +0900"
     }
   ]
 }
