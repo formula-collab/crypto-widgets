@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786743936,
+  "updated_at_unix": 1786745421,
   "items": [
+    {
+      "title": "대구본부세관, 대구한의대와 'K-메디' 수출 협력 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260814112200053",
+      "pubDate": "Sat, 15 Aug 2026 07:02:05 +0900"
+    },
+    {
+      "title": "주유소 기름값 13주째 내려…휘발유 1천864원·경유 1천847원",
+      "link": "https://www.yna.co.kr/view/AKR20260814170600003",
+      "pubDate": "Sat, 15 Aug 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[금주핫템] 바이탈뷰트 '슈퍼콜라겐'·구호 프란체스코 푸치 협업 상품",
+      "link": "https://www.yna.co.kr/view/AKR20260814105800030",
+      "pubDate": "Sat, 15 Aug 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[신상잇슈] 샘표 '차오차이 시추안 마라탕면'·'백년동안 맛있는 단백질'",
+      "link": "https://www.yna.co.kr/view/AKR20260814181200030",
+      "pubDate": "Sat, 15 Aug 2026 07:00:00 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 서울 신길동 써밋클라비온 등 3천788가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20260814142900003",
@@ -132,26 +152,6 @@
       "title": "롯데카드, 상반기 당기순이익 647억원…55.5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260814147500002",
       "pubDate": "Fri, 14 Aug 2026 17:04:02 +0900"
-    },
-    {
-      "title": "금융위 \"청년에 비아파트 구입할 추가기회 제공…틈새시장 배려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814136400002",
-      "pubDate": "Fri, 14 Aug 2026 17:02:50 +0900"
-    },
-    {
-      "title": "빌 게이츠, 정재계 연쇄회동…'AI 전력난 해법' SMR 협력 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260814130800003",
-      "pubDate": "Fri, 14 Aug 2026 17:00:01 +0900"
-    },
-    {
-      "title": "동서발전, 하반기 신입사원 121명 입사…안전·디지털 역량 강조",
-      "link": "https://www.yna.co.kr/view/AKR20260814093300057",
-      "pubDate": "Fri, 14 Aug 2026 16:54:02 +0900"
-    },
-    {
-      "title": "[르포] 남양주 신규 택지 기대·우려 교차…\"교통이 관건\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814125700060",
-      "pubDate": "Fri, 14 Aug 2026 16:52:05 +0900"
     }
   ]
 }
