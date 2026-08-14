@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786740698,
+  "updated_at_unix": 1786742033,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 서울 신길동 써밋클라비온 등 3천788가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260814142900003",
+      "pubDate": "Sat, 15 Aug 2026 06:05:01 +0900"
+    },
     {
       "title": "'테라스 붕괴' 아파트 찾은 박찬대 \"시공·감리 책임 묻겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20260814171200065",
@@ -147,11 +152,6 @@
       "title": "[르포] 남양주 신규 택지 기대·우려 교차…\"교통이 관건\"",
       "link": "https://www.yna.co.kr/view/AKR20260814125700060",
       "pubDate": "Fri, 14 Aug 2026 16:52:05 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.796%",
-      "link": "https://www.yna.co.kr/view/AKR20260814141200008",
-      "pubDate": "Fri, 14 Aug 2026 16:42:59 +0900"
     }
   ]
 }
