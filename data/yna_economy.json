@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786754001,
+  "updated_at_unix": 1786759578,
   "items": [
+    {
+      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260815020751003",
+      "pubDate": "Sat, 15 Aug 2026 10:44:39 +0900"
+    },
+    {
+      "title": "기술수출·신약이 끌었다…제약·바이오 2분기 '호실적'",
+      "link": "https://www.yna.co.kr/view/AKR20260814115200017",
+      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260815023800011",
+      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "中, 장쩌민 탄생 100주년 기념주화 발행…금·은화 등 4종",
+      "link": "https://www.yna.co.kr/view/AKR20260815021000083",
+      "pubDate": "Sat, 15 Aug 2026 09:52:37 +0900"
+    },
+    {
+      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
+      "link": "https://www.yna.co.kr/view/AKR20260815020700003",
+      "pubDate": "Sat, 15 Aug 2026 09:48:37 +0900"
+    },
     {
       "title": "[IPO챗] 인제니아·기도산업, 다음주 코스닥 입성",
       "link": "https://www.yna.co.kr/view/AKR20260814117900008",
@@ -127,31 +152,6 @@
       "title": "용산공원 부지에 주택공급 두고 정부-서울시 입장차 뚜렷(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260814050552003",
       "pubDate": "Fri, 14 Aug 2026 17:48:00 +0900"
-    },
-    {
-      "title": "수출입은행, 빌 게이츠와 소형모듈원자로 상용화 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260814159200002",
-      "pubDate": "Fri, 14 Aug 2026 17:47:33 +0900"
-    },
-    {
-      "title": "네카오 CEO 상반기 보수는…최수연 26.7억·정신아 12.1억",
-      "link": "https://www.yna.co.kr/view/AKR20260814156800017",
-      "pubDate": "Fri, 14 Aug 2026 17:39:23 +0900"
-    },
-    {
-      "title": "두나무 2분기 순이익 389억원…60％ 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260814156700002",
-      "pubDate": "Fri, 14 Aug 2026 17:32:50 +0900"
-    },
-    {
-      "title": "삼성전자 상반기 R&D 27조·시설투자 28조, 나란히 동기 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260814156100003",
-      "pubDate": "Fri, 14 Aug 2026 17:31:24 +0900"
-    },
-    {
-      "title": "매출은 GS25·수익성은 CU 우위…편의점 업계, 초접전 선두 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20260814153400030",
-      "pubDate": "Fri, 14 Aug 2026 17:31:12 +0900"
     }
   ]
 }
