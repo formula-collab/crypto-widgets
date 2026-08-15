@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786772805,
+  "updated_at_unix": 1786774637,
   "items": [
+    {
+      "title": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260815034500004",
+      "pubDate": "Sat, 15 Aug 2026 14:45:53 +0900"
+    },
     {
       "title": "[동포의 창]\"한상 네트워크 활용해 韓 기업-파라과이 시장 연결\"",
       "link": "https://www.yna.co.kr/view/AKR20260815034000371",
@@ -147,11 +152,6 @@
       "title": "더본코리아, 2분기 영업손실 56억원…작년 동기 대비 75% 개선",
       "link": "https://www.yna.co.kr/view/AKR20260814162500030",
       "pubDate": "Fri, 14 Aug 2026 18:00:16 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260814157400011",
-      "pubDate": "Fri, 14 Aug 2026 18:00:00 +0900"
     }
   ]
 }
