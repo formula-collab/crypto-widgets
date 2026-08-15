@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786833781,
+  "updated_at_unix": 1786835340,
   "items": [
+    {
+      "title": "자치구마다 오락가락 토허제…서울시의원들 \"기준 통일해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260815034900004",
+      "pubDate": "Sun, 16 Aug 2026 08:00:01 +0900"
+    },
     {
       "title": "문 내린 마트, 썰렁해진 골목…일자리도 사라진 '폐점의 그늘'",
       "link": "https://www.yna.co.kr/view/AKR20260815038100030",
@@ -147,11 +152,6 @@
       "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
       "link": "https://www.yna.co.kr/view/AKR20260815020700003",
       "pubDate": "Sat, 15 Aug 2026 09:48:37 +0900"
-    },
-    {
-      "title": "[IPO챗] 인제니아·기도산업, 다음주 코스닥 입성",
-      "link": "https://www.yna.co.kr/view/AKR20260814117900008",
-      "pubDate": "Sat, 15 Aug 2026 09:00:02 +0900"
     }
   ]
 }
