@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786770864,
+  "updated_at_unix": 1786772805,
   "items": [
+    {
+      "title": "[동포의 창]\"한상 네트워크 활용해 韓 기업-파라과이 시장 연결\"",
+      "link": "https://www.yna.co.kr/view/AKR20260815034000371",
+      "pubDate": "Sat, 15 Aug 2026 14:32:58 +0900"
+    },
     {
       "title": "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260815032200002",
@@ -147,11 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260814157400011",
       "pubDate": "Fri, 14 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "씨티은행 유명순 30억·하나금융 함영주 19억…상반기 보수",
-      "link": "https://www.yna.co.kr/view/AKR20260814159000002",
-      "pubDate": "Fri, 14 Aug 2026 17:51:14 +0900"
     }
   ]
 }
