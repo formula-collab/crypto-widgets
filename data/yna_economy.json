@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786768216,
+  "updated_at_unix": 1786770864,
   "items": [
+    {
+      "title": "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260815032200002",
+      "pubDate": "Sat, 15 Aug 2026 13:34:42 +0900"
+    },
     {
       "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260815020751003",
@@ -147,11 +152,6 @@
       "title": "씨티은행 유명순 30억·하나금융 함영주 19억…상반기 보수",
       "link": "https://www.yna.co.kr/view/AKR20260814159000002",
       "pubDate": "Fri, 14 Aug 2026 17:51:14 +0900"
-    },
-    {
-      "title": "용산공원 부지에 주택공급 두고 정부-서울시 입장차 뚜렷(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260814050552003",
-      "pubDate": "Fri, 14 Aug 2026 17:48:00 +0900"
     }
   ]
 }
