@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786918091,
+  "updated_at_unix": 1786920142,
   "items": [
+    {
+      "title": "'종묘 앞 재개발' 본격화하나…세운4구역 내 유적 보존방안 심의",
+      "link": "https://www.yna.co.kr/view/AKR20260816030600005",
+      "pubDate": "Mon, 17 Aug 2026 07:11:00 +0900"
+    },
+    {
+      "title": "[머니톡스] '무늬만 그린벨트'의 재발견…녹지는 지키고 훼손지는 풀어야",
+      "link": "https://www.yna.co.kr/view/AKR20260813132900546",
+      "pubDate": "Mon, 17 Aug 2026 07:07:00 +0900"
+    },
     {
       "title": "\"한 줄 4천원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
       "link": "https://www.yna.co.kr/view/AKR20260816015900030",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260816016700011",
       "pubDate": "Sun, 16 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "공론화된 용산공원내 주택 건설…'20년 금지' 빗장 풀리나",
-      "link": "https://www.yna.co.kr/view/AKR20260816016600003",
-      "pubDate": "Sun, 16 Aug 2026 10:27:54 +0900"
-    },
-    {
-      "title": "LG전자, 브라질에 새 가전공장…냉장고 연 60만대 생산 능력",
-      "link": "https://www.yna.co.kr/view/AKR20260816012600003",
-      "pubDate": "Sun, 16 Aug 2026 10:00:00 +0900"
     }
   ]
 }
