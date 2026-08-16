@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786920142,
+  "updated_at_unix": 1786921730,
   "items": [
+    {
+      "title": "민선8기 경기도 재정자립도 11.3%p '뚝'… 하락폭 전국 평균 2배",
+      "link": "https://www.yna.co.kr/view/AKR20260814116500061",
+      "pubDate": "Mon, 17 Aug 2026 08:01:02 +0900"
+    },
+    {
+      "title": "OLED, RGB 미니 LED에 판정승…초고휘도 스펙도 못넘은 '화질'",
+      "link": "https://www.yna.co.kr/view/AKR20260814137400003",
+      "pubDate": "Mon, 17 Aug 2026 07:45:01 +0900"
+    },
     {
       "title": "'종묘 앞 재개발' 본격화하나…세운4구역 내 유적 보존방안 심의",
       "link": "https://www.yna.co.kr/view/AKR20260816030600005",
@@ -142,16 +152,6 @@
       "title": "서울시, 전기이륜차 배터리 화재 분석…6천여대 리콜",
       "link": "https://www.yna.co.kr/view/AKR20260815020600004",
       "pubDate": "Sun, 16 Aug 2026 11:15:04 +0900"
-    },
-    {
-      "title": "서울시, 인도네시아 반둥시 공무원 200명에 디지털정책 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260815023500004",
-      "pubDate": "Sun, 16 Aug 2026 11:15:03 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260816016700011",
-      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0900"
     }
   ]
 }
