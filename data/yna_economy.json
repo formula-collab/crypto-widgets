@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786840501,
+  "updated_at_unix": 1786846418,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260816016700011",
+      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0900"
+    },
+    {
+      "title": "공론화된 용산공원내 주택 건설…'20년 금지' 빗장 풀리나",
+      "link": "https://www.yna.co.kr/view/AKR20260816016600003",
+      "pubDate": "Sun, 16 Aug 2026 10:27:54 +0900"
+    },
+    {
+      "title": "LG전자, 브라질에 새 가전공장…냉장고 연 60만대 생산 능력",
+      "link": "https://www.yna.co.kr/view/AKR20260816012600003",
+      "pubDate": "Sun, 16 Aug 2026 10:00:00 +0900"
+    },
     {
       "title": "CJ, 美서 K-푸드 영토 확장…비비고·뚜레쥬르 앞세워 승부수",
       "link": "https://www.yna.co.kr/view/AKR20260815045400030",
@@ -137,21 +152,6 @@
       "title": "[부고] 박세혁(금융감독원 증권거래감독팀장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260815032200002",
       "pubDate": "Sat, 15 Aug 2026 13:34:42 +0900"
-    },
-    {
-      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260815020751003",
-      "pubDate": "Sat, 15 Aug 2026 10:44:39 +0900"
-    },
-    {
-      "title": "기술수출·신약이 끌었다…제약·바이오 2분기 '호실적'",
-      "link": "https://www.yna.co.kr/view/AKR20260814115200017",
-      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260815023800011",
-      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0900"
     }
   ]
 }
