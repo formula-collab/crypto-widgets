@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786921730,
+  "updated_at_unix": 1786923580,
   "items": [
+    {
+      "title": "15조원 경북도 금고 선정 3파전…KB국민은행 이례적 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260814143000053",
+      "pubDate": "Mon, 17 Aug 2026 08:31:15 +0900"
+    },
+    {
+      "title": "하나은행, 인천시와 동반성장 금융 지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260814182600002",
+      "pubDate": "Mon, 17 Aug 2026 08:30:01 +0900"
+    },
+    {
+      "title": "간장통 10개로 창업한 샘표 80주년…현존 '최고령' 등록 상표",
+      "link": "https://www.yna.co.kr/view/AKR20260816029900030",
+      "pubDate": "Mon, 17 Aug 2026 08:23:47 +0900"
+    },
     {
       "title": "민선8기 경기도 재정자립도 11.3%p '뚝'… 하락폭 전국 평균 2배",
       "link": "https://www.yna.co.kr/view/AKR20260814116500061",
@@ -137,21 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260816026300011",
       "pubDate": "Sun, 16 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "코스피, 지난주 5일 연속 상승…외국인 순매수로 지수 견인",
-      "link": "https://www.yna.co.kr/view/AKR20260815041700008",
-      "pubDate": "Sun, 16 Aug 2026 12:27:34 +0900"
-    },
-    {
-      "title": "[부고] 곽윤아(연합뉴스 증권부 기자)씨 조부상",
-      "link": "https://www.yna.co.kr/view/AKR20260816020100008",
-      "pubDate": "Sun, 16 Aug 2026 11:46:57 +0900"
-    },
-    {
-      "title": "서울시, 전기이륜차 배터리 화재 분석…6천여대 리콜",
-      "link": "https://www.yna.co.kr/view/AKR20260815020600004",
-      "pubDate": "Sun, 16 Aug 2026 11:15:04 +0900"
     }
   ]
 }
