@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786837206,
+  "updated_at_unix": 1786840501,
   "items": [
+    {
+      "title": "CJ, 美서 K-푸드 영토 확장…비비고·뚜레쥬르 앞세워 승부수",
+      "link": "https://www.yna.co.kr/view/AKR20260815045400030",
+      "pubDate": "Sun, 16 Aug 2026 09:00:02 +0900"
+    },
+    {
+      "title": "\"K-스킨케어 반했어요\"…미국 올리브영에 하루 1천명 몰렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260815049500030",
+      "pubDate": "Sun, 16 Aug 2026 09:00:01 +0900"
+    },
     {
       "title": "자치구마다 오락가락 토허제…서울시의원들 \"기준 통일해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260815034900004",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260815023800011",
       "pubDate": "Sat, 15 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "中, 장쩌민 탄생 100주년 기념주화 발행…금·은화 등 4종",
-      "link": "https://www.yna.co.kr/view/AKR20260815021000083",
-      "pubDate": "Sat, 15 Aug 2026 09:52:37 +0900"
-    },
-    {
-      "title": "통상 사령탑 여한구 산업부 통상교섭본부장 경질",
-      "link": "https://www.yna.co.kr/view/AKR20260815020700003",
-      "pubDate": "Sat, 15 Aug 2026 09:48:37 +0900"
     }
   ]
 }
