@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786913011,
+  "updated_at_unix": 1786914543,
   "items": [
+    {
+      "title": "'정식 판매처 아니었네' 상표 무단사용 쇼핑몰 업자 벌금형",
+      "link": "https://www.yna.co.kr/view/AKR20260814053100057",
+      "pubDate": "Mon, 17 Aug 2026 06:06:01 +0900"
+    },
+    {
+      "title": "2분기 서학개미 순매도에도…증권사, 해외 수수료 1조 벌었다",
+      "link": "https://www.yna.co.kr/view/AKR20260815033800008",
+      "pubDate": "Mon, 17 Aug 2026 06:05:02 +0900"
+    },
+    {
+      "title": "산재사망 '영업익 5%' 과징금…기업 규모별 차등 부과 검토",
+      "link": "https://www.yna.co.kr/view/AKR20260814130400530",
+      "pubDate": "Mon, 17 Aug 2026 06:02:01 +0900"
+    },
+    {
+      "title": "[위기의 지방재정] ④ \"허리띠만 졸라매선 한계…구조적 불균형 손봐야\"(끝)",
+      "link": "https://www.yna.co.kr/view/AKR20260814138300062",
+      "pubDate": "Mon, 17 Aug 2026 06:01:08 +0900"
+    },
+    {
+      "title": "[위기의 지방재정] ① 지방정부 곳간 '경고등'…재정수지·채무 악화",
+      "link": "https://www.yna.co.kr/view/AKR20260814176600530",
+      "pubDate": "Mon, 17 Aug 2026 06:01:02 +0900"
+    },
+    {
+      "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260815031900008",
+      "pubDate": "Mon, 17 Aug 2026 06:00:05 +0900"
+    },
+    {
+      "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
+      "link": "https://www.yna.co.kr/view/AKR20260815041500002",
+      "pubDate": "Mon, 17 Aug 2026 05:57:02 +0900"
+    },
+    {
+      "title": "[르포] 개강 코앞인데 대학가 원룸 공실 사태…최저 20만원 고시텔은 만실",
+      "link": "https://www.yna.co.kr/view/AKR20260816024800004",
+      "pubDate": "Mon, 17 Aug 2026 05:55:01 +0900"
+    },
+    {
+      "title": "카드업계 막았던 홈플러스 대금 지급 재개…일부는 가압류 묶여",
+      "link": "https://www.yna.co.kr/view/AKR20260815053000002",
+      "pubDate": "Mon, 17 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "서울 아파트 '전세의 월세화'…7년새 월세 비중 7.8%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260811147900002",
+      "pubDate": "Mon, 17 Aug 2026 05:53:00 +0900"
+    },
+    {
+      "title": "금융권 PF 연체율 10년 만에 최고…부실 사업장 정리도 주춤",
+      "link": "https://www.yna.co.kr/view/AKR20260815051300002",
+      "pubDate": "Mon, 17 Aug 2026 05:51:00 +0900"
+    },
+    {
+      "title": "단일종목 레버리지로 거래소·증권가 수수료 수익 1천억 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260815045300002",
+      "pubDate": "Mon, 17 Aug 2026 05:49:00 +0900"
+    },
+    {
+      "title": "26억 이하 1주택, 공동명의가 절세…장기거주는 단독이 유리",
+      "link": "https://www.yna.co.kr/view/AKR20260816029300002",
+      "pubDate": "Mon, 17 Aug 2026 05:47:03 +0900"
+    },
+    {
+      "title": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260816026000002",
+      "pubDate": "Mon, 17 Aug 2026 05:45:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260816026300011",
@@ -82,76 +152,6 @@
       "title": "시어머니 간병하다 육아휴직 수당 신청 놓쳐…결국 못받은 사연",
       "link": "https://www.yna.co.kr/view/AKR20260814167100530",
       "pubDate": "Sun, 16 Aug 2026 06:05:02 +0900"
-    },
-    {
-      "title": "동전주·시총미달 줄줄이 관리종목행…'100개 상폐' 현실화하나",
-      "link": "https://www.yna.co.kr/view/AKR20260815026900008",
-      "pubDate": "Sun, 16 Aug 2026 06:05:01 +0900"
-    },
-    {
-      "title": "1억대 자금으로 수도권 새 아파트?…25%만 먼저 사는 집 나온다",
-      "link": "https://www.yna.co.kr/view/AKR20260815044700003",
-      "pubDate": "Sun, 16 Aug 2026 06:01:01 +0900"
-    },
-    {
-      "title": "해외서 벌고 국내 가격은 올린 식품기업들…경영진 월급도 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260815048900030",
-      "pubDate": "Sun, 16 Aug 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
-      "link": "https://www.yna.co.kr/view/AKR20260814186600008",
-      "pubDate": "Sun, 16 Aug 2026 06:00:16 +0900"
-    },
-    {
-      "title": "다른 색깔 유도선·정류장 온열의자 이을 '국민 아이디어' 뭘까",
-      "link": "https://www.yna.co.kr/view/AKR20260814099900063",
-      "pubDate": "Sun, 16 Aug 2026 06:00:02 +0900"
-    },
-    {
-      "title": "\"후기가 없어졌다?\"…배달플랫폼 리뷰정책에 소비자 불만 증가세",
-      "link": "https://www.yna.co.kr/view/AKR20260815044100001",
-      "pubDate": "Sun, 16 Aug 2026 06:00:01 +0900"
-    },
-    {
-      "title": "피해자가 모집책으로…코인 다단계에 '100배 꿈'은 물거품",
-      "link": "https://www.yna.co.kr/view/AKR20260815041100002",
-      "pubDate": "Sun, 16 Aug 2026 05:57:00 +0900"
-    },
-    {
-      "title": "7.3만호+α 신규택지 이르면 내달 발표…서울 그린벨트 포함될까",
-      "link": "https://www.yna.co.kr/view/AKR20260816004000003",
-      "pubDate": "Sun, 16 Aug 2026 05:55:23 +0900"
-    },
-    {
-      "title": "4대은행 상반기 평균 급여 7천150만원…13년 만에 최고 상승률",
-      "link": "https://www.yna.co.kr/view/AKR20260815021700002",
-      "pubDate": "Sun, 16 Aug 2026 05:55:01 +0900"
-    },
-    {
-      "title": "미래대응기금 100조 육박 가능성…교부금은 연동제 폐지에 무게",
-      "link": "https://www.yna.co.kr/view/AKR20260815002100002",
-      "pubDate": "Sun, 16 Aug 2026 05:53:00 +0900"
-    },
-    {
-      "title": "줄어든 청년 취업자 절반 'AI 고노출 업종'…고용충격 중심 이동",
-      "link": "https://www.yna.co.kr/view/AKR20260815042000002",
-      "pubDate": "Sun, 16 Aug 2026 05:51:00 +0900"
-    },
-    {
-      "title": "'월급' 일자리 4개월째 줄었다…자영업이 떠받친 고용",
-      "link": "https://www.yna.co.kr/view/AKR20260815046700002",
-      "pubDate": "Sun, 16 Aug 2026 05:49:00 +0900"
-    },
-    {
-      "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상",
-      "link": "https://www.yna.co.kr/view/AKR20260815039600002",
-      "pubDate": "Sun, 16 Aug 2026 05:47:00 +0900"
-    },
-    {
-      "title": "집단대출 별도 관리로 '한도 제로' 상호금융도 여력 생긴다",
-      "link": "https://www.yna.co.kr/view/AKR20260815046400002",
-      "pubDate": "Sun, 16 Aug 2026 05:45:04 +0900"
     }
   ]
 }
