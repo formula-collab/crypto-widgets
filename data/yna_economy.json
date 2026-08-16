@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786914543,
+  "updated_at_unix": 1786916395,
   "items": [
+    {
+      "title": "\"전쟁보다 긴 호황\"…높은 정제마진에 정유사 실적성장 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260815030500008",
+      "pubDate": "Mon, 17 Aug 2026 06:30:01 +0900"
+    },
+    {
+      "title": "미국산 원유도입 비중 상반기 첫 20%대…사우디산은 30% 턱걸이",
+      "link": "https://www.yna.co.kr/view/AKR20260814181300003",
+      "pubDate": "Mon, 17 Aug 2026 06:25:00 +0900"
+    },
+    {
+      "title": "개미들, 4개월만에 다시 금 '사자'…본격 반등할까",
+      "link": "https://www.yna.co.kr/view/AKR20260814177000008",
+      "pubDate": "Mon, 17 Aug 2026 06:20:00 +0900"
+    },
+    {
+      "title": "반년 빨리 짓지만 비용 7천만원↑…모듈러 주택 성공할까",
+      "link": "https://www.yna.co.kr/view/AKR20260816025400003",
+      "pubDate": "Mon, 17 Aug 2026 06:09:00 +0900"
+    },
+    {
+      "title": "특별연장근로 있으니 주 52시간 유지?…산업계선 \"탁상행정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260815044600003",
+      "pubDate": "Mon, 17 Aug 2026 06:07:01 +0900"
+    },
     {
       "title": "'정식 판매처 아니었네' 상표 무단사용 쇼핑몰 업자 벌금형",
       "link": "https://www.yna.co.kr/view/AKR20260814053100057",
@@ -127,31 +152,6 @@
       "title": "자치구마다 오락가락 토허제…서울시의원들 \"기준 통일해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260815034900004",
       "pubDate": "Sun, 16 Aug 2026 08:00:01 +0900"
-    },
-    {
-      "title": "문 내린 마트, 썰렁해진 골목…일자리도 사라진 '폐점의 그늘'",
-      "link": "https://www.yna.co.kr/view/AKR20260815038100030",
-      "pubDate": "Sun, 16 Aug 2026 07:00:06 +0900"
-    },
-    {
-      "title": "[만나보니] 블라인드 대표 \"AI발 효율화, 신입채용 축소로 먼저 나타나\"",
-      "link": "https://www.yna.co.kr/view/AKR20260814181400017",
-      "pubDate": "Sun, 16 Aug 2026 07:00:04 +0900"
-    },
-    {
-      "title": "코스닥 이달 수익률 1위지만…삼전닉스 부활에 또 수급 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260815034700008",
-      "pubDate": "Sun, 16 Aug 2026 06:35:00 +0900"
-    },
-    {
-      "title": "증권가, 8·13 부동산 공급대책에 \"중견건설사 모멘텀 주목\"",
-      "link": "https://www.yna.co.kr/view/AKR20260815020900008",
-      "pubDate": "Sun, 16 Aug 2026 06:20:01 +0900"
-    },
-    {
-      "title": "시어머니 간병하다 육아휴직 수당 신청 놓쳐…결국 못받은 사연",
-      "link": "https://www.yna.co.kr/view/AKR20260814167100530",
-      "pubDate": "Sun, 16 Aug 2026 06:05:02 +0900"
     }
   ]
 }
