@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786946181,
+  "updated_at_unix": 1786948544,
   "items": [
+    {
+      "title": "금감원 노조 \"감독기구 지방이전은 초악수, 즉각 중단해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260817042400002",
+      "pubDate": "Mon, 17 Aug 2026 15:04:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260817041500011",
+      "pubDate": "Mon, 17 Aug 2026 15:00:01 +0900"
+    },
     {
       "title": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260816026051002",
@@ -142,16 +152,6 @@
       "title": "[머니톡스] '무늬만 그린벨트'의 재발견…녹지는 지키고 훼손지는 풀어야",
       "link": "https://www.yna.co.kr/view/AKR20260813132900546",
       "pubDate": "Mon, 17 Aug 2026 07:07:00 +0900"
-    },
-    {
-      "title": "\"한 줄 4천원 육박\"…쌀·계란값 상승에 김밥 가격도 부담",
-      "link": "https://www.yna.co.kr/view/AKR20260816015900030",
-      "pubDate": "Mon, 17 Aug 2026 07:01:33 +0900"
-    },
-    {
-      "title": "\"동 이름 둔산으로 바꿀래요\" 왜…재건축사업 아파트 값 상승효과?",
-      "link": "https://www.yna.co.kr/view/AKR20260814066000063",
-      "pubDate": "Mon, 17 Aug 2026 07:00:08 +0900"
     }
   ]
 }
