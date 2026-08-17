@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786937050,
+  "updated_at_unix": 1786939693,
   "items": [
+    {
+      "title": "정부 세제개편안 ISA '핀셋 손질'…부동산 골격은 국회논의 전망(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260816026051002",
+      "pubDate": "Mon, 17 Aug 2026 12:58:43 +0900"
+    },
+    {
+      "title": "국민 68％ \"대미투자 협상내용 공개해야\" [개혁신당 여론조사]",
+      "link": "https://www.yna.co.kr/view/AKR20260817034200001",
+      "pubDate": "Mon, 17 Aug 2026 12:39:06 +0900"
+    },
     {
       "title": "[동포의 창] 동포 청년을 '글로벌 K' 인재로…교육·취업 정책 해법 찾는다",
       "link": "https://www.yna.co.kr/view/AKR20260817035400371",
@@ -142,16 +152,6 @@
       "title": "\"동 이름 둔산으로 바꿀래요\" 왜…재건축사업 아파트 값 상승효과?",
       "link": "https://www.yna.co.kr/view/AKR20260814066000063",
       "pubDate": "Mon, 17 Aug 2026 07:00:08 +0900"
-    },
-    {
-      "title": "국내 리츠시장 규모 120조원 돌파…10년간 100조원대 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260816046200003",
-      "pubDate": "Mon, 17 Aug 2026 07:00:03 +0900"
-    },
-    {
-      "title": "\"전쟁보다 긴 호황\"…높은 정제마진에 정유사 실적성장 전망",
-      "link": "https://www.yna.co.kr/view/AKR20260815030500008",
-      "pubDate": "Mon, 17 Aug 2026 06:30:01 +0900"
     }
   ]
 }
