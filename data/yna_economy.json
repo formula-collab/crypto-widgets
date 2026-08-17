@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786926771,
+  "updated_at_unix": 1786932694,
   "items": [
+    {
+      "title": "[게시판] 국토지리정보원, 어린이 지도 그리기 대회…10월 6일까지 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260816020600003",
+      "pubDate": "Mon, 17 Aug 2026 11:00:03 +0900"
+    },
+    {
+      "title": "미세조류 활용해 안구건조증 개선…해양수산 신기술 9건 인증",
+      "link": "https://www.yna.co.kr/view/AKR20260817019700051",
+      "pubDate": "Mon, 17 Aug 2026 11:00:02 +0900"
+    },
+    {
+      "title": "한강라면부터 화장품까지…코트라, 중국 칭다오서 소비재 판촉전",
+      "link": "https://www.yna.co.kr/view/AKR20260817021400003",
+      "pubDate": "Mon, 17 Aug 2026 11:00:01 +0900"
+    },
+    {
+      "title": "서초구, 부동산 세제개편안 관련 구민 의견 모아 정부에 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260817024700004",
+      "pubDate": "Mon, 17 Aug 2026 10:03:22 +0900"
+    },
+    {
+      "title": "LH, 신규 아파트 승강기 에어컨 의무화…침수 감지 기능도 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260817022800003",
+      "pubDate": "Mon, 17 Aug 2026 09:33:58 +0900"
+    },
     {
       "title": "강남구, 9월 18일 '부동산 세금 설명회'…8·3 개편안 분석",
       "link": "https://www.yna.co.kr/view/AKR20260817021900004",
@@ -127,31 +152,6 @@
       "title": "[위기의 지방재정] ④ \"허리띠만 졸라매선 한계…구조적 불균형 손봐야\"(끝)",
       "link": "https://www.yna.co.kr/view/AKR20260814138300062",
       "pubDate": "Mon, 17 Aug 2026 06:01:08 +0900"
-    },
-    {
-      "title": "[위기의 지방재정] ① 지방정부 곳간 '경고등'…재정수지·채무 악화",
-      "link": "https://www.yna.co.kr/view/AKR20260814176600530",
-      "pubDate": "Mon, 17 Aug 2026 06:01:02 +0900"
-    },
-    {
-      "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260815031900008",
-      "pubDate": "Mon, 17 Aug 2026 06:00:05 +0900"
-    },
-    {
-      "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
-      "link": "https://www.yna.co.kr/view/AKR20260815041500002",
-      "pubDate": "Mon, 17 Aug 2026 05:57:02 +0900"
-    },
-    {
-      "title": "[르포] 개강 코앞인데 대학가 원룸 공실 사태…최저 20만원 고시텔은 만실",
-      "link": "https://www.yna.co.kr/view/AKR20260816024800004",
-      "pubDate": "Mon, 17 Aug 2026 05:55:01 +0900"
-    },
-    {
-      "title": "카드업계 막았던 홈플러스 대금 지급 재개…일부는 가압류 묶여",
-      "link": "https://www.yna.co.kr/view/AKR20260815053000002",
-      "pubDate": "Mon, 17 Aug 2026 05:55:00 +0900"
     }
   ]
 }
