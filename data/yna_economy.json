@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786965280,
+  "updated_at_unix": 1786967157,
   "items": [
+    {
+      "title": "4대 은행, 폭우 피해 금융지원…구호 텐트·급식 차량도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260817058751002",
+      "pubDate": "Mon, 17 Aug 2026 20:23:18 +0900"
+    },
     {
       "title": "수은, 구리 안정적 확보 위해 글로벌 자원업체에 10억달러 지원",
       "link": "https://www.yna.co.kr/view/AKR20260817063500002",
@@ -147,11 +152,6 @@
       "title": "하나은행, 인천시와 동반성장 금융 지원 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20260814182600002",
       "pubDate": "Mon, 17 Aug 2026 08:30:01 +0900"
-    },
-    {
-      "title": "간장통 10개로 창업한 샘표 80주년…현존 '최고령' 등록 상표",
-      "link": "https://www.yna.co.kr/view/AKR20260816029900030",
-      "pubDate": "Mon, 17 Aug 2026 08:23:47 +0900"
     }
   ]
 }
