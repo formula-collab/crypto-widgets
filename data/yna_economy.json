@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786960914,
+  "updated_at_unix": 1786963979,
   "items": [
+    {
+      "title": "수은, 구리 안정적 확보 위해 글로벌 자원업체에 10억달러 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260817063500002",
+      "pubDate": "Mon, 17 Aug 2026 19:25:02 +0900"
+    },
     {
       "title": "KB국민은행, 집중호우 피해 긴급 금융지원",
       "link": "https://www.yna.co.kr/view/AKR20260817058700002",
@@ -147,11 +152,6 @@
       "title": "간장통 10개로 창업한 샘표 80주년…현존 '최고령' 등록 상표",
       "link": "https://www.yna.co.kr/view/AKR20260816029900030",
       "pubDate": "Mon, 17 Aug 2026 08:23:47 +0900"
-    },
-    {
-      "title": "민선8기 경기도 재정자립도 11.3%p '뚝'… 하락폭 전국 평균 2배",
-      "link": "https://www.yna.co.kr/view/AKR20260814116500061",
-      "pubDate": "Mon, 17 Aug 2026 08:01:02 +0900"
     }
   ]
 }
