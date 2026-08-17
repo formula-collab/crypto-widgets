@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786952476,
+  "updated_at_unix": 1786955342,
   "items": [
+    {
+      "title": "5대 은행 주담대 가산금리 고공행진…\"가계대출 억제 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260817053700002",
+      "pubDate": "Mon, 17 Aug 2026 17:08:57 +0900"
+    },
     {
       "title": "[외환] 원/달러 환율 5.3원 내린 1,413.0원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260817046600002",
@@ -147,11 +152,6 @@
       "title": "OLED, RGB 미니 LED에 판정승…초고휘도 스펙도 못넘은 '화질'",
       "link": "https://www.yna.co.kr/view/AKR20260814137400003",
       "pubDate": "Mon, 17 Aug 2026 07:45:01 +0900"
-    },
-    {
-      "title": "'종묘 앞 재개발' 본격화하나…세운4구역 내 유적 보존방안 심의",
-      "link": "https://www.yna.co.kr/view/AKR20260816030600005",
-      "pubDate": "Mon, 17 Aug 2026 07:11:00 +0900"
     }
   ]
 }
