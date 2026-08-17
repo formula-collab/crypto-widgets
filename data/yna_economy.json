@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787003139,
+  "updated_at_unix": 1787004693,
   "items": [
+    {
+      "title": "[우분투칼럼] 프랑스의 아프리카 디아스포라…공은 둥글고 국경선은 곧다",
+      "link": "https://www.yna.co.kr/view/AKR20260814038900898",
+      "pubDate": "Tue, 18 Aug 2026 07:00:04 +0900"
+    },
     {
       "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
       "link": "https://www.yna.co.kr/view/AKR20260817042600003",
@@ -147,11 +152,6 @@
       "title": "미세조류 활용해 안구건조증 개선…해양수산 신기술 9건 인증",
       "link": "https://www.yna.co.kr/view/AKR20260817019700051",
       "pubDate": "Mon, 17 Aug 2026 11:00:02 +0900"
-    },
-    {
-      "title": "한강라면부터 화장품까지…코트라, 중국 칭다오서 소비재 판촉전",
-      "link": "https://www.yna.co.kr/view/AKR20260817021400003",
-      "pubDate": "Mon, 17 Aug 2026 11:00:01 +0900"
     }
   ]
 }
