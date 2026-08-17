@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787004693,
+  "updated_at_unix": 1787006745,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260818014000011",
+      "pubDate": "Tue, 18 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "강남구, 글로벌 무역 인재 키운다…\"수료시 교육비 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818013300004",
+      "pubDate": "Tue, 18 Aug 2026 07:08:11 +0900"
+    },
     {
       "title": "[우분투칼럼] 프랑스의 아프리카 디아스포라…공은 둥글고 국경선은 곧다",
       "link": "https://www.yna.co.kr/view/AKR20260814038900898",
@@ -49,7 +59,7 @@
       "pubDate": "Tue, 18 Aug 2026 05:53:01 +0900"
     },
     {
-      "title": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\"",
+      "title": "무디스 韓성장률 3.5%로 '깜짝' 상향…\"대체 메모리기업 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260817048700002",
       "pubDate": "Tue, 18 Aug 2026 05:51:01 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "동작구 상도동 214번지 신통기획 확정…1천840세대 친환경 단지로",
       "link": "https://www.yna.co.kr/view/AKR20260816025800004",
       "pubDate": "Mon, 17 Aug 2026 11:15:03 +0900"
-    },
-    {
-      "title": "[게시판] 국토지리정보원, 어린이 지도 그리기 대회…10월 6일까지 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260816020600003",
-      "pubDate": "Mon, 17 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "미세조류 활용해 안구건조증 개선…해양수산 신기술 9건 인증",
-      "link": "https://www.yna.co.kr/view/AKR20260817019700051",
-      "pubDate": "Mon, 17 Aug 2026 11:00:02 +0900"
     }
   ]
 }
