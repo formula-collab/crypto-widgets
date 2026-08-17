@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786996049,
+  "updated_at_unix": 1786997574,
   "items": [
+    {
+      "title": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260818005200072",
+      "pubDate": "Tue, 18 Aug 2026 04:50:07 +0900"
+    },
     {
       "title": "4대 은행, 폭우 피해 금융지원…구호 텐트·급식 차량도(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260817058751002",
@@ -147,11 +152,6 @@
       "title": "15조원 경북도 금고 선정 3파전…KB국민은행 이례적 참여",
       "link": "https://www.yna.co.kr/view/AKR20260814143000053",
       "pubDate": "Mon, 17 Aug 2026 08:31:15 +0900"
-    },
-    {
-      "title": "하나은행, 인천시와 동반성장 금융 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260814182600002",
-      "pubDate": "Mon, 17 Aug 2026 08:30:01 +0900"
     }
   ]
 }
