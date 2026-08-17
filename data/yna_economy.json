@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1786999734,
+  "updated_at_unix": 1787001266,
   "items": [
+    {
+      "title": "대기업 신규채용 2년새 15% 감소…청년 줄고 장년 늘며 세대역전",
+      "link": "https://www.yna.co.kr/view/AKR20260817042600003",
+      "pubDate": "Tue, 18 Aug 2026 06:01:02 +0900"
+    },
+    {
+      "title": "\"물놀이 끝나면 해변으로 배달\"…양양 서피비치 주문 2.5배",
+      "link": "https://www.yna.co.kr/view/AKR20260817028700030",
+      "pubDate": "Tue, 18 Aug 2026 06:01:01 +0900"
+    },
+    {
+      "title": "전국 도시재생 명소 52곳서 스탬프투어…4곳 방문하면 상품권",
+      "link": "https://www.yna.co.kr/view/AKR20260816019700003",
+      "pubDate": "Tue, 18 Aug 2026 06:00:04 +0900"
+    },
+    {
+      "title": "구직 청년 64% \"희망 직무 5년 내 AI로 대체·축소될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260817033400003",
+      "pubDate": "Tue, 18 Aug 2026 06:00:04 +0900"
+    },
+    {
+      "title": "서울시, 무주택 청년 이사비·중개보수 최대 40만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260817032600004",
+      "pubDate": "Tue, 18 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "롯데百-SC제일은행, 우수 고객에 자산관리·라운지 상호 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260817053100030",
+      "pubDate": "Tue, 18 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "김윤덕·오세훈 오는 20일 회동…용산공원 주택공급 '분수령'",
+      "link": "https://www.yna.co.kr/view/AKR20260817037200004",
+      "pubDate": "Tue, 18 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "대기업집단, 작년 간판값으로 2.2조 벌었다…SK·LG·한화 순",
+      "link": "https://www.yna.co.kr/view/AKR20260814108000002",
+      "pubDate": "Tue, 18 Aug 2026 05:53:01 +0900"
+    },
+    {
+      "title": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260817048700002",
+      "pubDate": "Tue, 18 Aug 2026 05:51:01 +0900"
+    },
     {
       "title": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
       "link": "https://www.yna.co.kr/view/AKR20260818005200072",
@@ -107,51 +152,6 @@
       "title": "한강라면부터 화장품까지…코트라, 중국 칭다오서 소비재 판촉전",
       "link": "https://www.yna.co.kr/view/AKR20260817021400003",
       "pubDate": "Mon, 17 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "서초구, 부동산 세제개편안 관련 구민 의견 모아 정부에 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260817024700004",
-      "pubDate": "Mon, 17 Aug 2026 10:03:22 +0900"
-    },
-    {
-      "title": "LH, 신규 아파트 승강기 에어컨 의무화…침수 감지 기능도 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260817022800003",
-      "pubDate": "Mon, 17 Aug 2026 09:33:58 +0900"
-    },
-    {
-      "title": "강남구, 9월 18일 '부동산 세금 설명회'…8·3 개편안 분석",
-      "link": "https://www.yna.co.kr/view/AKR20260817021900004",
-      "pubDate": "Mon, 17 Aug 2026 09:17:37 +0900"
-    },
-    {
-      "title": "충북도, '사회연대경제 일경험 사업' 참여 기업·청년 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260814142600064",
-      "pubDate": "Mon, 17 Aug 2026 09:10:03 +0900"
-    },
-    {
-      "title": "KB금융 \"자연 관련 위험 의사결정에 체계적 반영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260815052900002",
-      "pubDate": "Mon, 17 Aug 2026 09:00:05 +0900"
-    },
-    {
-      "title": "CJ \"2028년 북미 매출 12조원 목표…K푸드·콘텐츠·뷰티 시너지\"",
-      "link": "https://www.yna.co.kr/view/AKR20260816037100030",
-      "pubDate": "Mon, 17 Aug 2026 09:00:01 +0900"
-    },
-    {
-      "title": "이재현 CJ 회장 \"세계인 일상 채우는 K-라이프스타일 리더 돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260816035200030",
-      "pubDate": "Mon, 17 Aug 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[르포] 화장품 오픈런에 K팝 떼창까지…'올리브영 페스타' LA 첫 상륙",
-      "link": "https://www.yna.co.kr/view/AKR20260816029800030",
-      "pubDate": "Mon, 17 Aug 2026 09:00:00 +0900"
-    },
-    {
-      "title": "15조원 경북도 금고 선정 3파전…KB국민은행 이례적 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260814143000053",
-      "pubDate": "Mon, 17 Aug 2026 08:31:15 +0900"
     }
   ]
 }
