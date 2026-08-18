@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787025757,
+  "updated_at_unix": 1787029101,
   "items": [
+    {
+      "title": "오세훈, 국무회의 참석…\"부동산규제 풀라, 용산공원 훼손은 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818093000004",
+      "pubDate": "Tue, 18 Aug 2026 13:40:08 +0900"
+    },
+    {
+      "title": "케이뱅크 'ONE 체크카드 보노보노 에디션' 5만장 한정 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260818084700002",
+      "pubDate": "Tue, 18 Aug 2026 13:09:33 +0900"
+    },
+    {
+      "title": "카카오뱅크, 체크카드 누적 결제액 154조원 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260818084100002",
+      "pubDate": "Tue, 18 Aug 2026 13:07:27 +0900"
+    },
+    {
+      "title": "농식품부, '쌀의 날' 기념행사…우수 품종·쌀가공식품 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260818026400030",
+      "pubDate": "Tue, 18 Aug 2026 13:00:01 +0900"
+    },
     {
       "title": "공동근로복지기금 사업주 탈퇴하면 법인이 3주내 보고 의무화",
       "link": "https://www.yna.co.kr/view/AKR20260818076000530",
@@ -132,26 +152,6 @@
       "title": "강진 한국민화뮤지엄 '율아트' 영상 110만뷰 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260818060600054",
       "pubDate": "Tue, 18 Aug 2026 10:40:41 +0900"
-    },
-    {
-      "title": "경기도, 첫 '지방노동감독관' 7급 25명 이어 8~9급 26명 공채",
-      "link": "https://www.yna.co.kr/view/AKR20260818062600061",
-      "pubDate": "Tue, 18 Aug 2026 10:38:39 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260818057600011",
-      "pubDate": "Tue, 18 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "9월 발권 국제선 유류할증료 7단계 '껑충'…뉴욕 왕복 19만원↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818053151003",
-      "pubDate": "Tue, 18 Aug 2026 10:29:53 +0900"
-    },
-    {
-      "title": "신한은행 '땡겨요 우수 가맹점 대출' 출시…최대 1억원",
-      "link": "https://www.yna.co.kr/view/AKR20260818059800002",
-      "pubDate": "Tue, 18 Aug 2026 10:29:36 +0900"
     }
   ]
 }
