@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787032269,
+  "updated_at_unix": 1787034107,
   "items": [
+    {
+      "title": "새마을금고, 지역 소상공인·소기업에 2천억여원 저금리 대출",
+      "link": "https://www.yna.co.kr/view/AKR20260818115600002",
+      "pubDate": "Tue, 18 Aug 2026 15:09:59 +0900"
+    },
+    {
+      "title": "[부고] 김준호(현대해상 기업보험2부장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260818117300002",
+      "pubDate": "Tue, 18 Aug 2026 15:09:30 +0900"
+    },
+    {
+      "title": "주담대 변동금리 넉 달째 상승…7월 코픽스 0.13%p↑",
+      "link": "https://www.yna.co.kr/view/AKR20260818115000002",
+      "pubDate": "Tue, 18 Aug 2026 15:08:56 +0900"
+    },
+    {
+      "title": "전북은행, 핀테크기업 립플과 '디지털금융 구축' 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260818115100055",
+      "pubDate": "Tue, 18 Aug 2026 15:03:05 +0900"
+    },
+    {
+      "title": "케스피온, 130억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260818112500008",
+      "pubDate": "Tue, 18 Aug 2026 14:56:29 +0900"
+    },
+    {
+      "title": "\"숙박시설 확충에 리모델링까지\"…임실군 청소년수련원 새 단장",
+      "link": "https://www.yna.co.kr/view/AKR20260818111700055",
+      "pubDate": "Tue, 18 Aug 2026 14:55:59 +0900"
+    },
+    {
+      "title": "농산물값 폭락에 벼랑끝 내몰린 강원 농민들…\"생존권 보장하라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818104800062",
+      "pubDate": "Tue, 18 Aug 2026 14:48:57 +0900"
+    },
+    {
+      "title": "[게시판] 미래에셋박현주재단, 아동복지시설 청소년 문화체험",
+      "link": "https://www.yna.co.kr/view/AKR20260818109000008",
+      "pubDate": "Tue, 18 Aug 2026 14:48:19 +0900"
+    },
     {
       "title": "오틀리, 당류 0ｇ '노슈가' 귀리 음료 국내 출시",
       "link": "https://www.yna.co.kr/view/AKR20260818107900030",
@@ -112,46 +152,6 @@
       "title": "오세훈, 국무회의 참석…\"부동산규제 풀라, 용산공원 훼손은 안 돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260818093000004",
       "pubDate": "Tue, 18 Aug 2026 13:40:08 +0900"
-    },
-    {
-      "title": "케이뱅크 'ONE 체크카드 보노보노 에디션' 5만장 한정 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260818084700002",
-      "pubDate": "Tue, 18 Aug 2026 13:09:33 +0900"
-    },
-    {
-      "title": "카카오뱅크, 체크카드 누적 결제액 154조원 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260818084100002",
-      "pubDate": "Tue, 18 Aug 2026 13:07:27 +0900"
-    },
-    {
-      "title": "농식품부, '쌀의 날' 기념행사…우수 품종·쌀가공식품 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260818026400030",
-      "pubDate": "Tue, 18 Aug 2026 13:00:01 +0900"
-    },
-    {
-      "title": "공동근로복지기금 사업주 탈퇴하면 법인이 3주내 보고 의무화",
-      "link": "https://www.yna.co.kr/view/AKR20260818076000530",
-      "pubDate": "Tue, 18 Aug 2026 12:32:04 +0900"
-    },
-    {
-      "title": "감사원 \"수출입은행, 외화채권수수료율 고정해 최대 301억 낭비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260817047400001",
-      "pubDate": "Tue, 18 Aug 2026 12:00:10 +0900"
-    },
-    {
-      "title": "건보·무상급식 등 가구당 926만원씩 지원…의료 늘고 교육 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260818071900002",
-      "pubDate": "Tue, 18 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국세청 '극한호우' 거제·통영 중기 세금 납부기간 두 달 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260818076900002",
-      "pubDate": "Tue, 18 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "한은 \"청년 일자리 감소분 94%, AI 고노출 업종서 발생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818079400002",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0900"
     }
   ]
 }
