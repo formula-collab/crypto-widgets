@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787022787,
+  "updated_at_unix": 1787025757,
   "items": [
+    {
+      "title": "공동근로복지기금 사업주 탈퇴하면 법인이 3주내 보고 의무화",
+      "link": "https://www.yna.co.kr/view/AKR20260818076000530",
+      "pubDate": "Tue, 18 Aug 2026 12:32:04 +0900"
+    },
     {
       "title": "감사원 \"수출입은행, 외화채권수수료율 고정해 최대 301억 낭비\"",
       "link": "https://www.yna.co.kr/view/AKR20260817047400001",
@@ -147,11 +152,6 @@
       "title": "신한은행 '땡겨요 우수 가맹점 대출' 출시…최대 1억원",
       "link": "https://www.yna.co.kr/view/AKR20260818059800002",
       "pubDate": "Tue, 18 Aug 2026 10:29:36 +0900"
-    },
-    {
-      "title": "전남광주 7월 무역수지 8억3천만달러 흑자",
-      "link": "https://www.yna.co.kr/view/AKR20260818058600054",
-      "pubDate": "Tue, 18 Aug 2026 10:28:55 +0900"
     }
   ]
 }
