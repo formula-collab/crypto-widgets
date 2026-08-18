@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787094666,
+  "updated_at_unix": 1787096552,
   "items": [
+    {
+      "title": "NH증권 \"스페이스X 회사채, AI 투자 부담 우려 과도하게 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819024500008",
+      "pubDate": "Wed, 19 Aug 2026 08:37:09 +0900"
+    },
+    {
+      "title": "키움증권 \"토모큐브, 금리상승에 할인율 올라…목표주가 하향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819025200008",
+      "pubDate": "Wed, 19 Aug 2026 08:36:59 +0900"
+    },
+    {
+      "title": "신한투자 \"건설업종 비중확대 유지…주택 관련주 상대적 우위\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819024800008",
+      "pubDate": "Wed, 19 Aug 2026 08:34:34 +0900"
+    },
+    {
+      "title": "GS샵 모발 건강기능식품 주문액 133%↑…상품군 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260819023500030",
+      "pubDate": "Wed, 19 Aug 2026 08:28:31 +0900"
+    },
+    {
+      "title": "신영증권 \"제닉, 가파른 실적 성장세…밸류에이션 매력↑",
+      "link": "https://www.yna.co.kr/view/AKR20260819024000008",
+      "pubDate": "Wed, 19 Aug 2026 08:26:45 +0900"
+    },
+    {
+      "title": "한투증권 \"7월 미국 PCE 물가, 전월 대비 상승폭 확대 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819022800008",
+      "pubDate": "Wed, 19 Aug 2026 08:16:57 +0900"
+    },
+    {
+      "title": "LG화학, 면역항암제 후보 'GNV205' 전임상 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260819022300017",
+      "pubDate": "Wed, 19 Aug 2026 08:12:56 +0900"
+    },
     {
       "title": "삼성전자 평택캠퍼스에 3층짜리 팹 건설되나…용적률 상향 추진",
       "link": "https://www.yna.co.kr/view/AKR20260818155900061",
@@ -117,41 +152,6 @@
       "title": "권영세 \"용산공원 주택공급 철회해야\"…오세훈 \"녹지공간 필수\"",
       "link": "https://www.yna.co.kr/view/AKR20260818155800001",
       "pubDate": "Tue, 18 Aug 2026 18:16:15 +0900"
-    },
-    {
-      "title": "[부고] 김동준(재정경제부 대외경제국장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260818160000002",
-      "pubDate": "Tue, 18 Aug 2026 18:13:15 +0900"
-    },
-    {
-      "title": "공공연대노동조합, 강릉시 원청교섭 공고 환영 성명",
-      "link": "https://www.yna.co.kr/view/AKR20260818156000062",
-      "pubDate": "Tue, 18 Aug 2026 18:06:05 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260818150400011",
-      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "與, 내일 '부동산 공급' 국토위 당정…용산공원 의견교환 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260818136500001",
-      "pubDate": "Tue, 18 Aug 2026 17:56:26 +0900"
-    },
-    {
-      "title": "국토부, 공공·민간에 주택공급 속도전 주문…150만가구+α 총력",
-      "link": "https://www.yna.co.kr/view/AKR20260818156700003",
-      "pubDate": "Tue, 18 Aug 2026 17:52:41 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…30년·50년물은 역대 최고치(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818141151008",
-      "pubDate": "Tue, 18 Aug 2026 17:50:03 +0900"
-    },
-    {
-      "title": "7월 기준 서울 민간아파트 분양가 평당 6천209만원",
-      "link": "https://www.yna.co.kr/view/AKR20260818154200003",
-      "pubDate": "Tue, 18 Aug 2026 17:42:51 +0900"
     }
   ]
 }
