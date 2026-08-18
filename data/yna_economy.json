@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787091004,
+  "updated_at_unix": 1787093140,
   "items": [
+    {
+      "title": "'공룡경찰' 로펌행 제동 급증…지난해 취업심사 4건 중 3건 막혀",
+      "link": "https://www.yna.co.kr/view/AKR20260818155300004",
+      "pubDate": "Wed, 19 Aug 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260819013500011",
+      "pubDate": "Wed, 19 Aug 2026 07:30:01 +0900"
+    },
+    {
+      "title": "1조원 규모 인천 옛 공병단 개발사업 차질…SPC 구성 지연",
+      "link": "https://www.yna.co.kr/view/AKR20260818090200065",
+      "pubDate": "Wed, 19 Aug 2026 07:17:01 +0900"
+    },
+    {
+      "title": "울산 첫 외국인 계절근로 지원 조례안 마련…손실보전비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260818118200057",
+      "pubDate": "Wed, 19 Aug 2026 07:07:00 +0900"
+    },
     {
       "title": "충남사회서비스원, 인사위 절차 하자로 인권침해 직원 견책 취소",
       "link": "https://www.yna.co.kr/view/AKR20260818106800063",
@@ -132,26 +152,6 @@
       "title": "태평양 참다랑어 어획 한도 18% 상향…국가별 쿼터는 미정",
       "link": "https://www.yna.co.kr/view/AKR20260818146400051",
       "pubDate": "Tue, 18 Aug 2026 17:05:53 +0900"
-    },
-    {
-      "title": "李대통령, 오세훈에 \"공급 늘려야지 집값폭등 가능성 높여서야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818143151001",
-      "pubDate": "Tue, 18 Aug 2026 17:02:58 +0900"
-    },
-    {
-      "title": "춘천시, 일본 호후시 22∼23일 방문…자매도시 35주년 교류 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260818136100062",
-      "pubDate": "Tue, 18 Aug 2026 16:58:48 +0900"
-    },
-    {
-      "title": "李대통령, 오세훈에 \"공급 늘려야지 집값폭등 가능성 높여서야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818143100001",
-      "pubDate": "Tue, 18 Aug 2026 16:50:13 +0900"
-    },
-    {
-      "title": "춘천시, 추경 AI·민생 집중 1조9천215억원…역대 최다 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260818129200062",
-      "pubDate": "Tue, 18 Aug 2026 16:48:21 +0900"
     }
   ]
 }
