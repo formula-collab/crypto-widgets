@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787048144,
+  "updated_at_unix": 1787050292,
   "items": [
+    {
+      "title": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260818068952003",
+      "pubDate": "Tue, 18 Aug 2026 19:19:47 +0900"
+    },
     {
       "title": "에스에스알, 70억원 유상증자…지란지교에스앤씨 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260818163800008",
@@ -147,11 +152,6 @@
       "title": "최근 코스피 반등세에도…거래대금·거래량 연중 최저수준(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260818099751008",
       "pubDate": "Tue, 18 Aug 2026 16:05:29 +0900"
-    },
-    {
-      "title": "삼성전자, 5거래일만에 내려 '26만전자'…하닉은 1% 상승마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818038851008",
-      "pubDate": "Tue, 18 Aug 2026 16:02:40 +0900"
     }
   ]
 }
