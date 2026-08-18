@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787089395,
+  "updated_at_unix": 1787091004,
   "items": [
+    {
+      "title": "충남사회서비스원, 인사위 절차 하자로 인권침해 직원 견책 취소",
+      "link": "https://www.yna.co.kr/view/AKR20260818106800063",
+      "pubDate": "Wed, 19 Aug 2026 07:00:03 +0900"
+    },
+    {
+      "title": "호텔 투자 열기 속…강남역 보원빌딩 매각 입찰",
+      "link": "https://www.yna.co.kr/view/AKR20260818150600008",
+      "pubDate": "Wed, 19 Aug 2026 07:00:02 +0900"
+    },
     {
       "title": "신세계百, 5개 제휴 카드 페스타…사은행사·무이자 할부 제공",
       "link": "https://www.yna.co.kr/view/AKR20260818143600030",
@@ -142,16 +152,6 @@
       "title": "춘천시, 추경 AI·민생 집중 1조9천215억원…역대 최다 규모",
       "link": "https://www.yna.co.kr/view/AKR20260818129200062",
       "pubDate": "Tue, 18 Aug 2026 16:48:21 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.847%",
-      "link": "https://www.yna.co.kr/view/AKR20260818141100008",
-      "pubDate": "Tue, 18 Aug 2026 16:40:36 +0900"
-    },
-    {
-      "title": "차바이오텍 \"종속회사 차헬스케어 주식 803억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818139900008",
-      "pubDate": "Tue, 18 Aug 2026 16:36:59 +0900"
     }
   ]
 }
