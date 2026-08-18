@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787037075,
+  "updated_at_unix": 1787039920,
   "items": [
+    {
+      "title": "李대통령, 오세훈에 \"공급 늘려야지 집값폭등 가능성 높여서야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818143100001",
+      "pubDate": "Tue, 18 Aug 2026 16:50:13 +0900"
+    },
+    {
+      "title": "춘천시, 추경 AI·민생 집중 1조9천215억원…역대 최다 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260818129200062",
+      "pubDate": "Tue, 18 Aug 2026 16:48:21 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…3년물 연 3.847%",
+      "link": "https://www.yna.co.kr/view/AKR20260818141100008",
+      "pubDate": "Tue, 18 Aug 2026 16:40:36 +0900"
+    },
+    {
+      "title": "차바이오텍 \"종속회사 차헬스케어 주식 803억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818139900008",
+      "pubDate": "Tue, 18 Aug 2026 16:36:59 +0900"
+    },
+    {
+      "title": "오세훈, 국무회의서 \"재건축 규제완화\"…李 \"총리와 협의해보라\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260818093051004",
+      "pubDate": "Tue, 18 Aug 2026 16:34:36 +0900"
+    },
+    {
+      "title": "코스피 변동성 잦아들자 외국인 돌아오나…5거래일 연속 '사자'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260818070051008",
+      "pubDate": "Tue, 18 Aug 2026 16:34:16 +0900"
+    },
+    {
+      "title": "'인구 33%가 청년'…춘천시, '정착부터 성장까지' 5대 전략 제시",
+      "link": "https://www.yna.co.kr/view/AKR20260818127500062",
+      "pubDate": "Tue, 18 Aug 2026 16:23:08 +0900"
+    },
+    {
+      "title": "하남 자연녹지지역 70.14㎢ 토지거래허가구역 신규 지정",
+      "link": "https://www.yna.co.kr/view/AKR20260818135300061",
+      "pubDate": "Tue, 18 Aug 2026 16:18:47 +0900"
+    },
+    {
+      "title": "광진구, '자양2동 모아타운' 내 첫 모아주택 조합설립인가",
+      "link": "https://www.yna.co.kr/view/AKR20260818132900004",
+      "pubDate": "Tue, 18 Aug 2026 16:15:43 +0900"
+    },
+    {
+      "title": "김윤 삼양 회장 \"기술 혁신 사업화 따라 격차 커…AI 활용해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818130400030",
+      "pubDate": "Tue, 18 Aug 2026 16:14:49 +0900"
+    },
+    {
+      "title": "대구·경북 7월 수출 작년 비 20%↑…화공·전기전자가 주도",
+      "link": "https://www.yna.co.kr/view/AKR20260316096554053",
+      "pubDate": "Tue, 18 Aug 2026 16:12:53 +0900"
+    },
+    {
+      "title": "[인사] IBK투자증권",
+      "link": "https://www.yna.co.kr/view/AKR20260818129800008",
+      "pubDate": "Tue, 18 Aug 2026 16:08:01 +0900"
+    },
+    {
+      "title": "[바이오스냅] 유바이오로직스, 알츠하이머병 백신 임상 1상 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260818129300017",
+      "pubDate": "Tue, 18 Aug 2026 16:06:37 +0900"
+    },
+    {
+      "title": "최근 코스피 반등세에도…거래대금·거래량 연중 최저수준(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260818099751008",
+      "pubDate": "Tue, 18 Aug 2026 16:05:29 +0900"
+    },
     {
       "title": "삼성전자, 5거래일만에 내려 '26만전자'…하닉은 1% 상승마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260818038851008",
@@ -82,76 +152,6 @@
       "title": "[전남광주소식] 광주은행, 고객·임직원에 심폐소생술 교육",
       "link": "https://www.yna.co.kr/view/AKR20260818118800054",
       "pubDate": "Tue, 18 Aug 2026 15:33:26 +0900"
-    },
-    {
-      "title": "주담대 변동금리 넉 달째 상승…7월 코픽스 0.13%p↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818115051002",
-      "pubDate": "Tue, 18 Aug 2026 15:33:05 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 1.2원 내린 1,411.8원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260818121700002",
-      "pubDate": "Tue, 18 Aug 2026 15:30:45 +0900"
-    },
-    {
-      "title": "재경부, 청년인턴 소통 간담회…\"미래 인재 도약 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818097800002",
-      "pubDate": "Tue, 18 Aug 2026 15:30:01 +0900"
-    },
-    {
-      "title": "용산공원 개발 반대 확산…서울시·용산구에 시의회 국힘 소속 가세",
-      "link": "https://www.yna.co.kr/view/AKR20260818119600004",
-      "pubDate": "Tue, 18 Aug 2026 15:27:15 +0900"
-    },
-    {
-      "title": "일진파워 \"종속회사 고양그린에너지 주식 89억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818119400008",
-      "pubDate": "Tue, 18 Aug 2026 15:20:39 +0900"
-    },
-    {
-      "title": "금융노조 \"국책은행 지방이전 시도 중단해야\"…청와대에 항의서",
-      "link": "https://www.yna.co.kr/view/AKR20260818119100004",
-      "pubDate": "Tue, 18 Aug 2026 15:19:18 +0900"
-    },
-    {
-      "title": "새마을금고, 지역 소상공인·소기업에 2천억여원 저금리 대출",
-      "link": "https://www.yna.co.kr/view/AKR20260818115600002",
-      "pubDate": "Tue, 18 Aug 2026 15:09:59 +0900"
-    },
-    {
-      "title": "[부고] 김준호(현대해상 기업보험2부장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260818117300002",
-      "pubDate": "Tue, 18 Aug 2026 15:09:30 +0900"
-    },
-    {
-      "title": "주담대 변동금리 넉 달째 상승…7월 코픽스 0.13%p↑",
-      "link": "https://www.yna.co.kr/view/AKR20260818115000002",
-      "pubDate": "Tue, 18 Aug 2026 15:08:56 +0900"
-    },
-    {
-      "title": "전북은행, 핀테크기업 립플과 '디지털금융 구축' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260818115100055",
-      "pubDate": "Tue, 18 Aug 2026 15:03:05 +0900"
-    },
-    {
-      "title": "케스피온, 130억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260818112500008",
-      "pubDate": "Tue, 18 Aug 2026 14:56:29 +0900"
-    },
-    {
-      "title": "\"숙박시설 확충에 리모델링까지\"…임실군 청소년수련원 새 단장",
-      "link": "https://www.yna.co.kr/view/AKR20260818111700055",
-      "pubDate": "Tue, 18 Aug 2026 14:55:59 +0900"
-    },
-    {
-      "title": "농산물값 폭락에 벼랑끝 내몰린 강원 농민들…\"생존권 보장하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818104800062",
-      "pubDate": "Tue, 18 Aug 2026 14:48:57 +0900"
-    },
-    {
-      "title": "[게시판] 미래에셋박현주재단, 아동복지시설 청소년 문화체험",
-      "link": "https://www.yna.co.kr/view/AKR20260818109000008",
-      "pubDate": "Tue, 18 Aug 2026 14:48:19 +0900"
     }
   ]
 }
