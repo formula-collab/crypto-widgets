@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787055627,
+  "updated_at_unix": 1787058893,
   "items": [
+    {
+      "title": "국세청 '극한호우' 거제·통영 중기 세금 납부기간 두 달 연장(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260818076951002",
+      "pubDate": "Tue, 18 Aug 2026 22:00:29 +0900"
+    },
     {
       "title": "용산공원 주택공급 두고 '평행선'…개발 판도 변화 예고(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260818068952003",
@@ -147,11 +152,6 @@
       "title": "[바이오스냅] 유바이오로직스, 알츠하이머병 백신 임상 1상 신청",
       "link": "https://www.yna.co.kr/view/AKR20260818129300017",
       "pubDate": "Tue, 18 Aug 2026 16:06:37 +0900"
-    },
-    {
-      "title": "최근 코스피 반등세에도…거래대금·거래량 연중 최저수준(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818099751008",
-      "pubDate": "Tue, 18 Aug 2026 16:05:29 +0900"
     }
   ]
 }
