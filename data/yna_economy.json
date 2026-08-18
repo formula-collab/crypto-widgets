@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787085883,
+  "updated_at_unix": 1787087515,
   "items": [
+    {
+      "title": "신세계百, 5개 제휴 카드 페스타…사은행사·무이자 할부 제공",
+      "link": "https://www.yna.co.kr/view/AKR20260818143600030",
+      "pubDate": "Wed, 19 Aug 2026 06:00:05 +0900"
+    },
+    {
+      "title": "서울시, 정비사업 조합설립 소요 시간 1년→4개월로 '단축'",
+      "link": "https://www.yna.co.kr/view/AKR20260818148000004",
+      "pubDate": "Wed, 19 Aug 2026 06:00:05 +0900"
+    },
+    {
+      "title": "AI 특허 8년 새 7배로 증가…\"분야별 맞춤 전략 설계해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818154300003",
+      "pubDate": "Wed, 19 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "가상자산 시장 침체에 업비트·빗썸 보유 코인 가치 '뚝'",
+      "link": "https://www.yna.co.kr/view/AKR20260818162200002",
+      "pubDate": "Wed, 19 Aug 2026 05:59:00 +0900"
+    },
+    {
+      "title": "'돈만 잘 벌면 끝 아냐' 4대 금융 회장 성과급 잣대는",
+      "link": "https://www.yna.co.kr/view/AKR20260818155200002",
+      "pubDate": "Wed, 19 Aug 2026 05:57:00 +0900"
+    },
+    {
+      "title": "2분기 수출 절반이 '톱5'…작년 100대 기업 합계보다 많아",
+      "link": "https://www.yna.co.kr/view/AKR20260818165000002",
+      "pubDate": "Wed, 19 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "\"공공기관 분산, '어디'보다 지역과의 '결합'이 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818119200002",
+      "pubDate": "Wed, 19 Aug 2026 05:53:01 +0900"
+    },
+    {
+      "title": "지방이전 발표 목전 술렁이는 관가·금융권…집단행동 확대 조짐",
+      "link": "https://www.yna.co.kr/view/AKR20260818159800002",
+      "pubDate": "Wed, 19 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 중동 불안 지속에 사흘 연속 상승…WTI 0.5%↑",
       "link": "https://www.yna.co.kr/view/AKR20260819005700072",
@@ -112,46 +152,6 @@
       "title": "차바이오텍 \"종속회사 차헬스케어 주식 803억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260818139900008",
       "pubDate": "Tue, 18 Aug 2026 16:36:59 +0900"
-    },
-    {
-      "title": "오세훈, 국무회의서 \"재건축 규제완화\"…李 \"총리와 협의해보라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818093051004",
-      "pubDate": "Tue, 18 Aug 2026 16:34:36 +0900"
-    },
-    {
-      "title": "코스피 변동성 잦아들자 외국인 돌아오나…5거래일 연속 '사자'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818070051008",
-      "pubDate": "Tue, 18 Aug 2026 16:34:16 +0900"
-    },
-    {
-      "title": "'인구 33%가 청년'…춘천시, '정착부터 성장까지' 5대 전략 제시",
-      "link": "https://www.yna.co.kr/view/AKR20260818127500062",
-      "pubDate": "Tue, 18 Aug 2026 16:23:08 +0900"
-    },
-    {
-      "title": "하남 자연녹지지역 70.14㎢ 토지거래허가구역 신규 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260818135300061",
-      "pubDate": "Tue, 18 Aug 2026 16:18:47 +0900"
-    },
-    {
-      "title": "광진구, '자양2동 모아타운' 내 첫 모아주택 조합설립인가",
-      "link": "https://www.yna.co.kr/view/AKR20260818132900004",
-      "pubDate": "Tue, 18 Aug 2026 16:15:43 +0900"
-    },
-    {
-      "title": "김윤 삼양 회장 \"기술 혁신 사업화 따라 격차 커…AI 활용해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818130400030",
-      "pubDate": "Tue, 18 Aug 2026 16:14:49 +0900"
-    },
-    {
-      "title": "대구·경북 7월 수출 작년 비 20%↑…화공·전기전자가 주도",
-      "link": "https://www.yna.co.kr/view/AKR20260316096554053",
-      "pubDate": "Tue, 18 Aug 2026 16:12:53 +0900"
-    },
-    {
-      "title": "[인사] IBK투자증권",
-      "link": "https://www.yna.co.kr/view/AKR20260818129800008",
-      "pubDate": "Tue, 18 Aug 2026 16:08:01 +0900"
     }
   ]
 }
