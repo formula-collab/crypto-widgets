@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787093140,
+  "updated_at_unix": 1787094666,
   "items": [
+    {
+      "title": "삼성전자 평택캠퍼스에 3층짜리 팹 건설되나…용적률 상향 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260818155900061",
+      "pubDate": "Wed, 19 Aug 2026 08:01:00 +0900"
+    },
+    {
+      "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818143900008",
+      "pubDate": "Wed, 19 Aug 2026 08:00:05 +0900"
+    },
+    {
+      "title": "강남구, 체납 구민 방문시 미리 알리고 일정 조율한다",
+      "link": "https://www.yna.co.kr/view/AKR20260819019400004",
+      "pubDate": "Wed, 19 Aug 2026 07:56:59 +0900"
+    },
     {
       "title": "'공룡경찰' 로펌행 제동 급증…지난해 취업심사 4건 중 3건 막혀",
       "link": "https://www.yna.co.kr/view/AKR20260818155300004",
@@ -137,21 +152,6 @@
       "title": "7월 기준 서울 민간아파트 분양가 평당 6천209만원",
       "link": "https://www.yna.co.kr/view/AKR20260818154200003",
       "pubDate": "Tue, 18 Aug 2026 17:42:51 +0900"
-    },
-    {
-      "title": "與, '부동산 세제' 갈등 조짐…\"보완해야\"·\"정부안대로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818151500001",
-      "pubDate": "Tue, 18 Aug 2026 17:37:02 +0900"
-    },
-    {
-      "title": "아이에이, 100억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260818150200008",
-      "pubDate": "Tue, 18 Aug 2026 17:18:19 +0900"
-    },
-    {
-      "title": "태평양 참다랑어 어획 한도 18% 상향…국가별 쿼터는 미정",
-      "link": "https://www.yna.co.kr/view/AKR20260818146400051",
-      "pubDate": "Tue, 18 Aug 2026 17:05:53 +0900"
     }
   ]
 }
