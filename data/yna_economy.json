@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787030726,
+  "updated_at_unix": 1787032269,
   "items": [
+    {
+      "title": "오틀리, 당류 0ｇ '노슈가' 귀리 음료 국내 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260818107900030",
+      "pubDate": "Tue, 18 Aug 2026 14:45:10 +0900"
+    },
+    {
+      "title": "경찰, '수원 공사장 사망' 이랜드건설 현장소장 등 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260818106300061",
+      "pubDate": "Tue, 18 Aug 2026 14:44:09 +0900"
+    },
+    {
+      "title": "[게시판] 롯데카드, 경남 집중호우 피해고객에게 특별 금융지원",
+      "link": "https://www.yna.co.kr/view/AKR20260818105100002",
+      "pubDate": "Tue, 18 Aug 2026 14:36:20 +0900"
+    },
+    {
+      "title": "병원장협 \"병원 가업상속공제 제외 재검토해야…지역의료 몰락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818104300530",
+      "pubDate": "Tue, 18 Aug 2026 14:31:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260818100700011",
+      "pubDate": "Tue, 18 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "관악구, '디지털 인재 이음' 1박2일 취업캠프 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260818104700004",
+      "pubDate": "Tue, 18 Aug 2026 14:25:13 +0900"
+    },
+    {
+      "title": "실리콘투, 3천억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260818102600008",
+      "pubDate": "Tue, 18 Aug 2026 14:21:23 +0900"
+    },
     {
       "title": "\"스트레스 내려놓으세요\"…전주시, 구직 청년 템플스테이 확대",
       "link": "https://www.yna.co.kr/view/AKR20260818099000055",
@@ -117,41 +152,6 @@
       "title": "한은 \"청년 일자리 감소분 94%, AI 고노출 업종서 발생\"",
       "link": "https://www.yna.co.kr/view/AKR20260818079400002",
       "pubDate": "Tue, 18 Aug 2026 12:00:00 +0900"
-    },
-    {
-      "title": "코스피, 장중 하락전환해 7,000선 내줘…코스닥 낙폭 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260818075351008",
-      "pubDate": "Tue, 18 Aug 2026 11:47:49 +0900"
-    },
-    {
-      "title": "샘표, 창립 80주년 기념 감사제…온라인서 최대 54% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260818080300030",
-      "pubDate": "Tue, 18 Aug 2026 11:43:51 +0900"
-    },
-    {
-      "title": "현대건설, 테라파워 원전 최대 8기 설계·조달·시공 우선권",
-      "link": "https://www.yna.co.kr/view/AKR20260818077200003",
-      "pubDate": "Tue, 18 Aug 2026 11:40:53 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.862%",
-      "link": "https://www.yna.co.kr/view/AKR20260818082100008",
-      "pubDate": "Tue, 18 Aug 2026 11:40:52 +0900"
-    },
-    {
-      "title": "용산공원에 어떤 주택·얼마나 공급하나…개발 판도 격변 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260818068900003",
-      "pubDate": "Tue, 18 Aug 2026 11:38:21 +0900"
-    },
-    {
-      "title": "[게시판] 금투협, '금융투자 법규' 교육과정 개설",
-      "link": "https://www.yna.co.kr/view/AKR20260818080800008",
-      "pubDate": "Tue, 18 Aug 2026 11:37:55 +0900"
-    },
-    {
-      "title": "[인사] 교보증권",
-      "link": "https://www.yna.co.kr/view/AKR20260818080700008",
-      "pubDate": "Tue, 18 Aug 2026 11:37:08 +0900"
     }
   ]
 }
