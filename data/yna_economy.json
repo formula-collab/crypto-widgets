@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787044800,
+  "updated_at_unix": 1787046862,
   "items": [
+    {
+      "title": "'자율주행 AI 솔루션' 라이드플럭스, 코스닥 상장예비심사 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260818159300008",
+      "pubDate": "Tue, 18 Aug 2026 18:32:05 +0900"
+    },
+    {
+      "title": "권영세 \"용산공원 주택공급 철회해야\"…오세훈 \"녹지공간 필수\"",
+      "link": "https://www.yna.co.kr/view/AKR20260818155800001",
+      "pubDate": "Tue, 18 Aug 2026 18:16:15 +0900"
+    },
     {
       "title": "[부고] 김동준(재정경제부 대외경제국장)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260818160000002",
@@ -142,16 +152,6 @@
       "title": "AI·플랫폼 시대, 고용 보호 해법은…노동부, ILO 협약 토론회",
       "link": "https://www.yna.co.kr/view/AKR20260818106600530",
       "pubDate": "Tue, 18 Aug 2026 16:00:00 +0900"
-    },
-    {
-      "title": "새만금 수변도시 2차 분양 9월 추진…현대차 9조 투자에 기대감",
-      "link": "https://www.yna.co.kr/view/AKR20260818116000003",
-      "pubDate": "Tue, 18 Aug 2026 16:00:00 +0900"
-    },
-    {
-      "title": "아티스트스튜디오 \"M83 주식 25억원어치 취득…지분율 7.2%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260818128300008",
-      "pubDate": "Tue, 18 Aug 2026 15:57:42 +0900"
     }
   ]
 }
