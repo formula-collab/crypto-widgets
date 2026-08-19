@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787134585,
+  "updated_at_unix": 1787136671,
   "items": [
+    {
+      "title": "금융당국, 은행별 목표치 배분협의 돌입…이달 내 마무리 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260819168300002",
+      "pubDate": "Wed, 19 Aug 2026 19:39:50 +0900"
+    },
     {
       "title": "[부고] 김동재(삼성화재 홍보팀 부장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260819164900002",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260819088551002",
       "pubDate": "Wed, 19 Aug 2026 16:18:51 +0900"
-    },
-    {
-      "title": "삼성전자 아산 반도체 공장 내달 착공…'3대 메가' 사업 중 처음",
-      "link": "https://www.yna.co.kr/view/AKR20260819137800063",
-      "pubDate": "Wed, 19 Aug 2026 16:14:07 +0900"
     }
   ]
 }
