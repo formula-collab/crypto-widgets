@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787145713,
+  "updated_at_unix": 1787148162,
   "items": [
+    {
+      "title": "대규모 저택 '공사 쪼개기' 허가…양평군 직원들 징계 요구",
+      "link": "https://www.yna.co.kr/view/AKR20260819177600061",
+      "pubDate": "Wed, 19 Aug 2026 22:39:53 +0900"
+    },
     {
       "title": "미래운용, 상반기 순이익 '역대 최대' 1조 육박…중소형사 약진(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260819152451008",
@@ -147,11 +152,6 @@
       "title": "롯데건설 회사채 수요예측서 1천510억…예정액의 3배",
       "link": "https://www.yna.co.kr/view/AKR20260819142100008",
       "pubDate": "Wed, 19 Aug 2026 16:30:05 +0900"
-    },
-    {
-      "title": "충북도, 전국 지자체 일자리대상 특별상 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260819142200064",
-      "pubDate": "Wed, 19 Aug 2026 16:28:42 +0900"
     }
   ]
 }
