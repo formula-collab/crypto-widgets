@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787117152,
+  "updated_at_unix": 1787118766,
   "items": [
+    {
+      "title": "구윤철 \"대미 3천500억달러 투자, 에너지 분야 관심 높아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819046551003",
+      "pubDate": "Wed, 19 Aug 2026 14:44:40 +0900"
+    },
+    {
+      "title": "광주은행, 추석 앞두고 1조원 규모 특별자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260819110900054",
+      "pubDate": "Wed, 19 Aug 2026 14:38:55 +0900"
+    },
+    {
+      "title": "지원자 없어 월급 2천만원 올렸더니…시니어 의사 6명 몰려",
+      "link": "https://www.yna.co.kr/view/AKR20260819109600054",
+      "pubDate": "Wed, 19 Aug 2026 14:35:10 +0900"
+    },
+    {
+      "title": "\"인구고령화 지역내총생산 증가율 매년 1.4∼1.8%P 낮춰\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819109500054",
+      "pubDate": "Wed, 19 Aug 2026 14:33:49 +0900"
+    },
+    {
+      "title": "[게시판] 삼성카드, 집중호우 수해 경남에 금융지원 나서",
+      "link": "https://www.yna.co.kr/view/AKR20260819109400002",
+      "pubDate": "Wed, 19 Aug 2026 14:32:28 +0900"
+    },
+    {
+      "title": "KDI \"올해 성장률 전망치 3.2%, 0.7%p↑…체감경기 확산은 미진\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819082051002",
+      "pubDate": "Wed, 19 Aug 2026 14:32:00 +0900"
+    },
+    {
+      "title": "[게시판] 한유원-농진원, 지마켓서 '농산업 우수 혁신제품 모음전'",
+      "link": "https://www.yna.co.kr/view/AKR20260819110300030",
+      "pubDate": "Wed, 19 Aug 2026 14:30:52 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260819107200011",
+      "pubDate": "Wed, 19 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "원주시, 민선9기 공약 119개 실행계획 점검…시민체감 성과 창출",
+      "link": "https://www.yna.co.kr/view/AKR20260819104400062",
+      "pubDate": "Wed, 19 Aug 2026 14:29:17 +0900"
+    },
+    {
+      "title": "BNK금융그룹 임직원들, 거제 수해 복구 현장서 구슬땀",
+      "link": "https://www.yna.co.kr/view/AKR20260819110000051",
+      "pubDate": "Wed, 19 Aug 2026 14:26:41 +0900"
+    },
+    {
+      "title": "농협, 경남 집중호우 피해복구 총력…최대 500억원 긴급 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260819107900030",
+      "pubDate": "Wed, 19 Aug 2026 14:22:10 +0900"
+    },
     {
       "title": "서금원, 금융위기가구 복지로 신속 연계…정보제공 확대",
       "link": "https://www.yna.co.kr/view/AKR20260819103400002",
@@ -97,61 +152,6 @@
       "title": "중기부, '모두의 창업' 2차 모집…우승자에 최대 10억원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260819065600030",
       "pubDate": "Wed, 19 Aug 2026 12:00:14 +0900"
-    },
-    {
-      "title": "가계부채 2천조원 넘어 사상 최대…2분기 26조원 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260819077600002",
-      "pubDate": "Wed, 19 Aug 2026 12:00:06 +0900"
-    },
-    {
-      "title": "KDI \"올해 성장률 전망치 3.2%로 0.7%p↑…0.6%p가 반도체 몫\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819082000002",
-      "pubDate": "Wed, 19 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "코스피 상반기 매출 2천조원…반도체 독주속 순이익 작년 4배로",
-      "link": "https://www.yna.co.kr/view/AKR20260819080900008",
-      "pubDate": "Wed, 19 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "삼성전자, 광주에 플랙트 냉난방공조 생산라인…2천400억 투자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819031051003",
-      "pubDate": "Wed, 19 Aug 2026 11:45:40 +0900"
-    },
-    {
-      "title": "당정, 부동산 공급대책 논의…용산공원 개발문제 여론조사 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260819073400001",
-      "pubDate": "Wed, 19 Aug 2026 11:44:18 +0900"
-    },
-    {
-      "title": "국토장관 \"용산공원 전체 주택 짓지 않아…녹지 상실한 곳 대상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819083600003",
-      "pubDate": "Wed, 19 Aug 2026 11:43:27 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.833%",
-      "link": "https://www.yna.co.kr/view/AKR20260819083900008",
-      "pubDate": "Wed, 19 Aug 2026 11:42:24 +0900"
-    },
-    {
-      "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 '침보테함' 진수",
-      "link": "https://www.yna.co.kr/view/AKR20260819081900003",
-      "pubDate": "Wed, 19 Aug 2026 11:37:19 +0900"
-    },
-    {
-      "title": "호르무즈 봉쇄 후 2번째 한국 선박 수에즈운하로 원유 운송",
-      "link": "https://www.yna.co.kr/view/AKR20260819082400051",
-      "pubDate": "Wed, 19 Aug 2026 11:37:14 +0900"
-    },
-    {
-      "title": "bhc \"'커링클' 출시 한 달 만에 75만개 판매\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819079800030",
-      "pubDate": "Wed, 19 Aug 2026 11:36:56 +0900"
-    },
-    {
-      "title": "[게시판] KB국민은행 \"KB국민인증서 누적 이용 고객 1천800만명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819081600002",
-      "pubDate": "Wed, 19 Aug 2026 11:34:07 +0900"
     }
   ]
 }
