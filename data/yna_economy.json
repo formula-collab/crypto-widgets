@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787179606,
+  "updated_at_unix": 1787181127,
   "items": [
+    {
+      "title": "[마켓뷰] 美훈풍·하이닉스 주주환원…코스피 반등 시도하나",
+      "link": "https://www.yna.co.kr/view/AKR20260820020600008",
+      "pubDate": "Thu, 20 Aug 2026 08:03:45 +0900"
+    },
+    {
+      "title": "삼성전자, 호주서 7년 연속 '가장 사랑받는 TV 브랜드' 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260819125600003",
+      "pubDate": "Thu, 20 Aug 2026 08:00:03 +0900"
+    },
     {
       "title": "요소수·요소·주사기·주사침 매점매석 금지 두 달 연장",
       "link": "https://www.yna.co.kr/view/AKR20260819172300002",
@@ -142,16 +152,6 @@
       "title": "\"울산 조선산업, 고부가가치 선박 중심으로 생산구조 전환\"",
       "link": "https://www.yna.co.kr/view/AKR20260819151100057",
       "pubDate": "Wed, 19 Aug 2026 17:14:29 +0900"
-    },
-    {
-      "title": "식품산업협회, 인도 사절단과 식품산업 협력·CEPA 개선 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260819148300030",
-      "pubDate": "Wed, 19 Aug 2026 17:13:36 +0900"
-    },
-    {
-      "title": "[동포의 창] 고려인의 꿈 굽는 '희망의 화덕'…'페치카베이커리' 첫발",
-      "link": "https://www.yna.co.kr/view/AKR20260819139800371",
-      "pubDate": "Wed, 19 Aug 2026 17:11:20 +0900"
     }
   ]
 }
