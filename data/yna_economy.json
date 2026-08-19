@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787109700,
+  "updated_at_unix": 1787112247,
   "items": [
+    {
+      "title": "국힘·오세훈 국회서 '부동산 토론회'…\"재개발·재건축 풀어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819087100001",
+      "pubDate": "Wed, 19 Aug 2026 12:19:54 +0900"
+    },
     {
       "title": "美금리 동결 우세·수출 네고에…환율 10개월 반 만에 1,300원대",
       "link": "https://www.yna.co.kr/view/AKR20260819088500002",
@@ -147,11 +152,6 @@
       "title": "광화문광장서 대학생 건축가 '학교에서 맺는 관계와 일상' 전시",
       "link": "https://www.yna.co.kr/view/AKR20260819065100004",
       "pubDate": "Wed, 19 Aug 2026 11:15:01 +0900"
-    },
-    {
-      "title": "박홍근, 전장연에 \"예산은 집회·시위로 협상하는 대상 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819074000002",
-      "pubDate": "Wed, 19 Aug 2026 11:13:12 +0900"
     }
   ]
 }
