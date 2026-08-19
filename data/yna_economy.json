@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787131248,
+  "updated_at_unix": 1787133267,
   "items": [
+    {
+      "title": "[부고] 김동재(삼성화재 홍보팀 부장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260819164900002",
+      "pubDate": "Wed, 19 Aug 2026 18:38:39 +0900"
+    },
+    {
+      "title": "미래에셋운용, 상반기 순이익 '역대 최대' 1조원 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260819152400008",
+      "pubDate": "Wed, 19 Aug 2026 18:33:15 +0900"
+    },
+    {
+      "title": "나노씨엠에스, 10억원 유상증자…에스에이치에너지알이백에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260819163500008",
+      "pubDate": "Wed, 19 Aug 2026 18:31:13 +0900"
+    },
     {
       "title": "노동장관 \"HL만도 대표 중처법 위반 입건…불법파견문제도 검토\"",
       "link": "https://www.yna.co.kr/view/AKR20260819161600530",
@@ -137,21 +152,6 @@
       "title": "삼성전자 아산 반도체 공장 내달 착공…'3대 메가' 사업 중 처음",
       "link": "https://www.yna.co.kr/view/AKR20260819137800063",
       "pubDate": "Wed, 19 Aug 2026 16:14:07 +0900"
-    },
-    {
-      "title": "경남 집중호우에 車 침수피해 1천713대…손해액 145억원 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260819132800002",
-      "pubDate": "Wed, 19 Aug 2026 16:14:06 +0900"
-    },
-    {
-      "title": "[동정] 인태연 소진공 이사장, 거제·통영 찾아 호우 피해 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260819131700030",
-      "pubDate": "Wed, 19 Aug 2026 16:10:05 +0900"
-    },
-    {
-      "title": "강북구, 일자리박람회 참여기업 내달 4일까지 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260819136800004",
-      "pubDate": "Wed, 19 Aug 2026 16:06:18 +0900"
     }
   ]
 }
