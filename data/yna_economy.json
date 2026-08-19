@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787128406,
+  "updated_at_unix": 1787131248,
   "items": [
+    {
+      "title": "노동장관 \"HL만도 대표 중처법 위반 입건…불법파견문제도 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819161600530",
+      "pubDate": "Wed, 19 Aug 2026 18:14:31 +0900"
+    },
+    {
+      "title": "韓총리 \"지역 스타트업 세계로 연결될 때 '국가창업시대' 시작\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819160700001",
+      "pubDate": "Wed, 19 Aug 2026 18:11:29 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260819152800011",
+      "pubDate": "Wed, 19 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "강원 2분기 인구 1천766명 순유입…서비스·수출도 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260819156300062",
+      "pubDate": "Wed, 19 Aug 2026 17:59:25 +0900"
+    },
+    {
+      "title": "정은경 \"국민연금 리밸런싱 유예, 시장 변동성 때문\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819128451530",
+      "pubDate": "Wed, 19 Aug 2026 17:57:15 +0900"
+    },
+    {
+      "title": "농식품부 \"폭염에도 추석 수급 안정적\"…내달 종합대책 발표",
+      "link": "https://www.yna.co.kr/view/AKR20260819157000030",
+      "pubDate": "Wed, 19 Aug 2026 17:53:07 +0900"
+    },
+    {
+      "title": "당정 '주택공급 속도전' 강조…용산공원 여론조사 검토(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819073451001",
+      "pubDate": "Wed, 19 Aug 2026 17:41:31 +0900"
+    },
+    {
+      "title": "경기도, 재정난에 6개 산하기관 출연금 522억원 감액",
+      "link": "https://www.yna.co.kr/view/AKR20260819155300061",
+      "pubDate": "Wed, 19 Aug 2026 17:34:41 +0900"
+    },
     {
       "title": "BGF에코머티리얼즈 \"비지에프에코솔루션 주식 384억에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260819154300008",
@@ -112,46 +152,6 @@
       "title": "강북구, 일자리박람회 참여기업 내달 4일까지 모집",
       "link": "https://www.yna.co.kr/view/AKR20260819136800004",
       "pubDate": "Wed, 19 Aug 2026 16:06:18 +0900"
-    },
-    {
-      "title": "경남도, '지방정부 일자리대상' 2개 부문 3년 연속 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260819136900052",
-      "pubDate": "Wed, 19 Aug 2026 16:05:12 +0900"
-    },
-    {
-      "title": "전남광주통합시 \"옛 광주시 채무, 전남에 전가 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819135100054",
-      "pubDate": "Wed, 19 Aug 2026 16:05:02 +0900"
-    },
-    {
-      "title": "[무주소식] 전국 자치단체 일자리 대상 '우수상'",
-      "link": "https://www.yna.co.kr/view/AKR20260819134700055",
-      "pubDate": "Wed, 19 Aug 2026 16:03:42 +0900"
-    },
-    {
-      "title": "강릉시, 전국 지자체 일자리 대상 특별상…5년 연속 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260819133500062",
-      "pubDate": "Wed, 19 Aug 2026 16:03:16 +0900"
-    },
-    {
-      "title": "청주시, 전국 지자체 일자리대상 최우수상 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260819058100064",
-      "pubDate": "Wed, 19 Aug 2026 16:00:02 +0900"
-    },
-    {
-      "title": "우리銀, '상업은행 출신' 박경리 탄생 100주년 기념 지원 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260819128200002",
-      "pubDate": "Wed, 19 Aug 2026 16:00:00 +0900"
-    },
-    {
-      "title": "외국인·기관 '팔자'…삼전닉스 7%·9%대 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819132300008",
-      "pubDate": "Wed, 19 Aug 2026 15:55:12 +0900"
-    },
-    {
-      "title": "국토장관 \"용산공원 전체에 주택짓지 않아…녹지 상실한곳 대상\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819083651003",
-      "pubDate": "Wed, 19 Aug 2026 15:52:18 +0900"
     }
   ]
 }
