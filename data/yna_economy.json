@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787112247,
+  "updated_at_unix": 1787115497,
   "items": [
+    {
+      "title": "인투셀, 연내 ADC 파이프라인 5개 추가…\"2개 발굴 완료\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819091700017",
+      "pubDate": "Wed, 19 Aug 2026 13:16:32 +0900"
+    },
+    {
+      "title": "암참, 구윤철 부총리 초청 간담회…3천500억 달러 전략적 투자 이행 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260819046500003",
+      "pubDate": "Wed, 19 Aug 2026 13:00:10 +0900"
+    },
     {
       "title": "국힘·오세훈 국회서 '부동산 토론회'…\"재개발·재건축 풀어야\"",
       "link": "https://www.yna.co.kr/view/AKR20260819087100001",
@@ -142,16 +152,6 @@
       "title": "코스피, 글로벌 고금리에 장중 5%대↓…삼전닉스 급락",
       "link": "https://www.yna.co.kr/view/AKR20260819075800008",
       "pubDate": "Wed, 19 Aug 2026 11:21:25 +0900"
-    },
-    {
-      "title": "'빌려준 1억원 갚아라' 169회 연락한 50대 벌금 300만원",
-      "link": "https://www.yna.co.kr/view/AKR20260819076300057",
-      "pubDate": "Wed, 19 Aug 2026 11:19:25 +0900"
-    },
-    {
-      "title": "광화문광장서 대학생 건축가 '학교에서 맺는 관계와 일상' 전시",
-      "link": "https://www.yna.co.kr/view/AKR20260819065100004",
-      "pubDate": "Wed, 19 Aug 2026 11:15:01 +0900"
     }
   ]
 }
