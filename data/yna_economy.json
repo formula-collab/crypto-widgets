@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787170386,
+  "updated_at_unix": 1787172602,
   "items": [
+    {
+      "title": "국제유가, UAE·이란 갈등 고조에 나흘 연속 상승…WTI 1%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260820006400072",
+      "pubDate": "Thu, 20 Aug 2026 05:26:57 +0900"
+    },
     {
       "title": "대규모 저택 '공사 쪼개기' 허가…양평군 직원들 징계 요구",
       "link": "https://www.yna.co.kr/view/AKR20260819177600061",
@@ -147,11 +152,6 @@
       "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260819088552002",
       "pubDate": "Wed, 19 Aug 2026 16:30:06 +0900"
-    },
-    {
-      "title": "롯데건설 회사채 수요예측서 1천510억…예정액의 3배",
-      "link": "https://www.yna.co.kr/view/AKR20260819142100008",
-      "pubDate": "Wed, 19 Aug 2026 16:30:05 +0900"
     }
   ]
 }
