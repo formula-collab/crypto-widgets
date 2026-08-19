@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787126311,
+  "updated_at_unix": 1787128406,
   "items": [
+    {
+      "title": "BGF에코머티리얼즈 \"비지에프에코솔루션 주식 384억에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819154300008",
+      "pubDate": "Wed, 19 Aug 2026 17:26:03 +0900"
+    },
+    {
+      "title": "\"울산 조선산업, 고부가가치 선박 중심으로 생산구조 전환\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819151100057",
+      "pubDate": "Wed, 19 Aug 2026 17:14:29 +0900"
+    },
+    {
+      "title": "식품산업협회, 인도 사절단과 식품산업 협력·CEPA 개선 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260819148300030",
+      "pubDate": "Wed, 19 Aug 2026 17:13:36 +0900"
+    },
+    {
+      "title": "[동포의 창] 고려인의 꿈 굽는 '희망의 화덕'…'페치카베이커리' 첫발",
+      "link": "https://www.yna.co.kr/view/AKR20260819139800371",
+      "pubDate": "Wed, 19 Aug 2026 17:11:20 +0900"
+    },
+    {
+      "title": "롯데건설 회사채 수요예측서 3배 몰려…'BBB' 이랜드월드 20억 미매각(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819142151008",
+      "pubDate": "Wed, 19 Aug 2026 17:10:45 +0900"
+    },
+    {
+      "title": "[게시판] 관세청, 을지연습 차원 인천공항서 폭발물 처리 훈련",
+      "link": "https://www.yna.co.kr/view/AKR20260819147400002",
+      "pubDate": "Wed, 19 Aug 2026 17:09:56 +0900"
+    },
+    {
+      "title": "'너무 올랐나' 국고채 금리 일제히 하락…3년물 연 3.798%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819145551008",
+      "pubDate": "Wed, 19 Aug 2026 16:57:35 +0900"
+    },
     {
       "title": "국고채 금리 일제히 하락…3년물 연 3.798%",
       "link": "https://www.yna.co.kr/view/AKR20260819145500008",
@@ -117,41 +152,6 @@
       "title": "국토장관 \"용산공원 전체에 주택짓지 않아…녹지 상실한곳 대상\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260819083651003",
       "pubDate": "Wed, 19 Aug 2026 15:52:18 +0900"
-    },
-    {
-      "title": "정은경 \"국민연금 리밸런싱 유예, 시장 변동성 때문\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819128400530",
-      "pubDate": "Wed, 19 Aug 2026 15:52:05 +0900"
-    },
-    {
-      "title": "FIU, 가상자산 거래소 '법인 계좌 현금 보유 현황' 자료 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260819126100002",
-      "pubDate": "Wed, 19 Aug 2026 15:42:43 +0900"
-    },
-    {
-      "title": "[특징주] 한화에어로, 美육군 차세대 시제품 계약 소식에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819038751008",
-      "pubDate": "Wed, 19 Aug 2026 15:40:18 +0900"
-    },
-    {
-      "title": "외국환시세(8월19일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260819127600002",
-      "pubDate": "Wed, 19 Aug 2026 15:35:16 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 14.1원 내린 1,397.7원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260819126400002",
-      "pubDate": "Wed, 19 Aug 2026 15:30:43 +0900"
-    },
-    {
-      "title": "부산 사상구도 140억원 재원 부족…재정 정상화 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260819123500051",
-      "pubDate": "Wed, 19 Aug 2026 15:28:33 +0900"
-    },
-    {
-      "title": "NH증권, 1천200억원 'N2 IMA1 중기형 3호' 하루만에 완판",
-      "link": "https://www.yna.co.kr/view/AKR20260819124700008",
-      "pubDate": "Wed, 19 Aug 2026 15:26:08 +0900"
     }
   ]
 }
