@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787172602,
+  "updated_at_unix": 1787174071,
   "items": [
+    {
+      "title": "도시에 사는 인구 4천700만명…국토 17%에 국민 92% 거주",
+      "link": "https://www.yna.co.kr/view/AKR20260819127400003",
+      "pubDate": "Thu, 20 Aug 2026 06:00:08 +0900"
+    },
+    {
+      "title": "환경규제 강화되는데…기업 66% \"탄소데이터 나홀로 관리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819129600003",
+      "pubDate": "Thu, 20 Aug 2026 06:00:08 +0900"
+    },
+    {
+      "title": "비청산 장외파생상품거래 증거금 가이드라인 1년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260819148800002",
+      "pubDate": "Thu, 20 Aug 2026 06:00:05 +0900"
+    },
+    {
+      "title": "코인원, 'OKX 지갑' 품고 웹3 생태계 보폭 넓히나",
+      "link": "https://www.yna.co.kr/view/AKR20260819163000002",
+      "pubDate": "Thu, 20 Aug 2026 05:59:00 +0900"
+    },
+    {
+      "title": "카드업계, 호우피해 금융지원…청구유예·카드론 이자 감면 등",
+      "link": "https://www.yna.co.kr/view/AKR20260819159800002",
+      "pubDate": "Thu, 20 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "'망가진 내부통제'…4대 은행 금융사고 10년간 5천500억원",
+      "link": "https://www.yna.co.kr/view/AKR20260819159400002",
+      "pubDate": "Thu, 20 Aug 2026 05:53:01 +0900"
+    },
+    {
+      "title": "교부금 연동제 55년만에 폐지…미래대응기금 100조 넘을 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20260819175800002",
+      "pubDate": "Thu, 20 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, UAE·이란 갈등 고조에 나흘 연속 상승…WTI 1%↑",
       "link": "https://www.yna.co.kr/view/AKR20260820006400072",
@@ -117,41 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.798%",
       "link": "https://www.yna.co.kr/view/AKR20260819145500008",
       "pubDate": "Wed, 19 Aug 2026 16:46:37 +0900"
-    },
-    {
-      "title": "정점식 \"與, 부동산 실패 책임 吳시장에 돌리려 용산공원 선동\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819138100001",
-      "pubDate": "Wed, 19 Aug 2026 16:42:27 +0900"
-    },
-    {
-      "title": "춘천 야시장 재개장…가을밤 도심 상권 활성화 '기대'",
-      "link": "https://www.yna.co.kr/view/AKR20260819143800062",
-      "pubDate": "Wed, 19 Aug 2026 16:40:52 +0900"
-    },
-    {
-      "title": "국토안전관리원, 진주 중앙시장 시설물 점검·보수비용 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260819145200052",
-      "pubDate": "Wed, 19 Aug 2026 16:39:24 +0900"
-    },
-    {
-      "title": "카카오엔터 IPO 지연에…앵커PE, 인수금융 만기 2개월 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260819143200008",
-      "pubDate": "Wed, 19 Aug 2026 16:38:15 +0900"
-    },
-    {
-      "title": "춘천시 창업생태계 전국서 인정…지자체 일자리대상 최우수상",
-      "link": "https://www.yna.co.kr/view/AKR20260819141500062",
-      "pubDate": "Wed, 19 Aug 2026 16:38:13 +0900"
-    },
-    {
-      "title": "포항서 28일 첫 직업계고 취업박람회…16개 기업 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260819142500053",
-      "pubDate": "Wed, 19 Aug 2026 16:37:18 +0900"
-    },
-    {
-      "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260819088552002",
-      "pubDate": "Wed, 19 Aug 2026 16:30:06 +0900"
     }
   ]
 }
