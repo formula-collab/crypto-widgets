@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787175969,
+  "updated_at_unix": 1787177532,
   "items": [
+    {
+      "title": "추석 앞두고 민생지원금 푸는 지자체들…1인당 최대 50만원",
+      "link": "https://www.yna.co.kr/view/AKR20260819154500056",
+      "pubDate": "Thu, 20 Aug 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[우분투칼럼] ODA가 빠진 자리, 무엇으로 채울까",
+      "link": "https://www.yna.co.kr/view/AKR20260814147100898",
+      "pubDate": "Thu, 20 Aug 2026 07:00:02 +0900"
+    },
     {
       "title": "도시에 사는 인구 4천700만명…국토 17%에 국민 92% 거주",
       "link": "https://www.yna.co.kr/view/AKR20260819127400003",
@@ -142,16 +152,6 @@
       "title": "[게시판] 관세청, 을지연습 차원 인천공항서 폭발물 처리 훈련",
       "link": "https://www.yna.co.kr/view/AKR20260819147400002",
       "pubDate": "Wed, 19 Aug 2026 17:09:56 +0900"
-    },
-    {
-      "title": "'너무 올랐나' 국고채 금리 일제히 하락…3년물 연 3.798%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819145551008",
-      "pubDate": "Wed, 19 Aug 2026 16:57:35 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.798%",
-      "link": "https://www.yna.co.kr/view/AKR20260819145500008",
-      "pubDate": "Wed, 19 Aug 2026 16:46:37 +0900"
     }
   ]
 }
