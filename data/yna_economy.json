@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787177532,
+  "updated_at_unix": 1787179606,
   "items": [
+    {
+      "title": "요소수·요소·주사기·주사침 매점매석 금지 두 달 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260819172300002",
+      "pubDate": "Thu, 20 Aug 2026 07:40:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260820014900011",
+      "pubDate": "Thu, 20 Aug 2026 07:30:01 +0900"
+    },
     {
       "title": "추석 앞두고 민생지원금 푸는 지자체들…1인당 최대 50만원",
       "link": "https://www.yna.co.kr/view/AKR20260819154500056",
@@ -142,16 +152,6 @@
       "title": "[동포의 창] 고려인의 꿈 굽는 '희망의 화덕'…'페치카베이커리' 첫발",
       "link": "https://www.yna.co.kr/view/AKR20260819139800371",
       "pubDate": "Wed, 19 Aug 2026 17:11:20 +0900"
-    },
-    {
-      "title": "롯데건설 회사채 수요예측서 3배 몰려…'BBB' 이랜드월드 20억 미매각(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819142151008",
-      "pubDate": "Wed, 19 Aug 2026 17:10:45 +0900"
-    },
-    {
-      "title": "[게시판] 관세청, 을지연습 차원 인천공항서 폭발물 처리 훈련",
-      "link": "https://www.yna.co.kr/view/AKR20260819147400002",
-      "pubDate": "Wed, 19 Aug 2026 17:09:56 +0900"
     }
   ]
 }
