@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787123526,
+  "updated_at_unix": 1787126311,
   "items": [
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.798%",
+      "link": "https://www.yna.co.kr/view/AKR20260819145500008",
+      "pubDate": "Wed, 19 Aug 2026 16:46:37 +0900"
+    },
+    {
+      "title": "정점식 \"與, 부동산 실패 책임 吳시장에 돌리려 용산공원 선동\"",
+      "link": "https://www.yna.co.kr/view/AKR20260819138100001",
+      "pubDate": "Wed, 19 Aug 2026 16:42:27 +0900"
+    },
+    {
+      "title": "춘천 야시장 재개장…가을밤 도심 상권 활성화 '기대'",
+      "link": "https://www.yna.co.kr/view/AKR20260819143800062",
+      "pubDate": "Wed, 19 Aug 2026 16:40:52 +0900"
+    },
+    {
+      "title": "국토안전관리원, 진주 중앙시장 시설물 점검·보수비용 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260819145200052",
+      "pubDate": "Wed, 19 Aug 2026 16:39:24 +0900"
+    },
+    {
+      "title": "카카오엔터 IPO 지연에…앵커PE, 인수금융 만기 2개월 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260819143200008",
+      "pubDate": "Wed, 19 Aug 2026 16:38:15 +0900"
+    },
+    {
+      "title": "춘천시 창업생태계 전국서 인정…지자체 일자리대상 최우수상",
+      "link": "https://www.yna.co.kr/view/AKR20260819141500062",
+      "pubDate": "Wed, 19 Aug 2026 16:38:13 +0900"
+    },
+    {
+      "title": "포항서 28일 첫 직업계고 취업박람회…16개 기업 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260819142500053",
+      "pubDate": "Wed, 19 Aug 2026 16:37:18 +0900"
+    },
+    {
+      "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260819088552002",
+      "pubDate": "Wed, 19 Aug 2026 16:30:06 +0900"
+    },
+    {
+      "title": "롯데건설 회사채 수요예측서 1천510억…예정액의 3배",
+      "link": "https://www.yna.co.kr/view/AKR20260819142100008",
+      "pubDate": "Wed, 19 Aug 2026 16:30:05 +0900"
+    },
+    {
+      "title": "충북도, 전국 지자체 일자리대상 특별상 받아",
+      "link": "https://www.yna.co.kr/view/AKR20260819142200064",
+      "pubDate": "Wed, 19 Aug 2026 16:28:42 +0900"
+    },
+    {
+      "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260819088551002",
+      "pubDate": "Wed, 19 Aug 2026 16:18:51 +0900"
+    },
+    {
+      "title": "삼성전자 아산 반도체 공장 내달 착공…'3대 메가' 사업 중 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260819137800063",
+      "pubDate": "Wed, 19 Aug 2026 16:14:07 +0900"
+    },
+    {
+      "title": "경남 집중호우에 車 침수피해 1천713대…손해액 145억원 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260819132800002",
+      "pubDate": "Wed, 19 Aug 2026 16:14:06 +0900"
+    },
+    {
+      "title": "[동정] 인태연 소진공 이사장, 거제·통영 찾아 호우 피해 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260819131700030",
+      "pubDate": "Wed, 19 Aug 2026 16:10:05 +0900"
+    },
+    {
+      "title": "강북구, 일자리박람회 참여기업 내달 4일까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260819136800004",
+      "pubDate": "Wed, 19 Aug 2026 16:06:18 +0900"
+    },
+    {
+      "title": "경남도, '지방정부 일자리대상' 2개 부문 3년 연속 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260819136900052",
+      "pubDate": "Wed, 19 Aug 2026 16:05:12 +0900"
+    },
     {
       "title": "전남광주통합시 \"옛 광주시 채무, 전남에 전가 안 돼\"",
       "link": "https://www.yna.co.kr/view/AKR20260819135100054",
@@ -72,86 +152,6 @@
       "title": "NH증권, 1천200억원 'N2 IMA1 중기형 3호' 하루만에 완판",
       "link": "https://www.yna.co.kr/view/AKR20260819124700008",
       "pubDate": "Wed, 19 Aug 2026 15:26:08 +0900"
-    },
-    {
-      "title": "폭염·가뭄 견딘 새빨간 거창사과 출하…20㎏상자 최고가 30만원",
-      "link": "https://www.yna.co.kr/view/AKR20260819122900052",
-      "pubDate": "Wed, 19 Aug 2026 15:19:38 +0900"
-    },
-    {
-      "title": "[무안소식] 전남농협, 상호금융 경쟁력 강화 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260819121900054",
-      "pubDate": "Wed, 19 Aug 2026 15:14:47 +0900"
-    },
-    {
-      "title": "제주산 감귤, 우즈베키스탄 간다…\"중앙아 시장 확대 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819122200056",
-      "pubDate": "Wed, 19 Aug 2026 15:13:15 +0900"
-    },
-    {
-      "title": "'대출 절벽' 완화 신호탄…당국·은행권 협의 결과 주목(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819063151002",
-      "pubDate": "Wed, 19 Aug 2026 15:09:37 +0900"
-    },
-    {
-      "title": "[부고] 김갑호(케이앤티인베스트먼트 대표)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260819121100008",
-      "pubDate": "Wed, 19 Aug 2026 15:08:08 +0900"
-    },
-    {
-      "title": "수원축협서 75억 부당대출 혐의…대출담당자·브로커 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260819116900061",
-      "pubDate": "Wed, 19 Aug 2026 15:06:47 +0900"
-    },
-    {
-      "title": "국힘·오세훈 국회서 '부동산 토론회'…\"재개발·재건축 풀어야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819087151001",
-      "pubDate": "Wed, 19 Aug 2026 15:06:18 +0900"
-    },
-    {
-      "title": "무신사, '호우 피해' 거제·통영 주민 위해 생필품 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260819117700030",
-      "pubDate": "Wed, 19 Aug 2026 15:01:26 +0900"
-    },
-    {
-      "title": "부산연구원 \"15분도시 시설에 용적률 등 특례 제공해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819114900051",
-      "pubDate": "Wed, 19 Aug 2026 15:00:22 +0900"
-    },
-    {
-      "title": "전북, 서울·부산 이어 금융중심지 될까…금융당국 연내 심의",
-      "link": "https://www.yna.co.kr/view/AKR20260819101200002",
-      "pubDate": "Wed, 19 Aug 2026 15:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 농협은행 경북본부, 경북교육장학회에 2억원 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20260819115300053",
-      "pubDate": "Wed, 19 Aug 2026 14:53:14 +0900"
-    },
-    {
-      "title": "구윤철 \"대미 3천500억달러 투자, 에너지 분야 관심 높아\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819046551003",
-      "pubDate": "Wed, 19 Aug 2026 14:44:40 +0900"
-    },
-    {
-      "title": "광주은행, 추석 앞두고 1조원 규모 특별자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260819110900054",
-      "pubDate": "Wed, 19 Aug 2026 14:38:55 +0900"
-    },
-    {
-      "title": "지원자 없어 월급 2천만원 올렸더니…시니어 의사 6명 몰려",
-      "link": "https://www.yna.co.kr/view/AKR20260819109600054",
-      "pubDate": "Wed, 19 Aug 2026 14:35:10 +0900"
-    },
-    {
-      "title": "\"인구고령화 지역내총생산 증가율 매년 1.4∼1.8%P 낮춰\"",
-      "link": "https://www.yna.co.kr/view/AKR20260819109500054",
-      "pubDate": "Wed, 19 Aug 2026 14:33:49 +0900"
-    },
-    {
-      "title": "[게시판] 삼성카드, 집중호우 수해 경남에 금융지원 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260819109400002",
-      "pubDate": "Wed, 19 Aug 2026 14:32:28 +0900"
     }
   ]
 }
