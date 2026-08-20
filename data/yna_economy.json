@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787211046,
+  "updated_at_unix": 1787214164,
   "items": [
+    {
+      "title": "정부, 8월 국고채 경과물 5천억원어치 발행 예정",
+      "link": "https://www.yna.co.kr/view/AKR20260820158500002",
+      "pubDate": "Thu, 20 Aug 2026 17:15:27 +0900"
+    },
+    {
+      "title": "[게시판] 하나은행, 자산관리 솔루션 도서출판 기념 북콘서트",
+      "link": "https://www.yna.co.kr/view/AKR20260820158000002",
+      "pubDate": "Thu, 20 Aug 2026 17:13:32 +0900"
+    },
+    {
+      "title": "카드론 잔액 42조7천억원…두달째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20260820147100002",
+      "pubDate": "Thu, 20 Aug 2026 17:12:42 +0900"
+    },
+    {
+      "title": "35년 영욕 겪은 새만금…현대차 9조 투자 업고 '새 미래' 그릴까",
+      "link": "https://www.yna.co.kr/view/AKR20260820150800055",
+      "pubDate": "Thu, 20 Aug 2026 17:09:14 +0900"
+    },
+    {
+      "title": "경기도, 세출 구조조정 맞춰 도지사 보좌진도 슬림화 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260820155700061",
+      "pubDate": "Thu, 20 Aug 2026 17:07:48 +0900"
+    },
+    {
+      "title": "이엠앤아이, 60억원 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260820156700008",
+      "pubDate": "Thu, 20 Aug 2026 17:05:03 +0900"
+    },
+    {
+      "title": "이재율 성남도시개발공사 사장 취임…\"신뢰받는 공기업 도약\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820155000061",
+      "pubDate": "Thu, 20 Aug 2026 17:03:18 +0900"
+    },
+    {
+      "title": "노동부, '철강업 불황' 당진 고용위기지역 지정…여수 1년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260820153700530",
+      "pubDate": "Thu, 20 Aug 2026 16:57:59 +0900"
+    },
+    {
+      "title": "비큐AI \"웹케시 주식 15억원어치 취득…지분율 3.3%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820154300008",
+      "pubDate": "Thu, 20 Aug 2026 16:57:13 +0900"
+    },
+    {
+      "title": "포항환경단체 \"용수대책 없이 데이터센터 착공…증설 재검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820151300053",
+      "pubDate": "Thu, 20 Aug 2026 16:55:04 +0900"
+    },
+    {
+      "title": "장단기 국고채 금리 혼조…외인 선물 매도·美 바이백 소화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820150351008",
+      "pubDate": "Thu, 20 Aug 2026 16:54:28 +0900"
+    },
+    {
+      "title": "[동정] 남재헌 해수차관, 인천 종합어시장 찾아 수산물 물가 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260820152800030",
+      "pubDate": "Thu, 20 Aug 2026 16:53:41 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 연 3.811%",
+      "link": "https://www.yna.co.kr/view/AKR20260820150300008",
+      "pubDate": "Thu, 20 Aug 2026 16:42:17 +0900"
+    },
+    {
+      "title": "[현장in] '1인당 20만원 지급 한 달'…속초에는 활기가 돌았을까",
+      "link": "https://www.yna.co.kr/view/AKR20260820142100062",
+      "pubDate": "Thu, 20 Aug 2026 16:37:02 +0900"
+    },
+    {
+      "title": "구로구, '지방정부 일자리대상' 2개 부문 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260820147700004",
+      "pubDate": "Thu, 20 Aug 2026 16:32:02 +0900"
+    },
+    {
+      "title": "美 입법 기대에 코인 가격 들썩…하락 베팅 4조 가까이 청산",
+      "link": "https://www.yna.co.kr/view/AKR20260820144500002",
+      "pubDate": "Thu, 20 Aug 2026 16:29:47 +0900"
+    },
     {
       "title": "[현장in] 교원그룹 회장 저택 '쪼개기 공사'…양평 시골마을 4년째 '몸살'",
       "link": "https://www.yna.co.kr/view/AKR20260820131000061",
@@ -72,86 +152,6 @@
       "title": "금융 자격시험에서 스마트안경 소지 적발…5년간 응시자격 제한",
       "link": "https://www.yna.co.kr/view/AKR20260820121900008",
       "pubDate": "Thu, 20 Aug 2026 15:39:39 +0900"
-    },
-    {
-      "title": "초장기기술투자펀드 운용사 선정 돌입…이르면 연말부터 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260820127200002",
-      "pubDate": "Thu, 20 Aug 2026 15:38:10 +0900"
-    },
-    {
-      "title": "저작권위, 27∼28일 진주서 '2026 저작권 쟁점 대토론회'",
-      "link": "https://www.yna.co.kr/view/AKR20260820133500052",
-      "pubDate": "Thu, 20 Aug 2026 15:37:56 +0900"
-    },
-    {
-      "title": "외국환시세(8월20일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260820133300002",
-      "pubDate": "Thu, 20 Aug 2026 15:35:40 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.1원 내린 1,392.6원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260820131700002",
-      "pubDate": "Thu, 20 Aug 2026 15:32:53 +0900"
-    },
-    {
-      "title": "현대엘리베이터, GS건설과 초고층 승강기 기술 공동개발 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260820130700003",
-      "pubDate": "Thu, 20 Aug 2026 15:31:23 +0900"
-    },
-    {
-      "title": "고용센터 30년만 전면 개편…실업인정 AI로, 구직상담 늘린다",
-      "link": "https://www.yna.co.kr/view/AKR20260820025200530",
-      "pubDate": "Thu, 20 Aug 2026 15:30:00 +0900"
-    },
-    {
-      "title": "화천군, 전국 지자체 '일자리 대상' 2년 연속 우수상",
-      "link": "https://www.yna.co.kr/view/AKR20260820127900062",
-      "pubDate": "Thu, 20 Aug 2026 15:29:25 +0900"
-    },
-    {
-      "title": "광주은행, '전남광주통합특별시 사랑예금' 1천억원 완판",
-      "link": "https://www.yna.co.kr/view/AKR20260820128800054",
-      "pubDate": "Thu, 20 Aug 2026 15:24:21 +0900"
-    },
-    {
-      "title": "NH증권, 사모펀드 투자 '현대인베스트 셀렉트 혼합1호' 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260820128200008",
-      "pubDate": "Thu, 20 Aug 2026 15:19:41 +0900"
-    },
-    {
-      "title": "[말랑말랑 톡] \"후원자를 중앙에\"…사진자리 비켜준 민형배",
-      "link": "https://www.yna.co.kr/view/AKR20260820126700054",
-      "pubDate": "Thu, 20 Aug 2026 15:16:17 +0900"
-    },
-    {
-      "title": "현대차 노조 \"정년 연장·공정 분배해야\"…21일 전면파업",
-      "link": "https://www.yna.co.kr/view/AKR20260820125400057",
-      "pubDate": "Thu, 20 Aug 2026 15:11:59 +0900"
-    },
-    {
-      "title": "경남투자청장에 이장희 전 코트라 무역관장 선임…24일 취임",
-      "link": "https://www.yna.co.kr/view/AKR20260820126200052",
-      "pubDate": "Thu, 20 Aug 2026 15:08:26 +0900"
-    },
-    {
-      "title": "'NH농심천심 예금' 8일 만에 완판…3천억원 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260820119000002",
-      "pubDate": "Thu, 20 Aug 2026 15:01:41 +0900"
-    },
-    {
-      "title": "구로·행당 등 청년기숙사 2천호 공급…국유기금 주식투자 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260820088500002",
-      "pubDate": "Thu, 20 Aug 2026 15:00:09 +0900"
-    },
-    {
-      "title": "갈길 먼 '용산공원 주택공급' 논의…'본체 활용' 근본 입장차",
-      "link": "https://www.yna.co.kr/view/AKR20260820121300003",
-      "pubDate": "Thu, 20 Aug 2026 14:53:27 +0900"
-    },
-    {
-      "title": "'서민금융 잇다'앱, 상반기 3천294억 대출중개…167억 이자절감",
-      "link": "https://www.yna.co.kr/view/AKR20260820112700002",
-      "pubDate": "Thu, 20 Aug 2026 14:40:33 +0900"
     }
   ]
 }
