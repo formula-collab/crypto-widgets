@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787267663,
+  "updated_at_unix": 1787269544,
   "items": [
+    {
+      "title": "NH투자, KDB생명 인수나선 한국금융지주에 \"증권과 시너지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821028000008",
+      "pubDate": "Fri, 21 Aug 2026 08:38:11 +0900"
+    },
+    {
+      "title": "한화증권 \"코스맥스, 하반기 실적 성장 지속…목표가↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821027200008",
+      "pubDate": "Fri, 21 Aug 2026 08:31:48 +0900"
+    },
+    {
+      "title": "IBK증권 \"美국가부채 40조달러…증가세 단기간 진정 어려워\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821025500008",
+      "pubDate": "Fri, 21 Aug 2026 08:27:09 +0900"
+    },
+    {
+      "title": "[마켓뷰] 또 오른 美국채 금리…전날 급등했던 코스피 발목 잡나",
+      "link": "https://www.yna.co.kr/view/AKR20260821021400008",
+      "pubDate": "Fri, 21 Aug 2026 08:12:04 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260821015200011",
@@ -132,26 +152,6 @@
       "title": "서울·경기·인천 외국인 토지거래허가구역 1년 연장",
       "link": "https://www.yna.co.kr/view/AKR20260820165000003",
       "pubDate": "Thu, 20 Aug 2026 17:51:07 +0900"
-    },
-    {
-      "title": "시가 대신 공정가액으로 합병가액…'주가누르기' 유인 차단",
-      "link": "https://www.yna.co.kr/view/AKR20260820164600002",
-      "pubDate": "Thu, 20 Aug 2026 17:45:59 +0900"
-    },
-    {
-      "title": "불공정 손배소에 공정위 자료제출 의무화…공정거래법 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260820162800002",
-      "pubDate": "Thu, 20 Aug 2026 17:42:26 +0900"
-    },
-    {
-      "title": "울릉도·우도 등 섬 353곳 외국인 토지거래허가구역 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260820163100003",
-      "pubDate": "Thu, 20 Aug 2026 17:37:33 +0900"
-    },
-    {
-      "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260820070052008",
-      "pubDate": "Thu, 20 Aug 2026 17:35:38 +0900"
     }
   ]
 }
