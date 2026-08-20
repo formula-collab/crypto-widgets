@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787203798,
+  "updated_at_unix": 1787205404,
   "items": [
+    {
+      "title": "갈길 먼 '용산공원 주택공급' 논의…'본체 활용' 근본 입장차",
+      "link": "https://www.yna.co.kr/view/AKR20260820121300003",
+      "pubDate": "Thu, 20 Aug 2026 14:53:27 +0900"
+    },
+    {
+      "title": "'서민금융 잇다'앱, 상반기 3천294억 대출중개…167억 이자절감",
+      "link": "https://www.yna.co.kr/view/AKR20260820112700002",
+      "pubDate": "Thu, 20 Aug 2026 14:40:33 +0900"
+    },
+    {
+      "title": "HUG, 이사 전 보증 가입 확인하는 '전세보증 사전심사' 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260820118600003",
+      "pubDate": "Thu, 20 Aug 2026 14:39:48 +0900"
+    },
+    {
+      "title": "성심당 시즌 케이크 영암 '무화과시루' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260820117300054",
+      "pubDate": "Thu, 20 Aug 2026 14:37:39 +0900"
+    },
+    {
+      "title": "부천시, 토지거래허가구역 신규 지정…주택공급지 투기 차단",
+      "link": "https://www.yna.co.kr/view/AKR20260820117000065",
+      "pubDate": "Thu, 20 Aug 2026 14:31:28 +0900"
+    },
+    {
+      "title": "산은, 세컨더리 펀드 소형분야 위탁운용사에 컴퍼니케이파트너스",
+      "link": "https://www.yna.co.kr/view/AKR20260820114300002",
+      "pubDate": "Thu, 20 Aug 2026 14:30:11 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260820113600011",
+      "pubDate": "Thu, 20 Aug 2026 14:30:00 +0900"
+    },
     {
       "title": "\"청년이 직접 기획\"…내달 전주 덕진공원서 '청년의 날' 축제",
       "link": "https://www.yna.co.kr/view/AKR20260820115400055",
@@ -117,41 +152,6 @@
       "title": "제조기업 10곳 중 8곳 \"피지컬AI 도입 또는 도입 예정\"",
       "link": "https://www.yna.co.kr/view/AKR20260820068400003",
       "pubDate": "Thu, 20 Aug 2026 12:00:14 +0900"
-    },
-    {
-      "title": "\"급전 필요하면 개통부터\"…대포유심 4천여개 유통조직 경찰에 덜미",
-      "link": "https://www.yna.co.kr/view/AKR20260820072200004",
-      "pubDate": "Thu, 20 Aug 2026 12:00:09 +0900"
-    },
-    {
-      "title": "석화 재편 '대산 1호' 결합 조건부 승인…제품가격 인상 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260820074600002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:05 +0900"
-    },
-    {
-      "title": "금감원, AI로 가상자산 불공정거래 감시 자동화…\"신속한 대응\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820079200002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:05 +0900"
-    },
-    {
-      "title": "100세 이상 8천604명, 10년 새 2.7배로…남성은 3.3배 '쑥'",
-      "link": "https://www.yna.co.kr/view/AKR20260820073600002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:04 +0900"
-    },
-    {
-      "title": "대도시 고용률 2년 연속 내리막…군지역은 역대 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260820087200002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "한중, 수산물 검역 디지털 전환…연 30억 비용 절감",
-      "link": "https://www.yna.co.kr/view/AKR20260820046100030",
-      "pubDate": "Thu, 20 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "中企 140개사, 라스베이거스 'K-굿즈 페어'서 K소비재 알린다",
-      "link": "https://www.yna.co.kr/view/AKR20260820074700030",
-      "pubDate": "Thu, 20 Aug 2026 12:00:01 +0900"
     }
   ]
 }
