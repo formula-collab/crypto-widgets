@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787219744,
+  "updated_at_unix": 1787221159,
   "items": [
+    {
+      "title": "약사회 \"'플랫폼 도매겸업 차단' 약사법 개정 환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820173400017",
+      "pubDate": "Thu, 20 Aug 2026 18:59:53 +0900"
+    },
+    {
+      "title": "씨티 \"환율 1,390원 아래선 국민연금 환헤지 확대 멈출 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820170400002",
+      "pubDate": "Thu, 20 Aug 2026 18:56:59 +0900"
+    },
     {
       "title": "보험사기 가담자 시장진입 규제 강화…\"보험업 신뢰 높아질 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260820164900002",
@@ -142,16 +152,6 @@
       "title": "비큐AI \"웹케시 주식 15억원어치 취득…지분율 3.3%\"",
       "link": "https://www.yna.co.kr/view/AKR20260820154300008",
       "pubDate": "Thu, 20 Aug 2026 16:57:13 +0900"
-    },
-    {
-      "title": "포항환경단체 \"용수대책 없이 데이터센터 착공…증설 재검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820151300053",
-      "pubDate": "Thu, 20 Aug 2026 16:55:04 +0900"
-    },
-    {
-      "title": "장단기 국고채 금리 혼조…외인 선물 매도·美 바이백 소화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820150351008",
-      "pubDate": "Thu, 20 Aug 2026 16:54:28 +0900"
     }
   ]
 }
