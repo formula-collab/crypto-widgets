@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787205404,
+  "updated_at_unix": 1787207544,
   "items": [
+    {
+      "title": "광주은행, '전남광주통합특별시 사랑예금' 1천억원 완판",
+      "link": "https://www.yna.co.kr/view/AKR20260820128800054",
+      "pubDate": "Thu, 20 Aug 2026 15:24:21 +0900"
+    },
+    {
+      "title": "NH증권, 사모펀드 투자 '현대인베스트 셀렉트 혼합1호' 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260820128200008",
+      "pubDate": "Thu, 20 Aug 2026 15:19:41 +0900"
+    },
+    {
+      "title": "[말랑말랑 톡] \"후원자를 중앙에\"…사진자리 비켜준 민형배",
+      "link": "https://www.yna.co.kr/view/AKR20260820126700054",
+      "pubDate": "Thu, 20 Aug 2026 15:16:17 +0900"
+    },
+    {
+      "title": "현대차 노조 \"정년 연장·공정 분배해야\"…21일 전면파업",
+      "link": "https://www.yna.co.kr/view/AKR20260820125400057",
+      "pubDate": "Thu, 20 Aug 2026 15:11:59 +0900"
+    },
+    {
+      "title": "경남투자청장에 이장희 전 코트라 무역관장 선임…24일 취임",
+      "link": "https://www.yna.co.kr/view/AKR20260820126200052",
+      "pubDate": "Thu, 20 Aug 2026 15:08:26 +0900"
+    },
+    {
+      "title": "'NH농심천심 예금' 8일 만에 완판…3천억원 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260820119000002",
+      "pubDate": "Thu, 20 Aug 2026 15:01:41 +0900"
+    },
+    {
+      "title": "구로·행당 등 청년기숙사 2천호 공급…국유기금 주식투자 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260820088500002",
+      "pubDate": "Thu, 20 Aug 2026 15:00:09 +0900"
+    },
     {
       "title": "갈길 먼 '용산공원 주택공급' 논의…'본체 활용' 근본 입장차",
       "link": "https://www.yna.co.kr/view/AKR20260820121300003",
@@ -117,41 +152,6 @@
       "title": "오세훈 \"국토장관과 용산공원 평행선…인근 부지 절충안으로 제안\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260820095851004",
       "pubDate": "Thu, 20 Aug 2026 12:51:01 +0900"
-    },
-    {
-      "title": "우리은행, ICSD 통한 국고채 거래 유치…국내은행 최초",
-      "link": "https://www.yna.co.kr/view/AKR20260820097400002",
-      "pubDate": "Thu, 20 Aug 2026 12:50:31 +0900"
-    },
-    {
-      "title": "[게시판] 카카오뱅크 '봉사활동 찾기' 서비스",
-      "link": "https://www.yna.co.kr/view/AKR20260820097000002",
-      "pubDate": "Thu, 20 Aug 2026 12:45:25 +0900"
-    },
-    {
-      "title": "하나자산신탁, 부평 현대2단지 재건축준비위원회와 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260820096300002",
-      "pubDate": "Thu, 20 Aug 2026 12:44:30 +0900"
-    },
-    {
-      "title": "국토장관 \"오세훈과 용산공원 입장차 확인…내주 만나 정리\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820093151003",
-      "pubDate": "Thu, 20 Aug 2026 12:32:40 +0900"
-    },
-    {
-      "title": "오세훈 \"국토장관 면담서 용산공원 문제 평행선…절충안 제시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820095800004",
-      "pubDate": "Thu, 20 Aug 2026 12:13:28 +0900"
-    },
-    {
-      "title": "세무사 수임료 비교 광고 금지…근거 없는 '1위'도 안돼",
-      "link": "https://www.yna.co.kr/view/AKR20260820035500002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:22 +0900"
-    },
-    {
-      "title": "제조기업 10곳 중 8곳 \"피지컬AI 도입 또는 도입 예정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820068400003",
-      "pubDate": "Thu, 20 Aug 2026 12:00:14 +0900"
     }
   ]
 }
