@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787264052,
+  "updated_at_unix": 1787266217,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260821015200011",
+      "pubDate": "Fri, 21 Aug 2026 07:30:00 +0900"
+    },
     {
       "title": "6월 서울 아파트값 한달새 2.5%↑…5년 만에 최대폭 상승",
       "link": "https://www.yna.co.kr/view/AKR20260821008500004",
@@ -147,11 +152,6 @@
       "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260820070052008",
       "pubDate": "Thu, 20 Aug 2026 17:35:38 +0900"
-    },
-    {
-      "title": "국토장관, 신길2 도심복합사업 현장 점검…\"2028년 착공 속도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820159800003",
-      "pubDate": "Thu, 20 Aug 2026 17:32:42 +0900"
     }
   ]
 }
