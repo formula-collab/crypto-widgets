@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787201971,
+  "updated_at_unix": 1787203798,
   "items": [
+    {
+      "title": "\"청년이 직접 기획\"…내달 전주 덕진공원서 '청년의 날' 축제",
+      "link": "https://www.yna.co.kr/view/AKR20260820115400055",
+      "pubDate": "Thu, 20 Aug 2026 14:24:33 +0900"
+    },
+    {
+      "title": "김윤덕-오세훈, 용산공원 개발 평행선…주변 부지엔 '접점'(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260820095852004",
+      "pubDate": "Thu, 20 Aug 2026 14:06:31 +0900"
+    },
+    {
+      "title": "금융위, 수해 가계·중소기업 금융지원…긴급자금·만기연장",
+      "link": "https://www.yna.co.kr/view/AKR20260820108700002",
+      "pubDate": "Thu, 20 Aug 2026 14:04:44 +0900"
+    },
+    {
+      "title": "토스뱅크 전자점자 서비스 확대…장애 고객 접근성 제고",
+      "link": "https://www.yna.co.kr/view/AKR20260820108800002",
+      "pubDate": "Thu, 20 Aug 2026 14:00:08 +0900"
+    },
+    {
+      "title": "유연근무제 도입했더니 연장근로시간 절반 '뚝'…일터혁신 사례",
+      "link": "https://www.yna.co.kr/view/AKR20260820059400530",
+      "pubDate": "Thu, 20 Aug 2026 14:00:04 +0900"
+    },
+    {
+      "title": "강남·서초 아파트 매매가격 2주째 약세…전세도 동반 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260820073100003",
+      "pubDate": "Thu, 20 Aug 2026 14:00:04 +0900"
+    },
+    {
+      "title": "북극항로 시범운항 컨테이너선 22일 출항…부산시·팬스타 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260820081900051",
+      "pubDate": "Thu, 20 Aug 2026 14:00:03 +0900"
+    },
+    {
+      "title": "NH농협은행, 양주 산란계 스마트팜 방문…운영성과 등 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260820104700002",
+      "pubDate": "Thu, 20 Aug 2026 13:57:23 +0900"
+    },
     {
       "title": "메리츠증권, 내달 출시 금융플랫폼에 위불 금융 AI 탑재",
       "link": "https://www.yna.co.kr/view/AKR20260820108200008",
@@ -112,46 +152,6 @@
       "title": "中企 140개사, 라스베이거스 'K-굿즈 페어'서 K소비재 알린다",
       "link": "https://www.yna.co.kr/view/AKR20260820074700030",
       "pubDate": "Thu, 20 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "2분기 순대외금융자산 12년 만에 최소…주가 급등에 최대폭 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260820089300002",
-      "pubDate": "Thu, 20 Aug 2026 12:00:00 +0900"
-    },
-    {
-      "title": "국토장관 \"오세훈과 용산공원 관련 입장차 확인…내주 만나 정리\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820093100003",
-      "pubDate": "Thu, 20 Aug 2026 11:55:25 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 장중 연 3.816%",
-      "link": "https://www.yna.co.kr/view/AKR20260820090100008",
-      "pubDate": "Thu, 20 Aug 2026 11:43:03 +0900"
-    },
-    {
-      "title": "[속보] 김윤덕 \"오세훈 시장과 입장차 확인…다음주에도 만날 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820090500003",
-      "pubDate": "Thu, 20 Aug 2026 11:41:46 +0900"
-    },
-    {
-      "title": "[게시판] 신보중앙회, 제주 폐업 소상공인 대상 재도전 교육",
-      "link": "https://www.yna.co.kr/view/AKR20260820025000030",
-      "pubDate": "Thu, 20 Aug 2026 11:40:48 +0900"
-    },
-    {
-      "title": "고기 든 한국 라면도 중국 간다…수출요건 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260820085600017",
-      "pubDate": "Thu, 20 Aug 2026 11:39:06 +0900"
-    },
-    {
-      "title": "농식품부, 제천서 '농촌형 통합돌봄' 시범사업…주민공동체 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260820075200030",
-      "pubDate": "Thu, 20 Aug 2026 11:37:54 +0900"
-    },
-    {
-      "title": "GH신소재 \"美종속회사 주식 86억원에 추가취득…지분율 60.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820088800008",
-      "pubDate": "Thu, 20 Aug 2026 11:37:14 +0900"
     }
   ]
 }
