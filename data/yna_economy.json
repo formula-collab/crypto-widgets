@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787198626,
+  "updated_at_unix": 1787201971,
   "items": [
+    {
+      "title": "메리츠증권, 내달 출시 금융플랫폼에 위불 금융 AI 탑재",
+      "link": "https://www.yna.co.kr/view/AKR20260820108200008",
+      "pubDate": "Thu, 20 Aug 2026 13:51:44 +0900"
+    },
+    {
+      "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820070051008",
+      "pubDate": "Thu, 20 Aug 2026 13:42:12 +0900"
+    },
+    {
+      "title": "NH농협은행 지수연동예금 출시…최고 연 7.35% 수익",
+      "link": "https://www.yna.co.kr/view/AKR20260820102300002",
+      "pubDate": "Thu, 20 Aug 2026 13:35:45 +0900"
+    },
+    {
+      "title": "무역위, 중국·대만 고체 수산화나트륨에 반덤핑관세 예비판정",
+      "link": "https://www.yna.co.kr/view/AKR20260820095600003",
+      "pubDate": "Thu, 20 Aug 2026 13:30:01 +0900"
+    },
+    {
+      "title": "\"청년 창업 역량 키운다\"…강북구 '창업경진대회' 참가자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260820082900004",
+      "pubDate": "Thu, 20 Aug 2026 13:27:59 +0900"
+    },
+    {
+      "title": "우리자산신탁, 고양 능곡역세권 도심복합개발사업 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260820100100002",
+      "pubDate": "Thu, 20 Aug 2026 13:17:13 +0900"
+    },
+    {
+      "title": "[게시판] 수은, 집중호우 구호성금 1억원",
+      "link": "https://www.yna.co.kr/view/AKR20260820099700002",
+      "pubDate": "Thu, 20 Aug 2026 13:15:21 +0900"
+    },
     {
       "title": "오세훈 \"국토장관과 용산공원 평행선…인근 부지 절충안으로 제안\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260820095851004",
@@ -117,41 +152,6 @@
       "title": "GH신소재 \"美종속회사 주식 86억원에 추가취득…지분율 60.7%\"",
       "link": "https://www.yna.co.kr/view/AKR20260820088800008",
       "pubDate": "Thu, 20 Aug 2026 11:37:14 +0900"
-    },
-    {
-      "title": "새마을금고, 상반기 부실채권 3.5조 매각…금고 21곳 합병",
-      "link": "https://www.yna.co.kr/view/AKR20260820087800002",
-      "pubDate": "Thu, 20 Aug 2026 11:37:01 +0900"
-    },
-    {
-      "title": "추석 민생지원금 푸는 지자체들…형평 논란에 \"선심성\" 비판도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260819154551056",
-      "pubDate": "Thu, 20 Aug 2026 11:37:00 +0900"
-    },
-    {
-      "title": "미래에셋증권, 'IMA 4호' 출시…1천억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260820088300008",
-      "pubDate": "Thu, 20 Aug 2026 11:36:21 +0900"
-    },
-    {
-      "title": "광주은행, 치매어르신 실종예방 배회감지기·스마트태그 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260820088200054",
-      "pubDate": "Thu, 20 Aug 2026 11:34:29 +0900"
-    },
-    {
-      "title": "KT&G, 거제·통영 집중호우 피해 복구에 성금 3억원",
-      "link": "https://www.yna.co.kr/view/AKR20260820087000030",
-      "pubDate": "Thu, 20 Aug 2026 11:31:15 +0900"
-    },
-    {
-      "title": "[곡성소식] 전국 지방자치단체 일자리대상 우수상",
-      "link": "https://www.yna.co.kr/view/AKR20260820087500054",
-      "pubDate": "Thu, 20 Aug 2026 11:30:26 +0900"
-    },
-    {
-      "title": "비트고코리아, 해외 기업 최초 직접 VASP 취득…\"장기적 투자\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820075451002",
-      "pubDate": "Thu, 20 Aug 2026 11:28:30 +0900"
     }
   ]
 }
