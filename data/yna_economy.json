@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787207544,
+  "updated_at_unix": 1787211046,
   "items": [
+    {
+      "title": "[현장in] 교원그룹 회장 저택 '쪼개기 공사'…양평 시골마을 4년째 '몸살'",
+      "link": "https://www.yna.co.kr/view/AKR20260820131000061",
+      "pubDate": "Thu, 20 Aug 2026 16:21:04 +0900"
+    },
+    {
+      "title": "울산 7월 수출, 작년보다 11.5% 증가…석유제품·선박 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260820141400057",
+      "pubDate": "Thu, 20 Aug 2026 16:12:30 +0900"
+    },
+    {
+      "title": "구로·세종 등 청년기숙사 2천호 공급…공공청사 200개소 개발(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820088551002",
+      "pubDate": "Thu, 20 Aug 2026 16:11:57 +0900"
+    },
+    {
+      "title": "'주주환원' 하이닉스 12.7%, 19만원 넘게 뛰어…삼전 9%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820044351008",
+      "pubDate": "Thu, 20 Aug 2026 16:11:41 +0900"
+    },
+    {
+      "title": "새만금 MP 변경안서 20번 언급된 '현대차'…부지·전력 등 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260820123100055",
+      "pubDate": "Thu, 20 Aug 2026 16:01:00 +0900"
+    },
+    {
+      "title": "전주시, 1조7천억대 대규모 투자사업들 원점 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20260820073200055",
+      "pubDate": "Thu, 20 Aug 2026 16:00:02 +0900"
+    },
+    {
+      "title": "국민 77% \"고령자·청년 상생 고용체계 필요\"…숙의토론회 진행",
+      "link": "https://www.yna.co.kr/view/AKR20260820071100530",
+      "pubDate": "Thu, 20 Aug 2026 16:00:02 +0900"
+    },
+    {
+      "title": "BBQ, 아시안게임 국가대표 선수단에 격려금 1억원",
+      "link": "https://www.yna.co.kr/view/AKR20260820079000030",
+      "pubDate": "Thu, 20 Aug 2026 16:00:01 +0900"
+    },
+    {
+      "title": "수출업체 달러 매도·약달러…환율 1,390원대 초반",
+      "link": "https://www.yna.co.kr/view/AKR20260820137600002",
+      "pubDate": "Thu, 20 Aug 2026 15:52:36 +0900"
+    },
+    {
+      "title": "IBK기업은행, 유망 청년 창업기업에 2천억원 금융지원",
+      "link": "https://www.yna.co.kr/view/AKR20260820135500002",
+      "pubDate": "Thu, 20 Aug 2026 15:48:32 +0900"
+    },
+    {
+      "title": "돈되는 아파트만?…전주 옛 대한방직 개발 '동시준공' 파기 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260820133600055",
+      "pubDate": "Thu, 20 Aug 2026 15:43:54 +0900"
+    },
+    {
+      "title": "[특징주] 삼양바이오팜, mRNA 암백신 전달체 연구 소식에 상한가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820049151008",
+      "pubDate": "Thu, 20 Aug 2026 15:43:39 +0900"
+    },
+    {
+      "title": "대동, 대구공장 제조 AX 전환…트랙터 연간 3만5천대 생산 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260820132700030",
+      "pubDate": "Thu, 20 Aug 2026 15:43:14 +0900"
+    },
+    {
+      "title": "금융 자격시험에서 스마트안경 소지 적발…5년간 응시자격 제한",
+      "link": "https://www.yna.co.kr/view/AKR20260820121900008",
+      "pubDate": "Thu, 20 Aug 2026 15:39:39 +0900"
+    },
+    {
+      "title": "초장기기술투자펀드 운용사 선정 돌입…이르면 연말부터 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260820127200002",
+      "pubDate": "Thu, 20 Aug 2026 15:38:10 +0900"
+    },
+    {
+      "title": "저작권위, 27∼28일 진주서 '2026 저작권 쟁점 대토론회'",
+      "link": "https://www.yna.co.kr/view/AKR20260820133500052",
+      "pubDate": "Thu, 20 Aug 2026 15:37:56 +0900"
+    },
+    {
+      "title": "외국환시세(8월20일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260820133300002",
+      "pubDate": "Thu, 20 Aug 2026 15:35:40 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 5.1원 내린 1,392.6원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260820131700002",
+      "pubDate": "Thu, 20 Aug 2026 15:32:53 +0900"
+    },
+    {
+      "title": "현대엘리베이터, GS건설과 초고층 승강기 기술 공동개발 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260820130700003",
+      "pubDate": "Thu, 20 Aug 2026 15:31:23 +0900"
+    },
+    {
+      "title": "고용센터 30년만 전면 개편…실업인정 AI로, 구직상담 늘린다",
+      "link": "https://www.yna.co.kr/view/AKR20260820025200530",
+      "pubDate": "Thu, 20 Aug 2026 15:30:00 +0900"
+    },
+    {
+      "title": "화천군, 전국 지자체 '일자리 대상' 2년 연속 우수상",
+      "link": "https://www.yna.co.kr/view/AKR20260820127900062",
+      "pubDate": "Thu, 20 Aug 2026 15:29:25 +0900"
+    },
     {
       "title": "광주은행, '전남광주통합특별시 사랑예금' 1천억원 완판",
       "link": "https://www.yna.co.kr/view/AKR20260820128800054",
@@ -47,111 +152,6 @@
       "title": "'서민금융 잇다'앱, 상반기 3천294억 대출중개…167억 이자절감",
       "link": "https://www.yna.co.kr/view/AKR20260820112700002",
       "pubDate": "Thu, 20 Aug 2026 14:40:33 +0900"
-    },
-    {
-      "title": "HUG, 이사 전 보증 가입 확인하는 '전세보증 사전심사' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260820118600003",
-      "pubDate": "Thu, 20 Aug 2026 14:39:48 +0900"
-    },
-    {
-      "title": "성심당 시즌 케이크 영암 '무화과시루' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260820117300054",
-      "pubDate": "Thu, 20 Aug 2026 14:37:39 +0900"
-    },
-    {
-      "title": "부천시, 토지거래허가구역 신규 지정…주택공급지 투기 차단",
-      "link": "https://www.yna.co.kr/view/AKR20260820117000065",
-      "pubDate": "Thu, 20 Aug 2026 14:31:28 +0900"
-    },
-    {
-      "title": "산은, 세컨더리 펀드 소형분야 위탁운용사에 컴퍼니케이파트너스",
-      "link": "https://www.yna.co.kr/view/AKR20260820114300002",
-      "pubDate": "Thu, 20 Aug 2026 14:30:11 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260820113600011",
-      "pubDate": "Thu, 20 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "\"청년이 직접 기획\"…내달 전주 덕진공원서 '청년의 날' 축제",
-      "link": "https://www.yna.co.kr/view/AKR20260820115400055",
-      "pubDate": "Thu, 20 Aug 2026 14:24:33 +0900"
-    },
-    {
-      "title": "김윤덕-오세훈, 용산공원 개발 평행선…주변 부지엔 '접점'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260820095852004",
-      "pubDate": "Thu, 20 Aug 2026 14:06:31 +0900"
-    },
-    {
-      "title": "금융위, 수해 가계·중소기업 금융지원…긴급자금·만기연장",
-      "link": "https://www.yna.co.kr/view/AKR20260820108700002",
-      "pubDate": "Thu, 20 Aug 2026 14:04:44 +0900"
-    },
-    {
-      "title": "토스뱅크 전자점자 서비스 확대…장애 고객 접근성 제고",
-      "link": "https://www.yna.co.kr/view/AKR20260820108800002",
-      "pubDate": "Thu, 20 Aug 2026 14:00:08 +0900"
-    },
-    {
-      "title": "유연근무제 도입했더니 연장근로시간 절반 '뚝'…일터혁신 사례",
-      "link": "https://www.yna.co.kr/view/AKR20260820059400530",
-      "pubDate": "Thu, 20 Aug 2026 14:00:04 +0900"
-    },
-    {
-      "title": "강남·서초 아파트 매매가격 2주째 약세…전세도 동반 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260820073100003",
-      "pubDate": "Thu, 20 Aug 2026 14:00:04 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 컨테이너선 22일 출항…부산시·팬스타 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260820081900051",
-      "pubDate": "Thu, 20 Aug 2026 14:00:03 +0900"
-    },
-    {
-      "title": "NH농협은행, 양주 산란계 스마트팜 방문…운영성과 등 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260820104700002",
-      "pubDate": "Thu, 20 Aug 2026 13:57:23 +0900"
-    },
-    {
-      "title": "메리츠증권, 내달 출시 금융플랫폼에 위불 금융 AI 탑재",
-      "link": "https://www.yna.co.kr/view/AKR20260820108200008",
-      "pubDate": "Thu, 20 Aug 2026 13:51:44 +0900"
-    },
-    {
-      "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820070051008",
-      "pubDate": "Thu, 20 Aug 2026 13:42:12 +0900"
-    },
-    {
-      "title": "NH농협은행 지수연동예금 출시…최고 연 7.35% 수익",
-      "link": "https://www.yna.co.kr/view/AKR20260820102300002",
-      "pubDate": "Thu, 20 Aug 2026 13:35:45 +0900"
-    },
-    {
-      "title": "무역위, 중국·대만 고체 수산화나트륨에 반덤핑관세 예비판정",
-      "link": "https://www.yna.co.kr/view/AKR20260820095600003",
-      "pubDate": "Thu, 20 Aug 2026 13:30:01 +0900"
-    },
-    {
-      "title": "\"청년 창업 역량 키운다\"…강북구 '창업경진대회' 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260820082900004",
-      "pubDate": "Thu, 20 Aug 2026 13:27:59 +0900"
-    },
-    {
-      "title": "우리자산신탁, 고양 능곡역세권 도심복합개발사업 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260820100100002",
-      "pubDate": "Thu, 20 Aug 2026 13:17:13 +0900"
-    },
-    {
-      "title": "[게시판] 수은, 집중호우 구호성금 1억원",
-      "link": "https://www.yna.co.kr/view/AKR20260820099700002",
-      "pubDate": "Thu, 20 Aug 2026 13:15:21 +0900"
-    },
-    {
-      "title": "오세훈 \"국토장관과 용산공원 평행선…인근 부지 절충안으로 제안\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820095851004",
-      "pubDate": "Thu, 20 Aug 2026 12:51:01 +0900"
     }
   ]
 }
