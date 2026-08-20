@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787259125,
+  "updated_at_unix": 1787260587,
   "items": [
+    {
+      "title": "6월 서울 아파트값 한달새 2.5%↑…5년 만에 최대폭 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260821008500004",
+      "pubDate": "Fri, 21 Aug 2026 06:02:47 +0900"
+    },
+    {
+      "title": "서울미래인재재단, 이금희 초청 청년 대상 '스피치 특강'",
+      "link": "https://www.yna.co.kr/view/AKR20260820144800004",
+      "pubDate": "Fri, 21 Aug 2026 06:00:07 +0900"
+    },
+    {
+      "title": "유가 떨어지자 7월 생산자 물가 11개월 만에 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260820151900002",
+      "pubDate": "Fri, 21 Aug 2026 06:00:03 +0900"
+    },
+    {
+      "title": "6월 국내은행 대출 연체율 0.56%…동월 기준 10년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260820164700002",
+      "pubDate": "Fri, 21 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "신한금융 \"반도체 수혜 편중…외형 성장·체감경기 괴리\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820167300002",
+      "pubDate": "Fri, 21 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "美 '이란 경제압박' 강화에 국제유가 2%대↑…브렌트유 93달러대",
       "link": "https://www.yna.co.kr/view/AKR20260821006800072",
@@ -127,31 +152,6 @@
       "title": "국토장관, 신길2 도심복합사업 현장 점검…\"2028년 착공 속도\"",
       "link": "https://www.yna.co.kr/view/AKR20260820159800003",
       "pubDate": "Thu, 20 Aug 2026 17:32:42 +0900"
-    },
-    {
-      "title": "[동포의 창] 고려인글로벌네트워크, 한-카자흐 항공 분야 협력 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260820161600371",
-      "pubDate": "Thu, 20 Aug 2026 17:31:48 +0900"
-    },
-    {
-      "title": "협동조합·마을기업 지원 제도화…사회연대경제기본법 국회 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260820159700530",
-      "pubDate": "Thu, 20 Aug 2026 17:29:49 +0900"
-    },
-    {
-      "title": "남양주시, 지역업체 신도시 사업 참여 창구 열어…전국 첫 사례",
-      "link": "https://www.yna.co.kr/view/AKR20260820160500060",
-      "pubDate": "Thu, 20 Aug 2026 17:27:45 +0900"
-    },
-    {
-      "title": "수협은행, 인피닛블록 출자로 2대주주…디지털자산 신산업 나서",
-      "link": "https://www.yna.co.kr/view/AKR20260820157400002",
-      "pubDate": "Thu, 20 Aug 2026 17:21:43 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, 기본소득 시범사업 성과 공유 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260820159600030",
-      "pubDate": "Thu, 20 Aug 2026 17:21:32 +0900"
     }
   ]
 }
