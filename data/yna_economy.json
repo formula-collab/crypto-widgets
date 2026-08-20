@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787195659,
+  "updated_at_unix": 1787198626,
   "items": [
+    {
+      "title": "오세훈 \"국토장관과 용산공원 평행선…인근 부지 절충안으로 제안\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820095851004",
+      "pubDate": "Thu, 20 Aug 2026 12:51:01 +0900"
+    },
+    {
+      "title": "우리은행, ICSD 통한 국고채 거래 유치…국내은행 최초",
+      "link": "https://www.yna.co.kr/view/AKR20260820097400002",
+      "pubDate": "Thu, 20 Aug 2026 12:50:31 +0900"
+    },
+    {
+      "title": "[게시판] 카카오뱅크 '봉사활동 찾기' 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20260820097000002",
+      "pubDate": "Thu, 20 Aug 2026 12:45:25 +0900"
+    },
+    {
+      "title": "하나자산신탁, 부평 현대2단지 재건축준비위원회와 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260820096300002",
+      "pubDate": "Thu, 20 Aug 2026 12:44:30 +0900"
+    },
+    {
+      "title": "국토장관 \"오세훈과 용산공원 입장차 확인…내주 만나 정리\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260820093151003",
+      "pubDate": "Thu, 20 Aug 2026 12:32:40 +0900"
+    },
+    {
+      "title": "오세훈 \"국토장관 면담서 용산공원 문제 평행선…절충안 제시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260820095800004",
+      "pubDate": "Thu, 20 Aug 2026 12:13:28 +0900"
+    },
     {
       "title": "세무사 수임료 비교 광고 금지…근거 없는 '1위'도 안돼",
       "link": "https://www.yna.co.kr/view/AKR20260820035500002",
@@ -122,36 +152,6 @@
       "title": "비트고코리아, 해외 기업 최초 직접 VASP 취득…\"장기적 투자\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260820075451002",
       "pubDate": "Thu, 20 Aug 2026 11:28:30 +0900"
-    },
-    {
-      "title": "광주상의, 찾아가는 FTA 통상데스크…\"현장 지원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820083900054",
-      "pubDate": "Thu, 20 Aug 2026 11:24:15 +0900"
-    },
-    {
-      "title": "MBK \"고려아연 임시주총 자료에 허위사실\"…법적 대응 예고",
-      "link": "https://www.yna.co.kr/view/AKR20260820070000008",
-      "pubDate": "Thu, 20 Aug 2026 11:23:33 +0900"
-    },
-    {
-      "title": "한탑, 32억원 유상증자…석정산업에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260820083800008",
-      "pubDate": "Thu, 20 Aug 2026 11:20:05 +0900"
-    },
-    {
-      "title": "[게시판] KB국민카드, '두산베어스 KB체크카드' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260820080300002",
-      "pubDate": "Thu, 20 Aug 2026 11:16:38 +0900"
-    },
-    {
-      "title": "서울 중장년 월생활비 얼마나 필요?…\"최소 196만원·적정 321만원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820061800004",
-      "pubDate": "Thu, 20 Aug 2026 11:15:01 +0900"
-    },
-    {
-      "title": "양천구 신정4동 노후주거지 '김포공항 고도제한' 딛고 재개발",
-      "link": "https://www.yna.co.kr/view/AKR20260820076500004",
-      "pubDate": "Thu, 20 Aug 2026 11:15:00 +0900"
     }
   ]
 }
