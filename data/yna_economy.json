@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787348669,
+  "updated_at_unix": 1787350252,
   "items": [
+    {
+      "title": "[북극항로 시대] ② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'",
+      "link": "https://www.yna.co.kr/view/AKR20260821072000051",
+      "pubDate": "Sat, 22 Aug 2026 07:01:02 +0900"
+    },
+    {
+      "title": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260821071100051",
+      "pubDate": "Sat, 22 Aug 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[신상잇슈] CJ제일제당 '해찬들 옛장'·아워홈 '고기듬뿍 순대전골'",
+      "link": "https://www.yna.co.kr/view/AKR20260821129500030",
+      "pubDate": "Sat, 22 Aug 2026 07:00:01 +0900"
+    },
     {
       "title": "국제유가, 중동 불안 지속에 6일 연속 상승…브렌트유 94달러대",
       "link": "https://www.yna.co.kr/view/AKR20260822005400072",
@@ -137,21 +152,6 @@
       "title": "원/달러 환율 사흘째 1,300원대…원/엔 2년 2개월 만에 최저",
       "link": "https://www.yna.co.kr/view/AKR20260821126900002",
       "pubDate": "Fri, 21 Aug 2026 16:11:22 +0900"
-    },
-    {
-      "title": "'삼전닉스·미국채 투자' 등 ETF 3종, 25일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260821133600008",
-      "pubDate": "Fri, 21 Aug 2026 16:10:19 +0900"
-    },
-    {
-      "title": "앱솔릭스, 4천11억원 유상증자…\"글라스기판 상업화 자금확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821133500003",
-      "pubDate": "Fri, 21 Aug 2026 16:10:16 +0900"
-    },
-    {
-      "title": "'반도체 제조업' 해치텍, 25일 코스닥 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260821131900008",
-      "pubDate": "Fri, 21 Aug 2026 16:09:00 +0900"
     }
   ]
 }
