@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787288393,
+  "updated_at_unix": 1787290363,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260821103700011",
+      "pubDate": "Fri, 21 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "부산시, 가덕도신공항 공사비 상승분 반영 대책 등 현안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260821101700051",
+      "pubDate": "Fri, 21 Aug 2026 14:17:58 +0900"
+    },
+    {
+      "title": "오세훈 \"용산공원에 임대주택? '훼손된 곳' 아니라 공원 예정지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821101000004",
+      "pubDate": "Fri, 21 Aug 2026 14:17:00 +0900"
+    },
+    {
+      "title": "'코스닥 시총 1위' 알테오젠, 2천530억 들여 대전에 제조시설",
+      "link": "https://www.yna.co.kr/view/AKR20260821036200063",
+      "pubDate": "Fri, 21 Aug 2026 14:00:23 +0900"
+    },
+    {
+      "title": "장애인고용공단·현대제철, '장애인 고용 통한 ESG 경영' MOU",
+      "link": "https://www.yna.co.kr/view/AKR20260821038100530",
+      "pubDate": "Fri, 21 Aug 2026 14:00:22 +0900"
+    },
     {
       "title": "[게시판] 하나은행, 대구에서 '2026 하나더넥스트 페스타'",
       "link": "https://www.yna.co.kr/view/AKR20260821095800002",
@@ -127,31 +152,6 @@
       "title": "내국세 따박따박 교부금 대수술…OECD평균 미달 고등교육에 투자",
       "link": "https://www.yna.co.kr/view/AKR20260821038500002",
       "pubDate": "Fri, 21 Aug 2026 11:10:03 +0900"
-    },
-    {
-      "title": "속도전 앞세운 '재정저수지' 미래기금…'국회 밖 곳간' 우려도",
-      "link": "https://www.yna.co.kr/view/AKR20260821050300002",
-      "pubDate": "Fri, 21 Aug 2026 11:10:02 +0900"
-    },
-    {
-      "title": "100조 넘보는 미래기금 신설…교육교부금 연동 55년만에 폐지",
-      "link": "https://www.yna.co.kr/view/AKR20260821070700002",
-      "pubDate": "Fri, 21 Aug 2026 11:10:00 +0900"
-    },
-    {
-      "title": "[특징주] 삼전닉스, 장중 상승폭 확대해 2∼3% 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821041251008",
-      "pubDate": "Fri, 21 Aug 2026 11:07:59 +0900"
-    },
-    {
-      "title": "한은 대구경북본부, 중소기업 대상 추석자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260821076000053",
-      "pubDate": "Fri, 21 Aug 2026 11:05:52 +0900"
-    },
-    {
-      "title": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상",
-      "link": "https://www.yna.co.kr/view/AKR20260821069700002",
-      "pubDate": "Fri, 21 Aug 2026 11:01:25 +0900"
     }
   ]
 }
