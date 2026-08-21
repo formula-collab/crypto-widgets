@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787306202,
+  "updated_at_unix": 1787307674,
   "items": [
+    {
+      "title": "석유 최고가격제 다시 동결…휘발유 1천784원·경유 1천773원",
+      "link": "https://www.yna.co.kr/view/AKR20260821143900003",
+      "pubDate": "Fri, 21 Aug 2026 19:00:00 +0900"
+    },
     {
       "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260821070752002",
@@ -147,11 +152,6 @@
       "title": "인지컨트롤스 \"슬로바키아 계열사에 275억원 출자\"",
       "link": "https://www.yna.co.kr/view/AKR20260821128400008",
       "pubDate": "Fri, 21 Aug 2026 15:55:47 +0900"
-    },
-    {
-      "title": "[특징주] 가상자산 관련주, 비트코인 7만달러선 돌파에 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821041551008",
-      "pubDate": "Fri, 21 Aug 2026 15:54:47 +0900"
     }
   ]
 }
