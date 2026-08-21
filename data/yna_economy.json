@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787352378,
+  "updated_at_unix": 1787353926,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 상동역 롯데캐슬시그니처 등 5천430가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260821165400003",
+      "pubDate": "Sat, 22 Aug 2026 08:05:00 +0900"
+    },
+    {
+      "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260821082100518",
+      "pubDate": "Sat, 22 Aug 2026 08:00:05 +0900"
+    },
+    {
+      "title": "서학개미, '삼전닉스' 라운드힐 ETF 한주간 1천억 샀다",
+      "link": "https://www.yna.co.kr/view/AKR20260821150100008",
+      "pubDate": "Sat, 22 Aug 2026 08:00:04 +0900"
+    },
     {
       "title": "[현장in] \"내 집이 폭탄?\"…1년 반 만에 무너진 아파트 테라스",
       "link": "https://www.yna.co.kr/view/AKR20260821055400065",
@@ -137,21 +152,6 @@
       "title": "KB금융, 신종자본증권 수요예측서 5천200억원 수요 확보",
       "link": "https://www.yna.co.kr/view/AKR20260821139600008",
       "pubDate": "Fri, 21 Aug 2026 16:34:47 +0900"
-    },
-    {
-      "title": "SNT걸프, 사우디 기업과 320억 규모 에어쿨드콘덴서 공급계약",
-      "link": "https://www.yna.co.kr/view/AKR20260821137900052",
-      "pubDate": "Fri, 21 Aug 2026 16:31:29 +0900"
-    },
-    {
-      "title": "인천 7월 수출, 금 456% 늘고 석유제품 99% 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260821137100065",
-      "pubDate": "Fri, 21 Aug 2026 16:22:44 +0900"
-    },
-    {
-      "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821084851008",
-      "pubDate": "Fri, 21 Aug 2026 16:19:57 +0900"
     }
   ]
 }
