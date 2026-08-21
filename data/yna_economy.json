@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787290363,
+  "updated_at_unix": 1787293429,
   "items": [
+    {
+      "title": "'조망권 침해' 논란 부산 북항환승센터 공사 중지 명령(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821110900051",
+      "pubDate": "Fri, 21 Aug 2026 15:10:37 +0900"
+    },
+    {
+      "title": "[게시판] iM뱅크장학문화재단, DIGIST에 인재육성 장학금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260821114500053",
+      "pubDate": "Fri, 21 Aug 2026 15:02:48 +0900"
+    },
+    {
+      "title": "경남도, 석탄화력 폐지 지원 특별법 국회 통과 \"환영\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821105900052",
+      "pubDate": "Fri, 21 Aug 2026 14:56:02 +0900"
+    },
+    {
+      "title": "카카오 \"카카오X 지주사 전환 계획 없다\"…인적분할 후 독립경영",
+      "link": "https://www.yna.co.kr/view/AKR20260821109900017",
+      "pubDate": "Fri, 21 Aug 2026 14:49:22 +0900"
+    },
+    {
+      "title": "부산 동구, 북항환승센터 사업자에 공사 중지 통보",
+      "link": "https://www.yna.co.kr/view/AKR20260821109200051",
+      "pubDate": "Fri, 21 Aug 2026 14:47:02 +0900"
+    },
+    {
+      "title": "검진 이상소견시 즉시 진료연계…울산대병원·건강관리협회 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260821102200057",
+      "pubDate": "Fri, 21 Aug 2026 14:38:44 +0900"
+    },
+    {
+      "title": "[IPO챗] 스카이랩스 \"의료기기 넘어 AI 의료데이터 플랫폼으로 성장할것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821106900008",
+      "pubDate": "Fri, 21 Aug 2026 14:38:13 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
       "link": "https://www.yna.co.kr/view/AKR20260821103700011",
@@ -117,41 +152,6 @@
       "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12%",
       "link": "https://www.yna.co.kr/view/AKR20260821081700002",
       "pubDate": "Fri, 21 Aug 2026 11:24:36 +0900"
-    },
-    {
-      "title": "[게시판] 키움증권, 금융경제 멘토링 '키움 드리머' 6기 발족",
-      "link": "https://www.yna.co.kr/view/AKR20260821080400008",
-      "pubDate": "Fri, 21 Aug 2026 11:23:56 +0900"
-    },
-    {
-      "title": "[Q&A] 추가세수, 빚 상환 대신 미래 투자…\"국채 이자율 이상 운용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820186900002",
-      "pubDate": "Fri, 21 Aug 2026 11:20:25 +0900"
-    },
-    {
-      "title": "코스피, 혼조속 상승 탄력 모색…코스닥 5%대 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260821078500008",
-      "pubDate": "Fri, 21 Aug 2026 11:20:16 +0900"
-    },
-    {
-      "title": "박홍근 \"미래대응기금, 상당한 규모 적립…필요시 국채 상환도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821079600002",
-      "pubDate": "Fri, 21 Aug 2026 11:20:00 +0900"
-    },
-    {
-      "title": "교육이 곧 주거복지…태백시 집수리 인력, 지역정착 시험대",
-      "link": "https://www.yna.co.kr/view/AKR20260821075000062",
-      "pubDate": "Fri, 21 Aug 2026 11:16:38 +0900"
-    },
-    {
-      "title": "우리금융 5억·신한은행 2억…호우 피해 복구 성금",
-      "link": "https://www.yna.co.kr/view/AKR20260821076900002",
-      "pubDate": "Fri, 21 Aug 2026 11:13:36 +0900"
-    },
-    {
-      "title": "내국세 따박따박 교부금 대수술…OECD평균 미달 고등교육에 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260821038500002",
-      "pubDate": "Fri, 21 Aug 2026 11:10:03 +0900"
     }
   ]
 }
