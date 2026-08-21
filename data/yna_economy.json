@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787269544,
+  "updated_at_unix": 1787272508,
   "items": [
+    {
+      "title": "권민수 한은 부총재 \"신중하고 유연한 통화정책 판단 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821039900002",
+      "pubDate": "Fri, 21 Aug 2026 09:30:00 +0900"
+    },
+    {
+      "title": "예탁원, 외국인 국채투자 '원스톱 파이낸싱' 첫 계약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260821039700008",
+      "pubDate": "Fri, 21 Aug 2026 09:26:04 +0900"
+    },
+    {
+      "title": "검찰, '이정근 취업 청탁' 노영민·김현미 항소 포기…무죄 확정",
+      "link": "https://www.yna.co.kr/view/AKR20260821038700004",
+      "pubDate": "Fri, 21 Aug 2026 09:23:44 +0900"
+    },
+    {
+      "title": "경남 무역수지 46개월 연속 흑자…승용차·선박·무기류 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260821037300052",
+      "pubDate": "Fri, 21 Aug 2026 09:19:09 +0900"
+    },
+    {
+      "title": "태광그룹 장애인사업장 '큰희망', 장애 고교생 현장실습",
+      "link": "https://www.yna.co.kr/view/AKR20260821034300003",
+      "pubDate": "Fri, 21 Aug 2026 09:07:33 +0900"
+    },
+    {
+      "title": "경기도, 스타필드 4개 지점서 '더 좋은소비 페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260821033900061",
+      "pubDate": "Fri, 21 Aug 2026 09:05:21 +0900"
+    },
+    {
+      "title": "두산에너빌리티, 9천300억 규모 오만 미스파 발전소 공사 수주",
+      "link": "https://www.yna.co.kr/view/AKR20260821033500003",
+      "pubDate": "Fri, 21 Aug 2026 09:04:17 +0900"
+    },
+    {
+      "title": "[1보] 8월 1∼20일 수출 552억달러, 56.0%↑…일평균 61.5%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260821032700002",
+      "pubDate": "Fri, 21 Aug 2026 09:00:38 +0900"
+    },
+    {
+      "title": "대전·청주 IT·R&D업 '공짜노동' 잡는다…노동부 릴레이 감독",
+      "link": "https://www.yna.co.kr/view/AKR20260820141200530",
+      "pubDate": "Fri, 21 Aug 2026 09:00:04 +0900"
+    },
+    {
+      "title": "상반기 대중 소비재 수출 우상향…정부 \"반등 기조 연말까지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821026500003",
+      "pubDate": "Fri, 21 Aug 2026 09:00:01 +0900"
+    },
+    {
+      "title": "[인터뷰] '월가 암살자'의 변신…\"한국서 제값 못받는 기업 찾겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821023100008",
+      "pubDate": "Fri, 21 Aug 2026 09:00:00 +0900"
+    },
+    {
+      "title": "하나증권 \"KCC, 특별배당금 신설…시가배당률 2.5∼4%p↑ 효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821030900008",
+      "pubDate": "Fri, 21 Aug 2026 08:54:09 +0900"
+    },
+    {
+      "title": "하나증권 \"통신장비시장 개화…2년 이상 상승세 지속 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821025700008",
+      "pubDate": "Fri, 21 Aug 2026 08:50:54 +0900"
+    },
+    {
+      "title": "신한투자 \"원익머트리얼즈, 성장에도 단기 약화 구간…목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821029100008",
+      "pubDate": "Fri, 21 Aug 2026 08:43:02 +0900"
+    },
+    {
+      "title": "화장품 안전관리 기본계획 세운다…K뷰티 경쟁력 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260821027000017",
+      "pubDate": "Fri, 21 Aug 2026 08:41:13 +0900"
+    },
+    {
+      "title": "'사회문제 해결 창업가 찾는다'…소셜벤처 리그에 1천788건 신청",
+      "link": "https://www.yna.co.kr/view/AKR20260821028100030",
+      "pubDate": "Fri, 21 Aug 2026 08:40:25 +0900"
+    },
     {
       "title": "NH투자, KDB생명 인수나선 한국금융지주에 \"증권과 시너지\"",
       "link": "https://www.yna.co.kr/view/AKR20260821028000008",
@@ -72,86 +152,6 @@
       "title": "노후 공공건축물 '그린리모델링' 의무화…민간은 보조금 지원",
       "link": "https://www.yna.co.kr/view/AKR20260820177900003",
       "pubDate": "Thu, 20 Aug 2026 19:59:45 +0900"
-    },
-    {
-      "title": "국토장관도 동일 시도 내 토허구역 지정 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20260820178600003",
-      "pubDate": "Thu, 20 Aug 2026 19:58:25 +0900"
-    },
-    {
-      "title": "유캐스트 등 3사 코스닥 상장예심 통과…니어스랩은 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260820177500008",
-      "pubDate": "Thu, 20 Aug 2026 19:43:47 +0900"
-    },
-    {
-      "title": "은행권, 내달 입주 앞둔 '디에이치 방배' 잔금대출 한도 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260820176000002",
-      "pubDate": "Thu, 20 Aug 2026 19:35:38 +0900"
-    },
-    {
-      "title": "상조회사 지배주주 신용공여, 자본금 50% 이내…할부거래법 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260820174400002",
-      "pubDate": "Thu, 20 Aug 2026 19:35:14 +0900"
-    },
-    {
-      "title": "약사회 \"'플랫폼 도매겸업 차단' 개정 환영\"…코스포 \"유감\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820173451017",
-      "pubDate": "Thu, 20 Aug 2026 19:16:55 +0900"
-    },
-    {
-      "title": "약사회 \"'플랫폼 도매겸업 차단' 약사법 개정 환영\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820173400017",
-      "pubDate": "Thu, 20 Aug 2026 18:59:53 +0900"
-    },
-    {
-      "title": "씨티 \"환율 1,390원 아래선 국민연금 환헤지 확대 멈출 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820170400002",
-      "pubDate": "Thu, 20 Aug 2026 18:56:59 +0900"
-    },
-    {
-      "title": "보험사기 가담자 시장진입 규제 강화…\"보험업 신뢰 높아질 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260820164900002",
-      "pubDate": "Thu, 20 Aug 2026 18:28:25 +0900"
-    },
-    {
-      "title": "국민연금 책임투자 강화…대체투자에도 ESG 원칙 적용한다",
-      "link": "https://www.yna.co.kr/view/AKR20260820170200530",
-      "pubDate": "Thu, 20 Aug 2026 18:28:14 +0900"
-    },
-    {
-      "title": "IBK기업은행서 94억원 규모 '사기' 금융사고",
-      "link": "https://www.yna.co.kr/view/AKR20260820170300002",
-      "pubDate": "Thu, 20 Aug 2026 18:24:58 +0900"
-    },
-    {
-      "title": "K-뷰티 연구·제조·수출 지원한다…'화장품산업육성법' 제정",
-      "link": "https://www.yna.co.kr/view/AKR20260820168000530",
-      "pubDate": "Thu, 20 Aug 2026 18:24:43 +0900"
-    },
-    {
-      "title": "보이스피싱 조직원, 수사 협조하면 형량 감면된다",
-      "link": "https://www.yna.co.kr/view/AKR20260820168500002",
-      "pubDate": "Thu, 20 Aug 2026 18:15:37 +0900"
-    },
-    {
-      "title": "북극항로 시대 연다…국내 컨테이너선 22일 첫 시범운항",
-      "link": "https://www.yna.co.kr/view/AKR20260820145900051",
-      "pubDate": "Thu, 20 Aug 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260820160000011",
-      "pubDate": "Thu, 20 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "하남 교산지구에 학교복합시설 조성…국비 등 481억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260820164100061",
-      "pubDate": "Thu, 20 Aug 2026 17:55:40 +0900"
-    },
-    {
-      "title": "서울·경기·인천 외국인 토지거래허가구역 1년 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260820165000003",
-      "pubDate": "Thu, 20 Aug 2026 17:51:07 +0900"
     }
   ]
 }
