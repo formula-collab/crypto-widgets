@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787293429,
+  "updated_at_unix": 1787296458,
   "items": [
+    {
+      "title": "창원상의, 병무청에 비수도권 산업기능·전문연구요원 확대 건의",
+      "link": "https://www.yna.co.kr/view/AKR20260821128000052",
+      "pubDate": "Fri, 21 Aug 2026 15:58:45 +0900"
+    },
+    {
+      "title": "인지컨트롤스 \"슬로바키아 계열사에 275억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821128400008",
+      "pubDate": "Fri, 21 Aug 2026 15:55:47 +0900"
+    },
+    {
+      "title": "[특징주] 가상자산 관련주, 비트코인 7만달러선 돌파에 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821041551008",
+      "pubDate": "Fri, 21 Aug 2026 15:54:47 +0900"
+    },
+    {
+      "title": "삼전, 주주환원 기대에 3.9% 급등 마감…하닉도 2.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260821041252008",
+      "pubDate": "Fri, 21 Aug 2026 15:54:10 +0900"
+    },
+    {
+      "title": "체납 번호판 영치 막은 본드 꼼수…도봉구 '바퀴 자물쇠'로 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260821126800004",
+      "pubDate": "Fri, 21 Aug 2026 15:52:21 +0900"
+    },
+    {
+      "title": "[특징주] 인적분할 악재로 부각?…카카오, 7%대 급락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821072551008",
+      "pubDate": "Fri, 21 Aug 2026 15:50:16 +0900"
+    },
+    {
+      "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821124400017",
+      "pubDate": "Fri, 21 Aug 2026 15:48:12 +0900"
+    },
+    {
+      "title": "[특징주] 네오이뮨텍, '美기업 기술 수출'에 이틀 연속 상한가(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821048051008",
+      "pubDate": "Fri, 21 Aug 2026 15:38:33 +0900"
+    },
+    {
+      "title": "[특징주] SK증권, '하닉 자사주 매입' 수혜기대에 이틀 연속 급등(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821048651008",
+      "pubDate": "Fri, 21 Aug 2026 15:36:56 +0900"
+    },
+    {
+      "title": "카카오 \"카카오X 지주사 전환 없다\"…AI·투자 독립경영(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821109951017",
+      "pubDate": "Fri, 21 Aug 2026 15:35:50 +0900"
+    },
+    {
+      "title": "외국환시세(8월21일·15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260821123200002",
+      "pubDate": "Fri, 21 Aug 2026 15:35:19 +0900"
+    },
+    {
+      "title": "[게시판] 우리금융, 스포츠 유망주에 국가대표 멘토링",
+      "link": "https://www.yna.co.kr/view/AKR20260821120400002",
+      "pubDate": "Fri, 21 Aug 2026 15:32:35 +0900"
+    },
+    {
+      "title": "서해 꽃게 자원 양호한데 어획량은 감소 전망…어장 분산 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260821119800051",
+      "pubDate": "Fri, 21 Aug 2026 15:31:07 +0900"
+    },
+    {
+      "title": "[외환] 원/달러 환율 6.1원 내린 1,386.5원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260821121600002",
+      "pubDate": "Fri, 21 Aug 2026 15:30:45 +0900"
+    },
+    {
+      "title": "임실의 매운맛 제대로 보여줄게…매주 2t가량 일본 수출",
+      "link": "https://www.yna.co.kr/view/AKR20260821116200055",
+      "pubDate": "Fri, 21 Aug 2026 15:28:29 +0900"
+    },
     {
       "title": "'조망권 침해' 논란 부산 북항환승센터 공사 중지 명령(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260821110900051",
@@ -77,81 +152,6 @@
       "title": "[게시판] 우리은행, 을지연습서 비상상황 금융서비스 점검",
       "link": "https://www.yna.co.kr/view/AKR20260821092800002",
       "pubDate": "Fri, 21 Aug 2026 13:49:02 +0900"
-    },
-    {
-      "title": "[게시판] Sh수협은행, 해양진흥공사와 신용전략포럼",
-      "link": "https://www.yna.co.kr/view/AKR20260821092500002",
-      "pubDate": "Fri, 21 Aug 2026 13:48:15 +0900"
-    },
-    {
-      "title": "한국거래소 \"카카오, 분할 재상장 예비심사 신청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821096000008",
-      "pubDate": "Fri, 21 Aug 2026 13:41:05 +0900"
-    },
-    {
-      "title": "[Q&A] 추가세수, 빚 상환 대신 미래 투자…\"국채 이자율 이상 운용\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260820186951002",
-      "pubDate": "Fri, 21 Aug 2026 12:14:19 +0900"
-    },
-    {
-      "title": "속도전 앞세운 '재정저수지' 미래기금…'국회 밖 곳간' 우려도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821050351002",
-      "pubDate": "Fri, 21 Aug 2026 12:13:40 +0900"
-    },
-    {
-      "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821070751002",
-      "pubDate": "Fri, 21 Aug 2026 12:10:58 +0900"
-    },
-    {
-      "title": "중국가전 드리미 \"정보보호·AS 강화해 한국소비자에 다가갈 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821067200003",
-      "pubDate": "Fri, 21 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "하나은행, 국내은행 최초 RFI와 원화스와프 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260821085700002",
-      "pubDate": "Fri, 21 Aug 2026 11:50:21 +0900"
-    },
-    {
-      "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력",
-      "link": "https://www.yna.co.kr/view/AKR20260821084800008",
-      "pubDate": "Fri, 21 Aug 2026 11:47:28 +0900"
-    },
-    {
-      "title": "미래대응기금 추진에 지방교부세도 조정…지자체 몫 줄어드나",
-      "link": "https://www.yna.co.kr/view/AKR20260821083000530",
-      "pubDate": "Fri, 21 Aug 2026 11:47:09 +0900"
-    },
-    {
-      "title": "iM뱅크, 경남 집중호우 피해 고객에 3천억원 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20260821084500053",
-      "pubDate": "Fri, 21 Aug 2026 11:42:04 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 장중 연 3.844%",
-      "link": "https://www.yna.co.kr/view/AKR20260821084700008",
-      "pubDate": "Fri, 21 Aug 2026 11:40:30 +0900"
-    },
-    {
-      "title": "카카오 창사 이래 최대 재편…AI 집중하고 '저평가' 깬다",
-      "link": "https://www.yna.co.kr/view/AKR20260821081300017",
-      "pubDate": "Fri, 21 Aug 2026 11:35:04 +0900"
-    },
-    {
-      "title": "[게시판] KB금융, 글로벌 ESG 평가지수 16년 연속 편입",
-      "link": "https://www.yna.co.kr/view/AKR20260821082800002",
-      "pubDate": "Fri, 21 Aug 2026 11:28:37 +0900"
-    },
-    {
-      "title": "원주의료기기산업진흥원, 몽골 시장 공략…원주기업 6곳 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260821078300062",
-      "pubDate": "Fri, 21 Aug 2026 11:27:37 +0900"
-    },
-    {
-      "title": "KB국민은행, 'KB카드쓰담적금' 출시…최고 금리 연 12%",
-      "link": "https://www.yna.co.kr/view/AKR20260821081700002",
-      "pubDate": "Fri, 21 Aug 2026 11:24:36 +0900"
     }
   ]
 }
