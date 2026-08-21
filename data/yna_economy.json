@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787299312,
+  "updated_at_unix": 1787303051,
   "items": [
+    {
+      "title": "임단협·원하청갈등 겹친 하투…차·철강·조선 파업 확산",
+      "link": "https://www.yna.co.kr/view/AKR20260821126400530",
+      "pubDate": "Fri, 21 Aug 2026 17:48:59 +0900"
+    },
+    {
+      "title": "HL만도 '근로자 끼임사' 한 달 추모제…\"위험의 외주화 멈춰라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821160100004",
+      "pubDate": "Fri, 21 Aug 2026 17:45:57 +0900"
+    },
+    {
+      "title": "\"용도전환 막혀 공급못해\"…주택공급 설명회서 업계건의 쏟아져",
+      "link": "https://www.yna.co.kr/view/AKR20260821153100003",
+      "pubDate": "Fri, 21 Aug 2026 17:25:24 +0900"
+    },
+    {
+      "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁 과열 조짐(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821146151002",
+      "pubDate": "Fri, 21 Aug 2026 17:23:57 +0900"
+    },
+    {
+      "title": "4대 금융, 경남 수해 복구에 20억…대출·물품 지원도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821076951002",
+      "pubDate": "Fri, 21 Aug 2026 17:20:09 +0900"
+    },
+    {
+      "title": "HD한국조선해양 \"인도 코친조선소와 합작법인 설립 검토 중단\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821153900003",
+      "pubDate": "Fri, 21 Aug 2026 17:18:04 +0900"
+    },
+    {
+      "title": "괴산고추축제장서 세척 건고추 600ｇ당 1만6천원에 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260821152900064",
+      "pubDate": "Fri, 21 Aug 2026 17:15:23 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 상승…다음주 금통위 경계감(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260821142951008",
+      "pubDate": "Fri, 21 Aug 2026 16:57:27 +0900"
+    },
     {
       "title": "카카오 창사 이래 최대 재편…'카카오 디스카운트' 깬다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260821081351017",
@@ -112,46 +152,6 @@
       "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\"",
       "link": "https://www.yna.co.kr/view/AKR20260821124400017",
       "pubDate": "Fri, 21 Aug 2026 15:48:12 +0900"
-    },
-    {
-      "title": "[특징주] 네오이뮨텍, '美기업 기술 수출'에 이틀 연속 상한가(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821048051008",
-      "pubDate": "Fri, 21 Aug 2026 15:38:33 +0900"
-    },
-    {
-      "title": "[특징주] SK증권, '하닉 자사주 매입' 수혜기대에 이틀 연속 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821048651008",
-      "pubDate": "Fri, 21 Aug 2026 15:36:56 +0900"
-    },
-    {
-      "title": "카카오 \"카카오X 지주사 전환 없다\"…AI·투자 독립경영(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821109951017",
-      "pubDate": "Fri, 21 Aug 2026 15:35:50 +0900"
-    },
-    {
-      "title": "외국환시세(8월21일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260821123200002",
-      "pubDate": "Fri, 21 Aug 2026 15:35:19 +0900"
-    },
-    {
-      "title": "[게시판] 우리금융, 스포츠 유망주에 국가대표 멘토링",
-      "link": "https://www.yna.co.kr/view/AKR20260821120400002",
-      "pubDate": "Fri, 21 Aug 2026 15:32:35 +0900"
-    },
-    {
-      "title": "서해 꽃게 자원 양호한데 어획량은 감소 전망…어장 분산 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260821119800051",
-      "pubDate": "Fri, 21 Aug 2026 15:31:07 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 6.1원 내린 1,386.5원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260821121600002",
-      "pubDate": "Fri, 21 Aug 2026 15:30:45 +0900"
-    },
-    {
-      "title": "임실의 매운맛 제대로 보여줄게…매주 2t가량 일본 수출",
-      "link": "https://www.yna.co.kr/view/AKR20260821116200055",
-      "pubDate": "Fri, 21 Aug 2026 15:28:29 +0900"
     }
   ]
 }
