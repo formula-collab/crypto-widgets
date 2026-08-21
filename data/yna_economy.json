@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787285234,
+  "updated_at_unix": 1787288393,
   "items": [
+    {
+      "title": "[게시판] 하나은행, 대구에서 '2026 하나더넥스트 페스타'",
+      "link": "https://www.yna.co.kr/view/AKR20260821095800002",
+      "pubDate": "Fri, 21 Aug 2026 13:49:34 +0900"
+    },
+    {
+      "title": "[게시판] 하나금융, KLPGA 정규투어 챔피언십 갤러리 티켓 사전판매",
+      "link": "https://www.yna.co.kr/view/AKR20260821093200002",
+      "pubDate": "Fri, 21 Aug 2026 13:49:21 +0900"
+    },
+    {
+      "title": "[게시판] 우리은행, 을지연습서 비상상황 금융서비스 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260821092800002",
+      "pubDate": "Fri, 21 Aug 2026 13:49:02 +0900"
+    },
+    {
+      "title": "[게시판] Sh수협은행, 해양진흥공사와 신용전략포럼",
+      "link": "https://www.yna.co.kr/view/AKR20260821092500002",
+      "pubDate": "Fri, 21 Aug 2026 13:48:15 +0900"
+    },
+    {
+      "title": "한국거래소 \"카카오, 분할 재상장 예비심사 신청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821096000008",
+      "pubDate": "Fri, 21 Aug 2026 13:41:05 +0900"
+    },
     {
       "title": "[Q&A] 추가세수, 빚 상환 대신 미래 투자…\"국채 이자율 이상 운용\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260820186951002",
@@ -127,31 +152,6 @@
       "title": "소득 상위 10%에 보험료·교육비 공제 혜택 절반 이상",
       "link": "https://www.yna.co.kr/view/AKR20260821069700002",
       "pubDate": "Fri, 21 Aug 2026 11:01:25 +0900"
-    },
-    {
-      "title": "'188억 사기' 광주 소촌동 지역주택 추진위원장, 징역 11년",
-      "link": "https://www.yna.co.kr/view/AKR20260821069900054",
-      "pubDate": "Fri, 21 Aug 2026 10:56:13 +0900"
-    },
-    {
-      "title": "'월세 1만원'…전주 청년만원주택 하반기 입주자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260821073300055",
-      "pubDate": "Fri, 21 Aug 2026 10:55:27 +0900"
-    },
-    {
-      "title": "[특징주] 인적분할 악재로 부각?…카카오, 10% 이상 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260821072500008",
-      "pubDate": "Fri, 21 Aug 2026 10:53:46 +0900"
-    },
-    {
-      "title": "공주시, 1천793억 규모 2차 추경예산…민생경제·핵심사업 초점",
-      "link": "https://www.yna.co.kr/view/AKR20260821052900063",
-      "pubDate": "Fri, 21 Aug 2026 10:52:26 +0900"
-    },
-    {
-      "title": "사조푸디스트 상반기 매출 5천434억원…5.4% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260821070000030",
-      "pubDate": "Fri, 21 Aug 2026 10:50:55 +0900"
     }
   ]
 }
