@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787350252,
+  "updated_at_unix": 1787352378,
   "items": [
+    {
+      "title": "[현장in] \"내 집이 폭탄?\"…1년 반 만에 무너진 아파트 테라스",
+      "link": "https://www.yna.co.kr/view/AKR20260821055400065",
+      "pubDate": "Sat, 22 Aug 2026 07:17:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 14주째 내려…휘발유·경유 1천800원 중반대",
+      "link": "https://www.yna.co.kr/view/AKR20260821155500003",
+      "pubDate": "Sat, 22 Aug 2026 07:05:01 +0900"
+    },
     {
       "title": "[북극항로 시대] ② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'",
       "link": "https://www.yna.co.kr/view/AKR20260821072000051",
@@ -142,16 +152,6 @@
       "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260821084851008",
       "pubDate": "Fri, 21 Aug 2026 16:19:57 +0900"
-    },
-    {
-      "title": "정점식, 암참회장에 \"한미 통상관계 다루는 정부 방식 아쉽다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821131000001",
-      "pubDate": "Fri, 21 Aug 2026 16:14:32 +0900"
-    },
-    {
-      "title": "원/달러 환율 사흘째 1,300원대…원/엔 2년 2개월 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20260821126900002",
-      "pubDate": "Fri, 21 Aug 2026 16:11:22 +0900"
     }
   ]
 }
