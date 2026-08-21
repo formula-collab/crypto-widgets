@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787303051,
+  "updated_at_unix": 1787306202,
   "items": [
+    {
+      "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260821070752002",
+      "pubDate": "Fri, 21 Aug 2026 18:14:55 +0900"
+    },
+    {
+      "title": "인지디스플레 \"NEXVINA에 168억원 출자\"",
+      "link": "https://www.yna.co.kr/view/AKR20260821162800008",
+      "pubDate": "Fri, 21 Aug 2026 18:12:06 +0900"
+    },
+    {
+      "title": "한일 재무차관회의…세계 경제·금융시장 정책 대응 현황 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260821120200002",
+      "pubDate": "Fri, 21 Aug 2026 18:00:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260821150800011",
+      "pubDate": "Fri, 21 Aug 2026 18:00:01 +0900"
+    },
     {
       "title": "임단협·원하청갈등 겹친 하투…차·철강·조선 파업 확산",
       "link": "https://www.yna.co.kr/view/AKR20260821126400530",
@@ -132,26 +152,6 @@
       "title": "[특징주] 가상자산 관련주, 비트코인 7만달러선 돌파에 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260821041551008",
       "pubDate": "Fri, 21 Aug 2026 15:54:47 +0900"
-    },
-    {
-      "title": "삼전, 주주환원 기대에 3.9% 급등 마감…하닉도 2.3%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260821041252008",
-      "pubDate": "Fri, 21 Aug 2026 15:54:10 +0900"
-    },
-    {
-      "title": "체납 번호판 영치 막은 본드 꼼수…도봉구 '바퀴 자물쇠'로 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260821126800004",
-      "pubDate": "Fri, 21 Aug 2026 15:52:21 +0900"
-    },
-    {
-      "title": "[특징주] 인적분할 악재로 부각?…카카오, 7%대 급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821072551008",
-      "pubDate": "Fri, 21 Aug 2026 15:50:16 +0900"
-    },
-    {
-      "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821124400017",
-      "pubDate": "Fri, 21 Aug 2026 15:48:12 +0900"
     }
   ]
 }
