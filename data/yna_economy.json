@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787431464,
+  "updated_at_unix": 1787433016,
   "items": [
+    {
+      "title": "\"공공기관 이전, 지역경제 영향 미미…지방세수엔 긍정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822037800530",
+      "pubDate": "Sun, 23 Aug 2026 06:03:01 +0900"
+    },
+    {
+      "title": "원화 거래소 외국인 회원 56만명…현금 25억·코인 303억 보유",
+      "link": "https://www.yna.co.kr/view/AKR20260821177500002",
+      "pubDate": "Sun, 23 Aug 2026 06:01:04 +0900"
+    },
+    {
+      "title": "청년은 하루를 어떻게 보내는가?…취업 상태별 현격 차이",
+      "link": "https://www.yna.co.kr/view/AKR20260822035500530",
+      "pubDate": "Sun, 23 Aug 2026 06:01:02 +0900"
+    },
+    {
+      "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나",
+      "link": "https://www.yna.co.kr/view/AKR20260822023400008",
+      "pubDate": "Sun, 23 Aug 2026 06:00:44 +0900"
+    },
+    {
+      "title": "제주 음식점·숙박업도 청년 채용하면 인건비 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260821074200056",
+      "pubDate": "Sun, 23 Aug 2026 06:00:43 +0900"
+    },
+    {
+      "title": "\"비만 오면 방 3곳 벽이 축축\"…3년째 '빗물'과 싸우는 부부",
+      "link": "https://www.yna.co.kr/view/AKR20260821130200060",
+      "pubDate": "Sun, 23 Aug 2026 06:00:42 +0900"
+    },
+    {
+      "title": "163억 맡겼는데 이자 0원…일부러 무이자 관리했다는데 '주의'로 끝",
+      "link": "https://www.yna.co.kr/view/AKR20260821148800063",
+      "pubDate": "Sun, 23 Aug 2026 06:00:04 +0900"
+    },
+    {
+      "title": "최상위 근로소득자 실효세율 38%…양도세보다 12%p 높아",
+      "link": "https://www.yna.co.kr/view/AKR20260822024400002",
+      "pubDate": "Sun, 23 Aug 2026 05:59:01 +0900"
+    },
+    {
+      "title": "예금·달러·금 쌓고 주식투자는 '신중'…달라진 은행 자금 흐름",
+      "link": "https://www.yna.co.kr/view/AKR20260822044700002",
+      "pubDate": "Sun, 23 Aug 2026 05:57:00 +0900"
+    },
+    {
+      "title": "홈플러스 전단채 피해자 '선 배상' 무게…\"제재심도 신속 부의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822042200002",
+      "pubDate": "Sun, 23 Aug 2026 05:55:00 +0900"
+    },
+    {
+      "title": "환율안정 배경에 수출기업 '뭉칫돈'…달러 순매도 1년새 4배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260822016900002",
+      "pubDate": "Sun, 23 Aug 2026 05:53:00 +0900"
+    },
+    {
+      "title": "지방이전 기로 금감원 매년 100명 넘게 퇴직…20∼40대 이탈 40%",
+      "link": "https://www.yna.co.kr/view/AKR20260822043000002",
+      "pubDate": "Sun, 23 Aug 2026 05:51:02 +0900"
+    },
+    {
+      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
+      "link": "https://www.yna.co.kr/view/AKR20260822042800002",
+      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0900"
+    },
+    {
+      "title": "중금리대출, 2금융권 총량 100% 제외…중저신용자 지원 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20260822042900002",
+      "pubDate": "Sun, 23 Aug 2026 05:49:02 +0900"
+    },
+    {
+      "title": "집단대출 풀고 주담대는 조이고…가계대출 관리 '새 문법'",
+      "link": "https://www.yna.co.kr/view/AKR20260822039900002",
+      "pubDate": "Sun, 23 Aug 2026 05:49:02 +0900"
+    },
+    {
+      "title": "지출구조조정 50조+α로 커진다…교부금 감축 교육부엔 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20260822029900002",
+      "pubDate": "Sun, 23 Aug 2026 05:47:00 +0900"
+    },
+    {
+      "title": "절세기법 진화? 작년 가업상속공제 5천억 돌파…10년 새 16배로",
+      "link": "https://www.yna.co.kr/view/AKR20260822045600002",
+      "pubDate": "Sun, 23 Aug 2026 05:45:01 +0900"
+    },
+    {
+      "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%",
+      "link": "https://www.yna.co.kr/view/AKR20260822039200002",
+      "pubDate": "Sun, 23 Aug 2026 05:45:00 +0900"
+    },
     {
       "title": "한은, 올해 성장률 전망치 3%대 초중반으로 높일 듯",
       "link": "https://www.yna.co.kr/view/AKR20260822035400002",
@@ -62,96 +152,6 @@
       "title": "서학개미, '삼전닉스' 라운드힐 ETF 한주간 1천억 샀다",
       "link": "https://www.yna.co.kr/view/AKR20260821150100008",
       "pubDate": "Sat, 22 Aug 2026 08:00:04 +0900"
-    },
-    {
-      "title": "[현장in] \"내 집이 폭탄?\"…1년 반 만에 무너진 아파트 테라스",
-      "link": "https://www.yna.co.kr/view/AKR20260821055400065",
-      "pubDate": "Sat, 22 Aug 2026 07:17:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 14주째 내려…휘발유·경유 1천800원 중반대",
-      "link": "https://www.yna.co.kr/view/AKR20260821155500003",
-      "pubDate": "Sat, 22 Aug 2026 07:05:01 +0900"
-    },
-    {
-      "title": "[북극항로 시대] ② 길목에 선 물류거점 부산…새 성장엔진 '해양수도권'",
-      "link": "https://www.yna.co.kr/view/AKR20260821072000051",
-      "pubDate": "Sat, 22 Aug 2026 07:01:02 +0900"
-    },
-    {
-      "title": "[북극항로 시대] ① 기후변화로 열린 기회…부산-유럽 뱃길 35% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260821071100051",
-      "pubDate": "Sat, 22 Aug 2026 07:01:01 +0900"
-    },
-    {
-      "title": "[신상잇슈] CJ제일제당 '해찬들 옛장'·아워홈 '고기듬뿍 순대전골'",
-      "link": "https://www.yna.co.kr/view/AKR20260821129500030",
-      "pubDate": "Sat, 22 Aug 2026 07:00:01 +0900"
-    },
-    {
-      "title": "국제유가, 중동 불안 지속에 6일 연속 상승…브렌트유 94달러대",
-      "link": "https://www.yna.co.kr/view/AKR20260822005400072",
-      "pubDate": "Sat, 22 Aug 2026 05:03:05 +0900"
-    },
-    {
-      "title": "텍사스가 새 금융거점?…\"월가, 맘다니 피해 '욜스트리트'로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822003000075",
-      "pubDate": "Sat, 22 Aug 2026 03:57:45 +0900"
-    },
-    {
-      "title": "석유 최고가격제 다시 동결…휘발유 1천784원·경유 1천773원",
-      "link": "https://www.yna.co.kr/view/AKR20260821143900003",
-      "pubDate": "Fri, 21 Aug 2026 19:00:00 +0900"
-    },
-    {
-      "title": "100조 넘보는 '미래기금' 신설…교육교부금 연동 55년만에 폐지(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260821070752002",
-      "pubDate": "Fri, 21 Aug 2026 18:14:55 +0900"
-    },
-    {
-      "title": "인지디스플레 \"NEXVINA에 168억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821162800008",
-      "pubDate": "Fri, 21 Aug 2026 18:12:06 +0900"
-    },
-    {
-      "title": "한일 재무차관회의…세계 경제·금융시장 정책 대응 현황 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260821120200002",
-      "pubDate": "Fri, 21 Aug 2026 18:00:02 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260821150800011",
-      "pubDate": "Fri, 21 Aug 2026 18:00:01 +0900"
-    },
-    {
-      "title": "임단협·원하청갈등 겹친 하투…차·철강·조선 파업 확산",
-      "link": "https://www.yna.co.kr/view/AKR20260821126400530",
-      "pubDate": "Fri, 21 Aug 2026 17:48:59 +0900"
-    },
-    {
-      "title": "HL만도 '근로자 끼임사' 한 달 추모제…\"위험의 외주화 멈춰라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821160100004",
-      "pubDate": "Fri, 21 Aug 2026 17:45:57 +0900"
-    },
-    {
-      "title": "\"용도전환 막혀 공급못해\"…주택공급 설명회서 업계건의 쏟아져",
-      "link": "https://www.yna.co.kr/view/AKR20260821153100003",
-      "pubDate": "Fri, 21 Aug 2026 17:25:24 +0900"
-    },
-    {
-      "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁 과열 조짐(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821146151002",
-      "pubDate": "Fri, 21 Aug 2026 17:23:57 +0900"
-    },
-    {
-      "title": "4대 금융, 경남 수해 복구에 20억…대출·물품 지원도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821076951002",
-      "pubDate": "Fri, 21 Aug 2026 17:20:09 +0900"
-    },
-    {
-      "title": "HD한국조선해양 \"인도 코친조선소와 합작법인 설립 검토 중단\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821153900003",
-      "pubDate": "Fri, 21 Aug 2026 17:18:04 +0900"
     }
   ]
 }
