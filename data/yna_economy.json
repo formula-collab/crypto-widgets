@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787440157,
+  "updated_at_unix": 1787442065,
   "items": [
+    {
+      "title": "햇고구마부터 아이스크림까지…편의점 업계, 가을철 디저트 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260823010900030",
+      "pubDate": "Sun, 23 Aug 2026 08:33:37 +0900"
+    },
+    {
+      "title": "강원도, 해외 바이어와 도내 수출기업 온라인 연결…일대일 매칭",
+      "link": "https://www.yna.co.kr/view/AKR20260823011000062",
+      "pubDate": "Sun, 23 Aug 2026 08:33:16 +0900"
+    },
+    {
+      "title": "하나은행·기보·신보, 청년기업에 2천억원 규모 보증대출 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260821175000002",
+      "pubDate": "Sun, 23 Aug 2026 08:30:00 +0900"
+    },
+    {
+      "title": "'고시원에 욕조 설치' 기준 개정, 비판여론에 \"재검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260823007100003",
+      "pubDate": "Sun, 23 Aug 2026 08:23:45 +0900"
+    },
     {
       "title": "삼성전자, 상반기 특허등록 1만1천건…누적 30만건 육박",
       "link": "https://www.yna.co.kr/view/AKR20260821162500003",
@@ -132,26 +152,6 @@
       "title": "지방이전 기로 금감원 매년 100명 넘게 퇴직…20∼40대 이탈 40%",
       "link": "https://www.yna.co.kr/view/AKR20260822043000002",
       "pubDate": "Sun, 23 Aug 2026 05:51:02 +0900"
-    },
-    {
-      "title": "금융위 등 이전 내주 국무회의 심의 가능성…공공기관 반발 고조",
-      "link": "https://www.yna.co.kr/view/AKR20260822042800002",
-      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0900"
-    },
-    {
-      "title": "중금리대출, 2금융권 총량 100% 제외…중저신용자 지원 인센티브",
-      "link": "https://www.yna.co.kr/view/AKR20260822042900002",
-      "pubDate": "Sun, 23 Aug 2026 05:49:02 +0900"
-    },
-    {
-      "title": "집단대출 풀고 주담대는 조이고…가계대출 관리 '새 문법'",
-      "link": "https://www.yna.co.kr/view/AKR20260822039900002",
-      "pubDate": "Sun, 23 Aug 2026 05:49:02 +0900"
-    },
-    {
-      "title": "지출구조조정 50조+α로 커진다…교부금 감축 교육부엔 인센티브",
-      "link": "https://www.yna.co.kr/view/AKR20260822029900002",
-      "pubDate": "Sun, 23 Aug 2026 05:47:00 +0900"
     }
   ]
 }
