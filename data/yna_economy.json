@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787436561,
+  "updated_at_unix": 1787438614,
   "items": [
+    {
+      "title": "삼성전자, 상반기 특허등록 1만1천건…누적 30만건 육박",
+      "link": "https://www.yna.co.kr/view/AKR20260821162500003",
+      "pubDate": "Sun, 23 Aug 2026 07:31:00 +0900"
+    },
+    {
+      "title": "[벼랑끝노인] ⑦ 이중근 회장 \"노인에게 역할을…돌봄에는 존엄을\"",
+      "link": "https://www.yna.co.kr/view/AKR20260823005900004",
+      "pubDate": "Sun, 23 Aug 2026 07:30:15 +0900"
+    },
+    {
+      "title": "경남 최대 '재건축 조합장 20억 성과금'…조합원 투표서 부결",
+      "link": "https://www.yna.co.kr/view/AKR20260822043500052",
+      "pubDate": "Sun, 23 Aug 2026 07:30:02 +0900"
+    },
+    {
+      "title": "인천 재외동포타운 사업 '잡음'에 영종국제학교 '안갯속'",
+      "link": "https://www.yna.co.kr/view/AKR20260821048700065",
+      "pubDate": "Sun, 23 Aug 2026 07:17:00 +0900"
+    },
+    {
+      "title": "K-배터리 3사 글로벌 등록 특허 10만건 눈앞…3년새 약 2배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260821159200003",
+      "pubDate": "Sun, 23 Aug 2026 07:15:01 +0900"
+    },
+    {
+      "title": "김윤덕·오세훈 이번주 다시 회동…'용산공원 공급' 접점 찾나",
+      "link": "https://www.yna.co.kr/view/AKR20260823005600003",
+      "pubDate": "Sun, 23 Aug 2026 07:13:55 +0900"
+    },
     {
       "title": "한국 7월 EU 철강 수출 41%↓…신철강조치 영향 일부 반영",
       "link": "https://www.yna.co.kr/view/AKR20260821179800003",
@@ -122,36 +152,6 @@
       "title": "지출구조조정 50조+α로 커진다…교부금 감축 교육부엔 인센티브",
       "link": "https://www.yna.co.kr/view/AKR20260822029900002",
       "pubDate": "Sun, 23 Aug 2026 05:47:00 +0900"
-    },
-    {
-      "title": "절세기법 진화? 작년 가업상속공제 5천억 돌파…10년 새 16배로",
-      "link": "https://www.yna.co.kr/view/AKR20260822045600002",
-      "pubDate": "Sun, 23 Aug 2026 05:45:01 +0900"
-    },
-    {
-      "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%",
-      "link": "https://www.yna.co.kr/view/AKR20260822039200002",
-      "pubDate": "Sun, 23 Aug 2026 05:45:00 +0900"
-    },
-    {
-      "title": "한은, 올해 성장률 전망치 3%대 초중반으로 높일 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260822035400002",
-      "pubDate": "Sun, 23 Aug 2026 05:30:02 +0900"
-    },
-    {
-      "title": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822017400002",
-      "pubDate": "Sun, 23 Aug 2026 05:30:00 +0900"
-    },
-    {
-      "title": "與김영배, 오세훈과 오찬회동…용산공원 주택공급 두고 평행선(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260822034251001",
-      "pubDate": "Sat, 22 Aug 2026 16:34:04 +0900"
-    },
-    {
-      "title": "與김영배, 吳와 회동…\"吳 '용산공원 1cm도 안된다'며 자기정치\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822034200001",
-      "pubDate": "Sat, 22 Aug 2026 15:33:35 +0900"
     }
   ]
 }
