@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787358751,
+  "updated_at_unix": 1787364433,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260822023600011",
+      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0900"
+    },
     {
       "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표",
       "link": "https://www.yna.co.kr/view/AKR20260822016400002",
@@ -147,11 +152,6 @@
       "title": "법무부, 외국인 계절근로자 인권침해 위반사항 663건 적발",
       "link": "https://www.yna.co.kr/view/AKR20260821146000004",
       "pubDate": "Fri, 21 Aug 2026 16:51:34 +0900"
-    },
-    {
-      "title": "'디에이치 방배' 잔금대출 한도·금리 경쟁 과열 조짐",
-      "link": "https://www.yna.co.kr/view/AKR20260821146100002",
-      "pubDate": "Fri, 21 Aug 2026 16:50:32 +0900"
     }
   ]
 }
