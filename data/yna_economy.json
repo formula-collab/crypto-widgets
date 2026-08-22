@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787433016,
+  "updated_at_unix": 1787434904,
   "items": [
+    {
+      "title": "\"PBR 개선\" 기업가치 제고 계획 공시↑…주요 내용 살펴보니",
+      "link": "https://www.yna.co.kr/view/AKR20260821182700008",
+      "pubDate": "Sun, 23 Aug 2026 06:30:02 +0900"
+    },
+    {
+      "title": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐",
+      "link": "https://www.yna.co.kr/view/AKR20260821149100008",
+      "pubDate": "Sun, 23 Aug 2026 06:25:01 +0900"
+    },
+    {
+      "title": "카카오, 왜 물적 아닌 인적분할 택했나…핵심은 '주주가치'",
+      "link": "https://www.yna.co.kr/view/AKR20260822044600017",
+      "pubDate": "Sun, 23 Aug 2026 06:15:00 +0900"
+    },
+    {
+      "title": "삼전닉스 반등에도 투심은 '냉랭'…코스피 회전율 연중 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260822025400008",
+      "pubDate": "Sun, 23 Aug 2026 06:10:01 +0900"
+    },
+    {
+      "title": "'닥치고 속도전'인데…4년만에 꺼낸 비주택 리모델링 '0'",
+      "link": "https://www.yna.co.kr/view/AKR20260822048400003",
+      "pubDate": "Sun, 23 Aug 2026 06:09:01 +0900"
+    },
     {
       "title": "\"공공기관 이전, 지역경제 영향 미미…지방세수엔 긍정적\"",
       "link": "https://www.yna.co.kr/view/AKR20260822037800530",
@@ -127,31 +152,6 @@
       "title": "[IPO챗] 공모가 희비 갈린 니어스랩·해치텍, 코스닥 입성",
       "link": "https://www.yna.co.kr/view/AKR20260821045200008",
       "pubDate": "Sat, 22 Aug 2026 09:00:04 +0900"
-    },
-    {
-      "title": "\"美日외환개입에 엔캐리 청산 우려…모니터링 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821173700002",
-      "pubDate": "Sat, 22 Aug 2026 09:00:00 +0900"
-    },
-    {
-      "title": "'K-콘텐츠 미래 그린다'…전북 콘텐츠 포럼, 11월까지 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260822017500055",
-      "pubDate": "Sat, 22 Aug 2026 08:52:12 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 상동역 롯데캐슬시그니처 등 5천430가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260821165400003",
-      "pubDate": "Sat, 22 Aug 2026 08:05:00 +0900"
-    },
-    {
-      "title": "[팩트체크] 임대주택 살면 내집장만 못한다?…서울 장기전세 입주민 8% 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260821082100518",
-      "pubDate": "Sat, 22 Aug 2026 08:00:05 +0900"
-    },
-    {
-      "title": "서학개미, '삼전닉스' 라운드힐 ETF 한주간 1천억 샀다",
-      "link": "https://www.yna.co.kr/view/AKR20260821150100008",
-      "pubDate": "Sat, 22 Aug 2026 08:00:04 +0900"
     }
   ]
 }
