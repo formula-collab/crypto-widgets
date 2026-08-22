@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787429383,
+  "updated_at_unix": 1787431464,
   "items": [
+    {
+      "title": "한은, 올해 성장률 전망치 3%대 초중반으로 높일 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260822035400002",
+      "pubDate": "Sun, 23 Aug 2026 05:30:02 +0900"
+    },
+    {
+      "title": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822017400002",
+      "pubDate": "Sun, 23 Aug 2026 05:30:00 +0900"
+    },
     {
       "title": "與김영배, 오세훈과 오찬회동…용산공원 주택공급 두고 평행선(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260822034251001",
@@ -142,16 +152,6 @@
       "title": "HD한국조선해양 \"인도 코친조선소와 합작법인 설립 검토 중단\"",
       "link": "https://www.yna.co.kr/view/AKR20260821153900003",
       "pubDate": "Fri, 21 Aug 2026 17:18:04 +0900"
-    },
-    {
-      "title": "괴산고추축제장서 세척 건고추 600ｇ당 1만6천원에 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260821152900064",
-      "pubDate": "Fri, 21 Aug 2026 17:15:23 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…다음주 금통위 경계감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260821142951008",
-      "pubDate": "Fri, 21 Aug 2026 16:57:27 +0900"
     }
   ]
 }
