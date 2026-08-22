@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787379526,
+  "updated_at_unix": 1787382372,
   "items": [
+    {
+      "title": "與김영배, 吳와 회동…\"吳 '용산공원 1cm도 안된다'며 자기정치\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822034200001",
+      "pubDate": "Sat, 22 Aug 2026 15:33:35 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260822023600011",
@@ -147,11 +152,6 @@
       "title": "카카오 창사 이래 최대 재편…'카카오 디스카운트' 깬다(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260821081351017",
       "pubDate": "Fri, 21 Aug 2026 16:56:41 +0900"
-    },
-    {
-      "title": "법무부, 외국인 계절근로자 인권침해 위반사항 663건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260821146000004",
-      "pubDate": "Fri, 21 Aug 2026 16:51:34 +0900"
     }
   ]
 }
