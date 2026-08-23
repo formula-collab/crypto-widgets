@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787462653,
+  "updated_at_unix": 1787464285,
   "items": [
+    {
+      "title": "[속보] 당정 \"불가피한 사유의 비거주, 거주 인정 확대 공감대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260823030400001",
+      "pubDate": "Sun, 23 Aug 2026 14:38:27 +0900"
+    },
     {
       "title": "AI활용 노하우부터 투자유치 전략까지…강남구 초기창업자 과정",
       "link": "https://www.yna.co.kr/view/AKR20260823029300004",
@@ -147,11 +152,6 @@
       "title": "[게시판] NH농협은행, 2026 을지연습서 복합위기 대응체계 점검",
       "link": "https://www.yna.co.kr/view/AKR20260822049800002",
       "pubDate": "Sun, 23 Aug 2026 09:05:01 +0900"
-    },
-    {
-      "title": "'납품업체에 판촉비 전가' GS리테일, 과징금 불복소송 최종 패소",
-      "link": "https://www.yna.co.kr/view/AKR20260822030700004",
-      "pubDate": "Sun, 23 Aug 2026 09:00:02 +0900"
     }
   ]
 }
