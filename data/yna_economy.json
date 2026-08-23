@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787522981,
+  "updated_at_unix": 1787525006,
   "items": [
+    {
+      "title": "부산 수영만 요트경기장 재개발 지연…'선석 우선 배정권' 논란",
+      "link": "https://www.yna.co.kr/view/AKR20260821044800051",
+      "pubDate": "Mon, 24 Aug 2026 07:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260824009900011",
+      "pubDate": "Mon, 24 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "공시가격 급등에 송파구 주택분 재산세 23%↑…\"산정체계 개선해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824008900004",
+      "pubDate": "Mon, 24 Aug 2026 07:14:40 +0900"
+    },
     {
       "title": "생계급여 노인도 노인일자리 참여?…\"허용시 별도 물량 검토해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260823034600530",
@@ -137,21 +152,6 @@
       "title": "60세 이상 '서울시 시니어 일자리박람회' 참가자 모집",
       "link": "https://www.yna.co.kr/view/AKR20260822029400004",
       "pubDate": "Sun, 23 Aug 2026 11:15:03 +0900"
-    },
-    {
-      "title": "성수동에 17층 복합시설·도심숲 조성…길동엔 청년주거시설",
-      "link": "https://www.yna.co.kr/view/AKR20260822030000004",
-      "pubDate": "Sun, 23 Aug 2026 11:15:00 +0900"
-    },
-    {
-      "title": "\"북중무역, 코로나 이전 수준 회복…구조적 무역적자는 지속\"",
-      "link": "https://www.yna.co.kr/view/AKR20260821182600002",
-      "pubDate": "Sun, 23 Aug 2026 11:00:03 +0900"
-    },
-    {
-      "title": "해수부, 추석 맞이 비축 수산물 '역대 최대' 2만t 방출",
-      "link": "https://www.yna.co.kr/view/AKR20260822035100030",
-      "pubDate": "Sun, 23 Aug 2026 11:00:02 +0900"
     }
   ]
 }
