@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787468875,
+  "updated_at_unix": 1787471578,
   "items": [
+    {
+      "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260822039251002",
+      "pubDate": "Sun, 23 Aug 2026 16:06:56 +0900"
+    },
     {
       "title": "춘천시·日 호후시 '35년 우정' 넘어 백년지우로…교류 확대",
       "link": "https://www.yna.co.kr/view/AKR20260823033400062",
@@ -147,11 +152,6 @@
       "title": "임광현 \"고가 법인주택 42%는 '황제사택'…최고가 200억 넘어\"",
       "link": "https://www.yna.co.kr/view/AKR20260823016500002",
       "pubDate": "Sun, 23 Aug 2026 09:58:38 +0900"
-    },
-    {
-      "title": "최종현학술원 \"국산 AI모델 확보만으론 부족…운용주권이 중요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823016000003",
-      "pubDate": "Sun, 23 Aug 2026 09:47:41 +0900"
     }
   ]
 }
