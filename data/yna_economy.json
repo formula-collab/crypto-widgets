@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787442065,
+  "updated_at_unix": 1787445344,
   "items": [
+    {
+      "title": "[게시판] NH농협은행, 2026 을지연습서 복합위기 대응체계 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260822049800002",
+      "pubDate": "Sun, 23 Aug 2026 09:05:01 +0900"
+    },
+    {
+      "title": "'납품업체에 판촉비 전가' GS리테일, 과징금 불복소송 최종 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260822030700004",
+      "pubDate": "Sun, 23 Aug 2026 09:00:02 +0900"
+    },
+    {
+      "title": "5대 제약사 R&D 투자 확대…상반기 1천억원 안팎씩",
+      "link": "https://www.yna.co.kr/view/AKR20260821044400017",
+      "pubDate": "Sun, 23 Aug 2026 08:45:00 +0900"
+    },
     {
       "title": "햇고구마부터 아이스크림까지…편의점 업계, 가을철 디저트 출시",
       "link": "https://www.yna.co.kr/view/AKR20260823010900030",
@@ -137,21 +152,6 @@
       "title": "예금·달러·금 쌓고 주식투자는 '신중'…달라진 은행 자금 흐름",
       "link": "https://www.yna.co.kr/view/AKR20260822044700002",
       "pubDate": "Sun, 23 Aug 2026 05:57:00 +0900"
-    },
-    {
-      "title": "홈플러스 전단채 피해자 '선 배상' 무게…\"제재심도 신속 부의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822042200002",
-      "pubDate": "Sun, 23 Aug 2026 05:55:00 +0900"
-    },
-    {
-      "title": "환율안정 배경에 수출기업 '뭉칫돈'…달러 순매도 1년새 4배로↑",
-      "link": "https://www.yna.co.kr/view/AKR20260822016900002",
-      "pubDate": "Sun, 23 Aug 2026 05:53:00 +0900"
-    },
-    {
-      "title": "지방이전 기로 금감원 매년 100명 넘게 퇴직…20∼40대 이탈 40%",
-      "link": "https://www.yna.co.kr/view/AKR20260822043000002",
-      "pubDate": "Sun, 23 Aug 2026 05:51:02 +0900"
     }
   ]
 }
