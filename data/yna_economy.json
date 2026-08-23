@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787461070,
+  "updated_at_unix": 1787462653,
   "items": [
+    {
+      "title": "AI활용 노하우부터 투자유치 전략까지…강남구 초기창업자 과정",
+      "link": "https://www.yna.co.kr/view/AKR20260823029300004",
+      "pubDate": "Sun, 23 Aug 2026 14:11:54 +0900"
+    },
     {
       "title": "KB \"8월 서울 아파트값 1.14%↑…상승률 소폭 확대\"",
       "link": "https://www.yna.co.kr/view/AKR20260823028100003",
@@ -147,11 +152,6 @@
       "title": "'납품업체에 판촉비 전가' GS리테일, 과징금 불복소송 최종 패소",
       "link": "https://www.yna.co.kr/view/AKR20260822030700004",
       "pubDate": "Sun, 23 Aug 2026 09:00:02 +0900"
-    },
-    {
-      "title": "5대 제약사 R&D 투자 확대…상반기 1천억원 안팎씩",
-      "link": "https://www.yna.co.kr/view/AKR20260821044400017",
-      "pubDate": "Sun, 23 Aug 2026 08:45:00 +0900"
     }
   ]
 }
