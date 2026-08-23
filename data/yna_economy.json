@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787526569,
+  "updated_at_unix": 1787528478,
   "items": [
+    {
+      "title": "iM증권, 삼화콘덴서 목표가↑…\"MLCC 가격 인상 낙수효과\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824019200008",
+      "pubDate": "Mon, 24 Aug 2026 08:30:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] 삼전·닉스 주주환원 약발 이어질까…코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260824020000008",
+      "pubDate": "Mon, 24 Aug 2026 08:26:03 +0900"
+    },
+    {
+      "title": "식약처, 내년 건기식 원료 10종 재평가…빌베리추출물 포함",
+      "link": "https://www.yna.co.kr/view/AKR20260824018500017",
+      "pubDate": "Mon, 24 Aug 2026 08:17:45 +0900"
+    },
+    {
+      "title": "식약처, 맞춤형 건강기능식품 업체 위생·품질 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260824017500017",
+      "pubDate": "Mon, 24 Aug 2026 08:16:19 +0900"
+    },
+    {
+      "title": "한투증권 \"금융주, 고금리 방어력 높고 주주환원 매력 겸비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824018800008",
+      "pubDate": "Mon, 24 Aug 2026 08:15:28 +0900"
+    },
     {
       "title": "부산형 앵커기업 4개사 인증서 수여…미래성장산업 확대",
       "link": "https://www.yna.co.kr/view/AKR20260824014600051",
@@ -127,31 +152,6 @@
       "title": "정부, 탄자니아 AI 사업에 1.7억달러 차관…韓기업 진출과 연계",
       "link": "https://www.yna.co.kr/view/AKR20260822046000002",
       "pubDate": "Sun, 23 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "\"북한 장마당 소득 양극화, 2014∼2015년 경제충격 이후 심화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822046300002",
-      "pubDate": "Sun, 23 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "中企 10곳 중 7곳 \"납품대금 지급기한 단축, 경영에 도움 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260822045500030",
-      "pubDate": "Sun, 23 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "강훈식 \"與, 주택용지 확보방안 제시해주면 靑·정부 적극 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823024700001",
-      "pubDate": "Sun, 23 Aug 2026 11:39:17 +0900"
-    },
-    {
-      "title": "체납으로 위기신호 감지…서울 중구, 중부·남대문세무서와 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260823024100004",
-      "pubDate": "Sun, 23 Aug 2026 11:26:33 +0900"
-    },
-    {
-      "title": "서울시, 모아타운 '쾌속통합' 추진…2031년까지 4만호 착공",
-      "link": "https://www.yna.co.kr/view/AKR20260822029100004",
-      "pubDate": "Sun, 23 Aug 2026 11:15:04 +0900"
     }
   ]
 }
