@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787451401,
+  "updated_at_unix": 1787455566,
   "items": [
+    {
+      "title": "노동부, 검찰지휘 폐지 전 노동감독관 교육 강화…수사학교 신설",
+      "link": "https://www.yna.co.kr/view/AKR20260821153600530",
+      "pubDate": "Sun, 23 Aug 2026 12:00:10 +0900"
+    },
+    {
+      "title": "난임치료휴가 유급기간 2일→4일 확대…불리한 처우시 처벌",
+      "link": "https://www.yna.co.kr/view/AKR20260822027600530",
+      "pubDate": "Sun, 23 Aug 2026 12:00:08 +0900"
+    },
+    {
+      "title": "중진공, 내달 4일까지 재창업 특화 교육 참여자 200명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260821180300030",
+      "pubDate": "Sun, 23 Aug 2026 12:00:06 +0900"
+    },
+    {
+      "title": "중진공, 스마트 제조 전문인력 육성 사업 교육생 600명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260821180800030",
+      "pubDate": "Sun, 23 Aug 2026 12:00:06 +0900"
+    },
+    {
+      "title": "고유가 지원금 사용률 97%…\"31일까지 안 쓰면 없어져요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822038200530",
+      "pubDate": "Sun, 23 Aug 2026 12:00:05 +0900"
+    },
+    {
+      "title": "올해 상반기 국내은행 이자이익 32조원 '역대 최대'…당기순익↓",
+      "link": "https://www.yna.co.kr/view/AKR20260822041800002",
+      "pubDate": "Sun, 23 Aug 2026 12:00:04 +0900"
+    },
+    {
+      "title": "정부, 탄자니아 AI 사업에 1.7억달러 차관…韓기업 진출과 연계",
+      "link": "https://www.yna.co.kr/view/AKR20260822046000002",
+      "pubDate": "Sun, 23 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "\"북한 장마당 소득 양극화, 2014∼2015년 경제충격 이후 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822046300002",
+      "pubDate": "Sun, 23 Aug 2026 12:00:03 +0900"
+    },
+    {
+      "title": "中企 10곳 중 7곳 \"납품대금 지급기한 단축, 경영에 도움 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822045500030",
+      "pubDate": "Sun, 23 Aug 2026 12:00:01 +0900"
+    },
+    {
+      "title": "강훈식 \"與, 주택용지 확보방안 제시해주면 靑·정부 적극 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260823024700001",
+      "pubDate": "Sun, 23 Aug 2026 11:39:17 +0900"
+    },
+    {
+      "title": "체납으로 위기신호 감지…서울 중구, 중부·남대문세무서와 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260823024100004",
+      "pubDate": "Sun, 23 Aug 2026 11:26:33 +0900"
+    },
+    {
+      "title": "서울시, 모아타운 '쾌속통합' 추진…2031년까지 4만호 착공",
+      "link": "https://www.yna.co.kr/view/AKR20260822029100004",
+      "pubDate": "Sun, 23 Aug 2026 11:15:04 +0900"
+    },
+    {
+      "title": "60세 이상 '서울시 시니어 일자리박람회' 참가자 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260822029400004",
+      "pubDate": "Sun, 23 Aug 2026 11:15:03 +0900"
+    },
+    {
+      "title": "성수동에 17층 복합시설·도심숲 조성…길동엔 청년주거시설",
+      "link": "https://www.yna.co.kr/view/AKR20260822030000004",
+      "pubDate": "Sun, 23 Aug 2026 11:15:00 +0900"
+    },
     {
       "title": "\"북중무역, 코로나 이전 수준 회복…구조적 무역적자는 지속\"",
       "link": "https://www.yna.co.kr/view/AKR20260821182600002",
@@ -82,76 +152,6 @@
       "title": "햇고구마부터 아이스크림까지…편의점 업계, 가을철 디저트 출시",
       "link": "https://www.yna.co.kr/view/AKR20260823010900030",
       "pubDate": "Sun, 23 Aug 2026 08:33:37 +0900"
-    },
-    {
-      "title": "강원도, 해외 바이어와 도내 수출기업 온라인 연결…일대일 매칭",
-      "link": "https://www.yna.co.kr/view/AKR20260823011000062",
-      "pubDate": "Sun, 23 Aug 2026 08:33:16 +0900"
-    },
-    {
-      "title": "하나은행·기보·신보, 청년기업에 2천억원 규모 보증대출 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260821175000002",
-      "pubDate": "Sun, 23 Aug 2026 08:30:00 +0900"
-    },
-    {
-      "title": "'고시원에 욕조 설치' 기준 개정, 비판여론에 \"재검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823007100003",
-      "pubDate": "Sun, 23 Aug 2026 08:23:45 +0900"
-    },
-    {
-      "title": "삼성전자, 상반기 특허등록 1만1천건…누적 30만건 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260821162500003",
-      "pubDate": "Sun, 23 Aug 2026 07:31:00 +0900"
-    },
-    {
-      "title": "[벼랑끝노인] ⑦ 이중근 회장 \"노인에게 역할을…돌봄에는 존엄을\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823005900004",
-      "pubDate": "Sun, 23 Aug 2026 07:30:15 +0900"
-    },
-    {
-      "title": "경남 최대 '재건축 조합장 20억 성과금'…조합원 투표서 부결",
-      "link": "https://www.yna.co.kr/view/AKR20260822043500052",
-      "pubDate": "Sun, 23 Aug 2026 07:30:02 +0900"
-    },
-    {
-      "title": "인천 재외동포타운 사업 '잡음'에 영종국제학교 '안갯속'",
-      "link": "https://www.yna.co.kr/view/AKR20260821048700065",
-      "pubDate": "Sun, 23 Aug 2026 07:17:00 +0900"
-    },
-    {
-      "title": "K-배터리 3사 글로벌 등록 특허 10만건 눈앞…3년새 약 2배로↑",
-      "link": "https://www.yna.co.kr/view/AKR20260821159200003",
-      "pubDate": "Sun, 23 Aug 2026 07:15:01 +0900"
-    },
-    {
-      "title": "김윤덕·오세훈 이번주 다시 회동…'용산공원 공급' 접점 찾나",
-      "link": "https://www.yna.co.kr/view/AKR20260823005600003",
-      "pubDate": "Sun, 23 Aug 2026 07:13:55 +0900"
-    },
-    {
-      "title": "한국 7월 EU 철강 수출 41%↓…신철강조치 영향 일부 반영",
-      "link": "https://www.yna.co.kr/view/AKR20260821179800003",
-      "pubDate": "Sun, 23 Aug 2026 07:03:00 +0900"
-    },
-    {
-      "title": "\"담보 설명 없이 중개\"… 경기도, 불법 중개 69건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260821150000061",
-      "pubDate": "Sun, 23 Aug 2026 07:01:04 +0900"
-    },
-    {
-      "title": "경기도, 전세사기 피해주택 수리비 최대 2천만원까지 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260821152700061",
-      "pubDate": "Sun, 23 Aug 2026 07:01:04 +0900"
-    },
-    {
-      "title": "\"PBR 개선\" 기업가치 제고 계획 공시↑…주요 내용 살펴보니",
-      "link": "https://www.yna.co.kr/view/AKR20260821182700008",
-      "pubDate": "Sun, 23 Aug 2026 06:30:02 +0900"
-    },
-    {
-      "title": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐",
-      "link": "https://www.yna.co.kr/view/AKR20260821149100008",
-      "pubDate": "Sun, 23 Aug 2026 06:25:01 +0900"
     }
   ]
 }
