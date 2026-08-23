@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787517860,
+  "updated_at_unix": 1787519426,
   "items": [
+    {
+      "title": "생계급여 노인도 노인일자리 참여?…\"허용시 별도 물량 검토해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260823034600530",
+      "pubDate": "Mon, 24 Aug 2026 06:03:01 +0900"
+    },
+    {
+      "title": "관광공사, 팬데믹 때도 해외지사 예산 증액…작년 200억원 넘겨",
+      "link": "https://www.yna.co.kr/view/AKR20260818167500030",
+      "pubDate": "Mon, 24 Aug 2026 06:03:00 +0900"
+    },
+    {
+      "title": "시몬스 \"'20만회 테스트' 견딘 특수강 매트리스 개발\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822047900030",
+      "pubDate": "Mon, 24 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "대한상의 제3회 사회적가치 페스타 참관객 사전등록",
+      "link": "https://www.yna.co.kr/view/AKR20260823036300003",
+      "pubDate": "Mon, 24 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "'제2 서소문고가 붕괴 없도록'…서울시, 시설물사고 조사 강화한다",
+      "link": "https://www.yna.co.kr/view/AKR20260823014500004",
+      "pubDate": "Mon, 24 Aug 2026 05:55:02 +0900"
+    },
+    {
+      "title": "위고비·마운자로 불법 직구 기승…작년 연간치 3.5배 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260822033900002",
+      "pubDate": "Mon, 24 Aug 2026 05:55:01 +0900"
+    },
+    {
+      "title": "\"인상 과도\"vs\"기여금 종료 효과\"…예보료율 인상 본격 줄다리기",
+      "link": "https://www.yna.co.kr/view/AKR20260823027000002",
+      "pubDate": "Mon, 24 Aug 2026 05:53:01 +0900"
+    },
+    {
+      "title": "중국업체에 800억대 사기당한 기업은행…\"허술한 내부통제\"",
+      "link": "https://www.yna.co.kr/view/AKR20260822049100002",
+      "pubDate": "Mon, 24 Aug 2026 05:51:00 +0900"
+    },
     {
       "title": "상위 대기업 세제혜택 82%↑…기업 총감면 증가분의 71%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260822039251002",
@@ -112,46 +152,6 @@
       "title": "해수부, 추석 맞이 비축 수산물 '역대 최대' 2만t 방출",
       "link": "https://www.yna.co.kr/view/AKR20260822035100030",
       "pubDate": "Sun, 23 Aug 2026 11:00:02 +0900"
-    },
-    {
-      "title": "전문가들 \"9월 제조업 경기 개선될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823019700003",
-      "pubDate": "Sun, 23 Aug 2026 11:00:02 +0900"
-    },
-    {
-      "title": "\"K컬처 흥행 속 구조적 한계 직면…한국판 할리우드 조성해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823021600003",
-      "pubDate": "Sun, 23 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "국채금리 급등 '대증요법'으로 눌러보려다 '교육당한' 美재무",
-      "link": "https://www.yna.co.kr/view/AKR20260823019100009",
-      "pubDate": "Sun, 23 Aug 2026 10:38:31 +0900"
-    },
-    {
-      "title": "풀무원푸드머스, 저소득 영유아 가정에 간식 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260823020400030",
-      "pubDate": "Sun, 23 Aug 2026 10:36:37 +0900"
-    },
-    {
-      "title": "술 줄이는 한국인…맥주·소주·막걸리 출고 일제히 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260823019900030",
-      "pubDate": "Sun, 23 Aug 2026 10:33:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260823019000011",
-      "pubDate": "Sun, 23 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "이랜드 키디키디, 내달 20일까지 현대百 판교점서 팝업스토어",
-      "link": "https://www.yna.co.kr/view/AKR20260823017800030",
-      "pubDate": "Sun, 23 Aug 2026 10:09:38 +0900"
-    },
-    {
-      "title": "임광현 \"고가 법인주택 42%는 '황제사택'…최고가 200억 넘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260823016500002",
-      "pubDate": "Sun, 23 Aug 2026 09:58:38 +0900"
     }
   ]
 }
