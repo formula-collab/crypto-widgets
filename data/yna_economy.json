@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787611741,
+  "updated_at_unix": 1787613131,
   "items": [
+    {
+      "title": "MBK 김병주 회장, 홈플러스 보증·담보 자금 상환 현실화",
+      "link": "https://www.yna.co.kr/view/AKR20260824145100008",
+      "pubDate": "Tue, 25 Aug 2026 08:01:00 +0900"
+    },
+    {
+      "title": "\"주주가치 증대 최우선\"…국민연금 해외주식 의결내역 살펴보니",
+      "link": "https://www.yna.co.kr/view/AKR20260824115300008",
+      "pubDate": "Tue, 25 Aug 2026 08:00:05 +0900"
+    },
+    {
+      "title": "부산시 노사민정협의회 본회의…상생 공동선언문 채택",
+      "link": "https://www.yna.co.kr/view/AKR20260825020400051",
+      "pubDate": "Tue, 25 Aug 2026 07:55:15 +0900"
+    },
+    {
+      "title": "부산시, 우리동네 ESG 센터 현장 방문…\"노인 일자리 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825020300051",
+      "pubDate": "Tue, 25 Aug 2026 07:53:16 +0900"
+    },
+    {
+      "title": "강남구, 지방소득세 체납 사업주 1천365명에 '고발 사전예고'",
+      "link": "https://www.yna.co.kr/view/AKR20260825019600004",
+      "pubDate": "Tue, 25 Aug 2026 07:46:35 +0900"
+    },
+    {
+      "title": "\"냉면 한 그릇 1만8천원\"…7월 삼계탕·냉면·김밥 일제히 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260825018900030",
+      "pubDate": "Tue, 25 Aug 2026 07:45:57 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260825014800011",
@@ -122,36 +152,6 @@
       "title": "美 재무 발표 앞두고…국고채 금리 일제히 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824137251008",
       "pubDate": "Mon, 24 Aug 2026 17:05:17 +0900"
-    },
-    {
-      "title": "대한상의 경제연구총괄에 이시욱 전 대외경제정책연구원장 내정",
-      "link": "https://www.yna.co.kr/view/AKR20260824141500003",
-      "pubDate": "Mon, 24 Aug 2026 17:04:46 +0900"
-    },
-    {
-      "title": "화천군 농어촌 기본소득 28일 첫 지급…면 지역 사용처 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260824130100062",
-      "pubDate": "Mon, 24 Aug 2026 16:55:17 +0900"
-    },
-    {
-      "title": "원/달러 환율 13개월 만에 최저…장중 1,370원대로 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824075851002",
-      "pubDate": "Mon, 24 Aug 2026 16:54:04 +0900"
-    },
-    {
-      "title": "[포항소식] 11월 말까지 중앙상가서 거리문화행사",
-      "link": "https://www.yna.co.kr/view/AKR20260824138300053",
-      "pubDate": "Mon, 24 Aug 2026 16:52:27 +0900"
-    },
-    {
-      "title": "靑, 세제개편안 수정 방향에 \"당정협의 면밀히 살펴보는 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824137600001",
-      "pubDate": "Mon, 24 Aug 2026 16:52:09 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.836%",
-      "link": "https://www.yna.co.kr/view/AKR20260824137200008",
-      "pubDate": "Mon, 24 Aug 2026 16:40:54 +0900"
     }
   ]
 }
