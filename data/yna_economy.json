@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787557778,
+  "updated_at_unix": 1787560436,
   "items": [
+    {
+      "title": "비거주 1주택 종부세 기본공제 절충점 찾나…12억원 '주목'(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824118651002",
+      "pubDate": "Mon, 24 Aug 2026 17:15:32 +0900"
+    },
+    {
+      "title": "이억원 \"이주비대출 LTV 산정 기준은 조합원 분양가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824139200002",
+      "pubDate": "Mon, 24 Aug 2026 17:08:10 +0900"
+    },
+    {
+      "title": "美 재무 발표 앞두고…국고채 금리 일제히 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824137251008",
+      "pubDate": "Mon, 24 Aug 2026 17:05:17 +0900"
+    },
+    {
+      "title": "대한상의 경제연구총괄에 이시욱 전 대외경제정책연구원장 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260824141500003",
+      "pubDate": "Mon, 24 Aug 2026 17:04:46 +0900"
+    },
+    {
+      "title": "화천군 농어촌 기본소득 28일 첫 지급…면 지역 사용처 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260824130100062",
+      "pubDate": "Mon, 24 Aug 2026 16:55:17 +0900"
+    },
+    {
+      "title": "원/달러 환율 13개월 만에 최저…장중 1,370원대로 하락(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824075851002",
+      "pubDate": "Mon, 24 Aug 2026 16:54:04 +0900"
+    },
+    {
+      "title": "[포항소식] 11월 말까지 중앙상가서 거리문화행사",
+      "link": "https://www.yna.co.kr/view/AKR20260824138300053",
+      "pubDate": "Mon, 24 Aug 2026 16:52:27 +0900"
+    },
+    {
+      "title": "靑, 세제개편안 수정 방향에 \"당정협의 면밀히 살펴보는 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824137600001",
+      "pubDate": "Mon, 24 Aug 2026 16:52:09 +0900"
+    },
     {
       "title": "국고채 금리 일제히 하락…3년물 연 3.836%",
       "link": "https://www.yna.co.kr/view/AKR20260824137200008",
@@ -112,46 +152,6 @@
       "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
       "link": "https://www.yna.co.kr/view/AKR20260824104100054",
       "pubDate": "Mon, 24 Aug 2026 15:32:06 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 4.1원 내린 1,382.4원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260824118000002",
-      "pubDate": "Mon, 24 Aug 2026 15:30:46 +0900"
-    },
-    {
-      "title": "한중, 8년 만에 ICT 전략대화 재개…디지털 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260824058900017",
-      "pubDate": "Mon, 24 Aug 2026 15:30:01 +0900"
-    },
-    {
-      "title": "박홍근 \"내년 세수, 중기재정계획 전망보다 100조 증가 예측\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824113500001",
-      "pubDate": "Mon, 24 Aug 2026 15:27:52 +0900"
-    },
-    {
-      "title": "'빚투' 증가세 지속…투자자예탁금은 다시 100조원선 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260824116500008",
-      "pubDate": "Mon, 24 Aug 2026 15:26:27 +0900"
-    },
-    {
-      "title": "7월까지 자동차보험 손해율 84.8% …작년보다 소폭 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260824114100002",
-      "pubDate": "Mon, 24 Aug 2026 15:13:29 +0900"
-    },
-    {
-      "title": "서울시, '500세대 이하 재개발 인허가 자치구 이양'에 강력 반발(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824090251004",
-      "pubDate": "Mon, 24 Aug 2026 15:03:21 +0900"
-    },
-    {
-      "title": "퇴직연금 실물이전 약 16조원…DC형→타사 IRP로도 가능",
-      "link": "https://www.yna.co.kr/view/AKR20260824096200002",
-      "pubDate": "Mon, 24 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "유엔개발계획과 시리아 재건시장 공략…코트라, 기업 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260824101800003",
-      "pubDate": "Mon, 24 Aug 2026 15:00:01 +0900"
     }
   ]
 }
