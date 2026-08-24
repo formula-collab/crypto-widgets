@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787554557,
+  "updated_at_unix": 1787557778,
   "items": [
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.836%",
+      "link": "https://www.yna.co.kr/view/AKR20260824137200008",
+      "pubDate": "Mon, 24 Aug 2026 16:40:54 +0900"
+    },
+    {
+      "title": "삼성전자, 사상 최대 주주환원에도 주가 8%↓…그룹주도 약세(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824036751008",
+      "pubDate": "Mon, 24 Aug 2026 16:29:19 +0900"
+    },
+    {
+      "title": "교보생명, 3천억 규모 신종자본증권 수요예측서 4천460억원 확보",
+      "link": "https://www.yna.co.kr/view/AKR20260824133000008",
+      "pubDate": "Mon, 24 Aug 2026 16:23:51 +0900"
+    },
+    {
+      "title": "삼전·닉스 동반 급락에 코스피 3%↓…코스닥은 1%대 올라(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824119751008",
+      "pubDate": "Mon, 24 Aug 2026 16:22:15 +0900"
+    },
+    {
+      "title": "K바이오 기술수출 벌써 15조…역대 최대 기록 넘본다",
+      "link": "https://www.yna.co.kr/view/AKR20260824127700017",
+      "pubDate": "Mon, 24 Aug 2026 16:15:17 +0900"
+    },
+    {
+      "title": "금융 취약계층 보호…전북농협, 순창에 '동행창구' 1호점 개소",
+      "link": "https://www.yna.co.kr/view/AKR20260824125100055",
+      "pubDate": "Mon, 24 Aug 2026 15:59:45 +0900"
+    },
+    {
+      "title": "중진공, 대전서 'D-엑스포' 개최…딥테크 기술·IP 전략 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260824122000030",
+      "pubDate": "Mon, 24 Aug 2026 15:59:16 +0900"
+    },
+    {
+      "title": "'일타강사 자처' 오세훈 시장, 용산공원 주택공급에 \"역사의 죄인\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824122100004",
+      "pubDate": "Mon, 24 Aug 2026 15:53:55 +0900"
+    },
+    {
+      "title": "이억원, '흑자 동전주' 지적에 \"상폐기준 미세조정 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824124600002",
+      "pubDate": "Mon, 24 Aug 2026 15:53:31 +0900"
+    },
+    {
+      "title": "해운대 센텀 마지막 금싸라기 세가사미 용지 개발 또 무산 위기",
+      "link": "https://www.yna.co.kr/view/AKR20260824119300051",
+      "pubDate": "Mon, 24 Aug 2026 15:53:04 +0900"
+    },
     {
       "title": "[특징주] 코로나19 감염 증가 소식에 관련주 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824033351008",
@@ -94,64 +144,14 @@
       "pubDate": "Mon, 24 Aug 2026 15:03:21 +0900"
     },
     {
-      "title": "유엔개발계획과 시리아 재건시장 공략…코트라, 기업 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260824101800003",
-      "pubDate": "Mon, 24 Aug 2026 15:00:01 +0900"
-    },
-    {
-      "title": "DC형 퇴직연금 타사 IRP로 이전된다…환매중단펀드도 가능",
+      "title": "퇴직연금 실물이전 약 16조원…DC형→타사 IRP로도 가능",
       "link": "https://www.yna.co.kr/view/AKR20260824096200002",
       "pubDate": "Mon, 24 Aug 2026 15:00:01 +0900"
     },
     {
-      "title": "해안건축, 송파 올림픽훼밀리타운 재건축 설계사 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260824107800003",
-      "pubDate": "Mon, 24 Aug 2026 14:59:46 +0900"
-    },
-    {
-      "title": "두나무, 서울중기청·소진공과 전통시장 지원 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260824108900002",
-      "pubDate": "Mon, 24 Aug 2026 14:58:09 +0900"
-    },
-    {
-      "title": "부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824107500051",
-      "pubDate": "Mon, 24 Aug 2026 14:56:56 +0900"
-    },
-    {
-      "title": "iM뱅크, 전라권 영업점 개점 기념 '더쿠폰 예·적금' 특판",
-      "link": "https://www.yna.co.kr/view/AKR20260824106100053",
-      "pubDate": "Mon, 24 Aug 2026 14:56:09 +0900"
-    },
-    {
-      "title": "예보·금감원노조 \"지방이전으로 국민 피해\"…靑에 의견서 전달(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824076351002",
-      "pubDate": "Mon, 24 Aug 2026 14:52:59 +0900"
-    },
-    {
-      "title": "수출기업 '짝퉁 상품' 해외 유통, K-브랜드 정부인증제도로 해결",
-      "link": "https://www.yna.co.kr/view/AKR20260824103600063",
-      "pubDate": "Mon, 24 Aug 2026 14:40:10 +0900"
-    },
-    {
-      "title": "울주군, 지적재조사사업 토지소유자 대상 경계설정 협의",
-      "link": "https://www.yna.co.kr/view/AKR20260824104200057",
-      "pubDate": "Mon, 24 Aug 2026 14:38:13 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260824099600011",
-      "pubDate": "Mon, 24 Aug 2026 14:30:00 +0900"
-    },
-    {
-      "title": "\"누군들 고향 떠나고 싶겠어요?\" 통계 밖 전주시 비취업의 민낯",
-      "link": "https://www.yna.co.kr/view/AKR20260824096100055",
-      "pubDate": "Mon, 24 Aug 2026 14:17:30 +0900"
-    },
-    {
-      "title": "iM뱅크, 시니어 특화 'iM연금설계 상담소' 효성타운점 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260824100500053",
-      "pubDate": "Mon, 24 Aug 2026 14:13:00 +0900"
+      "title": "유엔개발계획과 시리아 재건시장 공략…코트라, 기업 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260824101800003",
+      "pubDate": "Mon, 24 Aug 2026 15:00:01 +0900"
     }
   ]
 }
