@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787608174,
+  "updated_at_unix": 1787609602,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카와 함께 글로벌 AI 강국…대한민국의 미래로 나가자",
+      "link": "https://www.yna.co.kr/view/AKR20260818018000898",
+      "pubDate": "Tue, 25 Aug 2026 07:00:08 +0900"
+    },
     {
       "title": "[율곡로] 잔치는 끝났다…글로벌 긴축에 대비할 때",
       "link": "https://www.yna.co.kr/view/AKR20260824147600546",
@@ -147,11 +152,6 @@
       "title": "삼전·닉스 동반 급락에 코스피 3%↓…코스닥은 1%대 올라(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824119751008",
       "pubDate": "Mon, 24 Aug 2026 16:22:15 +0900"
-    },
-    {
-      "title": "K바이오 기술수출 벌써 15조…역대 최대 기록 넘본다",
-      "link": "https://www.yna.co.kr/view/AKR20260824127700017",
-      "pubDate": "Mon, 24 Aug 2026 16:15:17 +0900"
     }
   ]
 }
