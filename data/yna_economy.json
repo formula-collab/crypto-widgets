@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787544756,
+  "updated_at_unix": 1787548033,
   "items": [
+    {
+      "title": "실노동시간 단축 점검단, 야간노동자 간담회…건강보호방안 준비",
+      "link": "https://www.yna.co.kr/view/AKR20260824061200530",
+      "pubDate": "Mon, 24 Aug 2026 14:00:43 +0900"
+    },
+    {
+      "title": "[게시판] 민생안정지원단, 안반데기 여름철 고랭지 배추 작황 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260824070600002",
+      "pubDate": "Mon, 24 Aug 2026 14:00:42 +0900"
+    },
+    {
+      "title": "[AI픽] AI로 물리·수학 난제 푼다…정부, 5년간 200억원 투자",
+      "link": "https://www.yna.co.kr/view/AKR20260824093700017",
+      "pubDate": "Mon, 24 Aug 2026 14:00:02 +0900"
+    },
+    {
+      "title": "\"청년층 눈높아서 중소기업 외면안해…대기업 사다리 만들어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824095500003",
+      "pubDate": "Mon, 24 Aug 2026 14:00:01 +0900"
+    },
+    {
+      "title": "추석 앞 쌀값 9월까지 약보합세 전망…햅쌀 출하가 변수",
+      "link": "https://www.yna.co.kr/view/AKR20260824094000030",
+      "pubDate": "Mon, 24 Aug 2026 13:53:22 +0900"
+    },
+    {
+      "title": "[동포의 창] 동포청·예금보험공사, 고려인 장학생에 금융교육",
+      "link": "https://www.yna.co.kr/view/AKR20260824093300371",
+      "pubDate": "Mon, 24 Aug 2026 13:48:06 +0900"
+    },
+    {
+      "title": "한미, 제넨텍에 3.2조원 규모 비만약 기술 수출…\"사상 최대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824081200017",
+      "pubDate": "Mon, 24 Aug 2026 13:44:26 +0900"
+    },
+    {
+      "title": "서울시, '500세대 이하 구청장 인허가' 추진에 \"실효성 떨어져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824090200004",
+      "pubDate": "Mon, 24 Aug 2026 13:30:01 +0900"
+    },
     {
       "title": "국세청, 거제·통영 특별재난지역 세금 납부기한 최대 2년 연장",
       "link": "https://www.yna.co.kr/view/AKR20260824027800002",
@@ -64,7 +104,7 @@
       "pubDate": "Mon, 24 Aug 2026 11:33:27 +0900"
     },
     {
-      "title": "양평군, '쪼개기 허가' 의혹 교원그룹 회장 저택 시공사 고발",
+      "title": "양평군, '불법 옹벽' 교원그룹 회장 저택 시공사 고발",
       "link": "https://www.yna.co.kr/view/AKR20260824074600061",
       "pubDate": "Mon, 24 Aug 2026 11:33:09 +0900"
     },
@@ -112,46 +152,6 @@
       "title": "이천시 올해 상반기 고용률 68.2%…경기 31개 시군 중 '1위'",
       "link": "https://www.yna.co.kr/view/AKR20260824071500061",
       "pubDate": "Mon, 24 Aug 2026 11:20:47 +0900"
-    },
-    {
-      "title": "[게시판] 동양생명, 수해 고객에 보험료 최대 6개월 유예",
-      "link": "https://www.yna.co.kr/view/AKR20260824064000002",
-      "pubDate": "Mon, 24 Aug 2026 11:11:59 +0900"
-    },
-    {
-      "title": "BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출",
-      "link": "https://www.yna.co.kr/view/AKR20260824068200051",
-      "pubDate": "Mon, 24 Aug 2026 11:08:46 +0900"
-    },
-    {
-      "title": "남원시 '춘향애인 고랭지 포도' 베트남 수출길…10t 선적",
-      "link": "https://www.yna.co.kr/view/AKR20260824068300055",
-      "pubDate": "Mon, 24 Aug 2026 11:08:18 +0900"
-    },
-    {
-      "title": "[속보] 원/달러 환율 1,370원대로 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260824068800002",
-      "pubDate": "Mon, 24 Aug 2026 11:08:13 +0900"
-    },
-    {
-      "title": "롯데웰푸드 꼬깔콘, 을지로 만선호프와 협업 한정 메뉴 판매",
-      "link": "https://www.yna.co.kr/view/AKR20260824065400030",
-      "pubDate": "Mon, 24 Aug 2026 11:08:02 +0900"
-    },
-    {
-      "title": "해수부, 블루푸드테크 전문인력 첫 결실…석사 14명 배출",
-      "link": "https://www.yna.co.kr/view/AKR20260824021300030",
-      "pubDate": "Mon, 24 Aug 2026 11:05:00 +0900"
-    },
-    {
-      "title": "NH저축은행, 중·저신용자 위한 중금리 생활안정대출 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260824067200002",
-      "pubDate": "Mon, 24 Aug 2026 11:00:49 +0900"
-    },
-    {
-      "title": "해외직구 주문 정보 관세청에 바로 전달…통관부호 일회용 인증",
-      "link": "https://www.yna.co.kr/view/AKR20260824063700002",
-      "pubDate": "Mon, 24 Aug 2026 11:00:25 +0900"
     }
   ]
 }
