@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787602570,
+  "updated_at_unix": 1787604866,
   "items": [
+    {
+      "title": "내년 '800조+α' 슈퍼예산…반도체발 국세수입 600조 넘을 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260824145900002",
+      "pubDate": "Tue, 25 Aug 2026 05:30:00 +0900"
+    },
     {
       "title": "국제유가, 대규모 이란 제재에도 2%대 하락…차익실현 매물 영향",
       "link": "https://www.yna.co.kr/view/AKR20260825007400072",
@@ -147,11 +152,6 @@
       "title": "해운대 센텀 마지막 금싸라기 세가사미 용지 개발 또 무산 위기",
       "link": "https://www.yna.co.kr/view/AKR20260824119300051",
       "pubDate": "Mon, 24 Aug 2026 15:53:04 +0900"
-    },
-    {
-      "title": "[특징주] 코로나19 감염 증가 소식에 관련주 급등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824033351008",
-      "pubDate": "Mon, 24 Aug 2026 15:49:45 +0900"
     }
   ]
 }
