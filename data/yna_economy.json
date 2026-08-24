@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787606235,
+  "updated_at_unix": 1787608174,
   "items": [
+    {
+      "title": "[율곡로] 잔치는 끝났다…글로벌 긴축에 대비할 때",
+      "link": "https://www.yna.co.kr/view/AKR20260824147600546",
+      "pubDate": "Tue, 25 Aug 2026 06:31:00 +0900"
+    },
     {
       "title": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수",
       "link": "https://www.yna.co.kr/view/AKR20260824125200003",
@@ -147,11 +152,6 @@
       "title": "K바이오 기술수출 벌써 15조…역대 최대 기록 넘본다",
       "link": "https://www.yna.co.kr/view/AKR20260824127700017",
       "pubDate": "Mon, 24 Aug 2026 16:15:17 +0900"
-    },
-    {
-      "title": "금융 취약계층 보호…전북농협, 순창에 '동행창구' 1호점 개소",
-      "link": "https://www.yna.co.kr/view/AKR20260824125100055",
-      "pubDate": "Mon, 24 Aug 2026 15:59:45 +0900"
     }
   ]
 }
