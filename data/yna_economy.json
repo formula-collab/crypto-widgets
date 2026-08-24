@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787604866,
+  "updated_at_unix": 1787606235,
   "items": [
+    {
+      "title": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수",
+      "link": "https://www.yna.co.kr/view/AKR20260824125200003",
+      "pubDate": "Tue, 25 Aug 2026 06:00:09 +0900"
+    },
+    {
+      "title": "주가 하락으로 8월 소비심리 넉 달 만에↓…집값 상승 기대 줄어",
+      "link": "https://www.yna.co.kr/view/AKR20260824149100002",
+      "pubDate": "Tue, 25 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "강제퇴거 위기 쪽방주민 등 42세대 서울시 '해든집' 입주",
+      "link": "https://www.yna.co.kr/view/AKR20260824165900004",
+      "pubDate": "Tue, 25 Aug 2026 06:00:01 +0900"
+    },
+    {
+      "title": "사찰·한방에 AI 접목 관광스타트업 찾는다…실증비 1억원",
+      "link": "https://www.yna.co.kr/view/AKR20260824166400004",
+      "pubDate": "Tue, 25 Aug 2026 06:00:01 +0900"
+    },
     {
       "title": "내년 '800조+α' 슈퍼예산…반도체발 국세수입 600조 넘을 듯",
       "link": "https://www.yna.co.kr/view/AKR20260824145900002",
@@ -132,26 +152,6 @@
       "title": "금융 취약계층 보호…전북농협, 순창에 '동행창구' 1호점 개소",
       "link": "https://www.yna.co.kr/view/AKR20260824125100055",
       "pubDate": "Mon, 24 Aug 2026 15:59:45 +0900"
-    },
-    {
-      "title": "중진공, 대전서 'D-엑스포' 개최…딥테크 기술·IP 전략 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260824122000030",
-      "pubDate": "Mon, 24 Aug 2026 15:59:16 +0900"
-    },
-    {
-      "title": "'일타강사 자처' 오세훈 시장, 용산공원 주택공급에 \"역사의 죄인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824122100004",
-      "pubDate": "Mon, 24 Aug 2026 15:53:55 +0900"
-    },
-    {
-      "title": "이억원, '흑자 동전주' 지적에 \"상폐기준 미세조정 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824124600002",
-      "pubDate": "Mon, 24 Aug 2026 15:53:31 +0900"
-    },
-    {
-      "title": "해운대 센텀 마지막 금싸라기 세가사미 용지 개발 또 무산 위기",
-      "link": "https://www.yna.co.kr/view/AKR20260824119300051",
-      "pubDate": "Mon, 24 Aug 2026 15:53:04 +0900"
     }
   ]
 }
