@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787564057,
+  "updated_at_unix": 1787567143,
   "items": [
+    {
+      "title": "행안장관 \"내년 중수청 예산 4천500억원↑…과다 임대료 아냐\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824120051530",
+      "pubDate": "Mon, 24 Aug 2026 19:04:41 +0900"
+    },
+    {
+      "title": "박홍근,'미래기금 쌈짓돈' 지적에 \"결코 아냐…국회 심의 존중\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824113551001",
+      "pubDate": "Mon, 24 Aug 2026 18:52:45 +0900"
+    },
+    {
+      "title": "이억원 \"잔금대출 기준 분양가·감정가, 은행 자율적 판단\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824139251002",
+      "pubDate": "Mon, 24 Aug 2026 18:45:19 +0900"
+    },
+    {
+      "title": "현대차, 내년부터 2028년까지 기술직 500명 신규 채용 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260824157000057",
+      "pubDate": "Mon, 24 Aug 2026 18:40:03 +0900"
+    },
     {
       "title": "넥사다이내믹스, 150억원 유증…시원이노텍 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260824153600008",
@@ -132,26 +152,6 @@
       "title": "[특징주] '삼성디스플레이 지분매각' 삼성SDI, 7% 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824036151008",
       "pubDate": "Mon, 24 Aug 2026 15:47:36 +0900"
-    },
-    {
-      "title": "창원상의, 수해 거제에 성금 1억5천만원 기탁…LG전자 등 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260824120900052",
-      "pubDate": "Mon, 24 Aug 2026 15:45:32 +0900"
-    },
-    {
-      "title": "진도군-에스원, '스마트 365 안전 지킴이' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260824120600054",
-      "pubDate": "Mon, 24 Aug 2026 15:42:57 +0900"
-    },
-    {
-      "title": "행안장관 \"준비 부족하다고 중수청 연기하면 사법체계 공백\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824120000530",
-      "pubDate": "Mon, 24 Aug 2026 15:39:49 +0900"
-    },
-    {
-      "title": "비거주 1주택 종부세 기본공제 절충점 찾나…12억원 '주목'",
-      "link": "https://www.yna.co.kr/view/AKR20260824118600002",
-      "pubDate": "Mon, 24 Aug 2026 15:38:45 +0900"
     }
   ]
 }
