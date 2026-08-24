@@ -1,15 +1,40 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787560436,
+  "updated_at_unix": 1787564057,
   "items": [
+    {
+      "title": "넥사다이내믹스, 150억원 유증…시원이노텍 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260824153600008",
+      "pubDate": "Mon, 24 Aug 2026 18:09:30 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260824144500011",
+      "pubDate": "Mon, 24 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "[부고] 허준(NH농협손해보험 차장)씨 빙부상",
+      "link": "https://www.yna.co.kr/view/AKR20260824152300002",
+      "pubDate": "Mon, 24 Aug 2026 17:59:54 +0900"
+    },
+    {
+      "title": "박홍근, 전장연 5년만 시위 중단에 \"장애인 권리 더 두텁게\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824151600002",
+      "pubDate": "Mon, 24 Aug 2026 17:54:56 +0900"
+    },
+    {
+      "title": "'포름알데히드 배추' 논란에…중국산 배추 수입검사 강화(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824079151017",
+      "pubDate": "Mon, 24 Aug 2026 17:50:53 +0900"
+    },
     {
       "title": "비거주 1주택 종부세 기본공제 절충점 찾나…12억원 '주목'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824118651002",
       "pubDate": "Mon, 24 Aug 2026 17:15:32 +0900"
     },
     {
-      "title": "이억원 \"이주비대출 LTV 산정 기준은 조합원 분양가\"",
+      "title": "이억원 \"청년미래보금자리론, 새로운 추가 선택지 주는 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260824139200002",
       "pubDate": "Mon, 24 Aug 2026 17:08:10 +0900"
     },
@@ -127,31 +152,6 @@
       "title": "비거주 1주택 종부세 기본공제 절충점 찾나…12억원 '주목'",
       "link": "https://www.yna.co.kr/view/AKR20260824118600002",
       "pubDate": "Mon, 24 Aug 2026 15:38:45 +0900"
-    },
-    {
-      "title": "삼전·닉스 동반 하락에 코스피 3%↓…코스닥은 1%대 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260824119700008",
-      "pubDate": "Mon, 24 Aug 2026 15:36:11 +0900"
-    },
-    {
-      "title": "외국환시세(8월24일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260824119900002",
-      "pubDate": "Mon, 24 Aug 2026 15:35:16 +0900"
-    },
-    {
-      "title": "고흥군, 중국·몽골서 민선 9기 첫 해외시장 개척 활동",
-      "link": "https://www.yna.co.kr/view/AKR20260824117700054",
-      "pubDate": "Mon, 24 Aug 2026 15:34:09 +0900"
-    },
-    {
-      "title": "[게시판] 생보·손보업계, 경남 집중호우 피해복구 성금 1억원",
-      "link": "https://www.yna.co.kr/view/AKR20260824116200002",
-      "pubDate": "Mon, 24 Aug 2026 15:32:51 +0900"
-    },
-    {
-      "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
-      "link": "https://www.yna.co.kr/view/AKR20260824104100054",
-      "pubDate": "Mon, 24 Aug 2026 15:32:06 +0900"
     }
   ]
 }
