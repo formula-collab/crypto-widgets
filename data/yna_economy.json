@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787537699,
+  "updated_at_unix": 1787542092,
   "items": [
+    {
+      "title": "국세청, 거제·통영 특별재난지역 세금 납부기한 최대 2년 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260824027800002",
+      "pubDate": "Mon, 24 Aug 2026 12:00:08 +0900"
+    },
+    {
+      "title": "기후에너지 일자리 박람회 개최…SK이노베이션 등 100곳 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260824033900530",
+      "pubDate": "Mon, 24 Aug 2026 12:00:08 +0900"
+    },
+    {
+      "title": "서울서 APEC 대학생 모의창업 프로그램…11개국 46명 참가",
+      "link": "https://www.yna.co.kr/view/AKR20260824050700530",
+      "pubDate": "Mon, 24 Aug 2026 12:00:05 +0900"
+    },
+    {
+      "title": "금감원, 제약·바이오사 공시업무 지원…내달 릴레이 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260824061900002",
+      "pubDate": "Mon, 24 Aug 2026 12:00:02 +0900"
+    },
+    {
+      "title": "1분기 임금근로 일자리 29만개↑…20대 내리막·반도체 5천개↑",
+      "link": "https://www.yna.co.kr/view/AKR20260824057400002",
+      "pubDate": "Mon, 24 Aug 2026 12:00:02 +0900"
+    },
+    {
+      "title": "성남시, 1세대 1주택자 재산세 한시 감면 추진…169억원 경감",
+      "link": "https://www.yna.co.kr/view/AKR20260824077100061",
+      "pubDate": "Mon, 24 Aug 2026 11:44:17 +0900"
+    },
+    {
+      "title": "'불장' 돌아오나…비트코인 급등에 원화 거래소 활기",
+      "link": "https://www.yna.co.kr/view/AKR20260824077800002",
+      "pubDate": "Mon, 24 Aug 2026 11:43:42 +0900"
+    },
+    {
+      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.856%",
+      "link": "https://www.yna.co.kr/view/AKR20260824079400008",
+      "pubDate": "Mon, 24 Aug 2026 11:42:34 +0900"
+    },
+    {
+      "title": "'발암물질' 중국배추 수입됐나…식약처 \"확인 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824079100017",
+      "pubDate": "Mon, 24 Aug 2026 11:39:07 +0900"
+    },
+    {
+      "title": "비거주 1주택 재논의에 급매물 움찔…\"강남권 매물·호가 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824074200003",
+      "pubDate": "Mon, 24 Aug 2026 11:38:51 +0900"
+    },
+    {
+      "title": "예보·금감원노조 \"입지가 곧 소비자보호…이전대상서 제외해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260824076300002",
+      "pubDate": "Mon, 24 Aug 2026 11:35:19 +0900"
+    },
+    {
+      "title": "금산법 10% 규제, '배당+자사주' 삼전 주주환원 조합 변수되나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824023151008",
+      "pubDate": "Mon, 24 Aug 2026 11:33:27 +0900"
+    },
+    {
+      "title": "양평군, '쪼개기 허가' 의혹 교원그룹 회장 저택 시공사 고발",
+      "link": "https://www.yna.co.kr/view/AKR20260824074600061",
+      "pubDate": "Mon, 24 Aug 2026 11:33:09 +0900"
+    },
+    {
+      "title": "삼성, 스마트폰 시장 급감에도 올해 세계 1위 탈환 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260824076500017",
+      "pubDate": "Mon, 24 Aug 2026 11:32:08 +0900"
+    },
+    {
+      "title": "원/달러 환율 1,370원대로 하락…작년 9월 이후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260824075800002",
+      "pubDate": "Mon, 24 Aug 2026 11:31:49 +0900"
+    },
+    {
+      "title": "한은 강원, 추석 앞두고 강원 중소기업에 100억원 운전자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260824072900062",
+      "pubDate": "Mon, 24 Aug 2026 11:31:27 +0900"
+    },
+    {
+      "title": "유가상승에 선박 기름 불법유통 기승…부산해경, 23명 검거",
+      "link": "https://www.yna.co.kr/view/AKR20260824073900051",
+      "pubDate": "Mon, 24 Aug 2026 11:25:29 +0900"
+    },
+    {
+      "title": "삼전 급락이어 하닉도 약세…코스피, 2%대로 낙폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260824071200008",
+      "pubDate": "Mon, 24 Aug 2026 11:24:34 +0900"
+    },
+    {
+      "title": "담양군, 통합시 북부권에 '첨단4지구 기업형 도시' 조성 제안",
+      "link": "https://www.yna.co.kr/view/AKR20260824072400054",
+      "pubDate": "Mon, 24 Aug 2026 11:24:29 +0900"
+    },
+    {
+      "title": "제천시, 지역 기업과 손잡고 정규직 취업 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260824071400064",
+      "pubDate": "Mon, 24 Aug 2026 11:22:57 +0900"
+    },
+    {
+      "title": "[부고] 고영집(한양증권 감사본부 전무)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260824073300008",
+      "pubDate": "Mon, 24 Aug 2026 11:21:59 +0900"
+    },
+    {
+      "title": "이천시 올해 상반기 고용률 68.2%…경기 31개 시군 중 '1위'",
+      "link": "https://www.yna.co.kr/view/AKR20260824071500061",
+      "pubDate": "Mon, 24 Aug 2026 11:20:47 +0900"
+    },
+    {
+      "title": "[게시판] 동양생명, 수해 고객에 보험료 최대 6개월 유예",
+      "link": "https://www.yna.co.kr/view/AKR20260824064000002",
+      "pubDate": "Mon, 24 Aug 2026 11:11:59 +0900"
+    },
     {
       "title": "BNK금융그룹, 추석 맞아 중소기업 등에 1조6천억원 특별대출",
       "link": "https://www.yna.co.kr/view/AKR20260824068200051",
@@ -37,121 +152,6 @@
       "title": "해외직구 주문 정보 관세청에 바로 전달…통관부호 일회용 인증",
       "link": "https://www.yna.co.kr/view/AKR20260824063700002",
       "pubDate": "Mon, 24 Aug 2026 11:00:25 +0900"
-    },
-    {
-      "title": "전주 청장년 비취업자 90% \"전주서 일하고 싶어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824060900055",
-      "pubDate": "Mon, 24 Aug 2026 11:00:02 +0900"
-    },
-    {
-      "title": "해수부, 소형 선박 안전검사 간소화…소상공인 부담 낮춘다",
-      "link": "https://www.yna.co.kr/view/AKR20260824038100051",
-      "pubDate": "Mon, 24 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "NH농협은행, 100개 영업점에 AI 스마트패드 시범 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260824065900002",
-      "pubDate": "Mon, 24 Aug 2026 10:58:04 +0900"
-    },
-    {
-      "title": "전남 주민 '삶의 만족도' 상승…의료인력 부족은 '여전'",
-      "link": "https://www.yna.co.kr/view/AKR20260824063800054",
-      "pubDate": "Mon, 24 Aug 2026 10:53:22 +0900"
-    },
-    {
-      "title": "KB국민은행 \"KB스타뱅킹서 요양·돌봄 지원 서비스\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824060400002",
-      "pubDate": "Mon, 24 Aug 2026 10:46:37 +0900"
-    },
-    {
-      "title": "[게시판] 카카오뱅크, 외화통장 이벤트…100명에 '행운의 100달러'",
-      "link": "https://www.yna.co.kr/view/AKR20260824060300002",
-      "pubDate": "Mon, 24 Aug 2026 10:42:42 +0900"
-    },
-    {
-      "title": "전남광주시금고 선정 공개경쟁 도입…최고점 1금고·차점 2금고",
-      "link": "https://www.yna.co.kr/view/AKR20260824056500054",
-      "pubDate": "Mon, 24 Aug 2026 10:41:10 +0900"
-    },
-    {
-      "title": "[게시판] 키움증권, '키움 디지털 아카데미 4기' 마무리",
-      "link": "https://www.yna.co.kr/view/AKR20260824058500008",
-      "pubDate": "Mon, 24 Aug 2026 10:34:04 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260824050300011",
-      "pubDate": "Mon, 24 Aug 2026 10:30:01 +0900"
-    },
-    {
-      "title": "구윤철, AIIB 총재 면담…사업협력·인적교류 강화 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260824057700002",
-      "pubDate": "Mon, 24 Aug 2026 10:29:43 +0900"
-    },
-    {
-      "title": "특허심판원, 구술심리 녹음파일 현장서 바로 발급",
-      "link": "https://www.yna.co.kr/view/AKR20260824057100063",
-      "pubDate": "Mon, 24 Aug 2026 10:27:52 +0900"
-    },
-    {
-      "title": "[게시판] SK증권, 해외 기업 '비지오'의 국내 로드쇼 주관",
-      "link": "https://www.yna.co.kr/view/AKR20260824056300008",
-      "pubDate": "Mon, 24 Aug 2026 10:26:09 +0900"
-    },
-    {
-      "title": "교촌 영양 발효공방1991, '대한민국 명소' 2개 부문 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260824042700030",
-      "pubDate": "Mon, 24 Aug 2026 10:24:00 +0900"
-    },
-    {
-      "title": "원주시, 추석 전 공사·용역 대금 조기 지급…경제 활성화 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260824047000062",
-      "pubDate": "Mon, 24 Aug 2026 10:23:53 +0900"
-    },
-    {
-      "title": "전북신용보증재단, 부패방지경영시스템 국제표준 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260824054300055",
-      "pubDate": "Mon, 24 Aug 2026 10:21:49 +0900"
-    },
-    {
-      "title": "타조 키우고 K-펫푸드 수출…지역 청년 CEO들의 도전",
-      "link": "https://www.yna.co.kr/view/AKR20260824051600017",
-      "pubDate": "Mon, 24 Aug 2026 10:19:12 +0900"
-    },
-    {
-      "title": "경주 관광·경산 화장품 연계 'K-뷰티 수출거점' 구축한다",
-      "link": "https://www.yna.co.kr/view/AKR20260824050800053",
-      "pubDate": "Mon, 24 Aug 2026 10:15:47 +0900"
-    },
-    {
-      "title": "재기중소기업개발원, '2026 새출발 희망아카데미' 참가자 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260824038800030",
-      "pubDate": "Mon, 24 Aug 2026 10:06:37 +0900"
-    },
-    {
-      "title": "GS건설, 2년 연속 세계 3대 디자인 어워드 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260824043200003",
-      "pubDate": "Mon, 24 Aug 2026 10:00:02 +0900"
-    },
-    {
-      "title": "선불식 할부거래 선수금 운용지침 마련해야…공정위 행정예고",
-      "link": "https://www.yna.co.kr/view/AKR20260824028700002",
-      "pubDate": "Mon, 24 Aug 2026 10:00:00 +0900"
-    },
-    {
-      "title": "정점식 \"부동산 정책이 김민석 취임 선물인가…쇼 그만하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260824040200001",
-      "pubDate": "Mon, 24 Aug 2026 09:51:27 +0900"
-    },
-    {
-      "title": "[바이오스냅] 동아쏘시오그룹, 임직원 자녀 성장캠프 열어",
-      "link": "https://www.yna.co.kr/view/AKR20260824036300017",
-      "pubDate": "Mon, 24 Aug 2026 09:44:16 +0900"
-    },
-    {
-      "title": "주주환원 기대 못미쳤나? 삼전 급락에 코스피 1%대↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824039200008",
-      "pubDate": "Mon, 24 Aug 2026 09:43:48 +0900"
     }
   ]
 }
