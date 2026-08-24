@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787601011,
+  "updated_at_unix": 1787602570,
   "items": [
+    {
+      "title": "국제유가, 대규모 이란 제재에도 2%대 하락…차익실현 매물 영향",
+      "link": "https://www.yna.co.kr/view/AKR20260825007400072",
+      "pubDate": "Tue, 25 Aug 2026 05:02:26 +0900"
+    },
+    {
+      "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
+      "link": "https://www.yna.co.kr/view/AKR20260825006900091",
+      "pubDate": "Tue, 25 Aug 2026 04:58:25 +0900"
+    },
     {
       "title": "행안장관 \"내년 중수청 예산 4천500억원↑…과다 임대료 아냐\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824120051530",
@@ -142,16 +152,6 @@
       "title": "[특징주] 코로나19 감염 증가 소식에 관련주 급등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260824033351008",
       "pubDate": "Mon, 24 Aug 2026 15:49:45 +0900"
-    },
-    {
-      "title": "호남권 반도체 클러스터 범시민추진위 출범",
-      "link": "https://www.yna.co.kr/view/AKR20260824123400054",
-      "pubDate": "Mon, 24 Aug 2026 15:49:28 +0900"
-    },
-    {
-      "title": "[특징주] '삼성디스플레이 지분매각' 삼성SDI, 7% 급등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824036151008",
-      "pubDate": "Mon, 24 Aug 2026 15:47:36 +0900"
     }
   ]
 }
