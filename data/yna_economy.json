@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787548033,
+  "updated_at_unix": 1787551150,
   "items": [
+    {
+      "title": "예보·금감원노조 \"지방이전으로 국민 피해\"…靑에 의견서 전달(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260824076351002",
+      "pubDate": "Mon, 24 Aug 2026 14:52:59 +0900"
+    },
+    {
+      "title": "수출기업 '짝퉁 상품' 해외 유통, K-브랜드 정부인증제도로 해결",
+      "link": "https://www.yna.co.kr/view/AKR20260824103600063",
+      "pubDate": "Mon, 24 Aug 2026 14:40:10 +0900"
+    },
+    {
+      "title": "울주군, 지적재조사사업 토지소유자 대상 경계설정 협의",
+      "link": "https://www.yna.co.kr/view/AKR20260824104200057",
+      "pubDate": "Mon, 24 Aug 2026 14:38:13 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260824099600011",
+      "pubDate": "Mon, 24 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "\"누군들 고향 떠나고 싶겠어요?\" 통계 밖 전주시 비취업의 민낯",
+      "link": "https://www.yna.co.kr/view/AKR20260824096100055",
+      "pubDate": "Mon, 24 Aug 2026 14:17:30 +0900"
+    },
+    {
+      "title": "iM뱅크, 시니어 특화 'iM연금설계 상담소' 효성타운점 운영",
+      "link": "https://www.yna.co.kr/view/AKR20260824100500053",
+      "pubDate": "Mon, 24 Aug 2026 14:13:00 +0900"
+    },
+    {
+      "title": "전남광주 암 수술환자 진료비 30%가량, 서울서 소비",
+      "link": "https://www.yna.co.kr/view/AKR20260824097600054",
+      "pubDate": "Mon, 24 Aug 2026 14:04:57 +0900"
+    },
     {
       "title": "실노동시간 단축 점검단, 야간노동자 간담회…건강보호방안 준비",
       "link": "https://www.yna.co.kr/view/AKR20260824061200530",
@@ -117,41 +152,6 @@
       "title": "원/달러 환율 1,370원대로 하락…작년 9월 이후 최저",
       "link": "https://www.yna.co.kr/view/AKR20260824075800002",
       "pubDate": "Mon, 24 Aug 2026 11:31:49 +0900"
-    },
-    {
-      "title": "한은 강원, 추석 앞두고 강원 중소기업에 100억원 운전자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260824072900062",
-      "pubDate": "Mon, 24 Aug 2026 11:31:27 +0900"
-    },
-    {
-      "title": "유가상승에 선박 기름 불법유통 기승…부산해경, 23명 검거",
-      "link": "https://www.yna.co.kr/view/AKR20260824073900051",
-      "pubDate": "Mon, 24 Aug 2026 11:25:29 +0900"
-    },
-    {
-      "title": "삼전 급락이어 하닉도 약세…코스피, 2%대로 낙폭 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260824071200008",
-      "pubDate": "Mon, 24 Aug 2026 11:24:34 +0900"
-    },
-    {
-      "title": "담양군, 통합시 북부권에 '첨단4지구 기업형 도시' 조성 제안",
-      "link": "https://www.yna.co.kr/view/AKR20260824072400054",
-      "pubDate": "Mon, 24 Aug 2026 11:24:29 +0900"
-    },
-    {
-      "title": "제천시, 지역 기업과 손잡고 정규직 취업 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260824071400064",
-      "pubDate": "Mon, 24 Aug 2026 11:22:57 +0900"
-    },
-    {
-      "title": "[부고] 고영집(한양증권 감사본부 전무)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260824073300008",
-      "pubDate": "Mon, 24 Aug 2026 11:21:59 +0900"
-    },
-    {
-      "title": "이천시 올해 상반기 고용률 68.2%…경기 31개 시군 중 '1위'",
-      "link": "https://www.yna.co.kr/view/AKR20260824071500061",
-      "pubDate": "Mon, 24 Aug 2026 11:20:47 +0900"
     }
   ]
 }
