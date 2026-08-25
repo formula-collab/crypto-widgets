@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787694545,
+  "updated_at_unix": 1787696006,
   "items": [
+    {
+      "title": "중국산 양극재 국산으로 속여 테슬라 납품…재세능원 임원 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260825116800064",
+      "pubDate": "Wed, 26 Aug 2026 07:05:01 +0900"
+    },
+    {
+      "title": "서초구, 청년 자격증 응시료 지원 늘린다…하반기 850명 혜택",
+      "link": "https://www.yna.co.kr/view/AKR20260826014300004",
+      "pubDate": "Wed, 26 Aug 2026 07:01:38 +0900"
+    },
     {
       "title": "제약·바이오, 생산시설 투자 잇따라…글로벌 시장 공략",
       "link": "https://www.yna.co.kr/view/AKR20260825155300017",
@@ -142,16 +152,6 @@
       "title": "호남 반도체·AIDC 인프라 예타 무더기 면제…'3대 메가' 속도",
       "link": "https://www.yna.co.kr/view/AKR20260825149700001",
       "pubDate": "Tue, 25 Aug 2026 17:01:30 +0900"
-    },
-    {
-      "title": "[게시판] 데이터처, 한·일 양자협력회의…AI 활용 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260825142700002",
-      "pubDate": "Tue, 25 Aug 2026 17:01:21 +0900"
-    },
-    {
-      "title": "유가·美금리 하락에 국고채 금리 하락…3년물 연 3.830%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260825148051008",
-      "pubDate": "Tue, 25 Aug 2026 16:59:38 +0900"
     }
   ]
 }
