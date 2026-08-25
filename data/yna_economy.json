@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787645040,
+  "updated_at_unix": 1787648670,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260825160500011",
+      "pubDate": "Tue, 25 Aug 2026 18:00:00 +0900"
+    },
+    {
+      "title": "농협·서금원·신복위 노조, 이전에 반발…\"피해는 취약계층 몫\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825143400002",
+      "pubDate": "Tue, 25 Aug 2026 17:57:22 +0900"
+    },
+    {
+      "title": "대구시 \"태왕이앤씨 법정관리 여파 번지지 않게 하겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825160300053",
+      "pubDate": "Tue, 25 Aug 2026 17:51:40 +0900"
+    },
+    {
+      "title": "'할인비용 전가 의혹' 현장조사 나선 공정위, 쿠팡 거부에 철수",
+      "link": "https://www.yna.co.kr/view/AKR20260825159800002",
+      "pubDate": "Tue, 25 Aug 2026 17:46:02 +0900"
+    },
+    {
+      "title": "충남도, 독일 베바스토와 1천350만달러 규모 투자협약 체결",
+      "link": "https://www.yna.co.kr/view/AKR20260825118200063",
+      "pubDate": "Tue, 25 Aug 2026 17:30:02 +0900"
+    },
+    {
+      "title": "오우라 링 국내 상륙…삼성 갤럭시 링과 맞대결",
+      "link": "https://www.yna.co.kr/view/AKR20260825154800017",
+      "pubDate": "Tue, 25 Aug 2026 17:24:53 +0900"
+    },
+    {
+      "title": "롯데지주 회사채 수요예측서 4배 몰려…모집액 증액 결정",
+      "link": "https://www.yna.co.kr/view/AKR20260825155700008",
+      "pubDate": "Tue, 25 Aug 2026 17:17:42 +0900"
+    },
+    {
+      "title": "진주 K-기업가정신재단·교육정책연구소, 교원 역량 강화 '맞손'",
+      "link": "https://www.yna.co.kr/view/AKR20260825153800052",
+      "pubDate": "Tue, 25 Aug 2026 17:08:29 +0900"
+    },
+    {
+      "title": "이란, 일방적 '블랙리스트' 선박 45척 공개…해운업계 불안",
+      "link": "https://www.yna.co.kr/view/AKR20260825151100051",
+      "pubDate": "Tue, 25 Aug 2026 17:04:09 +0900"
+    },
+    {
+      "title": "호남 반도체·AIDC 인프라 예타 무더기 면제…'3대 메가' 속도",
+      "link": "https://www.yna.co.kr/view/AKR20260825149700001",
+      "pubDate": "Tue, 25 Aug 2026 17:01:30 +0900"
+    },
+    {
+      "title": "[게시판] 데이터처, 한·일 양자협력회의…AI 활용 확대 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260825142700002",
+      "pubDate": "Tue, 25 Aug 2026 17:01:21 +0900"
+    },
     {
       "title": "유가·美금리 하락에 국고채 금리 하락…3년물 연 3.830%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260825148051008",
@@ -97,61 +152,6 @@
       "title": "강원도·고성군, 5천억원 규모 '해솔리아 관광단지' 투자협약(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260825045051062",
       "pubDate": "Tue, 25 Aug 2026 15:54:09 +0900"
-    },
-    {
-      "title": "K-건기식 '세계로'…글로벌 트렌드·수출 전략 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260825125500017",
-      "pubDate": "Tue, 25 Aug 2026 15:49:20 +0900"
-    },
-    {
-      "title": "노원구 재건축에 '속도'…서울시 첫 '현장형 신통기획 자문'",
-      "link": "https://www.yna.co.kr/view/AKR20260825132300004",
-      "pubDate": "Tue, 25 Aug 2026 15:48:15 +0900"
-    },
-    {
-      "title": "CJ제일제당, 용량 절반 '햇반 미니밥' 출시…소용량 트렌드 겨냥",
-      "link": "https://www.yna.co.kr/view/AKR20260825132600030",
-      "pubDate": "Tue, 25 Aug 2026 15:48:12 +0900"
-    },
-    {
-      "title": "말레이산 원유 원산지증명서 발급 '184→45일'로 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260825132200002",
-      "pubDate": "Tue, 25 Aug 2026 15:46:45 +0900"
-    },
-    {
-      "title": "조용호 오산시장, 국토부 대광위에 광역버스 증차 등 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260825131900061",
-      "pubDate": "Tue, 25 Aug 2026 15:45:34 +0900"
-    },
-    {
-      "title": "창원시, 추석 앞 누비전 1천억 발행…할인율 10% 유지",
-      "link": "https://www.yna.co.kr/view/AKR20260825131000052",
-      "pubDate": "Tue, 25 Aug 2026 15:45:02 +0900"
-    },
-    {
-      "title": "파라다이스시티와 '9.81 테마파크' 잇는다…관광상품 공동 개발",
-      "link": "https://www.yna.co.kr/view/AKR20260825130200030",
-      "pubDate": "Tue, 25 Aug 2026 15:40:11 +0900"
-    },
-    {
-      "title": "[특징주] 현대차 인베스터데이 앞두고 코스닥 로봇주 강세 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260825051951008",
-      "pubDate": "Tue, 25 Aug 2026 15:39:39 +0900"
-    },
-    {
-      "title": "'전약후강' 코스피, 상승전환해 0.68%↑…코스닥도 1%대 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260825130400008",
-      "pubDate": "Tue, 25 Aug 2026 15:38:40 +0900"
-    },
-    {
-      "title": "외국환시세(8월25일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260825130700002",
-      "pubDate": "Tue, 25 Aug 2026 15:35:16 +0900"
-    },
-    {
-      "title": "IBK기업은행, 연내 1천200억원 규모 장기연체 채권 소각",
-      "link": "https://www.yna.co.kr/view/AKR20260825129600002",
-      "pubDate": "Tue, 25 Aug 2026 15:33:49 +0900"
     }
   ]
 }
