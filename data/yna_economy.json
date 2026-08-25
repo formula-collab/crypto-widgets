@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787698227,
+  "updated_at_unix": 1787699687,
   "items": [
+    {
+      "title": "카카오 인적분할에 노조 반발…오늘 공동교섭 선포",
+      "link": "https://www.yna.co.kr/view/AKR20260826023900017",
+      "pubDate": "Wed, 26 Aug 2026 08:08:10 +0900"
+    },
+    {
+      "title": "남양유업, 한컴과 업무협약…전사 AI 활용 확대 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260826022200030",
+      "pubDate": "Wed, 26 Aug 2026 08:00:52 +0900"
+    },
+    {
+      "title": "내일 금통위…엇갈린 금리 전망속 '점도표'에도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260825131200008",
+      "pubDate": "Wed, 26 Aug 2026 08:00:05 +0900"
+    },
+    {
+      "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고",
+      "link": "https://www.yna.co.kr/view/AKR20260825152900008",
+      "pubDate": "Wed, 26 Aug 2026 08:00:04 +0900"
+    },
+    {
+      "title": "가덕도 공항복합도시 초안 공개…내달 주민공람·설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260826020800051",
+      "pubDate": "Wed, 26 Aug 2026 07:54:11 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美반도체 반등에 코스피 탄력받나…D-1 엔비디아 실적 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260826019500008",
+      "pubDate": "Wed, 26 Aug 2026 07:48:12 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260826014800011",
@@ -122,36 +152,6 @@
       "title": "농협·서금원·신복위 노조, 이전에 반발…\"피해는 취약계층 몫\"",
       "link": "https://www.yna.co.kr/view/AKR20260825143400002",
       "pubDate": "Tue, 25 Aug 2026 17:57:22 +0900"
-    },
-    {
-      "title": "대구시 \"태왕이앤씨 법정관리 여파 번지지 않게 하겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825160300053",
-      "pubDate": "Tue, 25 Aug 2026 17:51:40 +0900"
-    },
-    {
-      "title": "'할인비용 전가 의혹' 현장조사 나선 공정위, 쿠팡 거부에 철수",
-      "link": "https://www.yna.co.kr/view/AKR20260825159800002",
-      "pubDate": "Tue, 25 Aug 2026 17:46:02 +0900"
-    },
-    {
-      "title": "충남도, 독일 베바스토와 1천350만달러 규모 투자협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260825118200063",
-      "pubDate": "Tue, 25 Aug 2026 17:30:02 +0900"
-    },
-    {
-      "title": "오우라 링 국내 상륙…삼성 갤럭시 링과 맞대결",
-      "link": "https://www.yna.co.kr/view/AKR20260825154800017",
-      "pubDate": "Tue, 25 Aug 2026 17:24:53 +0900"
-    },
-    {
-      "title": "롯데지주 회사채 수요예측서 4배 몰려…모집액 증액 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260825155700008",
-      "pubDate": "Tue, 25 Aug 2026 17:17:42 +0900"
-    },
-    {
-      "title": "진주 K-기업가정신재단·교육정책연구소, 교원 역량 강화 '맞손'",
-      "link": "https://www.yna.co.kr/view/AKR20260825153800052",
-      "pubDate": "Tue, 25 Aug 2026 17:08:29 +0900"
     }
   ]
 }
