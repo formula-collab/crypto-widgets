@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787696006,
+  "updated_at_unix": 1787698227,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260826014800011",
+      "pubDate": "Wed, 26 Aug 2026 07:30:00 +0900"
+    },
+    {
+      "title": "국내서 두번째로 높은 타워 불발…송도 랜드마크 높이 하향",
+      "link": "https://www.yna.co.kr/view/AKR20260825077900065",
+      "pubDate": "Wed, 26 Aug 2026 07:17:00 +0900"
+    },
     {
       "title": "중국산 양극재 국산으로 속여 테슬라 납품…재세능원 임원 집유",
       "link": "https://www.yna.co.kr/view/AKR20260825116800064",
@@ -142,16 +152,6 @@
       "title": "진주 K-기업가정신재단·교육정책연구소, 교원 역량 강화 '맞손'",
       "link": "https://www.yna.co.kr/view/AKR20260825153800052",
       "pubDate": "Tue, 25 Aug 2026 17:08:29 +0900"
-    },
-    {
-      "title": "이란, 일방적 '블랙리스트' 선박 45척 공개…해운업계 불안",
-      "link": "https://www.yna.co.kr/view/AKR20260825151100051",
-      "pubDate": "Tue, 25 Aug 2026 17:04:09 +0900"
-    },
-    {
-      "title": "호남 반도체·AIDC 인프라 예타 무더기 면제…'3대 메가' 속도",
-      "link": "https://www.yna.co.kr/view/AKR20260825149700001",
-      "pubDate": "Tue, 25 Aug 2026 17:01:30 +0900"
     }
   ]
 }
