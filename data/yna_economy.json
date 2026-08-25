@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787642174,
+  "updated_at_unix": 1787645040,
   "items": [
+    {
+      "title": "유가·美금리 하락에 국고채 금리 하락…3년물 연 3.830%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260825148051008",
+      "pubDate": "Tue, 25 Aug 2026 16:59:38 +0900"
+    },
+    {
+      "title": "뉴홈 전용 모기지 만기 최장 40년…연 고정금리 1.9∼3.0%",
+      "link": "https://www.yna.co.kr/view/AKR20260825151300003",
+      "pubDate": "Tue, 25 Aug 2026 16:58:52 +0900"
+    },
+    {
+      "title": "[동포의 창] 월드옥타, 10월 中 선전서 '글로벌 스타트업 대회'",
+      "link": "https://www.yna.co.kr/view/AKR20260825150800371",
+      "pubDate": "Tue, 25 Aug 2026 16:57:45 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 3.830%",
+      "link": "https://www.yna.co.kr/view/AKR20260825148000008",
+      "pubDate": "Tue, 25 Aug 2026 16:41:23 +0900"
+    },
+    {
+      "title": "신안군의회, 민생안정지원금·군 공항 이전 대응 조례안 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260825144900054",
+      "pubDate": "Tue, 25 Aug 2026 16:32:02 +0900"
+    },
+    {
+      "title": "'주주환원 이슈' 삼전닉스, 하루만에 반등…엔비디아 실적이 분기점(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260825084651008",
+      "pubDate": "Tue, 25 Aug 2026 16:28:35 +0900"
+    },
+    {
+      "title": "韓총리, 吳 '재개발·재건축'에 \"청년 주택 공급은 쉽지 않아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825141800001",
+      "pubDate": "Tue, 25 Aug 2026 16:27:19 +0900"
+    },
+    {
+      "title": "창원상의 경남비자지원센터 '외국인력 확보·정착 전략' 포럼",
+      "link": "https://www.yna.co.kr/view/AKR20260825142100052",
+      "pubDate": "Tue, 25 Aug 2026 16:17:40 +0900"
+    },
     {
       "title": "환율 1,380원대 후반으로 상승…수출업체 달러 매도는 지속",
       "link": "https://www.yna.co.kr/view/AKR20260825134700002",
@@ -112,46 +152,6 @@
       "title": "IBK기업은행, 연내 1천200억원 규모 장기연체 채권 소각",
       "link": "https://www.yna.co.kr/view/AKR20260825129600002",
       "pubDate": "Tue, 25 Aug 2026 15:33:49 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 3.7원 오른 1,386.1원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260825129200002",
-      "pubDate": "Tue, 25 Aug 2026 15:30:48 +0900"
-    },
-    {
-      "title": "GTX-C 착공 속도 낸다…'공사비 증액' 기획처 민투심 통과",
-      "link": "https://www.yna.co.kr/view/AKR20260825127400002",
-      "pubDate": "Tue, 25 Aug 2026 15:30:11 +0900"
-    },
-    {
-      "title": "드림시큐리티 \"종속회사 시드코어 주식 100억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825124900008",
-      "pubDate": "Tue, 25 Aug 2026 15:12:03 +0900"
-    },
-    {
-      "title": "노원구 \"8·13 대책에 정비사업장 14곳 긍정 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825123000004",
-      "pubDate": "Tue, 25 Aug 2026 15:04:35 +0900"
-    },
-    {
-      "title": "추석 맞아 영광사랑카드 할인율 17％로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260825120500054",
-      "pubDate": "Tue, 25 Aug 2026 14:58:46 +0900"
-    },
-    {
-      "title": "해남군, 신재생에너지 개발이익 공유 속도…세부지침 마련",
-      "link": "https://www.yna.co.kr/view/AKR20260825118700054",
-      "pubDate": "Tue, 25 Aug 2026 14:54:21 +0900"
-    },
-    {
-      "title": "[게시판] 수출플러스지원단, 전남 광주 첨단산업 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20260825117400002",
-      "pubDate": "Tue, 25 Aug 2026 14:45:52 +0900"
-    },
-    {
-      "title": "코스피, 장중 상승전환해 소폭 강세…삼전닉스도 강보합",
-      "link": "https://www.yna.co.kr/view/AKR20260825117800008",
-      "pubDate": "Tue, 25 Aug 2026 14:40:20 +0900"
     }
   ]
 }
