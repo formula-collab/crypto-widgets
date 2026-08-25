@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787660567,
+  "updated_at_unix": 1787664295,
   "items": [
+    {
+      "title": "쿠팡, 공정위 현장조사 거부 논란…\"대규모유통업법상 처음\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260825159851002",
+      "pubDate": "Tue, 25 Aug 2026 21:50:22 +0900"
+    },
     {
       "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260825084351002",
@@ -147,11 +152,6 @@
       "title": "인천에 AI·SW 인재양성 거점 'ICT콤플렉스' 문 열었다",
       "link": "https://www.yna.co.kr/view/AKR20260825071500017",
       "pubDate": "Tue, 25 Aug 2026 16:00:01 +0900"
-    },
-    {
-      "title": "마이데이터, 개인사업자로 확대…AI로 정책자금 등 대리 신청도",
-      "link": "https://www.yna.co.kr/view/AKR20260825120600002",
-      "pubDate": "Tue, 25 Aug 2026 16:00:00 +0900"
     }
   ]
 }
