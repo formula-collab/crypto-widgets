@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787699687,
+  "updated_at_unix": 1787701476,
   "items": [
+    {
+      "title": "소진공, '스마트상점 기술 보급 사업' 공모…최대 70% 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260826025900030",
+      "pubDate": "Wed, 26 Aug 2026 08:39:13 +0900"
+    },
+    {
+      "title": "한화증권, 대우건설 목표가↑…\"수주 가이던스 18조→27조 상향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826025700008",
+      "pubDate": "Wed, 26 Aug 2026 08:36:01 +0900"
+    },
+    {
+      "title": "기보·우리은행, 미래 전략산업 육성 생산적 금융지원 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260826026000051",
+      "pubDate": "Wed, 26 Aug 2026 08:35:08 +0900"
+    },
+    {
+      "title": "IBK증권, 티엘비 기업분석 개시…\"베라 CPU 수혜 본격화 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826026500008",
+      "pubDate": "Wed, 26 Aug 2026 08:34:08 +0900"
+    },
+    {
+      "title": "신한증권 \"코스피 2분기 영업익 서프라이즈…올해 컨센서스↑\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826027200008",
+      "pubDate": "Wed, 26 Aug 2026 08:31:30 +0900"
+    },
+    {
+      "title": "키움증권, 한전 목표가 낮췄지만 투자의견은↑…\"저평가 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826026400008",
+      "pubDate": "Wed, 26 Aug 2026 08:26:13 +0900"
+    },
     {
       "title": "카카오 인적분할에 노조 반발…오늘 공동교섭 선포",
       "link": "https://www.yna.co.kr/view/AKR20260826023900017",
@@ -122,36 +152,6 @@
       "title": "200억대 주택 사서 사주일가 거주…소노그룹 세무조사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260825084351002",
       "pubDate": "Tue, 25 Aug 2026 19:45:08 +0900"
-    },
-    {
-      "title": "\"현장에서 재건축 물꼬 튼다\"…서울시 신속통합기획 자문 첫 발",
-      "link": "https://www.yna.co.kr/view/AKR20260825167300004",
-      "pubDate": "Tue, 25 Aug 2026 18:41:13 +0900"
-    },
-    {
-      "title": "음저협, 'AI 활용 음악' 저작권 등록 방침 철회…\"문화계와 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825164200005",
-      "pubDate": "Tue, 25 Aug 2026 18:17:31 +0900"
-    },
-    {
-      "title": "성남시, 원도심 재개발 임대주택 의무비율 12→10% 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260825163800061",
-      "pubDate": "Tue, 25 Aug 2026 18:16:52 +0900"
-    },
-    {
-      "title": "화순군, '반도체 배후도시' 삼천지구 개발…2029년 착공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20260825162600054",
-      "pubDate": "Tue, 25 Aug 2026 18:12:33 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260825160500011",
-      "pubDate": "Tue, 25 Aug 2026 18:00:00 +0900"
-    },
-    {
-      "title": "농협·서금원·신복위 노조, 이전에 반발…\"피해는 취약계층 몫\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825143400002",
-      "pubDate": "Tue, 25 Aug 2026 17:57:22 +0900"
     }
   ]
 }
