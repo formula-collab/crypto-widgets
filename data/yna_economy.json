@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787684726,
+  "updated_at_unix": 1787687480,
   "items": [
+    {
+      "title": "국제유가, 대이란 제재 우려 완화에 급락…브렌트유 3.89%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260826005900072",
+      "pubDate": "Wed, 26 Aug 2026 04:40:08 +0900"
+    },
     {
       "title": "쿠팡, 공정위 현장조사 거부 논란…\"대규모유통업법상 처음\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260825159851002",
@@ -147,11 +152,6 @@
       "title": "SGC에이아이인프라, '군산 1호' AI 데이터센터 설립한다",
       "link": "https://www.yna.co.kr/view/AKR20260825126100055",
       "pubDate": "Tue, 25 Aug 2026 16:00:02 +0900"
-    },
-    {
-      "title": "인천에 AI·SW 인재양성 거점 'ICT콤플렉스' 문 열었다",
-      "link": "https://www.yna.co.kr/view/AKR20260825071500017",
-      "pubDate": "Tue, 25 Aug 2026 16:00:01 +0900"
     }
   ]
 }
