@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787688891,
+  "updated_at_unix": 1787691080,
   "items": [
+    {
+      "title": "김윤덕·오세훈 오늘 다시 회동…'용산 주택공급' 접점 찾나",
+      "link": "https://www.yna.co.kr/view/AKR20260825152600003",
+      "pubDate": "Wed, 26 Aug 2026 05:31:03 +0900"
+    },
     {
       "title": "국제유가, 대이란 제재 우려 완화에 급락…브렌트유 3.89%↓",
       "link": "https://www.yna.co.kr/view/AKR20260826005900072",
@@ -147,11 +152,6 @@
       "title": "광주은행, 멸종위기종 '남생이' 보전 활동",
       "link": "https://www.yna.co.kr/view/AKR20260825136200054",
       "pubDate": "Tue, 25 Aug 2026 16:01:03 +0900"
-    },
-    {
-      "title": "SGC에이아이인프라, '군산 1호' AI 데이터센터 설립한다",
-      "link": "https://www.yna.co.kr/view/AKR20260825126100055",
-      "pubDate": "Tue, 25 Aug 2026 16:00:02 +0900"
     }
   ]
 }
