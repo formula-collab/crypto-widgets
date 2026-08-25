@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787614921,
+  "updated_at_unix": 1787618042,
   "items": [
+    {
+      "title": "[속보] 당정 \"내년 예산, 3대 메가·AI·미래성장·청년·양극화 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825049000001",
+      "pubDate": "Tue, 25 Aug 2026 09:30:03 +0900"
+    },
+    {
+      "title": "코람코, 리서치·전략 기능 강화…자산신탁·운용 전문성 제고",
+      "link": "https://www.yna.co.kr/view/AKR20260825047000008",
+      "pubDate": "Tue, 25 Aug 2026 09:28:10 +0900"
+    },
+    {
+      "title": "오뚜기, 케챂 55주년 기념 아이앱 스튜디오 협업 제품 출시",
+      "link": "https://www.yna.co.kr/view/AKR20260825028400030",
+      "pubDate": "Tue, 25 Aug 2026 09:26:02 +0900"
+    },
+    {
+      "title": "LH 신축매입임대, 사업계획서로 신청받는다…절차 간소화",
+      "link": "https://www.yna.co.kr/view/AKR20260825045700003",
+      "pubDate": "Tue, 25 Aug 2026 09:25:34 +0900"
+    },
+    {
+      "title": "GS건설, 해외 건축가와 '기후위기 대응' 미래주거 연구",
+      "link": "https://www.yna.co.kr/view/AKR20260825045300003",
+      "pubDate": "Tue, 25 Aug 2026 09:23:58 +0900"
+    },
+    {
+      "title": "LF, 가을철 맞아 '보라색' 상품군 확대…스웨터·가방 등 선봬",
+      "link": "https://www.yna.co.kr/view/AKR20260825041900030",
+      "pubDate": "Tue, 25 Aug 2026 09:17:05 +0900"
+    },
+    {
+      "title": "한은, 집중호우 피해 중소기업 지원…200억원 긴급 배정",
+      "link": "https://www.yna.co.kr/view/AKR20260825039900002",
+      "pubDate": "Tue, 25 Aug 2026 09:11:10 +0900"
+    },
+    {
+      "title": "코스피, 美반도체 찬바람에 장초반 2%대 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260825039000008",
+      "pubDate": "Tue, 25 Aug 2026 09:05:19 +0900"
+    },
+    {
+      "title": "일터 괴롭힘 없게 노동교육 지역단위서 실시…내년 전국 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260824105200530",
+      "pubDate": "Tue, 25 Aug 2026 09:00:05 +0900"
+    },
+    {
+      "title": "차기 환경·해양위성 '천리안위성 6호' 개발사업 본격 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260825021300051",
+      "pubDate": "Tue, 25 Aug 2026 09:00:02 +0900"
+    },
+    {
+      "title": "문체부, 국제관광기구 취업 실무교육…대학·대학원생 50명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260825031300030",
+      "pubDate": "Tue, 25 Aug 2026 08:51:27 +0900"
+    },
+    {
+      "title": "기보·콘진원, 콘텐츠 기업 맞춤형 노무 컨설팅 지원 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260825030500051",
+      "pubDate": "Tue, 25 Aug 2026 08:48:14 +0900"
+    },
+    {
+      "title": "[부고] 김길현(KB손해보험 브랜드홍보본부장)씨 장인상",
+      "link": "https://www.yna.co.kr/view/AKR20260825033100002",
+      "pubDate": "Tue, 25 Aug 2026 08:47:24 +0900"
+    },
     {
       "title": "유안타, HD한국조선해양 목표가↓…\"주주환원확대시엔 상승여력\"",
       "link": "https://www.yna.co.kr/view/AKR20260825028300008",
@@ -87,71 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
       "link": "https://www.yna.co.kr/view/AKR20260825014800011",
       "pubDate": "Tue, 25 Aug 2026 07:30:00 +0900"
-    },
-    {
-      "title": "[머니톡스] 화폐의 착시…거품이 걷히면 민낯이 드러난다",
-      "link": "https://www.yna.co.kr/view/AKR20260823049500546",
-      "pubDate": "Tue, 25 Aug 2026 07:15:00 +0900"
-    },
-    {
-      "title": "\"집에서 구워도 4만원 넘어\"…삼겹살 밥상물가 12% 껑충",
-      "link": "https://www.yna.co.kr/view/AKR20260824136200030",
-      "pubDate": "Tue, 25 Aug 2026 07:13:00 +0900"
-    },
-    {
-      "title": "[우분투칼럼] 아프리카와 함께 글로벌 AI 강국…대한민국의 미래로 나가자",
-      "link": "https://www.yna.co.kr/view/AKR20260818018000898",
-      "pubDate": "Tue, 25 Aug 2026 07:00:08 +0900"
-    },
-    {
-      "title": "[율곡로] 잔치는 끝났다…글로벌 긴축에 대비할 때",
-      "link": "https://www.yna.co.kr/view/AKR20260824147600546",
-      "pubDate": "Tue, 25 Aug 2026 06:31:00 +0900"
-    },
-    {
-      "title": "국내기업 경기전망 6개월만에 '긍정적'…환율 안정·추석 특수",
-      "link": "https://www.yna.co.kr/view/AKR20260824125200003",
-      "pubDate": "Tue, 25 Aug 2026 06:00:09 +0900"
-    },
-    {
-      "title": "주가 하락으로 8월 소비심리 넉 달 만에↓…집값 상승 기대 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20260824149100002",
-      "pubDate": "Tue, 25 Aug 2026 06:00:02 +0900"
-    },
-    {
-      "title": "강제퇴거 위기 쪽방주민 등 42세대 서울시 '해든집' 입주",
-      "link": "https://www.yna.co.kr/view/AKR20260824165900004",
-      "pubDate": "Tue, 25 Aug 2026 06:00:01 +0900"
-    },
-    {
-      "title": "사찰·한방에 AI 접목 관광스타트업 찾는다…실증비 1억원",
-      "link": "https://www.yna.co.kr/view/AKR20260824166400004",
-      "pubDate": "Tue, 25 Aug 2026 06:00:01 +0900"
-    },
-    {
-      "title": "내년 '800조+α' 슈퍼예산…반도체발 국세수입 600조 넘을 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260824145900002",
-      "pubDate": "Tue, 25 Aug 2026 05:30:00 +0900"
-    },
-    {
-      "title": "국제유가, 대규모 이란 제재에도 2%대 하락…차익실현 매물 영향",
-      "link": "https://www.yna.co.kr/view/AKR20260825007400072",
-      "pubDate": "Tue, 25 Aug 2026 05:02:26 +0900"
-    },
-    {
-      "title": "금리 인하에 진심인 미국…트럼프 '가상화폐 밀어주기' 큰 그림",
-      "link": "https://www.yna.co.kr/view/AKR20260825006900091",
-      "pubDate": "Tue, 25 Aug 2026 04:58:25 +0900"
-    },
-    {
-      "title": "행안장관 \"내년 중수청 예산 4천500억원↑…과다 임대료 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824120051530",
-      "pubDate": "Mon, 24 Aug 2026 19:04:41 +0900"
-    },
-    {
-      "title": "박홍근,'미래기금 쌈짓돈' 지적에 \"결코 아냐…국회 심의 존중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260824113551001",
-      "pubDate": "Mon, 24 Aug 2026 18:52:45 +0900"
     }
   ]
 }
