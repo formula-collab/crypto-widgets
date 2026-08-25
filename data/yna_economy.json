@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787634018,
+  "updated_at_unix": 1787637206,
   "items": [
+    {
+      "title": "[게시판] 수출플러스지원단, 전남 광주 첨단산업 간담회",
+      "link": "https://www.yna.co.kr/view/AKR20260825117400002",
+      "pubDate": "Tue, 25 Aug 2026 14:45:52 +0900"
+    },
+    {
+      "title": "코스피, 장중 상승전환해 소폭 강세…삼전닉스도 강보합",
+      "link": "https://www.yna.co.kr/view/AKR20260825117800008",
+      "pubDate": "Tue, 25 Aug 2026 14:40:20 +0900"
+    },
+    {
+      "title": "국민연금공단, 9월3일 '전북국제금융컨퍼런스' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260825116100530",
+      "pubDate": "Tue, 25 Aug 2026 14:40:17 +0900"
+    },
+    {
+      "title": "대동 \"계열사 대동모빌리티 주식 339억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825117200008",
+      "pubDate": "Tue, 25 Aug 2026 14:38:44 +0900"
+    },
+    {
+      "title": "국세청장 \"5억원 한도 배우자 상속 공제 개선 시급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825114600001",
+      "pubDate": "Tue, 25 Aug 2026 14:35:50 +0900"
+    },
+    {
+      "title": "랠리 이어가는 비트코인 석 달 만에 8만달러 재진입",
+      "link": "https://www.yna.co.kr/view/AKR20260825112200002",
+      "pubDate": "Tue, 25 Aug 2026 14:31:49 +0900"
+    },
+    {
+      "title": "10억 이상 고액자산가 포트폴리오 봤더니…역시나 삼전닉스",
+      "link": "https://www.yna.co.kr/view/AKR20260825093900008",
+      "pubDate": "Tue, 25 Aug 2026 14:31:28 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260825111500011",
+      "pubDate": "Tue, 25 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "새만금신항 관할 결정 임박…김제시 연일 '공정 심의 촉구' 시위",
+      "link": "https://www.yna.co.kr/view/AKR20260825114500055",
+      "pubDate": "Tue, 25 Aug 2026 14:28:46 +0900"
+    },
+    {
+      "title": "\"놀이터 32곳 바꿨다\"…초록우산, 기업 사회공헌 사례 공유",
+      "link": "https://www.yna.co.kr/view/AKR20260825113700371",
+      "pubDate": "Tue, 25 Aug 2026 14:25:27 +0900"
+    },
+    {
+      "title": "원주시, 제2회 추경 2조1천58억원 편성…1천808억원 증액",
+      "link": "https://www.yna.co.kr/view/AKR20260825111600062",
+      "pubDate": "Tue, 25 Aug 2026 14:22:33 +0900"
+    },
+    {
+      "title": "농진청, 9월에 먹는 그린시스 등 '녹색배' 품종 보급 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260825111700055",
+      "pubDate": "Tue, 25 Aug 2026 14:21:31 +0900"
+    },
+    {
+      "title": "원주시, 교육혁신선도지역 지정 도전…12개 기관 역량 결집",
+      "link": "https://www.yna.co.kr/view/AKR20260825111200062",
+      "pubDate": "Tue, 25 Aug 2026 14:18:34 +0900"
+    },
+    {
+      "title": "중진공, 내달 10일까지 경영기획·변호사 등 일반직 60명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260825112600030",
+      "pubDate": "Tue, 25 Aug 2026 14:16:33 +0900"
+    },
+    {
+      "title": "대전시, 네덜란드 헤이그와 과학기술 등 협력 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260825110500063",
+      "pubDate": "Tue, 25 Aug 2026 14:02:48 +0900"
+    },
+    {
+      "title": "\"국내 기업금융, 은행 의존도 매우 높아…경로 다변화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825101100008",
+      "pubDate": "Tue, 25 Aug 2026 14:00:24 +0900"
+    },
     {
       "title": "BNK경남은행, 지역 전략산업 활성화 지원…신보·기보와 협력",
       "link": "https://www.yna.co.kr/view/AKR20260825108400052",
@@ -72,86 +152,6 @@
       "title": "레버리지 출시땐 '최대손실률' 알려야…과거 대규모 손실도 공시",
       "link": "https://www.yna.co.kr/view/AKR20260825078500002",
       "pubDate": "Tue, 25 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "한남동 '황제사택'·회장님 전용 100억대 별장…1.9조 탈루 혐의",
-      "link": "https://www.yna.co.kr/view/AKR20260825084300002",
-      "pubDate": "Tue, 25 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 장중 연 3.844%",
-      "link": "https://www.yna.co.kr/view/AKR20260825092400008",
-      "pubDate": "Tue, 25 Aug 2026 11:41:22 +0900"
-    },
-    {
-      "title": "NH증권 \"10억 이상 자산가, IMA 관심 확대…3호 판매 비중 68%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825088300008",
-      "pubDate": "Tue, 25 Aug 2026 11:34:57 +0900"
-    },
-    {
-      "title": "삼전닉스 휘청에 코스피 하락 지속…엔비디아 실적 이벤트 주시",
-      "link": "https://www.yna.co.kr/view/AKR20260825084600008",
-      "pubDate": "Tue, 25 Aug 2026 11:32:11 +0900"
-    },
-    {
-      "title": "동원F&B, 내달 참치캔·음료 가격 9∼10% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260825089400030",
-      "pubDate": "Tue, 25 Aug 2026 11:31:12 +0900"
-    },
-    {
-      "title": "'美 제재' 이란 관련 가상자산 지갑서 8년간 232억 거래",
-      "link": "https://www.yna.co.kr/view/AKR20260825086700002",
-      "pubDate": "Tue, 25 Aug 2026 11:23:26 +0900"
-    },
-    {
-      "title": "한국산업기술시험원, 2026년 신입직원 47명 공개 채용",
-      "link": "https://www.yna.co.kr/view/AKR20260825087900052",
-      "pubDate": "Tue, 25 Aug 2026 11:23:22 +0900"
-    },
-    {
-      "title": "카뱅 노조 닷새연속 전면파업 예고…카카오지회 \"인적분할 반대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825086500017",
-      "pubDate": "Tue, 25 Aug 2026 11:21:51 +0900"
-    },
-    {
-      "title": "채권시장 참여자 79% \"8월 금통위서 기준금리 동결 예상\"",
-      "link": "https://www.yna.co.kr/view/AKR20260825081500008",
-      "pubDate": "Tue, 25 Aug 2026 11:13:17 +0900"
-    },
-    {
-      "title": "코스피, 1∼2%대 하락세…장중 낙폭은 다소 줄여",
-      "link": "https://www.yna.co.kr/view/AKR20260825081200008",
-      "pubDate": "Tue, 25 Aug 2026 11:09:56 +0900"
-    },
-    {
-      "title": "인천시, 노후계획도시정비 선도지구 6곳 선정…1만6천호 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260825082800065",
-      "pubDate": "Tue, 25 Aug 2026 11:05:56 +0900"
-    },
-    {
-      "title": "인생 2막, 하고픈 일에 한 발 더…강동50플러스센터 수강생 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260825081800004",
-      "pubDate": "Tue, 25 Aug 2026 11:04:57 +0900"
-    },
-    {
-      "title": "충북 8월 소비자심리 104.1…전월보다 6.9p 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260825081900064",
-      "pubDate": "Tue, 25 Aug 2026 11:03:35 +0900"
-    },
-    {
-      "title": "인천 노후계획도시 선도지구 1만6천267가구 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260825039300003",
-      "pubDate": "Tue, 25 Aug 2026 11:00:01 +0900"
-    },
-    {
-      "title": "강원도·고성군, 5천억원 규모 '해솔리아 관광단지' 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20260825045000062",
-      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "농식품부, 농어촌 기본소득 추가 7개 군 28일 첫 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260825061400030",
-      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0900"
     }
   ]
 }
