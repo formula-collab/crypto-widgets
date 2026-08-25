@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787637206,
+  "updated_at_unix": 1787639056,
   "items": [
+    {
+      "title": "드림시큐리티 \"종속회사 시드코어 주식 100억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825124900008",
+      "pubDate": "Tue, 25 Aug 2026 15:12:03 +0900"
+    },
+    {
+      "title": "노원구 \"8·13 대책에 정비사업장 14곳 긍정 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825123000004",
+      "pubDate": "Tue, 25 Aug 2026 15:04:35 +0900"
+    },
+    {
+      "title": "추석 맞아 영광사랑카드 할인율 17％로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260825120500054",
+      "pubDate": "Tue, 25 Aug 2026 14:58:46 +0900"
+    },
+    {
+      "title": "해남군, 신재생에너지 개발이익 공유 속도…세부지침 마련",
+      "link": "https://www.yna.co.kr/view/AKR20260825118700054",
+      "pubDate": "Tue, 25 Aug 2026 14:54:21 +0900"
+    },
     {
       "title": "[게시판] 수출플러스지원단, 전남 광주 첨단산업 간담회",
       "link": "https://www.yna.co.kr/view/AKR20260825117400002",
@@ -132,26 +152,6 @@
       "title": "대한상의, 중소·중견기업 재생에너지 활용 맞춤형 컨설팅",
       "link": "https://www.yna.co.kr/view/AKR20260825044900003",
       "pubDate": "Tue, 25 Aug 2026 12:00:23 +0900"
-    },
-    {
-      "title": "생활폐기물 수집·운반시장에 관외 업체 진출 가능해진다",
-      "link": "https://www.yna.co.kr/view/AKR20260825063500002",
-      "pubDate": "Tue, 25 Aug 2026 12:00:20 +0900"
-    },
-    {
-      "title": "연금받는 노인 절반 50만원이하…유주택자가 무주택자 1.6배 받아",
-      "link": "https://www.yna.co.kr/view/AKR20260825088800002",
-      "pubDate": "Tue, 25 Aug 2026 12:00:17 +0900"
-    },
-    {
-      "title": "2분기 신규 주담대 평균 2억829만원…대출 규제에 역대 최대폭↓",
-      "link": "https://www.yna.co.kr/view/AKR20260825076900002",
-      "pubDate": "Tue, 25 Aug 2026 12:00:16 +0900"
-    },
-    {
-      "title": "레버리지 출시땐 '최대손실률' 알려야…과거 대규모 손실도 공시",
-      "link": "https://www.yna.co.kr/view/AKR20260825078500002",
-      "pubDate": "Tue, 25 Aug 2026 12:00:03 +0900"
     }
   ]
 }
