@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787630708,
+  "updated_at_unix": 1787634018,
   "items": [
+    {
+      "title": "BNK경남은행, 지역 전략산업 활성화 지원…신보·기보와 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260825108400052",
+      "pubDate": "Tue, 25 Aug 2026 13:53:22 +0900"
+    },
+    {
+      "title": "[부산소식] 세정나눔재단 장학금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260825107100051",
+      "pubDate": "Tue, 25 Aug 2026 13:53:02 +0900"
+    },
+    {
+      "title": "KDB생명 \"설계사 채용 활성화로 경쟁력 강화 노력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260825083400002",
+      "pubDate": "Tue, 25 Aug 2026 13:50:55 +0900"
+    },
+    {
+      "title": "계단 이용하고 이웃도 돕고…BNK 건강기부 계단 적립금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260825106400051",
+      "pubDate": "Tue, 25 Aug 2026 13:46:23 +0900"
+    },
+    {
+      "title": "보금자리론 전액 상환 피하려 빌라 명의 이전…2명 입건",
+      "link": "https://www.yna.co.kr/view/AKR20260825105600053",
+      "pubDate": "Tue, 25 Aug 2026 13:43:39 +0900"
+    },
+    {
+      "title": "정부, 올해 공공비축미 40만t 매입…중간정산금 6만원으로 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260825099900030",
+      "pubDate": "Tue, 25 Aug 2026 13:24:41 +0900"
+    },
+    {
+      "title": "\"재창업 공백 줄인다\"…동종 창업 불인정 3년에서 1년으로 단축",
+      "link": "https://www.yna.co.kr/view/AKR20260825029500030",
+      "pubDate": "Tue, 25 Aug 2026 13:03:05 +0900"
+    },
+    {
+      "title": "예비군 청년 위해 면접일정 조정…신중년 고용장려금 대상 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260825050200530",
+      "pubDate": "Tue, 25 Aug 2026 13:03:04 +0900"
+    },
     {
       "title": "감사원 \"인천국세청, 국세 520억여원 과소·과다 부과\"",
       "link": "https://www.yna.co.kr/view/AKR20260825030400001",
@@ -112,46 +152,6 @@
       "title": "농식품부, 농어촌 기본소득 추가 7개 군 28일 첫 지급",
       "link": "https://www.yna.co.kr/view/AKR20260825061400030",
       "pubDate": "Tue, 25 Aug 2026 11:00:00 +0900"
-    },
-    {
-      "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발",
-      "link": "https://www.yna.co.kr/view/AKR20260825078300003",
-      "pubDate": "Tue, 25 Aug 2026 10:52:33 +0900"
-    },
-    {
-      "title": "[게시판] 윤호영 카카오뱅크 대표, 서금원 '사람살리는 금융' 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260825077200002",
-      "pubDate": "Tue, 25 Aug 2026 10:46:46 +0900"
-    },
-    {
-      "title": "한국은행 대구경북본부, '포스트 APEC' 주제 지역발전 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20260825074000053",
-      "pubDate": "Tue, 25 Aug 2026 10:42:01 +0900"
-    },
-    {
-      "title": "한국형 컨테이너운임지수 금융권 확대…해진공·LS증권 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260825071300051",
-      "pubDate": "Tue, 25 Aug 2026 10:38:30 +0900"
-    },
-    {
-      "title": "[게시판] 하나은행 'CJ ONE 내맘적금' 가입 이벤트…연 2.5% 우대금리",
-      "link": "https://www.yna.co.kr/view/AKR20260825073500002",
-      "pubDate": "Tue, 25 Aug 2026 10:37:37 +0900"
-    },
-    {
-      "title": "국토장관·서울시장 내일 2차 회동…용산공원 주택공급 협의(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260825052151003",
-      "pubDate": "Tue, 25 Aug 2026 10:30:44 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260825063600011",
-      "pubDate": "Tue, 25 Aug 2026 10:30:00 +0900"
-    },
-    {
-      "title": "KB국민은행, 금감원과 캄보디아 심장병 어린이 수술 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260825054200002",
-      "pubDate": "Tue, 25 Aug 2026 10:28:50 +0900"
     }
   ]
 }
