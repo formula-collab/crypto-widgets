@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787767750,
+  "updated_at_unix": 1787775535,
   "items": [
+    {
+      "title": "국제유가, 호르무즈 협상 주시하며 3거래일째 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260827006400072",
+      "pubDate": "Thu, 27 Aug 2026 04:54:57 +0900"
+    },
     {
       "title": "카카오뱅크, 31일 예정한 총파업 취소…\"노사 간 공감대\"",
       "link": "https://www.yna.co.kr/view/AKR20260826188000002",
@@ -147,11 +152,6 @@
       "title": "박지원 \"완도 금일∼약산 연륙교 예비타당성 통과\"",
       "link": "https://www.yna.co.kr/view/AKR20260826136300054",
       "pubDate": "Wed, 26 Aug 2026 16:15:04 +0900"
-    },
-    {
-      "title": "은행 대출 문턱 낮춘다…농협銀, 주담대 갈아타기 석달만에 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260826142200002",
-      "pubDate": "Wed, 26 Aug 2026 16:09:56 +0900"
     }
   ]
 }
