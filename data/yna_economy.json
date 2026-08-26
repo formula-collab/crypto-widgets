@@ -1,8 +1,93 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787720468,
+  "updated_at_unix": 1787723734,
   "items": [
+    {
+      "title": "메인비즈협회, '中企 경영혁신대상'에 8곳 선정…투자 상담 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260826110700030",
+      "pubDate": "Wed, 26 Aug 2026 14:48:34 +0900"
+    },
+    {
+      "title": "도봉구, 내달 17일 '청년 취업 멘토링 콘서트'",
+      "link": "https://www.yna.co.kr/view/AKR20260826117100004",
+      "pubDate": "Wed, 26 Aug 2026 14:47:43 +0900"
+    },
+    {
+      "title": "소노그룹, '황제사택' 의혹에 \"국세청 조사 적극 협조할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826107600030",
+      "pubDate": "Wed, 26 Aug 2026 14:47:34 +0900"
+    },
+    {
+      "title": "전남광주 2분기 금융권, 수신·대출금 증가폭 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260826115700054",
+      "pubDate": "Wed, 26 Aug 2026 14:45:24 +0900"
+    },
+    {
+      "title": "김윤덕-오세훈, 용산공원 개발 합의 못해…대안으로 탄천 부상(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260826078752004",
+      "pubDate": "Wed, 26 Aug 2026 14:45:17 +0900"
+    },
+    {
+      "title": "[인사] 금융위원회",
+      "link": "https://www.yna.co.kr/view/AKR20260826116200002",
+      "pubDate": "Wed, 26 Aug 2026 14:44:20 +0900"
+    },
+    {
+      "title": "영월 농협 임직원, 원주에 고향사랑기부금 2천700만원",
+      "link": "https://www.yna.co.kr/view/AKR20260826113000062",
+      "pubDate": "Wed, 26 Aug 2026 14:41:02 +0900"
+    },
+    {
+      "title": "[게시판] 신한증권, 실시간 美콘퍼런스콜 '어닝콜 라이브' 개설",
+      "link": "https://www.yna.co.kr/view/AKR20260826114400008",
+      "pubDate": "Wed, 26 Aug 2026 14:38:12 +0900"
+    },
+    {
+      "title": "[영덕소식] 라오스 계절근로자 81명 농가에 배치",
+      "link": "https://www.yna.co.kr/view/AKR20260826113200053",
+      "pubDate": "Wed, 26 Aug 2026 14:33:35 +0900"
+    },
+    {
+      "title": "개원 11년 창원시정연, 제조업 고도화·일자리 창출전략 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20260826073000052",
+      "pubDate": "Wed, 26 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260826108700011",
+      "pubDate": "Wed, 26 Aug 2026 14:30:00 +0900"
+    },
+    {
+      "title": "당진 도심 우회도로 건설, 예타 통과…2035년 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260826111300063",
+      "pubDate": "Wed, 26 Aug 2026 14:28:17 +0900"
+    },
+    {
+      "title": "국토위성 3·4호 개발 예타 통과…별내선 연장은 예타 대상 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260826110300002",
+      "pubDate": "Wed, 26 Aug 2026 14:24:23 +0900"
+    },
+    {
+      "title": "해운대 아파트 단톡방서 집값 담합 유도한 입주민 검찰 송치",
+      "link": "https://www.yna.co.kr/view/AKR20260826107400051",
+      "pubDate": "Wed, 26 Aug 2026 14:18:07 +0900"
+    },
+    {
+      "title": "캠코·중소벤처기업진흥공단, 위기기업 경영정상화 지원 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260826105900051",
+      "pubDate": "Wed, 26 Aug 2026 14:02:44 +0900"
+    },
+    {
+      "title": "부영 우정교육문화재단, 외국인 유학생에 장학금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260826105300003",
+      "pubDate": "Wed, 26 Aug 2026 14:02:25 +0900"
+    },
+    {
+      "title": "[머니톡스] 과열 불은 끄되 방화복 입혀야…통화와 재정의 '공조'",
+      "link": "https://www.yna.co.kr/view/AKR20260826062600546",
+      "pubDate": "Wed, 26 Aug 2026 14:00:47 +0900"
+    },
     {
       "title": "HD현대마린엔진, 자립준비 청년 20명에 장학금 2천만원 지원",
       "link": "https://www.yna.co.kr/view/AKR20260826101700052",
@@ -67,91 +152,6 @@
       "title": "\"전문직·명문대 회원 수 업계 최다?\"…'뻥튀기' 광고한 듀오",
       "link": "https://www.yna.co.kr/view/AKR20260826048700002",
       "pubDate": "Wed, 26 Aug 2026 12:00:10 +0900"
-    },
-    {
-      "title": "학생통계활용대회 대상에 경북 매원초·전북 영선중·부산 ISB",
-      "link": "https://www.yna.co.kr/view/AKR20260826043600002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:09 +0900"
-    },
-    {
-      "title": "\"기업 피터팬증후군 해결하려면 성과약정형 인센티브 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826033600003",
-      "pubDate": "Wed, 26 Aug 2026 12:00:08 +0900"
-    },
-    {
-      "title": "7월 국내 인구 이동, 4년 만에 최소…\"주택 매매량 등 줄어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826062900002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:07 +0900"
-    },
-    {
-      "title": "오피스텔도 생애최초 취득세 감면…담배소비세 주거복지에 활용",
-      "link": "https://www.yna.co.kr/view/AKR20260826059900530",
-      "pubDate": "Wed, 26 Aug 2026 12:00:07 +0900"
-    },
-    {
-      "title": "중기부, 전국 14개 지역서 '소상공인 경영위기 극복 상담회'",
-      "link": "https://www.yna.co.kr/view/AKR20260826071800030",
-      "pubDate": "Wed, 26 Aug 2026 12:00:04 +0900"
-    },
-    {
-      "title": "가계대출 금리 석 달째 상승…주담대 2년 8개월 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260826076000002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "7년 만에 가장 큰 아이 울음소리…상반기 14만6천명 출생",
-      "link": "https://www.yna.co.kr/view/AKR20260826079400002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:03 +0900"
-    },
-    {
-      "title": "DB형 퇴직연금 수익률, '임금 상승률' 이상으로 높인다",
-      "link": "https://www.yna.co.kr/view/AKR20260826081800530",
-      "pubDate": "Wed, 26 Aug 2026 12:00:02 +0900"
-    },
-    {
-      "title": "작년 30대 후반 출산율 역대 최고…첫째 비중 늘고 둘째는 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260826085600002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:01 +0900"
-    },
-    {
-      "title": "디지털자산법 급물살?…대주주 지분 대신 '의결권 제한' 거론",
-      "link": "https://www.yna.co.kr/view/AKR20260826086500002",
-      "pubDate": "Wed, 26 Aug 2026 11:55:30 +0900"
-    },
-    {
-      "title": "오세훈 \"용산공원 주택 반대 재확인…국토장관에 대안 제시\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826078751004",
-      "pubDate": "Wed, 26 Aug 2026 11:50:50 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 장중 연 3.790%",
-      "link": "https://www.yna.co.kr/view/AKR20260826085800008",
-      "pubDate": "Wed, 26 Aug 2026 11:40:56 +0900"
-    },
-    {
-      "title": "태백시 지역화폐 탄탄페이, 추석 맞아 인센티브 25%로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260826085000062",
-      "pubDate": "Wed, 26 Aug 2026 11:40:03 +0900"
-    },
-    {
-      "title": "\"대포통장 피해 변제해야\" 보이스피싱에 3억5천만원 송금할 뻔",
-      "link": "https://www.yna.co.kr/view/AKR20260826084400054",
-      "pubDate": "Wed, 26 Aug 2026 11:38:59 +0900"
-    },
-    {
-      "title": "국토장관 \"용산공원 의견접근 안돼…탄천 자료 받아 분석할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826082900003",
-      "pubDate": "Wed, 26 Aug 2026 11:35:42 +0900"
-    },
-    {
-      "title": "SK바이오팜, 뇌전증 신약 후보 도입…최대 1조원대 계약",
-      "link": "https://www.yna.co.kr/view/AKR20260826082000017",
-      "pubDate": "Wed, 26 Aug 2026 11:30:35 +0900"
-    },
-    {
-      "title": "IBK기업은행, 인도네시아은행 법인장에 KB 출신 발탁",
-      "link": "https://www.yna.co.kr/view/AKR20260826078800002",
-      "pubDate": "Wed, 26 Aug 2026 11:30:18 +0900"
     }
   ]
 }
