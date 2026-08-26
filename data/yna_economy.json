@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787738574,
+  "updated_at_unix": 1787741828,
   "items": [
+    {
+      "title": "박현주 \"트럼프 흉악…미국 참 얌전, 탄핵 얘기 안 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826176500002",
+      "pubDate": "Wed, 26 Aug 2026 19:20:46 +0900"
+    },
+    {
+      "title": "비자, 쿠날 채터지 신임 한국·몽골 사장 선임",
+      "link": "https://www.yna.co.kr/view/AKR20260826174500002",
+      "pubDate": "Wed, 26 Aug 2026 19:02:15 +0900"
+    },
     {
       "title": "김윤덕-오세훈 면담 후 공방…\"용산불가론 안돼\"vs\"철회가 전제\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260826166251003",
@@ -142,16 +152,6 @@
       "title": "2분기 서울 6대 상권 공실률 개선…관광객 유입 급증 영향",
       "link": "https://www.yna.co.kr/view/AKR20260826137700003",
       "pubDate": "Wed, 26 Aug 2026 16:05:49 +0900"
-    },
-    {
-      "title": "청주 민간임대아파트 주민들 \"약속한 20% 할인 분양 이행하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826131400064",
-      "pubDate": "Wed, 26 Aug 2026 16:04:21 +0900"
-    },
-    {
-      "title": "코스피 0.97%↑…'삼전닉스 기타법인' 연일 조단위 순매수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826132051008",
-      "pubDate": "Wed, 26 Aug 2026 16:04:00 +0900"
     }
   ]
 }
