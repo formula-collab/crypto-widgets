@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787717366,
+  "updated_at_unix": 1787720468,
   "items": [
+    {
+      "title": "HD현대마린엔진, 자립준비 청년 20명에 장학금 2천만원 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260826101700052",
+      "pubDate": "Wed, 26 Aug 2026 13:46:04 +0900"
+    },
+    {
+      "title": "전남광주 소비자심리지수 두 달 연속 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260826100500054",
+      "pubDate": "Wed, 26 Aug 2026 13:43:32 +0900"
+    },
+    {
+      "title": "LH, 의정부우정 공공주택지구 A-2블록 내달 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260826098700003",
+      "pubDate": "Wed, 26 Aug 2026 13:35:11 +0900"
+    },
+    {
+      "title": "[게시판] 거래소, 부산 '통통꿈놀이터' 19호 완공",
+      "link": "https://www.yna.co.kr/view/AKR20260826097800008",
+      "pubDate": "Wed, 26 Aug 2026 13:32:15 +0900"
+    },
     {
       "title": "LH, 의정부 우정지구 공공분양 463가구 공급",
       "link": "https://www.yna.co.kr/view/AKR20260826078500060",
@@ -132,26 +152,6 @@
       "title": "IBK기업은행, 인도네시아은행 법인장에 KB 출신 발탁",
       "link": "https://www.yna.co.kr/view/AKR20260826078800002",
       "pubDate": "Wed, 26 Aug 2026 11:30:18 +0900"
-    },
-    {
-      "title": "'로마네 꽁띠' 등 와인 18만병 수입가격 조작…24억 세금 포탈",
-      "link": "https://www.yna.co.kr/view/AKR20260826081200002",
-      "pubDate": "Wed, 26 Aug 2026 11:26:48 +0900"
-    },
-    {
-      "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260826080100017",
-      "pubDate": "Wed, 26 Aug 2026 11:24:50 +0900"
-    },
-    {
-      "title": "오세훈 \"국토장관, 대체부지 검토하겠다 말해…의견 좁힌 느낌\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826078700004",
-      "pubDate": "Wed, 26 Aug 2026 11:16:49 +0900"
-    },
-    {
-      "title": "네이처셀 \"美 종속회사 주식 97억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826078600008",
-      "pubDate": "Wed, 26 Aug 2026 11:16:06 +0900"
     }
   ]
 }
