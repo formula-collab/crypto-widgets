@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787714969,
+  "updated_at_unix": 1787717366,
   "items": [
+    {
+      "title": "LH, 의정부 우정지구 공공분양 463가구 공급",
+      "link": "https://www.yna.co.kr/view/AKR20260826078500060",
+      "pubDate": "Wed, 26 Aug 2026 13:00:00 +0900"
+    },
+    {
+      "title": "용산공원 대신 탄천물재생센터?…1.3만호 청년주택 띄운 오세훈",
+      "link": "https://www.yna.co.kr/view/AKR20260826092800004",
+      "pubDate": "Wed, 26 Aug 2026 12:55:25 +0900"
+    },
+    {
+      "title": "[게시판] 국립정신건강센터, 청년 정신건강 커리어 성장캠프",
+      "link": "https://www.yna.co.kr/view/AKR20260826035600530",
+      "pubDate": "Wed, 26 Aug 2026 12:30:01 +0900"
+    },
     {
       "title": "국토장관 \"신규택지에 용산 포함안돼…탄천자료 검토할 것\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260826082951003",
@@ -137,21 +152,6 @@
       "title": "네이처셀 \"美 종속회사 주식 97억원에 추가취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260826078600008",
       "pubDate": "Wed, 26 Aug 2026 11:16:06 +0900"
-    },
-    {
-      "title": "사당동 305-35 일대 재개발 신통기획 확정…최고 34층 970세대",
-      "link": "https://www.yna.co.kr/view/AKR20260826042900004",
-      "pubDate": "Wed, 26 Aug 2026 11:15:04 +0900"
-    },
-    {
-      "title": "대치동에 24층 업무시설 건립…코엑스는 복합환승센터와 연결강화",
-      "link": "https://www.yna.co.kr/view/AKR20260826053800004",
-      "pubDate": "Wed, 26 Aug 2026 11:15:01 +0900"
-    },
-    {
-      "title": "서울불꽃축제 앞두고 '명당호텔' 점검…요금미게시 등 영업정지 5일",
-      "link": "https://www.yna.co.kr/view/AKR20260826054900004",
-      "pubDate": "Wed, 26 Aug 2026 11:15:01 +0900"
     }
   ]
 }
