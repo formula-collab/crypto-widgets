@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787723734,
+  "updated_at_unix": 1787725724,
   "items": [
+    {
+      "title": "美국채금리 고공행진에 스테이블코인 관련주 '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260826120900008",
+      "pubDate": "Wed, 26 Aug 2026 15:16:36 +0900"
+    },
+    {
+      "title": "소노그룹, 국세청 세무조사에 \"성실·투명하게 적극 협조할 것\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260826107651030",
+      "pubDate": "Wed, 26 Aug 2026 15:04:45 +0900"
+    },
+    {
+      "title": "한산대첩교 국가계획 최종 반영에 통영시 \"후속 절차 신속 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260826119400052",
+      "pubDate": "Wed, 26 Aug 2026 15:01:39 +0900"
+    },
+    {
+      "title": "비거주 1주택 종부세 기본공제 12억원 유력…개편 전 수준으로",
+      "link": "https://www.yna.co.kr/view/AKR20260826117600002",
+      "pubDate": "Wed, 26 Aug 2026 14:55:09 +0900"
+    },
     {
       "title": "메인비즈협회, '中企 경영혁신대상'에 8곳 선정…투자 상담 지원",
       "link": "https://www.yna.co.kr/view/AKR20260826110700030",
@@ -14,7 +34,7 @@
       "pubDate": "Wed, 26 Aug 2026 14:47:43 +0900"
     },
     {
-      "title": "소노그룹, '황제사택' 의혹에 \"국세청 조사 적극 협조할 것\"",
+      "title": "소노그룹, 국세청 세무조사에 \"성실·투명하게 적극 협조할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260826107600030",
       "pubDate": "Wed, 26 Aug 2026 14:47:34 +0900"
     },
@@ -132,26 +152,6 @@
       "title": "동해시, 40년 묵은 한섬 개발 방향 다시 짠다",
       "link": "https://www.yna.co.kr/view/AKR20260826086600062",
       "pubDate": "Wed, 26 Aug 2026 12:08:45 +0900"
-    },
-    {
-      "title": "공실상가 주거시설로 바뀔까…대수선 취득세 전액 감면",
-      "link": "https://www.yna.co.kr/view/AKR20260826075600530",
-      "pubDate": "Wed, 26 Aug 2026 12:00:55 +0900"
-    },
-    {
-      "title": "[지방세제 개편안 Q&A] 정부 \"고급주택 취득세 중과 회피 개선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826083500530",
-      "pubDate": "Wed, 26 Aug 2026 12:00:21 +0900"
-    },
-    {
-      "title": "\"틀니 샀더니 플라스틱 모형이\"…해외쇼핑몰 저품질 피해 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260825126800030",
-      "pubDate": "Wed, 26 Aug 2026 12:00:12 +0900"
-    },
-    {
-      "title": "\"전문직·명문대 회원 수 업계 최다?\"…'뻥튀기' 광고한 듀오",
-      "link": "https://www.yna.co.kr/view/AKR20260826048700002",
-      "pubDate": "Wed, 26 Aug 2026 12:00:10 +0900"
     }
   ]
 }
