@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787735233,
+  "updated_at_unix": 1787738574,
   "items": [
+    {
+      "title": "김윤덕-오세훈 면담 후 공방…\"용산불가론 안돼\"vs\"철회가 전제\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260826166251003",
+      "pubDate": "Wed, 26 Aug 2026 18:47:53 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20260826160500011",
@@ -147,11 +152,6 @@
       "title": "코스피 0.97%↑…'삼전닉스 기타법인' 연일 조단위 순매수(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260826132051008",
       "pubDate": "Wed, 26 Aug 2026 16:04:00 +0900"
-    },
-    {
-      "title": "전북 동물병원 진료비 비싸다…고양이 입원비는 병원별로 최대 10배",
-      "link": "https://www.yna.co.kr/view/AKR20260826136400055",
-      "pubDate": "Wed, 26 Aug 2026 16:02:50 +0900"
     }
   ]
 }
