@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787922049,
+  "updated_at_unix": 1787958362,
   "items": [
+    {
+      "title": "[머니플로우] 조정장에 일주일새 파킹형 ETF 1.6조…커버드콜 1조 유입",
+      "link": "https://www.yna.co.kr/view/AKR20260828135800008",
+      "pubDate": "Sat, 29 Aug 2026 08:00:11 +0900"
+    },
+    {
+      "title": "\"이사람 공정위 직원이야\"…연기자 고용해 사기행각 자매 중형",
+      "link": "https://www.yna.co.kr/view/AKR20260828175400004",
+      "pubDate": "Sat, 29 Aug 2026 08:00:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 15주째 하락…휘발유·경유 1천800원대 유지",
+      "link": "https://www.yna.co.kr/view/AKR20260828142200003",
+      "pubDate": "Sat, 29 Aug 2026 07:01:00 +0900"
+    },
+    {
+      "title": "동남권 양성자 치료센터 밑그림 완성…\"암 치료 격차 해소\"",
+      "link": "https://www.yna.co.kr/view/AKR20260828074800051",
+      "pubDate": "Sat, 29 Aug 2026 07:00:09 +0900"
+    },
+    {
+      "title": "[신상잇슈] 빙그레 '식후관리 워터'·오뚜기 '열찐만두'",
+      "link": "https://www.yna.co.kr/view/AKR20260828073100030",
+      "pubDate": "Sat, 29 Aug 2026 07:00:07 +0900"
+    },
+    {
+      "title": "[해수분해] 20년 지나도 반복되는 '염전 노예'…어업인 누가 지키나",
+      "link": "https://www.yna.co.kr/view/AKR20260828095400051",
+      "pubDate": "Sat, 29 Aug 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[금주핫템] 뉴발란스 '880R'·AGE20'S '클라우드 컴포트 파우더 팩트'",
+      "link": "https://www.yna.co.kr/view/AKR20260828135100030",
+      "pubDate": "Sat, 29 Aug 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 인천 시티오씨엘9단지오션파크뷰 등 3천713가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260828132100003",
+      "pubDate": "Sat, 29 Aug 2026 06:00:02 +0900"
+    },
+    {
+      "title": "아들 두 명 허위취업·횡령 방조한 경찰간부…법원 \"강등 정당\"",
+      "link": "https://www.yna.co.kr/view/AKR20260828173300004",
+      "pubDate": "Sat, 29 Aug 2026 05:55:00 +0900"
+    },
     {
       "title": "[부고] 이귀원(연합뉴스 증권부장)씨 부친상",
       "link": "https://www.yna.co.kr/view/AKR20260828163300008",
@@ -107,51 +152,6 @@
       "title": "구직부터 커리어까지 '올케어'…\"내년 청년 고용 9만명+α\"",
       "link": "https://www.yna.co.kr/view/AKR20260828035400002",
       "pubDate": "Fri, 28 Aug 2026 16:30:02 +0900"
-    },
-    {
-      "title": "청년 일자리·교육·주거·자산까지 촘촘하게…내년 43조 투입",
-      "link": "https://www.yna.co.kr/view/AKR20260828103600002",
-      "pubDate": "Fri, 28 Aug 2026 16:30:00 +0900"
-    },
-    {
-      "title": "한화리츠 회사채 수요예측서 두 배 넘게 몰려…4천750억원 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260828137300008",
-      "pubDate": "Fri, 28 Aug 2026 16:24:42 +0900"
-    },
-    {
-      "title": "식품진흥원, 해외바이어 초청 수출상담회 성료…MOU 등 성과",
-      "link": "https://www.yna.co.kr/view/AKR20260828134300055",
-      "pubDate": "Fri, 28 Aug 2026 16:17:02 +0900"
-    },
-    {
-      "title": "코맥스 \"관계사 주식 54억원어치 취득…지분율 40%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260828136100008",
-      "pubDate": "Fri, 28 Aug 2026 16:16:03 +0900"
-    },
-    {
-      "title": "HLB생명과학 \"에이치엘비이노베이션 주식 360억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260828132500008",
-      "pubDate": "Fri, 28 Aug 2026 16:12:59 +0900"
-    },
-    {
-      "title": "창원시, 디지털 마산자유무역지역 입주의향 기업과 투자양해각서",
-      "link": "https://www.yna.co.kr/view/AKR20260828134200052",
-      "pubDate": "Fri, 28 Aug 2026 16:12:33 +0900"
-    },
-    {
-      "title": "삼전·닉스 내리자 코스피 1.79% 하락 마감…코스닥은 강보합(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260828123351008",
-      "pubDate": "Fri, 28 Aug 2026 16:06:36 +0900"
-    },
-    {
-      "title": "진도군-중소벤처기업연구원, 지역상생 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260828131100054",
-      "pubDate": "Fri, 28 Aug 2026 16:04:17 +0900"
-    },
-    {
-      "title": "국세청, 현금영수증 숏폼 공모전…15편 총상금 1천만원",
-      "link": "https://www.yna.co.kr/view/AKR20260828101300002",
-      "pubDate": "Fri, 28 Aug 2026 16:00:01 +0900"
     }
   ]
 }
