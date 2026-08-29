@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788038958,
+  "updated_at_unix": 1788046193,
   "items": [
+    {
+      "title": "금통위 연속 인상에도 크레딧 '캐리' 눈길…발행 회복은 '글쎄'",
+      "link": "https://www.yna.co.kr/view/AKR20260829020500008",
+      "pubDate": "Sun, 30 Aug 2026 08:01:01 +0900"
+    },
+    {
+      "title": "부산시·BNK금융, 500억원 규모 벤처펀드 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260828128100051",
+      "pubDate": "Sun, 30 Aug 2026 08:00:09 +0900"
+    },
+    {
+      "title": "수출입은행, 네팔 대홍수 피해 구호에 2억원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260829033800002",
+      "pubDate": "Sun, 30 Aug 2026 08:00:01 +0900"
+    },
+    {
+      "title": "'롤러코스피' 멈췄지만…활력 위축에 7천선 문턱 걸린 코스피",
+      "link": "https://www.yna.co.kr/view/AKR20260829001400008",
+      "pubDate": "Sun, 30 Aug 2026 07:05:17 +0900"
+    },
+    {
+      "title": "정유주, 정제 마진 상승에 강세…\"원유보다 느린 제품 정상화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829011900008",
+      "pubDate": "Sun, 30 Aug 2026 07:05:01 +0900"
+    },
+    {
+      "title": "경기도, 경기광주역 인근에 청년혁신타운 316세대 준공",
+      "link": "https://www.yna.co.kr/view/AKR20260828128500061",
+      "pubDate": "Sun, 30 Aug 2026 07:01:05 +0900"
+    },
+    {
+      "title": "경기도 건의 '노후청사 복합개발' 방안, 특별법안에 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260828156700061",
+      "pubDate": "Sun, 30 Aug 2026 07:01:03 +0900"
+    },
+    {
+      "title": "북극항로 시범운항 선박 곧 북극해 진입…\"저온·해빙 악조건\"",
+      "link": "https://www.yna.co.kr/view/AKR20260828074500051",
+      "pubDate": "Sun, 30 Aug 2026 07:01:02 +0900"
+    },
+    {
+      "title": "원전·AIDC·재건 기대감 한 몸에…건설주, 이달만 33% '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260828176000008",
+      "pubDate": "Sun, 30 Aug 2026 07:00:17 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 확 다가온 美 금리인상 우려…코스피 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20260828181500008",
+      "pubDate": "Sun, 30 Aug 2026 07:00:11 +0900"
+    },
+    {
+      "title": "[빈집의 재탄생] 노후 연립주택이 외국인 가족 보금자리로",
+      "link": "https://www.yna.co.kr/view/AKR20260828145000057",
+      "pubDate": "Sun, 30 Aug 2026 06:45:02 +0900"
+    },
+    {
+      "title": "외국인 의료 소비 5달째 2천억원 넘어…서울 쏠림 87%는 과제",
+      "link": "https://www.yna.co.kr/view/AKR20260829039300030",
+      "pubDate": "Sun, 30 Aug 2026 06:40:00 +0900"
+    },
+    {
+      "title": "\"다음은 내 차례?\"…AI 감원, 직원들은 두달 전부터 눈치챘다",
+      "link": "https://www.yna.co.kr/view/AKR20260828149700017",
+      "pubDate": "Sun, 30 Aug 2026 06:30:01 +0900"
+    },
     {
       "title": "금리 오르고 전셋값 뛰는데…신혼부부 버팀목 대출 '반토막'",
       "link": "https://www.yna.co.kr/view/AKR20260829033400003",
@@ -87,71 +152,6 @@
       "title": "2030 새 일자리 역대 최소…'바늘구멍' 뚫어도 월급 뒷걸음질",
       "link": "https://www.yna.co.kr/view/AKR20260829039900002",
       "pubDate": "Sun, 30 Aug 2026 05:55:00 +0900"
-    },
-    {
-      "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829032700002",
-      "pubDate": "Sun, 30 Aug 2026 05:53:01 +0900"
-    },
-    {
-      "title": "저소득층에 더 가혹한 물가 상승…식비부담 더 크게 늘었다",
-      "link": "https://www.yna.co.kr/view/AKR20260828150700002",
-      "pubDate": "Sun, 30 Aug 2026 05:51:00 +0900"
-    },
-    {
-      "title": "위기시 레버리지 등 투자상품 손본다…긴급조치권 확대 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260829047800002",
-      "pubDate": "Sun, 30 Aug 2026 05:49:01 +0900"
-    },
-    {
-      "title": "미래에셋 고액자산가 영업 고강도검사 착수…스페이스X 초점",
-      "link": "https://www.yna.co.kr/view/AKR20260829043400002",
-      "pubDate": "Sun, 30 Aug 2026 05:47:00 +0900"
-    },
-    {
-      "title": "신규 대출여력 배분 마무리…주담대·신용 비중 20%대 추정",
-      "link": "https://www.yna.co.kr/view/AKR20260829043600002",
-      "pubDate": "Sun, 30 Aug 2026 05:45:01 +0900"
-    },
-    {
-      "title": "5대 은행 가계대출 목표치 60% 늘어…'오픈런'은 여전",
-      "link": "https://www.yna.co.kr/view/AKR20260829043100002",
-      "pubDate": "Sun, 30 Aug 2026 05:45:00 +0900"
-    },
-    {
-      "title": "청주시, 베트남 북부 경제도시 꽝닌시와 우호도시 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260829035200064",
-      "pubDate": "Sat, 29 Aug 2026 15:04:21 +0900"
-    },
-    {
-      "title": "韓총리, 장위14구역 재개발 현장 찾아 \"속도감 있게 진행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829032600001",
-      "pubDate": "Sat, 29 Aug 2026 14:14:33 +0900"
-    },
-    {
-      "title": "[영상] 산불과 홍수에도 지원 사각지대…사라지는 시골 우체국",
-      "link": "https://www.yna.co.kr/view/AKR20260828105100797",
-      "pubDate": "Sat, 29 Aug 2026 12:00:00 +0900"
-    },
-    {
-      "title": "호르무즈 재개방 중재 계속…이란, 美제재에 '국제법 위반' 규탄",
-      "link": "https://www.yna.co.kr/view/AKR20260829023900009",
-      "pubDate": "Sat, 29 Aug 2026 11:32:53 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260829023000011",
-      "pubDate": "Sat, 29 Aug 2026 10:31:06 +0900"
-    },
-    {
-      "title": "[마이더스] 2026년 세제개편안…종부세·양도세",
-      "link": "https://www.yna.co.kr/view/AKR20260827078400980",
-      "pubDate": "Sat, 29 Aug 2026 10:30:01 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 석달 새 5조원 기술수출…한미약품 'R&D의 힘'",
-      "link": "https://www.yna.co.kr/view/AKR20260828133400017",
-      "pubDate": "Sat, 29 Aug 2026 10:00:04 +0900"
     }
   ]
 }
