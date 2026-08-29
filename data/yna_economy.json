@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1787976713,
+  "updated_at_unix": 1788001961,
   "items": [
+    {
+      "title": "청주시, 베트남 북부 경제도시 꽝닌시와 우호도시 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260829035200064",
+      "pubDate": "Sat, 29 Aug 2026 15:04:21 +0900"
+    },
+    {
+      "title": "韓총리, 장위14구역 재개발 현장 찾아 \"속도감 있게 진행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829032600001",
+      "pubDate": "Sat, 29 Aug 2026 14:14:33 +0900"
+    },
     {
       "title": "[영상] 산불과 홍수에도 지원 사각지대…사라지는 시골 우체국",
       "link": "https://www.yna.co.kr/view/AKR20260828105100797",
@@ -142,16 +152,6 @@
       "title": "지구과학올림피아드 한국대표단 전원 메달…금 1·은 1·동 2",
       "link": "https://www.yna.co.kr/view/AKR20260828150800017",
       "pubDate": "Fri, 28 Aug 2026 17:18:54 +0900"
-    },
-    {
-      "title": "인터넷은행 3사, 2분기 중·저신용 대출비중 목표치 30% 넘겨",
-      "link": "https://www.yna.co.kr/view/AKR20260828149300002",
-      "pubDate": "Fri, 28 Aug 2026 17:12:12 +0900"
-    },
-    {
-      "title": "경남대에 메가존 피지컬AI 연구센터 개소…제조AI 연구개발 거점",
-      "link": "https://www.yna.co.kr/view/AKR20260828147800052",
-      "pubDate": "Fri, 28 Aug 2026 17:10:26 +0900"
     }
   ]
 }
