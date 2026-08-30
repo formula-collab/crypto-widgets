@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788046193,
+  "updated_at_unix": 1788053328,
   "items": [
+    {
+      "title": "삼성물산, 마포한강삼성 리모델링 수주…공사비 2천810억원",
+      "link": "https://www.yna.co.kr/view/AKR20260830020000003",
+      "pubDate": "Sun, 30 Aug 2026 10:17:12 +0900"
+    },
+    {
+      "title": "[K바이오 점프업] ② R&D 넘어 사업화로…\"성장사다리 만들어야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260828165600017",
+      "pubDate": "Sun, 30 Aug 2026 10:05:22 +0900"
+    },
+    {
+      "title": "여주시, 추석 맞아 지역화폐 인센티브 8%→10% 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260827134600061",
+      "pubDate": "Sun, 30 Aug 2026 10:01:01 +0900"
+    },
+    {
+      "title": "임금·물가 상승에 사라지는 김밥 가게…브랜드 매장도 못버틴다",
+      "link": "https://www.yna.co.kr/view/AKR20260830011300030",
+      "pubDate": "Sun, 30 Aug 2026 09:32:31 +0900"
+    },
+    {
+      "title": "[AI위클리] AI는 이제 필수 역량…영어·수학만큼 중요해졌다",
+      "link": "https://www.yna.co.kr/view/AKR20260829029400017",
+      "pubDate": "Sun, 30 Aug 2026 09:30:00 +0900"
+    },
+    {
+      "title": "'30년 흉물' 증평 윤모아파트 내년 '역사 속으로'…보상 순조",
+      "link": "https://www.yna.co.kr/view/AKR20260828151800064",
+      "pubDate": "Sun, 30 Aug 2026 09:12:59 +0900"
+    },
+    {
+      "title": "충남도, 과도한 채무 도민 지원 강화…법률·복지까지 연계",
+      "link": "https://www.yna.co.kr/view/AKR20260830015100063",
+      "pubDate": "Sun, 30 Aug 2026 09:07:18 +0900"
+    },
+    {
+      "title": "진옥동 신한금융 회장 \"투자자 조언 밑거름 삼아 지속가능 성장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829045100002",
+      "pubDate": "Sun, 30 Aug 2026 09:00:03 +0900"
+    },
+    {
+      "title": "신현송 \"원화 면역력 생겨…대미 투자, 환율에 부담 안 돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20260830008400072",
+      "pubDate": "Sun, 30 Aug 2026 09:00:01 +0900"
+    },
+    {
+      "title": "서울 충무로에 중구 최대 구립도서관 건립…2031년 준공 목표",
+      "link": "https://www.yna.co.kr/view/AKR20260830011800004",
+      "pubDate": "Sun, 30 Aug 2026 08:35:19 +0900"
+    },
+    {
+      "title": "전고점 바라보는 서울 중하위권 아파트 …상승세 지속되나",
+      "link": "https://www.yna.co.kr/view/AKR20260830006900003",
+      "pubDate": "Sun, 30 Aug 2026 08:33:38 +0900"
+    },
+    {
+      "title": "'극한 호우' 거제 차량 2천228대 피해 신고…1천152대 침수 판정",
+      "link": "https://www.yna.co.kr/view/AKR20260828152400052",
+      "pubDate": "Sun, 30 Aug 2026 08:30:01 +0900"
+    },
+    {
+      "title": "[게시판] 하나금융, 제20기 스마트 홍보대사 해단식",
+      "link": "https://www.yna.co.kr/view/AKR20260829042900002",
+      "pubDate": "Sun, 30 Aug 2026 08:30:00 +0900"
+    },
     {
       "title": "금통위 연속 인상에도 크레딧 '캐리' 눈길…발행 회복은 '글쎄'",
       "link": "https://www.yna.co.kr/view/AKR20260829020500008",
@@ -87,71 +152,6 @@
       "title": "\"내 입맛대로 조합해 먹는다\"…외식업계 번지는 '내시피' 열풍",
       "link": "https://www.yna.co.kr/view/AKR20260827180800030",
       "pubDate": "Sun, 30 Aug 2026 06:15:01 +0900"
-    },
-    {
-      "title": "삼성전자, 9월부터 임직원 주택대출…사내 부부는 1건으로 제한",
-      "link": "https://www.yna.co.kr/view/AKR20260828063800003",
-      "pubDate": "Sun, 30 Aug 2026 06:09:01 +0900"
-    },
-    {
-      "title": "삼전닉스 상반기 법인세 11.2조…세금도 역대 최고 수순",
-      "link": "https://www.yna.co.kr/view/AKR20260828161500003",
-      "pubDate": "Sun, 30 Aug 2026 06:05:00 +0900"
-    },
-    {
-      "title": "오징어·갈치에 광어까지 올라…추석 앞두고 수산물값 '들썩'",
-      "link": "https://www.yna.co.kr/view/AKR20260829023100030",
-      "pubDate": "Sun, 30 Aug 2026 06:05:00 +0900"
-    },
-    {
-      "title": "국토부, 1만3천가구 탄천 주택공급 부지 본격 검토",
-      "link": "https://www.yna.co.kr/view/AKR20260828129200003",
-      "pubDate": "Sun, 30 Aug 2026 06:01:01 +0900"
-    },
-    {
-      "title": "거래소 예치된 코인 4.7조원…이용자 보상액 매달 100억원 안팎",
-      "link": "https://www.yna.co.kr/view/AKR20260829033200002",
-      "pubDate": "Sun, 30 Aug 2026 06:01:00 +0900"
-    },
-    {
-      "title": "\"가계 부담 더세요\"…추석 맞아 충남 시군, 지역화폐 발행 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260828061400063",
-      "pubDate": "Sun, 30 Aug 2026 06:00:08 +0900"
-    },
-    {
-      "title": "이마트 '친환경 추석 선물세트' 사전예약 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260828178900030",
-      "pubDate": "Sun, 30 Aug 2026 06:00:03 +0900"
-    },
-    {
-      "title": "개인, 두 달간 美 주식 10조 순매수…코스피보다 더 샀다",
-      "link": "https://www.yna.co.kr/view/AKR20260828147900008",
-      "pubDate": "Sun, 30 Aug 2026 06:00:02 +0900"
-    },
-    {
-      "title": "국민·하나銀, 작년 온실가스 배출 증가…신한·우리 2년째 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260829042400002",
-      "pubDate": "Sun, 30 Aug 2026 05:59:01 +0900"
-    },
-    {
-      "title": "'사공이 너무 많다' 인구 예산 88조원…24개 부처 분산",
-      "link": "https://www.yna.co.kr/view/AKR20260829043200002",
-      "pubDate": "Sun, 30 Aug 2026 05:57:00 +0900"
-    },
-    {
-      "title": "장기전세 20년 채운 입주민들 \"더 살게 해달라\"…서울시 \"불가\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829040100004",
-      "pubDate": "Sun, 30 Aug 2026 05:55:05 +0900"
-    },
-    {
-      "title": "서울시 '야간경제' 띄운다…옥외영업 활성화로 골목상권 활력↑",
-      "link": "https://www.yna.co.kr/view/AKR20260829029900004",
-      "pubDate": "Sun, 30 Aug 2026 05:55:02 +0900"
-    },
-    {
-      "title": "2030 새 일자리 역대 최소…'바늘구멍' 뚫어도 월급 뒷걸음질",
-      "link": "https://www.yna.co.kr/view/AKR20260829039900002",
-      "pubDate": "Sun, 30 Aug 2026 05:55:00 +0900"
     }
   ]
 }
