@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788186739,
+  "updated_at_unix": 1788207982,
   "items": [
+    {
+      "title": "李대통령, 오늘 국무회의 주재…'800조+α' 내년도 예산안 심의",
+      "link": "https://www.yna.co.kr/view/AKR20260831144100001",
+      "pubDate": "Tue, 1 Sep 2026 05:00:02 +0900"
+    },
+    {
+      "title": "美재무 \"일본, 엔화강세 위해 조치할 것\"…9월 日금리인상 시사",
+      "link": "https://www.yna.co.kr/view/AKR20260901005700071",
+      "pubDate": "Tue, 1 Sep 2026 04:40:37 +0900"
+    },
+    {
+      "title": "휘발윳값 고공행진에 속끓는 트럼프, 美정유업계 경영진 호출",
+      "link": "https://www.yna.co.kr/view/AKR20260901005800071",
+      "pubDate": "Tue, 1 Sep 2026 04:24:20 +0900"
+    },
+    {
+      "title": "美 휘발윳값, 사상 처음 8월 내내 4달러 웃돌아",
+      "link": "https://www.yna.co.kr/view/AKR20260901006300072",
+      "pubDate": "Tue, 1 Sep 2026 04:20:57 +0900"
+    },
     {
       "title": "박홍근 \"개각으로 능력 검증된 분, 전문성 인정된 분 들어왔다\"",
       "link": "https://www.yna.co.kr/view/AKR20260831175200002",
@@ -132,26 +152,6 @@
       "title": "울산항 7월 물동량 12.8%↑…비중동산 원유 수입 증가 영향",
       "link": "https://www.yna.co.kr/view/AKR20260831139300057",
       "pubDate": "Mon, 31 Aug 2026 16:18:53 +0900"
-    },
-    {
-      "title": "'하닉 1주 하한가'에 대책 내놓은 NXT…\"VI 발동시 단일가매매\"",
-      "link": "https://www.yna.co.kr/view/AKR20260831140100008",
-      "pubDate": "Mon, 31 Aug 2026 16:11:35 +0900"
-    },
-    {
-      "title": "금감원, 상반기 카드론 통계 오류…증가를 감소로 정정",
-      "link": "https://www.yna.co.kr/view/AKR20260831137500002",
-      "pubDate": "Mon, 31 Aug 2026 16:08:34 +0900"
-    },
-    {
-      "title": "'삼전·닉스' 자사주 매입에 코스피 상승 전환…6,820 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831140000008",
-      "pubDate": "Mon, 31 Aug 2026 16:03:00 +0900"
-    },
-    {
-      "title": "원/달러 환율, 13개월 만에 장중 1,360원대로 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260831138200002",
-      "pubDate": "Mon, 31 Aug 2026 16:01:31 +0900"
     }
   ]
 }
