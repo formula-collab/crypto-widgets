@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788292926,
+  "updated_at_unix": 1788302401,
   "items": [
+    {
+      "title": "채권시장 호재 없다…30년물 입찰 부진에 재정·물가 경계도",
+      "link": "https://www.yna.co.kr/view/AKR20260901164600008",
+      "pubDate": "Wed, 2 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260902015200011",
+      "pubDate": "Wed, 2 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블코인 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260902012300009",
+      "pubDate": "Wed, 2 Sep 2026 07:01:43 +0900"
+    },
+    {
+      "title": "고용허가제 외국인 28.7만명 '역대 최대'…80%는 제조업",
+      "link": "https://www.yna.co.kr/view/AKR20260901154800530",
+      "pubDate": "Wed, 2 Sep 2026 06:01:02 +0900"
+    },
+    {
+      "title": "[OK제보] \"수개월 기다렸는데\"…경기 청년 응시료 지원 접수 첫날 '먹통'",
+      "link": "https://www.yna.co.kr/view/AKR20260901176900505",
+      "pubDate": "Wed, 2 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "국내은행 부실채권 18.9조, 8년만에 최대…기업여신 1조↑",
+      "link": "https://www.yna.co.kr/view/AKR20260901191500002",
+      "pubDate": "Wed, 2 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "title": "AI가 민원 답변 초안 작성…금감원, 민원·분쟁 AI 시범운영",
+      "link": "https://www.yna.co.kr/view/AKR20260901188000002",
+      "pubDate": "Wed, 2 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "가상자산 보험 가입 의무지만…업황 침체에 미가입 VASP 2곳",
+      "link": "https://www.yna.co.kr/view/AKR20260826133600002",
+      "pubDate": "Wed, 2 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "금리 인상에 보금자리론 매력↓…7월 판매 13개월 만에 최소",
+      "link": "https://www.yna.co.kr/view/AKR20260901175400002",
+      "pubDate": "Wed, 2 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "서울 갭투자 의심 거래 30대가 절반…증가속도 가장 빨랐다",
+      "link": "https://www.yna.co.kr/view/AKR20260901146400002",
+      "pubDate": "Wed, 2 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "title": "美재무, 국채금리 급등 진화 안간힘…연일 \"심각한 상황 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902006900071",
+      "pubDate": "Wed, 2 Sep 2026 05:27:57 +0900"
+    },
     {
       "title": "미·이란 교전 재개에 국제유가 5% 안팎 급등…WTI 90달러 돌파",
       "link": "https://www.yna.co.kr/view/AKR20260902006300072",
@@ -97,61 +152,6 @@
       "title": "국고채 금리 상승…美 장기채 상승·30년물 입찰 부진 등 영향(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260901166051008",
       "pubDate": "Tue, 1 Sep 2026 16:59:41 +0900"
-    },
-    {
-      "title": "2030년 국가채무 1천700조원대…재정지출 1천조원 시대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831177651002",
-      "pubDate": "Tue, 1 Sep 2026 16:53:11 +0900"
-    },
-    {
-      "title": "[포항소식] 선린대, 전문대 혁신지원사업 평가서 4년 연속 'A'",
-      "link": "https://www.yna.co.kr/view/AKR20260901167900053",
-      "pubDate": "Tue, 1 Sep 2026 16:50:14 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.878%",
-      "link": "https://www.yna.co.kr/view/AKR20260901166000008",
-      "pubDate": "Tue, 1 Sep 2026 16:49:01 +0900"
-    },
-    {
-      "title": "하나은행, 11월 실행분 주담대·전세대출 모집인 접수 재개",
-      "link": "https://www.yna.co.kr/view/AKR20260901164500002",
-      "pubDate": "Tue, 1 Sep 2026 16:47:55 +0900"
-    },
-    {
-      "title": "\"안심 먹거리 만든다\"…식품진흥원, 원산지인증기관 지정",
-      "link": "https://www.yna.co.kr/view/AKR20260901164100055",
-      "pubDate": "Tue, 1 Sep 2026 16:47:45 +0900"
-    },
-    {
-      "title": "공정위, CJ·대상·풀무원 등 5개사 현장조사…장류 담합 의혹",
-      "link": "https://www.yna.co.kr/view/AKR20260901166100002",
-      "pubDate": "Tue, 1 Sep 2026 16:41:47 +0900"
-    },
-    {
-      "title": "비거주 1주택 세부담 일부 완화…정부안 수준에선 \"영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260901157500003",
-      "pubDate": "Tue, 1 Sep 2026 16:40:41 +0900"
-    },
-    {
-      "title": "지식재산처 내년 예산안 7천106억원 편성…전년보다 798억원↑",
-      "link": "https://www.yna.co.kr/view/AKR20260901162100063",
-      "pubDate": "Tue, 1 Sep 2026 16:38:07 +0900"
-    },
-    {
-      "title": "카카오, 부산에 AI 인재 800명 모은다…'AI 돛 서밋' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260901162900017",
-      "pubDate": "Tue, 1 Sep 2026 16:36:03 +0900"
-    },
-    {
-      "title": "올해 외국인 코스피 순매수 단 두 달…9월도 '팔자' 이어가나(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260901113251008",
-      "pubDate": "Tue, 1 Sep 2026 16:33:46 +0900"
-    },
-    {
-      "title": "전남광주시금고 평가에 영업망 '지역분포' 반영…조례 개정 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260901159300054",
-      "pubDate": "Tue, 1 Sep 2026 16:33:06 +0900"
     }
   ]
 }
