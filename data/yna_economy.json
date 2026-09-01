@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788252421,
+  "updated_at_unix": 1788270324,
   "items": [
+    {
+      "title": "한국거래소, 14일 개장 애프터마켓서 ETF·ETN 거래 제외",
+      "link": "https://www.yna.co.kr/view/AKR20260901190000008",
+      "pubDate": "Tue, 1 Sep 2026 19:36:09 +0900"
+    },
+    {
+      "title": "상호금융 가계대출 목표치 배분 완료…새마을금고·신협도 늘어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260901185051002",
+      "pubDate": "Tue, 1 Sep 2026 19:15:11 +0900"
+    },
+    {
+      "title": "[부고] 채병서(케이뱅크 전무·커뮤니케이션실장)씨 부친상",
+      "link": "https://www.yna.co.kr/view/AKR20260901187500002",
+      "pubDate": "Tue, 1 Sep 2026 19:09:16 +0900"
+    },
+    {
+      "title": "상호금융 가계대출 목표치 배분 완료…새마을금고·신협도 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260901185000002",
+      "pubDate": "Tue, 1 Sep 2026 18:51:08 +0900"
+    },
+    {
+      "title": "한일 경제안보대화 도쿄서 개최…\"AI·반도체 육성 협력 모색\"",
+      "link": "https://www.yna.co.kr/view/AKR20260901165100001",
+      "pubDate": "Tue, 1 Sep 2026 18:26:05 +0900"
+    },
+    {
+      "title": "네이버, 사우디 기업과 현지 예약·결제 통합서비스 구축 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260901184500017",
+      "pubDate": "Tue, 1 Sep 2026 18:15:17 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260901174300011",
+      "pubDate": "Tue, 1 Sep 2026 18:00:01 +0900"
+    },
+    {
+      "title": "유한양행, 글로벌 제약사에 원료의약품 공급…1천311억원 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260901182500017",
+      "pubDate": "Tue, 1 Sep 2026 17:56:43 +0900"
+    },
     {
       "title": "'최저임금보다 높은 실업급여' 개선…노사 고용보험료 0.1%p씩↑",
       "link": "https://www.yna.co.kr/view/AKR20260901108500530",
@@ -112,46 +152,6 @@
       "title": "공정위, TPG의 롯데렌탈 주식취득 승인…\"경쟁 제한성 없어\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260901124651002",
       "pubDate": "Tue, 1 Sep 2026 16:17:45 +0900"
-    },
-    {
-      "title": "올해 1∼7월 인천공항 여행자 마약 적발 605건…역대 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260901111400065",
-      "pubDate": "Tue, 1 Sep 2026 16:13:12 +0900"
-    },
-    {
-      "title": "디스플레이협회, 박사후연구원-중소·중견기업 산학협력 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260901141600003",
-      "pubDate": "Tue, 1 Sep 2026 16:01:41 +0900"
-    },
-    {
-      "title": "중동 긴장 재고조·저가매수세 유입에 환율 소폭 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260901151900002",
-      "pubDate": "Tue, 1 Sep 2026 16:00:36 +0900"
-    },
-    {
-      "title": "국내 최대 골목형 스타트업 투자 상담 행사 대전서 개막",
-      "link": "https://www.yna.co.kr/view/AKR20260901074200063",
-      "pubDate": "Tue, 1 Sep 2026 16:00:04 +0900"
-    },
-    {
-      "title": "노동부, 의왕역 코레일 직원 사망 고강도 감독…반복재해 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260901087600530",
-      "pubDate": "Tue, 1 Sep 2026 16:00:03 +0900"
-    },
-    {
-      "title": "공공기관 경영정보 한눈에…'알리오 인사이트 2026' 최초 발간",
-      "link": "https://www.yna.co.kr/view/AKR20260901126000002",
-      "pubDate": "Tue, 1 Sep 2026 16:00:03 +0900"
-    },
-    {
-      "title": "공공기관 부채 4년 새 778조→997조 전망…'닥공' LH 175조 급증",
-      "link": "https://www.yna.co.kr/view/AKR20260901140200002",
-      "pubDate": "Tue, 1 Sep 2026 16:00:01 +0900"
-    },
-    {
-      "title": "전문건설협회 \"표준시장단가 확대시 안전·품질 위협할 수도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260901144000003",
-      "pubDate": "Tue, 1 Sep 2026 16:00:00 +0900"
     }
   ]
 }
