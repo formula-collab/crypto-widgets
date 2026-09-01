@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788283744,
+  "updated_at_unix": 1788292926,
   "items": [
+    {
+      "title": "미·이란 교전 재개에 국제유가 5% 안팎 급등…WTI 90달러 돌파",
+      "link": "https://www.yna.co.kr/view/AKR20260902006300072",
+      "pubDate": "Wed, 2 Sep 2026 04:52:45 +0900"
+    },
+    {
+      "title": "美재무장관 \"엔화 상당히 저평가…日 건전한 통화정책 수립해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260901100251073",
+      "pubDate": "Wed, 2 Sep 2026 04:00:15 +0900"
+    },
     {
       "title": "美재무 \"호르무즈, 2년내 쓸모없어진다…파이프라인으로 우회\"",
       "link": "https://www.yna.co.kr/view/AKR20260902001500071",
@@ -142,16 +152,6 @@
       "title": "전남광주시금고 평가에 영업망 '지역분포' 반영…조례 개정 추진",
       "link": "https://www.yna.co.kr/view/AKR20260901159300054",
       "pubDate": "Tue, 1 Sep 2026 16:33:06 +0900"
-    },
-    {
-      "title": "오세훈, 오늘 국힘 국토위 의원들과 만찬…부동산정책 의견 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260901157700004",
-      "pubDate": "Tue, 1 Sep 2026 16:24:34 +0900"
-    },
-    {
-      "title": "경기신용보증재단, 추석 앞두고 100억원 규모 특례보증",
-      "link": "https://www.yna.co.kr/view/AKR20260901159500061",
-      "pubDate": "Tue, 1 Sep 2026 16:21:45 +0900"
     }
   ]
 }
