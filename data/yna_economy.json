@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788379160,
+  "updated_at_unix": 1788387817,
   "items": [
+    {
+      "title": "울주군, 55~64세 미취업 신중년 500명에 자격증 취득 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260902149700057",
+      "pubDate": "Thu, 3 Sep 2026 07:07:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 세우타의 파도에 잠긴 모로코 청년들의 미래",
+      "link": "https://www.yna.co.kr/view/AKR20260818029500898",
+      "pubDate": "Thu, 3 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[반려동물] 반려묘 200만마리 넘었다…'습식·기능성' 펫푸드 시장 성장",
+      "link": "https://www.yna.co.kr/view/AKR20260902147800030",
+      "pubDate": "Thu, 3 Sep 2026 06:30:01 +0900"
+    },
+    {
+      "title": "공공임대 1가구당 LH 빚 2.9억…임대확대에 재무부담 커지나",
+      "link": "https://www.yna.co.kr/view/AKR20260902158500003",
+      "pubDate": "Thu, 3 Sep 2026 06:07:00 +0900"
+    },
+    {
+      "title": "상반기 수산식품 수출 21.9% 늘어 역대 최대…7월 누적 22억달러",
+      "link": "https://www.yna.co.kr/view/AKR20260902153000030",
+      "pubDate": "Thu, 3 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "title": "산업부, 추석 앞두고 가격표시제·안전관리 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260902164400003",
+      "pubDate": "Thu, 3 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "title": "외환보유액 순위 25년 만에 '슬쩍' 비공개로 돌린 한은",
+      "link": "https://www.yna.co.kr/view/AKR20260902157200002",
+      "pubDate": "Thu, 3 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "전세사기 피해 부결 97%는 '보증금 미반환 의도 불분명'",
+      "link": "https://www.yna.co.kr/view/AKR20260902152500003",
+      "pubDate": "Thu, 3 Sep 2026 05:55:02 +0900"
+    },
+    {
+      "title": "여신회사도 가계대출 목표치 소폭 상향…\"불이익 없게 선별배정\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902177700002",
+      "pubDate": "Thu, 3 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "학교 마쳤지만 학자금 대출 '미졸업' 6만명 넘어…체납액 874억",
+      "link": "https://www.yna.co.kr/view/AKR20260902146500002",
+      "pubDate": "Thu, 3 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "title": "금융권 서민금융에 4년반동안 1조5천억 출연…부실 급증에 부담도↑",
+      "link": "https://www.yna.co.kr/view/AKR20260902172500002",
+      "pubDate": "Thu, 3 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "title": "국제유가, 미·이란 공방격화에 1%안팎 상승…브렌트유 95달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260903006500072",
+      "pubDate": "Thu, 3 Sep 2026 05:10:37 +0900"
+    },
     {
       "title": "직원 등 명의로 110억 차명 예금 새마을금고 이사장 경찰 수사",
       "link": "https://www.yna.co.kr/view/AKR20260902177900004",
@@ -92,66 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 3.930%",
       "link": "https://www.yna.co.kr/view/AKR20260902149600008",
       "pubDate": "Wed, 2 Sep 2026 16:46:40 +0900"
-    },
-    {
-      "title": "美日 '안정적 엔화 관리' 강조 뒤에도 日환율·금리 상승 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260902144400073",
-      "pubDate": "Wed, 2 Sep 2026 16:39:03 +0900"
-    },
-    {
-      "title": "최태원, 일본에 반도체 투자 검토 이유는…탄탄한 소부장 생태계",
-      "link": "https://www.yna.co.kr/view/AKR20260902134300003",
-      "pubDate": "Wed, 2 Sep 2026 16:36:05 +0900"
-    },
-    {
-      "title": "GS건설 계열 아문에너지, 포항에 친환경 발전소 건립",
-      "link": "https://www.yna.co.kr/view/AKR20260902147700053",
-      "pubDate": "Wed, 2 Sep 2026 16:35:29 +0900"
-    },
-    {
-      "title": "되살아난 중동 리스크…유가·국채금리 급등에 세계증시 '덜컹'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902082551008",
-      "pubDate": "Wed, 2 Sep 2026 16:28:25 +0900"
-    },
-    {
-      "title": "[전남광주소식] 광주은행, 사회서비스 박람회 1천만원 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260902143300054",
-      "pubDate": "Wed, 2 Sep 2026 16:16:52 +0900"
-    },
-    {
-      "title": "한일 문구 브랜드 39개가 한자리에…29CM·로프트, 국내 첫 팝업",
-      "link": "https://www.yna.co.kr/view/AKR20260902140800030",
-      "pubDate": "Wed, 2 Sep 2026 16:14:13 +0900"
-    },
-    {
-      "title": "대구가톨릭대서 '경북 청년 페스타'…취업박람회·문화축제 결합",
-      "link": "https://www.yna.co.kr/view/AKR20260902142100053",
-      "pubDate": "Wed, 2 Sep 2026 16:12:07 +0900"
-    },
-    {
-      "title": "\"트럼프의 베네수엘라 석유협정 실현 가능성 희박\"",
-      "link": "https://www.yna.co.kr/view/AKR20260902139600009",
-      "pubDate": "Wed, 2 Sep 2026 16:10:08 +0900"
-    },
-    {
-      "title": "우상향하던 금값, 글로벌 금리 상승에 다시 우하향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902069151008",
-      "pubDate": "Wed, 2 Sep 2026 16:04:57 +0900"
-    },
-    {
-      "title": "내년 협동조합 예산 818억원, 역대 최대…789억원 증액",
-      "link": "https://www.yna.co.kr/view/AKR20260902129900002",
-      "pubDate": "Wed, 2 Sep 2026 16:00:01 +0900"
-    },
-    {
-      "title": "[특징주] '자사주 매입'에도 중동 긴장 재고조 속 삼전·닉스 4%대↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902041151008",
-      "pubDate": "Wed, 2 Sep 2026 15:56:32 +0900"
-    },
-    {
-      "title": "광주 챔피언스시티 아파트 분양가 평당 2천350만원",
-      "link": "https://www.yna.co.kr/view/AKR20260902129600054",
-      "pubDate": "Wed, 2 Sep 2026 15:53:22 +0900"
     }
   ]
 }
