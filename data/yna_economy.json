@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788342288,
+  "updated_at_unix": 1788357325,
   "items": [
+    {
+      "title": "직원 등 명의로 110억 차명 예금 새마을금고 이사장 경찰 수사",
+      "link": "https://www.yna.co.kr/view/AKR20260902177900004",
+      "pubDate": "Wed, 2 Sep 2026 22:12:09 +0900"
+    },
+    {
+      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260902164752002",
+      "pubDate": "Wed, 2 Sep 2026 20:08:56 +0900"
+    },
+    {
+      "title": "의료기기 제조업체 스카이랩스, 4일 코스닥 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260902168700008",
+      "pubDate": "Wed, 2 Sep 2026 18:53:51 +0900"
+    },
+    {
+      "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260902164751002",
+      "pubDate": "Wed, 2 Sep 2026 18:49:43 +0900"
+    },
+    {
+      "title": "덕산네오룩스 \"카노푸스홀딩스 주식 715억원에 추가취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20260902160900008",
+      "pubDate": "Wed, 2 Sep 2026 18:42:47 +0900"
+    },
     {
       "title": "증선위, '회계기준 위반' 금양에 감사인지정·과징금 조치",
       "link": "https://www.yna.co.kr/view/AKR20260902164700002",
@@ -127,31 +152,6 @@
       "title": "광주 챔피언스시티 아파트 분양가 평당 2천350만원",
       "link": "https://www.yna.co.kr/view/AKR20260902129600054",
       "pubDate": "Wed, 2 Sep 2026 15:53:22 +0900"
-    },
-    {
-      "title": "외국환시세(9월2일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260902131500002",
-      "pubDate": "Wed, 2 Sep 2026 15:46:56 +0900"
-    },
-    {
-      "title": "중동 불안·美금리상승에도 수출기업 매도에…환율 다시 1,360원대",
-      "link": "https://www.yna.co.kr/view/AKR20260902133100002",
-      "pubDate": "Wed, 2 Sep 2026 15:46:43 +0900"
-    },
-    {
-      "title": "[특징주] 금융주, 글로벌 금리 상승 영향에 올랐다가 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902036551008",
-      "pubDate": "Wed, 2 Sep 2026 15:46:10 +0900"
-    },
-    {
-      "title": "[특징주] 두산퓨얼셀, 美 AIDC 전력 시장 진출에도 12% 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902047051008",
-      "pubDate": "Wed, 2 Sep 2026 15:45:11 +0900"
-    },
-    {
-      "title": "[이천소식] 임금님표이천쌀, '올해의 브랜드 대상' 7회째 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260902131900061",
-      "pubDate": "Wed, 2 Sep 2026 15:38:19 +0900"
     }
   ]
 }
