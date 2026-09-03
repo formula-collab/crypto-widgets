@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788465476,
+  "updated_at_unix": 1788473551,
   "items": [
+    {
+      "title": "[머니톡스] 외국인 소문의 진실…다음 파티가 열리기 전 해야 할 일",
+      "link": "https://www.yna.co.kr/view/AKR20260903031200546",
+      "pubDate": "Fri, 4 Sep 2026 07:07:00 +0900"
+    },
+    {
+      "title": "中企 제조AI 인력 1천600명 양성…취업인턴십 12개월로 연장",
+      "link": "https://www.yna.co.kr/view/AKR20260903158600030",
+      "pubDate": "Fri, 4 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "통합 17년만에 다시 쪼개지는 LH…'공적주택' 공급 속도낼까",
+      "link": "https://www.yna.co.kr/view/AKR20260903140100003",
+      "pubDate": "Fri, 4 Sep 2026 05:59:00 +0900"
+    },
+    {
+      "title": "중동 긴장 지속에 WTI 나흘 연속 상승…브렌트유는 소폭 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260904005500072",
+      "pubDate": "Fri, 4 Sep 2026 05:13:22 +0900"
+    },
     {
       "title": "산업부·코트라, 미국 첨단기업 4곳 2.8조원 투자 유치",
       "link": "https://www.yna.co.kr/view/AKR20260903183100003",
@@ -132,26 +152,6 @@
       "title": "노란봉투법 쟁의 지침에 재계선 호남 반도체 투자 지연 우려",
       "link": "https://www.yna.co.kr/view/AKR20260903134900003",
       "pubDate": "Thu, 3 Sep 2026 16:11:58 +0900"
-    },
-    {
-      "title": "삼전·하닉, 글로벌 증시 덜컹이자 하락전환…약세로 장마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260903041851008",
-      "pubDate": "Thu, 3 Sep 2026 16:09:52 +0900"
-    },
-    {
-      "title": "국힘 \"예산·세제개편안, 폐기해야…'이재명 저수지' 안 돼\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903136200001",
-      "pubDate": "Thu, 3 Sep 2026 16:08:23 +0900"
-    },
-    {
-      "title": "韓총리 \"주택공급에 모두 한팀…어려운 지역 해결책 찾을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903133700001",
-      "pubDate": "Thu, 3 Sep 2026 16:02:58 +0900"
-    },
-    {
-      "title": "구윤철, G20 회의서 美 베선트 만나 협력 증진방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260902120200002",
-      "pubDate": "Thu, 3 Sep 2026 16:00:04 +0900"
     }
   ]
 }
