@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788558874,
+  "updated_at_unix": 1788564635,
   "items": [
+    {
+      "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904132400003",
+      "pubDate": "Sat, 5 Sep 2026 08:01:00 +0900"
+    },
+    {
+      "title": "익산역 개발·원도심 발전 방향은…익산시청서 16일 타운홀미팅",
+      "link": "https://www.yna.co.kr/view/AKR20260904093200055",
+      "pubDate": "Sat, 5 Sep 2026 08:00:06 +0900"
+    },
+    {
+      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
+      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
+      "pubDate": "Sat, 5 Sep 2026 07:17:01 +0900"
+    },
+    {
+      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
+      "pubDate": "Sat, 5 Sep 2026 07:11:12 +0900"
+    },
+    {
+      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
+      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
+      "pubDate": "Sat, 5 Sep 2026 07:10:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
+      "link": "https://www.yna.co.kr/view/AKR20260904119500003",
+      "pubDate": "Sat, 5 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
+      "link": "https://www.yna.co.kr/view/AKR20260903167500030",
+      "pubDate": "Sat, 5 Sep 2026 07:00:07 +0900"
+    },
+    {
+      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
+      "link": "https://www.yna.co.kr/view/AKR20260904058700030",
+      "pubDate": "Sat, 5 Sep 2026 07:00:05 +0900"
+    },
     {
       "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
       "link": "https://www.yna.co.kr/view/AKR20260904115700063",
@@ -112,46 +152,6 @@
       "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\"",
       "link": "https://www.yna.co.kr/view/AKR20260904131500008",
       "pubDate": "Fri, 4 Sep 2026 16:07:05 +0900"
-    },
-    {
-      "title": "이해진·브룩필드 회장 만났다…'1GW AI 팩토리' 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20260904131000017",
-      "pubDate": "Fri, 4 Sep 2026 16:06:21 +0900"
-    },
-    {
-      "title": "현대건설, 목동10단지 재건축에 '디에이치' 브랜드 적용",
-      "link": "https://www.yna.co.kr/view/AKR20260904131600003",
-      "pubDate": "Fri, 4 Sep 2026 16:03:27 +0900"
-    },
-    {
-      "title": "[동정] 김윤덕 국토장관, 전북·새만금 기업 R&D 참여 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260904130700003",
-      "pubDate": "Fri, 4 Sep 2026 16:00:09 +0900"
-    },
-    {
-      "title": "코스피200 변동성지수, 40선 아래 마감…6개월여만 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904100851008",
-      "pubDate": "Fri, 4 Sep 2026 15:58:08 +0900"
-    },
-    {
-      "title": "미국발 훈풍에 살아난 매수세…삼전·닉스, 2∼3%대 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904035851008",
-      "pubDate": "Fri, 4 Sep 2026 15:56:38 +0900"
-    },
-    {
-      "title": "엔화 강세에…원/달러 환율 14개월 만에 장중 1,340원대로",
-      "link": "https://www.yna.co.kr/view/AKR20260904124900002",
-      "pubDate": "Fri, 4 Sep 2026 15:56:05 +0900"
-    },
-    {
-      "title": "사토시홀딩스, 167억원 유상증자…루센트투자조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260904129000008",
-      "pubDate": "Fri, 4 Sep 2026 15:54:04 +0900"
-    },
-    {
-      "title": "[게시판] 부동산원, 금융기관 대상 ESG 금융지원 서비스 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260904128700003",
-      "pubDate": "Fri, 4 Sep 2026 15:51:19 +0900"
     }
   ]
 }
