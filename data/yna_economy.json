@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788550947,
+  "updated_at_unix": 1788558874,
   "items": [
+    {
+      "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260904115700063",
+      "pubDate": "Sat, 5 Sep 2026 06:05:01 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 서울 성북 브라운스톤월곡센트럴 등 2천852가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260904126400003",
+      "pubDate": "Sat, 5 Sep 2026 06:05:00 +0900"
+    },
+    {
+      "title": "바브엘만데브 해협까지 불안…국제유가 상승세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260905005600072",
+      "pubDate": "Sat, 5 Sep 2026 05:16:06 +0900"
+    },
     {
       "title": "'농심 3세' 신상열 부사장, SK텔레콤 평사원과 13일 결혼",
       "link": "https://www.yna.co.kr/view/AKR20260904165600030",
@@ -137,21 +152,6 @@
       "title": "[게시판] 부동산원, 금융기관 대상 ESG 금융지원 서비스 설명회",
       "link": "https://www.yna.co.kr/view/AKR20260904128700003",
       "pubDate": "Fri, 4 Sep 2026 15:51:19 +0900"
-    },
-    {
-      "title": "[특징주] 비트코인 8만 달러 돌파에 관련주 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904036051008",
-      "pubDate": "Fri, 4 Sep 2026 15:48:34 +0900"
-    },
-    {
-      "title": "[특징주] 보험주, 美금리동결 가능성 부각에 줄줄이 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904044151008",
-      "pubDate": "Fri, 4 Sep 2026 15:47:55 +0900"
-    },
-    {
-      "title": "[게시판] 은행연합회, 육군 5사단 장병들에 위문금",
-      "link": "https://www.yna.co.kr/view/AKR20260904126300002",
-      "pubDate": "Fri, 4 Sep 2026 15:43:05 +0900"
     }
   ]
 }
