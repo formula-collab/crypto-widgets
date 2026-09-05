@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788640288,
+  "updated_at_unix": 1788647165,
   "items": [
+    {
+      "title": "\"추석 차례상 비용 전통시장서 30만원대…작년보다 소폭 상승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905013100030",
+      "pubDate": "Sun, 6 Sep 2026 07:00:00 +0900"
+    },
+    {
+      "title": "추석 앞둔 9월 크레딧 시장…수급 우려 속 '선별적 흥행' 이어질까",
+      "link": "https://www.yna.co.kr/view/AKR20260905020600008",
+      "pubDate": "Sun, 6 Sep 2026 06:35:00 +0900"
+    },
+    {
+      "title": "실적 호조에도 패션 기업 고용 양극화…무신사만 '대규모 증원'",
+      "link": "https://www.yna.co.kr/view/AKR20260905048400030",
+      "pubDate": "Sun, 6 Sep 2026 06:31:01 +0900"
+    },
+    {
+      "title": "내년초까지 슈퍼 엘니뇨…\"수혜주 일괄 매수보다 가격 전가력 봐야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905018100008",
+      "pubDate": "Sun, 6 Sep 2026 06:30:00 +0900"
+    },
+    {
+      "title": "대형주 중심으로 쏠리는 증권사 기업분석…신규 상장사 '소외'",
+      "link": "https://www.yna.co.kr/view/AKR20260905001300008",
+      "pubDate": "Sun, 6 Sep 2026 06:25:00 +0900"
+    },
+    {
+      "title": "코스피 불장에 주택도시기금도 '쏠쏠'…올 상반기 1.2조 수익",
+      "link": "https://www.yna.co.kr/view/AKR20260904116300003",
+      "pubDate": "Sun, 6 Sep 2026 06:21:01 +0900"
+    },
+    {
+      "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+      "link": "https://www.yna.co.kr/view/AKR20260904157200530",
+      "pubDate": "Sun, 6 Sep 2026 06:06:02 +0900"
+    },
+    {
+      "title": "상폐기준 강화에 '소액주주 300만명·보유액 8조원' 영향권",
+      "link": "https://www.yna.co.kr/view/AKR20260904177000008",
+      "pubDate": "Sun, 6 Sep 2026 06:05:00 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 오픈AI발 인공지능 혁신…韓반도체 다시 뛰나",
+      "link": "https://www.yna.co.kr/view/AKR20260905021700008",
+      "pubDate": "Sun, 6 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "이마트, '호주산 LA식 꽃갈비 세트' 9만9천원대 판매",
+      "link": "https://www.yna.co.kr/view/AKR20260905017400030",
+      "pubDate": "Sun, 6 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "추석 앞두고 한우 가격 고공행진…등심 소비자가 22% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260905017000030",
+      "pubDate": "Sun, 6 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "\"국세청 해외계좌 미신고 제보포상 11년간 3건뿐…유명무실\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905019100002",
+      "pubDate": "Sun, 6 Sep 2026 05:59:12 +0900"
+    },
+    {
+      "title": "'빚투' 속에 50대 이상 보험계약대출·카드론 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260905046700002",
+      "pubDate": "Sun, 6 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "서울시 '달빛야장' 키워 야간경제 살린다…도로점용 등 제도화",
+      "link": "https://www.yna.co.kr/view/AKR20260905023000004",
+      "pubDate": "Sun, 6 Sep 2026 05:55:05 +0900"
+    },
+    {
+      "title": "서민금융안정기금 내년 도입 사실상 무산…출연 연장만",
+      "link": "https://www.yna.co.kr/view/AKR20260905049400002",
+      "pubDate": "Sun, 6 Sep 2026 05:55:02 +0900"
+    },
+    {
+      "title": "23개월 만에 최저 환율에…기업 달러예금 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260905048200002",
+      "pubDate": "Sun, 6 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260905028800002",
+      "pubDate": "Sun, 6 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "title": "반도체 특수에 韓 경상 흑자율 20% 근접할 듯…대만 바짝 추격",
+      "link": "https://www.yna.co.kr/view/AKR20260905026200002",
+      "pubDate": "Sun, 6 Sep 2026 05:49:00 +0900"
+    },
+    {
+      "title": "무디스 \"9년 만에 재정흑자…미래대응기금 신용에 우호적\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905024300002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:04 +0900"
+    },
+    {
+      "title": "2030년 적자성 채무 1천300조대…나랏빚 이자비용 50조 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260905042200002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
+    },
+    {
+      "title": "국가보증·공공기관 부채 눈덩이…'그림자 부채' 4년뒤 1천155조",
+      "link": "https://www.yna.co.kr/view/AKR20260905039500002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:03 +0900"
+    },
+    {
+      "title": "'하후상박' 개편 기초연금, 2030년 지출 30조원 돌파 전망",
+      "link": "https://www.yna.co.kr/view/AKR20260905031400002",
+      "pubDate": "Sun, 6 Sep 2026 05:47:01 +0900"
+    },
+    {
+      "title": "집값 안 꺾이면 2030년 강북·금천·도봉 뺀 서울 전역 종부세",
+      "link": "https://www.yna.co.kr/view/AKR20260905020900002",
+      "pubDate": "Sun, 6 Sep 2026 05:45:00 +0900"
+    },
     {
       "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260905034151002",
@@ -37,121 +152,6 @@
       "title": "[민선9기 서울] 김길성 중구청장 \"깜깜한 정동길에 경관조명 비춰 명소화\"",
       "link": "https://www.yna.co.kr/view/AKR20260904092200004",
       "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
-    },
-    {
-      "title": "\"공공임대주택으로 주거 안정화…한국형 '빈 모델' 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904166500002",
-      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[다음주 경제] 취업자 얼마나 늘었을까…2분기 GDP 성장률 잠정치 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260905014100002",
-      "pubDate": "Sat, 5 Sep 2026 08:55:39 +0900"
-    },
-    {
-      "title": "울산시, 중소기업·소상공인에 760억 경영안정자금 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260904157500057",
-      "pubDate": "Sat, 5 Sep 2026 08:30:01 +0900"
-    },
-    {
-      "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904132400003",
-      "pubDate": "Sat, 5 Sep 2026 08:01:00 +0900"
-    },
-    {
-      "title": "익산역 개발·원도심 발전 방향은…익산시청서 16일 타운홀미팅",
-      "link": "https://www.yna.co.kr/view/AKR20260904093200055",
-      "pubDate": "Sat, 5 Sep 2026 08:00:06 +0900"
-    },
-    {
-      "title": "\"철거권 줄게\"…가짜서류로 5억 가로챈 일당 2심도 징역형 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260904057100065",
-      "pubDate": "Sat, 5 Sep 2026 07:17:01 +0900"
-    },
-    {
-      "title": "대구세관, 추석 앞두고 24시간 수출입 통관 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260904093900053",
-      "pubDate": "Sat, 5 Sep 2026 07:11:12 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 목적지 로테르담항 파업…귀환 일정 지연되나",
-      "link": "https://www.yna.co.kr/view/AKR20260904107200051",
-      "pubDate": "Sat, 5 Sep 2026 07:10:01 +0900"
-    },
-    {
-      "title": "주유소 기름값 16주째 하락…휘발유 1천860원·경유 1천845원",
-      "link": "https://www.yna.co.kr/view/AKR20260904119500003",
-      "pubDate": "Sat, 5 Sep 2026 07:01:01 +0900"
-    },
-    {
-      "title": "[금주핫템] 후아유 '슬래커 인 폴 후드집업'·자주 '클라우드 파자마'",
-      "link": "https://www.yna.co.kr/view/AKR20260903167500030",
-      "pubDate": "Sat, 5 Sep 2026 07:00:07 +0900"
-    },
-    {
-      "title": "[신상잇슈] 뚜레쥬르 '글로우 오브 시티'·면사랑 중식·양식 냉동소스",
-      "link": "https://www.yna.co.kr/view/AKR20260904058700030",
-      "pubDate": "Sat, 5 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "title": "문서 나르고 청사서 당직은 옛말…AI·드론 전문인력은 수요 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260904115700063",
-      "pubDate": "Sat, 5 Sep 2026 06:05:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 서울 성북 브라운스톤월곡센트럴 등 2천852가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260904126400003",
-      "pubDate": "Sat, 5 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "title": "바브엘만데브 해협까지 불안…국제유가 상승세 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260905005600072",
-      "pubDate": "Sat, 5 Sep 2026 05:16:06 +0900"
-    },
-    {
-      "title": "'농심 3세' 신상열 부사장, SK텔레콤 평사원과 13일 결혼",
-      "link": "https://www.yna.co.kr/view/AKR20260904165600030",
-      "pubDate": "Fri, 4 Sep 2026 19:10:18 +0900"
-    },
-    {
-      "title": "중기부, '제32차 APEC 中企 장관회의'서 한국 AI 정책 공유",
-      "link": "https://www.yna.co.kr/view/AKR20260904049100030",
-      "pubDate": "Fri, 4 Sep 2026 19:00:00 +0900"
-    },
-    {
-      "title": "하겐다즈, 성수에 '크루즈' 띄운다…13일까지 팝업스토어",
-      "link": "https://www.yna.co.kr/view/AKR20260904155800030",
-      "pubDate": "Fri, 4 Sep 2026 18:26:36 +0900"
-    },
-    {
-      "title": "[부고] 이종렬(전 한국은행 부총재보)씨 부친상",
-      "link": "https://www.yna.co.kr/view/AKR20260904160100002",
-      "pubDate": "Fri, 4 Sep 2026 18:14:02 +0900"
-    },
-    {
-      "title": "\"홍지선, 주택담보대출에 처가 돈 빌려 산 아파트 1년 새 4억↑\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904157900001",
-      "pubDate": "Fri, 4 Sep 2026 18:08:02 +0900"
-    },
-    {
-      "title": "지엔씨에너지 \"케이씨에이브릿지신기술조합에 300억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904156100008",
-      "pubDate": "Fri, 4 Sep 2026 18:00:06 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260904149800011",
-      "pubDate": "Fri, 4 Sep 2026 18:00:00 +0900"
-    },
-    {
-      "title": "제주 리조트 노동자 오래 일할 수 있게…정부·원하청 힘 모은다",
-      "link": "https://www.yna.co.kr/view/AKR20260904094500530",
-      "pubDate": "Fri, 4 Sep 2026 17:40:01 +0900"
-    },
-    {
-      "title": "강원도·신한은행 \"강원 주민들에 밀착형 복합 금융지원 제공\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904124051002",
-      "pubDate": "Fri, 4 Sep 2026 17:20:25 +0900"
     }
   ]
 }
