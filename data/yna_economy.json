@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788564635,
+  "updated_at_unix": 1788572795,
   "items": [
+    {
+      "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260904147800062",
+      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260905021600011",
+      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[민선9기 서울] 김길성 중구청장 \"깜깜한 정동길에 경관조명 비춰 명소화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904092200004",
+      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "title": "\"공공임대주택으로 주거 안정화…한국형 '빈 모델' 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904166500002",
+      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "title": "[다음주 경제] 취업자 얼마나 늘었을까…2분기 GDP 성장률 잠정치 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260905014100002",
+      "pubDate": "Sat, 5 Sep 2026 08:55:39 +0900"
+    },
+    {
+      "title": "울산시, 중소기업·소상공인에 760억 경영안정자금 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904157500057",
+      "pubDate": "Sat, 5 Sep 2026 08:30:01 +0900"
+    },
     {
       "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\"",
       "link": "https://www.yna.co.kr/view/AKR20260904132400003",
@@ -122,36 +152,6 @@
       "title": "국고채 금리 대체로 하락…3년물 연 3.884%",
       "link": "https://www.yna.co.kr/view/AKR20260904142700008",
       "pubDate": "Fri, 4 Sep 2026 16:40:37 +0900"
-    },
-    {
-      "title": "금투협 비상근부회장에 김성환 한투증권 대표 선임",
-      "link": "https://www.yna.co.kr/view/AKR20260904138300008",
-      "pubDate": "Fri, 4 Sep 2026 16:29:03 +0900"
-    },
-    {
-      "title": "스타벅스 다시 살아나나…투썸과 결제액 격차 70억→19억원",
-      "link": "https://www.yna.co.kr/view/AKR20260904136100017",
-      "pubDate": "Fri, 4 Sep 2026 16:23:38 +0900"
-    },
-    {
-      "title": "사천시, 민생지원금 지급 보류…\"미래 성장 인프라 투자 우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904134600052",
-      "pubDate": "Fri, 4 Sep 2026 16:22:04 +0900"
-    },
-    {
-      "title": "'S&P 500·미 단기국채 혼합 패시브' ETF 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20260904136500008",
-      "pubDate": "Fri, 4 Sep 2026 16:20:14 +0900"
-    },
-    {
-      "title": "SKC \"美 자회사 주식 2천810억원어치 추가취득…지분율 70%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904133900008",
-      "pubDate": "Fri, 4 Sep 2026 16:14:54 +0900"
-    },
-    {
-      "title": "한국첨단소재 \"루센트 투자조합 주식 70억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904131500008",
-      "pubDate": "Fri, 4 Sep 2026 16:07:05 +0900"
     }
   ]
 }
