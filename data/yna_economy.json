@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788572795,
+  "updated_at_unix": 1788589572,
   "items": [
+    {
+      "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260905034100002",
+      "pubDate": "Sat, 5 Sep 2026 15:03:21 +0900"
+    },
+    {
+      "title": "노동장관, 제주 팝업스토어 방문…\"청년 도전·성장 적극 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905030900530",
+      "pubDate": "Sat, 5 Sep 2026 13:45:24 +0900"
+    },
+    {
+      "title": "홍지선, '영끌 주택구입' 지적에 \"시세차익 목적 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905030500003",
+      "pubDate": "Sat, 5 Sep 2026 13:29:07 +0900"
+    },
     {
       "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
       "link": "https://www.yna.co.kr/view/AKR20260904147800062",
@@ -137,21 +152,6 @@
       "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약",
       "link": "https://www.yna.co.kr/view/AKR20260904099800055",
       "pubDate": "Fri, 4 Sep 2026 17:00:01 +0900"
-    },
-    {
-      "title": "원주 의료기기 기업 15곳 현장채용…구직자와 '해피데이'",
-      "link": "https://www.yna.co.kr/view/AKR20260904036600062",
-      "pubDate": "Fri, 4 Sep 2026 17:00:00 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…美 고용지표 대기(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904142751008",
-      "pubDate": "Fri, 4 Sep 2026 16:49:24 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.884%",
-      "link": "https://www.yna.co.kr/view/AKR20260904142700008",
-      "pubDate": "Fri, 4 Sep 2026 16:40:37 +0900"
     }
   ]
 }
