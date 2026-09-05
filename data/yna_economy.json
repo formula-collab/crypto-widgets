@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788589572,
+  "updated_at_unix": 1788605212,
   "items": [
+    {
+      "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260905034151002",
+      "pubDate": "Sat, 5 Sep 2026 16:25:09 +0900"
+    },
     {
       "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
       "link": "https://www.yna.co.kr/view/AKR20260905034100002",
@@ -147,11 +152,6 @@
       "title": "강원도·신한은행 \"강원 주민들에 밀착형 복합 금융지원 제공\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260904124051002",
       "pubDate": "Fri, 4 Sep 2026 17:20:25 +0900"
-    },
-    {
-      "title": "듀켐바이오, 정읍에 343억원 규모 투자…전북도 등과 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260904099800055",
-      "pubDate": "Fri, 4 Sep 2026 17:00:01 +0900"
     }
   ]
 }
