@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788710224,
+  "updated_at_unix": 1788717365,
   "items": [
+    {
+      "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
+      "link": "https://www.yna.co.kr/view/AKR20260907001200071",
+      "pubDate": "Mon, 7 Sep 2026 01:38:33 +0900"
+    },
     {
       "title": "주진우 \"김승원 자녀, 아내 원장인 기관 취업\"…金측 \"가족폄훼\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260906033552001",
@@ -147,11 +152,6 @@
       "title": "2030년 적자성 채무 1천300조대…나랏빚 이자비용 50조 넘어(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260905042251002",
       "pubDate": "Sun, 6 Sep 2026 10:33:39 +0900"
-    },
-    {
-      "title": "불꽃축제 특수에 편의점 매출 최대 16배 뛰어…간편식 급증(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260906011251030",
-      "pubDate": "Sun, 6 Sep 2026 10:31:15 +0900"
     }
   ]
 }
