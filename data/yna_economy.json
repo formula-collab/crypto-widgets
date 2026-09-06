@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788724018,
+  "updated_at_unix": 1788731302,
   "items": [
+    {
+      "title": "'한도는 많이 금리는 낮게'…정부지침 어긴 LH 사내 주택대출",
+      "link": "https://www.yna.co.kr/view/AKR20260906049200003",
+      "pubDate": "Mon, 7 Sep 2026 06:03:05 +0900"
+    },
+    {
+      "title": "\"실업 청년 2명 중 1명 '번아웃' 경험…진로 불안 완화해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906024000003",
+      "pubDate": "Mon, 7 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "title": "금감원, 21∼22일 부산·대구서 기업공시 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260905051500002",
+      "pubDate": "Mon, 7 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "title": "롯데온, 7∼8일 앱 전용 할인 행사 '퍼스트앱더블데이'",
+      "link": "https://www.yna.co.kr/view/AKR20260906038500030",
+      "pubDate": "Mon, 7 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "롯데슈퍼, 쿠팡이츠와 손잡고 전국 170여개 점포서 퀵커머스",
+      "link": "https://www.yna.co.kr/view/AKR20260906036100030",
+      "pubDate": "Mon, 7 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "공짜 수수료로 반짝 흥행…알고보니 속 빈 '스테이블코인 잔치'",
+      "link": "https://www.yna.co.kr/view/AKR20260905041000002",
+      "pubDate": "Mon, 7 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "상위 20개 저축銀 상반기 순이익 3배로↑…유동성비율 \"정상화\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905040400002",
+      "pubDate": "Mon, 7 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "AI 전문가 뽑는 은행들…신입 공채는 갈수록 '바늘구멍'",
+      "link": "https://www.yna.co.kr/view/AKR20260906012500002",
+      "pubDate": "Mon, 7 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "title": "부동산 임대소득 올린 5세 이하 179명…기저귀도 못 뗀 아기도",
+      "link": "https://www.yna.co.kr/view/AKR20260904164400002",
+      "pubDate": "Mon, 7 Sep 2026 05:51:00 +0900"
+    },
     {
       "title": "트럼프 \"美-캐나다 달러 불균형\"…관세 이어 환율 건드리나",
       "link": "https://www.yna.co.kr/view/AKR20260907001200071",
@@ -107,51 +152,6 @@
       "title": "중기중앙회, '참 괜찮은 강소기업' 1만3천여곳 선정",
       "link": "https://www.yna.co.kr/view/AKR20260906019400030",
       "pubDate": "Sun, 6 Sep 2026 12:00:01 +0900"
-    },
-    {
-      "title": "대구경북신공항 건설 장기화에 의성 주민 불만 확산",
-      "link": "https://www.yna.co.kr/view/AKR20260906023900053",
-      "pubDate": "Sun, 6 Sep 2026 11:49:57 +0900"
-    },
-    {
-      "title": "산업부, 메가프로젝트·M.AX 이끌 실무인력 최대 50명 수혈",
-      "link": "https://www.yna.co.kr/view/AKR20260906022300003",
-      "pubDate": "Sun, 6 Sep 2026 11:35:51 +0900"
-    },
-    {
-      "title": "AI의 미래는…9∼10일 DDP서 스타트업 축제 '트라이 에브리싱'",
-      "link": "https://www.yna.co.kr/view/AKR20260906009600004",
-      "pubDate": "Sun, 6 Sep 2026 11:15:00 +0900"
-    },
-    {
-      "title": "CU, 15일부터 아시안게임 맞아 주류·간식 등 70여종 할인",
-      "link": "https://www.yna.co.kr/view/AKR20260906021600030",
-      "pubDate": "Sun, 6 Sep 2026 11:06:18 +0900"
-    },
-    {
-      "title": "'건설 추락사고 예방' 아이디어 공모전…숏폼·정책제안 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260904160300530",
-      "pubDate": "Sun, 6 Sep 2026 11:00:04 +0900"
-    },
-    {
-      "title": "내년 농촌공간정비사업 신규 지구 11월 20일까지 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260904146300030",
-      "pubDate": "Sun, 6 Sep 2026 11:00:03 +0900"
-    },
-    {
-      "title": "\"반도체 호황에도 내수는 뒷걸음…통화정책 과잉대응 경계해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905051300002",
-      "pubDate": "Sun, 6 Sep 2026 11:00:01 +0900"
-    },
-    {
-      "title": "코트라, 중국 정저우·창사서 '2026 프랜차이즈 로드쇼'",
-      "link": "https://www.yna.co.kr/view/AKR20260906016300003",
-      "pubDate": "Sun, 6 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "title": "2030년 적자성 채무 1천300조대…나랏빚 이자비용 50조 넘어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905042251002",
-      "pubDate": "Sun, 6 Sep 2026 10:33:39 +0900"
     }
   ]
 }
