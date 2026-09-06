@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788731302,
+  "updated_at_unix": 1788736729,
   "items": [
+    {
+      "title": "부울경 일자리 사업 '광역이음 프로젝트' 출범…125억원 투입",
+      "link": "https://www.yna.co.kr/view/AKR20260907015100051",
+      "pubDate": "Mon, 7 Sep 2026 08:09:56 +0900"
+    },
+    {
+      "title": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260907016300008",
+      "pubDate": "Mon, 7 Sep 2026 08:05:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260907010200011",
+      "pubDate": "Mon, 7 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "title": "AI 시대 '전력 확보' 경쟁…정부, 에너지 R&D 48% 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260904114900017",
+      "pubDate": "Mon, 7 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "\"이소영 모친, 딸 부부에 전세금 2억 빌리며 증여세 누락\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906040700001",
+      "pubDate": "Mon, 7 Sep 2026 07:00:01 +0900"
+    },
     {
       "title": "'한도는 많이 금리는 낮게'…정부지침 어긴 LH 사내 주택대출",
       "link": "https://www.yna.co.kr/view/AKR20260906049200003",
@@ -127,31 +152,6 @@
       "title": "사망 신고 다음날 금융거래 즉시 차단…'신속차단 시스템' 가동",
       "link": "https://www.yna.co.kr/view/AKR20260905043100002",
       "pubDate": "Sun, 6 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "title": "금감원, 全 금융권과 '보이스피싱 예방 주간'",
-      "link": "https://www.yna.co.kr/view/AKR20260905043500002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "title": "국세청, '호우 피해' 세금 납기 2년 연장 통영시 전체로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260905049200002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:04 +0900"
-    },
-    {
-      "title": "금융 인허가·등록 사전협의 절차 개선…서류제출 부담 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260905050800002",
-      "pubDate": "Sun, 6 Sep 2026 12:00:03 +0900"
-    },
-    {
-      "title": "K팝 아이돌이 '1일 영업사원'으로…중기중앙회, 소상공인 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260906014000030",
-      "pubDate": "Sun, 6 Sep 2026 12:00:02 +0900"
-    },
-    {
-      "title": "중기중앙회, '참 괜찮은 강소기업' 1만3천여곳 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260906019400030",
-      "pubDate": "Sun, 6 Sep 2026 12:00:01 +0900"
     }
   ]
 }
