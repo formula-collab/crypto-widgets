@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788647165,
+  "updated_at_unix": 1788652990,
   "items": [
+    {
+      "title": "\"물티슈 48배·맥주 35배\"…이마트24, 불꽃축제 매출 10배 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260906011200030",
+      "pubDate": "Sun, 6 Sep 2026 08:27:48 +0900"
+    },
+    {
+      "title": "\"야구장 포장·배달 주문 1위는 물회·육회…치킨은 3위로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906005800030",
+      "pubDate": "Sun, 6 Sep 2026 08:13:08 +0900"
+    },
+    {
+      "title": "전남광주 상무지구 도심융합특구, 반도체 배후단지로 조성",
+      "link": "https://www.yna.co.kr/view/AKR20260904136800054",
+      "pubDate": "Sun, 6 Sep 2026 08:10:02 +0900"
+    },
+    {
+      "title": "4년간 식중독 1천254건…살모넬라 매년 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20260903178900017",
+      "pubDate": "Sun, 6 Sep 2026 08:00:09 +0900"
+    },
+    {
+      "title": "수도권 공공기관 본사 168곳…지방이전 후 주택공급 활용될까",
+      "link": "https://www.yna.co.kr/view/AKR20260906005400003",
+      "pubDate": "Sun, 6 Sep 2026 07:45:19 +0900"
+    },
+    {
+      "title": "\"기차역 음식값 5년 새 24%↑…김밥 4천78원·돈가스 1만26원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906000200003",
+      "pubDate": "Sun, 6 Sep 2026 07:25:59 +0900"
+    },
+    {
+      "title": "[머니톡스] 미 국채금리의 경고…'안전지대는 없다'",
+      "link": "https://www.yna.co.kr/view/AKR20260904059600546",
+      "pubDate": "Sun, 6 Sep 2026 07:22:02 +0900"
+    },
     {
       "title": "\"추석 차례상 비용 전통시장서 30만원대…작년보다 소폭 상승\"",
       "link": "https://www.yna.co.kr/view/AKR20260905013100030",
@@ -117,41 +152,6 @@
       "title": "집값 안 꺾이면 2030년 강북·금천·도봉 뺀 서울 전역 종부세",
       "link": "https://www.yna.co.kr/view/AKR20260905020900002",
       "pubDate": "Sun, 6 Sep 2026 05:45:00 +0900"
-    },
-    {
-      "title": "9월 초 수출누계 7천94억달러…작년 연간치 넘고 1조달러 성큼(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905034151002",
-      "pubDate": "Sat, 5 Sep 2026 16:25:09 +0900"
-    },
-    {
-      "title": "9월 초 수출누계 7천억달러 돌파…작년 연간 최대 실적 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20260905034100002",
-      "pubDate": "Sat, 5 Sep 2026 15:03:21 +0900"
-    },
-    {
-      "title": "노동장관, 제주 팝업스토어 방문…\"청년 도전·성장 적극 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905030900530",
-      "pubDate": "Sat, 5 Sep 2026 13:45:24 +0900"
-    },
-    {
-      "title": "홍지선, '영끌 주택구입' 지적에 \"시세차익 목적 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905030500003",
-      "pubDate": "Sat, 5 Sep 2026 13:29:07 +0900"
-    },
-    {
-      "title": "태백시, 옛 농특산물직판장에 '시니어 일자리 특화타운' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20260904147800062",
-      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260905021600011",
-      "pubDate": "Sat, 5 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[민선9기 서울] 김길성 중구청장 \"깜깜한 정동길에 경관조명 비춰 명소화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904092200004",
-      "pubDate": "Sat, 5 Sep 2026 09:00:01 +0900"
     }
   ]
 }
