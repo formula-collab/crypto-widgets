@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788670309,
+  "updated_at_unix": 1788685234,
   "items": [
+    {
+      "title": "이란 제재망 '뜻밖의 구멍'은 美 은행…연간 수십억달러 통과",
+      "link": "https://www.yna.co.kr/view/AKR20260906035900009",
+      "pubDate": "Sun, 6 Sep 2026 16:31:40 +0900"
+    },
+    {
+      "title": "송미령 장관 \"추석 성수품 공급량 1.6배 확대\"…사과농장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260906011800030",
+      "pubDate": "Sun, 6 Sep 2026 16:18:47 +0900"
+    },
+    {
+      "title": "주진우 \"김승원 자녀, 아내 원장인 복지기관 취업…정부에 빨대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906033500001",
+      "pubDate": "Sun, 6 Sep 2026 16:11:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260906029000011",
+      "pubDate": "Sun, 6 Sep 2026 15:00:00 +0900"
+    },
     {
       "title": "전남광주 청년정책 핵심가치 '삶의 질'…권역별 수요는 제각각",
       "link": "https://www.yna.co.kr/view/AKR20260906026500054",
@@ -132,26 +152,6 @@
       "title": "롯데건설, 도곡우성 재건축 수주…'르엘' 브랜드 적용",
       "link": "https://www.yna.co.kr/view/AKR20260906017700003",
       "pubDate": "Sun, 6 Sep 2026 10:15:18 +0900"
-    },
-    {
-      "title": "롯데백화점, 추석 맞아 '하몽 카빙·케이터링 출장 서비스' 선봬",
-      "link": "https://www.yna.co.kr/view/AKR20260906015900030",
-      "pubDate": "Sun, 6 Sep 2026 09:54:16 +0900"
-    },
-    {
-      "title": "현대백화점그룹, 추석 앞두고 협력사 대금 2천738억원 조기 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260906015100030",
-      "pubDate": "Sun, 6 Sep 2026 09:34:00 +0900"
-    },
-    {
-      "title": "협력업체 '무관세 한도' 악용…10억대 치즈 관세 포탈",
-      "link": "https://www.yna.co.kr/view/AKR20260904130500065",
-      "pubDate": "Sun, 6 Sep 2026 09:30:02 +0900"
-    },
-    {
-      "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20260906014600003",
-      "pubDate": "Sun, 6 Sep 2026 09:27:21 +0900"
     }
   ]
 }
