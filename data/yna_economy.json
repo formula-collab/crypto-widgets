@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788785341,
+  "updated_at_unix": 1788803916,
   "items": [
+    {
+      "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908001000071",
+      "pubDate": "Tue, 8 Sep 2026 02:13:03 +0900"
+    },
     {
       "title": "美 '엔저 시정 압박' 통했나…6개월만에 달러당 154엔대로 하락(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260907072651073",
@@ -147,11 +152,6 @@
       "title": "[외환] 원/달러 환율 9.9원 내린 1,340.5원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260907118200002",
       "pubDate": "Mon, 7 Sep 2026 15:30:46 +0900"
-    },
-    {
-      "title": "민주노총 경남본부 \"원청교섭 막는 시행령·해석지침 폐기하라\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907117200052",
-      "pubDate": "Mon, 7 Sep 2026 15:30:44 +0900"
     }
   ]
 }
