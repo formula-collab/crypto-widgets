@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788803916,
+  "updated_at_unix": 1788815214,
   "items": [
+    {
+      "title": "코빗·코인원에 '개점휴업' 코인만 100여개…푼돈 거래에 급등락",
+      "link": "https://www.yna.co.kr/view/AKR20260907155700002",
+      "pubDate": "Tue, 8 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "\"포용금융, 차주 맞춤형 접근해야…건전성과 보완 여지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907154800002",
+      "pubDate": "Tue, 8 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "소상공인 매출 늘었지만 이익률 2분기째 하락…연체도 증가",
+      "link": "https://www.yna.co.kr/view/AKR20260907151700002",
+      "pubDate": "Tue, 8 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
+      "link": "https://www.yna.co.kr/view/AKR20260907148200002",
+      "pubDate": "Tue, 8 Sep 2026 05:51:01 +0900"
+    },
     {
       "title": "美노동절 기름값 사상최고…\"이란전탓 소비자 135조원 추가부담\"",
       "link": "https://www.yna.co.kr/view/AKR20260908001000071",
@@ -132,26 +152,6 @@
       "title": "[특징주] 반도체 훈풍에 관련 '소부장주' 급등 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260907040051008",
       "pubDate": "Mon, 7 Sep 2026 15:43:56 +0900"
-    },
-    {
-      "title": "외국환시세(9월7일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260907119900002",
-      "pubDate": "Mon, 7 Sep 2026 15:40:46 +0900"
-    },
-    {
-      "title": "[고양소식] '스타트업 팝업스토어' 참가기업 15개 사 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260907113000060",
-      "pubDate": "Mon, 7 Sep 2026 15:40:00 +0900"
-    },
-    {
-      "title": "[게시판] NH농협은행, 고령층 대상 보이스피싱 보상보험 가입지원 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260907118000002",
-      "pubDate": "Mon, 7 Sep 2026 15:30:54 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 9.9원 내린 1,340.5원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260907118200002",
-      "pubDate": "Mon, 7 Sep 2026 15:30:46 +0900"
     }
   ]
 }
