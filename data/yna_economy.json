@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788894285,
+  "updated_at_unix": 1788904587,
   "items": [
+    {
+      "title": "쿠팡, 유출 사태후 더 커졌다…결제액 5조원대·이용자도 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260908131500017",
+      "pubDate": "Wed, 9 Sep 2026 06:13:00 +0900"
+    },
+    {
+      "title": "최수진 \"공영홈쇼핑, 외국산 홍어를 국산으로 속여 3억원 팔아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908141200030",
+      "pubDate": "Wed, 9 Sep 2026 06:11:11 +0900"
+    },
+    {
+      "title": "대출한도 높이려 '업계약' 불사…부동산 교란행위 5년반만 1천건",
+      "link": "https://www.yna.co.kr/view/AKR20260908159000003",
+      "pubDate": "Wed, 9 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[게시판] 농식품부, 대국민 농업·농촌 R&D 아이디어 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260908121900030",
+      "pubDate": "Wed, 9 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "title": "[게시판] 산업부·우리은행 \"중견기업 45개사에 5천480억원 금융 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908124000003",
+      "pubDate": "Wed, 9 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "title": "[소셜＋] \"마지막 말 미리 적어봐요\"…일상 돌아보는 유언장 쓰기 모임",
+      "link": "https://www.yna.co.kr/view/AKR20260907119400505",
+      "pubDate": "Wed, 9 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "title": "\"K-푸드 수출 늘어나는 중동…지난해 라면 수출 22% 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908146700030",
+      "pubDate": "Wed, 9 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "건축·도시계획에 AI 접목…정부, 'K-AI 시티' 본격 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260908154400003",
+      "pubDate": "Wed, 9 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "\"국가장학금 수혜자, 대학 졸업 후 첫 월급 3% 더 받아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908161100002",
+      "pubDate": "Wed, 9 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "작년 유흥업소서 긁은 법카 5천516억원…룸살롱서 3천26억 썼다",
+      "link": "https://www.yna.co.kr/view/AKR20260908147600002",
+      "pubDate": "Wed, 9 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "전국 은행 ATM 상반기 636개 감소…3년 반 새 16%↓",
+      "link": "https://www.yna.co.kr/view/AKR20260908161200002",
+      "pubDate": "Wed, 9 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "청년 월세지원 '개점휴업'…주금공 특례보증 2년 넘게 4건 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260908149000002",
+      "pubDate": "Wed, 9 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "title": "'나사빠진' 기업은행…영장에도 금융사고 몰라, 사고 뒤 또 대출",
+      "link": "https://www.yna.co.kr/view/AKR20260908137700002",
+      "pubDate": "Wed, 9 Sep 2026 05:47:00 +0900"
+    },
+    {
+      "title": "'긴축의 무게' 금리 0.5%p 오르면 가계 이자 연 6.5조원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260908155700002",
+      "pubDate": "Wed, 9 Sep 2026 05:45:01 +0900"
+    },
+    {
+      "title": "李대통령, 韓佛 비즈니스라운드테이블…이재용 등 재계 집결(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260908166251001",
+      "pubDate": "Wed, 9 Sep 2026 05:20:34 +0900"
+    },
+    {
+      "title": "후티, 사우디 정유시설 폭격…브렌트유 100달러 목전",
+      "link": "https://www.yna.co.kr/view/AKR20260909006100072",
+      "pubDate": "Wed, 9 Sep 2026 04:29:57 +0900"
+    },
     {
       "title": "[부고] 최운열(한국공인회계사회 회장)씨 부인상",
       "link": "https://www.yna.co.kr/view/AKR20260908173300002",
@@ -72,86 +152,6 @@
       "title": "국고채 금리 대체로 상승…3년물 연 3.901%",
       "link": "https://www.yna.co.kr/view/AKR20260908141900008",
       "pubDate": "Tue, 8 Sep 2026 16:40:46 +0900"
-    },
-    {
-      "title": "LH, 서울 도심에 3년간 매입임대 2만가구 공급",
-      "link": "https://www.yna.co.kr/view/AKR20260908132500003",
-      "pubDate": "Tue, 8 Sep 2026 16:30:01 +0900"
-    },
-    {
-      "title": "익산시, 농기계 임대료에 '지역사랑상품권' 결제 도입",
-      "link": "https://www.yna.co.kr/view/AKR20260908137000055",
-      "pubDate": "Tue, 8 Sep 2026 16:23:45 +0900"
-    },
-    {
-      "title": "한투 앱에서 가상자산 시세 제공…접점 넓히는 코인원·한투",
-      "link": "https://www.yna.co.kr/view/AKR20260908133800002",
-      "pubDate": "Tue, 8 Sep 2026 16:15:27 +0900"
-    },
-    {
-      "title": "대한항공, 회사채 수요예측서 4천630억원 몰려…모집예정액 2배",
-      "link": "https://www.yna.co.kr/view/AKR20260908133900008",
-      "pubDate": "Tue, 8 Sep 2026 16:14:30 +0900"
-    },
-    {
-      "title": "韓총리 \"소비자 전 분야 걸쳐 집단소송제도 도입 추진\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908129300001",
-      "pubDate": "Tue, 8 Sep 2026 16:11:17 +0900"
-    },
-    {
-      "title": "한·아프리카 경제회의 개막…장관급 대화·민간협력 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260908110800002",
-      "pubDate": "Tue, 8 Sep 2026 16:00:01 +0900"
-    },
-    {
-      "title": "엔화 강세에도 유가 상승 등에 환율 상승…1,345.6원",
-      "link": "https://www.yna.co.kr/view/AKR20260908128900002",
-      "pubDate": "Tue, 8 Sep 2026 15:56:07 +0900"
-    },
-    {
-      "title": "[바이오스냅] 한미사이언스, '케어미 식이섬유 영양식' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260908127800017",
-      "pubDate": "Tue, 8 Sep 2026 15:47:46 +0900"
-    },
-    {
-      "title": "대구시-신용보증기금-iM뱅크, 취약업종에 1천억 규모 금융지원",
-      "link": "https://www.yna.co.kr/view/AKR20260908127300053",
-      "pubDate": "Tue, 8 Sep 2026 15:40:38 +0900"
-    },
-    {
-      "title": "브렌트유 다시 100달러 육박…호르무즈 긴장 고조",
-      "link": "https://www.yna.co.kr/view/AKR20260908125300009",
-      "pubDate": "Tue, 8 Sep 2026 15:38:31 +0900"
-    },
-    {
-      "title": "외국환시세(9월8일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260908126300002",
-      "pubDate": "Tue, 8 Sep 2026 15:37:01 +0900"
-    },
-    {
-      "title": "SH, 마곡산업단지내 복합용지 33필지 공급…\"피지컬AI 시험대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908125500004",
-      "pubDate": "Tue, 8 Sep 2026 15:36:33 +0900"
-    },
-    {
-      "title": "[특징주] 카프로, 상폐 정리매매 첫날 90% 이상 추락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260908042351008",
-      "pubDate": "Tue, 8 Sep 2026 15:36:02 +0900"
-    },
-    {
-      "title": "대구서 '국제물주간' 행사…물·첨단 산업 연결의 장",
-      "link": "https://www.yna.co.kr/view/AKR20260908123000053",
-      "pubDate": "Tue, 8 Sep 2026 15:30:51 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 5.1원 오른 1,345.6원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20260908124200002",
-      "pubDate": "Tue, 8 Sep 2026 15:30:42 +0900"
-    },
-    {
-      "title": "공정위-EU 경쟁총국과 경쟁정책·최근 법 집행 동향 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260908043800002",
-      "pubDate": "Tue, 8 Sep 2026 15:30:01 +0900"
     }
   ]
 }
