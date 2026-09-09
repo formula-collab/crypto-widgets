@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788982350,
+  "updated_at_unix": 1788991419,
   "items": [
+    {
+      "title": "끊이지 않는 설계공모 '로비' 논란…징계받고도 심사위원으로",
+      "link": "https://www.yna.co.kr/view/AKR20260909159700003",
+      "pubDate": "Thu, 10 Sep 2026 06:03:00 +0900"
+    },
+    {
+      "title": "검역본부, 아태 12개국 참여 동물질병 진단·항생제 내성 워크숍",
+      "link": "https://www.yna.co.kr/view/AKR20260909128800030",
+      "pubDate": "Thu, 10 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "title": "[게시판] 농식품부, 동물복지기본법 제정 토론회 내일 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260909118800030",
+      "pubDate": "Thu, 10 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "title": "\"국내 생산·청년 고용 늘리려면 세제지원 실효성 높여야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909142700003",
+      "pubDate": "Thu, 10 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "2분기 증시 '불장'에…증권사 순이익 5조 돌파, 또 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260909180200002",
+      "pubDate": "Thu, 10 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "토큰증권 시행 앞두고 '상품 부족' 풀릴까…與 법안 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260909177000002",
+      "pubDate": "Thu, 10 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "\"전세난·집값 불안\" 서울 생애최초 주택 구입 비중 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260909170300003",
+      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "금감원, 보험사 '분쟁 민원 관리' 현장점검…KB·DB손보 첫 타자",
+      "link": "https://www.yna.co.kr/view/AKR20260909186300002",
+      "pubDate": "Thu, 10 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "2030대 8명 중 1명 \"주식·채권으로 노후준비\"…14년새 5배로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260909155100002",
+      "pubDate": "Thu, 10 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "\"사업자대출 받아 부동산 매매\"…용도 외 유용 5년여간 1천167건",
+      "link": "https://www.yna.co.kr/view/AKR20260909181800002",
+      "pubDate": "Thu, 10 Sep 2026 05:51:01 +0900"
+    },
     {
       "title": "[부고] 장지연(건영씨앤피 대표)씨 모친상",
       "link": "https://www.yna.co.kr/view/AKR20260909185200003",
@@ -102,56 +152,6 @@
       "title": "CSA 코스믹 \"피엘오조합 주식 41억원에 추가취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20260909165000008",
       "pubDate": "Wed, 9 Sep 2026 17:26:14 +0900"
-    },
-    {
-      "title": "'수출 양극화' 막는다…중소·중견 무역금융 내년 140조로 확대(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909031151003",
-      "pubDate": "Wed, 9 Sep 2026 17:18:54 +0900"
-    },
-    {
-      "title": "사조푸디스트, 덕유산·고창고인돌휴게소서 특산물 신메뉴 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260909154500030",
-      "pubDate": "Wed, 9 Sep 2026 16:56:25 +0900"
-    },
-    {
-      "title": "'유가상승·美CPI 경계' 국고채 금리 상승…3년물 연 3.910%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909154251008",
-      "pubDate": "Wed, 9 Sep 2026 16:55:23 +0900"
-    },
-    {
-      "title": "고양시, 카카오 공공혁신 어워즈 '예산 절감' 분야 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260909156600060",
-      "pubDate": "Wed, 9 Sep 2026 16:51:32 +0900"
-    },
-    {
-      "title": "법원, 공정위의 '한화 내부거래' 조사중 자료제출명령 효력정지",
-      "link": "https://www.yna.co.kr/view/AKR20260909155500004",
-      "pubDate": "Wed, 9 Sep 2026 16:47:09 +0900"
-    },
-    {
-      "title": "충북도·청주시, 코스메카코리아와 2천억 규모 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20260909154600064",
-      "pubDate": "Wed, 9 Sep 2026 16:45:57 +0900"
-    },
-    {
-      "title": "타임 \"차이나AI테크액티브, 중화권 투자 ETF중 1년 수익률 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909151900008",
-      "pubDate": "Wed, 9 Sep 2026 16:40:49 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.910%",
-      "link": "https://www.yna.co.kr/view/AKR20260909154200008",
-      "pubDate": "Wed, 9 Sep 2026 16:40:16 +0900"
-    },
-    {
-      "title": "한화오션 하반기 생산직 신입사원 채용…15일까지 서류 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260909152000052",
-      "pubDate": "Wed, 9 Sep 2026 16:37:12 +0900"
-    },
-    {
-      "title": "\"주주환원 확대에 은행 자본관리 부담↑…신용등급 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909148900008",
-      "pubDate": "Wed, 9 Sep 2026 16:36:53 +0900"
     }
   ]
 }
