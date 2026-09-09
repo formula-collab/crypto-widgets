@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1788955293,
+  "updated_at_unix": 1788972413,
   "items": [
+    {
+      "title": "[부고] 장지연(건영씨앤피 대표)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260909185200003",
+      "pubDate": "Wed, 9 Sep 2026 21:35:18 +0900"
+    },
+    {
+      "title": "법원, 공정위의 '한화 내부거래' 조사중 자료제출명령 효력정지(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260909155551004",
+      "pubDate": "Wed, 9 Sep 2026 21:31:24 +0900"
+    },
     {
       "title": "금융위, 동양생명 '신정법 위반' 과징금 1천400억→70억 감경",
       "link": "https://www.yna.co.kr/view/AKR20260909177700002",
@@ -14,7 +24,7 @@
       "pubDate": "Wed, 9 Sep 2026 18:43:05 +0900"
     },
     {
-      "title": "김승원 의혹'에 들춰진 주식 불공정거래 실태…개미들 피눈물",
+      "title": "'김승원 의혹'에 들춰진 주식 불공정거래 실태…개미들 피눈물",
       "link": "https://www.yna.co.kr/view/AKR20260909159000008",
       "pubDate": "Wed, 9 Sep 2026 18:30:52 +0900"
     },
@@ -142,16 +152,6 @@
       "title": "\"주주환원 확대에 은행 자본관리 부담↑…신용등급 영향 제한적\"",
       "link": "https://www.yna.co.kr/view/AKR20260909148900008",
       "pubDate": "Wed, 9 Sep 2026 16:36:53 +0900"
-    },
-    {
-      "title": "[과학스냅] 과기한림원·과학기술미디어센터, 과학기술 소통 강화 협력",
-      "link": "https://www.yna.co.kr/view/AKR20260909151100017",
-      "pubDate": "Wed, 9 Sep 2026 16:32:22 +0900"
-    },
-    {
-      "title": "박홍근 \"빚은 감당할 수 있느냐가 더 중요…충분히 관리 가능\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909033751002",
-      "pubDate": "Wed, 9 Sep 2026 16:30:48 +0900"
     }
   ]
 }
