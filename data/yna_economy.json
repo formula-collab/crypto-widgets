@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789031937,
+  "updated_at_unix": 1789047749,
   "items": [
+    {
+      "title": "ECB 올해 두번째 금리 인상…\"중동전쟁 물가 압박 계속\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910169652085",
+      "pubDate": "Thu, 10 Sep 2026 22:14:39 +0900"
+    },
+    {
+      "title": "송미령 \"농지조사, 투기는 엄정 조치…경미한 위반은 유연 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910160900030",
+      "pubDate": "Thu, 10 Sep 2026 19:21:09 +0900"
+    },
+    {
+      "title": "부산 의료·교육 현장 찾은 박홍근 \"거점병원 확대가 균형발전\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910147751002",
+      "pubDate": "Thu, 10 Sep 2026 18:58:19 +0900"
+    },
+    {
+      "title": "농식품부 \"수입콩 부족분, 국산콩 할인으로 평년 수준 공급\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910159800030",
+      "pubDate": "Thu, 10 Sep 2026 18:36:21 +0900"
+    },
     {
       "title": "국가공무원 5급·외교관 후보자 2차 필기시험에 483명 합격",
       "link": "https://www.yna.co.kr/view/AKR20260910025200001",
@@ -132,26 +152,6 @@
       "title": "넥써쓰, 38억원 유상증자…케이티 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260910136200008",
       "pubDate": "Thu, 10 Sep 2026 16:10:59 +0900"
-    },
-    {
-      "title": "충남도, 8개 시군·27개사와 1조5천억원 규모 투자협약",
-      "link": "https://www.yna.co.kr/view/AKR20260910126700063",
-      "pubDate": "Thu, 10 Sep 2026 16:10:01 +0900"
-    },
-    {
-      "title": "국제유가 상승·엔화 강세…환율 3.1원 오른 1,339.2원",
-      "link": "https://www.yna.co.kr/view/AKR20260910131700002",
-      "pubDate": "Thu, 10 Sep 2026 16:08:39 +0900"
-    },
-    {
-      "title": "[특징주] 삼전닉스, 약보합 마감…기관은 사고, 외국인은 팔고(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260910039551008",
-      "pubDate": "Thu, 10 Sep 2026 16:04:27 +0900"
-    },
-    {
-      "title": "GMI벤처, 25억원 유상증자…썬힐네트웍크 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20260910134500008",
-      "pubDate": "Thu, 10 Sep 2026 16:02:46 +0900"
     }
   ]
 }
