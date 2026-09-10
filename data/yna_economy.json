@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789069946,
+  "updated_at_unix": 1789077689,
   "items": [
+    {
+      "title": "[AI프리즘] 국가전략기술 투자 45.9조인데…AIDC 심의 통과 '0건'",
+      "link": "https://www.yna.co.kr/view/AKR20260910128000017",
+      "pubDate": "Fri, 11 Sep 2026 06:30:03 +0900"
+    },
+    {
+      "title": "농식품부, 농어촌 기본소득 연계 사회연대경제 활성화 포럼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260910128100030",
+      "pubDate": "Fri, 11 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "자산운용사 2분기 순익 2.7조 '역대급'…증권사 이어 고공행진",
+      "link": "https://www.yna.co.kr/view/AKR20260910166100002",
+      "pubDate": "Fri, 11 Sep 2026 06:00:00 +0900"
+    },
     {
       "title": "ECB 올해 두번째 금리 인상…유럽 국채금리 급등(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260910169653085",
@@ -137,21 +152,6 @@
       "title": "유가 100달러 넘자 개미는 하락 베팅, 원유 인버스 ETF '사자'(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260910080051008",
       "pubDate": "Thu, 10 Sep 2026 16:28:11 +0900"
-    },
-    {
-      "title": "충북 경제기관·단체 한자리…민생안정·내수진작 해법 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260910138400064",
-      "pubDate": "Thu, 10 Sep 2026 16:23:26 +0900"
-    },
-    {
-      "title": "전남광주시금고 '시군구 영업망' 조례 통과에 광주은행 '비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260910134200054",
-      "pubDate": "Thu, 10 Sep 2026 16:15:07 +0900"
-    },
-    {
-      "title": "강원연구원·기자협회 포럼 개최…'지역 언론의 가치와 역할은'",
-      "link": "https://www.yna.co.kr/view/AKR20260910136600062",
-      "pubDate": "Thu, 10 Sep 2026 16:13:31 +0900"
     }
   ]
 }
