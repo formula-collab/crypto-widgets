@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789156356,
+  "updated_at_unix": 1789164238,
   "items": [
+    {
+      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
+      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
+      "pubDate": "Sat, 12 Sep 2026 06:33:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
+      "pubDate": "Sat, 12 Sep 2026 06:05:00 +0900"
+    },
     {
       "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
       "link": "https://www.yna.co.kr/view/AKR20260912001400071",
@@ -142,16 +152,6 @@
       "title": "국고채 금리 일제히 상승…3년물 연 4.014%",
       "link": "https://www.yna.co.kr/view/AKR20260911135700008",
       "pubDate": "Fri, 11 Sep 2026 16:41:04 +0900"
-    },
-    {
-      "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
-      "link": "https://www.yna.co.kr/view/AKR20260911125100002",
-      "pubDate": "Fri, 11 Sep 2026 16:32:03 +0900"
-    },
-    {
-      "title": "농식품부, 농산업 수출기업 해외 인허가 애로 해소 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260911060600030",
-      "pubDate": "Fri, 11 Sep 2026 16:30:01 +0900"
     }
   ]
 }
