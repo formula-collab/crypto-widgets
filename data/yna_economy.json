@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789118026,
+  "updated_at_unix": 1789134022,
   "items": [
+    {
+      "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
+      "link": "https://www.yna.co.kr/view/AKR20260911162400030",
+      "pubDate": "Fri, 11 Sep 2026 20:52:40 +0900"
+    },
+    {
+      "title": "키움증권 미 자회사, 현지서 국내 반도체 ETF 상장",
+      "link": "https://www.yna.co.kr/view/AKR20260911164500008",
+      "pubDate": "Fri, 11 Sep 2026 20:48:56 +0900"
+    },
+    {
+      "title": "염창공원 공공주택 1천가구 공급 설명회, 주민 거센 반발에 무산",
+      "link": "https://www.yna.co.kr/view/AKR20260911162300003",
+      "pubDate": "Fri, 11 Sep 2026 20:12:50 +0900"
+    },
+    {
+      "title": "\"미래기금 국채상환 기준 도입해야…현·미래세대 계정은 따로\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260911133451002",
+      "pubDate": "Fri, 11 Sep 2026 19:07:42 +0900"
+    },
+    {
+      "title": "KS인더스트리, 60억원 유상증자…상생제1호조합에 제3자배정",
+      "link": "https://www.yna.co.kr/view/AKR20260911151700008",
+      "pubDate": "Fri, 11 Sep 2026 18:32:05 +0900"
+    },
+    {
+      "title": "라포랩스 \"SK스토아 최다액출자자 변경승인 재신청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260911150700030",
+      "pubDate": "Fri, 11 Sep 2026 18:28:12 +0900"
+    },
+    {
+      "title": "원안위, 고리 3·4호기-한빛 1·2호기 사고관리계획 재논의키로",
+      "link": "https://www.yna.co.kr/view/AKR20260911141100017",
+      "pubDate": "Fri, 11 Sep 2026 18:17:44 +0900"
+    },
+    {
+      "title": "KB금융 '세대교체'에 방점…연임 대신 이재근호 깜짝 선택",
+      "link": "https://www.yna.co.kr/view/AKR20260911152500002",
+      "pubDate": "Fri, 11 Sep 2026 18:09:16 +0900"
+    },
     {
       "title": "HSBC \"도시농민공 저축률 54%…9%p 낮추면 연127조원 소비 늘어\"",
       "link": "https://www.yna.co.kr/view/AKR20260911150400083",
@@ -112,46 +152,6 @@
       "title": "강남구, 직업소개소 158곳 집중점검…\"과다요금 등 확인\"",
       "link": "https://www.yna.co.kr/view/AKR20260911128400004",
       "pubDate": "Fri, 11 Sep 2026 16:16:12 +0900"
-    },
-    {
-      "title": "한국첨단소재 \"루센트 투자조합 주식 147억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911126600008",
-      "pubDate": "Fri, 11 Sep 2026 16:15:50 +0900"
-    },
-    {
-      "title": "원주시, 스마트시티 엑스포서 'AI 특화 시범도시' 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260911127200062",
-      "pubDate": "Fri, 11 Sep 2026 16:10:46 +0900"
-    },
-    {
-      "title": "\"실물자산 토큰화로 세계 단일 시장화…빠르게 기회 포착해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911124100002",
-      "pubDate": "Fri, 11 Sep 2026 16:09:32 +0900"
-    },
-    {
-      "title": "'고전압 자격개발' HD건설기계 등 7곳, 기업자격 정부인정 수상",
-      "link": "https://www.yna.co.kr/view/AKR20260911126300530",
-      "pubDate": "Fri, 11 Sep 2026 16:09:03 +0900"
-    },
-    {
-      "title": "'에이전틱AI 관련 美기업 투자 패시브' 등 ETF 4종 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260911126400008",
-      "pubDate": "Fri, 11 Sep 2026 16:06:09 +0900"
-    },
-    {
-      "title": "[바이오스냅] 한미사이언스, '아데시' 브랜드 신제품 3종 출시",
-      "link": "https://www.yna.co.kr/view/AKR20260911077700017",
-      "pubDate": "Fri, 11 Sep 2026 16:05:51 +0900"
-    },
-    {
-      "title": "원주시, 지역 기업 재투자로 지역경제 선순환…196억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20260911125800062",
-      "pubDate": "Fri, 11 Sep 2026 16:04:13 +0900"
-    },
-    {
-      "title": "원주시, 삼양식품 찾아 수출 애로 청취…지원방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260911123900062",
-      "pubDate": "Fri, 11 Sep 2026 15:57:33 +0900"
     }
   ]
 }
