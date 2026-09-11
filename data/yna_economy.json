@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789134022,
+  "updated_at_unix": 1789147413,
   "items": [
+    {
+      "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
+      "link": "https://www.yna.co.kr/view/AKR20260912001400071",
+      "pubDate": "Sat, 12 Sep 2026 01:51:31 +0900"
+    },
+    {
+      "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260911162351003",
+      "pubDate": "Fri, 11 Sep 2026 23:28:16 +0900"
+    },
     {
       "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
       "link": "https://www.yna.co.kr/view/AKR20260911162400030",
@@ -142,16 +152,6 @@
       "title": "농식품부, 농산업 수출기업 해외 인허가 애로 해소 지원",
       "link": "https://www.yna.co.kr/view/AKR20260911060600030",
       "pubDate": "Fri, 11 Sep 2026 16:30:01 +0900"
-    },
-    {
-      "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영",
-      "link": "https://www.yna.co.kr/view/AKR20260911126500030",
-      "pubDate": "Fri, 11 Sep 2026 16:22:41 +0900"
-    },
-    {
-      "title": "강남구, 직업소개소 158곳 집중점검…\"과다요금 등 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911128400004",
-      "pubDate": "Fri, 11 Sep 2026 16:16:12 +0900"
     }
   ]
 }
