@@ -1,8 +1,133 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789242993,
+  "updated_at_unix": 1789249894,
   "items": [
+    {
+      "title": "[빈집의 재탄생] 사람 떠난 빈집이 호텔로…경주 옛 도심에 다시 사람이 온다",
+      "link": "https://www.yna.co.kr/view/AKR20260910138300053",
+      "pubDate": "Sun, 13 Sep 2026 06:45:02 +0900"
+    },
+    {
+      "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
+      "link": "https://www.yna.co.kr/view/AKR20260912024200008",
+      "pubDate": "Sun, 13 Sep 2026 06:35:00 +0900"
+    },
+    {
+      "title": "대미 투자 합의 임박…건설주, 수주 기대감에 이달 상승률 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260912017800008",
+      "pubDate": "Sun, 13 Sep 2026 06:25:00 +0900"
+    },
+    {
+      "title": "코스닥 승강제 어떻게?…'기준·종목수·혜택' 조율중",
+      "link": "https://www.yna.co.kr/view/AKR20260912024900008",
+      "pubDate": "Sun, 13 Sep 2026 06:15:00 +0900"
+    },
+    {
+      "title": "\"주문 안했는데 내이름으로 수입\"…통관부호 도용의심 2년새 4.4배",
+      "link": "https://www.yna.co.kr/view/AKR20260912022400530",
+      "pubDate": "Sun, 13 Sep 2026 06:08:01 +0900"
+    },
+    {
+      "title": "건설업 산재사망 19% 줄었지만…10건중 4건 여전히 재래식 사고",
+      "link": "https://www.yna.co.kr/view/AKR20260911119200530",
+      "pubDate": "Sun, 13 Sep 2026 06:07:02 +0900"
+    },
+    {
+      "title": "환율 급락에 반도체 이익 전망도 하락…두달 새 21조 증발",
+      "link": "https://www.yna.co.kr/view/AKR20260911137700003",
+      "pubDate": "Sun, 13 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
+      "link": "https://www.yna.co.kr/view/AKR20260912001200008",
+      "pubDate": "Sun, 13 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "title": "첫 대미투자 프로젝트 발표 임박…MOU 속 안전장치 유지될까",
+      "link": "https://www.yna.co.kr/view/AKR20260912028600003",
+      "pubDate": "Sun, 13 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "추석 성수품 가격은…'금사과'는 없지만 축산물은 여전히 비싸",
+      "link": "https://www.yna.co.kr/view/AKR20260912017200030",
+      "pubDate": "Sun, 13 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "title": "금융위, '아파텔'에도 집단대출 총량규제 제외 검토한다",
+      "link": "https://www.yna.co.kr/view/AKR20260912043100002",
+      "pubDate": "Sun, 13 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "출발선부터 격차…'슈퍼리치' 한 돌 아기 금융소득 연 4천만원",
+      "link": "https://www.yna.co.kr/view/AKR20260911170700002",
+      "pubDate": "Sun, 13 Sep 2026 05:56:00 +0900"
+    },
+    {
+      "title": "전세사기 피해자 채무조정 4천명 육박…20·30대가 90%",
+      "link": "https://www.yna.co.kr/view/AKR20260912039500002",
+      "pubDate": "Sun, 13 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "금융위 \"역외 코인으로 상품권 구매, 자금세탁 악용 소지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260911164400002",
+      "pubDate": "Sun, 13 Sep 2026 05:54:01 +0900"
+    },
+    {
+      "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260912043500002",
+      "pubDate": "Sun, 13 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
+      "link": "https://www.yna.co.kr/view/AKR20260912039000002",
+      "pubDate": "Sun, 13 Sep 2026 05:52:00 +0900"
+    },
+    {
+      "title": "KB발 '세대교체 바람' 번지나…'임기 끝' 5대 금융 CEO만 54명",
+      "link": "https://www.yna.co.kr/view/AKR20260912037000002",
+      "pubDate": "Sun, 13 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "title": "20대 취업자 외환위기 후 최대폭 감소…고용률 5년만 60% 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260912040200002",
+      "pubDate": "Sun, 13 Sep 2026 05:49:01 +0900"
+    },
+    {
+      "title": "韓 OECD 선행지수 75개월 만에 세계 1위…상승폭은 5개월째 축소",
+      "link": "https://www.yna.co.kr/view/AKR20260912047400002",
+      "pubDate": "Sun, 13 Sep 2026 05:47:00 +0900"
+    },
+    {
+      "title": "거꾸로 가는 저축銀, 4%대 예금 급감…상호금융은 최고 4.3%로↑",
+      "link": "https://www.yna.co.kr/view/AKR20260912036300002",
+      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
+    },
+    {
+      "title": "3%대 중반 넘긴 시중은행 예금 금리…대출 증가세는 꺾여",
+      "link": "https://www.yna.co.kr/view/AKR20260912049900002",
+      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
+    },
+    {
+      "title": "\"韓 전략형 국부펀드, 내년 투자가능 현금성 자산은 1조 수준\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044500002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
+    },
+    {
+      "title": "\"공시가 30억 비거주1주택 내년 종부세 1천204만원\"…429만원↑",
+      "link": "https://www.yna.co.kr/view/AKR20260912044400002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
+    },
+    {
+      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044300002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:02 +0900"
+    },
+    {
+      "title": "이형일 \"재정 적극적 역할 필요…지속 가능성에도 공감\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912044200002",
+      "pubDate": "Sun, 13 Sep 2026 05:30:01 +0900"
+    },
     {
       "title": "[동포의 창] \"학교 밖 중도 입국 청소년 체계적 지원 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20260912036500371",
@@ -27,131 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260912021000011",
       "pubDate": "Sat, 12 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "한국기술교육대 \"수시 경쟁률 비수도권 국·사립대 중 1위\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912017400063",
-      "pubDate": "Sat, 12 Sep 2026 08:53:44 +0900"
-    },
-    {
-      "title": "[다음주 경제] 수출입·생산자물가 변화는…이형일 후보자 인사청문회",
-      "link": "https://www.yna.co.kr/view/AKR20260912016600002",
-      "pubDate": "Sat, 12 Sep 2026 08:30:42 +0900"
-    },
-    {
-      "title": "공교롭게도 또 9·11에 뉴욕으로 간 산업장관…러트닉 설득할까",
-      "link": "https://www.yna.co.kr/view/AKR20260911153000003",
-      "pubDate": "Sat, 12 Sep 2026 08:15:01 +0900"
-    },
-    {
-      "title": "'기업에 긴급 수혈'…평택시, 120억원 규모 기업안정 기금 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260911108100061",
-      "pubDate": "Sat, 12 Sep 2026 08:01:01 +0900"
-    },
-    {
-      "title": "부산 청년들, '굿잡 버스' 타고 선도기업 취업 문 두드린다",
-      "link": "https://www.yna.co.kr/view/AKR20260911053600051",
-      "pubDate": "Sat, 12 Sep 2026 08:00:05 +0900"
-    },
-    {
-      "title": "주유소 기름값 17주째 하락…국제유가 상승에도 1천800원대",
-      "link": "https://www.yna.co.kr/view/AKR20260911118000003",
-      "pubDate": "Sat, 12 Sep 2026 07:05:01 +0900"
-    },
-    {
-      "title": "[르포] 추석연휴 10여일 앞둔 대구 서문시장…상인들 \"예전 대목만 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911084500053",
-      "pubDate": "Sat, 12 Sep 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[금주핫템] 유시몰 '오리지널 치약 티 에디션'·LF 빈스 '26 FW 컬렉션",
-      "link": "https://www.yna.co.kr/view/AKR20260910107100030",
-      "pubDate": "Sat, 12 Sep 2026 07:00:11 +0900"
-    },
-    {
-      "title": "[신상잇슈] 해태제과 '와샤오롱'·서울우유 '비요뜨 초코링 당저감'",
-      "link": "https://www.yna.co.kr/view/AKR20260911068100030",
-      "pubDate": "Sat, 12 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "title": "[AI돋보기] AI도 '인간 인증' 통과…이제 사람은 어떻게 증명할까",
-      "link": "https://www.yna.co.kr/view/AKR20260910129700017",
-      "pubDate": "Sat, 12 Sep 2026 06:33:00 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 천안아이파크시티 등 전국 1만1천521가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20260911130200003",
-      "pubDate": "Sat, 12 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "title": "트럼프 투표 호소한 날 경윳값 사상최고…장바구니 민심 직격탄",
-      "link": "https://www.yna.co.kr/view/AKR20260912001400071",
-      "pubDate": "Sat, 12 Sep 2026 01:51:31 +0900"
-    },
-    {
-      "title": "서울 유일 신규택지 '삐걱'…염창공원 설명회, 주민 반발로 무산(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911162351003",
-      "pubDate": "Fri, 11 Sep 2026 23:28:16 +0900"
-    },
-    {
-      "title": "농협경제지주, 하나로유통 흡수합병 추진…12년 만에 통합",
-      "link": "https://www.yna.co.kr/view/AKR20260911162400030",
-      "pubDate": "Fri, 11 Sep 2026 20:52:40 +0900"
-    },
-    {
-      "title": "키움증권 미 자회사, 현지서 국내 반도체 ETF 상장",
-      "link": "https://www.yna.co.kr/view/AKR20260911164500008",
-      "pubDate": "Fri, 11 Sep 2026 20:48:56 +0900"
-    },
-    {
-      "title": "염창공원 공공주택 1천가구 공급 설명회, 주민 거센 반발에 무산",
-      "link": "https://www.yna.co.kr/view/AKR20260911162300003",
-      "pubDate": "Fri, 11 Sep 2026 20:12:50 +0900"
-    },
-    {
-      "title": "\"미래기금 국채상환 기준 도입해야…현·미래세대 계정은 따로\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911133451002",
-      "pubDate": "Fri, 11 Sep 2026 19:07:42 +0900"
-    },
-    {
-      "title": "KS인더스트리, 60억원 유상증자…상생제1호조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260911151700008",
-      "pubDate": "Fri, 11 Sep 2026 18:32:05 +0900"
-    },
-    {
-      "title": "라포랩스 \"SK스토아 최다액출자자 변경승인 재신청\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911150700030",
-      "pubDate": "Fri, 11 Sep 2026 18:28:12 +0900"
-    },
-    {
-      "title": "원안위, 고리 3·4호기-한빛 1·2호기 사고관리계획 재논의키로",
-      "link": "https://www.yna.co.kr/view/AKR20260911141100017",
-      "pubDate": "Fri, 11 Sep 2026 18:17:44 +0900"
-    },
-    {
-      "title": "KB금융 '세대교체'에 방점…연임 대신 이재근호 깜짝 선택",
-      "link": "https://www.yna.co.kr/view/AKR20260911152500002",
-      "pubDate": "Fri, 11 Sep 2026 18:09:16 +0900"
-    },
-    {
-      "title": "HSBC \"도시농민공 저축률 54%…9%p 낮추면 연127조원 소비 늘어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911150400083",
-      "pubDate": "Fri, 11 Sep 2026 18:05:33 +0900"
-    },
-    {
-      "title": "용산구 \"용산공원에 청년주택 공급 반대…강력 대응할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911152700004",
-      "pubDate": "Fri, 11 Sep 2026 18:04:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260911142400011",
-      "pubDate": "Fri, 11 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260911135752008",
-      "pubDate": "Fri, 11 Sep 2026 17:23:24 +0900"
     }
   ]
 }
