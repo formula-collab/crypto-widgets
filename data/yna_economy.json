@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789249894,
+  "updated_at_unix": 1789255874,
   "items": [
+    {
+      "title": "'공격수·수비수·마네킹' 역할나눠 고의사고 보험사기일당 실형",
+      "link": "https://www.yna.co.kr/view/AKR20260911131700052",
+      "pubDate": "Sun, 13 Sep 2026 08:03:00 +0900"
+    },
+    {
+      "title": "1200만원짜리 취업코칭·하이닉스 대비반도…구직 청년들 '한숨'",
+      "link": "https://www.yna.co.kr/view/AKR20260912039600004",
+      "pubDate": "Sun, 13 Sep 2026 08:00:06 +0900"
+    },
+    {
+      "title": "9개월만에 수장 공백 해소하는 인천경제청…기대·우려 교차",
+      "link": "https://www.yna.co.kr/view/AKR20260911070100065",
+      "pubDate": "Sun, 13 Sep 2026 07:17:00 +0900"
+    },
+    {
+      "title": "북극항로 시범운항 선박 로테르담 도착…상업 항로 가능성 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260911127800051",
+      "pubDate": "Sun, 13 Sep 2026 07:10:02 +0900"
+    },
+    {
+      "title": "경기경제청, 시흥배곧지구 종근당 지식산업센터 건립 의결",
+      "link": "https://www.yna.co.kr/view/AKR20260911120400061",
+      "pubDate": "Sun, 13 Sep 2026 07:01:03 +0900"
+    },
+    {
+      "title": "김해공항 이용객 역대 최대에도 은행 유치 난항…수익성 악화",
+      "link": "https://www.yna.co.kr/view/AKR20260911065300051",
+      "pubDate": "Sun, 13 Sep 2026 07:01:02 +0900"
+    },
+    {
+      "title": "대중음악 파고든 인공지능…가요계, AI 탐지 프로그램 공동 도입",
+      "link": "https://www.yna.co.kr/view/AKR20260912037800005",
+      "pubDate": "Sun, 13 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260911115700061",
+      "pubDate": "Sun, 13 Sep 2026 07:00:16 +0900"
+    },
+    {
+      "title": "[마켓스토리] '전쟁·유가·금리' 삼중고…외인 셀코리아 어쩌나",
+      "link": "https://www.yna.co.kr/view/AKR20260911118800008",
+      "pubDate": "Sun, 13 Sep 2026 07:00:11 +0900"
+    },
+    {
+      "title": "[현장in] 하남-남양주 잇는 '한강 출렁다리'…남양주시 재검토에 제동?",
+      "link": "https://www.yna.co.kr/view/AKR20260911117200061",
+      "pubDate": "Sun, 13 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "양재∼올림픽대로 지하도로 뚫는다…7.65㎞ 구간에 양방향 터널",
+      "link": "https://www.yna.co.kr/view/AKR20260912020600004",
+      "pubDate": "Sun, 13 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "AI 활용곡이 멜론 톱100…조선힙합 \"저비용으로 세대 공감 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912026000005",
+      "pubDate": "Sun, 13 Sep 2026 07:00:03 +0900"
+    },
     {
       "title": "[빈집의 재탄생] 사람 떠난 빈집이 호텔로…경주 옛 도심에 다시 사람이 온다",
       "link": "https://www.yna.co.kr/view/AKR20260910138300053",
@@ -92,66 +152,6 @@
       "title": "20대 취업자 외환위기 후 최대폭 감소…고용률 5년만 60% 아래로",
       "link": "https://www.yna.co.kr/view/AKR20260912040200002",
       "pubDate": "Sun, 13 Sep 2026 05:49:01 +0900"
-    },
-    {
-      "title": "韓 OECD 선행지수 75개월 만에 세계 1위…상승폭은 5개월째 축소",
-      "link": "https://www.yna.co.kr/view/AKR20260912047400002",
-      "pubDate": "Sun, 13 Sep 2026 05:47:00 +0900"
-    },
-    {
-      "title": "거꾸로 가는 저축銀, 4%대 예금 급감…상호금융은 최고 4.3%로↑",
-      "link": "https://www.yna.co.kr/view/AKR20260912036300002",
-      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
-    },
-    {
-      "title": "3%대 중반 넘긴 시중은행 예금 금리…대출 증가세는 꺾여",
-      "link": "https://www.yna.co.kr/view/AKR20260912049900002",
-      "pubDate": "Sun, 13 Sep 2026 05:45:01 +0900"
-    },
-    {
-      "title": "\"韓 전략형 국부펀드, 내년 투자가능 현금성 자산은 1조 수준\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912044500002",
-      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
-    },
-    {
-      "title": "\"공시가 30억 비거주1주택 내년 종부세 1천204만원\"…429만원↑",
-      "link": "https://www.yna.co.kr/view/AKR20260912044400002",
-      "pubDate": "Sun, 13 Sep 2026 05:30:04 +0900"
-    },
-    {
-      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912044300002",
-      "pubDate": "Sun, 13 Sep 2026 05:30:02 +0900"
-    },
-    {
-      "title": "이형일 \"재정 적극적 역할 필요…지속 가능성에도 공감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912044200002",
-      "pubDate": "Sun, 13 Sep 2026 05:30:01 +0900"
-    },
-    {
-      "title": "[동포의 창] \"학교 밖 중도 입국 청소년 체계적 지원 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912036500371",
-      "pubDate": "Sat, 12 Sep 2026 17:15:40 +0900"
-    },
-    {
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260912036000030",
-      "pubDate": "Sat, 12 Sep 2026 16:30:00 +0900"
-    },
-    {
-      "title": "HS화성 반려동물 특화상품, '굿 디자인 코리아'에 선정",
-      "link": "https://www.yna.co.kr/view/AKR20260912029600053",
-      "pubDate": "Sat, 12 Sep 2026 14:19:40 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
-      "link": "https://www.yna.co.kr/view/AKR20260912026900051",
-      "pubDate": "Sat, 12 Sep 2026 12:38:46 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260912021000011",
-      "pubDate": "Sat, 12 Sep 2026 10:30:00 +0900"
     }
   ]
 }
