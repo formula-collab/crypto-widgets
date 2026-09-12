@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789188396,
+  "updated_at_unix": 1789203306,
   "items": [
+    {
+      "title": "[동포의 창] \"학교 밖 중도 입국 청소년 체계적 지원 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912036500371",
+      "pubDate": "Sat, 12 Sep 2026 17:15:40 +0900"
+    },
+    {
+      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260912036000030",
+      "pubDate": "Sat, 12 Sep 2026 16:30:00 +0900"
+    },
+    {
+      "title": "HS화성 반려동물 특화상품, '굿 디자인 코리아'에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260912029600053",
+      "pubDate": "Sat, 12 Sep 2026 14:19:40 +0900"
+    },
     {
       "title": "북극항로 시범운항 선박, 부산 출항 21일 만에 영국 도착",
       "link": "https://www.yna.co.kr/view/AKR20260912026900051",
@@ -137,21 +152,6 @@
       "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260911135752008",
       "pubDate": "Fri, 11 Sep 2026 17:23:24 +0900"
-    },
-    {
-      "title": "KB금융 회장 후보에 이재근…\"과감한 변화·세대교체 필요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911144500002",
-      "pubDate": "Fri, 11 Sep 2026 17:23:12 +0900"
-    },
-    {
-      "title": "금융위 \"추석 급전수요 노린 불법사금융 조심\"…예방수칙 안내",
-      "link": "https://www.yna.co.kr/view/AKR20260911143700002",
-      "pubDate": "Fri, 11 Sep 2026 17:21:08 +0900"
-    },
-    {
-      "title": "[속보] KB금융, 이재근 회장 추천하며 \"과감한 변화·세대교체 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260911143300002",
-      "pubDate": "Fri, 11 Sep 2026 17:16:54 +0900"
     }
   ]
 }
