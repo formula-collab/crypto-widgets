@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789326185,
+  "updated_at_unix": 1789334966,
   "items": [
+    {
+      "title": "농약 24배·항균제 11배…수입식품 안전 논란 되풀이",
+      "link": "https://www.yna.co.kr/view/AKR20260911088300017",
+      "pubDate": "Mon, 14 Sep 2026 06:13:00 +0900"
+    },
+    {
+      "title": "현대차 하이브리드 대미수출 70%↑…기아는 유럽 전기차 45%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260913058600003",
+      "pubDate": "Mon, 14 Sep 2026 06:05:00 +0900"
+    },
+    {
+      "title": "외식업 식재료비·인건비 비중 첫 70% 돌파…수익성 '빨간불'",
+      "link": "https://www.yna.co.kr/view/AKR20260913025000030",
+      "pubDate": "Mon, 14 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "title": "이소영 \"AI로 中企 성장잠재력 측정…성장기업 중심 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913047800030",
+      "pubDate": "Mon, 14 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "title": "재산 은닉 조사 사실 '황당' 통지…예보·코인거래소 공조실패",
+      "link": "https://www.yna.co.kr/view/AKR20260912032800002",
+      "pubDate": "Mon, 14 Sep 2026 06:01:00 +0900"
+    },
+    {
+      "title": "[소셜＋] 공무원·로스쿨마저 '토익 쏠림'…\"비싼 독주 언제까지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909132700505",
+      "pubDate": "Mon, 14 Sep 2026 06:00:18 +0900"
+    },
+    {
+      "title": "[게시판] 농식품부, 2026 동남아·중국 K-스마트팜 로드쇼 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260911142200030",
+      "pubDate": "Mon, 14 Sep 2026 06:00:18 +0900"
+    },
+    {
+      "title": "8월 서울 토지거래허가신청 3천12건…작년 10월 이래 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260912034200004",
+      "pubDate": "Mon, 14 Sep 2026 06:00:16 +0900"
+    },
+    {
+      "title": "전자담배 무인매장 청소년 출입·고용 금지된다",
+      "link": "https://www.yna.co.kr/view/AKR20260913011600530",
+      "pubDate": "Mon, 14 Sep 2026 06:00:15 +0900"
+    },
+    {
+      "title": "서울시, 지역연계 청년창업지원 '넥스트로컬' 사업화과정 33팀 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260913016100004",
+      "pubDate": "Mon, 14 Sep 2026 06:00:14 +0900"
+    },
+    {
+      "title": "제6회 디지털 지적의 날…LX, 지적재조사 책임수행기관 재지정",
+      "link": "https://www.yna.co.kr/view/AKR20260913021300003",
+      "pubDate": "Mon, 14 Sep 2026 06:00:09 +0900"
+    },
+    {
+      "title": "롯데마트·슈퍼, 나눔 러닝 행사 '통큰런'…참가비 전액 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260913040500030",
+      "pubDate": "Mon, 14 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "[게시판] 롯데멤버스, 소아암 환아 어머니 건강검진 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260913045600030",
+      "pubDate": "Mon, 14 Sep 2026 06:00:06 +0900"
+    },
+    {
+      "title": "롯데온, 추석 선물로 전통주 인기…판매량 7배↑",
+      "link": "https://www.yna.co.kr/view/AKR20260913045000030",
+      "pubDate": "Mon, 14 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데百, 손질·조리 부담 줄인 추석 간편 선물세트 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260913044000030",
+      "pubDate": "Mon, 14 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "title": "금감원 임직원 주식투자 규정 위반 6년여간 147명…징계는 4명뿐",
+      "link": "https://www.yna.co.kr/view/AKR20260912035400002",
+      "pubDate": "Mon, 14 Sep 2026 05:59:00 +0900"
+    },
+    {
+      "title": "국세청 부동산 세법 질의 급증…양도세는 작년 동기의 2배",
+      "link": "https://www.yna.co.kr/view/AKR20260913026000002",
+      "pubDate": "Mon, 14 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "'급전창구' 저축銀 중금리 생활안전대출…두달새 2천500억 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20260913045400002",
+      "pubDate": "Mon, 14 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "은행 마통 64조 썼는데 68조 더 남아…\"부채 관리 사각지대\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913036300002",
+      "pubDate": "Mon, 14 Sep 2026 05:53:03 +0900"
+    },
+    {
+      "title": "은행 마통 잔액 70조 육박…계좌 제자리인데 빚만 6조↑",
+      "link": "https://www.yna.co.kr/view/AKR20260913027400002",
+      "pubDate": "Mon, 14 Sep 2026 05:53:02 +0900"
+    },
+    {
+      "title": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
+      "link": "https://www.yna.co.kr/view/AKR20260912040500002",
+      "pubDate": "Mon, 14 Sep 2026 05:51:00 +0900"
+    },
     {
       "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260913061851071",
@@ -47,111 +152,6 @@
       "title": "이형일 \"미래대응기금, 재정안정화 장치로 기능할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260913047200002",
       "pubDate": "Sun, 13 Sep 2026 17:47:22 +0900"
-    },
-    {
-      "title": "이형일 \"법인세 인하 검토 안 해…지역별 차등은 신중해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913046200002",
-      "pubDate": "Sun, 13 Sep 2026 17:45:09 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260913034000011",
-      "pubDate": "Sun, 13 Sep 2026 15:00:00 +0900"
-    },
-    {
-      "title": "민주노총, 서울 도심서 이주노동자대회…\"차별 철폐·권리 보장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913034200004",
-      "pubDate": "Sun, 13 Sep 2026 14:51:10 +0900"
-    },
-    {
-      "title": "[부고] 문용준(새마을금고중앙회 대외협력홍보부문 차장)씨 빙부상",
-      "link": "https://www.yna.co.kr/view/AKR20260913032100002",
-      "pubDate": "Sun, 13 Sep 2026 14:00:27 +0900"
-    },
-    {
-      "title": "삼성증권, 글로벌 금융그룹 BNY와 포괄적 업무협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20260913030500008",
-      "pubDate": "Sun, 13 Sep 2026 13:10:17 +0900"
-    },
-    {
-      "title": "우주청, '스페이스 해커톤' 연다…위성 활용 아이디어 발굴",
-      "link": "https://www.yna.co.kr/view/AKR20260911097800017",
-      "pubDate": "Sun, 13 Sep 2026 12:00:16 +0900"
-    },
-    {
-      "title": "중기중앙회, '노란우산 가족사랑 동시·그림 대회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260912030600030",
-      "pubDate": "Sun, 13 Sep 2026 12:00:12 +0900"
-    },
-    {
-      "title": "[게시판] 금감원, '2026 테크파인더 쇼케이스' 참가기업 모집",
-      "link": "https://www.yna.co.kr/view/AKR20260912026100002",
-      "pubDate": "Sun, 13 Sep 2026 12:00:08 +0900"
-    },
-    {
-      "title": "[게시판] 14일부터 3분기 혁신금융서비스 지정 정기 신청",
-      "link": "https://www.yna.co.kr/view/AKR20260912033800002",
-      "pubDate": "Sun, 13 Sep 2026 12:00:08 +0900"
-    },
-    {
-      "title": "한은 \"미중 분절 속 공급망 재구성…韓, 아세안 경유 확대\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912038500002",
-      "pubDate": "Sun, 13 Sep 2026 12:00:07 +0900"
-    },
-    {
-      "title": "추석연휴 소상공인에 103조원 자금공급…연휴 상환만기 자동연장",
-      "link": "https://www.yna.co.kr/view/AKR20260912045300002",
-      "pubDate": "Sun, 13 Sep 2026 12:00:07 +0900"
-    },
-    {
-      "title": "성과급 등 대기업 노사갈등 예방교육 강화…삼성전자 등 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260911141400530",
-      "pubDate": "Sun, 13 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "title": "전역군인 취업지원 강화…한국기술교육대·국방전직교육원 통합",
-      "link": "https://www.yna.co.kr/view/AKR20260911152800530",
-      "pubDate": "Sun, 13 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "title": "구윤철 \"한-우즈벡, 최고의 동반자…지방정부 간 협력 적극지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913022500002",
-      "pubDate": "Sun, 13 Sep 2026 12:00:01 +0900"
-    },
-    {
-      "title": "하나은행, 우즈벡 투자산업통상부와 투자·금융 협력 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260913024800002",
-      "pubDate": "Sun, 13 Sep 2026 11:24:44 +0900"
-    },
-    {
-      "title": "수은, 생산적 포용금융…기술특례대출로 최대 50억 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260913023800002",
-      "pubDate": "Sun, 13 Sep 2026 11:22:11 +0900"
-    },
-    {
-      "title": "롯데면세점, 명동본점에 발렌티노·듀베티카 신규 매장",
-      "link": "https://www.yna.co.kr/view/AKR20260913025100030",
-      "pubDate": "Sun, 13 Sep 2026 11:17:47 +0900"
-    },
-    {
-      "title": "[인재유치] ② \"미국선 출연연 잘 몰라\"…한국을 택한 연구자들의 조언",
-      "link": "https://www.yna.co.kr/view/AKR20260913015400017",
-      "pubDate": "Sun, 13 Sep 2026 11:15:08 +0900"
-    },
-    {
-      "title": "[인재유치] ① \"한국 돌아갈 기회 찾는다\"…LA 한인 연구자들 출연연 주목",
-      "link": "https://www.yna.co.kr/view/AKR20260913015300017",
-      "pubDate": "Sun, 13 Sep 2026 11:15:07 +0900"
-    },
-    {
-      "title": "15∼17일 서울광장서 전국 농수특산물 직거래 '서로장터'",
-      "link": "https://www.yna.co.kr/view/AKR20260912023000004",
-      "pubDate": "Sun, 13 Sep 2026 11:15:05 +0900"
-    },
-    {
-      "title": "착한가격업소에서 서울사랑상품권 결제하면 \"10% 혜택\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912030400004",
-      "pubDate": "Sun, 13 Sep 2026 11:15:02 +0900"
     }
   ]
 }
