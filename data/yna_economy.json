@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789392426,
+  "updated_at_unix": 1789411608,
   "items": [
+    {
+      "title": "美10년물 국채금리 '심리적 저항선' 5% 돌파…2023년 후 처음(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914175352072",
+      "pubDate": "Tue, 15 Sep 2026 00:46:08 +0900"
+    },
+    {
+      "title": "우주위험 대응 빨라진다…기본계획 주기 10년→5년",
+      "link": "https://www.yna.co.kr/view/AKR20260914104500017",
+      "pubDate": "Tue, 15 Sep 2026 00:00:03 +0900"
+    },
+    {
+      "title": "美 10년물 국채 금리 5.00% 돌파…2023년 이후 처음",
+      "link": "https://www.yna.co.kr/view/AKR20260914175351072",
+      "pubDate": "Mon, 14 Sep 2026 23:40:48 +0900"
+    },
     {
       "title": "KRX 애프터마켓 첫선…개장 첫날 7천224만주·1조8천억원 거래",
       "link": "https://www.yna.co.kr/view/AKR20260914110500008",
@@ -137,21 +152,6 @@
       "title": "춘천도시공사 사장에 윤병철 전 하나카드 강원본부장 내정",
       "link": "https://www.yna.co.kr/view/AKR20260914136100062",
       "pubDate": "Mon, 14 Sep 2026 16:11:47 +0900"
-    },
-    {
-      "title": "안성시, 외국인 체납 특별정리 기간…10건 중 8건이 자동차세",
-      "link": "https://www.yna.co.kr/view/AKR20260914135500061",
-      "pubDate": "Mon, 14 Sep 2026 16:09:06 +0900"
-    },
-    {
-      "title": "[특징주] 화장품주, 원화 강세 우려 vs 수출호조에 혼조(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260914038251008",
-      "pubDate": "Mon, 14 Sep 2026 16:01:49 +0900"
-    },
-    {
-      "title": "국가기록원, 카자흐 대통령기록보존소와 기록관리 협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260914066000530",
-      "pubDate": "Mon, 14 Sep 2026 16:00:25 +0900"
     }
   ]
 }
