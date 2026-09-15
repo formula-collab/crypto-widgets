@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789499204,
+  "updated_at_unix": 1789510899,
   "items": [
+    {
+      "title": "[우리품의 아프리카인](52) '이야기꾼' 파티마 \"편해지는 한국어 뿌듯\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913059800898",
+      "pubDate": "Wed, 16 Sep 2026 07:00:06 +0900"
+    },
+    {
+      "title": "제약사 제조·품질관리 위반 반복…5년간 최대 12회 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260915122900017",
+      "pubDate": "Wed, 16 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "베선트, 美국채금리 급등에 \"글로벌 이슈때문…재정적자도 반영\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260916001751071",
+      "pubDate": "Wed, 16 Sep 2026 06:34:48 +0900"
+    },
+    {
+      "title": "정기검사 제때 안받은 미수검 건설기계 올해만 1만7천대",
+      "link": "https://www.yna.co.kr/view/AKR20260915156600003",
+      "pubDate": "Wed, 16 Sep 2026 06:09:00 +0900"
+    },
+    {
+      "title": "전세보증사고 부담 짊어지는 HUG…5년간 정부 출자 6.4조",
+      "link": "https://www.yna.co.kr/view/AKR20260915153800003",
+      "pubDate": "Wed, 16 Sep 2026 06:07:00 +0900"
+    },
+    {
+      "title": "\"추석 차례상 준비에 30만원…전통시장이 대형마트보다 저렴\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915123900030",
+      "pubDate": "Wed, 16 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "title": "이마트 군산점, 스타필드마켓으로 재탄생…쇼핑·문화생활까지",
+      "link": "https://www.yna.co.kr/view/AKR20260915155400030",
+      "pubDate": "Wed, 16 Sep 2026 06:00:06 +0900"
+    },
+    {
+      "title": "청년 정규직 뽑으면 최대 4천500만원…서울 강소기업 42곳 선정",
+      "link": "https://www.yna.co.kr/view/AKR20260915172200004",
+      "pubDate": "Wed, 16 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "title": "서울서 취업 준비하는 외국인 유학생에 한국어·취업준비 교육",
+      "link": "https://www.yna.co.kr/view/AKR20260915173800004",
+      "pubDate": "Wed, 16 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "'연간 17조' 인천시금고 17일 판가름…'청라 하나'vs'20년 신한'",
+      "link": "https://www.yna.co.kr/view/AKR20260915176100002",
+      "pubDate": "Wed, 16 Sep 2026 05:53:01 +0900"
+    },
+    {
+      "title": "가계부채 비율 10년 만에 최저…정부 목표치 조기 달성 눈앞",
+      "link": "https://www.yna.co.kr/view/AKR20260915161500002",
+      "pubDate": "Wed, 16 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "title": "유상범 \"1등 악성임대인이 떼먹은 보증금 1천400억…회수는 32%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260915109600001",
+      "pubDate": "Wed, 16 Sep 2026 05:00:01 +0900"
+    },
+    {
+      "title": "사우디 공급 차질 우려 심화…국제유가 5월 19일 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260916005500072",
+      "pubDate": "Wed, 16 Sep 2026 04:58:47 +0900"
+    },
     {
       "title": "베선트, 美국채금리 급등에 \"글로벌 이슈탓…美국채 세계 최고\"",
       "link": "https://www.yna.co.kr/view/AKR20260916001700071",
@@ -87,71 +152,6 @@
       "title": "[AI픽] \"이 집 계약해도 될까\"…AI가 전세사기 위험 미리 진단",
       "link": "https://www.yna.co.kr/view/AKR20260915066500017",
       "pubDate": "Tue, 15 Sep 2026 18:01:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260915158800011",
-      "pubDate": "Tue, 15 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "title": "포항시·지역 정치권, 영일만횡단대교 해상 노선 추진 '한뜻'",
-      "link": "https://www.yna.co.kr/view/AKR20260915163000053",
-      "pubDate": "Tue, 15 Sep 2026 17:44:03 +0900"
-    },
-    {
-      "title": "[게시판] 생보협회-형사·법무정책연구원, 생명보험 분야 공동연구 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260915163200002",
-      "pubDate": "Tue, 15 Sep 2026 17:37:26 +0900"
-    },
-    {
-      "title": "이억원, 독일 연방하원 재정위원장 면담…\"시장안정 대응 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915162300002",
-      "pubDate": "Tue, 15 Sep 2026 17:36:56 +0900"
-    },
-    {
-      "title": "[게시판] 관세청, 국세청과 체납자 합동 가택수색 우수팀 포상",
-      "link": "https://www.yna.co.kr/view/AKR20260915160700002",
-      "pubDate": "Tue, 15 Sep 2026 17:27:26 +0900"
-    },
-    {
-      "title": "KAI, 유럽 위성기업 ASL과 손잡고 저궤도 통신위성 공동 개발",
-      "link": "https://www.yna.co.kr/view/AKR20260915159900003",
-      "pubDate": "Tue, 15 Sep 2026 17:23:32 +0900"
-    },
-    {
-      "title": "美 국채 10년물 5% 돌파에…국고채 금리 연고점 경신(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260915151151008",
-      "pubDate": "Tue, 15 Sep 2026 17:22:47 +0900"
-    },
-    {
-      "title": "이형일 \"비거주 인정 사유, 국회서 심도있게 토론…탄력적 운용\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915156100002",
-      "pubDate": "Tue, 15 Sep 2026 17:20:13 +0900"
-    },
-    {
-      "title": "이형일 \"미래대응기금 필요하다는 취지에 공감…쌈짓돈 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915155300002",
-      "pubDate": "Tue, 15 Sep 2026 17:18:38 +0900"
-    },
-    {
-      "title": "화일약품, 100억원 유상증자…파마앤바이오 신기술조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260915157500008",
-      "pubDate": "Tue, 15 Sep 2026 17:09:02 +0900"
-    },
-    {
-      "title": "\"폴란드, 암호화폐로 베네수 원유 사려다 5천800억원 날렸다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260915152500009",
-      "pubDate": "Tue, 15 Sep 2026 17:07:22 +0900"
-    },
-    {
-      "title": "[부산소식] 동아대, 30일부터 취업·진로 박람회",
-      "link": "https://www.yna.co.kr/view/AKR20260915155800051",
-      "pubDate": "Tue, 15 Sep 2026 17:05:11 +0900"
-    },
-    {
-      "title": "전남광주 본촌산단에 이노플러스 스테이지 개관…제조창업 거점",
-      "link": "https://www.yna.co.kr/view/AKR20260915155500054",
-      "pubDate": "Tue, 15 Sep 2026 17:02:31 +0900"
     }
   ]
 }
