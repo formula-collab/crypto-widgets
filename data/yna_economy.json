@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789585033,
+  "updated_at_unix": 1789595422,
   "items": [
+    {
+      "title": "내한 공연 뒤 탈세 먹튀?…\"국세청, 39명 조사해 55억원 추징\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916180000001",
+      "pubDate": "Thu, 17 Sep 2026 06:30:00 +0900"
+    },
+    {
+      "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260917002453071",
+      "pubDate": "Thu, 17 Sep 2026 06:19:44 +0900"
+    },
+    {
+      "title": "LH 매입임대 보수·하자 매년 16만건…90일 이상 방치도 389건",
+      "link": "https://www.yna.co.kr/view/AKR20260916175200003",
+      "pubDate": "Thu, 17 Sep 2026 06:05:01 +0900"
+    },
+    {
+      "title": "[만나보니] 구글 아태 총괄 \"동남아 잡으면 세계서 통한다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916178300017",
+      "pubDate": "Thu, 17 Sep 2026 06:00:12 +0900"
+    },
+    {
+      "title": "\"농협銀, 보이스피싱 대응 인력·예산 확대에도 피해액 2배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916112000001",
+      "pubDate": "Thu, 17 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "title": "검역본부, 아프리카돼지열병 백신 개발 국제 심포지엄 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260916125700030",
+      "pubDate": "Thu, 17 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "title": "성평등부·IBK기업은행, 미혼·한부모가정 자립지원 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260916159600530",
+      "pubDate": "Thu, 17 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "신세계그룹, 2027년 신입사원 공개채용…10개 계열사 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260916158800030",
+      "pubDate": "Thu, 17 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"동남아는 하나가 아니다\"…K-앱·게임 '원빌드 착각' 깨라",
+      "link": "https://www.yna.co.kr/view/AKR20260916176700017",
+      "pubDate": "Thu, 17 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "title": "산업부, 중앙아 5개국과 양·다자 협력 9건…민간 MOU도 116건",
+      "link": "https://www.yna.co.kr/view/AKR20260916186600003",
+      "pubDate": "Thu, 17 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "title": "중동전쟁 격화에 산업계 '긴장'…당장은 버텨도 장기화 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260916169600003",
+      "pubDate": "Thu, 17 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "새도약기금 채권매입 달성률 72%…내달 매입完 목표 '빨간불'",
+      "link": "https://www.yna.co.kr/view/AKR20260916185200002",
+      "pubDate": "Thu, 17 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "'글·그림만으론 어려워'…작가·예술가 연평균 소득 920만원",
+      "link": "https://www.yna.co.kr/view/AKR20260916157600002",
+      "pubDate": "Thu, 17 Sep 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[서미숙의 집수다] '토허구역+대출규제 확대' 11개월…내몰리는 임차인들",
+      "link": "https://www.yna.co.kr/view/AKR20260916186100003",
+      "pubDate": "Thu, 17 Sep 2026 05:31:00 +0900"
+    },
+    {
+      "title": "사우디 원유 우회공급 타진에 국제유가 3% 안팎 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260917009300072",
+      "pubDate": "Thu, 17 Sep 2026 04:32:14 +0900"
+    },
+    {
+      "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260917002452071",
+      "pubDate": "Thu, 17 Sep 2026 04:10:53 +0900"
+    },
     {
       "title": "[3보] 美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사",
       "link": "https://www.yna.co.kr/view/AKR20260917002451071",
@@ -72,86 +152,6 @@
       "title": "STX, 유상증자…한국산업은행 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20260916168600008",
       "pubDate": "Wed, 16 Sep 2026 18:14:34 +0900"
-    },
-    {
-      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916170951003",
-      "pubDate": "Wed, 16 Sep 2026 18:05:47 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260916165700011",
-      "pubDate": "Wed, 16 Sep 2026 18:00:00 +0900"
-    },
-    {
-      "title": "미국 요구 수용 어렵나…대미투자 최종합의 일정 돌연 연기",
-      "link": "https://www.yna.co.kr/view/AKR20260916167700003",
-      "pubDate": "Wed, 16 Sep 2026 17:57:54 +0900"
-    },
-    {
-      "title": "정점식, 추석 앞두고 전통시장 찾아 \"활성화 지원에 최선\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916171300001",
-      "pubDate": "Wed, 16 Sep 2026 17:57:39 +0900"
-    },
-    {
-      "title": "한·중앙아 6개국 정상과 경제계 한자리에…미래성장 협력모색",
-      "link": "https://www.yna.co.kr/view/AKR20260916170900003",
-      "pubDate": "Wed, 16 Sep 2026 17:55:09 +0900"
-    },
-    {
-      "title": "노동부, 수사권 독립 대비 지방 노동관서 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260916049500530",
-      "pubDate": "Wed, 16 Sep 2026 17:51:09 +0900"
-    },
-    {
-      "title": "춘천시, 43억원 바이오 육성펀드 결성…창업기업 투자 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260916163200062",
-      "pubDate": "Wed, 16 Sep 2026 17:48:03 +0900"
-    },
-    {
-      "title": "NH농협금융, 3차 준법감시협의회…내부통제 체계 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260916155200002",
-      "pubDate": "Wed, 16 Sep 2026 17:24:57 +0900"
-    },
-    {
-      "title": "\"건설업, 구조적 자금회수 지연…증권업, 호황 속 양극화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916146651008",
-      "pubDate": "Wed, 16 Sep 2026 17:07:52 +0900"
-    },
-    {
-      "title": "[동정] 송미령 농식품부 장관, 추석 앞두고 전통주 창업 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260916112800030",
-      "pubDate": "Wed, 16 Sep 2026 17:00:04 +0900"
-    },
-    {
-      "title": "재경부, 핵심광물 공급망 등 우즈벡·카자흐와 잇따라 MOU",
-      "link": "https://www.yna.co.kr/view/AKR20260916152000002",
-      "pubDate": "Wed, 16 Sep 2026 17:00:02 +0900"
-    },
-    {
-      "title": "자금세탁방지 제도 선진화…\"국제기준 못 따라가면 활동 제약\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916158600002",
-      "pubDate": "Wed, 16 Sep 2026 16:59:50 +0900"
-    },
-    {
-      "title": "FOMC 관망 속 국고채 금리 하락…3년물 연 4.053%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916157051008",
-      "pubDate": "Wed, 16 Sep 2026 16:59:17 +0900"
-    },
-    {
-      "title": "[동정] 박동식 사천시장, 한화와 우주·AI 투자 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260916158400052",
-      "pubDate": "Wed, 16 Sep 2026 16:57:12 +0900"
-    },
-    {
-      "title": "김치찌개 백반도 9천원 시대…주요 외식 메뉴 물가 '고공행진'",
-      "link": "https://www.yna.co.kr/view/AKR20260916151000030",
-      "pubDate": "Wed, 16 Sep 2026 16:42:39 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 4.053%",
-      "link": "https://www.yna.co.kr/view/AKR20260916157000008",
-      "pubDate": "Wed, 16 Sep 2026 16:40:42 +0900"
     }
   ]
 }
