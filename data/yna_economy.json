@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789571022,
+  "updated_at_unix": 1789585033,
   "items": [
+    {
+      "title": "[3보] 美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사",
+      "link": "https://www.yna.co.kr/view/AKR20260917002451071",
+      "pubDate": "Thu, 17 Sep 2026 03:32:11 +0900"
+    },
+    {
+      "title": "[2보] 美연준, 기준금리 0.25%p 인상…3년2개월만의 긴축조치",
+      "link": "https://www.yna.co.kr/view/AKR20260917002400071",
+      "pubDate": "Thu, 17 Sep 2026 03:01:45 +0900"
+    },
+    {
+      "title": "[1보] 美연준, 기준금리 0.25%p 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260917002300071",
+      "pubDate": "Thu, 17 Sep 2026 03:01:02 +0900"
+    },
     {
       "title": "제지·밀가루에 내린 공정위 '가격 재결정 명령', 법원서 제동(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260916179151004",
@@ -137,21 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 4.053%",
       "link": "https://www.yna.co.kr/view/AKR20260916157000008",
       "pubDate": "Wed, 16 Sep 2026 16:40:42 +0900"
-    },
-    {
-      "title": "SK하이닉스, 산학연구 우수발명 시상…최우수상에 최우석 교수",
-      "link": "https://www.yna.co.kr/view/AKR20260916154900003",
-      "pubDate": "Wed, 16 Sep 2026 16:38:48 +0900"
-    },
-    {
-      "title": "홍지선 \"소화기관 2∼3년 치료해 4급…병역자료 소실\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916089751003",
-      "pubDate": "Wed, 16 Sep 2026 16:37:58 +0900"
-    },
-    {
-      "title": "가상자산 지갑 '디센트'서 비정상적 자산 이전 감지…긴급 조사",
-      "link": "https://www.yna.co.kr/view/AKR20260916154200002",
-      "pubDate": "Wed, 16 Sep 2026 16:32:04 +0900"
     }
   ]
 }
