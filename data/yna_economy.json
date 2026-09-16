@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789553206,
+  "updated_at_unix": 1789571022,
   "items": [
+    {
+      "title": "제지·밀가루에 내린 공정위 '가격 재결정 명령', 법원서 제동(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260916179151004",
+      "pubDate": "Wed, 16 Sep 2026 20:05:40 +0900"
+    },
+    {
+      "title": "미래에셋證 노조 \"금감원 고강도 검사 우려…정상적 업무 차질\"",
+      "link": "https://www.yna.co.kr/view/AKR20260916182700008",
+      "pubDate": "Wed, 16 Sep 2026 19:54:42 +0900"
+    },
+    {
+      "title": "앤트로픽·스페이스X 투자한 한투파트너스, 평가이익 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260916182500008",
+      "pubDate": "Wed, 16 Sep 2026 19:52:54 +0900"
+    },
+    {
+      "title": "제지업체에 내린 공정위 '가격 재결정 명령', 법원서 제동",
+      "link": "https://www.yna.co.kr/view/AKR20260916179100004",
+      "pubDate": "Wed, 16 Sep 2026 19:14:17 +0900"
+    },
+    {
+      "title": "증선위, 공개매수·양수도 미공개정보 이용 4건 檢 고발·통보",
+      "link": "https://www.yna.co.kr/view/AKR20260916177700002",
+      "pubDate": "Wed, 16 Sep 2026 19:13:29 +0900"
+    },
     {
       "title": "인천 강화 소 농장서 구제역 확진…올해 12번째 발생",
       "link": "https://www.yna.co.kr/view/AKR20260916177200030",
@@ -127,31 +152,6 @@
       "title": "가상자산 지갑 '디센트'서 비정상적 자산 이전 감지…긴급 조사",
       "link": "https://www.yna.co.kr/view/AKR20260916154200002",
       "pubDate": "Wed, 16 Sep 2026 16:32:04 +0900"
-    },
-    {
-      "title": "경남도, 중국과 AI·관광 협력 강화…상하이·쑤저우 방문",
-      "link": "https://www.yna.co.kr/view/AKR20260916149100052",
-      "pubDate": "Wed, 16 Sep 2026 16:21:50 +0900"
-    },
-    {
-      "title": "\"건설업, 구조적 자금회수 지연…부산·광주·제주 고위험군\"",
-      "link": "https://www.yna.co.kr/view/AKR20260916146600008",
-      "pubDate": "Wed, 16 Sep 2026 16:12:17 +0900"
-    },
-    {
-      "title": "50조 웃돌던 코스피 일평균 거래대금, 20조로 뚝…올해 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916070851008",
-      "pubDate": "Wed, 16 Sep 2026 16:10:12 +0900"
-    },
-    {
-      "title": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260916074551002",
-      "pubDate": "Wed, 16 Sep 2026 16:04:03 +0900"
-    },
-    {
-      "title": "이란전이 끌어올린 유가…미국인들 추가부담 1천억달러 돌파",
-      "link": "https://www.yna.co.kr/view/AKR20260916145400009",
-      "pubDate": "Wed, 16 Sep 2026 16:03:21 +0900"
     }
   ]
 }
