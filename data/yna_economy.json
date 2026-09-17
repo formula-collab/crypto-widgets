@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789667294,
+  "updated_at_unix": 1789677642,
   "items": [
+    {
+      "title": "국제유가, 사우디 공급 우려 완화에 소폭 하락…WTI 101달러대",
+      "link": "https://www.yna.co.kr/view/AKR20260918004300072",
+      "pubDate": "Fri, 18 Sep 2026 05:04:35 +0900"
+    },
     {
       "title": "영국 금리 동결했지만…BOE 총재 \"금리 인상 가능성\" 시사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260917195852085",
@@ -147,11 +152,6 @@
       "title": "경북도 금고 농협·iM뱅크가 계속 맡는다…KB국민 도전 실패(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260917117151053",
       "pubDate": "Thu, 17 Sep 2026 16:41:36 +0900"
-    },
-    {
-      "title": "BNK금융, 자회사 7곳 경영승계 절차 돌입…\"공공·투명성 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917163100051",
-      "pubDate": "Thu, 17 Sep 2026 16:35:26 +0900"
     }
   ]
 }
