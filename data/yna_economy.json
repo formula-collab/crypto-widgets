@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789677642,
+  "updated_at_unix": 1789686723,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260918012300011",
+      "pubDate": "Fri, 18 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[반려동물] 본업 살려 유기견 돕는다…기업 동물복지 활동 다변화",
+      "link": "https://www.yna.co.kr/view/AKR20260917178400030",
+      "pubDate": "Fri, 18 Sep 2026 07:00:31 +0900"
+    },
+    {
+      "title": "[만나보니] 캐런 티오 구글 부사장 \"누구나 앱 만드는 시대…품질이 승부\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917185000017",
+      "pubDate": "Fri, 18 Sep 2026 06:00:16 +0900"
+    },
+    {
+      "title": "입법조사처 \"CPTPP 가입 시 마사회·aT 규범 충돌 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917141000030",
+      "pubDate": "Fri, 18 Sep 2026 06:00:15 +0900"
+    },
+    {
+      "title": "서울 아파트값 7월에도 상승세 지속…1년 새 15% 상승",
+      "link": "https://www.yna.co.kr/view/AKR20260917177800004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "금융정보분석원, 타지키스탄 국립은행과 자금세탁방지 대응 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260917181900002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "서울 소상공인 매장서 카드 쓰면 추첨 통해 최대 5만원 상품권",
+      "link": "https://www.yna.co.kr/view/AKR20260917184100004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "생산자물가 한 달 만에 반등…8월 폭염·유가 상승에 0.2%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260917177300002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:04 +0900"
+    },
+    {
+      "title": "추석 차례상 물가 5.1%↑…폭염에 채소류 껑충·과일은 비교적 안정",
+      "link": "https://www.yna.co.kr/view/AKR20260917187600004",
+      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "title": "중기부, '소셜벤처 리그' 2차 발표평가 통과자 40명 선발",
+      "link": "https://www.yna.co.kr/view/AKR20260917186600030",
+      "pubDate": "Fri, 18 Sep 2026 06:00:03 +0900"
+    },
+    {
+      "title": "8월 외국인 국내 주식 3천440억 순매수…올해 처음으로 '사자'",
+      "link": "https://www.yna.co.kr/view/AKR20260917188900002",
+      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0900"
+    },
+    {
+      "title": "가계·기업부채 비율 급락에 '신용 갭' 20년 만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260917171800002",
+      "pubDate": "Fri, 18 Sep 2026 05:51:01 +0900"
+    },
     {
       "title": "국제유가, 사우디 공급 우려 완화에 소폭 하락…WTI 101달러대",
       "link": "https://www.yna.co.kr/view/AKR20260918004300072",
@@ -92,66 +152,6 @@
       "title": "강원도, 소규모 건설공사 설계기준 확대…\"공사비 현실화\"",
       "link": "https://www.yna.co.kr/view/AKR20260917181600062",
       "pubDate": "Thu, 17 Sep 2026 17:41:12 +0900"
-    },
-    {
-      "title": "모티브링크 \"종속회사 DNM에 85억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917180500008",
-      "pubDate": "Thu, 17 Sep 2026 17:32:06 +0900"
-    },
-    {
-      "title": "모티브링크 \"종속회사 MOTILINK에 148억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917180400008",
-      "pubDate": "Thu, 17 Sep 2026 17:31:44 +0900"
-    },
-    {
-      "title": "무역위, 중국산 H형강 최대 32.72% 반덤핑관세 2차 연장",
-      "link": "https://www.yna.co.kr/view/AKR20260917162200003",
-      "pubDate": "Thu, 17 Sep 2026 17:30:00 +0900"
-    },
-    {
-      "title": "실업급여 6천만원 부정수급자들에 1억5천만원 반환 명령",
-      "link": "https://www.yna.co.kr/view/AKR20260917171100054",
-      "pubDate": "Thu, 17 Sep 2026 17:15:02 +0900"
-    },
-    {
-      "title": "식약처, '아플라톡신 초과 검출' 국산 볶음땅콩 회수",
-      "link": "https://www.yna.co.kr/view/AKR20260917175800017",
-      "pubDate": "Thu, 17 Sep 2026 17:13:43 +0900"
-    },
-    {
-      "title": "원주 노사민정, 지역기업 구인난·청년 유출 해법 모색",
-      "link": "https://www.yna.co.kr/view/AKR20260917172600062",
-      "pubDate": "Thu, 17 Sep 2026 17:01:52 +0900"
-    },
-    {
-      "title": "추석맞이 시장 찾은 박홍근 \"변화 체감하도록 예산안 챙길 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260917126600002",
-      "pubDate": "Thu, 17 Sep 2026 17:00:01 +0900"
-    },
-    {
-      "title": "매파 FOMC에도 국채 단기물 중심 제한적 약세…3년물 4.063%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260917167851008",
-      "pubDate": "Thu, 17 Sep 2026 16:57:29 +0900"
-    },
-    {
-      "title": "해수부, 고수온 재난 예·경보 단계 심각→경계 하향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260917140451030",
-      "pubDate": "Thu, 17 Sep 2026 16:56:36 +0900"
-    },
-    {
-      "title": "포천시, 군·대학과 '교육혁신 선도지역' 조성 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260917167700060",
-      "pubDate": "Thu, 17 Sep 2026 16:47:06 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 4.063%",
-      "link": "https://www.yna.co.kr/view/AKR20260917167800008",
-      "pubDate": "Thu, 17 Sep 2026 16:42:32 +0900"
-    },
-    {
-      "title": "경북도 금고 농협·iM뱅크가 계속 맡는다…KB국민 도전 실패(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260917117151053",
-      "pubDate": "Thu, 17 Sep 2026 16:41:36 +0900"
     }
   ]
 }
