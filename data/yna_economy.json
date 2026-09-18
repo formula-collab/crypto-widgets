@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789766424,
+  "updated_at_unix": 1789773839,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 더샵분당하이스트 등 전국 4천591가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20260918159400003",
+      "pubDate": "Sat, 19 Sep 2026 08:03:00 +0900"
+    },
+    {
+      "title": "한은, 퇴임한 이창용에 매달 700만원…자문 기록은 \"관리 안 해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918089600002",
+      "pubDate": "Sat, 19 Sep 2026 07:55:00 +0900"
+    },
+    {
+      "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1천800원대 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260918152000003",
+      "pubDate": "Sat, 19 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오뚜기 '숙성크림 카레고로케'·파리바게뜨 '감자쫀떡'",
+      "link": "https://www.yna.co.kr/view/AKR20260918040300030",
+      "pubDate": "Sat, 19 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "title": "[금주핫템] 아이더 '슬림 블렌드 다운 재킷'·씰리침대 '자개 매트리스'",
+      "link": "https://www.yna.co.kr/view/AKR20260917184200030",
+      "pubDate": "Sat, 19 Sep 2026 07:00:03 +0900"
+    },
+    {
+      "title": "[AI돋보기] AI가 질문을 보완하는 시대…프롬프트 비법은 끝났나",
+      "link": "https://www.yna.co.kr/view/AKR20260918121100017",
+      "pubDate": "Sat, 19 Sep 2026 06:33:00 +0900"
+    },
     {
       "title": "韓총리, 태릉지구 방문…\"국민신뢰 가늠자, 차질없이 추진\"",
       "link": "https://www.yna.co.kr/view/AKR20260918180500001",
@@ -122,36 +152,6 @@
       "title": "화성시, 장기미집행시설 정비 용역 추진…GB 해제된 2.56㎢ 대상",
       "link": "https://www.yna.co.kr/view/AKR20260918146700061",
       "pubDate": "Fri, 18 Sep 2026 16:18:43 +0900"
-    },
-    {
-      "title": "[게시판] 국가데이터처, 전국 학생 통계 활용대회 시상식",
-      "link": "https://www.yna.co.kr/view/AKR20260918141200002",
-      "pubDate": "Fri, 18 Sep 2026 16:09:38 +0900"
-    },
-    {
-      "title": "CG인바이츠 \"관계사 VISTA 주식 94억원어치 취득…지분율 43.7%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918142500008",
-      "pubDate": "Fri, 18 Sep 2026 16:05:31 +0900"
-    },
-    {
-      "title": "원/달러 환율, 1.1원 오른 1,383.3원…7거래일 연속 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260918140100002",
-      "pubDate": "Fri, 18 Sep 2026 16:05:19 +0900"
-    },
-    {
-      "title": "충남도, 소상공인 자금난 해소 지원 확대…17억원 추가",
-      "link": "https://www.yna.co.kr/view/AKR20260918140900063",
-      "pubDate": "Fri, 18 Sep 2026 16:02:36 +0900"
-    },
-    {
-      "title": "숙박시설을 주택으로…부동산 불법 광고 1만여건 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260918077500003",
-      "pubDate": "Fri, 18 Sep 2026 16:00:03 +0900"
-    },
-    {
-      "title": "국가기록·역사자료 AI로 한번에 검색한다…통합체계 시범검증",
-      "link": "https://www.yna.co.kr/view/AKR20260918071200530",
-      "pubDate": "Fri, 18 Sep 2026 16:00:02 +0900"
     }
   ]
 }
