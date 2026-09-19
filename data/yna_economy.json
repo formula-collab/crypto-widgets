@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789780743,
+  "updated_at_unix": 1789797895,
   "items": [
+    {
+      "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
+      "link": "https://www.yna.co.kr/view/AKR20260919040600542",
+      "pubDate": "Sat, 19 Sep 2026 14:27:08 +0900"
+    },
+    {
+      "title": "건설업체 서한, 추석 앞두고 협력사 125곳에 공사대금 조기 지급",
+      "link": "https://www.yna.co.kr/view/AKR20260919039100053",
+      "pubDate": "Sat, 19 Sep 2026 14:00:21 +0900"
+    },
+    {
+      "title": "인천 강화서 구제역 추가 발생…소 2마리 항원 양성",
+      "link": "https://www.yna.co.kr/view/AKR20260919033700030",
+      "pubDate": "Sat, 19 Sep 2026 12:00:58 +0900"
+    },
+    {
+      "title": "순창 동계 밤, 12년 연속 중국 수출…올해 총 150ｔ 선적",
+      "link": "https://www.yna.co.kr/view/AKR20260919027900055",
+      "pubDate": "Sat, 19 Sep 2026 10:53:35 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260919026200011",
+      "pubDate": "Sat, 19 Sep 2026 10:30:00 +0900"
+    },
     {
       "title": "'차명 갭투자' 건축업자, 벌금 700만원…약식명령보다 상향",
       "link": "https://www.yna.co.kr/view/AKR20260918105400061",
@@ -127,31 +152,6 @@
       "title": "日 기준금리 인상에도 국고채 금리 일제히↓…유가 하락 등 영향(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260918153551008",
       "pubDate": "Fri, 18 Sep 2026 17:05:00 +0900"
-    },
-    {
-      "title": "BNK부산은행, 올해 부산국제영화제에 7억원 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260918160300051",
-      "pubDate": "Fri, 18 Sep 2026 17:02:18 +0900"
-    },
-    {
-      "title": "영덕 강구항 가로지르는 해상대교 개통…\"대게거리 혼잡 해소\"",
-      "link": "https://www.yna.co.kr/view/AKR20260918157100053",
-      "pubDate": "Fri, 18 Sep 2026 16:59:40 +0900"
-    },
-    {
-      "title": "\"워킹홀리데이 이건 꼭 알고 가야\"…경험자들, '꿀팁' 소개",
-      "link": "https://www.yna.co.kr/view/AKR20260918150700371",
-      "pubDate": "Fri, 18 Sep 2026 16:54:53 +0900"
-    },
-    {
-      "title": "선거 앞두고 경유가 사상최고 행진…美, 수출금지 카드 만지작",
-      "link": "https://www.yna.co.kr/view/AKR20260918149400009",
-      "pubDate": "Fri, 18 Sep 2026 16:50:28 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 4.035%",
-      "link": "https://www.yna.co.kr/view/AKR20260918153500008",
-      "pubDate": "Fri, 18 Sep 2026 16:45:03 +0900"
     }
   ]
 }
