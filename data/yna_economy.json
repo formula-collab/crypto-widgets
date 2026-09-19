@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789773839,
+  "updated_at_unix": 1789780743,
   "items": [
+    {
+      "title": "'차명 갭투자' 건축업자, 벌금 700만원…약식명령보다 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260918105400061",
+      "pubDate": "Sat, 19 Sep 2026 10:00:03 +0900"
+    },
+    {
+      "title": "서울공항 주변 비행안전구역 축소방안은…성남시 22일 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20260918065900061",
+      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "title": "\"국내은행 상반기 순익 줄어…이자이익 늘어도 부실 위험 커져\"",
+      "link": "https://www.yna.co.kr/view/AKR20260918172800002",
+      "pubDate": "Sat, 19 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "title": "[다음주 경제] 올해 韓 성장전망 더 높아질까…금융안정 상황도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20260919016400002",
+      "pubDate": "Sat, 19 Sep 2026 08:48:23 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 더샵분당하이스트 등 전국 4천591가구 청약",
       "link": "https://www.yna.co.kr/view/AKR20260918159400003",
@@ -132,26 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 4.035%",
       "link": "https://www.yna.co.kr/view/AKR20260918153500008",
       "pubDate": "Fri, 18 Sep 2026 16:45:03 +0900"
-    },
-    {
-      "title": "경북 수출 9개월 연속 증가…2022년 이후 최장 연속 기록",
-      "link": "https://www.yna.co.kr/view/AKR20260918151400053",
-      "pubDate": "Fri, 18 Sep 2026 16:37:50 +0900"
-    },
-    {
-      "title": "[진도소식] 진도군-한국은행, 경제정책 포럼",
-      "link": "https://www.yna.co.kr/view/AKR20260918148100054",
-      "pubDate": "Fri, 18 Sep 2026 16:23:17 +0900"
-    },
-    {
-      "title": "[동포의 창] 홍콩한인상공회, 추석 맞아 'K-페스티벌 주간' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20260918145600371",
-      "pubDate": "Fri, 18 Sep 2026 16:23:12 +0900"
-    },
-    {
-      "title": "화성시, 장기미집행시설 정비 용역 추진…GB 해제된 2.56㎢ 대상",
-      "link": "https://www.yna.co.kr/view/AKR20260918146700061",
-      "pubDate": "Fri, 18 Sep 2026 16:18:43 +0900"
     }
   ]
 }
