@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789797895,
+  "updated_at_unix": 1789816473,
   "items": [
+    {
+      "title": "[동정] 농식품부 장관, 추석 앞두고 경기 이천 농촌체험휴양마을 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260919035100030",
+      "pubDate": "Sat, 19 Sep 2026 15:30:00 +0900"
+    },
     {
       "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
       "link": "https://www.yna.co.kr/view/AKR20260919040600542",
@@ -147,11 +152,6 @@
       "title": "'SK그룹 상장사 투자' 등 ETF 4종 22일 신규 상장",
       "link": "https://www.yna.co.kr/view/AKR20260918156800008",
       "pubDate": "Fri, 18 Sep 2026 17:07:36 +0900"
-    },
-    {
-      "title": "日 기준금리 인상에도 국고채 금리 일제히↓…유가 하락 등 영향(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260918153551008",
-      "pubDate": "Fri, 18 Sep 2026 17:05:00 +0900"
     }
   ]
 }
