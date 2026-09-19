@@ -1,8 +1,58 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789854746,
+  "updated_at_unix": 1789861434,
   "items": [
+    {
+      "title": "전세 상승도 가파른 중하위권…국평서 '한강벨트 수준' 10억",
+      "link": "https://www.yna.co.kr/view/AKR20260920008900003",
+      "pubDate": "Sun, 20 Sep 2026 08:31:29 +0900"
+    },
+    {
+      "title": "[게시판] 수은, 추석 앞두고 사회복지시설에 3억6천만원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260919055600002",
+      "pubDate": "Sun, 20 Sep 2026 08:05:00 +0900"
+    },
+    {
+      "title": "[현장in] '건축비 폭등·주관사 이견'…평택 아주대병원 8년째 공회전",
+      "link": "https://www.yna.co.kr/view/AKR20260918131100061",
+      "pubDate": "Sun, 20 Sep 2026 08:01:02 +0900"
+    },
+    {
+      "title": "\"불기소됐으니 11억\" 이만희 상대 소송 건 법무법인…2심도 패소",
+      "link": "https://www.yna.co.kr/view/AKR20260919039900004",
+      "pubDate": "Sun, 20 Sep 2026 08:00:01 +0900"
+    },
+    {
+      "title": "부산시, 동백전 캐시백 이달 30일까지 최대 15%로 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260920007100051",
+      "pubDate": "Sun, 20 Sep 2026 07:56:55 +0900"
+    },
+    {
+      "title": "[경산소식] 착한가격업소 이용하면 월 최대 2만5천 원 돌려준다",
+      "link": "https://www.yna.co.kr/view/AKR20260918129100053",
+      "pubDate": "Sun, 20 Sep 2026 07:37:00 +0900"
+    },
+    {
+      "title": "입법조사처 \"CPTPP 가입 시 보조금 제한…수산업 피해 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260917178300051",
+      "pubDate": "Sun, 20 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "\"현실 반영 못한 탁상행정\"…농지전수조사에 농촌 혼란·반발",
+      "link": "https://www.yna.co.kr/view/AKR20260918106800055",
+      "pubDate": "Sun, 20 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "'아빠찬스' 前선관위 사무총장 딸, 임용취소 불복소송 승소",
+      "link": "https://www.yna.co.kr/view/AKR20260919042600004",
+      "pubDate": "Sun, 20 Sep 2026 07:00:04 +0900"
+    },
+    {
+      "title": "출생아 늘자 분유 시장도 반등…프리미엄 제품 매출 '껑충'",
+      "link": "https://www.yna.co.kr/view/AKR20260919019400030",
+      "pubDate": "Sun, 20 Sep 2026 06:50:00 +0900"
+    },
     {
       "title": "휴게소 돈가스 5년새 28%↑…호두과자·커피도 20% 안팎 상승",
       "link": "https://www.yna.co.kr/view/AKR20260919025600003",
@@ -102,56 +152,6 @@
       "title": "세금·복지 재분배 OECD 29개국 중 28위…고령층은 더 부진",
       "link": "https://www.yna.co.kr/view/AKR20260919056500002",
       "pubDate": "Sun, 20 Sep 2026 05:49:00 +0900"
-    },
-    {
-      "title": "반도체 제조업 일자리 8년새 15% 늘었지만…신규채용은 22%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260919046000002",
-      "pubDate": "Sun, 20 Sep 2026 05:47:00 +0900"
-    },
-    {
-      "title": "고금리에 깊어진 양극화…저신용 자영업 연체율 5년새 4∼5배로",
-      "link": "https://www.yna.co.kr/view/AKR20260919036700002",
-      "pubDate": "Sun, 20 Sep 2026 05:45:01 +0900"
-    },
-    {
-      "title": "[동정] 농식품부 장관, 추석 앞두고 경기 이천 농촌체험휴양마을 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260919035100030",
-      "pubDate": "Sat, 19 Sep 2026 15:30:00 +0900"
-    },
-    {
-      "title": "[여행소식] 비싼 하와이 외식비 낮춘다…와이키키서 첫 '레스토랑 위크'",
-      "link": "https://www.yna.co.kr/view/AKR20260919040600542",
-      "pubDate": "Sat, 19 Sep 2026 14:27:08 +0900"
-    },
-    {
-      "title": "건설업체 서한, 추석 앞두고 협력사 125곳에 공사대금 조기 지급",
-      "link": "https://www.yna.co.kr/view/AKR20260919039100053",
-      "pubDate": "Sat, 19 Sep 2026 14:00:21 +0900"
-    },
-    {
-      "title": "인천 강화서 구제역 추가 발생…소 2마리 항원 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260919033700030",
-      "pubDate": "Sat, 19 Sep 2026 12:00:58 +0900"
-    },
-    {
-      "title": "순창 동계 밤, 12년 연속 중국 수출…올해 총 150ｔ 선적",
-      "link": "https://www.yna.co.kr/view/AKR20260919027900055",
-      "pubDate": "Sat, 19 Sep 2026 10:53:35 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260919026200011",
-      "pubDate": "Sat, 19 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "'차명 갭투자' 건축업자, 벌금 700만원…약식명령보다 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260918105400061",
-      "pubDate": "Sat, 19 Sep 2026 10:00:03 +0900"
-    },
-    {
-      "title": "서울공항 주변 비행안전구역 축소방안은…성남시 22일 설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260918065900061",
-      "pubDate": "Sat, 19 Sep 2026 09:00:07 +0900"
     }
   ]
 }
