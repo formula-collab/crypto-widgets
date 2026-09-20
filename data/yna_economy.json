@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789931348,
+  "updated_at_unix": 1789940418,
   "items": [
+    {
+      "title": "건설노동자, 전자카드 한달에 15일쓰면 2만원 상품권…홍보행사",
+      "link": "https://www.yna.co.kr/view/AKR20260918168800530",
+      "pubDate": "Mon, 21 Sep 2026 06:00:08 +0900"
+    },
+    {
+      "title": "경제인협회 \"반도체 공장 가동 앞두고 도로·용수 아직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920032500003",
+      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"'급여' 표시 안 하면 금리감면 못 받아\"…금감원, 소비자 당부",
+      "link": "https://www.yna.co.kr/view/AKR20260920043800002",
+      "pubDate": "Mon, 21 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "신세계百, 외국인 대상 '글로벌 쇼핑 페스타'…\"올해 최대규모\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920038800030",
+      "pubDate": "Mon, 21 Sep 2026 06:00:01 +0900"
+    },
+    {
+      "title": "KB국민은행, 정기예금 금리 추가 인상…최고 연 3.5%",
+      "link": "https://www.yna.co.kr/view/AKR20260920049000002",
+      "pubDate": "Mon, 21 Sep 2026 05:59:00 +0900"
+    },
+    {
+      "title": "한국 상장하며 몸집 불린 엔화 코인…일평균 거래 2억→450억원",
+      "link": "https://www.yna.co.kr/view/AKR20260919058400002",
+      "pubDate": "Mon, 21 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "\"성인도 벌기 힘든 돈인데\"…'억대 연봉' 받는 미성년 사장 21명",
+      "link": "https://www.yna.co.kr/view/AKR20260918165100002",
+      "pubDate": "Mon, 21 Sep 2026 05:55:00 +0900"
+    },
+    {
+      "title": "민생 특사경, 수심위 없이도 수사 착수…\"불법사금융은 속도전\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920030200002",
+      "pubDate": "Mon, 21 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "title": "미성년자 미수거래 금지 명문화…증권사들 곧 선제조치할 듯",
+      "link": "https://www.yna.co.kr/view/AKR20260920033700002",
+      "pubDate": "Mon, 21 Sep 2026 05:51:00 +0900"
+    },
     {
       "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
       "link": "https://www.yna.co.kr/view/AKR20260920037700003",
@@ -107,51 +152,6 @@
       "title": "한우, 카타르 수출길 열렸다…내달 초 첫 수출",
       "link": "https://www.yna.co.kr/view/AKR20260918153000030",
       "pubDate": "Sun, 20 Sep 2026 11:00:04 +0900"
-    },
-    {
-      "title": "농식품부, 폭염·가뭄 등 피해 농가에 복구비 305억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260918162400030",
-      "pubDate": "Sun, 20 Sep 2026 11:00:03 +0900"
-    },
-    {
-      "title": "수출 중기 70% \"바이어 발굴이 최대 애로\"…유망시장은 중동",
-      "link": "https://www.yna.co.kr/view/AKR20260920011300003",
-      "pubDate": "Sun, 20 Sep 2026 11:00:03 +0900"
-    },
-    {
-      "title": "산업부, 10개 지방투자기업에 보조금 816억원 지원 결정",
-      "link": "https://www.yna.co.kr/view/AKR20260920015700003",
-      "pubDate": "Sun, 20 Sep 2026 11:00:02 +0900"
-    },
-    {
-      "title": "청년·고령자 등 수요 맞춤형 공공임대 '특화주택' 공모",
-      "link": "https://www.yna.co.kr/view/AKR20260920019900003",
-      "pubDate": "Sun, 20 Sep 2026 11:00:02 +0900"
-    },
-    {
-      "title": "코트라, 내수기업 첫 수출 길잡이…화상상담·물류비 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260920017900003",
-      "pubDate": "Sun, 20 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260920017200011",
-      "pubDate": "Sun, 20 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "LG이노텍, AI로 최적 부품 찾는다…견적 산출시간 70% 단축",
-      "link": "https://www.yna.co.kr/view/AKR20260920016500003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:09 +0900"
-    },
-    {
-      "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
-      "link": "https://www.yna.co.kr/view/AKR20260920014600003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:01 +0900"
-    },
-    {
-      "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260920015500003",
-      "pubDate": "Sun, 20 Sep 2026 10:00:00 +0900"
     }
   ]
 }
