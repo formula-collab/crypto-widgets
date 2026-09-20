@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789908153,
+  "updated_at_unix": 1789922130,
   "items": [
+    {
+      "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920037700003",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 +0900"
+    },
     {
       "title": "국회 산자위, 22일 '대미투자 1호' 관련 보고 청취",
       "link": "https://www.yna.co.kr/view/AKR20260920037600001",
@@ -147,11 +152,6 @@
       "title": "LG, AI 인재 육성 확대…'에이머스 해커톤'에 3천393명 지원",
       "link": "https://www.yna.co.kr/view/AKR20260920015500003",
       "pubDate": "Sun, 20 Sep 2026 10:00:00 +0900"
-    },
-    {
-      "title": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리",
-      "link": "https://www.yna.co.kr/view/AKR20260920015800060",
-      "pubDate": "Sun, 20 Sep 2026 09:54:47 +0900"
     }
   ]
 }
