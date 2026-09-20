@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789940418,
+  "updated_at_unix": 1789947584,
   "items": [
+    {
+      "title": "신한증권 \"증권, 급격한 영업환경 악화…주요 종목 목표가↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921020400008",
+      "pubDate": "Mon, 21 Sep 2026 08:25:54 +0900"
+    },
+    {
+      "title": "한투증권 \"연휴 앞둔 시장 전략, 코스피 대비 성과 업종에 집중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260921020200008",
+      "pubDate": "Mon, 21 Sep 2026 08:23:59 +0900"
+    },
+    {
+      "title": "부산, 전략산업 연계 창업도시 추진…성장 단계별 지원체계 구축",
+      "link": "https://www.yna.co.kr/view/AKR20260921015000051",
+      "pubDate": "Mon, 21 Sep 2026 08:11:32 +0900"
+    },
+    {
+      "title": "부산시, 10억원 투입 소상공인 공공배달 소비 쿠폰 20만장 발행",
+      "link": "https://www.yna.co.kr/view/AKR20260921014800051",
+      "pubDate": "Mon, 21 Sep 2026 08:06:24 +0900"
+    },
+    {
+      "title": "부산형 청년 일자리 정책, 첫 경력 12개월 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260921014700051",
+      "pubDate": "Mon, 21 Sep 2026 08:02:12 +0900"
+    },
+    {
+      "title": "서울 오피스 '대형 딜' 휩쓴 세빌스…매각자문 실적 3.7조원",
+      "link": "https://www.yna.co.kr/view/AKR20260919007000008",
+      "pubDate": "Mon, 21 Sep 2026 08:00:02 +0900"
+    },
+    {
+      "title": "AI 활용 음악에 저작권 인정할까…'신탁 기준 마련 토론회'",
+      "link": "https://www.yna.co.kr/view/AKR20260921009900005",
+      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피, 추석연휴 전후 '전강후약' 반복되나",
+      "link": "https://www.yna.co.kr/view/AKR20260921011700008",
+      "pubDate": "Mon, 21 Sep 2026 07:47:59 +0900"
+    },
+    {
+      "title": "대한상의 중견위 \"중견기업 특수성 고려한 맞춤형 정책 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20260920035300003",
+      "pubDate": "Mon, 21 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260921009800011",
+      "pubDate": "Mon, 21 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "title": "통신비 감면 대상인데도…210만명 혜택 놓쳤다",
+      "link": "https://www.yna.co.kr/view/AKR20260918081500017",
+      "pubDate": "Mon, 21 Sep 2026 07:00:05 +0900"
+    },
+    {
+      "title": "포켓몬 카드에 푹 빠진 30·40대…매물 등록·검색 폭증",
+      "link": "https://www.yna.co.kr/view/AKR20260920034200017",
+      "pubDate": "Mon, 21 Sep 2026 06:33:00 +0900"
+    },
     {
       "title": "건설노동자, 전자카드 한달에 15일쓰면 2만원 상품권…홍보행사",
       "link": "https://www.yna.co.kr/view/AKR20260918168800530",
@@ -92,66 +152,6 @@
       "title": "'글자체 디자인' 출원은 더 간편히, 3D도면 출원은 더 정확히",
       "link": "https://www.yna.co.kr/view/AKR20260918060900063",
       "pubDate": "Sun, 20 Sep 2026 12:00:16 +0900"
-    },
-    {
-      "title": "며느리는 '동거주택 상속공제' 못받던 옛 상증세법…헌재 \"합헌\"",
-      "link": "https://www.yna.co.kr/view/AKR20260919037300004",
-      "pubDate": "Sun, 20 Sep 2026 12:00:12 +0900"
-    },
-    {
-      "title": "반도체 제조업서 법 위반 338건 적발…SK하이닉스 청주캠 119건",
-      "link": "https://www.yna.co.kr/view/AKR20260918158700530",
-      "pubDate": "Sun, 20 Sep 2026 12:00:10 +0900"
-    },
-    {
-      "title": "\"일자리로 일하는 즐거움 찾으세요\"…25일까지 노인일자리 주간",
-      "link": "https://www.yna.co.kr/view/AKR20260919048100530",
-      "pubDate": "Sun, 20 Sep 2026 12:00:09 +0900"
-    },
-    {
-      "title": "중기중앙회, 국회에 '中企 협동조합 협의요청권' 도입 건의",
-      "link": "https://www.yna.co.kr/view/AKR20260919027500030",
-      "pubDate": "Sun, 20 Sep 2026 12:00:09 +0900"
-    },
-    {
-      "title": "한은 \"한미 장기금리 동조화, 글로벌 인플레 충격 영향\"",
-      "link": "https://www.yna.co.kr/view/AKR20260919018900002",
-      "pubDate": "Sun, 20 Sep 2026 12:00:07 +0900"
-    },
-    {
-      "title": "추석 연휴 전날 사고 45%↑…\"올해는 23일 조심하세요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260919044700002",
-      "pubDate": "Sun, 20 Sep 2026 12:00:06 +0900"
-    },
-    {
-      "title": "'택배 주소지 오류'…추석선물 배송 등 미끼로 보이스피싱 주의",
-      "link": "https://www.yna.co.kr/view/AKR20260919030900002",
-      "pubDate": "Sun, 20 Sep 2026 12:00:05 +0900"
-    },
-    {
-      "title": "[부고] 이기조(우리투자증권 리테일부문 부사장)씨 장모상",
-      "link": "https://www.yna.co.kr/view/AKR20260920022900008",
-      "pubDate": "Sun, 20 Sep 2026 11:27:39 +0900"
-    },
-    {
-      "title": "추석 연휴 전국 항만 정상 운영…해수부, 특별대책 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260918149200051",
-      "pubDate": "Sun, 20 Sep 2026 11:00:05 +0900"
-    },
-    {
-      "title": "해수부, 부산·울산·경남에 '해양 사물인터넷' 구축한다",
-      "link": "https://www.yna.co.kr/view/AKR20260918155900051",
-      "pubDate": "Sun, 20 Sep 2026 11:00:05 +0900"
-    },
-    {
-      "title": "해수부, 고수온 피해 338개 어가에 복구비 137억원 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260918147500030",
-      "pubDate": "Sun, 20 Sep 2026 11:00:04 +0900"
-    },
-    {
-      "title": "한우, 카타르 수출길 열렸다…내달 초 첫 수출",
-      "link": "https://www.yna.co.kr/view/AKR20260918153000030",
-      "pubDate": "Sun, 20 Sep 2026 11:00:04 +0900"
     }
   ]
 }
