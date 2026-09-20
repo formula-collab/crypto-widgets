@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1789890539,
+  "updated_at_unix": 1789908153,
   "items": [
+    {
+      "title": "국회 산자위, 22일 '대미투자 1호' 관련 보고 청취",
+      "link": "https://www.yna.co.kr/view/AKR20260920037600001",
+      "pubDate": "Sun, 20 Sep 2026 17:05:20 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260920029400011",
@@ -147,11 +152,6 @@
       "title": "경기도, 추석 앞두고 건설 현장 대금체불 민원 집중관리",
       "link": "https://www.yna.co.kr/view/AKR20260920015800060",
       "pubDate": "Sun, 20 Sep 2026 09:54:47 +0900"
-    },
-    {
-      "title": "호반건설, 서울 창동상아1차 재건축 등 도시정비 2건 수주",
-      "link": "https://www.yna.co.kr/view/AKR20260920015100003",
-      "pubDate": "Sun, 20 Sep 2026 09:39:54 +0900"
     }
   ]
 }
