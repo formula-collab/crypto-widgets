@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790003480,
+  "updated_at_unix": 1790020909,
   "items": [
+    {
+      "title": "국제유가, 이란전 외교적 해법 기대 속에 하락세",
+      "link": "https://www.yna.co.kr/view/AKR20260922006000075",
+      "pubDate": "Tue, 22 Sep 2026 04:44:28 +0900"
+    },
     {
       "title": "생보사, '700 종신보험' 못 판다…금감원 감독행정 제동",
       "link": "https://www.yna.co.kr/view/AKR20260921178400002",
@@ -147,11 +152,6 @@
       "title": "박지원 \"진도 대파 무름병, 농업재해로 인정\"",
       "link": "https://www.yna.co.kr/view/AKR20260921141100054",
       "pubDate": "Mon, 21 Sep 2026 16:18:16 +0900"
-    },
-    {
-      "title": "원/달러 환율, 8거래일만에 하락…2.3원 내린 1,381.0원",
-      "link": "https://www.yna.co.kr/view/AKR20260921139000002",
-      "pubDate": "Mon, 21 Sep 2026 16:08:21 +0900"
     }
   ]
 }
