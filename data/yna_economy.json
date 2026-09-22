@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790108195,
+  "updated_at_unix": 1790118183,
   "items": [
+    {
+      "title": "부산시 우리동네 ESG 센터, 국제환경상 2년 연속 수상",
+      "link": "https://www.yna.co.kr/view/AKR20260923022800051",
+      "pubDate": "Wed, 23 Sep 2026 07:53:49 +0900"
+    },
+    {
+      "title": "타지키스탄 AI 부위원장 \"韓 ODA로 IT 파크 조성…무관세 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922157900371",
+      "pubDate": "Wed, 23 Sep 2026 07:30:02 +0900"
+    },
+    {
+      "title": "이찬진 \"금융 자회사 CEO 선임절차 개시 전 미흡한점 보완해라\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922185300002",
+      "pubDate": "Wed, 23 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260923016400011",
+      "pubDate": "Wed, 23 Sep 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'",
+      "link": "https://www.yna.co.kr/view/AKR20260922183300017",
+      "pubDate": "Wed, 23 Sep 2026 06:33:01 +0900"
+    },
+    {
+      "title": "\"명절 음식만 먹나요\"…대형마트, 간편한 델리·버거 '특수'",
+      "link": "https://www.yna.co.kr/view/AKR20260922169100030",
+      "pubDate": "Wed, 23 Sep 2026 06:30:01 +0900"
+    },
+    {
+      "title": "9월 소비심리 한 달 만에 반등…\"집값 상승 기대 여전히 높아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922176500002",
+      "pubDate": "Wed, 23 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "주금공, 주택신용보증 구상채권 2조8천억…6년만에 배 넘게 늘어",
+      "link": "https://www.yna.co.kr/view/AKR20260922185800002",
+      "pubDate": "Wed, 23 Sep 2026 05:51:00 +0900"
+    },
     {
       "title": "국제유가, 사우디 원유 공급 회복 조짐에 100달러 아래로",
       "link": "https://www.yna.co.kr/view/AKR20260923008200075",
@@ -112,46 +152,6 @@
       "title": "[인사] 국세청",
       "link": "https://www.yna.co.kr/view/AKR20260922164100002",
       "pubDate": "Tue, 22 Sep 2026 16:37:21 +0900"
-    },
-    {
-      "title": "진주 '실크등' 200여점 홍콩 수출…해외시장 진출 신호탄",
-      "link": "https://www.yna.co.kr/view/AKR20260922160600052",
-      "pubDate": "Tue, 22 Sep 2026 16:34:23 +0900"
-    },
-    {
-      "title": "HUG 전월세 안심신탁센터 출범…상담부터 계약·사후관리 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260922159600003",
-      "pubDate": "Tue, 22 Sep 2026 16:33:09 +0900"
-    },
-    {
-      "title": "경남도, 서부경남 경제자유구역 신규 지정 신청 절차 시작",
-      "link": "https://www.yna.co.kr/view/AKR20260922159500052",
-      "pubDate": "Tue, 22 Sep 2026 16:28:52 +0900"
-    },
-    {
-      "title": "태백시, 청정메탄올 생산기지 구축…1천200억원 투자 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260922157700062",
-      "pubDate": "Tue, 22 Sep 2026 16:27:00 +0900"
-    },
-    {
-      "title": "안형준 데이터처장 \"범정부 AI활용 뒷받침할 데이터 기반 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922156200002",
-      "pubDate": "Tue, 22 Sep 2026 16:26:07 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20260922159800002",
-      "pubDate": "Tue, 22 Sep 2026 16:23:39 +0900"
-    },
-    {
-      "title": "환율 이틀 연속 급락해 1,350원대로…달러매도·중동대화 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260922149800002",
-      "pubDate": "Tue, 22 Sep 2026 16:23:26 +0900"
-    },
-    {
-      "title": "카카오뱅크도 예금 금리 인상…1년 만기 연 3.7%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260922090051002",
-      "pubDate": "Tue, 22 Sep 2026 16:22:23 +0900"
     }
   ]
 }
