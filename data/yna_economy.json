@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790096733,
+  "updated_at_unix": 1790108195,
   "items": [
+    {
+      "title": "국제유가, 사우디 원유 공급 회복 조짐에 100달러 아래로",
+      "link": "https://www.yna.co.kr/view/AKR20260923008200075",
+      "pubDate": "Wed, 23 Sep 2026 04:51:17 +0900"
+    },
+    {
+      "title": "트럼프 \"미국산 경유 수출금지 입장\"…美재무 \"실현가능성 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923006900071",
+      "pubDate": "Wed, 23 Sep 2026 04:18:34 +0900"
+    },
     {
       "title": "메가특구 사회적 대화 본격화…주 1∼2회 실무협의체 개최",
       "link": "https://www.yna.co.kr/view/AKR20260922191700530",
@@ -142,16 +152,6 @@
       "title": "카카오뱅크도 예금 금리 인상…1년 만기 연 3.7%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260922090051002",
       "pubDate": "Tue, 22 Sep 2026 16:22:23 +0900"
-    },
-    {
-      "title": "공공기관 계약특례 60건 중 22건 폐지·수정…관리체계 개편",
-      "link": "https://www.yna.co.kr/view/AKR20260922156500002",
-      "pubDate": "Tue, 22 Sep 2026 16:21:17 +0900"
-    },
-    {
-      "title": "새만금개발청, 현대차 'AI 데이터센터' 건축 심의 착수",
-      "link": "https://www.yna.co.kr/view/AKR20260922158500055",
-      "pubDate": "Tue, 22 Sep 2026 16:17:19 +0900"
     }
   ]
 }
