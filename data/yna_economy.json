@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790166183,
+  "updated_at_unix": 1790183880,
   "items": [
+    {
+      "title": "李대통령 \"농지전수조사 꼭 필요…회피하지 않겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924003700001",
+      "pubDate": "Thu, 24 Sep 2026 01:42:51 +0900"
+    },
     {
       "title": "케이쓰리아이, 30억 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20260923183100008",
@@ -147,11 +152,6 @@
       "title": "거래소, 코스닥 승강제 기준 '안정성·성장성·시총' 3트랙 검토",
       "link": "https://www.yna.co.kr/view/AKR20260923128600008",
       "pubDate": "Wed, 23 Sep 2026 14:50:17 +0900"
-    },
-    {
-      "title": "횡성군, 2회 추경 7천965억원 확정…790억원 증액",
-      "link": "https://www.yna.co.kr/view/AKR20260923128700062",
-      "pubDate": "Wed, 23 Sep 2026 14:48:24 +0900"
     }
   ]
 }
