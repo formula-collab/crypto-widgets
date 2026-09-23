@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790146361,
+  "updated_at_unix": 1790166183,
   "items": [
+    {
+      "title": "케이쓰리아이, 30억 제3자배정 유상증자",
+      "link": "https://www.yna.co.kr/view/AKR20260923183100008",
+      "pubDate": "Wed, 23 Sep 2026 18:33:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260923170500011",
+      "pubDate": "Wed, 23 Sep 2026 18:00:01 +0900"
+    },
+    {
+      "title": "쿠팡 '현장조사 불복' 집행정지 기각…공정위 \"과태료 부과\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923168651004",
+      "pubDate": "Wed, 23 Sep 2026 17:46:00 +0900"
+    },
+    {
+      "title": "국고채 금리 유가 하락에 동반 하락…3년물 연 4.006%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923163051008",
+      "pubDate": "Wed, 23 Sep 2026 17:14:01 +0900"
+    },
+    {
+      "title": "OECD, 한국 올해 성장률 전망 2.6%→3.7%…G20 중 최대 폭 상향",
+      "link": "https://www.yna.co.kr/view/AKR20260923144200002",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0900"
+    },
+    {
+      "title": "춘천시, 중소기업 육성자금 500억원으로 확대…골목상권 '숨통'",
+      "link": "https://www.yna.co.kr/view/AKR20260923166200062",
+      "pubDate": "Wed, 23 Sep 2026 16:58:59 +0900"
+    },
+    {
+      "title": "국고채 금리 일제히 하락…3년물 연 4.006%",
+      "link": "https://www.yna.co.kr/view/AKR20260923163000008",
+      "pubDate": "Wed, 23 Sep 2026 16:47:52 +0900"
+    },
+    {
+      "title": "GH-이천시, '반도체 산업단지 클러스터' 조성 업무협약",
+      "link": "https://www.yna.co.kr/view/AKR20260923164300061",
+      "pubDate": "Wed, 23 Sep 2026 16:47:33 +0900"
+    },
+    {
+      "title": "K2코리아그룹, 아웃도어 브랜드 '네파' 인수…\"해외 진출 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923164200030",
+      "pubDate": "Wed, 23 Sep 2026 16:47:12 +0900"
+    },
+    {
+      "title": "[게시판] 남재헌 해수차관, 추석 수산 성수품 가격·수급 동향 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260923162300030",
+      "pubDate": "Wed, 23 Sep 2026 16:41:11 +0900"
+    },
+    {
+      "title": "코스피, 추석연휴 앞두고 또 '전강후약'…0.9% 올라 7,080(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923145051008",
+      "pubDate": "Wed, 23 Sep 2026 16:07:39 +0900"
+    },
+    {
+      "title": "환율, 1,340원대 찍고 반등해 1,360원선 접근",
+      "link": "https://www.yna.co.kr/view/AKR20260923151000002",
+      "pubDate": "Wed, 23 Sep 2026 16:06:45 +0900"
+    },
+    {
+      "title": "'시총 미달 상폐' 상장사, 코넥스로 이전상장 허용 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260923145100008",
+      "pubDate": "Wed, 23 Sep 2026 16:01:37 +0900"
+    },
+    {
+      "title": "금융당국, 가상자산 시세조종·임직원 부정거래 4건 고발·통보",
+      "link": "https://www.yna.co.kr/view/AKR20260923147800002",
+      "pubDate": "Wed, 23 Sep 2026 15:54:16 +0900"
+    },
+    {
+      "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260923044351008",
+      "pubDate": "Wed, 23 Sep 2026 15:52:29 +0900"
+    },
     {
       "title": "[특징주] 포스코퓨처엠, 대규모 수주에 급등했다 하락 마감(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260923064051008",
@@ -77,81 +152,6 @@
       "title": "횡성군, 2회 추경 7천965억원 확정…790억원 증액",
       "link": "https://www.yna.co.kr/view/AKR20260923128700062",
       "pubDate": "Wed, 23 Sep 2026 14:48:24 +0900"
-    },
-    {
-      "title": "'공모주 청약 대행 사기' 신라자산·제니스투자, 시장서 퇴출",
-      "link": "https://www.yna.co.kr/view/AKR20260923127400002",
-      "pubDate": "Wed, 23 Sep 2026 14:41:06 +0900"
-    },
-    {
-      "title": "포천시, 내년 생활임금 1만1천890원…3.7% 인상",
-      "link": "https://www.yna.co.kr/view/AKR20260923116900060",
-      "pubDate": "Wed, 23 Sep 2026 14:36:12 +0900"
-    },
-    {
-      "title": "알테오젠, 유럽서 키트루다 피하주사 조성물 특허 등록",
-      "link": "https://www.yna.co.kr/view/AKR20260923124600017",
-      "pubDate": "Wed, 23 Sep 2026 14:34:19 +0900"
-    },
-    {
-      "title": "LH, 성대야구장에 토지비축제도 활용…'공급 속도전'",
-      "link": "https://www.yna.co.kr/view/AKR20260923125000003",
-      "pubDate": "Wed, 23 Sep 2026 14:33:39 +0900"
-    },
-    {
-      "title": "바클레이즈 \"韓 장기 국고채 신중 접근…회사채도 '비중 축소'\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923122800008",
-      "pubDate": "Wed, 23 Sep 2026 14:30:25 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260923117800011",
-      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0900"
-    },
-    {
-      "title": "[게시판] NH농협은행, '올원트래블' 서비스…24종 통화 조회·환전",
-      "link": "https://www.yna.co.kr/view/AKR20260923122100002",
-      "pubDate": "Wed, 23 Sep 2026 14:25:12 +0900"
-    },
-    {
-      "title": "[게시판] 강태영 NH농협은행장, 추석 앞두고 비상대응 체계 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260923119300002",
-      "pubDate": "Wed, 23 Sep 2026 14:24:41 +0900"
-    },
-    {
-      "title": "상지대 창업보육센터, 강원도 경영평가 8년 연속 S등급",
-      "link": "https://www.yna.co.kr/view/AKR20260923118700062",
-      "pubDate": "Wed, 23 Sep 2026 14:14:02 +0900"
-    },
-    {
-      "title": "강원 제2청사·강릉시, 주문진시장서 추석 장보기 행사",
-      "link": "https://www.yna.co.kr/view/AKR20260923116800062",
-      "pubDate": "Wed, 23 Sep 2026 14:06:59 +0900"
-    },
-    {
-      "title": "\"추석 기름값, 오피넷으로 아끼세요\"…석유공사, 현장 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20260923116100003",
-      "pubDate": "Wed, 23 Sep 2026 14:04:49 +0900"
-    },
-    {
-      "title": "온라인 플랫폼 공정거래 분쟁 증가…쿠팡, 7년 연속 최다",
-      "link": "https://www.yna.co.kr/view/AKR20260923097100030",
-      "pubDate": "Wed, 23 Sep 2026 14:02:29 +0900"
-    },
-    {
-      "title": "노동장관 \"플랫폼노동자 '최저보수제' 연구…노사정 대화 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923103500530",
-      "pubDate": "Wed, 23 Sep 2026 13:54:56 +0900"
-    },
-    {
-      "title": "양천구, 내달 14일 양도세 등 부동산 세무설명회",
-      "link": "https://www.yna.co.kr/view/AKR20260923112800004",
-      "pubDate": "Wed, 23 Sep 2026 13:54:46 +0900"
-    },
-    {
-      "title": "\"금리 상승국면서 0.25%p 올리면 6개월후 아파트값 1.2%↓\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923103400003",
-      "pubDate": "Wed, 23 Sep 2026 13:51:14 +0900"
     }
   ]
 }
