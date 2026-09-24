@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790213425,
+  "updated_at_unix": 1790232759,
   "items": [
+    {
+      "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
+      "link": "https://www.yna.co.kr/view/AKR20260924038600002",
+      "pubDate": "Thu, 24 Sep 2026 15:32:38 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260924035700011",
+      "pubDate": "Thu, 24 Sep 2026 15:00:00 +0900"
+    },
+    {
+      "title": "\"소도시 세무서 납세자보호위 年1건 미만 개최…제도 개선해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260922168451001",
+      "pubDate": "Thu, 24 Sep 2026 14:15:25 +0900"
+    },
+    {
+      "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
+      "link": "https://www.yna.co.kr/view/AKR20260924028000003",
+      "pubDate": "Thu, 24 Sep 2026 14:00:00 +0900"
+    },
+    {
+      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260924027951053",
+      "pubDate": "Thu, 24 Sep 2026 12:41:58 +0900"
+    },
+    {
+      "title": "경북도, 지역 양자산업 육성 나선다…글로벌 기업과 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20260924027900053",
+      "pubDate": "Thu, 24 Sep 2026 11:31:20 +0900"
+    },
+    {
+      "title": "증권가 추석 보너스는…귀성비에 백돈 세트도",
+      "link": "https://www.yna.co.kr/view/AKR20260923145500008",
+      "pubDate": "Thu, 24 Sep 2026 11:00:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260924024200011",
+      "pubDate": "Thu, 24 Sep 2026 10:30:00 +0900"
+    },
     {
       "title": "용인시, 신축 공동주택 승강기에 에어컨 설치 의무화 추진",
       "link": "https://www.yna.co.kr/view/AKR20260921074500061",
@@ -112,46 +152,6 @@
       "title": "자주 사는 우유·라면 등 오르면 물가 더 뛴걸로 느낀다…'밥상물가' 비밀",
       "link": "https://www.yna.co.kr/view/AKR20260922112600063",
       "pubDate": "Thu, 24 Sep 2026 07:00:13 +0900"
-    },
-    {
-      "title": "[우분투칼럼] 선언에 갇힌 유엔 결의안…한국, '평등한 지구'의 실행자로",
-      "link": "https://www.yna.co.kr/view/AKR20260917123900898",
-      "pubDate": "Thu, 24 Sep 2026 07:00:10 +0900"
-    },
-    {
-      "title": "\"소도시 세무서 납세자보호위 '유명무실'…신청건수 年1건 미만\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922168400001",
-      "pubDate": "Thu, 24 Sep 2026 07:00:08 +0900"
-    },
-    {
-      "title": "\"건기식인 줄 알고 샀는데\"…일반식품 오인 광고 역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20260923157000017",
-      "pubDate": "Thu, 24 Sep 2026 06:45:00 +0900"
-    },
-    {
-      "title": "'명품 샀는데'…소비자 피해구제 신청 10건 중 8건은 '품질'",
-      "link": "https://www.yna.co.kr/view/AKR20260923086700030",
-      "pubDate": "Thu, 24 Sep 2026 06:30:02 +0900"
-    },
-    {
-      "title": "산재신청 4년새 30% 늘었는데…건설업 불승인율은 3배로",
-      "link": "https://www.yna.co.kr/view/AKR20260923099700530",
-      "pubDate": "Thu, 24 Sep 2026 06:05:00 +0900"
-    },
-    {
-      "title": "\"농촌 빈집 1년 새 6천호 증가…'빈집은행' 거래는 64건에 그쳐\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923107700030",
-      "pubDate": "Thu, 24 Sep 2026 06:00:01 +0900"
-    },
-    {
-      "title": "팍팍한 청춘…올해 2030 개인회생 3만명·채무조정 10만명 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260923146800002",
-      "pubDate": "Thu, 24 Sep 2026 05:53:00 +0900"
-    },
-    {
-      "title": "저소득 자영업자 연체율 10년 6개월 만에 최고",
-      "link": "https://www.yna.co.kr/view/AKR20260923177100002",
-      "pubDate": "Thu, 24 Sep 2026 05:51:00 +0900"
     }
   ]
 }
