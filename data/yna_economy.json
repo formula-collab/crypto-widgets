@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790232759,
+  "updated_at_unix": 1790252568,
   "items": [
+    {
+      "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260924045200083",
+      "pubDate": "Thu, 24 Sep 2026 18:09:59 +0900"
+    },
     {
       "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20260924038600002",
@@ -147,11 +152,6 @@
       "title": "은행권, 추석 연휴 휴게소서 이동점포 운영…중기 자금지원 늘려",
       "link": "https://www.yna.co.kr/view/AKR20260923178400002",
       "pubDate": "Thu, 24 Sep 2026 07:01:00 +0900"
-    },
-    {
-      "title": "자주 사는 우유·라면 등 오르면 물가 더 뛴걸로 느낀다…'밥상물가' 비밀",
-      "link": "https://www.yna.co.kr/view/AKR20260922112600063",
-      "pubDate": "Thu, 24 Sep 2026 07:00:13 +0900"
     }
   ]
 }
