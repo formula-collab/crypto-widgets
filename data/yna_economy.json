@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790282097,
+  "updated_at_unix": 1790293037,
   "items": [
+    {
+      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
+      "link": "https://www.yna.co.kr/view/AKR20260923162900003",
+      "pubDate": "Fri, 25 Sep 2026 08:31:00 +0900"
+    },
+    {
+      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
+      "link": "https://www.yna.co.kr/view/AKR20260923073400052",
+      "pubDate": "Fri, 25 Sep 2026 08:20:01 +0900"
+    },
+    {
+      "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
+      "link": "https://www.yna.co.kr/view/AKR20260923176600001",
+      "pubDate": "Fri, 25 Sep 2026 08:12:00 +0900"
+    },
+    {
+      "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922163000001",
+      "pubDate": "Fri, 25 Sep 2026 08:04:00 +0900"
+    },
+    {
+      "title": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름",
+      "link": "https://www.yna.co.kr/view/AKR20260922159900002",
+      "pubDate": "Fri, 25 Sep 2026 08:00:14 +0900"
+    },
+    {
+      "title": "[4만달러 눈 앞] ① 3%대 성장에 국민소득 도약…12년 만에 새 문턱",
+      "link": "https://www.yna.co.kr/view/AKR20260923045600002",
+      "pubDate": "Fri, 25 Sep 2026 08:00:11 +0900"
+    },
+    {
+      "title": "주식·채권도 코인으로…STO 제도화에 조각투자 시대 '성큼'",
+      "link": "https://www.yna.co.kr/view/AKR20260922097400008",
+      "pubDate": "Fri, 25 Sep 2026 08:00:02 +0900"
+    },
+    {
+      "title": "인류안전 위해 경쟁 멈추자?…힘 잃는 AI 속도조절론",
+      "link": "https://www.yna.co.kr/view/AKR20260922103700008",
+      "pubDate": "Fri, 25 Sep 2026 07:05:01 +0900"
+    },
+    {
+      "title": "동해안서 어항 폐기물 수거량 절반 이상…관리선은 가장 적어",
+      "link": "https://www.yna.co.kr/view/AKR20260923134200051",
+      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
+    },
+    {
+      "title": "세입자보다 어린 집주인?…20세 미만이 산 주택, 올해만 115건",
+      "link": "https://www.yna.co.kr/view/AKR20260923148000002",
+      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
+    },
+    {
+      "title": "코스맥스, 10년간 매출 4.5배·수출 3배…R&D 투자 12배 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260924031700030",
+      "pubDate": "Fri, 25 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
+      "link": "https://www.yna.co.kr/view/AKR20260924031200003",
+      "pubDate": "Fri, 25 Sep 2026 07:01:00 +0900"
+    },
+    {
+      "title": "탈세 유튜버에 칼 빼든 국세청…작년 17명에 239억원 부과",
+      "link": "https://www.yna.co.kr/view/AKR20260922179600001",
+      "pubDate": "Fri, 25 Sep 2026 07:00:06 +0900"
+    },
+    {
+      "title": "명절 휴게소 편의점 인기 품목은…내려갈 때 커피, 귀경 땐 과자",
+      "link": "https://www.yna.co.kr/view/AKR20260923129400030",
+      "pubDate": "Fri, 25 Sep 2026 07:00:03 +0900"
+    },
+    {
+      "title": "\"6년간 농업정책자금 부당수령 2천억원…미회수액만 898억원\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923140700030",
+      "pubDate": "Fri, 25 Sep 2026 07:00:02 +0900"
+    },
+    {
+      "title": "소득 다 털어도 빚 갚기 빠듯한 차주 3년 반 만에 반등",
+      "link": "https://www.yna.co.kr/view/AKR20260923199400002",
+      "pubDate": "Fri, 25 Sep 2026 06:01:00 +0900"
+    },
+    {
+      "title": "주금공 대위변제 3년새 138%↑…\"전세대출 못 갚는 서민 늘어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924044300001",
+      "pubDate": "Fri, 25 Sep 2026 05:58:00 +0900"
+    },
+    {
+      "title": "작년 추석 휴게소서 한명당 1만8천원 소비…심야 매출 4배 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20260923192900002",
+      "pubDate": "Fri, 25 Sep 2026 05:51:01 +0900"
+    },
     {
       "title": "이란전쟁 초반 수준으로 되돌아간 中 국내유가…7월보다 22%↑",
       "link": "https://www.yna.co.kr/view/AKR20260924045200083",
@@ -62,96 +152,6 @@
       "title": "AI분석·숏폼·커뮤니티 확대까지…증권사 MTS 개선 잇달아",
       "link": "https://www.yna.co.kr/view/AKR20260919030600008",
       "pubDate": "Thu, 24 Sep 2026 10:00:00 +0900"
-    },
-    {
-      "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까",
-      "link": "https://www.yna.co.kr/view/AKR20260923085800017",
-      "pubDate": "Thu, 24 Sep 2026 09:33:00 +0900"
-    },
-    {
-      "title": "우리은행 영업점 10곳 통폐합…오프라인 채널 효율화",
-      "link": "https://www.yna.co.kr/view/AKR20260923181300002",
-      "pubDate": "Thu, 24 Sep 2026 09:30:00 +0900"
-    },
-    {
-      "title": "'매출 높은 기업'에 신보 보증 쏠림…100억 초과 승인액 65%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260923197500002",
-      "pubDate": "Thu, 24 Sep 2026 09:01:00 +0900"
-    },
-    {
-      "title": "군포시청서 내달 21일 일자리 박람회…27개 기업 참여",
-      "link": "https://www.yna.co.kr/view/AKR20260923080800061",
-      "pubDate": "Thu, 24 Sep 2026 09:00:07 +0900"
-    },
-    {
-      "title": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
-      "link": "https://www.yna.co.kr/view/AKR20260921153900008",
-      "pubDate": "Thu, 24 Sep 2026 09:00:01 +0900"
-    },
-    {
-      "title": "LH, 5천억원 규모 우량 공동주택용지 매입…29일부터 신청 접수",
-      "link": "https://www.yna.co.kr/view/AKR20260923135900003",
-      "pubDate": "Thu, 24 Sep 2026 09:00:00 +0900"
-    },
-    {
-      "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
-      "link": "https://www.yna.co.kr/view/AKR20260923182800030",
-      "pubDate": "Thu, 24 Sep 2026 08:31:00 +0900"
-    },
-    {
-      "title": "[반려동물] 귀성·여행에 펫 돌봄 수요 증가…위탁관리업도 동반 성장",
-      "link": "https://www.yna.co.kr/view/AKR20260923151500030",
-      "pubDate": "Thu, 24 Sep 2026 08:30:01 +0900"
-    },
-    {
-      "title": "추석 앞두고 경남 8개 사업장서 임금 8천690만원 체불 적발",
-      "link": "https://www.yna.co.kr/view/AKR20260923070300052",
-      "pubDate": "Thu, 24 Sep 2026 08:15:01 +0900"
-    },
-    {
-      "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
-      "link": "https://www.yna.co.kr/view/AKR20260923109200056",
-      "pubDate": "Thu, 24 Sep 2026 08:10:02 +0900"
-    },
-    {
-      "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
-      "link": "https://www.yna.co.kr/view/AKR20260923084000003",
-      "pubDate": "Thu, 24 Sep 2026 08:05:00 +0900"
-    },
-    {
-      "title": "저가커피 공세 속에…본사 매출 464% 뛸 때 점주는 10% 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260923193600002",
-      "pubDate": "Thu, 24 Sep 2026 08:01:01 +0900"
-    },
-    {
-      "title": "군산시, 착한가격업소 신규 모집…맞춤형 혜택 제공",
-      "link": "https://www.yna.co.kr/view/AKR20260923051400055",
-      "pubDate": "Thu, 24 Sep 2026 08:00:14 +0900"
-    },
-    {
-      "title": "[부고] 문찬걸(IBK투자증권 금융소비자보호본부장)씨 모친상",
-      "link": "https://www.yna.co.kr/view/AKR20260924014800008",
-      "pubDate": "Thu, 24 Sep 2026 07:44:04 +0900"
-    },
-    {
-      "title": "추석 연휴 앞두고 '올빼미 공시' 줄줄이…매각 무산·상폐 우려",
-      "link": "https://www.yna.co.kr/view/AKR20260924013300008",
-      "pubDate": "Thu, 24 Sep 2026 07:38:26 +0900"
-    },
-    {
-      "title": "중국산이 한국산으로?…'국산둔갑 우회수출' 6년 새 12배 증가",
-      "link": "https://www.yna.co.kr/view/AKR20260923170900001",
-      "pubDate": "Thu, 24 Sep 2026 07:30:00 +0900"
-    },
-    {
-      "title": "'서학개미 큰손' 잡아라…美 ETF 브랜드 대표들 잇단 방한",
-      "link": "https://www.yna.co.kr/view/AKR20260921153800008",
-      "pubDate": "Thu, 24 Sep 2026 07:05:01 +0900"
-    },
-    {
-      "title": "은행권, 추석 연휴 휴게소서 이동점포 운영…중기 자금지원 늘려",
-      "link": "https://www.yna.co.kr/view/AKR20260923178400002",
-      "pubDate": "Thu, 24 Sep 2026 07:01:00 +0900"
     }
   ]
 }
