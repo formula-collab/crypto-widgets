@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790205395,
+  "updated_at_unix": 1790213425,
   "items": [
+    {
+      "title": "용인시, 신축 공동주택 승강기에 에어컨 설치 의무화 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260921074500061",
+      "pubDate": "Thu, 24 Sep 2026 10:01:01 +0900"
+    },
+    {
+      "title": "'디센트' 해킹 피해 일파만파?…리플 1천만개 탈취 추정도",
+      "link": "https://www.yna.co.kr/view/AKR20260923182400002",
+      "pubDate": "Thu, 24 Sep 2026 10:01:00 +0900"
+    },
+    {
+      "title": "AI분석·숏폼·커뮤니티 확대까지…증권사 MTS 개선 잇달아",
+      "link": "https://www.yna.co.kr/view/AKR20260919030600008",
+      "pubDate": "Thu, 24 Sep 2026 10:00:00 +0900"
+    },
+    {
+      "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까",
+      "link": "https://www.yna.co.kr/view/AKR20260923085800017",
+      "pubDate": "Thu, 24 Sep 2026 09:33:00 +0900"
+    },
+    {
+      "title": "우리은행 영업점 10곳 통폐합…오프라인 채널 효율화",
+      "link": "https://www.yna.co.kr/view/AKR20260923181300002",
+      "pubDate": "Thu, 24 Sep 2026 09:30:00 +0900"
+    },
+    {
+      "title": "'매출 높은 기업'에 신보 보증 쏠림…100억 초과 승인액 65%↑",
+      "link": "https://www.yna.co.kr/view/AKR20260923197500002",
+      "pubDate": "Thu, 24 Sep 2026 09:01:00 +0900"
+    },
+    {
+      "title": "군포시청서 내달 21일 일자리 박람회…27개 기업 참여",
+      "link": "https://www.yna.co.kr/view/AKR20260923080800061",
+      "pubDate": "Thu, 24 Sep 2026 09:00:07 +0900"
+    },
+    {
+      "title": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
+      "link": "https://www.yna.co.kr/view/AKR20260921153900008",
+      "pubDate": "Thu, 24 Sep 2026 09:00:01 +0900"
+    },
+    {
+      "title": "LH, 5천억원 규모 우량 공동주택용지 매입…29일부터 신청 접수",
+      "link": "https://www.yna.co.kr/view/AKR20260923135900003",
+      "pubDate": "Thu, 24 Sep 2026 09:00:00 +0900"
+    },
+    {
+      "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증",
+      "link": "https://www.yna.co.kr/view/AKR20260923182800030",
+      "pubDate": "Thu, 24 Sep 2026 08:31:00 +0900"
+    },
+    {
+      "title": "[반려동물] 귀성·여행에 펫 돌봄 수요 증가…위탁관리업도 동반 성장",
+      "link": "https://www.yna.co.kr/view/AKR20260923151500030",
+      "pubDate": "Thu, 24 Sep 2026 08:30:01 +0900"
+    },
+    {
+      "title": "추석 앞두고 경남 8개 사업장서 임금 8천690만원 체불 적발",
+      "link": "https://www.yna.co.kr/view/AKR20260923070300052",
+      "pubDate": "Thu, 24 Sep 2026 08:15:01 +0900"
+    },
     {
       "title": "우수관 공사 굴착기 작업 중 사망사고…공사 관계자들 집유",
       "link": "https://www.yna.co.kr/view/AKR20260923109200056",
@@ -92,66 +152,6 @@
       "title": "저소득 자영업자 연체율 10년 6개월 만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20260923177100002",
       "pubDate": "Thu, 24 Sep 2026 05:51:00 +0900"
-    },
-    {
-      "title": "\"외상값 못받는 중소기업들\"…매출채권보험 사고액 4년새 65%↑",
-      "link": "https://www.yna.co.kr/view/AKR20260923141100001",
-      "pubDate": "Thu, 24 Sep 2026 05:20:00 +0900"
-    },
-    {
-      "title": "李대통령 \"농지전수조사 꼭 필요…회피하지 않겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260924003700001",
-      "pubDate": "Thu, 24 Sep 2026 01:42:51 +0900"
-    },
-    {
-      "title": "케이쓰리아이, 30억 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260923183100008",
-      "pubDate": "Wed, 23 Sep 2026 18:33:19 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260923170500011",
-      "pubDate": "Wed, 23 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "title": "쿠팡 '현장조사 불복' 집행정지 기각…공정위 \"과태료 부과\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260923168651004",
-      "pubDate": "Wed, 23 Sep 2026 17:46:00 +0900"
-    },
-    {
-      "title": "국고채 금리 유가 하락에 동반 하락…3년물 연 4.006%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260923163051008",
-      "pubDate": "Wed, 23 Sep 2026 17:14:01 +0900"
-    },
-    {
-      "title": "OECD, 한국 올해 성장률 전망 2.6%→3.7%…G20 중 최대 폭 상향",
-      "link": "https://www.yna.co.kr/view/AKR20260923144200002",
-      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0900"
-    },
-    {
-      "title": "춘천시, 중소기업 육성자금 500억원으로 확대…골목상권 '숨통'",
-      "link": "https://www.yna.co.kr/view/AKR20260923166200062",
-      "pubDate": "Wed, 23 Sep 2026 16:58:59 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 4.006%",
-      "link": "https://www.yna.co.kr/view/AKR20260923163000008",
-      "pubDate": "Wed, 23 Sep 2026 16:47:52 +0900"
-    },
-    {
-      "title": "GH-이천시, '반도체 산업단지 클러스터' 조성 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20260923164300061",
-      "pubDate": "Wed, 23 Sep 2026 16:47:33 +0900"
-    },
-    {
-      "title": "K2코리아그룹, 아웃도어 브랜드 '네파' 인수…\"해외 진출 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923164200030",
-      "pubDate": "Wed, 23 Sep 2026 16:47:12 +0900"
-    },
-    {
-      "title": "[게시판] 남재헌 해수차관, 추석 수산 성수품 가격·수급 동향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260923162300030",
-      "pubDate": "Wed, 23 Sep 2026 16:41:11 +0900"
     }
   ]
 }
