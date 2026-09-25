@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790342334,
+  "updated_at_unix": 1790359181,
   "items": [
+    {
+      "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
+      "link": "https://www.yna.co.kr/view/AKR20260926002300071",
+      "pubDate": "Sat, 26 Sep 2026 02:08:23 +0900"
+    },
     {
       "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
       "link": "https://www.yna.co.kr/view/AKR20260924040400002",
@@ -147,11 +152,6 @@
       "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
       "link": "https://www.yna.co.kr/view/AKR20260923176600001",
       "pubDate": "Fri, 25 Sep 2026 08:12:00 +0900"
-    },
-    {
-      "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922163000001",
-      "pubDate": "Fri, 25 Sep 2026 08:04:00 +0900"
     }
   ]
 }
