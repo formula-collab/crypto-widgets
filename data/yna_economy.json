@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790359181,
+  "updated_at_unix": 1790370646,
   "items": [
+    {
+      "title": "육아휴직 복귀, 작은 회사일수록 힘들다…중소기업 70% 그쳐",
+      "link": "https://www.yna.co.kr/view/AKR20260923141900530",
+      "pubDate": "Sat, 26 Sep 2026 06:01:02 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 광명시티프라디움에듀하임 등 전국서 3천641가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20260922190400003",
+      "pubDate": "Sat, 26 Sep 2026 06:01:00 +0900"
+    },
+    {
+      "title": "\"폐업 선불거래 피해구제 3년 새 7배↑…필라테스·헬스장 74%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260924046300001",
+      "pubDate": "Sat, 26 Sep 2026 06:00:05 +0900"
+    },
+    {
+      "title": "\"4년새 저축은행 자영업자 대출잔액 절반 되고 연체율은 3.6배\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922164700001",
+      "pubDate": "Sat, 26 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "\"집값 비싼 곳 청소년 자살률 낮아\"…주거환경 밀접성 연구 결과",
+      "link": "https://www.yna.co.kr/view/AKR20260923138700004",
+      "pubDate": "Sat, 26 Sep 2026 05:55:02 +0900"
+    },
+    {
+      "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
+      "link": "https://www.yna.co.kr/view/AKR20260923196200002",
+      "pubDate": "Sat, 26 Sep 2026 05:51:00 +0900"
+    },
     {
       "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
       "link": "https://www.yna.co.kr/view/AKR20260926002300071",
@@ -122,36 +152,6 @@
       "title": "농진원 \"저탄소 인증 농산물 휴대전화로 확인하세요\"",
       "link": "https://www.yna.co.kr/view/AKR20260923055000055",
       "pubDate": "Fri, 25 Sep 2026 09:00:16 +0900"
-    },
-    {
-      "title": "상반기 역대 최대 실적 증권사들…기부는 인색하네",
-      "link": "https://www.yna.co.kr/view/AKR20260921150100008",
-      "pubDate": "Fri, 25 Sep 2026 09:00:05 +0900"
-    },
-    {
-      "title": "[반려동물] 강아지용 한복·송편 인기…품절까지 부른 추석 '명절템'",
-      "link": "https://www.yna.co.kr/view/AKR20260923138000030",
-      "pubDate": "Fri, 25 Sep 2026 09:00:03 +0900"
-    },
-    {
-      "title": "'고윤정 출연 작품 아니었어?'…패션업계, 영화 같은 광고 화제",
-      "link": "https://www.yna.co.kr/view/AKR20260923185000030",
-      "pubDate": "Fri, 25 Sep 2026 09:00:02 +0900"
-    },
-    {
-      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
-      "link": "https://www.yna.co.kr/view/AKR20260923162900003",
-      "pubDate": "Fri, 25 Sep 2026 08:31:00 +0900"
-    },
-    {
-      "title": "남해 농어촌 기본소득, 추석 연휴 전통시장·골목상권 활력 기대",
-      "link": "https://www.yna.co.kr/view/AKR20260923073400052",
-      "pubDate": "Fri, 25 Sep 2026 08:20:01 +0900"
-    },
-    {
-      "title": "기은·산은 '146억 규모' 골프회원권 보유…사용내역은 '깜깜이'",
-      "link": "https://www.yna.co.kr/view/AKR20260923176600001",
-      "pubDate": "Fri, 25 Sep 2026 08:12:00 +0900"
     }
   ]
 }
