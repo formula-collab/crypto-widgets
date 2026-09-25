@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790302514,
+  "updated_at_unix": 1790323185,
   "items": [
+    {
+      "title": "수은, 멕시코 대외무역개발은행과 1억달러 금융협력",
+      "link": "https://www.yna.co.kr/view/AKR20260924040400002",
+      "pubDate": "Fri, 25 Sep 2026 15:45:01 +0900"
+    },
+    {
+      "title": "한-멕시코 투자보장 협정 개정 협상 타결…개시 이후 7년만",
+      "link": "https://www.yna.co.kr/view/AKR20260925033600504",
+      "pubDate": "Fri, 25 Sep 2026 15:41:17 +0900"
+    },
+    {
+      "title": "한-멕시코 세관당국 MOU…마약·K브랜드 위조 단속 협력 강화",
+      "link": "https://www.yna.co.kr/view/AKR20260924037200002",
+      "pubDate": "Fri, 25 Sep 2026 15:18:45 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260925030300011",
+      "pubDate": "Fri, 25 Sep 2026 15:00:01 +0900"
+    },
+    {
+      "title": "다시 고개 든 엔저…日 \"트럼프, 우려 표명\" 이례적 공개",
+      "link": "https://www.yna.co.kr/view/AKR20260925030000073",
+      "pubDate": "Fri, 25 Sep 2026 14:24:12 +0900"
+    },
+    {
+      "title": "K-윤활기유, 하반기도 '맑음'…반사이익 넘어 공급망 대안으로",
+      "link": "https://www.yna.co.kr/view/AKR20260923056600003",
+      "pubDate": "Fri, 25 Sep 2026 11:31:01 +0900"
+    },
     {
       "title": "'시총미달 상폐' 코스닥서 속출…내달부터 동전주까지 무더기 위기",
       "link": "https://www.yna.co.kr/view/AKR20260924025000008",
@@ -122,36 +152,6 @@
       "title": "\"공정위, 최근 5년간 50명이 보고 누락하고 외부인 접촉\"",
       "link": "https://www.yna.co.kr/view/AKR20260922163000001",
       "pubDate": "Fri, 25 Sep 2026 08:04:00 +0900"
-    },
-    {
-      "title": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름",
-      "link": "https://www.yna.co.kr/view/AKR20260922159900002",
-      "pubDate": "Fri, 25 Sep 2026 08:00:14 +0900"
-    },
-    {
-      "title": "[4만달러 눈 앞] ① 3%대 성장에 국민소득 도약…12년 만에 새 문턱",
-      "link": "https://www.yna.co.kr/view/AKR20260923045600002",
-      "pubDate": "Fri, 25 Sep 2026 08:00:11 +0900"
-    },
-    {
-      "title": "주식·채권도 코인으로…STO 제도화에 조각투자 시대 '성큼'",
-      "link": "https://www.yna.co.kr/view/AKR20260922097400008",
-      "pubDate": "Fri, 25 Sep 2026 08:00:02 +0900"
-    },
-    {
-      "title": "인류안전 위해 경쟁 멈추자?…힘 잃는 AI 속도조절론",
-      "link": "https://www.yna.co.kr/view/AKR20260922103700008",
-      "pubDate": "Fri, 25 Sep 2026 07:05:01 +0900"
-    },
-    {
-      "title": "동해안서 어항 폐기물 수거량 절반 이상…관리선은 가장 적어",
-      "link": "https://www.yna.co.kr/view/AKR20260923134200051",
-      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
-    },
-    {
-      "title": "세입자보다 어린 집주인?…20세 미만이 산 주택, 올해만 115건",
-      "link": "https://www.yna.co.kr/view/AKR20260923148000002",
-      "pubDate": "Fri, 25 Sep 2026 07:01:02 +0900"
     }
   ]
 }
