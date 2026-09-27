@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790488580,
+  "updated_at_unix": 1790507113,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20260927032100011",
+      "pubDate": "Sun, 27 Sep 2026 15:00:00 +0900"
+    },
     {
       "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260927027051003",
@@ -147,11 +152,6 @@
       "title": "LH \"서리풀 1지구 내년 3월 지구계획 승인 즉시 보상 착수\"",
       "link": "https://www.yna.co.kr/view/AKR20260923156600003",
       "pubDate": "Sun, 27 Sep 2026 09:00:05 +0900"
-    },
-    {
-      "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
-      "link": "https://www.yna.co.kr/view/AKR20260927011600017",
-      "pubDate": "Sun, 27 Sep 2026 08:55:48 +0900"
     }
   ]
 }
