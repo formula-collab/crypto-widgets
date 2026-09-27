@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790507113,
+  "updated_at_unix": 1790523710,
   "items": [
+    {
+      "title": "[동포의 창] 인천서 한상 네트워크 구축하는 '동행의 밤' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20260927055400371",
+      "pubDate": "Sun, 27 Sep 2026 22:32:10 +0900"
+    },
+    {
+      "title": "예탁원, 결제촉진대금에 증권납부 허용…국채 담보인정 최대 98%",
+      "link": "https://www.yna.co.kr/view/AKR20260927051600008",
+      "pubDate": "Sun, 27 Sep 2026 20:28:02 +0900"
+    },
+    {
+      "title": "이형일, 첫 경제현안간담회…전기차 정책·퇴직연금 개선 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260927051000002",
+      "pubDate": "Sun, 27 Sep 2026 20:04:30 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20260927032100011",
@@ -137,21 +152,6 @@
       "title": "안산시, ASV 내 첨단로봇 400억원대 대규모 투자 유치",
       "link": "https://www.yna.co.kr/view/AKR20260923130800061",
       "pubDate": "Sun, 27 Sep 2026 09:09:00 +0900"
-    },
-    {
-      "title": "광주 반도체 산단 수백억 용역 발주…지역업체는 그림의 떡",
-      "link": "https://www.yna.co.kr/view/AKR20260921056700054",
-      "pubDate": "Sun, 27 Sep 2026 09:01:02 +0900"
-    },
-    {
-      "title": "영진전문대, 일본 AI·IT기업 공략 통했다…14명 취업 내정",
-      "link": "https://www.yna.co.kr/view/AKR20260922163700053",
-      "pubDate": "Sun, 27 Sep 2026 09:01:02 +0900"
-    },
-    {
-      "title": "LH \"서리풀 1지구 내년 3월 지구계획 승인 즉시 보상 착수\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923156600003",
-      "pubDate": "Sun, 27 Sep 2026 09:00:05 +0900"
     }
   ]
 }
