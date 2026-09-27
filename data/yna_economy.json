@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790461383,
+  "updated_at_unix": 1790469807,
   "items": [
+    {
+      "title": "안산시, ASV 내 첨단로봇 400억원대 대규모 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20260923130800061",
+      "pubDate": "Sun, 27 Sep 2026 09:09:00 +0900"
+    },
+    {
+      "title": "광주 반도체 산단 수백억 용역 발주…지역업체는 그림의 떡",
+      "link": "https://www.yna.co.kr/view/AKR20260921056700054",
+      "pubDate": "Sun, 27 Sep 2026 09:01:02 +0900"
+    },
+    {
+      "title": "영진전문대, 일본 AI·IT기업 공략 통했다…14명 취업 내정",
+      "link": "https://www.yna.co.kr/view/AKR20260922163700053",
+      "pubDate": "Sun, 27 Sep 2026 09:01:02 +0900"
+    },
+    {
+      "title": "LH \"서리풀 1지구 내년 3월 지구계획 승인 즉시 보상 착수\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923156600003",
+      "pubDate": "Sun, 27 Sep 2026 09:00:05 +0900"
+    },
+    {
+      "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
+      "link": "https://www.yna.co.kr/view/AKR20260927011600017",
+      "pubDate": "Sun, 27 Sep 2026 08:55:48 +0900"
+    },
+    {
+      "title": "소비자 분쟁조정 3년 새 3.3배 증가…조정 성립률은 10%P 하락",
+      "link": "https://www.yna.co.kr/view/AKR20260923188000030",
+      "pubDate": "Sun, 27 Sep 2026 08:13:11 +0900"
+    },
+    {
+      "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
+      "link": "https://www.yna.co.kr/view/AKR20260927007200003",
+      "pubDate": "Sun, 27 Sep 2026 08:10:16 +0900"
+    },
+    {
+      "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922165200001",
+      "pubDate": "Sun, 27 Sep 2026 08:05:01 +0900"
+    },
+    {
+      "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
+      "link": "https://www.yna.co.kr/view/AKR20260923077200061",
+      "pubDate": "Sun, 27 Sep 2026 08:02:01 +0900"
+    },
+    {
+      "title": "제주 양식 고등어 일본 간다…스타트업 메가플랜, 수출 협약",
+      "link": "https://www.yna.co.kr/view/AKR20260922155600056",
+      "pubDate": "Sun, 27 Sep 2026 08:00:11 +0900"
+    },
+    {
+      "title": "원주시, 10월 3일 '사회적경제컴퍼니'…ESG·민관협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260923043500062",
+      "pubDate": "Sun, 27 Sep 2026 08:00:08 +0900"
+    },
+    {
+      "title": "광주 중앙공원 특례사업 시공권 놓친 한양, 400억 위약금 승소",
+      "link": "https://www.yna.co.kr/view/AKR20260923069700054",
+      "pubDate": "Sun, 27 Sep 2026 08:00:07 +0900"
+    },
+    {
+      "title": "LG전자, 전기쿡탑 종주국 미국서 줄줄이 최고 평가",
+      "link": "https://www.yna.co.kr/view/AKR20260923100700003",
+      "pubDate": "Sun, 27 Sep 2026 07:45:00 +0900"
+    },
+    {
+      "title": "1천조 시장 열리는 AI반도체…\"정부, 공급망 진출 지원해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923100300003",
+      "pubDate": "Sun, 27 Sep 2026 07:31:00 +0900"
+    },
     {
       "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
       "link": "https://www.yna.co.kr/view/AKR20260923161100008",
@@ -82,76 +152,6 @@
       "title": "대출 갈아타라더니 금리가 더 높다?…은행권 '금리 역전' 현상",
       "link": "https://www.yna.co.kr/view/AKR20260923166500002",
       "pubDate": "Sun, 27 Sep 2026 05:49:01 +0900"
-    },
-    {
-      "title": "연휴 뒤 5대 은행장 인선 본격화…은행 추천위 역할 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260926027200002",
-      "pubDate": "Sun, 27 Sep 2026 05:47:00 +0900"
-    },
-    {
-      "title": "미래기금 사업 131건 중 감액 6건…95%는 부처 요구 그대로",
-      "link": "https://www.yna.co.kr/view/AKR20260925046400002",
-      "pubDate": "Sun, 27 Sep 2026 05:45:03 +0900"
-    },
-    {
-      "title": "미래기금 지방 보조사업비 3년간 쓴다…회계연도 예외 더 길게",
-      "link": "https://www.yna.co.kr/view/AKR20260926043000002",
-      "pubDate": "Sun, 27 Sep 2026 05:45:03 +0900"
-    },
-    {
-      "title": "올해 초과세수 '50조원+α'…내년 미래대응기금 200조원 넘을 듯",
-      "link": "https://www.yna.co.kr/view/AKR20260926037000002",
-      "pubDate": "Sun, 27 Sep 2026 05:45:01 +0900"
-    },
-    {
-      "title": "간병보험 위장청구 급증…\"간병인 1명에 최대 5천만원 청구도\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923021600001",
-      "pubDate": "Sun, 27 Sep 2026 05:00:01 +0900"
-    },
-    {
-      "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260923164700003",
-      "pubDate": "Sat, 26 Sep 2026 11:31:00 +0900"
-    },
-    {
-      "title": "UAE와 방산협력에 수혜 기대…\"방산주 추세전환 동력 전망\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923166300008",
-      "pubDate": "Sat, 26 Sep 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260926022700011",
-      "pubDate": "Sat, 26 Sep 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 신약 찾고 스타트업 키우고…협력 넓히는 K바이오",
-      "link": "https://www.yna.co.kr/view/AKR20260923099000017",
-      "pubDate": "Sat, 26 Sep 2026 10:00:04 +0900"
-    },
-    {
-      "title": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
-      "link": "https://www.yna.co.kr/view/AKR20260923156800008",
-      "pubDate": "Sat, 26 Sep 2026 10:00:02 +0900"
-    },
-    {
-      "title": "전세사기 막을 공인중개사 설명의무 위반 3년 새 4.6배↑",
-      "link": "https://www.yna.co.kr/view/AKR20260923181000003",
-      "pubDate": "Sat, 26 Sep 2026 09:31:00 +0900"
-    },
-    {
-      "title": "주금공 PF보증 예상손실률 3년 새 13배로…충당부채 15배",
-      "link": "https://www.yna.co.kr/view/AKR20260924048600002",
-      "pubDate": "Sat, 26 Sep 2026 09:30:01 +0900"
-    },
-    {
-      "title": "채명기 경기도의원 \"개발사업 때 교통·교육 평가 명확해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923082700061",
-      "pubDate": "Sat, 26 Sep 2026 09:05:11 +0900"
-    },
-    {
-      "title": "전남광주 통합 공무원 시험 '거주지 제한' 대폭 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260923156300054",
-      "pubDate": "Sat, 26 Sep 2026 09:05:01 +0900"
     }
   ]
 }
