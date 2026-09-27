@@ -1,8 +1,133 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790469807,
+  "updated_at_unix": 1790488580,
   "items": [
+    {
+      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260927027051003",
+      "pubDate": "Sun, 27 Sep 2026 13:17:36 +0900"
+    },
+    {
+      "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로",
+      "link": "https://www.yna.co.kr/view/AKR20260927027000003",
+      "pubDate": "Sun, 27 Sep 2026 12:54:22 +0900"
+    },
+    {
+      "title": "\"전력망 유연성 높이는 에너지저장장치 특허 한국이 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923088200063",
+      "pubDate": "Sun, 27 Sep 2026 12:00:07 +0900"
+    },
+    {
+      "title": "윤호중, UN 사회연대경제 고위급 회의 참석…햇빛소득마을 소개",
+      "link": "https://www.yna.co.kr/view/AKR20260926046000530",
+      "pubDate": "Sun, 27 Sep 2026 12:00:04 +0900"
+    },
+    {
+      "title": "중장년 인생2막 활짝…노동부 '중장년고용 강조 주간' 실시",
+      "link": "https://www.yna.co.kr/view/AKR20260926044400530",
+      "pubDate": "Sun, 27 Sep 2026 12:00:03 +0900"
+    },
+    {
+      "title": "직장인 72% \"기간제 2+2년 메가특구법, 정규직 일자리 줄여\" 우려",
+      "link": "https://www.yna.co.kr/view/AKR20260927010300004",
+      "pubDate": "Sun, 27 Sep 2026 12:00:02 +0900"
+    },
+    {
+      "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20260927016500003",
+      "pubDate": "Sun, 27 Sep 2026 12:00:01 +0900"
+    },
+    {
+      "title": "늦어지는 대미투자 발표…산업부 \"미국 내부 절차 남아\"",
+      "link": "https://www.yna.co.kr/view/AKR20260927024600003",
+      "pubDate": "Sun, 27 Sep 2026 11:49:28 +0900"
+    },
+    {
+      "title": "'서울 외국인 채용박람회' 참여기업 내달 16일까지 모집",
+      "link": "https://www.yna.co.kr/view/AKR20260924022400004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:03 +0900"
+    },
+    {
+      "title": "중장년 사회공헌활동 일자리 소개…서울시 '가치동행한마당'",
+      "link": "https://www.yna.co.kr/view/AKR20260924024100004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
+    },
+    {
+      "title": "구로역 일대·공항로 지구단위계획 재정비…'그늘보행권' 반영",
+      "link": "https://www.yna.co.kr/view/AKR20260927011100004",
+      "pubDate": "Sun, 27 Sep 2026 11:15:01 +0900"
+    },
+    {
+      "title": "[부고] 홍수용(머니투데이방송 부국장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20260927022500004",
+      "pubDate": "Sun, 27 Sep 2026 11:14:33 +0900"
+    },
+    {
+      "title": "해수부, '연안 선박 현대화 펀드' 지원 대상 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260923138900051",
+      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
+    },
+    {
+      "title": "해수부, 항만·어항 등 해양수산 건설공사 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20260923142500051",
+      "pubDate": "Sun, 27 Sep 2026 11:00:04 +0900"
+    },
+    {
+      "title": "한국 제안한 '선박 탄소 포집장치 안전' 국제기준 만든다",
+      "link": "https://www.yna.co.kr/view/AKR20260923149800051",
+      "pubDate": "Sun, 27 Sep 2026 11:00:03 +0900"
+    },
+    {
+      "title": "단일 레버리지 규제 효과…거래대금 92%↓, 회전율도 한 자릿수",
+      "link": "https://www.yna.co.kr/view/AKR20260923189500008",
+      "pubDate": "Sun, 27 Sep 2026 11:00:03 +0900"
+    },
+    {
+      "title": "한·아세안, FTA 개선 위한 2차 협상…공급망 등 13개 분야 논의",
+      "link": "https://www.yna.co.kr/view/AKR20260927012100003",
+      "pubDate": "Sun, 27 Sep 2026 11:00:02 +0900"
+    },
+    {
+      "title": "코트라, 중국 디지털 무역박람회서 한국관…K-소비재 판로 공략",
+      "link": "https://www.yna.co.kr/view/AKR20260927012700003",
+      "pubDate": "Sun, 27 Sep 2026 11:00:01 +0900"
+    },
+    {
+      "title": "상의, 멕시코서 비즈니스 포럼…최태원 \"새로운 성장 첫걸음\"",
+      "link": "https://www.yna.co.kr/view/AKR20260927019100003",
+      "pubDate": "Sun, 27 Sep 2026 10:41:36 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260927017100011",
+      "pubDate": "Sun, 27 Sep 2026 10:30:00 +0900"
+    },
+    {
+      "title": "한·멕시코, 정상회담 계기 경협 강화…무역협정 개시도 준비",
+      "link": "https://www.yna.co.kr/view/AKR20260927018100003",
+      "pubDate": "Sun, 27 Sep 2026 10:21:16 +0900"
+    },
+    {
+      "title": "광주 아파트 매매가격 상승세 전환…'통합·반도체 효과'",
+      "link": "https://www.yna.co.kr/view/AKR20260923075800054",
+      "pubDate": "Sun, 27 Sep 2026 10:00:04 +0900"
+    },
+    {
+      "title": "[마켓人] 이영곤 토스증권 리서치센터장 \"AI사이클 관건은 기업 여력\"",
+      "link": "https://www.yna.co.kr/view/AKR20260922105800008",
+      "pubDate": "Sun, 27 Sep 2026 10:00:02 +0900"
+    },
+    {
+      "title": "박홍근 \"호남 반도체, 기업 팔 비틀기 아냐…팹 증설도 구상\"",
+      "link": "https://www.yna.co.kr/view/AKR20260927016000002",
+      "pubDate": "Sun, 27 Sep 2026 09:52:17 +0900"
+    },
+    {
+      "title": "경남도, 내달 서울서 투자유치 설명회…기업인 300여명 초청",
+      "link": "https://www.yna.co.kr/view/AKR20260927015500052",
+      "pubDate": "Sun, 27 Sep 2026 09:37:05 +0900"
+    },
     {
       "title": "안산시, ASV 내 첨단로봇 400억원대 대규모 투자 유치",
       "link": "https://www.yna.co.kr/view/AKR20260923130800061",
@@ -27,131 +152,6 @@
       "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
       "link": "https://www.yna.co.kr/view/AKR20260927011600017",
       "pubDate": "Sun, 27 Sep 2026 08:55:48 +0900"
-    },
-    {
-      "title": "소비자 분쟁조정 3년 새 3.3배 증가…조정 성립률은 10%P 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260923188000030",
-      "pubDate": "Sun, 27 Sep 2026 08:13:11 +0900"
-    },
-    {
-      "title": "'고품질 공공임대' 시즌2…물량·재원 등 제약 극복할까",
-      "link": "https://www.yna.co.kr/view/AKR20260927007200003",
-      "pubDate": "Sun, 27 Sep 2026 08:10:16 +0900"
-    },
-    {
-      "title": "\"청년 지원 소액대출 '햇살론유스' 신청자 5명 중 1명은 거절\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922165200001",
-      "pubDate": "Sun, 27 Sep 2026 08:05:01 +0900"
-    },
-    {
-      "title": "용인시, 내년 지역화폐 44% 확대 발행…체감형 민생회복 추진",
-      "link": "https://www.yna.co.kr/view/AKR20260923077200061",
-      "pubDate": "Sun, 27 Sep 2026 08:02:01 +0900"
-    },
-    {
-      "title": "제주 양식 고등어 일본 간다…스타트업 메가플랜, 수출 협약",
-      "link": "https://www.yna.co.kr/view/AKR20260922155600056",
-      "pubDate": "Sun, 27 Sep 2026 08:00:11 +0900"
-    },
-    {
-      "title": "원주시, 10월 3일 '사회적경제컴퍼니'…ESG·민관협력 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260923043500062",
-      "pubDate": "Sun, 27 Sep 2026 08:00:08 +0900"
-    },
-    {
-      "title": "광주 중앙공원 특례사업 시공권 놓친 한양, 400억 위약금 승소",
-      "link": "https://www.yna.co.kr/view/AKR20260923069700054",
-      "pubDate": "Sun, 27 Sep 2026 08:00:07 +0900"
-    },
-    {
-      "title": "LG전자, 전기쿡탑 종주국 미국서 줄줄이 최고 평가",
-      "link": "https://www.yna.co.kr/view/AKR20260923100700003",
-      "pubDate": "Sun, 27 Sep 2026 07:45:00 +0900"
-    },
-    {
-      "title": "1천조 시장 열리는 AI반도체…\"정부, 공급망 진출 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923100300003",
-      "pubDate": "Sun, 27 Sep 2026 07:31:00 +0900"
-    },
-    {
-      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
-      "link": "https://www.yna.co.kr/view/AKR20260923161100008",
-      "pubDate": "Sun, 27 Sep 2026 07:15:02 +0900"
-    },
-    {
-      "title": "경기도, 내년 개발제한구역 주민지원사업 국비 123억원 확보",
-      "link": "https://www.yna.co.kr/view/AKR20260923130100061",
-      "pubDate": "Sun, 27 Sep 2026 07:01:04 +0900"
-    },
-    {
-      "title": "입법조사처 \"가축전염병 느는데…수의직 공무원 결원율 34%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923179400030",
-      "pubDate": "Sun, 27 Sep 2026 07:00:05 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
-      "link": "https://www.yna.co.kr/view/AKR20260926021000008",
-      "pubDate": "Sun, 27 Sep 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[반려동물] \"펫로스는 노령기부터 지원 필요…동물병원비 부담은 낮춰야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260923177200030",
-      "pubDate": "Sun, 27 Sep 2026 06:30:01 +0900"
-    },
-    {
-      "title": "작년 360억원 쏟은 K푸드 수출 지원…지원 기업 53% 수출액 감소",
-      "link": "https://www.yna.co.kr/view/AKR20260926039900030",
-      "pubDate": "Sun, 27 Sep 2026 06:01:02 +0900"
-    },
-    {
-      "title": "\"8월 오디세이·스파이더맨에 4명 중 1명 2회 이상 영화관람\"",
-      "link": "https://www.yna.co.kr/view/AKR20260926043700002",
-      "pubDate": "Sun, 27 Sep 2026 06:01:01 +0900"
-    },
-    {
-      "title": "최수진 \"한중 FTA 10년…경제적 효과는 정부예상치 4 분의 1\"",
-      "link": "https://www.yna.co.kr/view/AKR20260922148900001",
-      "pubDate": "Sun, 27 Sep 2026 06:00:45 +0900"
-    },
-    {
-      "title": "\"조달청, 외부선임 소송 패소율 41%…직접 수행 두배\"",
-      "link": "https://www.yna.co.kr/view/AKR20260926036400002",
-      "pubDate": "Sun, 27 Sep 2026 05:59:00 +0900"
-    },
-    {
-      "title": "엔화 스테이블코인 3배로 뛰었다 급락…1인당 평가손 130만원",
-      "link": "https://www.yna.co.kr/view/AKR20260926030100002",
-      "pubDate": "Sun, 27 Sep 2026 05:57:01 +0900"
-    },
-    {
-      "title": "강남3구 주요단지 '추풍낙엽'…반포 5.5억·도곡 2.1억 급락",
-      "link": "https://www.yna.co.kr/view/AKR20260923098200003",
-      "pubDate": "Sun, 27 Sep 2026 05:57:00 +0900"
-    },
-    {
-      "title": "'공정위 퇴직자 잘나가네'…10대 로펌에 10년간 86명 이직",
-      "link": "https://www.yna.co.kr/view/AKR20260923197000002",
-      "pubDate": "Sun, 27 Sep 2026 05:55:03 +0900"
-    },
-    {
-      "title": "매물 품귀에 서울 아파트 전세보증금 2년전보다 8천만원 상승",
-      "link": "https://www.yna.co.kr/view/AKR20260926024600003",
-      "pubDate": "Sun, 27 Sep 2026 05:55:02 +0900"
-    },
-    {
-      "title": "금감원 검사결과 중간발표, '소비자피해 우려' 등에만 허용",
-      "link": "https://www.yna.co.kr/view/AKR20260926020600002",
-      "pubDate": "Sun, 27 Sep 2026 05:53:00 +0900"
-    },
-    {
-      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
-      "link": "https://www.yna.co.kr/view/AKR20260925042800002",
-      "pubDate": "Sun, 27 Sep 2026 05:51:00 +0900"
-    },
-    {
-      "title": "대출 갈아타라더니 금리가 더 높다?…은행권 '금리 역전' 현상",
-      "link": "https://www.yna.co.kr/view/AKR20260923166500002",
-      "pubDate": "Sun, 27 Sep 2026 05:49:01 +0900"
     }
   ]
 }
