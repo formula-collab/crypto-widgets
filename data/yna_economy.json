@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790604868,
+  "updated_at_unix": 1790627860,
   "items": [
+    {
+      "title": "미, 이란 '7일 계획' 거부에도 대화 기대…국제유가 강보합 마감",
+      "link": "https://www.yna.co.kr/view/AKR20260929005700072",
+      "pubDate": "Tue, 29 Sep 2026 05:14:21 +0900"
+    },
+    {
+      "title": "[재산공개] 조상호 세종시장 3억9천만원…배우자, 미국에 연립주택",
+      "link": "https://www.yna.co.kr/view/AKR20260928083000063",
+      "pubDate": "Tue, 29 Sep 2026 00:00:01 +0900"
+    },
     {
       "title": "은행장 16명과 머리 맞댄 한은 총재 \"현장 얘기 많이 들어\"",
       "link": "https://www.yna.co.kr/view/AKR20260928161100002",
@@ -142,16 +152,6 @@
       "title": "양주새일센터, 지역대학과 손잡고 여성 일자리 활성화",
       "link": "https://www.yna.co.kr/view/AKR20260928132200060",
       "pubDate": "Mon, 28 Sep 2026 16:35:48 +0900"
-    },
-    {
-      "title": "주금공, 보금자리론 '결혼 페널티' 없앤다…소득기준 완화",
-      "link": "https://www.yna.co.kr/view/AKR20260928129800002",
-      "pubDate": "Mon, 28 Sep 2026 16:32:40 +0900"
-    },
-    {
-      "title": "해수부, 양식 수산물 재해보험 개편 착수…기후 변화 대응",
-      "link": "https://www.yna.co.kr/view/AKR20260928130600030",
-      "pubDate": "Mon, 28 Sep 2026 16:31:36 +0900"
     }
   ]
 }
