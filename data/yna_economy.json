@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790707471,
+  "updated_at_unix": 1790721853,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260930016400011",
+      "pubDate": "Wed, 30 Sep 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[글로컬] 출근 당기지 않으려 개점 30분 늦춘다는 은행",
+      "link": "https://www.yna.co.kr/view/AKR20260929086500546",
+      "pubDate": "Wed, 30 Sep 2026 07:07:00 +0900"
+    },
+    {
+      "title": "상어 '부캉이'가 울린 경종…기후변화로 급변한 해양생태계",
+      "link": "https://www.yna.co.kr/view/AKR20260929149600051",
+      "pubDate": "Wed, 30 Sep 2026 07:01:01 +0900"
+    },
+    {
+      "title": "내수 부진에…중국 완성차, 수출 늘리고 해외 현지생산 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260929153500003",
+      "pubDate": "Wed, 30 Sep 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[AI프리즘] AI데이터센터 경제효과 따져보니…최대 3.5조",
+      "link": "https://www.yna.co.kr/view/AKR20260929161900017",
+      "pubDate": "Wed, 30 Sep 2026 06:33:00 +0900"
+    },
+    {
+      "title": "\"온라인도매시장서 25% '이상거래'…특수관계·순환거래 기승\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929128400030",
+      "pubDate": "Wed, 30 Sep 2026 06:30:02 +0900"
+    },
+    {
+      "title": "HD현대중 노사, 임단협 잠정합의…기본급 12만원 인상",
+      "link": "https://www.yna.co.kr/view/AKR20260930009600057",
+      "pubDate": "Wed, 30 Sep 2026 06:26:17 +0900"
+    },
+    {
+      "title": "\"입찰 담합 적발되고도 LH 사업 3천억 가까이 수주\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929161500003",
+      "pubDate": "Wed, 30 Sep 2026 06:07:01 +0900"
+    },
+    {
+      "title": "\"정규·비정규직 생활만족격차 76%, 고용보험·임금·건강 영향\"",
+      "link": "https://www.yna.co.kr/view/AKR20260929148700530",
+      "pubDate": "Wed, 30 Sep 2026 06:01:01 +0900"
+    },
+    {
+      "title": "연말까지 농어촌 기본소득 연계 사회연대경제 활성화 모델 공모",
+      "link": "https://www.yna.co.kr/view/AKR20260929119800030",
+      "pubDate": "Wed, 30 Sep 2026 06:00:13 +0900"
+    },
+    {
+      "title": "'주택공급 선행지표' 서울 인허가 올들어 개선 추세",
+      "link": "https://www.yna.co.kr/view/AKR20260929143100003",
+      "pubDate": "Wed, 30 Sep 2026 06:00:12 +0900"
+    },
+    {
+      "title": "건설근로자공제회, 특별퇴직공제 대상 '4년이상 적립자'로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20260929150400530",
+      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "title": "전국지자체 62곳, 미래기금發 지방교부세 축소에 우려·반대",
+      "link": "https://www.yna.co.kr/view/AKR20260929133400001",
+      "pubDate": "Wed, 30 Sep 2026 06:00:11 +0900"
+    },
+    {
+      "title": "농어촌 기본소득 지역에 '찾아가는 식품 서비스' 개시",
+      "link": "https://www.yna.co.kr/view/AKR20260929120300030",
+      "pubDate": "Wed, 30 Sep 2026 06:00:10 +0900"
+    },
+    {
+      "title": "지난해 늘어난 건축물 연면적 축구장 8천400여개 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260929162300003",
+      "pubDate": "Wed, 30 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "롯데百, 내달 2∼8일 잠실점서 김천김밥축제 팝업스토어",
+      "link": "https://www.yna.co.kr/view/AKR20260929156800030",
+      "pubDate": "Wed, 30 Sep 2026 06:00:07 +0900"
+    },
+    {
+      "title": "8월 기업 주식·회사채 발행 10조 감소…금융채만 7조↓",
+      "link": "https://www.yna.co.kr/view/AKR20260929163600002",
+      "pubDate": "Wed, 30 Sep 2026 06:00:02 +0900"
+    },
+    {
+      "title": "산은 노조 \"97%가 이전 반대\"…이주 곤란 최대사유 '맞벌이'",
+      "link": "https://www.yna.co.kr/view/AKR20260929186900002",
+      "pubDate": "Wed, 30 Sep 2026 05:59:00 +0900"
+    },
+    {
+      "title": "산은, 벤처·스타트업 공급 4년새 반토막…대기업엔 20조원대",
+      "link": "https://www.yna.co.kr/view/AKR20260929182700002",
+      "pubDate": "Wed, 30 Sep 2026 05:58:01 +0900"
+    },
+    {
+      "title": "美블루아울 사태에도…한투 IMA 해외사모대출 잔액 '찔끔 감소'",
+      "link": "https://www.yna.co.kr/view/AKR20260929126900002",
+      "pubDate": "Wed, 30 Sep 2026 05:57:00 +0900"
+    },
+    {
+      "title": "주금공 보증 사업장 '부실 경고등'…만기 8번 미룬 PF도",
+      "link": "https://www.yna.co.kr/view/AKR20260929172100002",
+      "pubDate": "Wed, 30 Sep 2026 05:55:01 +0900"
+    },
+    {
+      "title": "사기 계좌 은행따라 '천차만별'…발생 빈도 5.6배 차이",
+      "link": "https://www.yna.co.kr/view/AKR20260929163300002",
+      "pubDate": "Wed, 30 Sep 2026 05:53:00 +0900"
+    },
+    {
+      "title": "한국은행, 정부와 상의해 외환보유액 순위 삭제했다",
+      "link": "https://www.yna.co.kr/view/AKR20260929176700002",
+      "pubDate": "Wed, 30 Sep 2026 05:51:01 +0900"
+    },
+    {
+      "title": "사우디 홍해 원유 수출 재개에 WTI 3.5%↓…8월 31일 이후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20260930005900072",
+      "pubDate": "Wed, 30 Sep 2026 05:12:08 +0900"
+    },
     {
       "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
       "link": "https://www.yna.co.kr/view/AKR20260929185700004",
@@ -32,126 +152,6 @@
       "title": "농산물 수급조절위, 법정 심의 기구로 격상",
       "link": "https://www.yna.co.kr/view/AKR20260929166700030",
       "pubDate": "Tue, 29 Sep 2026 18:12:04 +0900"
-    },
-    {
-      "title": "[동포의 창] 전 세계 10개 권역별로 세계한상대회 열린다",
-      "link": "https://www.yna.co.kr/view/AKR20260929163500371",
-      "pubDate": "Tue, 29 Sep 2026 18:04:24 +0900"
-    },
-    {
-      "title": "전남광주 옛 전방·일신방직 개발사, 공공기여금 154억 첫 납부",
-      "link": "https://www.yna.co.kr/view/AKR20260929165900054",
-      "pubDate": "Tue, 29 Sep 2026 18:03:06 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260929159100011",
-      "pubDate": "Tue, 29 Sep 2026 18:00:01 +0900"
-    },
-    {
-      "title": "5년간 1.5조 지원 무색…한계기업 10곳 중 9곳은 '경영난 여전'",
-      "link": "https://www.yna.co.kr/view/AKR20260929161000003",
-      "pubDate": "Tue, 29 Sep 2026 17:38:14 +0900"
-    },
-    {
-      "title": "리튬포어스, 11억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20260929162800008",
-      "pubDate": "Tue, 29 Sep 2026 17:34:54 +0900"
-    },
-    {
-      "title": "조각투자거래소 준비법인 넥스체인지 출범…\"핵심 플랫폼 될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929153300008",
-      "pubDate": "Tue, 29 Sep 2026 17:33:31 +0900"
-    },
-    {
-      "title": "실업급여 3차례 이상 반복수급 11.3만명…지급액 연 6천억원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260928134851530",
-      "pubDate": "Tue, 29 Sep 2026 17:27:37 +0900"
-    },
-    {
-      "title": "서울대 동아리 왜곡된 학연…금융엘리트 도덕 불감증 도마위",
-      "link": "https://www.yna.co.kr/view/AKR20260929156400002",
-      "pubDate": "Tue, 29 Sep 2026 17:20:01 +0900"
-    },
-    {
-      "title": "사학연금공단 이사장에 김창수 전 중앙대 총장",
-      "link": "https://www.yna.co.kr/view/AKR20260929150000530",
-      "pubDate": "Tue, 29 Sep 2026 17:14:35 +0900"
-    },
-    {
-      "title": "한국가스공사 \"코가스 캐나다 에너지 주식 7천670억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929155800008",
-      "pubDate": "Tue, 29 Sep 2026 17:01:29 +0900"
-    },
-    {
-      "title": "송미령 농식품장관 \"청년농 지원 체계 개편 최종안 연내 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929087100030",
-      "pubDate": "Tue, 29 Sep 2026 17:00:05 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…전일 급등에 일부 되돌림(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260929150851008",
-      "pubDate": "Tue, 29 Sep 2026 16:48:28 +0900"
-    },
-    {
-      "title": "전주시, 반려동물 산업 지원…기업 판로개척·전문인력 양성",
-      "link": "https://www.yna.co.kr/view/AKR20260929151100055",
-      "pubDate": "Tue, 29 Sep 2026 16:46:42 +0900"
-    },
-    {
-      "title": "[특징주] 한미반도체, 반도체 장비 수주 소식에 7%대 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260929055751008",
-      "pubDate": "Tue, 29 Sep 2026 16:45:57 +0900"
-    },
-    {
-      "title": "MSDI, 20억원 유상증자…케이연투자조합에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20260929151300008",
-      "pubDate": "Tue, 29 Sep 2026 16:45:29 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 4.076%",
-      "link": "https://www.yna.co.kr/view/AKR20260929150800008",
-      "pubDate": "Tue, 29 Sep 2026 16:41:59 +0900"
-    },
-    {
-      "title": "[게시판] 연말까지 GS샵서 '농산업 우수 혁신품 모음전'",
-      "link": "https://www.yna.co.kr/view/AKR20260929142700030",
-      "pubDate": "Tue, 29 Sep 2026 16:39:33 +0900"
-    },
-    {
-      "title": "JW중외제약 \"계열사 솔리더스인베스트먼트 주식 307억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929149400008",
-      "pubDate": "Tue, 29 Sep 2026 16:38:43 +0900"
-    },
-    {
-      "title": "SK, 회사채 수요예측에 7천200억 몰려…고금리에도 모집액 5배",
-      "link": "https://www.yna.co.kr/view/AKR20260929147900008",
-      "pubDate": "Tue, 29 Sep 2026 16:38:03 +0900"
-    },
-    {
-      "title": "[반려동물] 펫보험은 멤버십·호텔은 전용식…양육가구 겨냥 서비스 확대",
-      "link": "https://www.yna.co.kr/view/AKR20260929142400030",
-      "pubDate": "Tue, 29 Sep 2026 16:36:08 +0900"
-    },
-    {
-      "title": "소비자24에서 바코드 찍으면 40만개 상품정보 DB 한번에 본다",
-      "link": "https://www.yna.co.kr/view/AKR20260929049600003",
-      "pubDate": "Tue, 29 Sep 2026 16:30:01 +0900"
-    },
-    {
-      "title": "9월 대구·경북 제조업·비제조업 기업심리지수 소폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20260929145900053",
-      "pubDate": "Tue, 29 Sep 2026 16:29:03 +0900"
-    },
-    {
-      "title": "거제시·삼성중공업, 지역인재 채용 확대·상생협력 방안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20260929143600052",
-      "pubDate": "Tue, 29 Sep 2026 16:26:31 +0900"
-    },
-    {
-      "title": "\"바이오 모태펀드, 7년 미만 초기 스타트업에 집중 지원해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260929146000002",
-      "pubDate": "Tue, 29 Sep 2026 16:25:57 +0900"
     }
   ]
 }
