@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790687361,
+  "updated_at_unix": 1790707471,
   "items": [
+    {
+      "title": "서초구 건설 현장서 천장 무너져 30대 외국인 숨져…당국 조사",
+      "link": "https://www.yna.co.kr/view/AKR20260929185700004",
+      "pubDate": "Tue, 29 Sep 2026 22:08:19 +0900"
+    },
     {
       "title": "[동정] 이억원, 美나스닥·DTCC·홍콩거래소 고위급 면담",
       "link": "https://www.yna.co.kr/view/AKR20260929180200002",
@@ -147,11 +152,6 @@
       "title": "\"바이오 모태펀드, 7년 미만 초기 스타트업에 집중 지원해야\"",
       "link": "https://www.yna.co.kr/view/AKR20260929146000002",
       "pubDate": "Tue, 29 Sep 2026 16:25:57 +0900"
-    },
-    {
-      "title": "성남시, 분당 특별정비구역 5곳 선정…1만3천여 가구 규모",
-      "link": "https://www.yna.co.kr/view/AKR20260929142500061",
-      "pubDate": "Tue, 29 Sep 2026 16:11:10 +0900"
     }
   ]
 }
