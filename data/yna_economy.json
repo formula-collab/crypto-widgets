@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790845723,
+  "updated_at_unix": 1790872425,
   "items": [
+    {
+      "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261001145452002",
+      "pubDate": "Thu, 1 Oct 2026 20:00:09 +0900"
+    },
+    {
+      "title": "울산 동구 환경미화원 노사, 구청 중재로 대화 물꼬",
+      "link": "https://www.yna.co.kr/view/AKR20261001190700057",
+      "pubDate": "Thu, 1 Oct 2026 19:52:16 +0900"
+    },
+    {
+      "title": "제주 5성급 호텔서 59명 염소가스 흡입…조선호텔 \"깊이 사과\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261001114152030",
+      "pubDate": "Thu, 1 Oct 2026 19:19:26 +0900"
+    },
+    {
+      "title": "\"'영세 납세자 보루' 국선대리인 지원 2년새 18%↓\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260930161151002",
+      "pubDate": "Thu, 1 Oct 2026 18:24:00 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20261001173100011",
@@ -132,26 +152,6 @@
       "title": "설악산 울산바위 인근에 대단지 아파트 추진…조망권 침해 우려",
       "link": "https://www.yna.co.kr/view/AKR20261001158800062",
       "pubDate": "Thu, 1 Oct 2026 16:27:51 +0900"
-    },
-    {
-      "title": "경영계, '영업익 5% 과징금' 법 통과에 \"기업 존폐 영향 우려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261001157200003",
-      "pubDate": "Thu, 1 Oct 2026 16:22:50 +0900"
-    },
-    {
-      "title": "500억불 투자 VS 미정…알래스카 LNG 대미투자 새 '뇌관'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261001016452003",
-      "pubDate": "Thu, 1 Oct 2026 16:20:19 +0900"
-    },
-    {
-      "title": "[게시판] 새마을금고, 노인인력개발원과 MOU…비수도권 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261001155600002",
-      "pubDate": "Thu, 1 Oct 2026 16:19:16 +0900"
-    },
-    {
-      "title": "한국금융지주, 회사채 수요예측에 1.8조…모집예정액 7배 넘겨",
-      "link": "https://www.yna.co.kr/view/AKR20261001154900008",
-      "pubDate": "Thu, 1 Oct 2026 16:14:08 +0900"
     }
   ]
 }
