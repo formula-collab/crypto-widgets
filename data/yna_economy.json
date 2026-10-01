@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790872425,
+  "updated_at_unix": 1790890139,
   "items": [
+    {
+      "title": "낙상 미리 감지하는 AI기술…서울시 외국인창업경진대회 대상",
+      "link": "https://www.yna.co.kr/view/AKR20261001159700004",
+      "pubDate": "Fri, 2 Oct 2026 06:00:10 +0900"
+    },
+    {
+      "title": "[인사] 예금보험공사",
+      "link": "https://www.yna.co.kr/view/AKR20261001164400002",
+      "pubDate": "Fri, 2 Oct 2026 06:00:09 +0900"
+    },
+    {
+      "title": "중기부·지식재산처, K-브랜드 '위조·상표 선점' 공동 대응",
+      "link": "https://www.yna.co.kr/view/AKR20261001164500030",
+      "pubDate": "Fri, 2 Oct 2026 06:00:06 +0900"
+    },
+    {
+      "title": "금감원·금융권 \"노인의 날 맞아 고령층 집중 금융교육 제공\"",
+      "link": "https://www.yna.co.kr/view/AKR20261001184500002",
+      "pubDate": "Fri, 2 Oct 2026 06:00:03 +0900"
+    },
+    {
+      "title": "국내증시 호황에 ELS 상환…상반기 파생결합증권 잔액 소폭 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261001193100002",
+      "pubDate": "Fri, 2 Oct 2026 06:00:02 +0900"
+    },
+    {
+      "title": "서울신보, 지방공공기관 혁신 우수기관 선정…행안부장관상",
+      "link": "https://www.yna.co.kr/view/AKR20261001193500004",
+      "pubDate": "Fri, 2 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "뉴딜펀드 만기청산 절반이 마이너스…재정 손실부담 139억",
+      "link": "https://www.yna.co.kr/view/AKR20261001179600002",
+      "pubDate": "Fri, 2 Oct 2026 05:51:00 +0900"
+    },
+    {
+      "title": "中 석유제품 수출 중단에 美 추가파병까지…브렌트유 4%대 급등",
+      "link": "https://www.yna.co.kr/view/AKR20261002006600072",
+      "pubDate": "Fri, 2 Oct 2026 05:22:03 +0900"
+    },
     {
       "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20261001145452002",
@@ -112,46 +152,6 @@
       "title": "한국금융지주, 수요예측에 모집액 7배 몰려…고려아연도 3배(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261001163500008",
       "pubDate": "Thu, 1 Oct 2026 16:49:29 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 4.010%",
-      "link": "https://www.yna.co.kr/view/AKR20261001164800008",
-      "pubDate": "Thu, 1 Oct 2026 16:43:02 +0900"
-    },
-    {
-      "title": "추미애 제안 '지방세 3대 과제', 국회 입법 착수",
-      "link": "https://www.yna.co.kr/view/AKR20261001162500061",
-      "pubDate": "Thu, 1 Oct 2026 16:38:04 +0900"
-    },
-    {
-      "title": "강원도립대 앵커사업단, 정선 곤드레·쌀로 만든 젤라토 선보여",
-      "link": "https://www.yna.co.kr/view/AKR20261001162600062",
-      "pubDate": "Thu, 1 Oct 2026 16:35:29 +0900"
-    },
-    {
-      "title": "[인사] 한화손해보험",
-      "link": "https://www.yna.co.kr/view/AKR20261001162700002",
-      "pubDate": "Thu, 1 Oct 2026 16:32:27 +0900"
-    },
-    {
-      "title": "젠스타메이트, 여의도 파크원 타워2 자산관리 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261001162300003",
-      "pubDate": "Thu, 1 Oct 2026 16:31:31 +0900"
-    },
-    {
-      "title": "[인사] 한화생명·한화생명금융서비스",
-      "link": "https://www.yna.co.kr/view/AKR20261001161900002",
-      "pubDate": "Thu, 1 Oct 2026 16:31:24 +0900"
-    },
-    {
-      "title": "농식품부, 세대 통합 조직문화 혁신…워케이션·플리마켓 등 제안",
-      "link": "https://www.yna.co.kr/view/AKR20261001144200030",
-      "pubDate": "Thu, 1 Oct 2026 16:30:00 +0900"
-    },
-    {
-      "title": "설악산 울산바위 인근에 대단지 아파트 추진…조망권 침해 우려",
-      "link": "https://www.yna.co.kr/view/AKR20261001158800062",
-      "pubDate": "Thu, 1 Oct 2026 16:27:51 +0900"
     }
   ]
 }
