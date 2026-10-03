@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791011539,
+  "updated_at_unix": 1791031128,
   "items": [
+    {
+      "title": "'해킹피해' 2금융권 확산…금융당국 투톱, 내일 全업권 긴급소집(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003047151002",
+      "pubDate": "Sat, 3 Oct 2026 20:40:26 +0900"
+    },
+    {
+      "title": "당국, '해킹피해' 2금융권 확산에 내일 全업권 긴급소집",
+      "link": "https://www.yna.co.kr/view/AKR20261003047100002",
+      "pubDate": "Sat, 3 Oct 2026 20:07:06 +0900"
+    },
+    {
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003038151002",
+      "pubDate": "Sat, 3 Oct 2026 17:19:32 +0900"
+    },
+    {
+      "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003035051002",
+      "pubDate": "Sat, 3 Oct 2026 16:36:35 +0900"
+    },
+    {
+      "title": "현대캐피탈도 해킹 확인…주택대출 모집인 정보 일부 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261003038100002",
+      "pubDate": "Sat, 3 Oct 2026 16:27:10 +0900"
+    },
     {
       "title": "예가람저축은행도 해킹 피해로 고객정보 유출…4만명 추정",
       "link": "https://www.yna.co.kr/view/AKR20261003035000002",
@@ -127,31 +152,6 @@
       "title": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261002128851002",
       "pubDate": "Fri, 2 Oct 2026 19:16:54 +0900"
-    },
-    {
-      "title": "[AI프리즘] 은행 줄줄이 뚫은 AI 에이전트…해킹 자동화의 그림자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002098551017",
-      "pubDate": "Fri, 2 Oct 2026 19:09:01 +0900"
-    },
-    {
-      "title": "국민·하나·부산은행도 당했다…금융권 해킹 피해 확산(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261002086352002",
-      "pubDate": "Fri, 2 Oct 2026 19:05:06 +0900"
-    },
-    {
-      "title": "BNK부산은행도 해킹당해…외주 개발직원 정보 11건 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261002164651051",
-      "pubDate": "Fri, 2 Oct 2026 18:37:57 +0900"
-    },
-    {
-      "title": "농식품부, 봉사견·유기동물 지원 '공공거점동물병원' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261002149600030",
-      "pubDate": "Fri, 2 Oct 2026 18:36:59 +0900"
-    },
-    {
-      "title": "K뷰티 질주 가속…9월까지 화장품 수출 31%↑ '역대 최대'",
-      "link": "https://www.yna.co.kr/view/AKR20261002164500017",
-      "pubDate": "Fri, 2 Oct 2026 18:19:05 +0900"
     }
   ]
 }
