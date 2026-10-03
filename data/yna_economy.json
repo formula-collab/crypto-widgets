@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1790980726,
+  "updated_at_unix": 1790991047,
   "items": [
+    {
+      "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
+      "link": "https://www.yna.co.kr/view/AKR20261003015700002",
+      "pubDate": "Sat, 3 Oct 2026 09:20:50 +0900"
+    },
+    {
+      "title": "전남광주, 투자·펀드 기능 한데 묶는다…투자 기관 설립 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261002064300054",
+      "pubDate": "Sat, 3 Oct 2026 09:00:07 +0900"
+    },
+    {
+      "title": "[머니플로우] 금리 고공행진에 CD·채권 관련 ETF 인기 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20261002136000008",
+      "pubDate": "Sat, 3 Oct 2026 08:00:06 +0900"
+    },
     {
       "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
       "link": "https://www.yna.co.kr/view/AKR20261002168300003",
@@ -137,21 +152,6 @@
       "title": "하나은행도 AI 해킹 뚫렸다…89명 개인정보 유출(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261002160251002",
       "pubDate": "Fri, 2 Oct 2026 17:54:59 +0900"
-    },
-    {
-      "title": "하나은행도 AI 해킹 뚫렸다…89명 개인정보 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261002160200002",
-      "pubDate": "Fri, 2 Oct 2026 17:41:29 +0900"
-    },
-    {
-      "title": "은행권 대출사기 추가 피해액 또 드러나…사고액 577억",
-      "link": "https://www.yna.co.kr/view/AKR20261002156900002",
-      "pubDate": "Fri, 2 Oct 2026 17:35:44 +0900"
-    },
-    {
-      "title": "[속보] 하나은행서도 AI 해킹 정보유출…89명 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261002158300002",
-      "pubDate": "Fri, 2 Oct 2026 17:35:11 +0900"
     }
   ]
 }
