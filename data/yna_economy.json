@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791120723,
+  "updated_at_unix": 1791136428,
   "items": [
+    {
+      "title": "시총 기준 상폐요건 강화에 법원 제동…\"비례 원칙에 어긋나\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004043100008",
+      "pubDate": "Sun, 4 Oct 2026 22:31:22 +0900"
+    },
     {
       "title": "\"차명계좌 적발 NH농협·국민·농축협·신한銀 순으로 많아\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261003049251002",
@@ -147,11 +152,6 @@
       "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
       "link": "https://www.yna.co.kr/view/AKR20261002157900003",
       "pubDate": "Sun, 4 Oct 2026 07:11:01 +0900"
-    },
-    {
-      "title": "가공식품 26개 중 24개 1년 새 가격 상승…국·탕·컵밥 올라",
-      "link": "https://www.yna.co.kr/view/AKR20261002175300030",
-      "pubDate": "Sun, 4 Oct 2026 07:10:00 +0900"
     }
   ]
 }
