@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791078742,
+  "updated_at_unix": 1791099110,
   "items": [
+    {
+      "title": "\"사업성 지출이 대부분\"…미래기금법안 '30% 변경'룰 논쟁 예고(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003048351002",
+      "pubDate": "Sun, 4 Oct 2026 16:14:01 +0900"
+    },
+    {
+      "title": "재경위 \"미래기금 재정통제 약해질 수도…재원 지속성 검토해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003048651002",
+      "pubDate": "Sun, 4 Oct 2026 16:13:22 +0900"
+    },
+    {
+      "title": "\"금융사 해킹사고, 동일 공격자 IP 여러 곳서 발견…AI활용 추정\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004027900002",
+      "pubDate": "Sun, 4 Oct 2026 15:28:55 +0900"
+    },
+    {
+      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261004024951002",
+      "pubDate": "Sun, 4 Oct 2026 15:00:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261004023900011",
+      "pubDate": "Sun, 4 Oct 2026 15:00:00 +0900"
+    },
+    {
+      "title": "이억원 \"AI활용 해킹 가능성…금융권 최고수준 경각심 가져야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004024900002",
+      "pubDate": "Sun, 4 Oct 2026 14:35:37 +0900"
+    },
+    {
+      "title": "[속보] 이억원 \"AI활용 해킹공격 가능성…민감정보 유출은 미확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004024000002",
+      "pubDate": "Sun, 4 Oct 2026 14:21:42 +0900"
+    },
+    {
+      "title": "[속보] 이억원 \"금융권, 보안체계 전반 공백·빈틈 없게 점검해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004023200002",
+      "pubDate": "Sun, 4 Oct 2026 14:17:42 +0900"
+    },
+    {
+      "title": "[속보] 이억원 \"금융권 전체 침해사고 최고수준 경각심 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004023100002",
+      "pubDate": "Sun, 4 Oct 2026 14:15:38 +0900"
+    },
+    {
+      "title": "웰컴저축은행도 정보유출 확인…법인고객 정보 2천200건 추정",
+      "link": "https://www.yna.co.kr/view/AKR20261004022400002",
+      "pubDate": "Sun, 4 Oct 2026 13:56:20 +0900"
+    },
+    {
+      "title": "우원식 의원 \"재외동포교육문화센터 건립 재추진해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004021500371",
+      "pubDate": "Sun, 4 Oct 2026 13:51:01 +0900"
+    },
+    {
+      "title": "李대통령, 금융기관 개인정보 유출에 \"엄중 인식, 철저 조사\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004021800001",
+      "pubDate": "Sun, 4 Oct 2026 13:44:36 +0900"
+    },
+    {
+      "title": "트럼프 알래스카 LNG 투자 압박, 한미 안보협의 새 변수 되나",
+      "link": "https://www.yna.co.kr/view/AKR20261004016600504",
+      "pubDate": "Sun, 4 Oct 2026 12:47:19 +0900"
+    },
+    {
+      "title": "[imazine] 도쿄 시공간 투어 ② 빌딩 숲에 던진 파문",
+      "link": "https://www.yna.co.kr/view/AKR20260915043700542",
+      "pubDate": "Sun, 4 Oct 2026 12:00:11 +0900"
+    },
+    {
+      "title": "서울 전월세시장 해법 찾는다…7일 프레스센터서 '서울주거포럼'",
+      "link": "https://www.yna.co.kr/view/AKR20261004011100004",
+      "pubDate": "Sun, 4 Oct 2026 11:15:03 +0900"
+    },
     {
       "title": "AI로 상호금융까지 광범위 공격…\"해킹 시도 훨씬 많을 수도\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261003042451002",
@@ -77,81 +152,6 @@
       "title": "'금포도' 옛말 된 샤인머스캣…공급과잉·품질저하에 재배 감소",
       "link": "https://www.yna.co.kr/view/AKR20261003020600030",
       "pubDate": "Sun, 4 Oct 2026 06:40:00 +0900"
-    },
-    {
-      "title": "반도체 설비투자 확대로 공급 확대? \"내후년 하반기는 돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002179200008",
-      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
-    },
-    {
-      "title": "산업부, 석유 최고가격제 격차 100원당 예산 1.5조 산정",
-      "link": "https://www.yna.co.kr/view/AKR20261001198200003",
-      "pubDate": "Sun, 4 Oct 2026 06:25:01 +0900"
-    },
-    {
-      "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-      "link": "https://www.yna.co.kr/view/AKR20261003032000008",
-      "pubDate": "Sun, 4 Oct 2026 06:20:01 +0900"
-    },
-    {
-      "title": "중기부, 정책자금 받아 부동산 사업 벌인 업체 40곳 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261002165600030",
-      "pubDate": "Sun, 4 Oct 2026 06:11:00 +0900"
-    },
-    {
-      "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20261003023200008",
-      "pubDate": "Sun, 4 Oct 2026 06:10:01 +0900"
-    },
-    {
-      "title": "국민연금, 코스닥 투자 100조 넘어…다른 공적연금은 '미미'",
-      "link": "https://www.yna.co.kr/view/AKR20261002179500008",
-      "pubDate": "Sun, 4 Oct 2026 06:05:02 +0900"
-    },
-    {
-      "title": "[AI해킹] ② AI가 해커 손에 들렸다…은행권 덮친 '해킹의 진화'",
-      "link": "https://www.yna.co.kr/view/AKR20261002175500017",
-      "pubDate": "Sun, 4 Oct 2026 06:03:06 +0900"
-    },
-    {
-      "title": "[AI해킹] ① OTT·미용·결제 이어 은행까지…내 개인정보 어디까지 샜나",
-      "link": "https://www.yna.co.kr/view/AKR20261002138900017",
-      "pubDate": "Sun, 4 Oct 2026 06:03:05 +0900"
-    },
-    {
-      "title": "대출 더 조이면 누가 영향받나…노도강 매입자금 30%대가 대출",
-      "link": "https://www.yna.co.kr/view/AKR20261003043500003",
-      "pubDate": "Sun, 4 Oct 2026 06:03:00 +0900"
-    },
-    {
-      "title": "정부, 농축산물 할인 지원에 6년간 1조3천억…예산 25배 급증",
-      "link": "https://www.yna.co.kr/view/AKR20261003032900030",
-      "pubDate": "Sun, 4 Oct 2026 06:01:01 +0900"
-    },
-    {
-      "title": "[마켓인사이트] 삼전 실적발표 앞둔 韓증시…'7천피' 지켜낼까",
-      "link": "https://www.yna.co.kr/view/AKR20261003023000008",
-      "pubDate": "Sun, 4 Oct 2026 06:00:05 +0900"
-    },
-    {
-      "title": "횡령·부당대출 등…NH농협은행 5년여간 426명 징계",
-      "link": "https://www.yna.co.kr/view/AKR20261002180700002",
-      "pubDate": "Sun, 4 Oct 2026 05:59:01 +0900"
-    },
-    {
-      "title": "\"가상자산거래소 대주주 의결권 제한도 위헌 소지\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003040700002",
-      "pubDate": "Sun, 4 Oct 2026 05:57:00 +0900"
-    },
-    {
-      "title": "\"차명계좌 적발 NH농협·국민·농축협·신한銀 순으로 많아\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003049200002",
-      "pubDate": "Sun, 4 Oct 2026 05:55:12 +0900"
-    },
-    {
-      "title": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
-      "link": "https://www.yna.co.kr/view/AKR20260923183200003",
-      "pubDate": "Sun, 4 Oct 2026 05:55:01 +0900"
     }
   ]
 }
