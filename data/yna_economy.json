@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791066600,
+  "updated_at_unix": 1791078742,
   "items": [
+    {
+      "title": "AI로 상호금융까지 광범위 공격…\"해킹 시도 훨씬 많을 수도\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261003042451002",
+      "pubDate": "Sun, 4 Oct 2026 10:46:54 +0900"
+    },
+    {
+      "title": "[AI픽] \"AI 두뇌값 1년새 13분의 1\"…유례없는 가격 폭락",
+      "link": "https://www.yna.co.kr/view/AKR20261003037600017",
+      "pubDate": "Sun, 4 Oct 2026 10:33:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261004011900011",
+      "pubDate": "Sun, 4 Oct 2026 10:30:01 +0900"
+    },
+    {
+      "title": "시흥에 투자하는 기업에 최대 6억원 보조금…공격적 투자유치",
+      "link": "https://www.yna.co.kr/view/AKR20261002138600061",
+      "pubDate": "Sun, 4 Oct 2026 09:09:00 +0900"
+    },
+    {
+      "title": "적자회사 주식으로 상속세 84억 납부?…\"당국 불허 적법\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003027400004",
+      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "title": "신한은행 \"기계·부품·소재 기업 금융지원 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261003016300002",
+      "pubDate": "Sun, 4 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "title": "\"국내 펫푸드 시장 2.5조 규모…수입산 점유율 통계는 '없음'\"",
+      "link": "https://www.yna.co.kr/view/AKR20261004008400030",
+      "pubDate": "Sun, 4 Oct 2026 08:32:40 +0900"
+    },
+    {
+      "title": "5년간 국내 어선 사고 사망·실종자 478명…지난해만 110명",
+      "link": "https://www.yna.co.kr/view/AKR20261002068500051",
+      "pubDate": "Sun, 4 Oct 2026 08:01:01 +0900"
+    },
     {
       "title": "싱크홀 예방 지반탐사 지원, 전국 수요 절반도 못 채워",
       "link": "https://www.yna.co.kr/view/AKR20261002157900003",
@@ -112,46 +152,6 @@
       "title": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
       "link": "https://www.yna.co.kr/view/AKR20260923183200003",
       "pubDate": "Sun, 4 Oct 2026 05:55:01 +0900"
-    },
-    {
-      "title": "4대금융 3분기도 최대실적 전망…차기 은행장 선임 영향은",
-      "link": "https://www.yna.co.kr/view/AKR20261003032300002",
-      "pubDate": "Sun, 4 Oct 2026 05:53:00 +0900"
-    },
-    {
-      "title": "iM뱅크·바로저축銀 올해 악성코드 감염…고객정보는 유출 안돼",
-      "link": "https://www.yna.co.kr/view/AKR20261003043300002",
-      "pubDate": "Sun, 4 Oct 2026 05:51:00 +0900"
-    },
-    {
-      "title": "합병요건 상습 위반…아시아나·대한항공, 공정위 과태료 톱3",
-      "link": "https://www.yna.co.kr/view/AKR20261002184100002",
-      "pubDate": "Sun, 4 Oct 2026 05:49:01 +0900"
-    },
-    {
-      "title": "9월 全금융권 가계대출 올해 첫 감소…은행 대출여력 확대되나",
-      "link": "https://www.yna.co.kr/view/AKR20261003050300002",
-      "pubDate": "Sun, 4 Oct 2026 05:47:00 +0900"
-    },
-    {
-      "title": "법에 없는 'NEXT원칙'…재경위 \"미래기금 선정 기준 보완해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003047300002",
-      "pubDate": "Sun, 4 Oct 2026 05:45:04 +0900"
-    },
-    {
-      "title": "수입 '들쭉날쭉' 지출 '꼬박꼬박'…미래기금 지속가능성 관건",
-      "link": "https://www.yna.co.kr/view/AKR20261003046900002",
-      "pubDate": "Sun, 4 Oct 2026 05:45:03 +0900"
-    },
-    {
-      "title": "\"사업성 지출이 대부분\"…미래기금법안 '30% 변경'룰 논쟁 예고",
-      "link": "https://www.yna.co.kr/view/AKR20261003048300002",
-      "pubDate": "Sun, 4 Oct 2026 05:45:02 +0900"
-    },
-    {
-      "title": "재경위 \"미래기금 재정통제 약해질 수도…재원 지속성 검토해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261003048600002",
-      "pubDate": "Sun, 4 Oct 2026 05:45:01 +0900"
     }
   ]
 }
