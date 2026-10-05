@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791168453,
+  "updated_at_unix": 1791193469,
   "items": [
+    {
+      "title": "\"농식품부 고위공직자 모친 소유 농지 3필지 미경작 적발\"",
+      "link": "https://www.yna.co.kr/view/AKR20261005050000030",
+      "pubDate": "Mon, 5 Oct 2026 18:27:40 +0900"
+    },
+    {
+      "title": "온투업까지 손 뻗은 해킹…'보안 기본기'가 피해 여부 갈랐다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261004042751002",
+      "pubDate": "Mon, 5 Oct 2026 18:16:37 +0900"
+    },
+    {
+      "title": "리사 수 AMD 회장 7개월 만에 방한…'AI 동맹' 넓히나(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261005043951017",
+      "pubDate": "Mon, 5 Oct 2026 17:20:46 +0900"
+    },
+    {
+      "title": "유로화, 17개월 만에 최저…프랑스 등 재정 불안에 채권시장 흔들",
+      "link": "https://www.yna.co.kr/view/AKR20261005046100085",
+      "pubDate": "Mon, 5 Oct 2026 17:11:43 +0900"
+    },
+    {
+      "title": "리사 수 AMD 회장 7개월 만에 방한…7일 용산서 '게이머데이'",
+      "link": "https://www.yna.co.kr/view/AKR20261005043900017",
+      "pubDate": "Mon, 5 Oct 2026 16:20:23 +0900"
+    },
+    {
+      "title": "[동포의 창] 홍콩 '중추절 K-페스티벌 주간'에 100만 명 몰려",
+      "link": "https://www.yna.co.kr/view/AKR20261005040000371",
+      "pubDate": "Mon, 5 Oct 2026 15:21:54 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261005036900011",
+      "pubDate": "Mon, 5 Oct 2026 15:00:00 +0900"
+    },
+    {
+      "title": "금융권 잇단 해킹사태에 증권업계도 '긴장'…\"휴일도 비상근무\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261005029251008",
+      "pubDate": "Mon, 5 Oct 2026 14:36:29 +0900"
+    },
+    {
+      "title": "문체부·행안부, 지역관광 경진대회에 61억원 재정 인센티브",
+      "link": "https://www.yna.co.kr/view/AKR20261005032200030",
+      "pubDate": "Mon, 5 Oct 2026 12:41:22 +0900"
+    },
+    {
+      "title": "금융권 잇단 해킹사태에 증권업계도 '긴장'…\"휴일도 지속 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20261005029200008",
+      "pubDate": "Mon, 5 Oct 2026 12:11:16 +0900"
+    },
+    {
+      "title": "[부고] 김영수(YTN 시사제작팀장)씨 장인상",
+      "link": "https://www.yna.co.kr/view/AKR20261005030500008",
+      "pubDate": "Mon, 5 Oct 2026 12:10:45 +0900"
+    },
+    {
+      "title": "라이다센서 등 메가프로젝트 관련 신규상품 명칭 72개 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261002137800063",
+      "pubDate": "Mon, 5 Oct 2026 12:00:05 +0900"
+    },
+    {
+      "title": "[가보니] DMZ 식물 10년간 모았다…'생태 보고'로 자란 자생식물원",
+      "link": "https://www.yna.co.kr/view/AKR20261004023400017",
+      "pubDate": "Mon, 5 Oct 2026 12:00:05 +0900"
+    },
+    {
+      "title": "'무사곤데 건강보험 할인되나요'…유리한 조건 회사가 알려준다",
+      "link": "https://www.yna.co.kr/view/AKR20261004020600002",
+      "pubDate": "Mon, 5 Oct 2026 12:00:04 +0900"
+    },
+    {
+      "title": "3분기 부가세 26일까지 신고·납부…호우·홈플 피해사업자 연장",
+      "link": "https://www.yna.co.kr/view/AKR20261004043700002",
+      "pubDate": "Mon, 5 Oct 2026 12:00:01 +0900"
+    },
     {
       "title": "AMRO, 한국 올해 성장률 3.3%로 상향…내년 2.7% 제시",
       "link": "https://www.yna.co.kr/view/AKR20261004026600002",
@@ -77,81 +152,6 @@
       "title": "CJ제일제당 '자리', 뉴욕 이어 LA 진출…K-증류주 시장 공략",
       "link": "https://www.yna.co.kr/view/AKR20261005015800030",
       "pubDate": "Mon, 5 Oct 2026 09:15:13 +0900"
-    },
-    {
-      "title": "체납 징수에 복지 발굴까지…울산시 체납관리단 성과",
-      "link": "https://www.yna.co.kr/view/AKR20261002131100057",
-      "pubDate": "Mon, 5 Oct 2026 09:00:08 +0900"
-    },
-    {
-      "title": "우리은행, '우다페' 연계 '다함께 적금'…최고 연 9.0% 금리",
-      "link": "https://www.yna.co.kr/view/AKR20261004020300002",
-      "pubDate": "Mon, 5 Oct 2026 09:00:03 +0900"
-    },
-    {
-      "title": "해수부 장관, 제주 어선 전복사고에 \"인명구조에 최선\" 지시",
-      "link": "https://www.yna.co.kr/view/AKR20261005013500030",
-      "pubDate": "Mon, 5 Oct 2026 08:56:17 +0900"
-    },
-    {
-      "title": "세제개편안 후 서울 아파트 15억원 이하 거래 비중 80% 육박",
-      "link": "https://www.yna.co.kr/view/AKR20261005011500003",
-      "pubDate": "Mon, 5 Oct 2026 08:48:29 +0900"
-    },
-    {
-      "title": "[AI픽] '예·아니오'만 답하는 AI가 뜬다…0.1초 판단 '제브'",
-      "link": "https://www.yna.co.kr/view/AKR20261003039700017",
-      "pubDate": "Mon, 5 Oct 2026 08:45:01 +0900"
-    },
-    {
-      "title": "GS25, '한정선 피스타치오 찹쌀떡' 출시…2만개 사전 예약",
-      "link": "https://www.yna.co.kr/view/AKR20261005012900030",
-      "pubDate": "Mon, 5 Oct 2026 08:44:57 +0900"
-    },
-    {
-      "title": "'리츠 활성화 대책' 2년'…\"제도개선, 기대보다 속도 느려\"",
-      "link": "https://www.yna.co.kr/view/AKR20261005003900003",
-      "pubDate": "Mon, 5 Oct 2026 08:36:07 +0900"
-    },
-    {
-      "title": "이마트24 캄보디아, 주유소 결합형 매장 확대…50개 목표",
-      "link": "https://www.yna.co.kr/view/AKR20261005011400030",
-      "pubDate": "Mon, 5 Oct 2026 08:28:47 +0900"
-    },
-    {
-      "title": "함안군, 택시 기본요금 5천500원→6천원 인상 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261002133600052",
-      "pubDate": "Mon, 5 Oct 2026 08:15:01 +0900"
-    },
-    {
-      "title": "[통합시 100일] ③ '800조 반도체' 유치…초광역 산업생태계 구축",
-      "link": "https://www.yna.co.kr/view/AKR20261001175700054",
-      "pubDate": "Mon, 5 Oct 2026 08:00:11 +0900"
-    },
-    {
-      "title": "익산시-원광대, 지역인재 취업에 맞손…7일 취업박람회",
-      "link": "https://www.yna.co.kr/view/AKR20261002101400055",
-      "pubDate": "Mon, 5 Oct 2026 08:00:05 +0900"
-    },
-    {
-      "title": "청주 가경동 '터미널·공원·시장' 연계 개발 구상",
-      "link": "https://www.yna.co.kr/view/AKR20261002160800064",
-      "pubDate": "Mon, 5 Oct 2026 08:00:03 +0900"
-    },
-    {
-      "title": "[고립의 장기화] ② \"나는 도태된 사람\"…스스로를 가둔 청년들",
-      "link": "https://www.yna.co.kr/view/AKR20261003040100004",
-      "pubDate": "Mon, 5 Oct 2026 07:01:02 +0900"
-    },
-    {
-      "title": "[고립의 장기화] ① 은둔청년이 중년으로…'한국형 8050 경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261003026800530",
-      "pubDate": "Mon, 5 Oct 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[인터뷰] 우상호 \"AI 데이터센터 집중…정부 메가프로젝트 강원이 이끈다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002142900062",
-      "pubDate": "Mon, 5 Oct 2026 07:00:08 +0900"
     }
   ]
 }
