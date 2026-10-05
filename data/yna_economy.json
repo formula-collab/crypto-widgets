@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791193469,
+  "updated_at_unix": 1791226544,
   "items": [
+    {
+      "title": "트럼프, 휘발윳값에 우크라·야당탓…\"호르무즈 문제 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261006002200071",
+      "pubDate": "Tue, 6 Oct 2026 03:07:48 +0900"
+    },
+    {
+      "title": "이형일, 하준경 등과 현안간담회…사회정책·초과세수 활용 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261005057300002",
+      "pubDate": "Mon, 5 Oct 2026 20:14:08 +0900"
+    },
+    {
+      "title": "\"농식품부 고위공직자 모친 소유 농지 3필지 휴경\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261005050051030",
+      "pubDate": "Mon, 5 Oct 2026 19:27:26 +0900"
+    },
+    {
+      "title": "개인정보 유출 공포 전방위로…금융 이어 한전·대학도 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261005052800017",
+      "pubDate": "Mon, 5 Oct 2026 19:23:42 +0900"
+    },
     {
       "title": "\"농식품부 고위공직자 모친 소유 농지 3필지 미경작 적발\"",
       "link": "https://www.yna.co.kr/view/AKR20261005050000030",
@@ -132,26 +152,6 @@
       "title": "[반려동물] 반려견 사이 반려양도 뛰었다…경주 호반길 달군 펫 러닝",
       "link": "https://www.yna.co.kr/view/AKR20261005000200030",
       "pubDate": "Mon, 5 Oct 2026 09:45:30 +0900"
-    },
-    {
-      "title": "쌀쌀해진 날씨에 겨울 먹거리 '불티'…CU, 즉석 파이 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261005017500030",
-      "pubDate": "Mon, 5 Oct 2026 09:44:07 +0900"
-    },
-    {
-      "title": "대우건설 이강석 대표 취임…도약 위한 '3대 경영방향' 제시",
-      "link": "https://www.yna.co.kr/view/AKR20261005017000003",
-      "pubDate": "Mon, 5 Oct 2026 09:24:44 +0900"
-    },
-    {
-      "title": "경북도, 미국 유타주·유타대와 AI·반도체 등 첨단산업 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261005015400053",
-      "pubDate": "Mon, 5 Oct 2026 09:17:14 +0900"
-    },
-    {
-      "title": "CJ제일제당 '자리', 뉴욕 이어 LA 진출…K-증류주 시장 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261005015800030",
-      "pubDate": "Mon, 5 Oct 2026 09:15:13 +0900"
     }
   ]
 }
