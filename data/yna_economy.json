@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791365284,
+  "updated_at_unix": 1791391510,
   "items": [
+    {
+      "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261007207300072",
+      "pubDate": "Wed, 7 Oct 2026 23:05:07 +0900"
+    },
+    {
+      "title": "인도중앙은행, 3년8개월만 첫 기준금리 인상…\"인플레 대응\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007203000084",
+      "pubDate": "Wed, 7 Oct 2026 21:51:03 +0900"
+    },
+    {
+      "title": "NH농협생명, 올해 신계약 CSM 1조 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261007198600002",
+      "pubDate": "Wed, 7 Oct 2026 21:47:23 +0900"
+    },
+    {
+      "title": "국민참여성장펀드 닷새간 3천300억원 팔려…목표액 55% 달성",
+      "link": "https://www.yna.co.kr/view/AKR20261007198200002",
+      "pubDate": "Wed, 7 Oct 2026 21:46:08 +0900"
+    },
+    {
+      "title": "생물 '거울형 이성질체' 난제 푼 과학자들에 노벨화학상",
+      "link": "https://www.yna.co.kr/view/AKR20261007201500017",
+      "pubDate": "Wed, 7 Oct 2026 21:27:40 +0900"
+    },
+    {
+      "title": "올해 수은 해킹 시도 283건, 작년의 8배…지난달 한은 공격도(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261007044852002",
+      "pubDate": "Wed, 7 Oct 2026 20:11:38 +0900"
+    },
+    {
+      "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261007188851001",
+      "pubDate": "Wed, 7 Oct 2026 20:10:29 +0900"
+    },
+    {
+      "title": "이소영 \"모두의창업 업체 재지정해 새 플랫폼 구축…보안 조치\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261007180951030",
+      "pubDate": "Wed, 7 Oct 2026 20:05:03 +0900"
+    },
+    {
+      "title": "올해 수은 해킹 시도 283건, 작년의 8배…지난달 한은 공격도(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261007044851002",
+      "pubDate": "Wed, 7 Oct 2026 19:33:33 +0900"
+    },
+    {
+      "title": "현대건설 \"삼성역 안전진단 필요한 사항 적극 지원·협조\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007187400003",
+      "pubDate": "Wed, 7 Oct 2026 19:12:16 +0900"
+    },
+    {
+      "title": "엔키화이트햇·마더스제약, 코스닥 상장예심 통과",
+      "link": "https://www.yna.co.kr/view/AKR20261007189900008",
+      "pubDate": "Wed, 7 Oct 2026 18:57:11 +0900"
+    },
+    {
+      "title": "이소영 장관 \"홈플러스 협력업체 정책자금 금리인하 적극 검토\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007188500030",
+      "pubDate": "Wed, 7 Oct 2026 18:38:44 +0900"
+    },
+    {
+      "title": "\"미래기금으로 한전·관사·공연관람·농어촌 기본소득 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007188800001",
+      "pubDate": "Wed, 7 Oct 2026 18:38:12 +0900"
+    },
     {
       "title": "초소형 군집위성 5호기 교신…전체 군집위성 신호 확인",
       "link": "https://www.yna.co.kr/view/AKR20261007187200017",
@@ -87,71 +152,6 @@
       "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
       "link": "https://www.yna.co.kr/view/AKR20261007173900002",
       "pubDate": "Wed, 7 Oct 2026 17:26:31 +0900"
-    },
-    {
-      "title": "우상호 강원지사, 日 돗토리현 지사와 화상면담…교류 확대 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261007172300062",
-      "pubDate": "Wed, 7 Oct 2026 17:18:32 +0900"
-    },
-    {
-      "title": "유가 반등에 국고채 금리 대체로 상승…3년물 3.961%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007163251008",
-      "pubDate": "Wed, 7 Oct 2026 17:17:54 +0900"
-    },
-    {
-      "title": "금융권 해킹 도구 '아르텍스' 한국어판 등장…탐지규칙도 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261007170700017",
-      "pubDate": "Wed, 7 Oct 2026 17:15:20 +0900"
-    },
-    {
-      "title": "법원에 제동걸린 '시총 미달 상폐'…거래소 \"후속 상폐절차 유예\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007128851008",
-      "pubDate": "Wed, 7 Oct 2026 17:15:16 +0900"
-    },
-    {
-      "title": "NH농협은행, 비대면 주담대 금리 0.1%p 인하…12일부터",
-      "link": "https://www.yna.co.kr/view/AKR20261007171500002",
-      "pubDate": "Wed, 7 Oct 2026 17:14:38 +0900"
-    },
-    {
-      "title": "실외기 1대로 냉난방…삼성·LG전자, 히트펌프 보급 나선다",
-      "link": "https://www.yna.co.kr/view/AKR20261007155200003",
-      "pubDate": "Wed, 7 Oct 2026 16:58:48 +0900"
-    },
-    {
-      "title": "이소영 장관 \"최저임금 업종별 차등 적용, 고민 필요한 부분\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007166500030",
-      "pubDate": "Wed, 7 Oct 2026 16:56:45 +0900"
-    },
-    {
-      "title": "국토장관 \"토지거래허가제 수요 있어…시장상황 보며 연장 검토\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007087651003",
-      "pubDate": "Wed, 7 Oct 2026 16:55:50 +0900"
-    },
-    {
-      "title": "BGF \"계열사 케이엔더블유 주식 818억원에 취득…지분율 56.9%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007167500008",
-      "pubDate": "Wed, 7 Oct 2026 16:55:47 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20261007167200002",
-      "pubDate": "Wed, 7 Oct 2026 16:54:19 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.961%",
-      "link": "https://www.yna.co.kr/view/AKR20261007163200008",
-      "pubDate": "Wed, 7 Oct 2026 16:40:47 +0900"
-    },
-    {
-      "title": "AI기반 사이버 공격에 맞설 보안 방안은…전략경제자문단 회의",
-      "link": "https://www.yna.co.kr/view/AKR20261007134100002",
-      "pubDate": "Wed, 7 Oct 2026 16:30:01 +0900"
-    },
-    {
-      "title": "개인 체납 1위 '선박왕' 권혁 4천억원 낸다…1천억 우선 납부(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007080151002",
-      "pubDate": "Wed, 7 Oct 2026 16:23:52 +0900"
     }
   ]
 }
