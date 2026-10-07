@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791391510,
+  "updated_at_unix": 1791409234,
   "items": [
+    {
+      "title": "\"증권사, 레버리지ETF 판매前 '고객에 권유 불가' 등 자체 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007194200001",
+      "pubDate": "Thu, 8 Oct 2026 06:10:00 +0900"
+    },
+    {
+      "title": "수조원대 다단계 사기 혐의 '콕 코인'…법적 판단 '감감'",
+      "link": "https://www.yna.co.kr/view/AKR20261006187900002",
+      "pubDate": "Thu, 8 Oct 2026 06:01:00 +0900"
+    },
+    {
+      "title": "국립종자원, 우수품종 경진대회 대통령상에 배추 '청명가을'",
+      "link": "https://www.yna.co.kr/view/AKR20261007128900030",
+      "pubDate": "Thu, 8 Oct 2026 06:00:06 +0900"
+    },
+    {
+      "title": "금융지주 순이익 또 '역대 최대'…올해 상반기 17.6조원",
+      "link": "https://www.yna.co.kr/view/AKR20261007183100002",
+      "pubDate": "Thu, 8 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "시중은행 동산담보대출 연체율 9%대도…일반대출의 최고 11배",
+      "link": "https://www.yna.co.kr/view/AKR20261007171300002",
+      "pubDate": "Thu, 8 Oct 2026 05:57:01 +0900"
+    },
+    {
+      "title": "지방재정 버팀목 3년새 반토막…\"미래기금보다 자체 여력 보강\"",
+      "link": "https://www.yna.co.kr/view/AKR20261007166300002",
+      "pubDate": "Thu, 8 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "피해기업 구제 늦어질라…기술 탈취 공정위 제재까지 703일 걸려",
+      "link": "https://www.yna.co.kr/view/AKR20261007156500002",
+      "pubDate": "Thu, 8 Oct 2026 05:53:01 +0900"
+    },
+    {
+      "title": "또 당한 기업은행…사고기업 사장 세운 회사서 94억 금융사고",
+      "link": "https://www.yna.co.kr/view/AKR20261007195700002",
+      "pubDate": "Thu, 8 Oct 2026 05:51:00 +0900"
+    },
     {
       "title": "美국채 매도세 재개…장중 10년물 금리 2002년 4월 이후 최고",
       "link": "https://www.yna.co.kr/view/AKR20261007207300072",
@@ -112,46 +152,6 @@
       "title": "한·이집트 비즈니스 라운드테이블…수소트램 공급 양해각서",
       "link": "https://www.yna.co.kr/view/AKR20261007178400003",
       "pubDate": "Wed, 7 Oct 2026 18:00:00 +0900"
-    },
-    {
-      "title": "미래운용, '스테이트타워 남산' 매각 추진…KIC 등 입주",
-      "link": "https://www.yna.co.kr/view/AKR20261007178700008",
-      "pubDate": "Wed, 7 Oct 2026 17:44:51 +0900"
-    },
-    {
-      "title": "개인 간 중고 거래도 신용카드로…혁신금융서비스 지정",
-      "link": "https://www.yna.co.kr/view/AKR20261007177900002",
-      "pubDate": "Wed, 7 Oct 2026 17:40:55 +0900"
-    },
-    {
-      "title": "울산바위 인근 아파트 건립 두고 지역사회 '엇갈린 시선'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261007129351062",
-      "pubDate": "Wed, 7 Oct 2026 17:34:47 +0900"
-    },
-    {
-      "title": "울산플랜트산업협의회 \"지역 전기요금제에 울산기여도 반영돼야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261007172900057",
-      "pubDate": "Wed, 7 Oct 2026 17:33:30 +0900"
-    },
-    {
-      "title": "[인사] 한국은행",
-      "link": "https://www.yna.co.kr/view/AKR20261007170900002",
-      "pubDate": "Wed, 7 Oct 2026 17:29:31 +0900"
-    },
-    {
-      "title": "에피소드컴퍼니, 140억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20261007174800008",
-      "pubDate": "Wed, 7 Oct 2026 17:29:15 +0900"
-    },
-    {
-      "title": "예보, OK금융그룹과 예별손보 주식매매계약서 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261007174300002",
-      "pubDate": "Wed, 7 Oct 2026 17:27:33 +0900"
-    },
-    {
-      "title": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-      "link": "https://www.yna.co.kr/view/AKR20261007173900002",
-      "pubDate": "Wed, 7 Oct 2026 17:26:31 +0900"
     }
   ]
 }
