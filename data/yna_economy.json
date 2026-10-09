@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791492223,
+  "updated_at_unix": 1791506739,
   "items": [
+    {
+      "title": "롯데칠성음료, 美와인 '브레드앤버터' 한글 패키지 한정 판매",
+      "link": "https://www.yna.co.kr/view/AKR20261009020500030",
+      "pubDate": "Fri, 9 Oct 2026 09:23:43 +0900"
+    },
+    {
+      "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261009019900030",
+      "pubDate": "Fri, 9 Oct 2026 09:07:44 +0900"
+    },
+    {
+      "title": "배민, 전국우수시장박람회서 전통시장 상품·먹거리 소개",
+      "link": "https://www.yna.co.kr/view/AKR20261009019000030",
+      "pubDate": "Fri, 9 Oct 2026 09:01:14 +0900"
+    },
+    {
+      "title": "부산은행, 청년 자산 형성 돕는 '청년 기쁨두배통장' 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261008031500051",
+      "pubDate": "Fri, 9 Oct 2026 09:00:06 +0900"
+    },
+    {
+      "title": "[시승기] 강인하지만 부드럽다…현대차 '디 올 뉴 투싼'",
+      "link": "https://www.yna.co.kr/view/AKR20261008179100003",
+      "pubDate": "Fri, 9 Oct 2026 09:00:03 +0900"
+    },
+    {
+      "title": "LH, 미분양 매입확약 연말까지 접수…분양가 92%까지 적용",
+      "link": "https://www.yna.co.kr/view/AKR20261008180900003",
+      "pubDate": "Fri, 9 Oct 2026 09:00:02 +0900"
+    },
+    {
+      "title": "'안심하고 먹으라더니'…식품안심업소 223곳 위생법 위반",
+      "link": "https://www.yna.co.kr/view/AKR20261008190600017",
+      "pubDate": "Fri, 9 Oct 2026 09:00:01 +0900"
+    },
+    {
+      "title": "풀무원, 지리산국립공원 직원·자원활동가 초청 교류 행사",
+      "link": "https://www.yna.co.kr/view/AKR20261009018500030",
+      "pubDate": "Fri, 9 Oct 2026 08:41:21 +0900"
+    },
+    {
+      "title": "GS25, 여주 고구마 '여주꾸마' 활용 샐러드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261009017800030",
+      "pubDate": "Fri, 9 Oct 2026 08:34:06 +0900"
+    },
+    {
+      "title": "국내 방송프로그램 불법 복제해 해외교민에 유료제공…총책 실형",
+      "link": "https://www.yna.co.kr/view/AKR20261008149800004",
+      "pubDate": "Fri, 9 Oct 2026 08:00:03 +0900"
+    },
+    {
+      "title": "같은 K열풍인데 주가는 딴판…K뷰티 웃고, K콘텐츠 울고",
+      "link": "https://www.yna.co.kr/view/AKR20261008210200008",
+      "pubDate": "Fri, 9 Oct 2026 08:00:00 +0900"
+    },
+    {
+      "title": "금융권 해외發 해킹에 '깜깜이'…18건 중 16건 공격자 불명",
+      "link": "https://www.yna.co.kr/view/AKR20261009003000002",
+      "pubDate": "Fri, 9 Oct 2026 07:53:02 +0900"
+    },
+    {
+      "title": "연중 최저가 속출 카지노주…원화 강세·관광기금 변수 여전",
+      "link": "https://www.yna.co.kr/view/AKR20261008160800008",
+      "pubDate": "Fri, 9 Oct 2026 07:15:00 +0900"
+    },
+    {
+      "title": "전쟁에 치솟는 곡물가, 식량위기 우려 고개…\"진짜 공포는 내년\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008104500008",
+      "pubDate": "Fri, 9 Oct 2026 07:10:00 +0900"
+    },
+    {
+      "title": "[인터뷰] '가치투자 1세대' 이채원 \"1만피? 3천피?…코스피, 다지는 시간 가질것 \"",
+      "link": "https://www.yna.co.kr/view/AKR20261008179900008",
+      "pubDate": "Fri, 9 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "title": "\"농어촌공사, 3년간 농지관리기금 160억원 부적정 취급\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008190400030",
+      "pubDate": "Fri, 9 Oct 2026 07:00:01 +0900"
+    },
+    {
+      "title": "[AI돋보기] 해커도 AI에 묻는다…해킹의 문턱이 무너졌다",
+      "link": "https://www.yna.co.kr/view/AKR20261008085600017",
+      "pubDate": "Fri, 9 Oct 2026 06:33:00 +0900"
+    },
+    {
+      "title": "정부 해외취업연수 매년 10% 안팎 폐강…피해보상도 지연",
+      "link": "https://www.yna.co.kr/view/AKR20261008176700530",
+      "pubDate": "Fri, 9 Oct 2026 06:01:01 +0900"
+    },
+    {
+      "title": "산업은행 중소기업 자금 공급, 수도권에 약 53% 쏠려",
+      "link": "https://www.yna.co.kr/view/AKR20261008215500002",
+      "pubDate": "Fri, 9 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "한은 앞 'CBDC 반대' 현수막…한은 \"일반인용 도입 안해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008209800002",
+      "pubDate": "Fri, 9 Oct 2026 05:55:00 +0900"
+    },
     {
       "title": "박홍근, 초과세수 활용처에 \"협의 중\"…노르웨이 사례 거론(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20261008172352002",
@@ -52,106 +152,6 @@
       "title": "삼성생명, 해외 신종자본증권 2조원 첫 발행…\"해외투자 강화\"",
       "link": "https://www.yna.co.kr/view/AKR20261008182400002",
       "pubDate": "Thu, 8 Oct 2026 18:07:07 +0900"
-    },
-    {
-      "title": "[인사] 재정경제부",
-      "link": "https://www.yna.co.kr/view/AKR20261008185900002",
-      "pubDate": "Thu, 8 Oct 2026 18:05:58 +0900"
-    },
-    {
-      "title": "매코믹 美상원의원 \"한국 대미 투자, 일본보다 뒤처졌다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008182800504",
-      "pubDate": "Thu, 8 Oct 2026 18:00:35 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261008178500011",
-      "pubDate": "Thu, 8 Oct 2026 18:00:01 +0900"
-    },
-    {
-      "title": "정부, 투기 외엔 농지조사 처분 제외…\"농업인들 걱정 말라\"(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20261008073453030",
-      "pubDate": "Thu, 8 Oct 2026 17:52:23 +0900"
-    },
-    {
-      "title": "\"해킹 고수도 아니었다\"…한국 금융권 공격 키운 AI",
-      "link": "https://www.yna.co.kr/view/AKR20261008181900017",
-      "pubDate": "Thu, 8 Oct 2026 17:37:05 +0900"
-    },
-    {
-      "title": "나이스신평 \"금융회사 정보 유출, 단기 신용도 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008180500008",
-      "pubDate": "Thu, 8 Oct 2026 17:31:27 +0900"
-    },
-    {
-      "title": "국토장관 \"민간 주택공급 회복 중요…HUG PF보증 신속 지원해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261008115051003",
-      "pubDate": "Thu, 8 Oct 2026 17:17:34 +0900"
-    },
-    {
-      "title": "철원군, 고석정 꽃밭서 '2026 철원쌀 밥맛 평가회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261008174000062",
-      "pubDate": "Thu, 8 Oct 2026 17:05:17 +0900"
-    },
-    {
-      "title": "초과 세수, 기금·국채발행 축소에 얼마나…박홍근 \"협의 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008172300002",
-      "pubDate": "Thu, 8 Oct 2026 17:03:40 +0900"
-    },
-    {
-      "title": "[일문일답] 송미령 \"투기 외 농지조사 처분 없다…농지은행 위탁은 선택지\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008170600030",
-      "pubDate": "Thu, 8 Oct 2026 17:03:04 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…중단기 금리 상승하고 초장기 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261008167551008",
-      "pubDate": "Thu, 8 Oct 2026 17:02:55 +0900"
-    },
-    {
-      "title": "이억원 \"은행 주담대 RWA 인상, 시장상황 보며 검토\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008172200002",
-      "pubDate": "Thu, 8 Oct 2026 17:01:51 +0900"
-    },
-    {
-      "title": "해수부, 해파리 대량 발생 위기경보 해제",
-      "link": "https://www.yna.co.kr/view/AKR20261008171900030",
-      "pubDate": "Thu, 8 Oct 2026 16:58:32 +0900"
-    },
-    {
-      "title": "울산상의, 중구에 신축회관 준공…'비즈니스 허브' 도약 기대",
-      "link": "https://www.yna.co.kr/view/AKR20261008169600057",
-      "pubDate": "Thu, 8 Oct 2026 16:55:00 +0900"
-    },
-    {
-      "title": "대구 서문시장 4지구 연내 착공 불투명…시공사 해지 의결",
-      "link": "https://www.yna.co.kr/view/AKR20261008168400053",
-      "pubDate": "Thu, 8 Oct 2026 16:51:41 +0900"
-    },
-    {
-      "title": "박홍근 \"미래기금, 명절 할인 지원 안 돼…다른 재원 활용\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008165700002",
-      "pubDate": "Thu, 8 Oct 2026 16:49:31 +0900"
-    },
-    {
-      "title": "오세훈 시장, 친선결연 35주년 호주 뉴사우스웨일스 총독 면담(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261008067451004",
-      "pubDate": "Thu, 8 Oct 2026 16:42:44 +0900"
-    },
-    {
-      "title": "국고채 금리 혼조세…3년물 연 3.983%",
-      "link": "https://www.yna.co.kr/view/AKR20261008167500008",
-      "pubDate": "Thu, 8 Oct 2026 16:41:37 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20261008166600002",
-      "pubDate": "Thu, 8 Oct 2026 16:40:31 +0900"
-    },
-    {
-      "title": "HDC, 자기주식 771억원 상당 소각 결정…\"주주환원 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008166200003",
-      "pubDate": "Thu, 8 Oct 2026 16:37:07 +0900"
     }
   ]
 }
