@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791528832,
+  "updated_at_unix": 1791554212,
   "items": [
+    {
+      "title": "박정현 \"전국 243개 지자체 부채 58조원…미래 세대에 부담\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009052500063",
+      "pubDate": "Fri, 9 Oct 2026 18:20:24 +0900"
+    },
+    {
+      "title": "슈퍼마켓연합회·택배노조, 쿠팡 장애에 대책 마련·보상 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20261009050900030",
+      "pubDate": "Fri, 9 Oct 2026 17:41:24 +0900"
+    },
+    {
+      "title": "광주 군공항 찾은 최태원, 반도체 투자 우려 '한방에' 불식",
+      "link": "https://www.yna.co.kr/view/AKR20261009046800054",
+      "pubDate": "Fri, 9 Oct 2026 16:52:02 +0900"
+    },
+    {
+      "title": "충북도·충주시, 중국 닝보 롱바이와 4천300억원 투자협약",
+      "link": "https://www.yna.co.kr/view/AKR20261009045600064",
+      "pubDate": "Fri, 9 Oct 2026 16:18:28 +0900"
+    },
     {
       "title": "[외환] 원/달러 환율 4.3원 오른 1,342.8원(15:30 기준가)",
       "link": "https://www.yna.co.kr/view/AKR20261009043000002",
@@ -132,26 +152,6 @@
       "title": "정부 해외취업연수 매년 10% 안팎 폐강…피해보상도 지연",
       "link": "https://www.yna.co.kr/view/AKR20261008176700530",
       "pubDate": "Fri, 9 Oct 2026 06:01:01 +0900"
-    },
-    {
-      "title": "산업은행 중소기업 자금 공급, 수도권에 약 53% 쏠려",
-      "link": "https://www.yna.co.kr/view/AKR20261008215500002",
-      "pubDate": "Fri, 9 Oct 2026 06:00:00 +0900"
-    },
-    {
-      "title": "한은 앞 'CBDC 반대' 현수막…한은 \"일반인용 도입 안해\"",
-      "link": "https://www.yna.co.kr/view/AKR20261008209800002",
-      "pubDate": "Fri, 9 Oct 2026 05:55:00 +0900"
-    },
-    {
-      "title": "박홍근, 초과세수 활용처에 \"협의 중\"…노르웨이 사례 거론(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261008172352002",
-      "pubDate": "Thu, 8 Oct 2026 22:51:45 +0900"
-    },
-    {
-      "title": "이억원 \"가상자산 거래소 지분 규제, 누구의 지시 아냐\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261008208300002",
-      "pubDate": "Thu, 8 Oct 2026 22:23:05 +0900"
     }
   ]
 }
