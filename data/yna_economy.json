@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791588107,
+  "updated_at_unix": 1791599299,
   "items": [
+    {
+      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+      "link": "https://www.yna.co.kr/view/AKR20261010022500017",
+      "pubDate": "Sat, 10 Oct 2026 10:59:07 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261010021400011",
+      "pubDate": "Sat, 10 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표",
+      "link": "https://www.yna.co.kr/view/AKR20261010018000002",
+      "pubDate": "Sat, 10 Oct 2026 09:03:29 +0900"
+    },
+    {
+      "title": "[로펌을만나다] 이준기 태평양 대표 \"기업엔 수사 장기화 자체가 처벌\"",
+      "link": "https://www.yna.co.kr/view/AKR20261008175900004",
+      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "title": "[IPO챗] 이번주 수요예측 10곳…진코스텍 등 2개사 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261008073000008",
+      "pubDate": "Sat, 10 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "title": "\"국내은행, 외형 성장 한계…'위험 대비 수익성'으로 전환해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009050300002",
+      "pubDate": "Sat, 10 Oct 2026 09:00:02 +0900"
+    },
     {
       "title": "[아프리카인물열전](41) '유리천장 깬 개혁가' WTO 첫 여성 수장 오콘조이웨알라",
       "link": "https://www.yna.co.kr/view/AKR20260921172200079",
@@ -122,36 +152,6 @@
       "title": "정부, '러트닉, 김정관에 국정원 불신 전달' 보도에 \"사실 아냐\"",
       "link": "https://www.yna.co.kr/view/AKR20261009025900504",
       "pubDate": "Fri, 9 Oct 2026 10:38:12 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261009024900011",
-      "pubDate": "Fri, 9 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "title": "홍콩반점, 대구 막창구이 활용 '막창짬뽕' 한정 판매",
-      "link": "https://www.yna.co.kr/view/AKR20261009022900030",
-      "pubDate": "Fri, 9 Oct 2026 09:58:07 +0900"
-    },
-    {
-      "title": "롯데칠성음료, 美와인 '브레드앤버터' 한글 패키지 한정 판매",
-      "link": "https://www.yna.co.kr/view/AKR20261009020500030",
-      "pubDate": "Fri, 9 Oct 2026 09:23:43 +0900"
-    },
-    {
-      "title": "코오롱스포츠, 디자이너 브랜드 '지용킴' 협업 컬렉션 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261009019900030",
-      "pubDate": "Fri, 9 Oct 2026 09:07:44 +0900"
-    },
-    {
-      "title": "배민, 전국우수시장박람회서 전통시장 상품·먹거리 소개",
-      "link": "https://www.yna.co.kr/view/AKR20261009019000030",
-      "pubDate": "Fri, 9 Oct 2026 09:01:14 +0900"
-    },
-    {
-      "title": "부산은행, 청년 자산 형성 돕는 '청년 기쁨두배통장' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261008031500051",
-      "pubDate": "Fri, 9 Oct 2026 09:00:06 +0900"
     }
   ]
 }
