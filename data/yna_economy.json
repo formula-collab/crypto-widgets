@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791599299,
+  "updated_at_unix": 1791622008,
   "items": [
+    {
+      "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261010032200530",
+      "pubDate": "Sat, 10 Oct 2026 15:19:45 +0900"
+    },
+    {
+      "title": "32년된 건물 마감재 무너졌는데…정기 안전점검 의무대상 아니었다",
+      "link": "https://www.yna.co.kr/view/AKR20261010028000053",
+      "pubDate": "Sat, 10 Oct 2026 13:59:50 +0900"
+    },
+    {
+      "title": "[테크톡노트] 중국어로 지시했는데 한국 금융권 공격…어떻게 가능했나",
+      "link": "https://www.yna.co.kr/view/AKR20261009030600017",
+      "pubDate": "Sat, 10 Oct 2026 13:30:00 +0900"
+    },
+    {
+      "title": "\"국세청 세법 개정 건의에 재경부 80% 퇴짜…재탕 174건\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261009048851002",
+      "pubDate": "Sat, 10 Oct 2026 11:28:45 +0900"
+    },
     {
       "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
       "link": "https://www.yna.co.kr/view/AKR20261010022500017",
@@ -132,26 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20261009039200011",
       "pubDate": "Fri, 9 Oct 2026 15:00:00 +0900"
-    },
-    {
-      "title": "김승수 \"한국어교원 10명 중 7명은 활동 안해…고용·처우 열악\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009038600001",
-      "pubDate": "Fri, 9 Oct 2026 14:53:46 +0900"
-    },
-    {
-      "title": "[인사] 농림축산식품부",
-      "link": "https://www.yna.co.kr/view/AKR20261009029500030",
-      "pubDate": "Fri, 9 Oct 2026 12:01:07 +0900"
-    },
-    {
-      "title": "IPARK현대산업개발, '5천500억원' 숙대입구역세권 재개발 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261009028100003",
-      "pubDate": "Fri, 9 Oct 2026 11:10:05 +0900"
-    },
-    {
-      "title": "정부, '러트닉, 김정관에 국정원 불신 전달' 보도에 \"사실 아냐\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009025900504",
-      "pubDate": "Fri, 9 Oct 2026 10:38:12 +0900"
     }
   ]
 }
