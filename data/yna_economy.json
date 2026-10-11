@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791672222,
+  "updated_at_unix": 1791681795,
   "items": [
+    {
+      "title": "충청권 첫 공동 취업박람회 16일 청주오스코서 열려",
+      "link": "https://www.yna.co.kr/view/AKR20261008182500064",
+      "pubDate": "Sun, 11 Oct 2026 10:01:01 +0900"
+    },
+    {
+      "title": "수출 굴, 미국서 6차례 노로바이러스로 폐기…관리 예산 미편성",
+      "link": "https://www.yna.co.kr/view/AKR20261011013900030",
+      "pubDate": "Sun, 11 Oct 2026 09:33:48 +0900"
+    },
+    {
+      "title": "대구시, '지방 주택시장 맞춤형 처방' 정부에 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261011013200053",
+      "pubDate": "Sun, 11 Oct 2026 09:10:35 +0900"
+    },
+    {
+      "title": "SK오션플랜트 인수 디오션, 지역상생 내용에 관심",
+      "link": "https://www.yna.co.kr/view/AKR20261008036600052",
+      "pubDate": "Sun, 11 Oct 2026 09:05:00 +0900"
+    },
+    {
+      "title": "부산 에코델타시티 18·19블록 계약취소 2가구 재공급",
+      "link": "https://www.yna.co.kr/view/AKR20261008078400051",
+      "pubDate": "Sun, 11 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "title": "인천시, 개항장 일대 체류형 관광 인프라 확충",
+      "link": "https://www.yna.co.kr/view/AKR20261011009800065",
+      "pubDate": "Sun, 11 Oct 2026 08:31:01 +0900"
+    },
+    {
+      "title": "\"신선식품 구매액 과일·채소 최상위…편의점 구매액 20% 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009013200030",
+      "pubDate": "Sun, 11 Oct 2026 08:30:00 +0900"
+    },
+    {
+      "title": "북극항로 시범운항 선박, 50일 항해 마치고 부산 도착",
+      "link": "https://www.yna.co.kr/view/AKR20261010045400051",
+      "pubDate": "Sun, 11 Oct 2026 08:18:39 +0900"
+    },
+    {
+      "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
+      "link": "https://www.yna.co.kr/view/AKR20261007089900518",
+      "pubDate": "Sun, 11 Oct 2026 08:00:00 +0900"
+    },
     {
       "title": "울산 5개 구·군 재정자립도, 4년 전보다 모두 하락",
       "link": "https://www.yna.co.kr/view/AKR20261008148400057",
@@ -107,51 +152,6 @@
       "title": "공정위 신고해도 절반은 조사 문턱 못 넘어…\"점검해야\"",
       "link": "https://www.yna.co.kr/view/AKR20261009052000002",
       "pubDate": "Sun, 11 Oct 2026 05:58:00 +0900"
-    },
-    {
-      "title": "\"국세 체납 116조 넘어…법인세 등 지연 가산세 5년여간 22조\"",
-      "link": "https://www.yna.co.kr/view/AKR20261010027900002",
-      "pubDate": "Sun, 11 Oct 2026 05:57:17 +0900"
-    },
-    {
-      "title": "모태 자펀드 수도권 집중…2020년 이후 신규투자 4분의 3 쏠려",
-      "link": "https://www.yna.co.kr/view/AKR20261009049200002",
-      "pubDate": "Sun, 11 Oct 2026 05:56:05 +0900"
-    },
-    {
-      "title": "[10·15 대책 1년] '닥치고 공급'인데 공급 부족 언제 해소되나",
-      "link": "https://www.yna.co.kr/view/AKR20261010040700003",
-      "pubDate": "Sun, 11 Oct 2026 05:55:21 +0900"
-    },
-    {
-      "title": "[10·15 대책 1년] 1년 새 서울 중하위권 뜨고 강남은 위축",
-      "link": "https://www.yna.co.kr/view/AKR20261010045100003",
-      "pubDate": "Sun, 11 Oct 2026 05:55:10 +0900"
-    },
-    {
-      "title": "모아타운 공사비 갈등 줄인다…SH가 소규모정비사업 공사비 검증",
-      "link": "https://www.yna.co.kr/view/AKR20261009036300004",
-      "pubDate": "Sun, 11 Oct 2026 05:55:01 +0900"
-    },
-    {
-      "title": "전세보증 사고율 2년연속 상승…악성임대인 미반환금 2천억 넘어",
-      "link": "https://www.yna.co.kr/view/AKR20261010029300002",
-      "pubDate": "Sun, 11 Oct 2026 05:55:00 +0900"
-    },
-    {
-      "title": "\"코로나19 때 늘어난 체납액 계속 쌓여…고령층 속도 가팔라\"",
-      "link": "https://www.yna.co.kr/view/AKR20261010029000002",
-      "pubDate": "Sun, 11 Oct 2026 05:54:02 +0900"
-    },
-    {
-      "title": "새출발기금 약정자 평균 6천800만원 감면…연체이자 6.6배 수준",
-      "link": "https://www.yna.co.kr/view/AKR20261010035500002",
-      "pubDate": "Sun, 11 Oct 2026 05:53:01 +0900"
-    },
-    {
-      "title": "은행 가계대출 57.3%가 변동금리…1년 새 4.3%p 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261010042400002",
-      "pubDate": "Sun, 11 Oct 2026 05:52:00 +0900"
     }
   ]
 }
