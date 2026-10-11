@@ -1,8 +1,123 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791745364,
+  "updated_at_unix": 1791759609,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261012007600011",
+      "pubDate": "Mon, 12 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "인천 신항 초저온 냉열 물류단지에 데이터센터 조성 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261008110900065",
+      "pubDate": "Mon, 12 Oct 2026 07:17:00 +0900"
+    },
+    {
+      "title": "\"가장 완성도 높은 엔트리 EV\"…북미 상륙 기아 EV3에 잇단 호평",
+      "link": "https://www.yna.co.kr/view/AKR20261010001300003",
+      "pubDate": "Mon, 12 Oct 2026 07:01:00 +0900"
+    },
+    {
+      "title": "코람코자산신탁, 여의도 ABL타워 인수 우선협상대상자로 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261009038800008",
+      "pubDate": "Mon, 12 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "title": "서울 아파트 계약 해제율 5년 새 2배…\"교란행위 검증해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261009048700003",
+      "pubDate": "Mon, 12 Oct 2026 06:31:00 +0900"
+    },
+    {
+      "title": "\"호남 반도체 국가산단 사업비 9조…인근 분양가 2배 이상\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011036100003",
+      "pubDate": "Mon, 12 Oct 2026 06:15:01 +0900"
+    },
+    {
+      "title": "\"작년 한은 인수 위조지폐 9천700장…SNS엔 버젓이 판매글\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011034500001",
+      "pubDate": "Mon, 12 Oct 2026 06:13:01 +0900"
+    },
+    {
+      "title": "해외 직구 사이트서 위해성 문제로 6천400여건 국내유통 차단",
+      "link": "https://www.yna.co.kr/view/AKR20261009028600001",
+      "pubDate": "Mon, 12 Oct 2026 06:04:01 +0900"
+    },
+    {
+      "title": "육아기 근로시간 줄였더니 자녀돌봄 하루 47분 늘었다",
+      "link": "https://www.yna.co.kr/view/AKR20261010045200530",
+      "pubDate": "Mon, 12 Oct 2026 06:01:02 +0900"
+    },
+    {
+      "title": "9월 전세사기 피해자 623건 추가 인정…누적 4만1천559건",
+      "link": "https://www.yna.co.kr/view/AKR20261011029300003",
+      "pubDate": "Mon, 12 Oct 2026 06:00:03 +0900"
+    },
+    {
+      "title": "세제혜택 받고도 연체채권 계속 추심하는 관행 고친다",
+      "link": "https://www.yna.co.kr/view/AKR20261009025300002",
+      "pubDate": "Mon, 12 Oct 2026 06:00:03 +0900"
+    },
+    {
+      "title": "실거주 이유로 갱신 거절후 새 임대차…대법 \"불가피성 증명해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261011033900004",
+      "pubDate": "Mon, 12 Oct 2026 06:00:02 +0900"
+    },
+    {
+      "title": "롯데百, 외국인 전용 '투어리스트 멤버십x체크인서울' 카드 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261011038000030",
+      "pubDate": "Mon, 12 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "\"국세청 부동산 자금출처조사 증가율, 서울청 4%·나머지 51%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261010029700002",
+      "pubDate": "Mon, 12 Oct 2026 05:59:00 +0900"
+    },
+    {
+      "title": "코인 급락에 대여 80% 감소…빗썸 이용·강제청산 최다",
+      "link": "https://www.yna.co.kr/view/AKR20261009001200002",
+      "pubDate": "Mon, 12 Oct 2026 05:58:00 +0900"
+    },
+    {
+      "title": "국내 가상자산 적립식 매수 1조원 육박…하락장에도 꾸준",
+      "link": "https://www.yna.co.kr/view/AKR20261011029500002",
+      "pubDate": "Mon, 12 Oct 2026 05:57:00 +0900"
+    },
+    {
+      "title": "주택연금 구상채권 5년반에 10배로…회수율은 절반으로 뚝",
+      "link": "https://www.yna.co.kr/view/AKR20261010029500002",
+      "pubDate": "Mon, 12 Oct 2026 05:56:00 +0900"
+    },
+    {
+      "title": "보험광고 규정위반 4년반에 4.7만건…협회 제재금 부과 10건뿐",
+      "link": "https://www.yna.co.kr/view/AKR20261009026700002",
+      "pubDate": "Mon, 12 Oct 2026 05:55:01 +0900"
+    },
+    {
+      "title": "한은 M2 통계 개편 후 증가율 격차 확대…'ETF 제외' 영향 커져",
+      "link": "https://www.yna.co.kr/view/AKR20261011047300002",
+      "pubDate": "Mon, 12 Oct 2026 05:54:00 +0900"
+    },
+    {
+      "title": "작년 명의위장 사업 약 2천건 적발…검찰 고발은 4년전보다 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261009049500002",
+      "pubDate": "Mon, 12 Oct 2026 05:53:05 +0900"
+    },
+    {
+      "title": "짬짜미 반복 이유 있었네…담합해도 과징금은 매출액의 6%뿐",
+      "link": "https://www.yna.co.kr/view/AKR20261010046600002",
+      "pubDate": "Mon, 12 Oct 2026 05:52:00 +0900"
+    },
+    {
+      "title": "상호금융 339곳 연체율 두 자릿수…반년 새 66% 급증",
+      "link": "https://www.yna.co.kr/view/AKR20261009037000002",
+      "pubDate": "Mon, 12 Oct 2026 05:51:01 +0900"
+    },
+    {
+      "title": "마감재 붙인 철골 천장틀 통째로 붕괴…경찰, 수사 속도",
+      "link": "https://www.yna.co.kr/view/AKR20261011043200053",
+      "pubDate": "Mon, 12 Oct 2026 04:30:00 +0900"
+    },
     {
       "title": "이형일, 경제현안간담회서 온누리상품권·민생물가 논의",
       "link": "https://www.yna.co.kr/view/AKR20261011050200002",
@@ -37,121 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
       "link": "https://www.yna.co.kr/view/AKR20261011028900011",
       "pubDate": "Sun, 11 Oct 2026 15:00:01 +0900"
-    },
-    {
-      "title": "시설물 안전진단 부실업체 3곳 중 1곳 재차 부실평가",
-      "link": "https://www.yna.co.kr/view/AKR20261011027600003",
-      "pubDate": "Sun, 11 Oct 2026 14:22:25 +0900"
-    },
-    {
-      "title": "李대통령 \"2022년 대선 이후 차질 빚은 주택공급 조만간 정상화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261011026100001",
-      "pubDate": "Sun, 11 Oct 2026 13:57:43 +0900"
-    },
-    {
-      "title": "온라인 위조상품 유통, 연말까지 민·관 합동 모니터링",
-      "link": "https://www.yna.co.kr/view/AKR20261011024200063",
-      "pubDate": "Sun, 11 Oct 2026 13:08:29 +0900"
-    },
-    {
-      "title": "LH \"향후 3년간 서울 25개 자치구에 2만가구 이상 공급\"",
-      "link": "https://www.yna.co.kr/view/AKR20261011021000003",
-      "pubDate": "Sun, 11 Oct 2026 12:03:57 +0900"
-    },
-    {
-      "title": "[AI픽] 포스코DX, 인핸스에 20억원 투자…에이전틱 AI 고도화",
-      "link": "https://www.yna.co.kr/view/AKR20261008194900017",
-      "pubDate": "Sun, 11 Oct 2026 12:00:06 +0900"
-    },
-    {
-      "title": "중기부, '모두의창업' 솔루션 기업 50곳 공개…\"창업 준비 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009020400030",
-      "pubDate": "Sun, 11 Oct 2026 12:00:04 +0900"
-    },
-    {
-      "title": "중기부·국세청, AI 기업 2천559개사 성장·세정지원 연계",
-      "link": "https://www.yna.co.kr/view/AKR20261009033600030",
-      "pubDate": "Sun, 11 Oct 2026 12:00:04 +0900"
-    },
-    {
-      "title": "지방소멸기금 광역계정 500억원 첫 차등배분…강원·충남 최우수",
-      "link": "https://www.yna.co.kr/view/AKR20261008195700530",
-      "pubDate": "Sun, 11 Oct 2026 12:00:03 +0900"
-    },
-    {
-      "title": "출생연도 관계없이 청년미래적금 신청 가능…12일부터 16일까지",
-      "link": "https://www.yna.co.kr/view/AKR20261010039100002",
-      "pubDate": "Sun, 11 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "title": "대한상의, 자격증 활용 우수사례 공모전…30일까지 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261011009300003",
-      "pubDate": "Sun, 11 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "title": "경총 \"60세 정년 유지하되 65세까지 재고용\"…일본 사례 소개",
-      "link": "https://www.yna.co.kr/view/AKR20261011017300003",
-      "pubDate": "Sun, 11 Oct 2026 12:00:00 +0900"
-    },
-    {
-      "title": "LH, 분양가상한 공공분양주택에 최대 9.5% 가산비 신설 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261011019800003",
-      "pubDate": "Sun, 11 Oct 2026 11:55:31 +0900"
-    },
-    {
-      "title": "\"국세 체납 116조 넘어…법인세 등 지연 가산세 5년여간 22조\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261010027951002",
-      "pubDate": "Sun, 11 Oct 2026 11:47:42 +0900"
-    },
-    {
-      "title": "\"코로나19 때 늘어난 체납액 계속 쌓여…고령층 속도 가팔라\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261010029051002",
-      "pubDate": "Sun, 11 Oct 2026 11:46:59 +0900"
-    },
-    {
-      "title": "'한국 전자제품 메카' 용산전자상가, AI·ICT 신산업 거점으로",
-      "link": "https://www.yna.co.kr/view/AKR20261011014000004",
-      "pubDate": "Sun, 11 Oct 2026 11:15:02 +0900"
-    },
-    {
-      "title": "서울창업허브 공덕 입주할 유망 스타트업 27곳 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261011014600004",
-      "pubDate": "Sun, 11 Oct 2026 11:15:01 +0900"
-    },
-    {
-      "title": "재개발·재건축이 궁금하다면…서울시, 2차 정비사업 아카데미",
-      "link": "https://www.yna.co.kr/view/AKR20261011014400004",
-      "pubDate": "Sun, 11 Oct 2026 11:15:01 +0900"
-    },
-    {
-      "title": "해수부 '해양환경 이동교실' 중부내륙권서도 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261008166000051",
-      "pubDate": "Sun, 11 Oct 2026 11:00:03 +0900"
-    },
-    {
-      "title": "해수부, 여수서 '해양법 아카데미'…22개 개도국 31명 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261008160000051",
-      "pubDate": "Sun, 11 Oct 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농관원, 김장철 앞두고 배추·무 등 농산물 안전성 집중조사",
-      "link": "https://www.yna.co.kr/view/AKR20261009025200030",
-      "pubDate": "Sun, 11 Oct 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농식품부·농어촌공사, 내일부터 '농지 전수조사 상담센터' 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261009026000030",
-      "pubDate": "Sun, 11 Oct 2026 11:00:01 +0900"
-    },
-    {
-      "title": "농식품부 \"개 사육농장 87% 폐업…남은 사육견 7천600마리\"",
-      "link": "https://www.yna.co.kr/view/AKR20261009026900030",
-      "pubDate": "Sun, 11 Oct 2026 11:00:01 +0900"
-    },
-    {
-      "title": "코트라, 남아공 의료·검사장비 전시에 한국관…아프리카 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261011013400003",
-      "pubDate": "Sun, 11 Oct 2026 11:00:00 +0900"
     }
   ]
 }
