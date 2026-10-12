@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791798920,
+  "updated_at_unix": 1791833342,
   "items": [
+    {
+      "title": "미래 '기대'에 경기안정 해법 찾은 노벨경제학상 수상자들",
+      "link": "https://www.yna.co.kr/view/AKR20261012175100002",
+      "pubDate": "Mon, 12 Oct 2026 21:33:46 +0900"
+    },
+    {
+      "title": "李대통령 골프 논란에 박홍근 \"매뉴얼대로 대응했는지가 중요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261012177400002",
+      "pubDate": "Mon, 12 Oct 2026 21:12:30 +0900"
+    },
+    {
+      "title": "[동포의 창] 中 세계한인경제인대회서 4억8천600만달러 수출 상담",
+      "link": "https://www.yna.co.kr/view/AKR20261012175000371",
+      "pubDate": "Mon, 12 Oct 2026 20:37:00 +0900"
+    },
+    {
+      "title": "제일엠앤에스, 유상증자…중소기업은행 등에 3자 배정",
+      "link": "https://www.yna.co.kr/view/AKR20261012171000008",
+      "pubDate": "Mon, 12 Oct 2026 19:52:15 +0900"
+    },
     {
       "title": "'오를땐 빨리, 내릴땐 늦게' 정유 4사 \"국민에 송구, 조속 개선\"",
       "link": "https://www.yna.co.kr/view/AKR20261012160100003",
@@ -132,26 +152,6 @@
       "title": "'30억 뇌물' 비리 터지자…안성시, 개발사업 인허가 보류",
       "link": "https://www.yna.co.kr/view/AKR20261012145600061",
       "pubDate": "Mon, 12 Oct 2026 16:54:40 +0900"
-    },
-    {
-      "title": "\"오늘부터 대박세일 시작\" 추 대구시장, 서문시장서 현장 홍보",
-      "link": "https://www.yna.co.kr/view/AKR20261012139500053",
-      "pubDate": "Mon, 12 Oct 2026 16:47:09 +0900"
-    },
-    {
-      "title": "울주군, '2026 수출우수기업상' 후보자 추천 접수",
-      "link": "https://www.yna.co.kr/view/AKR20261012138700057",
-      "pubDate": "Mon, 12 Oct 2026 16:41:32 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.921%",
-      "link": "https://www.yna.co.kr/view/AKR20261012144400008",
-      "pubDate": "Mon, 12 Oct 2026 16:40:18 +0900"
-    },
-    {
-      "title": "원/달러 환율 1,332.0원, 2년만에 최저…원/엔 금융위기 후 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261012139300002",
-      "pubDate": "Mon, 12 Oct 2026 16:35:29 +0900"
     }
   ]
 }
