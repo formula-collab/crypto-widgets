@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791880711,
+  "updated_at_unix": 1791909172,
   "items": [
+    {
+      "title": "김영훈 \"행정기관 이전 노정교섭…고공농성 한화오션 방문 검토\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261013100052530",
+      "pubDate": "Tue, 13 Oct 2026 23:40:10 +0900"
+    },
+    {
+      "title": "이형일-베선트 화상면담…\"한미 경제·금융협력 중요성 재확인\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013193900002",
+      "pubDate": "Tue, 13 Oct 2026 23:16:18 +0900"
+    },
+    {
+      "title": "IMF 올해 韓 1인GDP 4만불 돌파 관측…\"성장률은 3.3%·0.7%p↑\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261013066052002",
+      "pubDate": "Tue, 13 Oct 2026 20:56:52 +0900"
+    },
+    {
+      "title": "새마을금고 400명대 고객정보 유출…\"피해발생시 전액보상\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261013155952002",
+      "pubDate": "Tue, 13 Oct 2026 19:50:37 +0900"
+    },
+    {
+      "title": "농업인단체 \"농림축수산업 희생 전제한 통상정책 벗어나야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013181500030",
+      "pubDate": "Tue, 13 Oct 2026 18:40:32 +0900"
+    },
+    {
+      "title": "노동장관 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013178800530",
+      "pubDate": "Tue, 13 Oct 2026 18:19:58 +0900"
+    },
+    {
+      "title": "농식품부 \"브라질산 계란 수입, 전체의 0.8%…시범적 조치\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013178600030",
+      "pubDate": "Tue, 13 Oct 2026 18:19:20 +0900"
+    },
+    {
+      "title": "진코스텍·멜콘, 코스닥 신규상장…오는 15일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261013178400008",
+      "pubDate": "Tue, 13 Oct 2026 18:15:43 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261013166300011",
+      "pubDate": "Tue, 13 Oct 2026 18:00:01 +0900"
+    },
+    {
+      "title": "춘천미래동행재단, 24일 미래동행 DAY·미래를 잇다' 개최",
+      "link": "https://www.yna.co.kr/view/AKR20261013167800062",
+      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0900"
+    },
+    {
+      "title": "임광현 \"李대통령 아파트 거래, 과세 대상 아냐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261013174200002",
+      "pubDate": "Tue, 13 Oct 2026 17:55:49 +0900"
+    },
+    {
+      "title": "기업·신한·우리·하나은행 앱서 모바일신분증 발급·이용 가능",
+      "link": "https://www.yna.co.kr/view/AKR20261013174400530",
+      "pubDate": "Tue, 13 Oct 2026 17:52:22 +0900"
+    },
+    {
+      "title": "용인시장, 국토부 장관에 반도체클러스터 교통망 확충 요청",
+      "link": "https://www.yna.co.kr/view/AKR20261013171600061",
+      "pubDate": "Tue, 13 Oct 2026 17:45:23 +0900"
+    },
+    {
+      "title": "노동장관 \"노란봉투법 '교섭 쓰나미' 없었다…현장 안착 최선\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261013100051530",
+      "pubDate": "Tue, 13 Oct 2026 17:35:54 +0900"
+    },
+    {
+      "title": "'짝퉁과의 전쟁' 한목소리…상표권 침해 대응·관리 강화 주문",
+      "link": "https://www.yna.co.kr/view/AKR20261013166100063",
+      "pubDate": "Tue, 13 Oct 2026 17:34:43 +0900"
+    },
     {
       "title": "농식품부, '여성농업인의 날' 행사…코미디언 김미화 홍보대사 위촉",
       "link": "https://www.yna.co.kr/view/AKR20261013122500030",
@@ -77,81 +152,6 @@
       "title": "광주노동청, '체내 납 배출 약 복용' 공장 조사(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261013073151054",
       "pubDate": "Tue, 13 Oct 2026 16:50:54 +0900"
-    },
-    {
-      "title": "임광현 \"가상자산 과세 고시 다음 달로 준비\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013151400002",
-      "pubDate": "Tue, 13 Oct 2026 16:49:17 +0900"
-    },
-    {
-      "title": "사상최대 반도체 실적인데 왜…'검은 화요일' 코스피 추락에 악소리(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013089251008",
-      "pubDate": "Tue, 13 Oct 2026 16:48:09 +0900"
-    },
-    {
-      "title": "새마을금고, 400명대 고객정보 유출 확인…당국에 신고",
-      "link": "https://www.yna.co.kr/view/AKR20261013155900002",
-      "pubDate": "Tue, 13 Oct 2026 16:37:38 +0900"
-    },
-    {
-      "title": "국감장 언급된 부캉이…\"특정인에게 상표 독점권 부여 신중해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261013154500063",
-      "pubDate": "Tue, 13 Oct 2026 16:36:35 +0900"
-    },
-    {
-      "title": "[속보] 새마을금고, 400명대 정보유출 확인돼 당국 신고",
-      "link": "https://www.yna.co.kr/view/AKR20261013155800002",
-      "pubDate": "Tue, 13 Oct 2026 16:35:04 +0900"
-    },
-    {
-      "title": "식약처장 \"미프진 합법화 필요…부작용 피해구제해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013101151017",
-      "pubDate": "Tue, 13 Oct 2026 16:33:08 +0900"
-    },
-    {
-      "title": "북극항로 시범운항 귀환 환영식…李대통령, 선원들에 꽃목걸이(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261012101551051",
-      "pubDate": "Tue, 13 Oct 2026 16:32:43 +0900"
-    },
-    {
-      "title": "'세종 이전'에 금융위원장 긴급 간부회의…\"TF 꾸려 고충 수렴\"",
-      "link": "https://www.yna.co.kr/view/AKR20261013152600002",
-      "pubDate": "Tue, 13 Oct 2026 16:26:44 +0900"
-    },
-    {
-      "title": "임광현 \"세금 전문 법원 검토할만…성공보수제 도입 준비\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013079251002",
-      "pubDate": "Tue, 13 Oct 2026 16:22:51 +0900"
-    },
-    {
-      "title": "코스피 연일 급락에 공포지수 19% 급등…시총 5천조원 깨져(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013101451008",
-      "pubDate": "Tue, 13 Oct 2026 16:22:36 +0900"
-    },
-    {
-      "title": "코스피, 5.5% 급락 '6천피' 간신히 사수…외국인 4.5조 팔았다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261013138851008",
-      "pubDate": "Tue, 13 Oct 2026 16:22:01 +0900"
-    },
-    {
-      "title": "LGU+, 수요예측에 1.7조 몰려…모집예정액 11배 흥행",
-      "link": "https://www.yna.co.kr/view/AKR20261013148100008",
-      "pubDate": "Tue, 13 Oct 2026 16:17:36 +0900"
-    },
-    {
-      "title": "충북도 '민선9기 민생경제 정책' 수립…소상공인 성장 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261013143200064",
-      "pubDate": "Tue, 13 Oct 2026 16:03:39 +0900"
-    },
-    {
-      "title": "중동발 유가상승·증시 급락에…환율 10원 오른 1,345.1원",
-      "link": "https://www.yna.co.kr/view/AKR20261013145100002",
-      "pubDate": "Tue, 13 Oct 2026 16:03:27 +0900"
-    },
-    {
-      "title": "서천특화시장 재건축 19일 재개…2028년 11월 준공 목표",
-      "link": "https://www.yna.co.kr/view/AKR20261013145900063",
-      "pubDate": "Tue, 13 Oct 2026 16:03:12 +0900"
     }
   ]
 }
