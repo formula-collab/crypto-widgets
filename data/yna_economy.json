@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1791974760,
+  "updated_at_unix": 1791992139,
   "items": [
+    {
+      "title": "취임 6주년 정의선 \"인도서 자동차 넘어 인프라·에너지 투자\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261014179651003",
+      "pubDate": "Wed, 14 Oct 2026 22:14:53 +0900"
+    },
+    {
+      "title": "신현송 한은 총재, 중·일 중앙은행 총재와 경제동향 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261014176200002",
+      "pubDate": "Wed, 14 Oct 2026 20:00:01 +0900"
+    },
+    {
+      "title": "취임 6주년에 인도 찾은 정의선 \"상당히 중요한 이정표\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014179600003",
+      "pubDate": "Wed, 14 Oct 2026 19:45:40 +0900"
+    },
     {
       "title": "당국 \"금융사 침해사고 발생 총 16곳…약 10만건 유출\"(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20261014134852002",
@@ -137,21 +152,6 @@
       "title": "국공노 \"2차 행정기관 이전 대상 공무원 주거·정주대책 필요\"",
       "link": "https://www.yna.co.kr/view/AKR20261014148900063",
       "pubDate": "Wed, 14 Oct 2026 16:27:27 +0900"
-    },
-    {
-      "title": "LS증권, 수요예측서 4천640억 몰려…모집예정액 7배 수준",
-      "link": "https://www.yna.co.kr/view/AKR20261013159900008",
-      "pubDate": "Wed, 14 Oct 2026 16:12:55 +0900"
-    },
-    {
-      "title": "SK하이닉스, 반등 실패 후 1.7% 하락 마감…6거래일 연속 내려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261014041251008",
-      "pubDate": "Wed, 14 Oct 2026 16:09:41 +0900"
-    },
-    {
-      "title": "환율, 6.8원 내린 1,338.3원…달러 약세에 하락 전환",
-      "link": "https://www.yna.co.kr/view/AKR20261014143800002",
-      "pubDate": "Wed, 14 Oct 2026 16:07:43 +0900"
     }
   ]
 }
