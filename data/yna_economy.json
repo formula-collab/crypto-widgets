@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792007277,
+  "updated_at_unix": 1792018001,
   "items": [
+    {
+      "title": "상의 55차 물류위원회…\"AI 전환은 선택 아닌 필수\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014156600003",
+      "pubDate": "Thu, 15 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261015013000011",
+      "pubDate": "Thu, 15 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "'의심 선별'에도 정상 우편물로 분류된 마약…이튿날 회수",
+      "link": "https://www.yna.co.kr/view/AKR20261014158300065",
+      "pubDate": "Thu, 15 Oct 2026 07:17:00 +0900"
+    },
+    {
+      "title": "1억원 들었는데…\"HUG '부동산 금융' 용역, 기존 저작물 짜깁기\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014170200001",
+      "pubDate": "Thu, 15 Oct 2026 07:10:01 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 챗GPT가 전부는 아니다…아프리카의 다른 AI 혁명",
+      "link": "https://www.yna.co.kr/view/AKR20260929074200898",
+      "pubDate": "Thu, 15 Oct 2026 07:00:16 +0900"
+    },
+    {
+      "title": "[인터뷰] 경남상의협 회장 \"지방살아야 수도권도 숨통…법인세 차등 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014164100052",
+      "pubDate": "Thu, 15 Oct 2026 07:00:14 +0900"
+    },
+    {
+      "title": "주택·상가 임대차 분쟁 5년 새 2.3배로…조정은 6건 중 1건뿐",
+      "link": "https://www.yna.co.kr/view/AKR20261014163900003",
+      "pubDate": "Thu, 15 Oct 2026 06:30:02 +0900"
+    },
+    {
+      "title": "거래 끝났는데 계속 광고…서울 부동산 허위 매물 조치율 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261014131300003",
+      "pubDate": "Thu, 15 Oct 2026 06:11:01 +0900"
+    },
+    {
+      "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261014161900004",
+      "pubDate": "Thu, 15 Oct 2026 06:00:08 +0900"
+    },
+    {
+      "title": "한중 FTA 서비스·투자 협상 속도 낸다…서울서 17차 협상",
+      "link": "https://www.yna.co.kr/view/AKR20261014167600003",
+      "pubDate": "Thu, 15 Oct 2026 06:00:05 +0900"
+    },
+    {
+      "title": "무역협회, 튀르키예서 K-할랄 상품전…국내 소비재 36개사 참여",
+      "link": "https://www.yna.co.kr/view/AKR20261014171200003",
+      "pubDate": "Thu, 15 Oct 2026 06:00:04 +0900"
+    },
+    {
+      "title": "\"기보, 수천억 팩토링금융 성과측정 없이 '깜깜이' 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014174600001",
+      "pubDate": "Thu, 15 Oct 2026 06:00:04 +0900"
+    },
+    {
+      "title": "컨테이너 화물 검사용 엑스레이기 3대 중 1대 노후",
+      "link": "https://www.yna.co.kr/view/AKR20261014143200002",
+      "pubDate": "Thu, 15 Oct 2026 05:58:01 +0900"
+    },
+    {
+      "title": "조달청 외부인 접촉신고 제대로 하나…\"월 평균 1건도 안돼\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014157600002",
+      "pubDate": "Thu, 15 Oct 2026 05:57:00 +0900"
+    },
+    {
+      "title": "한은, 올해 법인카드 오사용 15건·274만원…\"관리·감독 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014175400002",
+      "pubDate": "Thu, 15 Oct 2026 05:56:01 +0900"
+    },
+    {
+      "title": "주택연금 신규 가입자 확대에 가입률 첫 2%대로…\"여전히 저조\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014160100002",
+      "pubDate": "Thu, 15 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "올해 신규보증 PF사업장 70% '저자본·고보증'…투자금 5% 안돼",
+      "link": "https://www.yna.co.kr/view/AKR20261014179800002",
+      "pubDate": "Thu, 15 Oct 2026 05:54:00 +0900"
+    },
+    {
+      "title": "재산 숨기고 105억 빚 감면…새출발기금 재산은닉 16명 적발",
+      "link": "https://www.yna.co.kr/view/AKR20261014179100002",
+      "pubDate": "Thu, 15 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "title": "\"檢폐지에 관세청 사건 1천582건 '행방불명'…마약수사 공백\"",
+      "link": "https://www.yna.co.kr/view/AKR20261014168100002",
+      "pubDate": "Thu, 15 Oct 2026 05:52:15 +0900"
+    },
+    {
+      "title": "기업銀 중기대출 장기연체 5천700억…3년 반만에 6배로",
+      "link": "https://www.yna.co.kr/view/AKR20261014159700002",
+      "pubDate": "Thu, 15 Oct 2026 05:51:00 +0900"
+    },
+    {
+      "title": "국제유가, 사우디 아람코 피격·IEA 공급 경고에 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261015005800072",
+      "pubDate": "Thu, 15 Oct 2026 05:25:03 +0900"
+    },
     {
       "title": "취임 6주년 정의선 \"인도서 자동차 넘어 인프라·에너지 투자\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261014179651003",
@@ -47,111 +152,6 @@
       "title": "다자외교 데뷔하는 이형일, G20 재무장관회의 참석차 방콕행",
       "link": "https://www.yna.co.kr/view/AKR20261014151300002",
       "pubDate": "Wed, 14 Oct 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261014162300011",
-      "pubDate": "Wed, 14 Oct 2026 18:00:00 +0900"
-    },
-    {
-      "title": "청주 '신분평 에피트 더웨이시티' 3.3㎡당 1천489만원",
-      "link": "https://www.yna.co.kr/view/AKR20261014165300064",
-      "pubDate": "Wed, 14 Oct 2026 17:38:43 +0900"
-    },
-    {
-      "title": "휴맥스, 50억원 유상증자…주식회사 제이투비에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20261014163100008",
-      "pubDate": "Wed, 14 Oct 2026 17:30:59 +0900"
-    },
-    {
-      "title": "'거제야호' 리센느 효과로 거제시 방문객·관광 소비 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261014164000052",
-      "pubDate": "Wed, 14 Oct 2026 17:30:58 +0900"
-    },
-    {
-      "title": "[동정] 농식품부 차관, AI 농업로봇 실증 현장 방문",
-      "link": "https://www.yna.co.kr/view/AKR20261014075600030",
-      "pubDate": "Wed, 14 Oct 2026 17:30:01 +0900"
-    },
-    {
-      "title": "식약처, '잔류농약 기준 초과' 고춧가루 회수",
-      "link": "https://www.yna.co.kr/view/AKR20261014161400017",
-      "pubDate": "Wed, 14 Oct 2026 17:19:19 +0900"
-    },
-    {
-      "title": "농어촌공사 사장 \"농지조사로 임대차 해지땐 농지은행 우선지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261014101551030",
-      "pubDate": "Wed, 14 Oct 2026 17:17:12 +0900"
-    },
-    {
-      "title": "SK가스 \"2027∼2030년 연평균 세전이익 4천500억원 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014159400003",
-      "pubDate": "Wed, 14 Oct 2026 17:06:46 +0900"
-    },
-    {
-      "title": "김창국 aT 사장대행 \"브라질산 계란 수입, 수입선 다변화 측면\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261014091051030",
-      "pubDate": "Wed, 14 Oct 2026 17:02:56 +0900"
-    },
-    {
-      "title": "'제2도약' 현대차 푸네에 신공장…인도서 연간 100만대 생산체제",
-      "link": "https://www.yna.co.kr/view/AKR20261014005700003",
-      "pubDate": "Wed, 14 Oct 2026 17:00:03 +0900"
-    },
-    {
-      "title": "인도서 21조 투자하는 현대차그룹…국내 부품사 기회도 커질 듯",
-      "link": "https://www.yna.co.kr/view/AKR20261014134900003",
-      "pubDate": "Wed, 14 Oct 2026 17:00:02 +0900"
-    },
-    {
-      "title": "국고채 금리, 사흘만에 상승…美 물가 발표 앞두고 숨고르기(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261014154951008",
-      "pubDate": "Wed, 14 Oct 2026 16:52:14 +0900"
-    },
-    {
-      "title": "전남광주시, 광양서 통합 채용박람회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261014156800054",
-      "pubDate": "Wed, 14 Oct 2026 16:51:10 +0900"
-    },
-    {
-      "title": "서울 투기과열지구 청약통장 불법 거래 '떴다방' 조직 39명 검거",
-      "link": "https://www.yna.co.kr/view/AKR20261014150100051",
-      "pubDate": "Wed, 14 Oct 2026 16:49:13 +0900"
-    },
-    {
-      "title": "진주 상평산단, 첨단·주거 복합 공간으로…활성화 구역 승인",
-      "link": "https://www.yna.co.kr/view/AKR20261014155800052",
-      "pubDate": "Wed, 14 Oct 2026 16:47:46 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.883%",
-      "link": "https://www.yna.co.kr/view/AKR20261014154900008",
-      "pubDate": "Wed, 14 Oct 2026 16:40:15 +0900"
-    },
-    {
-      "title": "코스피, 반등 실패…6거래일 연속 내리며 '6천피' 턱걸이(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261014138351008",
-      "pubDate": "Wed, 14 Oct 2026 16:36:11 +0900"
-    },
-    {
-      "title": "김성주 \"리밸런싱 유예 안했다면 매일 8천억 매도…증시 충격\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014151100530",
-      "pubDate": "Wed, 14 Oct 2026 16:32:07 +0900"
-    },
-    {
-      "title": "지식재산처, 기술경찰 수사범위 확대한다…제도 개선 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261014151800063",
-      "pubDate": "Wed, 14 Oct 2026 16:30:07 +0900"
-    },
-    {
-      "title": "[동정] 농식품부 장관, 수확기 맞아 사과 재배 농가 방문",
-      "link": "https://www.yna.co.kr/view/AKR20261014059400030",
-      "pubDate": "Wed, 14 Oct 2026 16:30:01 +0900"
-    },
-    {
-      "title": "국공노 \"2차 행정기관 이전 대상 공무원 주거·정주대책 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261014148900063",
-      "pubDate": "Wed, 14 Oct 2026 16:27:27 +0900"
     }
   ]
 }
