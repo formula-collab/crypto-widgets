@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792061974,
+  "updated_at_unix": 1792078205,
   "items": [
+    {
+      "title": "40년 바다 지킨 포항 해녀, FAO 여성 인재 100인에 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261015057000051",
+      "pubDate": "Thu, 15 Oct 2026 21:00:02 +0900"
+    },
+    {
+      "title": "이소영 장관 \"창업도시, 지정 넘어 실질적 창업거점 돼야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261015171000030",
+      "pubDate": "Thu, 15 Oct 2026 21:00:01 +0900"
+    },
+    {
+      "title": "2차 국민성장펀드 목표액 못 채웠다…전체 86.6% 판매",
+      "link": "https://www.yna.co.kr/view/AKR20261015174800002",
+      "pubDate": "Thu, 15 Oct 2026 20:15:54 +0900"
+    },
     {
       "title": "박진선 샘표 대표, '우리맛문화재단' 설립…한식 세계화 지원",
       "link": "https://www.yna.co.kr/view/AKR20261015174200030",
@@ -137,21 +152,6 @@
       "title": "[포항소식] iM뱅크·NH농협은행, 3년간 시 금고 운영",
       "link": "https://www.yna.co.kr/view/AKR20261015158700053",
       "pubDate": "Thu, 15 Oct 2026 17:22:44 +0900"
-    },
-    {
-      "title": "광주 군공항 간 국토장관 \"반도체 산단 유례없는 속도로 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261015156100003",
-      "pubDate": "Thu, 15 Oct 2026 17:14:50 +0900"
-    },
-    {
-      "title": "주가 급락에 국고채 금리 일제히 하락…3년물 연 3.867%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261015150351008",
-      "pubDate": "Thu, 15 Oct 2026 17:08:25 +0900"
-    },
-    {
-      "title": "'명실상부 창업도시 대전'…총리·주무장관 주재 간담회 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20261015154600063",
-      "pubDate": "Thu, 15 Oct 2026 17:07:23 +0900"
     }
   ]
 }
