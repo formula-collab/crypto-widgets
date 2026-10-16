@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792185958,
+  "updated_at_unix": 1792194215,
   "items": [
+    {
+      "title": "'속도전' 멈춘 CPTPP…'수출영토'·'식량안보'에 타협점 찾을까",
+      "link": "https://www.yna.co.kr/view/AKR20261016022300030",
+      "pubDate": "Sat, 17 Oct 2026 08:00:20 +0900"
+    },
+    {
+      "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
+      "link": "https://www.yna.co.kr/view/AKR20261016069000003",
+      "pubDate": "Sat, 17 Oct 2026 08:00:15 +0900"
+    },
+    {
+      "title": "전기차 수요 급증…부산시 보조금 추가신청 10분 만에 마감",
+      "link": "https://www.yna.co.kr/view/AKR20261016115500051",
+      "pubDate": "Sat, 17 Oct 2026 07:50:03 +0900"
+    },
+    {
+      "title": "부평 산곡역자이힐스테이트&하늘채 등 6천734가구 내주 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261016152400003",
+      "pubDate": "Sat, 17 Oct 2026 07:05:00 +0900"
+    },
+    {
+      "title": "[신상잇슈] 해태제과 '만루홈런볼'·풀무원 '특등급 국산콩 두유 서리태'",
+      "link": "https://www.yna.co.kr/view/AKR20261016064800030",
+      "pubDate": "Sat, 17 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "title": "\"무서워서 안 간다\"…흉기난동 사건에 얼어붙는 지역 상권",
+      "link": "https://www.yna.co.kr/view/AKR20261016169300004",
+      "pubDate": "Sat, 17 Oct 2026 07:00:01 +0900"
+    },
+    {
+      "title": "불황 장기화에 빚 감당 못하는 기업…법인파산 4년새 2.4배로",
+      "link": "https://www.yna.co.kr/view/AKR20261016169600004",
+      "pubDate": "Sat, 17 Oct 2026 07:00:01 +0900"
+    },
     {
       "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
       "link": "https://www.yna.co.kr/view/AKR20261016155700003",
@@ -117,41 +152,6 @@
       "title": "영암군, 라오스와 외국인 계절노동자 교류 협약 체결",
       "link": "https://www.yna.co.kr/view/AKR20261016143100054",
       "pubDate": "Fri, 16 Oct 2026 16:45:58 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.854%",
-      "link": "https://www.yna.co.kr/view/AKR20261016141800008",
-      "pubDate": "Fri, 16 Oct 2026 16:40:48 +0900"
-    },
-    {
-      "title": "외국인 '사자'에 반등 성공했지만…추세 상승엔 신중론 우세",
-      "link": "https://www.yna.co.kr/view/AKR20261016135400008",
-      "pubDate": "Fri, 16 Oct 2026 16:35:25 +0900"
-    },
-    {
-      "title": "엘리스그룹 코스닥 신규 상장…20일 거래 개시",
-      "link": "https://www.yna.co.kr/view/AKR20261016137900008",
-      "pubDate": "Fri, 16 Oct 2026 16:33:13 +0900"
-    },
-    {
-      "title": "코스피 7% 급락한 '검은 목요일'에 800억원대 또 강제청산",
-      "link": "https://www.yna.co.kr/view/AKR20261016128500008",
-      "pubDate": "Fri, 16 Oct 2026 16:28:30 +0900"
-    },
-    {
-      "title": "반도체 소부장·금융채 투자 등 ETF 7종 20일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20261016134900008",
-      "pubDate": "Fri, 16 Oct 2026 16:27:01 +0900"
-    },
-    {
-      "title": "[인사] 금융위원회",
-      "link": "https://www.yna.co.kr/view/AKR20261016133900002",
-      "pubDate": "Fri, 16 Oct 2026 16:17:01 +0900"
-    },
-    {
-      "title": "[게시판] 증권금융, 하늘꿈중고등학교에 '스마트 도서관' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261016130100008",
-      "pubDate": "Fri, 16 Oct 2026 16:16:07 +0900"
     }
   ]
 }
