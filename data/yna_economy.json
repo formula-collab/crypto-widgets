@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792144691,
+  "updated_at_unix": 1792160968,
   "items": [
+    {
+      "title": "삼성바이오 2차 파업 미뤄지나…노조, 법원 제동에 재검토",
+      "link": "https://www.yna.co.kr/view/AKR20261016171400017",
+      "pubDate": "Fri, 16 Oct 2026 20:45:55 +0900"
+    },
+    {
+      "title": "CJ그룹, 다우키움그룹과 중앙일보 인수전 참여 가능성",
+      "link": "https://www.yna.co.kr/view/AKR20261016170000030",
+      "pubDate": "Fri, 16 Oct 2026 20:03:31 +0900"
+    },
     {
       "title": "국토차관 \"강남3구 최근 안정화 흐름…매수심리 다소 진정\"",
       "link": "https://www.yna.co.kr/view/AKR20261016162200003",
@@ -142,16 +152,6 @@
       "title": "코스피, 급락후 반발매수에 2.1%↑…8거래일만에 반등(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261016121951008",
       "pubDate": "Fri, 16 Oct 2026 16:06:43 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부·aT, '2026 양재 플라워 페스타' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261016096100030",
-      "pubDate": "Fri, 16 Oct 2026 16:00:03 +0900"
-    },
-    {
-      "title": "정부 \"착공·분양·입주 상황판 가동\"…주택공급 첫 정례브리핑",
-      "link": "https://www.yna.co.kr/view/AKR20261016108900001",
-      "pubDate": "Fri, 16 Oct 2026 16:00:02 +0900"
     }
   ]
 }
