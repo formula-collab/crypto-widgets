@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792174542,
+  "updated_at_unix": 1792185958,
   "items": [
+    {
+      "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
+      "link": "https://www.yna.co.kr/view/AKR20261016155700003",
+      "pubDate": "Sat, 17 Oct 2026 06:05:01 +0900"
+    },
+    {
+      "title": "클릭해 예약한 컬러렌즈…안전과 편의 사이 멈춰 선 혁신",
+      "link": "https://www.yna.co.kr/view/AKR20261016090400530",
+      "pubDate": "Sat, 17 Oct 2026 06:00:01 +0900"
+    },
+    {
+      "title": "코스피 꺾이자…해외 코인거래소 '큰손' 90% 이상 반등 베팅",
+      "link": "https://www.yna.co.kr/view/AKR20261016169500002",
+      "pubDate": "Sat, 17 Oct 2026 05:55:01 +0900"
+    },
+    {
+      "title": "중동도 우크라도 불안…브렌트유 109달러대, 5개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261017004900072",
+      "pubDate": "Sat, 17 Oct 2026 05:04:06 +0900"
+    },
     {
       "title": "삼성바이오 2차 파업 미뤄지나…노조, 법원 제동에 재검토",
       "link": "https://www.yna.co.kr/view/AKR20261016171400017",
@@ -132,26 +152,6 @@
       "title": "[게시판] 증권금융, 하늘꿈중고등학교에 '스마트 도서관' 지원",
       "link": "https://www.yna.co.kr/view/AKR20261016130100008",
       "pubDate": "Fri, 16 Oct 2026 16:16:07 +0900"
-    },
-    {
-      "title": "제넥신, 30억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20261016131300008",
-      "pubDate": "Fri, 16 Oct 2026 16:11:45 +0900"
-    },
-    {
-      "title": "마사회장 \"과천경마장 6년 내 이전 어려워…이전비용 보전 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016129500030",
-      "pubDate": "Fri, 16 Oct 2026 16:11:31 +0900"
-    },
-    {
-      "title": "삼전 2.6%·하닉 0.8% 상승…8~9거래일만에 반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016036351008",
-      "pubDate": "Fri, 16 Oct 2026 16:11:01 +0900"
-    },
-    {
-      "title": "코스피, 급락후 반발매수에 2.1%↑…8거래일만에 반등(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016121951008",
-      "pubDate": "Fri, 16 Oct 2026 16:06:43 +0900"
     }
   ]
 }
