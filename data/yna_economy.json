@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792194215,
+  "updated_at_unix": 1792202090,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261017021100011",
+      "pubDate": "Sat, 17 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[테크톡노트] 스마트폰 한 대 300만원…삼성·애플은 왜 고급화할까",
+      "link": "https://www.yna.co.kr/view/AKR20261016134700017",
+      "pubDate": "Sat, 17 Oct 2026 09:30:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
+      "link": "https://www.yna.co.kr/view/AKR20261017011700002",
+      "pubDate": "Sat, 17 Oct 2026 09:07:32 +0900"
+    },
+    {
+      "title": "충주 바이오헬스 국가산단 토지거래계약 허가구역 재지정",
+      "link": "https://www.yna.co.kr/view/AKR20261016147500064",
+      "pubDate": "Sat, 17 Oct 2026 09:01:21 +0900"
+    },
+    {
+      "title": "장인화 동반성장위원장 \"대기업·중소기업 상생 모델 만들 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016022800051",
+      "pubDate": "Sat, 17 Oct 2026 09:00:05 +0900"
+    },
+    {
+      "title": "[민선9기 서울] 김경대 용산구청장 \"공간디자인 통해 매력도시로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261016104600004",
+      "pubDate": "Sat, 17 Oct 2026 09:00:00 +0900"
+    },
     {
       "title": "'속도전' 멈춘 CPTPP…'수출영토'·'식량안보'에 타협점 찾을까",
       "link": "https://www.yna.co.kr/view/AKR20261016022300030",
@@ -122,36 +152,6 @@
       "title": "국고채 금리 일제히 하락…코스피 반등에도 외인 매수 영향(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261016141851008",
       "pubDate": "Fri, 16 Oct 2026 17:00:18 +0900"
-    },
-    {
-      "title": "송미령 장관, 농관원 방문…농지조사 후속조치 안내 당부",
-      "link": "https://www.yna.co.kr/view/AKR20261016078900030",
-      "pubDate": "Fri, 16 Oct 2026 17:00:04 +0900"
-    },
-    {
-      "title": "한미 재무·통화당국 첫 2+2 면담…\"경제·금융 협력 방안 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016141100002",
-      "pubDate": "Fri, 16 Oct 2026 17:00:00 +0900"
-    },
-    {
-      "title": "삼성바이오 노조 2차 파업 앞두고 21일 단체행동(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016114451017",
-      "pubDate": "Fri, 16 Oct 2026 16:50:53 +0900"
-    },
-    {
-      "title": "강호동 농협회장 \"외부 감사기구, 독립성 우려\"…사퇴는 선그어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261016087151030",
-      "pubDate": "Fri, 16 Oct 2026 16:48:56 +0900"
-    },
-    {
-      "title": "환율, 1,331원 또 연저점 …2년 만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261016131100002",
-      "pubDate": "Fri, 16 Oct 2026 16:46:38 +0900"
-    },
-    {
-      "title": "영암군, 라오스와 외국인 계절노동자 교류 협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261016143100054",
-      "pubDate": "Fri, 16 Oct 2026 16:45:58 +0900"
     }
   ]
 }
