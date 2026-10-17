@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792218017,
+  "updated_at_unix": 1792234804,
   "items": [
+    {
+      "title": "한은 총재 \"화폐의 단일성 중요…한은금융망 국제화 추진\"",
+      "link": "https://www.yna.co.kr/view/AKR20261017043100002",
+      "pubDate": "Sat, 17 Oct 2026 19:32:30 +0900"
+    },
+    {
+      "title": "[부고] 양재진(IBK투자증권 강남센터 부장)씨 빙모상",
+      "link": "https://www.yna.co.kr/view/AKR20261017044000008",
+      "pubDate": "Sat, 17 Oct 2026 18:40:51 +0900"
+    },
+    {
+      "title": "[동포의 창] 美 유타서 한인상의 공동 주최 비즈니스 엑스포 성황",
+      "link": "https://www.yna.co.kr/view/AKR20261017042600371",
+      "pubDate": "Sat, 17 Oct 2026 18:40:09 +0900"
+    },
     {
       "title": "클릭해 예약한 컬러렌즈…안전과 편의 사이 멈춰 선 혁신(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261016090451530",
@@ -137,21 +152,6 @@
       "title": "키움증권 \"한화오션 주식 5천92억원어치 추가취득…지분율 2.7%\"",
       "link": "https://www.yna.co.kr/view/AKR20261016157600008",
       "pubDate": "Fri, 16 Oct 2026 17:50:52 +0900"
-    },
-    {
-      "title": "바이오포트 \"패밀리팜 주식 21억원어치 취득…지분율 44.5%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016155300008",
-      "pubDate": "Fri, 16 Oct 2026 17:35:51 +0900"
-    },
-    {
-      "title": "OK저축은행서 '또 해킹' 고객 268명 정보 추가 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261016153800002",
-      "pubDate": "Fri, 16 Oct 2026 17:31:17 +0900"
-    },
-    {
-      "title": "\"대전노동청, 태안화력 1호기 폐쇄 후 고용 영향성 파악 부족\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016150300063",
-      "pubDate": "Fri, 16 Oct 2026 17:17:12 +0900"
     }
   ]
 }
