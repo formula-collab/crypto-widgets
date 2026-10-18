@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792324245,
+  "updated_at_unix": 1792335665,
   "items": [
+    {
+      "title": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261018060400061",
+      "pubDate": "Sun, 18 Oct 2026 21:53:29 +0900"
+    },
     {
       "title": "토스증권, 윤리·준법경영 선포식…김규빈 대표가 TF장",
       "link": "https://www.yna.co.kr/view/AKR20261018052200008",
@@ -147,11 +152,6 @@
       "title": "'채용비위 의혹' 조선대 무용과 교수 무죄…법원 \"증거 부족\"",
       "link": "https://www.yna.co.kr/view/AKR20261016099300054",
       "pubDate": "Sun, 18 Oct 2026 08:30:01 +0900"
-    },
-    {
-      "title": "LG전자, 미국 최대 소비자매체 프리미엄 주방가전 신뢰도 1위",
-      "link": "https://www.yna.co.kr/view/AKR20261016150400003",
-      "pubDate": "Sun, 18 Oct 2026 08:00:04 +0900"
     }
   ]
 }
