@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792356911,
+  "updated_at_unix": 1792363146,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261019009700011",
+      "pubDate": "Mon, 19 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[글로컬] '성장률 반등' 한국 경제, 대만 닮아간다는데",
+      "link": "https://www.yna.co.kr/view/AKR20261018059000546",
+      "pubDate": "Mon, 19 Oct 2026 07:07:01 +0900"
+    },
+    {
+      "title": "\"아빠 육아휴직은 1년만 근속 인정\"…법 개정 외면한 과기출연연",
+      "link": "https://www.yna.co.kr/view/AKR20261018023500017",
+      "pubDate": "Mon, 19 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "title": "아이폰 넘어 맥북까지 OLED…삼성D·LGD, '애플효과' 기대",
+      "link": "https://www.yna.co.kr/view/AKR20261016109700003",
+      "pubDate": "Mon, 19 Oct 2026 06:45:01 +0900"
+    },
+    {
+      "title": "투자자 울린 '논란의 코인'…고팍스는 제때 팔아 억대 이익",
+      "link": "https://www.yna.co.kr/view/AKR20261016178600002",
+      "pubDate": "Mon, 19 Oct 2026 06:01:01 +0900"
+    },
+    {
+      "title": "소규모 건설현장 휴게시설 개선 지원…1곳당 최대 500만원",
+      "link": "https://www.yna.co.kr/view/AKR20261016142600530",
+      "pubDate": "Mon, 19 Oct 2026 06:00:10 +0900"
+    },
+    {
+      "title": "중장년 '새 출발' 경험 찾는다…서울시50플러스재단 수기 공모",
+      "link": "https://www.yna.co.kr/view/AKR20261018033100004",
+      "pubDate": "Mon, 19 Oct 2026 06:00:08 +0900"
+    },
+    {
+      "title": "금융감독원, 1천193개사 감사인 지정 사전통지…내달 본통지",
+      "link": "https://www.yna.co.kr/view/AKR20261018029000002",
+      "pubDate": "Mon, 19 Oct 2026 06:00:05 +0900"
+    },
+    {
+      "title": "롯데멤버스 \"10명 중 3명 제로 식품 구매…2030이 시장 주도\"",
+      "link": "https://www.yna.co.kr/view/AKR20261018048200030",
+      "pubDate": "Mon, 19 Oct 2026 06:00:04 +0900"
+    },
+    {
+      "title": "구직 청년 10명 중 7명 \"취업 준비 비용 부담\"…월평균 58만원",
+      "link": "https://www.yna.co.kr/view/AKR20261018026700003",
+      "pubDate": "Mon, 19 Oct 2026 06:00:03 +0900"
+    },
+    {
+      "title": "핀다, 핀테크 최초 저축은행 인수 눈앞…AI 활용 비대면 영업",
+      "link": "https://www.yna.co.kr/view/AKR20261018026100002",
+      "pubDate": "Mon, 19 Oct 2026 05:59:00 +0900"
+    },
+    {
+      "title": "상반기 '통장묶기' 피해 추정 6천500건…작년 연간치 육박",
+      "link": "https://www.yna.co.kr/view/AKR20261017041400002",
+      "pubDate": "Mon, 19 Oct 2026 05:57:01 +0900"
+    },
+    {
+      "title": "담합 걸리고 또 걸려…7년간 3건 이상 적발 사업자 65곳",
+      "link": "https://www.yna.co.kr/view/AKR20261017030400002",
+      "pubDate": "Mon, 19 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "전자금융사고 피해보상 '안전장치' 모두 갖춘 전금사 10%뿐",
+      "link": "https://www.yna.co.kr/view/AKR20261018037700002",
+      "pubDate": "Mon, 19 Oct 2026 05:53:01 +0900"
+    },
+    {
+      "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\"",
+      "link": "https://www.yna.co.kr/view/AKR20261018027100002",
+      "pubDate": "Mon, 19 Oct 2026 05:51:00 +0900"
+    },
     {
       "title": "민주당 경기도당 긴급회의, 추미애 '재정 빨대' 논란 대응 논의",
       "link": "https://www.yna.co.kr/view/AKR20261018060400061",
@@ -77,81 +152,6 @@
       "title": "여객선 좌초사고 해역에 11ｍ 높이 정식 등대 설치",
       "link": "https://www.yna.co.kr/view/AKR20261016133700051",
       "pubDate": "Sun, 18 Oct 2026 11:00:08 +0900"
-    },
-    {
-      "title": "농식품부, 국제종자박람회서 83억원 수출계약 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261016173200030",
-      "pubDate": "Sun, 18 Oct 2026 11:00:03 +0900"
-    },
-    {
-      "title": "농식품부, K-푸드 유럽 수출 확대 추진…프랑스 학교급식 공략",
-      "link": "https://www.yna.co.kr/view/AKR20261016174100030",
-      "pubDate": "Sun, 18 Oct 2026 11:00:02 +0900"
-    },
-    {
-      "title": "다자외교 데뷔 이형일, 3대 신평사 등 하루에만 11회 양자 면담",
-      "link": "https://www.yna.co.kr/view/AKR20261017028800002",
-      "pubDate": "Sun, 18 Oct 2026 11:00:02 +0900"
-    },
-    {
-      "title": "민간 건설현장 75곳 대상 불법하도급·대금체불 집중단속",
-      "link": "https://www.yna.co.kr/view/AKR20261018012600003",
-      "pubDate": "Sun, 18 Oct 2026 11:00:00 +0900"
-    },
-    {
-      "title": "K-차부품, 미국 디트로이트서 GM·포드 등과 수출 상담",
-      "link": "https://www.yna.co.kr/view/AKR20261018019100003",
-      "pubDate": "Sun, 18 Oct 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261018015900011",
-      "pubDate": "Sun, 18 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "title": "세븐일레븐, 21일부터 국산 양주 '캪틴큐' 판매 개시",
-      "link": "https://www.yna.co.kr/view/AKR20261018015700030",
-      "pubDate": "Sun, 18 Oct 2026 10:07:23 +0900"
-    },
-    {
-      "title": "LG전자 가습·공청기 신제품 '퓨리케어 하이드로타워 맥스' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261018010700003",
-      "pubDate": "Sun, 18 Oct 2026 10:00:01 +0900"
-    },
-    {
-      "title": "4분기 제조업 경기 부진 지속 전망…대형·중소 온도차",
-      "link": "https://www.yna.co.kr/view/AKR20261018014200003",
-      "pubDate": "Sun, 18 Oct 2026 10:00:00 +0900"
-    },
-    {
-      "title": "오세훈 \"정부 여당, 부동산정책 실패 인정하고 방향 바로잡아야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261018013900004",
-      "pubDate": "Sun, 18 Oct 2026 09:46:09 +0900"
-    },
-    {
-      "title": "[AI위클리] 'AI 해킹' 우려가 현실로…정부·기업은 방어책 고심",
-      "link": "https://www.yna.co.kr/view/AKR20261017026800017",
-      "pubDate": "Sun, 18 Oct 2026 09:30:00 +0900"
-    },
-    {
-      "title": "수은 행장, 국제금융공사 총재와 글로벌 공급망 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261018012100002",
-      "pubDate": "Sun, 18 Oct 2026 09:18:39 +0900"
-    },
-    {
-      "title": "신한은행, 중저신용자 민간 중금리대출 금리 0.3%p 추가 인하",
-      "link": "https://www.yna.co.kr/view/AKR20261016159400002",
-      "pubDate": "Sun, 18 Oct 2026 09:00:03 +0900"
-    },
-    {
-      "title": "김영권, 외국납부세액공제 다툰 8억원대 소득세 소송 최종 패소",
-      "link": "https://www.yna.co.kr/view/AKR20261017031000004",
-      "pubDate": "Sun, 18 Oct 2026 09:00:02 +0900"
-    },
-    {
-      "title": "'채용비위 의혹' 조선대 무용과 교수 무죄…법원 \"증거 부족\"",
-      "link": "https://www.yna.co.kr/view/AKR20261016099300054",
-      "pubDate": "Sun, 18 Oct 2026 08:30:01 +0900"
     }
   ]
 }
