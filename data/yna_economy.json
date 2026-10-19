@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792407611,
+  "updated_at_unix": 1792431341,
   "items": [
+    {
+      "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
+      "link": "https://www.yna.co.kr/view/AKR20261019071353002",
+      "pubDate": "Mon, 19 Oct 2026 23:43:18 +0900"
+    },
+    {
+      "title": "이찬진 \"금감원 현장에 있어야…지방이전 정책적 고려 기다려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019179600002",
+      "pubDate": "Mon, 19 Oct 2026 22:51:13 +0900"
+    },
+    {
+      "title": "중앙일보 인수 우협에 다우키움·CJ 컨소시엄 선정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261019144551008",
+      "pubDate": "Mon, 19 Oct 2026 22:46:53 +0900"
+    },
+    {
+      "title": "[게시판] DB저축銀, 파킹통장 한도 1억원으로 확대…금리 3.3%",
+      "link": "https://www.yna.co.kr/view/AKR20261019175000002",
+      "pubDate": "Mon, 19 Oct 2026 20:39:56 +0900"
+    },
     {
       "title": "18년 끌어온 대전역세권 개발 무산되나…한화 결국 포기",
       "link": "https://www.yna.co.kr/view/AKR20261019170400063",
@@ -132,26 +152,6 @@
       "title": "[게시판] 주택협회·건축학회, 주택건설사업 발전 업무협약",
       "link": "https://www.yna.co.kr/view/AKR20261019136500003",
       "pubDate": "Mon, 19 Oct 2026 16:16:33 +0900"
-    },
-    {
-      "title": "한우, 카타르에 첫 정식 수출…할랄 시장 3번째 진출",
-      "link": "https://www.yna.co.kr/view/AKR20261019135700003",
-      "pubDate": "Mon, 19 Oct 2026 16:15:53 +0900"
-    },
-    {
-      "title": "삼성전자, 상승전환해 1%대 강세 마감…SK하이닉스도 0.4%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019036551008",
-      "pubDate": "Mon, 19 Oct 2026 16:11:36 +0900"
-    },
-    {
-      "title": "코스피, 저가매수에 반등 '선방'…반도체주 투심 여전히 '신중'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019083551008",
-      "pubDate": "Mon, 19 Oct 2026 16:11:21 +0900"
-    },
-    {
-      "title": "원/달러 환율 1,327.6원 또 연저점…위안화 환율도 1년만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261019137100002",
-      "pubDate": "Mon, 19 Oct 2026 16:07:10 +0900"
     }
   ]
 }
