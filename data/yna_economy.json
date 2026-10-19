@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792431341,
+  "updated_at_unix": 1792446500,
   "items": [
+    {
+      "title": "중기중앙회장 주요 후보자, 리더스포럼 불참키로…공정성 불만도",
+      "link": "https://www.yna.co.kr/view/AKR20261019158700030",
+      "pubDate": "Tue, 20 Oct 2026 06:03:03 +0900"
+    },
+    {
+      "title": "[게시판] 산업부·코트라, 수출기업 대상 9개국 비관세장벽 대응 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20261019165800003",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "1∼9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파",
+      "link": "https://www.yna.co.kr/view/AKR20261019159000003",
+      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "5년여간 10대 증권사 주식매매규정 위반제재 97명…30%는 퇴직자",
+      "link": "https://www.yna.co.kr/view/AKR20261019176600002",
+      "pubDate": "Tue, 20 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "돈 넣고 잊은 계좌 3억4천만개…'잠자는' 금융자산 14조원",
+      "link": "https://www.yna.co.kr/view/AKR20261019163200002",
+      "pubDate": "Tue, 20 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "title": "\"유튜버 법인 상위 10%가 신고 수입 76% 차지…집중 더 심화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261019161100002",
+      "pubDate": "Tue, 20 Oct 2026 05:51:00 +0900"
+    },
     {
       "title": "이찬진 \"의무복무 병사 대부업체 대출 금지 검토\"(종합3보)",
       "link": "https://www.yna.co.kr/view/AKR20261019071353002",
@@ -122,36 +152,6 @@
       "title": "동해 망상1지구 개발 변경안 심의 통과…복합도시 조성 속도",
       "link": "https://www.yna.co.kr/view/AKR20261019145400062",
       "pubDate": "Mon, 19 Oct 2026 16:44:35 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.877%",
-      "link": "https://www.yna.co.kr/view/AKR20261019145200008",
-      "pubDate": "Mon, 19 Oct 2026 16:42:12 +0900"
-    },
-    {
-      "title": "중앙일보 매각 본입찰에 다우키움·오리온 등 6곳 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261019144500008",
-      "pubDate": "Mon, 19 Oct 2026 16:40:55 +0900"
-    },
-    {
-      "title": "원/달러 환율 2년만에 또 최저…위안화 환율도 1년만에 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019137151002",
-      "pubDate": "Mon, 19 Oct 2026 16:24:48 +0900"
-    },
-    {
-      "title": "코스피, 1.8% 오른 5,768…이틀 연속 상승하며 반등흐름 유지(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261019137000008",
-      "pubDate": "Mon, 19 Oct 2026 16:23:32 +0900"
-    },
-    {
-      "title": "5대 은행장 '해킹 국감'서 줄사과…\"보안 예산·인력 확충\"",
-      "link": "https://www.yna.co.kr/view/AKR20261019140600002",
-      "pubDate": "Mon, 19 Oct 2026 16:19:20 +0900"
-    },
-    {
-      "title": "[게시판] 주택협회·건축학회, 주택건설사업 발전 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20261019136500003",
-      "pubDate": "Mon, 19 Oct 2026 16:16:33 +0900"
     }
   ]
 }
