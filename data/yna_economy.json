@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792491409,
+  "updated_at_unix": 1792509168,
   "items": [
+    {
+      "title": "'역삼 방화 70대' 4년전에도 특허법인 2곳에 휘발유 2L 뿌려 위협",
+      "link": "https://www.yna.co.kr/view/AKR20261020173700004",
+      "pubDate": "Tue, 20 Oct 2026 21:36:18 +0900"
+    },
+    {
+      "title": "NXT \"프리마켓 시가 단일가매매 내년 1월 18일 도입\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020172700008",
+      "pubDate": "Tue, 20 Oct 2026 20:30:05 +0900"
+    },
+    {
+      "title": "이억원 \"주담대 한도 추가 축소 사실 아냐…허위사실 수사의뢰\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020172600002",
+      "pubDate": "Tue, 20 Oct 2026 20:28:08 +0900"
+    },
+    {
+      "title": "삼성증권 \"모니모서 신규 계좌 개설시 코스피200 주식 증정\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020171900008",
+      "pubDate": "Tue, 20 Oct 2026 20:09:32 +0900"
+    },
+    {
+      "title": "이소영 장관 \"국가 성장 프로젝트에 中企 참여 기회 확대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261020166900030",
+      "pubDate": "Tue, 20 Oct 2026 19:33:16 +0900"
+    },
     {
       "title": "'실버 오크' 와인 최고매출책임자 \"한국은 아시아 최대 시장\"",
       "link": "https://www.yna.co.kr/view/AKR20261020163000030",
@@ -127,31 +152,6 @@
       "title": "삼성전자, 낙폭 키워 3% 하락 마감…SK하이닉스도 4.2%↓(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261020043051008",
       "pubDate": "Tue, 20 Oct 2026 16:32:04 +0900"
-    },
-    {
-      "title": "전남광주시 \"반도체 클러스터 주거 수요 5만가구 예상\"",
-      "link": "https://www.yna.co.kr/view/AKR20261020136300054",
-      "pubDate": "Tue, 20 Oct 2026 16:25:32 +0900"
-    },
-    {
-      "title": "NH증권, 수요예측에 약 1.2조 몰려…모집예정액 9배",
-      "link": "https://www.yna.co.kr/view/AKR20261020136700008",
-      "pubDate": "Tue, 20 Oct 2026 16:24:48 +0900"
-    },
-    {
-      "title": "창원상의·LG전자, 미혼모·자녀 지원 성금 2천만원 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20261020137000052",
-      "pubDate": "Tue, 20 Oct 2026 16:24:47 +0900"
-    },
-    {
-      "title": "코스피, 3.7% 급락한 5,552 마감…최근 이틀 반등분 모두 반납(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261020133400008",
-      "pubDate": "Tue, 20 Oct 2026 16:23:17 +0900"
-    },
-    {
-      "title": "카드론 잔액 넉달째 감소…42조3천억원으로",
-      "link": "https://www.yna.co.kr/view/AKR20261020136100002",
-      "pubDate": "Tue, 20 Oct 2026 16:22:30 +0900"
     }
   ]
 }
