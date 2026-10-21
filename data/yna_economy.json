@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792578381,
+  "updated_at_unix": 1792596379,
   "items": [
+    {
+      "title": "'공급 속도전' 정부…3기 신도시 용적률 상향 카드도 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261021172200003",
+      "pubDate": "Wed, 21 Oct 2026 20:38:36 +0900"
+    },
     {
       "title": "금융위, '회계처리 위반' 해태제과·관계자들에 13억 과징금",
       "link": "https://www.yna.co.kr/view/AKR20261021165100002",
@@ -147,11 +152,6 @@
       "title": "부산 국·공·사립 중등교사 임용시험 경쟁률 7.8대 1",
       "link": "https://www.yna.co.kr/view/AKR20261021139800051",
       "pubDate": "Wed, 21 Oct 2026 16:29:42 +0900"
-    },
-    {
-      "title": "부산에 한화오션 엔지니어링센터 추가 신설…136억원 투자",
-      "link": "https://www.yna.co.kr/view/AKR20261021136900051",
-      "pubDate": "Wed, 21 Oct 2026 16:28:16 +0900"
     }
   ]
 }
