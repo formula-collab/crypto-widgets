@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792610733,
+  "updated_at_unix": 1792621925,
   "items": [
+    {
+      "title": "[우분투칼럼] 아프리카 증시가 울리는 자립의 종소리",
+      "link": "https://www.yna.co.kr/view/AKR20261006025000898",
+      "pubDate": "Thu, 22 Oct 2026 07:00:04 +0900"
+    },
+    {
+      "title": "대학생 10명 중 1명꼴 졸업 유예…76%가 고용 불안정성 때문",
+      "link": "https://www.yna.co.kr/view/AKR20261021137200530",
+      "pubDate": "Thu, 22 Oct 2026 07:00:03 +0900"
+    },
+    {
+      "title": "연합뉴스 미래경제포럼에 日매체 큰 관심…NHK·아사히 등 신청",
+      "link": "https://www.yna.co.kr/view/AKR20261021105600898",
+      "pubDate": "Thu, 22 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "title": "AI 간판 달면 R&D 예산 받나…정부 분류에 AI도 이견",
+      "link": "https://www.yna.co.kr/view/AKR20261021155000017",
+      "pubDate": "Thu, 22 Oct 2026 06:33:00 +0900"
+    },
+    {
+      "title": "\"할당관세 1천586억원 감면했지만…가격 인하효과 제한적\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021131700030",
+      "pubDate": "Thu, 22 Oct 2026 06:03:02 +0900"
+    },
+    {
+      "title": "서울 아파트 실거래가 1년 새 15.5%↑…2021년 이후 최대 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261021153100004",
+      "pubDate": "Thu, 22 Oct 2026 06:00:04 +0900"
+    },
+    {
+      "title": "금융당국, 네이버·두나무 결합 독점 우려에 '안전장치' 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261021159700002",
+      "pubDate": "Thu, 22 Oct 2026 05:57:00 +0900"
+    },
+    {
+      "title": "\"중앙은행 디지털화폐 부작용 심도 있는 논의 필요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021149000002",
+      "pubDate": "Thu, 22 Oct 2026 05:56:09 +0900"
+    },
+    {
+      "title": "\"법인세 5년 증가분 90%가 수도권 집중…서울 특히 쏠려\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021140600002",
+      "pubDate": "Thu, 22 Oct 2026 05:55:12 +0900"
+    },
+    {
+      "title": "'불법 투자자문 신고했는데'…포상금 지급까지 최장 3년 9개월",
+      "link": "https://www.yna.co.kr/view/AKR20261021162400002",
+      "pubDate": "Thu, 22 Oct 2026 05:54:01 +0900"
+    },
+    {
+      "title": "\"밀수 제보로 3.3조 적발했는데…관세청 포상금은 적발액 0.1%\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021138900002",
+      "pubDate": "Thu, 22 Oct 2026 05:53:24 +0900"
+    },
+    {
+      "title": "금융권 정보보호 최고책임자 10명 중 3명은 겸임",
+      "link": "https://www.yna.co.kr/view/AKR20261021162100002",
+      "pubDate": "Thu, 22 Oct 2026 05:52:13 +0900"
+    },
+    {
+      "title": "\"중동 악화시 내년 성장률 0.16%p 깎이고 물가 0.32%p 올라\"",
+      "link": "https://www.yna.co.kr/view/AKR20261021160100002",
+      "pubDate": "Thu, 22 Oct 2026 05:51:01 +0900"
+    },
+    {
+      "title": "한은 '매파적 동결' 유력…내달 인상 재개 신호 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261021147400002",
+      "pubDate": "Thu, 22 Oct 2026 05:30:07 +0900"
+    },
     {
       "title": "'공급 속도전' 정부…3기 신도시 용적률 상향 카드도 검토",
       "link": "https://www.yna.co.kr/view/AKR20261021172200003",
@@ -82,76 +152,6 @@
       "title": "신용 부족 청년·외국인 카드 발급 쉬워진다…혁신서비스 지정",
       "link": "https://www.yna.co.kr/view/AKR20261021146300002",
       "pubDate": "Wed, 21 Oct 2026 17:02:45 +0900"
-    },
-    {
-      "title": "코스피 일단 반등했지만…'폭락→급등' 널뛰기에 '불안' 지속(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261021084352008",
-      "pubDate": "Wed, 21 Oct 2026 17:01:49 +0900"
-    },
-    {
-      "title": "[경주소식] 내년 9월까지 보문단지∼손곡동 도로 확장",
-      "link": "https://www.yna.co.kr/view/AKR20261021148700053",
-      "pubDate": "Wed, 21 Oct 2026 16:56:49 +0900"
-    },
-    {
-      "title": "[동포의 창] 아르헨 신동석 회장 글로벌한인드림재단에 5천만원 성금",
-      "link": "https://www.yna.co.kr/view/AKR20261021147600371",
-      "pubDate": "Wed, 21 Oct 2026 16:55:17 +0900"
-    },
-    {
-      "title": "화성 송산농협, 샤인머스캣 필리핀 수출…검역협상 타결 후 처음",
-      "link": "https://www.yna.co.kr/view/AKR20261021147700061",
-      "pubDate": "Wed, 21 Oct 2026 16:54:30 +0900"
-    },
-    {
-      "title": "SK하이닉스, 40조원 규모 자사주 매입 완료",
-      "link": "https://www.yna.co.kr/view/AKR20261021146600003",
-      "pubDate": "Wed, 21 Oct 2026 16:52:22 +0900"
-    },
-    {
-      "title": "정책평가연구원, '공공기관 경영평가' AI 분석 결과 공개",
-      "link": "https://www.yna.co.kr/view/AKR20261021147100001",
-      "pubDate": "Wed, 21 Oct 2026 16:52:04 +0900"
-    },
-    {
-      "title": "강원도, 지역 맞춤형 청년 공공임대주택 확대…정착 기반 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261021146200062",
-      "pubDate": "Wed, 21 Oct 2026 16:47:54 +0900"
-    },
-    {
-      "title": "춘천시, 무허가 주택 양성화 추진…12월 17일 특별법 시행",
-      "link": "https://www.yna.co.kr/view/AKR20261021145500062",
-      "pubDate": "Wed, 21 Oct 2026 16:46:56 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.822%",
-      "link": "https://www.yna.co.kr/view/AKR20261021144800008",
-      "pubDate": "Wed, 21 Oct 2026 16:40:47 +0900"
-    },
-    {
-      "title": "에이루트, 17억원 유상증자…최혜윤 등에 3자 배정",
-      "link": "https://www.yna.co.kr/view/AKR20261021144000008",
-      "pubDate": "Wed, 21 Oct 2026 16:38:23 +0900"
-    },
-    {
-      "title": "공정위, 철도차량 제조업체 우진산전 현장조사…입찰 담합 의혹",
-      "link": "https://www.yna.co.kr/view/AKR20261021141400002",
-      "pubDate": "Wed, 21 Oct 2026 16:32:05 +0900"
-    },
-    {
-      "title": "[특징주] 삼전·닉스, 급락 딛고 5%대 반등 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261021039351008",
-      "pubDate": "Wed, 21 Oct 2026 16:31:53 +0900"
-    },
-    {
-      "title": "금융위, 신정법 위반 중대성 따라 과징금 산정…예측가능성 높여",
-      "link": "https://www.yna.co.kr/view/AKR20261021139900002",
-      "pubDate": "Wed, 21 Oct 2026 16:30:53 +0900"
-    },
-    {
-      "title": "부산 국·공·사립 중등교사 임용시험 경쟁률 7.8대 1",
-      "link": "https://www.yna.co.kr/view/AKR20261021139800051",
-      "pubDate": "Wed, 21 Oct 2026 16:29:42 +0900"
     }
   ]
 }
