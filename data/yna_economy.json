@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792689784,
+  "updated_at_unix": 1792701509,
   "items": [
+    {
+      "title": "트럼프 \"이란, 중간선거 앞 유가 올리려 모든 것 꾸며내\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023005000071",
+      "pubDate": "Fri, 23 Oct 2026 03:34:45 +0900"
+    },
     {
       "title": "[재산공개] 심욱기 대전지방국세청장 57억원 신고",
       "link": "https://www.yna.co.kr/view/AKR20261022169800063",
@@ -147,11 +152,6 @@
       "title": "與 \"가상자산 과세 더 유예 안돼\"·野 \"인프라 미비\"…국감 공방(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261022098651001",
       "pubDate": "Thu, 22 Oct 2026 16:58:27 +0900"
-    },
-    {
-      "title": "금융위원장 \"산업은행 부산 이전 하지 않는 걸로 안다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261022163900051",
-      "pubDate": "Thu, 22 Oct 2026 16:52:28 +0900"
     }
   ]
 }
