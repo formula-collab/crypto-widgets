@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792788246,
+  "updated_at_unix": 1792798635,
   "items": [
+    {
+      "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
+      "link": "https://www.yna.co.kr/view/AKR20261023161100062",
+      "pubDate": "Sat, 24 Oct 2026 08:00:01 +0900"
+    },
+    {
+      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
+      "link": "https://www.yna.co.kr/view/AKR20261023120500053",
+      "pubDate": "Sat, 24 Oct 2026 07:11:12 +0900"
+    },
+    {
+      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1천800원대",
+      "link": "https://www.yna.co.kr/view/AKR20261023102900003",
+      "pubDate": "Sat, 24 Oct 2026 07:01:01 +0900"
+    },
+    {
+      "title": "\"달콤함 그대로, 당은 빼고\"…식품업계, 과자·음료 '저당' 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261023151900030",
+      "pubDate": "Sat, 24 Oct 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[위클리 건강] '0칼로리' 믿고 마셨는데…당뇨병부터 뇌 건강까지 '경고등'",
+      "link": "https://www.yna.co.kr/view/AKR20261023083600530",
+      "pubDate": "Sat, 24 Oct 2026 07:00:07 +0900"
+    },
+    {
+      "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
+      "link": "https://www.yna.co.kr/view/AKR20261023160000030",
+      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
+      "link": "https://www.yna.co.kr/view/AKR20261023165700003",
+      "pubDate": "Sat, 24 Oct 2026 06:05:00 +0900"
+    },
     {
       "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
       "link": "https://www.yna.co.kr/view/AKR20261023181200003",
@@ -117,41 +152,6 @@
       "title": "삼양홀딩스, 수요예측에 5천600억 몰려…모집예정액 5.6배",
       "link": "https://www.yna.co.kr/view/AKR20261023141400008",
       "pubDate": "Fri, 23 Oct 2026 16:20:15 +0900"
-    },
-    {
-      "title": "코인 해외로 한번만 보내도 매달 보고…한은 \"논의 후 확정\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023077551002",
-      "pubDate": "Fri, 23 Oct 2026 16:18:51 +0900"
-    },
-    {
-      "title": "나이스정보통신 \"계열사 나이스프라퍼티 주식 602억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023138700008",
-      "pubDate": "Fri, 23 Oct 2026 16:11:09 +0900"
-    },
-    {
-      "title": "'동전주 상폐' 기업들, 효력정지 가처분 신청…\"정리매매 보류\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023139200008",
-      "pubDate": "Fri, 23 Oct 2026 16:10:16 +0900"
-    },
-    {
-      "title": "네오클라우드서 빅테크로 옮겨붙은 AI 신용위험…코스피 '흔들'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023083151008",
-      "pubDate": "Fri, 23 Oct 2026 15:55:01 +0900"
-    },
-    {
-      "title": "증권가 \"솔리다임 상장검토 중단, 반도체 투심 회복 기여할 듯\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261023030452008",
-      "pubDate": "Fri, 23 Oct 2026 15:44:02 +0900"
-    },
-    {
-      "title": "우리금융 3분기 누적 순이익 2조6천581억원…4.9% 감소(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023125700002",
-      "pubDate": "Fri, 23 Oct 2026 15:42:33 +0900"
-    },
-    {
-      "title": "[특징주] 삼성E&A, 증권가 목표주가 줄상향 속 8% 강세(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023044651008",
-      "pubDate": "Fri, 23 Oct 2026 15:39:17 +0900"
     }
   ]
 }
