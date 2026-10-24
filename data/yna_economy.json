@@ -1,8 +1,83 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792876626,
+  "updated_at_unix": 1792884415,
   "items": [
+    {
+      "title": "호남반도체 산단 속도전…그린벨트 예외 절차 정비",
+      "link": "https://www.yna.co.kr/view/AKR20261023080500054",
+      "pubDate": "Sun, 25 Oct 2026 08:20:01 +0900"
+    },
+    {
+      "title": "1∼8월 크루즈 방한객 130만명 육박…과제는 중국 쏠림 완화",
+      "link": "https://www.yna.co.kr/view/AKR20261024048500030",
+      "pubDate": "Sun, 25 Oct 2026 08:14:02 +0900"
+    },
+    {
+      "title": "대선조선, 3년 만에 워크아웃 졸업…SB대선으로 새 출발",
+      "link": "https://www.yna.co.kr/view/AKR20261024043200002",
+      "pubDate": "Sun, 25 Oct 2026 08:00:01 +0900"
+    },
+    {
+      "title": "민간 우주로켓 보험금 첫 고시 추진…한빛-나노 최대 238억원",
+      "link": "https://www.yna.co.kr/view/AKR20261023153000017",
+      "pubDate": "Sun, 25 Oct 2026 07:33:01 +0900"
+    },
+    {
+      "title": "석유·가스 상시 수급불안…\"저비용 넘어 공급 회복력 확보해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023120200003",
+      "pubDate": "Sun, 25 Oct 2026 07:21:01 +0900"
+    },
+    {
+      "title": "[머니톡스] '호미질'의 미학…파국을 막는 정공법",
+      "link": "https://www.yna.co.kr/view/AKR20261023093000546",
+      "pubDate": "Sun, 25 Oct 2026 07:07:00 +0900"
+    },
+    {
+      "title": "\"닫힌 지갑 열어라\"…유통가, AI·이색 상품으로 연말 승부수",
+      "link": "https://www.yna.co.kr/view/AKR20261024004400030",
+      "pubDate": "Sun, 25 Oct 2026 07:00:00 +0900"
+    },
+    {
+      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
+      "link": "https://www.yna.co.kr/view/AKR20261023186900003",
+      "pubDate": "Sun, 25 Oct 2026 06:45:00 +0900"
+    },
+    {
+      "title": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
+      "link": "https://www.yna.co.kr/view/AKR20261024044100003",
+      "pubDate": "Sun, 25 Oct 2026 06:41:01 +0900"
+    },
+    {
+      "title": "[반려동물] '깐깐해진 집사'에 반려묘 간식·영양제 시장 성장세",
+      "link": "https://www.yna.co.kr/view/AKR20261024027000030",
+      "pubDate": "Sun, 25 Oct 2026 06:35:00 +0900"
+    },
+    {
+      "title": "내 주식 주문 어디로 갔나 봤더니…60%는 넥스트레이드로",
+      "link": "https://www.yna.co.kr/view/AKR20261024022500008",
+      "pubDate": "Sun, 25 Oct 2026 06:30:00 +0900"
+    },
+    {
+      "title": "올해 아파트 관리비 '비리 경보' 7천851곳…처분 결과는 '모름'",
+      "link": "https://www.yna.co.kr/view/AKR20261024041400003",
+      "pubDate": "Sun, 25 Oct 2026 06:27:00 +0900"
+    },
+    {
+      "title": "상장사 62곳 PBR 개선안 제출 완료…주요 상장사 계획 보니",
+      "link": "https://www.yna.co.kr/view/AKR20261024023600008",
+      "pubDate": "Sun, 25 Oct 2026 06:20:01 +0900"
+    },
+    {
+      "title": "[만나보니] S2W 김재기 \"AI가 알아서 해킹? 실상은 다르다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023177500017",
+      "pubDate": "Sun, 25 Oct 2026 06:17:00 +0900"
+    },
+    {
+      "title": "코스피 급락에…10대그룹 시총, 한달새 1천100조원 증발",
+      "link": "https://www.yna.co.kr/view/AKR20261024028000008",
+      "pubDate": "Sun, 25 Oct 2026 06:15:00 +0900"
+    },
     {
       "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
       "link": "https://www.yna.co.kr/view/AKR20261024051800003",
@@ -77,81 +152,6 @@
       "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261024031251003",
       "pubDate": "Sat, 24 Oct 2026 17:20:43 +0900"
-    },
-    {
-      "title": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주",
-      "link": "https://www.yna.co.kr/view/AKR20261024031200003",
-      "pubDate": "Sat, 24 Oct 2026 13:53:21 +0900"
-    },
-    {
-      "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261023146400062",
-      "pubDate": "Sat, 24 Oct 2026 11:10:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261024020700011",
-      "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 월 1회 주사에 먹는 약까지…진화하는 K비만치료제",
-      "link": "https://www.yna.co.kr/view/AKR20261023139600017",
-      "pubDate": "Sat, 24 Oct 2026 10:00:04 +0900"
-    },
-    {
-      "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
-      "link": "https://www.yna.co.kr/view/AKR20261023183500002",
-      "pubDate": "Sat, 24 Oct 2026 09:21:26 +0900"
-    },
-    {
-      "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023177600002",
-      "pubDate": "Sat, 24 Oct 2026 09:00:01 +0900"
-    },
-    {
-      "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
-      "link": "https://www.yna.co.kr/view/AKR20261023161100062",
-      "pubDate": "Sat, 24 Oct 2026 08:00:01 +0900"
-    },
-    {
-      "title": "'K푸드 열풍 덕'…떡볶이 등 대구지역 식료품 수출 급증",
-      "link": "https://www.yna.co.kr/view/AKR20261023120500053",
-      "pubDate": "Sat, 24 Oct 2026 07:11:12 +0900"
-    },
-    {
-      "title": "주유소 기름값 23주 연속 하락…휘발유·경유 1천800원대",
-      "link": "https://www.yna.co.kr/view/AKR20261023102900003",
-      "pubDate": "Sat, 24 Oct 2026 07:01:01 +0900"
-    },
-    {
-      "title": "\"달콤함 그대로, 당은 빼고\"…식품업계, 과자·음료 '저당' 경쟁",
-      "link": "https://www.yna.co.kr/view/AKR20261023151900030",
-      "pubDate": "Sat, 24 Oct 2026 07:01:00 +0900"
-    },
-    {
-      "title": "[위클리 건강] '0칼로리' 믿고 마셨는데…당뇨병부터 뇌 건강까지 '경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261023083600530",
-      "pubDate": "Sat, 24 Oct 2026 07:00:07 +0900"
-    },
-    {
-      "title": "[신상잇슈] 삼립-제스티살룬 협업 버거·웅진-메가박스 '아침햇살' 신메뉴",
-      "link": "https://www.yna.co.kr/view/AKR20261023160000030",
-      "pubDate": "Sat, 24 Oct 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 전국 5천555가구 분양…수도권·부산 중심",
-      "link": "https://www.yna.co.kr/view/AKR20261023165700003",
-      "pubDate": "Sat, 24 Oct 2026 06:05:00 +0900"
-    },
-    {
-      "title": "LH 사장 \"집값 상승은 공급부족 탓…前정부 폭등 시한폭탄 설치\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023181200003",
-      "pubDate": "Fri, 23 Oct 2026 20:39:20 +0900"
-    },
-    {
-      "title": "JP모건, 국내 소부장 기업 4곳 지분 5% 이상 보유",
-      "link": "https://www.yna.co.kr/view/AKR20261023179900008",
-      "pubDate": "Fri, 23 Oct 2026 20:21:46 +0900"
     }
   ]
 }
