@@ -1,8 +1,78 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792867955,
+  "updated_at_unix": 1792876626,
   "items": [
+    {
+      "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
+      "link": "https://www.yna.co.kr/view/AKR20261024051800003",
+      "pubDate": "Sun, 25 Oct 2026 06:07:01 +0900"
+    },
+    {
+      "title": "정년연장에 폭발한 '프랑스', 국민 88% 찬성 '한국'…왜 다를까",
+      "link": "https://www.yna.co.kr/view/AKR20261023133800530",
+      "pubDate": "Sun, 25 Oct 2026 06:01:01 +0900"
+    },
+    {
+      "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
+      "link": "https://www.yna.co.kr/view/AKR20261024024500008",
+      "pubDate": "Sun, 25 Oct 2026 06:00:07 +0900"
+    },
+    {
+      "title": "3년간 해외세관서 문제 생긴 재외국민 263명…\"마약 적발도\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024049700001",
+      "pubDate": "Sun, 25 Oct 2026 06:00:00 +0900"
+    },
+    {
+      "title": "'최고 3.3배' 예보료율 인상 내주 재논의…수정안 나올듯",
+      "link": "https://www.yna.co.kr/view/AKR20261024041900002",
+      "pubDate": "Sun, 25 Oct 2026 05:59:00 +0900"
+    },
+    {
+      "title": "홍콩ELS식 '제재엇박' 막는다…금융위·금감원, 사전조율 공식화",
+      "link": "https://www.yna.co.kr/view/AKR20261024045800002",
+      "pubDate": "Sun, 25 Oct 2026 05:57:00 +0900"
+    },
+    {
+      "title": "'너도나도 1천억' 은행 보안투자 경쟁…PHP 대응도 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261024041000002",
+      "pubDate": "Sun, 25 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "단기 일자리 31년만에 최소…건설·내수 부진에 4050 충격",
+      "link": "https://www.yna.co.kr/view/AKR20261024041800002",
+      "pubDate": "Sun, 25 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "title": "스페이스X 0주 사태에 책무구조도 적용할까…임원 책임규명 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261024049800002",
+      "pubDate": "Sun, 25 Oct 2026 05:51:01 +0900"
+    },
+    {
+      "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
+      "link": "https://www.yna.co.kr/view/AKR20261024042900002",
+      "pubDate": "Sun, 25 Oct 2026 05:49:01 +0900"
+    },
+    {
+      "title": "\"가업상속공제 한도 확대는 역진적…출산지원금 재원도 불안\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024040200002",
+      "pubDate": "Sun, 25 Oct 2026 05:47:03 +0900"
+    },
+    {
+      "title": "재경위 \"주택 종부세율 올리면 임차인에 稅부담 전가 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261024040700002",
+      "pubDate": "Sun, 25 Oct 2026 05:47:02 +0900"
+    },
+    {
+      "title": "한국 경상흑자, '제조업 대국' 독·일 합계보다 많아…사상 처음",
+      "link": "https://www.yna.co.kr/view/AKR20261024050300002",
+      "pubDate": "Sun, 25 Oct 2026 05:45:00 +0900"
+    },
+    {
+      "title": "[2027 산업] 내년 사업계획 시동…AI '성과내기'·중국과는 생존경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261024035400003",
+      "pubDate": "Sun, 25 Oct 2026 05:31:10 +0900"
+    },
     {
       "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261024031251003",
@@ -82,76 +152,6 @@
       "title": "JP모건, 국내 소부장 기업 4곳 지분 5% 이상 보유",
       "link": "https://www.yna.co.kr/view/AKR20261023179900008",
       "pubDate": "Fri, 23 Oct 2026 20:21:46 +0900"
-    },
-    {
-      "title": "알티캐스트 \"알티모빌리티 주식 65억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023169600008",
-      "pubDate": "Fri, 23 Oct 2026 18:20:37 +0900"
-    },
-    {
-      "title": "경제계 \"초광역특구 추진 환영\"…신속한 입법 요구",
-      "link": "https://www.yna.co.kr/view/AKR20261023167000003",
-      "pubDate": "Fri, 23 Oct 2026 18:11:14 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261023154600011",
-      "pubDate": "Fri, 23 Oct 2026 18:00:00 +0900"
-    },
-    {
-      "title": "\"서울, 정비사업으로 2∼3년 내 약 5만 가구 이주·멸실\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023162800003",
-      "pubDate": "Fri, 23 Oct 2026 17:41:37 +0900"
-    },
-    {
-      "title": "무역위원회, 중국산 아연도금냉연에 최대 33.67％ 덤핑방지관세",
-      "link": "https://www.yna.co.kr/view/AKR20261023157600003",
-      "pubDate": "Fri, 23 Oct 2026 17:40:24 +0900"
-    },
-    {
-      "title": "국토장관 \"집값 상승폭 둔화…연말 금리 상향 시 시장 안정화\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023088651003",
-      "pubDate": "Fri, 23 Oct 2026 17:39:23 +0900"
-    },
-    {
-      "title": "한미약품, 차세대 비만치료제 명칭 '잔트루타이드'로 확정",
-      "link": "https://www.yna.co.kr/view/AKR20261023161300017",
-      "pubDate": "Fri, 23 Oct 2026 17:39:10 +0900"
-    },
-    {
-      "title": "당진시민 내년 설 전 30만원씩 받는다…조례안 시의회 통과",
-      "link": "https://www.yna.co.kr/view/AKR20261023160900063",
-      "pubDate": "Fri, 23 Oct 2026 17:36:55 +0900"
-    },
-    {
-      "title": "박홍근 \"미래대응기금, 적립 계속되는 구조…정권과 무관\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023158100002",
-      "pubDate": "Fri, 23 Oct 2026 17:34:48 +0900"
-    },
-    {
-      "title": "박홍근 \"'초과세수로 취약층 대책 마련' 대통령 요청에 협의 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023155900002",
-      "pubDate": "Fri, 23 Oct 2026 17:27:11 +0900"
-    },
-    {
-      "title": "원주시, 웰니스 관광 활성화 업무협약…지역경제 활력 모색",
-      "link": "https://www.yna.co.kr/view/AKR20261023152100062",
-      "pubDate": "Fri, 23 Oct 2026 17:03:19 +0900"
-    },
-    {
-      "title": "박수현 지사 \"계룡에 국방기관 하나도 이전 안 해 유감\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023149500063",
-      "pubDate": "Fri, 23 Oct 2026 16:56:51 +0900"
-    },
-    {
-      "title": "대전에 돈키호테 등 55개 해외바이어 온다…28일 수출상담회",
-      "link": "https://www.yna.co.kr/view/AKR20261023142400063",
-      "pubDate": "Fri, 23 Oct 2026 16:55:20 +0900"
-    },
-    {
-      "title": "NICE \"자회사 나이스프라퍼티 주식 514억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261023149900008",
-      "pubDate": "Fri, 23 Oct 2026 16:51:09 +0900"
     }
   ]
 }
