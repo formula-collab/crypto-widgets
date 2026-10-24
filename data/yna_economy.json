@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792798635,
+  "updated_at_unix": 1792808298,
   "items": [
+    {
+      "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261023146400062",
+      "pubDate": "Sat, 24 Oct 2026 11:10:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261024020700011",
+      "pubDate": "Sat, 24 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 월 1회 주사에 먹는 약까지…진화하는 K비만치료제",
+      "link": "https://www.yna.co.kr/view/AKR20261023139600017",
+      "pubDate": "Sat, 24 Oct 2026 10:00:04 +0900"
+    },
+    {
+      "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261023183500002",
+      "pubDate": "Sat, 24 Oct 2026 09:21:26 +0900"
+    },
+    {
+      "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
+      "link": "https://www.yna.co.kr/view/AKR20261023177600002",
+      "pubDate": "Sat, 24 Oct 2026 09:00:01 +0900"
+    },
     {
       "title": "[르포] 화약 냄새에 푸른 광맥 '반짝'…32년 만에 깬 영월 상동광산",
       "link": "https://www.yna.co.kr/view/AKR20261023161100062",
@@ -127,31 +152,6 @@
       "title": "국고채 금리 일제히 하락…3년물 연 3.803%",
       "link": "https://www.yna.co.kr/view/AKR20261023146800008",
       "pubDate": "Fri, 23 Oct 2026 16:41:30 +0900"
-    },
-    {
-      "title": "원/달러 환율 소폭 반등…1,320원대 중반",
-      "link": "https://www.yna.co.kr/view/AKR20261023134800002",
-      "pubDate": "Fri, 23 Oct 2026 16:40:34 +0900"
-    },
-    {
-      "title": "솔리다임 IPO 중단 덕분?…코스피, 낙폭 좁혀 5,500선 회복 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023137600008",
-      "pubDate": "Fri, 23 Oct 2026 16:29:52 +0900"
-    },
-    {
-      "title": "고비 넘긴 '오세훈표 정책'…재건축·강북 전성시대 속도 낼듯",
-      "link": "https://www.yna.co.kr/view/AKR20261023133700004",
-      "pubDate": "Fri, 23 Oct 2026 16:21:58 +0900"
-    },
-    {
-      "title": "AI 신용우려에 코스피 '출렁'…하이닉스 호재에 한숨 돌려(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261023079351008",
-      "pubDate": "Fri, 23 Oct 2026 16:21:58 +0900"
-    },
-    {
-      "title": "삼양홀딩스, 수요예측에 5천600억 몰려…모집예정액 5.6배",
-      "link": "https://www.yna.co.kr/view/AKR20261023141400008",
-      "pubDate": "Fri, 23 Oct 2026 16:20:15 +0900"
     }
   ]
 }
