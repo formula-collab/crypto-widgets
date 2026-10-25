@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792952922,
+  "updated_at_unix": 1792962234,
   "items": [
+    {
+      "title": "중금리대출 확대에…카드론 금리 석달 만에 13%대로 하락",
+      "link": "https://www.yna.co.kr/view/AKR20261025029100002",
+      "pubDate": "Mon, 26 Oct 2026 05:57:06 +0900"
+    },
+    {
+      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261025043600002",
+      "pubDate": "Mon, 26 Oct 2026 05:55:00 +0900"
+    },
+    {
+      "title": "코인 과세 유예 기류에 업계 '반색'…자금 이탈 감소 기대",
+      "link": "https://www.yna.co.kr/view/AKR20261025041000002",
+      "pubDate": "Mon, 26 Oct 2026 05:53:00 +0900"
+    },
+    {
+      "title": "상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261023150200002",
+      "pubDate": "Mon, 26 Oct 2026 05:51:00 +0900"
+    },
     {
       "title": "코카콜라, 신흥시장 상인 이어 해방촌 협업…골목상권 활성화",
       "link": "https://www.yna.co.kr/view/AKR20261025025400030",
@@ -132,26 +152,6 @@
       "title": "글로벌 해운·조선 리더 부산 온다…'세계 해사의 날' 기념행사",
       "link": "https://www.yna.co.kr/view/AKR20261023145700051",
       "pubDate": "Sun, 25 Oct 2026 11:00:11 +0900"
-    },
-    {
-      "title": "해수부, 항만·연안 정비 SOC 예산집행 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261023147700051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:11 +0900"
-    },
-    {
-      "title": "비상시에도 항만 정상 운영…'제5차 항만 운영 협약' 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261023151400051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:10 +0900"
-    },
-    {
-      "title": "국립해양조사원, 인도네시아와 '해양 위성 공동 워크숍'",
-      "link": "https://www.yna.co.kr/view/AKR20261023153800051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:10 +0900"
-    },
-    {
-      "title": "부산서 26∼28일 '대한민국 해양 모빌리티·안전 엑스포'",
-      "link": "https://www.yna.co.kr/view/AKR20261023158700051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:09 +0900"
     }
   ]
 }
