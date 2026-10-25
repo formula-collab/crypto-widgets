@@ -1,8 +1,88 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792962234,
+  "updated_at_unix": 1792970567,
   "items": [
+    {
+      "title": "감미료 넣은 저당식품, '혈당 상승 억제' 표시 못 한다",
+      "link": "https://www.yna.co.kr/view/AKR20261026019200017",
+      "pubDate": "Mon, 26 Oct 2026 08:14:55 +0900"
+    },
+    {
+      "title": "[마켓뷰] 코스피 출렁임 계속되나…삼전닉스 추가 주주환원 여부 주시",
+      "link": "https://www.yna.co.kr/view/AKR20261026018000008",
+      "pubDate": "Mon, 26 Oct 2026 08:12:29 +0900"
+    },
+    {
+      "title": "해양수도 도심 대전환 모색…제1회 부산 도시공간 위크",
+      "link": "https://www.yna.co.kr/view/AKR20261026015500051",
+      "pubDate": "Mon, 26 Oct 2026 08:07:33 +0900"
+    },
+    {
+      "title": "금감원·거래소 회계사 채용 3배↑…미지정 회계사 '흡수처' 부상",
+      "link": "https://www.yna.co.kr/view/AKR20261022146000008",
+      "pubDate": "Mon, 26 Oct 2026 08:00:04 +0900"
+    },
+    {
+      "title": "'부산·칭다오 비즈니스위크'…지역 기업 경제협력 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261026015300051",
+      "pubDate": "Mon, 26 Oct 2026 07:59:23 +0900"
+    },
+    {
+      "title": "부산시, 아시아 9개국 마이스 유력 인사 초청 팸투어",
+      "link": "https://www.yna.co.kr/view/AKR20261026015200051",
+      "pubDate": "Mon, 26 Oct 2026 07:57:37 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261026010200011",
+      "pubDate": "Mon, 26 Oct 2026 07:30:01 +0900"
+    },
+    {
+      "title": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261025020300008",
+      "pubDate": "Mon, 26 Oct 2026 07:06:33 +0900"
+    },
+    {
+      "title": "서초구, 28일 '재건축 정책 콘서트'…정비제도·세무 안내",
+      "link": "https://www.yna.co.kr/view/AKR20261026009000004",
+      "pubDate": "Mon, 26 Oct 2026 07:01:52 +0900"
+    },
+    {
+      "title": "위험기계 불합격에도 사용중지 늑장 명령…노동청, 102건 지연",
+      "link": "https://www.yna.co.kr/view/AKR20261023145600530",
+      "pubDate": "Mon, 26 Oct 2026 06:01:03 +0900"
+    },
+    {
+      "title": "롯데마트·슈퍼, 오뚜기와 '굴미역국라면' 단독 출시",
+      "link": "https://www.yna.co.kr/view/AKR20261025036100030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:11 +0900"
+    },
+    {
+      "title": "롯데온, 28일까지 월말 할인전…생필품·식품 최대 50% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261025038100030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:10 +0900"
+    },
+    {
+      "title": "롯데百, 잠실점 3천400평 식품관 10년 만에 전면 개편",
+      "link": "https://www.yna.co.kr/view/AKR20261025038900030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:09 +0900"
+    },
+    {
+      "title": "신세계百 강남점, 내달 3일까지 캐릭터 팝업…굿즈 950종 선보여",
+      "link": "https://www.yna.co.kr/view/AKR20261025040200030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:05 +0900"
+    },
+    {
+      "title": "[게시판] 롯데멤버스, '금연 마라톤 챌린지' 진행",
+      "link": "https://www.yna.co.kr/view/AKR20261025040900030",
+      "pubDate": "Mon, 26 Oct 2026 06:00:04 +0900"
+    },
+    {
+      "title": "어느새 금융범죄자로…알바 가장한 자금수거책·통장양도 주의",
+      "link": "https://www.yna.co.kr/view/AKR20261025030200002",
+      "pubDate": "Mon, 26 Oct 2026 06:00:02 +0900"
+    },
     {
       "title": "중금리대출 확대에…카드론 금리 석달 만에 13%대로 하락",
       "link": "https://www.yna.co.kr/view/AKR20261025029100002",
@@ -72,86 +152,6 @@
       "title": "KB \"10월 서울 아파트값 0.61% 올라…상승률 연내 최저\"",
       "link": "https://www.yna.co.kr/view/AKR20261025026700003",
       "pubDate": "Sun, 25 Oct 2026 13:16:02 +0900"
-    },
-    {
-      "title": "4대그룹 유일 공채 삼성, 하반기 GSAT 실시…그룹 19개사 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261025013100003",
-      "pubDate": "Sun, 25 Oct 2026 13:00:02 +0900"
-    },
-    {
-      "title": "올해 부진 흐름 회사채 발행, 내년 회복 관건은?",
-      "link": "https://www.yna.co.kr/view/AKR20261025013900008",
-      "pubDate": "Sun, 25 Oct 2026 12:01:30 +0900"
-    },
-    {
-      "title": "73년만에 지방정부도 노동감독…'감독학교'서 노하우 배운다",
-      "link": "https://www.yna.co.kr/view/AKR20261023153700530",
-      "pubDate": "Sun, 25 Oct 2026 12:00:06 +0900"
-    },
-    {
-      "title": "규정 어기고 금융업체 주식 소유…KPIC코포레이션, 공정위 제재",
-      "link": "https://www.yna.co.kr/view/AKR20261023109000002",
-      "pubDate": "Sun, 25 Oct 2026 12:00:04 +0900"
-    },
-    {
-      "title": "중기부, 제주 소상공인 24곳 참여하는 로컬 크라우드펀딩 진행",
-      "link": "https://www.yna.co.kr/view/AKR20261024049500030",
-      "pubDate": "Sun, 25 Oct 2026 12:00:04 +0900"
-    },
-    {
-      "title": "금감원, AI로 불사금 조직 '배후'까지 쫓는다…분석체계 마련",
-      "link": "https://www.yna.co.kr/view/AKR20261024033800002",
-      "pubDate": "Sun, 25 Oct 2026 12:00:03 +0900"
-    },
-    {
-      "title": "금융권 이자율 스왑거래 KOFR 비중 12.1%…목표 초과 달성",
-      "link": "https://www.yna.co.kr/view/AKR20261024048600002",
-      "pubDate": "Sun, 25 Oct 2026 12:00:03 +0900"
-    },
-    {
-      "title": "젖소 5마리서 11개국 수출기업으로…제주 '아침미소목장'의 혁신",
-      "link": "https://www.yna.co.kr/view/AKR20261022004900030",
-      "pubDate": "Sun, 25 Oct 2026 12:00:02 +0900"
-    },
-    {
-      "title": "\"대기업 아니어도 되지만\"…中企 기피 이유는 임금·근무환경",
-      "link": "https://www.yna.co.kr/view/AKR20261024031900030",
-      "pubDate": "Sun, 25 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "title": "\"기간제 노동자 15%만 정규직 전환…60%는 비정규직 되풀이\"",
-      "link": "https://www.yna.co.kr/view/AKR20261025005600004",
-      "pubDate": "Sun, 25 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "title": "상의 여성기업위, '사랑의 친구들 바자회'에 8천만원 상당 후원",
-      "link": "https://www.yna.co.kr/view/AKR20261023136500003",
-      "pubDate": "Sun, 25 Oct 2026 12:00:01 +0900"
-    },
-    {
-      "title": "쿠팡, 가을나들이 입장권 할인전…단풍여행 등 300여종",
-      "link": "https://www.yna.co.kr/view/AKR20261025021600030",
-      "pubDate": "Sun, 25 Oct 2026 11:20:51 +0900"
-    },
-    {
-      "title": "금융미래 조망·스타트업 투자유치…26∼28일 '서울핀테크위크'",
-      "link": "https://www.yna.co.kr/view/AKR20261024023400004",
-      "pubDate": "Sun, 25 Oct 2026 11:15:04 +0900"
-    },
-    {
-      "title": "'해약환급금 미지급' 등 상조·여행업체 8곳 서울시 적발",
-      "link": "https://www.yna.co.kr/view/AKR20261024024000004",
-      "pubDate": "Sun, 25 Oct 2026 11:15:03 +0900"
-    },
-    {
-      "title": "메모리값 뛰자 PC 교체 미룬다…글로벌 출하량 21% 급감",
-      "link": "https://www.yna.co.kr/view/AKR20261025020100017",
-      "pubDate": "Sun, 25 Oct 2026 11:02:24 +0900"
-    },
-    {
-      "title": "글로벌 해운·조선 리더 부산 온다…'세계 해사의 날' 기념행사",
-      "link": "https://www.yna.co.kr/view/AKR20261023145700051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:11 +0900"
     }
   ]
 }
