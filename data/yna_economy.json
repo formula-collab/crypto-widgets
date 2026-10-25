@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1792941031,
+  "updated_at_unix": 1792952922,
   "items": [
+    {
+      "title": "코카콜라, 신흥시장 상인 이어 해방촌 협업…골목상권 활성화",
+      "link": "https://www.yna.co.kr/view/AKR20261025025400030",
+      "pubDate": "Mon, 26 Oct 2026 00:00:01 +0900"
+    },
     {
       "title": "이형일, 경제현안간담회서 국내생산세액공제 보완방안 등 논의",
       "link": "https://www.yna.co.kr/view/AKR20261025047700002",
@@ -146,11 +151,6 @@
     {
       "title": "부산서 26∼28일 '대한민국 해양 모빌리티·안전 엑스포'",
       "link": "https://www.yna.co.kr/view/AKR20261023158700051",
-      "pubDate": "Sun, 25 Oct 2026 11:00:09 +0900"
-    },
-    {
-      "title": "[게시판] 해수부, 26∼27일 글로벌 오션 레짐 콘퍼런스",
-      "link": "https://www.yna.co.kr/view/AKR20261023160100051",
       "pubDate": "Sun, 25 Oct 2026 11:00:09 +0900"
     }
   ]
