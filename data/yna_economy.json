@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793022040,
+  "updated_at_unix": 1793043441,
   "items": [
+    {
+      "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
+      "link": "https://www.yna.co.kr/view/AKR20261026156700530",
+      "pubDate": "Tue, 27 Oct 2026 00:00:02 +0900"
+    },
     {
       "title": "그린플러스, 100억유증…아리바이오홀딩스 등에 3자 배정",
       "link": "https://www.yna.co.kr/view/AKR20261026166500008",
@@ -147,11 +152,6 @@
       "title": "춘천시, 은퇴자마을 조성 정책 포럼…전국 1호 선정 목표",
       "link": "https://www.yna.co.kr/view/AKR20261026145500062",
       "pubDate": "Mon, 26 Oct 2026 16:53:49 +0900"
-    },
-    {
-      "title": "국고채, 외인 선물 매수 지속에 강세…3년물 3.8% 하회(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261026143451008",
-      "pubDate": "Mon, 26 Oct 2026 16:52:24 +0900"
     }
   ]
 }
