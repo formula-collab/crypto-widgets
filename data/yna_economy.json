@@ -1,8 +1,98 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793088265,
+  "updated_at_unix": 1793112189,
   "items": [
+    {
+      "title": "김경협 청장, 재외동포협력센터 해직자 논란에 \"우선채용 협의\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027187900371",
+      "pubDate": "Tue, 27 Oct 2026 22:14:42 +0900"
+    },
+    {
+      "title": "재개발 앞둔 구룡마을 또 큰불…집 잃은 주민들 어디로 가나",
+      "link": "https://www.yna.co.kr/view/AKR20261027186900004",
+      "pubDate": "Tue, 27 Oct 2026 21:59:00 +0900"
+    },
+    {
+      "title": "현대약품 \"임신중지약 허가 보완자료 다음 달까지 제출\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027180500017",
+      "pubDate": "Tue, 27 Oct 2026 19:42:47 +0900"
+    },
+    {
+      "title": "공소청-중수청 권한다툼 수면위로…리니언시 접수권 어디에(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027153251004",
+      "pubDate": "Tue, 27 Oct 2026 19:17:13 +0900"
+    },
+    {
+      "title": "금융위, 초고금리 불법사금융 '징역 10년·벌금 5억'으로 강화",
+      "link": "https://www.yna.co.kr/view/AKR20261027178700002",
+      "pubDate": "Tue, 27 Oct 2026 19:13:10 +0900"
+    },
+    {
+      "title": "카카오, 채용 과정에 AI 사전 인터뷰·인성검사 도입 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261027179000017",
+      "pubDate": "Tue, 27 Oct 2026 19:09:25 +0900"
+    },
+    {
+      "title": "노동장관, '주52시간 예외는 위헌' 지적에 \"그런 주장 가능\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027096151530",
+      "pubDate": "Tue, 27 Oct 2026 18:46:56 +0900"
+    },
+    {
+      "title": "\"거래소 산업분류 개편에 63개 지수 영향…교체 종목 늘어날듯\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027147751008",
+      "pubDate": "Tue, 27 Oct 2026 18:37:49 +0900"
+    },
+    {
+      "title": "당국 'JYP 공개매수' 예의주시…\"불공정거래 의심 시 조사착수\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027174100002",
+      "pubDate": "Tue, 27 Oct 2026 18:25:00 +0900"
+    },
+    {
+      "title": "미래에셋, 日증권사 품는다…박현주 회장 \"29일 발표\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261027154952008",
+      "pubDate": "Tue, 27 Oct 2026 18:23:45 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20261027168000011",
+      "pubDate": "Tue, 27 Oct 2026 18:00:01 +0900"
+    },
+    {
+      "title": "송미령 농식품 장관 \"기본소득과 함께 사회연대경제 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027168100030",
+      "pubDate": "Tue, 27 Oct 2026 18:00:01 +0900"
+    },
+    {
+      "title": "박현주 미래에셋회장, 일본 증권회사 M&A 예고…29일 발표(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261027154951008",
+      "pubDate": "Tue, 27 Oct 2026 17:50:24 +0900"
+    },
+    {
+      "title": "韓총리 \"주택공급 목표달성 차질 없도록…민간부문 속도 높여야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027160800001",
+      "pubDate": "Tue, 27 Oct 2026 17:39:32 +0900"
+    },
+    {
+      "title": "인천도시가스 \"청라아이디씨피에프브이 주식 120억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027162400008",
+      "pubDate": "Tue, 27 Oct 2026 17:10:10 +0900"
+    },
+    {
+      "title": "두산로보틱스 \"두산신기술투자조합2호 주식 400억원에 취득\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027161300008",
+      "pubDate": "Tue, 27 Oct 2026 17:01:04 +0900"
+    },
+    {
+      "title": "대전 옛 마사회 건물, 방사청 이전 후엔 청년창업공간으로",
+      "link": "https://www.yna.co.kr/view/AKR20261027133000063",
+      "pubDate": "Tue, 27 Oct 2026 17:00:02 +0900"
+    },
+    {
+      "title": "재경차관 \"AI확산·공급망 재편 리스크…선제적 대비해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261027148800002",
+      "pubDate": "Tue, 27 Oct 2026 17:00:01 +0900"
+    },
     {
       "title": "코스피 반등에도 국고채 금리 일제히↓…3년물 2개월래 최저(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261027157251008",
@@ -62,96 +152,6 @@
       "title": "고흥 우주발사체 국가산단 조성 속도…내년 보상 착수",
       "link": "https://www.yna.co.kr/view/AKR20261027069300003",
       "pubDate": "Tue, 27 Oct 2026 16:30:00 +0900"
-    },
-    {
-      "title": "두산테스나 \"두산신기술투자조합2호 주식 400억원에 취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027151400008",
-      "pubDate": "Tue, 27 Oct 2026 16:24:18 +0900"
-    },
-    {
-      "title": "[컬처&레저] 원전으로 맺어진 한국-체코…관광으로 비소치나 지역 부각",
-      "link": "https://www.yna.co.kr/view/AKR20261027123100542",
-      "pubDate": "Tue, 27 Oct 2026 16:20:48 +0900"
-    },
-    {
-      "title": "노동부, LS전선 '노조탄압 의혹' 수사…특별근로감독도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261027148000530",
-      "pubDate": "Tue, 27 Oct 2026 16:18:41 +0900"
-    },
-    {
-      "title": "'노동특례' 초광역특구법안 공방…\"노동권후퇴\"·\"입법포기하나\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027143500001",
-      "pubDate": "Tue, 27 Oct 2026 16:10:54 +0900"
-    },
-    {
-      "title": "KCC, 회사채 수요예측에 1.38조원 몰려…모집예정액 약 7배",
-      "link": "https://www.yna.co.kr/view/AKR20261027147900008",
-      "pubDate": "Tue, 27 Oct 2026 16:08:37 +0900"
-    },
-    {
-      "title": "\"거래소 산업분류 개편에 63개 지수 영향…교체 종목 늘어날듯\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027147700008",
-      "pubDate": "Tue, 27 Oct 2026 16:08:32 +0900"
-    },
-    {
-      "title": "코스피, 3% 급반등해 5,638 마감…삼전닉스 4∼5%↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261027146100008",
-      "pubDate": "Tue, 27 Oct 2026 16:05:32 +0900"
-    },
-    {
-      "title": "JB금융지주 \"자회사 JB우리캐피탈 주식 2천200억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027147000008",
-      "pubDate": "Tue, 27 Oct 2026 16:05:27 +0900"
-    },
-    {
-      "title": "창원시, 단독주택 지구단위계획 재정비 착수…주민협의체 구성",
-      "link": "https://www.yna.co.kr/view/AKR20261027145300052",
-      "pubDate": "Tue, 27 Oct 2026 16:00:56 +0900"
-    },
-    {
-      "title": "춘천시, 바이오·창업 엑스포 통합 개최…120개 기업·기관 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261027142100062",
-      "pubDate": "Tue, 27 Oct 2026 15:51:47 +0900"
-    },
-    {
-      "title": "외국환시세(10월27일·15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20261027139300002",
-      "pubDate": "Tue, 27 Oct 2026 15:45:45 +0900"
-    },
-    {
-      "title": "iM금융지주, 차기 회장 1단계 후보군 6명 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261027140900053",
-      "pubDate": "Tue, 27 Oct 2026 15:45:08 +0900"
-    },
-    {
-      "title": "[특징주] JYP엔터, 일본계 투자사의 '지분 인수 추진'에 6%대↑(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261027038351008",
-      "pubDate": "Tue, 27 Oct 2026 15:43:00 +0900"
-    },
-    {
-      "title": "與, 가상자산 과세 의견 추가 수렴키로…\"빠른 시일 내 결정\"",
-      "link": "https://www.yna.co.kr/view/AKR20261027135900001",
-      "pubDate": "Tue, 27 Oct 2026 15:40:53 +0900"
-    },
-    {
-      "title": "[특징주] '앤트로픽 투자' SK텔레콤, '반짝' 급등 후 1.9% 상승 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261027038751008",
-      "pubDate": "Tue, 27 Oct 2026 15:40:01 +0900"
-    },
-    {
-      "title": "부산은행, 지역 골목상권 활성화 위한 안녕로컬 포럼",
-      "link": "https://www.yna.co.kr/view/AKR20261027139800051",
-      "pubDate": "Tue, 27 Oct 2026 15:39:18 +0900"
-    },
-    {
-      "title": "코스피, 3% 반등해 5,638.34 마감…코스닥도 2.3% 올라",
-      "link": "https://www.yna.co.kr/view/AKR20261027138800008",
-      "pubDate": "Tue, 27 Oct 2026 15:36:34 +0900"
-    },
-    {
-      "title": "[외환] 원/달러 환율 0.6원 오른 1,323.7원(15:30 기준가)",
-      "link": "https://www.yna.co.kr/view/AKR20261027137300002",
-      "pubDate": "Tue, 27 Oct 2026 15:35:16 +0900"
     }
   ]
 }
