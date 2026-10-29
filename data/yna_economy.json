@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793280262,
+  "updated_at_unix": 1793300564,
   "items": [
+    {
+      "title": "미 연준 이어 ECB도 금리 동결…\"인플레·경기둔화 위험 여전\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261029208552082",
+      "pubDate": "Fri, 30 Oct 2026 00:15:46 +0900"
+    },
+    {
+      "title": "[2보] ECB 금리 동결…예금금리 연 2.50％",
+      "link": "https://www.yna.co.kr/view/AKR20261029208551082",
+      "pubDate": "Thu, 29 Oct 2026 22:38:28 +0900"
+    },
     {
       "title": "SK플래닛 기프티콘 이용자 개인정보 유출…피해 규모 조사 중",
       "link": "https://www.yna.co.kr/view/AKR20261029203900017",
@@ -142,16 +152,6 @@
       "title": "총 10.4만호 신규택지에 시장 안정될까…김포 등 지역 반발(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261029101251003",
       "pubDate": "Thu, 29 Oct 2026 16:46:17 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.766%",
-      "link": "https://www.yna.co.kr/view/AKR20261029173900008",
-      "pubDate": "Thu, 29 Oct 2026 16:40:29 +0900"
-    },
-    {
-      "title": "중진공·안산시, 중기 재직 청년 100명에 우대저축공제 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261029171000030",
-      "pubDate": "Thu, 29 Oct 2026 16:40:02 +0900"
     }
   ]
 }
