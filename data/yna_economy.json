@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793300564,
+  "updated_at_unix": 1793316339,
   "items": [
+    {
+      "title": "9월 부산 건설수주 352% 급증…광공업 생산 4.5% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261030023100051",
+      "pubDate": "Fri, 30 Oct 2026 08:04:39 +0900"
+    },
+    {
+      "title": "[2보] 9월 생산, 15년 6개월 만에 최대폭↑…석달만에 트리플 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261030021400002",
+      "pubDate": "Fri, 30 Oct 2026 08:00:09 +0900"
+    },
+    {
+      "title": "[한일 미래路] 日사회학자 \"한일 돌봄 기술, 아시아에 수출 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20261028144900898",
+      "pubDate": "Fri, 30 Oct 2026 08:00:08 +0900"
+    },
+    {
+      "title": "[1보] 9월 생산 3.0%↑, 소비 3.6%↑, 투자 5.3%↑…트리플 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261030017800002",
+      "pubDate": "Fri, 30 Oct 2026 08:00:06 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261030015100011",
+      "pubDate": "Fri, 30 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "\"우리지역 공항으로 오세요\"…전국 지자체 '항공기 모시기' 경쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261029162000065",
+      "pubDate": "Fri, 30 Oct 2026 07:17:00 +0900"
+    },
+    {
+      "title": "외국인 한 달만에 다시 '셀코리아'…지난달 19.1조 순매도",
+      "link": "https://www.yna.co.kr/view/AKR20261029188200002",
+      "pubDate": "Fri, 30 Oct 2026 06:00:06 +0900"
+    },
+    {
+      "title": "'주택공급 선행지표' 서울 1∼9월 인허가 33.3% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261029191200003",
+      "pubDate": "Fri, 30 Oct 2026 06:00:02 +0900"
+    },
     {
       "title": "미 연준 이어 ECB도 금리 동결…\"인플레·경기둔화 위험 여전\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261029208552082",
@@ -112,46 +152,6 @@
       "title": "광주대표도서관 붕괴 경찰수사 마무리…공무원 등 51명 송치(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261029124351054",
       "pubDate": "Thu, 29 Oct 2026 17:11:04 +0900"
-    },
-    {
-      "title": "[게시판] 농협축산경제, 중동 바이어 4개 업체와 한우 수출 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261029181200030",
-      "pubDate": "Thu, 29 Oct 2026 17:11:00 +0900"
-    },
-    {
-      "title": "새만금 찾은 김민석 \"현대차 중심 투자 잘되면 피지컬AI 넘버원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261029166700001",
-      "pubDate": "Thu, 29 Oct 2026 17:00:05 +0900"
-    },
-    {
-      "title": "골드만삭스, 티맵모빌리티 경영권 인수 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261029178600017",
-      "pubDate": "Thu, 29 Oct 2026 16:59:15 +0900"
-    },
-    {
-      "title": "국고채 금리, 美 금리 연동하며 하락…완화적 FOMC 소화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029173951008",
-      "pubDate": "Thu, 29 Oct 2026 16:56:54 +0900"
-    },
-    {
-      "title": "동원산업 최첨단 원양어선 '다누리호' 출항…\"선단 현대화 계기\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029035651030",
-      "pubDate": "Thu, 29 Oct 2026 16:56:26 +0900"
-    },
-    {
-      "title": "'큰손' 하이닉스, '반도체머니' 운용할 채권 전문인력 채용 주목",
-      "link": "https://www.yna.co.kr/view/AKR20261029175600008",
-      "pubDate": "Thu, 29 Oct 2026 16:55:13 +0900"
-    },
-    {
-      "title": "셀트리온에 과징금 6.3억…공정위 제재에 행정소송 방침(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029076751002",
-      "pubDate": "Thu, 29 Oct 2026 16:52:36 +0900"
-    },
-    {
-      "title": "총 10.4만호 신규택지에 시장 안정될까…김포 등 지역 반발(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261029101251003",
-      "pubDate": "Thu, 29 Oct 2026 16:46:17 +0900"
     }
   ]
 }
