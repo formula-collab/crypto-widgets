@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793351518,
+  "updated_at_unix": 1793376261,
   "items": [
+    {
+      "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261030179300004",
+      "pubDate": "Fri, 30 Oct 2026 20:22:28 +0900"
+    },
+    {
+      "title": "국토장관 \"연내 서울민간정비 3.1만호 착공…용적률 1.2배 협의\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261030091152003",
+      "pubDate": "Fri, 30 Oct 2026 18:56:32 +0900"
+    },
+    {
+      "title": "소프트웨어 개발 기업 래블업, 내달 3일 코스닥 신규 상장",
+      "link": "https://www.yna.co.kr/view/AKR20261030172900008",
+      "pubDate": "Fri, 30 Oct 2026 18:54:28 +0900"
+    },
+    {
+      "title": "EU, 하이브리드차 세이프가드 조사 개시…정부 \"국내 영향 점검\"",
+      "link": "https://www.yna.co.kr/view/AKR20261030171700003",
+      "pubDate": "Fri, 30 Oct 2026 18:42:27 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20261030156400011",
@@ -132,26 +152,6 @@
       "title": "경기도, 재정위기 원인 분석 보고서 발간…연말까지 네 차례",
       "link": "https://www.yna.co.kr/view/AKR20261030135100061",
       "pubDate": "Fri, 30 Oct 2026 16:01:56 +0900"
-    },
-    {
-      "title": "메모리반도체 투자 등 ETF 2종, 내달 3일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20261030137800008",
-      "pubDate": "Fri, 30 Oct 2026 15:59:44 +0900"
-    },
-    {
-      "title": "[특징주] '6년만의 분기매출 감소' 현대차, 3%대 약세 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261030046451008",
-      "pubDate": "Fri, 30 Oct 2026 15:51:26 +0900"
-    },
-    {
-      "title": "[특징주] 상장 첫날 인텔리빅스 3.5배 상승 마감…크리에이츠 37%↓(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261030049551008",
-      "pubDate": "Fri, 30 Oct 2026 15:44:01 +0900"
-    },
-    {
-      "title": "목포서 '전남광주 여성 일자리 박람회' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261030133000054",
-      "pubDate": "Fri, 30 Oct 2026 15:41:09 +0900"
     }
   ]
 }
