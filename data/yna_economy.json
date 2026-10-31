@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793393725,
+  "updated_at_unix": 1793405634,
   "items": [
+    {
+      "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
+      "link": "https://www.yna.co.kr/view/AKR20261030067200008",
+      "pubDate": "Sat, 31 Oct 2026 09:00:38 +0900"
+    },
+    {
+      "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표",
+      "link": "https://www.yna.co.kr/view/AKR20261031012200002",
+      "pubDate": "Sat, 31 Oct 2026 08:35:38 +0900"
+    },
+    {
+      "title": "대EU 철강 수출, 감소폭 줄었지만…잇단 규제에 업계 긴장",
+      "link": "https://www.yna.co.kr/view/AKR20261030178500003",
+      "pubDate": "Sat, 31 Oct 2026 08:15:00 +0900"
+    },
+    {
+      "title": "[해수분해] 항구만으론 부족하다…금융·관광까지 품는 남부 해양수도권",
+      "link": "https://www.yna.co.kr/view/AKR20261028129700051",
+      "pubDate": "Sat, 31 Oct 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[시승기] 정숙함과 연비를 더했다…제네시스 GV80 하이브리드",
+      "link": "https://www.yna.co.kr/view/AKR20261030163600003",
+      "pubDate": "Sat, 31 Oct 2026 07:31:01 +0900"
+    },
+    {
+      "title": "해운대 센텀시티 품은 신세계…다시 불붙는 부산 백화점 전쟁",
+      "link": "https://www.yna.co.kr/view/AKR20261030023500051",
+      "pubDate": "Sat, 31 Oct 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+      "link": "https://www.yna.co.kr/view/AKR20261030169300003",
+      "pubDate": "Sat, 31 Oct 2026 07:01:00 +0900"
+    },
+    {
+      "title": "[금주핫템] 에뛰드 '글로이 구미 밤'·아이더 '구스 다운'",
+      "link": "https://www.yna.co.kr/view/AKR20261030100300030",
+      "pubDate": "Sat, 31 Oct 2026 07:00:05 +0900"
+    },
+    {
+      "title": "[신상잇슈] 맥도날드 '게살 크림 크로켓 머핀'·팔도 '바지락 짬뽕'",
+      "link": "https://www.yna.co.kr/view/AKR20261030073400030",
+      "pubDate": "Sat, 31 Oct 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+      "link": "https://www.yna.co.kr/view/AKR20261030161700017",
+      "pubDate": "Sat, 31 Oct 2026 06:33:01 +0900"
+    },
+    {
+      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1천800원대",
+      "link": "https://www.yna.co.kr/view/AKR20261030076700003",
+      "pubDate": "Sat, 31 Oct 2026 06:05:00 +0900"
+    },
+    {
+      "title": "단종 제품의 화려한 귀환…캡틴큐·볶음너구리 '품절 행렬'",
+      "link": "https://www.yna.co.kr/view/AKR20261030159900030",
+      "pubDate": "Sat, 31 Oct 2026 06:00:02 +0900"
+    },
     {
       "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
       "link": "https://www.yna.co.kr/view/AKR20261031005200072",
@@ -92,66 +152,6 @@
       "title": "건설사도 해킹 피해…GS건설 일부 아파트 입주민 개인정보 유출(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261030142751003",
       "pubDate": "Fri, 30 Oct 2026 16:44:50 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.715%",
-      "link": "https://www.yna.co.kr/view/AKR20261030149100008",
-      "pubDate": "Fri, 30 Oct 2026 16:40:44 +0900"
-    },
-    {
-      "title": "강원개발공사, 지방공사들과 도시재생 협력 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261030148300062",
-      "pubDate": "Fri, 30 Oct 2026 16:39:18 +0900"
-    },
-    {
-      "title": "강원도, 폐광기금 관리체계 개선 논의…운용기준 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261030147500062",
-      "pubDate": "Fri, 30 Oct 2026 16:33:20 +0900"
-    },
-    {
-      "title": "산업인력공단, 국민성장추진위 활동 종료…내년 AI 일자리 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261030069100530",
-      "pubDate": "Fri, 30 Oct 2026 16:30:01 +0900"
-    },
-    {
-      "title": "포스코퓨처엠, LG엔솔에 7년간 72만t 양·음극재 공급 합의",
-      "link": "https://www.yna.co.kr/view/AKR20261030144300003",
-      "pubDate": "Fri, 30 Oct 2026 16:28:43 +0900"
-    },
-    {
-      "title": "10월 D램 가격 5.8%↑…낸드는 21개월 연속 상승세 멈춰",
-      "link": "https://www.yna.co.kr/view/AKR20261030141900003",
-      "pubDate": "Fri, 30 Oct 2026 16:27:33 +0900"
-    },
-    {
-      "title": "GS건설도 해킹 피해…일부 아파트 입주민 개인정보 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261030142700003",
-      "pubDate": "Fri, 30 Oct 2026 16:24:07 +0900"
-    },
-    {
-      "title": "'자매결연 5주년'…중국 옌청시 대표단 울산 남구 방문",
-      "link": "https://www.yna.co.kr/view/AKR20261030140800057",
-      "pubDate": "Fri, 30 Oct 2026 16:21:16 +0900"
-    },
-    {
-      "title": "9월 경북 건설수주액 작년 동기 대비 471% 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261030142600053",
-      "pubDate": "Fri, 30 Oct 2026 16:14:15 +0900"
-    },
-    {
-      "title": "김해공항 은행·환전소, 입찰 유찰 끝에 부산은행과 재계약",
-      "link": "https://www.yna.co.kr/view/AKR20261030141000051",
-      "pubDate": "Fri, 30 Oct 2026 16:13:23 +0900"
-    },
-    {
-      "title": "코스피·코스닥, 美 빅테크 실적 부진에 3%대 급락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261030131551008",
-      "pubDate": "Fri, 30 Oct 2026 16:06:05 +0900"
-    },
-    {
-      "title": "삼표시멘트 \"삼척공장, 불시 점검서 다이옥신 기준치 이하\"",
-      "link": "https://www.yna.co.kr/view/AKR20261030136100062",
-      "pubDate": "Fri, 30 Oct 2026 16:05:27 +0900"
     }
   ]
 }
