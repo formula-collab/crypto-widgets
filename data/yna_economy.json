@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793405634,
+  "updated_at_unix": 1793426374,
   "items": [
+    {
+      "title": "\"세무대행 수수료 불만에 소비자상담 급증…전년 대비 7배\"",
+      "link": "https://www.yna.co.kr/view/AKR20261029151800030",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0900"
+    },
+    {
+      "title": "[마이더스] 결산 한 달 전, 가지급금 해소의 골든타임",
+      "link": "https://www.yna.co.kr/view/AKR20261030045900980",
+      "pubDate": "Sat, 31 Oct 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261031023400011",
+      "pubDate": "Sat, 31 Oct 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+      "link": "https://www.yna.co.kr/view/AKR20261031021700060",
+      "pubDate": "Sat, 31 Oct 2026 09:46:21 +0900"
+    },
     {
       "title": "[IPO챗] 내주 영광·래블업·이에스티 등 3개사 코스닥 입성",
       "link": "https://www.yna.co.kr/view/AKR20261030067200008",
@@ -132,26 +152,6 @@
       "title": "9월 울산항 물동량 2.2%↓…액체·일반화물 모두 감소",
       "link": "https://www.yna.co.kr/view/AKR20261030152500057",
       "pubDate": "Fri, 30 Oct 2026 16:56:24 +0900"
-    },
-    {
-      "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261030142000002",
-      "pubDate": "Fri, 30 Oct 2026 16:50:27 +0900"
-    },
-    {
-      "title": "FIU, 미신고 가상자산업자 2곳 국내 접속차단 요청",
-      "link": "https://www.yna.co.kr/view/AKR20261030144700002",
-      "pubDate": "Fri, 30 Oct 2026 16:48:21 +0900"
-    },
-    {
-      "title": "경남도, 서울광장 수산양식박람회 참가…수도권에 수산물 판촉",
-      "link": "https://www.yna.co.kr/view/AKR20261030119200052",
-      "pubDate": "Fri, 30 Oct 2026 16:45:00 +0900"
-    },
-    {
-      "title": "건설사도 해킹 피해…GS건설 일부 아파트 입주민 개인정보 유출(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261030142751003",
-      "pubDate": "Fri, 30 Oct 2026 16:44:50 +0900"
     }
   ]
 }
