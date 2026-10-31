@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793426374,
+  "updated_at_unix": 1793447230,
   "items": [
+    {
+      "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261031028951001",
+      "pubDate": "Sat, 31 Oct 2026 20:07:50 +0900"
+    },
     {
       "title": "\"세무대행 수수료 불만에 소비자상담 급증…전년 대비 7배\"",
       "link": "https://www.yna.co.kr/view/AKR20261029151800030",
@@ -147,11 +152,6 @@
       "title": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261030149151008",
       "pubDate": "Fri, 30 Oct 2026 16:56:34 +0900"
-    },
-    {
-      "title": "9월 울산항 물동량 2.2%↓…액체·일반화물 모두 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261030152500057",
-      "pubDate": "Fri, 30 Oct 2026 16:56:24 +0900"
     }
   ]
 }
