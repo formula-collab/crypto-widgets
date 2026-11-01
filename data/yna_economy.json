@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793489394,
+  "updated_at_unix": 1793500031,
   "items": [
+    {
+      "title": "서울시 \"김장 재료 최대 반값 할인\"…깐마늘·쪽파 등 6종",
+      "link": "https://www.yna.co.kr/view/AKR20261031031500004",
+      "pubDate": "Sun, 1 Nov 2026 11:15:03 +0900"
+    },
+    {
+      "title": "서울시 '청년 쿡 센터' 참여기업 모집…스타트업 40곳 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261031033600004",
+      "pubDate": "Sun, 1 Nov 2026 11:15:01 +0900"
+    },
+    {
+      "title": "서울 석수역 노후 철재상가 정비…944세대 주상복합 들어선다",
+      "link": "https://www.yna.co.kr/view/AKR20261031033900004",
+      "pubDate": "Sun, 1 Nov 2026 11:15:01 +0900"
+    },
+    {
+      "title": "해양수산부, 11월 수산물로 삼치·가리비류 선정",
+      "link": "https://www.yna.co.kr/view/AKR20261030153100051",
+      "pubDate": "Sun, 1 Nov 2026 11:00:03 +0900"
+    },
+    {
+      "title": "해수부, 해양교통안전공단·항로표지기술원 통합 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261030143700051",
+      "pubDate": "Sun, 1 Nov 2026 11:00:02 +0900"
+    },
+    {
+      "title": "학교 밖 청소년 전용 온라인 플랫폼 '유스캠퍼스' 개설",
+      "link": "https://www.yna.co.kr/view/AKR20261101013900003",
+      "pubDate": "Sun, 1 Nov 2026 11:00:01 +0900"
+    },
+    {
+      "title": "호르무즈 봉쇄 후 20번째 한국 선박, 홍해 통해 원유 운송",
+      "link": "https://www.yna.co.kr/view/AKR20261101019300051",
+      "pubDate": "Sun, 1 Nov 2026 10:44:51 +0900"
+    },
+    {
+      "title": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261101015351003",
+      "pubDate": "Sun, 1 Nov 2026 10:35:42 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261101018300011",
+      "pubDate": "Sun, 1 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[부고] 임진택(유진그룹 커뮤니케이션실 상무보)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20261101018600003",
+      "pubDate": "Sun, 1 Nov 2026 10:21:31 +0900"
+    },
+    {
+      "title": "현대건설, 5천990억원 규모 용산 한강로구역 재개발 수주",
+      "link": "https://www.yna.co.kr/view/AKR20261101018400003",
+      "pubDate": "Sun, 1 Nov 2026 10:19:23 +0900"
+    },
+    {
+      "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
+      "link": "https://www.yna.co.kr/view/AKR20261031036000017",
+      "pubDate": "Sun, 1 Nov 2026 09:30:00 +0900"
+    },
+    {
+      "title": "현대홈쇼핑, 멤버십 제도 개편…매월 5% 할인 자동 적용",
+      "link": "https://www.yna.co.kr/view/AKR20261101015400030",
+      "pubDate": "Sun, 1 Nov 2026 09:17:29 +0900"
+    },
+    {
+      "title": "[2보] 한국 수출 첫 9천억달러 돌파…10월 1천153억달러",
+      "link": "https://www.yna.co.kr/view/AKR20261101015300003",
+      "pubDate": "Sun, 1 Nov 2026 09:16:28 +0900"
+    },
+    {
+      "title": "활명수는 탄산음료로, 박카스는 젤리로…제약사 식품사업 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261030123900017",
+      "pubDate": "Sun, 1 Nov 2026 09:13:00 +0900"
+    },
+    {
+      "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
+      "link": "https://www.yna.co.kr/view/AKR20261101014400003",
+      "pubDate": "Sun, 1 Nov 2026 09:01:43 +0900"
+    },
+    {
+      "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
+      "link": "https://www.yna.co.kr/view/AKR20261101014000003",
+      "pubDate": "Sun, 1 Nov 2026 09:00:33 +0900"
+    },
+    {
+      "title": "평창 청소년, 판교·서울서 AI·로봇 미래직업 탐색",
+      "link": "https://www.yna.co.kr/view/AKR20261030110200062",
+      "pubDate": "Sun, 1 Nov 2026 09:00:09 +0900"
+    },
+    {
+      "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+      "link": "https://www.yna.co.kr/view/AKR20261030166300002",
+      "pubDate": "Sun, 1 Nov 2026 09:00:07 +0900"
+    },
+    {
+      "title": "[1보] 10월 수출 1천153억달러…2개월 연속 1천100억달러대",
+      "link": "https://www.yna.co.kr/view/AKR20261101013600003",
+      "pubDate": "Sun, 1 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "title": "[게시판] 하나금융, 자폐성 장애 인식 개선 위한 달리기 캠페인 참여",
+      "link": "https://www.yna.co.kr/view/AKR20261031045100002",
+      "pubDate": "Sun, 1 Nov 2026 08:30:01 +0900"
+    },
     {
       "title": "세븐일레븐, '요즘'과 요거트 디저트 선봬…모찌롤·마카롱 구성",
       "link": "https://www.yna.co.kr/view/AKR20261101011000030",
@@ -47,111 +152,6 @@
       "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
       "link": "https://www.yna.co.kr/view/AKR20261031019400008",
       "pubDate": "Sun, 1 Nov 2026 06:30:01 +0900"
-    },
-    {
-      "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
-      "link": "https://www.yna.co.kr/view/AKR20261031026200008",
-      "pubDate": "Sun, 1 Nov 2026 06:25:00 +0900"
-    },
-    {
-      "title": "새 분류체계로 본 업종별 체급…반도체-바이오 시총 10배 차",
-      "link": "https://www.yna.co.kr/view/AKR20261031030900008",
-      "pubDate": "Sun, 1 Nov 2026 06:20:01 +0900"
-    },
-    {
-      "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
-      "link": "https://www.yna.co.kr/view/AKR20261031000200008",
-      "pubDate": "Sun, 1 Nov 2026 06:15:01 +0900"
-    },
-    {
-      "title": "국산 하이브리드차 EU 수출 연 10만대…수입제한 움직임 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20261031047500003",
-      "pubDate": "Sun, 1 Nov 2026 06:15:00 +0900"
-    },
-    {
-      "title": "코로나 같은 전국 고용위기, 5개 지표로 감지해 신속 대응",
-      "link": "https://www.yna.co.kr/view/AKR20261030139400530",
-      "pubDate": "Sun, 1 Nov 2026 06:06:01 +0900"
-    },
-    {
-      "title": "[해킹 도미노] ② 10월 해킹 대란이 남긴 질문…왜 잇따라 뚫렸나",
-      "link": "https://www.yna.co.kr/view/AKR20261031035200017",
-      "pubDate": "Sun, 1 Nov 2026 06:05:15 +0900"
-    },
-    {
-      "title": "제조업 외국인근로자 1천명 늘면 인력부족 934명 줄어",
-      "link": "https://www.yna.co.kr/view/AKR20261031028500530",
-      "pubDate": "Sun, 1 Nov 2026 06:05:01 +0900"
-    },
-    {
-      "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
-      "link": "https://www.yna.co.kr/view/AKR20261031047400003",
-      "pubDate": "Sun, 1 Nov 2026 06:03:00 +0900"
-    },
-    {
-      "title": "SK·한화·HD현대, 핀셋 쇄신…삼성·LG도 안정에 무게 전망",
-      "link": "https://www.yna.co.kr/view/AKR20261031045800003",
-      "pubDate": "Sun, 1 Nov 2026 06:01:00 +0900"
-    },
-    {
-      "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
-      "link": "https://www.yna.co.kr/view/AKR20261031026300008",
-      "pubDate": "Sun, 1 Nov 2026 06:00:08 +0900"
-    },
-    {
-      "title": "롯데마트 토이저러스, 태권브이 50주년 기념 팝업 잇달아 운영",
-      "link": "https://www.yna.co.kr/view/AKR20261030152800030",
-      "pubDate": "Sun, 1 Nov 2026 06:00:03 +0900"
-    },
-    {
-      "title": "'위험한 철거' 더는 안된다…서울시 해체공사 경력업체에 맡긴다",
-      "link": "https://www.yna.co.kr/view/AKR20261031042100004",
-      "pubDate": "Sun, 1 Nov 2026 06:00:01 +0900"
-    },
-    {
-      "title": "미래에셋, 디지털엑스 오세진 대표 교체 가닥",
-      "link": "https://www.yna.co.kr/view/AKR20261031038300002",
-      "pubDate": "Sun, 1 Nov 2026 05:57:01 +0900"
-    },
-    {
-      "title": "은행장 후보 추천하고 심의도…신한은행 이사회 역할 커졌다",
-      "link": "https://www.yna.co.kr/view/AKR20261031024900002",
-      "pubDate": "Sun, 1 Nov 2026 05:56:01 +0900"
-    },
-    {
-      "title": "연 52조 세수오차 줄어들까…'세수예측 근거 밝혀라' 법안 발의",
-      "link": "https://www.yna.co.kr/view/AKR20261030186300002",
-      "pubDate": "Sun, 1 Nov 2026 05:55:01 +0900"
-    },
-    {
-      "title": "당국, 금융권에 해킹 보안 개선계획 마련 촉구…내주 점검회의",
-      "link": "https://www.yna.co.kr/view/AKR20261031045700002",
-      "pubDate": "Sun, 1 Nov 2026 05:54:00 +0900"
-    },
-    {
-      "title": "중산층 10명 중 4명 벌이 줄어…코로나 이후 4년만에 최고 비율",
-      "link": "https://www.yna.co.kr/view/AKR20261031035500002",
-      "pubDate": "Sun, 1 Nov 2026 05:53:01 +0900"
-    },
-    {
-      "title": "반도체 훈풍 무색한 내수…소매판매 5분기만에 감소",
-      "link": "https://www.yna.co.kr/view/AKR20261031028000002",
-      "pubDate": "Sun, 1 Nov 2026 05:52:05 +0900"
-    },
-    {
-      "title": "금융위 \"'50%+1주' 국회 합의안 존중, 전량매수 등은 추후 논의\"",
-      "link": "https://www.yna.co.kr/view/AKR20261031031200002",
-      "pubDate": "Sun, 1 Nov 2026 05:51:00 +0900"
-    },
-    {
-      "title": "금감원 불법공매도 긴급점검…\"5개 안팎 종목 조사\"",
-      "link": "https://www.yna.co.kr/view/AKR20261031042800002",
-      "pubDate": "Sun, 1 Nov 2026 05:49:01 +0900"
-    },
-    {
-      "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
-      "link": "https://www.yna.co.kr/view/AKR20261031044700002",
-      "pubDate": "Sun, 1 Nov 2026 05:47:02 +0900"
     }
   ]
 }
