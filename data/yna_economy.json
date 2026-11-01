@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793525304,
+  "updated_at_unix": 1793549581,
   "items": [
+    {
+      "title": "이형일, 경제현안간담회서 주택공급·일자리 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261101046100002",
+      "pubDate": "Sun, 1 Nov 2026 19:40:44 +0900"
+    },
     {
       "title": "똑똑해진 아파트, 개인정보 안전할까…건설사 해킹에 보안 우려(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261031047451003",
@@ -147,11 +152,6 @@
       "title": "현대건설, 5천990억원 규모 용산 한강로구역 재개발 수주",
       "link": "https://www.yna.co.kr/view/AKR20261101018400003",
       "pubDate": "Sun, 1 Nov 2026 10:19:23 +0900"
-    },
-    {
-      "title": "[AI위클리] AI 면접관의 등장…AI가 인간 능력을 평가한다",
-      "link": "https://www.yna.co.kr/view/AKR20261031036000017",
-      "pubDate": "Sun, 1 Nov 2026 09:30:00 +0900"
     }
   ]
 }
