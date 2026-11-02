@@ -1,8 +1,53 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793624160,
+  "updated_at_unix": 1793656816,
   "items": [
+    {
+      "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+      "link": "https://www.yna.co.kr/view/AKR20261103007851072",
+      "pubDate": "Tue, 3 Nov 2026 06:03:41 +0900"
+    },
+    {
+      "title": "세계경제 분절화 속 한일협력 필수…오늘 연합뉴스 미래경제포럼",
+      "link": "https://www.yna.co.kr/view/AKR20261102067200898",
+      "pubDate": "Tue, 3 Nov 2026 06:00:12 +0900"
+    },
+    {
+      "title": "중기부, 청주서 '청소년 비즈쿨 페스티벌'…창업 성과 공유",
+      "link": "https://www.yna.co.kr/view/AKR20261102135700030",
+      "pubDate": "Tue, 3 Nov 2026 06:00:11 +0900"
+    },
+    {
+      "title": "공장 입지·규제 스마트폰으로 한눈에…업종별 맞춤 추천도",
+      "link": "https://www.yna.co.kr/view/AKR20261102149200003",
+      "pubDate": "Tue, 3 Nov 2026 06:00:10 +0900"
+    },
+    {
+      "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102167400002",
+      "pubDate": "Tue, 3 Nov 2026 05:57:00 +0900"
+    },
+    {
+      "title": "포용금융 평가 앞두고…5대금융 전담조직 만들고 서민금융 늘려",
+      "link": "https://www.yna.co.kr/view/AKR20261102160100002",
+      "pubDate": "Tue, 3 Nov 2026 05:55:00 +0900"
+    },
+    {
+      "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261102158900002",
+      "pubDate": "Tue, 3 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "title": "\"北이 빼낸 바이낸스 자금, FBI 공개목록 밖 100곳에도 유입\"",
+      "link": "https://www.yna.co.kr/view/AKR20261102173800002",
+      "pubDate": "Tue, 3 Nov 2026 05:51:00 +0900"
+    },
+    {
+      "title": "[속보] 미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+      "link": "https://www.yna.co.kr/view/AKR20261103007800072",
+      "pubDate": "Tue, 3 Nov 2026 05:32:34 +0900"
+    },
     {
       "title": "금융지주 회장 연임 시 주총 의결요건 강화…3연임 땐 75% 찬성",
       "link": "https://www.yna.co.kr/view/AKR20261102172400002",
@@ -107,51 +152,6 @@
       "title": "삼천당제약, 다이이찌산쿄 에스파에 아일리아 시밀러 공급",
       "link": "https://www.yna.co.kr/view/AKR20261102145300017",
       "pubDate": "Mon, 2 Nov 2026 16:34:12 +0900"
-    },
-    {
-      "title": "'오늘 주식 팔면 내일 입금'…2028년부터 'T+1'로 결제 단축(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20261102056652008",
-      "pubDate": "Mon, 2 Nov 2026 16:29:18 +0900"
-    },
-    {
-      "title": "농식품부, 콩 생산자·가공업계와 국산 콩 소비 확대 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261102144800030",
-      "pubDate": "Mon, 2 Nov 2026 16:26:47 +0900"
-    },
-    {
-      "title": "[게시판] 복지부, 노인일자리 기업 상생 협력 성과공유회 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261102140700530",
-      "pubDate": "Mon, 2 Nov 2026 16:16:43 +0900"
-    },
-    {
-      "title": "롯데칠성음료, 2년 연속 희망퇴직…최대 24개월치 급여 지급",
-      "link": "https://www.yna.co.kr/view/AKR20261102141400030",
-      "pubDate": "Mon, 2 Nov 2026 16:15:43 +0900"
-    },
-    {
-      "title": "[테크스냅] 카카오인베스트먼트 AI 창업 지원 '출항 2기'에 122개팀 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261102140800017",
-      "pubDate": "Mon, 2 Nov 2026 16:09:39 +0900"
-    },
-    {
-      "title": "남서울대-NH농협은행, '협동과 섬김' 가치 담은 상생 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261102140600063",
-      "pubDate": "Mon, 2 Nov 2026 16:09:05 +0900"
-    },
-    {
-      "title": "전북개발공사, 재생에너지 조직 확대…도의회 \"설명 부족\" 제동",
-      "link": "https://www.yna.co.kr/view/AKR20261102138200055",
-      "pubDate": "Mon, 2 Nov 2026 16:08:33 +0900"
-    },
-    {
-      "title": "이형일 \"'전기차 산업 경쟁력 강화방안' 이달 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20261102126100002",
-      "pubDate": "Mon, 2 Nov 2026 16:00:00 +0900"
-    },
-    {
-      "title": "IBK기업은행, 강원특별자치도와 관광·금융 상생협력 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261102133100002",
-      "pubDate": "Mon, 2 Nov 2026 15:59:10 +0900"
     }
   ]
 }
