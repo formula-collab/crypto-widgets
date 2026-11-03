@@ -1,8 +1,108 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793730609,
+  "updated_at_unix": 1793748869,
   "items": [
+    {
+      "title": "키움증권 \"KAI, 신규 수주 부진에 목표가↓…4분기 회복 기대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104024900008",
+      "pubDate": "Wed, 4 Nov 2026 08:28:07 +0900"
+    },
+    {
+      "title": "카카오뱅크, 3분기 누적 순익 4천698억원…또 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20261104023500002",
+      "pubDate": "Wed, 4 Nov 2026 08:27:21 +0900"
+    },
+    {
+      "title": "IBK증권, 씨엠티엑스 목표가↓…\"수익성 기대 입증 못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261104023900008",
+      "pubDate": "Wed, 4 Nov 2026 08:20:47 +0900"
+    },
+    {
+      "title": "'나트륨 적은 떡볶이·저당소스'…식약처, 식품 23종 개발 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261104023400017",
+      "pubDate": "Wed, 4 Nov 2026 08:20:08 +0900"
+    },
+    {
+      "title": "AI 시대, 저작권 기술의 미래는…'국제저작권기술 콘퍼런스'",
+      "link": "https://www.yna.co.kr/view/AKR20261104020200005",
+      "pubDate": "Wed, 4 Nov 2026 08:13:51 +0900"
+    },
+    {
+      "title": "삼성전자 TV, 미국 컨슈머리포트 평가서 크기별 전 부문 1위",
+      "link": "https://www.yna.co.kr/view/AKR20261103158800003",
+      "pubDate": "Wed, 4 Nov 2026 08:01:00 +0900"
+    },
+    {
+      "title": "뉴욕 맨해튼에 '하동차문화관' 개관…세계시장 진출 거점 마련",
+      "link": "https://www.yna.co.kr/view/AKR20261104019700052",
+      "pubDate": "Wed, 4 Nov 2026 07:57:52 +0900"
+    },
+    {
+      "title": "[마켓뷰] 美중간선거 결과 주시…코스피, 美반도체 강세에 반등하나",
+      "link": "https://www.yna.co.kr/view/AKR20261104018800008",
+      "pubDate": "Wed, 4 Nov 2026 07:57:12 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261104014000011",
+      "pubDate": "Wed, 4 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[충남의 공론장] 신용 낮을수록 높은 이자…'기본금융'이 해법 될까",
+      "link": "https://www.yna.co.kr/view/AKR20261103117100063",
+      "pubDate": "Wed, 4 Nov 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[팩트체크] 포장지에 AI가 그린 과자 이미지…실물과 달라도 될까",
+      "link": "https://www.yna.co.kr/view/AKR20261030146000518",
+      "pubDate": "Wed, 4 Nov 2026 06:30:01 +0900"
+    },
+    {
+      "title": "송미령 농식품부 장관, 가락시장 찾아 김장재료 수급 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261103117700030",
+      "pubDate": "Wed, 4 Nov 2026 06:00:12 +0900"
+    },
+    {
+      "title": "대법 \"영업비밀 유출 전에 받은 돈도 범죄수익으로 추징 가능\"",
+      "link": "https://www.yna.co.kr/view/AKR20261103159500004",
+      "pubDate": "Wed, 4 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "title": "인베스트코리아서밋 개막…역대 최대 20억달러 투자 유치",
+      "link": "https://www.yna.co.kr/view/AKR20261103158200003",
+      "pubDate": "Wed, 4 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "title": "서울연구원, 한강의 과거·미래 담은 기획영상 유튜브에 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261103171500004",
+      "pubDate": "Wed, 4 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "title": "저신용자에 정부지원 대출 중개…수수료 50억 챙긴 일당 송치",
+      "link": "https://www.yna.co.kr/view/AKR20261103169100004",
+      "pubDate": "Wed, 4 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "10월 외환보유액 4천432억달러로 늘어…국제 순위 9위로↑",
+      "link": "https://www.yna.co.kr/view/AKR20261103169200002",
+      "pubDate": "Wed, 4 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "title": "국제유가, 종전 기대감에 하락세 지속…브렌트유 한달만에 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261104007500072",
+      "pubDate": "Wed, 4 Nov 2026 05:58:45 +0900"
+    },
+    {
+      "title": "바이낸스 해킹에 국내 가상자산거래소 배상 책임강화될까",
+      "link": "https://www.yna.co.kr/view/AKR20261103160500002",
+      "pubDate": "Wed, 4 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "title": "불법사금융예방대출 연체율 44%로 상승…연령대 낮을수록 높아",
+      "link": "https://www.yna.co.kr/view/AKR20261103165400002",
+      "pubDate": "Wed, 4 Nov 2026 05:51:00 +0900"
+    },
     {
       "title": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261103162451001",
@@ -52,106 +152,6 @@
       "title": "원주의료기기산업진흥원, 美 TEDCO와 협약…글로벌 투자망 구축",
       "link": "https://www.yna.co.kr/view/AKR20261103171000062",
       "pubDate": "Tue, 3 Nov 2026 18:01:09 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261103163600011",
-      "pubDate": "Tue, 3 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "\"비거주자 징벌\"·\"주거안정 목표\"…전문가도 부동산 세제 이견",
-      "link": "https://www.yna.co.kr/view/AKR20261103162400001",
-      "pubDate": "Tue, 3 Nov 2026 17:41:20 +0900"
-    },
-    {
-      "title": "예보, 금융계약자 보호 위원회 출범…\"사각지대 미리 찾아 보호\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103167500002",
-      "pubDate": "Tue, 3 Nov 2026 17:40:48 +0900"
-    },
-    {
-      "title": "농식품부, 가축 전염병 예방 강화…내년 스마트·AX 기술 도입(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261103080551030",
-      "pubDate": "Tue, 3 Nov 2026 17:33:58 +0900"
-    },
-    {
-      "title": "국민AI서비스혁신추진단, 민간 전문가 19명 공개 모집",
-      "link": "https://www.yna.co.kr/view/AKR20261103166200017",
-      "pubDate": "Tue, 3 Nov 2026 17:30:03 +0900"
-    },
-    {
-      "title": "경남 단감 중국 수출 검역 승인…연내 선적 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261103165100052",
-      "pubDate": "Tue, 3 Nov 2026 17:29:01 +0900"
-    },
-    {
-      "title": "삼성바이오에피스, 테바와 파트너십…최대 5천632억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261103162500017",
-      "pubDate": "Tue, 3 Nov 2026 17:28:27 +0900"
-    },
-    {
-      "title": "고양 덕이지구 16년 숙원 '중복 지적' 문제 해결 물꼬",
-      "link": "https://www.yna.co.kr/view/AKR20261103161000060",
-      "pubDate": "Tue, 3 Nov 2026 17:21:46 +0900"
-    },
-    {
-      "title": "비트맥스, 215억원 유상증자…한국첨단소재에 제3자배정",
-      "link": "https://www.yna.co.kr/view/AKR20261103159900008",
-      "pubDate": "Tue, 3 Nov 2026 17:06:01 +0900"
-    },
-    {
-      "title": "경제인협회, OECD 가입 30주년 만찬…\"글로벌 핵심 파트너로\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103157700003",
-      "pubDate": "Tue, 3 Nov 2026 17:00:12 +0900"
-    },
-    {
-      "title": "오세훈, 대통령 '집값 폭락 대비' 발언에 \"혼자 딴 세상사시나?\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103156500004",
-      "pubDate": "Tue, 3 Nov 2026 16:58:39 +0900"
-    },
-    {
-      "title": "국고채 금리, 위험회피 속 외국인 선물 매수에 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261103155151008",
-      "pubDate": "Tue, 3 Nov 2026 16:55:02 +0900"
-    },
-    {
-      "title": "[미래경제포럼] 롯데 \"한일 계열사 연계한 '원롯데'로 시장 공략 강화\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103126500898",
-      "pubDate": "Tue, 3 Nov 2026 16:51:52 +0900"
-    },
-    {
-      "title": "경주시, 어촌마을 지경항·수렴항 정주여건 개선…100억 투입",
-      "link": "https://www.yna.co.kr/view/AKR20261103154700053",
-      "pubDate": "Tue, 3 Nov 2026 16:45:36 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.736%",
-      "link": "https://www.yna.co.kr/view/AKR20261103155100008",
-      "pubDate": "Tue, 3 Nov 2026 16:42:28 +0900"
-    },
-    {
-      "title": "경기 10개 시 그린벨트 토지거래허가구역 324㎢ 해제",
-      "link": "https://www.yna.co.kr/view/AKR20261103145600061",
-      "pubDate": "Tue, 3 Nov 2026 16:36:39 +0900"
-    },
-    {
-      "title": "금감원, '자료 조작·검사 방해' NH농협銀에 '기관경고' 중징계",
-      "link": "https://www.yna.co.kr/view/AKR20261103154000002",
-      "pubDate": "Tue, 3 Nov 2026 16:36:23 +0900"
-    },
-    {
-      "title": "금융위 \"취약계층 대상 민생지킴대출, 고소득자 지원 없을 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103145400002",
-      "pubDate": "Tue, 3 Nov 2026 16:34:30 +0900"
-    },
-    {
-      "title": "한투증권, 회사채 수요예측에 6배 몰려…한화생명 1.25배(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261103146951008",
-      "pubDate": "Tue, 3 Nov 2026 16:32:31 +0900"
-    },
-    {
-      "title": "[미래경제포럼] 뤼튼 이세영 \"한일, 대규모 투자로 AI 스타트업 육성해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261103151100017",
-      "pubDate": "Tue, 3 Nov 2026 16:30:05 +0900"
     }
   ]
 }
