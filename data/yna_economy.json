@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793704019,
+  "updated_at_unix": 1793730609,
   "items": [
+    {
+      "title": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261103162451001",
+      "pubDate": "Tue, 3 Nov 2026 20:10:23 +0900"
+    },
+    {
+      "title": "한·튀르키예 FTA 공동위, 정상회담 계기 장관급 격상",
+      "link": "https://www.yna.co.kr/view/AKR20261103181700003",
+      "pubDate": "Tue, 3 Nov 2026 20:09:13 +0900"
+    },
     {
       "title": "서울 아파트 거래 줄고 매물 늘어…부동산 상승세 멈출까",
       "link": "https://www.yna.co.kr/view/AKR20261103179900003",
@@ -142,16 +152,6 @@
       "title": "[미래경제포럼] 뤼튼 이세영 \"한일, 대규모 투자로 AI 스타트업 육성해야\"",
       "link": "https://www.yna.co.kr/view/AKR20261103151100017",
       "pubDate": "Tue, 3 Nov 2026 16:30:05 +0900"
-    },
-    {
-      "title": "송파구, '방이동 복합개발' 부지 부분 매각 방식 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261103149300004",
-      "pubDate": "Tue, 3 Nov 2026 16:24:48 +0900"
-    },
-    {
-      "title": "[게시판] 소비자원, 소비자지향성 개선과제 공모전 시상식",
-      "link": "https://www.yna.co.kr/view/AKR20261103148000030",
-      "pubDate": "Tue, 3 Nov 2026 16:23:50 +0900"
     }
   ]
 }
