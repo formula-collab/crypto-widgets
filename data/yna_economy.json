@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793893163,
+  "updated_at_unix": 1793914730,
   "items": [
+    {
+      "title": "민간공급 속도…국토부, 주택공급 통합지원센터 국장급으로 신설",
+      "link": "https://www.yna.co.kr/view/AKR20261105137700003",
+      "pubDate": "Fri, 6 Nov 2026 06:01:01 +0900"
+    },
+    {
+      "title": "공공기관 공간정보 품질관리 수준 작년보다 16% 향상",
+      "link": "https://www.yna.co.kr/view/AKR20261105149100003",
+      "pubDate": "Fri, 6 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "'금리동결 반대' 연준 위원 \"긴축 필요…작고 잦은 조정 선호\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106006000072",
+      "pubDate": "Fri, 6 Nov 2026 04:57:16 +0900"
+    },
+    {
+      "title": "영국, 3년만에 금리 인상…BOE 총재 \"추가 인상도 가능\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261105179053085",
+      "pubDate": "Fri, 6 Nov 2026 01:04:14 +0900"
+    },
     {
       "title": "삼성바이오 노조, 오늘부터 부분파업 돌입",
       "link": "https://www.yna.co.kr/view/AKR20261105153700017",
@@ -132,26 +152,6 @@
       "title": "부산형 AI 기반 스마트 상수도 모델, 아프리카 첫 진출",
       "link": "https://www.yna.co.kr/view/AKR20261105150200051",
       "pubDate": "Thu, 5 Nov 2026 16:46:12 +0900"
-    },
-    {
-      "title": "미국 CCIA, 한국 플랫폼 규제·과징금에 문제 제기",
-      "link": "https://www.yna.co.kr/view/AKR20261105146700017",
-      "pubDate": "Thu, 5 Nov 2026 16:44:38 +0900"
-    },
-    {
-      "title": "춘천시, 민생경제 회복 총력…규제완화·상권 활성화 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261105148200062",
-      "pubDate": "Thu, 5 Nov 2026 16:40:46 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.669%",
-      "link": "https://www.yna.co.kr/view/AKR20261105151200008",
-      "pubDate": "Thu, 5 Nov 2026 16:40:41 +0900"
-    },
-    {
-      "title": "민주노총 \"초광역특구법은 '재벌 특혜법'…원점서 재논의해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261105146200530",
-      "pubDate": "Thu, 5 Nov 2026 16:28:46 +0900"
     }
   ]
 }
