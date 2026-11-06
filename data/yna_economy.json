@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1793982359,
+  "updated_at_unix": 1794001223,
   "items": [
+    {
+      "title": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
+      "link": "https://www.yna.co.kr/view/AKR20261106022200017",
+      "pubDate": "Sat, 7 Nov 2026 06:33:00 +0900"
+    },
+    {
+      "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
+      "link": "https://www.yna.co.kr/view/AKR20261106149600003",
+      "pubDate": "Sat, 7 Nov 2026 06:01:01 +0900"
+    },
+    {
+      "title": "법원 \"승진 약속 안 지킨 전 파주시장 퇴직 직원에 배상해야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106103200060",
+      "pubDate": "Sat, 7 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "title": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
+      "link": "https://www.yna.co.kr/view/AKR20261106175000003",
+      "pubDate": "Sat, 7 Nov 2026 06:00:01 +0900"
+    },
     {
       "title": "증권사들, 신용융자 담보비율 인하·반대매매 유예…급락장 대응",
       "link": "https://www.yna.co.kr/view/AKR20261106190300008",
@@ -132,26 +152,6 @@
       "title": "'현대차 로봇 밸류체인 투자' 등 ETF 6종, 10일 신규 상장",
       "link": "https://www.yna.co.kr/view/AKR20261106143100008",
       "pubDate": "Fri, 6 Nov 2026 16:32:42 +0900"
-    },
-    {
-      "title": "국산 단감, 중국 첫 수출…17년 검역협상 끝에 수출길 열려",
-      "link": "https://www.yna.co.kr/view/AKR20261106084700030",
-      "pubDate": "Fri, 6 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "전남광주시 수의직 8명 채용공고에 고작 2명 선발",
-      "link": "https://www.yna.co.kr/view/AKR20261106136400054",
-      "pubDate": "Fri, 6 Nov 2026 16:18:25 +0900"
-    },
-    {
-      "title": "[프로필] 안덕수 국세청장 후보자…경험·성품 겸비한 '조사통'",
-      "link": "https://www.yna.co.kr/view/AKR20261106139300002",
-      "pubDate": "Fri, 6 Nov 2026 16:17:58 +0900"
-    },
-    {
-      "title": "한미약품, 비만 주사·식단 관리 앱 '에피데이' 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261106137300017",
-      "pubDate": "Fri, 6 Nov 2026 16:17:54 +0900"
     }
   ]
 }
