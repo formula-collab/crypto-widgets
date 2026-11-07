@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794001223,
+  "updated_at_unix": 1794014620,
   "items": [
+    {
+      "title": "태백시, 공공이불빨래방 3호점 추진…취약계층 돌봄 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261106140000062",
+      "pubDate": "Sat, 7 Nov 2026 10:10:01 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 신약 경쟁 치열한데…정부 R&D 투자 2년째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261106161400017",
+      "pubDate": "Sat, 7 Nov 2026 10:00:05 +0900"
+    },
+    {
+      "title": "성남시, 내년 장애인 252명에 공공일자리 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261106164400061",
+      "pubDate": "Sat, 7 Nov 2026 10:00:04 +0900"
+    },
+    {
+      "title": "[다음주 경제] 금융권 가계대출 다시 늘었나",
+      "link": "https://www.yna.co.kr/view/AKR20261107017800002",
+      "pubDate": "Sat, 7 Nov 2026 09:02:25 +0900"
+    },
+    {
+      "title": "금융연 \"금융회사 대주주 심사, 평판·전문성까지 살펴야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261106166300002",
+      "pubDate": "Sat, 7 Nov 2026 09:00:01 +0900"
+    },
+    {
+      "title": "해킹 대책 문제없나…미래에셋증권도 3만9천여명 정보유출(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261107014452008",
+      "pubDate": "Sat, 7 Nov 2026 08:35:34 +0900"
+    },
+    {
+      "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261106030800051",
+      "pubDate": "Sat, 7 Nov 2026 08:30:01 +0900"
+    },
+    {
+      "title": "철도역 입점 매장 음식값, 한번 올릴때 평균 12.5% 올렸다",
+      "link": "https://www.yna.co.kr/view/AKR20261106149100063",
+      "pubDate": "Sat, 7 Nov 2026 08:00:03 +0900"
+    },
+    {
+      "title": "미래에셋증권도 해킹…고객 3천800여명·임직원 3만5천여명 정보 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261107014451008",
+      "pubDate": "Sat, 7 Nov 2026 07:56:17 +0900"
+    },
+    {
+      "title": "[속보] 미래에셋증권도 해킹…고객·임직원 정보 일부 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261107014400008",
+      "pubDate": "Sat, 7 Nov 2026 07:36:50 +0900"
+    },
+    {
+      "title": "[신상잇슈] 오리온 '닥터유 단백질바 저당'·bhc '양념킹'",
+      "link": "https://www.yna.co.kr/view/AKR20261106092500030",
+      "pubDate": "Sat, 7 Nov 2026 07:00:15 +0900"
+    },
+    {
+      "title": "[금주핫템] 휠라 '에어플로우 다운'·K2 '솔라스피어'",
+      "link": "https://www.yna.co.kr/view/AKR20261103117600030",
+      "pubDate": "Sat, 7 Nov 2026 07:00:13 +0900"
+    },
     {
       "title": "[AI돋보기] 한국도 일본도 뚫렸다…고객정보 샌 '작은 문'",
       "link": "https://www.yna.co.kr/view/AKR20261106022200017",
@@ -24,7 +84,7 @@
       "pubDate": "Sat, 7 Nov 2026 06:00:01 +0900"
     },
     {
-      "title": "증권사들, 신용융자 담보비율 인하·반대매매 유예…급락장 대응",
+      "title": "증권사들, 신용융자 담보비율↓·반대매매 유예…'빚투 강제처분 완화' 호응",
       "link": "https://www.yna.co.kr/view/AKR20261106190300008",
       "pubDate": "Fri, 6 Nov 2026 22:46:04 +0900"
     },
@@ -92,66 +152,6 @@
       "title": "서울서 한일 경제 라운드테이블…AI시대 경제협력 고도화 논의",
       "link": "https://www.yna.co.kr/view/AKR20261106154700003",
       "pubDate": "Fri, 6 Nov 2026 17:04:28 +0900"
-    },
-    {
-      "title": "[동정] 김종구 농식품부 차관, 강진군 찾아 고병원성 AI 방역 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261106111200030",
-      "pubDate": "Fri, 6 Nov 2026 17:00:00 +0900"
-    },
-    {
-      "title": "\"AI 붕괴 아니다, 수급 불안에 낙폭 확대\"…증시급락 전문가 긴급진단(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261106085251008",
-      "pubDate": "Fri, 6 Nov 2026 16:58:31 +0900"
-    },
-    {
-      "title": "효성화학 \"오로라동반성장프로젝트펀드제3호에 196억 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106151900008",
-      "pubDate": "Fri, 6 Nov 2026 16:53:06 +0900"
-    },
-    {
-      "title": "국고채 금리, 주가 급락 속 위험회피에 하락세 지속(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261106148851008",
-      "pubDate": "Fri, 6 Nov 2026 16:53:02 +0900"
-    },
-    {
-      "title": "10년 제자리 대구 서문시장 4지구 재건축, 수용 절차 밟는다",
-      "link": "https://www.yna.co.kr/view/AKR20261106132800053",
-      "pubDate": "Fri, 6 Nov 2026 16:52:27 +0900"
-    },
-    {
-      "title": "669개종목 연중 최저가·코스피 이틀간 11% 폭락…숫자로 본 증시급락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261106071651008",
-      "pubDate": "Fri, 6 Nov 2026 16:52:04 +0900"
-    },
-    {
-      "title": "'400억 투입' 광주 노사동반성장지원센터 입주 업체 없어",
-      "link": "https://www.yna.co.kr/view/AKR20261106145600054",
-      "pubDate": "Fri, 6 Nov 2026 16:50:29 +0900"
-    },
-    {
-      "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106149800002",
-      "pubDate": "Fri, 6 Nov 2026 16:44:06 +0900"
-    },
-    {
-      "title": "팬스타, 북극항로 다녀온 '아크로호' 매각·임대 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261106147100051",
-      "pubDate": "Fri, 6 Nov 2026 16:40:48 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.613%",
-      "link": "https://www.yna.co.kr/view/AKR20261106148800008",
-      "pubDate": "Fri, 6 Nov 2026 16:40:29 +0900"
-    },
-    {
-      "title": "\"호황기 세수로 경직성 지출…미래기금 운용·감독 한곳에 집중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106146200002",
-      "pubDate": "Fri, 6 Nov 2026 16:38:47 +0900"
-    },
-    {
-      "title": "'현대차 로봇 밸류체인 투자' 등 ETF 6종, 10일 신규 상장",
-      "link": "https://www.yna.co.kr/view/AKR20261106143100008",
-      "pubDate": "Fri, 6 Nov 2026 16:32:42 +0900"
     }
   ]
 }
