@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794014620,
+  "updated_at_unix": 1794036269,
   "items": [
+    {
+      "title": "세계식량가격지수 하락 전환…곡물·육류·유제품 내려",
+      "link": "https://www.yna.co.kr/view/AKR20261107034800030",
+      "pubDate": "Sat, 7 Nov 2026 14:52:59 +0900"
+    },
+    {
+      "title": "농식품부, 우리술 품평회 수상작 국내외 판로 확대 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261106142200030",
+      "pubDate": "Sat, 7 Nov 2026 13:00:01 +0900"
+    },
+    {
+      "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261107014453008",
+      "pubDate": "Sat, 7 Nov 2026 12:47:45 +0900"
+    },
+    {
+      "title": "경남도·창원시, 전국 최초로 중국에 단감 수출",
+      "link": "https://www.yna.co.kr/view/AKR20261107029500052",
+      "pubDate": "Sat, 7 Nov 2026 12:03:49 +0900"
+    },
+    {
+      "title": "송미령 장관, '푸드위크 코리아' 방문…\"K푸드 지속 성장 지원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107027400030",
+      "pubDate": "Sat, 7 Nov 2026 12:00:01 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261107025000011",
+      "pubDate": "Sat, 7 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "title": "토스, 여성공학인 성장지원 우수기업 산업통상부 장관상",
+      "link": "https://www.yna.co.kr/view/AKR20261107024700017",
+      "pubDate": "Sat, 7 Nov 2026 10:25:18 +0900"
+    },
     {
       "title": "태백시, 공공이불빨래방 3호점 추진…취약계층 돌봄 확대",
       "link": "https://www.yna.co.kr/view/AKR20261106140000062",
@@ -117,41 +152,6 @@
       "title": "국세청장 후보자 \"국민 기대 부응하는 공정세정 구현\"",
       "link": "https://www.yna.co.kr/view/AKR20261106172500002",
       "pubDate": "Fri, 6 Nov 2026 18:13:15 +0900"
-    },
-    {
-      "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261106171100030",
-      "pubDate": "Fri, 6 Nov 2026 18:07:31 +0900"
-    },
-    {
-      "title": "노동부·금감원, 퇴직연금사업자 간담회…\"가입자 이익 최우선\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106124400530",
-      "pubDate": "Fri, 6 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261106160400011",
-      "pubDate": "Fri, 6 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, '2026 글로벌 푸드테크 기술 표준화 심포지엄' 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261106114200030",
-      "pubDate": "Fri, 6 Nov 2026 17:30:00 +0900"
-    },
-    {
-      "title": "피노 \"종속회사 주식 510억원어치 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106157200008",
-      "pubDate": "Fri, 6 Nov 2026 17:11:01 +0900"
-    },
-    {
-      "title": "단일 레버리지 우수수 추락…SK하이닉스 ETF 고점대비 90% 폭락",
-      "link": "https://www.yna.co.kr/view/AKR20261106155400008",
-      "pubDate": "Fri, 6 Nov 2026 17:08:31 +0900"
-    },
-    {
-      "title": "서울서 한일 경제 라운드테이블…AI시대 경제협력 고도화 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261106154700003",
-      "pubDate": "Fri, 6 Nov 2026 17:04:28 +0900"
     }
   ]
 }
