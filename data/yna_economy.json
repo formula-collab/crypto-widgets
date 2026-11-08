@@ -1,8 +1,143 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794101749,
+  "updated_at_unix": 1794125594,
   "items": [
+    {
+      "title": "LH \"공공이 개발사업 시행하면 속도 빨라지고 부정부패 줄어\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108031800003",
+      "pubDate": "Sun, 8 Nov 2026 15:18:44 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261108028500011",
+      "pubDate": "Sun, 8 Nov 2026 15:00:02 +0900"
+    },
+    {
+      "title": "중기중앙회, 2027년 신입직원 26명 공모…직무역량평가 도입",
+      "link": "https://www.yna.co.kr/view/AKR20261106141900030",
+      "pubDate": "Sun, 8 Nov 2026 12:00:09 +0900"
+    },
+    {
+      "title": "고용보험 부정수급 자진신고하면 추가징수 면제…제보시 포상금",
+      "link": "https://www.yna.co.kr/view/AKR20261106164300530",
+      "pubDate": "Sun, 8 Nov 2026 12:00:07 +0900"
+    },
+    {
+      "title": "농심, 부산 녹산 공장 가동…연간 수출 공급능력 12억개로 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261107030900030",
+      "pubDate": "Sun, 8 Nov 2026 12:00:06 +0900"
+    },
+    {
+      "title": "[르포] 당일 튀긴 신라면 짊어진 '라면 거북이'…구미라면축제 '펄펄'",
+      "link": "https://www.yna.co.kr/view/AKR20261107030300030",
+      "pubDate": "Sun, 8 Nov 2026 12:00:05 +0900"
+    },
+    {
+      "title": "[게시판] 금감원, 9∼12일 '국방 재정 담당자 금융연수'",
+      "link": "https://www.yna.co.kr/view/AKR20261107025300002",
+      "pubDate": "Sun, 8 Nov 2026 12:00:05 +0900"
+    },
+    {
+      "title": "금감원, 내년 1월말까지 증권사 신용공여 담보비율유지의무 면제",
+      "link": "https://www.yna.co.kr/view/AKR20261107033900002",
+      "pubDate": "Sun, 8 Nov 2026 12:00:04 +0900"
+    },
+    {
+      "title": "'화석연료→전기' 추진기업 10곳 중 3곳뿐…\"비용 부담 줄여야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108015200003",
+      "pubDate": "Sun, 8 Nov 2026 12:00:02 +0900"
+    },
+    {
+      "title": "전태일 열사가 현행 근로기준법 평가한다면?…\"100점 중 49.9점\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108022000004",
+      "pubDate": "Sun, 8 Nov 2026 12:00:02 +0900"
+    },
+    {
+      "title": "미래금융 모습은…코리아 핀테크 위크 25일 개막",
+      "link": "https://www.yna.co.kr/view/AKR20261108023300002",
+      "pubDate": "Sun, 8 Nov 2026 12:00:02 +0900"
+    },
+    {
+      "title": "현대百·한국콜마, 호주 한류박람회서 K뷰티·패션 브랜드 알려(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261108018551030",
+      "pubDate": "Sun, 8 Nov 2026 11:28:32 +0900"
+    },
+    {
+      "title": "베트남 인건비 4.5배 올랐지만…한국 진출기업 92% \"철수 안해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108022200003",
+      "pubDate": "Sun, 8 Nov 2026 11:22:22 +0900"
+    },
+    {
+      "title": "서울시, 정비사업 속도낸 자치구·조합 포상…\"31만호 달성 뒷받침\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108013100004",
+      "pubDate": "Sun, 8 Nov 2026 11:15:02 +0900"
+    },
+    {
+      "title": "군산항 4·5부두 침수 위험 줄이고 내진 성능 강화",
+      "link": "https://www.yna.co.kr/view/AKR20261106158500051",
+      "pubDate": "Sun, 8 Nov 2026 11:00:07 +0900"
+    },
+    {
+      "title": "'해양정보 디지털 전환' 국제기구 인프라센터, 한국에 짓는다",
+      "link": "https://www.yna.co.kr/view/AKR20261106166700051",
+      "pubDate": "Sun, 8 Nov 2026 11:00:07 +0900"
+    },
+    {
+      "title": "급증 사업소득자 10명 중 9명 '가짜 3.3'…고령자 위장고용 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261106153800530",
+      "pubDate": "Sun, 8 Nov 2026 11:00:06 +0900"
+    },
+    {
+      "title": "해수부, 가거도·감천항 실시간 풍랑·너울 정보 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261106184700051",
+      "pubDate": "Sun, 8 Nov 2026 11:00:06 +0900"
+    },
+    {
+      "title": "김한민 감독의 바다 이야기…'K-오션 MOOC' 신규 강좌 5편",
+      "link": "https://www.yna.co.kr/view/AKR20261106184800051",
+      "pubDate": "Sun, 8 Nov 2026 11:00:05 +0900"
+    },
+    {
+      "title": "정부, 어업 분야 외국인 계절노동자 인권 실태 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261106149200030",
+      "pubDate": "Sun, 8 Nov 2026 11:00:05 +0900"
+    },
+    {
+      "title": "농식품부, 내년부터 '농업·농촌문제 해결 R&D 사업' 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261106176900030",
+      "pubDate": "Sun, 8 Nov 2026 11:00:04 +0900"
+    },
+    {
+      "title": "농식품부, 내년 식품외식산업전망…\"건강·가치 소비 확산\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107044400030",
+      "pubDate": "Sun, 8 Nov 2026 11:00:03 +0900"
+    },
+    {
+      "title": "농식품부, '우리술 대축제' 13일 개막…142개 양조장 참가",
+      "link": "https://www.yna.co.kr/view/AKR20261107041300030",
+      "pubDate": "Sun, 8 Nov 2026 11:00:02 +0900"
+    },
+    {
+      "title": "\"K-콘텐츠 저작권 수출 10% 늘면 관련 상품 수출 3.7% 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107048700002",
+      "pubDate": "Sun, 8 Nov 2026 11:00:02 +0900"
+    },
+    {
+      "title": "K-소비재, 대양주 공략…호주 한류박람회서 1천800만달러 계약",
+      "link": "https://www.yna.co.kr/view/AKR20261108014500003",
+      "pubDate": "Sun, 8 Nov 2026 11:00:01 +0900"
+    },
+    {
+      "title": "한국콜마, 호주 멜버른 한류박람회서 68억원 규모 수출 상담",
+      "link": "https://www.yna.co.kr/view/AKR20261108018500030",
+      "pubDate": "Sun, 8 Nov 2026 11:00:01 +0900"
+    },
+    {
+      "title": "지역 농산물부터 빵 맛집…유통업계, 온라인 기획전 잇따라",
+      "link": "https://www.yna.co.kr/view/AKR20261108019300030",
+      "pubDate": "Sun, 8 Nov 2026 10:48:42 +0900"
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261108017400011",
@@ -17,141 +152,6 @@
       "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
       "link": "https://www.yna.co.kr/view/AKR20261106065600057",
       "pubDate": "Sun, 8 Nov 2026 10:10:01 +0900"
-    },
-    {
-      "title": "CU, 겨울철 겨냥 '딥핑·멜팅 치즈' 간편식 출시",
-      "link": "https://www.yna.co.kr/view/AKR20261108016200030",
-      "pubDate": "Sun, 8 Nov 2026 09:57:49 +0900"
-    },
-    {
-      "title": "CJ푸드빌 빕스, 잠실에 '그릴 다이닝' 매장 개점…연내 8곳 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261108014200030",
-      "pubDate": "Sun, 8 Nov 2026 09:15:11 +0900"
-    },
-    {
-      "title": "\"제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산\"",
-      "link": "https://www.yna.co.kr/view/AKR20261108013000003",
-      "pubDate": "Sun, 8 Nov 2026 09:09:51 +0900"
-    },
-    {
-      "title": "광주송정역·금호타이어공장 일대 '반도체 관문도시' 조성",
-      "link": "https://www.yna.co.kr/view/AKR20261106086200054",
-      "pubDate": "Sun, 8 Nov 2026 09:02:01 +0900"
-    },
-    {
-      "title": "'군포 복합물류터미널 이전 촉구' 범시민추진위 출범",
-      "link": "https://www.yna.co.kr/view/AKR20261106145700061",
-      "pubDate": "Sun, 8 Nov 2026 09:00:05 +0900"
-    },
-    {
-      "title": "'232억 펀드 불완전판매' 증권사 임원 감봉…법원 \"과도한 제재\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106182900004",
-      "pubDate": "Sun, 8 Nov 2026 09:00:02 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 국민대 산학협력단과 대한천일은행 학술대회",
-      "link": "https://www.yna.co.kr/view/AKR20261107048800002",
-      "pubDate": "Sun, 8 Nov 2026 09:00:00 +0900"
-    },
-    {
-      "title": "무보, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261108012300003",
-      "pubDate": "Sun, 8 Nov 2026 08:54:48 +0900"
-    },
-    {
-      "title": "경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기",
-      "link": "https://www.yna.co.kr/view/AKR20261108006100003",
-      "pubDate": "Sun, 8 Nov 2026 08:47:05 +0900"
-    },
-    {
-      "title": "세븐일레븐, 소용량 '원핸드 간편식' 확대…'스몰 밀' 소비 겨냥",
-      "link": "https://www.yna.co.kr/view/AKR20261108011100030",
-      "pubDate": "Sun, 8 Nov 2026 08:35:48 +0900"
-    },
-    {
-      "title": "양산시 3년간 수의계약 1만4천건·특정업체 136건…\"쏠림 심각\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106108500052",
-      "pubDate": "Sun, 8 Nov 2026 08:35:00 +0900"
-    },
-    {
-      "title": "농지 전수조사 이후 농지 경매 낙찰률·낙찰가율 동반 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261107051300030",
-      "pubDate": "Sun, 8 Nov 2026 08:28:21 +0900"
-    },
-    {
-      "title": "\"안방 넘어 세계로\"…서부경남 지자체, 농특산물 수출 다각화",
-      "link": "https://www.yna.co.kr/view/AKR20261106127500052",
-      "pubDate": "Sun, 8 Nov 2026 08:25:00 +0900"
-    },
-    {
-      "title": "미국발 AI 데이터센터 불안…국내 업계 \"사업 추진 문제없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261106091800017",
-      "pubDate": "Sun, 8 Nov 2026 08:13:00 +0900"
-    },
-    {
-      "title": "'LH 불참 비상' 반도체 배후도시 조성에 광주도시공사 참여",
-      "link": "https://www.yna.co.kr/view/AKR20261106054700054",
-      "pubDate": "Sun, 8 Nov 2026 08:10:00 +0900"
-    },
-    {
-      "title": "매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 '빨간불'",
-      "link": "https://www.yna.co.kr/view/AKR20261106192400030",
-      "pubDate": "Sun, 8 Nov 2026 07:33:00 +0900"
-    },
-    {
-      "title": "우주청, 또 부지 검증 미흡…민간 연소시험시설도 차질",
-      "link": "https://www.yna.co.kr/view/AKR20261106140500017",
-      "pubDate": "Sun, 8 Nov 2026 07:13:00 +0900"
-    },
-    {
-      "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
-      "link": "https://www.yna.co.kr/view/AKR20261106115900546",
-      "pubDate": "Sun, 8 Nov 2026 07:07:00 +0900"
-    },
-    {
-      "title": "K-라면 수출 역대 최대 훈풍에…전국 '라면 기지'서 축제 잇따라",
-      "link": "https://www.yna.co.kr/view/AKR20261107024300030",
-      "pubDate": "Sun, 8 Nov 2026 07:00:03 +0900"
-    },
-    {
-      "title": "[르포] '새집' 첫걸음 뗀 동자동 쪽방촌 마을잔치…떠난 180명 추모도",
-      "link": "https://www.yna.co.kr/view/AKR20261107053200004",
-      "pubDate": "Sun, 8 Nov 2026 07:00:01 +0900"
-    },
-    {
-      "title": "방한객 2천만명 시대의 그늘…9월 관광수지 5억달러 적자",
-      "link": "https://www.yna.co.kr/view/AKR20261107042100030",
-      "pubDate": "Sun, 8 Nov 2026 06:50:00 +0900"
-    },
-    {
-      "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점",
-      "link": "https://www.yna.co.kr/view/AKR20261107048600008",
-      "pubDate": "Sun, 8 Nov 2026 06:40:00 +0900"
-    },
-    {
-      "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중",
-      "link": "https://www.yna.co.kr/view/AKR20261106190600008",
-      "pubDate": "Sun, 8 Nov 2026 06:35:01 +0900"
-    },
-    {
-      "title": "급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가",
-      "link": "https://www.yna.co.kr/view/AKR20261106189100008",
-      "pubDate": "Sun, 8 Nov 2026 06:25:01 +0900"
-    },
-    {
-      "title": "외국인 ETF도 결국 팔았다…지난달 마지막주 12주만에 순매도 전환",
-      "link": "https://www.yna.co.kr/view/AKR20261107026600008",
-      "pubDate": "Sun, 8 Nov 2026 06:20:00 +0900"
-    },
-    {
-      "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261107026400008",
-      "pubDate": "Sun, 8 Nov 2026 06:10:00 +0900"
-    },
-    {
-      "title": "AI 해킹에 기존 방어망 뚫리나…금융권 보안 '경고등'",
-      "link": "https://www.yna.co.kr/view/AKR20261107032100017",
-      "pubDate": "Sun, 8 Nov 2026 06:05:24 +0900"
     }
   ]
 }
