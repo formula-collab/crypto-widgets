@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794125594,
+  "updated_at_unix": 1794151505,
   "items": [
+    {
+      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261108048252001",
+      "pubDate": "Sun, 8 Nov 2026 21:24:39 +0900"
+    },
+    {
+      "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"",
+      "link": "https://www.yna.co.kr/view/AKR20261108048251001",
+      "pubDate": "Sun, 8 Nov 2026 19:50:12 +0900"
+    },
     {
       "title": "LH \"공공이 개발사업 시행하면 속도 빨라지고 부정부패 줄어\"",
       "link": "https://www.yna.co.kr/view/AKR20261108031800003",
@@ -142,16 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261108017400011",
       "pubDate": "Sun, 8 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "title": "오세훈 \"국민연금으로 지방선거용 주식도박…李대통령 사과해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261108016700004",
-      "pubDate": "Sun, 8 Nov 2026 10:16:24 +0900"
-    },
-    {
-      "title": "울주군 내년 장애인일자리사업 참여자 모집…18세 이상 미취업자",
-      "link": "https://www.yna.co.kr/view/AKR20261106065600057",
-      "pubDate": "Sun, 8 Nov 2026 10:10:01 +0900"
     }
   ]
 }
