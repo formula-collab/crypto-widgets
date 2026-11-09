@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794220277,
+  "updated_at_unix": 1794258589,
   "items": [
+    {
+      "title": "중기부, '글로벌 육성' 기업 수출 706만달러…전년比 56% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261109117000030",
+      "pubDate": "Tue, 10 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "title": "농경연 \"김장비용 4% 안팎 줄어…상품 김치 구매 비중은 증가\"",
+      "link": "https://www.yna.co.kr/view/AKR20261109136900030",
+      "pubDate": "Tue, 10 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "서울시, 디딤돌소득 3년 성과 공개…23일 시민 참여 보고회",
+      "link": "https://www.yna.co.kr/view/AKR20261109137900004",
+      "pubDate": "Tue, 10 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "서비스 수출실적 증명 편리하게…무역협회 등 6개 기관 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261109140300003",
+      "pubDate": "Tue, 10 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "title": "취준생 77% \"취업에 AI 역량 중요\"…공식 평가하는 기업은 20%",
+      "link": "https://www.yna.co.kr/view/AKR20261109146900003",
+      "pubDate": "Tue, 10 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "title": "백화점 3사, 겨울 정기세일…한파 대비 외투·신상 할인 판매",
+      "link": "https://www.yna.co.kr/view/AKR20261109149300030",
+      "pubDate": "Tue, 10 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "title": "미래기금에 \"중복 투자 우려\" 등 반대 입법의견 다수 제기돼",
+      "link": "https://www.yna.co.kr/view/AKR20261109151800002",
+      "pubDate": "Tue, 10 Nov 2026 05:53:05 +0900"
+    },
+    {
+      "title": "소상공인 대출 연체 3분기째 증가…매출·이익도 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261109142400002",
+      "pubDate": "Tue, 10 Nov 2026 05:51:00 +0900"
+    },
+    {
+      "title": "새 빈틈 노린 해커…금융 플랫폼 통해 법카 부정결제 잇단 시도",
+      "link": "https://www.yna.co.kr/view/AKR20261109157200002",
+      "pubDate": "Mon, 9 Nov 2026 21:35:34 +0900"
+    },
+    {
+      "title": "파리바게뜨, 16일부터 제조 음료 10종 가격 평균 2.7% 인상",
+      "link": "https://www.yna.co.kr/view/AKR20261109156300030",
+      "pubDate": "Mon, 9 Nov 2026 20:49:34 +0900"
+    },
+    {
+      "title": "\"업종별 하위 25%·할증률 40%로\"…'주가 누르기' 정부안 보완론(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261109147051002",
+      "pubDate": "Mon, 9 Nov 2026 20:26:16 +0900"
+    },
+    {
+      "title": "삼성화재, 英캐노피우스 지분 추가인수…해외사업 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261109153600002",
+      "pubDate": "Mon, 9 Nov 2026 19:31:51 +0900"
+    },
     {
       "title": "조의장 \"체감경기 회복 더뎌…선순환 회복이 조세정책 역할\"",
       "link": "https://www.yna.co.kr/view/AKR20261109148000001",
@@ -92,66 +152,6 @@
       "title": "체시스, 60억원 제3자배정 유상증자",
       "link": "https://www.yna.co.kr/view/AKR20261109136300008",
       "pubDate": "Mon, 9 Nov 2026 16:58:02 +0900"
-    },
-    {
-      "title": "美 고용지표 영향에 국고채 금리 일제히↑…3년물 연 3.639%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261109131651008",
-      "pubDate": "Mon, 9 Nov 2026 16:57:12 +0900"
-    },
-    {
-      "title": "금융위 \"우대금리 축소 행태, 연말까지 금감원과 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20261109128300001",
-      "pubDate": "Mon, 9 Nov 2026 16:52:05 +0900"
-    },
-    {
-      "title": "환율, 달러 강세에도 1,340원대로…4거래일만에 하락",
-      "link": "https://www.yna.co.kr/view/AKR20261109121300002",
-      "pubDate": "Mon, 9 Nov 2026 16:41:22 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 상승…3년물 연 3.639%",
-      "link": "https://www.yna.co.kr/view/AKR20261109131600008",
-      "pubDate": "Mon, 9 Nov 2026 16:40:41 +0900"
-    },
-    {
-      "title": "중기중앙회, '2차 소상공유통산업위'서 규제 해소·상생안 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261109096200030",
-      "pubDate": "Mon, 9 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "급락후 韓증시만 반등 못했다…수급 공백·밋밋한 실적에 발목",
-      "link": "https://www.yna.co.kr/view/AKR20261109098700008",
-      "pubDate": "Mon, 9 Nov 2026 16:26:12 +0900"
-    },
-    {
-      "title": "[여주소식] 농업인의 날 맞아 11일부터 지역 농산물 20% 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261109128400061",
-      "pubDate": "Mon, 9 Nov 2026 16:26:03 +0900"
-    },
-    {
-      "title": "보험금 타내려 본인 소유 창고에 불 지른 60대 징역 3년",
-      "link": "https://www.yna.co.kr/view/AKR20261109127100063",
-      "pubDate": "Mon, 9 Nov 2026 16:19:22 +0900"
-    },
-    {
-      "title": "삼전닉스 반등에도 코스피는 0.8% 또 하락…'5천피'는 사수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261109117751008",
-      "pubDate": "Mon, 9 Nov 2026 16:18:25 +0900"
-    },
-    {
-      "title": "한춘옥 통합시의원 \"전남형 청년창업사관학교 교육과정 부실\"",
-      "link": "https://www.yna.co.kr/view/AKR20261109124500054",
-      "pubDate": "Mon, 9 Nov 2026 16:18:12 +0900"
-    },
-    {
-      "title": "스피어 \"싱가포르 종속회사 주식 95억에 추가취득…지분율 100%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261109126100008",
-      "pubDate": "Mon, 9 Nov 2026 16:12:02 +0900"
-    },
-    {
-      "title": "광주상의, 내년 3천500명 인력양성·350명 일자리창출",
-      "link": "https://www.yna.co.kr/view/AKR20261109120700054",
-      "pubDate": "Mon, 9 Nov 2026 16:07:25 +0900"
     }
   ]
 }
