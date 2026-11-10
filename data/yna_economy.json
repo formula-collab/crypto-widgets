@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794311687,
+  "updated_at_unix": 1794337141,
   "items": [
+    {
+      "title": "금융보안원도 해킹에 뚫려…금융사 직원 개인정보 300여건 유출(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261110174751002",
+      "pubDate": "Tue, 10 Nov 2026 23:07:55 +0900"
+    },
+    {
+      "title": "'빚 갚아라' 독촉하며 성관계 강요…40대 남성 구속 송치",
+      "link": "https://www.yna.co.kr/view/AKR20261110176400004",
+      "pubDate": "Tue, 10 Nov 2026 21:32:18 +0900"
+    },
     {
       "title": "금융보안원도 해킹에 뚫려…금융사 보안평가 정보 일부 유출(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261110174700002",
@@ -142,16 +152,6 @@
       "title": "환율, 美·이란 협상기대 위험선호↑…9.6원 하락한 1,337.5원",
       "link": "https://www.yna.co.kr/view/AKR20261110134300002",
       "pubDate": "Tue, 10 Nov 2026 16:29:29 +0900"
-    },
-    {
-      "title": "\"태화강역환승센터 7천400억원 민자유치 계획, 현실성 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110141000057",
-      "pubDate": "Tue, 10 Nov 2026 16:25:45 +0900"
-    },
-    {
-      "title": "고양시 사찰 인근 불법행위…종단 \"원상복구 및 관련자 엄벌\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110129300060",
-      "pubDate": "Tue, 10 Nov 2026 16:19:21 +0900"
     }
   ]
 }
