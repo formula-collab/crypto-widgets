@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794337141,
+  "updated_at_unix": 1794354857,
   "items": [
+    {
+      "title": "KB증권 \"美 규제 우려에도 2028년까지 AI 투자 방향성 안 꺾여\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111031400008",
+      "pubDate": "Wed, 11 Nov 2026 08:47:55 +0900"
+    },
+    {
+      "title": "취업자 넉달째 10만명대 증가…숙박음식 5년8개월만에 최대폭↓(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261111021351002",
+      "pubDate": "Wed, 11 Nov 2026 08:43:31 +0900"
+    },
+    {
+      "title": "LS증권 \"LIG D&A, 방사청 제재 정지·수주 증가 확인 필요\"…목표가↓",
+      "link": "https://www.yna.co.kr/view/AKR20261111029300008",
+      "pubDate": "Wed, 11 Nov 2026 08:39:52 +0900"
+    },
+    {
+      "title": "무신사, 맞춤형 유니폼 제작 서비스 개시…최대 30% 할인",
+      "link": "https://www.yna.co.kr/view/AKR20261111025900030",
+      "pubDate": "Wed, 11 Nov 2026 08:38:07 +0900"
+    },
+    {
+      "title": "비만치료제 투여 뒤 시력 이상 땐?…식약처, 주의 당부",
+      "link": "https://www.yna.co.kr/view/AKR20261111027000017",
+      "pubDate": "Wed, 11 Nov 2026 08:35:50 +0900"
+    },
+    {
+      "title": "양천구, '2027년 상반기 동행일자리' 192명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261111027600004",
+      "pubDate": "Wed, 11 Nov 2026 08:33:25 +0900"
+    },
+    {
+      "title": "중진공, 구직자 위해 '직무 찾기' 서비스…채용정보 등 제공",
+      "link": "https://www.yna.co.kr/view/AKR20261110156800030",
+      "pubDate": "Wed, 11 Nov 2026 08:33:00 +0900"
+    },
+    {
+      "title": "신한증권 \"KT, 내년 통신3사 중 가장 높은 주주환원수익률 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111026900008",
+      "pubDate": "Wed, 11 Nov 2026 08:31:50 +0900"
+    },
+    {
+      "title": "iM증권, 지역난방공사 목표가↓…\"수익성 감소 전망\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111026400008",
+      "pubDate": "Wed, 11 Nov 2026 08:30:21 +0900"
+    },
+    {
+      "title": "LG화학, 청년 실무역량 강화 'K-뉴딜 아카데미' 1기 수료식",
+      "link": "https://www.yna.co.kr/view/AKR20261111026000003",
+      "pubDate": "Wed, 11 Nov 2026 08:30:14 +0900"
+    },
+    {
+      "title": "IBK증권, 크래프톤 목표가↓…\"내년도 주당순익 하향조정 반영\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111025800008",
+      "pubDate": "Wed, 11 Nov 2026 08:24:02 +0900"
+    },
+    {
+      "title": "한투증권, 신세계 목표가↓…\"백화점 산업 모멘텀 일부 사라져\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111024200008",
+      "pubDate": "Wed, 11 Nov 2026 08:10:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나",
+      "link": "https://www.yna.co.kr/view/AKR20261111021500008",
+      "pubDate": "Wed, 11 Nov 2026 08:04:27 +0900"
+    },
+    {
+      "title": "부산 지역화폐 동백전 7년 만에 200만명 돌파…특별 이벤트",
+      "link": "https://www.yna.co.kr/view/AKR20261111020600051",
+      "pubDate": "Wed, 11 Nov 2026 08:00:37 +0900"
+    },
+    {
+      "title": "[2보] 취업자 13.9만명 증가·넉달째 10만명대↑…청년층 4년째 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261111021300002",
+      "pubDate": "Wed, 11 Nov 2026 08:00:10 +0900"
+    },
+    {
+      "title": "[1보] 10월 취업자 13만9천명 늘어…넉달째 10만명대",
+      "link": "https://www.yna.co.kr/view/AKR20261111019200002",
+      "pubDate": "Wed, 11 Nov 2026 08:00:04 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261111015700011",
+      "pubDate": "Wed, 11 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "title": "김포아라 신규택지까지…김포 도시개발 사업 '수두룩'",
+      "link": "https://www.yna.co.kr/view/AKR20261110126100065",
+      "pubDate": "Wed, 11 Nov 2026 07:17:00 +0900"
+    },
+    {
+      "title": "올해 가장 많이 오른 외식 메뉴는 김밥…생선회·도시락도 상승",
+      "link": "https://www.yna.co.kr/view/AKR20261110133700030",
+      "pubDate": "Wed, 11 Nov 2026 06:15:00 +0900"
+    },
+    {
+      "title": "국제유가 하락세 지속…8월 31일 이후 최저",
+      "link": "https://www.yna.co.kr/view/AKR20261111008700072",
+      "pubDate": "Wed, 11 Nov 2026 06:13:29 +0900"
+    },
+    {
+      "title": "제11회 부동산 산업의 날 …AI·데이터 기반 산업 혁신 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261110133300003",
+      "pubDate": "Wed, 11 Nov 2026 06:00:09 +0900"
+    },
+    {
+      "title": "선배 성공 노하우 듣고 투자자 만난다…넥스트로컬 홈커밍데이",
+      "link": "https://www.yna.co.kr/view/AKR20261110154300004",
+      "pubDate": "Wed, 11 Nov 2026 06:00:06 +0900"
+    },
+    {
+      "title": "[게시판] 코트라, 전국 12개 지역서 찾아가는 수출 설명회",
+      "link": "https://www.yna.co.kr/view/AKR20261110161700003",
+      "pubDate": "Wed, 11 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "title": "증권사 주식정보서비스 수수료 671억원…금감원 \"안내 강화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261110171300002",
+      "pubDate": "Wed, 11 Nov 2026 06:00:01 +0900"
+    },
     {
       "title": "금융보안원도 해킹에 뚫려…금융사 직원 개인정보 300여건 유출(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20261110174751002",
@@ -32,126 +152,6 @@
       "title": "신현송 한은 총재, BIS CPMI 의장 선임…지급결제 기준 제정",
       "link": "https://www.yna.co.kr/view/AKR20261110119300002",
       "pubDate": "Tue, 10 Nov 2026 19:00:00 +0900"
-    },
-    {
-      "title": "교촌치킨, 내년 3월 찜닭 브랜드 '가마찜' 첫선…대구에 1호점",
-      "link": "https://www.yna.co.kr/view/AKR20261110170300030",
-      "pubDate": "Tue, 10 Nov 2026 18:47:53 +0900"
-    },
-    {
-      "title": "거주-비거주 차등원칙 견지한 정부…이형일 \"실거주 우대해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261110162851001",
-      "pubDate": "Tue, 10 Nov 2026 18:47:24 +0900"
-    },
-    {
-      "title": "한국노총, 노동부에 정년연장 입법 촉구…\"국회에만 의존 말라\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110167500530",
-      "pubDate": "Tue, 10 Nov 2026 18:16:47 +0900"
-    },
-    {
-      "title": "'항암 신약 개발' 넥스아이, 코스닥 신규상장…12일부터 거래 시작",
-      "link": "https://www.yna.co.kr/view/AKR20261110166800008",
-      "pubDate": "Tue, 10 Nov 2026 18:11:11 +0900"
-    },
-    {
-      "title": "에코프로비엠 \"종속회사 PT 주식 6천271억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110164600008",
-      "pubDate": "Tue, 10 Nov 2026 18:00:42 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261110157700011",
-      "pubDate": "Tue, 10 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "강원 그린바이오 기업·연구기관 강릉에 집결…투자·판로 모색",
-      "link": "https://www.yna.co.kr/view/AKR20261110165500062",
-      "pubDate": "Tue, 10 Nov 2026 17:57:21 +0900"
-    },
-    {
-      "title": "[인사] 공정거래위원회",
-      "link": "https://www.yna.co.kr/view/AKR20261110163600002",
-      "pubDate": "Tue, 10 Nov 2026 17:44:44 +0900"
-    },
-    {
-      "title": "춘천경찰, 고위험 정신질환자 치료비 지원…지역사회 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20261110160300062",
-      "pubDate": "Tue, 10 Nov 2026 17:30:02 +0900"
-    },
-    {
-      "title": "\"코스피 변동성, 韓 고유 요인이 작용한 것…반도체 집중 구조\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261110122251008",
-      "pubDate": "Tue, 10 Nov 2026 17:28:42 +0900"
-    },
-    {
-      "title": "\"스테이블코인, 형평성·안정성 위해 전금법 적용해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110153700002",
-      "pubDate": "Tue, 10 Nov 2026 17:22:41 +0900"
-    },
-    {
-      "title": "염동열 강원관광재단 대표 취임…첫 결재는 양양공항 활성화",
-      "link": "https://www.yna.co.kr/view/AKR20261110157400062",
-      "pubDate": "Tue, 10 Nov 2026 17:19:04 +0900"
-    },
-    {
-      "title": "당청 '엇박자' 경계에도 與는 부동산 이견…내홍 타개 첩첩산중(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261110074151001",
-      "pubDate": "Tue, 10 Nov 2026 17:17:02 +0900"
-    },
-    {
-      "title": "[AI픽] AI 캐릭터챗·건강관리에 열린 지갑…새 사업 기회는",
-      "link": "https://www.yna.co.kr/view/AKR20261110154900017",
-      "pubDate": "Tue, 10 Nov 2026 17:12:32 +0900"
-    },
-    {
-      "title": "CJ 바이오사이언스 \"종속회사 EzBiome 주식 76억원에 추가취득\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110155000008",
-      "pubDate": "Tue, 10 Nov 2026 17:00:51 +0900"
-    },
-    {
-      "title": "[게시판] 한국·ASEAN·독립국가연합 경쟁 당국 협의회",
-      "link": "https://www.yna.co.kr/view/AKR20261110125000002",
-      "pubDate": "Tue, 10 Nov 2026 17:00:01 +0900"
-    },
-    {
-      "title": "울산교육청 내년 교육공무직 채용 경쟁률 5.49대 1",
-      "link": "https://www.yna.co.kr/view/AKR20261110153600057",
-      "pubDate": "Tue, 10 Nov 2026 16:58:31 +0900"
-    },
-    {
-      "title": "횡성군-라오스, 계절근로자 인권·노무 관리 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261110152600062",
-      "pubDate": "Tue, 10 Nov 2026 16:58:20 +0900"
-    },
-    {
-      "title": "GC녹십자, 충북 바이오 스타트업과 손잡는다…기술협력 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20261110151100064",
-      "pubDate": "Tue, 10 Nov 2026 16:54:04 +0900"
-    },
-    {
-      "title": "금리 동결한 금통위원들 \"연속 금리인상 효과 점검\"",
-      "link": "https://www.yna.co.kr/view/AKR20261110148100002",
-      "pubDate": "Tue, 10 Nov 2026 16:50:01 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…주가 급등에도 외인 선물 매수(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261110148451008",
-      "pubDate": "Tue, 10 Nov 2026 16:48:30 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 하락…3년물 연 3.633%",
-      "link": "https://www.yna.co.kr/view/AKR20261110148400008",
-      "pubDate": "Tue, 10 Nov 2026 16:40:24 +0900"
-    },
-    {
-      "title": "강원남부지식재산센터, 창업기업 3곳 IP 지원 성과 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261110147200062",
-      "pubDate": "Tue, 10 Nov 2026 16:35:32 +0900"
-    },
-    {
-      "title": "환율, 美·이란 협상기대 위험선호↑…9.6원 하락한 1,337.5원",
-      "link": "https://www.yna.co.kr/view/AKR20261110134300002",
-      "pubDate": "Tue, 10 Nov 2026 16:29:29 +0900"
     }
   ]
 }
