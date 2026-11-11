@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794396656,
+  "updated_at_unix": 1794423431,
   "items": [
+    {
+      "title": "韓총리, 수도권 교육감들 만나 \"학교용지 복합개발 활성화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261111180100001",
+      "pubDate": "Wed, 11 Nov 2026 21:56:15 +0900"
+    },
     {
       "title": "[게시판] 수입협회, 우즈베크 상원의장과 교역 확대 방안 논의",
       "link": "https://www.yna.co.kr/view/AKR20261111166800003",
@@ -147,11 +152,6 @@
       "title": "[전남광주소식] 농협은행, 가을맞이 단감 수확 일손 돕기",
       "link": "https://www.yna.co.kr/view/AKR20261111154300054",
       "pubDate": "Wed, 11 Nov 2026 17:03:25 +0900"
-    },
-    {
-      "title": "재경부-ADB, AI혁신개발센터 지원 신탁기금 공여협정 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261111152700002",
-      "pubDate": "Wed, 11 Nov 2026 17:01:39 +0900"
     }
   ]
 }
