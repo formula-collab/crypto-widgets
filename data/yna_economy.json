@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794502747,
+  "updated_at_unix": 1794522893,
   "items": [
+    {
+      "title": "15년 넘게 방치된 송도 길재단 법인 땅, 100억원에 환수한다",
+      "link": "https://www.yna.co.kr/view/AKR20261112083200065",
+      "pubDate": "Fri, 13 Nov 2026 07:17:00 +0900"
+    },
+    {
+      "title": "[반려동물] \"겨울철 털뭉치도 건조해요\"…펫 스킨케어 시장 활기",
+      "link": "https://www.yna.co.kr/view/AKR20261112142700030",
+      "pubDate": "Fri, 13 Nov 2026 06:30:00 +0900"
+    },
+    {
+      "title": "서울 아파트 거래신청 두달째 증가…강남3구 가격 하락폭 커져",
+      "link": "https://www.yna.co.kr/view/AKR20261112176200004",
+      "pubDate": "Fri, 13 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261112167900002",
+      "pubDate": "Fri, 13 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "하나은행, 금융위 상반기 기술금융 평가서 1위…2위 기업은행",
+      "link": "https://www.yna.co.kr/view/AKR20261112172100002",
+      "pubDate": "Fri, 13 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "title": "'재건축 부담금' 법적 분쟁 조짐에…대형 로펌들 TF 속속 가동",
+      "link": "https://www.yna.co.kr/view/AKR20261112180600004",
+      "pubDate": "Fri, 13 Nov 2026 06:00:00 +0900"
+    },
+    {
+      "title": "트럼프 \"이란과 합의 불필요\"에 국제유가 급등…브렌트유 3.3%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261113010900072",
+      "pubDate": "Fri, 13 Nov 2026 05:50:52 +0900"
+    },
     {
       "title": "경북 예천 소 농장서 구제역 발생…19일까지 전국 집중 소독",
       "link": "https://www.yna.co.kr/view/AKR20261112181800030",
@@ -117,41 +152,6 @@
       "title": "진주시, '남강하모 유스호스텔' 준공…상권 활성화 기대",
       "link": "https://www.yna.co.kr/view/AKR20261112150500052",
       "pubDate": "Thu, 12 Nov 2026 16:30:11 +0900"
-    },
-    {
-      "title": "당국, 해킹의심 때 가상자산거래소 입출금 선제 차단 허용",
-      "link": "https://www.yna.co.kr/view/AKR20261112141700002",
-      "pubDate": "Thu, 12 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "증시부진·금리상승에 '직격탄'…증권사 3분기 실적 줄줄이 악화(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261112087051008",
-      "pubDate": "Thu, 12 Nov 2026 16:29:50 +0900"
-    },
-    {
-      "title": "익산미륵사지휴게소 '로컬푸드 행복장터' 재개장",
-      "link": "https://www.yna.co.kr/view/AKR20261112147700055",
-      "pubDate": "Thu, 12 Nov 2026 16:27:37 +0900"
-    },
-    {
-      "title": "[게시판] 우리자산신탁, 안양 가로주택정비사업 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20261112142500002",
-      "pubDate": "Thu, 12 Nov 2026 16:26:10 +0900"
-    },
-    {
-      "title": "삼성전기, 세종에 4조3천억 투자…\"경제 활성화·일자리 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261112148100063",
-      "pubDate": "Thu, 12 Nov 2026 16:25:37 +0900"
-    },
-    {
-      "title": "삼척시, 농협 4곳·농진원과 밭작물 신품종 보급 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261112143900062",
-      "pubDate": "Thu, 12 Nov 2026 16:22:50 +0900"
-    },
-    {
-      "title": "전남광주 공공요금 인상 추진에 \"통합 조정 원칙 마련해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261112145600054",
-      "pubDate": "Thu, 12 Nov 2026 16:14:37 +0900"
     }
   ]
 }
