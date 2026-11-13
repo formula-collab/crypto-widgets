@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794568641,
+  "updated_at_unix": 1794594991,
   "items": [
+    {
+      "title": "노사정, 초광역특구 '노동특례' 논의 물꼬…17일부터 본격화",
+      "link": "https://www.yna.co.kr/view/AKR20261113177600530",
+      "pubDate": "Fri, 13 Nov 2026 21:39:06 +0900"
+    },
+    {
+      "title": "2차 모두의창업 정보 유출, 1차 사고 판박이…'취약한 API' 타깃(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261113174151030",
+      "pubDate": "Fri, 13 Nov 2026 21:25:19 +0900"
+    },
     {
       "title": "경기도, 지방채 2천462억원 내년 또 발행…3년 누적 2조원 육박",
       "link": "https://www.yna.co.kr/view/AKR20261113174700061",
@@ -142,16 +152,6 @@
       "title": "농식품부, 김치·배추·무 수출 확대 추진…비축 배추 할인 공급",
       "link": "https://www.yna.co.kr/view/AKR20261113122900030",
       "pubDate": "Fri, 13 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "'젠슨황 퇴임'에도 장중 3%까지 올랐던 코스피, 0.98% 하락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261113129251008",
-      "pubDate": "Fri, 13 Nov 2026 16:23:21 +0900"
-    },
-    {
-      "title": "한국씨티은행, 3분기 순이익 1천255억원…작년 동기보다 92%↑",
-      "link": "https://www.yna.co.kr/view/AKR20261113140700002",
-      "pubDate": "Fri, 13 Nov 2026 16:23:00 +0900"
     }
   ]
 }
