@@ -1,8 +1,63 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794614368,
+  "updated_at_unix": 1794633165,
   "items": [
+    {
+      "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
+      "link": "https://www.yna.co.kr/view/AKR20261113174400017",
+      "pubDate": "Sat, 14 Nov 2026 13:30:00 +0900"
+    },
+    {
+      "title": "두산건설, 3분기 영업이익 271억원…전년 대비 40% 감소",
+      "link": "https://www.yna.co.kr/view/AKR20261114029100003",
+      "pubDate": "Sat, 14 Nov 2026 11:44:15 +0900"
+    },
+    {
+      "title": "모두의창업 또 정보 유출에 참가자 '부글'…\"경위·보상 밝혀야\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114026000030",
+      "pubDate": "Sat, 14 Nov 2026 11:14:56 +0900"
+    },
+    {
+      "title": "성남시, 내달 10일 채용박람회…참여기업 20개사 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261113134700061",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261114025200011",
+      "pubDate": "Sat, 14 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "title": "[테크톡노트] KTX 예매에 전화까지…내 일 대신하는 AI 비서 '피클'",
+      "link": "https://www.yna.co.kr/view/AKR20261113158900017",
+      "pubDate": "Sat, 14 Nov 2026 09:30:00 +0900"
+    },
+    {
+      "title": "\"전세사기 예방이 최선\"…전북도, 전월세 안심계약 상담서비스",
+      "link": "https://www.yna.co.kr/view/AKR20261114022100055",
+      "pubDate": "Sat, 14 Nov 2026 09:20:45 +0900"
+    },
+    {
+      "title": "오픈AI, AI 에이전트용 '챗GPT 월렛' 공개…카드 3사와 맞손",
+      "link": "https://www.yna.co.kr/view/AKR20261114022000091",
+      "pubDate": "Sat, 14 Nov 2026 09:19:23 +0900"
+    },
+    {
+      "title": "'기금 만들고 보조금 주고'…경기 지자체, 기업 투자유치에 사활",
+      "link": "https://www.yna.co.kr/view/AKR20261113123700061",
+      "pubDate": "Sat, 14 Nov 2026 09:09:00 +0900"
+    },
+    {
+      "title": "[IPO챗] 내주 영광와이케이엠씨 등 3개사 코스닥 입성",
+      "link": "https://www.yna.co.kr/view/AKR20261113076800008",
+      "pubDate": "Sat, 14 Nov 2026 09:00:03 +0900"
+    },
+    {
+      "title": "[다음주 경제] 2천조원 넘긴 가계부채, 얼마나 더 늘었을까",
+      "link": "https://www.yna.co.kr/view/AKR20261114014500002",
+      "pubDate": "Sat, 14 Nov 2026 08:58:18 +0900"
+    },
     {
       "title": "[해수분해] 통영 굴의 미국행…바다 위 공중화장실이 점검 대상",
       "link": "https://www.yna.co.kr/view/AKR20261113067700051",
@@ -97,61 +152,6 @@
       "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
       "link": "https://www.yna.co.kr/view/AKR20261113102100003",
       "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261113155100011",
-      "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "title": "중기부 2차 '모두의창업' 개인 정보 유출…1차 유출사고 5개월만(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261113154952030",
-      "pubDate": "Fri, 13 Nov 2026 17:57:44 +0900"
-    },
-    {
-      "title": "[인사] 미래에셋증권",
-      "link": "https://www.yna.co.kr/view/AKR20261113162400008",
-      "pubDate": "Fri, 13 Nov 2026 17:54:05 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, '우리WON 포트폴리오' 가입하면 최대 30만원 경품",
-      "link": "https://www.yna.co.kr/view/AKR20261113157400002",
-      "pubDate": "Fri, 13 Nov 2026 17:34:20 +0900"
-    },
-    {
-      "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
-      "link": "https://www.yna.co.kr/view/AKR20261113129300030",
-      "pubDate": "Fri, 13 Nov 2026 17:30:01 +0900"
-    },
-    {
-      "title": "유한양행 \"만성신장병 신약 임상1상 계획 식약처 승인받아\"",
-      "link": "https://www.yna.co.kr/view/AKR20261113157700017",
-      "pubDate": "Fri, 13 Nov 2026 17:29:42 +0900"
-    },
-    {
-      "title": "중기부 2차 '모두의 창업'서 참가자 818명 개인정보 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261113154951030",
-      "pubDate": "Fri, 13 Nov 2026 17:26:51 +0900"
-    },
-    {
-      "title": "토스증권, 3분기 영업익 1천287억원…전분기 대비 38%↓",
-      "link": "https://www.yna.co.kr/view/AKR20261113155300008",
-      "pubDate": "Fri, 13 Nov 2026 17:19:17 +0900"
-    },
-    {
-      "title": "킨텍스 대표, 한국서비스경영학회 서비스 산업 발전 공로상",
-      "link": "https://www.yna.co.kr/view/AKR20261113154600060",
-      "pubDate": "Fri, 13 Nov 2026 17:18:06 +0900"
-    },
-    {
-      "title": "[속보] 중기부 \"2차 '모두의 창업' 참가자 지원 기업서 개인정보 유출\"",
-      "link": "https://www.yna.co.kr/view/AKR20261113154900030",
-      "pubDate": "Fri, 13 Nov 2026 17:15:33 +0900"
-    },
-    {
-      "title": "UNIST, 동남권 딥테크 기업 투자유치 지원…일대일 상담 주선",
-      "link": "https://www.yna.co.kr/view/AKR20261113148400057",
-      "pubDate": "Fri, 13 Nov 2026 16:59:52 +0900"
     }
   ]
 }
