@@ -1,8 +1,23 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794633165,
+  "updated_at_unix": 1794658825,
   "items": [
+    {
+      "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114046700030",
+      "pubDate": "Sat, 14 Nov 2026 20:42:24 +0900"
+    },
+    {
+      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261114037551030",
+      "pubDate": "Sat, 14 Nov 2026 16:37:21 +0900"
+    },
+    {
+      "title": "중기중앙회 \"노란우산 정보 유출 가능성…주소·연락처 등 포함\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114037500030",
+      "pubDate": "Sat, 14 Nov 2026 15:57:04 +0900"
+    },
     {
       "title": "\"파격가에 의료통역 지원까지\"…비만약 원정처방 마케팅 확산",
       "link": "https://www.yna.co.kr/view/AKR20261113174400017",
@@ -137,21 +152,6 @@
       "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261113166651004",
       "pubDate": "Fri, 13 Nov 2026 19:14:49 +0900"
-    },
-    {
-      "title": "[동정] 해수부 장관, 부산 부전시장서 수산물 판매 동향 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261113166300030",
-      "pubDate": "Fri, 13 Nov 2026 18:36:42 +0900"
-    },
-    {
-      "title": "빌리프랩, '아일릿이 뉴진스 표절' 주장 민희진 상대 손배소 패소",
-      "link": "https://www.yna.co.kr/view/AKR20261113166600004",
-      "pubDate": "Fri, 13 Nov 2026 18:30:01 +0900"
-    },
-    {
-      "title": "석유 최고가격제 9개월째 이어진다…가격 4주 더 유지",
-      "link": "https://www.yna.co.kr/view/AKR20261113102100003",
-      "pubDate": "Fri, 13 Nov 2026 18:00:01 +0900"
     }
   ]
 }
