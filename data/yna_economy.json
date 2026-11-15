@@ -1,8 +1,128 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794708823,
+  "updated_at_unix": 1794735527,
   "items": [
+    {
+      "title": "금융당국 주관 공인회계사 시험에도 AI 부정행위…\"대응책 마련\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115038100002",
+      "pubDate": "Sun, 15 Nov 2026 17:35:28 +0900"
+    },
+    {
+      "title": "산업장관 \"석유 최고가격제 연장은 불가피한 선택\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115040000003",
+      "pubDate": "Sun, 15 Nov 2026 16:59:27 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+      "link": "https://www.yna.co.kr/view/AKR20261115030400011",
+      "pubDate": "Sun, 15 Nov 2026 15:00:00 +0900"
+    },
+    {
+      "title": "재경부 \"세무사 수석 합격 효력정지 논의\"…\"회계사 1차 불합격\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261115021952002",
+      "pubDate": "Sun, 15 Nov 2026 14:18:52 +0900"
+    },
+    {
+      "title": "중기부, '모두의 창업' 정보유출 업체 선정 취소 등 제재 검토",
+      "link": "https://www.yna.co.kr/view/AKR20261115029100030",
+      "pubDate": "Sun, 15 Nov 2026 14:18:25 +0900"
+    },
+    {
+      "title": "이형일 경제부총리, 세무사시험 AI 부정행위 사건에 직무유기 고발돼",
+      "link": "https://www.yna.co.kr/view/AKR20261115028600004",
+      "pubDate": "Sun, 15 Nov 2026 14:15:05 +0900"
+    },
+    {
+      "title": "'글로벌 고신뢰 탄소시장' 협력 본격화…9개국 의향서 서명",
+      "link": "https://www.yna.co.kr/view/AKR20261115024900002",
+      "pubDate": "Sun, 15 Nov 2026 14:00:01 +0900"
+    },
+    {
+      "title": "[현장] \"예쁜지보다 안전부터\"…참사 딛고 입주 앞둔 화정 아이파크",
+      "link": "https://www.yna.co.kr/view/AKR20261115028000054",
+      "pubDate": "Sun, 15 Nov 2026 13:49:55 +0900"
+    },
+    {
+      "title": "노동부, 추운 겨울 앞두고 이주노동자에게 겨울옷·작업복 나눔",
+      "link": "https://www.yna.co.kr/view/AKR20261113163400530",
+      "pubDate": "Sun, 15 Nov 2026 13:00:03 +0900"
+    },
+    {
+      "title": "'피터팬의 좋은방 구하기' 개인정보 유출…\"일부 회원 특정정보\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115025500003",
+      "pubDate": "Sun, 15 Nov 2026 12:37:50 +0900"
+    },
+    {
+      "title": "한국 '고해상도 신축성 디스플레이' 특허출원 세계 1위",
+      "link": "https://www.yna.co.kr/view/AKR20261113129900063",
+      "pubDate": "Sun, 15 Nov 2026 12:00:09 +0900"
+    },
+    {
+      "title": "반도체설계자동화SW 입찰서 20년 담합한 9개 업체…과징금 2억원",
+      "link": "https://www.yna.co.kr/view/AKR20261113101100002",
+      "pubDate": "Sun, 15 Nov 2026 12:00:08 +0900"
+    },
+    {
+      "title": "세계투자자주간 23∼27일…금감원, 10주년 기념 행사",
+      "link": "https://www.yna.co.kr/view/AKR20261114034200002",
+      "pubDate": "Sun, 15 Nov 2026 12:00:07 +0900"
+    },
+    {
+      "title": "불법사금융 원스톱 온라인서도 신청…채무종결 합의 776건 성과",
+      "link": "https://www.yna.co.kr/view/AKR20261114038400002",
+      "pubDate": "Sun, 15 Nov 2026 12:00:07 +0900"
+    },
+    {
+      "title": "금감원, 탄력점포 운영 개선·대부업권 현역병 대출제한 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261114045000002",
+      "pubDate": "Sun, 15 Nov 2026 12:00:06 +0900"
+    },
+    {
+      "title": "중기중앙회, 25일까지 '노란우산 고객 교육 프로그램' 공모",
+      "link": "https://www.yna.co.kr/view/AKR20261113177400030",
+      "pubDate": "Sun, 15 Nov 2026 12:00:04 +0900"
+    },
+    {
+      "title": "중기중앙회, 도쿄서 '2026 백두포럼'…中企 세계화 방안 모색",
+      "link": "https://www.yna.co.kr/view/AKR20261113177800030",
+      "pubDate": "Sun, 15 Nov 2026 12:00:04 +0900"
+    },
+    {
+      "title": "대한상의, 유엔 기후총회서 한국 기업 탄소중립 노력 알린다",
+      "link": "https://www.yna.co.kr/view/AKR20261115007300003",
+      "pubDate": "Sun, 15 Nov 2026 12:00:03 +0900"
+    },
+    {
+      "title": "이억원 금융위원장 유럽행…FSB 총회 참석·ECB와 업무협약도",
+      "link": "https://www.yna.co.kr/view/AKR20261115019200002",
+      "pubDate": "Sun, 15 Nov 2026 12:00:02 +0900"
+    },
+    {
+      "title": "세무사 수석합격자, AI 부정행위 시인…\"회계사 시험서도\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261115016251530",
+      "pubDate": "Sun, 15 Nov 2026 11:59:15 +0900"
+    },
+    {
+      "title": "LH \"도심복합사업 지연은 서울시 내부 검토·심의 때문\"",
+      "link": "https://www.yna.co.kr/view/AKR20261114046500003",
+      "pubDate": "Sun, 15 Nov 2026 11:40:00 +0900"
+    },
+    {
+      "title": "재경부 \"AI 부정행위자 합격증 효력 정지 논의 중…신속 처리\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115021951002",
+      "pubDate": "Sun, 15 Nov 2026 11:33:50 +0900"
+    },
+    {
+      "title": "[속보] 재경부 \"AI 부정행위자 합격증 효력 중단 논의 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115021900002",
+      "pubDate": "Sun, 15 Nov 2026 11:17:15 +0900"
+    },
+    {
+      "title": "송파 풍납극동아파트 598세대로…응암동엔 1천세대 주거단지",
+      "link": "https://www.yna.co.kr/view/AKR20261114027800004",
+      "pubDate": "Sun, 15 Nov 2026 11:15:00 +0900"
+    },
     {
       "title": "코인원,  외주업체 해킹으로 고객 정보 유출",
       "link": "https://www.yna.co.kr/view/AKR20261115020900002",
@@ -32,126 +152,6 @@
       "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\"",
       "link": "https://www.yna.co.kr/view/AKR20261114043600002",
       "pubDate": "Sun, 15 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "title": "농식품부, 20일 aT서 '김치의 날' 행사…김장 체험·김치 할인",
-      "link": "https://www.yna.co.kr/view/AKR20261114028600030",
-      "pubDate": "Sun, 15 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "title": "영국, 규제기관에 '성장 지원' 의무 추진…\"한국도 도입해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261115014800003",
-      "pubDate": "Sun, 15 Nov 2026 11:00:02 +0900"
-    },
-    {
-      "title": "AI 특수에 ICT 수출 703억달러…증가율 202% '역대 최고'",
-      "link": "https://www.yna.co.kr/view/AKR20261115016600017",
-      "pubDate": "Sun, 15 Nov 2026 11:00:01 +0900"
-    },
-    {
-      "title": "비반도체 수출도 두자릿수 성장…호주 1위·네덜란드 2위",
-      "link": "https://www.yna.co.kr/view/AKR20261115018000003",
-      "pubDate": "Sun, 15 Nov 2026 11:00:01 +0900"
-    },
-    {
-      "title": "코트라·정부조달수출진흥협회, 해외 조달시장 진출 지원 맞손",
-      "link": "https://www.yna.co.kr/view/AKR20261115019600003",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20261115016000011",
-      "pubDate": "Sun, 15 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "title": "세무사 수석합격자, AI 부정행위 시인…경찰에 자수",
-      "link": "https://www.yna.co.kr/view/AKR20261115016200530",
-      "pubDate": "Sun, 15 Nov 2026 10:15:38 +0900"
-    },
-    {
-      "title": "LH, 건설업계와 공공주택 신속공급 간담회…\"민간 협조 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261115017000003",
-      "pubDate": "Sun, 15 Nov 2026 10:02:57 +0900"
-    },
-    {
-      "title": "롯데건설, 청담르엘로 2026 대한민국 조경대상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261115015500003",
-      "pubDate": "Sun, 15 Nov 2026 09:46:06 +0900"
-    },
-    {
-      "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
-      "link": "https://www.yna.co.kr/view/AKR20261115013600003",
-      "pubDate": "Sun, 15 Nov 2026 09:25:24 +0900"
-    },
-    {
-      "title": "한-투르크메니스탄 세관상호지원협정 발효…무역·통관 협력",
-      "link": "https://www.yna.co.kr/view/AKR20261115013300002",
-      "pubDate": "Sun, 15 Nov 2026 09:16:38 +0900"
-    },
-    {
-      "title": "담양 전원주택단지 주차장 부지에 음식점 입점…주민 반발",
-      "link": "https://www.yna.co.kr/view/AKR20261113138100054",
-      "pubDate": "Sun, 15 Nov 2026 09:05:00 +0900"
-    },
-    {
-      "title": "[게시판] 우리은행, 자원순환 캠페인으로 폐전자제품 85t 수거",
-      "link": "https://www.yna.co.kr/view/AKR20261113160400002",
-      "pubDate": "Sun, 15 Nov 2026 09:00:04 +0900"
-    },
-    {
-      "title": "국민은행 \"영업점 방문 없이 상속 서류 접수·예금 지급\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114042900002",
-      "pubDate": "Sun, 15 Nov 2026 09:00:03 +0900"
-    },
-    {
-      "title": "주택공급 속도내는 정부…수도권 전세수급은 여전히 불균형",
-      "link": "https://www.yna.co.kr/view/AKR20261115004300003",
-      "pubDate": "Sun, 15 Nov 2026 08:05:51 +0900"
-    },
-    {
-      "title": "웹툰작가·배달기사·검침원…공통소망은 '표준계약서 의무화'",
-      "link": "https://www.yna.co.kr/view/AKR20261114048800004",
-      "pubDate": "Sun, 15 Nov 2026 08:00:01 +0900"
-    },
-    {
-      "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
-      "link": "https://www.yna.co.kr/view/AKR20261114033800017",
-      "pubDate": "Sun, 15 Nov 2026 07:45:00 +0900"
-    },
-    {
-      "title": "할리데이비슨 소유한 체납자…경기도, 전수조사로 9억 징수",
-      "link": "https://www.yna.co.kr/view/AKR20261113129600061",
-      "pubDate": "Sun, 15 Nov 2026 07:00:15 +0900"
-    },
-    {
-      "title": "나스닥 23시간 거래 D-3주…\"美투자 확대\" \"국내 영향 제한적\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114040900008",
-      "pubDate": "Sun, 15 Nov 2026 06:25:00 +0900"
-    },
-    {
-      "title": "\"ESG 지배구조 개선 이끈 주주권리…배당·자사주 득점 늘었다\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114022300008",
-      "pubDate": "Sun, 15 Nov 2026 06:20:00 +0900"
-    },
-    {
-      "title": "물가 잡으려 묶어둔 석유·전기·가스요금…커지는 청구서",
-      "link": "https://www.yna.co.kr/view/AKR20261113178000003",
-      "pubDate": "Sun, 15 Nov 2026 06:17:00 +0900"
-    },
-    {
-      "title": "[AI프리즘] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다",
-      "link": "https://www.yna.co.kr/view/AKR20261113151600017",
-      "pubDate": "Sun, 15 Nov 2026 06:15:01 +0900"
-    },
-    {
-      "title": "씨 마른 강남권 분양에…서울 1순위 청약자 4년만에 최저",
-      "link": "https://www.yna.co.kr/view/AKR20261114036200003",
-      "pubDate": "Sun, 15 Nov 2026 06:15:00 +0900"
-    },
-    {
-      "title": "'빚투' 자금 30%가 삼전·닉스에 집중…변동성 더 키웠다",
-      "link": "https://www.yna.co.kr/view/AKR20261114028800008",
-      "pubDate": "Sun, 15 Nov 2026 06:10:00 +0900"
     }
   ]
 }
