@@ -1,8 +1,43 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794760828,
+  "updated_at_unix": 1794777808,
   "items": [
+    {
+      "title": "서리풀1지구 주택 79% 임대로…미리내집에 장기공공임대 추가",
+      "link": "https://www.yna.co.kr/view/AKR20261115043700003",
+      "pubDate": "Mon, 16 Nov 2026 06:03:01 +0900"
+    },
+    {
+      "title": "공유수면 매립 기본계획 변경…홍원항 등 4곳 매립 예정지 포함",
+      "link": "https://www.yna.co.kr/view/AKR20261113161000051",
+      "pubDate": "Mon, 16 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "title": "국토부, 한파·폭설 대비 전국 건설현장 3천여곳 안전점검",
+      "link": "https://www.yna.co.kr/view/AKR20261114042400003",
+      "pubDate": "Mon, 16 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "title": "\"대기업·스타트업 협업, 개념검증·R＆D 편중…상용화는 26%뿐\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115041100003",
+      "pubDate": "Mon, 16 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "연말 재테크 전략은…은행권 PB들 \"유동성 확보하고 자산 분산\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115036000002",
+      "pubDate": "Mon, 16 Nov 2026 05:59:01 +0900"
+    },
+    {
+      "title": "\"순자산 비슷해도 서울에 집 있으면 더 낮은 상속세율 원해\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115003200002",
+      "pubDate": "Mon, 16 Nov 2026 05:53:05 +0900"
+    },
+    {
+      "title": "실손 '5세대 갈아타기' 10%대 그쳐…이달 할인제도 효과 관심",
+      "link": "https://www.yna.co.kr/view/AKR20261114037700002",
+      "pubDate": "Mon, 16 Nov 2026 05:51:00 +0900"
+    },
     {
       "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
       "link": "https://www.yna.co.kr/view/AKR20261115054200002",
@@ -117,41 +152,6 @@
       "title": "대한상의, 유엔 기후총회서 한국 기업 탄소중립 노력 알린다",
       "link": "https://www.yna.co.kr/view/AKR20261115007300003",
       "pubDate": "Sun, 15 Nov 2026 12:00:03 +0900"
-    },
-    {
-      "title": "이억원 금융위원장 유럽행…FSB 총회 참석·ECB와 업무협약도",
-      "link": "https://www.yna.co.kr/view/AKR20261115019200002",
-      "pubDate": "Sun, 15 Nov 2026 12:00:02 +0900"
-    },
-    {
-      "title": "세무사 수석합격자, AI 부정행위 시인…\"회계사 시험서도\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261115016251530",
-      "pubDate": "Sun, 15 Nov 2026 11:59:15 +0900"
-    },
-    {
-      "title": "LH \"도심복합사업 지연은 서울시 내부 검토·심의 때문\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114046500003",
-      "pubDate": "Sun, 15 Nov 2026 11:40:00 +0900"
-    },
-    {
-      "title": "재경부 \"AI 부정행위자 합격증 효력 정지 논의 중…신속 처리\"",
-      "link": "https://www.yna.co.kr/view/AKR20261115021951002",
-      "pubDate": "Sun, 15 Nov 2026 11:33:50 +0900"
-    },
-    {
-      "title": "[속보] 재경부 \"AI 부정행위자 합격증 효력 중단 논의 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20261115021900002",
-      "pubDate": "Sun, 15 Nov 2026 11:17:15 +0900"
-    },
-    {
-      "title": "송파 풍납극동아파트 598세대로…응암동엔 1천세대 주거단지",
-      "link": "https://www.yna.co.kr/view/AKR20261114027800004",
-      "pubDate": "Sun, 15 Nov 2026 11:15:00 +0900"
-    },
-    {
-      "title": "코인원,  외주업체 해킹으로 고객 정보 유출",
-      "link": "https://www.yna.co.kr/view/AKR20261115020900002",
-      "pubDate": "Sun, 15 Nov 2026 11:02:44 +0900"
     }
   ]
 }
