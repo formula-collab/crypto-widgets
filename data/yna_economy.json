@@ -1,8 +1,33 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794735527,
+  "updated_at_unix": 1794760828,
   "items": [
+    {
+      "title": "세무사회 \"AI 없는 수습세무사 평가로 부정합격 걸러내겠다\"",
+      "link": "https://www.yna.co.kr/view/AKR20261115054200002",
+      "pubDate": "Sun, 15 Nov 2026 21:54:18 +0900"
+    },
+    {
+      "title": "굽네치킨 오너가 2세 회사, 부당 지원 의혹…공정위 현장 조사",
+      "link": "https://www.yna.co.kr/view/AKR20261115052700002",
+      "pubDate": "Sun, 15 Nov 2026 21:05:11 +0900"
+    },
+    {
+      "title": "정부, 올해 국가자격시험 전수조사…세무사 수석 합격취소 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261115050900530",
+      "pubDate": "Sun, 15 Nov 2026 20:21:11 +0900"
+    },
+    {
+      "title": "박현주 미래에셋 회장, '젠슨 황 복귀' 온라인 청원 동참",
+      "link": "https://www.yna.co.kr/view/AKR20261115051500008",
+      "pubDate": "Sun, 15 Nov 2026 20:19:50 +0900"
+    },
+    {
+      "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261115046600002",
+      "pubDate": "Sun, 15 Nov 2026 18:58:23 +0900"
+    },
     {
       "title": "금융당국 주관 공인회계사 시험에도 AI 부정행위…\"대응책 마련\"",
       "link": "https://www.yna.co.kr/view/AKR20261115038100002",
@@ -127,31 +152,6 @@
       "title": "코인원,  외주업체 해킹으로 고객 정보 유출",
       "link": "https://www.yna.co.kr/view/AKR20261115020900002",
       "pubDate": "Sun, 15 Nov 2026 11:02:44 +0900"
-    },
-    {
-      "title": "선박 입항 신고와 방제증서 발급 '원스톱' 서비스 시행",
-      "link": "https://www.yna.co.kr/view/AKR20261113153400051",
-      "pubDate": "Sun, 15 Nov 2026 11:00:06 +0900"
-    },
-    {
-      "title": "해수부, 저수온·폭설·한파 등 겨울철 자연 재난 대책 시행",
-      "link": "https://www.yna.co.kr/view/AKR20261113156200051",
-      "pubDate": "Sun, 15 Nov 2026 11:00:05 +0900"
-    },
-    {
-      "title": "해수부, 튀르키예 '유엔 기후변화 협약 당사국총회' 참가",
-      "link": "https://www.yna.co.kr/view/AKR20261113158400051",
-      "pubDate": "Sun, 15 Nov 2026 11:00:04 +0900"
-    },
-    {
-      "title": "해수부, '연안선박 현대화 펀드' 지원 대상자 공모",
-      "link": "https://www.yna.co.kr/view/AKR20261113159500051",
-      "pubDate": "Sun, 15 Nov 2026 11:00:03 +0900"
-    },
-    {
-      "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261114043600002",
-      "pubDate": "Sun, 15 Nov 2026 11:00:02 +0900"
     }
   ]
 }
