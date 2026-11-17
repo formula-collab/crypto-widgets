@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794912783,
+  "updated_at_unix": 1794943661,
   "items": [
+    {
+      "title": "104% 보험사 손해율이 1년 만에 89%로 뚝?…\"계리가정 개선해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261117144851002",
+      "pubDate": "Tue, 17 Nov 2026 19:52:40 +0900"
+    },
     {
       "title": "공정위, '총수 지정자료 허위제출' 쿠팡·김범석 고발 의견",
       "link": "https://www.yna.co.kr/view/AKR20261117163200002",
@@ -147,11 +152,6 @@
       "title": "'중장년 인기' 숲해설가 고용 지원…노사재단·산림복지원 협약",
       "link": "https://www.yna.co.kr/view/AKR20261117054500530",
       "pubDate": "Tue, 17 Nov 2026 16:00:03 +0900"
-    },
-    {
-      "title": "세입자 임대료 부담 8년새 최고…서울 집사려면 12년소득 모아야",
-      "link": "https://www.yna.co.kr/view/AKR20261117130200003",
-      "pubDate": "Tue, 17 Nov 2026 16:00:00 +0900"
     }
   ]
 }
