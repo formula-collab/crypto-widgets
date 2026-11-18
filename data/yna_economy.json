@@ -1,8 +1,48 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1794993862,
+  "updated_at_unix": 1795025659,
   "items": [
+    {
+      "title": "'세계 2위' 中콘텐츠 시장 열린다…최혜국대우에 공동제작 확대(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261118156252005",
+      "pubDate": "Wed, 18 Nov 2026 22:17:56 +0900"
+    },
+    {
+      "title": "황종우 해수장관 \"연락 두절 '해광호' 수색·구조에 총력\"",
+      "link": "https://www.yna.co.kr/view/AKR20261118178500030",
+      "pubDate": "Wed, 18 Nov 2026 19:13:35 +0900"
+    },
+    {
+      "title": "李대통령, 中 'K콘텐츠 최혜국대우'에 \"새로운 한중관계 토대\"",
+      "link": "https://www.yna.co.kr/view/AKR20261118177100001",
+      "pubDate": "Wed, 18 Nov 2026 19:11:12 +0900"
+    },
+    {
+      "title": "경제계 \"한중 FTA 서비스·투자협상 타결 환영…새로운 기회\"(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20261118156552003",
+      "pubDate": "Wed, 18 Nov 2026 18:55:44 +0900"
+    },
+    {
+      "title": "K-콘텐츠 중국 진출 탄력받는다…최혜국대우에 공동제작도 확대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261118156251005",
+      "pubDate": "Wed, 18 Nov 2026 18:49:27 +0900"
+    },
+    {
+      "title": "씨티, 내년 성장률 전망치 4.1%로 상향…\"반도체 호황 지속\"",
+      "link": "https://www.yna.co.kr/view/AKR20261118175200002",
+      "pubDate": "Wed, 18 Nov 2026 18:40:44 +0900"
+    },
+    {
+      "title": "'곰표 밀맥주' 세븐브로이, 법원서 회생계획 인가",
+      "link": "https://www.yna.co.kr/view/AKR20261118173900030",
+      "pubDate": "Wed, 18 Nov 2026 18:29:18 +0900"
+    },
+    {
+      "title": "하나에어로다이내믹스, 코스닥 신규 상장…오는 20일 거래 개시",
+      "link": "https://www.yna.co.kr/view/AKR20261118173400008",
+      "pubDate": "Wed, 18 Nov 2026 18:21:44 +0900"
+    },
     {
       "title": "소프트캠프 \"넥스트페이즈 주식 20억원어치 취득…지분율 100%\"",
       "link": "https://www.yna.co.kr/view/AKR20261118170200008",
@@ -112,46 +152,6 @@
       "title": "썸에이지, 115억원 유상증자…예주산업 등에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20261118155100008",
       "pubDate": "Wed, 18 Nov 2026 16:45:19 +0900"
-    },
-    {
-      "title": "국고채 금리 대체로 상승…3년물 연 3.736%",
-      "link": "https://www.yna.co.kr/view/AKR20261118154500008",
-      "pubDate": "Wed, 18 Nov 2026 16:42:22 +0900"
-    },
-    {
-      "title": "농식품부, 토마토 바이러스 피해·김장철 배추 수급 상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261118073600030",
-      "pubDate": "Wed, 18 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "[게시판] 신복위·전주지법, '취약채무자 신속면책' 협약",
-      "link": "https://www.yna.co.kr/view/AKR20261118151300002",
-      "pubDate": "Wed, 18 Nov 2026 16:29:27 +0900"
-    },
-    {
-      "title": "한국투자증권, 6천500억원 주주배정 유상증자 결정",
-      "link": "https://www.yna.co.kr/view/AKR20261118148500008",
-      "pubDate": "Wed, 18 Nov 2026 16:23:39 +0900"
-    },
-    {
-      "title": "강릉시 벤처펀드 투자설명회…운용사 3곳 1:1 상담",
-      "link": "https://www.yna.co.kr/view/AKR20261118147100062",
-      "pubDate": "Wed, 18 Nov 2026 16:20:16 +0900"
-    },
-    {
-      "title": "양주시, 지방보조금 전용 계좌 운영 업무 협약 체결",
-      "link": "https://www.yna.co.kr/view/AKR20261118146000060",
-      "pubDate": "Wed, 18 Nov 2026 16:13:57 +0900"
-    },
-    {
-      "title": "태백시, 원자력환경공단에 지하연구시설 지역상생 방안 건의",
-      "link": "https://www.yna.co.kr/view/AKR20261118144900062",
-      "pubDate": "Wed, 18 Nov 2026 16:11:51 +0900"
-    },
-    {
-      "title": "코스피, 2% 오른 5,067 마감…하루 만에 '5천피' 탈환(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261118143200008",
-      "pubDate": "Wed, 18 Nov 2026 16:10:50 +0900"
     }
   ]
 }
