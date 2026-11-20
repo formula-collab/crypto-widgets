@@ -1,8 +1,18 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795182076,
+  "updated_at_unix": 1795210566,
   "items": [
+    {
+      "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
+      "link": "https://www.yna.co.kr/view/AKR20261120124100003",
+      "pubDate": "Sat, 21 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "주유소 기름값 27주째 하락…서울 휘발유 평균도 1천800원대로",
+      "link": "https://www.yna.co.kr/view/AKR20261120163100003",
+      "pubDate": "Sat, 21 Nov 2026 06:00:00 +0900"
+    },
     {
       "title": "[게시판] 대한주택관리사협회 신임 회장에 박병남 서울시회장",
       "link": "https://www.yna.co.kr/view/AKR20261120169500003",
@@ -142,16 +152,6 @@
       "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
       "link": "https://www.yna.co.kr/view/AKR20261120132200002",
       "pubDate": "Fri, 20 Nov 2026 15:53:40 +0900"
-    },
-    {
-      "title": "[게시판] 기획처·중장기전략委, AI 확산 영향 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261120115700002",
-      "pubDate": "Fri, 20 Nov 2026 15:52:17 +0900"
-    },
-    {
-      "title": "[특징주] 이수페타시스, 목표가 하향속 16% 폭락 마감(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261120048151008",
-      "pubDate": "Fri, 20 Nov 2026 15:49:48 +0900"
     }
   ]
 }
