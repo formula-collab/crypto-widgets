@@ -1,8 +1,68 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795210566,
+  "updated_at_unix": 1795229616,
   "items": [
+    {
+      "title": "[부고] 이창봉(삼성증권 이사)씨 장모상",
+      "link": "https://www.yna.co.kr/view/AKR20261121029200008",
+      "pubDate": "Sat, 21 Nov 2026 11:13:19 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261121024500011",
+      "pubDate": "Sat, 21 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+      "link": "https://www.yna.co.kr/view/AKR20261121023800530",
+      "pubDate": "Sat, 21 Nov 2026 10:12:05 +0900"
+    },
+    {
+      "title": "[바이오사이언스] 바이오의약품 임상 승인 203건…분기마다 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261120156900017",
+      "pubDate": "Sat, 21 Nov 2026 10:00:03 +0900"
+    },
+    {
+      "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
+      "link": "https://www.yna.co.kr/view/AKR20261120113700062",
+      "pubDate": "Sat, 21 Nov 2026 09:35:00 +0900"
+    },
+    {
+      "title": "[민선9기 서울] 서준오 노원구청장 \"베드타운 벗고 기업집중 경제도시로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120135700004",
+      "pubDate": "Sat, 21 Nov 2026 09:00:01 +0900"
+    },
+    {
+      "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120167400002",
+      "pubDate": "Sat, 21 Nov 2026 09:00:00 +0900"
+    },
+    {
+      "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+      "link": "https://www.yna.co.kr/view/AKR20261121014700002",
+      "pubDate": "Sat, 21 Nov 2026 08:36:08 +0900"
+    },
+    {
+      "title": "[금주핫템] 일리윤 '멀티베리어 페이셜'·템퍼 '어고 프로 스마트 베이스'",
+      "link": "https://www.yna.co.kr/view/AKR20261120109100030",
+      "pubDate": "Sat, 21 Nov 2026 07:00:13 +0900"
+    },
+    {
+      "title": "[신상잇슈] 동서식품 '겨울한정 카누캡슐'·팔도 '팔도비빔면 윈터에디션'",
+      "link": "https://www.yna.co.kr/view/AKR20261120116000030",
+      "pubDate": "Sat, 21 Nov 2026 07:00:10 +0900"
+    },
+    {
+      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+      "link": "https://www.yna.co.kr/view/AKR20261120164900003",
+      "pubDate": "Sat, 21 Nov 2026 07:00:02 +0900"
+    },
+    {
+      "title": "[AI돋보기] 해킹에 커닝까지…AI의 역습에 한국 사회 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261119149900017",
+      "pubDate": "Sat, 21 Nov 2026 06:33:01 +0900"
+    },
     {
       "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
       "link": "https://www.yna.co.kr/view/AKR20261120124100003",
@@ -92,66 +152,6 @@
       "title": "내년 공동주택 공시가격 현실화율 69% 유지…5년째 동결",
       "link": "https://www.yna.co.kr/view/AKR20261120143400003",
       "pubDate": "Fri, 20 Nov 2026 16:38:30 +0900"
-    },
-    {
-      "title": "'의료용 기기 제조업' 엠비디, 코스닥 신규상장…24일 첫 거래",
-      "link": "https://www.yna.co.kr/view/AKR20261120143600008",
-      "pubDate": "Fri, 20 Nov 2026 16:35:20 +0900"
-    },
-    {
-      "title": "제주반도체 \"종속회사 H에 260억원 출자\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120142000008",
-      "pubDate": "Fri, 20 Nov 2026 16:34:36 +0900"
-    },
-    {
-      "title": "코스피 추락 어디까지…앤트로픽 역대급 IPO에도 투심 회복 실패(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261120085151008",
-      "pubDate": "Fri, 20 Nov 2026 16:34:02 +0900"
-    },
-    {
-      "title": "5%대 급락 '검은 금요일'…코스피 4,800대로 후퇴, 10개월만 최저(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261120137600008",
-      "pubDate": "Fri, 20 Nov 2026 16:29:21 +0900"
-    },
-    {
-      "title": "춘천시, 외국인주민 지원 경진대회 장려상…'LINK 모델' 발표",
-      "link": "https://www.yna.co.kr/view/AKR20261120135200062",
-      "pubDate": "Fri, 20 Nov 2026 16:09:53 +0900"
-    },
-    {
-      "title": "태백시 \"2조원대 미래산업 추진…일자리 1천800개 기대\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120134900062",
-      "pubDate": "Fri, 20 Nov 2026 16:07:47 +0900"
-    },
-    {
-      "title": "지엔코, 30억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20261120136600008",
-      "pubDate": "Fri, 20 Nov 2026 16:07:21 +0900"
-    },
-    {
-      "title": "외교1차관, 우루과이에 메르코수르 무역협정 재개 협조 당부",
-      "link": "https://www.yna.co.kr/view/AKR20261120132600504",
-      "pubDate": "Fri, 20 Nov 2026 16:05:58 +0900"
-    },
-    {
-      "title": "강원대 대학원에 국방반도체학과 신설…한화시스템 취업 연계",
-      "link": "https://www.yna.co.kr/view/AKR20261120134200062",
-      "pubDate": "Fri, 20 Nov 2026 16:05:09 +0900"
-    },
-    {
-      "title": "[울산소식] 보이스피싱 피해 막은 새마을금고 직원에 경찰 감사장",
-      "link": "https://www.yna.co.kr/view/AKR20261120131700057",
-      "pubDate": "Fri, 20 Nov 2026 16:01:57 +0900"
-    },
-    {
-      "title": "울산 5개 구·군, 29년째 동결된 공영주차장 요금 인상 건의키로",
-      "link": "https://www.yna.co.kr/view/AKR20261120130300057",
-      "pubDate": "Fri, 20 Nov 2026 15:54:16 +0900"
-    },
-    {
-      "title": "환율, 강달러·주가 급락에 6.2원 오른 1,336.2원",
-      "link": "https://www.yna.co.kr/view/AKR20261120132200002",
-      "pubDate": "Fri, 20 Nov 2026 15:53:40 +0900"
     }
   ]
 }
