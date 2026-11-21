@@ -1,8 +1,138 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795282831,
+  "updated_at_unix": 1795300279,
   "items": [
+    {
+      "title": "iH, '이주비 대출이자 대납에 95억 과세' 취소소송 승소",
+      "link": "https://www.yna.co.kr/view/AKR20261120089300065",
+      "pubDate": "Sun, 22 Nov 2026 07:17:00 +0900"
+    },
+    {
+      "title": "부실기업 퇴출 중단에 관리종목만 쌓여…\"제도 재정비\" 요구도",
+      "link": "https://www.yna.co.kr/view/AKR20261121046200008",
+      "pubDate": "Sun, 22 Nov 2026 06:35:00 +0900"
+    },
+    {
+      "title": "[웰컴 2천만] ② 관광도 '서울공화국'…지방 살려야 3천만 시대 온다",
+      "link": "https://www.yna.co.kr/view/AKR20261121039600030",
+      "pubDate": "Sun, 22 Nov 2026 06:31:02 +0900"
+    },
+    {
+      "title": "韓 ESG채권 발행 16% 늘었지만…공공기관·은행 쏠림 심화",
+      "link": "https://www.yna.co.kr/view/AKR20261121026400008",
+      "pubDate": "Sun, 22 Nov 2026 06:30:01 +0900"
+    },
+    {
+      "title": "서울 집값 상승에도 내집마련 기간 14→12년…왜 줄었나",
+      "link": "https://www.yna.co.kr/view/AKR20261121044900003",
+      "pubDate": "Sun, 22 Nov 2026 06:21:01 +0900"
+    },
+    {
+      "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+      "link": "https://www.yna.co.kr/view/AKR20261121027600008",
+      "pubDate": "Sun, 22 Nov 2026 06:20:00 +0900"
+    },
+    {
+      "title": "'수출 1조달러' 한국, 세계 4위 전망…반도체 빼면 세계 8위",
+      "link": "https://www.yna.co.kr/view/AKR20261120179700003",
+      "pubDate": "Sun, 22 Nov 2026 06:15:02 +0900"
+    },
+    {
+      "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대",
+      "link": "https://www.yna.co.kr/view/AKR20261121043900003",
+      "pubDate": "Sun, 22 Nov 2026 06:13:00 +0900"
+    },
+    {
+      "title": "중·미 넘어 유럽·중남미까지…K-라면 연간 수출 20억달러 육박",
+      "link": "https://www.yna.co.kr/view/AKR20261121023200030",
+      "pubDate": "Sun, 22 Nov 2026 06:10:01 +0900"
+    },
+    {
+      "title": "같은 4,800선인데도…코스피 '1조클럽', 1월보다 11% 줄었다",
+      "link": "https://www.yna.co.kr/view/AKR20261121035000008",
+      "pubDate": "Sun, 22 Nov 2026 06:05:01 +0900"
+    },
+    {
+      "title": "국가기술자격 540종목 대대적 정비…수요 적은 시험부터 손본다",
+      "link": "https://www.yna.co.kr/view/AKR20261120179900530",
+      "pubDate": "Sun, 22 Nov 2026 06:04:00 +0900"
+    },
+    {
+      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
+      "link": "https://www.yna.co.kr/view/AKR20261121000200008",
+      "pubDate": "Sun, 22 Nov 2026 06:00:06 +0900"
+    },
+    {
+      "title": "\"빚 갚아\" 지인 협박…가족 공무원연금 통장서 1억6천만원 뜯어",
+      "link": "https://www.yna.co.kr/view/AKR20261121036700062",
+      "pubDate": "Sun, 22 Nov 2026 06:00:06 +0900"
+    },
+    {
+      "title": "[소셜＋] \"여전히 4개에 1천원?\"…SNS 타고 입소문 난 '초저가' 붕어빵집",
+      "link": "https://www.yna.co.kr/view/AKR20261119119600505",
+      "pubDate": "Sun, 22 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "'해킹 피해' 디센트, 가상자산 앱 지갑 서비스 종료 수순",
+      "link": "https://www.yna.co.kr/view/AKR20261121047900002",
+      "pubDate": "Sun, 22 Nov 2026 05:59:01 +0900"
+    },
+    {
+      "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
+      "link": "https://www.yna.co.kr/view/AKR20261121044700002",
+      "pubDate": "Sun, 22 Nov 2026 05:57:01 +0900"
+    },
+    {
+      "title": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
+      "link": "https://www.yna.co.kr/view/AKR20261121050500003",
+      "pubDate": "Sun, 22 Nov 2026 05:55:30 +0900"
+    },
+    {
+      "title": "내달 강남권 첫 재초환 부담금…서울 52개 단지 1억1천만원씩",
+      "link": "https://www.yna.co.kr/view/AKR20261121036800003",
+      "pubDate": "Sun, 22 Nov 2026 05:55:20 +0900"
+    },
+    {
+      "title": "디지털자산 시장 전면 규율…기본법 정부안 이번 주 공개",
+      "link": "https://www.yna.co.kr/view/AKR20261121042700002",
+      "pubDate": "Sun, 22 Nov 2026 05:55:00 +0900"
+    },
+    {
+      "title": "배보다 큰 배꼽…계열사 상표권 없으면 사실상 적자 회사 13곳",
+      "link": "https://www.yna.co.kr/view/AKR20261120166700002",
+      "pubDate": "Sun, 22 Nov 2026 05:53:00 +0900"
+    },
+    {
+      "title": "우대금리 축소 이달까지 자체점검…10년 고정금리 논의 곧 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261121044800002",
+      "pubDate": "Sun, 22 Nov 2026 05:51:01 +0900"
+    },
+    {
+      "title": "작년 '시세 17억원' 주택자산 보유 30대 1만8천명…1년새 70%↑",
+      "link": "https://www.yna.co.kr/view/AKR20261121036000002",
+      "pubDate": "Sun, 22 Nov 2026 05:49:02 +0900"
+    },
+    {
+      "title": "1인가구 주택소유비중 역대 최고…5집 중 1집 '나 혼자 산다'",
+      "link": "https://www.yna.co.kr/view/AKR20261121043200002",
+      "pubDate": "Sun, 22 Nov 2026 05:49:02 +0900"
+    },
+    {
+      "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
+      "link": "https://www.yna.co.kr/view/AKR20261121040600002",
+      "pubDate": "Sun, 22 Nov 2026 05:47:00 +0900"
+    },
+    {
+      "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20261121026100002",
+      "pubDate": "Sun, 22 Nov 2026 05:45:02 +0900"
+    },
+    {
+      "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+      "link": "https://www.yna.co.kr/view/AKR20261121021600002",
+      "pubDate": "Sun, 22 Nov 2026 05:45:01 +0900"
+    },
     {
       "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
       "link": "https://www.yna.co.kr/view/AKR20261121035200030",
@@ -22,136 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20261121024500011",
       "pubDate": "Sat, 21 Nov 2026 10:30:00 +0900"
-    },
-    {
-      "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261121023800530",
-      "pubDate": "Sat, 21 Nov 2026 10:12:05 +0900"
-    },
-    {
-      "title": "[바이오사이언스] 바이오의약품 임상 승인 203건…분기마다 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261120156900017",
-      "pubDate": "Sat, 21 Nov 2026 10:00:03 +0900"
-    },
-    {
-      "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
-      "link": "https://www.yna.co.kr/view/AKR20261120113700062",
-      "pubDate": "Sat, 21 Nov 2026 09:35:00 +0900"
-    },
-    {
-      "title": "[민선9기 서울] 서준오 노원구청장 \"베드타운 벗고 기업집중 경제도시로\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120135700004",
-      "pubDate": "Sat, 21 Nov 2026 09:00:01 +0900"
-    },
-    {
-      "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120167400002",
-      "pubDate": "Sat, 21 Nov 2026 09:00:00 +0900"
-    },
-    {
-      "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
-      "link": "https://www.yna.co.kr/view/AKR20261121014700002",
-      "pubDate": "Sat, 21 Nov 2026 08:36:08 +0900"
-    },
-    {
-      "title": "[금주핫템] 일리윤 '멀티베리어 페이셜'·템퍼 '어고 프로 스마트 베이스'",
-      "link": "https://www.yna.co.kr/view/AKR20261120109100030",
-      "pubDate": "Sat, 21 Nov 2026 07:00:13 +0900"
-    },
-    {
-      "title": "[신상잇슈] 동서식품 '겨울한정 카누캡슐'·팔도 '팔도비빔면 윈터에디션'",
-      "link": "https://www.yna.co.kr/view/AKR20261120116000030",
-      "pubDate": "Sat, 21 Nov 2026 07:00:10 +0900"
-    },
-    {
-      "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
-      "link": "https://www.yna.co.kr/view/AKR20261120164900003",
-      "pubDate": "Sat, 21 Nov 2026 07:00:02 +0900"
-    },
-    {
-      "title": "[AI돋보기] 해킹에 커닝까지…AI의 역습에 한국 사회 비상",
-      "link": "https://www.yna.co.kr/view/AKR20261119149900017",
-      "pubDate": "Sat, 21 Nov 2026 06:33:01 +0900"
-    },
-    {
-      "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
-      "link": "https://www.yna.co.kr/view/AKR20261120124100003",
-      "pubDate": "Sat, 21 Nov 2026 06:00:03 +0900"
-    },
-    {
-      "title": "주유소 기름값 27주째 하락…서울 휘발유 평균도 1천800원대로",
-      "link": "https://www.yna.co.kr/view/AKR20261120163100003",
-      "pubDate": "Sat, 21 Nov 2026 06:00:00 +0900"
-    },
-    {
-      "title": "[게시판] 대한주택관리사협회 신임 회장에 박병남 서울시회장",
-      "link": "https://www.yna.co.kr/view/AKR20261120169500003",
-      "pubDate": "Fri, 20 Nov 2026 19:13:45 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261120153100011",
-      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "지난달 카드론 잔액 42조6천701억원…4개월 만에 증가",
-      "link": "https://www.yna.co.kr/view/AKR20261120158200002",
-      "pubDate": "Fri, 20 Nov 2026 17:58:24 +0900"
-    },
-    {
-      "title": "강원도, 글로벌 웰니스데이와 관광 협력…7개 기관 업무협약",
-      "link": "https://www.yna.co.kr/view/AKR20261120158000062",
-      "pubDate": "Fri, 20 Nov 2026 17:55:52 +0900"
-    },
-    {
-      "title": "큐로셀 \"CAR-T 치료제 림카토에 내달부터 건강보험 적용\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120159800017",
-      "pubDate": "Fri, 20 Nov 2026 17:51:31 +0900"
-    },
-    {
-      "title": "서울시 \"세운4 보존방안 부결은 폭력적 행정…'몽니' 중단해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120158100004",
-      "pubDate": "Fri, 20 Nov 2026 17:41:16 +0900"
-    },
-    {
-      "title": "송미령 농식품장관, 농촌 사회연대경제 활성화 간담회",
-      "link": "https://www.yna.co.kr/view/AKR20261120102000030",
-      "pubDate": "Fri, 20 Nov 2026 17:30:00 +0900"
-    },
-    {
-      "title": "[충북소식] '제20회 기업인의 날' 행사 개최",
-      "link": "https://www.yna.co.kr/view/AKR20261120156200064",
-      "pubDate": "Fri, 20 Nov 2026 17:29:30 +0900"
-    },
-    {
-      "title": "KB금융 떠나는 양종희 회장 \"어디에 있든 KB 맨\"",
-      "link": "https://www.yna.co.kr/view/AKR20261120144200002",
-      "pubDate": "Fri, 20 Nov 2026 17:10:33 +0900"
-    },
-    {
-      "title": "행안부 평가는 최고, 시 감사서는 무더기 지적 '전주시설공단'",
-      "link": "https://www.yna.co.kr/view/AKR20261120148700055",
-      "pubDate": "Fri, 20 Nov 2026 17:03:27 +0900"
-    },
-    {
-      "title": "[AI픽] 시각장애인 돕는 AI 로봇까지…애플 아카데미 5년의 성과",
-      "link": "https://www.yna.co.kr/view/AKR20261120087700017",
-      "pubDate": "Fri, 20 Nov 2026 17:00:02 +0900"
-    },
-    {
-      "title": "울주군, 지방세 성실납세자 경품 추첨…660명 온누리상품권",
-      "link": "https://www.yna.co.kr/view/AKR20261120125100057",
-      "pubDate": "Fri, 20 Nov 2026 16:54:32 +0900"
-    },
-    {
-      "title": "'AI병목 발생 인프라기업 투자 액티브' 등 ETF 2종 신규상장",
-      "link": "https://www.yna.co.kr/view/AKR20261120148100008",
-      "pubDate": "Fri, 20 Nov 2026 16:52:54 +0900"
-    },
-    {
-      "title": "증시 급락에 위험회피…국고채 금리 일제히 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261120145551008",
-      "pubDate": "Fri, 20 Nov 2026 16:52:13 +0900"
     }
   ]
 }
