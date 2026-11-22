@@ -1,8 +1,73 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795370188,
+  "updated_at_unix": 1795388456,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261123009600011",
+      "pubDate": "Mon, 23 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "title": "미래기금 이관 '청년 주거급여 분리지급' 내년 예산 38%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261123006300003",
+      "pubDate": "Mon, 23 Nov 2026 06:34:46 +0900"
+    },
+    {
+      "title": "빗썸, 기타소득세 취소 소송 일부 승소…\"218억 취소\"",
+      "link": "https://www.yna.co.kr/view/AKR20261120167700002",
+      "pubDate": "Mon, 23 Nov 2026 06:01:00 +0900"
+    },
+    {
+      "title": "서울시 '중장년 경제교육' 7천명 참여…경제이해도 24점↑",
+      "link": "https://www.yna.co.kr/view/AKR20261122028400004",
+      "pubDate": "Mon, 23 Nov 2026 06:00:07 +0900"
+    },
+    {
+      "title": "통상본부장, 굴 수출기업·딸기 농가 찾아 K-푸드 수출지원 논의",
+      "link": "https://www.yna.co.kr/view/AKR20261122033000003",
+      "pubDate": "Mon, 23 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "코트라 등 팀코리아, 인도 비샤카파트남서 경협 세미나",
+      "link": "https://www.yna.co.kr/view/AKR20261122033400003",
+      "pubDate": "Mon, 23 Nov 2026 06:00:03 +0900"
+    },
+    {
+      "title": "\"분양가 너무 높아\"…남양주 수분양자들 소송 내 46억원 받아",
+      "link": "https://www.yna.co.kr/view/AKR20261122038400004",
+      "pubDate": "Mon, 23 Nov 2026 06:00:02 +0900"
+    },
+    {
+      "title": "세무서 전화상담 절반 이상 AI가 처리…OECD, 한국 사례 소개",
+      "link": "https://www.yna.co.kr/view/AKR20261121023100002",
+      "pubDate": "Mon, 23 Nov 2026 05:59:12 +0900"
+    },
+    {
+      "title": "농협-온투업 연계대출 내달 초 출시…상호금융 확대 기대",
+      "link": "https://www.yna.co.kr/view/AKR20261122039100002",
+      "pubDate": "Mon, 23 Nov 2026 05:58:01 +0900"
+    },
+    {
+      "title": "5대은행 올해 부실채권 5.8조 정리…中企 연체율은 대기업의 3배",
+      "link": "https://www.yna.co.kr/view/AKR20261122031400002",
+      "pubDate": "Mon, 23 Nov 2026 05:57:00 +0900"
+    },
+    {
+      "title": "서울 4성급 이상 호텔 교통유발부담금 29억 줄었다…77곳 37%↓",
+      "link": "https://www.yna.co.kr/view/AKR20261120145600004",
+      "pubDate": "Mon, 23 Nov 2026 05:55:02 +0900"
+    },
+    {
+      "title": "내년 공시가 현실화율 동결…비강남·경기남부 상승률 비상",
+      "link": "https://www.yna.co.kr/view/AKR20261122049700003",
+      "pubDate": "Mon, 23 Nov 2026 05:55:01 +0900"
+    },
+    {
+      "title": "네파·두나무, 공정위 이후엔…지분규제·대주주변경 '당국관문'",
+      "link": "https://www.yna.co.kr/view/AKR20261121045900002",
+      "pubDate": "Mon, 23 Nov 2026 05:51:00 +0900"
+    },
     {
       "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20261122044351002",
@@ -87,71 +152,6 @@
       "title": "이억원, FSB 총회서 AI·스테이블코인 등 논의…금융 안정 모색",
       "link": "https://www.yna.co.kr/view/AKR20261121052300002",
       "pubDate": "Sun, 22 Nov 2026 12:00:04 +0900"
-    },
-    {
-      "title": "콩당골드·유영·허벅술·달과031 등 12개 'K-술 어워드' 선정",
-      "link": "https://www.yna.co.kr/view/AKR20261121018300002",
-      "pubDate": "Sun, 22 Nov 2026 12:00:04 +0900"
-    },
-    {
-      "title": "중소기업 청년채용 최대 애로사항은 \"조기퇴사로 채용 반복\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122010100003",
-      "pubDate": "Sun, 22 Nov 2026 12:00:03 +0900"
-    },
-    {
-      "title": "직장인 53% \"회사 인트라넷 사진 AI 성범죄에 악용될까 불안\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122015800004",
-      "pubDate": "Sun, 22 Nov 2026 12:00:01 +0900"
-    },
-    {
-      "title": "춘천시, 중기부 창업도시 공모 도전…4년간 국비 600억원 규모",
-      "link": "https://www.yna.co.kr/view/AKR20261120132900062",
-      "pubDate": "Sun, 22 Nov 2026 11:30:00 +0900"
-    },
-    {
-      "title": "삼성물산 홈닉, 한양건설 아파트에 도입…입주민 주거서비스",
-      "link": "https://www.yna.co.kr/view/AKR20261122020300003",
-      "pubDate": "Sun, 22 Nov 2026 11:23:44 +0900"
-    },
-    {
-      "title": "서울시 청년 외식업 창업교육매장 3년 생존율 82%…평균比 34%↑",
-      "link": "https://www.yna.co.kr/view/AKR20261122012900004",
-      "pubDate": "Sun, 22 Nov 2026 11:15:02 +0900"
-    },
-    {
-      "title": "인왕산 자락 서울 옥인동 공영주차장 등 주택기반시설 확충",
-      "link": "https://www.yna.co.kr/view/AKR20261122014300004",
-      "pubDate": "Sun, 22 Nov 2026 11:15:00 +0900"
-    },
-    {
-      "title": "노동장관 \"정년연장, 27일 與 특위서 결론 안 나면 정부안 발표\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122019000530",
-      "pubDate": "Sun, 22 Nov 2026 11:05:11 +0900"
-    },
-    {
-      "title": "민관 합작투자로 동유럽에 물류 거점 잇따라 확보",
-      "link": "https://www.yna.co.kr/view/AKR20261120124300051",
-      "pubDate": "Sun, 22 Nov 2026 11:00:05 +0900"
-    },
-    {
-      "title": "양돈농장도 민간 거점소독시설 지정…CCTV 설치시 인력기준 완화",
-      "link": "https://www.yna.co.kr/view/AKR20261120143300030",
-      "pubDate": "Sun, 22 Nov 2026 11:00:04 +0900"
-    },
-    {
-      "title": "해수부, 내달 4일까지 김장철 수산물 원산지 표시 특별점검",
-      "link": "https://www.yna.co.kr/view/AKR20261120134300030",
-      "pubDate": "Sun, 22 Nov 2026 11:00:03 +0900"
-    },
-    {
-      "title": "현대연 \"남북 4대 교류사업으로 관계 개선 대비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261121047300002",
-      "pubDate": "Sun, 22 Nov 2026 11:00:03 +0900"
-    },
-    {
-      "title": "대학생 45% \"취업 작년보다 어렵다\"…5명 중 1명만 서류합격",
-      "link": "https://www.yna.co.kr/view/AKR20261122018700003",
-      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0900"
     }
   ]
 }
