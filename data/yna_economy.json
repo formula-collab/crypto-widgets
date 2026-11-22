@@ -1,8 +1,13 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795343246,
+  "updated_at_unix": 1795370188,
   "items": [
+    {
+      "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20261122044351002",
+      "pubDate": "Sun, 22 Nov 2026 21:51:42 +0900"
+    },
     {
       "title": "토스, 캐나다 현지 법인 설립…인허가·금융사 제휴 준비",
       "link": "https://www.yna.co.kr/view/AKR20261122044700017",
@@ -147,11 +152,6 @@
       "title": "대학생 45% \"취업 작년보다 어렵다\"…5명 중 1명만 서류합격",
       "link": "https://www.yna.co.kr/view/AKR20261122018700003",
       "pubDate": "Sun, 22 Nov 2026 11:00:00 +0900"
-    },
-    {
-      "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261122016800001",
-      "pubDate": "Sun, 22 Nov 2026 10:38:32 +0900"
     }
   ]
 }
