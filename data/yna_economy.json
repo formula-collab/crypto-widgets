@@ -1,8 +1,103 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795617727,
+  "updated_at_unix": 1795649014,
   "items": [
+    {
+      "title": "중진공, 내달 2일까지 '온라인수출 교육·상담회' 참여기업 공모",
+      "link": "https://www.yna.co.kr/view/AKR20261126025000030",
+      "pubDate": "Thu, 26 Nov 2026 08:11:19 +0900"
+    },
+    {
+      "title": "급락장에 자사주 1일 취득 한도 완화…증시 버팀목 효과는?",
+      "link": "https://www.yna.co.kr/view/AKR20261125170400008",
+      "pubDate": "Thu, 26 Nov 2026 08:00:03 +0900"
+    },
+    {
+      "title": "[마켓뷰] 추가 변동성? 반등 시도? 코스피 향배 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261126000900008",
+      "pubDate": "Thu, 26 Nov 2026 07:58:25 +0900"
+    },
+    {
+      "title": "롯데百 명동, 지하광장·대형전광판 조성…'빛의 랜드마크' 변신",
+      "link": "https://www.yna.co.kr/view/AKR20261125165700030",
+      "pubDate": "Thu, 26 Nov 2026 07:56:00 +0900"
+    },
+    {
+      "title": "'사람 중심 도시' 해법…세계스마트시티기구 상파울루 총회 개막",
+      "link": "https://www.yna.co.kr/view/AKR20261126014900371",
+      "pubDate": "Thu, 26 Nov 2026 07:54:25 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261126015800011",
+      "pubDate": "Thu, 26 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "title": "[우분투칼럼] 에티오피아-에리트레아 갈등…홍해 위기의 또 다른 단면",
+      "link": "https://www.yna.co.kr/view/AKR20261124123800898",
+      "pubDate": "Thu, 26 Nov 2026 07:00:06 +0900"
+    },
+    {
+      "title": "빗썸, 3분기 가상자산 처분손실 690억원…작년 동기 86배",
+      "link": "https://www.yna.co.kr/view/AKR20261125165200002",
+      "pubDate": "Thu, 26 Nov 2026 06:45:01 +0900"
+    },
+    {
+      "title": "[반려동물] \"사료·간식도 동네 편의점서\"…전용매대 늘리고 매출도 '쑥'",
+      "link": "https://www.yna.co.kr/view/AKR20261125112300030",
+      "pubDate": "Thu, 26 Nov 2026 06:15:00 +0900"
+    },
+    {
+      "title": "업비트서 바이낸스로 반년간 4천억원 순유출…\"파생상품 수요\"",
+      "link": "https://www.yna.co.kr/view/AKR20261125137600002",
+      "pubDate": "Thu, 26 Nov 2026 06:13:01 +0900"
+    },
+    {
+      "title": "AI 시험 부정행위 장비 판매 관련 지갑에 28억원어치 테더 유입",
+      "link": "https://www.yna.co.kr/view/AKR20261125177600002",
+      "pubDate": "Thu, 26 Nov 2026 06:05:01 +0900"
+    },
+    {
+      "title": "지역 간 주거 격차 완화 방안 모색…국제주택도시금융포럼",
+      "link": "https://www.yna.co.kr/view/AKR20261125127700003",
+      "pubDate": "Thu, 26 Nov 2026 06:00:17 +0900"
+    },
+    {
+      "title": "국민 84% \"서비스산업 중요\"…취업 선호도는 제조업보다 낮아",
+      "link": "https://www.yna.co.kr/view/AKR20261125156200003",
+      "pubDate": "Thu, 26 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "title": "서울신용보증재단, 소상공인 규제혁신 공로 '대통령 표창' 수상",
+      "link": "https://www.yna.co.kr/view/AKR20261125166000004",
+      "pubDate": "Thu, 26 Nov 2026 06:00:01 +0900"
+    },
+    {
+      "title": "9월 개인사업자·가계신용대출 부실채권비율 12년 만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20261125175600002",
+      "pubDate": "Thu, 26 Nov 2026 06:00:00 +0900"
+    },
+    {
+      "title": "올해 마지막 금통위…금리 3.25%로 올리고 성장전망 상향할듯",
+      "link": "https://www.yna.co.kr/view/AKR20261125128400002",
+      "pubDate": "Thu, 26 Nov 2026 05:45:01 +0900"
+    },
+    {
+      "title": "국세청장 후보자 인사청문회…비거주 1주택 등 공방 예상",
+      "link": "https://www.yna.co.kr/view/AKR20261125150200001",
+      "pubDate": "Thu, 26 Nov 2026 05:00:03 +0900"
+    },
+    {
+      "title": "민주노총 위원장 선거 결선으로…양경수·엄길용 2파전",
+      "link": "https://www.yna.co.kr/view/AKR20261126001900530",
+      "pubDate": "Thu, 26 Nov 2026 01:28:22 +0900"
+    },
+    {
+      "title": "역대급 대미흑자 관세 부메랑 피했다…15% 사수에 일단 안도",
+      "link": "https://www.yna.co.kr/view/AKR20261126002000003",
+      "pubDate": "Thu, 26 Nov 2026 01:26:29 +0900"
+    },
     {
       "title": "10조원대 증안펀드 확대되나…산은, 금융사 추가 출자 타진",
       "link": "https://www.yna.co.kr/view/AKR20261125183800002",
@@ -57,101 +152,6 @@
       "title": "안전문화 우수사례 대상에 KT…성심당·제주노사민정협 최우수상",
       "link": "https://www.yna.co.kr/view/AKR20261125165100530",
       "pubDate": "Wed, 25 Nov 2026 18:05:33 +0900"
-    },
-    {
-      "title": "박홍근 \"'교황 방한' 2027 세계청년대회, 국격 높이도록 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125165000002",
-      "pubDate": "Wed, 25 Nov 2026 18:04:36 +0900"
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20261125155400011",
-      "pubDate": "Wed, 25 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "title": "KT, 안전문화 확산 공로로 고용노동부 장관상 수상",
-      "link": "https://www.yna.co.kr/view/AKR20261125161500017",
-      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "황종우 해수장관, 국가 어업지도선 '무궁화 10호' 취항 축하",
-      "link": "https://www.yna.co.kr/view/AKR20261125164100030",
-      "pubDate": "Wed, 25 Nov 2026 17:57:48 +0900"
-    },
-    {
-      "title": "산업장관 \"중국에 밀릴 수도…52시간 특례 내일이라도 시작해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125163400003",
-      "pubDate": "Wed, 25 Nov 2026 17:53:52 +0900"
-    },
-    {
-      "title": "통화내용 듣고 보이스피싱 직감…은행원이 840만원 피해 막아",
-      "link": "https://www.yna.co.kr/view/AKR20261125152300054",
-      "pubDate": "Wed, 25 Nov 2026 17:52:08 +0900"
-    },
-    {
-      "title": "광화문 오피스 케이트윈타워, 1조원에 이지스운용이 인수",
-      "link": "https://www.yna.co.kr/view/AKR20261125155300003",
-      "pubDate": "Wed, 25 Nov 2026 17:43:09 +0900"
-    },
-    {
-      "title": "농식품부, K-뷰티·그린바이오 협력 확대…소재 산업화 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261125149000030",
-      "pubDate": "Wed, 25 Nov 2026 17:30:00 +0900"
-    },
-    {
-      "title": "전남광주 반도체 건설인력 주거대책 마련…모듈러 주택도 검토",
-      "link": "https://www.yna.co.kr/view/AKR20261125157200054",
-      "pubDate": "Wed, 25 Nov 2026 17:22:40 +0900"
-    },
-    {
-      "title": "李대통령 \"공적임대주택, 중산층도 선택하는 주거사다리 역할\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125141300001",
-      "pubDate": "Wed, 25 Nov 2026 17:08:59 +0900"
-    },
-    {
-      "title": "'금통위 D-1' 국고채 금리 일제히 하락…3년물 연 3.583%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261125149151008",
-      "pubDate": "Wed, 25 Nov 2026 17:05:48 +0900"
-    },
-    {
-      "title": "여성기업계 \"AI 활용 위해 중소기업 지원 확대 필요\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125030000003",
-      "pubDate": "Wed, 25 Nov 2026 17:00:04 +0900"
-    },
-    {
-      "title": "이형일 \"노사 협력해 기업 여건 맞는 자율 임금체계 도입해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125131000002",
-      "pubDate": "Wed, 25 Nov 2026 17:00:03 +0900"
-    },
-    {
-      "title": "청주 옛 국정원 부지에 복합문화공간·공공주차장 조성키로",
-      "link": "https://www.yna.co.kr/view/AKR20261125148300064",
-      "pubDate": "Wed, 25 Nov 2026 16:46:05 +0900"
-    },
-    {
-      "title": "국고채 금리 일제히 하락…3년물 연 3.583%",
-      "link": "https://www.yna.co.kr/view/AKR20261125149100008",
-      "pubDate": "Wed, 25 Nov 2026 16:40:49 +0900"
-    },
-    {
-      "title": "[게시판] 한국신용정보원, 한국에너지공단과 데이터 협력 세미나",
-      "link": "https://www.yna.co.kr/view/AKR20261125144300002",
-      "pubDate": "Wed, 25 Nov 2026 16:30:08 +0900"
-    },
-    {
-      "title": "우리은행, 남양주 다산연수원 기공식…\"지역 상생 공간 조성\"",
-      "link": "https://www.yna.co.kr/view/AKR20261125112600002",
-      "pubDate": "Wed, 25 Nov 2026 16:30:00 +0900"
-    },
-    {
-      "title": "송미령 농식품장관 \"국산 콩 소비 확대 필요…콩기름 시장 지원\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261125130751030",
-      "pubDate": "Wed, 25 Nov 2026 16:25:55 +0900"
-    },
-    {
-      "title": "반도체주 급락에 인버스 ETF 수익률 상위권 장악…화장품도 강세",
-      "link": "https://www.yna.co.kr/view/AKR20261125143100008",
-      "pubDate": "Wed, 25 Nov 2026 16:23:46 +0900"
     }
   ]
 }
