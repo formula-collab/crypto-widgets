@@ -1,8 +1,113 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795706993,
+  "updated_at_unix": 1795737401,
   "items": [
+    {
+      "title": "기보, 상생협력 확대로 중기부 장관 표창받아",
+      "link": "https://www.yna.co.kr/view/AKR20261127026500051",
+      "pubDate": "Fri, 27 Nov 2026 08:46:00 +0900"
+    },
+    {
+      "title": "아산시, 풍기역 신설·풍기역 지구 도시개발사업 본격 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261127025100063",
+      "pubDate": "Fri, 27 Nov 2026 08:44:35 +0900"
+    },
+    {
+      "title": "소진공 \"전통시장 김장 비용 32만3천원…온라인보다 5% 저렴\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127021000030",
+      "pubDate": "Fri, 27 Nov 2026 08:42:04 +0900"
+    },
+    {
+      "title": "키움증권, 펄어비스 목표가↓…\"신작 출시까지 실적 단절 구간\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127024000008",
+      "pubDate": "Fri, 27 Nov 2026 08:41:18 +0900"
+    },
+    {
+      "title": "신한증권 \"코스피 급락에도 바닥 판단 아직 일러\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127025200008",
+      "pubDate": "Fri, 27 Nov 2026 08:40:26 +0900"
+    },
+    {
+      "title": "SK증권 \"LG CNS, 내년부터 AI 인프라 사업 성장 본격화\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127023900008",
+      "pubDate": "Fri, 27 Nov 2026 08:36:27 +0900"
+    },
+    {
+      "title": "대신증권 \"코스피 언더슈팅\"…美 고용·젠슨황 청문회 주목",
+      "link": "https://www.yna.co.kr/view/AKR20261127022600008",
+      "pubDate": "Fri, 27 Nov 2026 08:34:01 +0900"
+    },
+    {
+      "title": "고양시, 교복 입찰 담합 의혹 철저한 진상 규명 촉구",
+      "link": "https://www.yna.co.kr/view/AKR20261127021300060",
+      "pubDate": "Fri, 27 Nov 2026 08:19:30 +0900"
+    },
+    {
+      "title": "DS증권, 두산로보틱스 목표가↓…\"외형성장 방향성은 유효\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127019700008",
+      "pubDate": "Fri, 27 Nov 2026 08:13:38 +0900"
+    },
+    {
+      "title": "한투증권 \"에이피알 브랜드501 인수, 밸류에이션 회복에 긍정적\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127020900008",
+      "pubDate": "Fri, 27 Nov 2026 08:12:04 +0900"
+    },
+    {
+      "title": "[마켓뷰] '찔끔' 반등한 코스피, 상승 출발할 듯…전강후약 벗어날까?",
+      "link": "https://www.yna.co.kr/view/AKR20261127017400008",
+      "pubDate": "Fri, 27 Nov 2026 08:04:21 +0900"
+    },
+    {
+      "title": "'한촌설렁탕' 이연에프엔씨 \"간편식 키워 2030년 매출 1천억원\"",
+      "link": "https://www.yna.co.kr/view/AKR20261125151000030",
+      "pubDate": "Fri, 27 Nov 2026 08:00:04 +0900"
+    },
+    {
+      "title": "부산시, 침체한 주택시장 살릴 맞춤형 정책 정부에 건의",
+      "link": "https://www.yna.co.kr/view/AKR20261127014700051",
+      "pubDate": "Fri, 27 Nov 2026 07:48:35 +0900"
+    },
+    {
+      "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청",
+      "link": "https://www.yna.co.kr/view/AKR20261126157100003",
+      "pubDate": "Fri, 27 Nov 2026 07:30:03 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20261127009900011",
+      "pubDate": "Fri, 27 Nov 2026 07:30:00 +0900"
+    },
+    {
+      "title": "서울 강서구, 내년 어르신 일자리 참여자 6천163명 모집",
+      "link": "https://www.yna.co.kr/view/AKR20261127010000004",
+      "pubDate": "Fri, 27 Nov 2026 07:07:40 +0900"
+    },
+    {
+      "title": "토익시험 은밀한 제안…\"650만원 주면 원하는 점수대로\"",
+      "link": "https://www.yna.co.kr/view/AKR20261126181200004",
+      "pubDate": "Fri, 27 Nov 2026 07:00:05 +0900"
+    },
+    {
+      "title": "서울 다산콜센터 해외서도 벤치마킹…이란에 '128콜센터' 설립",
+      "link": "https://www.yna.co.kr/view/AKR20261126165300004",
+      "pubDate": "Fri, 27 Nov 2026 06:00:08 +0900"
+    },
+    {
+      "title": "롯데멤버스, 세븐일레븐 결제 엘포인트 토스앱서 사후적립 서비스",
+      "link": "https://www.yna.co.kr/view/AKR20261126176200030",
+      "pubDate": "Fri, 27 Nov 2026 06:00:05 +0900"
+    },
+    {
+      "title": "대출 늘고 금리 오르며…은행 3분기까지 이자이익 48조원 넘어",
+      "link": "https://www.yna.co.kr/view/AKR20261126177900002",
+      "pubDate": "Fri, 27 Nov 2026 06:00:04 +0900"
+    },
+    {
+      "title": "3분기 보험사 대출잔액 2.1조원 줄어…연체율·부실채권비율↑",
+      "link": "https://www.yna.co.kr/view/AKR20261126188100002",
+      "pubDate": "Fri, 27 Nov 2026 06:00:03 +0900"
+    },
     {
       "title": "KS인더스트리, 50억원 유상증자…프라임라이트투자조합1호에 제3자배정",
       "link": "https://www.yna.co.kr/view/AKR20261126185200008",
@@ -47,111 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20261126171000011",
       "pubDate": "Thu, 26 Nov 2026 18:00:01 +0900"
-    },
-    {
-      "title": "원주시의회 산업경제위, 기업·인공지능 교육 현장 점검",
-      "link": "https://www.yna.co.kr/view/AKR20261126176000062",
-      "pubDate": "Thu, 26 Nov 2026 17:41:51 +0900"
-    },
-    {
-      "title": "한은, 12월 최대 5.7조원 규모 통화안정증권 발행",
-      "link": "https://www.yna.co.kr/view/AKR20261126175000002",
-      "pubDate": "Thu, 26 Nov 2026 17:30:05 +0900"
-    },
-    {
-      "title": "송미령 장관 \"토마토 바이러스 농가 보상…휴경 자금도 지원\"",
-      "link": "https://www.yna.co.kr/view/AKR20261126132800030",
-      "pubDate": "Thu, 26 Nov 2026 17:30:00 +0900"
-    },
-    {
-      "title": "재경부, 12월 국고채 2.2조원 발행…개인투자용은 미발행",
-      "link": "https://www.yna.co.kr/view/AKR20261126173400002",
-      "pubDate": "Thu, 26 Nov 2026 17:29:39 +0900"
-    },
-    {
-      "title": "박종복 은행연합회장 선출…신한금융 사외이사 사임(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126051451002",
-      "pubDate": "Thu, 26 Nov 2026 17:28:58 +0900"
-    },
-    {
-      "title": "경남도, 거제 남부관광단지 조성 승인…멸종위기 대흥란 이식",
-      "link": "https://www.yna.co.kr/view/AKR20261126173600052",
-      "pubDate": "Thu, 26 Nov 2026 17:25:48 +0900"
-    },
-    {
-      "title": "에이피알, 브랜드501 주식 700억원 규모 취득…\"경영권 확보\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126162651008",
-      "pubDate": "Thu, 26 Nov 2026 17:18:43 +0900"
-    },
-    {
-      "title": "해진공, 해상공급망 복원력·북극항로 해법 모색",
-      "link": "https://www.yna.co.kr/view/AKR20261126168800051",
-      "pubDate": "Thu, 26 Nov 2026 17:16:09 +0900"
-    },
-    {
-      "title": "자본시장개혁기구 수장에 메리츠 김용범…민간에 전권 부여",
-      "link": "https://www.yna.co.kr/view/AKR20261126171600002",
-      "pubDate": "Thu, 26 Nov 2026 17:15:58 +0900"
-    },
-    {
-      "title": "삼성카드, 배당성향 50%로 높인다…자사주 소각도 추진",
-      "link": "https://www.yna.co.kr/view/AKR20261126170400002",
-      "pubDate": "Thu, 26 Nov 2026 17:13:03 +0900"
-    },
-    {
-      "title": "신한은행, 강원체육 발전·우수선수 육성에 8천만원 기탁",
-      "link": "https://www.yna.co.kr/view/AKR20261126167900062",
-      "pubDate": "Thu, 26 Nov 2026 17:12:55 +0900"
-    },
-    {
-      "title": "무신사 스탠다드, 서울숲 스토어 개점…\"지역 상권 활성화 견인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126052651030",
-      "pubDate": "Thu, 26 Nov 2026 17:07:31 +0900"
-    },
-    {
-      "title": "울산중구의원 \"몰아주기 논란 업체와 또 계약…서류 오류 방치\"",
-      "link": "https://www.yna.co.kr/view/AKR20261126161400057",
-      "pubDate": "Thu, 26 Nov 2026 17:02:29 +0900"
-    },
-    {
-      "title": "춘천기업혁신파크, 수도권 바이오기업 유치 본격화",
-      "link": "https://www.yna.co.kr/view/AKR20261126167000062",
-      "pubDate": "Thu, 26 Nov 2026 17:01:16 +0900"
-    },
-    {
-      "title": "드림인사이트, 30억원 제3자배정 유상증자",
-      "link": "https://www.yna.co.kr/view/AKR20261126167300008",
-      "pubDate": "Thu, 26 Nov 2026 17:00:10 +0900"
-    },
-    {
-      "title": "외교차관, 온두라스·과테말라 차관과 투자·개발협력 등 논의",
-      "link": "https://www.yna.co.kr/view/AKR20261126166500504",
-      "pubDate": "Thu, 26 Nov 2026 16:59:05 +0900"
-    },
-    {
-      "title": "국고채 금리, 기준금리 인상·매파적 점도표에 상승(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261126162551008",
-      "pubDate": "Thu, 26 Nov 2026 16:50:28 +0900"
-    },
-    {
-      "title": "삼성화재 부사장에 조번형·황상민 선임",
-      "link": "https://www.yna.co.kr/view/AKR20261126163100002",
-      "pubDate": "Thu, 26 Nov 2026 16:50:10 +0900"
-    },
-    {
-      "title": "한-에콰도르 전략적경제협력협정 비준동의안, 외통위 통과",
-      "link": "https://www.yna.co.kr/view/AKR20261126152900001",
-      "pubDate": "Thu, 26 Nov 2026 16:49:20 +0900"
-    },
-    {
-      "title": "공사 멈춘 광주대표도서관에 지방채 90억 편성",
-      "link": "https://www.yna.co.kr/view/AKR20261126161900054",
-      "pubDate": "Thu, 26 Nov 2026 16:45:38 +0900"
-    },
-    {
-      "title": "에이피알 \"브랜드501 주식 700억원어치 추가취득…지분율 87.3%\"",
-      "link": "https://www.yna.co.kr/view/AKR20261126162600008",
-      "pubDate": "Thu, 26 Nov 2026 16:45:35 +0900"
     }
   ]
 }
