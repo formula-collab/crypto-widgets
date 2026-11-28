@@ -1,8 +1,38 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795824964,
+  "updated_at_unix": 1795853447,
   "items": [
+    {
+      "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20261127140100003",
+      "pubDate": "Sat, 28 Nov 2026 12:05:00 +0900"
+    },
+    {
+      "title": "[부고] 임문택(IBK연금보험 사장)씨 모친상",
+      "link": "https://www.yna.co.kr/view/AKR20261128027400002",
+      "pubDate": "Sat, 28 Nov 2026 11:17:08 +0900"
+    },
+    {
+      "title": "춘천시 골목상권 살리기 총력…야시장에 7만9천명 발길",
+      "link": "https://www.yna.co.kr/view/AKR20261127141500062",
+      "pubDate": "Sat, 28 Nov 2026 11:10:00 +0900"
+    },
+    {
+      "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+      "link": "https://www.yna.co.kr/view/AKR20261127066700980",
+      "pubDate": "Sat, 28 Nov 2026 10:30:02 +0900"
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20261128024500011",
+      "pubDate": "Sat, 28 Nov 2026 10:30:00 +0900"
+    },
+    {
+      "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
+      "link": "https://www.yna.co.kr/view/AKR20261127148900054",
+      "pubDate": "Sat, 28 Nov 2026 10:04:00 +0900"
+    },
     {
       "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
       "link": "https://www.yna.co.kr/view/AKR20261127118000056",
@@ -122,36 +152,6 @@
       "title": "인터넷은행 3사, 3분기 중·저신용자 대출비중 목표치 30% 넘겨",
       "link": "https://www.yna.co.kr/view/AKR20261127149500002",
       "pubDate": "Fri, 27 Nov 2026 17:43:48 +0900"
-    },
-    {
-      "title": "서울시, 세계스마트시티기구 의장 연임…3년 더 도시협력 이끈다",
-      "link": "https://www.yna.co.kr/view/AKR20261127145400371",
-      "pubDate": "Fri, 27 Nov 2026 17:29:48 +0900"
-    },
-    {
-      "title": "[게시판] 무역구제제도 논문발표대회서 우수 논문 5편 시상",
-      "link": "https://www.yna.co.kr/view/AKR20261127143900003",
-      "pubDate": "Fri, 27 Nov 2026 17:28:49 +0900"
-    },
-    {
-      "title": "국힘 '10·15 대책' 취소소송 패소…法 \"시장 안정 더 중요\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261127099751004",
-      "pubDate": "Fri, 27 Nov 2026 17:24:59 +0900"
-    },
-    {
-      "title": "울산항만공사 사장 사표 수리…조만간 의원면직 처리",
-      "link": "https://www.yna.co.kr/view/AKR20261127141700051",
-      "pubDate": "Fri, 27 Nov 2026 17:13:45 +0900"
-    },
-    {
-      "title": "국고채 금리, 증시 강세에 중단기물 상승…초장기물은 하락(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20261127135151008",
-      "pubDate": "Fri, 27 Nov 2026 17:06:23 +0900"
-    },
-    {
-      "title": "iM금융지주, 차기 회장 후보군 황병우 등 3명으로 압축",
-      "link": "https://www.yna.co.kr/view/AKR20261127136500053",
-      "pubDate": "Fri, 27 Nov 2026 16:49:22 +0900"
     }
   ]
 }
