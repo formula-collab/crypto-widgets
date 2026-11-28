@@ -1,8 +1,28 @@
 {
   "source": "Yonhap News RSS (Economy)",
   "rss_url": "https://www.yna.co.kr/rss/economy.xml",
-  "updated_at_unix": 1795853447,
+  "updated_at_unix": 1795885261,
   "items": [
+    {
+      "title": "판교신도시 개발 추진한 김윤기 전 건교부 장관 별세",
+      "link": "https://www.yna.co.kr/view/AKR20261128046500505",
+      "pubDate": "Sat, 28 Nov 2026 18:46:07 +0900"
+    },
+    {
+      "title": "상파울루 국제관계국장 \"기술, 고립 아닌 연결·성장 위한 도구\"",
+      "link": "https://www.yna.co.kr/view/AKR20261128043800371",
+      "pubDate": "Sat, 28 Nov 2026 18:08:05 +0900"
+    },
+    {
+      "title": "韓총리, 삼전·하이닉스에 \"채용 많이 해달라\"…청년간담회도",
+      "link": "https://www.yna.co.kr/view/AKR20261128043500001",
+      "pubDate": "Sat, 28 Nov 2026 17:37:33 +0900"
+    },
+    {
+      "title": "분당 재건축 선도지구 8곳 \"재초환 조속 폐지\" 공동성명",
+      "link": "https://www.yna.co.kr/view/AKR20261128042900003",
+      "pubDate": "Sat, 28 Nov 2026 17:34:23 +0900"
+    },
     {
       "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
       "link": "https://www.yna.co.kr/view/AKR20261127140100003",
@@ -132,26 +152,6 @@
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
       "link": "https://www.yna.co.kr/view/AKR20261127144700011",
       "pubDate": "Fri, 27 Nov 2026 18:00:00 +0900"
-    },
-    {
-      "title": "무신사, 3분기 누적 수출액 작년比 4.9배로 급증…역대 최대",
-      "link": "https://www.yna.co.kr/view/AKR20261127145100030",
-      "pubDate": "Fri, 27 Nov 2026 17:53:04 +0900"
-    },
-    {
-      "title": "나주 육용오리 농장서 고병원성 AI 확진…이달 들어 11번째",
-      "link": "https://www.yna.co.kr/view/AKR20261127152300030",
-      "pubDate": "Fri, 27 Nov 2026 17:49:19 +0900"
-    },
-    {
-      "title": "순천서 전남광주경영자포럼 개최…\"성장 기반 마련\"",
-      "link": "https://www.yna.co.kr/view/AKR20261127151200054",
-      "pubDate": "Fri, 27 Nov 2026 17:48:57 +0900"
-    },
-    {
-      "title": "인터넷은행 3사, 3분기 중·저신용자 대출비중 목표치 30% 넘겨",
-      "link": "https://www.yna.co.kr/view/AKR20261127149500002",
-      "pubDate": "Fri, 27 Nov 2026 17:43:48 +0900"
     }
   ]
 }
